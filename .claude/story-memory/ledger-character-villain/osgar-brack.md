@@ -3,7 +3,7 @@
 **Governing Canon Parts:** Parts 3, 4, 5, 6 (Area 12), 7, 8, 16, 17, 18 (Area 6 — The Villain Ledger; Rule 18.6.3.3), 20, 21, 22, 23, 26, 27, 28 (Area 20 — Entity Naming Law), 29, 31, 37 (Area 2.2 — Villain Ledger template; Threshold C-2), 39, 43
 **Ledger Type:** Villain — tier unmapped (Part 18 Rule 18.6.3.3) — arc type `OPEN-AUTHOR`
 **First Area Appearance:** Not yet established — to be defined in prose
-**Last Updated:** 2026-10-08
+**Last Updated:** 2026-10-18
 **Ledger Version:** v1.0 — **LIGHTER FILE (author ruling of 2026-10-08)**
 
 > **LIGHTER FILE, BY THE AUTHOR'S RULING (2026-10-08).** King Osgar Brack is classified a villain by the author's explicit designation (Part 37 Threshold C-2; Part 18), so no classification question is owed. His file holds **only what the plan gives of him,** and no more: he is the king of Brackenhold, crowned three years ago, ambitious and expansionist, **spoken of by the raiders and never shown** (Chapter Spec 1.1.1.003, Settled). He is off the page as a person. **A spec is a planning input and not canon (Part 38 Rule 1.3.2): nothing in this file says that any scene has been written.**
@@ -119,7 +119,7 @@
 
 ## Section 7 — Relationships, Subordinates, and Faction Web (B/L)
 
-**Current subordinate structure:** no lieutenant of his is named. The plan's raiders, the Redhaft Vanguard (`ledger-people-society-faction/redhaft-vanguard.md`), whose raid leader is Wulfric Rask (`ledger-character-side/wulfric-rask.md`), act on an aim they attribute to him; **the chain between the king and them is `OPEN-AUTHOR`.**
+**Current subordinate structure:** no lieutenant of his is named. The plan's raiders, the Redhaft Vanguard (`ledger-people-society-faction/redhaft-vanguard.md`), whose raid leader is Wulfric Rask (`ledger-character-villain/wulfric-rask.md`, a Tier B villain who leads the whole Vanguard and **answers to the king directly**, the author's ruling of 2026-10-18), act on an aim they attribute to him; **the structure beneath Rask is `OPEN-AUTHOR`.** Structure only: no meeting, voice or order of the king is registered, and he stays off the page as a person this Section.
 **Faction web:** the crown of Brackenhold, which he holds. Every other support, service, fear or opposition is `OPEN-AREA`.
 **Affiliation map (Part 23 AFF scale):** `OPEN-AREA`
 **Betrayal history:** none established.
@@ -267,3 +267,4 @@ Entries arise from the story (Part 39 Rule 39.18.1.2); none exists.
 ---
 
 **Changelog:** Created 2026-10-08: lighter villain file at the author's ruling and explicit designation (Threshold C-2); holds only what the plan gives of him; tier UNMAPPED; the full Area 2.2 registration is owed when he appears (Part 18 Rule 18.6.3.3).
+**Changelog:** Updated 2026-10-18: Section 7 (Current subordinate structure) carries the author's ruling of the same day that Wulfric Rask, now a Tier B villain whose file is `ledger-character-villain/wulfric-rask.md`, leads the whole Redhaft Vanguard and answers to the king directly; the pointer path was updated and the open chain is now the structure beneath Rask. Nothing else changed; he stays a lighter file with his tier UNMAPPED.

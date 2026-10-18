@@ -5,7 +5,7 @@
 **Part 13 Classification:** OPEN-AREA — the class is set when a scene first needs it. **MAJOR entity per Part 28 Area 20.4(e)** — author-chosen name, `consulted` 2026-10-18 (map consultation)
 **First Area Appearance:** Not yet established — not yet on the page
 **Last Updated:** 2026-10-18
-**Ledger Version:** v1.0
+**Ledger Version:** v1.1
 
 > **Depth standard: Proportionality Exception.** Made at the author's ruling of 2026-10-18 (map consultation), before any Area names or shows the city. Sections 1 to 3 carry only what the author ruled, in the author's words where words were given; every other field reads OPEN-AREA or not yet established. **Nothing is inferred.** The city is not on the page.
 
@@ -64,6 +64,7 @@
 | Area Reference | Event Summary | Parts Triggered | Sections Updated |
 |---|---|---|---|
 | Author ruling, 2026-10-18 (map consultation) | The Gale capital city is named and placed by the author: **Highgale**, "the high city of the Gale", on the Aerie Plateau floor, about 12 km east-south-east of the Aerie Palace (DIST-011, SKETCH; the name `[ASKED]`). File made at the ruling, before any Area shows the city; it is not yet on the page. | Parts 13, 25, 28, 37 | Header; Sections 1 to 5 |
+| Author ruling, 2026-10-18 (Chapter Spec 1.1.1.005 audit round) | The city takes no Collective Behavior Code: the Code Status, which read "Not yet registered", now reads "None, by the author's ruling", as relayed by the orchestrating command. No provision is registered and none is coined. | Parts 37, 39 | Header; Section 4; Collective Behavior Code |
 
 ---
 
@@ -93,8 +94,10 @@
 
 ## Collective Behavior Code (Part 39 Layer L19) (B/L)
 
-**Code Status:** Not yet registered
+**Code Status:** None, by the author's ruling (2026-10-18; Chapter Spec 1.1.1.005 audit round, relayed by the orchestrating command). No provision is registered for the city and none is coined. The reason on the Chapter Spec's record is the planner's note and not a word of the author's: no scene stands in the city.
 
 ---
 
 **Changelog:** Created 2026-10-18 at the author's ruling (map consultation): the name Highgale and its place, from the author's words only; every other field reads not established or OPEN-AREA.
+
+**Changelog:** Updated 2026-10-18 on the author's ruling (Chapter Spec 1.1.1.005 audit round): the Collective Behavior Code block's Code Status changed from "Not yet registered" to "None, by the author's ruling"; Section 4 gained a row; the header version moved to v1.1. No other field changed.

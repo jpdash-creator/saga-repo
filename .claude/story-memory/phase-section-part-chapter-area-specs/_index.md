@@ -87,13 +87,13 @@ the date of the write, Coverage `0/6 Areas`.
 
 | Spec File | Ref | Status | Spec Ver | Last Updated | Coverage |
 |---|---|---|---|---|---|
-| phase-1/section-1/section-1-spec.md | 1.1 | CONFIRMED | v1.3 | 2026-10-18 | 0/4 Novel-Parts; 4/31 Chapters |
+| phase-1/section-1/section-1-spec.md | 1.1 | CONFIRMED | v1.5 | 2026-10-18 | 0/4 Novel-Parts; 4/31 Chapters |
 
 ### Novel-Part Specs
 
 | Spec File | Ref | Status | Spec Ver | Last Updated | Coverage |
 |---|---|---|---|---|---|
-| phase-1/section-1/part-1/part-1-spec.md | 1.1.1 | CONFIRMED | v1.5 | 2026-10-18 | 4/9 Chapters |
+| phase-1/section-1/part-1/part-1-spec.md | 1.1.1 | CONFIRMED | v1.7 | 2026-10-18 | 4/9 Chapters |
 
 ### Chapter Specs
 
@@ -103,3 +103,4 @@ the date of the write, Coverage `0/6 Areas`.
 | phase-1/section-1/part-1/chapter-002-spec.md | 1.1.1.002 | COMPLETED | v1.1 | 2026-10-17 | 5 of 5 Areas written |
 | phase-1/section-1/part-1/chapter-003-spec.md | 1.1.1.003 | COMPLETED | v1.2 | 2026-10-17 | 6/6 Areas |
 | phase-1/section-1/part-1/chapter-004-spec.md | 1.1.1.004 | COMPLETED | v1.0 | 2026-10-18 | 6/6 Areas |
+| phase-1/section-1/part-1/chapter-005-spec.md | 1.1.1.005 | CONFIRMED | v1.0 | 2026-10-18 | 0/6 Areas |

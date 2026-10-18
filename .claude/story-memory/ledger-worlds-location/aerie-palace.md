@@ -4,7 +4,7 @@
 **Location Tier (Part 13 Area 2.1):** Sub-World — Royal Seat (within Gale Kingdom, Aerie Plateau)
 **First Area Appearance:** Not yet established -- to be defined in prose
 **Last Updated:** 2026-10-18
-**Ledger Version:** v1.1
+**Ledger Version:** v1.2
 
 ---
 
@@ -57,6 +57,7 @@
 |---|---|---|---|
 | 1.1.1.001.02 — What the Wire Brought Down | The Aerie Palace is not on the page. The residence line of Section 3 is corrected from the plan baseline: Prince Aegon's home is the Aerie Palace, and for the school term he lodges in Azorion as a guest of the house at the Azure Sky Palace (the Chapter Spec's settled answer, first shown in a wired notice from King Aeries). | Parts 28, 38 | Header (Last Updated); Section 3; Section 4 |
 | Author ruling, 2026-10-18 (map consultation) | The capital city on the plateau floor below the palace is named Highgale by the author (`[ASKED]`), about 12 km east-south-east of the palace (DIST-011, SKETCH); the name OPEN-AUTHOR in §5.1 and the "Gale capital" descriptor in Section 2 are replaced. Not yet on the page. | Parts 13, 25, 28 | Header; Section 2; Sections 4 and 5.1 |
+| Author ruling, 2026-10-18 (Chapter Spec 1.1.1.005 audit round) | The Aerie Palace takes a short location-form Collective Behavior Code, THE OPEN EDGE, confirmed by the author in chat and relayed by the orchestrating command: two provisions, NO WALL AND NO WAITING ROOM and SAID STANDING, IN THE OPEN, each built from facts this ledger already holds. Registered before drafting (Part 39 Rule 39.23.1.5); the palace is not yet on the page. | Parts 13, 37, 39 | Header; Section 4; Collective Behavior Code |
 
 ---
 
@@ -81,3 +82,30 @@ The Aerie Palace stands on the western rise of the Aerie Plateau, where the high
 The first thing a visitor meets is sound. The wind does not stop, and the palace is built so that it does not stop indoors: it whistles and hums through wind-apertures cut into the halls, a low steady note under a thin high one, so that no room is ever silent. The colors are storm-grey stone, wind-silver metal on lintels and banners, and dragon-green cloth, with a green lichen where the stone stays wet. The air is cold, thin and clean, with a mineral smell from the scoured rock and, when the wind comes off the plateau, the scent of storm-tempered herbs drying in the markets below. Banners and kite-tails crack. The one silence is the Silent Vigil, kept after a sovereign's death or a great national loss, when the bells are stilled and only the natural wind is allowed to carry sound. A cultivator who is not of the wind feels the Class 5 air as a faint wrongness, like standing with the back to an open door.
 
 [Further lore subsections to be populated as prose evidence accumulates — interior chambers, governance spaces]
+
+---
+
+## Collective Behavior Code (Part 39 Layer L19) (B/L)
+
+*(Part 37 Area 2.4 Collective Behavior Code addendum, location form; block schema per Part 39 Area 41.4; governing rules 39.23.1.1 through 39.23.1.5. **Registered 2026-10-18, before drafting,** because Chapter Spec 1.1.1.005 puts two or more named people together at the Aerie Palace in its Areas 03 to 06 and this file held no block (the Gale ruling-state code binds both sovereigns and expressly declines to author the palace's own, `ledger-people-society-faction/gale-kingdom-state.md`; Rule 39.23.1.5). **The two provisions are the author's:** on 2026-10-18 the author ruled that the Aerie Palace takes a short code and then confirmed THE OPEN EDGE, in chat, as relayed by the orchestrating command; each provision is built only from facts this ledger already holds and cites them. Provenance: `[ASKED]` marks a provision the author confirmed; `OPEN-AREA` marks a field left open on purpose, and nothing is coined to fill one (Part 28 Area 20). No comparison to, contrast with or derivation from any other place's or group's code appears in this block.)*
+
+**Code Status:** **Registered 2026-10-18** *(pre-draft registration, Part 39 Rule 39.23.1.5; author-confirmed)*. Code: THE OPEN EDGE. Location form, one block for the palace as this file describes it. The Wind Crossing, the Witness Ring and Aerion's Landing Stone are landmarks described in Section 5.2 of this file, and none takes a block of its own.
+**Members currently bound:** anyone standing in the place, member or not (Part 37 Area 2.4 addendum). The characters this ledger places at the palace are King Aeries and Queen Aalia (both resident) and Prince Aegon (whose home it is, Section 3); each is bound to the Gale ruling-state code while here (`ledger-people-society-faction/gale-kingdom-state.md`). **No Part 39 dimension line in any character file is added, removed or altered by this block, and no `L19-PLACE` line is registered by it.**
+
+**Shared conduct, greeting and deference ritual, in-group markers, conduct toward outsiders, conduct when the group is criticized, induction conduct, enforcement:** carried by the Gale ruling-state code (`gale-kingdom-state.md`, Collective Behavior Code) and not restated here; this block adds no member-conduct provision.
+
+**For locations only — conduct the place imposes:**
+
+- **NO WALL AND NO WAITING ROOM.** `[ASKED]` The palace has no wall and no waiting room. *(Basis, from this ledger only: Sections 1 and 5.1, the palace has no walls, its edge is set by the wind-cultivation wards, the height of the stone and the sworn Dragon-lineage cultivators who garrison it, and anyone who can fly may come in over the stone and land on its terraces; `ledger-character-hero/aeries.md` `B39-L13-DOWN-99`, "a palace with no walls has a king with no barrier". No gate, door, keeper or anteroom is set by this ledger and none is coined here.)*
+- **SAID STANDING, IN THE OPEN.** `[ASKED]` A sentence is said standing, in the open, and the record is the people who heard it. *(Basis, from this ledger only: Section 5.2, "In Gale the important sentence is said in the open, and the record is the people who heard it", with the Wind Crossing, where each sovereign swears the Sovereign Ascension Oath and an offensive war is declared in public, and the Witness Ring, which has no roof and no wall; and the Gale ruling-state code's element SPOKEN INTO THE WIND (`gale-kingdom-state.md`): a promise is made standing, outdoors, before witnesses, and the witnesses are named aloud.)*
+- **What is forbidden here by custom rather than by rule:** `OPEN-AREA` — none is set, and none is coined.
+
+**Registered deviations by member:** none registered at this place. The members' seams against the Gale ruling-state code stand in their own Section 11.5 and are cited there, not re-registered here. King Aeries's place line `B39-L19-PLACE-02` (Aerion's Landing Stone and its precinct, `aeries.md` Section 11.1) is cited and not re-registered; where the Landing Stone lies against the palace precinct is `OPEN-AREA` (Section 5.2).
+
+*The group-scene test (Rule 39.23.1.3): where three or more people stand together at the palace, the place's conduct shows before any person's departure from it.*
+
+*[L — updated when membership, leadership or circumstance changes the code.]*
+
+---
+
+**Changelog:** Updated 2026-10-18 on the author's confirmation (Chapter Spec 1.1.1.005 audit round, relayed by the orchestrating command): the Collective Behavior Code block added and registered (THE OPEN EDGE, two provisions; Code Status Registered 2026-10-18); Section 4 gained a row; the header version moved to v1.2. No Baseline field of Sections 1 to 3 or 5 changed.

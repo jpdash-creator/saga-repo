@@ -1,0 +1,571 @@
+# WULFRIC RASK — Villain Ledger
+
+**Governing Canon Parts:** Parts 3, 4, 5, 6 (Area 12), 7, 8, 16, 18 (Area 6 — The Villain Ledger; Rules 18.6.3.1 to 18.6.3.5), 19 (Area 1.2 — the Tier B depth of record), 20, 22, 23, 25, 26, 27, 28 (Area 20 — Entity Naming Law), 29 (Area 4 — Character Voice Architecture, §4.3.3 Side Character Voice and §4.4 Prosodic Voice Law), 31, 37 (Area 2.2 — Villain Ledger template; Thresholds C-1 and C-2), 39, 42 (Manual and Weapon Style Law), 43
+**Ledger Type:** Villain — Tier B (Part 18 Area 6.3; mapped by the author on 2026-10-18) — arc type `OPEN-AUTHOR`
+**First Area Appearance:** Chapter 003 — The Lone Banner (Ref: 1.1.1.003)
+**Last Updated:** 2026-10-18
+**Ledger Version:** v2.1 — **Tier B villain; P39 PARTIAL (Tier B interview held 2026-10-18; Manual Ledger rows written and `B39-L36-SUBOPT-08` set open by the author's word, the same day)**
+
+> **FILED AS A TIER B VILLAIN, MOVED AND REGISTERED, 2026-10-18 (the author's rulings, relayed by the orchestrating command from the author's chat; Part 18 Rule 18.6.3.3; Part 37 Threshold C-2; Part 39 Rule 39.45.1.4).** The author mapped Wulfric Rask a **Tier B villain** of Brackenhold: he leads the whole Redhaft Vanguard and answers to King Osgar Brack directly, and no rank, rung or honorific of Brackenhold is set or coined (Part 28 Area 20). He is a **viewpoint holder from Chapter 005 Area 2.** This file stood as a Side Character Tier B file (`ledger-character-side/wulfric-rask.md`) from 2026-10-08; it moved here with every value kept, and the side index keeps a pointer row and no second record (Part 37: one entity, one canonical file). The author held the **Tier B interview** the same day. The twelve Signatures with their Layer L34 origins, the immutable core, the two contradiction pairs (in his own words), the costly behavior and the kill state are his answers (`[ASKED]`), as are his age, soul talent, affinity, ideology, moral orientation, polarity, stability, PIS level and wounds and the replacement of the Voice Register scope. He reviewed the derived digest and accepted its recommended values for the other Layers (`[DERIVED]`, reviewed, and flagged only where a line says so). He left three things open: the Part 18 psychological archetype, the arc, and the narrative function (`OPEN-AUTHOR`). A later word of the same day set a fourth open, the Sub-Optimal Tendency `B39-L36-SUBOPT-08` (`OPEN-AUTHOR`; Section 11.3). **Standing bar:** no interior material about the king is registered or may be invented (no meeting, voice, order, doubt, memory or question of his); the king stays off the page as a person this Section; Section 4 holds Rask's stance toward the king's word and nothing more. A drafting agent who needs more stops and says so, and the author rules.
+
+> **HISTORY (kept; superseded where the paragraph above says so).** *Pre-draft registration, 2026-10-08 (Part 39 Rule 39.4.3.1, Route 1):* this file was made before any prose showed him, at the author's instruction, so that he could be drafted into the Areas of Chapter Spec 1.1.1.003 that plan him. **"Plan baseline" in this file means a value the author confirmed in that Chapter Spec on 2026-10-08.** A spec is a planning input and not canon (Part 38 Rule 1.3.2): it settles what a registration holds and records no event. *Updated at the Gate 2 of Chapter 003 — The Lone Banner (Ref: 1.1.1.003), 2026-10-17:* the Chapter shows him in Area blocks 02 and 03, seen from outside (through Hadric Stoll's viewpoint and through Captain Tregear's); the page's facts were written into Sections 1, 2, 3, 7, 9, 11, 12 and 13, and the Section 10 row sets them out. The page names him "Rask" and never "Wulfric".
+
+---
+
+## Section 1 — Villain Identity Baseline (B)
+
+**Full Name:** Wulfric Rask *(name proposed by the planner and accepted by the author as an anchor on 2026-10-08; a MINOR name; the naming scan of 2026-10-08 found no hit — Chapter Spec 1.1.1.003, Names note.)*
+**Aliases / Titles / Epithets:** Raid leader of the Redhaft Vanguard, which by the author's ruling of 2026-10-18 he leads as a whole. **"Raid leader" is a role descriptor and not a rank title:** no rank, rung or honorific of Brackenhold is set, and none may be coined (Part 28 Area 20; `OPEN-AUTHOR`). The page's words for him are "Rask" and, from the patrol's side, "the man with the lifted hand".
+**Name Provenance (Part 28):** Planner-proposed, author-accepted 2026-10-08. MINOR (Tier B). Naming checks of Part 28 Area 20.3 steps 1, 2, 5 and 6 run 2026-10-08 against the `.claude` tree and the written Chapters: no hit.
+**Arc type classification (Part 18 Area 5.1):** `OPEN-AUTHOR`
+**Current canonical status:** Active — alive and whole as far as the page shows (Chapter 003, Ref: 1.1.1.003). The Part 18 status word (Active Threat, Contained, Defeated, Converted, Deceased) is `OPEN-AUTHOR`.
+**Home civilization and location:** Brackenhold, a kingdom of the Nine Suns Continent (`ledger-worlds-kingdom-state/brackenhold.md`).
+**Arc phase (Part 18 Area 5.2):** `OPEN-AUTHOR`
+**Age at Story Start:** **Forty-one** `[ASKED]` *(the author's ruling of 2026-10-18; age band `B39-L30-BAND-05`, established adult, at Section 11.1)*
+**Gender:** Male (he/him) `[ASKED]` — set by the author, in chat during the Chapter Spec build for Chapter 003 and relayed on 2026-10-17 (settled in that Chapter Spec's Audit and Settlement Notes, "Rask's pronoun"); the written Chapter uses he/him for him. (Until then the field read OPEN-AUTHOR, and nothing was inferred from the name.)
+**Species:** Human `[DERIVED]` *(no non-baseline substrate is planned; Chapter Spec 1.1.1.003 plans no non-human person and bars sentient monsters, Law P30-L9)*
+**Cultural Origin (CPT per Part 25):** Brackenhold, a rival kingdom of the Nine Suns Continent (named by the author 2026-10-08; its kingdom-state entry is `ledger-worlds-kingdom-state/brackenhold.md`, made at the Gate 2 of Chapter 003). CPT: OPEN-AREA.
+**Physical Description:** As the page shows him (Chapter 003 — The Lone Banner (Ref: 1.1.1.003), Area blocks 02 and 03): a man who stands still among the trees with his qi drawn in to nothing ("he stood as the trees stood"), and who walks when no one else on the road walks; he carries a halberd, holds it upright in both hands, strikes its butt on the ruts, leans on it for a count of three after the stroke, and leaves last with "the haft for a staff"; his right hand rises to the height of his shoulder and comes down once as his sign. His face, hair, build, height and dress are not given (OPEN-AREA); his age is forty-one (above). *(Plan baseline, from the Redhaft Vanguard's registered code: plain clothes, no colour, nothing on him that names a kingdom.)*
+**Voice Register (per Part 29):** **REGISTERED — set by the author's ruling of 2026-10-18 (Tier B interview), replacing the Tier B scope derived on 2026-10-08.** Schema is **Part 37 Area 2.1**. Part 29 §4.3.3 gives Tier B one sentence: *"Tier B side characters have a consistent voice within their limited scope."* The Tier A entitlement (a voice as distinct and governed as a hero's) is not claimed and may not be read out of this field.
+- **Register (the author's words):** his speech is **assertive and command-oriented, flowing speech and not abrupt** `[ASKED]`. *Was (2026-10-08, `[DERIVED]` from one planned line and flagged for author confirmation):* the scope "counts and orders given to his own squad leaders and line on a raid", with PSM-9 (figures first) and PSM-5 (bluntness). The ruling departs from that scope; the change is logged at Section 12 (Part 29 Rule 29.4.1.2).
+- **His thought is under the same register** (the author's ruling): he is a viewpoint holder from Chapter 005 Area 2, and what governs how he speaks governs how his thoughts run. The thought is not a second voice. What his mind is like is set at Layer L07 (Section 11.1) and is not restated here.
+- **Contractions and the em dash are barred in every line of his, speech and thought alike** (Rules 29.2.1.1b and 29.2.1.1c, as amended by the Canon Amendment of 2026-10-16, which bars contractions in dialogue as well as narration). The cast-wide Flowing Dialogue Standard (Rules 29.2.1.7 and 29.2.1.7a: full connected sentences, no chain of clipped fragments) already applies to him, and the author's word "flowing" agrees with it. **Epigram budget: none**, the default for a soldier (Rule 29.4.4.3); the author has not ruled otherwise.
+**Prosodic Signatures (Rule 29.4.4.1):** two determinants of the Prosodic Signature Menu. They are the recorder's reading of the author's words of 2026-10-18, `[DERIVED]` from them and **flagged for the author's confirmation** (the mapping of the words to menu items is the recorder's, not the author's):
+1. **PSM-1 — sentence-length distribution: characteristically rolling.** The author's word: flowing, not abrupt. Full connected sentences that run on from clause to clause; a clipped fragment is not his shape.
+2. **PSM-5 — bluntness.** The author's words: assertive and command-oriented. He commits; an order of his carries no hedge and no softening qualifier.
+- **No longer registered as determinants (2026-10-18):** PSM-9 (figures first) and the 2026-10-08 reading of PSM-5 as "no qualifier and no reason", both `[DERIVED]` on 2026-10-08 from the one planned line, *Eight. Hold the head, take the third wagon.* The trait "no reason given" is conduct and not prosody, and it stays in the Signature `B39-L15-ORDER-99` (Section 11.2). If the author wants figures-first kept, it is restored by a new Section 12 entry.
+- **As written (Chapter 003, Ref: 1.1.1.003).** The page gives him two spoken lines, both in connected sentences, the first to his own company and the second in the open road within hearing of the patrol and of his own line: "Eight are coming down the road behind us at a run. Hold the front wagons where they stand, and take the third wagon before the runners reach it." (Area block 02, "low and carrying, the first voice of the company to rise above a whisper since the horn") and "Nine stand across the road, and the line will keep to the trees until I end it." (Area block 03, "not loud"). They stand as written and fit the register: each is a count and a command in full connected sentences with no hedge. The planned line above stays the plan's; the written lines are the page's. Nothing is registered or fixed by their wording.
+- **Not registered:** items 2, 3, 4, 7, 8 and 9 of the menu (the author's words set items 1 and 5 only). Item 6 reads none by the Rule 29.4.4.3 default.
+- **Holds that stand** (a drafting agent who needs one stops and says so; Check #21, detection class D-2): no address form, rank word or honorific of Brackenhold is coined for him or in his mouth (Part 28 Area 20); nothing of his about the king is registered beyond the stance at Section 4; and no parley or negotiation with terms is registered (Layer L12 is open).
+- **Part 39 boundary (Rule 39.2.3.1):** no prosodic determinant is restated at Section 11, and no Section 11 conduct is restated here.
+
+*[B — except the Voice Register and its Prosodic Signatures, which are B/L: they are edited only from a logged Section 12 entry (Part 29 Rule 29.4.1.2)]*
+
+---
+
+## Section 2 — Cultivation and Technology Classification (B/L)
+
+**Cultivation Realm (Part 3):** **Warrior Level 9 Peak** — plan baseline, supplied by the author's instruction of 2026-10-08 (Mortal Tier 2). *Warrior is the second of the five Mortal Tier 2 realms — Senior → Warrior → Champion → Ruler → Monarch (Part 3 Area 1.2.2); Level 9 Peak is the last of the realm's 36 steps, one step below Champion Level 1 Low.*
+> *Shown on the page (Part 29 Rule 29.12.1.3): Chapter 003 — The Lone Banner (Ref: 1.1.1.003), Area block 02, in Hadric Stoll's viewpoint: "Rask stood at the very top of the Warrior realm, ***Warrior Level 9 Peak***, a hair short of Champion, and the whole company knew the number and nobody said it." Area block 03, in Captain Tregear's reading: "a Warrior at the very top of the realm". The level is the one recorded above; the page agrees with the ledger.*
+**CC-Class (Part 16):** **CC-Class Stratum 2** — derived from the realm above via the Part 16 Area 2.1 classification table, which places the whole Mortal Tier 2 ladder in Stratum 2.
+**Technology Tier (Part 8):** OPEN-AREA. *(Part 8 fixes no per-character tier; the ceiling is the home civilization's, and the Brackenhold entry sets none.)*
+**Soul Talent (Part 4):** **Soul Sensitivity 3 — Keen** `[ASKED]` *(the author's ruling of 2026-10-18; Part 4 Area 2.4, Dimension 1: "Heightened soul awareness — perceives soul rungs of others naturally, senses soul damage and psychological states without technique use")*. Soul Depth and Soul-Physical Coherence (Dimensions 2 and 3): `OPEN-AUTHOR`.
+**Affinity Type(s) (Part 4):** **Earth, Whisper (Level 2)** `[ASKED]` *(the author's ruling of 2026-10-18. Part 4 Rule 1.7.5: at Level 2 an affinity shows as a single sensory habit and never as a technique; the Whisper cue for Earth is "Likes bare ground under the feet and feels how firm a floor or field is." Level 2 is inside the Mortal Tier 2 ceiling of Levels 1 to 3 (Part 4 Area 1.4), and a recorded level is a ceiling for now, as that Area says. It meets the affinity requirement A2 of the Signature manual `MAN-SIG-HAL-013` (Manual Ledger, `affinity_req`), which the 2026-10-08 registration had left unmet while the affinity was unrecorded.)*
+**Combat Level Advantage (Part 16 Rule 16.16.4.2):** OPEN-AUTHOR. *(The Chapter Spec's fight arithmetic counts him at +35 minor steps over Warrior Level 1 Low; that is the fight law's step count under Part 3 Area 7, not this field.)*
+**Cultivation Affinity % (CA):** OPEN-AUTHOR
+**Technology Affinity % (TA):** OPEN-AUTHOR
+**CS% (Part 31 Area 21):** OPEN-AUTHOR. *(Rule 21.14.1 forbids a value without a canonical basis; none exists.)*
+**TS% (Part 31 Area 21):** OPEN-AUTHOR. *(Same.)*
+**Villain classification lines (Part 18 Area 6.2):** soul rung, Heart level, integration model, military rank and institutional position, and weapon-user class: `OPEN-AUTHOR`. *(None is set; no Brackenhold rank or rung may be coined, Part 28 Area 20.)*
+
+> **Classification note.** The Cultivation Realm, the Soul Sensitivity and the Affinity are set. **Nothing further is inferred from them:** no Depth, Coherence, Technology, CA/TA or CS%/TS% figure is estimated anywhere in this file, and no realm vocabulary beyond the realm's own name is licensed by this field.
+
+*[L — Updated at every breakthrough, classification change, change of affinity or sovereignty, or CS%/TS%-triggering event]*
+
+---
+
+## Section 3 — Power and Capability Snapshot (B/L)
+
+**Signature Named Moves (Part 6):** none registered as a personal Signature. The page shows him using two moves of the Brackenhold Signature manual `MAN-SIG-HAL-013`; both are manual-borne, the Manual Ledger owns every value of each move, and this entry holds no move block for either (Part 42 Rule 42.12.4.3). ***Subjugating Hookback*** (`MV-SIG-HAL-013-04`, Intermediate) is used on Wil Harker in Area block 02 of Chapter 003 (Ref: 1.1.1.003): he "put the hook of his halberd behind the man's knee", "the hook closed, the knee went, and the guard's own speed threw him face down along the ruts". ***Axefall Decree*** (`MV-SIG-HAL-013-10`, Signature grade, a Cast form) is the one Cast stroke of Area block 03, and it costs him: "the axe edge came down across the road from the trees to the ditch in a single sweep"; afterwards he stands "his shoulders heaving", leans on the butt of the halberd "for a count of three" and leaves last with "the haft for a staff". Register rows: `ledger-named-moves/_index.md`, the rows for ***Subjugating Hookback*** and ***Axefall Decree*** (Part 6 Rule 6.5.2; first written in Chapter 003, Ref: 1.1.1.003), each pointing at the Manual Kit line below, and the Manual Kit line pointing at each row. *(`MV-SIG-HAL-013-10` is a School Move owned by the institution, Part 42 Rule 42.4.1.1, and is not a personal Signature of his; his Part 39 Signatures are at Section 11.2. The two names were renamed on 2026-10-08: old names Matched Stride Beak Trip and Whole Road Claiming Stroke.)*
+
+**Innate Moves (Part 6 Area 12) — REQUIRED SUBSECTION:**
+- (none registered — Species Human per Section 1)
+
+**Manual Kit (Part 42):** `MAN-SIG-HAL-013` (the Brackenhold Signature manual), reached through the kingdom row `BR-SIG-HAL-013` (institution cell `OPEN-AUTHOR vanguard`, channel ORG, RANKED access, RESTRICTED copy, local note "kept for the raid leader's rank"). **His Manual Ledger rows were written on 2026-10-18** on the author's confirmation in chat, relayed by the orchestrating command (Part 42 Rules 42.11.1.1, 42.11.4.1 and 42.11.8.1; until then none existed and no `char_id` was assigned, as checked at the Gate 2 of Chapter 003 on 2026-10-17 and at the move to this folder on 2026-10-18): `char_id` **`WLR`** in `ledger-manuals/characters.csv` (Tier B, Brackenhold, Warrior L9 Peak, effective realm the same, no seal, affinity Earth:Whisper, sovereignty none, primary weapon HAL) and one row in `ledger-manuals/character-kits.csv` (`MAN-SIG-HAL-013` via `BR-SIG-HAL-013`, source ORG:Redhaft Vanguard, learned via `L-2`, mastery Adept, `DERIVED`). The ledger supports the manual, the weapon, the realm, the affinity and the Vanguard's keeping of the text; **the `learned_via` and `mastery` cells are the checker's DERIVED fit and are flagged for the author's review** (Rule 42.11.4.1). The page shows him using two moves of this manual (above); their register rows are in `ledger-named-moves/_index.md`, the rows for ***Subjugating Hookback*** and ***Axefall Decree***. His affinity (Earth, Whisper, Level 2, Section 2) meets the manual's `affinity_req` A2. **States at Warrior (Rule 42.3.3.1, access group AG2; derived and never stored):** the Basic moves (`-01` to `-03`), the Intermediate moves (`-04` to `-06`) and the Signature move (`-10`) are Usable; the Advanced (`-07`, `-08`) and Elite (`-09`) moves are Latent, as the line below holds. **Eligibility (Rule 42.11.6.1; information only, Rule 42.10.9.1):** E1, E2, E4, E5, E6 (he leads the whole Vanguard, the raid leader's rank), E7 and E8 read as met; E3 reads the link code LINK-PRIOR as not met by the kit as written (the manual's cultivation requirement is MER-PART+LINK-PRIOR, the kit holds no earlier halberd manual, and the ledger supports none); the test limits no one who learns (anyone can learn, 2026-10-07). The Manual Ledger owns the values of every manual-borne move; this line is a pointer. Query: `manual_ledger_query.py kit WLR` and `usable WLR`; `validate` is to be run by the orchestrating command, since the checker has no shell.
+- **Latent: known and never shown** (Part 42 Rule 42.13.1.3; Chapter Spec 1.1.1.003 Standing Exclusions): `MV-SIG-HAL-013-07` and `-08` (Advanced) and `-09` (Elite). No Area shows any of the three executed.
+
+**Known Weapon Systems:** the halberd (axe edge, beak and spike; Manual Ledger weapon code `HAL`) — plan baseline, and the page shows him with one (upright in both hands, the butt struck on the ruts, the haft carried as a staff when he leaves; Chapter 003, Ref: 1.1.1.003). Named Weapon (Part 33): none.
+**Effective Combat Range:** OPEN-AREA
+**Key tactical capabilities and strategic tools:** `OPEN-AREA`
+**Faction and institutional power dimension summary:** he leads the whole Redhaft Vanguard (Section 7); its strength, ranks and base are `OPEN-AREA`.
+**Information and intelligence apparatus summary:** `OPEN-AREA`
+**Cultivation injuries, power limitations, or known vulnerabilities:** `OPEN-AREA`. *(The Cast stroke costs him on the page: the shoulders heave and the haft is leaned on for a count of three. That is a world cost recorded at Section 13.)*
+
+*[L — Updated at every significant power change or Named Move event]*
+
+---
+
+## Section 4 — Villain Ideology Profile (B/L)
+
+**Primary Ideology Category (Part 20):** **Loyalty-Bound Ideology (LBI)**, Category III `[ASKED]` *(the author's ruling of 2026-10-18: "LBI with OMI", the Core Belief below. The LBI variation of Part 20 Category III is not named: `OPEN-AUTHOR`)*
+**Secondary and Tertiary Category (compound profile; Part 20 Area 3.2):** **Order-Maintaining Ideology (OMI)**, Category VI, secondary `[ASKED]`; tertiary: none.
+**Moral Orientation:** **Communal** `[ASKED]` *(the group is primary; Part 20 Area 1.3)*
+**Polarity (Part 20 Area 2.3):** **Polarity-3 (Anchored)** `[ASKED]` — the ideology is held as fundamental; updating it requires significant narrative events (PIS-6 and above).
+**Ideology Stability State (IS-1 to IS-5, Part 20 Area 8.1):** **IS-1 (Secure)** `[ASKED]` — no event is shown.
+**Core Belief:** "The king's word is the whole of the order, and I carry it exactly." `[ASKED]` *(the author's words)*
+**Operational Belief:** "Count first; the order is bare; the sign starts it and the sign ends it; nothing is left on the road." `[ASKED]` *(the author's words)*
+**Surface Belief and Layer Coherence (Part 20 Area 3.2):** "The king's few words." `[ASKED]` *(the author's words: what he claims and shows publicly)*. Layer Coherence: not rated (`OPEN-AUTHOR`).
+**Active Contradictions (Part 20 Area 3.7):** `OPEN-AUTHOR`
+**Ideological Blindspots (Part 20 Area 3.6):** `OPEN-AUTHOR`
+
+> **Stance only (standing bar).** The Core and Surface beliefs are recorded as a stance toward the king's word and nothing more. They carry no hint, no foreshadowing and no explanation of any history between Rask and the king. Rask recalls no meeting or voice of the king; the king stays off the page as a person this Section; and no doubt, question, memory or interior reason about the king is registered or may be invented. A drafting agent who needs one stops and says so, and the author rules. *(The posture the author gave Brackenhold, aggressive and expansionist, belongs to the kingdom and to the king's file, `ledger-character-villain/osgar-brack.md`, and is not copied here as his belief; the Core Belief is the author's own and says nothing of expansion.)*
+
+**Ideology Event History (Part 20 Area 3.3):**
+| Event | Type | Impact | Result |
+|---|---|---|---|
+
+*[L — Updated at every IE-3+ event or IS-state change. This section is the character's Part 20 Ideology Ledger entry; no second document is kept.]*
+
+---
+
+## Section 5 — Villain Psychological Profile (B/L)
+
+**Psychological Archetype (Part 18 Area 3.2):** `OPEN-AUTHOR` — Armored, Consumed, Calcified, Fractured or Hollow, to be set from prose evidence (Part 18 Rule 18.6.3.3); the author left it open on 2026-10-18 (the digest's recommendation to set it from the prose, accepted). It will constrain, without determining, his L03, L08, L27 and L28 values (Standard N39-12), which are `[DERIVED]` and are coherence-checked when it is set. *Information:* each of the five archetypes of Part 18 Area 3.2 rests on a wound at PIS-5 or above, and the author's rulings below set PIS-1 and no wound, so the archetype cannot be read off today's fields; if the prose settles one, the PIS and wound fields below (the author's) would move.
+**PIS Level (Part 26):** **PIS-1 (Trivial Friction)** at story start `[ASKED]`; no tracked event. *(The author's field; Part 39 grades no PIS event.)*
+**Active Psychological Wounds:** **None established** `[ASKED]` *(the author's ruling of 2026-10-18)*
+**Primary coping mechanisms (Part 26):** `OPEN-AUTHOR`
+**Pre-combat psychological state modifier (Part 26 Area 10.2):** `OPEN-AUTHOR`
+**Psychological history and trajectory:** `OPEN-AUTHOR`. *(Backstory the author has given and no more: he has killed several times before the story starts, details unset, at Section 10.)*
+
+*[L — Updated at every PIS-4+ change or new wound event]*
+
+---
+
+## Section 6 — Villain Consequence Arc (B/L)
+
+**Active CSS Events (Part 27):** None established at story start
+**Consequence history (completed, active, outstanding):** none established
+**CSS Debt Summary:** None established
+**Accumulated Consequence Weight:** Baseline
+**Resolved Consequence Events:** none
+**Pending Consequence Cascades (Part 27 Delayed Consequence Rule):** none established
+**Consequence self-awareness level:** `OPEN-AUTHOR`
+**Outstanding consequence debts with specific named parties:** none established
+**Consequence vulnerability points:** `OPEN-AUTHOR`
+
+*[L — Updated after every CSS-3+ event, resolution, or new consequence arc opening]*
+
+---
+
+## Section 7 — Relationships, Subordinates, and Faction Web (B/L)
+
+**Current subordinate structure:** he leads the whole Redhaft Vanguard (the author's ruling of 2026-10-18). On the page of Chapter 003 squad leader Hadric Stoll (Tier C, a side villain) acts under his sign, and Leofwin Pellam (Tier D) leads the rear squad on his word. The structure beneath him is `OPEN-AUTHOR`; no rank or rung word of the Vanguard is set, and none may be coined (Part 28 Area 20).
+**Faction Affiliation (Part 22):** The Redhaft Vanguard of Brackenhold (`ledger-people-society-faction/redhaft-vanguard.md`) — **he leads the whole Vanguard** (the author's ruling of 2026-10-18; until then whether he led the whole Vanguard or one company of it was `OPEN-AUTHOR`).
+**Affiliation Bonds (Part 23):** **He answers to King Osgar Brack (`ledger-character-villain/osgar-brack.md`) directly** (the author's ruling of 2026-10-18). Structure only: no intermediate rank, rung or honorific stands between them, and none is coined (Part 28 Area 20); no oath, term of service or rite is set; **no meeting, voice or order of the king is recalled or registered, and the king stays off the page as a person this Section.** The page shows only that the company was told what the king wanted "in the king's own few words" (Chapter 003, Area block 02, Stoll's thought).
+**Faction web:** the Redhaft Vanguard, which he leads, and the crown of Brackenhold, which he serves. Every other support, service, fear or opposition is `OPEN-AREA`.
+**Affiliation map (Part 23 AFF scale):** `OPEN-AREA`
+**Betrayal history:** none established.
+**Allies:** none established.
+**Antagonists:** none established.
+**Hero-villain relationship status (Part 18 Area 11):** none. No hero knows of him, and the Azure Sky side does not learn his name or whose company the raiders were.
+
+**Who knows him (plan baseline, the author's instruction of 2026-10-08):** no Azure Sky character learns his name in Chapter Spec 1.1.1.003, and the Azure Sky side does not learn that the raiders were Brackenhold's; that learning is deferred past Novel-Part 1 by the author. The reader sees whose company it is from the raiders' side.
+**As written (Chapter 003 — The Lone Banner, Ref: 1.1.1.003):** the page agrees. In Area block 06 the Grand Marshal says only that the raiders' leader "stood at the very top of that realm, which the Captain read for herself", and no one names him. In Area block 02 the company takes his sign and not a word: his right hand rises to the height of his shoulder and comes down once, the first lift having sent the first six through the leaves to hold the front and the second sending the rest; his weight "came up against Stoll's back as a hand might be laid flat between the shoulder blades", and Hadric Stoll acts under it. In Area block 03 the same hand, raised to the height of his shoulder and kept there, ends the raid, and the company goes back through the trees on it.
+
+### Relational Address Standards (Part 29 Area 16) — not registered
+
+Brackenhold has no kingdom-state Relational Address System, and **no address form, honorific or rank word is coined for him or for what is said to him** (Part 28 Area 20; Part 29 Area 16). His two written lines carry no address term. **A drafting agent that needs one stops and says so.** The Azure Sky military register (`azure-sky-military.md` MA.1 to MA.14) is Azure Sky's and is not his.
+
+*[L — Updated at every significant relationship change or faction event]*
+
+---
+
+## Section 8 — Resources and Strategic Assets (B/L)
+
+**Named Relics (Part 12):** None yet established
+**Named Weapons (Part 33):** None yet established
+**Named Vehicles (Part 32):** None yet established
+**CPM Holdings (Part 11):** OPEN-AREA
+**Debts and Obligations (money):** none yet established
+**Territory control and spatial resources (Parts 13, 14):** `OPEN-AREA`
+**Technology assets (Parts 8, 32, 33):** `OPEN-AREA`
+**Intelligence assets (Part 24):** `OPEN-AREA`
+**Unique strategic assets not covered above:** `OPEN-AREA`
+
+*[L — Updated when resources are gained, lost, or significantly altered]*
+
+---
+
+## Section 9 — Villain Arc Status (B/L)
+
+**Villain Depth Tier (Part 18 Area 6.3):** **Tier B** — mapped by the author on 2026-10-18 (Part 18 Rule 18.6.3.3; Threshold C-2 answered). The tiers are depth of record and not power, danger or arc type.
+**Villain Arc Type (Part 18):** `OPEN-AUTHOR`
+**Villain Narrative Tier:** `OPEN-AUTHOR` *(Arc, Series, Faction or Thematic Villain; a different axis from the depth tier)*
+**Current arc phase (1–6):** `OPEN-AUTHOR`
+**Defeat type (Part 18 Rule 18.1.3.3):** `OPEN-AUTHOR`
+**Narrative Function (Part 19 function label):** `OPEN-AUTHOR` — left open by the author on 2026-10-18. *Role as the page shows it:* the commander of the raiders and the face of the raid on the lower road, seen from outside in Chapter 003 (through Hadric Stoll in Area block 02 and from the patrol's side in Area block 03); he is a **viewpoint holder from Chapter 005 Area 2** (the author's ruling of 2026-10-18), and the viewpoint Layers L02 and L07 are set (Section 11.1).
+**Agenda objectives:** the raid's aim as the page gives it: the company took the head chests of a mine's file on the lower road, and "King Osgar Brack wanted this one, and the mine at the top of it" (Chapter 003, Area block 02, Stoll's thought). **No scheme, plan or timeline of his own is set** (`OPEN-AUTHOR`).
+**Active plans and schemes in motion:** `OPEN-AUTHOR`
+**Known vulnerabilities the hero could exploit:** `OPEN-AUTHOR`
+**Arc Trajectory:** `OPEN-AUTHOR` — left open by the author on 2026-10-18.
+**Narrative role at current arc phase:** `OPEN-AUTHOR`
+**Status as of Chapter 003 (Ref: 1.1.1.003):** First on the page, in Area blocks 02 and 03, seen from outside. He stands among the trees with his qi drawn in to nothing and counts the file in with his lips shut; he sends the company by his sign, a right hand raised to the height of his shoulder and brought down once, twice. He takes Wil Harker with ***Subjugating Hookback*** as the guard runs toward the front and does not look at what he has done: a fighter of the rear squad ends the guard, and Rask kills no one by his own hand on the page. When the patrol's horn answers he counts the runners aloud ("Eight are coming down the road behind us at a run") and orders the front held and the third wagon taken. At the tree side of the third wagon he gathers by degrees while his line breaks the patrol's boards, strikes the halberd's butt on the ruts once so that the company draws back, walks into the open road and says "Nine stand across the road, and the line will keep to the trees until I end it", casts ***Axefall Decree*** across the road, leans on the halberd for a count of three, raises his right hand and keeps it raised; the company goes back through the trees on that sign with the two head chests, and he goes last. The arc trajectory stays OPEN-AUTHOR and no change of standing is shown.
+**Last On-Page Pressure (Part 18 Area 6.2):** Chapter 003 (Ref: 1.1.1.003) — act (the raid on the lower road; report only)
+**Merged or Per-Wing Phases:** none
+**Survival Status:** Active
+
+> **Classification (Part 37 Threshold C-2; Part 18) — RESOLVED 2026-10-18.** *History:* the author's ruling relayed on 2026-10-08 treated him as an antagonist-side side villain while this file stood as a Side Character Tier B file, and where his record lived was flagged and not decided (Part 18 Rule 18.6.3.2 maps a side villain to Tier C or Tier D only, and no agent names a villain tier, Rule 18.6.3.3). *Resolved:* on 2026-10-18 the author mapped him a **Tier B villain**, and this file is his one canonical record in `ledger-character-villain/`; the side index keeps a pointer row only, and its pending placement row is cleared.
+
+*[L — Updated at every arc phase transition or status change]*
+
+---
+
+## Section 10 — Canon Events Log (L)
+
+| Area Reference | Event Summary | Parts Triggered | Sections Updated |
+|---|---|---|---|
+| 1.1.1.003 — The Lone Banner | **First on-page appearance; a whole-built Chapter, written as one reference.** Classification: a raid on the lower road, seen from outside; no IE, PIS or CSS event, no cultivation milestone and no drift. Viewpoint: Hadric Stoll (Area block 02) and Elowen Tregear (Area block 03); the page names him "Rask" and he is "he" throughout. Date: Year 1246, Ulenor, Nuvil, Day 8 (date line *Year 1246, Ulenor, Nuvil, Day 8*, `1246.12.8 / PD -19`, a dated flashback printed once at the start of Area block 01); blocks 02 and 03 fall at dusk of that day. **Area block 02:** "there had been no Rask at all, only a place in the dark; he stood as the trees stood, his qi drawn in to nothing, and Stoll's sense had passed over that place twice and found only forest"; he has counted the file in with his lips shut; his right hand has gone up and come down once and sent the first six through the leaves, and rises again to the height of his shoulder and comes down once, his weight coming up against Stoll's back "as a hand might be laid flat between the shoulder blades"; Stoll sees him as ***Warrior Level 9 Peak***, "a hair short of Champion", and "the whole company knew the number and nobody said it". No word starts the company. He is "walking. It was the only walking on that road": he falls into Wil Harker's stride for three paces and puts the hook of his halberd behind the man's knee (***Subjugating Hookback***), and does not look at what he has done; a fighter of the rear squad ends the guard with one plain blow, in silence. When the patrol's horn answers he counts the runners aloud and orders the front held and the third wagon taken ("Eight are coming down the road behind us at a run. Hold the front wagons where they stand, and take the third wagon before the runners reach it."). **Area block 03:** Captain Tregear sees "a shape she had taken for a stump in the frost" at the tree side of the third wagon, a man with a halberd upright in both hands who raises it by degrees as his line breaks the patrol's boards, the frost lifting off the ruts round his boots and the pressure behind him growing as the haft rises; the butt strikes the ruts once, the company draws back with no word, and he walks into the open middle of the road and says, not loud, "Nine stand across the road, and the line will keep to the trees until I end it"; she feels "a Warrior at the very top of the realm, the air ahead gone so dense that her own qi slowed to a crawl". The lamp flames lean toward him and he casts ***Axefall Decree*** across the road: the frost peels off the ruts in one skin, a weight comes down on the row the whole width of the road at once and the boards go down, the cultivators' cloth tears from its crosspiece on the last pole and drops into the ditch. The weight is gone; he stands with his shoulders heaving, sets the butt of the halberd on the ruts and leans on it for a count of three, raises his right hand to the height of his shoulder and keeps it there; the company withdraws with the chests and its fallen, and he goes last, "the haft for a staff". Three of the patrol are hurt and none dead. **Signatures fired, as planned:** `B39-L15-ORDER-99` (blocks 02 and 03: the sign, the count, the bare order). Dimensions shown: `B39-L01-STILL-01`, `B39-L07-COUNT-01`, `B39-L09-CONCEAL-03`, `B39-L10-SILENCE-03` and `B39-L08-REFLEX-10` (block 02), `B39-L03-CHANNEL-03` and `B39-L25-RETREAT-99` (block 03, the break-off on his own sign with the objective in hand; since 2026-10-18 this code reads `B39-L25-RETREAT-04`, see the next row). **Named Moves:** ***Subjugating Hookback*** (block 02) and ***Axefall Decree*** (block 03: his first Cast stroke shown, with its visible cost); both are manual-borne (Section 3). **Check #21:** SILENT for him. No kill is by his hand (Wil Harker is ended by a rear-squad fighter and the stroke kills no one), so `B39-L25-KILL` stayed OPEN-AUTHOR at that Gate 2 and the first-kill trigger did not fire; the cost of the Cast stroke is a world cost and not a drift; no profile line moves; no drift executed. | Parts 3, 6, 28, 29, 38, 39, 41, 42, 44 | Header (First Area Appearance, Last Updated); Section 1 (Gender, Physical Description, Voice Register note); Section 2 (level shown on the page); Section 3 (Named Moves, Manual Kit line, Known Weapon Systems); Section 7 (note); Section 9 (status); Section 10; Section 11 (11.2 note, 11.3a note, 11.5 note, 11.6 note); Section 12 (note); Section 13 |
+| Tier B villain filing and Tier B interview, 2026-10-18 (no Area written; for Chapter 005, Ref: 1.1.1.005) | **Filed as a Tier B villain and registered at the Tier B interview of Part 39 Rule 39.45.1.4**, at the author's direction before Chapter 005 Area 2, where he holds the viewpoint. **Filing (the author's ruling):** a Tier B villain of Brackenhold who leads the whole Redhaft Vanguard and answers to King Osgar Brack directly; no Brackenhold rank, rung or honorific coined; the file moved from `ledger-character-side/` with every value kept, and the side index holds a pointer row. **Set by the author (`[ASKED]`):** age forty-one; Soul Sensitivity 3 (Keen); affinity Earth, Whisper, Level 2; ideology LBI with OMI and its three layers; moral orientation Communal; Polarity-3; IS-1; PIS-1 at story start; no wound; the twelve Signatures with their Layer L34 origins (`B39-L15-ORDER-99`, `B39-L01-STILL-01`, `B39-L01-GAIT-01`, `B39-L29-BEFORE-03`, `B39-L07-COUNT-01`, `B39-L10-SILENCE-03`, `B39-L03-CHANNEL-03`, `B39-L25-RETREAT-04`, `B39-L25-OPEN-05`, `B39-L13-GROUP-02`, `B39-L02-RANGE-09`, `B39-L26-WEAKER-09`); the immutable core (`B39-L31-IMMUTABLE-01` for `B39-L01-STILL-01` and `B39-L31-IMMUTABLE-08` for `B39-L03-CHANNEL-03`); the two contradiction pairs in his own words (aggressive against enemies, protective for his people; aggressive against all apart from his king); the costly behavior (he ends every raid himself, in the open); the kill state (`B39-L25-KILL-02`; backstory: he has killed several times before the story starts, details unset, and no name, place or event is invented); the Voice Register (assertive and command-oriented, flowing and not abrupt, his thought under the same register). **Accepted as derived (`[DERIVED]`):** the digest's recommended values for Layers L02, L03, L06, L07, L08, L09, L10, L13, L15, L19, L25, L26, L27, L28, L29, L33 and L36 and the drift rows 2 to 4, with `B39-L36-SUBOPT-08` and the prosodic mapping flagged. **Left open by the author:** the Part 18 archetype, the arc and the narrative function. **Corrections made in the move:** the two own-text lines of 2026-10-08 moved to catalog codes (`B39-L25-RETREAT-99` to `B39-L25-RETREAT-04`; `B39-L29-BEFORE-99` to `B39-L29-BEFORE-03`); `B39-L36-OFFREG-01` moved from `[N-A]` to `[DERIVED]`; the notes that said he is not a viewpoint holder were removed; the Voice Register note on contractions (2026-10-08) was replaced by the current law (Canon Amendment of 2026-10-16). No event is recorded, no Area has shown the registration, and no drift executed. | Parts 4, 18, 19, 20, 26, 28, 29, 37, 39 | Header; Sections 1, 2, 4, 5, 7, 9, 10, 11 and 12 (note); Changelog |
+| Registration acts of 2026-10-18, second entry (no Area written; for Chapter 005, Ref: 1.1.1.005) | **Two acts on the author's word, relayed by the orchestrating command; no event is recorded and no Area has shown either.** (1) **`B39-L36-SUBOPT-08` set open.** The author said "set it open", so the Sub-Optimal Tendency changes from the flagged `[DERIVED]` line to `OPEN-AUTHOR` (11.1 and 11.3; the earlier value is kept there as history); the tallies move with it (Section 11 header, the coverage tally, the Layer sums and the villain index): 92 of 291 dimensions addressed (21 `[ASKED]`, 52 `[DERIVED]`, 19 `[N-A]`), 198 `OPEN-AREA` and 1 `OPEN-AUTHOR`. (2) **Manual Ledger rows written.** `char_id` `WLR` in `characters.csv` and one kit row in `character-kits.csv` (`MAN-SIG-HAL-013` via `BR-SIG-HAL-013`, source ORG:Redhaft Vanguard, `L-2`, Adept, `DERIVED`; the Section 3 Manual Kit line holds the detail). Check #21: not engaged (a registration act, not a drift; Section 12 note). | Parts 37, 39, 42 | Header; Section 3 (Manual Kit line); Section 10; Section 11 (header, 11.1, 11.2, 11.3); Section 12 (note); Changelog |
+
+*(Backstory the author has given: Wulfric Rask has killed several times before the story starts. It is not an event written on the page and no name, place or date is set; it is recorded at `B39-L25-KILL-02` (Section 11.1) and at Section 11.6 row 1.)*
+
+---
+
+## Section 11 — Behavioral Signature (B/L)
+
+*[Governed by Part 39 (Character Behavioral Synthesis Law) Area 41.1. Schema: Part 37 Area 2.2.]*
+
+**Part 39 Registration Status:** **Partial — Tier B villain, plan-baseline registration extended by the Tier B interview of 2026-10-18 (Rules 39.41.5.1, 39.4.3.1 and 39.45.1.4).** **24 of 36 Layers carry a line; 92 of 291 dimensions are addressed (21 `[ASKED]`, 52 `[DERIVED]`, 19 `[N-A]`); 199 are open: 198 `OPEN-AREA` and 1 `OPEN-AUTHOR` (`B39-L36-SUBOPT-08`, set open by the author's word of 2026-10-18; it was `[DERIVED]` and flagged until then, so the addressed count was 93 and the open count 198).** The twelve Layers with no line (L04, L05, L11, L12, L14, L16, L18, L20, L21, L22, L23, L24) have no page or ledger evidence and are set one small fact at a time by the first Area that shows them. **Every item that blocks drafting a viewpoint Area is set** (Part 36 Rules 18.2.1 and 18.2.7; Part 39 Rule 39.4.3.1): the viewpoint Layers L02 and L07, the feeling package of L03, the fight doctrine and kill state of L25, the Vanguard's code and his seam (L19) and the wait set (L29). 12 Signatures in 10 Layers, 2 contradiction pairs, 1 costly behavior and 6 usual drift entries (3 mapped, 3 `[N-A]`). *The counts are guides and never hold a draft.*
+**Registration Date:** 2026-10-08 (plan-baseline registration); the Tier B interview and the extension, 2026-10-18
+**Tier Guide (Part 39 Area 4):** Villain, Tier B — 36 Layers, 12 Signatures, 2 contradiction pairs, 1 costly behavior, six usual drift entries (Rule 39.4.1.1).
+**Signature Spread (Rule 39.3.3.5):** **12 Signatures across 10 Layers** — L01 (2), L02 (1), L03 (1), L07 (1), L10 (1), L13 (1), L15 (1), L25 (2), L26 (1), L29 (1). Ten Layers meets the guide of six or more, and no Layer holds more than two. *(Information only.)*
+**Immutable core (Rule 39.35.1.1):** `B39-L31-IMMUTABLE-01` (a physical signature that never leaves him: `B39-L01-STILL-01`) and `B39-L31-IMMUTABLE-08` (his emotional channel: `B39-L03-CHANNEL-03`) `[ASKED]`. Both take `L34-END-01` at 11.2.
+**Cross-character comparison (author ruling):** none registered. Each character is registered separately; overlaps with other characters' registered values are permitted and carry no clearing, axis, or swap-test; any distinction the story needs is the author's to decide, case by case, via AskUserQuestion. No collision-axis material is recorded in this file or in the index.
+**Provenance and evidence regime:** the evidence cited below is the written Chapter 003 — The Lone Banner (Ref: 1.1.1.003), cited by Area block and quoted; Rask's own ledger; the structural parts of the Redhaft Vanguard's registered code (`ledger-people-society-faction/redhaft-vanguard.md`); the Manual Ledger (`MAN-SIG-HAL-013`); and the Part rules named at each line. Scene chronicles in world files are not cited for behavior. **The Tier B interview of 2026-10-18** is the source of every `[ASKED]` line below. Every `[DERIVED]` line was shown to the author in the digest of 2026-10-18 and accepted without override, and is not flagged unless it says so.
+**Speech discipline (Rule 39.2.3.1):** no Part 29 prosodic determinant is registered here; L10 carries conduct only. His Voice Register and Prosodic Signatures are at Section 1.
+
+---
+
+### 11.1 — Layer Register
+
+*(Format per line: `B39-Lnn-DIM-nn — value [tag]`. Open dimensions are listed by mnemonic, one line per Layer, so that all 291 are accounted for. `OPEN-AREA` means prose may set the value, one small fact at a time, and log it here; `OPEN-AUTHOR` means only the author sets it. "Block 02", "block 03" and "block 06" below are Area blocks 02, 03 and 06 of the written Chapter 003 — The Lone Banner (Ref: 1.1.1.003); a quoted phrase is the page's. Where the digest offered alternatives for a line, the first was accepted and the others are named.)*
+
+**Group I — Body and Senses (L01–L05)**
+
+- `B39-L01-STILL-01` — Absolute stillness is the resting state; movement is a decision and reads as one `[ASKED]` `[SIGNATURE]` *(accepted 2026-10-18; first derived 2026-10-08 from Chapter Spec 1.1.1.003 Area 02 anchor 2, the core-Layer L01 defining line. Page evidence: block 02, "there had been no Rask at all, only a place in the dark; he stood as the trees stood, his qi drawn in to nothing"; block 03, "a shape she had taken for a stump in the frost". Immutable core. Origin at 11.2 row 2)*
+- `B39-L01-GAIT-01` — Moves at one speed only, the same to a feast as to a fire, and is never seen to hurry `[ASKED]` `[SIGNATURE]` *(accepted 2026-10-18. Page evidence: block 02, "Rask was walking. It was the only walking on that road."; block 03, "The man walked into it and stopped", and he leaves last, "the haft for a staff". The digest's alternate was `B39-L01-GAIT-07`, moves silently by long training. The origin is reserved: 11.2 row 3)*
+- **L01 open (10), `OPEN-AREA`:** `POSTURE`, `HANDS`, `GAZE`, `PROX`, `TOUCH`, `OBJ`, `ENTRY`, `EXIT`, `STARTLE`, `BREATH`.
+- `B39-L02-LEAD-08` — Cultivation sense first and physical senses second, where realm permits it (Part 4 gated) `[DERIVED]` *(from: Part 14 Area 4.1, a Warrior's soul sense reaches about 50 m active and about 100 m passive; block 02, "a Warrior's sense found nothing in a man who did that", the page's reading of people on sense; sight is not shut out: "He had the road behind the file in sight". His soul talent is Keen (Section 2), which Part 4 Area 2.4 reads as perceiving psychological states without a technique. The digest's alternates: `-07`, proprioception and balance; `-02`, sight and motion)*
+- `B39-L02-FIRST-01` — Exits, and how many people stand between them and each `[DERIVED]` *(from: block 02, he stands where "the trees came down to the road behind the file", the way the patrol comes, and "had the road behind the file in sight")*
+- `B39-L02-DEFORM-02` — Reads everything as ground to be held or lost, indoors as much as out `[DERIVED]` *(from: the Redhaft Vanguard's purpose, "roads, mines and convoys" (`redhaft-vanguard.md` Section 1); the manual `MAN-SIG-HAL-013`, whose tradition is the "road-taking school"; block 03, he walks into the open middle of the road. The figures in his thought come from road, ground, haft and weather (Part 36 Rule 18.2.3))*
+- `B39-L02-BLIND-01` — Does not see servants, guards or attendants as persons present in the room `[DERIVED]` *(from: block 02, "Rask did not look at what he had done", and the company's practice of pinning and leaving whoever is not in the way, in Stoll's order: "every breath spent on a man who is not in the way is time the post can use". The digest's alternates: `-10`, cannot hold two scales at once; `-04`, does not notice his own condition until someone names it)*
+- `B39-L02-RANGE-09` — Attends chiefly behind and beside; the front of the room is assumed and the flanks are watched `[ASKED]` `[SIGNATURE]` *(accepted 2026-10-18. Page evidence: block 02, he stands at the tree side of the third wagon behind the file and is the first to call what comes down the road behind. Origin at 11.2 row 11)*
+- `B39-L02-PEOPLE-09` — By energy signature where realm permits, and by nothing else, which is a known weakness `[DERIVED]` *(from: block 01, a Warrior's sense reads other Warriors and finds in the carters "only the blankness of bodies that had never taken qi in"; block 02, "a Warrior's sense found nothing in a man who did that". The digest's alternates: `-08`, by what they carry and how; `-01`, by the hands)*
+- `B39-L02-THREAT-09` — Numbers: too many, too few, or the wrong ones `[DERIVED]` *(from: block 02, the alarm he answers is a figure: "Eight are coming down the road behind us at a run")*
+- `B39-L02-BEAUTY-09` — The moment before a thing begins: the drawn breath, the raised hand, the unbroken seal `[DERIVED]` *(from: block 02, his own raised hand and the stillness before it; thin evidence. The digest's alternates: `-03`, order; `-06`, nothing admitted to be beautiful)*
+- *L02 is complete: all eight dimensions are set, because he is a viewpoint holder from Chapter 005 Area 2 (the author's ruling of 2026-10-18; Part 39 Rule 39.6.1.1, the POV Test; Part 36 Rule 18.2.1).*
+- `B39-L03-CHANNEL-03` — Into precision: the more they feel, the more exact and careful every action becomes `[ASKED]` `[SIGNATURE]` *(accepted 2026-10-18; first derived 2026-10-08 from the closing turn of Area 02 of Chapter Spec 1.1.1.003, where the answered horn becomes an exact count and an exact order, and Area 03 anchor 5, the core-Layer L03 defining line. Page evidence: block 02, the horn answered at once with "Eight are coming down the road behind us at a run" and an order. Immutable core. Origin at 11.2 row 7)*
+- `B39-L03-LATENCY-07` — The gap is filled with a procedural act — a form completed, a tool put away — that buys the time `[DERIVED]` *(from: block 03, between the spent stroke and the sign he sets the butt of the halberd on the ruts and leans on it "for a count of three" before he raises his hand)*
+- `B39-L03-LEAK-10` — They touch a specific object — a ring, a seal, a scar, a tool — and only ever then `[DERIVED]` *(from: block 03, the haft is struck on the ruts, leaned on, and carried as a staff. The digest's alternates: `-01`, a single repeated physical tell; `-05`, timing)*
+- `B39-L03-MASK-01` — Grief presents as method: the work gets more thorough and nothing is said `[DERIVED]` *(rule-based from `B39-L03-CHANNEL-03`; no emotion is named on the page, so the evidence is thin. The digest's alternates: `-02`, fear presents as aggression; `-04`, shame presents as formality)*
+- `B39-L03-ANGER-01` — Cold, quiet and procedural: they begin doing things by the book, exactly `[DERIVED]` *(rule-based from `B39-L03-CHANNEL-03`; no anger is on the page. The digest's alternates: `-06`, withdrawal; `-09`, anger is not available and arrives as exhaustion or nausea)*
+- **L03 open (4), `OPEN-AREA`:** `ONSET`, `DECAY`, `UNFAKE`, `JOY`. *(N39-12: the L03 values are `[DERIVED]` and are coherence-checked when the Part 18 archetype is set.)*
+- **L04 open (7), `OPEN-AREA`:** `CHRONIC`, `OLDWOUND`, `WEATHER`, `ILLNESS`, `AGING` *(the age, forty-one, is set; the baseline is set by the first Area that shows it)*, `AUGMENT`, `RECOVER`.
+- **L05 open (7), `OPEN-AREA`:** `FOOD`, `DRINK`, `STRESS`, `RITUAL`, `DISC`, `ELIXIR`, `IMPAIR`.
+
+**Group II — Mind (L06–L09)**
+
+- `B39-L06-SPEED-02` — Immediate, and never revisited at all `[DERIVED]` *(from: block 02, the answered horn is met with a count and an order at once; the timing of the sign is held by L07 and L29. The digest's alternates: `-06`, will not decide until a stated condition is met; `-07`, decides at the last possible moment)*
+- **L06 open (9), `OPEN-AREA`:** `INFO`, `RISK`, `HORIZON`, `ERROR`, `ATTN`, `MEM`, `RULE`, `TIME`, `DILEM`.
+- `B39-L07-MODE-05` — Numeric; quantities arrive before qualities `[DERIVED]` *(from: block 02, he counts the file in and the runners aloud; block 03, the nine. "Numeric" means counts of heads, wagons and breaths and never minor steps, percentages or "levels above" (Part 44, Check #23 element 23-7). The digest's alternates: `-06`, procedural; `-04`, spatial)*
+- `B39-L07-SELF-05` — No self-address at all; the interior is observation without commentary `[DERIVED]` *(no inner line is on the page, and it fits bare orders. The thought register of Section 1 is assertive observation and not an order to himself: an imperative to himself would be self-address, which this line does not register. The digest's alternates: `-01`, first person throughout; `-02`, second person under pressure)*
+- `B39-L07-RUMIN-03` — Does not ruminate; a closed matter is genuinely closed `[DERIVED]` *(from: block 02, "Rask did not look at what he had done". The digest's alternates: `-07`, converts rumination into a list; `-04`, ruminates only at a fixed time)*
+- `B39-L07-COUNT-01` — Counts people in a room, always, and knows the number `[ASKED]` `[SIGNATURE]` *(accepted 2026-10-18; first derived 2026-10-08 from Area 02 anchors 2 and 4. Page evidence: block 02, "He had counted the file in with his lips shut", the runners called aloud; block 03, "Nine stand across the road". Origin at 11.2 row 5)*
+- `B39-L07-FORM-09` — None; the interior carries no repeated formula, and its absence is characteristic `[DERIVED]` *(it keeps a second counting device off the count of `B39-L07-COUNT-01`. The digest's alternates: `-07`, a private counting formula; `-02`, a remembered sentence from a parent, teacher or commander)*
+- `B39-L07-REHEARSE-09` — What they will do if it goes wrong, never what they will do if it goes right `[DERIVED]` *(from: block 02, the answered horn is met with an order at once, as if the wrong case had been prepared. The digest's alternate: `-08`, the order of items)*
+- `B39-L07-FORBID-05` — That their talent has a ceiling and they have reached it `[DERIVED]` *(from: block 02, "Warrior Level 9 Peak, a hair short of Champion, and the whole company knew the number and nobody said it". It touches the arc field, which stays `OPEN-AUTHOR`; the line is a thought he will not permit and is not an arc statement. The digest's alternate: `-03`, that they are afraid)*
+- `B39-L07-PACE-07` — Interior stops entirely under acute danger; the head goes clean and quiet `[DERIVED]` *(from: block 02, count and order come at once under the horn. The digest's alternates: `-02`, interior and speech are the same speed; `-01`, interior races ahead)*
+- `B39-L07-JUDGE-03` — Inwardly assigns everyone a use and thinks of them by it `[DERIVED]` *(from: block 02, his first lift sends the first six to hold the front, his second sends the rest, and the rear squad is given one task, the third wagon. The digest's alternates: `-07`, does not judge inwardly; `-04`, ranks by competence)*
+- *L07 is complete: all nine dimensions are set (Part 39 Rule 39.11.1.1, the Head Test).*
+- `B39-L08-REFLEX-10` — Counts and reports; converts the crisis to information and passes it on `[DERIVED]` *(derived from: the closing turn of Area 02 of Chapter Spec 1.1.1.003, where the patrol's horn is the crisis, and the count and the order are what he passes on; the core-Layer L08 defining line. Page evidence: block 02, "Eight are coming down the road behind us at a run")*
+- `B39-L08-LINE-03` — Will not break a given word, however cheaply the word was given `[DERIVED]` *(from: block 03, he gives his line his word in the open and keeps it: "the line will keep to the trees until I end it". The digest's alternates: `-07`, will not let another carry blame that is theirs; `-10`, the line is unknown until it is reached. When Layer L18 opens, `L18-WEIGHT` is set to agree with this line)*
+- `B39-L08-POWERLESS-03` — Does not see them; the powerless are furniture and this is invisible to the character `[DERIVED]` *(one system with `B39-L02-BLIND-01` and `B39-L02-PEOPLE-09`: a mortal shows as a blankness to a Warrior's sense. The fate of any carters and hands is not a trait of his. The digest's alternates: `-04`, uses them without cruelty as a resource; `-01`, identical courtesy to all ranks)*
+- **L08 open (5), `OPEN-AREA`:** `UNSEEN`, `ADVANT`, `GUILT`, `COST`, `GAP`.
+- `B39-L09-CONCEAL-03` — Their origin, family or former station `[DERIVED]` *(derived from: the plain-clothes rule of the Redhaft Vanguard's code and Area 02 anchor 1 — nothing on the company or on him names a kingdom; page evidence: block 02, "no colour, no cord, no cap")*
+- **L09 open (7), `OPEN-AREA`:** `CAPACITY`, `MECH`, `TELL`, `HOLD`, `CAUGHT`, `DISCLOSE`, `OTHERS`. *(No `HOLD`, `OTHERS` or `DISCLOSE` is set. What Rask knows of the company's informant, and of how the company came to know the road and the hour, is not set: the page shows a man in a good coat who put a strip of paper in Stoll's palm and went off along the ditch without a word, and a clamp on the wire; it shows nothing of what Rask knows of either, and none is invented, Part 28 Area 17.)*
+
+**Group III — Speech and Exchange (L10–L12)**
+
+- `B39-L10-SILENCE-03` — Fills it with an act rather than a word `[ASKED]` `[SIGNATURE]` *(accepted 2026-10-18; first derived from Area 02 anchor 2, the core-Layer L10 defining line, conduct only. Page evidence: block 02, "No word started them"; block 03, the butt struck on the ruts once, the company drawn back "with no word", and the hand raised and kept up. Origin at 11.2 row 6)*
+- `B39-L10-NAME-05` — Avoids naming people at all and addresses them by presence `[DERIVED]` *(from: neither of his two written lines names anyone; the code's THE LINE IS QUIET, "no cries on the road and no names" (block 02). Keeps Part 28 Area 20: no address form is coined)*
+- **L10 open (9), `OPEN-AREA`:** `TURN`, `LISTEN`, `INTERRUPT`, `REFUSE`, `APOL`, `PRAISE`, `CRIT`, `OATH`, `FILLER`.
+- **L11 open (7), `OPEN-AREA`:** `MECH`, `WITH`, `RECV`, `TEASE`, `CONCEAL`, `GAME`, `PLAY`.
+- **L12 open (8), `OPEN-AREA`:** `OPEN`, `CONCEDE`, `NOTRADE`, `WEAK`, `GIFT`, `SUBORD`, `CLOSE`, `AFTER`. *(No parley or negotiation is registered; a drafting agent who needs one stops and says so.)*
+
+**Group IV — People (L13–L18)**
+
+- `B39-L13-STRANGER-03` — Assesses threat first and everything else after `[DERIVED]` *(from: his first act on meeting anyone is a count: block 02, the runners; block 03, the nine)*
+- `B39-L13-GROUP-02` — The anchor: says little, and the group orients on them anyway `[ASKED]` `[SIGNATURE]` *(accepted 2026-10-18. Page evidence: two written lines in a whole raid; the company starts, holds and draws back on him; block 02, "Stoll's knees wanted to bend, and did not". "Says little" is a role and not a sentence shape. Origin at 11.2 row 10)*
+- **L13 open (9), `OPEN-AREA`:** `UP`, `DOWN`, `TRUST`, `CONFLICT`, `DEBT`, `BOUND`, `MASK`, `LOYAL`, `BETRAY`.
+- **L14 open (6), `OPEN-AREA`:** `DELTA`, `TRIGGER`, `PHYSICAL`, `FORBIDDEN`, `STABILITY`, `WITNESS` — **entries are reserved and arise from the story** (Rule 39.18.1.2); see 11.4a.
+- `B39-L15-ORDER-99` — **THE SIGN AND THE COUNT:** the raid starts, holds and ends on his own sign; a count of what is coming comes before any order; the instruction that follows is bare, with no reason given `[ASKED]` `[SIGNATURE]` *(accepted 2026-10-18; first derived 2026-10-08 from Chapter Spec 1.1.1.003 Area 02 anchors 2 and 4 and Area 03 anchor 5; its core is the catalog option `B39-L15-ORDER-01`, imperative and bare, the instruction with nothing attached. Page evidence: block 02, "No word started them", the runners counted aloud before the order; block 03, the hand raised and kept up ends the raid. Origin at 11.2 row 1)*
+- `B39-L15-DELEG-03` — Delegates the visible work and keeps the difficult work themselves `[DERIVED]` *(from: block 02, the front, the second wagon and the third wagon are given away; the hook and, in block 03, the stroke are kept)*
+- `B39-L15-ROOM-01` — By stillness; does not move and the room orders itself around that `[DERIVED]` *(from: block 02, the company waits in his stillness until his hand moves)*
+- **L15 open (6), `OPEN-AREA`:** `DISSENT`, `BLAME`, `RECV`, `ANNOUNCE`, `FAIL`, `DEGRADE`.
+- **L16 open (8), `OPEN-AREA`:** `CORRECT`, `PERMIT`, `TEACH`, `DEPFAIL`, `PHYS`, `TRANSMIT`, `UNMEANT`, `AFTER`.
+- `B39-L17-STAGE-99` — nothing established in canon or plan: the Layer is registered dormant by design, reserved for the author and not invented `[DERIVED]` *(derivation canon-gate: nothing about a romantic stage is established or planned; the age, forty-one, is set and sets no stage)*
+- `B39-L17-SHOW-01`, `B39-L17-COURT-01`, `B39-L17-AFFECT-01`, `B39-L17-BOND-01`, `B39-L17-JEALOUS-01`, `B39-L17-APART-01`, `B39-L17-END-01` — not applicable while the stage is dormant `[N-A]`
+- **L18 open (7), `OPEN-AREA`:** `WEIGHT`, `FORM`, `COLLIDE`, `COST`, `BREAKER`, `REFUSE`, `UNKEEP`. *(When Layer L18 opens, `L18-WEIGHT` is set to agree with `B39-L08-LINE-03`: his given word is binding. No rite, oath or term is coined, Part 28 Area 20.)*
+
+**Group V — World (L19–L23)**
+
+- **L19 — bound to the Redhaft Vanguard's code (11.5).**
+- `B39-L19-CONFORM-01` — Exemplary; holds the code more exactly than the code requires `[DERIVED]` *(from: block 02, the company keeps its qi "drawn in tight" and his is "drawn in to nothing". The digest's alternates: `-02`, standard; `-08`, enforcing)*
+- `B39-L19-SEAM-02` — Deviates on one specific ritual, consistently, and has never explained why `[DERIVED]` *(the ritual: he walks while the line runs, against the provision ONE BODY. Page evidence: block 02, "Rask was walking. It was the only walking on that road."; block 03, he walks into the open road and leaves last. It is the same fact as the Signature `B39-L01-GAIT-01`, registered twice on purpose, as Signature and as seam. The digest's alternates: `B39-L19-SEAM-01`, no deviation, conformance total and costly (it would open an Owed Beat, Rule 39.41.5.2); `-08`, deviates only when the code and the moral reflex collide)*
+- **L19 open (7), `OPEN-AREA`:** `INGROUP`, `OUTGROUP`, `RANKMOD` *(no superior stands on the page and the king is not shown)*, `GUEST`, `FRICTION`, `CRIT`, `PLACE`.
+- **L20 open (8), `OPEN-AREA`:** `HANDS`, `PREC`, `SEAL`, `DEVIATE`, `URGENT`, `DEAD`, `FAITH`, `PRIVATE`.
+- **L21 open (7), `OPEN-AREA`:** `ASSEMBLY`, `STREET`, `KNOWN`, `UNKNOWN`, `CROWD`, `PANIC`, `AFTER`.
+- **L22 open (8), `OPEN-AREA`:** `PACK`, `PACE`, `NAV`, `CAMP`, `SLEEP`, `COMPANY`, `ARRIVE`, `RETURN`.
+- **L23 open (11), `OPEN-AREA`:** `SLEEP`, `DRESS` *(plan baseline: plain and unmarked, by the code)*, `MONEY`, `OWN`, `SPACE`, `ROUTINE`, `OFFDUTY`, `ANIMAL`, `CHILD`, `SUPER`, `FREEDAY`.
+
+**Group VI — Practice and Power (L24–L26)**
+
+- **L24 open (11), `OPEN-AREA`:** `SESSION`, `PLACE`, `BREAK`, `POST`, `PLATEAU`, `AFFIN` *(follows the affinity, Earth, Whisper, Level 2, Section 2)*, `HEART`, `SENSE`, `TECH`, `LEARN`, `RESOURCE`.
+- `B39-L25-OPEN-05` — Opens by taking ground rather than by striking `[ASKED]` `[SIGNATURE]` *(accepted 2026-10-18. Page evidence: block 03, after the company draws back he "walked into" the open middle of the road and stopped, and nothing is cast until he has said where the line will stand; the Manual Ledger's summary of `MAN-SIG-HAL-013` reads "a tool for taking a road end to end". Origin at 11.2 row 9)*
+- `B39-L25-TEMPO-04` — Slow and heavy; each exchange is separate and fully committed `[DERIVED]` *(from: block 03, he raises the halberd "by degrees" and casts one stroke; the hook of block 02 is the quick exception. The digest's alternate: `-10`, stops entirely at intervals)*
+- `B39-L25-TARGET-04` — Whoever is nearest, without selection `[DERIVED]` *(from: block 02, he hooks the runner who passes him and not the guard-captain at the lead wheel. The digest's alternates: `-03`, the one giving orders; `-01`, the strongest opponent first)*
+- `B39-L25-ESCAL-03` — Escalates one step behind the opponent, always reacting `[DERIVED]` *(from: the hook first, and the stroke only after the row has held (blocks 02 and 03). No ceiling is registered: the order of Chapter 003 not to shed soldiers' blood was an order for that time and was lifted on 2026-10-18, and it is not a trait of his. The digest's alternates: `-01`, strict proportionality; `-06`, no ceiling. See the coherence sweep below)*
+- `B39-L25-MOVE-07` — Uses the cheapest sufficient move, always, and budgets rigorously `[DERIVED]` *(from: the Intermediate hook on the running guard (block 02) and one Cast stroke, only when the row would not give (block 03). His usable moves are the Basic and Intermediate ones and the Signature-grade ***Axefall Decree*** of `MAN-SIG-HAL-013`; the Advanced and Elite moves stay Latent and unshown)*
+- `B39-L25-BUDGET-05` — Fights to a count; knows precisely how many exchanges they have `[DERIVED]` *(from: one Cast stroke and no second (block 03); ***Axefall Decree***, `MV-SIG-HAL-013-10`, has cost class VARIABLE in the Manual Ledger)*
+- `B39-L25-KILL-02` — Kills cleanly and quickly and does not look afterward `[ASKED]` *(the author's ruling of 2026-10-18: he has killed before, several times, before the story starts; details unset, and no name, place or event is invented. This is the standing state, and the first-kill trigger of the Conditional Drift Map reads `[N-A]` (11.6 row 1). Page evidence: block 02, "Rask did not look at what he had done". No kill is by his own hand on the page of Chapter 003: a fighter of the rear squad ends the guard, and the stroke kills no one)*
+- `B39-L25-MERCY-08` — Mercy is delegated: they leave and let others decide `[DERIVED]` *(from: block 02, he disables the guard and moves on, and another ends him. The digest's alternates: `-03`, does not accept surrender in a stated category; `-01`, accepts surrender at once)*
+- `B39-L25-RETREAT-04` — Covers the retreat personally and leaves last, always `[ASKED]` `[SIGNATURE]` *(accepted 2026-10-18. It replaces the own-text line `B39-L25-RETREAT-99` of 2026-10-08, "he breaks off on his own signal, with the objective in hand: the withdrawal is his to call and is not forced on him, and the company goes back the way it came" (derived from Chapter Spec 1.1.1.003 Area 03 anchor 5); the own-signal part is carried by `B39-L15-ORDER-99`. Page evidence: block 03, the company goes back through the trees on his raised hand, "and the man with the lifted hand went last, the haft for a staff". Origin at 11.2 row 8)*
+- `B39-L25-POST-02` — Counts and checks their people first `[DERIVED]` *(from: block 03, the chests and "two more with an arm under each of their own fallen" are out before he goes. The digest's alternate: `-03`, walks the ground)*
+- **L25 open (6), `OPEN-AREA`:** `GUARD`, `RANGE`, `FOOT`, `HURT`, `PAIN`, `PROTECT`. *(Part 5 and Part 6 bind every fight line: Chapter 003's fight is an E2 skirmish, the moves he executes are the Manual Ledger's Usable ones, and the Latent three are never shown.)*
+- `B39-L26-DIRECTION-07` — Unchanged in conduct, deliberately and effortfully, as a discipline `[DERIVED]` *(fits the drift row for a realm crossing (11.6 row 4) and the Signatures `B39-L01-STILL-01` and `B39-L03-CHANNEL-03`; page evidence: the top of the realm is already "the number nobody said" (block 02). The digest's alternates: `-03`, more formal; `-05`, more responsible)*
+- `B39-L26-WEAKER-09` — Uses the differential deliberately as pressure `[ASKED]` `[SIGNATURE]` *(accepted 2026-10-18. Page evidence: block 02, "his weight came up against Stoll's back as a hand might be laid flat between the shoulder blades"; block 03, "the air ahead gone so dense that her own qi slowed to a crawl". Origin at 11.2 row 12)*
+- **L26 open (5), `OPEN-AREA`:** `PATIENCE`, `INSULT`, `FEAR`, `IMAGE`, `LOSS`.
+
+**Group VII — Pressure and Change (L27–L31)**
+
+- `B39-L27-FATIGUE-03` — Becomes rigidly procedural; runs on the routine when nothing else is left `[DERIVED]` *(from: block 03, after the stroke: the butt set on the ruts, the haft leaned on, the hand raised, the withdrawal)*
+- `B39-L27-PIS3-01` — One physical signature (L01) is suppressed `[DERIVED]` *(rule-based, no page evidence: the signature that gives way is `B39-L01-GAIT-01`, so that he is seen to hurry; `B39-L01-STILL-01` is immutable and cannot be the one)*
+- `B39-L27-PIS5-01` — A Signature ceases to fire entirely for the duration `[DERIVED]` *(rule-based: the Signature is `B39-L15-ORDER-99`, the load-bearing one, so that the hand does not rise; it is the To value of 11.6 row 3. Recovery requires an event and not time alone (Part 39 Area 31))*
+- `B39-L27-PIS7-10` — Total behavioral flattening; the person is procedurally intact and personally absent `[DERIVED]` *(rule-based. The digest's alternate: `-09`, a single fixed act is repeated compulsively. Any PIS-7 event opens Check #21 automatically (Area 44.2))*
+- **L27 open (6), `OPEN-AREA`:** `GRIEF`, `FEAR`, `RAGE`, `SHAME`, `WIN`, `POWERLESS`. *(N39-12: the PIS lines wait on the Part 18 archetype for their coherence check.)*
+- `B39-L28-WIN-02` — Attends to the cost: the injured, the damaged, the spent `[DERIVED]` *(from: block 03, the company carries its fallen and he goes last. The digest's alternates: `-10`, behaves exactly as though nothing has happened; `-05`, begins preparing for the consequence of having won)*
+- **L28 open (8), `OPEN-AREA`:** `LOSE`, `HUMIL`, `SPARED`, `SPARE`, `FAILED`, `UNEARNED`, `AMBIG`, `NEXT`.
+- `B39-L29-WAIT-07` — Positions where they can see the door and whoever comes through it `[DERIVED]` *(from: block 02, he stands where "He had the road behind the file in sight")*
+- `B39-L29-HANDS-03` — An object carried for exactly this purpose `[DERIVED]` *(from: block 03, the halberd upright in both hands)*
+- `B39-L29-SILENCE-07` — Counts something (L07 interface) `[DERIVED]` *(from: block 02, "He had counted the file in with his lips shut")*
+- `B39-L29-BEFORE-03` — Goes completely silent and is unreachable `[ASKED]` `[SIGNATURE]` *(accepted 2026-10-18. It replaces the own-text line `B39-L29-BEFORE-99` of 2026-10-08, "the wait before the sign is spent counting the file as it enters the narrow; whether the count is silent or spoken is the Area's" (derived from Chapter Spec 1.1.1.003 Area 02 anchor 2; the core-Layer L29 defining line). Page evidence: block 02, "there had been no Rask at all, only a place in the dark", and he counts "with his lips shut". Origin at 11.2 row 4)*
+- `B39-L29-TOLER-01` — High; can be idle indefinitely without discomfort `[DERIVED]` *(from: block 02, he waits through the whole file's approach in stillness)*
+- **L29 open (2), `OPEN-AREA`:** `QUEUE`, `WATCH`. *(The wait set is whole for Check #20 element 20-6: `WAIT`, `HANDS`, `SILENCE`, `BEFORE` and `TOLER` are set.)*
+- `B39-L30-BAND-05` — Established adult (ages 26 to 50 by the world calendar) `[ASKED]` *(age forty-one, the author's ruling of 2026-10-18)*
+- `B39-L30-ANCHOR-01`, `B39-L30-PRECOC-01`, `B39-L30-BEHIND-01`, `B39-L30-CROSS-01`, `B39-L30-RETAIN-01` — not applicable (placeholder codes, as the other `[N-A]` lines of this file): an established adult; the child-anchor and band-transition dimensions bind YC-1 and YC-2 (Rule 39.34.1.1), and no band transition falls inside Phase 1 (11.6 row 5) `[N-A]`
+- `B39-L31-IMMUTABLE-01` — A physical signature that never leaves them (L01): `B39-L01-STILL-01` `[ASKED]` *(the author's ruling of 2026-10-18)*
+- `B39-L31-IMMUTABLE-08` — Their emotional channel (L03-CHANNEL): `B39-L03-CHANNEL-03` `[ASKED]` *(the author's ruling of 2026-10-18)*
+- **L31 open (6), `OPEN-AREA`:** `PLASTIC`, `RATE`, `PERM`, `REVERT`, `AWARE`, `SEEN`.
+
+**Group VIII — Identity Governance (L32–L36)**
+
+- `B39-L32-TYPE-01` — baseline human; the Layer registers as not applicable beyond this entry `[DERIVED]` *(Section 1 Species: Human; no non-baseline substrate is planned)*
+- `B39-L32-KINESIC-01`, `B39-L32-SOCIAL-01`, `B39-L32-FRICTION-01`, `B39-L32-TOWARD-01` — not applicable (baseline human) `[N-A]`
+- `B39-L33-FIRST-01` — Their stillness `[DERIVED]` *(from: block 02, "there had been no Rask at all"; block 03, "a shape she had taken for a stump in the frost")*
+- `B39-L33-MISREAD-99` — his stillness is read as nothing being there at all (a place in the dark, a stump), when a man is counting `[DERIVED]` *(Rule 39.37.1.2, mandatory; from: the same two passages. The digest's alternate: `B39-L33-MISREAD-01`, stillness read as contempt, for which no reading of contempt is on the page)*
+- **L33 open (3), `OPEN-AREA`:** `BYRANK`, `INTIMATE`, `REP`. *(See 11.7.)*
+- `B39-L34-CLASS` — registered per Signature at 11.2 `[ASKED]`
+- `B39-L34-STATUS` — registered per Signature at 11.2 `[ASKED]`
+- `B39-L34-KNOWN` — registered per Signature at 11.2 `[ASKED]`
+- `B39-L34-END` — registered per Signature at 11.2 `[ASKED]` *(coherence-checked against the drift map per Rule 39.42.5.3)*
+- `B39-L35-PAIR`, `B39-L35-SEAM`, `B39-L35-CONVERGE` — Layer L35 retired (Part 39 Area 39) `[N-A]`
+- `B39-L36-CONTRA-99` — two contradiction pairs, the author's own words: **aggressive against enemies, protective for his people** and **aggressive against all apart from his king** — registered in full at 11.3 `[ASKED]`
+- `B39-L36-COST-10` — a physical risk he takes unnecessarily, every time, for a registered reason: **he ends every raid himself, in the open** — registered in full at 11.3 `[ASKED]`
+- `B39-L36-OFFREG-01` — None registered; the character has never yet acted out of character `[DERIVED]` *(no out-of-character act is on the page; this line replaces the 2026-10-08 `[N-A]` "no prose exists yet")*
+- `B39-L36-SUBOPT-08` — **`OPEN-AUTHOR`**: set open by the author's word of 2026-10-18 ("set it open"); only the author sets it *(until that word the line read "Solves the problem in front of them rather than the one that matters" `[DERIVED]`, flagged for author confirmation; the earlier value is kept as history at 11.3 and is not registered. Part 39 Rule 39.10.1.2 expects a character above Tier C to register `L36-SUBOPT`, so this is a registration in progress; it is not in the set that blocks drafting a viewpoint Area, which the Section 11 header lists)*
+- **L36 open (2):** `TEXTURE` (`OPEN-AREA`) and `SUBOPT` (`OPEN-AUTHOR`, above).
+
+**Register coverage tally:** 291/291 dimensions accounted for. `[ASKED]` 21 · `[DERIVED]` 52 · `[N-A]` 19 · `OPEN-AREA` 198 · `OPEN-AUTHOR` 1 (`B39-L36-SUBOPT-08`, set open on 2026-10-18; it counted as `[DERIVED]`, 53 in all, before that word). Layer sums: L01 12 · L02 8 · L03 9 · L04 7 · L05 7 · L06 10 · L07 9 · L08 8 · L09 8 · L10 11 · L11 7 · L12 8 · L13 11 · L14 6 · L15 9 · L16 8 · L17 8 · L18 7 · L19 9 · L20 8 · L21 7 · L22 8 · L23 11 · L24 11 · L25 16 · L26 7 · L27 10 · L28 9 · L29 7 · L30 6 · L31 7 · L32 5 · L33 5 · L34 4 · L35 3 · L36 5 = 291. Addressed by Layer: L01 2 · L02 8 · L03 5 · L06 1 · L07 9 · L08 3 · L09 1 · L10 2 · L13 2 · L15 3 · L17 8 · L19 2 · L25 10 · L26 2 · L27 4 · L28 1 · L29 5 · L30 6 · L31 1 · L32 5 · L33 2 · L34 4 · L35 3 · L36 3 = 92 (24 Layers; L36 still carries lines, so the Layer count stays 24).
+
+**Coherence sweep (Part 39 Area 45.2, Step 9; 2026-10-18; information only, no line was changed to meet a count).** The four named pairs: `L08-LINE` with `L18-WEIGHT` (`B39-L08-LINE-03` is set and `L18` is open, so the agreement is recorded as the rule for when `L18` opens); `L08-UNSEEN` with `L13-MASK`, `L09-CAPACITY` with `L09-MECH` and `L09-TELL`, and `L11-WITH` with `L14-DELTA` (all dimensions open, nothing engaged). Pairs that do engage and agree: `B39-L02-PEOPLE-09`, `B39-L02-BLIND-01` and `B39-L08-POWERLESS-03` read as one system of perception (a mortal shows as a blankness); `B39-L01-GAIT-01` and `B39-L19-SEAM-02` are the same fact registered twice on purpose; the Core Belief of Section 4 and `B39-L08-LINE-03`, `B39-L19-CONFORM-01` and `B39-L13-GROUP-02` all point the same way; no Signature contradicts a drift row. **Three observations for the author, none changed:** (1) `B39-L25-ESCAL-03` (escalates one step behind the opponent, always reacting) beside the two pairs of 11.3 ("aggressive against enemies", "aggressive against all"): the pairs describe disposition and `ESCAL-03` how force is scaled in a fight, so they can stand together, but the two read in different directions and the author may want `ESCAL-03` looked at (the digest's alternates were `-01`, strict proportionality, and `-06`, no ceiling, uses everything from the first moment). (2) `B39-L07-SELF-05` (no self-address) beside the thought register of Section 1 (assertive and command-oriented): the thought is assertive observation, and an imperative to himself would be self-address, which `SELF-05` does not register. (3) PIS-1 and no wound (Section 5) beside the Part 18 archetypes, each of which rests on a wound at PIS-5 or above; the archetype stays open. Archetype-dependent values (L03, L08, L27, L28) are coherence-checked when it is set.
+
+---
+
+### 11.2 — Signature Set (B)
+
+| # | Code | Behavior | Origin (Layer L34) | Immutable |
+|---|---|---|---|---|
+| 1 | `B39-L15-ORDER-99` | **THE SIGN AND THE COUNT** — the raid starts, holds and ends on his own sign; what is coming is counted before any order; the instruction that follows is bare, with no reason given. *Countable form: no word starts the company, no order comes before its count, no order carries a reason, and only his sign ends the raid.* | **L34-CLASS-01** institutional drill: the Redhaft Vanguard's discipline, in which the line works as one body on the leader's sign. `L34-STATUS-03` established in another entity's ledger (`ledger-people-society-faction/redhaft-vanguard.md`, Collective Behavior Code, THE SIGN IS THE LEADER'S, Registered 2026-10-08). `L34-KNOWN-02` knows it and would not say so. `L34-END-02` repudiation of the institution that drilled it | No |
+| 2 | `B39-L01-STILL-01` | Absolute stillness is the resting state; movement is a decision and reads as one | **L34-CLASS-04** trade necessity: an ambusher's body is at rest until the sign. `L34-STATUS-03` established in another entity's ledger (`redhaft-vanguard.md`, Section 1 purpose "roads, mines and convoys" without a mark, and the code NO MARK). `L34-KNOWN-01` knows it and would say so if asked. `L34-END-01` nothing; the behavior is immutable | **Yes** |
+| 3 | `B39-L01-GAIT-01` | Moves at one speed only, the same to a feast as to a fire, and is never seen to hurry | **L34-CLASS-09** deliberate self-construction: he built the habit on purpose. `L34-STATUS-05` deliberately unspecified; the origin exists and is reserved for later revelation, and no event is invented now. `L34-KNOWN-01` knows it and would say so if asked. `L34-END-09` a deliberate decision, made once, and held | No |
+| 4 | `B39-L29-BEFORE-03` | Goes completely silent and is unreachable | **L34-CLASS-04** trade necessity: the wait before the sign is silent and the hafts stay in sacking. `L34-STATUS-03` established in another entity's ledger (`redhaft-vanguard.md`, the code NO MARK). `L34-KNOWN-01` knows it and would say so if asked. `L34-END-04` leaving the trade | No |
+| 5 | `B39-L07-COUNT-01` | Counts people in a room, always, and knows the number | **L34-CLASS-01** institutional drill: the leader's count comes before any order. `L34-STATUS-03` established in another entity's ledger (`redhaft-vanguard.md`, the code: the company "holds on the raid leader's count and order"). `L34-KNOWN-01` knows it and would say so if asked. `L34-END-04` leaving the trade | No |
+| 6 | `B39-L10-SILENCE-03` | Fills it with an act rather than a word | **L34-CLASS-01** institutional drill: the line is quiet. `L34-STATUS-03` established in another entity's ledger (`redhaft-vanguard.md`, the code THE LINE IS QUIET). `L34-KNOWN-02` knows it and would not say so. `L34-END-02` repudiation of the institution that drilled it | No |
+| 7 | `B39-L03-CHANNEL-03` | Into precision: the more they feel, the more exact and careful every action becomes | **L34-CLASS-01** institutional drill: the school, the "road-taking school" of the manual `MAN-SIG-HAL-013`. `L34-STATUS-03` established in another entity's ledger (`ledger-manuals/manuals/signature/HAL.csv`). `L34-KNOWN-01` knows it and would say so if asked. `L34-END-01` nothing; the behavior is immutable | **Yes** |
+| 8 | `B39-L25-RETREAT-04` | Covers the retreat personally and leaves last, always | **L34-CLASS-01** institutional drill: the company breaks off on the leader's signal. `L34-STATUS-03` established in another entity's ledger (`redhaft-vanguard.md`, THE SIGN IS THE LEADER'S). `L34-KNOWN-02` knows it and would not say so. `L34-END-02` repudiation of the institution that drilled it | No |
+| 9 | `B39-L25-OPEN-05` | Opens by taking ground rather than by striking | **L34-CLASS-01** institutional drill: the school teaches the halberd "as a tool for taking a road end to end". `L34-STATUS-03` established in another entity's ledger (`ledger-manuals/manuals/signature/HAL.csv`, `MAN-SIG-HAL-013`). `L34-KNOWN-01` knows it and would say so if asked. `L34-END-04` leaving the trade | No |
+| 10 | `B39-L13-GROUP-02` | The anchor: says little, and the group orients on them anyway | **L34-CLASS-01** institutional drill: the sign is the leader's. `L34-STATUS-03` established in another entity's ledger (`redhaft-vanguard.md`, THE SIGN IS THE LEADER'S). `L34-KNOWN-02` knows it and would not say so. `L34-END-02` repudiation of the institution that drilled it | No |
+| 11 | `B39-L02-RANGE-09` | Attends chiefly behind and beside; the front of the room is assumed and the flanks are watched | **L34-CLASS-04** trade necessity: the leader's post is the rear and the flank. `L34-STATUS-03` established in another entity's ledger (`redhaft-vanguard.md`, Section 1 purpose). `L34-KNOWN-01` knows it and would say so if asked. `L34-END-04` leaving the trade | No |
+| 12 | `B39-L26-WEAKER-09` | Uses the differential deliberately as pressure | **L34-CLASS-11** cultivation practice: the discipline shaped the conduct. `L34-STATUS-01` established in an Area (Chapter 003, Ref: 1.1.1.003, blocks 02 and 03). `L34-KNOWN-01` knows it and would say so if asked. `L34-END-05` a body change that makes it impossible | No |
+
+**The twelve Signatures are the author's answers (`[ASKED]`)** at the Tier B interview of 2026-10-18: the author accepted the twelve of the digest, each with its origin. Rows 4 and 8 replace the two own-text lines of 2026-10-08 (`B39-L29-BEFORE-99` and `B39-L25-RETREAT-99`); row 1 keeps its own-text code `B39-L15-ORDER-99`, whose core is the catalog option `B39-L15-ORDER-01`.
+**Spread check (Rule 39.3.3.5):** 12 Signatures across 10 Layers — L01 (2: rows 2, 3), L02 (1: row 11), L03 (1: row 7), L07 (1: row 5), L10 (1: row 6), L13 (1: row 10), L15 (1: row 1), L25 (2: rows 8, 9), L26 (1: row 12), L29 (1: row 4). The guide of twelve is met, ten Layers meets the guide of six or more, and no Layer holds more than two *(information only)*.
+**Immutable count (Rule 39.35.1.1):** two, rows 2 and 7 (`B39-L31-IMMUTABLE-01` and `B39-L31-IMMUTABLE-08`, 11.1); both take `L34-END-01`.
+**L34 origin check (Rule 39.38.1.1):** all twelve name an origin class, a canon status, a knowledge state and an ending condition, each a single clause. The classes are `-01` (rows 1, 5, 6, 7, 8, 9, 10), `-04` (rows 2, 4, 11), `-09` (row 3) and `-11` (row 12). The statuses are `-03` (rows 1, 2, 4 to 11), `-05` (row 3) and `-01` (row 12). The knowledge states are `-02` (rows 1, 6, 8, 10) and `-01` (the other eight). The endings are `-02` (rows 1, 6, 8, 10), `-01` (rows 2, 7), `-04` (rows 4, 5, 9, 11), `-09` (row 3) and `-05` (row 12). Where an origin is an institution's, the ending is checked against the drift map (11.6): no mapped row is a Permanent change, so Rule 39.42.5.3 raises nothing. No origin names a person or a place, because his home, family and past are `OPEN-AUTHOR`.
+**Renderability check (Rule 39.3.3.3):** each of the twelve can be shown in a single beat without narrator explanation: a sign, a count, a bare order, a stillness, a walk, a silence, an exact act, a last man out, a stride into the road, a weight laid on a back or a patrol. Compliant.
+**Shown on the page of Chapter 003 (information; the "Signatures fired" cells of the Chapter Spec are written at Gate 2, and this is the recorder's reading of the written page):** `B39-L15-ORDER-99` in blocks 02 and 03; `B39-L01-STILL-01` in blocks 02 and 03; `B39-L01-GAIT-01` in block 02 ("the only walking on that road") and block 03; `B39-L29-BEFORE-03` and `B39-L07-COUNT-01` in block 02; `B39-L10-SILENCE-03` in blocks 02 and 03; `B39-L03-CHANNEL-03` in blocks 02 and 03; `B39-L25-RETREAT-04` and `B39-L25-OPEN-05` in block 03; `B39-L13-GROUP-02` in blocks 02 and 03; `B39-L02-RANGE-09` in block 02; `B39-L26-WEAKER-09` in blocks 02 and 03.
+**Registration flags (information, for the author; nothing here holds a draft).** (1) The prosodic mapping at Section 1 (PSM-1 and PSM-5 as the menu readings of the author's words, PSM-9 no longer registered) is flagged for the author's confirmation. (2) `B39-L36-SUBOPT-08` was flagged until the author's word of 2026-10-18 ("set it open") set it `OPEN-AUTHOR` (11.3); it is no longer a derived line and no longer a flag. (3) The three coherence observations at the end of 11.1. (4) The Manual Ledger rows that Part 42 Rules 42.11.1.1 and 42.11.4.1 owe a Tier B person (`characters.csv`, `character-kits.csv`) were written on 2026-10-18 (Section 3); the affinity requirement of the manual is met, and the `learned_via` and `mastery` cells of the kit row are the checker's DERIVED fit, flagged for the author's review.
+**Signature provenance note:** all twelve are `[ASKED]`. `B39-L15-ORDER-99` was first registered `[DERIVED]` on 2026-10-08 from the planned beats and is now the author's accepted Signature. The origins are single clauses (Rule 39.38.1.4); `L34-STATUS` and `L34-KNOWN` follow the digest and were accepted with the Signatures.
+**Cross-character note (author ruling):** no collision axes, uniqueness tests, or swap tests are recorded for this registration.
+
+---
+
+### 11.3 — Contradiction and Cost (B)
+
+**Contradiction Pair 1 (L36-CONTRA), inner:** `B39-L36-CONTRA-99` — **aggressive against enemies** versus **protective for his people** `[ASKED]` *(the author's own words of 2026-10-18; the catalog's nearest option, `B39-L36-CONTRA-01`, protects subordinates absolutely and will spend them without hesitation on order, which the author did not take)*. **Collides when:** pressing the attack would cost his own people, or protecting them would let the enemy stand. *Page evidence (Chapter 003):* in block 03 he draws the company back to the trees before the stroke ("all at once and with no word") and walks into the open road alone, and he ends the raid on his raised hand while the patrol lies pressed to the ground, with the fallen carried out first and himself last; two of his lowest raiders are felled at the gap (block 03).
+**Contradiction Pair 2 (L36-CONTRA), public:** `B39-L36-CONTRA-99` — **aggressive against all** versus **the exception he makes for his king**: in the author's words, "aggressive against all apart from his king" `[ASKED]`. **Collides when:** the king's word and his own force pull opposite ways, so that the man who is aggressive against everyone on the road is held by a word. *Conduct on the page only (Chapter 003):* the company was told what the king wanted "in the king's own few words" (block 02, Stoll's thought), and his stroke presses nine soldiers to the ground and kills none ("Three hurt and none dead, from a man who could have left all nine of them in the road", block 03). The order the page records, not to shed soldiers' blood, was an order for that time and was lifted on 2026-10-18; the pair is about the man and does not rest on that order. **Standing bar:** nothing interior about the king is recorded here or may be invented (Section 4).
+**Costly Behavior (L36-COST):** `B39-L36-COST-10` — a physical risk he takes unnecessarily, every time, for a registered reason: **he ends every raid himself, in the open** `[ASKED]` *(the author's wording is the registered text; the catalog option is `-10`)*. **The registered reason:** only his sign ends a raid (the Vanguard's code, THE SIGN IS THE LEADER'S), so the ending is his to make where the enemy can see him. **Costs him:** exposure (he stands alone and unscreened in the open road with the patrol's officer near) and being read (the Court holds his level and nothing else of him). **Paid on the page at:** Chapter 003 (Ref: 1.1.1.003), Area block 03 (the walk into the open middle of the road, the one stroke, the hand raised and kept up) and Area block 06 ("their leader stood at the very top of that realm, which the Captain read for herself").
+**Sub-Optimal Tendency (L36-SUBOPT):** **`OPEN-AUTHOR`** — set open by the author's word of 2026-10-18 ("set it open"); only the author sets it, and no value is registered or may be invented. *(Amended 2026-10-18 on the author's on-record directive; the Baseline line is changed by that word. History, kept and not registered: until that word the line read `B39-L36-SUBOPT-08`, solves the problem in front of him rather than the one that matters, `[DERIVED]` and flagged for author confirmation, from the page of Chapter 003 (he settles the horn and the chests, blocks 02 and 03; the cost that mattered was being read, and the Court holds his level, block 06); the digest's alternates were `-05`, attends to the small item and misses the large one, and `-06`, escalates when de-escalation would serve. A drafting agent shows no sub-optimal tendency of his in the prose, and if a scene needs one it stops and says so.)*
+**Off-Register Allowance (L36-OFFREG):** `B39-L36-OFFREG-01` — none registered; the character has never yet acted out of character `[DERIVED]`. Used this Section: No.
+
+*(Information: the Cast stroke's visible cost, the shoulders heaving and the count of three on the haft, is a world cost and is not the costly behavior. `B39-L36-TEXTURE` stays `OPEN-AREA` (11.1).)*
+
+---
+
+### 11.3a — Owed Beats (L)
+
+*[One line per beat a rule owes this character, in the form rule · code · shown in Area NN or OPEN. Opened with the registration and written at Gate 2 by the Post-Write Ledger Update (Part 39 Rule 39.41.5.2).]*
+
+| Rule | Code | Shown in Area |
+|---|---|---|
+| Rule 39.40.2.2 (the costly behavior is shown on the page when the story gives the moment) | `B39-L36-COST-10` | Chapter 003 (Ref: 1.1.1.003), Area block 03: he walks into the open middle of the road and ends the raid himself; it can be shown again |
+
+The other rules that owe a beat (Rules 39.12.1.2, 39.15.1.1, 39.17.1.1, 39.22.1.1 and the `B39-L19-SEAM-01` clause of 39.23.1.2) attach to `L08-UNSEEN`, `L11-MECH-10`, `L13-MASK`, the `L18` oath codes and `L19-SEAM-01`, and **none of those codes is registered for him** (`B39-L19-SEAM-02` is not `-01`). A line is added when a later registration adds one. *(Opened at the Tier B interview of 2026-10-18: the costly behavior is registered, so one beat is owed, and the page of Chapter 003 already shows it. Before the interview the 2026-10-17 note read: still none owed; the Cast stroke's visible cost is a world cost and not the costly behavior.)*
+
+---
+
+### 11.4 — Context Modulation Table (B/L)
+
+| Context | What changes | Codes affected |
+|---|---|---|
+| Alone | the stillness and the lips-shut count, with no word: he is "a place in the dark" until the sign `[DERIVED]` *(Chapter 003, block 02)* | `L01-STILL-01`, `L29-BEFORE-03`, `L29-SILENCE-07`, `L07-COUNT-01` |
+| With a superior | not registered; no superior stands on the page and the king is not shown | — |
+| With a subordinate | the sign and the count first; the instruction is bare | `L15-ORDER-99` |
+| With a child | not registered | — |
+| In ceremony | not registered | — |
+| In danger | the answered horn becomes an exact count aloud and a bare order | `L08-REFLEX-10`, `L03-CHANNEL-03`, `L15-ORDER-99` |
+| On another faction's ground | nothing on him or the company names a kingdom | `L09-CONCEAL-03`; the Redhaft Vanguard's code |
+| Under observation | same | same |
+
+*(Every row but "Alone" is plan baseline; "Alone" is `[DERIVED]` from the digest of 2026-10-18. A row that reads "not registered" is set by the first Area that shows it, or by the author.)*
+
+---
+
+### 11.4a — Relational Behavior Matrix (Layer L14)
+
+**Rask → parents / guardians (usual entry).** None established. Entry registered RESERVED, not invented.
+**Rask → child or ward (usual entry).** None established. Entry registered RESERVED, not invented.
+**Rask → his squad leaders, Hadric Stoll among them (subordinates).** The page shows only the sign, the count and the bare order; no delta from his baseline is registered. Entry RESERVED; cells fill when the story establishes one.
+**Rask → King Osgar Brack (he answers to the king directly, the author's ruling of 2026-10-18).** Entry RESERVED: no delta is registered, no meeting, voice or order of the king is recalled, and none is invented (the king stays off the page as a person this Section). No relation to the king is mapped as a drift row (11.6 row 6).
+**Rask → family / mentors / rivals / informal bonds:** `[N-A]` — none established; entries reserved, not invented.
+
+---
+
+### 11.5 — Collective Code Binding (B/L)
+
+**Active collective codes:** the Redhaft Vanguard (`ledger-people-society-faction/redhaft-vanguard.md`, Collective Behavior Code, **Registered 2026-10-08**). He is the raid leader the code's "the sign is the leader's" provision names, and by the author's ruling of 2026-10-18 he leads the whole Vanguard. No kingdom-level code exists for Brackenhold, and none is invented.
+**Conformance (L19-CONFORM):** `B39-L19-CONFORM-01` — exemplary; holds the code more exactly than the code requires `[DERIVED]` *(see 11.1)*
+**Deviation seam (L19-SEAM):** `B39-L19-SEAM-02` — deviates on one specific ritual, consistently, and has never explained why: he walks while the line runs `[DERIVED]` *(see 11.1; Rule 39.23.1.2 asks one seam)*
+**Rank modulation (L19-RANKMOD):** `OPEN-AREA` *(no superior stands on the page and the king is not shown)*
+**Shown on the page (Chapter 003 — The Lone Banner, Ref: 1.1.1.003; information, no value above is changed):** the provisions of the code that show are the sign being the leader's (his raised hand starts, holds and ends the raid; no word starts the company), no mark (nothing on the company names a kingdom), one body (the company moves as one at his sign) and the line being quiet (no cries on the road and no names). The code's provision NO SOLDIER'S BLOOD, once listed here, was removed on the author's ruling of 2026-10-18 (the Vanguard may kill soldiers). The page never says "Redhaft" in a character's mouth and never names him to the Azure Sky side.
+
+---
+
+### 11.6 — Conditional Drift Map (B)
+
+*Six usual entries (Part 39 Rule 39.42.4.1), as the digest of the Tier B interview proposed them and the author accepted them on 2026-10-18: rows 2, 3 and 4 are mapped `[DERIVED]`; rows 1, 5 and 6 are `[N-A]` with their reasons. For a Tier B person the Gate 1 continuity-checker rules a firing that needs a ruling and records its reasons (Part 43); a PIS-7 event, a realm crossing and an age-band crossing always open Check #21 (Rule 39.42.5.1). **No change is invented** for a row the evidence does not support. Trigger classes per Part 39 Area 42.2; permanence grades per Area 42.3.*
+
+| Trigger | Class | Dimension(s) | From | To | Permanence | Reversion condition |
+|---|---|---|---|---|---|---|
+| **First kill** | T-1 | `L25-KILL` | `B39-L25-KILL-02` (the standing state: he has killed several times before the story starts, details unset) | `[N-A]` — no first kill is left to fire; the author's ruling of 2026-10-18 | — | — |
+| **First significant defeat** | T-1 | `L07-COUNT` | `-01` — counts people in a room, always, and knows the number (Signature, row 5 of 11.2) `[DERIVED]` | `-10` — counts as a compulsion under stress specifically, and not at rest `[DERIVED]` *(his gift is the count, so a defeat moves the count; rule-based, no defeat is on the page)* | Provisional | reverts when his sign next closes a raid with the objective in hand |
+| **First PIS-5 event** | T-5 | `L27-PIS5` | `B39-L15-ORDER-99` fires (the sign starts, holds and ends the raid) `[DERIVED]` | `B39-L27-PIS5-01` — the Signature `B39-L15-ORDER-99` ceases to fire for the duration: the hand does not rise `[DERIVED]` *(rule-based: the sign is the load-bearing Signature)* | Provisional | recovery requires an event and not time alone (Part 39 Area 31, `L27-PIS5`); the event is named at the Check #21 that the firing opens |
+| **Realm/tier crossing** | T-4 | `L26-DIRECTION` | `-07` — unchanged in conduct, deliberately and effortfully, as a discipline; Warrior Level 9 Peak (Section 2) `[DERIVED]` | `-07` — a recorded no-change crossing to Champion Level 1 Low (Rule 39.30.1.1), logged as a Section 12 no-change entry when it fires `[DERIVED]`; no crossing is planned | n/a; Check #21 opens automatically (Rule 39.42.5.1) | — |
+| **Age-band crossing** | T-8 | `L30-BAND` | `B39-L30-BAND-05` — established adult, ages 26 to 50; age forty-one (Section 1) | `[N-A]` — the next band (late adult, 51 to 65) is reached no earlier than Year 1256, after Phase 1 (Years 1247 to 1255, Part 41) | — | — |
+| **Loss of the most significant registered relationship** | T-2 | — | no relationship is registered as significant (11.4a) | `[N-A]` — none to lose; the first Layer L14 entry the story registers becomes this row (Rule 39.18.1.2); no relation to the king is mapped | — | — |
+
+**Not mapped, by design:** a villain's six Part 18 arc-phase transitions (trigger class T-10) and the villain's defeat, which Part 39 maps for a villain, wait on the author: the arc type, the arc phase and the defeat type are `OPEN-AUTHOR` (Section 9), and they are mapped when the author sets them. **Unmapped-trigger note:** any Brackenhold order of recall and any change of the company's rule of plain clothes are deliberately not pre-mapped; each fires Gate 1 Check #21 detection class D-2 and is ruled there, then written back into this map (Rule 39.42.5.2). The lifted order of Chapter 003 (the Vanguard may now kill soldiers) is a change in the Chapter's circumstance and not in him, and is not a drift.
+**Drift count:** nothing moved at registration; 0 dimensions moved this Section (information only; Rule 39.35.1.3).
+**Chapter 003 note (Ref: 1.1.1.003, 2026-10-17):** the first-kill row did not fire at that Gate 2; Wil Harker was ended by a fighter of the rear squad and not by Rask. The kill state is now registered (`B39-L25-KILL-02`), and the row reads `[N-A]`. The Check #21 enquiry read SILENT for him (Section 12).
+
+---
+
+### 11.7 — Read-By-Others Registry (Layer L33) (B/L)
+
+**Noticed first (`L33-FIRST-01`):** his stillness `[DERIVED]` *(Stoll: "there had been no Rask at all"; Tregear: "a shape she had taken for a stump in the frost")*
+**Routinely misread as (`L33-MISREAD-99`, Rule 39.37.1.2):** his stillness, read as nothing being there at all. **The specific wrong conclusion:** that there is only a place in the dark, or a stump in the frost, where a man stands counting `[DERIVED]`
+**By rank (`L33-BYRANK`):** superiors — `OPEN-AREA` · peers — `OPEN-AREA` · subordinates — `OPEN-AREA` · outsiders — `OPEN-AREA`
+**By intimates (`L33-INTIMATE`):** none exist; fills when the author creates any (`OPEN-AREA`).
+**Reputation gap (`L33-REP`):** `OPEN-AREA`. *(The page's only public reading of him is his level: "their leader stood at the very top of that realm", block 06.)*
+**Last revised:** 2026-10-18 (the Tier B interview).
+
+*[L — 11.1 non-signature lines, 11.3a, 11.4, 11.4a, 11.5 and 11.7 are Living. 11.2, 11.3 and 11.6 are Baseline.]*
+
+---
+
+## Section 12 — Behavioral Evolution Log (L)
+
+*[Governed by Part 39 Area 41.2. Append-only: entries are never edited or deleted; a correction is a new entry that supersedes and says so.]*
+
+*[A Part 29 voice change is logged here too (Part 29 Rule 29.4.1.2): Dimension = Voice Register element n, Trigger Event = the governed event that caused the change. The Section 1 Voice Register is edited only from such a logged entry.]*
+
+**Drift Count (Part 39 Rule 39.35.1.3):** 0 dimensions moved this Section (information only).
+**Immutable Core (Layer L31-IMMUTABLE):** `B39-L31-IMMUTABLE-01` (`B39-L01-STILL-01`) and `B39-L31-IMMUTABLE-08` (`B39-L03-CHANNEL-03`) — unmoved since registration.
+
+| # | Area Ref | Trigger Event | Class | Dimension | From | To | Permanence | Reversion Condition | Authority | Date |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 0 | — | *Registration baseline established; no drift executed.* | — | — | — | — | — | — | Registration | 2026-10-08 |
+
+*Tier B interview, 2026-10-18 (before Chapter 005 Area 2 is drafted): the registration is extended, not drifted. No Part 39 dimension moved, so the Drift Count above stays 0 and no row is added to the log table above; row 0 stays the baseline. The six Conditional Drift Map rows are at Section 11.6. No Deferred row is created, because nothing was deferred.*
+
+*FLAG FOR THE CHECK #19, #20 AND #21 READER — Voice Register change, 2026-10-18 (Part 29 Rule 29.4.1.2; the Section 1 Voice Register is edited only from a logged Section 12 entry, and this note is that entry). The author's ruling at the Tier B interview replaced the Section 1 Voice Register. **Was:** the scope of 2026-10-08, counts and orders given to his own squad leaders and line on a raid, with the prosodic determinants PSM-9 (figures first) and PSM-5 (bluntness: no qualifier and no reason), `[DERIVED]` from one planned line. **Now:** assertive and command-oriented speech, flowing and not abrupt, with his thought under the same register `[ASKED]`; PSM-1 (rolling) and PSM-5 (bluntness, read as assertive) are the recorder's reading of those words, flagged for the author's confirmation, and PSM-9 is no longer registered. This is a registration act and not a drift. Chapter 003's two spoken lines stand as written and fit the register. For Check #19 element 19-1 and Check #20: read his speech and thought against the new register from Chapter 005 Area 2 on; an earlier line that leads with a number is not a contradiction. For Check #21: a later change to the register is a governance event (Rule 29.4.1.2) and needs a new entry; a line that fits neither the register nor the standing holds in Section 1 (no address form, nothing about the king beyond Section 4, no parley with terms) is a detection class D-2 enquiry.*
+
+*Two own-text lines of the 2026-10-08 registration moved to catalog codes at the same interview, recorded here for the Check #20 reader: `B39-L25-RETREAT-99` (he breaks off on his own signal, with the objective in hand) is now `B39-L25-RETREAT-04` ("Covers the retreat personally and leaves last, always"), and `B39-L29-BEFORE-99` (the wait before the sign is spent counting the file as it enters the narrow) is now `B39-L29-BEFORE-03` ("Goes completely silent and is unreachable"). The same page evidence stands behind both. The Chapter 003 record of what fired (Section 10) names the earlier codes as they were registered then. `B39-L36-OFFREG-01` moved from `[N-A]` to `[DERIVED]`.*
+
+*Chapter 003 (Ref: 1.1.1.003), his first Chapter on the page, executed no drift: no mapped or unmapped trigger fired and no dimension moved. The Check #21 enquiry read SILENT for him (he is Tier B, so the Gate 1 continuity-checker decides under Part 43 and asks the author nothing): D-1 to D-4 none found. His first Cast Signature stroke, with its visible cost, is a world cost and not a change of any profile line; he kills no one by his own hand on the page (Wil Harker is ended by a fighter of the rear squad, and the stroke presses the patrol's row to the ground and kills no one). No Deferred row is created, because nothing was deferred.*
+
+*Registration act, 2026-10-18 (second entry of the day; append-only): the author's word "set it open" set `B39-L36-SUBOPT-08` to `OPEN-AUTHOR` (Sections 11.1 and 11.3). This is a registration act and not a drift: it turns a flagged derived line into an open one by the author's word, no executed behavior changed, the Drift Count above stays 0 and no row is added to the log table above (row 0 stays the baseline). The earlier value, "solves the problem in front of him rather than the one that matters", was `[DERIVED]` and flagged and was never an `[ASKED]` line; it is kept as history at 11.3 and is not registered. For the Check #19, #20 and #21 reader: a page that shows him making a characteristic error is not a contradiction of anything registered, and a value for this line is set by the author and never by an agent. The Manual Ledger rows written the same day (Section 3) touch no Part 39 dimension. No Deferred row is created, because nothing was deferred.*
+
+**Superseded behaviors available for reversion (Part 39 P39-10):**
+| Code | Superseded value | Reverts under | Last seen |
+|---|---|---|---|
+
+*[L — updated at every executed drift event, pre-registered or Check #21-ruled. The Deferred Check #21 table is created by the first deferral.]*
+
+---
+
+## Section 13 — Current Condition (L)
+
+*[Detailed form (Part 37 Area 2.1). Every field reads `none recorded at story start` until an Area changes it.]*
+
+**Emotional state:** No feeling is named on the page (Chapter 003, Ref: 1.1.1.003). He does not look at what he has done to Wil Harker (Area block 02); after the Cast stroke he stands with his shoulders heaving (Area block 03).
+**Mental state:** He holds the count of the file as he counts it in with his lips shut, the count of the runners ("Eight are coming down the road behind us at a run") and the count of the patrol ("Nine stand across the road"); he holds the line to the trees until he ends it (Area blocks 02 and 03).
+**Psychological state:** none recorded (no PIS event; the PIS level, PIS-1 at story start, and the wounds, none, stay in Section 5)
+**Physical state:** Whole and unwounded as far as the page shows; after the stroke he leans on the butt of his halberd for a count of three and then leaves last with the haft for a staff (Area block 03); no wound or mark is shown.
+**Metaphysical state:** Warrior Level 9 Peak (Section 2), stated on the page. His qi is drawn in to nothing while he is hidden; a pressure grows as his halberd rises, the frost lifts off the ruts round his boots, and the stroke follows; afterwards the weight is gone and his shoulders heave. The page shows one stroke (Area blocks 02 and 03).
+**Soul state:** none recorded at story start
+
+**Wounds and lasting marks:**
+| Wound or mark | Kind (physical / mental / psychological / metaphysical / soul) | Caused by (who or what, with Area ref) | Since (story day) | How long it lasts (days / a stated time / permanent) | Now (active / healing / healed / permanent) |
+|---|---|---|---|---|---|
+| none recorded at story start | | | | | |
+
+**Last changed:** Chapter 003 — The Lone Banner (Ref: 1.1.1.003), at dusk on Year 1246, Ulenor, Day 8 (a dated flashback; the change is also a Section 10 row, which names this Section).
+
+**Narrative summary (as of Chapter 003, Ref: 1.1.1.003).** At the close of the raid on the lower road, at dusk on Year 1246, Ulenor, Day 8, Rask is the last of his company to leave the road, going back through the trees with the haft of his halberd for a staff, after a Cast stroke that cost him and a hand raised and kept raised that ended the raid. The two head chests are out and carried away; he has killed no one by his own hand on that day. The Azure Sky side does not know his name and knows only that their leader stood at the very top of the Warrior realm. Nothing about his standing has changed, and his Warrior Level 9 Peak is as the text states it. *(Registration, 2026-10-18: he is forty-one, a Tier B villain who leads the whole Vanguard and answers to the king directly, and he has killed before the story starts, details unset; none of this changes the state of the road at Chapter 003.)*
+
+*[L — Written by the Post-Write Ledger Update after every Area that changes any field above, for every character the Area affects, whoever caused the change. Read by the Pre-Write Ledger Check before every Area in which the character appears. A healed wound keeps its row, marked healed with the Area ref. Each change is also a Section 10 row that names Section 13.]*
+
+---
+
+## Section 14 — Evolution Entries (L)
+
+*[Governed by Part 43 (Character Evolution Law), added 2026-10-06 and appended after Section 13; no earlier section is renumbered. Present in every hero, villain, side-character and monster ledger (Kind and Individual). Append-only: an entry is never edited or deleted, and a correction is a new entry that supersedes the earlier one and says so. The only act that removes entries is a reset to a date the author names (Part 43 Rule 43.6.1.1). The base profile in Sections 1 to 9 and 11 is never overwritten by an entry; the current profile is the base plus the entries in order (Part 43 Rule 43.4.2.1).]*
+
+**Reset note:** none
+
+| # | Date (story date / ruled on) | Layer, dimension or code | Was | Becomes | Kind (ADD / CHANGE / RETIRE) | Area Ref | Ruled by (author / agent) | Reason |
+|---|---|---|---|---|---|---|---|---|
+
+*none recorded*
+
+*[L — Written by the Post-Write Ledger Update at Gate 2 once the ruling is made: the author for a hero, a Tier A character, villain or monster, and any immutable (always). Entry numbers run 1, 2, 3 per character and are never reused. Reads `none recorded` until a ruling is made. An author-ruled evolution does not count as drift (Part 43 Rule 43.6.2.1).]*
+
+---
+
+**Changelog:** Created 2026-10-08: pre-draft registration for Chapter Spec 1.1.1.003 at the author's instruction (Tier B file; Part 39 partial plan-baseline registration: mandatory-core six, one Signature, Voice Register and two prosodic determinants; the remaining dimensions, the other Signatures, the contradiction pairs and the costly behavior left `OPEN-AREA` or `OPEN-AUTHOR`).
+**Changelog:** Updated 2026-10-17 (Gate 2 of Chapter 003, Ref: 1.1.1.003): First Area Appearance set; Gender set from OPEN-AUTHOR to Male (he/him) on the author's ruling given in chat during the Chapter Spec build and relayed by the orchestrating command (the Chapter Spec's note "Rask's pronoun"); Physical Description, the Voice Register note, the Section 2 page note, the Section 3 Named Moves and Manual Kit lines, the Section 7 note, the Section 9 status, the Section 10 row, the notes at 11.2, 11.3a, 11.5 and 11.6, the Section 12 note and Section 13 written from the page. Nothing else changed.
+**Changelog:** Updated 2026-10-18 on the author's ruling: the Redhaft Vanguard code's provision NO SOLDIER'S BLOOD was removed (the Vanguard may kill soldiers), so its clause is taken out of the list of provisions shown at 11.5 and a one-line dated note stands in its place. Nothing else changed.
+**Changelog:** Moved, filed and registered 2026-10-18 on the author's rulings (second entry of the day): the file moved from `ledger-character-side/wulfric-rask.md` to `ledger-character-villain/wulfric-rask.md` with every value kept, and was re-headed as a Villain Ledger (Ledger Type Villain — Tier B; Sections 1 to 9 on the villain schema of Part 37 Area 2.2, the Part 18 lines added as `OPEN-AUTHOR` or `OPEN-AREA`). Set from the author's answers: age, Soul Sensitivity, affinity, ideology, moral orientation, polarity, stability, PIS level, wounds, command line (leads the whole Vanguard, answers to the king directly), the Voice Register (logged at Section 12), the twelve Signatures and their origins, the immutable core, the two contradiction pairs, the costly behavior and the kill state. Section 11 written in full for the digest's recommended values; the Voice Register note on contractions replaced by the current law; the notes that said he is not a viewpoint holder removed; `B39-L36-OFFREG-01` moved from `[N-A]` to `[DERIVED]`. The Part 18 archetype, arc and narrative function left `OPEN-AUTHOR`. Section 12 gained notes (Drift Count 0, no log row).
+**Changelog:** Amended 2026-10-18 (third entry of the day, on the author's word relayed by the orchestrating command): (1) `B39-L36-SUBOPT-08` from `[DERIVED]` (solves the problem in front of him rather than the one that matters), flagged, to `OPEN-AUTHOR`, the author's word being "set it open"; the Baseline line at 11.3 is changed by that directive and the earlier value is kept there as history; the Section 11 header, 11.1 (the line and the L36 open line), the coverage tally, the Layer sums, 11.2 (registration flags 2 and 4), Section 10 (a new row), Section 12 (a new italic note, Drift Count 0, no log row) and the villain index (three cells) were brought into line: 92 of 291 dimensions addressed, 52 `[DERIVED]`, 198 `OPEN-AREA`, 1 `OPEN-AUTHOR`. (2) The Manual Ledger rows owed a Tier B person were written (`char_id` `WLR`; `ledger-manuals/characters.csv` and `ledger-manuals/character-kits.csv`, one kit row for `MAN-SIG-HAL-013`), and the Section 3 Manual Kit line now records them, their states at Warrior and the eligibility reading; the Ledger Version moved to v2.1. No other field, tag or level changed.

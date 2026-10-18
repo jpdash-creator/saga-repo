@@ -47,7 +47,7 @@
 **Cultivation Force Tier:** Not established. The one company shown is of Warriors, line fighters at Warrior Level 3 to 5 with squad leaders and a raid leader above them (the formation's file holds the levels).
 **Technology Force Tier:** Not established
 **Active Conflicts:** None declared. One hostile act on record, in the Azure Sky Kingdom: on 1246.12.8 / PD -19 a company of about twenty Warriors in plain coats, with halberds and no mark of any kingdom, took a mine's file on the lower road (`lower-road.md`); the Azure Sky Court does not know whose company it was (Ref: 1.1.1.003).
-**Political Posture:** What the page gives, in the narration of the company's scene: "a king three years crowned wants a first road"; King Osgar Brack "wanted this one, and the mine at the top of it"; the company "had been told so when it was called together, in the king's own few words, and told one thing more: it must shed no soldier's blood, because a dead soldier would turn a raid into a war, and a war would name the company". The company went to its work "with nothing on it that named anything" (Ref: 1.1.1.003).
+**Political Posture:** What the page gives, in the narration of the company's scene: "a king three years crowned wants a first road"; King Osgar Brack "wanted this one, and the mine at the top of it"; the company "had been told so when it was called together, in the king's own few words, and told one thing more: it must shed no soldier's blood, because a dead soldier would turn a raid into a war, and a war would name the company". The company went to its work "with nothing on it that named anything" (Ref: 1.1.1.003). *(Author's ruling 2026-10-18: the Vanguard may kill soldiers and its code provision on this order is removed; the words above are the Chapter 003 page as written. See Section 8.)*
 **Who Holds Real Power (versus titled power):** Not established. The king's "own few words" reached the company; the page shows nothing between the crown and the company.
 **Standing Tensions (two lines):** None established beyond the raid above.
 
@@ -92,7 +92,7 @@
 ## Section 7 — Notable Characters (B/L)
 
 **Ruling Characters:** King Osgar Brack — king; crowned three years before the raid; off the page (cross-ref: `ledger-character-villain/osgar-brack.md`)
-**Key NPCs:** None of the kingdom's own officers is shown. The people shown acting in its cause are of the Redhaft Vanguard: Wulfric Rask, raid leader (cross-ref: `ledger-character-side/wulfric-rask.md`), and Hadric Stoll, squad leader (cross-ref: `ledger-character-villain/_index.md`); see `ledger-people-society-faction/redhaft-vanguard.md`.
+**Key NPCs:** None of the kingdom's own officers is shown. The people shown acting in its cause are of the Redhaft Vanguard: Wulfric Rask, raid leader of the whole Vanguard, a Tier B villain (cross-ref: `ledger-character-villain/wulfric-rask.md`), and Hadric Stoll, squad leader (cross-ref: `ledger-character-villain/_index.md`); see `ledger-people-society-faction/redhaft-vanguard.md`.
 
 *[L — Updated when characters arrive, depart, die, or change role]*
 
@@ -104,6 +104,7 @@
 |---|---|---|---|
 | 1.1.1.003 — The Lone Banner (1246.12.8 / PD -19, a flashback date) | The kingdom is named for the first time, once, in the narration of the raiding company's scene, in the squad leader's point of view: "Brackenhold's king had worn his crown three years, and a king three years crowned wants a first road." King Osgar Brack "wanted this one, and the mine at the top of it"; the company had been told so in the king's own few words, and told that it must shed no soldier's blood, because a dead soldier would turn a raid into a war and a war would name the company. No character says the kingdom's name in a scene, and on 1247.1.2 / PD 2 the Azure Sky Court, hearing the report of the raid, does not know who the raiders were. | Parts 13, 22, 28, 41 | Header; Sections 1 to 9 |
 | Author ruling, 2026-10-18 (map consultation) | The kingdom is placed by the author: north-west of the Azure Sky Kingdom, across the lower ford, bordering Azure Sky and the Ember Reach polities (`[ASKED]`), in the hill and timber country of Azure Sky's north-western frontier. Its capital, its extent beyond this and its classification stay not established. | Parts 13, 28 | Header; Section 1 (Territorial Extent); Sections 8 and 9 |
+| Author ruling, 2026-10-18 (Vanguard code) | The Redhaft Vanguard's code provision NO SOLDIER'S BLOOD is removed: the Vanguard may kill soldiers. The king's order as the Chapter 003 page gives it (Section 3 and the 1.1.1.003 row of this log) is the page as written and stands until that Chapter is revised. | Parts 22, 28, 39 | Section 3 (Political Posture); Section 8 |
 
 ---
 
@@ -122,3 +123,7 @@
 **Changelog:** Created 2026-10-17 at the Gate 2 of the whole-built Chapter 003 (Ref: 1.1.1.003): Threshold L-2, from the written text and the author's own words only; every field the page does not set reads not established.
 
 **Changelog:** Updated 2026-10-18 at the author's ruling (map consultation): Section 1 Territorial Extent, Section 8 and the Open line of Section 9, from the author's words only; the capital, the extent beyond the placement and the classification stay not established.
+
+**Changelog:** Updated 2026-10-18 on the author's ruling (Vanguard code): a note added to Section 3 (Political Posture) and a ruling row to Section 8 for the removal of the Redhaft Vanguard's code provision NO SOLDIER'S BLOOD; the Chapter 003 page record is unchanged.
+
+**Changelog:** Updated 2026-10-18 on the author's ruling (Wulfric Rask filed as a Tier B villain): Section 7 (Notable Characters), the Key NPCs cross-reference to Rask now points at `ledger-character-villain/wulfric-rask.md` and names him leader of the whole Vanguard and a Tier B villain. Nothing else changed.
