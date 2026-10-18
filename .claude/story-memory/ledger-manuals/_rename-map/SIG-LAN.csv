@@ -1,0 +1,138 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-LAN-001-01,Twin-Track Walk-Up Pace,Vampodyssey,F4,Warrior,B
+MV-SIG-LAN-001-02,Paired-Eye Mark Sight,Pealvamp,F5,Warrior,B
+MV-SIG-LAN-001-03,Track-Side Point Jab,Vampdecree,F4,Warrior,B
+MV-SIG-LAN-001-04,Double-Track Qi Thrust,Prism Tilt,F2,Warrior,B
+MV-SIG-LAN-001-05,Hawk-Wing Haft Fend,Parity Couchrest,F2,Warrior,B
+MV-SIG-LAN-001-06,Lane-Swap Rein Snap,Deluge Impact,F2,Warrior,B
+MV-SIG-LAN-001-07,Tracks-Together Lance Press,Famed Bowl,F1,Champion,B
+MV-SIG-LAN-001-08,Twin-Lane Guard Fan,Counterbalance Covenant,F3,Champion,B
+MV-SIG-LAN-001-09,Twin-Track Meeting Point,Gallant Lanceguard,F1,Demigod,B
+MV-SIG-LAN-001-10,Twin-Track School Stroke,Inferno Lancehead,F2,Warrior,B
+MV-SIG-LAN-002-01,Basin-Floor Couch Settle,Magnanimous Graper,F1,Warrior,B
+MV-SIG-LAN-002-02,Rim-to-Floor Sight Line,Hospitable Coronel,F1,Warrior,B
+MV-SIG-LAN-002-03,Low-Basin Point Run,Fearless Momentum,F1,Warrior,B
+MV-SIG-LAN-002-04,Basin-Held Piercing Thrust,Pulsarvamp,F5,Warrior,B
+MV-SIG-LAN-002-05,Rim-Cover Shaft Ward,Steelvamp,F5,Warrior,B
+MV-SIG-LAN-002-06,Basin-Curve Wheel Step,Deluge Shatter,F2,Warrior,B
+MV-SIG-LAN-002-07,Mire-Edge Haft Heave,Authoritative Arrestrest,F1,Warrior,B
+MV-SIG-LAN-002-08,Couched Basin Descent Charge,Impacttriumph,F4,Champion,B
+MV-SIG-LAN-002-09,Rim-Closing Rider Hold,Bowltroth,F4,Champion,B
+MV-SIG-LAN-002-10,Basin Floor Lance Fall,Pulsar Vamplate,F2,Demigod,B
+MV-SIG-LAN-002-11,Basin Doctrine School Stroke,Gallant Impact Verdict,F6b,Warrior,B
+MV-SIG-LAN-003-01,Azure-Plain Paired Canter,Deluge Bellrest,F2,Champion,B
+MV-SIG-LAN-003-02,Matching Rest Drop,Grapergift,F4,Champion,B
+MV-SIG-LAN-003-03,Plain-Side Reach Jab,Impactdecree,F4,Champion,B
+MV-SIG-LAN-003-04,Pair-Gap Glance,Pealgraper,F5,Champion,B
+MV-SIG-LAN-003-05,Pair-Linked Thrust,Vampbanner,F4,Champion,B
+MV-SIG-LAN-003-06,Shared Shaft Fan Guard,Unwavering Counterbalance,F1,Champion,B
+MV-SIG-LAN-003-07,Partner-Side Hook Pull,Venomsaddle,F5,Champion,B
+MV-SIG-LAN-003-08,Plain-Wide Pair Wheel,Grapervoyage,F4,Champion,B
+MV-SIG-LAN-003-09,Pair Spearhead Charge,Quenched Ride,F2,Champion,B
+MV-SIG-LAN-003-10,Plain-Held Pair Barrier,Steel Arrestrest,F2,Champion,B
+MV-SIG-LAN-003-11,Azure Pair Overrun,Prismbowl,F5,Champion,B
+MV-SIG-LAN-003-12,Plain Pair School Stroke,Exalted Quenched Vamplate,F6a,Champion,B
+MV-SIG-LAN-004-01,River-Fork Approach Step,Deluge Momentum,F2,Ruler,B
+MV-SIG-LAN-004-02,Confluence Point Aim,Benevolent Lanceshaft,F1,Ruler,B
+MV-SIG-LAN-004-03,Fork-Side Shaft Strike,Squall Coronel,F2,Ruler,B
+MV-SIG-LAN-004-04,Flowing-Joined Thrust,Steel Bellrest,F2,Ruler,B
+MV-SIG-LAN-004-05,River-Stone Haft Ward,Peal Lanceshaft,F2,Ruler,B
+MV-SIG-LAN-004-06,Branch-Choosing Rein Turn,Bedrock Tilt,F2,Ruler,B
+MV-SIG-LAN-004-07,Confluence Lance Charge,Bowldecree,F4,Ruler,B
+MV-SIG-LAN-004-08,Bend-Catching Counter Sweep,Parity Lancehead,F2,Ruler,B
+MV-SIG-LAN-004-09,Two Rivers One Lance,Graper Crown,F3,Ruler,B
+MV-SIG-LAN-004-10,Treatise Confluence Stroke,Vaunted Vacuum Shatter,F6a,Ruler,B
+MV-SIG-LAN-005-01,High-Banner Sighting,Couchrest Mercy,F3,Demigod,B
+MV-SIG-LAN-005-02,Perch-Before-Stoop Seat,Arrestrest Benison,F3,Demigod,B
+MV-SIG-LAN-005-03,Banner-Line Point Strike,Gallant Bowl,F1,Demigod,B
+MV-SIG-LAN-005-04,Banner-Cutting Piercing Drop,Intrepid Bellrest,F1,Demigod,B
+MV-SIG-LAN-005-05,Hawk-Pinion Haft Turn,Deluge Lanceguard,F2,Demigod,B
+MV-SIG-LAN-005-06,Twin-Banner Weave Step,Duneimpact,F5,Demigod,B
+MV-SIG-LAN-005-07,Updraft Rein Lift,Saddlemercy,F4,Demigod,B
+MV-SIG-LAN-005-08,High Lance Stoop Charge,Haemal Counterbalance,F2,Demigod,B
+MV-SIG-LAN-005-09,Banner-Pinned Foe Hold,Hornbeam Ride,F2,Demigod,B
+MV-SIG-LAN-005-10,Hawk Between the Banners,Skyborne Momentum,F1,Demigod,B
+MV-SIG-LAN-005-11,High Lance School Stroke,Steel Couchrest,F2,Demigod,B
+MV-SIG-LAN-006-01,Sky-Basin Core Breath,Volition Graper,F2,Core Formation,B
+MV-SIG-LAN-006-02,Core-Steady Lance Hold,Solargraper,F5,Core Formation,B
+MV-SIG-LAN-006-03,Basin-Rim Core Sight,Reminiscence Lanceguard,F2,Core Formation,B
+MV-SIG-LAN-006-04,Core-Line Point Jab,Quenched Lanceshaft,F2,Core Formation,B
+MV-SIG-LAN-006-05,Core-Fed Piercing Thrust,Radiance Tilt,F2,Core Formation,B
+MV-SIG-LAN-006-06,Sky-Basin Haft Shield,Hornbeam Vamplate,F2,Core Formation,B
+MV-SIG-LAN-006-07,Core-Pulse Rein Step,Evanescent Lancehead,F1,Core Formation,B
+MV-SIG-LAN-006-08,Rim-Pressing Shove,Subjugating Ride,F1,Core Formation,B
+MV-SIG-LAN-006-09,Core Lance Basin Charge,Haemalbowl,F5,Core Formation,B
+MV-SIG-LAN-006-10,Core-Held Basin Hold,Steelgraper,F5,Core Formation,B
+MV-SIG-LAN-006-11,Core Sky Lance Descent,Vigorsaddle,F5,Core Formation,B
+MV-SIG-LAN-006-12,Sky-Basin Canon School Stroke,Matchless Vacuum Lanceshaft,F6a,Core Formation,B
+MV-SIG-LAN-007-01,Wind-Oath Couch,Paritygraper,F5,Warrior,B
+MV-SIG-LAN-007-02,Plateau Pace Hold,Squall Ride,F2,Warrior,B
+MV-SIG-LAN-007-03,Sworn-Wind Straight Jab,Quenched Shatter,F2,Warrior,B
+MV-SIG-LAN-007-04,Wind-Sworn Point Drive,Quenched Coronel,F2,Warrior,B
+MV-SIG-LAN-007-05,Plateau-Wind Haft Turn,Deluge Lancehead,F2,Warrior,B
+MV-SIG-LAN-007-06,Oath-Held Gale Wheel,Spectral Impact,F1,Warrior,B
+MV-SIG-LAN-007-07,Cord-Read Gust Correction,Interstice Bellrest,F2,Warrior,B
+MV-SIG-LAN-007-08,Sworn Plateau Charge,Quenched Momentum,F2,Champion,B
+MV-SIG-LAN-007-09,Wind-Bar Line Hold,Peremptory Arrestrest,F1,Champion,B
+MV-SIG-LAN-007-10,Wind Sworn to the Iron,Shatter Triumph,F3,Demigod,B
+MV-SIG-LAN-007-11,Sworn Plateau School Stroke,Bedrock Bowl,F2,Warrior,B
+MV-SIG-LAN-008-01,Bearing-Taking Seat,Revelation Vamplate,F2,Warrior,B
+MV-SIG-LAN-008-02,Held-Bearing Run,Impact Voyage,F3,Warrior,B
+MV-SIG-LAN-008-03,Saddle-Bearing Point Jab,Squall Tilt,F2,Warrior,B
+MV-SIG-LAN-008-04,Bearing-Fed Thrust,Thunderclap Counterbalance,F2,Warrior,B
+MV-SIG-LAN-008-05,Bearing-Cross Haft Guard,Inviolate Coronel,F1,Warrior,B
+MV-SIG-LAN-008-06,Shifted-Bearing Wheel,Spectral Bowl,F1,Warrior,B
+MV-SIG-LAN-008-07,Oath Bearing Charge,Bedrock Coronel,F2,Champion,B
+MV-SIG-LAN-008-08,Bearing-Pinned Rider Hold,Sigilimpact,F5,Champion,B
+MV-SIG-LAN-008-09,Oath Bearing Held to Impact,Thunderclap Graper,F2,Demigod,B
+MV-SIG-LAN-008-10,Oath-Rider School Bearing,Couchrest Edict,F3,Warrior,B
+MV-SIG-LAN-009-01,Long-Gale Seat Rite,Lanceguard Blessing,F3,Champion,B
+MV-SIG-LAN-009-02,Charge-Rite Pace Set,Bowl Grace,F3,Champion,B
+MV-SIG-LAN-009-03,Rite-Marked Reach Strike,Steelsaddle,F5,Champion,B
+MV-SIG-LAN-009-04,Gale-Edge Eye Fix,Vampmercy,F4,Champion,B
+MV-SIG-LAN-009-05,Rite-Driven Piercing Thrust,Tilttriumph,F4,Champion,B
+MV-SIG-LAN-009-06,Gale-Rite Shaft Veil,Statute Arrestrest,F2,Champion,B
+MV-SIG-LAN-009-07,Rite-Keeping Rein Pull,Momentum Voyage,F3,Champion,B
+MV-SIG-LAN-009-08,Long-Wind Haft Hook,Entropy Impact,F2,Champion,B
+MV-SIG-LAN-009-09,Long Gale Rite Charge,Vigorvamp,F5,Champion,B
+MV-SIG-LAN-009-10,Rite-Held Rank Bar,Volition Lanceguard,F2,Champion,B
+MV-SIG-LAN-009-11,Last Long Gale Rite,Valiant Ride,F1,Champion,B
+MV-SIG-LAN-009-12,Long Gale School Rite Stroke,Fearless Tilt,F1,Champion,B
+MV-SIG-LAN-010-01,Edge-Standing Seat,Vigor Vamplate,F2,Ruler,B
+MV-SIG-LAN-010-02,Edge-Line Sighting,Eclipse Bellrest,F2,Ruler,B
+MV-SIG-LAN-010-03,Edge-Side Lance Jab,Magnificent Graper,F1,Ruler,B
+MV-SIG-LAN-010-04,Edge-Pressed Thrust,Pulsar Counterbalance,F2,Ruler,B
+MV-SIG-LAN-010-05,Drop-Guard Haft Turn,Delugegraper,F5,Ruler,B
+MV-SIG-LAN-010-06,Edge-Skirting Wheel,Deluge Lanceshaft,F2,Ruler,B
+MV-SIG-LAN-010-07,Plateau-Edge Charge,Impactbanner,F4,Ruler,B
+MV-SIG-LAN-010-08,Edge-Closing Lance Bar,Impactpledge,F4,Ruler,B
+MV-SIG-LAN-010-09,Lance Over the Edge,Pulsarimpact,F5,Ruler,B
+MV-SIG-LAN-010-10,Edge Treatise School Stroke,Vaunted Inferno Shatter,F6a,Ruler,B
+MV-SIG-LAN-011-01,Long-Wind Sworn Seat,Gracious Lancehead,F1,Demigod,B
+MV-SIG-LAN-011-02,Sworn-Rider Pace Hold,Dune Arrestrest,F2,Demigod,B
+MV-SIG-LAN-011-03,Wind-Edge Sight,Reminiscence Counterbalance,F2,Demigod,B
+MV-SIG-LAN-011-04,Long-Wind Piercing Drive,Vaunted Bowl,F1,Demigod,B
+MV-SIG-LAN-011-05,Sworn-Rider Haft Veil,Coronel Troth,F3,Demigod,B
+MV-SIG-LAN-011-06,Wind-Lent Rein Quicken,Bedrock Couchrest,F2,Demigod,B
+MV-SIG-LAN-011-07,Gale-Hooked Shaft Pull,Entropy Tilt,F2,Demigod,B
+MV-SIG-LAN-011-08,Sworn Riders Wind Charge,Inferno Ride,F2,Demigod,B
+MV-SIG-LAN-011-09,Line-Sworn Foe Suppress,Lanceguard Vow,F3,Demigod,B
+MV-SIG-LAN-011-10,Long Wind Lance Flash,Windborne Impact,F1,Demigod,B
+MV-SIG-LAN-011-11,Sworn Riders School Stroke,Dauntless Pulsar Lanceshaft,F6a,Demigod,B
+MV-SIG-LAN-012-01,Gale-Core Breath Oath,Vigorgraper,F5,Core Formation,B
+MV-SIG-LAN-012-02,Core-Held Rest Seat,Compassionate Bellrest,F1,Core Formation,B
+MV-SIG-LAN-012-03,Core Wind Sighting,Revelation Lancehead,F2,Core Formation,B
+MV-SIG-LAN-012-04,Core-Bearing Jab,Saddlecrown,F4,Core Formation,B
+MV-SIG-LAN-012-05,Gale-Core Piercing Thrust,Storied Vamplate,F1,Core Formation,B
+MV-SIG-LAN-012-06,Oath-Core Haft Veil,Statute Counterbalance,F2,Core Formation,B
+MV-SIG-LAN-012-07,Core-Pulsed Rein Step,Dune Couchrest,F2,Core Formation,B
+MV-SIG-LAN-012-08,Core Wind Haft Shove,Unbending Graper,F1,Core Formation,B
+MV-SIG-LAN-012-09,Gale-Core Oath Charge,Squall Momentum,F2,Core Formation,B
+MV-SIG-LAN-012-10,Core Oath Line Hold,Hornbeam Graper,F2,Core Formation,B
+MV-SIG-LAN-012-11,Gale Core Lance Fall,Exalted Vamplate,F1,Core Formation,B
+MV-SIG-LAN-012-12,Gale-Core School Oath Stroke,Vacuum Impact,F2,Core Formation,B
+MV-SIG-LAN-005-09,Hornbeam Ride,Shackling Ride,F2,Demigod,B
+MV-SIG-LAN-006-06,Hornbeam Vamplate,Domed Vamplate,F2,Core Formation,B
+MV-SIG-LAN-011-02,Dune Arrestrest,Pacing Arrestrest,F2,Demigod,B
+MV-SIG-LAN-012-07,Dune Couchrest,Pulsing Couchrest,F2,Core Formation,B
+MV-SIG-LAN-012-10,Hornbeam Graper,Unyielding Graper,F2,Core Formation,B

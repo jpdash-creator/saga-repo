@@ -1,0 +1,63 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-BLW-001-01,Reed Grip Settling,Canegauge,F4,Unawakened,A
+MV-BAS-BLW-001-02,Dart Seating Pinch,Deep Reedtube,F1,Unawakened,A
+MV-BAS-BLW-001-03,Lip Seal Draw,Plugreview,F4,Unawakened,A
+MV-BAS-BLW-001-04,Hollow Reed Puff,Tubebump,F4,Unawakened,A
+MV-BAS-BLW-001-05,Straw Post Drill,Square Mouthend,F1,Unawakened,A
+MV-BAS-BLW-001-06,Reed Cover Step,Huff Skitter,F3,Unawakened,A
+MV-BAS-BLW-002-01,Belly Breath Fill,Pluggauge,F4,Skin,A
+MV-BAS-BLW-002-02,Bore Sighting Squint,Judging Mouthpiece,F1,Skin,A
+MV-BAS-BLW-002-03,Tongue Stop Burst,Narrow Hiss,F1,Skin,A
+MV-BAS-BLW-002-04,Bore Swab Pull,Tending Plug,F1,Skin,A
+MV-BAS-BLW-002-05,Half Lung Hold,Deep Airbore,F1,Skin,A
+MV-BAS-BLW-003-01,Shaft Rolling Check,Steady Dartfletch,F1,Muscle,A
+MV-BAS-BLW-003-02,Wadded Tail Wrap,Soft Padhead,F1,Muscle,A
+MV-BAS-BLW-003-03,Quiver Feel Load,Soft Cane,F1,Muscle,A
+MV-BAS-BLW-003-04,Short Rank Shot,Narrow Puff,F1,Muscle,A
+MV-BAS-BLW-003-05,Dart Chain Loading,Plain Exhale,F1,Muscle,A
+MV-BAS-BLW-003-06,Knee Brace Rest,Backward Tube,F1,Muscle,A
+MV-BAS-BLW-003-07,Belt Quiver Draw,Gentle Mouthend,F1,Muscle,A
+MV-BAS-BLW-004-01,Soft Footfall Creep,Plugamble,F4,Tendon,A
+MV-BAS-BLW-004-02,Dead Air Lull,Watching Cane,F1,Tendon,A
+MV-BAS-BLW-004-03,Held Breath Rise,Smooth Tube,F1,Tendon,A
+MV-BAS-BLW-004-04,Silent Spit Dart,Forward Dartneedle,F1,Tendon,A
+MV-BAS-BLW-004-05,Trunk Edge Lean,Shifting Huff,F1,Tendon,A
+MV-BAS-BLW-004-06,Twin Dart Follow,Quick Needlepuff,F1,Tendon,A
+MV-BAS-BLW-005-01,Cheek Pouch Fill,Tending Mouthpiece,F1,Bone,A
+MV-BAS-BLW-005-02,Lung Sweep Breath,Reedtube Gauge,F3,Bone,A
+MV-BAS-BLW-005-03,Chest Cap Hold,Measured Airbore,F1,Bone,A
+MV-BAS-BLW-005-04,Cheek Snap Blow,Square Plug,F1,Bone,A
+MV-BAS-BLW-005-05,Long Lung Shot,Hissstrike,F4,Bone,A
+MV-BAS-BLW-005-06,Stitch Breath Reset,Tubereview,F4,Bone,A
+MV-BAS-BLW-005-07,Rung Count Drill,Huffblow,F4,Bone,A
+MV-BAS-BLW-005-08,Spent Lung Guard,Canecowl,F4,Bone,A
+MV-BAS-BLW-006-01,Tail Down Trimming,Canecount,F4,Senior,A
+MV-BAS-BLW-006-02,Fletch Spin Twist,Tubegauge,F4,Senior,A
+MV-BAS-BLW-006-03,Weighted Tip Balance,Watching Dartfletch,F1,Senior,A
+MV-BAS-BLW-006-04,Spun Dart Blow,Tubedash,F4,Senior,A
+MV-BAS-BLW-006-05,Fletch Pair Comparison,Leaden Burst,F1,Senior,A
+MV-BAS-BLW-007-01,Mouthpiece Rim Seat,Deep Cane,F1,Senior,A
+MV-BAS-BLW-007-02,Eye Line Along Bore,Warm Mouthpiece,F1,Senior,A
+MV-BAS-BLW-007-03,Pointing Finger Rest,Watching Padhead,F1,Senior,A
+MV-BAS-BLW-007-04,Close Pip Shot,Flat Burst,F1,Senior,A
+MV-BAS-BLW-007-05,Arm's Length Fend,Solid Tube,F1,Senior,A
+MV-BAS-BLW-007-06,Quarter Step Retarget,Sideways Hiss,F1,Senior,A
+MV-BAS-BLW-008-01,Breath Alarm Puff,Stopping Needlepuff,F1,Senior,A
+MV-BAS-BLW-008-02,Whistle Bore Note,Judging Padhead,F1,Senior,A
+MV-BAS-BLW-008-03,Stinging Chaff Spit,Puffdrop,F4,Senior,A
+MV-BAS-BLW-008-04,Blunt Dart Needling,Exhaledrop,F4,Senior,A
+MV-BAS-BLW-008-05,Retreat Puff Cover,Burstblow,F4,Senior,A
+MV-BAS-BLW-008-06,Raised Tube Halt,Fouling Exhale,F1,Senior,A
+MV-BAS-BLW-008-07,Echo Return Check,Warm Dartneedle,F1,Senior,A
+MV-BAS-BLW-009-01,Joint Fit Twist,Even Mouthend,F1,Senior,A
+MV-BAS-BLW-009-02,Section Carry Sling,Shifting Exhale,F1,Senior,A
+MV-BAS-BLW-009-03,Counted Assembly Draw,Smooth Airbore,F1,Senior,A
+MV-BAS-BLW-009-04,Seam Check Blow,Gentle Dartfletch,F1,Senior,A
+MV-BAS-BLW-009-05,Jointed Reach Shot,Flat Hiss,F1,Senior,A
+MV-BAS-BLW-010-01,First Qi Breath,Plugcount,F4,Senior,A
+MV-BAS-BLW-010-02,Qi Pushed Blow,Square Needlepuff,F1,Senior,A
+MV-BAS-BLW-010-03,Even Qi Tail,Smooth Reedtube,F1,Senior,A
+MV-BAS-BLW-010-04,Dart Qi Coat,Even Plug,F1,Senior,A
+MV-BAS-BLW-010-05,Breath Rise Step,Pufftrot,F4,Senior,A
+MV-BAS-BLW-010-06,Throat Gate Release,Huffdash,F4,Senior,A
+MV-BAS-BLW-003-05,Plain Exhale,Steady Exhale,F1,Muscle,A

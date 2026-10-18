@@ -1,0 +1,137 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-PIK-001-01,Twin-Rank Front Jab,Gust Footspike,F2,Demigod L1 Low,B
+MV-ELI-PIK-001-02,Rear-Rank Cover Raise,Chime Mastlength,F2,Demigod L1 Low,B
+MV-ELI-PIK-001-03,Paired-Rank Pace Count,Mastblink,F4,Demigod L1 Low,B
+MV-ELI-PIK-001-04,Rank-Echo Qi Thrust,Hollow Pikeshoe,F2,Demigod L1 Low,B
+MV-ELI-PIK-001-05,Front-and-Rear Qi Linking,Pikerespite,F4,Demigod L1 Low,B
+MV-ELI-PIK-001-06,Rank-Exchange Rotation,Brace Vortex,F3,Demigod L1 Low,B
+MV-ELI-PIK-001-07,Twin-Rank Volley Thrust,Punishing Couchout,F1,Demigod L1 Low,B
+MV-ELI-PIK-001-08,Rank-Locked Points Guard,Thorn Pikeshaft,F2,Demigod L1 Low,B
+MV-ELI-PIK-001-09,Twin-Rank Meeting Stroke,Berserk Steelcap Ruin,F6b,Demigod L1 Low,B
+MV-ELI-PIK-002-01,Hawk-Perch Crouch Gather,Mightpike,F5,Demigod L3 Mid,B
+MV-ELI-PIK-002-02,Falling-Diagonal Pike Jab,Pikeruin,F4,Demigod L3 Mid,B
+MV-ELI-PIK-002-03,Wing-Fold Landing Guard,Indomitable Pikecollar,F1,Demigod L3 Mid,B
+MV-ELI-PIK-002-04,Basin-Rim Step Down,Might Pikebands,F2,Demigod L3 Mid,B
+MV-ELI-PIK-002-05,Hawk-Eye Foe Marking,Expanse Ashstaff,F2,Demigod L3 Mid,B
+MV-ELI-PIK-002-06,Leaping Qi Pike Drop,Hollow Levelhold,F2,Demigod L3 Mid,B
+MV-ELI-PIK-002-07,Talon-Clamp Weapon Pin,Ponderous Longpole,F2,Demigod L3 Mid,B
+MV-ELI-PIK-002-08,Updraft Spring Retreat,Silt Pikeshoe,F2,Demigod L3 Mid,B
+MV-ELI-PIK-002-09,Hawk-Fall Shield Breaker,Tempered Bristle,F2,Demigod L3 Mid,B
+MV-ELI-PIK-002-10,Wingspread Landing Sweep,Daybreak Press,F2,Demigod L3 Mid,B
+MV-ELI-PIK-002-11,Long-Fall Hawk Crush,Lightning Levelhold,F1,Demigod L3 Mid,B
+MV-ELI-PIK-003-01,Basin-Low Qi Gathering,Might Footspike,F2,Demigod L2 Low,B
+MV-ELI-PIK-003-02,Paired-Hand Basin Jab,Might Present,F2,Demigod L2 Low,B
+MV-ELI-PIK-003-03,Basin-Rim Shaft Guard,Thornshaft,F5,Demigod L2 Low,B
+MV-ELI-PIK-003-04,Matched-Stride Basin Walk,Couchout Flash,F3,Demigod L2 Low,B
+MV-ELI-PIK-003-05,Basin-Filled Thrust Release,Shaftscourge,F4,Demigod L2 Low,B
+MV-ELI-PIK-003-06,Twin-Rim Pike Spread,Charter Pikebands,F2,Demigod L2 Low,B
+MV-ELI-PIK-003-07,Basin-Overflow Qi Return,Glamour Steelcap,F2,Demigod L2 Low,B
+MV-ELI-PIK-003-08,Paired Basin Heavy Thrust,Hollow Press,F2,Demigod L2 Low,B
+MV-ELI-PIK-003-09,Still-Water Brace Hold,Pikevalor,F4,Demigod L2 Low,B
+MV-ELI-PIK-003-10,Basin-Burst Matched Strokes,Pitiless Longpole Havoc,F6b,Demigod L2 Low,B
+MV-ELI-PIK-004-01,River-Source Grip Draw,Vital Pikehead,F2,Demigod L5 Low,B
+MV-ELI-PIK-004-02,Current-Following Jab,Gustpress,F5,Demigod L5 Low,B
+MV-ELI-PIK-004-03,Bank-Side Guard Shift,Adamantine Mastlength,F1,Demigod L5 Low,B
+MV-ELI-PIK-004-04,Pike-Held Ford Wading,Silt Pikeshaft,F2,Demigod L5 Low,B
+MV-ELI-PIK-004-05,Eddy-Turn Shaft Spin,Mayhem Pikecollar,F2,Demigod L5 Low,B
+MV-ELI-PIK-004-06,Two-Current Qi Merge Thrust,Wrathful Bristle,F1,Demigod L5 Low,B
+MV-ELI-PIK-004-07,Confluence Foe Drag,Fastening Brace,F2,Demigod L5 Low,B
+MV-ELI-PIK-004-08,Undertow Brace Hold,Thornmast,F5,Demigod L5 Low,B
+MV-ELI-PIK-004-09,River-Mouth Qi Sense,Waningpike,F5,Demigod L5 Low,B
+MV-ELI-PIK-004-10,Spate-Rush Heavy Thrust,Glint Pikebands,F2,Demigod L5 Low,B
+MV-ELI-PIK-004-11,Flooding Pike Sweep,Downpour Ashstaff,F2,Demigod L5 Low,B
+MV-ELI-PIK-004-12,Dammed-River Counter Stand,Unconquered Pikecollar,F1,Demigod L5 Low,B
+MV-ELI-PIK-004-13,Confluence Flood Stroke,Mayhem Present,F2,Demigod L5 Low,B
+MV-ELI-PIK-005-01,Dual-Track Heavy Grip,Pikehead Insight,F3,Demigod L4 Mid,B
+MV-ELI-PIK-005-02,Lead-Track Drive Jab,Rumble Pikeshoe,F2,Demigod L4 Mid,B
+MV-ELI-PIK-005-03,Rear-Track Brace Push,Granite Footspike,F2,Demigod L4 Mid,B
+MV-ELI-PIK-005-04,Heavy-Square Shuffle Step,Torrential Couchout,F1,Demigod L4 Mid,B
+MV-ELI-PIK-005-05,Track-Crossing Shaft Beat,Overbearing Steelcap,F1,Demigod L4 Mid,B
+MV-ELI-PIK-005-06,Two-Track Qi Split Thrust,Rumble Press,F2,Demigod L4 Mid,B
+MV-ELI-PIK-005-07,Heavy-Square Qi Bracing,Obdurate Pikeshaft,F1,Demigod L4 Mid,B
+MV-ELI-PIK-005-08,Track-Swap Foe Confusion,Suffocating Pikehead,F1,Demigod L4 Mid,B
+MV-ELI-PIK-005-09,Heavy-Hand Rebound Pull,Invincible Longpole,F1,Demigod L4 Mid,B
+MV-ELI-PIK-005-10,Dual-Track Crushing Press,Intentpress,F5,Demigod L4 Mid,B
+MV-ELI-PIK-005-11,Square-Splitting Heavy Thrust,Facetshaft,F5,Demigod L4 Mid,B
+MV-ELI-PIK-005-12,Heavy Square Dual-Track Stroke,Rumble Present,F2,Demigod L4 Mid,B
+MV-ELI-PIK-006-01,Twin-Court Shared Front,Granite Pikecollar,F2,Demigod L6 Low,B
+MV-ELI-PIK-006-02,Flank-Cover Lateral Jab,Granite Levelhold,F2,Demigod L6 Low,B
+MV-ELI-PIK-006-03,Court-Pair Step-Out,Siltshaft,F5,Demigod L6 Low,B
+MV-ELI-PIK-006-04,Paired-Pikeman Qi Cover,Illuminating Mastlength,F1,Demigod L6 Low,B
+MV-ELI-PIK-006-05,Twin-Court Cross Thrust,Ruinous Press,F1,Demigod L6 Low,B
+MV-ELI-PIK-006-06,Flank-Closing Shaft Bind,Thorn Steelcap,F2,Demigod L6 Low,B
+MV-ELI-PIK-006-07,Court-Line Counter Thrust,Nova Ashstaff,F2,Demigod L6 Low,B
+MV-ELI-PIK-006-08,Twin Guard Interlock,Pikebands Tenacity,F3,Demigod L6 Low,B
+MV-ELI-PIK-006-09,Twin-Court Line-Breaking Rounds,Reverberating Mastlength Ruin,F6b,Demigod L6 Low,B
+MV-ELI-PIK-007-01,High-Plateau Level Stand,Pikehead Spine,F3,Demigod L1 Mid,B
+MV-ELI-PIK-007-02,Windward Line Jab,Punishing Pikeshoe,F1,Demigod L1 Mid,B
+MV-ELI-PIK-007-03,Oath-Sworn Pace Advance,Mightshaft,F5,Demigod L1 Mid,B
+MV-ELI-PIK-007-04,Plateau-Wind Shaft Sweep,Chime Pikeshaft,F2,Demigod L1 Mid,B
+MV-ELI-PIK-007-05,Plateau-Wind Qi Driving Thrust,Booming Bristle,F1,Demigod L1 Mid,B
+MV-ELI-PIK-007-06,Oath-Bound Weapon Bind,Ponderous Bristle,F2,Demigod L1 Mid,B
+MV-ELI-PIK-007-07,No-Walls Open Sense,Mastinsight,F4,Demigod L1 Mid,B
+MV-ELI-PIK-007-08,High-Plateau Heavy Thrust,Footspike Devastation,F3,Demigod L1 Mid,B
+MV-ELI-PIK-007-09,Oath-Held Open Brace,Thornpike,F5,Demigod L1 Mid,B
+MV-ELI-PIK-007-10,Plateau Oath Gale Stroke,Longpole Scourge,F3,Demigod L1 Mid,B
+MV-ELI-PIK-008-01,Levelled-Point Oath Setting,Mastdurance,F4,Demigod L3 Low,B
+MV-ELI-PIK-008-02,Unlowered Point Jab,Bracescourge,F4,Demigod L3 Low,B
+MV-ELI-PIK-008-03,Straight-Line Oath Step,Brace Blink,F3,Demigod L3 Low,B
+MV-ELI-PIK-008-04,Steady-Point Wrist Lock,Mastrespite,F4,Demigod L3 Low,B
+MV-ELI-PIK-008-05,Oath-Level Shaft Parry,Pikebands Hardihood,F3,Demigod L3 Low,B
+MV-ELI-PIK-008-06,Never-Lowered Qi Thrust,Hollow Brace,F2,Demigod L3 Low,B
+MV-ELI-PIK-008-07,Oath-Pressed Weapon Hold,Hogtying Present,F1,Demigod L3 Low,B
+MV-ELI-PIK-008-08,Wind-Held Point Sense,Chime Ashstaff,F2,Demigod L3 Low,B
+MV-ELI-PIK-008-09,Levelled Bearing Rebound,Glintpike,F5,Demigod L3 Low,B
+MV-ELI-PIK-008-10,Oath-Fast Heavy Thrust,Mangling Present,F1,Demigod L3 Low,B
+MV-ELI-PIK-008-11,Unwavering Point Charge Stop,Pikemettle,F4,Demigod L3 Low,B
+MV-ELI-PIK-008-12,Levelled Point Oath Stroke,Charter Longpole,F2,Demigod L3 Low,B
+MV-ELI-PIK-009-01,Crosswind Reading Glance,Clairvoyant Pikehead,F1,Demigod L5 Mid,B
+MV-ELI-PIK-009-02,New-Bearing Shaft Pivot,Torrent Levelhold,F2,Demigod L5 Mid,B
+MV-ELI-PIK-009-03,Crosswind Slant Jab,Shaftruin,F4,Demigod L5 Mid,B
+MV-ELI-PIK-009-04,Gust-Catching Shaft Guard,Chime Steelcap,F2,Demigod L5 Mid,B
+MV-ELI-PIK-009-05,Bearing-Shift Foot Slide,Phantom Bristle,F1,Demigod L5 Mid,B
+MV-ELI-PIK-009-06,Crosswind Qi Slanting Thrust,Glint Mastlength,F2,Demigod L5 Mid,B
+MV-ELI-PIK-009-07,Line-Turning Bearing Call,Buoying Pikecollar,F1,Demigod L5 Mid,B
+MV-ELI-PIK-009-08,Gust-Pinned Weapon Cross,Mastmettle,F4,Demigod L5 Mid,B
+MV-ELI-PIK-009-09,Whole-Line Bearing Turn,Siltbrace,F5,Demigod L5 Mid,B
+MV-ELI-PIK-009-10,Crosswind Heavy Thrust,Hollow Footspike,F2,Demigod L5 Mid,B
+MV-ELI-PIK-009-11,Wind-Turning Bearing Stroke,Hour Pikeshaft,F2,Demigod L5 Mid,B
+MV-ELI-PIK-010-01,Gale-Held Level Grip,Unassailable Pikeshoe,F1,Demigod L2 Mid,B
+MV-ELI-PIK-010-02,Steady-Into-Wind Pike Thrust,Levelhold Devastation,F3,Demigod L2 Mid,B
+MV-ELI-PIK-010-03,Gale-Facing Step,Pressflash,F4,Demigod L2 Mid,B
+MV-ELI-PIK-010-04,Gale-Breaking Qi Thrust,Hollow Ashstaff,F2,Demigod L2 Mid,B
+MV-ELI-PIK-010-05,Wind-Fed Shaft Recovery,Inexorable Pikeshoe,F1,Demigod L2 Mid,B
+MV-ELI-PIK-010-06,Gale-Sensing Line Read,Unerring Pikecollar,F1,Demigod L2 Mid,B
+MV-ELI-PIK-010-07,Many-Foes Gale Sweep,Mayhem Brace,F2,Demigod L2 Mid,B
+MV-ELI-PIK-010-08,Held-Against-Gale Brace,Ironshaft,F5,Demigod L2 Mid,B
+MV-ELI-PIK-010-09,Gale-Held Final Sweep,Silt Longpole,F2,Demigod L2 Mid,B
+MV-ELI-PIK-011-01,Edge-Standing Level Pike,Unconquered Pikehead,F1,Demigod L7 Low,B
+MV-ELI-PIK-011-02,Plateau-Lip Jab,Blaze Footspike,F2,Demigod L7 Low,B
+MV-ELI-PIK-011-03,Edge-Hugging Slide Step,Vanishing Bristle,F1,Demigod L7 Low,B
+MV-ELI-PIK-011-04,Charge-Reading Shaft Rap,Toxinpress,F5,Demigod L7 Low,B
+MV-ELI-PIK-011-05,Cliff-Wind Shaft Guard,Torrent Ashstaff,F2,Demigod L7 Low,B
+MV-ELI-PIK-011-06,Edge-Braced Qi Thrust,Novamast,F5,Demigod L7 Low,B
+MV-ELI-PIK-011-07,Charge-Turning Wind Lever,Present Spine,F3,Demigod L7 Low,B
+MV-ELI-PIK-011-08,Bearing-Held Edge Anchor,Hoarfrost Pikebands,F2,Demigod L7 Low,B
+MV-ELI-PIK-011-09,Edge-Ward Foe Pressing,Mastering Couchout,F1,Demigod L7 Low,B
+MV-ELI-PIK-011-10,Plateau-Edge Heavy Thrust,Pikeshaft Havoc,F3,Demigod L7 Low,B
+MV-ELI-PIK-011-11,Charge-Shattering Brace,Ironpike,F5,Demigod L7 Low,B
+MV-ELI-PIK-011-12,Plateau-Lip Oath Sweep,Blaze Levelhold,F2,Demigod L7 Low,B
+MV-ELI-PIK-011-13,Edge Charge-Break Stroke,Steelcap Wrath,F3,Demigod L7 Low,B
+MV-ELI-PIK-012-01,Bearing-and-Brace Setting,Unconquered Mastlength,F1,Demigod L4 Low,B
+MV-ELI-PIK-012-02,Pike Bearing-Line Jab,Blaze Press,F2,Demigod L4 Low,B
+MV-ELI-PIK-012-03,Brace-Foot Step Anchor,Pikeflash,F4,Demigod L4 Low,B
+MV-ELI-PIK-012-04,Wind-Answer Shaft Guard,Ashstaff Nerve,F3,Demigod L4 Low,B
+MV-ELI-PIK-012-05,Held-Bearing Pike Qi Drive,Glintshaft,F5,Demigod L4 Low,B
+MV-ELI-PIK-012-06,Brace-Fed Return Surge,Pikecollar Spine,F3,Demigod L4 Low,B
+MV-ELI-PIK-012-07,Wind-Answer Weapon Bind,Thornbrace,F5,Demigod L4 Low,B
+MV-ELI-PIK-012-08,Brace-Locked Heavy Thrust,Tempered Couchout,F2,Demigod L4 Low,B
+MV-ELI-PIK-012-09,Wind-Answering Point Hold,Shade Bristle,F2,Demigod L4 Low,B
+MV-ELI-PIK-012-10,Bearing-Brace Wind Stroke,Shade Couchout,F2,Demigod L4 Low,B
+MV-ELI-PIK-001-04,Hollow Pikeshoe,Echoing Pikeshoe,F2,Demigod L1 Low,B
+MV-ELI-PIK-002-05,Expanse Ashstaff,Marking Ashstaff,F2,Demigod L3 Mid,B
+MV-ELI-PIK-002-06,Hollow Levelhold,Plunging Levelhold,F2,Demigod L3 Mid,B
+MV-ELI-PIK-003-08,Hollow Press,Heavy Press,F2,Demigod L2 Low,B
+MV-ELI-PIK-008-06,Hollow Brace,Piercing Brace,F2,Demigod L3 Low,B
+MV-ELI-PIK-009-10,Hollow Footspike,Reaching Footspike,F2,Demigod L5 Mid,B
+MV-ELI-PIK-010-04,Hollow Ashstaff,Breaking Ashstaff,F2,Demigod L2 Mid,B

@@ -1,0 +1,79 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-QST-001-01,Plain Grip Shaft Hold,Holding Balancegrip,F1,T1 Unawakened,A
+MV-BAS-QST-001-02,Planted Foot Shaft Stance,Staffpace,F4,T1 Unawakened,A
+MV-BAS-QST-001-03,Straight Stave Jab,Straight Jabbing,F1,T1 Unawakened,A
+MV-BAS-QST-001-04,Overhand Stave Drop,Staffblow,F4,T1 Unawakened,A
+MV-BAS-QST-001-05,Cross-Shaft Stave Block,Angled Midstaff,F1,T1 Unawakened,A
+MV-BAS-QST-002-01,Sliding Palm Stave Grip,Steady Staffgrip,F1,T1 Skin,A
+MV-BAS-QST-002-02,Shuffle Step Stave Forward,Shifting Staffshoe,F1,T1 Skin,A
+MV-BAS-QST-002-03,Back-Foot Drag Stave Retreat,Oakdodge,F4,T1 Skin,A
+MV-BAS-QST-002-04,Low Shin Staff Rap,Low Staffsweep,F1,T1 Skin,A
+MV-BAS-QST-002-05,High Pole Head Cut,Downward Quarterpoint,F1,T1 Skin,A
+MV-BAS-QST-002-06,Rising Pole Parry,Raised Ironcap,F1,T1 Skin,A
+MV-BAS-QST-003-01,Ash Shaft Pump,Staffgauge,F4,T1 Muscle,A
+MV-BAS-QST-003-02,Twelve-Count Thrust Stave Line,Firm Jabbing,F1,T1 Muscle,A
+MV-BAS-QST-003-03,Double Rap Stave Combination,Quick Staffspin,F1,T1 Muscle,A
+MV-BAS-QST-003-04,Half-Turn Butt Rap,Square Oakstaff,F1,T1 Muscle,A
+MV-BAS-QST-003-05,Quarter Guard High,Ready Midstaff,F1,T1 Muscle,A
+MV-BAS-QST-003-06,Quarter Guard Low,Lowered Staffend,F1,T1 Muscle,A
+MV-BAS-QST-003-07,Pivot and Stave Slip,Ashskitter,F4,T1 Muscle,A
+MV-BAS-QST-004-01,Walking Guard Stave Advance,Planted Ironcap,F1,T1 Tendon,A
+MV-BAS-QST-004-02,Closing Step Stave,Quiet Poleturn,F1,T1 Tendon,A
+MV-BAS-QST-004-03,Honest Head Staff Strike,Oakdrop,F4,T1 Tendon,A
+MV-BAS-QST-004-04,Honest Flank Stave Strike,Wide Staffsweep,F1,T1 Tendon,A
+MV-BAS-QST-004-05,Outside Parry and Shaft Return,Oakcowl,F4,T1 Tendon,A
+MV-BAS-QST-004-06,Shaft Press Away,Pushing Nodeknot,F1,T1 Tendon,A
+MV-BAS-QST-004-07,Backward Pole Pivot,Backward Poleturn,F1,T1 Tendon,A
+MV-BAS-QST-004-08,Heel Hook Stave,Sharp Staffshoe,F1,T1 Tendon,A
+MV-BAS-QST-005-01,Gatepost Shaft Brace,Solid Oakstaff,F1,T1 Bone,A
+MV-BAS-QST-005-02,Cart-Road Shaft Thrust,Narrow Midstaff,F1,T1 Bone,A
+MV-BAS-QST-005-03,Harvest Sweep Stave Low,Level Staffsweep,F1,T1 Bone,A
+MV-BAS-QST-005-04,Fence-Rail Staff Parry,Kept Nodeknot,F1,T1 Bone,A
+MV-BAS-QST-005-05,Stooping Stave Duck,Rowanhop,F4,T1 Bone,A
+MV-BAS-QST-006-01,Hickory Spring Swing,Ashhit,F4,T1 Muscle,A
+MV-BAS-QST-006-02,Weighted End Staff Strike,Leaden Staffend,F1,T1 Muscle,A
+MV-BAS-QST-006-03,Shaft Slide Catch,Catching Staffgrip,F1,T1 Muscle,A
+MV-BAS-QST-006-04,Hickory Wrist Flick,Blunt Rapidspin,F1,T1 Muscle,A
+MV-BAS-QST-006-05,Ground-Planted Staff Hold,Ashwedge,F4,T1 Muscle,A
+MV-BAS-QST-007-01,Quarter Hold with Breath,Snug Quarterpoint,F1,Senior L1 Low,A
+MV-BAS-QST-007-02,Qi-Set Forward Stave Step,Light Midstaff,F1,Senior L1 Low,A
+MV-BAS-QST-007-03,Quarter Thrust,Open Jabbing,F1,Senior L1 Low,A
+MV-BAS-QST-007-04,Quarter Sweep,Flat Staffsweep,F1,Senior L1 Low,A
+MV-BAS-QST-007-05,Rising Quarter Parry,Folded Ironcap,F1,Senior L1 Low,A
+MV-BAS-QST-007-06,Quarter Rebound,Stiff Rollover,F1,Senior L1 Low,A
+MV-BAS-QST-007-07,Hip-Turn Quarter Cut,Perchstrike,F4,Senior L1 Low,A
+MV-BAS-QST-008-01,Wrist Circle Stave Warm-Up,Gentle Balancegrip,F1,Senior L2 Low,A
+MV-BAS-QST-008-02,Figure-Eight Staff Roll,Upward Rapidspin,F1,Senior L2 Low,A
+MV-BAS-QST-008-03,Overhead Stave Wheel,Resting Ashwood,F1,Senior L2 Low,A
+MV-BAS-QST-008-04,Side Wheel Staff Guard,Hooding Oakstaff,F1,Senior L2 Low,A
+MV-BAS-QST-008-05,Wheeling Shaft Step,Sideways Poleturn,F1,Senior L2 Low,A
+MV-BAS-QST-008-06,Wheel and Stave Drive,Short Poleturn,F1,Senior L2 Low,A
+MV-BAS-QST-008-07,Circle Catch Stave Disarm,Turning Rapidspin,F1,Senior L2 Low,A
+MV-BAS-QST-008-08,Tail-End Return Stave Strike,Plain Staffend,F1,Senior L2 Low,A
+MV-BAS-QST-009-01,First Guard Shaft Position,Staffstay,F4,Senior L3 Mid,A
+MV-BAS-QST-009-02,Beginner's Shaft Thrust,Rowanbump,F4,Senior L3 Mid,A
+MV-BAS-QST-009-03,Beginner's Stave Swing,Wide Rollover,F1,Senior L3 Mid,A
+MV-BAS-QST-009-04,Side-Step Shaft Turn,Perchtrot,F4,Senior L3 Mid,A
+MV-BAS-QST-009-05,Open-Hand Slide Shaft Parry,Settled Staffgrip,F1,Senior L3 Mid,A
+MV-BAS-QST-009-06,Tap and Shaft Press,Locking Staffshoe,F1,Senior L3 Mid,A
+MV-BAS-QST-010-01,Long End Reach Stave Strike,Staffdash,F4,Senior L4 Mid,A
+MV-BAS-QST-010-02,Short End Close Stave Jab,Sudden Jabbing,F1,Senior L4 Mid,A
+MV-BAS-QST-010-03,End-for-End Shaft Switch,Warm Ashwood,F1,Senior L4 Mid,A
+MV-BAS-QST-010-04,Reach Break Staff Step,Skipping Staffend,F1,Senior L4 Mid,A
+MV-BAS-QST-010-05,Long End Hook Staff Pull,Towing Staffshoe,F1,Senior L4 Mid,A
+MV-BAS-QST-010-06,Short End Shaft Parry,Tight Oakstaff,F1,Senior L4 Mid,A
+MV-BAS-QST-010-07,Double-End Staff Combination,Hard Staffspin,F1,Senior L4 Mid,A
+MV-BAS-QST-011-01,Roadside Shaft Brace,Perchlid,F4,Senior L5 High,A
+MV-BAS-QST-011-02,Pack-Weight Shaft Step,Nimble Ironcap,F1,Senior L5 High,A
+MV-BAS-QST-011-03,Walking Shaft Thrust,Oakstrike,F4,Senior L5 High,A
+MV-BAS-QST-011-04,Hedge Staff Sweep,Forward Staffsweep,F1,Senior L5 High,A
+MV-BAS-QST-011-05,Shoulder Level Stave Block,Rowanhusk,F4,Senior L5 High,A
+MV-BAS-QST-012-01,Breath-In Shaft Guard,Raised Balancegrip,F1,Senior L6 Low,A
+MV-BAS-QST-012-02,Breath-Out Shaft Thrust,Rowandrop,F4,Senior L6 Low,A
+MV-BAS-QST-012-03,Held-Breath Stave Strike,Downward Staffspin,F1,Senior L6 Low,A
+MV-BAS-QST-012-04,Shaft Pulse,Ashnote,F4,Senior L6 Low,A
+MV-BAS-QST-012-05,Breathing Step Stave Back,Swaying Rollover,F1,Senior L6 Low,A
+MV-BAS-QST-012-06,Rhythm Staff Parry,Holding Midstaff,F1,Senior L6 Low,A
+MV-BAS-QST-012-07,Steady Guard Staff Hold,Solid Balancegrip,F1,Senior L6 Low,A
+MV-BAS-QST-012-08,Closing Breath Staff Tap,Rowanlid,F4,Senior L6 Low,A
+MV-BAS-QST-008-08,Plain Staffend,Quick Staffend,F1,Senior L2 Low,A

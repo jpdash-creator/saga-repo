@@ -1,0 +1,72 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-BUC-001-01,Rim Hook Catch,Burdening Edgeplate,F1,Senior,A
+MV-INT-BUC-001-02,Ground-Planted Rim Brace,Sturdy Lightrim,F1,Senior,A
+MV-INT-BUC-001-03,Edge to Hilt Slide,Sturdy Knucklegrip,F1,Senior,A
+MV-INT-BUC-001-04,Bound Step In,Lithe Armstrap,F1,Senior,A
+MV-INT-BUC-001-05,Qi-Held Rim Bind,Levering Nudge,F1,Senior,A
+MV-INT-BUC-001-06,Binding Dome Crush,Rushing Roundface,F1,Senior,A
+MV-INT-BUC-002-01,Plate Pivot Cover,Peltabarrier,F4,Senior,A
+MV-INT-BUC-002-02,Rolling Wrist Deflect,Dense Bucklerredge,F1,Senior,A
+MV-INT-BUC-002-03,Revolving Rim Cut,Punchboss Hammerfall,F3,Senior,A
+MV-INT-BUC-002-04,Counter-Turn Parry,Resolute Smallface,F1,Senior,A
+MV-INT-BUC-002-05,Pivot Foot Slide,Prowling Punchblock,F1,Senior,A
+MV-INT-BUC-002-06,Whirling Plate Screen,Rooted Centergrip,F1,Senior,A
+MV-INT-BUC-002-07,Turn and Strike Rim,Umboscorer,F4,Senior,A
+MV-INT-BUC-003-01,Hooked Rim Draw,Peltascreen,F4,Senior,A
+MV-INT-BUC-003-02,Edge Catch Hold,Layered Bucklerredge,F1,Senior,A
+MV-INT-BUC-003-03,Shield-Arm Lever,Parryscreen,F4,Senior,A
+MV-INT-BUC-003-04,Under-Rim Chin Jab,Keen Umbo,F1,Senior,A
+MV-INT-BUC-003-05,Wide Step Past the Catch,Coasting Snapblock,F1,Senior,A
+MV-INT-BUC-003-06,Release and Rap,Layered Punchboss,F1,Senior,A
+MV-INT-BUC-003-07,Qi-Locked Rim Hook,Dabbarrier,F4,Senior,A
+MV-INT-BUC-003-08,Tearing Pull Rim,Clutching Tuckin,F1,Senior,A
+MV-INT-BUC-004-01,Stutter Rap,Parry Flog,F3,Senior,A
+MV-INT-BUC-004-02,Late Plate Return,Targehasp,F4,Senior,A
+MV-INT-BUC-004-03,Feint Boss Jab,Harsh Punchblock,F1,Senior,A
+MV-INT-BUC-004-04,False Cover Drop,Clutching Dab,F1,Senior,A
+MV-INT-BUC-004-05,Off-Beat Cross Step,Parryhurdle,F4,Senior,A
+MV-INT-BUC-004-06,Hand Slap Clear,Shielding Smallface,F1,Senior,A
+MV-INT-BUC-004-07,Rhythm-Seizing Rap,Lassoing Armstrap,F1,Senior,A
+MV-INT-BUC-004-08,Held Qi Counter,Dense Knucklegrip,F1,Senior,A
+MV-INT-BUC-004-09,Staggering Dome Press,Bold Snapblock,F1,Senior,A
+MV-INT-BUC-005-01,Tempering Hold,Stalwart Edgeplate,F1,Warrior,B
+MV-INT-BUC-005-02,Ringing Plate Answer,Clayumbo,F5,Warrior,B
+MV-INT-BUC-005-03,Heavy Dome Return,Roundface Thwack,F3,Warrior,B
+MV-INT-BUC-005-04,Even Pressure Guard,Brasstarge,F5,Warrior,B
+MV-INT-BUC-005-05,Hard Edge Rake,Grim Nudge,F1,Warrior,B
+MV-INT-BUC-005-06,Tempered Pace,Clay Dab,F2,Warrior,B
+MV-INT-BUC-005-07,Plate Weight Sense,Candor Umbo,F2,Warrior,B
+MV-INT-BUC-005-08,Iron-Faced Block,Clay Bucklerredge,F2,Warrior,B
+MV-INT-BUC-005-09,Shuddering Dome Smash,Ember Parry,F2,Warrior,B
+MV-INT-BUC-005-10,Hardened Rim Reply,Humpelta,F5,Warrior,B
+MV-INT-BUC-006-01,Rolling Shoulder Cover,Unmoving Lightrim,F1,Warrior,B
+MV-INT-BUC-006-02,Forward Roll Shelter,Brassumbo,F5,Warrior,B
+MV-INT-BUC-006-03,Turn Away Cover,Shelter Umbo,F2,Warrior,B
+MV-INT-BUC-006-04,Circling Foot Pace,Lithe Snapblock,F1,Warrior,B
+MV-INT-BUC-006-05,Rise and Strike Rim,Brawnumbo,F5,Warrior,B
+MV-INT-BUC-006-06,Roll-Out Recovery,Draught Knucklegrip,F2,Warrior,B
+MV-INT-BUC-006-07,Gliding Cover Chain,Shard Armstrap,F2,Warrior,B
+MV-INT-BUC-006-08,Qi Roll Counter,Peltascorer,F4,Warrior,B
+MV-INT-BUC-007-01,Sword Side Shield Cover,Brass Punchboss,F2,Warrior,B
+MV-INT-BUC-007-02,Cover and Cut Beat,Brassparry,F5,Warrior,B
+MV-INT-BUC-007-03,Plate Clears the Line,Poiseumbo,F5,Warrior,B
+MV-INT-BUC-007-04,Two-Hand Weight Shift,Rill Nudge,F2,Warrior,B
+MV-INT-BUC-007-05,Shield Hand Lock,Binding Parry,F1,Warrior,B
+MV-INT-BUC-007-06,Linked Arm Qi Guard,Brass Edgeplate,F2,Warrior,B
+MV-INT-BUC-007-07,Plate-Led Thrust Entry,Rude Tuckin,F1,Warrior,B
+MV-INT-BUC-008-01,Gathered Wrist Rap,Savage Roundface,F1,Warrior,B
+MV-INT-BUC-008-02,Spring-Back Guard,Resolute Lightrim,F1,Warrior,B
+MV-INT-BUC-008-03,Bundled Qi Tap,Static Centergrip,F2,Warrior,B
+MV-INT-BUC-008-04,Crosswise Rap Clear,Haze Edgeplate,F2,Warrior,B
+MV-INT-BUC-008-05,Holding Breath Cover,Peltabuckle,F4,Warrior,B
+MV-INT-BUC-008-06,Gather and Widen Step,Brawn Dab,F2,Warrior,B
+MV-INT-BUC-008-07,Stored Rap Release,Parryslap,F4,Warrior,B
+MV-INT-BUC-008-08,Deadening Rim Touch,Levering Tuckin,F1,Warrior,B
+MV-INT-BUC-008-09,Rap-Chain Cover,Hazepelta,F5,Warrior,B
+MV-INT-BUC-009-01,Inch-Gap Cover,Umboscreen,F4,Senior,A
+MV-INT-BUC-009-02,Cramped Space Rap,Armstrap Prop,F3,Senior,A
+MV-INT-BUC-009-03,Short Arm Jab,Smallface Swat,F3,Senior,A
+MV-INT-BUC-009-04,Heel-Toe Squeeze Step,Umbostalk,F4,Senior,A
+MV-INT-BUC-009-05,Qi Compressed Punch,Bold Dab,F1,Senior,A
+MV-INT-BUC-009-06,Close Quarters Screen,Peltaprop,F4,Senior,A
+MV-INT-BUC-006-03,Shelter Umbo,Bracing Umbo,F2,Warrior,B

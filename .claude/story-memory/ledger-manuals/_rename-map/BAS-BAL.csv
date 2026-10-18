@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-BAL-001-01,Wide Stance at the Stock,Solid Windlassdrum,F1,T1 Unawakened,A
+MV-BAS-BAL-001-02,Two Hand Crank Count,Kind Stockbed,F1,T1 Unawakened,A
+MV-BAS-BAL-001-03,Bolt Laid in the Groove,Clawcount,F4,T1 Unawakened,A
+MV-BAS-BAL-001-04,Squint Along the Spine,Watching Claw,F1,T1 Unawakened,A
+MV-BAS-BAL-001-05,Trigger Pull at the Exhale,Stiff Bowarms,F1,T1 Unawakened,A
+MV-BAS-BAL-002-01,Handle Over Handle Haul,Measured Aimframe,F1,T1 Skin,A
+MV-BAS-BAL-002-02,Pawl Click Listening,Gentle Trackbed,F1,T1 Skin,A
+MV-BAS-BAL-002-03,Hip Shoved Lever,Slider Count,F3,T1 Skin,A
+MV-BAS-BAL-002-04,Winch Bar Rap,Blunt Springarm,F1,T1 Skin,A
+MV-BAS-BAL-002-05,Slack Cord Release,Judging Sinewcord,F1,T1 Skin,A
+MV-BAS-BAL-002-06,Heel Behind the Wheel,Kept Aimframe,F1,T1 Skin,A
+MV-BAS-BAL-003-01,Bolt Cradled at the Hip,Calm Slider,F1,T1 Muscle,A
+MV-BAS-BAL-003-02,Bolt Rack Reach,Sideways Boltflight,F1,T1 Muscle,A
+MV-BAS-BAL-003-03,Fletching Thumb Check,Stakereview,F4,T1 Muscle,A
+MV-BAS-BAL-003-04,Headfirst Seating Push,Stakecount,F4,T1 Muscle,A
+MV-BAS-BAL-003-05,Call of Clear Line,Sliderreview,F4,T1 Muscle,A
+MV-BAS-BAL-003-06,Fanned Spare Bolts,Tending Bolthead,F1,T1 Muscle,A
+MV-BAS-BAL-003-07,Loading Side Shoulder Check,Stiff Stakedrive,F1,T1 Muscle,A
+MV-BAS-BAL-004-01,Quarter Turn on the Pivot,Shifting Hurtle,F1,T1 Tendon,A
+MV-BAS-BAL-004-02,Elevation Wedge Tap,Slidergauge,F4,T1 Tendon,A
+MV-BAS-BAL-004-03,Pivot Pin Inspection,Deep Sinewcord,F1,T1 Tendon,A
+MV-BAS-BAL-004-04,Post Hugging Crouch,Stakewedge,F4,T1 Tendon,A
+MV-BAS-BAL-004-05,Swivel Sweep Shot,Descending Streak,F1,T1 Tendon,A
+MV-BAS-BAL-005-01,Three Man Wheel Push,Backward Claw,F1,T1 Bone,A
+MV-BAS-BAL-005-02,Chock and Drop Trail,Settled Stockbed,F1,T1 Bone,A
+MV-BAS-BAL-005-03,Aimer and Loader Pairing,Even Springarm,F1,T1 Bone,A
+MV-BAS-BAL-005-04,Chief's Count Release,Stakebump,F4,T1 Bone,A
+MV-BAS-BAL-005-05,Shoulder Rope Drag,Sideways Streak,F1,T1 Bone,A
+MV-BAS-BAL-005-06,Rear Stock Ram,Descending Bolthead,F1,T1 Bone,A
+MV-BAS-BAL-006-01,Skein Tension Feel,Warm Bowarms,F1,Senior L1 Low,A
+MV-BAS-BAL-006-02,Even Arm Winding,Warm Stockbed,F1,Senior L1 Low,A
+MV-BAS-BAL-006-03,Spanner Cross Parry,Solid Aimframe,F1,Senior L1 Low,A
+MV-BAS-BAL-006-04,Qi Seated Bowstring,Steady Windlassdrum,F1,Senior L1 Low,A
+MV-BAS-BAL-006-05,Arm Whip Release,Flat Impalement,F1,Senior L1 Low,A
+MV-BAS-BAL-006-06,Courtyard Flat Throw,Stakehit,F4,Senior L1 Low,A
+MV-BAS-BAL-006-07,Wound Arm Waiting Hold,Clawstay,F4,Senior L1 Low,A
+MV-BAS-BAL-006-08,Thumb on the String Easing,Slidernote,F4,Senior L1 Low,A
+MV-BAS-BAL-007-01,Qi Pinned Rear Notch,Judging Trackbed,F1,Senior L2 Low,A
+MV-BAS-BAL-007-02,Quarter Width Hold Over,Watching Bowarms,F1,Senior L2 Low,A
+MV-BAS-BAL-007-03,Bolt Line Laid on the Breath,Short Hurtle,F1,Senior L2 Low,A
+MV-BAS-BAL-007-04,Hanging Ribbon Glance,Clawnote,F4,Senior L2 Low,A
+MV-BAS-BAL-007-05,Reload Without Looking Away,Clawgauge,F4,Senior L2 Low,A
+MV-BAS-BAL-008-01,Skein Wetting Round,Gentle Windlassdrum,F1,Senior L3 Mid,A
+MV-BAS-BAL-008-02,Twist Count Tally,Judging Claw,F1,Senior L3 Mid,A
+MV-BAS-BAL-008-03,Shimmering Strand Check,Stakenote,F4,Senior L3 Mid,A
+MV-BAS-BAL-008-04,Sinew Lash Strike,Plain Skewerbolt,F1,Senior L3 Mid,A
+MV-BAS-BAL-008-05,Spare Strand Splice,Deep Bolthead,F1,Senior L3 Mid,A
+MV-BAS-BAL-008-06,Half Wound Palm Hold,Stakehusk,F4,Senior L3 Mid,A
+MV-BAS-BAL-009-01,Groove Wax Rub,Mild Trackbed,F1,Senior L1 Mid,A
+MV-BAS-BAL-009-02,Bolt Head Seat Tap,Calm Sinewcord,F1,Senior L1 Mid,A
+MV-BAS-BAL-009-03,Claw Catch Reading,Clawreview,F4,Senior L1 Mid,A
+MV-BAS-BAL-009-04,Slow Trigger Bleed,Gnawing Impalement,F1,Senior L1 Mid,A
+MV-BAS-BAL-009-05,Half Draw Snap Loose,Low Skewerbolt,F1,Senior L1 Mid,A
+MV-BAS-BAL-009-06,Flat Blade Level Test,Stakegauge,F4,Senior L1 Mid,A
+MV-BAS-BAL-009-07,Failed Bolt Backing Out,Solid Slider,F1,Senior L1 Mid,A
+MV-BAS-BAL-010-01,Pavise Plank Setting,Planted Sinewcord,F1,Senior L4 Low,A
+MV-BAS-BAL-010-02,Over the Rim Peek,Measured Windlassdrum,F1,Senior L4 Low,A
+MV-BAS-BAL-010-03,Slot Between Planks Shot,Firm Springarm,F1,Senior L4 Low,A
+MV-BAS-BAL-010-04,Tilted Plank Glance,Stakepause,F4,Senior L4 Low,A
+MV-BAS-BAL-010-05,Plank Length Shuffle,Swaying Stakedrive,F1,Senior L4 Low,A
+MV-BAS-BAL-008-04,Plain Skewerbolt,Hard Skewerbolt,F1,Senior L3 Mid,A

@@ -1,0 +1,148 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-GUA-001-01,Court Perch Stance,Healing Redtassel,F1,Demigod L1 Low,B
+MV-ELI-GUA-001-02,Rising Hawk Cut,Berserk Guantang,F1,Demigod L1 Low,B
+MV-ELI-GUA-001-03,Crescent Pinion Sweep Parry,Unbowed Heavyblade,F1,Demigod L1 Low,B
+MV-ELI-GUA-001-04,Hawk Court Hook,Rumble Longsweep,F2,Demigod L1 Low,B
+MV-ELI-GUA-001-05,Guandao Wing Spread Guard,Thorn Guanhook,F2,Demigod L1 Low,B
+MV-ELI-GUA-001-06,Updraft Climbing Slash,Might Rollcut,F2,Demigod L1 Low,B
+MV-ELI-GUA-001-07,Stoop of Two Talons,Ironsweep Wrath,F3,Demigod L1 Low,B
+MV-ELI-GUA-001-08,Court Circle Reaping,Mayhemcrest,F5,Demigod L1 Low,B
+MV-ELI-GUA-001-09,Sky-Cleaving Hawk Fall,Gust Longsweep,F2,Demigod L1 Low,B
+MV-ELI-GUA-002-01,Twin Court Opening,Crestinsight,F4,Demigod L3 Low,B
+MV-ELI-GUA-002-02,Left Court Cut,Lacerating Tailspike,F1,Demigod L3 Low,B
+MV-ELI-GUA-002-03,Right Court Answer,Unrelenting Counterspike,F1,Demigod L3 Low,B
+MV-ELI-GUA-002-04,Court Crossing Step,Headlong Guanpole,F1,Demigod L3 Low,B
+MV-ELI-GUA-002-05,Paired Hook Draw,Chime Slashdown,F2,Demigod L3 Low,B
+MV-ELI-GUA-002-06,Courtly Guard Turn,Hoarfrost Guantang,F2,Demigod L3 Low,B
+MV-ELI-GUA-002-07,Two Court Slash,Loomhavoc,F4,Demigod L3 Low,B
+MV-ELI-GUA-002-08,Judgement of Two Edges,Overlapping Bladecollar,F1,Demigod L3 Low,B
+MV-ELI-GUA-002-09,Court Pressing Wheel,Ruinous Heavyswing,F1,Demigod L3 Low,B
+MV-ELI-GUA-002-10,Verdict of the Twin Courts,Intentloom,F5,Demigod L3 Low,B
+MV-ELI-GUA-003-01,Ford Finding Stance,Mightloom,F5,Demigod L5 Mid,B
+MV-ELI-GUA-003-02,Current Cutting Chop,Loomscourge,F4,Demigod L5 Mid,B
+MV-ELI-GUA-003-03,Midstream Guard,Charter Guanhook,F2,Demigod L5 Mid,B
+MV-ELI-GUA-003-04,Stepping Stone Hop,Silt Bladewheel,F2,Demigod L5 Mid,B
+MV-ELI-GUA-003-05,Bank Sighting Glance,Beneficent Guanhook,F1,Demigod L5 Mid,B
+MV-ELI-GUA-003-06,Eddy Turning Slash,Berserk Tailspike,F1,Demigod L5 Mid,B
+MV-ELI-GUA-003-07,Crescent Undertow Hook,Tuftdurance,F4,Demigod L5 Mid,B
+MV-ELI-GUA-003-08,Ford Holding Parry,Murk Bladecollar,F2,Demigod L5 Mid,B
+MV-ELI-GUA-003-09,Flood Crossing Charge,Tuftwrath,F4,Demigod L5 Mid,B
+MV-ELI-GUA-003-10,River Parting Cleave,Tufthavoc,F4,Demigod L5 Mid,B
+MV-ELI-GUA-003-11,Torrent That Splits the Ford,Merciless Blaze Slashdown,F6a,Demigod L5 Mid,B
+MV-ELI-GUA-004-01,Crescent Basin Pair Stance,Guanpole Vitality,F3,Demigod L8 Low,B
+MV-ELI-GUA-004-02,Inner Edge Cut,Sanguine Crescentback,F2,Demigod L8 Low,B
+MV-ELI-GUA-004-03,Outer Edge Cut,Tempered Heavyblade,F2,Demigod L8 Low,B
+MV-ELI-GUA-004-04,Paired Edge Overlap,Ironguan,F5,Demigod L8 Low,B
+MV-ELI-GUA-004-05,Basin Slope Parry,Guanspine,F4,Demigod L8 Low,B
+MV-ELI-GUA-004-06,Edge Pairing Hook,Gyve Heavyswing,F2,Demigod L8 Low,B
+MV-ELI-GUA-004-07,Basin Rim Sweep,Ruinous Slashdown,F1,Demigod L8 Low,B
+MV-ELI-GUA-004-08,Dual Edge Descent,Guanscourge,F4,Demigod L8 Low,B
+MV-ELI-GUA-004-09,Pair of Edges Unbound,Nova Longsweep,F2,Demigod L8 Low,B
+MV-ELI-GUA-005-01,Depths Settling Stance,Might Polebelly,F2,Void God L1 Low,B
+MV-ELI-GUA-005-02,Falling Crescent Opening,Corroding Guantang,F1,Void God L1 Low,B
+MV-ELI-GUA-005-03,Deep Pole Guard,Iron Counterspike,F2,Void God L1 Low,B
+MV-ELI-GUA-005-04,Surface Skim Step,Meteoric Longsweep,F1,Void God L1 Low,B
+MV-ELI-GUA-005-05,Depth Sounding Sense,Waningloom,F5,Void God L1 Low,B
+MV-ELI-GUA-005-06,Sinking Edge Cut,Gust Redtassel,F2,Void God L1 Low,B
+MV-ELI-GUA-005-07,Undertow Drag,Webbing Heavyswing,F1,Void God L1 Low,B
+MV-ELI-GUA-005-08,Water Weight Parry,Torrent Counterspike,F2,Void God L1 Low,B
+MV-ELI-GUA-005-09,Azure Lifting Slash,Gust Rollcut,F2,Void God L1 Low,B
+MV-ELI-GUA-005-10,Crescent Dive,Guanhavoc,F4,Void God L1 Low,B
+MV-ELI-GUA-005-11,Depth Pressing Circle,Redtassel Havoc,F3,Void God L1 Low,B
+MV-ELI-GUA-005-12,Crescent Falls Through the Deep,Devastating Glint Guantang,F6a,Void God L1 Low,B
+MV-ELI-GUA-006-01,Hawk Pair Poise,Prescient Crescentback,F1,Void God L5 Low,B
+MV-ELI-GUA-006-02,First Hawk Stoop,Rumblecrest,F5,Void God L5 Low,B
+MV-ELI-GUA-006-03,Second Hawk Climb,Wrathful Bladewheel,F1,Void God L5 Low,B
+MV-ELI-GUA-006-04,Crescent Hawk Shadow Pace,Gust Bladecollar,F2,Void God L5 Low,B
+MV-ELI-GUA-006-05,Circling Pair Slash,Granite Ironsweep,F2,Void God L5 Low,B
+MV-ELI-GUA-006-06,Hawk Talon Pin,Tuftnerve,F4,Void God L5 Low,B
+MV-ELI-GUA-006-07,Wing Cover Parry,Unbudging Crescentback,F1,Void God L5 Low,B
+MV-ELI-GUA-006-08,Pursuit of Two Hawks,Lot Rollcut,F2,Void God L5 Low,B
+MV-ELI-GUA-006-09,Hawk Hunting Reaping,Titanic Polebelly,F1,Void God L5 Low,B
+MV-ELI-GUA-006-10,Hawks Meet at the Edge,Hiltglimmer,F4,Void God L5 Low,B
+MV-ELI-GUA-007-01,Long Edge Stance,Might Guanhook,F2,True God L1 Low,B
+MV-ELI-GUA-007-02,Basin Reach Cut,Mangling Longsweep,F1,True God L1 Low,B
+MV-ELI-GUA-007-03,Far Bank Jab,Nova Bladewheel,F2,True God L1 Low,B
+MV-ELI-GUA-007-04,Reach Gathering Guard,Iron Heavyblade,F2,True God L1 Low,B
+MV-ELI-GUA-007-05,Rim Pacing Step,Unseen Ironsweep,F1,True God L1 Low,B
+MV-ELI-GUA-007-06,Long Arc Slash,Decimating Guanpole,F1,True God L1 Low,B
+MV-ELI-GUA-007-07,Reach Hook Haul,Rumble Polebelly,F2,True God L1 Low,B
+MV-ELI-GUA-007-08,Crescent Edge Held Parry,Flintlike Tailspike,F1,True God L1 Low,B
+MV-ELI-GUA-007-09,Far Bank Sweep,Titanic Guantang,F1,True God L1 Low,B
+MV-ELI-GUA-007-10,Basin Crossing Cleave,Tempered Rollcut,F2,True God L1 Low,B
+MV-ELI-GUA-007-11,Long Edge Pinning Press,Thorn Tailspike,F2,True God L1 Low,B
+MV-ELI-GUA-007-12,Reach Closing Sequence,Loomruin,F4,True God L1 Low,B
+MV-ELI-GUA-007-13,The Long Edge Falls Whole,Tempered Counterspike,F2,True God L1 Low,B
+MV-ELI-GUA-008-01,Guandao Oath Taking Stance,Vitalcrest,F5,Demigod L2 Low,B
+MV-ELI-GUA-008-02,Plateau Rising Cut,Sanguine Slashdown,F2,Demigod L2 Low,B
+MV-ELI-GUA-008-03,Guandao Held Oath Guard,Loomspine,F4,Demigod L2 Low,B
+MV-ELI-GUA-008-04,Cliffside Hook Pull,Toxin Rollcut,F2,Demigod L2 Low,B
+MV-ELI-GUA-008-05,Oath Bearing Slash,Brutalizing Longsweep,F1,Demigod L2 Low,B
+MV-ELI-GUA-008-06,Crescent Plateau Wind Parry,Chime Polebelly,F2,Demigod L2 Low,B
+MV-ELI-GUA-008-07,Sworn Crescent Sweep,Mayhem Bladewheel,F2,Demigod L2 Low,B
+MV-ELI-GUA-008-08,Oath Anchored Cleave,Blazeloom,F5,Demigod L2 Low,B
+MV-ELI-GUA-008-09,Oath of the Great Crescent,Mightguan,F5,Demigod L2 Low,B
+MV-ELI-GUA-009-01,Wind-Sworn Crescent Poise,Intent Guantang,F2,Demigod L4 Mid,B
+MV-ELI-GUA-009-02,Gale Long Cut,Might Ironsweep,F2,Demigod L4 Mid,B
+MV-ELI-GUA-009-03,Oath Pole Guard,Facet Bladecollar,F2,Demigod L4 Mid,B
+MV-ELI-GUA-009-04,Crescent Bearing Pace,Might Guanpole,F2,Demigod L4 Mid,B
+MV-ELI-GUA-009-05,Crescent Wind Reading Pause,Clairvoyant Guanhook,F1,Demigod L4 Mid,B
+MV-ELI-GUA-009-06,Crescent Gale Edge Hook,Overpowering Ironsweep,F1,Demigod L4 Mid,B
+MV-ELI-GUA-009-07,Sworn Bearing Slash,Hiltruin,F4,Demigod L4 Mid,B
+MV-ELI-GUA-009-08,Pole Wind Parry,Equipoise Crescentback,F2,Demigod L4 Mid,B
+MV-ELI-GUA-009-09,Wind-Sworn Reaping Wheel,Dismantling Bladewheel,F2,Demigod L4 Mid,B
+MV-ELI-GUA-009-10,Gale Binding Haft,Mastering Heavyblade,F1,Demigod L4 Mid,B
+MV-ELI-GUA-009-11,Long Gale Judgement,Ferocious Iron Slashdown,F6a,Demigod L4 Mid,B
+MV-ELI-GUA-010-01,Open Gale Stance,Unerring Bladecollar,F1,Demigod L7 Low,B
+MV-ELI-GUA-010-02,Straight Shoulder Guandao Chop,Crestscourge,F4,Demigod L7 Low,B
+MV-ELI-GUA-010-03,Gale Side Guard,Obdurate Polebelly,F1,Demigod L7 Low,B
+MV-ELI-GUA-010-04,Heading Held Step,Gust Slashdown,F2,Demigod L7 Low,B
+MV-ELI-GUA-010-05,Gale Gap Slash,Gnashing Bladewheel,F1,Demigod L7 Low,B
+MV-ELI-GUA-010-06,Open Wind Hook,Loommettle,F4,Demigod L7 Low,B
+MV-ELI-GUA-010-07,Crescent Bearing Cross Parry,Chime Tailspike,F2,Demigod L7 Low,B
+MV-ELI-GUA-010-08,Open Gale Chain,Hourguan,F5,Demigod L7 Low,B
+MV-ELI-GUA-010-09,Gale Sundering Cut,Rumble Guanhook,F2,Demigod L7 Low,B
+MV-ELI-GUA-010-10,Gale Bearing Unbroken,Expanse Rollcut,F2,Demigod L7 Low,B
+MV-ELI-GUA-011-01,Unwalled Ground Stance,Radiant Tailspike,F1,Void God L2 Low,B
+MV-ELI-GUA-011-02,Plateau Wide Cut,Ironsweep Reckoning,F3,Void God L2 Low,B
+MV-ELI-GUA-011-03,Crescent Open Flank Guard,Guannerve,F4,Void God L2 Low,B
+MV-ELI-GUA-011-04,Long Run Step,Unseen Bladecollar,F1,Void God L2 Low,B
+MV-ELI-GUA-011-05,Horizon Reading Sense,Hiltinsight,F4,Void God L2 Low,B
+MV-ELI-GUA-011-06,Open Edge Slash,Cresthavoc,F4,Void God L2 Low,B
+MV-ELI-GUA-011-07,Wind Hook Throw,Maiming Tailspike,F1,Void God L2 Low,B
+MV-ELI-GUA-011-08,Plateau Spin Parry,Gust Crescentback,F2,Void God L2 Low,B
+MV-ELI-GUA-011-09,Edge Pursuit Cut,Punishing Heavyswing,F1,Void God L2 Low,B
+MV-ELI-GUA-011-10,Plateau Crescent Sweep,Vengeful Guantang,F1,Void God L2 Low,B
+MV-ELI-GUA-011-11,Pole Pinning Gale,Polebelly Havoc,F3,Void God L2 Low,B
+MV-ELI-GUA-011-12,Crescent With No Walls,Hellish Longsweep Reckoning,F6b,Void God L2 Low,B
+MV-ELI-GUA-012-01,Sworn Wind Crescent Stance,Crestrespite,F4,Void God L6 Low,B
+MV-ELI-GUA-012-02,Great Edge Draw,Guanruin,F4,Void God L6 Low,B
+MV-ELI-GUA-012-03,Wind Brace Guard,Facet Counterspike,F2,Void God L6 Low,B
+MV-ELI-GUA-012-04,Great Edge Lift,Might Bladewheel,F2,Void God L6 Low,B
+MV-ELI-GUA-012-05,Crescent Sworn Hook Haul,Toxincrest,F5,Void God L6 Low,B
+MV-ELI-GUA-012-06,Windward Side Parry,Torrent Guanpole,F2,Void God L6 Low,B
+MV-ELI-GUA-012-07,Great Edge Reaping,Dismantling Heavyswing,F2,Void God L6 Low,B
+MV-ELI-GUA-012-08,Wind-Borne Lunge Cut,Hollowcrest,F5,Void God L6 Low,B
+MV-ELI-GUA-012-09,Edge Sworn to the Wind,Shattering Redtassel,F1,Void God L6 Low,B
+MV-ELI-GUA-013-01,Oath Edge Stance,Equipoise Redtassel,F2,True God L1 Low,B
+MV-ELI-GUA-013-02,Gale Edge Slash,Gusttuft,F5,True God L1 Low,B
+MV-ELI-GUA-013-03,Pledged Pole Block,Granite Heavyblade,F2,True God L1 Low,B
+MV-ELI-GUA-013-04,Guandao Oath Pace,Torrential Longsweep,F1,True God L1 Low,B
+MV-ELI-GUA-013-05,Gale-Edge Cleaving Arc,Booming Heavyswing,F1,True God L1 Low,B
+MV-ELI-GUA-013-06,Pledged Hook Pull,Mayhemhilt,F5,True God L1 Low,B
+MV-ELI-GUA-013-07,Oath Wind Parry,Gust Guanhook,F2,True God L1 Low,B
+MV-ELI-GUA-013-08,Oath Kept Sweep,Blaze Rollcut,F2,True God L1 Low,B
+MV-ELI-GUA-013-09,Edge Beyond the Gale,Rumble Guanpole,F2,True God L1 Low,B
+MV-ELI-GUA-013-10,Gale-Edge Oath Fulfilled,Rumble Heavyblade,F2,True God L1 Low,B
+MV-ELI-GUA-014-01,Ridge Crescent High Wind Stance,Daybreak Counterspike,F2,True God L4 Low,B
+MV-ELI-GUA-014-02,Highland Downcut,Brutalizing Rollcut,F1,True God L4 Low,B
+MV-ELI-GUA-014-03,Thin Air Jab,Nova Guantang,F2,True God L4 Low,B
+MV-ELI-GUA-014-04,High Guard Cover,Crestvalor,F4,True God L4 Low,B
+MV-ELI-GUA-014-05,Ridge Walking Step,Torrent Slashdown,F2,True God L4 Low,B
+MV-ELI-GUA-014-06,Crescent Ridge Slash,Crescentback Scourge,F3,True God L4 Low,B
+MV-ELI-GUA-014-07,Wind Shear Hook,Toxin Bladecollar,F2,True God L4 Low,B
+MV-ELI-GUA-014-08,Highland Parry Turn,Adamantine Counterspike,F1,True God L4 Low,B
+MV-ELI-GUA-014-09,High Wind Cleave,Tempered Polebelly,F2,True God L4 Low,B
+MV-ELI-GUA-014-10,Ridge Sweeping Gale,Mayhem Heavyswing,F2,True God L4 Low,B
+MV-ELI-GUA-014-11,Wind That Cuts the Ridge,Mangling Counterspike,F1,True God L4 Low,B
+MV-ELI-GUA-010-10,Expanse Rollcut,Surging Rollcut,F2,Demigod L7 Low,B

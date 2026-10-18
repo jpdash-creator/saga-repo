@@ -1,0 +1,15 @@
+{
+ "skill_id": "ssc-narration-p36-character-interiority-emotional-truth-mandate",
+ "part": 36,
+ "area": 8,
+ "sequence_in_part": 8,
+ "title": "Character Interiority and Emotional Truth Mandate",
+ "domain": "narration",
+ "source_file": "Part_36_Narration_Novel_Thematic_Law.md",
+ "start_line": 288,
+ "end_line": 317,
+ "line_count": 30,
+ "output_path": ".claude/skills/ssc-narration-p36-character-interiority-emotional-truth-mandate/SKILL.md",
+ "has_stale_python_block": false,
+ "related": []
+}

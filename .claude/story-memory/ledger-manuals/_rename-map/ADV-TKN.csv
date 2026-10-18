@@ -1,0 +1,101 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-TKN-001-01,Low Layer Ankle Skim,Chimestick,F5,Champion,B
+MV-ADV-TKN-001-02,Mid Layer Belt Line Cast,Ravaging Edgeflat,F1,Champion,B
+MV-ADV-TKN-001-03,High Layer Collar Flick,Furrowing Thunk,F1,Champion,B
+MV-ADV-TKN-001-04,Fan Hand Reset Roll,Mightshiv,F5,Champion,B
+MV-ADV-TKN-001-05,Stacked Height Qi Volley,Gust Spinthrow,F2,Champion,B
+MV-ADV-TKN-001-06,Layer Switch Fan Feint,Thunkcloak,F4,Champion,B
+MV-ADV-TKN-001-07,Full Column Fan Burst,Thunktorment,F4,Champion,B
+MV-ADV-TKN-001-08,Closing Layer Pin Wall,Thornlean,F5,Champion,B
+MV-ADV-TKN-002-01,Trailing Cord Loop Toss,Nova Flickthrow,F2,Champion,B
+MV-ADV-TKN-002-02,Wrist Wound Cord Hold,Daybreak Pointguard,F2,Champion,B
+MV-ADV-TKN-002-03,Snag Hook Pull Back,Thunkhauberk,F4,Champion,B
+MV-ADV-TKN-002-04,Slack Coil Walk Step,Granite Throwgrip,F2,Champion,B
+MV-ADV-TKN-002-05,Cord Whip Arc Throw,Rumble Spinetip,F2,Champion,B
+MV-ADV-TKN-002-06,Branch Tie Anchor Throw,Hoarfrost Weighttang,F2,Champion,B
+MV-ADV-TKN-002-07,Recall Snap Retrieve,Leanremedy,F4,Champion,B
+MV-ADV-TKN-002-08,Double Cord Knot Lash,Staggering Bladeflat,F1,Champion,B
+MV-ADV-TKN-002-09,Cord Snare Drop Trap,Thorn Spineweight,F2,Champion,B
+MV-ADV-TKN-003-01,Field Hand Spread Posture,Daybreak Balanceblade,F2,Demigod,B
+MV-ADV-TKN-003-02,Steel Weight Feel Cast,Chimeshiv,F5,Demigod,B
+MV-ADV-TKN-003-03,Straight Flight Field Throw,Scalding Flight,F1,Demigod,B
+MV-ADV-TKN-003-04,Field Shoulder Brace,Enduring Throwtang,F1,Demigod,B
+MV-ADV-TKN-003-05,Short Path Slide Step,Torrent Throwtang,F2,Demigod,B
+MV-ADV-TKN-003-06,Guided Curve Release,Chime Weighttang,F2,Demigod,B
+MV-ADV-TKN-003-07,Field Sweep Lane Cast,Rupturing Stick,F1,Demigod,B
+MV-ADV-TKN-003-08,Edge Return Field Pull,Daybreak Hiltweight,F2,Demigod,B
+MV-ADV-TKN-003-09,Steel Rain Field Barrage,Raging Dismantling Lodge,F6a,Demigod,B
+MV-ADV-TKN-003-10,Seeker Edge Lock On,Blaze Spinthrow,F2,Demigod,B
+MV-ADV-TKN-004-01,Still Shoulder Release,Facet Spineweight,F2,Demigod,B
+MV-ADV-TKN-004-02,Pocket Draw Blind Cast,Facet Edgeflat,F2,Demigod,B
+MV-ADV-TKN-004-03,Sleeve Hidden Flick,Glint Balanceblade,F2,Demigod,B
+MV-ADV-TKN-004-04,Eye Contact Misdirect,Mayhemstick,F5,Demigod,B
+MV-ADV-TKN-004-05,Silent Foot Settle,Torrent Flight,F2,Demigod,B
+MV-ADV-TKN-004-06,Cloak Fold Shield Cover,Hiltweight Cloak,F3,Demigod,B
+MV-ADV-TKN-004-07,Unseen Qi Pulse Release,Drubbing Throwgrip,F1,Demigod,B
+MV-ADV-TKN-004-08,Held Throw Delay Cast,Lodgehauberk,F4,Demigod,B
+MV-ADV-TKN-004-09,Shadow Cast Second Blade,Facet Stick,F2,Demigod,B
+MV-ADV-TKN-004-10,Unmarked Line Heart Throw,Iron Spinetip,F2,Demigod,B
+MV-ADV-TKN-004-11,Vanishing Hand Volley,Shadeshiv,F5,Demigod,B
+MV-ADV-TKN-005-01,Left Hand Court Toss,Glint Thunk,F2,Champion,B
+MV-ADV-TKN-005-02,Right Hand Court Toss,Glint Bladeflat,F2,Champion,B
+MV-ADV-TKN-005-03,Mirror Stance Release,Wrecking Pointguard,F1,Champion,B
+MV-ADV-TKN-005-04,Pair Reading Glance,Remnant Bladeflat,F2,Champion,B
+MV-ADV-TKN-005-05,Basin Edge Side Step,Flickthrow Spurt,F3,Champion,B
+MV-ADV-TKN-005-06,Crossed Wrist Parry Throw,Balanceblade Cloak,F3,Champion,B
+MV-ADV-TKN-005-07,Azure Hand Echo Throw,Grinding Throwgrip,F1,Champion,B
+MV-ADV-TKN-005-08,River Cross Step Barrage,Granite Spineweight,F2,Champion,B
+MV-ADV-TKN-005-09,Court Pair Guard Throw,Resilient Pointguard,F1,Champion,B
+MV-ADV-TKN-005-10,Twin Track Pin and Press,Gyve Lodge,F2,Champion,B
+MV-ADV-TKN-005-11,Twin Wing Convergence Cast,Nova Weighttang,F2,Champion,B
+MV-ADV-TKN-005-12,Basin Cross Fire Lattice,Leanhauberk,F4,Champion,B
+MV-ADV-TKN-006-01,Hawk Perch Raised Grip,Intent Throwtang,F2,Demigod,B
+MV-ADV-TKN-006-02,Short Stoop Drop Throw,Hoarfrost Stick,F2,Demigod,B
+MV-ADV-TKN-006-03,Rising Partner Flick,Blaze Thunk,F2,Demigod,B
+MV-ADV-TKN-006-04,Wing Beat Landing Step,Mightlodge,F5,Demigod,B
+MV-ADV-TKN-006-05,Twin Eye Stoop Throw,Shivthrash,F4,Demigod,B
+MV-ADV-TKN-006-06,Hawk Call Feint Cast,Leanplating,F4,Demigod,B
+MV-ADV-TKN-006-07,Talon Pin Grip Throw,Quelling Lodge,F1,Demigod,B
+MV-ADV-TKN-006-08,Falling Hawk Twin Strike,Harrowing Hiltweight,F1,Demigod,B
+MV-ADV-TKN-006-09,Updraft Return Spiral,Severing Edgeflat,F1,Demigod,B
+MV-ADV-TKN-007-01,Left Track Guard Hold,Torrent Spinetip,F2,Ruler,B
+MV-ADV-TKN-007-02,Right Track Throwing Line,Leantorment,F4,Ruler,B
+MV-ADV-TKN-007-03,Track Swap Hand Pass,Equipoise Pointguard,F2,Ruler,B
+MV-ADV-TKN-007-04,Dual Hand Sweeping Block,Torrent Weighttang,F2,Ruler,B
+MV-ADV-TKN-007-05,Quiet Basin Footwork,Might Flight,F2,Ruler,B
+MV-ADV-TKN-007-06,Throw While Guarding Turn,Spinthrow Torment,F3,Ruler,B
+MV-ADV-TKN-007-07,Counter Track Return Throw,Waning Throwgrip,F2,Ruler,B
+MV-ADV-TKN-007-08,Dual Pulse Wrist Lock,Paralyzing Lodge,F1,Ruler,B
+MV-ADV-TKN-007-09,Two Track Storm Answer,Shivbarrage,F4,Ruler,B
+MV-ADV-TKN-007-10,Dual Track Axis Throw,Guststick,F5,Ruler,B
+MV-ADV-TKN-008-01,Open Plateau Sky Reading,Expanse Spinetip,F2,Demigod,B
+MV-ADV-TKN-008-02,Wind-Sworn Lean Throw,Rumble Throwtang,F2,Demigod,B
+MV-ADV-TKN-008-03,Edge Rim Long Cast,Chime Spineweight,F2,Demigod,B
+MV-ADV-TKN-008-04,Bare Rock Stance Settle,Silt Bladeflat,F2,Demigod,B
+MV-ADV-TKN-008-05,Gust Carried Arc Throw,Spinthrow Assault,F3,Demigod,B
+MV-ADV-TKN-008-06,Updraft Edge Ricochet,Blaze Edgeflat,F2,Demigod,B
+MV-ADV-TKN-008-07,Long Flight Sworn Line,Facetlean,F5,Demigod,B
+MV-ADV-TKN-008-08,Cross Gale Reading Volley,Ponderous Thunk,F2,Demigod,B
+MV-ADV-TKN-009-01,Oath Stone Stance,Silt Flight,F2,Champion,B
+MV-ADV-TKN-009-02,Cliff Lip Hard Throw,Hiltweight Thrash,F3,Champion,B
+MV-ADV-TKN-009-03,Rim Run Release,Rumble Balanceblade,F2,Champion,B
+MV-ADV-TKN-009-04,Edge Oath Draw,Ravaging Spinthrow,F1,Champion,B
+MV-ADV-TKN-009-05,Heel Dig Brace Throw,Blaze Balanceblade,F2,Champion,B
+MV-ADV-TKN-009-06,Scree Slope Sidestep,Mightslim,F5,Champion,B
+MV-ADV-TKN-009-07,Sworn Rim Pin Throw,Silencing Thunk,F1,Champion,B
+MV-ADV-TKN-009-08,Plateau Cross Throw Volley,Stickassault,F4,Champion,B
+MV-ADV-TKN-009-09,Oath Bound Parry Cast,Gustshiv,F5,Champion,B
+MV-ADV-TKN-009-10,Open Edge Oath Barrage,Silt Pointguard,F2,Champion,B
+MV-ADV-TKN-009-11,Held Ground Anchor Throw,Stick Plating,F3,Champion,B
+MV-ADV-TKN-010-01,Fixed Bearing Sight Line,Waningslim,F5,Demigod,B
+MV-ADV-TKN-010-02,Gale Brace Shoulder Throw,Facet Hiltweight,F2,Demigod,B
+MV-ADV-TKN-010-03,Slip Stride Bearing Keep,Might Weighttang,F2,Demigod,B
+MV-ADV-TKN-010-04,Bearing Loose Flick,Rumble Edgeflat,F2,Demigod,B
+MV-ADV-TKN-010-05,Open Wind Counter Throw,Flickthrow Maelstrom,F3,Demigod,B
+MV-ADV-TKN-010-06,Held Bearing Qi Throw,Unmaking Spineweight,F1,Demigod,B
+MV-ADV-TKN-010-07,Moving Deck Bearing Cast,Leanthrash,F4,Demigod,B
+MV-ADV-TKN-010-08,Shift Footing Return Throw,Resilient Bladeflat,F1,Demigod,B
+MV-ADV-TKN-010-09,Sworn Bearing Piercing Cast,Stick Torment,F3,Demigod,B
+MV-ADV-TKN-010-10,Gale Line Corridor Trap,Silt Spinetip,F2,Demigod,B
+MV-ADV-TKN-003-09,Raging Dismantling Lodge,Raging Dismantling,F6a,Demigod,B
+MV-ADV-TKN-008-01,Expanse Spinetip,Keen Spinetip,F2,Demigod,B

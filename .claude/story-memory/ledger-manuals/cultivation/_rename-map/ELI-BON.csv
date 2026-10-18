@@ -1,0 +1,9 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ELI-BON-001-08,Hollow Mirror,Echo Mirror,INSTANT,Champion L1 Low,Advanced
+CMV-ELI-BON-002-04,Hollow Wing,Wingleap,INSTANT,Warrior L1 Low,Basic
+CMV-ELI-BON-005-04,Oathlock,Pledge Lock,CHANNELED,Warrior L1 Low,Intermediate
+CMV-ELI-BON-007-01,Hollow Bone,Bone Leap,INSTANT,Warrior L1 Low,Basic
+CMV-ELI-BON-007-03,Hollow Ward,Drift Ward,CHANNELED,Warrior L1 Low,Basic
+CMV-ELI-BON-006-07,Taut Spine,Taut Brace,CHANNELED,Warrior L1 Low,Intermediate
+CMV-ELI-BON-007-04,Gust Rib,Gust Ribcage,INSTANT,Warrior L1 Low,Intermediate
+CMV-ELI-BON-003-01,Marrow Basin,Marrow Store,CHANNELED,,Basic

@@ -1,0 +1,135 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-SHS-001-01,Court Pair Greeting,Venerable Stubblade,F1,Warrior,B
+MV-SIG-SHS-001-02,Paired Distance Probe,Revelation Pointcap,F2,Warrior,B
+MV-SIG-SHS-001-03,Court Entry Pace,Stabgrace,F4,Warrior,B
+MV-SIG-SHS-001-04,Court Mirror Short Parry,Inviolate Cutedge,F1,Warrior,B
+MV-SIG-SHS-001-05,Court Beat Press,Subjugating Hiltcap,F1,Warrior,B
+MV-SIG-SHS-001-06,Paired Edge Prick,Pulsar Gore,F2,Warrior,B
+MV-SIG-SHS-001-07,Pair Rotation Guard,Sacrosanct Knobgrip,F1,Warrior,B
+MV-SIG-SHS-001-08,Court Crossing Slash,Gallant Dig,F1,Warrior,B
+MV-SIG-SHS-001-09,Court Pair Break,Peremptory Nick,F1,Warrior,B
+MV-SIG-SHS-001-10,Double Beat Court Break,Digpledge,F4,Warrior,B
+MV-SIG-SHS-001-11,Twin Court Finishing Stab,Triumphant Prism Stabtip,F6a,Warrior,B
+MV-SIG-SHS-002-01,Basin Still Stance,Consecrated Shortspine,F1,Warrior,B
+MV-SIG-SHS-002-02,Hawk Eye Fixing,Eclipse Handguard,F2,Warrior,B
+MV-SIG-SHS-002-03,Ripple Out Step,Digvoyage,F4,Warrior,B
+MV-SIG-SHS-002-04,Still Basin Parry,Thumbvow,F4,Warrior,B
+MV-SIG-SHS-002-05,Hawk Stoop Prick,Dauntless Sting,F1,Warrior,B
+MV-SIG-SHS-002-06,Basin Draw In,Thrall Broadleaf,F2,Warrior,B
+MV-SIG-SHS-002-07,Falling Hawk Short Cut,Intrepid Poke,F1,Warrior,B
+MV-SIG-SHS-002-08,Basin Wall Cover,Immaculate Hiltcap,F1,Warrior,B
+MV-SIG-SHS-002-09,Hawk After Rest Strike,Vacuumgore,F5,Warrior,B
+MV-SIG-SHS-002-10,Hawk In The Basin Fall,Paramount Stabtip,F1,Warrior,B
+MV-SIG-SHS-003-01,River Standing Guard,Undefiled Pointcap,F1,Champion,B
+MV-SIG-SHS-003-02,Azure Stream Thrust,Valiant Gore,F1,Champion,B
+MV-SIG-SHS-003-03,Current Following Step,Tipboon,F4,Champion,B
+MV-SIG-SHS-003-04,Bend Sweep Parry,Faithful Cutedge,F1,Champion,B
+MV-SIG-SHS-003-05,Rapid Water Prick,Stingedict,F4,Champion,B
+MV-SIG-SHS-003-06,Undertow Hook,Authoritative Stabtip,F1,Champion,B
+MV-SIG-SHS-003-07,Whirl Guard Turn,Squall Knobgrip,F2,Champion,B
+MV-SIG-SHS-003-08,Spring Flood Series,Orchestral Dig,F1,Champion,B
+MV-SIG-SHS-003-09,River Bend Slash,Digverdict,F4,Champion,B
+MV-SIG-SHS-003-10,Weir Hold Guard,Devout Thumbrest,F1,Champion,B
+MV-SIG-SHS-003-11,Great Current Pull,Despotic Nick,F1,Champion,B
+MV-SIG-SHS-003-12,Azure River Turning Thrust,Majestic Gore Crown,F6b,Champion,B
+MV-SIG-SHS-004-01,Twin Path Stance,Stately Stubblade,F1,Ruler,B
+MV-SIG-SHS-004-02,Body Line Probe,Peal Hiltcap,F2,Ruler,B
+MV-SIG-SHS-004-03,Second Track Pace,Windborne Stab,F1,Ruler,B
+MV-SIG-SHS-004-04,Offset Track Parry,Sainted Broadleaf,F1,Ruler,B
+MV-SIG-SHS-004-05,Track Split Prick,Prism Dig,F2,Ruler,B
+MV-SIG-SHS-004-06,Rhythm Break Beat,Tyrannous Poke,F1,Ruler,B
+MV-SIG-SHS-004-07,Dual Track Weave,Harmonious Nick,F1,Ruler,B
+MV-SIG-SHS-004-08,Paired Track Slash,Pokebanner,F4,Ruler,B
+MV-SIG-SHS-004-09,Dual Track Recovery,Stubseal,F4,Ruler,B
+MV-SIG-SHS-004-10,Track Union Break,Steelsting,F5,Ruler,B
+MV-SIG-SHS-004-11,Two Track Single Blade,Unrivaled Stabtip,F1,Ruler,B
+MV-SIG-SHS-005-01,High Perch Awareness,Sphere Shortspine,F2,Demigod,B
+MV-SIG-SHS-005-02,Hawk Ready Crouch,Enshrined Broadleaf,F1,Demigod,B
+MV-SIG-SHS-005-03,Rising Air Step,Skyborne Knobgrip,F1,Demigod,B
+MV-SIG-SHS-005-04,Wing Spread Short Parry,Squall Hiltcap,F2,Demigod,B
+MV-SIG-SHS-005-05,Basin Edge Glide,Penumbra Poke,F2,Demigod,B
+MV-SIG-SHS-005-06,Talon Pin,Nickseal,F4,Demigod,B
+MV-SIG-SHS-005-07,Hawk Eye Stab,Fearless Dig,F1,Demigod,B
+MV-SIG-SHS-005-08,Wind Under Wings Hold,Inviolate Shortspine,F1,Demigod,B
+MV-SIG-SHS-005-09,Plunging Talon Strike,Gorebanner,F4,Demigod,B
+MV-SIG-SHS-005-10,Updraft Recovery,Stinggrace,F4,Demigod,B
+MV-SIG-SHS-005-11,Basin Sky Flash Stab,Interstice Gore,F2,Demigod,B
+MV-SIG-SHS-005-12,Hawk Above The Basin Plunge,Illustrious Pulsar Sting,F6a,Demigod,B
+MV-SIG-SHS-006-01,Core Rooted Stance,Revered Thumbrest,F1,Core Formation,B
+MV-SIG-SHS-006-02,Dual River Reading,Kernel Cutedge,F2,Core Formation,B
+MV-SIG-SHS-006-03,River Side Step,Pokevoyage,F4,Core Formation,B
+MV-SIG-SHS-006-04,Core Draw Parry,Nucleus Stubblade,F2,Core Formation,B
+MV-SIG-SHS-006-05,Twin Stream Prick,Noble Stab,F1,Core Formation,B
+MV-SIG-SHS-006-06,River Cross Bind,Stabtroth,F4,Core Formation,B
+MV-SIG-SHS-006-07,Core Pulse Cut,Splendid Poke,F1,Core Formation,B
+MV-SIG-SHS-006-08,Core Steadied Short Guard,Sanctum Knobgrip,F2,Core Formation,B
+MV-SIG-SHS-006-09,Rivers Rising Burst,Nickedict,F4,Core Formation,B
+MV-SIG-SHS-006-10,Twin Rivers Meeting Point,Imperial Nick,F1,Core Formation,B
+MV-SIG-SHS-007-01,Wind Sworn Greeting,Faithful Stubblade,F1,Warrior,B
+MV-SIG-SHS-007-02,Plateau Breath Reading,Peal Cutedge,F2,Warrior,B
+MV-SIG-SHS-007-03,Oath Pace Close,Digsolace,F4,Warrior,B
+MV-SIG-SHS-007-04,Gust Edge Parry,Squall Pointcap,F2,Warrior,B
+MV-SIG-SHS-007-05,Wind Hold Bearing,Unwavering Hiltcap,F1,Warrior,B
+MV-SIG-SHS-007-06,Sworn Gust Prick,Steel Poke,F2,Warrior,B
+MV-SIG-SHS-007-07,Oath Bound Short Press,Unbending Dig,F1,Warrior,B
+MV-SIG-SHS-007-08,Rising Wind Series,Symphonic Stab,F1,Warrior,B
+MV-SIG-SHS-007-09,Wind Oath Short Slash,Stingdecree,F4,Warrior,B
+MV-SIG-SHS-007-10,Unmoved Plateau Guard,Undaunted Handguard,F1,Warrior,B
+MV-SIG-SHS-007-11,Oath Of The Edge Piercing,Squallnick,F5,Warrior,B
+MV-SIG-SHS-007-12,Vow Of The Close Wind,Dauntless Vacuum Poke,F6a,Warrior,B
+MV-SIG-SHS-008-01,Plateau Bearing Stance,Devout Shortspine,F1,Warrior,B
+MV-SIG-SHS-008-02,Horizon Check,Serene Handguard,F1,Warrior,B
+MV-SIG-SHS-008-03,Bearing Kept Short Pace,Goreboon,F4,Warrior,B
+MV-SIG-SHS-008-04,Cross Breeze Parry,Stately Knobgrip,F1,Warrior,B
+MV-SIG-SHS-008-05,Plateau Line Hold,Millstone Hiltcap,F2,Warrior,B
+MV-SIG-SHS-008-06,Plateau Bearing Line Stab,Pokeverdict,F4,Warrior,B
+MV-SIG-SHS-008-07,Edge To Edge Step,Feather Stabtip,F1,Warrior,B
+MV-SIG-SHS-008-08,Bearing Driven Impale,Lordly Dig,F1,Warrior,B
+MV-SIG-SHS-008-09,Plateau Open Short Guard,Consecrated Pointcap,F1,Warrior,B
+MV-SIG-SHS-008-10,Held To Its End Line,Statute Broadleaf,F2,Warrior,B
+MV-SIG-SHS-008-11,Bearing Of The Open Plateau,Majestic Nick,F1,Warrior,B
+MV-SIG-SHS-009-01,Silent Level Blade Stance,Sainted Thumbrest,F1,Champion,B
+MV-SIG-SHS-009-02,Sworn Purpose Thrust,Tipcrown,F4,Champion,B
+MV-SIG-SHS-009-03,Vow Keeping Pace,Nickvoyage,F4,Champion,B
+MV-SIG-SHS-009-04,Promise Edge Parry,Unwavering Cutedge,F1,Champion,B
+MV-SIG-SHS-009-05,Binding Word Press,Sigil Knobgrip,F2,Champion,B
+MV-SIG-SHS-009-06,Pledge Recovery Guard,Venerable Hiltcap,F1,Champion,B
+MV-SIG-SHS-009-07,Oath Driven Cut,Heroic Sting,F1,Champion,B
+MV-SIG-SHS-009-08,Vow Held Wall,Sacrosanct Stubblade,F1,Champion,B
+MV-SIG-SHS-009-09,Word Made Stab,Revelation Stab,F2,Champion,B
+MV-SIG-SHS-009-10,Oath School Sworn Thrust,Gallant Volition Poke,F6a,Champion,B
+MV-SIG-SHS-010-01,Wind Close Stance,Immaculate Broadleaf,F1,Ruler,B
+MV-SIG-SHS-010-02,Draught Close Reading,Luminous Stubblade,F1,Ruler,B
+MV-SIG-SHS-010-03,Quick Gust Step,Stabsolace,F4,Ruler,B
+MV-SIG-SHS-010-04,Edge Hugging Parry,Squall Shortspine,F2,Ruler,B
+MV-SIG-SHS-010-05,Wind Snap Prick,Valiant Stab,F1,Ruler,B
+MV-SIG-SHS-010-06,Pressing Gale Bind,Digseal,F4,Ruler,B
+MV-SIG-SHS-010-07,Close Air Slide,Ethereal Nick,F1,Ruler,B
+MV-SIG-SHS-010-08,Short Gale Series,Choral Poke,F1,Ruler,B
+MV-SIG-SHS-010-09,Wind Edge Rip,Storied Dig,F1,Ruler,B
+MV-SIG-SHS-010-10,Close Wind Ward,Tipvow,F4,Ruler,B
+MV-SIG-SHS-010-11,Wind Kiss Pierce,Prism Sting,F2,Ruler,B
+MV-SIG-SHS-010-12,Wind And Close Edge Closing,Matchless Dig,F1,Ruler,B
+MV-SIG-SHS-011-01,Open Plateau Awareness,Sphere Knobgrip,F2,Demigod,B
+MV-SIG-SHS-011-02,Bare Ground Stance,Enshrined Cutedge,F1,Demigod,B
+MV-SIG-SHS-011-03,Wind Back Stride,Dune Nick,F2,Demigod,B
+MV-SIG-SHS-011-04,Plateau Shear Parry,Penumbra Handguard,F2,Demigod,B
+MV-SIG-SHS-011-05,Open Ground Press,Nickpledge,F4,Demigod,B
+MV-SIG-SHS-011-06,Wide Sky Stab,Exalted Gore,F1,Demigod,B
+MV-SIG-SHS-011-07,Gust Cover Rush,Spectral Dig,F1,Demigod,B
+MV-SIG-SHS-011-08,Cliff Wind Impale,Digdecree,F4,Demigod,B
+MV-SIG-SHS-011-09,Open Sky Short Guard,Revered Shortspine,F1,Demigod,B
+MV-SIG-SHS-011-10,Plateau Edge Flash,Pulsarnick,F5,Demigod,B
+MV-SIG-SHS-011-11,Open Plateau Short Strike,Intrepid Dig Banner,F6b,Demigod,B
+MV-SIG-SHS-012-01,Core Storm Stance,Sacrosanct Handguard,F1,Core Formation,B
+MV-SIG-SHS-012-02,Storm Edge Reading,Kernel Knobgrip,F2,Core Formation,B
+MV-SIG-SHS-012-03,Core Gust Pace,Nucleus Poke,F2,Core Formation,B
+MV-SIG-SHS-012-04,Storm Turned Parry,Squall Stubblade,F2,Core Formation,B
+MV-SIG-SHS-012-05,Sworn Core Prick,Kernel Sting,F2,Core Formation,B
+MV-SIG-SHS-012-06,Eye Of The Gale Hold,Masterful Hiltcap,F1,Core Formation,B
+MV-SIG-SHS-012-07,Core Storm Slash,Triumphant Nick,F1,Core Formation,B
+MV-SIG-SHS-012-08,Core Held Ward,Thumbpledge,F4,Core Formation,B
+MV-SIG-SHS-012-09,Gale Core Burst,Spatesting,F5,Core Formation,B
+MV-SIG-SHS-012-10,Core Storm Sworn Edge,Lordly Stab,F1,Core Formation,B
+MV-SIG-SHS-006-08,Sanctum Knobgrip,Titan Knobgrip,F2,Core Formation,B
+MV-SIG-SHS-011-03,Dune Nick,Mighty Nick,F2,Demigod,B

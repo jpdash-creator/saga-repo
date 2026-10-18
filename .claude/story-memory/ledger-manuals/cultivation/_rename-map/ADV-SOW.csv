@@ -1,0 +1,7 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-SOW-008-04,True Line,True Thrust,INSTANT,,Basic
+CMV-ADV-SOW-008-06,Line Drawn,Drawn Bolt,INSTANT,,Intermediate
+CMV-ADV-SOW-008-07,Line Lock,Tether Lock,CHANNELED,,Advanced
+CMV-ADV-SOW-008-08,Far Line,Distant Bolt,CAST,,Advanced
+CMV-ADV-SOW-009-07,Hollow Wind,Whistle Wind,CHANNELED,,Intermediate
+CMV-ADV-SOW-006-01,Basin Fill,Slow Fill,CHANNELED,,Basic

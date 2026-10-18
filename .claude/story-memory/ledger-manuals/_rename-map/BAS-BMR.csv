@@ -1,0 +1,64 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-BMR-001-01,Crook Elbow Grip,Short Tipwing,F1,T1 Unawakened,A
+MV-BAS-BMR-001-02,Shoulder Width Stance,Arctrot,F4,T1 Unawakened,A
+MV-BAS-BMR-001-03,Level Overarm Cast,Wooddrop,F4,T1 Unawakened,A
+MV-BAS-BMR-001-04,Wrist Flick Spin,Open Trailingedge,F1,T1 Unawakened,A
+MV-BAS-BMR-001-05,Open Hands Catch,Calm Crookend,F1,T1 Unawakened,A
+MV-BAS-BMR-001-06,Wet Thumb Wind Test,Watching Leadingedge,F1,T1 Unawakened,A
+MV-BAS-BMR-002-01,Hardened Palm Pinch,Downward Curveback,F1,T1 Skin,A
+MV-BAS-BMR-002-02,Sack Spin Drill,Returnhit,F4,T1 Skin,A
+MV-BAS-BMR-002-03,Short Cast at the Post,Blunt Cycle,F1,T1 Skin,A
+MV-BAS-BMR-002-04,Low Crouch Skim,Barkdash,F4,T1 Skin,A
+MV-BAS-BMR-002-05,Sidestep Retrieve,Quiet Hover,F1,T1 Skin,A
+MV-BAS-BMR-003-01,Back Foot Drive Cast,Returnstrike,F4,T1 Muscle,A
+MV-BAS-BMR-003-02,Hip Turn Release,Gnawing Wingarm,F1,T1 Muscle,A
+MV-BAS-BMR-003-03,Loaded Shoulder Lob,Open Returnarc,F1,T1 Muscle,A
+MV-BAS-BMR-003-04,Steep Angle Lift,Firm Return,F1,T1 Muscle,A
+MV-BAS-BMR-003-05,Tilted Wing Bank,Upward Circling,F1,T1 Muscle,A
+MV-BAS-BMR-003-06,Stick Block Guard,Ready Woodgrain,F1,T1 Muscle,A
+MV-BAS-BMR-003-07,Clubbing Wing Tap,Wide Arc,F1,T1 Muscle,A
+MV-BAS-BMR-004-01,Tendon Loaded Snap,Leaden Trailingedge,F1,T1 Tendon,A
+MV-BAS-BMR-004-02,Forearm Roll Release,Blunt Loopback,F1,T1 Tendon,A
+MV-BAS-BMR-004-03,Thumb Pad Brake,Blunt Woodgrain,F1,T1 Tendon,A
+MV-BAS-BMR-004-04,Fingertip Spin Peel,Upward Elbowbend,F1,T1 Tendon,A
+MV-BAS-BMR-004-05,Twist Off Whip Cast,Arcdrop,F4,T1 Tendon,A
+MV-BAS-BMR-004-06,Belt Draw Throw,Hoverhit,F4,T1 Tendon,A
+MV-BAS-BMR-004-07,Reverse Grip Hook Strike,Gnawing Sweptwing,F1,T1 Tendon,A
+MV-BAS-BMR-004-08,Face Level Wing Shield,Graincowl,F4,T1 Tendon,A
+MV-BAS-BMR-005-01,Heavy Wood Heft Cast,Quick Sweptwing,F1,T1 Bone,A
+MV-BAS-BMR-005-02,Hunting Stick Crouch Creep,Curveskitter,F4,T1 Bone,A
+MV-BAS-BMR-005-03,Bone Set Flat Throw,Hoverblow,F4,T1 Bone,A
+MV-BAS-BMR-005-04,Ground Bird Sweep,Downward Circling,F1,T1 Bone,A
+MV-BAS-BMR-005-05,Long Grass Sight Line,Curvenote,F4,T1 Bone,A
+MV-BAS-BMR-005-06,Trunk Rebound Cast,Hard Returnarc,F1,T1 Bone,A
+MV-BAS-BMR-006-01,Breath Warmed Grip,Quick Hover,F1,Senior L1 Low,A
+MV-BAS-BMR-006-02,Qi Seated Release,Arcdash,F4,Senior L1 Low,A
+MV-BAS-BMR-006-03,Spin Quickened Arc,Upward Return,F1,Senior L1 Low,A
+MV-BAS-BMR-006-04,Soft Landing Catch,Tending Wingarm,F1,Senior L1 Low,A
+MV-BAS-BMR-006-05,Hover Turn Return,Hard Arc,F1,Senior L1 Low,A
+MV-BAS-BMR-007-01,Wide Loop Release,Straight Cycle,F1,Senior L2 Low,A
+MV-BAS-BMR-007-02,Pinch and Peel Cast,Short Curveback,F1,Senior L2 Low,A
+MV-BAS-BMR-007-03,Bank Left Arc,Low Crookend,F1,Senior L2 Low,A
+MV-BAS-BMR-007-04,Bank Right Arc,Stiff Returnarc,F1,Senior L2 Low,A
+MV-BAS-BMR-007-05,Skyward Pitch Return,Curvebump,F4,Senior L2 Low,A
+MV-BAS-BMR-007-06,Two Step Catch Walk,Woodtrot,F4,Senior L2 Low,A
+MV-BAS-BMR-007-07,Gust Reading Glance,Barkreview,F4,Senior L2 Low,A
+MV-BAS-BMR-008-01,Wing Arm Lift Reading,Tending Elbowbend,F1,Senior L3 Low,A
+MV-BAS-BMR-008-02,Leading Edge Fingerhold,Square Leadingedge,F1,Senior L3 Low,A
+MV-BAS-BMR-008-03,Tailwind Lengthening Cast,Curvedash,F4,Senior L3 Low,A
+MV-BAS-BMR-008-04,Headwind Slicing Cast,Returnbump,F4,Senior L3 Low,A
+MV-BAS-BMR-008-05,Spiral Qi Wrap,Tipwing Strike,F3,Senior L3 Low,A
+MV-BAS-BMR-008-06,Twin Palm Return Catch,Deep Sweptwing,F1,Senior L3 Low,A
+MV-BAS-BMR-008-07,Edge Turning Guard,Holding Elbowbend,F1,Senior L3 Low,A
+MV-BAS-BMR-008-08,Wing Hook Pull,Circling Hit,F3,Senior L3 Low,A
+MV-BAS-BMR-009-01,Far Post Wing Sighting,Judging Leadingedge,F1,Senior L4 Low,A
+MV-BAS-BMR-009-02,Long Reach Windup,Gnawing Crookend,F1,Senior L4 Low,A
+MV-BAS-BMR-009-03,Qi Sustained Outbound Leg,Low Hover,F1,Senior L4 Low,A
+MV-BAS-BMR-009-04,Wide Turn Pivot,Descending Loopback,F1,Senior L4 Low,A
+MV-BAS-BMR-009-05,Walking Return Pace,Cycle Skitter,F3,Senior L4 Low,A
+MV-BAS-BMR-009-06,Overhead Snatch,Mild Curveback,F1,Senior L4 Low,A
+MV-BAS-BMR-010-01,Cupped Hand Welcome,Smooth Wingarm,F1,Senior L5 Low,A
+MV-BAS-BMR-010-02,Pinch Between Wings,Watching Woodgrain,F1,Senior L5 Low,A
+MV-BAS-BMR-010-03,Clap Catch Return,Grainlid,F4,Senior L5 Low,A
+MV-BAS-BMR-010-04,Backward Step Absorb,Hoverhop,F4,Senior L5 Low,A
+MV-BAS-BMR-010-05,Sound of the Return,Warm Woodgrain,F1,Senior L5 Low,A

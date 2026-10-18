@@ -1,0 +1,15 @@
+{
+ "skill_id": "ssc-narration-p36-dcg-thematic-preview-mandate",
+ "part": 36,
+ "area": 13,
+ "sequence_in_part": 13,
+ "title": "DCG Thematic Preview Mandate",
+ "domain": "narration",
+ "source_file": "Part_36_Narration_Novel_Thematic_Law.md",
+ "start_line": 419,
+ "end_line": 452,
+ "line_count": 34,
+ "output_path": ".claude/skills/ssc-narration-p36-dcg-thematic-preview-mandate/SKILL.md",
+ "has_stale_python_block": false,
+ "related": []
+}

@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-STI-001-01,Qi Feed Light Grip,Knitting Triprism,F1,Senior,A
+MV-INT-STI-001-02,Needle Two-Count Thrust,Keen Pin,F1,Senior,A
+MV-INT-STI-001-03,Cheek Height Flick,Brisk Boltpoint,F1,Senior,A
+MV-INT-STI-001-04,Short Retreat Guard,Reedscreen,F4,Senior,A
+MV-INT-STI-001-05,Off-Hand Wrist Hook Pull,Stitchbuckle,F4,Senior,A
+MV-INT-STI-001-06,Chained Needle Run,Braided Rodtip,F1,Senior,A
+MV-INT-STI-001-07,Grip-To-Point Qi Switch,Rodtipscorer,F4,Senior,A
+MV-INT-STI-002-01,Wrist Meeting Prick,Darnflog,F4,Senior,A
+MV-INT-STI-002-02,Beat and Return Stab,Guarding Hairpoint,F1,Senior,A
+MV-INT-STI-002-03,Inside Line Hold,Rooted Needlerod,F1,Senior,A
+MV-INT-STI-002-04,Counter Reset Step,Springing Probe,F1,Senior,A
+MV-INT-STI-002-05,Finger-Width Slip Pierce,Brutal Seam,F1,Senior,A
+MV-INT-STI-002-06,Hardened Palm Catch Stab,Gripping Thread,F1,Senior,A
+MV-INT-STI-003-01,Knuckle Gap Search,Reedcordial,F4,Senior,A
+MV-INT-STI-003-02,Elbow Crease Prick,Tinyquill Swat,F3,Senior,A
+MV-INT-STI-003-03,Knee Hollow Poke,Grim Waxgrip,F1,Senior,A
+MV-INT-STI-003-04,Ankle Cord Flick,Doughty Rodbase,F1,Senior,A
+MV-INT-STI-003-05,Shoulder Socket Jab,Darnprop,F4,Senior,A
+MV-INT-STI-003-06,Joint Line Retreat,Lithe Spikeguard,F1,Senior,A
+MV-INT-STI-003-07,Tendon Pin Press,Tethering Darn,F1,Senior,A
+MV-INT-STI-003-08,Hollow Pair Piercing,Stitchswat,F4,Senior,A
+MV-INT-STI-004-01,Clinch Entry Step,Probe Curl,F3,Warrior,B
+MV-INT-STI-004-02,Chest Brace Stab,Gleam Tinyquill,F2,Warrior,B
+MV-INT-STI-004-03,Elbow Hook Draw,Stamp Triprism,F2,Warrior,B
+MV-INT-STI-004-04,Close Pivot Parry,Rooted Slimshaft,F1,Warrior,B
+MV-INT-STI-004-05,Shoulder Turn Cover,Clay Slimshaft,F2,Warrior,B
+MV-INT-STI-004-06,Under-Arm Slip Behind,Brawnreed,F5,Warrior,B
+MV-INT-STI-004-07,Clinch Rattle Stabs,Grim Boltpoint,F1,Warrior,B
+MV-INT-STI-004-08,Hip Wheel Off-Balance,Gall Rodbase,F2,Warrior,B
+MV-INT-STI-004-09,Narrow Wedge Pry,Discord Stitch,F2,Warrior,B
+MV-INT-STI-005-01,Sleeve Pin Stab,Splicepin,F5,Warrior,B
+MV-INT-STI-005-02,Forearm Bar Hold,Awlhasp,F4,Warrior,B
+MV-INT-STI-005-03,Cut Passing Slip,Claypin,F5,Warrior,B
+MV-INT-STI-005-04,Pinned Point Wrench,Brawn Stitch,F2,Warrior,B
+MV-INT-STI-005-05,Cord Slip Parry,Hairpoint Prop,F3,Warrior,B
+MV-INT-STI-005-06,Crossed Bar Redirect,Poisereed,F5,Warrior,B
+MV-INT-STI-005-07,Double Sleeve Pinning,Sleet Waxgrip,F2,Warrior,B
+MV-INT-STI-006-01,Thread Line Set,Brawnawl,F5,Warrior,B
+MV-INT-STI-006-02,Rear Leg Spring,Grit Seam,F2,Warrior,B
+MV-INT-STI-006-03,Full Reach Lunge,Brass Rodtip,F2,Warrior,B
+MV-INT-STI-006-04,Recovery Rock Back,Pirouetting Needlerod,F1,Warrior,B
+MV-INT-STI-006-05,Lunge Beat Feint,Lassoing Darn,F1,Warrior,B
+MV-INT-STI-006-06,Low Hip Drop Thrust,Seamslap,F4,Warrior,B
+MV-INT-STI-006-07,Cross Step Closing Lunge,Fierce Thread,F1,Warrior,B
+MV-INT-STI-006-08,Passing Lunge Pierce,Rushing Pin,F1,Warrior,B
+MV-INT-STI-006-09,Falling Tip Lunge,Gleam Rodbase,F2,Warrior,B
+MV-INT-STI-006-10,Spring Back Reset Guard,Brass Spikeguard,F2,Warrior,B
+MV-INT-STI-007-01,Helm Slit Poke,Rude Darn,F1,Warrior,B
+MV-INT-STI-007-02,Gorget Edge Jab,Gleamreed,F5,Warrior,B
+MV-INT-STI-007-03,Mail Ring Spread,Raw Slimshaft,F1,Warrior,B
+MV-INT-STI-007-04,Armpit Gap Needle Prick,Honedreed,F5,Warrior,B
+MV-INT-STI-007-05,Plate Skid Redirect,Unmoving Tinyquill,F1,Warrior,B
+MV-INT-STI-007-06,Heavy Foe Circling Step,Draught Pin,F2,Warrior,B
+MV-INT-STI-007-07,Rivet Seam Breaking Thrust,Gleam Triprism,F2,Warrior,B
+MV-INT-STI-007-08,Visor Pull Stab,Staticprobe,F5,Warrior,B
+MV-INT-STI-008-01,Point Feeling Drill,Recall Rodtip,F2,Warrior,B
+MV-INT-STI-008-02,Edge Contact Read,Recall Spikeguard,F2,Warrior,B
+MV-INT-STI-008-03,Light Touch Press,Staticstitch,F5,Warrior,B
+MV-INT-STI-008-04,Read and Retire Step,Slinking Thread,F1,Warrior,B
+MV-INT-STI-008-05,Contact Foretold Stab,Gleam Needlerod,F2,Warrior,B
+MV-INT-STI-008-06,Eyes-Closed Point Reading,Knitting Boltpoint,F1,Warrior,B

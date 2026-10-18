@@ -1,0 +1,75 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-WHM-001-01,Beak First Guard,Rooted Eyehole,F1,Senior L1 Low,A
+MV-INT-WHM-001-02,Steady Beak Jab,Smithflog,F4,Senior L1 Low,A
+MV-INT-WHM-001-03,Beak Draw Back,Viselike Faceplate,F1,Senior L1 Low,A
+MV-INT-WHM-001-04,Gap Seeking Step,Fleet Hammerblow,F1,Senior L1 Low,A
+MV-INT-WHM-001-05,Beak Driven Pierce,Rugged Peenside,F1,Senior L1 Low,A
+MV-INT-WHM-001-06,Plate Rip Withdraw,Gagging Forge,F1,Senior L1 Low,A
+MV-INT-WHM-002-01,Falling Head Arc,Savage Beakpick,F1,Senior L5 Mid,A
+MV-INT-WHM-002-02,Arm Length Slam,Forgescorer,F4,Senior L5 Mid,A
+MV-INT-WHM-002-03,Lifted Haft Cover,Stubborn Spikeback,F1,Senior L5 Mid,A
+MV-INT-WHM-002-04,Descent Entry Step,Forgehurdle,F4,Senior L5 Mid,A
+MV-INT-WHM-002-05,Recoil Catch Lift,Forgethwack,F4,Senior L5 Mid,A
+MV-INT-WHM-002-06,Heavy Descent Crush,Peenbite Thwack,F3,Senior L5 Mid,A
+MV-INT-WHM-002-07,Shield Sinking Press,Forgeflog,F4,Senior L5 Mid,A
+MV-INT-WHM-003-01,Ear Ringing Tap,Raw Drivehome,F1,Senior L9 Low,A
+MV-INT-WHM-003-02,Helm Rim Hook,Peenprop,F4,Senior L9 Low,A
+MV-INT-WHM-003-03,Nape Guard Knock,Dire Clawside,F1,Senior L9 Low,A
+MV-INT-WHM-003-04,Bow Under Parry,Rooted Anvilback,F1,Senior L9 Low,A
+MV-INT-WHM-003-05,Crouch Hammer Cover,Hammerface Carapace,F3,Senior L9 Low,A
+MV-INT-WHM-003-06,Pace Beneath Swing,Slinking Anvilfall,F1,Senior L9 Low,A
+MV-INT-WHM-003-07,Helm Shock Ring,Rough Hammerface,F1,Senior L9 Low,A
+MV-INT-WHM-003-08,Dizzy Crown Beat,Anvilbuckle,F4,Senior L9 Low,A
+MV-INT-WHM-004-01,Gauntlet Grip Reset,Clay Cheekplate,F2,Warrior L2 Mid,B
+MV-INT-WHM-004-02,Armored Shoulder Lean,Brass Anvilfall,F2,Warrior L2 Mid,B
+MV-INT-WHM-004-03,Press Forward Haft Push,Discord Eyehole,F2,Warrior L2 Mid,B
+MV-INT-WHM-004-04,Heavy Hammer Foot Advance,Anvilcurl,F4,Warrior L2 Mid,B
+MV-INT-WHM-004-05,Packed Line Hammer Sweep,Dawnforge,F5,Warrior L2 Mid,B
+MV-INT-WHM-004-06,Rank Splitting Drive,Brass Cheekplate,F2,Warrior L2 Mid,B
+MV-INT-WHM-005-01,Guard Rise Answer,Peenbite Scorer,F3,Senior L2 High,A
+MV-INT-WHM-005-02,Haft Lock Hold,Smithhasp,F4,Senior L2 High,A
+MV-INT-WHM-005-03,Parry Poll Return,Stalwart Beakpick,F1,Senior L2 High,A
+MV-INT-WHM-005-04,Down Cover Counter,Smithscorer,F4,Senior L2 High,A
+MV-INT-WHM-005-05,Catch Turn Hook,Gagging Anvilback,F1,Senior L2 High,A
+MV-INT-WHM-005-06,Step Clear Reset,Scudding Clawside,F1,Senior L2 High,A
+MV-INT-WHM-005-07,Qi Backed Riposte,Doughty Drivehome,F1,Senior L2 High,A
+MV-INT-WHM-005-08,Spring Haft Deflection,Peenbarrier,F4,Senior L2 High,A
+MV-INT-WHM-005-09,Answering Crush Beat,Hammerneck Swat,F3,Senior L2 High,A
+MV-INT-WHM-006-01,Plate Edge Rap,Brawnpeen,F5,Warrior L5 Low,B
+MV-INT-WHM-006-02,Rivet Line Strike,Vicious Peenside,F1,Warrior L5 Low,B
+MV-INT-WHM-006-03,Armor Joint Poke,Brawn Forge,F2,Warrior L5 Low,B
+MV-INT-WHM-006-04,Brace and Cover,Guarding Hammerneck,F1,Warrior L5 Low,B
+MV-INT-WHM-006-05,Side Shuffle Entry,Brawn Tamp,F2,Warrior L5 Low,B
+MV-INT-WHM-006-06,Rivet Burst Smash,Brasspeen,F5,Warrior L5 Low,B
+MV-INT-WHM-006-07,Seam Splitting Wrench,Discord Tamp,F2,Warrior L5 Low,B
+MV-INT-WHM-007-01,Face Flat Slap,Vicious Hammerblow,F1,Senior L7 Peak,A
+MV-INT-WHM-007-02,Spike Prick Tap,Stern Faceplate,F1,Senior L7 Peak,A
+MV-INT-WHM-007-03,Turn About Haft,Lassoing Hammerface,F1,Senior L7 Peak,A
+MV-INT-WHM-007-04,Cover Face Guard,Sturdy Cheekplate,F1,Senior L7 Peak,A
+MV-INT-WHM-007-05,Spike Through Drive,Spikeback Scorer,F3,Senior L7 Peak,A
+MV-INT-WHM-007-06,Flat Face Flatten,Hammerblow Slap,F3,Senior L7 Peak,A
+MV-INT-WHM-008-01,Shock Seed Tap,Brutal Peenbite,F1,Warrior L1 High,B
+MV-INT-WHM-008-02,Short Arc Slam,Brawn Anvilfall,F2,Warrior L1 High,B
+MV-INT-WHM-008-03,Ribcage Rattle Knock,Keen Hammerneck,F1,Warrior L1 High,B
+MV-INT-WHM-008-04,Steel Echo Rap,Acrid Forge,F1,Warrior L1 High,B
+MV-INT-WHM-008-05,Long Hold Brace,Sleetpeen,F5,Warrior L1 High,B
+MV-INT-WHM-008-06,Slack Haft Deflect,Beakpick Prop,F3,Warrior L1 High,B
+MV-INT-WHM-008-07,Steel Listening Pause,Rallying Eyehole,F1,Warrior L1 High,B
+MV-INT-WHM-008-08,Carried Shock Strike,Tampthwack,F4,Warrior L1 High,B
+MV-INT-WHM-008-09,Plate Flexing Hammer Wave,Brawnsmith,F5,Warrior L1 High,B
+MV-INT-WHM-008-10,Inner Rattle Crush,Gleamsmith,F5,Warrior L1 High,B
+MV-INT-WHM-009-01,Sliding Grip Swing,Fierce Peenside,F1,Senior L4 Mid,A
+MV-INT-WHM-009-02,Short Grip Hook,Gripping Drivehome,F1,Senior L4 Mid,A
+MV-INT-WHM-009-03,Choked Up Jab,Anvilscorer,F4,Senior L4 Mid,A
+MV-INT-WHM-009-04,Haft Flip Cover,Peenhasp,F4,Senior L4 Mid,A
+MV-INT-WHM-009-05,Wrist Pulse Tap,Brutal Tamp,F1,Senior L4 Mid,A
+MV-INT-WHM-009-06,Wrist Pulse Hammerfall,Hungry Hammerblow,F1,Senior L4 Mid,A
+MV-INT-WHM-009-07,Grip Change Reversal,Gagging Eyehole,F1,Senior L4 Mid,A
+MV-INT-WHM-010-01,Mail Link Tear Strike,Peenbite Flog,F3,Warrior L9 Peak,B
+MV-INT-WHM-010-02,Scale Crack Rap,Honed Clawside,F2,Warrior L9 Peak,B
+MV-INT-WHM-010-03,Plate Dent Chop,Static Anvilback,F2,Warrior L9 Peak,B
+MV-INT-WHM-010-04,Padded Coat Pound,Doughty Tamp,F1,Warrior L9 Peak,B
+MV-INT-WHM-010-05,Brace Cover Turn,Sprigpeen,F5,Warrior L9 Peak,B
+MV-INT-WHM-010-06,Field Angle Step,Rillpeen,F5,Warrior L9 Peak,B
+MV-INT-WHM-010-07,Mail Crushing Blow,Ember Cheekplate,F2,Warrior L9 Peak,B
+MV-INT-WHM-010-08,Scale Splitting Hook,Savage Hammerneck,F1,Warrior L9 Peak,B

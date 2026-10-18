@@ -1,0 +1,130 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-DAO-001-01,Cleaver Weight Chop,Chopbelly Maelstrom,F3,Champion L1 Low,B
+MV-ADV-DAO-001-02,Dead Weight Guard,Annealed Knucklebar,F1,Champion L1 Low,B
+MV-ADV-DAO-001-03,Leaden Foot Advance,Silt Dragcut,F2,Champion L1 Low,B
+MV-ADV-DAO-001-04,Hammering Spine Beat,Gust Spineback,F2,Champion L1 Low,B
+MV-ADV-DAO-001-05,Weight Roll Parry,Annealed Dishguard,F1,Champion L1 Low,B
+MV-ADV-DAO-001-06,Falling Mass Hew,Blazedish,F5,Champion L1 Low,B
+MV-ADV-DAO-001-07,Sinking Weight Press,Hour Slice,F2,Champion L1 Low,B
+MV-ADV-DAO-001-08,Cleaver Weight Break,Chime Curvespine,F2,Champion L1 Low,B
+MV-ADV-DAO-001-09,Ram-Weight Cleave,Sanguine Whisk,F2,Champion L1 Low,B
+MV-ADV-DAO-001-10,Immovable Weight Stance,Dishcloak,F4,Champion L1 Low,B
+MV-ADV-DAO-002-01,Answering Cut,Rumble Ringpommel,F2,Champion L4 Low,B
+MV-ADV-DAO-002-02,Counter Guard Settle,Hoarfrost Rearedge,F2,Champion L4 Low,B
+MV-ADV-DAO-002-03,Counter Step Aside,Gust Bellyblade,F2,Champion L4 Low,B
+MV-ADV-DAO-002-04,Return Flick,Blaze Swathe,F2,Champion L4 Low,B
+MV-ADV-DAO-002-05,Counter-Cut Trap Slice,Thorn Brush,F2,Champion L4 Low,B
+MV-ADV-DAO-002-06,Anticipated Parry Return,Torrent Tipbend,F2,Champion L4 Low,B
+MV-ADV-DAO-002-07,Cut Beneath the Cut,Wrecking Scrape,F1,Champion L4 Low,B
+MV-ADV-DAO-002-08,Counter-Cut Cascade,Lot Brush,F2,Champion L4 Low,B
+MV-ADV-DAO-003-01,Qi Halo Chop,Scorching Rearedge,F1,Demigod L1 Low,B
+MV-ADV-DAO-003-02,Halo Guard Settle,Bevelgreave,F4,Demigod L1 Low,B
+MV-ADV-DAO-003-03,Halo Drift Step,Gust Tipbend,F2,Demigod L1 Low,B
+MV-ADV-DAO-003-04,Halo Skimmed Slice,Curvespine Assault,F3,Demigod L1 Low,B
+MV-ADV-DAO-003-05,Halo Wrist Turn,Unyielding Ringpommel,F1,Demigod L1 Low,B
+MV-ADV-DAO-003-06,Halo Edge Hew,Might Whisk,F2,Demigod L1 Low,B
+MV-ADV-DAO-003-07,Halo Edge Stretch,Iron Scrape,F2,Demigod L1 Low,B
+MV-ADV-DAO-003-08,Halo Pressure Lean,Unmaking Dishguard,F1,Demigod L1 Low,B
+MV-ADV-DAO-003-09,Halo Rap Disruption,Swathegreave,F4,Demigod L1 Low,B
+MV-ADV-DAO-003-10,Qi Reach Cleave,Iron Swathe,F2,Demigod L1 Low,B
+MV-ADV-DAO-003-11,Beyond-Blade Sweep,Granite Knucklebar,F2,Demigod L1 Low,B
+MV-ADV-DAO-004-01,Crowded Hall Chop,Sanguine Chopbelly,F2,Champion L7 Low,B
+MV-ADV-DAO-004-02,Shoulder Press Guard,Unbroken Spineback,F1,Champion L7 Low,B
+MV-ADV-DAO-004-03,Pressed Side Step,Silt Bellyblade,F2,Champion L7 Low,B
+MV-ADV-DAO-004-04,Close Quarter Slice,Might Dishguard,F2,Champion L7 Low,B
+MV-ADV-DAO-004-05,Elbow Room Sweep,Lambasting Slice,F1,Champion L7 Low,B
+MV-ADV-DAO-004-06,Press Break Shove,Dominating Flatside,F1,Champion L7 Low,B
+MV-ADV-DAO-004-07,Narrow Passage Hew,Whiskassault,F4,Champion L7 Low,B
+MV-ADV-DAO-004-08,Ring of Edges Sweep,Daybreak Flatside,F2,Champion L7 Low,B
+MV-ADV-DAO-004-09,Pressed Back Cleave,Drubbing Slice,F1,Champion L7 Low,B
+MV-ADV-DAO-005-01,Following Edge Chop,Might Dragcut,F2,Demigod L4 Low,B
+MV-ADV-DAO-005-02,Following Guard Settle,Thornchop,F5,Demigod L4 Low,B
+MV-ADV-DAO-005-03,Edge Following Step,Granite Brush,F2,Demigod L4 Low,B
+MV-ADV-DAO-005-04,Qi Tracked Slice,Bellyblade Barrage,F3,Demigod L4 Low,B
+MV-ADV-DAO-005-05,Edge Tracked Parry,Murkchop,F5,Demigod L4 Low,B
+MV-ADV-DAO-005-06,Tracked Hew Rhythm,Rearedge Torment,F3,Demigod L4 Low,B
+MV-ADV-DAO-005-07,Qi Thread Pursuit Cut,Dishtorment,F4,Demigod L4 Low,B
+MV-ADV-DAO-005-08,Following Edge Press,Dishbarrage,F4,Demigod L4 Low,B
+MV-ADV-DAO-005-09,Tracked Edge Snare,Fastening Tipbend,F2,Demigod L4 Low,B
+MV-ADV-DAO-005-10,Qi Trace Break,Scrapehauberk,F4,Demigod L4 Low,B
+MV-ADV-DAO-005-11,Chasing Edge Sequence,Interlocking Swathe,F1,Demigod L4 Low,B
+MV-ADV-DAO-005-12,Unbroken Following Cleave,Raging Glint Chopbelly,F6a,Demigod L4 Low,B
+MV-ADV-DAO-006-01,Twin Track Opening Chop,Gustscrape,F5,Champion L2 Low,B
+MV-ADV-DAO-006-02,Paired Guard Settle,Facet Flatside,F2,Champion L2 Low,B
+MV-ADV-DAO-006-03,Matched Twin Paces,Gust Curvespine,F2,Champion L2 Low,B
+MV-ADV-DAO-006-04,Paired Draw Slice,Tempered Spineback,F2,Champion L2 Low,B
+MV-ADV-DAO-006-05,Second Track Follow Cut,Granite Scrape,F2,Champion L2 Low,B
+MV-ADV-DAO-006-06,Twin Track Parry Return,Torrent Knucklebar,F2,Champion L2 Low,B
+MV-ADV-DAO-006-07,Paired Bind Hook,Swatheplating,F4,Champion L2 Low,B
+MV-ADV-DAO-006-08,Dual-Track Descending Hew,Tempered Whisk,F2,Champion L2 Low,B
+MV-ADV-DAO-006-09,Twin Cut Sequence,Intentchop,F5,Champion L2 Low,B
+MV-ADV-DAO-007-01,Hawk Stoop Chop,Unmaking Rearedge,F1,Demigod L2 Low,B
+MV-ADV-DAO-007-02,Folded Wing Guard,Curvespine Cuirass,F3,Demigod L2 Low,B
+MV-ADV-DAO-007-03,Hawk Glide Step,Torrent Ringpommel,F2,Demigod L2 Low,B
+MV-ADV-DAO-007-04,Talon Draw Slice,Needling Whisk,F1,Demigod L2 Low,B
+MV-ADV-DAO-007-05,Wing Beat Parry,Unbroken Tipbend,F1,Demigod L2 Low,B
+MV-ADV-DAO-007-06,Stooping Hawk Hew,Blazescrape,F5,Demigod L2 Low,B
+MV-ADV-DAO-007-07,Hawk Talon Snare,Thorn Ringpommel,F2,Demigod L2 Low,B
+MV-ADV-DAO-007-08,Circling Hawk Press,Sliceassault,F4,Demigod L2 Low,B
+MV-ADV-DAO-007-09,Azure Stoop Cleave,Cleaving Flatside,F1,Demigod L2 Low,B
+MV-ADV-DAO-007-10,Rising Hawk Recovery,Granite Dishguard,F2,Demigod L2 Low,B
+MV-ADV-DAO-008-01,River Bend Cut,Granite Dragcut,F2,Ruler L1 Low,B
+MV-ADV-DAO-008-02,Basin Rim Guard,Aegis Bellyblade,F2,Ruler L1 Low,B
+MV-ADV-DAO-008-03,Shallows Crossing Step,Silt Slice,F2,Ruler L1 Low,B
+MV-ADV-DAO-008-04,Eddy Draw Slice,Might Brush,F2,Ruler L1 Low,B
+MV-ADV-DAO-008-05,Millrace Turn Parry,Chopplating,F4,Ruler L1 Low,B
+MV-ADV-DAO-008-06,Spate Chop,Might Spineback,F2,Ruler L1 Low,B
+MV-ADV-DAO-008-07,Flood Basin Sweep,Silt Chopbelly,F2,Ruler L1 Low,B
+MV-ADV-DAO-008-08,River Reversal Counter,Chopcloak,F4,Ruler L1 Low,B
+MV-ADV-DAO-009-01,Azure Pair Chop,Severing Dragcut,F1,Demigod L5 Low,B
+MV-ADV-DAO-009-02,Paired Cut Guard,Unflinching Knucklebar,F1,Demigod L5 Low,B
+MV-ADV-DAO-009-03,Pair Step Cross,Whiskpounce,F4,Demigod L5 Low,B
+MV-ADV-DAO-009-04,Pair Drawn Slice,Raging Rearedge,F1,Demigod L5 Low,B
+MV-ADV-DAO-009-05,Paired Wrist Parry,Chimedish,F5,Demigod L5 Low,B
+MV-ADV-DAO-009-06,Second Hew Pairing,Unmaking Scrape,F1,Demigod L5 Low,B
+MV-ADV-DAO-009-07,Paired Qi Hew,Furrowing Dishguard,F1,Demigod L5 Low,B
+MV-ADV-DAO-009-08,Azure Pair Press,Raging Chopbelly,F1,Demigod L5 Low,B
+MV-ADV-DAO-009-09,Paired Edge Bind,Whiskhauberk,F4,Demigod L5 Low,B
+MV-ADV-DAO-009-10,Pair Break Beat,Rumblebevel,F5,Demigod L5 Low,B
+MV-ADV-DAO-009-11,Azure Pair Cleave,Scything Whisk,F1,Demigod L5 Low,B
+MV-ADV-DAO-009-12,Paired Sky Sequence,Intentscrape,F5,Demigod L5 Low,B
+MV-ADV-DAO-010-01,Wind-Sworn Chop,Gust Swathe,F2,Champion L3 Low,B
+MV-ADV-DAO-010-02,Windbreak Guard,Staunch Tipbend,F1,Champion L3 Low,B
+MV-ADV-DAO-010-03,Gale Long Pace,Gust Flatside,F2,Champion L3 Low,B
+MV-ADV-DAO-010-04,Wind Draw Slice,Sanguine Brush,F2,Champion L3 Low,B
+MV-ADV-DAO-010-05,Oath Edge Hew,Scrape Maelstrom,F3,Champion L3 Low,B
+MV-ADV-DAO-010-06,Wind Turn Parry,Murk Ringpommel,F2,Champion L3 Low,B
+MV-ADV-DAO-010-07,Gust Press,Slice Torment,F3,Champion L3 Low,B
+MV-ADV-DAO-010-08,Wind-Sworn Downrush Hew,Ironwhisk,F5,Champion L3 Low,B
+MV-ADV-DAO-010-09,Gale Edge Counter,Gustbevel,F5,Champion L3 Low,B
+MV-ADV-DAO-011-01,Plateau Edge Chop,Severing Spineback,F1,Demigod L3 Low,B
+MV-ADV-DAO-011-02,Bearing Held Guard,Charter Curvespine,F2,Demigod L3 Low,B
+MV-ADV-DAO-011-03,Bearing Step Along,Dragcut Pounce,F3,Demigod L3 Low,B
+MV-ADV-DAO-011-04,Escarpment Draw Slice,Beveltorment,F4,Demigod L3 Low,B
+MV-ADV-DAO-011-05,Bearing Wrist Parry,Equipoise Ringpommel,F2,Demigod L3 Low,B
+MV-ADV-DAO-011-06,Plateau Wind Hew,Sanguine Swathe,F2,Demigod L3 Low,B
+MV-ADV-DAO-011-07,Bearing Line Cut,Gust Whisk,F2,Demigod L3 Low,B
+MV-ADV-DAO-011-08,Escarpment Press,Shadeslice,F5,Demigod L3 Low,B
+MV-ADV-DAO-011-09,Bearing Break Beat,Chime Knucklebar,F2,Demigod L3 Low,B
+MV-ADV-DAO-011-10,Held Bearing Cleave,Dishguard Thrash,F3,Demigod L3 Low,B
+MV-ADV-DAO-011-11,Plateau Edge Sequence,Doctrine Bellyblade,F2,Demigod L3 Low,B
+MV-ADV-DAO-012-01,Oath Chop Opener,Gustchop,F5,Ruler L2 Low,B
+MV-ADV-DAO-012-02,Sworn Guard Settle,Thorndish,F5,Ruler L2 Low,B
+MV-ADV-DAO-012-03,Oathbound Step,Mightslice,F5,Ruler L2 Low,B
+MV-ADV-DAO-012-04,Gale Shear Slice,Rumble Flatside,F2,Ruler L2 Low,B
+MV-ADV-DAO-012-05,Sworn Hew of the Gale,Gust Brush,F2,Ruler L2 Low,B
+MV-ADV-DAO-012-06,Oath Breaker Parry,Chimechop,F5,Ruler L2 Low,B
+MV-ADV-DAO-012-07,Gale Oath Cleave,Splintering Granite Chopbelly,F6a,Ruler L2 Low,B
+MV-ADV-DAO-012-08,Sworn Wind Rebuke,Enduring Curvespine,F1,Ruler L2 Low,B
+MV-ADV-DAO-013-01,Bare Plateau Chop,Sanguine Spineback,F2,Demigod L6 Low,B
+MV-ADV-DAO-013-02,Open Guard Settle,Facetchop,F5,Demigod L6 Low,B
+MV-ADV-DAO-013-03,Unwalled Step,Granite Swathe,F2,Demigod L6 Low,B
+MV-ADV-DAO-013-04,Skyline Draw Slice,Tempered Slice,F2,Demigod L6 Low,B
+MV-ADV-DAO-013-05,Open Edge Parry,Murk Bellyblade,F2,Demigod L6 Low,B
+MV-ADV-DAO-013-06,Horizon Hew,Tempered Rearedge,F2,Demigod L6 Low,B
+MV-ADV-DAO-013-07,Open Ground Hew,Brushassault,F4,Demigod L6 Low,B
+MV-ADV-DAO-013-08,Skyline Press,Lambasting Tipbend,F1,Demigod L6 Low,B
+MV-ADV-DAO-013-09,Open Edge Bind,Thorn Scrape,F2,Demigod L6 Low,B
+MV-ADV-DAO-013-10,Edge Gale Break,Chime Ringpommel,F2,Demigod L6 Low,B
+MV-ADV-DAO-013-11,Horizon Cleave,Blaze Brush,F2,Demigod L6 Low,B
+MV-ADV-DAO-013-12,Edge of the Gale Sequence,Hour Knucklebar,F2,Demigod L6 Low,B

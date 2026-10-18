@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-energy-p11-technology-applications",
+ "part": 11,
+ "area": 13,
+ "sequence_in_part": 13,
+ "title": "Technology Applications (Reserved — Pending Technology/Energy Integration Law Amendment)",
+ "domain": "energy",
+ "source_file": "Part_11_Energy_Resource_Law.md",
+ "start_line": 1008,
+ "end_line": 1025,
+ "line_count": 18,
+ "output_path": ".claude/skills/ssc-energy-p11-technology-applications/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-cultivation-p04-affinity-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: CPM Grade 1–20 maps to energy resource grades"
+  },
+  {
+   "skill_id": "ssc-cultivation-p04-soul-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: CPM Grade 1–20 maps to energy resource grades"
+  },
+  {
+   "skill_id": "ssc-cultivation-p04-cultivation-heart",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: CPM Grade 1–20 maps to energy resource grades"
+  },
+  {
+   "skill_id": "ssc-energy-p12-object-classification-system",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Relic energy function draws on Part 11 resource framework"
+  },
+  {
+   "skill_id": "ssc-energy-p12-five-classification-tiers",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Relic energy function draws on Part 11 resource framework"
+  },
+  {
+   "skill_id": "ssc-energy-p12-creation-methods-crafting-law",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Relic energy function draws on Part 11 resource framework"
+  },
+  {
+   "skill_id": "ssc-energy-p12-power-ceilings-realm-interaction",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Relic energy function draws on Part 11 resource framework"
+  },
+  {
+   "skill_id": "ssc-energy-p12-relic-types-primary-function",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Relic energy function draws on Part 11 resource framework"
+  },
+  {
+   "skill_id": "ssc-energy-p12-combat-applications",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Relic energy function draws on Part 11 resource framework"
+  },
+  {
+   "skill_id": "ssc-energy-p12-formation-arrays",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Relic energy function draws on Part 11 resource framework"
+  }
+ ]
+}

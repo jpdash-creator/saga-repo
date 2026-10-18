@@ -1,0 +1,5 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-SOH-006-02,River Read,Flow Read,INSTANT,,Basic
+CMV-ADV-SOH-006-03,Bank Ward,Steadying Ward,CHANNELED,,Basic
+CMV-ADV-SOH-009-03,Long Shelter,Steady Mantle,CHANNELED,,Basic
+CMV-ADV-SOH-006-01,Basin Brimming,Filled Palm,CHANNELED,,Basic

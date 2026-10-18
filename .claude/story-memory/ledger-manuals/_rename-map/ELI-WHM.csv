@@ -1,0 +1,165 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-WHM-001-01,Twin Court Stance,Thorn Beakpick,F2,Demigod L1 Low,B
+MV-ELI-WHM-001-02,Court Pair Rap,Brutalizing Anvilfall,F1,Demigod L1 Low,B
+MV-ELI-WHM-001-03,Court Head Step Pair,Gust Hammerblow,F2,Demigod L1 Low,B
+MV-ELI-WHM-001-04,Matched Court Crush,Titanic Tamp,F1,Demigod L1 Low,B
+MV-ELI-WHM-001-05,Two Hand Court Parry,Gust Hammerface,F2,Demigod L1 Low,B
+MV-ELI-WHM-001-06,Court Mate Hook,Tampdurance,F4,Demigod L1 Low,B
+MV-ELI-WHM-001-07,Twin Court Hammerfall,Unsparing Clawside,F1,Demigod L1 Low,B
+MV-ELI-WHM-001-08,Court Divided Press,Brutalizing Spikeback,F1,Demigod L1 Low,B
+MV-ELI-WHM-001-09,Twin Court Verdict Blow,Lacerating Anvilback,F1,Demigod L1 Low,B
+MV-ELI-WHM-002-01,Basin Edge Hammer Stance,Peennerve,F4,Demigod L3 Mid,B
+MV-ELI-WHM-002-02,Basin Rim Rap,Rumble Cheekplate,F2,Demigod L3 Mid,B
+MV-ELI-WHM-002-03,Basin Scoop Hook,Hogtying Eyehole,F1,Demigod L3 Mid,B
+MV-ELI-WHM-002-04,Basin Floor Step,Peenglare,F4,Demigod L3 Mid,B
+MV-ELI-WHM-002-05,Basin Deepening Strike,Gustsmith,F5,Demigod L3 Mid,B
+MV-ELI-WHM-002-06,Overflow Turning Parry,Murk Faceplate,F2,Demigod L3 Mid,B
+MV-ELI-WHM-002-07,Basin Pour Crush,Punishing Peenbite,F1,Demigod L3 Mid,B
+MV-ELI-WHM-002-08,Basin Flooding Press,Intentforge,F5,Demigod L3 Mid,B
+MV-ELI-WHM-002-09,Basin Spill Hammer,Silt Forge,F2,Demigod L3 Mid,B
+MV-ELI-WHM-002-10,Basin Breaking Hammer,Devastating Rumble Spikeback,F6a,Demigod L3 Mid,B
+MV-ELI-WHM-003-01,Azure Height Guard,Smithvalor,F4,Demigod L5 High,B
+MV-ELI-WHM-003-02,High Air Rap,Blistering Hammerneck,F1,Demigod L5 High,B
+MV-ELI-WHM-003-03,Thin Air Hook,Tampspine,F4,Demigod L5 High,B
+MV-ELI-WHM-003-04,Skyline Hammer Step,Granite Peenside,F2,Demigod L5 High,B
+MV-ELI-WHM-003-05,Steady Sky Parry,Flintlike Faceplate,F1,Demigod L5 High,B
+MV-ELI-WHM-003-06,Skyfall Hammer Blow,Anvilfall Wrath,F3,Demigod L5 High,B
+MV-ELI-WHM-003-07,Azure Pitch Strike,Sanguine Hammerblow,F2,Demigod L5 High,B
+MV-ELI-WHM-003-08,Heights Pulling Hook,Mastering Cheekplate,F1,Demigod L5 High,B
+MV-ELI-WHM-003-09,Azure Height Descent,Gnashing Peenside,F1,Demigod L5 High,B
+MV-ELI-WHM-003-10,High Sky Press,Charter Forge,F2,Demigod L5 High,B
+MV-ELI-WHM-003-11,Azure Heights Shattering Fall,Gnashing Hammerface Ruin,F6b,Demigod L5 High,B
+MV-ELI-WHM-004-01,Paired River Stance,Thorn Clawside,F2,Demigod L7 Low,B
+MV-ELI-WHM-004-02,River Mate Tap,Gnashing Tamp,F1,Demigod L7 Low,B
+MV-ELI-WHM-004-03,Two Bank Step,Torrent Anvilback,F2,Demigod L7 Low,B
+MV-ELI-WHM-004-04,River Pair Strike,Hammerneck Reckoning,F3,Demigod L7 Low,B
+MV-ELI-WHM-004-05,Meeting Waters Parry,Chime Eyehole,F2,Demigod L7 Low,B
+MV-ELI-WHM-004-06,Parting Stream Hook,Hammerblow Tenacity,F3,Demigod L7 Low,B
+MV-ELI-WHM-004-07,Paired River Crush,Gust Clawside,F2,Demigod L7 Low,B
+MV-ELI-WHM-004-08,River Bound Bind,Ponderous Peenside,F2,Demigod L7 Low,B
+MV-ELI-WHM-004-09,River Pair Sundering Fall,Forgewrath,F4,Demigod L7 Low,B
+MV-ELI-WHM-005-01,Track Pair Guard,Inexorable Spikeback,F1,Void God L1 Mid,B
+MV-ELI-WHM-005-02,Left Track Rap,Ferocious Faceplate,F1,Void God L1 Mid,B
+MV-ELI-WHM-005-03,Right Track Rap,Peenbite Devastation,F3,Void God L1 Mid,B
+MV-ELI-WHM-005-04,Track Switch Haft Step,Blinding Drivehome,F1,Void God L1 Mid,B
+MV-ELI-WHM-005-05,Track Listening Pause,Waningsmith,F5,Void God L1 Mid,B
+MV-ELI-WHM-005-06,Track Crossing Blow,Anvilhavoc,F4,Void God L1 Mid,B
+MV-ELI-WHM-005-07,Dual Track Parry,Torrent Beakpick,F2,Void God L1 Mid,B
+MV-ELI-WHM-005-08,Track Splitting Hook,Mayhemtamp,F5,Void God L1 Mid,B
+MV-ELI-WHM-005-09,Pressed Track Crush,Tempered Hammerface,F2,Void God L1 Mid,B
+MV-ELI-WHM-005-10,Dual Track Hammer Rush,Gnashing Drivehome,F1,Void God L1 Mid,B
+MV-ELI-WHM-005-11,Track Locking Press,Gyveanvil,F5,Void God L1 Mid,B
+MV-ELI-WHM-005-12,Dual Track Joining Strike,Gnashing Beakpick Reckoning,F6b,Void God L1 Mid,B
+MV-ELI-WHM-006-01,Silt Footing Stance,Thorn Cheekplate,F2,Void God L4 Low,B
+MV-ELI-WHM-006-02,Stone Settling Rap,Granite Anvilfall,F2,Void God L4 Low,B
+MV-ELI-WHM-006-03,Slow Current Hammer Step,Lightning Eyehole,F1,Void God L4 Low,B
+MV-ELI-WHM-006-04,Silt Weighted Blow,Shattering Peenbite,F1,Void God L4 Low,B
+MV-ELI-WHM-006-05,Settling Stone Parry,Equipoise Hammerneck,F2,Void God L4 Low,B
+MV-ELI-WHM-006-06,Riverbed Drag Hook,Anvilspine,F4,Void God L4 Low,B
+MV-ELI-WHM-006-07,Stone Laid Press,Booming Drivehome,F1,Void God L4 Low,B
+MV-ELI-WHM-006-08,Silt Choking Bind,Tamp Hardihood,F3,Void God L4 Low,B
+MV-ELI-WHM-006-09,Riverbed Crushing Hammer,Ironforge,F5,Void God L4 Low,B
+MV-ELI-WHM-007-01,Twin Hawk Perch,Aegissmith,F5,Void God L6 High,B
+MV-ELI-WHM-007-02,Reach Beak Tap,Blaze Anvilfall,F2,Void God L6 High,B
+MV-ELI-WHM-007-03,Fall Feint Step,Might Eyehole,F2,Void God L6 High,B
+MV-ELI-WHM-007-04,Hawk Pair Haft Parry,Inexorable Anvilback,F1,Void God L6 High,B
+MV-ELI-WHM-007-05,Reach and Fall Strike,Smithruin,F4,Void God L6 High,B
+MV-ELI-WHM-007-06,Twin Talon Hook,Rumble Forge,F2,Void God L6 High,B
+MV-ELI-WHM-007-07,Hawk Pair Crush,Peenbite Wrath,F3,Void God L6 High,B
+MV-ELI-WHM-007-08,Paired Hawk Dive Blow,Ironpeen,F5,Void God L6 High,B
+MV-ELI-WHM-007-09,Wide Wing Press,Tamp Havoc,F3,Void God L6 High,B
+MV-ELI-WHM-007-10,Twin Hawk Shattering Dive,Ferocious Anvilback,F1,Void God L6 High,B
+MV-ELI-WHM-008-01,Azure Line Guard,Peenvalor,F4,True God L2 Low,B
+MV-ELI-WHM-008-02,Basin Line Tap,Mightpeen,F5,True God L2 Low,B
+MV-ELI-WHM-008-03,Unbroken Line Hook,Chime Cheekplate,F2,True God L2 Low,B
+MV-ELI-WHM-008-04,Line Keeping Hammer Step,Meteoric Beakpick,F1,True God L2 Low,B
+MV-ELI-WHM-008-05,Line Reading Pause,Remnant Peenside,F2,True God L2 Low,B
+MV-ELI-WHM-008-06,Azure Line Strike,Grievous Forge,F1,True God L2 Low,B
+MV-ELI-WHM-008-07,Line Held Parry,Torrent Hammerneck,F2,True God L2 Low,B
+MV-ELI-WHM-008-08,Basin Line Crush,Hellish Hammerface,F1,True God L2 Low,B
+MV-ELI-WHM-008-09,Line Drag Pull,Mayhem Drivehome,F2,True God L2 Low,B
+MV-ELI-WHM-008-10,Unbroken Line Hammerfall,Might Cheekplate,F2,True God L2 Low,B
+MV-ELI-WHM-008-11,Azure Line Binding Press,Fastening Spikeback,F2,True God L2 Low,B
+MV-ELI-WHM-008-12,Basin Line Sweep,Dismantling Faceplate,F2,True God L2 Low,B
+MV-ELI-WHM-008-13,Azure Basin Unbroken Strike,Iron Clawside,F2,True God L2 Low,B
+MV-ELI-WHM-009-01,Plateau Oath Hammer Stance,Unbudging Eyehole,F1,Demigod L2 Low,B
+MV-ELI-WHM-009-02,Oath Edge Tap,Might Faceplate,F2,Demigod L2 Low,B
+MV-ELI-WHM-009-03,Rim Walk Hammer Step,Siltpeen,F5,Demigod L2 Low,B
+MV-ELI-WHM-009-04,Sworn Edge Crush,Blaze Peenside,F2,Demigod L2 Low,B
+MV-ELI-WHM-009-05,Plateau Oath Parry,Beakpick Mettle,F3,Demigod L2 Low,B
+MV-ELI-WHM-009-06,Oath Hook Pull,Webbing Clawside,F1,Demigod L2 Low,B
+MV-ELI-WHM-009-07,Plateau Oath Hammerfall,Anvilback Devastation,F3,Demigod L2 Low,B
+MV-ELI-WHM-009-08,Oath Held Head Press,Granite Hammerblow,F2,Demigod L2 Low,B
+MV-ELI-WHM-009-09,Plateau Oath Breaking Strike,Glint Anvilfall,F2,Demigod L2 Low,B
+MV-ELI-WHM-010-01,Wind Sworn Hammer Stance,Thornpeen,F5,Demigod L4 Mid,B
+MV-ELI-WHM-010-02,Swing Opening Tap,Rampaging Hammerface,F1,Demigod L4 Mid,B
+MV-ELI-WHM-010-03,Beak Wind Wrench,Forge Nerve,F3,Demigod L4 Mid,B
+MV-ELI-WHM-010-04,Swing Return Step,Torrential Drivehome,F1,Demigod L4 Mid,B
+MV-ELI-WHM-010-05,Wind Sworn Heavy Blow,Forgescourge,F4,Demigod L4 Mid,B
+MV-ELI-WHM-010-06,Swing Turned Parry,Inexorable Hammerneck,F1,Demigod L4 Mid,B
+MV-ELI-WHM-010-07,Sworn Wind Crush,Lacerating Tamp,F1,Demigod L4 Mid,B
+MV-ELI-WHM-010-08,Wind Sworn Swing Sweep,Downpour Spikeback,F2,Demigod L4 Mid,B
+MV-ELI-WHM-010-09,Sworn Wind Binding Press,Thornsmith,F5,Demigod L4 Mid,B
+MV-ELI-WHM-010-10,Wind Sworn Final Swing,Eviscerating Beakpick,F1,Demigod L4 Mid,B
+MV-ELI-WHM-011-01,Bearing Breaker Stance,Hoarfrost Eyehole,F2,Demigod L6 High,B
+MV-ELI-WHM-011-02,Bearing Tap Beat,Smithwrath,F4,Demigod L6 High,B
+MV-ELI-WHM-011-03,Bearing Hook Catch,Mastering Clawside,F1,Demigod L6 High,B
+MV-ELI-WHM-011-04,Bearing Step Hold,Mighttamp,F5,Demigod L6 High,B
+MV-ELI-WHM-011-05,Bearing Fix Pause,Smithrespite,F4,Demigod L6 High,B
+MV-ELI-WHM-011-06,Bearing Driven Blow,Shattering Forge,F1,Demigod L6 High,B
+MV-ELI-WHM-011-07,Bearing Turned Parry,Murk Anvilback,F2,Demigod L6 High,B
+MV-ELI-WHM-011-08,Bearing Crushing Beat,Eviscerating Peenbite,F1,Demigod L6 High,B
+MV-ELI-WHM-011-09,Bearing Breaker Fall,Drivehome Devastation,F3,Demigod L6 High,B
+MV-ELI-WHM-011-10,Bearing Pressed Suppression,Ponderous Hammerneck,F2,Demigod L6 High,B
+MV-ELI-WHM-011-11,Bearing Shattering Blow,Rumble Peenside,F2,Demigod L6 High,B
+MV-ELI-WHM-012-01,Open Edge Stance,Anvilmettle,F4,Demigod L9 Low,B
+MV-ELI-WHM-012-02,Edge Tap Beat,Tempered Peenbite,F2,Demigod L9 Low,B
+MV-ELI-WHM-012-03,Edge Running Step,Forgeflash,F4,Demigod L9 Low,B
+MV-ELI-WHM-012-04,Open Edge Blow,Spikeback Reckoning,F3,Demigod L9 Low,B
+MV-ELI-WHM-012-05,Edge Turned Parry,Anvilvalor,F4,Demigod L9 Low,B
+MV-ELI-WHM-012-06,Edge Hook Pull,Toxinpeen,F5,Demigod L9 Low,B
+MV-ELI-WHM-012-07,Open Edge Hammerfall,Tempered Cheekplate,F2,Demigod L9 Low,B
+MV-ELI-WHM-012-08,Edge Wind Suppression,Hour Hammerblow,F2,Demigod L9 Low,B
+MV-ELI-WHM-012-09,Open Edge Final Drop,Booming Anvilfall,F1,Demigod L9 Low,B
+MV-ELI-WHM-013-01,Squall Guard Stance,Hammerface Fortitude,F3,Void God L2 Low,B
+MV-ELI-WHM-013-02,Squall Rap,Sanguine Tamp,F2,Void God L2 Low,B
+MV-ELI-WHM-013-03,Squall Hook,Hammerblow Hardihood,F3,Void God L2 Low,B
+MV-ELI-WHM-013-04,Squall Run Step,Might Peenside,F2,Void God L2 Low,B
+MV-ELI-WHM-013-05,Squall Hold Pause,Veritysmith,F5,Void God L2 Low,B
+MV-ELI-WHM-013-06,Squall Weighted Blow,Decimating Eyehole,F1,Void God L2 Low,B
+MV-ELI-WHM-013-07,Squall Turned Parry,Gustanvil,F5,Void God L2 Low,B
+MV-ELI-WHM-013-08,Squall Driven Crush,Gusttamp,F5,Void God L2 Low,B
+MV-ELI-WHM-013-09,Squall Pulled Hook,Harnessing Spikeback,F1,Void God L2 Low,B
+MV-ELI-WHM-013-10,Squall Burst Hammer,Daybreak Cheekplate,F2,Void God L2 Low,B
+MV-ELI-WHM-013-11,Squall Binding Press,Gyve Clawside,F2,Void God L2 Low,B
+MV-ELI-WHM-013-12,Squall Breaking Fall,Grievous Rumble Peenbite,F6a,Void God L2 Low,B
+MV-ELI-WHM-014-01,Plateau Rider Cover,Thornanvil,F5,Void God L5 Mid,B
+MV-ELI-WHM-014-02,Rider Reach Rap,Sanguine Faceplate,F2,Void God L5 Mid,B
+MV-ELI-WHM-014-03,Hoofbeat Step,Gustpeen,F5,Void God L5 Mid,B
+MV-ELI-WHM-014-04,Rider Drop Blow,Iron Beakpick,F2,Void God L5 Mid,B
+MV-ELI-WHM-014-05,Reined Wind Parry,Flintlike Anvilback,F1,Void God L5 Mid,B
+MV-ELI-WHM-014-06,Rider Beak Haul,Toxin Hammerneck,F2,Void God L5 Mid,B
+MV-ELI-WHM-014-07,Plateau Charge Hammer,Merciless Tamp,F1,Void God L5 Mid,B
+MV-ELI-WHM-014-08,Open Plain Sweep,Faceplate Ruin,F3,Void God L5 Mid,B
+MV-ELI-WHM-014-09,Plateau Rider Breaking Blow,Rumble Hammerblow,F2,Void God L5 Mid,B
+MV-ELI-WHM-015-01,Updraft Stance,Aegis Eyehole,F2,Void God L8 Low,B
+MV-ELI-WHM-015-02,Rising Wind Rap,Peenruin,F4,Void God L8 Low,B
+MV-ELI-WHM-015-03,Downfall Hook,Faceplate Hardihood,F3,Void God L8 Low,B
+MV-ELI-WHM-015-04,Lift and Drop Step,Torrent Drivehome,F2,Void God L8 Low,B
+MV-ELI-WHM-015-05,Updraft Raised Blow,Mangling Hammerface,F1,Void God L8 Low,B
+MV-ELI-WHM-015-06,Downfall Turned Parry,Evergreen Cheekplate,F1,Void God L8 Low,B
+MV-ELI-WHM-015-07,Rising Weight Crush,Ruinous Drivehome,F1,Void God L8 Low,B
+MV-ELI-WHM-015-08,Updraft Descent Hammer,Blazesmith,F5,Void God L8 Low,B
+MV-ELI-WHM-015-09,Downfall Suppression Press,Anvilback Reckoning,F3,Void God L8 Low,B
+MV-ELI-WHM-015-10,Updraft Downfall Pairing Strike,Merciless Spikeback,F1,Void God L8 Low,B
+MV-ELI-WHM-016-01,Long Oath Stance,Aegis Peenside,F2,True God L1 High,B
+MV-ELI-WHM-016-02,Oath Length Rap,Rumblesmith,F5,True God L1 High,B
+MV-ELI-WHM-016-03,Long Bearing Hook,Mayhem Forge,F2,True God L1 High,B
+MV-ELI-WHM-016-04,Gale Holding Step,Might Peenbite,F2,True God L1 High,B
+MV-ELI-WHM-016-05,Held Gale Parry,Hammerface Durance,F3,True God L1 High,B
+MV-ELI-WHM-016-06,Long Oath Blow,Might Hammerblow,F2,True God L1 High,B
+MV-ELI-WHM-016-07,Gale Held Crush,Tempered Tamp,F2,True God L1 High,B
+MV-ELI-WHM-016-08,Oath Tether Hook,Peenspine,F4,True God L1 High,B
+MV-ELI-WHM-016-09,Long Oath Hammerfall,Sanguine Anvilfall,F2,True God L1 High,B
+MV-ELI-WHM-016-10,Gale Bound Press,Thorntamp,F5,True God L1 High,B
+MV-ELI-WHM-016-11,Long Oath Gale Strike,Anvilscourge,F4,True God L1 High,B

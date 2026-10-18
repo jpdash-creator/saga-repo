@@ -1,0 +1,91 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-WPK-001-01,Half-Haft Ward Stance,Facet Stonetip,F2,Champion L1 Low,B
+MV-ADV-WPK-001-02,Plain Pick Chop,Glint Drive,F2,Champion L1 Low,B
+MV-ADV-WPK-001-03,Beak Check on the Wrist,Toxin Pickhelve,F2,Champion L1 Low,B
+MV-ADV-WPK-001-04,Spike-Line Pace,Gust Ironthorn,F2,Champion L1 Low,B
+MV-ADV-WPK-001-05,Armor-Crease Spike Run,Hollow Pickfluke,F2,Champion L1 Low,B
+MV-ADV-WPK-001-06,Hammer Beat and Beak Return,Iron Puncture,F2,Champion L1 Low,B
+MV-ADV-WPK-001-07,Breastplate Piercing Fall,Nova Crowbill,F2,Champion L1 Low,B
+MV-ADV-WPK-001-08,Beak-Locked Pivot Throw,Chime Crack,F2,Champion L1 Low,B
+MV-ADV-WPK-002-01,Field-Rooted Pick Stance,Thorn Peckhead,F2,Demigod L1 Low,B
+MV-ADV-WPK-002-02,Spike-Tip Pulse Tap,Waistpoint Assault,F3,Demigod L1 Low,B
+MV-ADV-WPK-002-03,Outer Field Rap Sense,Backbill Remedy,F3,Demigod L1 Low,B
+MV-ADV-WPK-002-04,Gliding Haft Step,Gust Hardtooth,F2,Demigod L1 Low,B
+MV-ADV-WPK-002-05,Qi Needle in the Spike,Glint Backbill,F2,Demigod L1 Low,B
+MV-ADV-WPK-002-06,Field-Wrapped Haft Parry,Unflinching Peckhead,F1,Demigod L1 Low,B
+MV-ADV-WPK-002-07,Pulse Hook Pull,Chimepick,F5,Demigod L1 Low,B
+MV-ADV-WPK-002-08,Beyond-Plate Spike Burst,Rupturing Drive,F1,Demigod L1 Low,B
+MV-ADV-WPK-002-09,Field Spike Anchor,Hardtooth Fastness,F3,Demigod L1 Low,B
+MV-ADV-WPK-003-01,Press-Side Pick Cover,Ironfluke,F5,Champion L4 Mid,B
+MV-ADV-WPK-003-02,Armpit-Tight Spike Stab,Harrowing Spikebeak,F1,Champion L4 Mid,B
+MV-ADV-WPK-003-03,Elbow Shove Beak Drag,Chime Peck,F2,Champion L4 Mid,B
+MV-ADV-WPK-003-04,Sidling Along the Line,Gust Punch,F2,Champion L4 Mid,B
+MV-ADV-WPK-003-05,Locked Rank Hammer Burst,Cracktorment,F4,Champion L4 Mid,B
+MV-ADV-WPK-003-06,Haft-Bar Press Hold,Paralyzing Crowbill,F1,Champion L4 Mid,B
+MV-ADV-WPK-003-07,Rank-Breaking Beak Wedge,Toxin Chink,F2,Champion L4 Mid,B
+MV-ADV-WPK-003-08,Spike Through the Gap,Rumble Peck,F2,Champion L4 Mid,B
+MV-ADV-WPK-004-01,Hook-and-Drive Ready,Hoarfrost Pickfluke,F2,Demigod L2 Low,B
+MV-ADV-WPK-004-02,Driven Beak Punch,Glint Stonetip,F2,Demigod L2 Low,B
+MV-ADV-WPK-004-03,Hooked Wrist Twist,Chink Cuirass,F3,Demigod L2 Low,B
+MV-ADV-WPK-004-04,Return-Line Hammer Tap,Puncture Barrage,F3,Demigod L2 Low,B
+MV-ADV-WPK-004-05,Hook-Reading Glance,Crowelixir,F4,Demigod L2 Low,B
+MV-ADV-WPK-004-06,Haul and Hammer Chain,Spikebeak Cuirass,F3,Demigod L2 Low,B
+MV-ADV-WPK-004-07,Beak-to-Hammer Turnover,Harpooning Ironthorn,F1,Demigod L2 Low,B
+MV-ADV-WPK-004-08,Hooked Haft Brace,Chime Hardtooth,F2,Demigod L2 Low,B
+MV-ADV-WPK-004-09,Plate-Bending Haul,Staggering Waistpoint,F1,Demigod L2 Low,B
+MV-ADV-WPK-004-10,Hook-Released Spike Fall,Scalding Pickhelve,F1,Demigod L2 Low,B
+MV-ADV-WPK-005-01,Twin-Face Ready Hold,Granite Pickfluke,F2,Champion L7 Low,B
+MV-ADV-WPK-005-02,Paired Spike Thrust,Tempered Crack,F2,Champion L7 Low,B
+MV-ADV-WPK-005-03,Basin-Rim Beak Catch,Mayhem Punch,F2,Champion L7 Low,B
+MV-ADV-WPK-005-04,Bend-of-the-River Pace,Silt Peck,F2,Champion L7 Low,B
+MV-ADV-WPK-005-05,Dual-Track Hammer and Beak,Harpooning Punch,F1,Champion L7 Low,B
+MV-ADV-WPK-005-06,Azure Arc Pick Guard,Murk Crowbill,F2,Champion L7 Low,B
+MV-ADV-WPK-005-07,Twin-Court Piercing Fall,Crowtorment,F4,Champion L7 Low,B
+MV-ADV-WPK-005-08,River-Cut Beak Wrench,Rumblepunch,F5,Champion L7 Low,B
+MV-ADV-WPK-006-01,Perched Pick Watch,Facet Pickhelve,F2,Demigod L1 Mid,B
+MV-ADV-WPK-006-02,Stooping Beak Tap,Punchtorment,F4,Demigod L1 Mid,B
+MV-ADV-WPK-006-03,Hawk-Eye Plate Reading,Veritycrow,F5,Demigod L1 Mid,B
+MV-ADV-WPK-006-04,Perch Hop Sidestep,Might Chink,F2,Demigod L1 Mid,B
+MV-ADV-WPK-006-05,Stooping Hawk Beak Strike,Facetcrow,F5,Demigod L1 Mid,B
+MV-ADV-WPK-006-06,Wing-Fold Haft Cover,Chimecrow,F5,Demigod L1 Mid,B
+MV-ADV-WPK-006-07,Talon-Grip Beak Hold,Suppressing Drive,F1,Demigod L1 Mid,B
+MV-ADV-WPK-006-08,Azure Plunge Beak Strike,Glint Ironthorn,F2,Demigod L1 Mid,B
+MV-ADV-WPK-006-09,Talon Rip from the Plate,Quelling Waistpoint,F1,Demigod L1 Mid,B
+MV-ADV-WPK-007-01,Two-Track Stance,Unyielding Spikebeak,F1,Demigod L2 Low,B
+MV-ADV-WPK-007-02,Riverbank Spike Jab,Glint Puncture,F2,Demigod L2 Low,B
+MV-ADV-WPK-007-03,Shallow-Ford Pace,Silt Backbill,F2,Demigod L2 Low,B
+MV-ADV-WPK-007-04,Pick Weight Glance,Remnant Pickhelve,F2,Demigod L2 Low,B
+MV-ADV-WPK-007-05,Paired Beak Drag,Mayhempeck,F5,Demigod L2 Low,B
+MV-ADV-WPK-007-06,Whirlpool Haft Fend,Enduring Waistpoint,F1,Demigod L2 Low,B
+MV-ADV-WPK-007-07,Dual-Track Rivet Break,Blazedrive,F5,Demigod L2 Low,B
+MV-ADV-WPK-007-08,Mouth-of-the-River Spike Plunge,Glint Peckhead,F2,Demigod L2 Low,B
+MV-ADV-WPK-008-01,Plateau Footing Stance,Implacable Ironthorn,F1,Champion L2 Low,B
+MV-ADV-WPK-008-02,Bearing-Line Spike Thrust,Flukeassault,F4,Champion L2 Low,B
+MV-ADV-WPK-008-03,Wind-Tugged Beak Snatch,Paralyzing Pickfluke,F1,Champion L2 Low,B
+MV-ADV-WPK-008-04,Across-the-Gust Shuffle,Crowbill Pounce,F3,Champion L2 Low,B
+MV-ADV-WPK-008-05,Edge-Held Hammer Rap,Scorching Spikebeak,F1,Champion L2 Low,B
+MV-ADV-WPK-008-06,Far-Rim Sighting,Waningpick,F5,Champion L2 Low,B
+MV-ADV-WPK-008-07,Bearing-Held Beak Hook,Toxinpunch,F5,Champion L2 Low,B
+MV-ADV-WPK-008-08,Wind-Sworn Haft Cover,Enduring Stonetip,F1,Champion L2 Low,B
+MV-ADV-WPK-008-09,Open-Ground Hammer Sweep,Blaze Peck,F2,Champion L2 Low,B
+MV-ADV-WPK-008-10,Plateau Rim Heave,Mayhem Chink,F2,Champion L2 Low,B
+MV-ADV-WPK-008-11,Bearing-True Spike Drive,Grinding Rumble Hardtooth,F6a,Champion L2 Low,B
+MV-ADV-WPK-009-01,Oath-Stand Guard,Unbroken Backbill,F1,Champion L5 Mid,B
+MV-ADV-WPK-009-02,Sworn Hammer Rap,Blaze Crack,F2,Champion L5 Mid,B
+MV-ADV-WPK-009-03,Bearing Beak Check,Chime Drive,F2,Champion L5 Mid,B
+MV-ADV-WPK-009-04,Far-Reaching Plateau Stride,Mightfluke,F5,Champion L5 Mid,B
+MV-ADV-WPK-009-05,Oath Spike Press,Hollow Peckhead,F2,Champion L5 Mid,B
+MV-ADV-WPK-009-06,Wind-Held Haft Block,Chime Stonetip,F2,Champion L5 Mid,B
+MV-ADV-WPK-009-07,Oath-Kept Hammer Fall,Gustfluke,F5,Champion L5 Mid,B
+MV-ADV-WPK-009-08,Gale-Swept Beak Pull,Peckgreave,F4,Champion L5 Mid,B
+MV-ADV-WPK-010-01,Gale-Fronting Pick Stance,Hoarfrost Stonetip,F2,Demigod L3 Low,B
+MV-ADV-WPK-010-02,Beak-Bearing Prick,Glint Punch,F2,Demigod L3 Low,B
+MV-ADV-WPK-010-03,Wind-Sense Lean,Waning Spikebeak,F2,Demigod L3 Low,B
+MV-ADV-WPK-010-04,Skimming Plateau Step,Drivecanter,F4,Demigod L3 Low,B
+MV-ADV-WPK-010-05,Gale Spike Needle,Novachink,F5,Demigod L3 Low,B
+MV-ADV-WPK-010-06,Gust-Vane Haft Turn,Implacable Peckhead,F1,Demigod L3 Low,B
+MV-ADV-WPK-010-07,Wind-Sworn Hook Haul,Drivecuirass,F4,Demigod L3 Low,B
+MV-ADV-WPK-010-08,Gale-Driven Spike Burst,Rumblecrack,F5,Demigod L3 Low,B
+MV-ADV-WPK-010-09,Wrench from the Wind's Bearing,Crack Hauberk,F3,Demigod L3 Low,B
+MV-ADV-WPK-001-05,Hollow Pickfluke,Boring Pickfluke,F2,Champion L1 Low,B
+MV-ADV-WPK-009-05,Hollow Peckhead,Leaning Peckhead,F2,Champion L5 Mid,B

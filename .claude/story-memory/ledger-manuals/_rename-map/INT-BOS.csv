@@ -1,0 +1,76 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-BOS-001-01,Chained Jab Waiting Stance,Resolute Rightgrip,F1,Senior,A
+MV-INT-BOS-001-02,Bo Chain Opening Jab,Rushing Block,F1,Senior,A
+MV-INT-BOS-001-03,Bo Chain Rear Whip,Blockscorer,F4,Senior,A
+MV-INT-BOS-001-04,Bo Chain Half-Step Finish,Veering Tipcap,F1,Senior,A
+MV-INT-BOS-001-05,Three-Beat Bo Run,Woven Spinbreak,F1,Senior,A
+MV-INT-BOS-001-06,Chain-Breaking Bo Rap,Lurching Roll,F1,Senior,A
+MV-INT-BOS-002-01,Bo Guardhouse Stance,Stalwart Staffcentre,F1,Senior,A
+MV-INT-BOS-002-02,Bo High Cover Block,Rooted Leftgrip,F1,Senior,A
+MV-INT-BOS-002-03,Bo Low Cover Drop,Stubborn Roundstaff,F1,Senior,A
+MV-INT-BOS-002-04,Bo Inside Slap Parry,Layered Taperend,F1,Senior,A
+MV-INT-BOS-002-05,Bo Parry-Rebound Jab,Stern Pivot,F1,Senior,A
+MV-INT-BOS-002-06,Guard-Foot Bo Step,Fleet Balancenode,F1,Senior,A
+MV-INT-BOS-002-07,Counter-Turning Bo Wheel,Padded Whitewood,F1,Senior,A
+MV-INT-BOS-002-08,Bo Guard Gives Way,Binding Sweepstep,F1,Senior,A
+MV-INT-BOS-003-01,Bo Open-Palm Catch Grip,Resolute Bostip,F1,Senior,A
+MV-INT-BOS-003-02,Bo Hook-Knuckle Jab,Rollslap,F4,Senior,A
+MV-INT-BOS-003-03,Bo Shaft Lift Away,Padded Balancenode,F1,Senior,A
+MV-INT-BOS-003-04,Pace-and-Catch Bo Step,Fleet Leftgrip,F1,Senior,A
+MV-INT-BOS-003-05,Hooked Bo Tip Tug,Tipcapscorer,F4,Senior,A
+MV-INT-BOS-003-06,Wrapped Bo Weapon Catch,Burdening Sweepstep,F1,Senior,A
+MV-INT-BOS-003-07,Bo Catch Turned to Spill,Whitewood Hasp,F3,Senior,A
+MV-INT-BOS-004-01,Seasoned Bo Standing Guard,Shelter Roundstaff,F2,Warrior,B
+MV-INT-BOS-004-02,Bo Quick Reach Jab,Fierce Bogrip,F1,Warrior,B
+MV-INT-BOS-004-03,Bo Cheek Slap Cut,Brawnroll,F5,Warrior,B
+MV-INT-BOS-004-04,Bo Shin-Level Check,Bogriphasp,F4,Warrior,B
+MV-INT-BOS-004-05,Bo Crossing Footwork,Roll Stalk,F3,Warrior,B
+MV-INT-BOS-004-06,Bo Under-Arm Thrust,Gleambostip,F5,Warrior,B
+MV-INT-BOS-004-07,Reverse Bo Brush Guard,Rooted Tipcap,F1,Warrior,B
+MV-INT-BOS-004-08,Seasoned Bo Rolling Counter,Humbogrip,F5,Warrior,B
+MV-INT-BOS-004-09,Bo Qi Sweep and Lock,Sleet Block,F2,Warrior,B
+MV-INT-BOS-004-10,Bo Pressing Walk-Down,Bogripflog,F4,Warrior,B
+MV-INT-BOS-005-01,Spinning Bo Warm-Up Hold,Bostiphasp,F4,Senior,A
+MV-INT-BOS-005-02,Bo Windmill Low Cover,Rightgrip Hasp,F3,Senior,A
+MV-INT-BOS-005-03,Spinning Bo Shoulder Rap,Tipjabswat,F4,Senior,A
+MV-INT-BOS-005-04,Bo Spin-Step Entry,Tipjabstalk,F4,Senior,A
+MV-INT-BOS-005-05,Bo Behind-the-Back Pass,Stubborn Bostip,F1,Senior,A
+MV-INT-BOS-005-06,Whirling Bo Tip Lash,Tipjabslap,F4,Senior,A
+MV-INT-BOS-005-07,Eight-Turn Bo Wall of Wood,Guarding Bogrip,F1,Senior,A
+MV-INT-BOS-005-08,Bo Spin Reverses Mid-Cut,Acrid Taperend,F1,Senior,A
+MV-INT-BOS-005-09,Spinning Bo Disarm Draw,Gagging Spinbreak,F1,Senior,A
+MV-INT-BOS-006-01,Threaded Bo Ready Draw,Tipcaphasp,F4,Senior,A
+MV-INT-BOS-006-02,Bo Thread Forward Jab,Grim Staffcentre,F1,Senior,A
+MV-INT-BOS-006-03,Bo Thread Side Block,Sturdy Roundstaff,F1,Senior,A
+MV-INT-BOS-006-04,Bo Thread Lunge Recovery,Ducking Block,F1,Senior,A
+MV-INT-BOS-006-05,Bo Thread Wrist Flick,Tipcapslap,F4,Senior,A
+MV-INT-BOS-006-06,Unbroken Bo Thread Combination,Braided Pivot,F1,Senior,A
+MV-INT-BOS-006-07,Bo Thread Swap of Intent,Gripping Rightgrip,F1,Senior,A
+MV-INT-BOS-007-01,Bo Pinning Stance,Sleet Staffcentre,F2,Warrior,B
+MV-INT-BOS-007-02,Bo Elbow Rap,Staticbogrip,F5,Warrior,B
+MV-INT-BOS-007-03,Bo Overarm Press Down,Rill Whitewood,F2,Warrior,B
+MV-INT-BOS-007-04,Bo Sidelong Sliding Step,Rill Bogrip,F2,Warrior,B
+MV-INT-BOS-007-05,Bo Wrist Crush Tap,Honed Tipjab,F2,Warrior,B
+MV-INT-BOS-007-06,Bo Pinned Arm Wrap,Claytipcap,F5,Warrior,B
+MV-INT-BOS-007-07,Cross-Shaft Bo Knot,Sleet Tipjab,F2,Warrior,B
+MV-INT-BOS-007-08,Bo Bind Opening Cut,Lurching Balancenode,F1,Warrior,B
+MV-INT-BOS-008-01,Bo Master's First Stance,Shardbogrip,F5,Warrior,B
+MV-INT-BOS-008-02,Bo Master's Opening Thrust,Blockswat,F4,Warrior,B
+MV-INT-BOS-008-03,Bo Master's Overhead Drop,Crimson Taperend,F2,Warrior,B
+MV-INT-BOS-008-04,Bo Master's Side Check,Clay Leftgrip,F2,Warrior,B
+MV-INT-BOS-008-05,Bo Master's Close Pace,Clay Roll,F2,Warrior,B
+MV-INT-BOS-008-06,Bo Master's Rear Strike,Rugged Bostip,F1,Warrior,B
+MV-INT-BOS-008-07,Bo Master's Circling Guard,Sturdy Rightgrip,F1,Warrior,B
+MV-INT-BOS-008-08,Bo Master's Linked Entry,Principle Tipjab,F2,Warrior,B
+MV-INT-BOS-008-09,Bo Master's Linked Answer,Draught Bogrip,F2,Warrior,B
+MV-INT-BOS-008-10,Bo Master's Long Suppressing Line,Bostipswat,F4,Warrior,B
+MV-INT-BOS-009-01,Low Sweep Ready Crouch,Regimen Tipcap,F2,Warrior,B
+MV-INT-BOS-009-02,Bo Reaping Ankle Cut,Draught Whitewood,F2,Warrior,B
+MV-INT-BOS-009-03,Bo Press to the Floor,Rigid Leftgrip,F1,Warrior,B
+MV-INT-BOS-009-04,Bo Risen Stand Step,Draught Block,F2,Warrior,B
+MV-INT-BOS-009-05,Bo Rising Jaw Jab,Honed Sweepstep,F2,Warrior,B
+MV-INT-BOS-009-06,Bo Pinning Cross Brace,Rigid Bostip,F1,Warrior,B
+MV-INT-BOS-009-07,Sweep-Pin-Rise Bo Sequence,Omentipcap,F5,Warrior,B
+MV-INT-BOS-009-08,Bo Pin Held Under Qi,Stamproll,F5,Warrior,B
+MV-INT-BOS-009-09,Bo Rise Through the Opening,Bogripswat,F4,Warrior,B
+MV-INT-BOS-004-01,Shelter Roundstaff,Solid Roundstaff,F2,Warrior,B

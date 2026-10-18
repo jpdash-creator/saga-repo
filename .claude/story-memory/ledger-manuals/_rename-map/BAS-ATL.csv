@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-ATL-001-01,Board and Dart Grip,Steady Handgrip,F1,Senior,A
+MV-BAS-ATL-001-02,Spur Seating,Spurgauge,F4,Senior,A
+MV-BAS-ATL-001-03,Open Line Sidestep,Shifting Handgrip,F1,Senior,A
+MV-BAS-ATL-001-04,Ear-High Board Draw,Warm Throwstick,F1,Senior,A
+MV-BAS-ATL-001-05,First Flat Cast,Extendblow,F4,Senior,A
+MV-BAS-ATL-001-06,Casting Arm Drop,Hooding Throwstick,F1,Senior,A
+MV-BAS-ATL-002-01,Hip Quiver Settle,Calm Weightstone,F1,Senior,A
+MV-BAS-ATL-002-02,Fletching Pull,Smooth Dartshaft,F1,Senior,A
+MV-BAS-ATL-002-03,Retreating Reload,Backward Throwlever,F1,Senior,A
+MV-BAS-ATL-002-04,Pair on One Breath,Quick Whipover,F1,Senior,A
+MV-BAS-ATL-002-05,Blind Quiver Count,Weightstone Count,F3,Senior,A
+MV-BAS-ATL-002-06,Kneeling Behind Log,Cupendcowl,F4,Senior,A
+MV-BAS-ATL-002-07,Cast Line Gleaning,Stepping Flexshaft,F1,Senior,A
+MV-BAS-ATL-003-01,Spur Tip Thumbnail Test,Measured Spurhook,F1,Senior,A
+MV-BAS-ATL-003-02,Palm Roll of the Shaft,Even Atlshaft,F1,Senior,A
+MV-BAS-ATL-003-03,Two Fingers Light,Soft Fingerhooks,F1,Senior,A
+MV-BAS-ATL-003-04,Wrist Snap Dart,Propeldash,F4,Senior,A
+MV-BAS-ATL-003-05,Rear Heel Turn Away,Nimble Leverage,F1,Senior,A
+MV-BAS-ATL-004-01,Squared Hips Before Arm,Deep Gripbinding,F1,Senior,A
+MV-BAS-ATL-004-02,Trailing Tip Advance,Easing Dartshaft,F1,Senior,A
+MV-BAS-ATL-004-03,High Elbow Arc Lift,Kind Flexshaft,F1,Senior,A
+MV-BAS-ATL-004-04,Rising Bow Overcast,Upward Throwlever,F1,Senior,A
+MV-BAS-ATL-004-05,Falling Point Lob,Descending Weightstone,F1,Senior,A
+MV-BAS-ATL-004-06,Shoulder Roll Slip,Angled Handgrip,F1,Senior,A
+MV-BAS-ATL-004-07,Wet Finger Crosswind,Watching Cupend,F1,Senior,A
+MV-BAS-ATL-004-08,Paced Arc Matching,Judging Throwstick,F1,Senior,A
+MV-BAS-ATL-005-01,Straw Bundle Posting,Cupreview,F4,Senior,A
+MV-BAS-ATL-005-02,Single Stalk Stare,Watching Dartshaft,F1,Senior,A
+MV-BAS-ATL-005-03,Hundred Casts Unchanged,Tending Handgrip,F1,Senior,A
+MV-BAS-ATL-005-04,Heart of Straw Pierce,Sharp Dartshaft,F1,Senior,A
+MV-BAS-ATL-005-05,Three Darts One Edge,Single Spurhook,F1,Senior,A
+MV-BAS-ATL-005-06,Off the Cast Line,Spurhop,F4,Senior,A
+MV-BAS-ATL-006-01,Qi-Warmed Board Grip,Gentle Cupend,F1,Senior,A
+MV-BAS-ATL-006-02,Level Flight Cast,Straight Atlshaft,F1,Senior,A
+MV-BAS-ATL-006-03,Dart Tail Following,Spurnote,F4,Senior,A
+MV-BAS-ATL-006-04,Walking Mark Lead,Judging Flexshaft,F1,Senior,A
+MV-BAS-ATL-006-05,Fingerroll Spin Release,Sudden Fingerhooks,F1,Senior,A
+MV-BAS-ATL-006-06,Gliding Sidestep,Cupdodge,F4,Senior,A
+MV-BAS-ATL-006-07,Board Flat Parry,Raised Flexshaft,F1,Senior,A
+MV-BAS-ATL-007-01,Spur Pressure Reading,Calm Spurhook,F1,Senior,A
+MV-BAS-ATL-007-02,Slick Ground Rooting,Spurhusk,F4,Senior,A
+MV-BAS-ATL-007-03,Thumb-Flick Reseat,Cupgauge,F4,Senior,A
+MV-BAS-ATL-007-04,Spur Snap Thrust,Spurstrike,F4,Senior,A
+MV-BAS-ATL-007-05,Stony Slope Pivot,Extendpace,F4,Senior,A
+MV-BAS-ATL-007-06,Foot-Stopping Dart,Propelwedge,F4,Senior,A
+MV-BAS-ATL-008-01,Loop-Finger Threading,Mild Fingerhooks,F1,Senior,A
+MV-BAS-ATL-008-02,Three-Point Hold,Steady Gripbinding,F1,Senior,A
+MV-BAS-ATL-008-03,Loop-Release Twist,Narrow Gripbinding,F1,Senior,A
+MV-BAS-ATL-008-04,Numb-Hand Brace,Solid Gripbinding,F1,Senior,A
+MV-BAS-ATL-008-05,Wrist-Roll Warming,Tending Throwstick,F1,Senior,A
+MV-BAS-ATL-008-06,Slipped-Loop Catch,Fingerhooks Note,F3,Senior,A
+MV-BAS-ATL-008-07,Close Loop Dart,Cupbump,F4,Senior,A
+MV-BAS-ATL-008-08,Backpace Re-Threading,Skipping Fingerhooks,F1,Senior,A
+MV-BAS-ATL-009-01,Light Shaft Weighing,Weightstone Gauge,F3,Senior,A
+MV-BAS-ATL-009-02,Feather-Cast Dart,Flat Extend,F1,Senior,A
+MV-BAS-ATL-009-03,Cover-Flushing Throw,Fouling Overarm,F1,Senior,A
+MV-BAS-ATL-009-04,Chained Light Casting,Cupendhit,F4,Senior,A
+MV-BAS-ATL-009-05,Skirmisher's Flank Circle,Propeltrot,F4,Senior,A
+MV-BAS-ATL-010-01,Dry-Leaf Stalk,Swaying Weightstone,F1,Senior,A
+MV-BAS-ATL-010-02,Hip-Height Sidearm Draw,Gentle Handgrip,F1,Senior,A
+MV-BAS-ATL-010-03,Earth-Skimming Sidearm,Low Leverage,F1,Senior,A
+MV-BAS-ATL-010-04,Bent Grass Reading,Cupendreview,F4,Senior,A
+MV-BAS-ATL-010-05,Hanging Bough Cast,Spurhit,F4,Senior,A
+MV-BAS-ATL-010-06,Downwind Stillness,Soft Spurhook,F1,Senior,A
+MV-BAS-ATL-010-07,Lunging Snout Knock,Settled Dartshaft,F1,Senior,A

@@ -1,0 +1,10 @@
+move_id,old_name,new_name,function
+CMV-ELI-TRU-001-01,Court Unmasking,Sharp Unmasking,Control:Disrupt
+CMV-ELI-TRU-001-06,Court Ruling,Binding Ruling,Control:Suppress
+CMV-ELI-TRU-003-07,Bare Field,Bare Sight,Control:Disrupt
+CMV-ELI-TRU-003-10,Plain Descent,Naming Descent,Attack:Strike
+CMV-ELI-TRU-004-01,Plain Speech,Candid Speech,Support:Empower
+CMV-ELI-TRU-004-09,Plain Gale,Candid Gale,Attack:Area
+CMV-ELI-TRU-005-09,Truth Expanse,Truth Burden,Control:Suppress
+CMV-ELI-TRU-002-01,Basin Clarity,Still Clarity,CHANNELED,,Basic
+CMV-ELI-TRU-002-03,Basin Sight,Still Sight,CHANNELED,,Basic

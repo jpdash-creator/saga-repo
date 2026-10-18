@@ -1,0 +1,122 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-WPK-001-01,Paired-Face Ward,Aegispick,F5,Demigod L1 Low,B
+MV-ELI-WPK-001-02,Hammer-First Tap,Crowhavoc,F4,Demigod L1 Low,B
+MV-ELI-WPK-001-03,Beak-Second Prick,Rumble Drive,F2,Demigod L1 Low,B
+MV-ELI-WPK-001-04,Face-Swap Haft Roll,Rampaging Peckhead,F1,Demigod L1 Low,B
+MV-ELI-WPK-001-05,Mirror Beak Catch,Toxin Puncture,F2,Demigod L1 Low,B
+MV-ELI-WPK-001-06,Twin-Face Rebound Guard,Equipoise Backbill,F2,Demigod L1 Low,B
+MV-ELI-WPK-001-07,Two-Face Plate Split,Glintchink,F5,Demigod L1 Low,B
+MV-ELI-WPK-001-08,Court-of-Two Pinning Hook,Hoarfrost Waistpoint,F2,Demigod L1 Low,B
+MV-ELI-WPK-001-09,Paired Faces Through Steel,Hollow Ironthorn,F2,Demigod L1 Low,B
+MV-ELI-WPK-002-01,Hawk-River Ready Stance,Flintlike Pickfluke,F1,Demigod L1 Mid,B
+MV-ELI-WPK-002-02,River Mouth Spike Tap,Vengeful Pickhelve,F1,Demigod L1 Mid,B
+MV-ELI-WPK-002-03,Hawk's Glance Along the Haft,Vigilant Stonetip,F1,Demigod L1 Mid,B
+MV-ELI-WPK-002-04,Basin Floor Shuffle,Gust Peck,F2,Demigod L1 Mid,B
+MV-ELI-WPK-002-05,Stoop-and-Turn Beak,Shattering Hardtooth,F1,Demigod L1 Mid,B
+MV-ELI-WPK-002-06,River Fold Parry,Murk Backbill,F2,Demigod L1 Mid,B
+MV-ELI-WPK-002-07,Hawk Claw Plate Hook,Toxin Spikebeak,F2,Demigod L1 Mid,B
+MV-ELI-WPK-002-08,Hawk Over the River Plunge,Facetcrack,F5,Demigod L1 Mid,B
+MV-ELI-WPK-002-09,Twin-Track Armor Peel,Rumble Crowbill,F2,Demigod L1 Mid,B
+MV-ELI-WPK-002-10,Azure Flash Beyond the Guard,Expanse Punch,F2,Demigod L1 Mid,B
+MV-ELI-WPK-003-01,Basin Stone Stance,Obdurate Spikebeak,F1,Demigod L2 Low,B
+MV-ELI-WPK-003-02,Plate-Edge Hammer Tap,Rumble Pickhelve,F2,Demigod L2 Low,B
+MV-ELI-WPK-003-03,Rivet Count Glance,Crowvigil,F4,Demigod L2 Low,B
+MV-ELI-WPK-003-04,Paired Hinge Crack,Drivehavoc,F4,Demigod L2 Low,B
+MV-ELI-WPK-003-05,Seam-Opening Beak,Mayhem Crack,F2,Demigod L2 Low,B
+MV-ELI-WPK-003-06,Azure Rivet Shearing Beat,Might Punch,F2,Demigod L2 Low,B
+MV-ELI-WPK-003-07,Cuirass Halving Fall,Novapunch,F5,Demigod L2 Low,B
+MV-ELI-WPK-003-08,Rolling Hammer Plate-Splitter,Rumble Chink,F2,Demigod L2 Low,B
+MV-ELI-WPK-003-09,Whole-Armor Split Stroke,Blaze Peckhead,F2,Demigod L2 Low,B
+MV-ELI-WPK-004-01,Dual-Track Ready,Adamantine Crowbill,F1,Demigod L3 Low,B
+MV-ELI-WPK-004-02,Left-Track Beak Thrust,Hollow Stonetip,F2,Demigod L3 Low,B
+MV-ELI-WPK-004-03,Right-Track Hammer Beat,Drive Wrath,F3,Demigod L3 Low,B
+MV-ELI-WPK-004-04,Breach Line Reading,Waningfluke,F5,Demigod L3 Low,B
+MV-ELI-WPK-004-05,Hurried River Step,Gustchink,F5,Demigod L3 Low,B
+MV-ELI-WPK-004-06,Track-Switch Strike,Gust Waistpoint,F2,Demigod L3 Low,B
+MV-ELI-WPK-004-07,Breach-Edge Beak Wrench,Harnessing Crack,F1,Demigod L3 Low,B
+MV-ELI-WPK-004-08,Parallel Haft Guard,Unbowed Pickfluke,F1,Demigod L3 Low,B
+MV-ELI-WPK-004-09,Breach Opening Spike Fall,Peckruin,F4,Demigod L3 Low,B
+MV-ELI-WPK-004-10,Dual-Track Pull and Hammer,Rumble Puncture,F2,Demigod L3 Low,B
+MV-ELI-WPK-004-11,Two Tracks One Breach Stroke,Booming Chink,F1,Demigod L3 Low,B
+MV-ELI-WPK-005-01,Court Posture Hold,Granite Hardtooth,F2,Demigod L4 Low,B
+MV-ELI-WPK-005-02,Basin-Floor Hammer Drop,Corroding Ironthorn,F1,Demigod L4 Low,B
+MV-ELI-WPK-005-03,Court-Edge Beak Probe,Ruinous Crowbill,F1,Demigod L4 Low,B
+MV-ELI-WPK-005-04,Hammer and Beak Alternation,Devastating Waistpoint,F1,Demigod L4 Low,B
+MV-ELI-WPK-005-05,Courtyard Haft Fend,Chime Ironthorn,F2,Demigod L4 Low,B
+MV-ELI-WPK-005-06,Basin Rim Hook Throw,Numbing Punch,F1,Demigod L4 Low,B
+MV-ELI-WPK-005-07,Court-Verdict Hammer Fall,Tempered Peck,F2,Demigod L4 Low,B
+MV-ELI-WPK-005-08,Twin-Seat Spike Anchor,Ponderous Peck,F2,Demigod L4 Low,B
+MV-ELI-WPK-005-09,Hammer That Closes the Court,Unsparing Blaze Chink,F6a,Demigod L4 Low,B
+MV-ELI-WPK-006-01,Sky Watcher's Crouch,Charter Peckhead,F2,Void God L1 Low,B
+MV-ELI-WPK-006-02,Falling Beak Mark,Flukeruin,F4,Void God L1 Low,B
+MV-ELI-WPK-006-03,Cloud-Edge Glance,Pickinsight,F4,Void God L1 Low,B
+MV-ELI-WPK-006-04,Hawk-Wing Side Pace,Phantom Puncture,F1,Void God L1 Low,B
+MV-ELI-WPK-006-05,Folded Stoop Spike,Pickscourge,F4,Void God L1 Low,B
+MV-ELI-WPK-006-06,Pinion Haft Fend,Pickhelve Hardihood,F3,Void God L1 Low,B
+MV-ELI-WPK-006-07,Mantle Hook Drag,Overpowering Pickfluke,F1,Void God L1 Low,B
+MV-ELI-WPK-006-08,Skyfall Spike Drive,Iron Crack,F2,Void God L1 Low,B
+MV-ELI-WPK-006-09,Stooping Claw Peel,Mayhem Backbill,F2,Void God L1 Low,B
+MV-ELI-WPK-006-10,Hawk Stoop Through Plate and Padding,Peckwrath,F4,Void God L1 Low,B
+MV-ELI-WPK-007-01,Sworn-Stone Pick Stand,Thorn Stonetip,F2,Demigod L1 Low,B
+MV-ELI-WPK-007-02,Bearing-First Spike Jab,Crackhavoc,F4,Demigod L1 Low,B
+MV-ELI-WPK-007-03,Wind-Watching Glance,Veritypick,F5,Demigod L1 Low,B
+MV-ELI-WPK-007-04,Sworn Hook and Haul,Toxin Crowbill,F2,Demigod L1 Low,B
+MV-ELI-WPK-007-05,Stone-Plateau Gust Parry,Gustcrow,F5,Demigod L1 Low,B
+MV-ELI-WPK-007-06,Oath-Weight Hammer Beat,Granite Drive,F2,Demigod L1 Low,B
+MV-ELI-WPK-007-07,Plateau-Shaking Spike Fall,Iron Spikebeak,F2,Demigod L1 Low,B
+MV-ELI-WPK-007-08,Sworn Beak Bind,Thorn Ironthorn,F2,Demigod L1 Low,B
+MV-ELI-WPK-007-09,Oath Driven Through Steel,Punishing Hardtooth Reckoning,F6b,Demigod L1 Low,B
+MV-ELI-WPK-008-01,Bearing-Held Wide Stance,Hardtooth Nerve,F3,Demigod L2 Mid,B
+MV-ELI-WPK-008-02,Wind-Line Spike Thrust,Rumble Waistpoint,F2,Demigod L2 Mid,B
+MV-ELI-WPK-008-03,Gale Edge Hammer Rap,Gust Puncture,F2,Demigod L2 Mid,B
+MV-ELI-WPK-008-04,Plateau Gust Reading,Revitalizing Spikebeak,F1,Demigod L2 Mid,B
+MV-ELI-WPK-008-05,No-Walls Open Step,Stonetip Flash,F3,Demigod L2 Mid,B
+MV-ELI-WPK-008-06,Bearing-Turned Beak Hook,Enthralling Crack,F1,Demigod L2 Mid,B
+MV-ELI-WPK-008-07,Wind-Sworn Haft Sweep,Flukespine,F4,Demigod L2 Mid,B
+MV-ELI-WPK-008-08,Gust-Added Hammer Blow,Granite Backbill,F2,Demigod L2 Mid,B
+MV-ELI-WPK-008-09,Oath-Held Spike Press,Facet Chink,F2,Demigod L2 Mid,B
+MV-ELI-WPK-008-10,Wind-Hauled Plate Tear,Mayhempick,F5,Demigod L2 Mid,B
+MV-ELI-WPK-008-11,Bearing-True Beak Drive,Iron Pickhelve,F2,Demigod L2 Mid,B
+MV-ELI-WPK-008-12,Gale Flash Along the Bearing,Headlong Hour Punch,F6a,Demigod L2 Mid,B
+MV-ELI-WPK-009-01,Gale-Braced Guard,Aegis Pickfluke,F2,Demigod L3 Mid,B
+MV-ELI-WPK-009-02,Gale Beat on the Helm,Punchwrath,F4,Demigod L3 Mid,B
+MV-ELI-WPK-009-03,Hammer-Weight Reading,Illuminating Crowbill,F1,Demigod L3 Mid,B
+MV-ELI-WPK-009-04,Wind-Rolled Haft Strike,Decimating Peck,F1,Demigod L3 Mid,B
+MV-ELI-WPK-009-05,Gale Rebound Block,Chime Backbill,F2,Demigod L3 Mid,B
+MV-ELI-WPK-009-06,Hammered Rim Hook,Overbearing Stonetip,F1,Demigod L3 Mid,B
+MV-ELI-WPK-009-07,Gale-Driven Plate Crush,Tempered Spikebeak,F2,Demigod L3 Mid,B
+MV-ELI-WPK-009-08,Hammer Gust Pinning,Overbearing Punch,F1,Demigod L3 Mid,B
+MV-ELI-WPK-009-09,Hammer of the Open Gale,Shattering Pickhelve,F1,Demigod L3 Mid,B
+MV-ELI-WPK-010-01,Tear-Ready Stance,Pickvalor,F4,Demigod L5 Low,B
+MV-ELI-WPK-010-02,Beak Rim Prick,Iron Pickfluke,F2,Demigod L5 Low,B
+MV-ELI-WPK-010-03,Wind-Torn Strap Glance,Expanse Hardtooth,F2,Demigod L5 Low,B
+MV-ELI-WPK-010-04,Upwind Circling Pace,Headlong Waistpoint,F1,Demigod L5 Low,B
+MV-ELI-WPK-010-05,Strap Cutting Beak Pull,Mayhem Peckhead,F2,Demigod L5 Low,B
+MV-ELI-WPK-010-06,Wind-Parried Haft,Unrelenting Ironthorn,F1,Demigod L5 Low,B
+MV-ELI-WPK-010-07,Plate-Lifting Heave,Toxin Crack,F2,Demigod L5 Low,B
+MV-ELI-WPK-010-08,Armor-Stripping Gale Haul,Crackmettle,F4,Demigod L5 Low,B
+MV-ELI-WPK-010-09,Torn-Plate Spike Fall,Shattering Peck,F1,Demigod L5 Low,B
+MV-ELI-WPK-010-10,The Plate Taken by the Wind,Toxin Peckhead,F2,Demigod L5 Low,B
+MV-ELI-WPK-011-01,Open-Edge Guard,Ironcrow,F5,Demigod L6 Low,B
+MV-ELI-WPK-011-02,Edge-Line Spike Thrust,Tempered Drive,F2,Demigod L6 Low,B
+MV-ELI-WPK-011-03,Drop-Edge Reading,Verityfluke,F5,Demigod L6 Low,B
+MV-ELI-WPK-011-04,Edge-Walking Pick Strike,Ironpunch,F5,Demigod L6 Low,B
+MV-ELI-WPK-011-05,Rim-Turned Haft Fend,Torrent Pickfluke,F2,Demigod L6 Low,B
+MV-ELI-WPK-011-06,Lip-Hooking Beak Pull,Chime Punch,F2,Demigod L6 Low,B
+MV-ELI-WPK-011-07,Edge-Breaking Spike Fall,Peckscourge,F4,Demigod L6 Low,B
+MV-ELI-WPK-011-08,Over-the-Lip Hammer Heave,Rumble Stonetip,F2,Demigod L6 Low,B
+MV-ELI-WPK-011-09,Foe Sent Over the Edge,Toxin Ironthorn,F2,Demigod L6 Low,B
+MV-ELI-WPK-012-01,Oath-and-Bearing Stance,Hoarfrost Backbill,F2,Void God L1 Low,B
+MV-ELI-WPK-012-02,Sworn Spike Line,Hellish Puncture,F1,Void God L1 Low,B
+MV-ELI-WPK-012-03,Bearing Hammer Beat,Sanguine Waistpoint,F2,Void God L1 Low,B
+MV-ELI-WPK-012-04,Oath-Mark Glance,Crowinsight,F4,Void God L1 Low,B
+MV-ELI-WPK-012-05,Held-Oath Beak Check,Mayhem Drive,F2,Void God L1 Low,B
+MV-ELI-WPK-012-06,Bearing Haft Cover,Equipoise Spikebeak,F2,Void God L1 Low,B
+MV-ELI-WPK-012-07,Wind Under the Spike,Ruinous Hardtooth,F1,Void God L1 Low,B
+MV-ELI-WPK-012-08,Oath-Weighted Plate Piercing,Ruinous Pickhelve,F1,Void God L1 Low,B
+MV-ELI-WPK-012-09,Bearing-Fixed Hook Haul,Chinkdurance,F4,Void God L1 Low,B
+MV-ELI-WPK-012-10,Last Bearing Spike Thrust,Chinkscourge,F4,Void God L1 Low,B
+MV-ELI-WPK-001-09,Hollow Ironthorn,Paired Ironthorn,F2,Demigod L1 Low,B
+MV-ELI-WPK-002-10,Expanse Punch,Blinking Punch,F2,Demigod L1 Mid,B
+MV-ELI-WPK-004-02,Hollow Stonetip,Downward Stonetip,F2,Demigod L3 Low,B
+MV-ELI-WPK-010-03,Expanse Hardtooth,Testing Hardtooth,F2,Demigod L5 Low,B

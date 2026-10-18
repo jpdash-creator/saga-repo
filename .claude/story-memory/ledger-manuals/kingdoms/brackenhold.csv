@@ -1,0 +1,14 @@
+kingdom_id,manual_id,kingdom,institution,channel,access,copy_control,local_note,status
+BR-BAS-HAL-001,MAN-BAS-HAL-001,Brackenhold,OPEN-AUTHOR army,ORG,MEMBER,FREE,first primer for new halberd recruits,Active
+BR-BAS-HAL-006,MAN-BAS-HAL-006,Brackenhold,OPEN-AUTHOR army,ORG,MEMBER,FREE,plain pole handbook for recruits,Active
+BR-BAS-HAL-008,MAN-BAS-HAL-008,Brackenhold,OPEN-AUTHOR army,ORG,MEMBER,FREE,recruit shaft drill text,Active
+BR-BAS-HAL-010,MAN-BAS-HAL-010,Brackenhold,OPEN-AUTHOR army,ORG,MEMBER,FREE,workbook of quick snapping strikes,Active
+BR-INT-HAL-004,MAN-INT-HAL-004,Brackenhold,OPEN-AUTHOR vanguard,ORG,MEMBER,LENDING,hook and haft text for skirmishers,Active
+BR-INT-HAL-005,MAN-INT-HAL-005,Brackenhold,OPEN-AUTHOR vanguard,ORG,MEMBER,LENDING,soldier's drill text,Active
+BR-INT-HAL-009,MAN-INT-HAL-009,Brackenhold,OPEN-AUTHOR vanguard,ORG,MEMBER,LENDING,line drill text,Active
+BR-ADV-HAL-001,MAN-ADV-HAL-001,Brackenhold,OPEN-AUTHOR vanguard,ORG,RANKED,LENDING,heavy axe method kept for squad leaders,Active
+BR-ADV-HAL-002,MAN-ADV-HAL-002,Brackenhold,OPEN-AUTHOR vanguard,ORG,RANKED,LENDING,guard-breaking text kept for squad leaders,Active
+BR-INT-HAL-011,MAN-INT-HAL-011,Brackenhold,OPEN-AUTHOR vanguard,ORG,MEMBER,LENDING,line handbook,Active
+BR-INT-HAL-012,MAN-INT-HAL-012,Brackenhold,OPEN-AUTHOR vanguard,ORG,MEMBER,LENDING,skirmisher notes,Active
+BR-ADV-HAL-014,MAN-ADV-HAL-014,Brackenhold,OPEN-AUTHOR vanguard,ORG,RANKED,LENDING,squad leaders' book,Active
+BR-SIG-HAL-013,MAN-SIG-HAL-013,Brackenhold,OPEN-AUTHOR vanguard,ORG,RANKED,RESTRICTED,kept for the raid leader's rank,Active

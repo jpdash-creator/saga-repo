@@ -1,0 +1,71 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-SHG-001-01,Twin Court Carry,Eclipse Breech,F2,Warrior,B
+MV-SIG-SHG-001-02,Court Door Fire,Pattern Crown,F3,Warrior,B
+MV-SIG-SHG-001-03,Paired Footfall Shot,Magnificent Wad,F1,Warrior,B
+MV-SIG-SHG-001-04,Court Hall Sweep,Storied Buckshot,F1,Warrior,B
+MV-SIG-SHG-001-05,Twin Parry Blast,Squallbead,F5,Warrior,B
+MV-SIG-SHG-001-06,Court Step Reload,Bead Gift,F3,Warrior,B
+MV-SIG-SHG-001-07,Court Double Spread,Magma Slug,F2,Champion,B
+MV-SIG-SHG-001-08,Hawk Court Piercing Load,Steelpump,F5,Champion,B
+MV-SIG-SHG-001-09,Court Hawk Flash Volley,Pulsarbead,F5,Demigod,B
+MV-SIG-SHG-001-10,Twin-Court Closing Spread,Dune Pellet,F2,Warrior,B
+MV-SIG-SHG-002-01,Basin Pellet Pooling,Solar Sawnedge,F2,Warrior,B
+MV-SIG-SHG-002-02,Low Basin Brace,Hornbeam Choke,F2,Warrior,B
+MV-SIG-SHG-002-03,Rim Aim Marking,Pumpgrip Blessing,F3,Warrior,B
+MV-SIG-SHG-002-04,Basin Lip Shot,Pulsarshell,F5,Warrior,B
+MV-SIG-SHG-002-05,Paired Basin Spread,Entropy Blast,F2,Warrior,B
+MV-SIG-SHG-002-06,Overflow Pellet Burst,Shell Decree,F3,Warrior,B
+MV-SIG-SHG-002-07,Basin Brim Step,Bedrock Spreadshot,F2,Warrior,B
+MV-SIG-SHG-002-08,Still Water Guard,Statute Slugchamber,F2,Warrior,B
+MV-SIG-SHG-002-09,Basin Flood Spread,Tempestuous Slugchamber,F2,Champion,B
+MV-SIG-SHG-002-10,Paired Rim Breaker,Thunderclap Doublebarrel,F2,Champion,B
+MV-SIG-SHG-002-11,Basin Deep Water Shot,Storied Pump,F1,Demigod,B
+MV-SIG-SHG-002-12,Paired Basin Overflowing Stroke,Magnificent Dune Blast,F6a,Warrior,B
+MV-SIG-SHG-003-01,River Run Stalk,Spectral Pellet,F1,Champion,B
+MV-SIG-SHG-003-02,Water Edge Marking,Hospitable Breech,F1,Champion,B
+MV-SIG-SHG-003-03,Current Lead Shot,Squall Slug,F2,Champion,B
+MV-SIG-SHG-003-04,Rapids Spread Fire,Solarchoke,F5,Champion,B
+MV-SIG-SHG-003-05,Eddy Pool Hold,Stately Doublebarrel,F1,Champion,B
+MV-SIG-SHG-003-06,Shallows Crossing Stride,Deluge Sawnedge,F2,Champion,B
+MV-SIG-SHG-003-07,Wader Flush,Season Wad,F2,Champion,B
+MV-SIG-SHG-003-08,Spate Surge Blast,Lordly Bead,F1,Champion,B
+MV-SIG-SHG-003-09,Cutbank Collapse Shot,Spreadshot Crown,F3,Champion,B
+MV-SIG-SHG-003-10,Run Quickening Flash,Radiance Shell,F2,Demigod,B
+MV-SIG-SHG-003-11,River Run Final Cast,Imperial Dune Pattern,F6a,Champion,B
+MV-SIG-SHG-004-01,Twin Hawk Watch,Pealchoke,F5,Ruler,B
+MV-SIG-SHG-004-02,Hawk Swoop Lean,Evanescent Buckshot,F1,Ruler,B
+MV-SIG-SHG-004-03,Pair Talon Shot,Wadverdict,F4,Ruler,B
+MV-SIG-SHG-004-04,Twin Wing Pellet Split,Blastdecree,F4,Ruler,B
+MV-SIG-SHG-004-05,Perch Guard Return,Pealbead,F5,Ruler,B
+MV-SIG-SHG-004-06,Hawk Hover Reading,Peal Shell,F2,Ruler,B
+MV-SIG-SHG-004-07,Double Hawk Descent Pierce,Fearless Choke,F1,Ruler,B
+MV-SIG-SHG-004-08,Hawk Circle Barrage,Intrepid Sawnedge,F1,Ruler,B
+MV-SIG-SHG-004-09,Paired Hawk Rush,Season Pump,F2,Demigod,B
+MV-SIG-SHG-004-10,Twin Hawk Closing Strike,Royal Vacuum Bead,F6a,Ruler,B
+MV-SIG-SHG-005-01,Track Meeting Muzzle Rest,Luminous Slugchamber,F1,Demigod,B
+MV-SIG-SHG-005-02,Track Weight Shift,Pumpvoyage,F4,Demigod,B
+MV-SIG-SHG-005-03,Even Track Shot,Blast Edict,F3,Demigod,B
+MV-SIG-SHG-005-04,Track Brace Crouch,Prismshell,F5,Demigod,B
+MV-SIG-SHG-005-05,Dual Track Spread,Dauntless Pump,F1,Demigod,B
+MV-SIG-SHG-005-06,Track Cross Parry,Parity Pumpgrip,F2,Demigod,B
+MV-SIG-SHG-005-07,Track Pulse Reload,Magnanimous Doublebarrel,F1,Demigod,B
+MV-SIG-SHG-005-08,Track Break Blast,Venombead,F5,Demigod,B
+MV-SIG-SHG-005-09,Alternating Track Fire,Millstone Wad,F2,Demigod,B
+MV-SIG-SHG-005-10,Scatter Canon Breach,Magma Pellet,F2,Demigod,B
+MV-SIG-SHG-005-11,Dual Track Piercing Rush,Thunderclap Pattern,F2,Demigod,B
+MV-SIG-SHG-005-12,Dual-Track Unified Blast,Demolition Buckshot,F2,Demigod,B
+MV-SIG-SHG-006-01,Open Sky Spread Reading,Merciful Pumpgrip,F1,Core Formation,B
+MV-SIG-SHG-006-02,Unbound Stance Opening,Consecrated Pumpgrip,F1,Core Formation,B
+MV-SIG-SHG-006-03,Wide Sky Shot,Magnificent Choke,F1,Core Formation,B
+MV-SIG-SHG-006-04,Core Drawn Spread,Solarpellet,F5,Core Formation,B
+MV-SIG-SHG-006-05,Core Pulse Guard,Steelpellet,F5,Core Formation,B
+MV-SIG-SHG-006-06,Unbound Hawk Glide,Deluge Spreadshot,F2,Core Formation,B
+MV-SIG-SHG-006-07,Core Spark Priming,Solarshell,F5,Core Formation,B
+MV-SIG-SHG-006-08,Unbound Spread Cascade,Matchless Slug,F1,Core Formation,B
+MV-SIG-SHG-006-09,Core Needle Pierce,Vacuum Breech,F2,Core Formation,B
+MV-SIG-SHG-006-10,Core Flash Descent,Season Slug,F2,Core Formation,B
+MV-SIG-SHG-006-11,Azure Spread Unbound Stroke,Blastbanner,F4,Core Formation,B
+MV-SIG-SHG-001-10,Dune Pellet,Searing Pellet,F2,Warrior,B
+MV-SIG-SHG-002-02,Hornbeam Choke,Adamant Choke,F2,Warrior,B
+MV-SIG-SHG-002-12,Magnificent Dune Blast,Magnificent Blast,F6a,Warrior,B
+MV-SIG-SHG-003-11,Imperial Dune Pattern,Imperial Pattern,F6a,Champion,B

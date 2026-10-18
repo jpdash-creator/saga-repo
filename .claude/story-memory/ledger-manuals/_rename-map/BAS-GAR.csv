@@ -1,0 +1,67 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-GAR-001-01,Two-Fist Cord Hold,Wirestay,F4,Unawakened,A
+MV-BAS-GAR-001-02,Open Loop Flip,Tripping Slipknot,F1,Unawakened,A
+MV-BAS-GAR-001-03,Short Draw Snap,Noosering Blow,F3,Unawakened,A
+MV-BAS-GAR-001-04,Quiet Heel Roll,Cordhandle Amble,F3,Unawakened,A
+MV-BAS-GAR-001-05,Back Loop Drop,Tripping Gripdowel,F1,Unawakened,A
+MV-BAS-GAR-001-06,Throat Line Lean,Cinchhit,F4,Unawakened,A
+MV-BAS-GAR-002-01,Toggle Palm Seat,Strandstay,F4,Skin,A
+MV-BAS-GAR-002-02,Thumb-Locked Wrap,Constrict Husk,F3,Skin,A
+MV-BAS-GAR-002-03,Cross Wrist Cast,Togglehusk,F4,Skin,A
+MV-BAS-GAR-002-04,Toggle Knock,Sharp Tighten,F1,Skin,A
+MV-BAS-GAR-002-05,Grab Slip Twist,Solid Cordbraid,F1,Skin,A
+MV-BAS-GAR-002-06,Belt-High Shuffle,Quiet Garrote,F1,Skin,A
+MV-BAS-GAR-002-07,Belt Line Pull,Forward Barbedwire,F1,Skin,A
+MV-BAS-GAR-003-01,Wire Loop Shaping,Hitching Handlebar,F1,Muscle,A
+MV-BAS-GAR-003-02,Figure-Eight Slack Gather,Cinchamble,F4,Muscle,A
+MV-BAS-GAR-003-03,Forearm Wire Guard,Noosepause,F4,Muscle,A
+MV-BAS-GAR-003-04,Straight Spine Draw,Open Throttle,F1,Muscle,A
+MV-BAS-GAR-003-05,Loop Flick Loose,Togglewedge,F4,Muscle,A
+MV-BAS-GAR-004-01,Cord Walker Lunge,Shifting Wirecore,F1,Tendon,A
+MV-BAS-GAR-004-02,Corner Wait Crouch,Cinchpace,F4,Tendon,A
+MV-BAS-GAR-004-03,Overhead Loop Throw,Locking Slipnoose,F1,Tendon,A
+MV-BAS-GAR-004-04,Nape Cross Pull,Strandstrike,F4,Tendon,A
+MV-BAS-GAR-004-05,Elbow Brace Turn,Strandcowl,F4,Tendon,A
+MV-BAS-GAR-004-06,Shoulder Blade Roll,Settled Wirebraid,F1,Tendon,A
+MV-BAS-GAR-004-07,Dragging Back Step,Pushing Toggle,F1,Tendon,A
+MV-BAS-GAR-004-08,Drop and Hold,Wirebump,F4,Tendon,A
+MV-BAS-GAR-005-01,Short Cord Fulcrum,Straight Cinch,F1,Bone,A
+MV-BAS-GAR-005-02,Hip Pull Draw,Barbedwire Cowl,F3,Bone,A
+MV-BAS-GAR-005-03,Rolled Wrist Block,Slipknot Cowl,F3,Bone,A
+MV-BAS-GAR-005-04,Close Body Pivot,Swaying Constrict,F1,Bone,A
+MV-BAS-GAR-005-05,Back Press Hold,Slipnoose Bump,F3,Bone,A
+MV-BAS-GAR-005-06,Pinch and Release,Noosering Wedge,F3,Bone,A
+MV-BAS-GAR-006-01,First Qi Cord Thread,Gripdowel Bump,F3,Senior,A
+MV-BAS-GAR-006-02,Cord Skin Warming,Wirewedge,F4,Senior,A
+MV-BAS-GAR-006-03,Stiffened Loop Settle,Fixing Garrote,F1,Senior,A
+MV-BAS-GAR-006-04,Exhale Pull Rhythm,Quick Toggle,F1,Senior,A
+MV-BAS-GAR-006-05,Qi-Light Footfall,Wireamble,F4,Senior,A
+MV-BAS-GAR-006-06,Cord Turn Parry,Raised Cordhandle,F1,Senior,A
+MV-BAS-GAR-006-07,Anchored Hip Hold,Togglestay,F4,Senior,A
+MV-BAS-GAR-007-01,Breath-Held Pull,Strandhit,F4,Senior,A
+MV-BAS-GAR-007-02,Exhale Snap Draw,Wiredash,F4,Senior,A
+MV-BAS-GAR-007-03,Slack Breath Step,Sideways Wirebraid,F1,Senior,A
+MV-BAS-GAR-007-04,Soft Cord Catch,Folded Wirecore,F1,Senior,A
+MV-BAS-GAR-007-05,Breath Bind Loop,Nabbing Throttle,F1,Senior,A
+MV-BAS-GAR-008-01,Forearm Winding Drill,Ready Cordbraid,F1,Senior,A
+MV-BAS-GAR-008-02,Unwinding Whip Flick,Flat Tighten,F1,Senior,A
+MV-BAS-GAR-008-03,Twin Wrap Hold,Stopping Wirecore,F1,Senior,A
+MV-BAS-GAR-008-04,Spiral Arm Draw,Cinch Wedge,F3,Senior,A
+MV-BAS-GAR-008-05,Coil Circling Step,Nooseamble,F4,Senior,A
+MV-BAS-GAR-008-06,Charged Coil Grip,Sudden Garrote,F1,Senior,A
+MV-BAS-GAR-008-07,Loop Under Guard,Sudden Noosering,F1,Senior,A
+MV-BAS-GAR-008-08,Wound End Tuck,Tight Wirebraid,F1,Senior,A
+MV-BAS-GAR-009-01,Low Posture Draw,Plain Slipnoose,F1,Senior,A
+MV-BAS-GAR-009-02,Rising Cord Guard,Angled Handlebar,F1,Senior,A
+MV-BAS-GAR-009-03,Wrist Lock Loop,Nooselid,F4,Senior,A
+MV-BAS-GAR-009-04,Half-Pace Shadow Walk,Strandamble,F4,Senior,A
+MV-BAS-GAR-009-05,Held Qi Line,Slipknot Dash,F3,Senior,A
+MV-BAS-GAR-009-06,Collar Yank Down,Fixing Barbedwire,F1,Senior,A
+MV-BAS-GAR-010-01,Slack Feed Pull,Level Handlebar,F1,Senior,A
+MV-BAS-GAR-010-02,Cord Length Measure,Constrict Hop,F3,Senior,A
+MV-BAS-GAR-010-03,Slack Wad Guard,Strandpause,F4,Senior,A
+MV-BAS-GAR-010-04,Hooked Slack Throw,Catching Toggle,F1,Senior,A
+MV-BAS-GAR-010-05,Taut Snap Crack,Cordhandle Hit,F3,Senior,A
+MV-BAS-GAR-010-06,Tension Slide Parry,Holding Cordbraid,F1,Senior,A
+MV-BAS-GAR-010-07,Low Drag Retreat,Sideways Gripdowel,F1,Senior,A
+MV-BAS-GAR-009-01,Plain Slipnoose,Quick Slipnoose,F1,Senior,A

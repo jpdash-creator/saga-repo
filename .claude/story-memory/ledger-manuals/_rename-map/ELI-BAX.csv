@@ -1,0 +1,164 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-BAX-001-01,Twin-Court Bit Guard,Charter Wideeye,F2,Demigod,B
+MV-ELI-BAX-001-02,Paired Edge Chop,Battlewrath,F4,Demigod,B
+MV-ELI-BAX-001-03,Court Entry Step,Granite Smite,F2,Demigod,B
+MV-ELI-BAX-001-04,Beard Court Hook,Thornrive,F5,Demigod,B
+MV-ELI-BAX-001-05,Twin Edge Parry,Impervious Warbit,F1,Demigod,B
+MV-ELI-BAX-001-06,Court Rap Disrupt,Toxin Battercut,F2,Demigod,B
+MV-ELI-BAX-001-07,Twin Bit Pierce,Bandedruin,F4,Demigod,B
+MV-ELI-BAX-001-08,Court Lock Press,Mastering Warpoll,F1,Demigod,B
+MV-ELI-BAX-001-09,Twin-Court Great Cleave,Rampaging Hewdown,F1,Demigod,B
+MV-ELI-BAX-002-01,Hawk Stance,Unconquered Warhelve,F1,Demigod,B
+MV-ELI-BAX-002-02,Dive Cut,Crescentbit Wrath,F3,Demigod,B
+MV-ELI-BAX-002-03,Azure Glide Step,Mightbanded,F5,Demigod,B
+MV-ELI-BAX-002-04,Talon Beard Catch,Hoarfrost Bitedge,F2,Demigod,B
+MV-ELI-BAX-002-05,Wing Beat Axe Parry,Chime Battleheel,F2,Demigod,B
+MV-ELI-BAX-002-06,Hawk Eye Edge Sense,Energizing Haftcap,F1,Demigod,B
+MV-ELI-BAX-002-07,Falling Feather Cut,Punishing Warcleave,F1,Demigod,B
+MV-ELI-BAX-002-08,Hawk Strike Pierce,Battlescourge,F4,Demigod,B
+MV-ELI-BAX-002-09,Azure Rise Surge,Rive Glimmer,F3,Demigod,B
+MV-ELI-BAX-002-10,Hawk-Strike Great Cleave,Ruinous Brunt,F1,Demigod,B
+MV-ELI-BAX-003-01,Basin Stance,Aegis Warpoll,F2,Demigod,B
+MV-ELI-BAX-003-02,River Chop,Rumblewarbit,F5,Demigod,B
+MV-ELI-BAX-003-03,Banking Step,Silt Smite,F2,Demigod,B
+MV-ELI-BAX-003-04,Bed Drag Hook,Brunt Tenacity,F3,Demigod,B
+MV-ELI-BAX-003-05,Tributary Cut Pair,Shattering Warbeard,F1,Demigod,B
+MV-ELI-BAX-003-06,Basin Parry,Warbitnerve,F4,Demigod,B
+MV-ELI-BAX-003-07,Undercurrent Rap,Mayhem Banded,F2,Demigod,B
+MV-ELI-BAX-003-08,Basin Flood Pierce,Tempered Warbit,F2,Demigod,B
+MV-ELI-BAX-003-09,Silt Haft Seal,Intentrive,F5,Demigod,B
+MV-ELI-BAX-003-10,River Eye Sense,Galvanizing Wideeye,F1,Demigod,B
+MV-ELI-BAX-003-11,Basin-Wide Great Sweep,Daybreak Hewdown,F2,Demigod,B
+MV-ELI-BAX-004-01,Dual Track Haft Stance,Iron Warbeard,F2,Monarch,B
+MV-ELI-BAX-004-02,Paired Track Hew,Sanguine Battleheel,F2,Monarch,B
+MV-ELI-BAX-004-03,Track Switch Glide,Unseen Haftcap,F1,Monarch,B
+MV-ELI-BAX-004-04,Twin Beard Pull,Ponderous Battercut,F2,Monarch,B
+MV-ELI-BAX-004-05,Paired Haft Reflect,Glamour Warhelve,F2,Monarch,B
+MV-ELI-BAX-004-06,Dual Track Bit Pierce,Bandedhavoc,F4,Monarch,B
+MV-ELI-BAX-004-07,Paired Track Rap,Bitedge Fortitude,F3,Monarch,B
+MV-ELI-BAX-004-08,Court Surge Cut,Siltwarbit,F5,Monarch,B
+MV-ELI-BAX-004-09,Dual-Track Great Cleave,Titanic Hewdown,F1,Demigod,B
+MV-ELI-BAX-005-01,High Perch Axe Guard,Banded Mettle,F3,Void God,B
+MV-ELI-BAX-005-02,Long Fall Cut,Tempered Battleheel,F2,Void God,B
+MV-ELI-BAX-005-03,Descent Axe Step,Silt Crescentbit,F2,Void God,B
+MV-ELI-BAX-005-04,Sky Hook Pull,Rive Spine,F3,Void God,B
+MV-ELI-BAX-005-05,Azure Landing Chop,Ironbanded,F5,Void God,B
+MV-ELI-BAX-005-06,Falling Guard Parry,Battlenerve,F4,Void God,B
+MV-ELI-BAX-005-07,Height Rap,Chime Warhelve,F2,Void God,B
+MV-ELI-BAX-005-08,Descent Qi Gather,Illuminating Wideeye,F1,Void God,B
+MV-ELI-BAX-005-09,Sky-Cutting Pierce,Hollowrive,F5,Void God,B
+MV-ELI-BAX-005-10,Twin Descent Ward,Invincible Banded,F1,Void God,B
+MV-ELI-BAX-005-11,Cloud-Break Surge,Warbit Glare,F3,Void God,B
+MV-ELI-BAX-005-12,Azure Descent Cleave,Smite Scourge,F3,Void God,B
+MV-ELI-BAX-006-01,Twin Bit Guard,Facet Haftcap,F2,Demigod,B
+MV-ELI-BAX-006-02,Swap Edge Chop,Blaze Rive,F2,Demigod,B
+MV-ELI-BAX-006-03,Court Half-Step,Unseen Warpoll,F1,Demigod,B
+MV-ELI-BAX-006-04,Twin Rim Shove,Immobilizing Warcleave,F1,Demigod,B
+MV-ELI-BAX-006-05,Double Edge Hew,Granite Warcleave,F2,Demigod,B
+MV-ELI-BAX-006-06,Edge Catch Parry,Warbitdurance,F4,Demigod,B
+MV-ELI-BAX-006-07,Court Pierce Pair,Titanic Brunt,F1,Demigod,B
+MV-ELI-BAX-006-08,Twin Court Seal,Intentbanded,F5,Demigod,B
+MV-ELI-BAX-006-09,Mirrored Edge Surge,Headlong Warcleave,F1,Demigod,B
+MV-ELI-BAX-006-10,Twin-Bit Great Turn,Granite Battercut,F2,Demigod,B
+MV-ELI-BAX-007-01,Wide Stance Ward,Hoarfrost Crescentbit,F2,Void God,B
+MV-ELI-BAX-007-02,Sweep Chop,Blazebattle,F5,Void God,B
+MV-ELI-BAX-007-03,Foe-Ringing Axe Stride,Warbeard Glare,F3,Void God,B
+MV-ELI-BAX-007-04,Low Sweep Hook,Battleheel Fortitude,F3,Void God,B
+MV-ELI-BAX-007-05,Flowing Sweep Pair,Ironrive,F5,Void God,B
+MV-ELI-BAX-007-06,Wide Parry Wheel,Unbowed Warhelve,F1,Void God,B
+MV-ELI-BAX-007-07,Rim Sweep Shove,Rumble Battercut,F2,Void God,B
+MV-ELI-BAX-007-08,Silt Cloud Cut,Downpour Hewdown,F2,Void God,B
+MV-ELI-BAX-007-09,Wide Reflect Wheel,Unbowed Wideeye,F1,Void God,B
+MV-ELI-BAX-007-10,Basin Surge Reach,Granite Rive,F2,Void God,B
+MV-ELI-BAX-007-11,Great Basin Sweep,Wrathful Slag Warbit,F6a,Void God,B
+MV-ELI-BAX-008-01,River Court Guard,Aegis Warbeard,F2,Void God,B
+MV-ELI-BAX-008-02,Current Chop,Smite Ruin,F3,Void God,B
+MV-ELI-BAX-008-03,River Bit Step,Torrent Warpoll,F2,Void God,B
+MV-ELI-BAX-008-04,Eddy Hook,Hoarfrost Brunt,F2,Void God,B
+MV-ELI-BAX-008-05,Silt Weight Gather,Buoying Banded,F1,Void God,B
+MV-ELI-BAX-008-06,Weir Parry Turn,Battlevalor,F4,Void God,B
+MV-ELI-BAX-008-07,Sluice Pierce,Nova Bitedge,F2,Void God,B
+MV-ELI-BAX-008-08,Court Flood Seal,Strangling Smite,F1,Void God,B
+MV-ELI-BAX-008-09,River-Court Great Cleave,Iron Haftcap,F2,Void God,B
+MV-ELI-BAX-009-01,Sworn Ground Stance,Battlespine,F4,Demigod,B
+MV-ELI-BAX-009-02,Bearing Chop,Tempered Battercut,F2,Demigod,B
+MV-ELI-BAX-009-03,Plateau Run Axe Step,Mightrive,F5,Demigod,B
+MV-ELI-BAX-009-04,Wind Beard Pull,Overbearing Crescentbit,F1,Demigod,B
+MV-ELI-BAX-009-05,Oath Cut Pair,Shattering Warhelve,F1,Demigod,B
+MV-ELI-BAX-009-06,Held Bearing Haft Parry,Unassailable Crescentbit,F1,Demigod,B
+MV-ELI-BAX-009-07,Unwalled Guard Sweep,Toxin Haftcap,F2,Demigod,B
+MV-ELI-BAX-009-08,Oath Pierce,Glintbanded,F5,Demigod,B
+MV-ELI-BAX-009-09,Bearing Surge Cut,Silt Banded,F2,Demigod,B
+MV-ELI-BAX-009-10,Oath-Sworn Great Cleave,Ferocious Tempered Wideeye,F6a,Demigod,B
+MV-ELI-BAX-010-01,Gale Guard,Charter Bitedge,F2,Demigod,B
+MV-ELI-BAX-010-02,Gust Chop,Corroding Hewdown,F1,Demigod,B
+MV-ELI-BAX-010-03,Windward Axe Step,Gust Brunt,F2,Demigod,B
+MV-ELI-BAX-010-04,Beard Wind Drag,Gyve Bitedge,F2,Demigod,B
+MV-ELI-BAX-010-05,Edge Gust Pair,Gnashing Warcleave,F1,Demigod,B
+MV-ELI-BAX-010-06,Crosswind Rap,Toxin Warpoll,F2,Demigod,B
+MV-ELI-BAX-010-07,Wind-Edge Axe Parry,Chimebattle,F5,Demigod,B
+MV-ELI-BAX-010-08,Gale-Edge Pierce,Eviscerating Warbit,F1,Demigod,B
+MV-ELI-BAX-010-09,Gust Surge Step,Siltrive,F5,Demigod,B
+MV-ELI-BAX-010-10,Squall Wind Ward,Glintbattle,F5,Demigod,B
+MV-ELI-BAX-010-11,Great Gale Edge,Unsparing Rive,F1,Demigod,B
+MV-ELI-BAX-011-01,Held Bearing Stance,Facetbattle,F5,Monarch,B
+MV-ELI-BAX-011-02,Oath Chop,Warbeard Wrath,F3,Monarch,B
+MV-ELI-BAX-011-03,Bearing Line Step,Headlong Crescentbit,F1,Monarch,B
+MV-ELI-BAX-011-04,Wind Beard Hook,Thornbrunt,F5,Monarch,B
+MV-ELI-BAX-011-05,Oath Haft Turn,Adamantine Warhelve,F1,Monarch,B
+MV-ELI-BAX-011-06,Bearing Poll Rap,Harnessing Rive,F1,Monarch,B
+MV-ELI-BAX-011-07,Oath Line Pierce,Corroding Battercut,F1,Monarch,B
+MV-ELI-BAX-011-08,Oath Surge Cut,Warcleave Slipstream,F3,Monarch,B
+MV-ELI-BAX-011-09,Bearing Oath Great Cleave,Ferocious Haftcap Havoc,F6b,Demigod,B
+MV-ELI-BAX-012-01,Open Stance,Aegis Battleheel,F2,Void God,B
+MV-ELI-BAX-012-02,Plain Hew,Devastating Banded,F1,Void God,B
+MV-ELI-BAX-012-03,Unwalled Axe Step,Gust Warbeard,F2,Void God,B
+MV-ELI-BAX-012-04,Open Hook Pull,Ponderous Warpoll,F2,Void God,B
+MV-ELI-BAX-012-05,Wind Cover Parry,Equipoise Bitedge,F2,Void God,B
+MV-ELI-BAX-012-06,Edge Bearing Pair,Bruntruin,F4,Void God,B
+MV-ELI-BAX-012-07,Wind Weight Gather,Intent Wideeye,F2,Void God,B
+MV-ELI-BAX-012-08,Open Ground Rap,Battledurance,F4,Void God,B
+MV-ELI-BAX-012-09,Horizon Pierce,Battleheel Ruin,F3,Void God,B
+MV-ELI-BAX-012-10,Gale Surge Step,Granite Warbit,F2,Void God,B
+MV-ELI-BAX-012-11,Wind Reflect Ward,Glamour Wideeye,F2,Void God,B
+MV-ELI-BAX-012-12,Unwalled Wide Axe Cleave,Bitedge Scourge,F3,Void God,B
+MV-ELI-BAX-013-01,Windward Haft Guard,Aegiswarbit,F5,Demigod,B
+MV-ELI-BAX-013-02,Headwind Cut,Ironbattle,F5,Demigod,B
+MV-ELI-BAX-013-03,Windward Line Step,Silt Hewdown,F2,Demigod,B
+MV-ELI-BAX-013-04,Gale Pull Hook,Ponderous Brunt,F2,Demigod,B
+MV-ELI-BAX-013-05,Windward Pair Cut,Blaze Hewdown,F2,Demigod,B
+MV-ELI-BAX-013-06,Shaft Gust Brush-Off,Torrent Crescentbit,F2,Demigod,B
+MV-ELI-BAX-013-07,Gust Rap Disrupt,Rumble Banded,F2,Demigod,B
+MV-ELI-BAX-013-08,Windward Pierce,Bruntscourge,F4,Demigod,B
+MV-ELI-BAX-013-09,Wind Gather Surge,Mightsmite,F5,Demigod,B
+MV-ELI-BAX-013-10,Windward Great Cleave,Smite Devastation,F3,Demigod,B
+MV-ELI-BAX-014-01,Oath Wind Guard,Thorn Haftcap,F2,Void God,B
+MV-ELI-BAX-014-02,Wind Back Chop,Iron Brunt,F2,Void God,B
+MV-ELI-BAX-014-03,Oath Step,Battleglare,F4,Void God,B
+MV-ELI-BAX-014-04,Wind Hook Catch,Overbearing Battercut,F1,Void God,B
+MV-ELI-BAX-014-05,Sworn Parry,Unbudging Battleheel,F1,Void God,B
+MV-ELI-BAX-014-06,Hewing Rap,Maiming Warpoll,F1,Void God,B
+MV-ELI-BAX-014-07,Oath Wind Pierce Cut,Decimating Warcleave,F1,Void God,B
+MV-ELI-BAX-014-08,Sworn Surge Cut,Silt Warhelve,F2,Void God,B
+MV-ELI-BAX-014-09,Oath of Hewing Cleave,Warbit Ruin,F3,Void God,B
+MV-ELI-BAX-015-01,Keeper Stance,Impenetrable Warbeard,F1,Void God,B
+MV-ELI-BAX-015-02,Bearing Chop Line,Warbeard Reckoning,F3,Void God,B
+MV-ELI-BAX-015-03,Keeper Step,Mightbrunt,F5,Void God,B
+MV-ELI-BAX-015-04,Held Hook Pull,Rivevalor,F4,Void God,B
+MV-ELI-BAX-015-05,Bearing Weight Gather,Intentbattle,F5,Void God,B
+MV-ELI-BAX-015-06,Steady Parry,Warbitmettle,F4,Void God,B
+MV-ELI-BAX-015-07,Kept Line Rap,Smite Hardihood,F3,Void God,B
+MV-ELI-BAX-015-08,Oath Held Pierce,Pitiless Warcleave,F1,Void God,B
+MV-ELI-BAX-015-09,Keeper's Wind Surge,Meteoric Bitedge,F1,Void God,B
+MV-ELI-BAX-015-10,Bearing Reflect Ward,Glamour Warpoll,F2,Void God,B
+MV-ELI-BAX-015-11,Keeper's Great Cleave,Glint Battleheel,F2,Void God,B
+MV-ELI-BAX-016-01,Plateau Guard,Charter Warbit,F2,Void God,B
+MV-ELI-BAX-016-02,Plateau Chop,Smitewrath,F4,Void God,B
+MV-ELI-BAX-016-03,Edge Run Step,Riveglare,F4,Void God,B
+MV-ELI-BAX-016-04,Gale Beard Hook,Warbitspine,F4,Void God,B
+MV-ELI-BAX-016-05,Plateau Pair Cut,Sanguine Warhelve,F2,Void God,B
+MV-ELI-BAX-016-06,Open Parry Turn,Gustwarbit,F5,Void God,B
+MV-ELI-BAX-016-07,Wide Rap Disrupt,Rive Obduracy,F3,Void God,B
+MV-ELI-BAX-016-08,Plateau Pierce,Glint Battercut,F2,Void God,B
+MV-ELI-BAX-016-09,Open Ground Surge,Unseen Hewdown,F1,Void God,B
+MV-ELI-BAX-016-10,Open-Plateau Great Cleave,Punishing Blaze Smite,F6a,Void God,B

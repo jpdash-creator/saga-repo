@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-SLG-001-01,Qi-Seated Bullet Roll,Cooling Fingerhitch,F1,Senior L4 Mid,A
+MV-INT-SLG-001-02,Bent-Elbow Whirl Drive,Lurching Slingstone,F1,Senior L4 Mid,A
+MV-INT-SLG-001-03,Hard-Flat Flick Release,Fierce Flingaway,F1,Senior L4 Mid,A
+MV-INT-SLG-001-04,Mark-Tracking Eye Lead,Soothing Wristhitch,F1,Senior L4 Mid,A
+MV-INT-SLG-001-05,Slip-Aside Counter Step,Springing Slung,F1,Senior L4 Mid,A
+MV-INT-SLG-001-06,Belly-Gathered Pulse Loose,Swift Cordleft,F1,Senior L4 Mid,A
+MV-INT-SLG-001-07,Spiral-Cord Boring Throw,Pouchthwack,F4,Senior L4 Mid,A
+MV-INT-SLG-002-01,Running-Start Whirl Entry,Doughty Singing,F1,Senior L8 Mid,A
+MV-INT-SLG-002-02,Stride-Count Reload Beat,Patient Cradle,F1,Senior L8 Mid,A
+MV-INT-SLG-002-03,Pace-Matching Lead Shot,Rough Slingtether,F1,Senior L8 Mid,A
+MV-INT-SLG-002-04,Gravel-Pocket Scatter Cast,Peltscorer,F4,Senior L8 Mid,A
+MV-INT-SLG-002-05,Trailing-Cord Brush Aside,Sturdy Cordright,F1,Senior L8 Mid,A
+MV-INT-SLG-002-06,Shallow-Step Retreat Fire,Fleet Pouch,F1,Senior L8 Mid,A
+MV-INT-SLG-002-07,Planted-Foot Pulse Hurl,Slingswat,F4,Senior L8 Mid,A
+MV-INT-SLG-002-08,Runner's Shin Skip,Slingbarrier,F4,Senior L8 Mid,A
+MV-INT-SLG-003-01,Taut-Cord Crack Feint,Leadshot Buckle,F3,Warrior L1 Low,B
+MV-INT-SLG-003-02,Loop-Drop Wrist Flick,Crimson Flingaway,F2,Warrior L1 Low,B
+MV-INT-SLG-003-03,Cord-Crossed Blade Catch,Poise Cradle,F2,Warrior L1 Low,B
+MV-INT-SLG-003-04,Pouch-Weight Counter Swing,Crimson Leadshot,F2,Warrior L1 Low,B
+MV-INT-SLG-003-05,Qi-Whiplash Face Lash,Static Stonepelt,F2,Warrior L1 Low,B
+MV-INT-SLG-003-06,Hilt-Looping Cord Haul,Sleet Releasecord,F2,Warrior L1 Low,B
+MV-INT-SLG-004-01,High-Whirl Loft Set,Humcradle,F5,Warrior L2 Mid,B
+MV-INT-SLG-004-02,Wall-Top Clearing Judge,Gapsling,F5,Warrior L2 Mid,B
+MV-INT-SLG-004-03,Dropping-Stone Plunge Throw,Embersling,F5,Warrior L2 Mid,B
+MV-INT-SLG-004-04,Reverse-Slope Hidden Cast,Orbitflog,F4,Warrior L2 Mid,B
+MV-INT-SLG-004-05,Crouch-Safe Reload Fold,Shard Slingstone,F2,Warrior L2 Mid,B
+MV-INT-SLG-004-06,Cover-to-Cover Dash Step,Grit Singing,F2,Warrior L2 Mid,B
+MV-INT-SLG-004-07,Qi-Lofted Apex Drop,Humpouch,F5,Warrior L2 Mid,B
+MV-INT-SLG-004-08,Canopy-Threading Lob,Gleamslung,F5,Warrior L2 Mid,B
+MV-INT-SLG-004-09,Near-Vertical Crown Strike,Clay Pelt,F2,Warrior L2 Mid,B
+MV-INT-SLG-005-01,Crossing-Mark Lead Count,Sure Cordright,F1,Warrior L3 High,B
+MV-INT-SLG-005-02,Galloping-Hoofbeat Timing,Lunar Slingtether,F2,Warrior L3 High,B
+MV-INT-SLG-005-03,Oncoming-Rush Front Throw,Peltthwack,F4,Warrior L3 High,B
+MV-INT-SLG-005-04,Receding-Back Chase Shot,Comet Orbit,F2,Warrior L3 High,B
+MV-INT-SLG-005-05,Weaving-Foe Spread Pair,Hum Slung,F2,Warrior L3 High,B
+MV-INT-SLG-005-06,Fore-Leg Tripping Throw,Claysling,F5,Warrior L3 High,B
+MV-INT-SLG-005-07,Shield-Arm Cord Guard,Cradleprop,F4,Warrior L3 High,B
+MV-INT-SLG-005-08,Qi-Tracked Lead Pulse,Hum Releasecord,F2,Warrior L3 High,B
+MV-INT-SLG-005-09,Mount-Stopping Chest Hit,Brawnsling,F5,Warrior L3 High,B
+MV-INT-SLG-005-10,Beside-the-Line Point Loose,Hum Cordleft,F2,Warrior L3 High,B
+MV-INT-SLG-006-01,Lead-Slug Weight Choosing,Lunar Fingerhitch,F2,Warrior L5 Low,B
+MV-INT-SLG-006-02,Wide-Arc Heavy Whirl,Sleet Pelt,F2,Warrior L5 Low,B
+MV-INT-SLG-006-03,Planted-Foot Heavy Release,Shard Releasecord,F2,Warrior L5 Low,B
+MV-INT-SLG-006-04,Shield-Rim Rattle Strike,Clay Stonepelt,F2,Warrior L5 Low,B
+MV-INT-SLG-006-05,Heavy-Pouch Wrist Brace,Sprout Slingtether,F2,Warrior L5 Low,B
+MV-INT-SLG-006-06,Stagger-Step Recovery,Grit Pouch,F2,Warrior L5 Low,B
+MV-INT-SLG-006-07,Qi-Weighted Slug Hurl,Pouchscorer,F4,Warrior L5 Low,B
+MV-INT-SLG-006-08,Plate-Denting Hammer Shot,Shard Wristhitch,F2,Warrior L5 Low,B
+MV-INT-SLG-007-01,Side-Lane Creep Step,Clay Slung,F2,Warrior L6 Mid,B
+MV-INT-SLG-007-02,Edge-of-Line Harry Throw,Gleampelt,F5,Warrior L6 Mid,B
+MV-INT-SLG-007-03,Rear-Rank Surprise Cast,Vicious Wristhitch,F1,Warrior L6 Mid,B
+MV-INT-SLG-007-04,Peripheral Flank Watch,Candor Leadshot,F2,Warrior L6 Mid,B
+MV-INT-SLG-007-05,Shield-Line Gap Throw,Cometcradle,F5,Warrior L6 Mid,B
+MV-INT-SLG-007-06,Flank-Turning Pulse Volley,Clay Orbit,F2,Warrior L6 Mid,B
+MV-INT-SLG-007-07,Passing-Ankle Lash Bind,Stalling Singing,F1,Warrior L6 Mid,B
+MV-INT-SLG-008-01,Game-Track Quiet Walk,Grit Cradle,F2,Warrior L8 Low,B
+MV-INT-SLG-008-02,Hare-Distance Stalking Count,Recall Fingerhitch,F2,Warrior L8 Low,B
+MV-INT-SLG-008-03,Crouch-Rise Snap Throw,Rough Flingaway,F1,Warrior L8 Low,B
+MV-INT-SLG-008-04,Brace-Branch Steady Shot,Slingthwack,F4,Warrior L8 Low,B
+MV-INT-SLG-008-05,Fowl-Flushing Grass Sweep,Gagging Orbit,F1,Warrior L8 Low,B
+MV-INT-SLG-008-06,Quarry-Mark Memory Fix,Lunarcradle,F5,Warrior L8 Low,B
+MV-INT-SLG-008-07,Qi-Hushed Release,Swift Pouch,F1,Warrior L8 Low,B
+MV-INT-SLG-008-08,Skull-Base Stun Throw,Honed Pelt,F2,Warrior L8 Low,B
+MV-INT-SLG-008-09,Charging-Boar Brow Hit,Honed Cordright,F2,Warrior L8 Low,B

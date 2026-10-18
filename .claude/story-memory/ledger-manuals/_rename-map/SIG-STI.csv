@@ -1,0 +1,142 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-STI-001-01,Azure Court Opening Salute,Consecrated Triprism,F1,Warrior,B
+MV-SIG-STI-001-02,Court Pair Prick,Majestic Rodtip,F1,Warrior,B
+MV-SIG-STI-001-03,Court Step Withdraw,Vigor Needlerod,F2,Warrior,B
+MV-SIG-STI-001-04,Court Cross Beat,Reedseal,F4,Warrior,B
+MV-SIG-STI-001-05,Azure Pinning Needle,Ruling Spikeguard,F1,Warrior,B
+MV-SIG-STI-001-06,Court Cut-In Thrust,Pulsardarn,F5,Warrior,B
+MV-SIG-STI-001-07,Court Twin Needle Entry,Slimshaft Edict,F3,Champion,B
+MV-SIG-STI-001-08,Azure Court Gap Seal,Subjugating Hairpoint,F1,Champion,B
+MV-SIG-STI-001-09,Court Sky Needle Dive,Thunderclap Tinyquill,F2,Demigod,B
+MV-SIG-STI-001-10,Azure Court Finishing Needle,Pulsarpin,F5,Warrior,B
+MV-SIG-STI-002-01,River Bank Needle Stance,Steelreed,F5,Warrior,B
+MV-SIG-STI-002-02,Paired River Prick,Fearless Boltpoint,F1,Warrior,B
+MV-SIG-STI-002-03,Ripple Step Aside,Vigor Darn,F2,Warrior,B
+MV-SIG-STI-002-04,Pebble Tap Jab,Venom Pin,F2,Warrior,B
+MV-SIG-STI-002-05,River Bend Needle Parry,Squallrodtip,F5,Warrior,B
+MV-SIG-STI-002-06,Twin Current Thrust,Darntriumph,F4,Warrior,B
+MV-SIG-STI-002-07,Silt Cloud Pin Feint,Seam Pledge,F3,Warrior,B
+MV-SIG-STI-002-08,Stream Pin Draw,Commanding Waxgrip,F1,Warrior,B
+MV-SIG-STI-002-09,Confluence Wrist Pierce,Vacuumpin,F5,Champion,B
+MV-SIG-STI-002-10,Rapids Prick Run,Reedverdict,F4,Champion,B
+MV-SIG-STI-002-11,River Mouth Needle Surge,Thread Heraldry,F3,Demigod,B
+MV-SIG-STI-002-12,Paired River Closing Stroke,Prism Darn,F2,Warrior,B
+MV-SIG-STI-003-01,Twin Basin Low Guard,Prismrodtip,F5,Champion,B
+MV-SIG-STI-003-02,Basin Rim Prick,Prism Stitch,F2,Champion,B
+MV-SIG-STI-003-03,Basin Needle Slide Step,Pin Boon,F3,Champion,B
+MV-SIG-STI-003-04,Basin Filling Thrust,Vaunted Needlerod,F1,Champion,B
+MV-SIG-STI-003-05,Spill Over Parry,Parityawl,F5,Champion,B
+MV-SIG-STI-003-06,Twin Basin Wrist Press,Hornbeam Rodbase,F2,Champion,B
+MV-SIG-STI-003-07,Basin Mirror Feint,Ruling Boltpoint,F1,Champion,B
+MV-SIG-STI-003-08,Basin Pair Piercing,Prism Thread,F2,Champion,B
+MV-SIG-STI-003-09,Brimming Pinprick Run,Gloomthread,F5,Champion,B
+MV-SIG-STI-003-10,Twin Basin Overflow Stab,Pulsar Tinyquill,F2,Demigod,B
+MV-SIG-STI-003-11,Basin Court Sealing Needle,Stitchtroth,F4,Champion,B
+MV-SIG-STI-004-01,Hawk Hollow Stance,Inviolate Spikeguard,F1,Ruler,B
+MV-SIG-STI-004-02,Beak Needle Point Jab,Imperial Waxgrip,F1,Ruler,B
+MV-SIG-STI-004-03,Hollow Sidestep,Deluge Probe,F2,Ruler,B
+MV-SIG-STI-004-04,Hawk Wing Turn Parry,Pall Rodtip,F2,Ruler,B
+MV-SIG-STI-004-05,Hollow Talon Pin,Hornbeam Slimshaft,F2,Ruler,B
+MV-SIG-STI-004-06,Hawk Glide Entry Thrust,Paramount Probe,F1,Ruler,B
+MV-SIG-STI-004-07,Hollow Dive Pierce,Pulsar Rodbase,F2,Ruler,B
+MV-SIG-STI-004-08,Hawk Cry Startle,Pealthread,F5,Ruler,B
+MV-SIG-STI-004-09,Hawk Hollow Flash Stoop,Silken Tinyquill,F1,Demigod,B
+MV-SIG-STI-004-10,Hawk and Hollow Needle Strike,Royal Stitch Banner,F6b,Ruler,B
+MV-SIG-STI-005-01,Azure Stoop Perch,Bedrock Slimshaft,F2,Demigod,B
+MV-SIG-STI-005-02,Sky Fix Gaze,Reminiscence Boltpoint,F2,Demigod,B
+MV-SIG-STI-005-03,Stoop Line Jab,Gallant Triprism,F1,Demigod,B
+MV-SIG-STI-005-04,Stoop Recovery Needle Step,Vigor Hairpoint,F2,Demigod,B
+MV-SIG-STI-005-05,Azure Wing Needle Parry,Deluge Rodtip,F2,Demigod,B
+MV-SIG-STI-005-06,Stoop Talon Bind,Unbending Darn,F1,Demigod,B
+MV-SIG-STI-005-07,Climb and Fall Thrust,Radiance Waxgrip,F2,Demigod,B
+MV-SIG-STI-005-08,Sky Cut Retreat,Dune Thread,F2,Demigod,B
+MV-SIG-STI-005-09,Azure Plunge Pierce,Radiance Stitch,F2,Demigod,B
+MV-SIG-STI-005-10,Stoop Feint Rebound,Unbending Spikeguard,F1,Demigod,B
+MV-SIG-STI-005-11,Azure Sky Stoop Flash,Thunderclap Probe,F2,Demigod,B
+MV-SIG-STI-005-12,Azure Stoop Stiletto Stroke,Unrivaled Triprism Crown,F6b,Demigod,B
+MV-SIG-STI-006-01,Dual Track Core Stance,Sanctum Hairpoint,F2,Core Formation,B
+MV-SIG-STI-006-02,Core Line Needle Jab,Darndecree,F4,Core Formation,B
+MV-SIG-STI-006-03,Core Pace Step,Twilit Pin,F1,Core Formation,B
+MV-SIG-STI-006-04,Track Core Switch,Solarawl,F5,Core Formation,B
+MV-SIG-STI-006-05,Core Echo Parry,Parity Rodbase,F2,Core Formation,B
+MV-SIG-STI-006-06,Dual Core Needle Pin,Thrallthread,F5,Core Formation,B
+MV-SIG-STI-006-07,Core Breath Hold,Lifegiving Tinyquill,F1,Core Formation,B
+MV-SIG-STI-006-08,Core Track Pierce,Prism Rodbase,F2,Core Formation,B
+MV-SIG-STI-006-09,Dual Track Pinprick Burst,Season Pin,F2,Core Formation,B
+MV-SIG-STI-006-10,Twin Core Piercing Flash,Seasonprobe,F5,Core Formation,B
+MV-SIG-STI-006-11,Dual Track Core Needle Stroke,Sovereign Prism Triprism,F6a,Core Formation,B
+MV-SIG-STI-007-01,Plateau Oath Needle Stance,Devout Needlerod,F1,Warrior,B
+MV-SIG-STI-007-02,Oath Line Prick,Pulsar Boltpoint,F2,Warrior,B
+MV-SIG-STI-007-03,Windward Withdraw,Squall Seam,F2,Warrior,B
+MV-SIG-STI-007-04,Oath Gust Parry,Parity Needlerod,F2,Warrior,B
+MV-SIG-STI-007-05,Bearing Pin Draw,Thrallseam,F5,Warrior,B
+MV-SIG-STI-007-06,Plateau Run Thrust,Vaunted Thread,F1,Warrior,B
+MV-SIG-STI-007-07,Gale Feint Pair,Pallthread,F5,Warrior,B
+MV-SIG-STI-007-08,Oath Bearing Pierce,Waxgrip Crown,F3,Champion,B
+MV-SIG-STI-007-09,Plateau Crosswind Rush,Stitch Odyssey,F3,Champion,B
+MV-SIG-STI-007-10,Plateau Oath Flash Thrust,Season Seam,F2,Demigod,B
+MV-SIG-STI-007-11,Plateau Oath Closing Needle,Awlcrown,F4,Warrior,B
+MV-SIG-STI-008-01,Bearing Gust Stance,Hairpoint Seal,F3,Warrior,B
+MV-SIG-STI-008-02,Gust Prick,Splendid Spikeguard,F1,Warrior,B
+MV-SIG-STI-008-03,Bearing Side Slide,Vigorreed,F5,Warrior,B
+MV-SIG-STI-008-04,Gust Breaking Parry,Devout Waxgrip,F1,Warrior,B
+MV-SIG-STI-008-05,Bearing Hold Pin,Millstone Rodtip,F2,Warrior,B
+MV-SIG-STI-008-06,Gust Rise Thrust,Paramount Seam,F1,Warrior,B
+MV-SIG-STI-008-07,Bearing Gust Pierce,Radiance Pin,F2,Champion,B
+MV-SIG-STI-008-08,Gust Cover Retreat,Dunepin,F5,Champion,B
+MV-SIG-STI-008-09,Gust Bearing Flash,Radiance Rodtip,F2,Demigod,B
+MV-SIG-STI-008-10,Bearing and Gust Closing Stroke,Majestic Steel Thread,F6a,Warrior,B
+MV-SIG-STI-009-01,Open Pinpoint Stance,Steel Hairpoint,F2,Champion,B
+MV-SIG-STI-009-02,Speck Aim Gaze,Benevolent Slimshaft,F1,Champion,B
+MV-SIG-STI-009-03,Pinpoint Jab,Pulsar Seam,F2,Champion,B
+MV-SIG-STI-009-04,Open Heel Step,Vigor Stitch,F2,Champion,B
+MV-SIG-STI-009-05,Pinpoint Wind Parry,Venerable Slimshaft,F1,Champion,B
+MV-SIG-STI-009-06,Speck Pin Hold,Glacier Probe,F2,Champion,B
+MV-SIG-STI-009-07,Plateau Run Pinprick,Quenched Tinyquill,F2,Champion,B
+MV-SIG-STI-009-08,Gust Slip Retreat,Delugereed,F5,Champion,B
+MV-SIG-STI-009-09,Pinpoint Gale Pierce,Vacuumstitch,F5,Champion,B
+MV-SIG-STI-009-10,Open Ground Prick Storm,Statute Boltpoint,F2,Champion,B
+MV-SIG-STI-009-11,Open Plateau Pinpoint Flash,Pulsarprobe,F5,Demigod,B
+MV-SIG-STI-009-12,Wide Plateau Pinpoint Closing,Majestic Radiance Triprism,F6a,Champion,B
+MV-SIG-STI-010-01,Narrow Gale Stance,Hornbeam Spikeguard,F2,Ruler,B
+MV-SIG-STI-010-02,Oath Narrow Jab,Majestic Rodbase,F1,Ruler,B
+MV-SIG-STI-010-03,Gale Edge Step,Darnsolace,F4,Ruler,B
+MV-SIG-STI-010-04,Narrow Gale Parry,Reedpledge,F4,Ruler,B
+MV-SIG-STI-010-05,Oath Pin Anchor,Sigil Rodbase,F2,Ruler,B
+MV-SIG-STI-010-06,Gale Narrow Thrust,Steel Probe,F2,Ruler,B
+MV-SIG-STI-010-07,Narrow Bearing Feint,Commanding Needlerod,F1,Ruler,B
+MV-SIG-STI-010-08,Narrow Gale Pierce,Seam Edict,F3,Ruler,B
+MV-SIG-STI-010-09,Oath Gale Pricks,Volition Triprism,F2,Ruler,B
+MV-SIG-STI-010-10,Narrow Gale Oath Flash,Skyborne Pin,F1,Demigod,B
+MV-SIG-STI-010-11,Narrow Gale Oath Stroke,Vacuumrodtip,F5,Ruler,B
+MV-SIG-STI-011-01,High Wind Stance,Sanctum Rodtip,F2,Demigod,B
+MV-SIG-STI-011-02,Above Plateau Gaze,Pealawl,F5,Demigod,B
+MV-SIG-STI-011-03,High Wind Jab,Dauntless Probe,F1,Demigod,B
+MV-SIG-STI-011-04,Sky Draft Parry,Pealrodtip,F5,Demigod,B
+MV-SIG-STI-011-05,High Bearing Pin,Thrall Tinyquill,F2,Demigod,B
+MV-SIG-STI-011-06,Wind Fall Thrust,Sovereign Stitch,F1,Demigod,B
+MV-SIG-STI-011-07,High Wind Pierce,Darn Verdict,F3,Demigod,B
+MV-SIG-STI-011-08,Draft Climb Rebound,Deluge Slimshaft,F2,Demigod,B
+MV-SIG-STI-011-09,High Wind Flash Fall,Seasonrodtip,F5,Demigod,B
+MV-SIG-STI-011-10,High Plateau Wind Needle Stroke,Probebanner,F4,Demigod,B
+MV-SIG-STI-012-01,Boundless Core Stance,Hornbeam Hairpoint,F2,Core Formation,B
+MV-SIG-STI-012-02,Core Gale Gaze,Spikeguard Gift,F3,Core Formation,B
+MV-SIG-STI-012-03,Core Wind Jab,Stitchdecree,F4,Core Formation,B
+MV-SIG-STI-012-04,Boundless Step,Squall Thread,F2,Core Formation,B
+MV-SIG-STI-012-05,Core Gale Parry,Pall Waxgrip,F2,Core Formation,B
+MV-SIG-STI-012-06,Core Oath Pin,Glacier Darn,F2,Core Formation,B
+MV-SIG-STI-012-07,Gale Core Thrust,Thunderclap Darn,F2,Core Formation,B
+MV-SIG-STI-012-08,Boundless Bearing Slide,Bedrock Spikeguard,F2,Core Formation,B
+MV-SIG-STI-012-09,Core Gale Needle Pierce,Pulsar Needlerod,F2,Core Formation,B
+MV-SIG-STI-012-10,Boundless Prick Storm,Millstone Darn,F2,Core Formation,B
+MV-SIG-STI-012-11,Core Gale Flash Thrust,Ethereal Boltpoint,F1,Core Formation,B
+MV-SIG-STI-012-12,Boundless Gale Core Stroke,Noble Vacuum Needlerod,F6a,Core Formation,B
+MV-SIG-STI-003-06,Hornbeam Rodbase,Rending Rodbase,F2,Champion,B
+MV-SIG-STI-004-05,Hornbeam Slimshaft,Searing Slimshaft,F2,Ruler,B
+MV-SIG-STI-005-08,Dune Thread,Furious Thread,F2,Demigod,B
+MV-SIG-STI-006-01,Sanctum Hairpoint,Sundering Hairpoint,F2,Core Formation,B
+MV-SIG-STI-009-06,Glacier Probe,Crushing Probe,F2,Champion,B
+MV-SIG-STI-010-01,Hornbeam Spikeguard,Savage Spikeguard,F2,Ruler,B
+MV-SIG-STI-011-01,Sanctum Rodtip,Mighty Rodtip,F2,Demigod,B
+MV-SIG-STI-012-01,Hornbeam Hairpoint,Titan Hairpoint,F2,Core Formation,B
+MV-SIG-STI-012-06,Glacier Darn,Ruinous Darn,F2,Core Formation,B

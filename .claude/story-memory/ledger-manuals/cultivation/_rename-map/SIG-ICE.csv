@@ -1,0 +1,8 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-ICE-001-03,Court Breath,Reserve Breath,CHANNELED,Warrior L1 Low,Basic
+CMV-SIG-ICE-003-01,Court Chill,Pair Chill,CHANNELED,Warrior L1 Low,Basic
+CMV-SIG-ICE-003-05,Court Bind,Linked Bind,CHANNELED,Warrior L1 Low,Intermediate
+CMV-SIG-ICE-003-11,Court Zero,Twin Zero,CHANNELED,Demigod L1 Low,Elite
+CMV-SIG-ICE-004-09,Zero Field,Zero Reign,CHANNELED,Demigod L1 Low,Elite
+CMV-SIG-ICE-007-04,Far Sense,Far Chill,CHANNELED,Warrior L1 Low,Basic
+CMV-SIG-ICE-006-08,Bound Ground,Bound Frost,CHANNELED,,Advanced

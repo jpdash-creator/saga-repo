@@ -1,0 +1,74 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-GRN-001-01,Palm Cradle Hold,Leverblow,F4,T1 Unawakened,A
+MV-BAS-GRN-001-02,Slow-Match Touch,Kaboombump,F4,T1 Unawakened,A
+MV-BAS-GRN-001-03,Straight Arm Lob,Sudden Pinring,F1,T1 Unawakened,A
+MV-BAS-GRN-001-04,Kneel Behind the Throw,Raised Casing,F1,T1 Unawakened,A
+MV-BAS-GRN-001-05,Burst Warning Shout,Steady Powderchamber,F1,T1 Unawakened,A
+MV-BAS-GRN-001-06,Silent Shell Wait,Planted Fragment,F1,T1 Unawakened,A
+MV-BAS-GRN-002-01,Pouch Flap Reach,Backward Shockwave,F1,T1 Skin,A
+MV-BAS-GRN-002-02,Match Tip Blow,Sizzleblow,F4,T1 Skin,A
+MV-BAS-GRN-002-03,Fuse Length Pinch,Even Fuse,F1,T1 Skin,A
+MV-BAS-GRN-002-04,Hip-First Release,Spoonstrike,F4,T1 Skin,A
+MV-BAS-GRN-002-05,Backpace Reload,Quiet Cap,F1,T1 Skin,A
+MV-BAS-GRN-002-06,Spark Flinch Turn,Settled Lever,F1,T1 Skin,A
+MV-BAS-GRN-002-07,Walk the Grey Smoke,Swaying Spoon,F1,T1 Skin,A
+MV-BAS-GRN-003-01,Underhand Ground Roll,Level Shrapnel,F1,T1 Muscle,A
+MV-BAS-GRN-003-02,Planted Arc Pitch,Forward Concussion,F1,T1 Muscle,A
+MV-BAS-GRN-003-03,Lead Knee Lock,Settled Fragment,F1,T1 Muscle,A
+MV-BAS-GRN-003-04,Ditch Lip Fold,Cappause,F4,T1 Muscle,A
+MV-BAS-GRN-003-05,Flat Voice Fuse Tally,Steady Fuse,F1,T1 Muscle,A
+MV-BAS-GRN-004-01,Lead Shoulder Sighting,Sizzlestrike,F4,T1 Tendon,A
+MV-BAS-GRN-004-02,Elbow Raise and Wrist Cock,Square Detonate,F1,T1 Tendon,A
+MV-BAS-GRN-004-03,Overarm Snap Release,Spoonhit,F4,T1 Tendon,A
+MV-BAS-GRN-004-04,Wrist Flick Loft,Sharp Detonate,F1,T1 Tendon,A
+MV-BAS-GRN-004-05,Long Pitch Stride,Sideways Fragmentation,F1,T1 Tendon,A
+MV-BAS-GRN-004-06,Blast Reach Judging,Even Firecap,F1,T1 Tendon,A
+MV-BAS-GRN-004-07,Prone Slide for Cover,Casingcowl,F4,T1 Tendon,A
+MV-BAS-GRN-004-08,Fallen Shell Throwback,Holding Firecap,F1,T1 Tendon,A
+MV-BAS-GRN-005-01,Dawn Pitch Repetition,Low Lever,F1,T1 Bone,A
+MV-BAS-GRN-005-02,Bone-Set Hard Lob,Descending Sizzle,F1,T1 Bone,A
+MV-BAS-GRN-005-03,Throw and Drop Pair,Holding Shrapnel,F1,T1 Bone,A
+MV-BAS-GRN-005-04,Corner Round Toss,Single Shockwave,F1,T1 Bone,A
+MV-BAS-GRN-005-05,Ear-Cover Brace,Fusewedge,F4,T1 Bone,A
+MV-BAS-GRN-005-06,Pouch Count Check,Levercount,F4,T1 Bone,A
+MV-BAS-GRN-006-01,Breath on the Fuse,Mild Spoon,F1,Senior L1 Low,A
+MV-BAS-GRN-006-02,Half-Burned Release,Fusedash,F4,Senior L1 Low,A
+MV-BAS-GRN-006-03,Cut Fuse Caution,Even Cap,F1,Senior L1 Low,A
+MV-BAS-GRN-006-04,Qi-Warmed Palm Hold,Pinring Blow,F3,Senior L1 Low,A
+MV-BAS-GRN-006-05,Last Count Pivot,Swaying Concussion,F1,Senior L1 Low,A
+MV-BAS-GRN-006-06,Blast Echo Distance Hearing,Measured Casing,F1,Senior L1 Low,A
+MV-BAS-GRN-006-07,Dud Hold Position,Powderchamber Pause,F3,Senior L1 Low,A
+MV-BAS-GRN-007-01,Even Bowl Along Ground,Upward Kaboom,F1,Senior L2 Low,A
+MV-BAS-GRN-007-02,Rut and Rock Reading,Watching Lever,F1,Senior L2 Low,A
+MV-BAS-GRN-007-03,Low Crouch Slide Bowl,Open Fragmentation,F1,Senior L2 Low,A
+MV-BAS-GRN-007-04,Even Exhale Throw,Straight Cap,F1,Senior L2 Low,A
+MV-BAS-GRN-007-05,Heels-Away Backstep,Spoonhop,F4,Senior L2 Low,A
+MV-BAS-GRN-008-01,Pillar Lean Throw,Sizzlebump,F4,Senior L3 Mid,A
+MV-BAS-GRN-008-02,Crate Top Rest,Tight Fragment,F1,Senior L3 Mid,A
+MV-BAS-GRN-008-03,Pair Throw and Reload,Leverhit,F4,Senior L3 Mid,A
+MV-BAS-GRN-008-04,Doorway Shell Skip,Downward Spoon,F1,Senior L3 Mid,A
+MV-BAS-GRN-008-05,Gloved Fuse Pinch Out,Hitching Sizzle,F1,Senior L3 Mid,A
+MV-BAS-GRN-008-06,Covering Partner Call,Watching Fuse,F1,Senior L3 Mid,A
+MV-BAS-GRN-008-07,Smoke Shield Sidestep,Shifting Pinring,F1,Senior L3 Mid,A
+MV-BAS-GRN-008-08,Stack Corner Crouch,Casingstay,F4,Senior L3 Mid,A
+MV-BAS-GRN-009-01,Bandolier Cross Strap,Soft Firecap,F1,Senior L4 Low,A
+MV-BAS-GRN-009-02,Cross-Draw Pull,Stepping Kaboom,F1,Senior L4 Low,A
+MV-BAS-GRN-009-03,Running Carry Hold,Stepping Detonate,F1,Senior L4 Low,A
+MV-BAS-GRN-009-04,Strap Release Dump,Settled Casing,F1,Senior L4 Low,A
+MV-BAS-GRN-009-05,Soft Landing Dive,Leverwedge,F4,Senior L4 Low,A
+MV-BAS-GRN-009-06,Pouch Order Counting,Shrapnel Count,F3,Senior L4 Low,A
+MV-BAS-GRN-010-01,Trace Qi Along Forearm,Plain Shockwave,F1,Senior L5 Mid,A
+MV-BAS-GRN-010-02,Reach Stretch Pitch,Level Powderchamber,F1,Senior L5 Mid,A
+MV-BAS-GRN-010-03,Tall Wall Arc,Upward Sizzle,F1,Senior L5 Mid,A
+MV-BAS-GRN-010-04,Skip Off the Slope,Casingblow,F4,Senior L5 Mid,A
+MV-BAS-GRN-010-05,Throwing Footwork Square,Leveramble,F4,Senior L5 Mid,A
+MV-BAS-GRN-010-06,Landing Spot Reading,Steady Shrapnel,F1,Senior L5 Mid,A
+MV-BAS-GRN-010-07,Recoil Roll Out,Hooding Fuse,F1,Senior L5 Mid,A
+MV-BAS-GRN-011-01,Even Qi Wrist Hold,Flat Kaboom,F1,Senior L7 Low,A
+MV-BAS-GRN-011-02,Calm Count Release,Plain Cap,F1,Senior L7 Low,A
+MV-BAS-GRN-011-03,Throw Through the Smoke,Leverstrike,F4,Senior L7 Low,A
+MV-BAS-GRN-011-04,Quiet Breath Shelter,Casinghusk,F4,Senior L7 Low,A
+MV-BAS-GRN-011-05,Two-Pace Sidestep Pitch,Light Casing,F1,Senior L7 Low,A
+MV-BAS-GRN-011-06,Dud Recovery Approach,Capwedge,F4,Senior L7 Low,A
+MV-BAS-GRN-010-01,Plain Shockwave,Hard Shockwave,F1,Senior L5 Mid,A
+MV-BAS-GRN-011-02,Plain Cap,Stout Cap,F1,Senior L7 Low,A

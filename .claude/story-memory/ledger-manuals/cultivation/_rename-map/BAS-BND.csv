@@ -1,0 +1,4 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-BAS-BND-001-02,Plain Loop,Snug Loop,INSTANT,,Basic
+CMV-BAS-BND-005-03,Taut Line,Strained Cord,CHANNELED,,Basic
+CMV-BAS-BND-005-05,Giving Line,Lending Tether,CHANNELED,,Basic

@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-TOM-001-01,Haft-Qi Warm Grip,Edgecurve Buckle,F3,Senior L2 Low,A
+MV-INT-TOM-001-02,Qi-Borne Downstroke,Rushing Hurl,F1,Senior L2 Low,A
+MV-INT-TOM-001-03,Pulse-Set Six-Pace Throw,Lightbit Scorer,F3,Senior L2 Low,A
+MV-INT-TOM-001-04,Sway-Back Haft Turn,Layered Spikepoll,F1,Senior L2 Low,A
+MV-INT-TOM-001-05,Haft-Carried Distance Throw,Raw Birchhelve,F1,Senior L2 Low,A
+MV-INT-TOM-001-06,Mail-Rending Haft Pulse,Birchswat,F4,Senior L2 Low,A
+MV-INT-TOM-002-01,Two-Axe Belt Draw,Acrid Throwhelve,F1,Senior L6 Mid,A
+MV-INT-TOM-002-02,Crossed Haft Lock Guard,Dense Quickbit,F1,Senior L6 Mid,A
+MV-INT-TOM-002-03,Alternating Left-Right Chops,Brutal Balancepoint,F1,Senior L6 Mid,A
+MV-INT-TOM-002-04,Low-Carry Step Through,Pirouetting Pitch,F1,Senior L6 Mid,A
+MV-INT-TOM-002-05,Off-Hand Beard Hook,Cramping Lob,F1,Senior L6 Mid,A
+MV-INT-TOM-002-06,Parry-Brace Overhand Throw,Flingswat,F4,Senior L6 Mid,A
+MV-INT-TOM-002-07,Crossing-Line Double Throw,Stern Toss,F1,Senior L6 Mid,A
+MV-INT-TOM-002-08,Joined-Axe Shield Split,Tossthwack,F4,Senior L6 Mid,A
+MV-INT-TOM-003-01,Pace-Measured Throwing Stance,Genial Tomahead,F1,Senior L9 Low,A
+MV-INT-TOM-003-02,Two-Thirds Turn Throw,Chuckswat,F4,Senior L9 Low,A
+MV-INT-TOM-003-03,End-Gripped Reaching Cut,Brisk Thumbnotch,F1,Senior L9 Low,A
+MV-INT-TOM-003-04,Release-and-Move Step,Prowling Fling,F1,Senior L9 Low,A
+MV-INT-TOM-003-05,Flat-Skid Spear Turn,Flintprop,F4,Senior L9 Low,A
+MV-INT-TOM-003-06,Many-Turn Far Throw,Hurlslap,F4,Senior L9 Low,A
+MV-INT-TOM-003-07,Pinning Fan of Throws,Ruthless Tailknob,F1,Senior L9 Low,A
+MV-INT-TOM-004-01,Step-Turn-Release Count,Chuckscorer,F4,Warrior L2 Low,B
+MV-INT-TOM-004-02,Bit-Angle Glance Check,Candor Throwhelve,F2,Warrior L2 Low,B
+MV-INT-TOM-004-03,Cocked-Wrist Snap Chop,Keen Balancepoint,F1,Warrior L2 Low,B
+MV-INT-TOM-004-04,Low-Brace Retreat Guard,Headbuckle,F4,Warrior L2 Low,B
+MV-INT-TOM-004-05,Haft-End Uppercut,Draught Pitch,F2,Warrior L2 Low,B
+MV-INT-TOM-004-06,Release Follow-Up Step,Headstalk,F4,Warrior L2 Low,B
+MV-INT-TOM-004-07,High-Low Release Chain,Hurlthwack,F4,Warrior L2 Low,B
+MV-INT-TOM-004-08,Wedging Bit Counter,Rill Lightbit,F2,Warrior L2 Low,B
+MV-INT-TOM-004-09,Under-Swing Rising Cut,Draught Thumbnotch,F2,Warrior L2 Low,B
+MV-INT-TOM-005-01,Beard-Forward Ready Grip,Sprig Tailknob,F2,Warrior L4 Mid,B
+MV-INT-TOM-005-02,Wrist-Across Hook Pull,Discord Fling,F2,Warrior L4 Mid,B
+MV-INT-TOM-005-03,Shield Rim Drop Hook,Entangling Lob,F1,Warrior L4 Mid,B
+MV-INT-TOM-005-04,Collar-Hook Spin,Weighty Quickbit,F2,Warrior L4 Mid,B
+MV-INT-TOM-005-05,Heel Hook Trip,Static Tomahead,F2,Warrior L4 Mid,B
+MV-INT-TOM-005-06,Held-Limb Bit Chop,Static Toss,F2,Warrior L4 Mid,B
+MV-INT-TOM-005-07,Beard Catch Thrust Turn,Spikepoll Barrier,F3,Warrior L4 Mid,B
+MV-INT-TOM-005-08,Sword Guard Beard Roll,Sprig Hurl,F2,Warrior L4 Mid,B
+MV-INT-TOM-005-09,Cloak-Pinning Beard Throw,Edgecurve Flog,F3,Warrior L4 Mid,B
+MV-INT-TOM-005-10,Shield Overturn Lever,Humlob,F5,Warrior L4 Mid,B
+MV-INT-TOM-006-01,Single Wrist-Turn Draw Throw,Ember Birchhelve,F2,Warrior L6 Low,B
+MV-INT-TOM-006-02,Open-Palm Flat Parry,Poiseflint,F5,Warrior L6 Low,B
+MV-INT-TOM-006-03,Inside-Reach Collarbone Chop,Draught Chuck,F2,Warrior L6 Low,B
+MV-INT-TOM-006-04,Heel-Turn Lunge Slide,Clay Chuck,F2,Warrior L6 Low,B
+MV-INT-TOM-006-05,Wrist-Whipped Long Release,Tossscorer,F4,Warrior L6 Low,B
+MV-INT-TOM-006-06,Reversed-Wrist Return Flick,Mirage Thumbnotch,F2,Warrior L6 Low,B
+MV-INT-TOM-007-01,Edge-Tempering Breath,Flintcordial,F4,Warrior L7 High,B
+MV-INT-TOM-007-02,Board-Splitting Tempered Chop,Ember Quickbit,F2,Warrior L7 High,B
+MV-INT-TOM-007-03,Plate-Ringing Poll Strike,Static Lightbit,F2,Warrior L7 High,B
+MV-INT-TOM-007-04,Wedged Haft Hold,Sleet Tailknob,F2,Warrior L7 High,B
+MV-INT-TOM-007-05,Between-Throw Short Stride,Rillfling,F5,Warrior L7 High,B
+MV-INT-TOM-007-06,Coiled-Arm Flat Throw,Comet Balancepoint,F2,Warrior L7 High,B
+MV-INT-TOM-007-07,Mail-Piercing Tempered Throw,Savage Hurl,F1,Warrior L7 High,B
+MV-INT-TOM-007-08,Tempered Haft Counter-Snap,Poise Tomahead,F2,Warrior L7 High,B
+MV-INT-TOM-008-01,Advancing Haft-Across Walk,Sprig Birchhelve,F2,Warrior L9 Mid,B
+MV-INT-TOM-008-02,Third-Stride Running Chop,Clayfling,F5,Warrior L9 Mid,B
+MV-INT-TOM-008-03,Stride-Unbroken Hurl,Shard Throwhelve,F2,Warrior L9 Mid,B
+MV-INT-TOM-008-04,Pillar-Cut Corner Step,Rillbirch,F5,Warrior L9 Mid,B
+MV-INT-TOM-008-05,Passing Haft Parry,Balancepoint Screen,F3,Warrior L9 Mid,B
+MV-INT-TOM-008-06,Two-Stride Hunter's Throws,Sleetchuck,F5,Warrior L9 Mid,B
+MV-INT-TOM-008-07,Zigzag Archer-Breaking Charge,Grit Chuck,F2,Warrior L9 Mid,B

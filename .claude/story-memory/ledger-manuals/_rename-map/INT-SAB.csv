@@ -1,0 +1,69 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-SAB-001-01,Rising Slash To Guard,Swipeflog,F4,Senior L1 Low,A
+MV-INT-SAB-001-02,Spine Check Step Back,Basketbarrier,F4,Senior L1 Low,A
+MV-INT-SAB-001-03,Turning Belly Cut,Flourish Scorer,F3,Senior L1 Low,A
+MV-INT-SAB-001-04,Quick Point Return,Rugged Belly,F1,Senior L1 Low,A
+MV-INT-SAB-001-05,Edge Wake Slash,Dire Knucklebow,F1,Senior L1 Low,A
+MV-INT-SAB-001-06,Spine Wedge Parry,Rooted Backedge,F1,Senior L1 Low,A
+MV-INT-SAB-002-01,Cut And Pass Left,Brutal Pipeback,F1,Senior L4 Low,A
+MV-INT-SAB-002-02,Cut And Pass Right,Yelmanflog,F4,Senior L4 Low,A
+MV-INT-SAB-002-03,Shadow Step Lunge,Vicious Basket,F1,Senior L4 Low,A
+MV-INT-SAB-002-04,Low Cross Parry,Stalwart Spinecurve,F1,Senior L4 Low,A
+MV-INT-SAB-002-05,Hop Back Reset,Springing Gallop,F1,Senior L4 Low,A
+MV-INT-SAB-002-06,Cutting Pass Through,Rushing Yelman,F1,Senior L4 Low,A
+MV-INT-SAB-002-07,Shifting Angle Thrust,Hungry Slantcut,F1,Senior L4 Low,A
+MV-INT-SAB-003-01,Forte Catch Guard,Armored Swell,F1,Senior L7 Mid,A
+MV-INT-SAB-003-02,Quick Riposte Cut,Cruel Whirl,F1,Senior L7 Mid,A
+MV-INT-SAB-003-03,Inside Line Parry,Swellbarrier,F4,Senior L7 Mid,A
+MV-INT-SAB-003-04,Outside Line Parry,Falsedge Barrier,F3,Senior L7 Mid,A
+MV-INT-SAB-003-05,Parry Cut Together,Basketscreen,F4,Senior L7 Mid,A
+MV-INT-SAB-003-06,Edge Ring Counter,Yelmanscreen,F4,Senior L7 Mid,A
+MV-INT-SAB-004-01,Open Field Saber Slash,Brawn Swipe,F2,Warrior L1 Low,B
+MV-INT-SAB-004-02,Marching Guard Line,Brass Spinecurve,F2,Warrior L1 Low,B
+MV-INT-SAB-004-03,Ditch Hop Step,Fleet Flourish,F1,Warrior L1 Low,B
+MV-INT-SAB-004-04,Long Reach Point Stab,Knucklebow Swat,F3,Warrior L1 Low,B
+MV-INT-SAB-004-05,Crowded Ground Short Cut,Harsh Counterguard,F1,Warrior L1 Low,B
+MV-INT-SAB-004-06,Rough Ground Footing,Lunarbelly,F5,Warrior L1 Low,B
+MV-INT-SAB-004-07,Dragging Edge Rake,Crimson Skimmer,F2,Warrior L1 Low,B
+MV-INT-SAB-004-08,Line Break Rush,Emberswipe,F5,Warrior L1 Low,B
+MV-INT-SAB-005-01,Edge Turn Draw,Gallopflog,F4,Senior L3 Mid,A
+MV-INT-SAB-005-02,Turning Wrist Parry,Swellhasp,F4,Senior L3 Mid,A
+MV-INT-SAB-005-03,Flat To Edge Cut,Swellswat,F4,Senior L3 Mid,A
+MV-INT-SAB-005-04,Edge Roll Retreat,Fleet Slantcut,F1,Senior L3 Mid,A
+MV-INT-SAB-005-05,Turned Edge Snap,Stern Swipe,F1,Senior L3 Mid,A
+MV-INT-SAB-005-06,Rolling Edge Slip,Sturdy Pipeback,F1,Senior L3 Mid,A
+MV-INT-SAB-006-01,Eye Level Feint,Tethering Swell,F1,Senior L6 Low,A
+MV-INT-SAB-006-02,High Then Low Cut,Ruthless Skimmer,F1,Senior L6 Low,A
+MV-INT-SAB-006-03,Ready Point Flick,Vicious Belly,F1,Senior L6 Low,A
+MV-INT-SAB-006-04,Shoulder Drop Bait,Levering Backedge,F1,Senior L6 Low,A
+MV-INT-SAB-006-05,Fast Return Parry,Counterguard Hasp,F3,Senior L6 Low,A
+MV-INT-SAB-006-06,Double Cut Feint,Cramping Whirl,F1,Senior L6 Low,A
+MV-INT-SAB-006-07,Broken Rhythm Stab,Gallop Thwack,F3,Senior L6 Low,A
+MV-INT-SAB-007-01,Wheel Cut Overhead,Whirlflog,F4,Senior L9 Low,A
+MV-INT-SAB-007-02,Wheel Cut Low Side,Rushing Gallop,F1,Senior L9 Low,A
+MV-INT-SAB-007-03,Shoulder Roll Guard,Yelmanprop,F4,Senior L9 Low,A
+MV-INT-SAB-007-04,Turning Pace Step,Yelman Stalk,F3,Senior L9 Low,A
+MV-INT-SAB-007-05,Full Wheel Sweep,Swipe Swat,F3,Senior L9 Low,A
+MV-INT-SAB-007-06,Wheel Guard Spin,Bellybuckle,F4,Senior L9 Low,A
+MV-INT-SAB-008-01,Course Opening Cut,Clay Basket,F2,Warrior L3 Low,B
+MV-INT-SAB-008-02,Course Parry Slide,Counterguard Buckle,F3,Warrior L3 Low,B
+MV-INT-SAB-008-03,Straight Arm Thrust,Gallopslap,F4,Warrior L3 Low,B
+MV-INT-SAB-008-04,Forward Edge Rake,Bellyswat,F4,Warrior L3 Low,B
+MV-INT-SAB-008-05,Flowing Guard Change,Sturdy Yelman,F1,Warrior L3 Low,B
+MV-INT-SAB-008-06,Close Range Hilt Strike,Clay Falsedge,F2,Warrior L3 Low,B
+MV-INT-SAB-008-07,Rising Cut To Thrust,Skimmer Hammerfall,F3,Warrior L3 Low,B
+MV-INT-SAB-008-08,Three Line Guard Chain,Humswell,F5,Warrior L3 Low,B
+MV-INT-SAB-008-09,Closing Flourish Slash,Draught Pipeback,F2,Warrior L3 Low,B
+MV-INT-SAB-009-01,Elbow Tight Cut,Acrid Swell,F1,Senior L5 High,A
+MV-INT-SAB-009-02,Shoulder Check Guard,Stubborn Falsedge,F1,Senior L5 High,A
+MV-INT-SAB-009-03,Hilt Pommel Strike,Rude Spinecurve,F1,Senior L5 High,A
+MV-INT-SAB-009-04,Pocket Step In,Veering Belly,F1,Senior L5 High,A
+MV-INT-SAB-009-05,Cramped Hook Cut,Bellyflog,F4,Senior L5 High,A
+MV-INT-SAB-009-06,Corner Slip Parry,Backedge Prop,F3,Senior L5 High,A
+MV-INT-SAB-010-01,Patrol Walk Guard,Stalwart Knucklebow,F1,Senior L8 Peak,A
+MV-INT-SAB-010-02,Road Challenge Cut,Rough Whirl,F1,Senior L8 Peak,A
+MV-INT-SAB-010-03,Alley Turn Parry,Baskethasp,F4,Senior L8 Peak,A
+MV-INT-SAB-010-04,Quick Draw Slash,Swellflog,F4,Senior L8 Peak,A
+MV-INT-SAB-010-05,Chase Pace Step,Prowling Flourish,F1,Senior L8 Peak,A
+MV-INT-SAB-010-06,Patrol Pin Cut,Cruel Slantcut,F1,Senior L8 Peak,A
+MV-INT-SAB-010-07,Alert Step Slash,Swell Hurdle,F3,Senior L8 Peak,A

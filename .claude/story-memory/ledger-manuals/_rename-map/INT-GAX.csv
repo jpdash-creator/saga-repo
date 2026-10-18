@@ -1,0 +1,79 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-GAX-001-01,Pulled Back Cleave,Swift Hewfall,F1,Senior L1 Low,A
+MV-INT-GAX-001-02,Top Hand Drive,Brutal Haftrope,F1,Senior L1 Low,A
+MV-INT-GAX-001-03,Cleave Stop Brace,Stubborn Greatbit,F1,Senior L1 Low,A
+MV-INT-GAX-001-04,Cleaving Distance Reading,Timberlinen,F4,Senior L1 Low,A
+MV-INT-GAX-001-05,Grain Following Cleave,Grim Haftbell,F1,Senior L1 Low,A
+MV-INT-GAX-001-06,Double Cleave Rhythm,Wideswell Thwack,F3,Senior L1 Low,A
+MV-INT-GAX-002-01,Falling Weight Lean,Bold Poleshoe,F1,Senior L4 Mid,A
+MV-INT-GAX-002-02,Shoulder Drop Cut,Keen Splitmass,F1,Senior L4 Mid,A
+MV-INT-GAX-002-03,Carried Swing Follow,Swift Greatbeard,F1,Senior L4 Mid,A
+MV-INT-GAX-002-04,Momentum Gather Step,Springing Greatpoll,F1,Senior L4 Mid,A
+MV-INT-GAX-002-05,Weight Return Check,Timberprop,F4,Senior L4 Mid,A
+MV-INT-GAX-002-06,Swing Mass Feel,Attentive Doubleedge,F1,Senior L4 Mid,A
+MV-INT-GAX-002-07,Flywheel Cleave Chain,Dire Sunder,F1,Senior L4 Mid,A
+MV-INT-GAX-002-08,Momentum Turn Redirect,Timberbarrier,F4,Senior L4 Mid,A
+MV-INT-GAX-003-01,Full Turn Sweep,Fierce Overhew,F1,Senior L7 Low,A
+MV-INT-GAX-003-02,Reverse Turn Hew,Brutal Heavyeye,F1,Senior L7 Low,A
+MV-INT-GAX-003-03,Turning Guard Cover,Greatprop,F4,Senior L7 Low,A
+MV-INT-GAX-003-04,Spin Step Out,Greatswerve,F4,Senior L7 Low,A
+MV-INT-GAX-003-05,Turn Timing Reading,Attentive Poleshoe,F1,Senior L7 Low,A
+MV-INT-GAX-003-06,Whirling Great Bit Arc,Acrid Riven,F1,Senior L7 Low,A
+MV-INT-GAX-003-07,Turn and Hook Pull,Levering Greatbit,F1,Senior L7 Low,A
+MV-INT-GAX-004-01,Rim Chop Strike,Honed Haftbell,F2,Warrior L1 Low,B
+MV-INT-GAX-004-02,Board Seam Hew,Ember Longhelve,F2,Warrior L1 Low,B
+MV-INT-GAX-004-03,Boss Knock Aside,Gripping Longhelve,F1,Warrior L1 Low,B
+MV-INT-GAX-004-04,Shield Gap Step,Clay Riven,F2,Warrior L1 Low,B
+MV-INT-GAX-004-05,Overlap Guard,Greatpoll Prop,F3,Warrior L1 Low,B
+MV-INT-GAX-004-06,Shield Edge Reading,Recall Wideswell,F2,Warrior L1 Low,B
+MV-INT-GAX-004-07,Shield Splitting Overhead,Shard Rend,F2,Warrior L1 Low,B
+MV-INT-GAX-004-08,Rim Hook Drag,Gall Greatbeard,F2,Warrior L1 Low,B
+MV-INT-GAX-004-09,Cover Breaking Drive,Moment Haftrope,F2,Warrior L1 Low,B
+MV-INT-GAX-005-01,Beard Catch Pull,Statictimber,F5,Warrior L2 Mid,B
+MV-INT-GAX-005-02,Beard Under Lift,Lassoing Hewfall,F1,Warrior L2 Mid,B
+MV-INT-GAX-005-03,Toe Tip Prod,Timberscorer,F4,Warrior L2 Mid,B
+MV-INT-GAX-005-04,Beard Step In,Rillriven,F5,Warrior L2 Mid,B
+MV-INT-GAX-005-05,Hook Release Cut,Clay Doubleedge,F2,Warrior L2 Mid,B
+MV-INT-GAX-005-06,Hooked Guard Turn,Rill Greatpoll,F2,Warrior L2 Mid,B
+MV-INT-GAX-005-07,Beard Catch Feel,Poleshoe Bandage,F3,Warrior L2 Mid,B
+MV-INT-GAX-005-08,Weapon Hook Wrench,Binding Overhew,F1,Warrior L2 Mid,B
+MV-INT-GAX-005-09,Leg Hook Topple,Gall Wideswell,F2,Warrior L2 Mid,B
+MV-INT-GAX-005-10,Hook and Chop Pair,Sunder Slap,F3,Warrior L2 Mid,B
+MV-INT-GAX-006-01,Post Splintering Chop,Doughty Rend,F1,Senior L9 Peak,A
+MV-INT-GAX-006-02,Bar Strike Drive,Rude Doubleedge,F1,Senior L9 Peak,A
+MV-INT-GAX-006-03,Rubble Step Over,Sunderglide,F4,Senior L9 Peak,A
+MV-INT-GAX-006-04,Door Frame Reading,Rallying Greatbeard,F1,Senior L9 Peak,A
+MV-INT-GAX-006-05,Hinge Smash Cleave,Sunderflog,F4,Senior L9 Peak,A
+MV-INT-GAX-006-06,Barricade Breach Hew,Brutal Splitmass,F1,Senior L9 Peak,A
+MV-INT-GAX-007-01,Dragging Reap,Brisk Sunder,F1,Warrior L3 Low,B
+MV-INT-GAX-007-02,Hooked Reap Pull,Axebarrier,F4,Warrior L3 Low,B
+MV-INT-GAX-007-03,Low Reap Step,Gritrend,F5,Warrior L3 Low,B
+MV-INT-GAX-007-04,Reap Return Cut,Lurching Heavyeye,F1,Warrior L3 Low,B
+MV-INT-GAX-007-05,Standing Reap Guard,Regimen Haftrope,F2,Warrior L3 Low,B
+MV-INT-GAX-007-06,Reap Timing Reading,Greatlinen,F4,Warrior L3 Low,B
+MV-INT-GAX-007-07,Rank Reaping Sweep,Cinder Longhelve,F2,Warrior L3 Low,B
+MV-INT-GAX-007-08,Drag Reap Chain,Brawntimber,F5,Warrior L3 Low,B
+MV-INT-GAX-008-01,Close Haft Chop,Keen Greatbit,F1,Warrior L5 High,B
+MV-INT-GAX-008-02,Cheek Check Block,Rilltimber,F5,Warrior L5 High,B
+MV-INT-GAX-008-03,Haft Elbow Strike,Clay Heavyeye,F2,Warrior L5 High,B
+MV-INT-GAX-008-04,Shoulder Barge Step,Clayrend,F5,Warrior L5 High,B
+MV-INT-GAX-008-05,Haft Contact Reading,Sure Greatbeard,F1,Warrior L5 High,B
+MV-INT-GAX-008-06,Haft Lock Wrench,Discord Rend,F2,Warrior L5 High,B
+MV-INT-GAX-008-07,Poll Crack Strike,Brassaxe,F5,Warrior L5 High,B
+MV-INT-GAX-009-01,Rolling Cleave Start,Brasssunder,F5,Warrior L6 Mid,B
+MV-INT-GAX-009-02,Wheel Cut Low,Staticaxe,F5,Warrior L6 Mid,B
+MV-INT-GAX-009-03,Roll Out Step,Brawn Overhew,F2,Warrior L6 Mid,B
+MV-INT-GAX-009-04,Rolling Guard Cover,Haze Doubleedge,F2,Warrior L6 Mid,B
+MV-INT-GAX-009-05,Roll Cleave Reading,Knitting Heavyeye,F1,Warrior L6 Mid,B
+MV-INT-GAX-009-06,Roll Return Chop,Embersunder,F5,Warrior L6 Mid,B
+MV-INT-GAX-009-07,Wheel Cleave Combination,Riventhwack,F4,Warrior L6 Mid,B
+MV-INT-GAX-009-08,Roller Haft Trip,Gagging Longhelve,F1,Warrior L6 Mid,B
+MV-INT-GAX-009-09,Roll and Reap Pair,Crimson Riven,F2,Warrior L6 Mid,B
+MV-INT-GAX-010-01,Dead Weight Drop,Crimson Splitmass,F2,Warrior L8 Low,B
+MV-INT-GAX-010-02,Axe Head Gravity Cut,Sunderswat,F4,Warrior L8 Low,B
+MV-INT-GAX-010-03,Falling Guard Lift,Sprig Greatbit,F2,Warrior L8 Low,B
+MV-INT-GAX-010-04,Weight Drop Step,Sunder Stalk,F3,Warrior L8 Low,B
+MV-INT-GAX-010-05,Falling Line Reading,Gap Haftbell,F2,Warrior L8 Low,B
+MV-INT-GAX-010-06,Hammer Fall Blow,Stern Haftrope,F1,Warrior L8 Low,B
+MV-INT-GAX-010-07,Gravity Hammer Cleave,Crimson Hewfall,F2,Warrior L8 Low,B
+MV-INT-GAX-010-08,Pinning Weight Press,Momentriven,F5,Warrior L8 Low,B

@@ -1,0 +1,80 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-GRS-001-01,Overhead Great Cut,Wide Haul,F1,T1 Unawakened,A
+MV-BAS-GRS-001-02,Slanting Shoulder Chop,Lugsstrike,F4,T1 Unawakened,A
+MV-BAS-GRS-001-03,Level Waist Great Sweep,Greatsweep Strike,F3,T1 Unawakened,A
+MV-BAS-GRS-001-04,Plow Guard Hold,Ready Greatedge,F1,T1 Unawakened,A
+MV-BAS-GRS-001-05,Crossguard Shove,Flangelid,F4,T1 Unawakened,A
+MV-BAS-GRS-001-06,Backward Stride Reset,Flangedodge,F4,T1 Unawakened,A
+MV-BAS-GRS-002-01,Two-Hand Rising Cut,Stiff Counterweight,F1,Senior L1 Low,A
+MV-BAS-GRS-002-02,Spread-Hand Pommel Strike,Hauldash,F4,Senior L1 Low,A
+MV-BAS-GRS-002-03,Long-Grip Block,Rondelpause,F4,Senior L1 Low,A
+MV-BAS-GRS-002-04,Half-Step Pivot,Lugsdodge,F4,Senior L1 Low,A
+MV-BAS-GRS-002-05,Two-Hand Bind Press,Pushing Heft,F1,Senior L1 Low,A
+MV-BAS-GRS-003-01,Long Diagonal Hew,Open Bulk,F1,T1 Skin,A
+MV-BAS-GRS-003-02,Reverse Long Diagonal Hew,Low Longgrip,F1,T1 Skin,A
+MV-BAS-GRS-003-03,Hip-Rising Cut,Square Crossbeam,F1,T1 Skin,A
+MV-BAS-GRS-003-04,Wide Hanging Guard,Lugshusk,F4,T1 Skin,A
+MV-BAS-GRS-003-05,Drawing Slice Pull,Hauldrop,F4,T1 Skin,A
+MV-BAS-GRS-003-06,Forward Great Pace,Easing Flange,F1,T1 Skin,A
+MV-BAS-GRS-003-07,Edge-Reading Glance,Watching Lugs,F1,T1 Skin,A
+MV-BAS-GRS-004-01,Heavy Downstroke,Blunt Hiltwrap,F1,Senior L1 Mid,A
+MV-BAS-GRS-004-02,Cross-Body Chop,Plain Wrench,F1,Senior L1 Mid,A
+MV-BAS-GRS-004-03,Rising Back-Edge Cut,Wrenchdash,F4,Senior L1 Mid,A
+MV-BAS-GRS-004-04,Great Sweep Return,Firm Windmill,F1,Senior L1 Mid,A
+MV-BAS-GRS-004-05,Flat-Blade Guard,Resting Rondel,F1,Senior L1 Mid,A
+MV-BAS-GRS-004-06,Rear-Edge Parry Slide,Heftstay,F4,Senior L1 Mid,A
+MV-BAS-GRS-004-07,Gathering Footwork Step,Haulamble,F4,Senior L1 Mid,A
+MV-BAS-GRS-004-08,Tip Thrust Lunge,Bulkhit,F4,Senior L1 Mid,A
+MV-BAS-GRS-005-01,Plain Heavy Cut,Flangehit,F4,T1 Muscle,A
+MV-BAS-GRS-005-02,Weight Drop Chop,Lugsdrop,F4,T1 Muscle,A
+MV-BAS-GRS-005-03,Shoulder Carry Guard,Greatedge Stay,F3,T1 Muscle,A
+MV-BAS-GRS-005-04,Heel Turn Step,Backward Rondel,F1,T1 Muscle,A
+MV-BAS-GRS-005-05,Braced Stance Hold,Kept Lugs,F1,T1 Muscle,A
+MV-BAS-GRS-006-01,Heavy Blade Chop Cycle,Quick Mulinet,F1,Senior L2 Low,A
+MV-BAS-GRS-006-02,Wrist-Turn Counter Cut,Short Bulk,F1,Senior L2 Low,A
+MV-BAS-GRS-006-03,Ricasso Choke Cut,Short Overswing,F1,Senior L2 Low,A
+MV-BAS-GRS-006-04,Crossguard Hooking Drag,Heftcowl,F4,Senior L2 Low,A
+MV-BAS-GRS-006-05,Broad Edge Cover,Ready Counterweight,F1,Senior L2 Low,A
+MV-BAS-GRS-006-06,Sideward Drift Step,Mulinet Trot,F3,Senior L2 Low,A
+MV-BAS-GRS-007-01,Stance Opening Swing,Blunt Windmill,F1,T1 Tendon,A
+MV-BAS-GRS-007-02,Closing Swing Return,Plain Flange,F1,T1 Tendon,A
+MV-BAS-GRS-007-03,Wheeling Overhead Arc,Level Hiltwrap,F1,T1 Tendon,A
+MV-BAS-GRS-007-04,Low Edge Guard,Angled Crossbeam,F1,T1 Tendon,A
+MV-BAS-GRS-007-05,Wide Stance Slide,Heftskitter,F4,T1 Tendon,A
+MV-BAS-GRS-007-06,Opposing Stance Check,Kind Heft,F1,T1 Tendon,A
+MV-BAS-GRS-007-07,Hilt-Butt Jab,Leaden Overswing,F1,T1 Tendon,A
+MV-BAS-GRS-008-01,Slide-Grip Thrust,Straight Overswing,F1,Senior L1 Low,A
+MV-BAS-GRS-008-02,Choked Short Cut,Level Haul,F1,Senior L1 Low,A
+MV-BAS-GRS-008-03,Long-Grip Wide Parry,Folded Crossbeam,F1,Senior L1 Low,A
+MV-BAS-GRS-008-04,Grip Change Step,Nimble Mulinet,F1,Senior L1 Low,A
+MV-BAS-GRS-008-05,Kneeling Low Chop,Level Heft,F1,Senior L1 Low,A
+MV-BAS-GRS-009-01,Foundation Down Cleave,Single Wrench,F1,T1 Bone,A
+MV-BAS-GRS-009-02,Foundation Cross Cleave,Lugsdash,F4,T1 Bone,A
+MV-BAS-GRS-009-03,Foundation Rising Cleave,Descending Rondel,F1,T1 Bone,A
+MV-BAS-GRS-009-04,Foundation Cover Guard,Lugswedge,F4,T1 Bone,A
+MV-BAS-GRS-009-05,Foundation Shuffle Step,Flange Skitter,F3,T1 Bone,A
+MV-BAS-GRS-009-06,Reach-Marking Glance,Flangereview,F4,T1 Bone,A
+MV-BAS-GRS-010-01,Overhead Cut Raising,Firm Longgrip,F1,Senior L3 Low,A
+MV-BAS-GRS-010-02,Overhead Cut Release,Open Lugs,F1,Senior L3 Low,A
+MV-BAS-GRS-010-03,Overhead Cut Follow-Through,Blunt Longgrip,F1,Senior L3 Low,A
+MV-BAS-GRS-010-04,Overhead Guard Catch,Flangepause,F4,Senior L3 Low,A
+MV-BAS-GRS-010-05,Dropping Knee Cut,Upward Greatedge,F1,Senior L3 Low,A
+MV-BAS-GRS-010-06,Rear Foot Drive Step,Quiet Windmill,F1,Senior L3 Low,A
+MV-BAS-GRS-010-07,Raised Blade Lure,Haullid,F4,Senior L3 Low,A
+MV-BAS-GRS-011-01,Steady Cut Stance,Gnawing Greatsweep,F1,T1 Skin,A
+MV-BAS-GRS-011-02,Balanced Recovery Cut,Blunt Greatsweep,F1,T1 Skin,A
+MV-BAS-GRS-011-03,Heavy Turn Sweep,Plain Counterweight,F1,T1 Skin,A
+MV-BAS-GRS-011-04,Rooted Guard Posture,Planted Greatedge,F1,T1 Skin,A
+MV-BAS-GRS-011-05,Weight Shift Step,Swaying Bulk,F1,T1 Skin,A
+MV-BAS-GRS-011-06,Retreating Cover Step,Haultrot,F4,T1 Skin,A
+MV-BAS-GRS-011-07,Footfall Reading,Rondelcount,F4,T1 Skin,A
+MV-BAS-GRS-011-08,Stumble Check Shove,Tripping Wrench,F1,T1 Skin,A
+MV-BAS-GRS-012-01,Edge Alignment Cut,Gnawing Flange,F1,Senior L2 Mid,A
+MV-BAS-GRS-012-02,Spacing Thrust,Hiltwrap Dash,F3,Senior L2 Mid,A
+MV-BAS-GRS-012-03,Timing Counter Chop,Gnawing Heft,F1,Senior L2 Mid,A
+MV-BAS-GRS-012-04,Heavy Edge Parry,Settled Counterweight,F1,Senior L2 Mid,A
+MV-BAS-GRS-012-05,Distance Keeping Pace,Quiet Haul,F1,Senior L2 Mid,A
+MV-BAS-GRS-012-06,Weight Bearing Hold,Planted Longgrip,F1,Senior L2 Mid,A
+MV-BAS-GRS-004-02,Plain Wrench,Hard Wrench,F1,Senior L1 Mid,A
+MV-BAS-GRS-007-02,Plain Flange,Sturdy Flange,F1,T1 Tendon,A
+MV-BAS-GRS-011-03,Plain Counterweight,Solid Counterweight,F1,T1 Skin,A

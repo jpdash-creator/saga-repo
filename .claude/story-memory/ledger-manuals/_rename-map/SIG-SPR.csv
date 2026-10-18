@@ -1,0 +1,135 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-SPR-001-01,Paired-Start Guarding Thrust,Squall Bindcord,F2,Warrior L3 Low,B
+MV-SIG-SPR-001-02,Reed-Pair Slipping Parry,Squall Longshaft,F2,Warrior L3 Low,B
+MV-SIG-SPR-001-03,Azure-Twin Foot Chase,Squall Leafhead,F2,Warrior L3 Low,B
+MV-SIG-SPR-001-04,Paired Hand Wrist Beat,Ferrule Troth,F3,Warrior L3 Low,B
+MV-SIG-SPR-001-05,Twin-Rhythm Double Thrust,Quenched Beatback,F2,Warrior L3 Low,B
+MV-SIG-SPR-001-06,Basin-Rim Circling Cover,Hornbeam Spearpoint,F2,Warrior L3 Low,B
+MV-SIG-SPR-001-07,Paired Hawk Dropping Strike,Splendid Pushthrough,F1,Champion L1 Low,B
+MV-SIG-SPR-001-08,Twin-Track Seeking Combination,Destiny Stretch,F2,Champion L1 Low,B
+MV-SIG-SPR-001-09,River Pair Returning Lance,Prismspear,F5,Demigod L1 Low,B
+MV-SIG-SPR-001-10,Azure Pair Opening Spear,Inferno Bladewings,F2,Warrior L3 Low,B
+MV-SIG-SPR-002-01,Point-Track Plain Jab,Magnificent Bladewings,F1,Champion L1 Low,B
+MV-SIG-SPR-002-02,Haft-Track Cross Beat,Masterful Longshaft,F1,Champion L1 Low,B
+MV-SIG-SPR-002-03,Dual-Line Gliding Step,Dustpoint,F5,Champion L1 Low,B
+MV-SIG-SPR-002-04,Twin-Track Alternating Press,Imperious Slideshaft,F1,Champion L1 Low,B
+MV-SIG-SPR-002-05,Haft-Point Pairing Strike,Destiny Collarband,F2,Champion L1 Low,B
+MV-SIG-SPR-002-06,Track-Cross Parrying Turn,Pall Leafhead,F2,Champion L1 Low,B
+MV-SIG-SPR-002-07,Twin-Line Piercing Press,Storied Heelspike,F1,Champion L1 Low,B
+MV-SIG-SPR-002-08,Dual-Track Rolling Barrage,Twirldecree,F4,Champion L1 Low,B
+MV-SIG-SPR-002-09,Twin-Track Closing Gap Lunge,Thrustbanner,F4,Champion L1 Low,B
+MV-SIG-SPR-002-10,Hawk and Reed Double Track,Seasonspear,F5,Demigod L1 Low,B
+MV-SIG-SPR-002-11,Twin-Track Meeting Lance,Sovereign Quenched Heelspike,F6a,Champion L1 Low,B
+MV-SIG-SPR-003-01,Hawk-High Perch Hold,Squall Ferrule,F2,Champion L6 Mid,B
+MV-SIG-SPR-003-02,Basin-Low Flat Guard,Sainted Spearpoint,F1,Champion L6 Mid,B
+MV-SIG-SPR-003-03,Stance-Change Slide Step,Twirlgrace,F4,Champion L6 Mid,B
+MV-SIG-SPR-003-04,Perched Hawk Reaching Jab,Gallant Stretch,F1,Champion L6 Mid,B
+MV-SIG-SPR-003-05,Descending Hawk Spear Stab,Paramount Pushthrough,F1,Champion L6 Mid,B
+MV-SIG-SPR-003-06,Basin-Floor Sweeping Circle,Vigor Beatback,F2,Champion L6 Mid,B
+MV-SIG-SPR-003-07,Two-Stance Feinting Switch,Pallsocket,F5,Champion L6 Mid,B
+MV-SIG-SPR-003-08,Wing-and-Floor Closing Press,Buttshoe Troth,F3,Champion L6 Mid,B
+MV-SIG-SPR-003-09,Hawk-Over-Basin Dropping Sequence,Seasonpoint,F5,Champion L6 Mid,B
+MV-SIG-SPR-003-10,Basin-Rise Climbing Thrust,Thunderclap Bindcord,F2,Champion L6 Mid,B
+MV-SIG-SPR-003-11,Hawk Over the Basin Rim,Pointcrown,F4,Demigod L1 Low,B
+MV-SIG-SPR-003-12,Hawk Basin Twin-Stance Strike,Tenetsocket,F5,Champion L6 Mid,B
+MV-SIG-SPR-004-01,River-Source Lead Hand Jab,Steel Beatback,F2,Ruler L1 Low,B
+MV-SIG-SPR-004-02,Following-Hand Drive Through,Majestic Buttshoe,F1,Ruler L1 Low,B
+MV-SIG-SPR-004-03,Bank-Hugging Side Slip,Evanescent Slideshaft,F1,Ruler L1 Low,B
+MV-SIG-SPR-004-04,Winding-Course Haft Guide,Millstone Stretch,F2,Ruler L1 Low,B
+MV-SIG-SPR-004-05,Falling-Rapids Cutting Drive,Twirltriumph,F4,Ruler L1 Low,B
+MV-SIG-SPR-004-06,Paired-Hand Sliding Parry,Peal Collarband,F2,Ruler L1 Low,B
+MV-SIG-SPR-004-07,River-Bend Piercing Turn,Thunderclap Bladewings,F2,Ruler L1 Low,B
+MV-SIG-SPR-004-08,Spate-Flood Hand Sequence,Thrustedict,F4,Ruler L1 Low,B
+MV-SIG-SPR-004-09,Delta-Branching Spear Strikes,Spearcrown,F4,Demigod L1 Low,B
+MV-SIG-SPR-004-10,Paired Hands River Course Spear,Vaunted Leafhead,F1,Ruler L1 Low,B
+MV-SIG-SPR-005-01,Spearhead-Point Field Jab,Valiant Spearpoint,F1,Demigod L4 Mid,B
+MV-SIG-SPR-005-02,Butt-Point Counter Beat,Pointpledge,F4,Demigod L4 Mid,B
+MV-SIG-SPR-005-03,Twin-Point Step Slide,Skyborne Ferrule,F1,Demigod L4 Mid,B
+MV-SIG-SPR-005-04,Two-Pointed Reversing Strike,Prism Longshaft,F2,Demigod L4 Mid,B
+MV-SIG-SPR-005-05,Twin-Point Field Binding,Thrustpledge,F4,Demigod L4 Mid,B
+MV-SIG-SPR-005-06,Azure Field Edge Parry,Faithful Bindcord,F1,Demigod L4 Mid,B
+MV-SIG-SPR-005-07,Pair-Pointed Thrust Chain,Twirlverdict,F4,Demigod L4 Mid,B
+MV-SIG-SPR-005-08,Twin-Point Whirling Piercing,Pulsar Pushthrough,F2,Demigod L4 Mid,B
+MV-SIG-SPR-005-09,Azure Pair Standing Guard,Prism Heelspike,F2,Demigod L4 Mid,B
+MV-SIG-SPR-005-10,Twin Points Splitting the Guard,Peal Slideshaft,F2,Demigod L4 Mid,B
+MV-SIG-SPR-005-11,Azure Twin Points Closing Lance,Illustrious Thrust Verdict,F6b,Demigod L4 Mid,B
+MV-SIG-SPR-006-01,Sky-Draw Rising Thrust,Socketcrown,F4,Core Formation L1 Low,B
+MV-SIG-SPR-006-02,Ground-Draw Falling Strike,Royal Beatback,F1,Core Formation L1 Low,B
+MV-SIG-SPR-006-03,Dual-Sky Pivot Guard,Deluge Spearpoint,F2,Core Formation L1 Low,B
+MV-SIG-SPR-006-04,Core-Seated Gliding Step,Buttshoe Solace,F3,Core Formation L1 Low,B
+MV-SIG-SPR-006-05,Core-Driven Piercing Jab,Steelspear,F5,Core Formation L1 Low,B
+MV-SIG-SPR-006-06,Sky-and-Ground Parry Wheel,Custody Bindcord,F2,Core Formation L1 Low,B
+MV-SIG-SPR-006-07,Paired Heavens Pressing Chain,Ferrule Triumph,F3,Core Formation L1 Low,B
+MV-SIG-SPR-006-08,Hawk-Line Dropping Counter,Lordly Leafhead,F1,Core Formation L1 Low,B
+MV-SIG-SPR-006-09,Dual-Sky Lancing Surge,Pushthrough Verdict,F3,Core Formation L1 Low,B
+MV-SIG-SPR-006-10,Azure Roof Overhead Sweep,Matchless Longshaft,F1,Core Formation L1 Low,B
+MV-SIG-SPR-006-11,Sky Over Ground Spear Crossing,Season Bladewings,F2,Core Formation L1 Low,B
+MV-SIG-SPR-006-12,Dual-Sky Spear Closing,Intrepid Vacuum Slideshaft,F6a,Core Formation L1 Low,B
+MV-SIG-SPR-007-01,Oath-First Sworn Thrust,Triumphant Stretch,F1,Warrior L5 Mid,B
+MV-SIG-SPR-007-02,Wind-Held Standing Parry,Consecrated Collarband,F1,Warrior L5 Mid,B
+MV-SIG-SPR-007-03,Plateau-Pace Forward Run,Deluge Heelspike,F2,Warrior L5 Mid,B
+MV-SIG-SPR-007-04,Wind-Sworn Pressing Beat,Peal Heelspike,F2,Warrior L5 Mid,B
+MV-SIG-SPR-007-05,Oath-Line Counter Thrust,Vigorspear,F5,Warrior L5 Mid,B
+MV-SIG-SPR-007-06,Gale-Bent Haft Cover,Steel Leafhead,F2,Warrior L5 Mid,B
+MV-SIG-SPR-007-07,Sworn Wind Sweeping Thrust,Socketbanner,F4,Champion L1 Low,B
+MV-SIG-SPR-007-08,Oath-Edge Unwavering Combination,Season Longshaft,F2,Champion L1 Low,B
+MV-SIG-SPR-007-09,Wind-Sworn Hold of the Line,Gloompoint,F5,Demigod L1 Low,B
+MV-SIG-SPR-007-10,Wind-Sworn Oath Thrust,Fearless Prism Buttshoe,F6a,Warrior L5 Mid,B
+MV-SIG-SPR-008-01,Bearing-Taking Opening Stance,Bountiful Buttshoe,F1,Champion L2 Low,B
+MV-SIG-SPR-008-02,Plateau-Line Steady Jab,Twirlcrown,F4,Champion L2 Low,B
+MV-SIG-SPR-008-03,Bearing-Held Side Step,Ethereal Pushthrough,F1,Champion L2 Low,B
+MV-SIG-SPR-008-04,Open-Ground Shaft Check,Bladewings Seal,F3,Champion L2 Low,B
+MV-SIG-SPR-008-05,Bearing-Corrected Piercing Thrust,Vacuum Spearpoint,F2,Champion L2 Low,B
+MV-SIG-SPR-008-06,Wind-Against Bearing Hold,Tyrannous Bindcord,F1,Champion L2 Low,B
+MV-SIG-SPR-008-07,Cross-Plateau Chasing Series,Volition Stretch,F2,Champion L2 Low,B
+MV-SIG-SPR-008-08,Held-Bearing Counter Wedge,Peal Beatback,F2,Champion L2 Low,B
+MV-SIG-SPR-008-09,Bearing-Driven Plateau Charge,Quenched Slideshaft,F2,Champion L2 Low,B
+MV-SIG-SPR-008-10,True-Line Standing Press,Millstone Collarband,F2,Champion L2 Low,B
+MV-SIG-SPR-008-11,Plateau Bearing Unbroken,Dauntless Ferrule,F1,Demigod L1 Low,B
+MV-SIG-SPR-008-12,Plateau Bearing Spear Strike,Peerless Collarband,F1,Champion L2 Low,B
+MV-SIG-SPR-009-01,Gale-Oath Open Thrust,Thrustcrown,F4,Champion L8 High,B
+MV-SIG-SPR-009-02,Wind-Sworn Backless Guard,Undefiled Buttshoe,F1,Champion L8 High,B
+MV-SIG-SPR-009-03,Gust-Driven Forward Step,Dustsocket,F5,Champion L8 High,B
+MV-SIG-SPR-009-04,Gale-Cut Slanting Beat,Commanding Heelspike,F1,Champion L8 High,B
+MV-SIG-SPR-009-05,Oath-Line Double Thrust,Ferrule Banner,F3,Champion L8 High,B
+MV-SIG-SPR-009-06,Open-Wind Haft Turn,Longshaft Seal,F3,Champion L8 High,B
+MV-SIG-SPR-009-07,Gale-Pressed Closing Drive,Gloomtwirl,F5,Champion L8 High,B
+MV-SIG-SPR-009-08,Sworn-Gale Piercing Lunge,Thrusttriumph,F4,Champion L8 High,B
+MV-SIG-SPR-009-09,Open-Ground Sweeping Gust,Spearverdict,F4,Champion L8 High,B
+MV-SIG-SPR-009-10,Open Gale Oath Sequence,Pointdecree,F4,Demigod L1 Low,B
+MV-SIG-SPR-009-11,Gale-Oath Open Ground Spear,Exalted Socket Decree,F6b,Champion L8 High,B
+MV-SIG-SPR-010-01,Wind-Run Line Thrust,Spearedict,F4,Ruler L1 Mid,B
+MV-SIG-SPR-010-02,Oath-Pinned Stance Brace,Parity Bladewings,F2,Ruler L1 Mid,B
+MV-SIG-SPR-010-03,Line-Keeping Drift Step,Deluge Beatback,F2,Ruler L1 Mid,B
+MV-SIG-SPR-010-04,Wind-Tempered Probing Jab,Imperial Bindcord,F1,Ruler L1 Mid,B
+MV-SIG-SPR-010-05,Oath-Line Binding Turn,Sigil Pushthrough,F2,Ruler L1 Mid,B
+MV-SIG-SPR-010-06,Windbreak Haft Cover,Bedrock Spearpoint,F2,Ruler L1 Mid,B
+MV-SIG-SPR-010-07,Wind-Backed Lunge Line,Noble Leafhead,F1,Ruler L1 Mid,B
+MV-SIG-SPR-010-08,Sworn-Line Running Series,Volition Slideshaft,F2,Ruler L1 Mid,B
+MV-SIG-SPR-010-09,Wind and Oath Together Spear,Twirledict,F4,Demigod L1 Low,B
+MV-SIG-SPR-010-10,Wind and Oath Line Strike,Famed Stretch,F1,Ruler L1 Mid,B
+MV-SIG-SPR-011-01,Gale-Held Bearing Thrust,Heroic Stretch,F1,Demigod L7 Low,B
+MV-SIG-SPR-011-02,Field-Rooted Standing Guard,Parity Leafhead,F2,Demigod L7 Low,B
+MV-SIG-SPR-011-03,Gale-Read Footing Shift,Reminiscence Bladewings,F2,Demigod L7 Low,B
+MV-SIG-SPR-011-04,Bearing-Fixed Field Press,Statute Longshaft,F2,Demigod L7 Low,B
+MV-SIG-SPR-011-05,Gale-Splitting Piercing Line,Valiant Beatback,F1,Demigod L7 Low,B
+MV-SIG-SPR-011-06,Held-Bearing Counter Thrust,Imperial Pushthrough,F1,Demigod L7 Low,B
+MV-SIG-SPR-011-07,Plateau-Gale Haft Turn,Glacier Collarband,F2,Demigod L7 Low,B
+MV-SIG-SPR-011-08,Bearing-Anchored Gale Charge,Vacuum Bindcord,F2,Demigod L7 Low,B
+MV-SIG-SPR-011-09,Gale-Field Scouring Arc,Tempestuous Ferrule,F2,Demigod L7 Low,B
+MV-SIG-SPR-011-10,Unshaken Gale Bearing Combination,Resonant Spearpoint,F1,Demigod L7 Low,B
+MV-SIG-SPR-011-11,Gale Held Bearing Spear Strike,Buttshoe Banner,F3,Demigod L7 Low,B
+MV-SIG-SPR-012-01,Windward Core Thrust,Pointbanner,F4,Core Formation L3 Mid,B
+MV-SIG-SPR-012-02,Open-Country Wide Stance,Inviolate Heelspike,F1,Core Formation L3 Mid,B
+MV-SIG-SPR-012-03,Core-Light Wind Stride,Squall Slideshaft,F2,Core Formation L3 Mid,B
+MV-SIG-SPR-012-04,Sky-Edge Reaching Jab,Inferno Slideshaft,F2,Core Formation L3 Mid,B
+MV-SIG-SPR-012-05,Core-Wind Piercing Drive,Sockettriumph,F4,Core Formation L3 Mid,B
+MV-SIG-SPR-012-06,Unwalled Haft Parry Turn,Immaculate Longshaft,F1,Core Formation L3 Mid,B
+MV-SIG-SPR-012-07,Windward Pressing Beat,Thrusttroth,F4,Core Formation L3 Mid,B
+MV-SIG-SPR-012-08,Sky-Open Chasing Thrusts,Season Twirl,F2,Core Formation L3 Mid,B
+MV-SIG-SPR-012-09,Windward Core Lancing Rush,Exalted Bindcord,F1,Core Formation L3 Mid,B
+MV-SIG-SPR-012-10,Open-Sky Scattering Sweep,Tempestuous Bladewings,F2,Core Formation L3 Mid,B
+MV-SIG-SPR-012-11,Wind Without Walls Sequence,Choral Pushthrough,F1,Core Formation L3 Mid,B
+MV-SIG-SPR-012-12,Windward Spear Without Walls,Unrivaled Collarband Verdict,F6b,Core Formation L3 Mid,B
+MV-SIG-SPR-001-06,Hornbeam Spearpoint,Circling Spearpoint,F2,Warrior L3 Low,B
+MV-SIG-SPR-011-07,Glacier Collarband,Catching Collarband,F2,Demigod L7 Low,B

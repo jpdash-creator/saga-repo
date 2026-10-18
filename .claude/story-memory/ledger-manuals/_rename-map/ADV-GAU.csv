@@ -1,0 +1,97 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-GAU-001-01,Meridian Opened Straight Fist,Tempered Grasp,F2,Champion L1 Low,B
+MV-ADV-GAU-001-02,Braced Cuff Forward Guard,Iron Knucklecap,F2,Champion L1 Low,B
+MV-ADV-GAU-001-03,Step Behind the Plate,Granite Palmguard,F2,Champion L1 Low,B
+MV-ADV-GAU-001-04,Backplate Whiplash,Blazemitt,F5,Champion L1 Low,B
+MV-ADV-GAU-001-05,Qi Run Steel Cross,Skinning Vambrace,F1,Champion L1 Low,B
+MV-ADV-GAU-001-06,Cuff Locking Turn,Gyve Thumbplate,F2,Champion L1 Low,B
+MV-ADV-GAU-001-07,Plate Splitting Drive,Rumble Seizeup,F2,Champion L1 Low,B
+MV-ADV-GAU-001-08,Gauntlet Meridian Pin,Stifling Deed Wristcuff,F6a,Champion L1 Low,B
+MV-ADV-GAU-002-01,Rivet Seeking Tap,Mittassault,F4,Champion L8 Mid,B
+MV-ADV-GAU-002-02,Dented Plate Bracing Cover,Facet Cuffplate,F2,Champion L8 Mid,B
+MV-ADV-GAU-002-03,Close Pressing Shuffle,Silt Wring,F2,Champion L8 Mid,B
+MV-ADV-GAU-002-04,Breastplate Rapping Fist,Blaze Clamp,F2,Champion L8 Mid,B
+MV-ADV-GAU-002-05,Seam Prying Fingers,Chimegrasp,F5,Champion L8 Mid,B
+MV-ADV-GAU-002-06,Shock Through Plate Strike,Gust Clench,F2,Champion L8 Mid,B
+MV-ADV-GAU-002-07,Anchored Shoulder Charge,Clamptorment,F4,Champion L8 Mid,B
+MV-ADV-GAU-002-08,Plate Peeling Rend,Mittbarrage,F4,Champion L8 Mid,B
+MV-ADV-GAU-002-09,Helm Ringing Hammer,Raging Crushgrip,F1,Champion L8 Mid,B
+MV-ADV-GAU-003-01,Open Field Plate Punch,Unmaking Cuffplate,F1,Demigod L1 Low,B
+MV-ADV-GAU-003-02,Field Edge Cuff Guard,Granite Gauntcuff,F2,Demigod L1 Low,B
+MV-ADV-GAU-003-03,Pace Count Glide Step,Whipping Thumbplate,F1,Demigod L1 Low,B
+MV-ADV-GAU-003-04,Steel Palm Pressing Push,Might Wristcuff,F2,Demigod L1 Low,B
+MV-ADV-GAU-003-05,Breathing Fist Cycle,Blaze Seizeup,F2,Demigod L1 Low,B
+MV-ADV-GAU-003-06,Field Fed Backplate Hook,Wringassault,F4,Demigod L1 Low,B
+MV-ADV-GAU-003-07,Reach of the Field Cuff Catch,Gust Backhandplate,F2,Demigod L1 Low,B
+MV-ADV-GAU-003-08,Steel Glove Field Feel,Expanse Elbowcop,F2,Demigod L1 Low,B
+MV-ADV-GAU-003-09,Field Lengthened Fist,Elbowcop Thrash,F3,Demigod L1 Low,B
+MV-ADV-GAU-003-10,Field Locked Cuff Hold,Facet Palmguard,F2,Demigod L1 Low,B
+MV-ADV-GAU-004-01,Rooted Cuff Cover,Hoarfrost Fingerplate,F2,Demigod L7 Mid,B
+MV-ADV-GAU-004-02,Ground Gripping Heel Set,Might Clench,F2,Demigod L7 Mid,B
+MV-ADV-GAU-004-03,Shouldered Backplate Shove,Tempered Clamp,F2,Demigod L7 Mid,B
+MV-ADV-GAU-004-04,Pounding Ready Fist,Granite Wring,F2,Demigod L7 Mid,B
+MV-ADV-GAU-004-05,Iron Forearm Wedge Block,Steadfast Fingerplate,F1,Demigod L7 Mid,B
+MV-ADV-GAU-004-06,Rock Settling Press,Intentclamp,F5,Demigod L7 Mid,B
+MV-ADV-GAU-004-07,Tide Turning Steel Return,Mittcloak,F4,Demigod L7 Mid,B
+MV-ADV-GAU-004-08,Many Blow Cuff Weave,Aegis Knucklecap,F2,Demigod L7 Mid,B
+MV-ADV-GAU-005-01,Paired Gauntlet Opening Jab,Gauntcuff Onslaught,F3,Champion L4 Low,B
+MV-ADV-GAU-005-02,Twin Cuff Lower Cover,Unyielding Vambrace,F1,Champion L4 Low,B
+MV-ADV-GAU-005-03,Basin Edge Side Slide,Torrent Crushgrip,F2,Champion L4 Low,B
+MV-ADV-GAU-005-04,Twin Backplate Brush,Unmaking Seizeup,F1,Champion L4 Low,B
+MV-ADV-GAU-005-05,Hawk Dive Fist,Sanguine Wring,F2,Champion L4 Low,B
+MV-ADV-GAU-005-06,River Bend Retreat Step,Granite Crushgrip,F2,Champion L4 Low,B
+MV-ADV-GAU-005-07,Twin Steel Counter Weave,Harrowing Backhandplate,F1,Champion L4 Low,B
+MV-ADV-GAU-005-08,Paired Palm Pincer,Ponderous Vambrace,F2,Champion L4 Low,B
+MV-ADV-GAU-005-09,Dual-Track Pulse Cross,Granite Cuffplate,F2,Champion L4 Low,B
+MV-ADV-GAU-005-10,Twin Hammer River Fall,Rumblemitt,F5,Champion L4 Low,B
+MV-ADV-GAU-005-11,Paired Cuff Seal Lock,Charter Wristcuff,F2,Champion L4 Low,B
+MV-ADV-GAU-006-01,Azure Hawk Plate Stoop,Sanguine Gauntcuff,F2,Demigod L3 Low,B
+MV-ADV-GAU-006-02,Hawk Wing Cuff Cover,Charter Knucklecap,F2,Demigod L3 Low,B
+MV-ADV-GAU-006-03,Circling Glove Step,Palmguard Leap,F3,Demigod L3 Low,B
+MV-ADV-GAU-006-04,Talon Fingerplate Rake,Ironclench,F5,Demigod L3 Low,B
+MV-ADV-GAU-006-05,Dual-Track Backhand Hook,Gustclamp,F5,Demigod L3 Low,B
+MV-ADV-GAU-006-06,Hawk Eye Glove Sense,Expanse Thumbplate,F2,Demigod L3 Low,B
+MV-ADV-GAU-006-07,Azure Cover Return,Equipoise Elbowcop,F2,Demigod L3 Low,B
+MV-ADV-GAU-006-08,Hawk Seizing Steel Drop,Gyvevamb,F5,Demigod L3 Low,B
+MV-ADV-GAU-006-09,Two Track Breaking Fist,Grasp Thrash,F3,Demigod L3 Low,B
+MV-ADV-GAU-007-01,River Reed Plate Tap,Grasptorment,F4,Void God L1 Low,B
+MV-ADV-GAU-007-02,Current Turning Cuff,Fingerplate Plating,F3,Void God L1 Low,B
+MV-ADV-GAU-007-03,Basin Floor Stance Step,Surging Grasp,F1,Void God L1 Low,B
+MV-ADV-GAU-007-04,Twin Gauntlet Press,Ravaging Backhandplate,F1,Void God L1 Low,B
+MV-ADV-GAU-007-05,Bankside Elbow Cover,Charter Thumbplate,F2,Void God L1 Low,B
+MV-ADV-GAU-007-06,Stone Skipping Fist,Gust Wring,F2,Void God L1 Low,B
+MV-ADV-GAU-007-07,Eddying Forearm Spin,Torrent Knucklecap,F2,Void God L1 Low,B
+MV-ADV-GAU-007-08,Twin Bank Squeeze,Gyvewring,F5,Void God L1 Low,B
+MV-ADV-GAU-007-09,Flood Pulse Hammer,Gust Fingerplate,F2,Void God L1 Low,B
+MV-ADV-GAU-007-10,Undertow Pull Hook,Toxingrasp,F5,Void God L1 Low,B
+MV-ADV-GAU-007-11,River Weight Twin Crush,Ironclamp,F5,Void God L1 Low,B
+MV-ADV-GAU-007-12,Confluence Seal Palm,Quelling Vambrace,F1,Void God L1 Low,B
+MV-ADV-GAU-008-01,Wind-Sworn Plate Jab,Harpooning Gauntcuff,F1,Champion L2 Mid,B
+MV-ADV-GAU-008-02,Gale Edge Cuff Guard,Aegisglove,F5,Champion L2 Mid,B
+MV-ADV-GAU-008-03,Open Plain Slide,Mittpounce,F4,Champion L2 Mid,B
+MV-ADV-GAU-008-04,Bearing Taken Fist,Mightglove,F5,Champion L2 Mid,B
+MV-ADV-GAU-008-05,Oath Fisted Gale Cross,Gustglove,F5,Champion L2 Mid,B
+MV-ADV-GAU-008-06,Crosswind Cuff Turn,Torrent Cuffplate,F2,Champion L2 Mid,B
+MV-ADV-GAU-008-07,Gale Splitting Steel Drive,Hollowmitt,F5,Champion L2 Mid,B
+MV-ADV-GAU-008-08,Open Sky Guard Sweep,Mayhemmitt,F5,Champion L2 Mid,B
+MV-ADV-GAU-009-01,Plateau Bearing Straight,Iron Elbowcop,F2,Ruler L1 Low,B
+MV-ADV-GAU-009-02,Cliff Edge Cuff Block,Hoarfrost Wristcuff,F2,Ruler L1 Low,B
+MV-ADV-GAU-009-03,Sheltered Flank Gauntlet Step,Gustmitt,F5,Ruler L1 Low,B
+MV-ADV-GAU-009-04,Heading Held Backhand,Granite Seizeup,F2,Ruler L1 Low,B
+MV-ADV-GAU-009-05,Long Grass Retreat,Surging Clamp,F1,Ruler L1 Low,B
+MV-ADV-GAU-009-06,Held Bearing Plate Hammer,Rumble Clench,F2,Ruler L1 Low,B
+MV-ADV-GAU-009-07,Wind Reading Cuff Catch,Equipoise Thumbplate,F2,Ruler L1 Low,B
+MV-ADV-GAU-009-08,Steady Heading Press,Charter Clench,F2,Ruler L1 Low,B
+MV-ADV-GAU-009-09,Plateau Rim Breaking Fist,Splintering Backhandplate,F1,Ruler L1 Low,B
+MV-ADV-GAU-009-10,Bearing Locked Steel Hold,Dominating Palmguard,F1,Ruler L1 Low,B
+MV-ADV-GAU-010-01,Oath Sworn Steel Straight,Clamp Thrash,F3,Demigod L5 Mid,B
+MV-ADV-GAU-010-02,Gust Parting Cuff,Mantled Vambrace,F1,Demigod L5 Mid,B
+MV-ADV-GAU-010-03,Wind Lane Glide,Blurring Clamp,F1,Demigod L5 Mid,B
+MV-ADV-GAU-010-04,Bare Plateau Hammer,Iron Backhandplate,F2,Demigod L5 Mid,B
+MV-ADV-GAU-010-05,Gale Fed Fist Hook,Cleaving Clench,F1,Demigod L5 Mid,B
+MV-ADV-GAU-010-06,Headwind Cuff Hold,Hoarfrost Gauntcuff,F2,Demigod L5 Mid,B
+MV-ADV-GAU-010-07,Tailwind Surge Step,Might Elbowcop,F2,Demigod L5 Mid,B
+MV-ADV-GAU-010-08,Storm Oath Plate Burst,Needling Crushgrip,F1,Demigod L5 Mid,B
+MV-ADV-GAU-010-09,Wind Bound Arm Seal,Graspcloak,F4,Demigod L5 Mid,B
+MV-ADV-GAU-003-08,Expanse Elbowcop,Probing Elbowcop,F2,Demigod L1 Low,B
+MV-ADV-GAU-006-06,Expanse Thumbplate,Probing Thumbplate,F2,Demigod L3 Low,B

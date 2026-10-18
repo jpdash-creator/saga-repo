@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-society-p24-information-classification-system",
+ "part": 24,
+ "area": 2,
+ "sequence_in_part": 2,
+ "title": "Information Classification System",
+ "domain": "society",
+ "source_file": "Part_24_People_Society_Information_Secrecy_Law.md",
+ "start_line": 102,
+ "end_line": 128,
+ "line_count": 27,
+ "output_path": ".claude/skills/ssc-society-p24-information-classification-system/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-society-p22-foundational-principles-faction-law",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Intelligence operations involve factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p22-faction-classification-taxonomy-overview",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Intelligence operations involve factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p22-cultivator-sects-cultivation-alliance-networks",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Intelligence operations involve factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p22-government-bodies-judicial-factions",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Intelligence operations involve factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p22-military-security-forces",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Intelligence operations involve factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p22-space-forces-exploration-factions",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Intelligence operations involve factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p22-academic-research-factions",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Intelligence operations involve factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p22-alchemical-pharmaceutical-factions",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Intelligence operations involve factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p22-science-technology-factions-synergy-integration-institutes",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Intelligence operations involve factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p22-mercantile-trading-factions",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Intelligence operations involve factions per Part 22"
+  }
+ ]
+}

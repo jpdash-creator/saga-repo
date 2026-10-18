@@ -1,0 +1,100 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-MAC-001-01,Meridian Draw Cut,Sanguine Wideback,F2,Champion L1 Low,B
+MV-ADV-MAC-001-02,Heavy Recovery Back-Step,Torrent Mow,F2,Champion L1 Low,B
+MV-ADV-MAC-001-03,Spine Brace Block,Iron Machhilt,F2,Champion L1 Low,B
+MV-ADV-MAC-001-04,Belly Hook Draw,Paralyzing Brushcut,F1,Champion L1 Low,B
+MV-ADV-MAC-001-05,Channel Fed Slash,Sanguine Lashdown,F2,Champion L1 Low,B
+MV-ADV-MAC-001-06,Hardened Flat Slap,Toxin Cutback,F2,Champion L1 Low,B
+MV-ADV-MAC-001-07,Rebound Spine Guard,Equipoise Heavytang,F2,Champion L1 Low,B
+MV-ADV-MAC-001-08,Great Brush Felling Cut,Lambasting Rivetgrip Assault,F6b,Champion L1 Low,B
+MV-ADV-MAC-001-09,Heavy Wake Pressing,Shade Weightedge,F2,Champion L1 Low,B
+MV-ADV-MAC-002-01,Field Draw Opening,Ironweed,F5,Demigod L1 Low,B
+MV-ADV-MAC-002-02,Long Shadow Step,Gust Clearcut,F2,Demigod L1 Low,B
+MV-ADV-MAC-002-03,Outer Wrist Parry,Torrent Thickbelly,F2,Demigod L1 Low,B
+MV-ADV-MAC-002-04,Edge Ward Hold,Hoarfrost Brushedge,F2,Demigod L1 Low,B
+MV-ADV-MAC-002-05,Back-of-Blade Rap,Staggering Bluntspine,F1,Demigod L1 Low,B
+MV-ADV-MAC-002-06,Field Pulse Slash,Granite Widetip,F2,Demigod L1 Low,B
+MV-ADV-MAC-002-07,Living Field Screen,Hoarfrost Wideback,F2,Demigod L1 Low,B
+MV-ADV-MAC-002-08,Field Edge Hook,Thorn Chopedge,F2,Demigod L1 Low,B
+MV-ADV-MAC-002-09,Past-the-Edge Reach Cut,Nova Thickbelly,F2,Demigod L1 Low,B
+MV-ADV-MAC-002-10,Guard Behind the Edge,Brushedge Cloak,F3,Demigod L1 Low,B
+MV-ADV-MAC-003-01,Strap Seam Cut,Blaze Rivetgrip,F2,Champion L4 Low,B
+MV-ADV-MAC-003-02,Plate Gap Jab,Skinning Widetip,F1,Champion L4 Low,B
+MV-ADV-MAC-003-03,Shoulder Roll Glance,Murk Heavytang,F2,Champion L4 Low,B
+MV-ADV-MAC-003-04,Close Step Press,Silt Lashdown,F2,Champion L4 Low,B
+MV-ADV-MAC-003-05,Rivet Cut,Harrowing Mow,F1,Champion L4 Low,B
+MV-ADV-MAC-003-06,Greave Breaking Blow,Granite Brushcut,F2,Champion L4 Low,B
+MV-ADV-MAC-003-07,Cuirass Seam Splitter,Glintbush,F5,Champion L4 Low,B
+MV-ADV-MAC-003-08,Helm Rim Rattle,Mayhembush,F5,Champion L4 Low,B
+MV-ADV-MAC-004-01,Long Reach Draw,Tempered Cutback,F2,Demigod L3 Low,B
+MV-ADV-MAC-004-02,Far Arm Sweep,Granite Clearcut,F2,Demigod L3 Low,B
+MV-ADV-MAC-004-03,Extended Rail Guard,Machhilt Greave,F3,Demigod L3 Low,B
+MV-ADV-MAC-004-04,Long Blade Slide Step,Hacksweep Sprint,F3,Demigod L3 Low,B
+MV-ADV-MAC-004-05,Tip Line Jab,Ironbush,F5,Demigod L3 Low,B
+MV-ADV-MAC-004-06,Distance Gauging,Expanse Chopedge,F2,Demigod L3 Low,B
+MV-ADV-MAC-004-07,Lengthened Edge Cut,Rumble Machhilt,F2,Demigod L3 Low,B
+MV-ADV-MAC-004-08,Reach Edge Snare,Gyve Thickbelly,F2,Demigod L3 Low,B
+MV-ADV-MAC-004-09,Overreach Counter,Rumble Bluntspine,F2,Demigod L3 Low,B
+MV-ADV-MAC-004-10,Wide Circle Clearing,Daybreak Hacksweep,F2,Demigod L3 Low,B
+MV-ADV-MAC-004-11,Far Edge Piercing Line,Rumblebush,F5,Demigod L3 Low,B
+MV-ADV-MAC-005-01,Paired Draw Opening,Mightvine,F5,Champion L2 Low,B
+MV-ADV-MAC-005-02,Twin Hip Cut,Mightscrub,F5,Champion L2 Low,B
+MV-ADV-MAC-005-03,Basin Slope Step,Whipping Bluntspine,F1,Champion L2 Low,B
+MV-ADV-MAC-005-04,Second Hand Cover,Thornscrub,F5,Champion L2 Low,B
+MV-ADV-MAC-005-05,River Bend Spine Parry,Gust Weightedge,F2,Champion L2 Low,B
+MV-ADV-MAC-005-06,Dual Grip Spine Rap,Dominating Chopedge,F1,Champion L2 Low,B
+MV-ADV-MAC-005-07,Twin Track Machete Cut,Gustscrub,F5,Champion L2 Low,B
+MV-ADV-MAC-005-08,Paired Wrist Lock,Crippling Cutback,F1,Champion L2 Low,B
+MV-ADV-MAC-005-09,Azure Rise Guard,Immovable Rivetgrip,F1,Champion L2 Low,B
+MV-ADV-MAC-005-10,Echoed Stroke Pairing,Granite Lashdown,F2,Champion L2 Low,B
+MV-ADV-MAC-005-11,Twin Court Felling Pair,Mowthrash,F4,Champion L2 Low,B
+MV-ADV-MAC-005-12,River Basin Sweep,Dismantling Mow,F2,Champion L2 Low,B
+MV-ADV-MAC-006-01,Hawk Perch Spine Guard,Steadfast Heavytang,F1,Demigod L2 Low,B
+MV-ADV-MAC-006-02,Stooping Draw,Wideback Maelstrom,F3,Demigod L2 Low,B
+MV-ADV-MAC-006-03,Azure Line Hawk Step,Racing Hacksweep,F1,Demigod L2 Low,B
+MV-ADV-MAC-006-04,Pinion Rap,Paralyzing Widetip,F1,Demigod L2 Low,B
+MV-ADV-MAC-006-05,Hawk Talon Belly Hook,Fastening Hacksweep,F2,Demigod L2 Low,B
+MV-ADV-MAC-006-06,Field Wing Slash,Blaze Brushcut,F2,Demigod L2 Low,B
+MV-ADV-MAC-006-07,Stoop Counter,Vineplating,F4,Demigod L2 Low,B
+MV-ADV-MAC-006-08,Hawk Stoop Felling Cut,Iron Brushcut,F2,Demigod L2 Low,B
+MV-ADV-MAC-006-09,Wide Wing Screen,Weedhauberk,F4,Demigod L2 Low,B
+MV-ADV-MAC-007-01,Ford Shuffle Step,Siltscrub,F5,Ruler L1 Low,B
+MV-ADV-MAC-007-02,Bank Edge Cut,Tempered Clearcut,F2,Ruler L1 Low,B
+MV-ADV-MAC-007-03,Current Slip Guard,Scrubcloak,F4,Ruler L1 Low,B
+MV-ADV-MAC-007-04,Reed Parting Slash,Vinebarrage,F4,Ruler L1 Low,B
+MV-ADV-MAC-007-05,Stone Footing Brace,Weightedge Plating,F3,Ruler L1 Low,B
+MV-ADV-MAC-007-06,Midstream Qi Cut,Sanguine Cutback,F2,Ruler L1 Low,B
+MV-ADV-MAC-007-07,Eddy Turn Disruption,Toxinbush,F5,Ruler L1 Low,B
+MV-ADV-MAC-007-08,Undertow Belly Hook,Lashdown Cuirass,F3,Ruler L1 Low,B
+MV-ADV-MAC-007-09,Flood Crest Cut,Granite Chopedge,F2,Ruler L1 Low,B
+MV-ADV-MAC-007-10,Eddy Snare Line,Silt Brushedge,F2,Ruler L1 Low,B
+MV-ADV-MAC-008-01,Plateau Edge Draw,Blazevine,F5,Demigod L5 Low,B
+MV-ADV-MAC-008-02,Bearing Taken Step,Gustmow,F5,Demigod L5 Low,B
+MV-ADV-MAC-008-03,Wind Break Spine Guard,Charter Weightedge,F2,Demigod L5 Low,B
+MV-ADV-MAC-008-04,Open Ground Sweep,Unmaking Thickbelly,F1,Demigod L5 Low,B
+MV-ADV-MAC-008-05,Gale Fed Slash,Iron Rivetgrip,F2,Demigod L5 Low,B
+MV-ADV-MAC-008-06,Held Bearing Spine Check,Bushgreave,F4,Demigod L5 Low,B
+MV-ADV-MAC-008-07,Plateau Wind Felling Cut,Blaze Heavytang,F2,Demigod L5 Low,B
+MV-ADV-MAC-008-08,Bearing Held Pressing,Vinethrash,F4,Demigod L5 Low,B
+MV-ADV-MAC-009-01,Sworn Draw Machete Cut,Trouncing Widetip,F1,Champion L6 Low,B
+MV-ADV-MAC-009-02,Crosswind Brush Slash,Trouncing Wideback,F1,Champion L6 Low,B
+MV-ADV-MAC-009-03,Wind Lean Blade Step,Torrent Machhilt,F2,Champion L6 Low,B
+MV-ADV-MAC-009-04,Oath Hand Guard,Hoarfrost Widetip,F2,Champion L6 Low,B
+MV-ADV-MAC-009-05,Gust Deflection,Chime Bluntspine,F2,Champion L6 Low,B
+MV-ADV-MAC-009-06,Bearing Mark Reading,Expanse Wideback,F2,Champion L6 Low,B
+MV-ADV-MAC-009-07,Wind-Sworn Qi Cut,Rumblescrub,F5,Champion L6 Low,B
+MV-ADV-MAC-009-08,Headwind Spine Press,Charter Mow,F2,Champion L6 Low,B
+MV-ADV-MAC-009-09,Updraft Parry,Gustbush,F5,Champion L6 Low,B
+MV-ADV-MAC-009-10,Gale Oath Felling Stroke,Mightbush,F5,Champion L6 Low,B
+MV-ADV-MAC-009-11,Wind Lane Holding,Chopedge Greave,F3,Champion L6 Low,B
+MV-ADV-MAC-010-01,Plateau Rim Brush Cut,Rivetgrip Torment,F3,Void God L1 Low,B
+MV-ADV-MAC-010-02,Oath Footing Brace,Thorn Weightedge,F2,Void God L1 Low,B
+MV-ADV-MAC-010-03,Windward Spine Parry,Steadfast Brushedge,F1,Void God L1 Low,B
+MV-ADV-MAC-010-04,Open Sky Step,Careening Machhilt,F1,Void God L1 Low,B
+MV-ADV-MAC-010-05,Oath Edge Bite,Ironmow,F5,Void God L1 Low,B
+MV-ADV-MAC-010-06,Bearing Lock Spine Bind,Fastening Mow,F2,Void God L1 Low,B
+MV-ADV-MAC-010-07,Gale Lean Counter,Thickbelly Greave,F3,Void God L1 Low,B
+MV-ADV-MAC-010-08,Oathbound Heavy Fall,Transfixing Hacksweep,F1,Void God L1 Low,B
+MV-ADV-MAC-010-09,Plateau Gale Cover,Aegis Bluntspine,F2,Void God L1 Low,B
+MV-ADV-MAC-004-06,Expanse Chopedge,Heavy Chopedge,F2,Demigod L3 Low,B
+MV-ADV-MAC-009-06,Expanse Wideback,Iron Wideback,F2,Champion L6 Low,B

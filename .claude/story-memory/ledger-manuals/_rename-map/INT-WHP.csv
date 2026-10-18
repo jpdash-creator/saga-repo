@@ -1,0 +1,71 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-WHP-001-01,Qi Down the Full Lash,Fall Flog,F3,Senior L3 Low,A
+MV-INT-WHP-001-02,Wrist Pulse Guard Loop,Popperscreen,F4,Senior L3 Low,A
+MV-INT-WHP-001-03,Gliding Entry Beside the Lash,Fleet Thong,F1,Senior L3 Low,A
+MV-INT-WHP-001-04,Tail Tip Touch Reading,Sure Lashend,F1,Senior L3 Low,A
+MV-INT-WHP-001-05,Whiplash Seam Cut,Acrid Lashcore,F1,Senior L3 Low,A
+MV-INT-WHP-001-06,Hooked Qi Pull,Thongscreen,F4,Senior L3 Low,A
+MV-INT-WHP-002-01,Wrist Cuff Throw,Gripping Keeper,F1,Senior L5 Mid,A
+MV-INT-WHP-002-02,Sword Hand Catch Loop,Lassoing Popper,F1,Senior L5 Mid,A
+MV-INT-WHP-002-03,Pull Anchor Stance,Dense Plait,F1,Senior L5 Mid,A
+MV-INT-WHP-002-04,Trailing Drag Step,Slinking Furl,F1,Senior L5 Mid,A
+MV-INT-WHP-002-05,Slack Line Whisper,Keepertonic,F4,Senior L5 Mid,A
+MV-INT-WHP-002-06,Weapon Wrench Tug,Levering Snap,F1,Senior L5 Mid,A
+MV-INT-WHP-002-07,Bound Arm Twist Pull,Tetherprop,F4,Senior L5 Mid,A
+MV-INT-WHP-003-01,Rolling Cast Opener,Snapslap,F4,Senior L6 Low,A
+MV-INT-WHP-003-02,Second Loop Carry,Cruel Lash,F1,Senior L6 Low,A
+MV-INT-WHP-003-03,Rolling Parry Wheel,Guarding Whiptail,F1,Senior L6 Low,A
+MV-INT-WHP-003-04,Sliding Cast Footwork,Coasting Tether,F1,Senior L6 Low,A
+MV-INT-WHP-003-05,Shoulder Loop Rest,Kindly Whipstock,F1,Senior L6 Low,A
+MV-INT-WHP-003-06,Low Roll Trip,Viselike Plait,F1,Senior L6 Low,A
+MV-INT-WHP-003-07,Unbroken Cast Chain,Raw Popper,F1,Senior L6 Low,A
+MV-INT-WHP-003-08,Wheel and Crack Finish,Brutal Flick,F1,Senior L6 Low,A
+MV-INT-WHP-004-01,Cracker Snap Warning,Plaitswat,F4,Warrior L1 Low,B
+MV-INT-WHP-004-02,Edge of the Cracker Cut,Emberpopper,F5,Warrior L1 Low,B
+MV-INT-WHP-004-03,Cutting Draw Backward,Wild Popcrack,F1,Warrior L1 Low,B
+MV-INT-WHP-004-04,Deflecting Crack,Hazefall,F5,Warrior L1 Low,B
+MV-INT-WHP-004-05,Forward Cut Step,Rill Lash,F2,Warrior L1 Low,B
+MV-INT-WHP-004-06,Ready Crack Stance,Regimen Fall,F2,Warrior L1 Low,B
+MV-INT-WHP-004-07,Crack Then Cut Combination,Honed Whiptail,F2,Warrior L1 Low,B
+MV-INT-WHP-004-08,Thunder Crack Stagger,Momentfurl,F5,Warrior L1 Low,B
+MV-INT-WHP-004-09,Cracker Slice at the Throat Line,Keeper Swat,F3,Warrior L1 Low,B
+MV-INT-WHP-005-01,Reach Test Lash,Harsh Tether,F1,Senior L8 Mid,A
+MV-INT-WHP-005-02,Full Stretch Stroke,Rough Flick,F1,Senior L8 Mid,A
+MV-INT-WHP-005-03,Recoil Home Draw,Rooted Whipheel,F1,Senior L8 Mid,A
+MV-INT-WHP-005-04,Recoil Guard Line,Shielding Whipstock,F1,Senior L8 Mid,A
+MV-INT-WHP-005-05,Backward Reach Hop,Fallhurdle,F4,Senior L8 Mid,A
+MV-INT-WHP-005-06,Short Hand Check,Whipheel Tonic,F3,Senior L8 Mid,A
+MV-INT-WHP-005-07,Whip Hand Steadying,Stalwart Lashend,F1,Senior L8 Mid,A
+MV-INT-WHP-005-08,Qi Stretched Reach Lash,Lurching Lashcore,F1,Senior L8 Mid,A
+MV-INT-WHP-005-09,Snap Home Parry,Thong Buckle,F3,Senior L8 Mid,A
+MV-INT-WHP-005-10,Long Recoil Counter Cut,Harsh Whipstock,F1,Senior L8 Mid,A
+MV-INT-WHP-006-01,Hand Binding Throw,Sprig Lash,F2,Warrior L2 Mid,B
+MV-INT-WHP-006-02,Shaft Binding Wrap,Sleet Popper,F2,Warrior L2 Mid,B
+MV-INT-WHP-006-03,Free Hand Guard Cover,Sturdy Plait,F1,Warrior L2 Mid,B
+MV-INT-WHP-006-04,Circling the Captive,Furl Curl,F3,Warrior L2 Mid,B
+MV-INT-WHP-006-05,Binding Tension Feel,Gapplait,F5,Warrior L2 Mid,B
+MV-INT-WHP-006-06,Qi Cinched Binding,Clutching Snap,F1,Warrior L2 Mid,B
+MV-INT-WHP-006-07,Twin Bind and Release,Entangling Whiptail,F1,Warrior L2 Mid,B
+MV-INT-WHP-007-01,Open Loop Shaping,Gripping Popcrack,F1,Senior L4 High,A
+MV-INT-WHP-007-02,Held Loop Guard,Fallbuckle,F4,Senior L4 High,A
+MV-INT-WHP-007-03,Loop Release Strike,Keen Popcrack,F1,Senior L4 High,A
+MV-INT-WHP-007-04,Looping Sidestep,Lithe Thong,F1,Senior L4 High,A
+MV-INT-WHP-007-05,Loop Weight Reading,Thonglinen,F4,Senior L4 High,A
+MV-INT-WHP-007-06,Slack Loop Deception,Gripping Lashcore,F1,Senior L4 High,A
+MV-INT-WHP-007-07,Pressured Loop Throw,Viselike Keeper,F1,Senior L4 High,A
+MV-INT-WHP-007-08,Loop Held on the Weapon Arm,Whipheel Prop,F3,Senior L4 High,A
+MV-INT-WHP-008-01,Driving Lash Behind the Heels,Keeperflog,F4,Senior L6 Peak,A
+MV-INT-WHP-008-02,Turning Lash Across the Nose,Tether Swat,F3,Senior L6 Peak,A
+MV-INT-WHP-008-03,Long Walking Stride,Springing Furl,F1,Senior L6 Peak,A
+MV-INT-WHP-008-04,Herd Watch Stance,Plaitcordial,F4,Senior L6 Peak,A
+MV-INT-WHP-008-05,Flank Driving Crack,Thongscorer,F4,Senior L6 Peak,A
+MV-INT-WHP-008-06,Stubborn Foe Turn,Snapprop,F4,Senior L6 Peak,A
+MV-INT-WHP-009-01,Straight Plaited Flick,Honedtether,F5,Warrior L3 Low,B
+MV-INT-WHP-009-02,Rotating Wrist Curve,Crimson Flick,F2,Warrior L3 Low,B
+MV-INT-WHP-009-03,Wrist Spin Shield,Brassfall,F5,Warrior L3 Low,B
+MV-INT-WHP-009-04,Rotating Slip Step,Rill Fall,F2,Warrior L3 Low,B
+MV-INT-WHP-009-05,Braid Twist Sense,Gapkeeper,F5,Warrior L3 Low,B
+MV-INT-WHP-009-06,Corkscrew Draw,Clutching Popper,F1,Warrior L3 Low,B
+MV-INT-WHP-009-07,Spiral Past the Guard,Cometfall,F5,Warrior L3 Low,B
+MV-INT-WHP-009-08,Counter-Rotation Parry,Shielding Lashend,F1,Warrior L3 Low,B
+MV-INT-WHP-009-09,Steering Wrist Hook,Splice Plait,F2,Warrior L3 Low,B

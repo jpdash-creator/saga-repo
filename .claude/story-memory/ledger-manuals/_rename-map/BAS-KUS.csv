@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-KUS-001-01,Planted Kama Stance,Angled Ballbind,F1,T1 Unawakened,A
+MV-BAS-KUS-001-02,Reaping Draw Cut,Entwine Drop,F3,T1 Unawakened,A
+MV-BAS-KUS-001-03,Hamstring Hook Snatch,Sickledrop,F4,T1 Unawakened,A
+MV-BAS-KUS-001-04,Coil Release Throw,Kusariblow,F4,T1 Unawakened,A
+MV-BAS-KUS-001-05,Alternating Chain Haul,Tripping Weightswing,F1,T1 Unawakened,A
+MV-BAS-KUS-001-06,Backstep Chain Screen,Kusariwedge,F4,T1 Unawakened,A
+MV-BAS-KUS-002-01,Wrist Loop Spin,Kamastay,F4,T1 Skin,A
+MV-BAS-KUS-002-02,Overarm Weight Drop,Downward Sickleblade,F1,T1 Skin,A
+MV-BAS-KUS-002-03,Sidelong Loop Lash,Tangledash,F4,T1 Skin,A
+MV-BAS-KUS-002-04,Slack Gather Step,Swaying Chainloop,F1,T1 Skin,A
+MV-BAS-KUS-002-05,Shoulder-Height Cast,Single Tangle,F1,T1 Skin,A
+MV-BAS-KUS-003-01,Low Reaper's Crouch,Snug Chainlength,F1,T1 Muscle,A
+MV-BAS-KUS-003-02,Ankle Stalk Cut,Single Tangknob,F1,T1 Muscle,A
+MV-BAS-KUS-003-03,Rising Crescent Slash,Pommelring Dash,F3,T1 Muscle,A
+MV-BAS-KUS-003-04,Haft Block Against the Shin,Kept Weightball,F1,T1 Muscle,A
+MV-BAS-KUS-003-05,Rolling Weight Under-Throw,Sicklehook Hit,F3,T1 Muscle,A
+MV-BAS-KUS-003-06,Pivot and Draw Back,Swaying Chainkey,F1,T1 Muscle,A
+MV-BAS-KUS-003-07,Wrist Slap with the Flat,Turning Snare,F1,T1 Muscle,A
+MV-BAS-KUS-004-01,Open Palm Cast,Quick Ballbind,F1,T1 Tendon,A
+MV-BAS-KUS-004-02,Figure-Eight Swing,Angled Pommelring,F1,T1 Tendon,A
+MV-BAS-KUS-004-03,Dropping Weight Smash,Descending Lashcut,F1,T1 Tendon,A
+MV-BAS-KUS-004-04,Hip Turn Fling,Gnawing Rodhandle,F1,T1 Tendon,A
+MV-BAS-KUS-004-05,Weight Sway Reading,Kusarigauge,F4,T1 Tendon,A
+MV-BAS-KUS-004-06,Short Reel-In Step,Snarehop,F4,T1 Tendon,A
+MV-BAS-KUS-005-01,Reverse Grip Hold,Kusaristay,F4,T1 Bone,A
+MV-BAS-KUS-005-02,Thumb-Spine Draw,Descending Entwine,F1,T1 Bone,A
+MV-BAS-KUS-005-03,Inner Edge Rake,Narrow Rodhandle,F1,T1 Bone,A
+MV-BAS-KUS-005-04,Haft Butt Knock,Tanglehit,F4,T1 Bone,A
+MV-BAS-KUS-005-05,Kama Collar Snag,Towing Tangknob,F1,T1 Bone,A
+MV-BAS-KUS-005-06,Wrist-Side Blade Parry,Chainlength Wedge,F3,T1 Bone,A
+MV-BAS-KUS-005-07,Hooked Elbow Drag,Pulling Lashcut,F1,T1 Bone,A
+MV-BAS-KUS-005-08,Quarter-Turn Footwork,Quiet Tangle,F1,T1 Bone,A
+MV-BAS-KUS-006-01,Warmed Haft Grip,Sicklestay,F4,Senior L1 Low,A
+MV-BAS-KUS-006-02,Haft-Line Thrust,Snarebump,F4,Senior L1 Low,A
+MV-BAS-KUS-006-03,Edge-Brightening Cut,Kusaridash,F4,Senior L1 Low,A
+MV-BAS-KUS-006-04,Qi-Lit Weight Throw,Sudden Weightswing,F1,Senior L1 Low,A
+MV-BAS-KUS-006-05,Chain Pulse Return,Fixing Snare,F1,Senior L1 Low,A
+MV-BAS-KUS-006-06,Haft Pulse Stepping,Easing Sicklepull,F1,Senior L1 Low,A
+MV-BAS-KUS-007-01,Hook-and-Haft Cross Guard,Holding Chainloop,F1,Senior L2 Low,A
+MV-BAS-KUS-007-02,Falling Blade Catch,Kusaricowl,F4,Senior L2 Low,A
+MV-BAS-KUS-007-03,Hooked Parry Rake,Solid Chainkey,F1,Senior L2 Low,A
+MV-BAS-KUS-007-04,Lean-Away Slip,Stepping Sicklepull,F1,Senior L2 Low,A
+MV-BAS-KUS-007-05,Counter Hook at the Wrist,Pulling Snare,F1,Senior L2 Low,A
+MV-BAS-KUS-008-01,Measured Cast to the Mark,Tangknob Dash,F3,Senior L3 Low,A
+MV-BAS-KUS-008-02,Rising Weight Arc,Stiff Pommelring,F1,Senior L3 Low,A
+MV-BAS-KUS-008-03,Dipping Weight Cast,Firm Weightball,F1,Senior L3 Low,A
+MV-BAS-KUS-008-04,Two-Beat Return Haul,Nabbing Weightball,F1,Senior L3 Low,A
+MV-BAS-KUS-008-05,Cast Over the Guard,Blunt Chainkey,F1,Senior L3 Low,A
+MV-BAS-KUS-008-06,Walking Loop Cover,Kusarihusk,F4,Senior L3 Low,A
+MV-BAS-KUS-008-07,Skipping Side Step,Backward Sicklehook,F1,Senior L3 Low,A
+MV-BAS-KUS-009-01,Slack-Held Ready Pose,Folded Rodhandle,F1,Senior L4 Low,A
+MV-BAS-KUS-009-02,Snap to Taut Line,Firm Lashcut,F1,Senior L4 Low,A
+MV-BAS-KUS-009-03,Tension Check Pull,Sicklenote,F4,Senior L4 Low,A
+MV-BAS-KUS-009-04,Slack Drop Feint,Stopping Ballbind,F1,Senior L4 Low,A
+MV-BAS-KUS-009-05,Chain Span Block,Planted Sickleblade,F1,Senior L4 Low,A
+MV-BAS-KUS-009-06,Half-Coil Retreat,Skipping Sicklepull,F1,Senior L4 Low,A
+MV-BAS-KUS-010-01,Wide Reaping Arc,Open Entwine,F1,Senior L5 Low,A
+MV-BAS-KUS-010-02,Return Arc Cut,Kamadrop,F4,Senior L5 Low,A
+MV-BAS-KUS-010-03,Neck-Height Reaping Sweep,Kusarihit,F4,Senior L5 Low,A
+MV-BAS-KUS-010-04,Shin-Cutting Reaping Sweep,Upward Chainloop,F1,Senior L5 Low,A
+MV-BAS-KUS-010-05,Arc Stop Guard,Kusarilid,F4,Senior L5 Low,A
+MV-BAS-KUS-010-06,Weight Counter-Swing,Sicklestrike,F4,Senior L5 Low,A
+MV-BAS-KUS-010-07,Arc-Chaining Step,Shifting Chainlength,F1,Senior L5 Low,A
+MV-BAS-KUS-010-08,Throat-Level Hook Hold,Turning Sicklehook,F1,Senior L5 Low,A

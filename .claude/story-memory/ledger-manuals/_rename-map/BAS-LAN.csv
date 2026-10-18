@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-LAN-001-01,Two-Hand Shaft Heft,Vampnote,F4,Unawakened,A
+MV-BAS-LAN-001-02,Level Point Walk,Easing Impact,F1,Unawakened,A
+MV-BAS-LAN-001-03,Hip-Drive Lance Thrust,Descending Graper,F1,Unawakened,A
+MV-BAS-LAN-001-04,Butt-Spike Stamp,Counterbalance Strike,F3,Unawakened,A
+MV-BAS-LAN-001-05,Shaft Cross Fend,Saddlepause,F4,Unawakened,A
+MV-BAS-LAN-001-06,Backstep Point Reset,Vamppace,F4,Unawakened,A
+MV-BAS-LAN-002-01,Wide Stance Lance Plant,Saddlegauge,F4,Skin,A
+MV-BAS-LAN-002-02,Waist-High Short Jab,Vampdash,F4,Skin,A
+MV-BAS-LAN-002-03,Long-Reach Lunge,Momentum Blow,F3,Skin,A
+MV-BAS-LAN-002-04,Haft Slap Aside,Folded Bellrest,F1,Skin,A
+MV-BAS-LAN-002-05,Point-Down Guard Drop,Settled Lanceshaft,F1,Skin,A
+MV-BAS-LAN-003-01,Marching Slope Carry,Kind Vamplate,F1,Muscle,A
+MV-BAS-LAN-003-02,Snap-Down Thrust,Firm Lanceguard,F1,Muscle,A
+MV-BAS-LAN-003-03,Closed-Rank Short Jab,Firm Tilt,F1,Muscle,A
+MV-BAS-LAN-003-04,Quarter-Turn Wheel,Backward Coronel,F1,Muscle,A
+MV-BAS-LAN-003-05,Iron-Collar Catch,Lowered Couchrest,F1,Muscle,A
+MV-BAS-LAN-003-06,Knee-Level Crouch Advance,Impactamble,F4,Muscle,A
+MV-BAS-LAN-003-07,Butt Heel-Hook Trip,Bowlpause,F4,Muscle,A
+MV-BAS-LAN-004-01,Chest-Strap Sling Carry,Coronel Note,F3,Tendon,A
+MV-BAS-LAN-004-02,Strap-Slip Drawn Thrust,Narrow Shatter,F1,Tendon,A
+MV-BAS-LAN-004-03,Trailing Butt Sweep,Descending Lancehead,F1,Tendon,A
+MV-BAS-LAN-004-04,Long-Stride Pivot,Skipping Arrestrest,F1,Tendon,A
+MV-BAS-LAN-004-05,Hand-Slide Close Punch,Tripping Shatter,F1,Tendon,A
+MV-BAS-LAN-004-06,Overhead Straight-Arm Ward,Vamphusk,F4,Tendon,A
+MV-BAS-LAN-005-01,Butt-in-Earth Set,Saddlereview,F4,Bone,A
+MV-BAS-LAN-005-02,Chest-Height Angled Meet,Hard Bowl,F1,Bone,A
+MV-BAS-LAN-005-03,Kneeling Shaft Brace,Hooding Graper,F1,Bone,A
+MV-BAS-LAN-005-04,Charge-Line Slip,Bowlamble,F4,Bone,A
+MV-BAS-LAN-005-05,Passing Flank Jab,Narrow Bowl,F1,Bone,A
+MV-BAS-LAN-005-06,Neighbor Shaft Cross-Lock,Arrestrest Count,F3,Bone,A
+MV-BAS-LAN-005-07,Stirrup-Leg Lever Pull,Hitching Impact,F1,Bone,A
+MV-BAS-LAN-005-08,Free-and-Replant Skip,Impactdodge,F4,Bone,A
+MV-BAS-LAN-006-01,Deep-Seat Gait Read,Graperreview,F4,Senior,A
+MV-BAS-LAN-006-02,Breast-Rest Couch,Smooth Vamplate,F1,Senior,A
+MV-BAS-LAN-006-03,Trot-Line Aim,Narrow Tilt,F1,Senior,A
+MV-BAS-LAN-006-04,Rein-Hand Gentle Turn,Sideways Momentum,F1,Senior,A
+MV-BAS-LAN-006-05,Neck-Cross Near Guard,Lanceshaft Husk,F3,Senior,A
+MV-BAS-LAN-006-06,Contact-Instant Point Lift,Saddlehit,F4,Senior,A
+MV-BAS-LAN-006-07,Wound-Clear Wheel,Light Couchrest,F1,Senior,A
+MV-BAS-LAN-007-01,Stirrup-Stand Rise,Watching Counterbalance,F1,Senior,A
+MV-BAS-LAN-007-02,Elbow-Pin Hold,Judging Lanceguard,F1,Senior,A
+MV-BAS-LAN-007-03,Gallop Lean Strike,Saddledrop,F4,Senior,A
+MV-BAS-LAN-007-04,Haunch-Heel Slowing,Graperdodge,F4,Senior,A
+MV-BAS-LAN-007-05,Shoulder-Flat Counter Ward,Bellrest Wedge,F3,Senior,A
+MV-BAS-LAN-007-06,Point-Dip Distance Glance,Steady Vamplate,F1,Senior,A
+MV-BAS-LAN-008-01,Rail-Side Even Pace,Skipping Momentum,F1,Senior,A
+MV-BAS-LAN-008-02,Target-Shield Center Hit,Firm Ride,F1,Senior,A
+MV-BAS-LAN-008-03,Neck-Snap Clean Break,Impact Drop,F3,Senior,A
+MV-BAS-LAN-008-04,Passing-Rider Outward Tilt,Lancehead Pause,F3,Senior,A
+MV-BAS-LAN-008-05,Wide-Arc Return Reset,Tilt Pace,F3,Senior,A
+MV-BAS-LAN-009-01,Canter Ring Thread,Graperdash,F4,Senior,A
+MV-BAS-LAN-009-02,Slanted Post Bite,Straight Ride,F1,Senior,A
+MV-BAS-LAN-009-03,Quintain Arm Knock,Ridebump,F4,Senior,A
+MV-BAS-LAN-009-04,Shaft-Line Ring Eye,Kind Counterbalance,F1,Senior,A
+MV-BAS-LAN-009-05,Mid-Run Stride Check,Easing Arrestrest,F1,Senior,A
+MV-BAS-LAN-009-06,Sandbag Bat-Away,Resting Bellrest,F1,Senior,A
+MV-BAS-LAN-009-07,Low-Ring Shoulder Reach,Measured Lanceguard,F1,Senior,A
+MV-BAS-LAN-009-08,Last-Ring Collecting Pull,Tiltstay,F4,Senior,A
+MV-BAS-LAN-010-01,Rein-and-Shaft Single Grip,Watching Lancehead,F1,Senior,A
+MV-BAS-LAN-010-02,One-Handed Foot Poke,Low Coronel,F1,Senior,A
+MV-BAS-LAN-010-03,Neck-Rein Post Weave,Lanceshaft Skitter,F3,Senior,A
+MV-BAS-LAN-010-04,Rein-Hand Under-Shaft Ward,Saddlestay,F4,Senior,A
+MV-BAS-LAN-010-05,Saddle-Twist Butt Strike,Forward Bowl,F1,Senior,A
+MV-BAS-LAN-010-06,Slack-Rein Mount Startle,Locking Graper,F1,Senior,A

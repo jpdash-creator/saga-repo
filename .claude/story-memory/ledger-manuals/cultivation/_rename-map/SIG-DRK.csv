@@ -1,0 +1,11 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-DRK-002-01,Court Umbra,Umbra Edge,INSTANT,Warrior L1 Low,Basic
+CMV-SIG-DRK-002-08,Court Pall,Judging Pall,CHANNELED,Champion L1 Low,Advanced
+CMV-SIG-DRK-002-10,Sealing Court,Sealing Verdict,CAST,Demigod L1 Low,Elite
+CMV-SIG-DRK-003-01,River Dusk,Dusk Ribbon,INSTANT,Warrior L1 Low,Basic
+CMV-SIG-DRK-004-02,Court Hawk,Dark Stoop,INSTANT,Warrior L1 Low,Basic
+CMV-SIG-DRK-005-03,Wind Hide,Breeze Hide,CHANNELED,Warrior L1 Low,Basic
+CMV-SIG-DRK-006-05,Oath Wall,Oathbound Pall,CHANNELED,Warrior L1 Low,Intermediate
+CMV-SIG-DRK-007-03,Plain Stride,Bannered Stride,INSTANT,Warrior L1 Low,Basic
+CMV-SIG-DRK-007-09,Black Expanse,Black Eclipse,CAST,Demigod L1 Low,Elite
+CMV-SIG-DRK-007-10,Plain Stroke,Blackfall,INSTANT,Warrior L1 Low,Signature

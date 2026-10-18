@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-society-p23-affiliation-trans-scale-cross-scale-relationship",
+ "part": 23,
+ "area": 11,
+ "sequence_in_part": 11,
+ "title": "Affiliation at Trans-Scale: Cross-Scale Relationship Structures",
+ "domain": "society",
+ "source_file": "Part_23_People_Society_Affiliation_Law.md",
+ "start_line": 729,
+ "end_line": 768,
+ "line_count": 40,
+ "output_path": ".claude/skills/ssc-society-p23-affiliation-trans-scale-cross-scale-relationship/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-character-p17-foundational-principles-hero",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Affiliation bonds for heroes governed by Part 17 arc phase"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-growth-progression-law",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Affiliation bonds for heroes governed by Part 17 arc phase"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-cultivation-power-governance",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Affiliation bonds for heroes governed by Part 17 arc phase"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-ideology-belief-arc",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Affiliation bonds for heroes governed by Part 17 arc phase"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-psychology",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Affiliation bonds for heroes governed by Part 17 arc phase"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-ledger",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Affiliation bonds for heroes governed by Part 17 arc phase"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-struggle-challenge-architecture",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Affiliation bonds for heroes governed by Part 17 arc phase"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-relationships-faction-architecture",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Affiliation bonds for heroes governed by Part 17 arc phase"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-identity-self-perception",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Affiliation bonds for heroes governed by Part 17 arc phase"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-combat-architecture",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Affiliation bonds for heroes governed by Part 17 arc phase"
+  }
+ ]
+}

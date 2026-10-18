@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-KUK-001-01,Stride Chop Lunge,Rude Slash,F1,Senior,A
+MV-INT-KUK-001-02,Qi-Lengthened Stride Hew,Stern Hookbelly,F1,Senior,A
+MV-INT-KUK-001-03,Forward Check Step,Whumpcurl,F4,Senior,A
+MV-INT-KUK-001-04,Rising Spine Guard,Stubborn Heavytip,F1,Senior,A
+MV-INT-KUK-001-05,Stride Rhythm Sensing,Waisttonic,F4,Senior,A
+MV-INT-KUK-001-06,Long Stride Falling Chop,Swift Chip,F1,Senior,A
+MV-INT-KUK-001-07,Chasing Double Hew,Keen Inwardcurve,F1,Senior,A
+MV-INT-KUK-002-01,Notch Seat Chop,Emberchip,F5,Warrior,B
+MV-INT-KUK-002-02,Belly Hook at the Elbow,Waistslap,F4,Warrior,B
+MV-INT-KUK-002-03,Notch Stop Block,Dense Chopmass,F1,Warrior,B
+MV-INT-KUK-002-04,Hooked Wrist Pull-In,Chipbuckle,F4,Warrior,B
+MV-INT-KUK-002-05,Notch Slip Disarm,Discord Bulgeedge,F2,Warrior,B
+MV-INT-KUK-002-06,Hook Side Pivot,Brawn Kinkspine,F2,Warrior,B
+MV-INT-KUK-002-07,Catch and Drag Down,Entangling Notch,F1,Warrior,B
+MV-INT-KUK-002-08,Hook-Pull Throwing Tumble,Levering Horntang,F1,Warrior,B
+MV-INT-KUK-003-01,Haft Shear Cut,Ruthless Lopstroke,F1,Senior,A
+MV-INT-KUK-003-02,Under-Haft Slide In,Lithe Forwardbelly,F1,Senior,A
+MV-INT-KUK-003-03,Staff Turn Parry,Kinkscreen,F4,Senior,A
+MV-INT-KUK-003-04,Shaft Notch Trap,Lassoing Chip,F1,Senior,A
+MV-INT-KUK-003-05,Haft-Splitting Hew,Keen Cho,F1,Senior,A
+MV-INT-KUK-003-06,Slide-Along and Cut Hand,Wild Pommelcap,F1,Senior,A
+MV-INT-KUK-004-01,Two-Handed Overhead Hew,Bold Pommelcap,F1,Warrior,B
+MV-INT-KUK-004-02,Shoulder-Turn Cross Chop,Kinkslap,F4,Warrior,B
+MV-INT-KUK-004-03,Both-Hand Spine Brace,Forwardbelly Barrier,F3,Warrior,B
+MV-INT-KUK-004-04,Low Gather and Rise,Gritgash,F5,Warrior,B
+MV-INT-KUK-004-05,Handle End Shove,Lassoing Kinkspine,F1,Warrior,B
+MV-INT-KUK-004-06,Two-Hand Weight Reading,Lunarkink,F5,Warrior,B
+MV-INT-KUK-004-07,Shoulder-Gathered Great Hew,Savage Whump,F1,Warrior,B
+MV-INT-KUK-004-08,Sweeping Twin-Grip Arc,Rubble Whump,F2,Warrior,B
+MV-INT-KUK-004-09,Held Weight Counter Drop,Hookbelly Prop,F3,Warrior,B
+MV-INT-KUK-005-01,Rung One Forearm Chop,Brass Horntang,F2,Warrior,B
+MV-INT-KUK-005-02,Rung Two Rib Hew,Notchscorer,F4,Warrior,B
+MV-INT-KUK-005-03,Rung Three Shoulder Drop,Dire Heavytip,F1,Warrior,B
+MV-INT-KUK-005-04,Counted Beat Parry,Dense Bulgeedge,F1,Warrior,B
+MV-INT-KUK-005-05,Pulse Timing Step,Rill Slash,F2,Warrior,B
+MV-INT-KUK-005-06,Spine Tap Spoiler,Discord Gash,F2,Warrior,B
+MV-INT-KUK-005-07,Weight Pulse Counting,Waistcordial,F4,Warrior,B
+MV-INT-KUK-005-08,Peak-Pulse Heavy Chop,Rough Lopstroke,F1,Warrior,B
+MV-INT-KUK-005-09,Pulse Stagger Hew Chain,Gash Swat,F3,Warrior,B
+MV-INT-KUK-005-10,Settled Weight Anchor Guard,Brass Inwardcurve,F2,Warrior,B
+MV-INT-KUK-006-01,Inside-Reach Belly Cut,Waistflog,F4,Senior,A
+MV-INT-KUK-006-02,Elbow Pocket Hook,Lurching Hookbelly,F1,Senior,A
+MV-INT-KUK-006-03,Close Guard Fold,Unmoving Forwardbelly,F1,Senior,A
+MV-INT-KUK-006-04,Crowded Shuffle,Veering Cho,F1,Senior,A
+MV-INT-KUK-006-05,Reach-Reading Watch,Attentive Inwardcurve,F1,Senior,A
+MV-INT-KUK-006-06,Belly Sweep of the Knees,Acrid Notch,F1,Senior,A
+MV-INT-KUK-006-07,Clinch Break and Chop,Choprop,F4,Senior,A
+MV-INT-KUK-007-01,Sheath Pull Slash,Notchflog,F4,Warrior,B
+MV-INT-KUK-007-02,Returning Underhand Cut,Kinkspine Scorer,F3,Warrior,B
+MV-INT-KUK-007-03,Quick Reseat Guard,Unmoving Cho,F1,Warrior,B
+MV-INT-KUK-007-04,Heel-Turn Return,Rill Pommelcap,F2,Warrior,B
+MV-INT-KUK-007-05,Sheath Hand Check,Gallgash,F5,Warrior,B
+MV-INT-KUK-007-06,Return Line Reading,Horntang Poultice,F3,Warrior,B
+MV-INT-KUK-007-07,Qi-Carried Return Chop,Honed Chip,F2,Warrior,B
+MV-INT-KUK-007-08,Out-and-Back Guard Chop,Rill Heavytip,F2,Warrior,B
+MV-INT-KUK-008-01,Ground Pin Press,Notchprop,F4,Senior,A
+MV-INT-KUK-008-02,Pinned Edge Slide,Chipslap,F4,Senior,A
+MV-INT-KUK-008-03,Foot on the Flat,Gagging Chopmass,F1,Senior,A
+MV-INT-KUK-008-04,Pin Release Step Back,Lithe Bulgeedge,F1,Senior,A
+MV-INT-KUK-008-05,Qi-Locked Body Pin,Chipbarrier,F4,Senior,A
+MV-INT-KUK-008-06,Pin and Finish Chop,Brutal Gash,F1,Senior,A

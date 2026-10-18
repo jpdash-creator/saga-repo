@@ -1,0 +1,5 @@
+move_id,old_name,new_name,function
+CMV-ELI-PRT-008-01,Ward Line,Ward Bar,Defense:Shield
+CMV-ELI-PRT-008-05,Line Reading,Strike Reading,Support:Sense
+CMV-ELI-PRT-012-07,Vow Seal,Warden Seal,Control:Seal
+CMV-ELI-PRT-004-06,Basin Gathering,Shock Gathering,INSTANT,,Intermediate

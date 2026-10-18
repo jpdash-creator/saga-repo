@@ -1,0 +1,125 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-BOW-001-01,Piercing Draw Settle,Waning Quiver,F2,Champion L1 Low,B
+MV-ADV-BOW-001-02,Plate Edge Seeking,Waningriser,F5,Champion L1 Low,B
+MV-ADV-BOW-001-03,Narrow Head Loose,Blaze Bowgrip,F2,Champion L1 Low,B
+MV-ADV-BOW-001-04,Heavy Stave Interpose,Thorn Limb,F2,Champion L1 Low,B
+MV-ADV-BOW-001-05,Plate Splitting Bowstring Draw,Glint Serving,F2,Champion L1 Low,B
+MV-ADV-BOW-001-06,Shield Rim Cracker,Grinding Loose,F1,Champion L1 Low,B
+MV-ADV-BOW-001-07,Hardened Shaft Breach,Furrowing Riser,F1,Champion L1 Low,B
+MV-ADV-BOW-001-08,Breach Draw Echo,Tearing Vanes,F1,Champion L1 Low,B
+MV-ADV-BOW-002-01,Volley Height Setting,Verity Nock,F2,Champion L3 Mid,B
+MV-ADV-BOW-002-02,Rain Draw Gather,Novaloose,F5,Champion L3 Mid,B
+MV-ADV-BOW-002-03,Pace Quiver Flick,Nova Arrowrest,F2,Champion L3 Mid,B
+MV-ADV-BOW-002-04,Falling Mark Shift,Might Snapshot,F2,Champion L3 Mid,B
+MV-ADV-BOW-002-05,Falling Arrow Rain,Wrecking Limbtip,F1,Champion L3 Mid,B
+MV-ADV-BOW-002-06,Stone Rain Arc Fan,Harrowing Release,F1,Champion L3 Mid,B
+MV-ADV-BOW-002-07,Vault Drop Shaft,Hoarfrost Anchor,F2,Champion L3 Mid,B
+MV-ADV-BOW-002-08,Sky Dark Volley,Downpour Draw,F2,Champion L3 Mid,B
+MV-ADV-BOW-002-09,Dropping Shaft Barrage,Daybreak Release,F2,Champion L3 Mid,B
+MV-ADV-BOW-003-01,Quiver Pack Order,Invigorating Vanes,F1,Ruler L1 Low,B
+MV-ADV-BOW-003-02,Draw Hand Reset,Chime Loose,F2,Ruler L1 Low,B
+MV-ADV-BOW-003-03,Shot Pause Guard,Annealed Serving,F1,Ruler L1 Low,B
+MV-ADV-BOW-003-04,Rank Step Rhythm,Silt Bowstring,F2,Ruler L1 Low,B
+MV-ADV-BOW-003-05,Unbroken Quiver Stream,Shade Volley,F2,Ruler L1 Low,B
+MV-ADV-BOW-003-06,Shaft Fan Return,Vanestorment,F4,Ruler L1 Low,B
+MV-ADV-BOW-003-07,Stave Counter Loose,Houranchor,F5,Ruler L1 Low,B
+MV-ADV-BOW-003-08,Last Quiver Strike,Nova Limbtip,F2,Ruler L1 Low,B
+MV-ADV-BOW-003-09,Quiver Screen Guard,Iron Bowstring,F2,Ruler L1 Low,B
+MV-ADV-BOW-004-01,Field Along String,Verity Limb,F2,Demigod L1 Low,B
+MV-ADV-BOW-004-02,Field Nock Seat,Blaze Anchor,F2,Demigod L1 Low,B
+MV-ADV-BOW-004-03,Field Held Draw,Rumblevanes,F5,Demigod L1 Low,B
+MV-ADV-BOW-004-04,Field Stave Parry,Gustnock,F5,Demigod L1 Low,B
+MV-ADV-BOW-004-05,Field Step Turn,Gust Snapshot,F2,Demigod L1 Low,B
+MV-ADV-BOW-004-06,Field Wrapped Shaft,Arrowrest Torment,F3,Demigod L1 Low,B
+MV-ADV-BOW-004-07,Field Pulse String Pluck,Toxin Bowgrip,F2,Demigod L1 Low,B
+MV-ADV-BOW-004-08,Bow Field Bind Cord,Thorn Volley,F2,Demigod L1 Low,B
+MV-ADV-BOW-004-09,Field Piercing Arrow,Severing Snapshot Assault,F6b,Demigod L1 Low,B
+MV-ADV-BOW-004-10,Field Net Of Shafts,Slag Draw,F2,Demigod L1 Low,B
+MV-ADV-BOW-005-01,Far Sight Seating,Vigorous Quiver,F1,Demigod L3 Low,B
+MV-ADV-BOW-005-02,Long Field Draw,Facet Nock,F2,Demigod L3 Low,B
+MV-ADV-BOW-005-03,Flat Reach Release,Quiverthrash,F4,Demigod L3 Low,B
+MV-ADV-BOW-005-04,Drift Offset Aim,Vanesremedy,F4,Demigod L3 Low,B
+MV-ADV-BOW-005-05,Reach Lifting Arrow,Chimeriser,F5,Demigod L3 Low,B
+MV-ADV-BOW-005-06,Far Eye Range Sense,Expanse Limbtip,F2,Demigod L3 Low,B
+MV-ADV-BOW-005-07,Far Mark Pinning Shot,Stifling Release,F1,Demigod L3 Low,B
+MV-ADV-BOW-005-08,Horizon Splitting Arrow,Severing Bowstring,F1,Demigod L3 Low,B
+MV-ADV-BOW-005-09,Far Reach Descent,Scalding Arrowrest,F1,Demigod L3 Low,B
+MV-ADV-BOW-006-01,Paired Anchor Nock,Discerning Riser,F1,Champion L2 Low,B
+MV-ADV-BOW-006-02,Twin Draw Count,Drawtorment,F4,Champion L2 Low,B
+MV-ADV-BOW-006-03,Basin Rank Step,Gust Bowgrip,F2,Champion L2 Low,B
+MV-ADV-BOW-006-04,Partner Cover Turn,Torrent Limb,F2,Champion L2 Low,B
+MV-ADV-BOW-006-05,River Step Volley,Charter Draw,F2,Champion L2 Low,B
+MV-ADV-BOW-006-06,Hawk Pair Strike,Nocktorment,F4,Champion L2 Low,B
+MV-ADV-BOW-006-07,Azure Twin Draw,Splintering Loose,F1,Champion L2 Low,B
+MV-ADV-BOW-006-08,Dual Track Shaft Dive,Hollow Volley,F2,Champion L2 Low,B
+MV-ADV-BOW-006-09,Twin Court Arrow Rain,Furrowing Nock,F1,Champion L2 Low,B
+MV-ADV-BOW-007-01,Hawk Eye Gaze Settle,Rousing Riser,F1,Demigod L2 Mid,B
+MV-ADV-BOW-007-02,Twin Range Reading,Renewing Serving,F1,Demigod L2 Mid,B
+MV-ADV-BOW-007-03,Hawk Pitch Draw,Hoarfrost Vanes,F2,Demigod L2 Mid,B
+MV-ADV-BOW-007-04,Near Far Switch,Cleaving Draw,F1,Demigod L2 Mid,B
+MV-ADV-BOW-007-05,Hawk Wing Nock Step,Vanesspurt,F4,Demigod L2 Mid,B
+MV-ADV-BOW-007-06,Hawk Dive Arrow,Scything Anchor,F1,Demigod L2 Mid,B
+MV-ADV-BOW-007-07,Twin Range Stream,Shadeanchor,F5,Demigod L2 Mid,B
+MV-ADV-BOW-007-08,Hawk Pinion Pin Shot,Suppressing Release,F1,Demigod L2 Mid,B
+MV-ADV-BOW-007-09,Azure Hawk Sky Piercer,Iron Loose,F2,Demigod L2 Mid,B
+MV-ADV-BOW-007-10,Twin Hawk Falling Pair,Vanesassault,F4,Demigod L2 Mid,B
+MV-ADV-BOW-008-01,Bank Foot Setting,Mightloose,F5,Champion L5 Low,B
+MV-ADV-BOW-008-02,River Fog Sight,Chimelimb,F5,Champion L5 Low,B
+MV-ADV-BOW-008-03,Spotter Call Loose,Rupturing Serving,F1,Champion L5 Low,B
+MV-ADV-BOW-008-04,Paired Quiver Share,Waning Arrowrest,F2,Champion L5 Low,B
+MV-ADV-BOW-008-05,River Crossing Cover Fire,Intentlimb,F5,Champion L5 Low,B
+MV-ADV-BOW-008-06,Basin Rim Rain,Nockthrash,F4,Champion L5 Low,B
+MV-ADV-BOW-008-07,Twin Bank Pin Shot,Paralyzing Snapshot,F1,Champion L5 Low,B
+MV-ADV-BOW-008-08,Azure Current Arrow,Tempered Quiver,F2,Champion L5 Low,B
+MV-ADV-BOW-008-09,Twin River Barrage,Splintering Granite Nock,F6a,Champion L5 Low,B
+MV-ADV-BOW-009-01,Dual Quiver Order,Invigorating Quiver,F1,Demigod L5 Low,B
+MV-ADV-BOW-009-02,Track Switch Nock,Vanes Maelstrom,F3,Demigod L5 Low,B
+MV-ADV-BOW-009-03,Hawk Quiver Reach,Rupturing Limbtip,F1,Demigod L5 Low,B
+MV-ADV-BOW-009-04,Light Quiver Pull,Facetriser,F5,Demigod L5 Low,B
+MV-ADV-BOW-009-05,Two Track Arrow Weave,Intentdraw,F5,Demigod L5 Low,B
+MV-ADV-BOW-009-06,Hawk Shaft Return Pull,Volley Torment,F3,Demigod L5 Low,B
+MV-ADV-BOW-009-07,Twin Quiver Stream,Ponderous Anchor,F2,Demigod L5 Low,B
+MV-ADV-BOW-009-08,Dual Hawk Piercing Pair,Needling Riser,F1,Demigod L5 Low,B
+MV-ADV-BOW-009-09,Azure Court Quiver Burst,Limb Torment,F3,Demigod L5 Low,B
+MV-ADV-BOW-010-01,Plateau Edge Stand,Might Arrowrest,F2,Demigod L1 Mid,B
+MV-ADV-BOW-010-02,Wind Bearing Reading,Waningvanes,F5,Demigod L1 Mid,B
+MV-ADV-BOW-010-03,Gale Offset Aim,Glint Bowgrip,F2,Demigod L1 Mid,B
+MV-ADV-BOW-010-04,Bearing Taken Draw,Chimequiver,F5,Demigod L1 Mid,B
+MV-ADV-BOW-010-05,Gust Break Stance,Thorn Bowgrip,F2,Demigod L1 Mid,B
+MV-ADV-BOW-010-06,Wind Riding Arrow,Novadraw,F5,Demigod L1 Mid,B
+MV-ADV-BOW-010-07,Lull Waiting Draw,Chimenock,F5,Demigod L1 Mid,B
+MV-ADV-BOW-010-08,Plateau Sweep Stream,Trouncing Anchor,F1,Demigod L1 Mid,B
+MV-ADV-BOW-010-09,Oath Bearing Arrow,Grinding Snapshot,F1,Demigod L1 Mid,B
+MV-ADV-BOW-010-10,Gale Fletch Barrage,Anchorthrash,F4,Demigod L1 Mid,B
+MV-ADV-BOW-011-01,Oath Stance Take,Discerning Limbtip,F1,Champion L2 Mid,B
+MV-ADV-BOW-011-02,Wind Hand Draw,Gustquiver,F5,Champion L2 Mid,B
+MV-ADV-BOW-011-03,Plateau Loose,Rumble Volley,F2,Champion L2 Mid,B
+MV-ADV-BOW-011-04,Sworn Guard Turn,Equipoise Limb,F2,Champion L2 Mid,B
+MV-ADV-BOW-011-05,Wind Sworn Volley,Loosebarrage,F4,Champion L2 Mid,B
+MV-ADV-BOW-011-06,Oath Bearing Pin Shot,Nockplating,F4,Champion L2 Mid,B
+MV-ADV-BOW-011-07,Gale Flank Loose,Hoarfrost Riser,F2,Champion L2 Mid,B
+MV-ADV-BOW-011-08,Plateau Oath Piercer,Scalding Vanes,F1,Champion L2 Mid,B
+MV-ADV-BOW-011-09,Wind Sworn Arrow Rain,Daybreak Quiver,F2,Champion L2 Mid,B
+MV-ADV-BOW-012-01,Open Draw Bearing,Remnant Bowstring,F2,Demigod L4 Low,B
+MV-ADV-BOW-012-02,Long Wind Draw,Cleaving Serving,F1,Demigod L4 Low,B
+MV-ADV-BOW-012-03,Bearing Held Release,Splitting Release,F1,Demigod L4 Low,B
+MV-ADV-BOW-012-04,Gale Stride Step,Siltvanes,F5,Demigod L4 Low,B
+MV-ADV-BOW-012-05,Gust Parry Turn,Equipoise Nock,F2,Demigod L4 Low,B
+MV-ADV-BOW-012-06,Bearing Locked Arrow,Nova Limb,F2,Demigod L4 Low,B
+MV-ADV-BOW-012-07,Gale Hush String,Toxin Bowstring,F2,Demigod L4 Low,B
+MV-ADV-BOW-012-08,Plateau Wind Stream Loose,Intent Arrowrest,F2,Demigod L4 Low,B
+MV-ADV-BOW-012-09,Open Wind Bearing Piercer,Facet Draw,F2,Demigod L4 Low,B
+MV-ADV-BOW-012-10,Gale Oath Barrage,Unmaking Quiver,F1,Demigod L4 Low,B
+MV-ADV-BOW-013-01,Cliff Foot Probe,Verity Limbtip,F2,Champion L4 Low,B
+MV-ADV-BOW-013-02,Edge Anchor Draw,Glint Volley,F2,Champion L4 Low,B
+MV-ADV-BOW-013-03,Updraft Offset Loose,Nova Release,F2,Champion L4 Low,B
+MV-ADV-BOW-013-04,Slope Slide Step,Surging Riser,F1,Champion L4 Low,B
+MV-ADV-BOW-013-05,Cliff Wind Rake Arrow,Scything Snapshot,F1,Champion L4 Low,B
+MV-ADV-BOW-013-06,Gale Ledge Pin Shot,Vanes Greave,F3,Champion L4 Low,B
+MV-ADV-BOW-013-07,Wind Break Quiver Guard,Granite Bowgrip,F2,Champion L4 Low,B
+MV-ADV-BOW-013-08,Sheer Wind Arrow,Glint Loose,F2,Champion L4 Low,B
+MV-ADV-BOW-013-09,Gale Rock Rain,Siltloose,F5,Champion L4 Low,B
+MV-ADV-BOW-004-09,Severing Snapshot Assault,Severing Snapshot,F6b,Demigod L1 Low,B
+MV-ADV-BOW-005-06,Expanse Limbtip,Farseeing Limbtip,F2,Demigod L3 Low,B
+MV-ADV-BOW-006-08,Hollow Volley,Piercing Volley,F2,Champion L2 Low,B
+MV-ADV-BOW-008-09,Splintering Granite Nock,Splintering Nock,F6a,Champion L5 Low,B

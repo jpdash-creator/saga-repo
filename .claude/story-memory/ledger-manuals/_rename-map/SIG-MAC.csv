@@ -1,0 +1,147 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-MAC-001-01,Mystery Paired Draw,Squallmow,F5,Warrior L1 Low,B
+MV-SIG-MAC-001-02,Twin Heel Slide,Squallscrub,F5,Warrior L1 Low,B
+MV-SIG-MAC-001-03,Crossed Wrist Shield,Thickbelly Pledge,F3,Warrior L1 Low,B
+MV-SIG-MAC-001-04,Pairing Edge Slash,Matchless Wideback,F1,Warrior L1 Low,B
+MV-SIG-MAC-001-05,Counter Pair Parry,Delugebush,F5,Warrior L1 Low,B
+MV-SIG-MAC-001-06,Mirrored Hook Bind,Cutback Troth,F3,Warrior L1 Low,B
+MV-SIG-MAC-001-07,Double Rap Guard Break,Peal Mow,F2,Warrior L1 Low,B
+MV-SIG-MAC-001-08,Paired Felling Descent,Haemal Brushedge,F2,Champion L1 Low,B
+MV-SIG-MAC-001-09,Paired Retreat Screen,Vineseal,F4,Champion L1 Low,B
+MV-SIG-MAC-001-10,Pair Seam Piercing,Vaunted Chopedge,F1,Demigod L1 Low,B
+MV-SIG-MAC-001-11,Stroke of Two Hands,Vigor Bluntspine,F2,Warrior L1 Low,B
+MV-SIG-MAC-002-01,Azure Basin Draw,Vineedict,F4,Warrior L5 Low,B
+MV-SIG-MAC-002-02,Terrace Slide Step,Mowboon,F4,Warrior L5 Low,B
+MV-SIG-MAC-002-03,Basin Rim Blade Cover,Prism Weightedge,F2,Warrior L5 Low,B
+MV-SIG-MAC-002-04,Spring Fed Slash,Squall Brushcut,F2,Warrior L5 Low,B
+MV-SIG-MAC-002-05,Valley Parry Turn,Parity Rivetgrip,F2,Warrior L5 Low,B
+MV-SIG-MAC-002-06,Mist Hook Pull,Glacier Machhilt,F2,Warrior L5 Low,B
+MV-SIG-MAC-002-07,Basin Overflow Brush Cut,Vigor Lashdown,F2,Champion L1 Low,B
+MV-SIG-MAC-002-08,Valley Floor Sweep,Vinecrown,F4,Champion L1 Low,B
+MV-SIG-MAC-002-09,Basin Drinking Guard,Weightedge Reliquary,F3,Demigod L1 Low,B
+MV-SIG-MAC-002-10,Brimming Basin Machete Release,Vaunted Solar Clearcut,F6a,Warrior L5 Low,B
+MV-SIG-MAC-003-01,Court Felling Prelude,Steel Heavytang,F2,Champion L1 Low,B
+MV-SIG-MAC-003-02,Court Hold Guard,Venerable Widetip,F1,Champion L1 Low,B
+MV-SIG-MAC-003-03,Cross-Court Step,Bluntspine Heraldry,F3,Champion L1 Low,B
+MV-SIG-MAC-003-04,Courtyard Rap,Commanding Cutback,F1,Champion L1 Low,B
+MV-SIG-MAC-003-05,Secret Felling Setup,Scrubtriumph,F4,Champion L1 Low,B
+MV-SIG-MAC-003-06,Court Parry Fold,Immaculate Machhilt,F1,Champion L1 Low,B
+MV-SIG-MAC-003-07,Twin Court Bind,Sigilvine,F5,Champion L1 Low,B
+MV-SIG-MAC-003-08,Felling Breath Check,Thunderclap Rivetgrip,F2,Champion L1 Low,B
+MV-SIG-MAC-003-09,Court Secret Felling,Brushedge Decree,F3,Champion L1 Low,B
+MV-SIG-MAC-003-10,Cross-Court Sweep,Famed Widetip,F1,Champion L1 Low,B
+MV-SIG-MAC-003-11,Cross-Court Flash,Radiance Thickbelly,F2,Demigod L1 Low,B
+MV-SIG-MAC-003-12,Twin-Court Felling Secret,Scrubdecree,F4,Champion L1 Low,B
+MV-SIG-MAC-004-01,River Bound Draw,Matchless Heavytang,F1,Ruler L1 Mid,B
+MV-SIG-MAC-004-02,Bank Hugging Step,Vigorweed,F5,Ruler L1 Mid,B
+MV-SIG-MAC-004-03,Reed Screen Guard,Glacier Chopedge,F2,Ruler L1 Mid,B
+MV-SIG-MAC-004-04,Riverbed Slash,Heroic Lashdown,F1,Ruler L1 Mid,B
+MV-SIG-MAC-004-05,Rapids Parry,Parity Wideback,F2,Ruler L1 Mid,B
+MV-SIG-MAC-004-06,Eddy Hook Drag,Imperious Clearcut,F1,Ruler L1 Mid,B
+MV-SIG-MAC-004-07,Current Catch Check,Tyrannous Hacksweep,F1,Ruler L1 Mid,B
+MV-SIG-MAC-004-08,River Bend Felling,Quenched Brushcut,F2,Ruler L1 Mid,B
+MV-SIG-MAC-004-09,Tributary Sweep,Demolition Hacksweep,F2,Ruler L1 Mid,B
+MV-SIG-MAC-004-10,Hidden Current Cut,Retribution Chopedge,F2,Demigod L1 Low,B
+MV-SIG-MAC-004-11,River-Bound Stroke,Tenetbush,F5,Ruler L1 Mid,B
+MV-SIG-MAC-005-01,Crown Hawk Draw,Vigor Clearcut,F2,Demigod L1 Low,B
+MV-SIG-MAC-005-02,High Perch Step,Squall Widetip,F2,Demigod L1 Low,B
+MV-SIG-MAC-005-03,Field Blade Cover,Sanctum Heavytang,F2,Demigod L1 Low,B
+MV-SIG-MAC-005-04,Field Crown Slash,Noble Machhilt,F1,Demigod L1 Low,B
+MV-SIG-MAC-005-05,Soaring Parry,Weedvow,F4,Demigod L1 Low,B
+MV-SIG-MAC-005-06,Hawk Eye Bind,Hornbeam Bluntspine,F2,Demigod L1 Low,B
+MV-SIG-MAC-005-07,Crowned Stoop Cut,Bushcrown,F4,Demigod L1 Low,B
+MV-SIG-MAC-005-08,Hawk Field Sweep,Magma Lashdown,F2,Demigod L1 Low,B
+MV-SIG-MAC-005-09,Hawk Through Cloud,Nightmare Mow,F2,Demigod L1 Low,B
+MV-SIG-MAC-005-10,Hawk Crown Secret,Majestic Wideback Triumph,F6b,Demigod L1 Low,B
+MV-SIG-MAC-006-01,Core Azure Draw,Haemalweed,F5,Core Formation L1 Low,B
+MV-SIG-MAC-006-02,Inner Pair Step,Vineboon,F4,Core Formation L1 Low,B
+MV-SIG-MAC-006-03,Core Cover Guard,Steel Thickbelly,F2,Core Formation L1 Low,B
+MV-SIG-MAC-006-04,Core Breath Reading,Gracious Rivetgrip,F1,Core Formation L1 Low,B
+MV-SIG-MAC-006-05,Core Fed Slash,Inferno Weightedge,F2,Core Formation L1 Low,B
+MV-SIG-MAC-006-06,Paired Core Spine Parry,Squall Rivetgrip,F2,Core Formation L1 Low,B
+MV-SIG-MAC-006-07,Core Hook Bind,Sigilscrub,F5,Core Formation L1 Low,B
+MV-SIG-MAC-006-08,Core Beat Disruption,Commanding Mow,F1,Core Formation L1 Low,B
+MV-SIG-MAC-006-09,Core Pair Felling,Magnificent Brushedge,F1,Core Formation L1 Low,B
+MV-SIG-MAC-006-10,Core Field Screen,Hornbeam Weightedge,F2,Core Formation L1 Low,B
+MV-SIG-MAC-006-11,Inner Pair Rift,Thunderclap Brushcut,F2,Core Formation L1 Low,B
+MV-SIG-MAC-006-12,Canon of the Paired Core,Fearless Hacksweep,F1,Core Formation L1 Low,B
+MV-SIG-MAC-007-01,Sworn Brush Draw,Weedbanner,F4,Warrior L2 Low,B
+MV-SIG-MAC-007-02,Oath Plant Step,Spectral Widetip,F1,Warrior L2 Low,B
+MV-SIG-MAC-007-03,Brush Edge Guard,Inviolate Wideback,F1,Warrior L2 Low,B
+MV-SIG-MAC-007-04,Sworn Edge Slash,Valiant Brushcut,F1,Warrior L2 Low,B
+MV-SIG-MAC-007-05,Oath Check Parry,Parity Machhilt,F2,Warrior L2 Low,B
+MV-SIG-MAC-007-06,Brush Oath Bind,Sigil Hacksweep,F2,Warrior L2 Low,B
+MV-SIG-MAC-007-07,Sworn Brush Felling,Bedrock Chopedge,F2,Champion L1 Low,B
+MV-SIG-MAC-007-08,Oath Brush Sweep,Magnificent Lashdown,F1,Champion L1 Low,B
+MV-SIG-MAC-007-09,Sworn Brush Flash,Wraithlike Cutback,F1,Demigod L1 Low,B
+MV-SIG-MAC-007-10,Oath of the Sworn Edge,Haemal Bluntspine,F2,Warrior L2 Low,B
+MV-SIG-MAC-008-01,Plateau Wind Draw,Steel Clearcut,F2,Warrior L7 Low,B
+MV-SIG-MAC-008-02,Windward Footing,Dune Cutback,F2,Warrior L7 Low,B
+MV-SIG-MAC-008-03,Gale Brow Guard,Venerable Heavytang,F1,Warrior L7 Low,B
+MV-SIG-MAC-008-04,Wind Edge Reading,Lifegiving Weightedge,F1,Warrior L7 Low,B
+MV-SIG-MAC-008-05,Plateau Gust Slash,Vinebanner,F4,Warrior L7 Low,B
+MV-SIG-MAC-008-06,Wind Check Spine Parry,Sainted Brushedge,F1,Warrior L7 Low,B
+MV-SIG-MAC-008-07,Gale Snare Bind,Hornbeam Thickbelly,F2,Warrior L7 Low,B
+MV-SIG-MAC-008-08,Gust Break Disruption,Masterful Mow,F1,Warrior L7 Low,B
+MV-SIG-MAC-008-09,Plateau Secret Felling,Inferno Clearcut,F2,Champion L1 Low,B
+MV-SIG-MAC-008-10,Wind Rake Sweep,Dune Lashdown,F2,Champion L1 Low,B
+MV-SIG-MAC-008-11,Plateau Wind Rift,Gallant Hacksweep,F1,Demigod L1 Low,B
+MV-SIG-MAC-008-12,Secret of the Plateau Wind,Magma Machhilt,F2,Warrior L7 Low,B
+MV-SIG-MAC-009-01,Bearing Book Draw,Mowtriumph,F4,Champion L3 Low,B
+MV-SIG-MAC-009-02,Bearing Step Pivot,Dune Rivetgrip,F2,Champion L3 Low,B
+MV-SIG-MAC-009-03,Heading Cover Guard,Glacier Wideback,F2,Champion L3 Low,B
+MV-SIG-MAC-009-04,Heading Gale Slash,Vineverdict,F4,Champion L3 Low,B
+MV-SIG-MAC-009-05,Bearing Turn Spine Parry,Pealscrub,F5,Champion L3 Low,B
+MV-SIG-MAC-009-06,Heading Hook Bind,Authoritative Bluntspine,F1,Champion L3 Low,B
+MV-SIG-MAC-009-07,Bearing Break Check,Thunderclap Thickbelly,F2,Champion L3 Low,B
+MV-SIG-MAC-009-08,Gale Felling Bearing,Scrubbanner,F4,Champion L3 Low,B
+MV-SIG-MAC-009-09,Bearing Wind Sweep,Fearless Widetip,F1,Champion L3 Low,B
+MV-SIG-MAC-009-10,Bearing Gale Taking,Dune Heavytang,F2,Demigod L1 Low,B
+MV-SIG-MAC-009-11,Gale Felling Secret,Peerless Chopedge Triumph,F6b,Champion L3 Low,B
+MV-SIG-MAC-010-01,Oath Bound Draw,Exalted Cutback,F1,Ruler L1 Low,B
+MV-SIG-MAC-010-02,Bound Footing,Dune Brushcut,F2,Ruler L1 Low,B
+MV-SIG-MAC-010-03,Oath Guard Raise,Bedrock Wideback,F2,Ruler L1 Low,B
+MV-SIG-MAC-010-04,Bound Rap,Scrubvow,F4,Ruler L1 Low,B
+MV-SIG-MAC-010-05,Oath Bound Slash,Vaunted Mow,F1,Ruler L1 Low,B
+MV-SIG-MAC-010-06,Bound Parry Turn,Pealbush,F5,Ruler L1 Low,B
+MV-SIG-MAC-010-07,Bound Hook Hold,Glacier Weightedge,F2,Ruler L1 Low,B
+MV-SIG-MAC-010-08,Bound Beat Check,Mowseal,F4,Ruler L1 Low,B
+MV-SIG-MAC-010-09,Bound Felling Stroke,Royal Brushedge,F1,Ruler L1 Low,B
+MV-SIG-MAC-010-10,Oath Bound Sweep,Demolition Brushcut,F2,Ruler L1 Low,B
+MV-SIG-MAC-010-11,Bound Oath Rift,Vacuumscrub,F5,Demigod L1 Low,B
+MV-SIG-MAC-010-12,Oath-Bound Stroke,Symphonic Mow Verdict,F6b,Ruler L1 Low,B
+MV-SIG-MAC-011-01,Wind Crown Draw,Steelmow,F5,Demigod L3 Low,B
+MV-SIG-MAC-011-02,Crown Wind Step,Deluge Machhilt,F2,Demigod L3 Low,B
+MV-SIG-MAC-011-03,Open Machete Guard,Weedtroth,F4,Demigod L3 Low,B
+MV-SIG-MAC-011-04,Crown Wind Slash,Steelvine,F5,Demigod L3 Low,B
+MV-SIG-MAC-011-05,Wind Crown Parry,Parity Thickbelly,F2,Demigod L3 Low,B
+MV-SIG-MAC-011-06,Open Blade Hook,Lashdown Vow,F3,Demigod L3 Low,B
+MV-SIG-MAC-011-07,Crowned Wind Felling,Steel Rivetgrip,F2,Demigod L3 Low,B
+MV-SIG-MAC-011-08,Wind Crown Sweep,Solar Chopedge,F2,Demigod L3 Low,B
+MV-SIG-MAC-011-09,Crown Wind Passing,Phantasm Cutback,F2,Demigod L3 Low,B
+MV-SIG-MAC-011-10,Wind Crown Secret,Vaunted Thunderclap Widetip,F6a,Demigod L3 Low,B
+MV-SIG-MAC-012-01,Gale Core Draw,Scrubcrown,F4,Core Formation L2 Low,B
+MV-SIG-MAC-012-02,Core Wind Blade Step,Silken Hacksweep,F1,Core Formation L2 Low,B
+MV-SIG-MAC-012-03,Gale Core Guard,Bedrock Brushedge,F2,Core Formation L2 Low,B
+MV-SIG-MAC-012-04,Core Gale Slash,Mowdecree,F4,Core Formation L2 Low,B
+MV-SIG-MAC-012-05,Core Sworn Parry,Stately Bluntspine,F1,Core Formation L2 Low,B
+MV-SIG-MAC-012-06,Core Gale Bind,Sigil Heavytang,F2,Core Formation L2 Low,B
+MV-SIG-MAC-012-07,Core Gale Disruption,Chopedge Troth,F3,Core Formation L2 Low,B
+MV-SIG-MAC-012-08,Core Gale Felling,Splendid Brushcut,F1,Core Formation L2 Low,B
+MV-SIG-MAC-012-09,Core Gale Brush Sweep,Dune Clearcut,F2,Core Formation L2 Low,B
+MV-SIG-MAC-012-10,Core Oath Rift,Animascrub,F5,Core Formation L2 Low,B
+MV-SIG-MAC-012-11,Canon of the Sworn Core Edge,Intrepid Wideback Crown,F6b,Core Formation L2 Low,B
+MV-SIG-MAC-002-06,Glacier Machhilt,Titan Machhilt,F2,Warrior L5 Low,B
+MV-SIG-MAC-004-03,Glacier Chopedge,Crushing Chopedge,F2,Ruler L1 Mid,B
+MV-SIG-MAC-005-03,Sanctum Heavytang,Sundering Heavytang,F2,Demigod L1 Low,B
+MV-SIG-MAC-005-06,Hornbeam Bluntspine,Savage Bluntspine,F2,Demigod L1 Low,B
+MV-SIG-MAC-006-10,Hornbeam Weightedge,Mighty Weightedge,F2,Core Formation L1 Low,B
+MV-SIG-MAC-008-02,Dune Cutback,Ruinous Cutback,F2,Warrior L7 Low,B
+MV-SIG-MAC-008-07,Hornbeam Thickbelly,Rending Thickbelly,F2,Warrior L7 Low,B
+MV-SIG-MAC-008-10,Dune Lashdown,Fierce Lashdown,F2,Champion L1 Low,B
+MV-SIG-MAC-009-02,Dune Rivetgrip,Searing Rivetgrip,F2,Champion L3 Low,B
+MV-SIG-MAC-009-03,Glacier Wideback,Crushing Wideback,F2,Champion L3 Low,B
+MV-SIG-MAC-009-10,Dune Heavytang,Titan Heavytang,F2,Demigod L1 Low,B
+MV-SIG-MAC-010-02,Dune Brushcut,Savage Brushcut,F2,Ruler L1 Low,B
+MV-SIG-MAC-010-07,Glacier Weightedge,Colossal Weightedge,F2,Ruler L1 Low,B
+MV-SIG-MAC-012-09,Dune Clearcut,Ruinous Clearcut,F2,Core Formation L2 Low,B

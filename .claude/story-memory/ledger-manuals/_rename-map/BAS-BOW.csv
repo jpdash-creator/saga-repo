@@ -1,0 +1,77 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-BOW-001-01,Square Foot Nocking,Nimble Loose,F1,T1 Unawakened,A
+MV-BAS-BOW-001-02,Three Finger Hook Draw,Level Quiver,F1,T1 Unawakened,A
+MV-BAS-BOW-001-03,Cheek Anchor Release,Limbbump,F4,T1 Unawakened,A
+MV-BAS-BOW-001-04,Stave Rap Guard,Vanes Husk,F3,T1 Unawakened,A
+MV-BAS-BOW-001-05,Limb Butt Thrust,Riser Drop,F3,T1 Unawakened,A
+MV-BAS-BOW-001-06,Feather Drift Reading,Risercount,F4,T1 Unawakened,A
+MV-BAS-BOW-002-01,Nock Seat Check,Calm Bowgrip,F1,T1 Skin,A
+MV-BAS-BOW-002-02,Brace Height Stand,Skipping Arrowrest,F1,T1 Skin,A
+MV-BAS-BOW-002-03,Thumb Ring Pull,Anchorblow,F4,T1 Skin,A
+MV-BAS-BOW-002-04,Quiver Hip Draw,Limb Dash,F3,T1 Skin,A
+MV-BAS-BOW-002-05,Bracer Slap Parry,Serving Lid,F3,T1 Skin,A
+MV-BAS-BOW-003-01,Open Stance Settle,Skipping Anchor,F1,T1 Muscle,A
+MV-BAS-BOW-003-02,Bow Arm Lock Out,Planted Limbtip,F1,T1 Muscle,A
+MV-BAS-BOW-003-03,Back Tension Draw,Limbstrike,F4,T1 Muscle,A
+MV-BAS-BOW-003-04,Dry String Count Drill,Even Bowstring,F1,T1 Muscle,A
+MV-BAS-BOW-003-05,Snap Shot Release,Looseblow,F4,T1 Muscle,A
+MV-BAS-BOW-003-06,Stave Haft Swing,Flat Nock,F1,T1 Muscle,A
+MV-BAS-BOW-003-07,Arrow Fist Stab,Forward Release,F1,T1 Muscle,A
+MV-BAS-BOW-004-01,Bow Grip Settle,Bowgrip Count,F3,T1 Unawakened,A
+MV-BAS-BOW-004-02,Marked Post Pacing,Stepping Draw,F1,T1 Unawakened,A
+MV-BAS-BOW-004-03,String Hand Hold,Sudden Snapshot,F1,T1 Unawakened,A
+MV-BAS-BOW-004-04,Slow Arrow Loose,Downward Anchor,F1,T1 Unawakened,A
+MV-BAS-BOW-004-05,Riser Block Cross,Vaneslid,F4,T1 Unawakened,A
+MV-BAS-BOW-004-06,String Whip Flick,Drawcowl,F4,T1 Unawakened,A
+MV-BAS-BOW-005-01,Tendon Warm Draw,Calm Limb,F1,T1 Tendon,A
+MV-BAS-BOW-005-02,Count Of Five Hold,Serving Strike,F3,T1 Tendon,A
+MV-BAS-BOW-005-03,Clean Finger Slip,Leaden Loose,F1,T1 Tendon,A
+MV-BAS-BOW-005-04,Follow Through Hold,Volleydrop,F4,T1 Tendon,A
+MV-BAS-BOW-005-05,Low Crouch Shot,Firm Arrowrest,F1,T1 Tendon,A
+MV-BAS-BOW-005-06,Kneel And Loose,Upward Riser,F1,T1 Tendon,A
+MV-BAS-BOW-005-07,Bow Hand Parry Turn,Vanescowl,F4,T1 Tendon,A
+MV-BAS-BOW-005-08,Sidestep Draw Turn,Light Volley,F1,T1 Tendon,A
+MV-BAS-BOW-006-01,Strung Bow Carry,Anchorhop,F4,T1 Bone,A
+MV-BAS-BOW-006-02,Limb Flex Test,Tending Vanes,F1,T1 Bone,A
+MV-BAS-BOW-006-03,Bone Stacked Long Draw,Limbtip Dash,F3,T1 Bone,A
+MV-BAS-BOW-006-04,Stave Bone Break,Vanesdrop,F4,T1 Bone,A
+MV-BAS-BOW-006-05,Back Quiver Reach,Hard Bowstring,F1,T1 Bone,A
+MV-BAS-BOW-007-01,Breath To Shaft Thread,Open Snapshot,F1,Senior L1 Low,A
+MV-BAS-BOW-007-02,Qi Lit Nock Seat,Watching Limbtip,F1,Senior L1 Low,A
+MV-BAS-BOW-007-03,Dantian Anchored Draw,Straight Release,F1,Senior L1 Low,A
+MV-BAS-BOW-007-04,Lit Arrow Snap,Quiver Blow,F3,Senior L1 Low,A
+MV-BAS-BOW-007-05,Limb Qi Rebound,Nockcowl,F4,Senior L1 Low,A
+MV-BAS-BOW-007-06,Shaft Tip Prick,Downward Volley,F1,Senior L1 Low,A
+MV-BAS-BOW-008-01,Inhale Draw Rhythm,Riserdash,F4,Senior L1 Mid,A
+MV-BAS-BOW-008-02,String Hum Reading,Tending Nock,F1,Senior L1 Mid,A
+MV-BAS-BOW-008-03,Exhale Loose Shot,Quick Limb,F1,Senior L1 Mid,A
+MV-BAS-BOW-008-04,Two Pace Breath Step,Riserskitter,F4,Senior L1 Mid,A
+MV-BAS-BOW-008-05,String Arm Pull Free,Nockwedge,F4,Senior L1 Mid,A
+MV-BAS-BOW-008-06,Short Limb Bash,Square Anchor,F1,Senior L1 Mid,A
+MV-BAS-BOW-008-07,Held Breath Anchor,Drawhit,F4,Senior L1 Mid,A
+MV-BAS-BOW-009-01,Open Ground Volley Shot,Bowgrip Blow,F3,Senior L2 Low,A
+MV-BAS-BOW-009-02,Cover Edge Peek Loose,Hard Volley,F1,Senior L2 Low,A
+MV-BAS-BOW-009-03,Marching Quiver Settle,Volleypace,F4,Senior L2 Low,A
+MV-BAS-BOW-009-04,Bow Stave Block Turn,Arrowrest Cowl,F3,Senior L2 Low,A
+MV-BAS-BOW-009-05,Grass Line Spotting,Quivercount,F4,Senior L2 Low,A
+MV-BAS-BOW-009-06,Arrow Splinter Strike,Downward Draw,F1,Senior L2 Low,A
+MV-BAS-BOW-010-01,Quiver Rake Nocking,Loosedrop,F4,Senior L1 Low,A
+MV-BAS-BOW-010-02,Three Arrow Fan Hold,Gnawing Loose,F1,Senior L1 Low,A
+MV-BAS-BOW-010-03,Pause Between Shafts,Warm Bowstring,F1,Senior L1 Low,A
+MV-BAS-BOW-010-04,Shaft Count By Touch,Gentle Vanes,F1,Senior L1 Low,A
+MV-BAS-BOW-010-05,Reload Step Back,Drawamble,F4,Senior L1 Low,A
+MV-BAS-BOW-011-01,Walking Draw Gather,Level Draw,F1,Senior L3 Low,A
+MV-BAS-BOW-011-02,Trot Loose Shot,Short Snapshot,F1,Senior L3 Low,A
+MV-BAS-BOW-011-03,Turn And Nock Pivot,Limbamble,F4,Senior L3 Low,A
+MV-BAS-BOW-011-04,Rear Look Loose,Open Quiver,F1,Senior L3 Low,A
+MV-BAS-BOW-011-05,Stride Rest Breath,Nock Note,F3,Senior L3 Low,A
+MV-BAS-BOW-011-06,Limb Tip Hook Pull,Nabbing Vanes,F1,Senior L3 Low,A
+MV-BAS-BOW-011-07,Dodging Stave Guard,Limbpause,F4,Senior L3 Low,A
+MV-BAS-BOW-011-08,Running Anchor Touch,Vanesbump,F4,Senior L3 Low,A
+MV-BAS-BOW-012-01,Lit Shaft Marking Loose,Serving Dash,F3,Senior L2 Mid,A
+MV-BAS-BOW-012-02,Head Lit Draw,Single Limbtip,F1,Senior L2 Mid,A
+MV-BAS-BOW-012-03,Fletch Lit Spin,Straight Riser,F1,Senior L2 Mid,A
+MV-BAS-BOW-012-04,Lit Shaft Counting,Deep Limb,F1,Senior L2 Mid,A
+MV-BAS-BOW-012-05,Limb Lit Parry,Snug Bowgrip,F1,Senior L2 Mid,A
+MV-BAS-BOW-012-06,Quiver Strap Snare,Snapshot Lid,F3,Senior L2 Mid,A
+MV-BAS-BOW-012-07,String Lit Pluck,Gnawing Nock,F1,Senior L2 Mid,A

@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-PIK-001-01,Fore-Foot Pike Jab,Flat Couchout,F1,T1 Unawakened,A
+MV-BAS-PIK-001-02,Couched Ash Lunge,Bracebump,F4,T1 Unawakened,A
+MV-BAS-PIK-001-03,Port-Shaft Knock-Aside,Holding Pikebands,F1,T1 Unawakened,A
+MV-BAS-PIK-001-04,Half-Pace Butt-Back Slide,Pikeamble,F4,T1 Unawakened,A
+MV-BAS-PIK-001-05,Shaft-Rap Weapon Beat,Bracewedge,F4,T1 Unawakened,A
+MV-BAS-PIK-001-06,Levelled Pike Standoff,Raised Pikecollar,F1,T1 Unawakened,A
+MV-BAS-PIK-002-01,Shaft Balance-Point Carry,Tending Pikehead,F1,T1 Skin,A
+MV-BAS-PIK-002-02,Long Shaft Palm-Slide Thrust,Wide Press,F1,T1 Skin,A
+MV-BAS-PIK-002-03,Low-Hand Rise Guard,Kept Longpole,F1,T1 Skin,A
+MV-BAS-PIK-002-04,Sixteen-Foot Pivot Sweep,Pikepace,F4,T1 Skin,A
+MV-BAS-PIK-002-05,Tip-Dip Eyeline Feint,Steelcap Lid,F3,T1 Skin,A
+MV-BAS-PIK-003-01,Spaced-Hand Pike Lock,Pikestay,F4,T1 Muscle,A
+MV-BAS-PIK-003-02,Rear-Hand Fulcrum Jab,Levelhold Dash,F3,T1 Muscle,A
+MV-BAS-PIK-003-03,Hand-Over-Hand Recovery Draw,Tight Ashstaff,F1,T1 Muscle,A
+MV-BAS-PIK-003-04,Butt-Slide Reach Extension,Downward Pikeshaft,F1,T1 Muscle,A
+MV-BAS-PIK-003-05,Choke-Up Close Stab,Descending Bristle,F1,T1 Muscle,A
+MV-BAS-PIK-003-06,Cross-Grip Overhead Ward,Pikecowl,F4,T1 Muscle,A
+MV-BAS-PIK-003-07,Palm-Roll Shaft Twist,Brace Pause,F3,T1 Muscle,A
+MV-BAS-PIK-004-01,Butt-Plant Stop Brace,Holding Pikeshoe,F1,T1 Tendon,A
+MV-BAS-PIK-004-02,Heel-Pinned Charge Catch,Steelcap Husk,F3,T1 Tendon,A
+MV-BAS-PIK-004-03,Rear-Foot Wedge Step,Bracetrot,F4,T1 Tendon,A
+MV-BAS-PIK-004-04,Grounded Rising Thrust,Flat Present,F1,T1 Tendon,A
+MV-BAS-PIK-004-05,Anchor-Foot Body Shove,Couchout Dash,F3,T1 Tendon,A
+MV-BAS-PIK-004-06,Butt-Lift Re-Plant Shuffle,Quiet Pikehead,F1,T1 Tendon,A
+MV-BAS-PIK-004-07,Planted Shaft Grab-Breaker,Fixing Mastlength,F1,T1 Tendon,A
+MV-BAS-PIK-004-08,Low-Point Shin Sweep,Upward Mastlength,F1,T1 Tendon,A
+MV-BAS-PIK-005-01,Sloped Pike Marching Stride,Stepping Levelhold,F1,T1 Bone,A
+MV-BAS-PIK-005-02,Beat-Halt Butt Drop,Ready Footspike,F1,T1 Bone,A
+MV-BAS-PIK-005-03,Stride-End Level Thrust,Low Footspike,F1,T1 Bone,A
+MV-BAS-PIK-005-04,Neighbour-Clearing Shaft Tilt,Ashstaff Skitter,F3,T1 Bone,A
+MV-BAS-PIK-005-05,Upright Quarter-Wheel,Easing Longpole,F1,T1 Bone,A
+MV-BAS-PIK-005-06,Rank-Gap Sweeping Cover,Folded Pikecollar,F1,T1 Bone,A
+MV-BAS-PIK-006-01,Warm-Hand Shaft Flow,Pikeshoe Count,F3,Senior L1 Low,A
+MV-BAS-PIK-006-02,Qi-Tipped Pike Jab,Level Bristle,F1,Senior L1 Low,A
+MV-BAS-PIK-006-03,Breath-Held Brace Drop,Solid Footspike,F1,Senior L1 Low,A
+MV-BAS-PIK-006-04,Ash-Warm Parry Slide,Kept Ashstaff,F1,Senior L1 Low,A
+MV-BAS-PIK-006-05,Lightfoot Pike Advance,Masttrot,F4,Senior L1 Low,A
+MV-BAS-PIK-007-01,Inhale-Draw Exhale-Thrust,Plain Present,F1,Senior L2 Low,A
+MV-BAS-PIK-007-02,Slow-Breath Level Hold,Raised Pikeshaft,F1,Senior L2 Low,A
+MV-BAS-PIK-007-03,Steady-Breath Piercing Press,Blunt Couchout,F1,Senior L2 Low,A
+MV-BAS-PIK-007-04,Breath-Count Footfall Rhythm,Swaying Pikebands,F1,Senior L2 Low,A
+MV-BAS-PIK-007-05,Held-Breath Shaft Wrench,Bracelid,F4,Senior L2 Low,A
+MV-BAS-PIK-007-06,Settling-Breath Recovery Pull,Lowered Longpole,F1,Senior L2 Low,A
+MV-BAS-PIK-007-07,Breath-Lock Wrist Anchor,Steelcap Note,F3,Senior L2 Low,A
+MV-BAS-PIK-008-01,Butt-to-Point Qi Circuit,Mastnote,F4,Senior L3 Low,A
+MV-BAS-PIK-008-02,Return-Loop Hand Draw,Masthusk,F4,Senior L3 Low,A
+MV-BAS-PIK-008-03,Long-Ash Qi Thrust,Mastdrop,F4,Senior L3 Low,A
+MV-BAS-PIK-008-04,Looped Qi Brace Set,Raised Pikebands,F1,Senior L3 Low,A
+MV-BAS-PIK-008-05,Shaft-Length Weight Reading,Pikecollar Note,F3,Senior L3 Low,A
+MV-BAS-PIK-008-06,Circuit-Led Advance Step,Quiet Brace,F1,Senior L3 Low,A
+MV-BAS-PIK-009-01,Ferrule-Anchor Foot Lock,Mastcowl,F4,Senior L1 Mid,A
+MV-BAS-PIK-009-02,Foot-and-Butt Pivot Brace,Pikedodge,F4,Senior L1 Mid,A
+MV-BAS-PIK-009-03,Ferrule-Bite Ground Hold,Pikecount,F4,Senior L1 Mid,A
+MV-BAS-PIK-009-04,Anchored Rising Pike Strike,Descending Present,F1,Senior L1 Mid,A
+MV-BAS-PIK-009-05,Rearward Ferrule Jab,Shaftdrop,F4,Senior L1 Mid,A
+MV-BAS-PIK-009-06,Foot-Led Qi Surge Step,Shafthop,F4,Senior L1 Mid,A
+MV-BAS-PIK-009-07,Ground-Spring Shaft Lift,Pikewedge,F4,Senior L1 Mid,A
+MV-BAS-PIK-009-08,Reverse-End Piercing Stab,Forward Press,F1,Senior L1 Mid,A
+MV-BAS-PIK-010-01,Full-Reach Qi Point,Narrow Bristle,F1,Senior L4 Low,A
+MV-BAS-PIK-010-02,Rear-Foot Charge Brace,Holding Pikeshaft,F1,Senior L4 Low,A
+MV-BAS-PIK-010-03,Reach-Keeping Back Slide,Quiet Pikeshoe,F1,Senior L4 Low,A
+MV-BAS-PIK-010-04,Throat-Line Point Hold,Bracestay,F4,Senior L4 Low,A
+MV-BAS-PIK-010-05,Reach-Recovery Snap,Folded Mastlength,F1,Senior L4 Low,A
+MV-BAS-PIK-007-01,Plain Present,Breathed Present,F1,Senior L2 Low,A

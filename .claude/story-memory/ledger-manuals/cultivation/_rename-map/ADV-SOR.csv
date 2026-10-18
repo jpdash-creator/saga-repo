@@ -1,0 +1,7 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-SOR-002-01,Field Reading,Tone Reading,INSTANT,,Basic
+CMV-ADV-SOR-002-02,Field Murmur,Tone Murmur,CHANNELED,,Basic
+CMV-ADV-SOR-002-04,Field Mend,Tone Mending,CHANNELED,,Basic
+CMV-ADV-SOR-002-06,Field Purge,Tone Purge,CHANNELED,,Intermediate
+CMV-ADV-SOR-002-09,Field Crest,Tone Crest,CHANNELED,,Advanced
+CMV-ADV-SOR-003-06,Dual Line,Dual Strain,CHANNELED,,Intermediate

@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-character-p16-hybrid-sentient-character-governance-law",
+ "part": 16,
+ "area": 17,
+ "sequence_in_part": 17,
+ "title": "Hybrid Sentient Character Governance Law",
+ "domain": "character",
+ "source_file": "Part_16_Character_What_is_a_Character_Law.md",
+ "start_line": 704,
+ "end_line": 806,
+ "line_count": 103,
+ "output_path": ".claude/skills/ssc-character-p16-hybrid-sentient-character-governance-law/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-cultivation-p05-foundational-principles-governing-mandate",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat command authority requires Part 16 character classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-governance-areas-overview",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat command authority requires Part 16 character classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-immutable-principles",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat command authority requires Part 16 character classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-combat-initiation-legitimacy",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat command authority requires Part 16 character classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-escalation-tier-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat command authority requires Part 16 character classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-engagement-recognition-mutuality-law",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat command authority requires Part 16 character classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-intensity-containment-boundaries",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat command authority requires Part 16 character classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-third-party-proxy-combat-rules",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat command authority requires Part 16 character classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-battlefield-spatial-cosmological-constraints",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat command authority requires Part 16 character classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-multi-faction-chaos-stabilization",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat command authority requires Part 16 character classification"
+  }
+ ]
+}

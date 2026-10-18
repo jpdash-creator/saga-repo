@@ -1,0 +1,121 @@
+[
+ {
+  "ledger_folder": "ledger-character-hero",
+  "domain": "Hero characters",
+  "governing_parts": "Part 17, Part 1 Area 5.4",
+  "template_source": "Part 37 Area 2.3 (authoritative); Part 1 Area 5.4 (cross-ref)",
+  "cs_ts_applicable": "YES — Section 2"
+ },
+ {
+  "ledger_folder": "ledger-character-villain",
+  "domain": "Villain characters",
+  "governing_parts": "Part 18, Part 1 Area 5.4",
+  "template_source": "Part 37 Area 2.2 (authoritative); Part 1 Area 5.4 (cross-ref)",
+  "cs_ts_applicable": "YES — Section 2"
+ },
+ {
+  "ledger_folder": "ledger-character-side",
+  "domain": "Side characters",
+  "governing_parts": "Part 19, Part 1 Area 5.4",
+  "template_source": "Part 37 Area 2.1 (authoritative); Part 1 Area 5.4 (cross-ref)",
+  "cs_ts_applicable": "YES — Section 2"
+ },
+ {
+  "ledger_folder": "ledger-people-society-faction",
+  "domain": "Factions",
+  "governing_parts": "Part 22, Part 1 Area 5.5.1",
+  "template_source": "Part 37 Area 2.6 (authoritative); Part 1 Area 5.5.1 (cross-ref)",
+  "cs_ts_applicable": "YES"
+ },
+ {
+  "ledger_folder": "ledger-people-society-civilization",
+  "domain": "Civilizations",
+  "governing_parts": "Part 21, Part 25, Part 1 Area 5.5.2",
+  "template_source": "Part 37 Area 2.7 (authoritative); Part 1 Area 5.5.2 (cross-ref)",
+  "cs_ts_applicable": "YES"
+ },
+ {
+  "ledger_folder": "ledger-people-society-affiliation",
+  "domain": "Affiliation agreements and faction-pair state",
+  "governing_parts": "Part 23, Part 1 Area 5.5.9",
+  "template_source": "Part 37 Area 3 (schema pending); Part 1 Area 5.5.9 (cross-ref)",
+  "cs_ts_applicable": "NO (relational)"
+ },
+ {
+  "ledger_folder": "ledger-people-society-information",
+  "domain": "Named information assets and character knowledge states",
+  "governing_parts": "Part 24, Part 1 Area 5.5.8",
+  "template_source": "Part 37 Area 3 (schema pending); Part 1 Area 5.5.8 (cross-ref)",
+  "cs_ts_applicable": "NO (actor-level)"
+ },
+ {
+  "ledger_folder": "ledger-worlds-location",
+  "domain": "Worlds and locations",
+  "governing_parts": "Part 13, Part 1 Area 5.5.3",
+  "template_source": "Part 37 Area 2.4 (authoritative); Part 1 Area 5.5.3 (cross-ref)",
+  "cs_ts_applicable": "YES"
+ },
+ {
+  "ledger_folder": "ledger-worlds-kingdom-state",
+  "domain": "Named kingdoms, empires, polities, and governing entities",
+  "governing_parts": "Part 13, Part 21, Part 22, Part 37 Area 2.5",
+  "template_source": "Part 37 Area 2.5 (authoritative) — new folder, no Part 1 legacy template",
+  "cs_ts_applicable": "YES"
+ },
+ {
+  "ledger_folder": "ledger-worlds-travel",
+  "domain": "Named travel routes, gate networks, infrastructure",
+  "governing_parts": "Part 15, Part 1 Area 5.5.13",
+  "template_source": "Part 37 Area 3 (schema pending); Part 1 Area 5.5.13 (cross-ref)",
+  "cs_ts_applicable": "NO (infrastructure)"
+ },
+ {
+  "ledger_folder": "ledger-worlds-distance",
+  "domain": "Named spatial landmarks and distance measurements",
+  "governing_parts": "Part 14, Part 1 Area 5.5.14",
+  "template_source": "Part 37 Area 3 (schema pending); Part 1 Area 5.5.14 (cross-ref)",
+  "cs_ts_applicable": "NO (spatial)"
+ },
+ {
+  "ledger_folder": "ledger-energy-relics-artifacts",
+  "domain": "Relics and artifacts",
+  "governing_parts": "Part 12, Part 11, Part 1 Area 5.5.5",
+  "template_source": "Part 37 Area 2.8 (authoritative); Part 1 Area 5.5.5 (cross-ref)",
+  "cs_ts_applicable": "YES"
+ },
+ {
+  "ledger_folder": "ledger-technology-vehicle",
+  "domain": "Named vehicles",
+  "governing_parts": "Part 32, Part 1 Area 5.5.7",
+  "template_source": "Part 37 Area 2.10 (authoritative); Part 1 Area 5.5.7 (cross-ref)",
+  "cs_ts_applicable": "YES"
+ },
+ {
+  "ledger_folder": "ledger-technology-weapon",
+  "domain": "Named weapons",
+  "governing_parts": "Part 33, Part 1 Area 5.5.6",
+  "template_source": "Part 37 Area 2.9 (authoritative); Part 1 Area 5.5.6 (cross-ref)",
+  "cs_ts_applicable": "YES"
+ },
+ {
+  "ledger_folder": "ledger-technology-scale",
+  "domain": "Named technology systems and institutions",
+  "governing_parts": "Part 8, Part 1 Area 5.5.10",
+  "template_source": "Part 37 Area 3 (schema pending); Part 1 Area 5.5.10 (cross-ref)",
+  "cs_ts_applicable": "YES — TS% primary"
+ },
+ {
+  "ledger_folder": "ledger-technology-growth",
+  "domain": "Named research programs and discovery events",
+  "governing_parts": "Part 9, Part 1 Area 5.5.11",
+  "template_source": "Part 37 Area 3 (schema pending); Part 1 Area 5.5.11 (cross-ref)",
+  "cs_ts_applicable": "NO (activity)"
+ },
+ {
+  "ledger_folder": "ledger-technology-science",
+  "domain": "Scientific frameworks, paradigm events, knowledge assets",
+  "governing_parts": "Part 10, Part 1 Area 5.5.12",
+  "template_source": "Part 37 Area 3 (schema pending); Part 1 Area 5.5.12 (cross-ref)",
+  "cs_ts_applicable": "NO (knowledge)"
+ }
+]

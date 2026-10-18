@@ -1,0 +1,11 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-INT-BND-002-02,Partner Line,Partner Cord,CHANNELED,,Basic
+CMV-INT-BND-003-05,Line Check,Cord Check,INSTANT,,Basic
+CMV-INT-BND-004-01,Line Cast,Cord Cast,INSTANT,,Basic
+CMV-INT-BND-004-02,Line Hold,Cord Hold,CHANNELED,,Basic
+CMV-INT-BND-004-04,Line Pluck,Cord Pluck,INSTANT,,Basic
+CMV-INT-BND-004-06,Line Breaker,Cord Breaker,INSTANT,,Intermediate
+CMV-INT-BND-005-02,Between Line,Crossed Cord,CHANNELED,,Basic
+CMV-INT-BND-007-01,Anchor Line,Anchor Cord,CHANNELED,,Basic
+CMV-INT-BND-007-03,Line Weight,Cord Weight,CHANNELED,,Basic
+CMV-INT-BND-007-06,Reeling Line,Drawing Cord,CHANNELED,,Intermediate

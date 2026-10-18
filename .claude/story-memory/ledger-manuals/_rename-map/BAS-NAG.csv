@@ -1,0 +1,72 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-NAG-001-01,Haft Ready Stance,Sunehusk,F4,T1 Unawakened,A
+MV-BAS-NAG-001-02,Level Waist Sweep,Short Habakiring,F1,T1 Unawakened,A
+MV-BAS-NAG-001-03,Slide-Hand Point Thrust,Quick Mawashi,F1,T1 Unawakened,A
+MV-BAS-NAG-001-04,Low Guard Rising Cut,Leaden Tsubaring,F1,T1 Unawakened,A
+MV-BAS-NAG-001-05,Haft Press Parry,Resting Nagaheel,F1,T1 Unawakened,A
+MV-BAS-NAG-001-06,Rear-Foot Glide Step,Nagihop,F4,T1 Unawakened,A
+MV-BAS-NAG-002-01,Forearm-Spread Shaft Grip,Raised Ishizukibase,F1,T1 Skin,A
+MV-BAS-NAG-002-02,Diagonal Shoulder Cut,Sunebump,F4,T1 Skin,A
+MV-BAS-NAG-002-03,Shin-Level Hook Cut,Gnawing Bladecurve,F1,T1 Skin,A
+MV-BAS-NAG-002-04,Rear Butt-Cap Jab,Forward Sayacap,F1,T1 Skin,A
+MV-BAS-NAG-002-05,Outer Haft Turn-Aside,Settled Ishizuki,F1,T1 Skin,A
+MV-BAS-NAG-002-06,Quarter Pivot Swing,Skipping Nagi,F1,T1 Skin,A
+MV-BAS-NAG-002-07,Backward Shuffle Slant Guard,Angled Nagashaft,F1,T1 Skin,A
+MV-BAS-NAG-003-01,Wrist Flick Tap,Square Uchiotoshi,F1,T1 Muscle,A
+MV-BAS-NAG-003-02,Overhead Crown Descent,Nagabump,F4,T1 Muscle,A
+MV-BAS-NAG-003-03,Point-Down Knee Block,Planted Nagatip,F1,T1 Muscle,A
+MV-BAS-NAG-003-04,Full-Pace Lunge Reach,Ishiamble,F4,T1 Muscle,A
+MV-BAS-NAG-003-05,Weapon-Arm Haft Slap,Stopping Harai,F1,T1 Muscle,A
+MV-BAS-NAG-004-01,Blade-Up Waiting Guard,Ishizuki Stay,F3,T1 Tendon,A
+MV-BAS-NAG-004-02,Outer Hip Sweep,Firm Kake,F1,T1 Tendon,A
+MV-BAS-NAG-004-03,Throat-Line Thrust,Ishistrike,F4,T1 Tendon,A
+MV-BAS-NAG-004-04,Recovery Draw to Guard,Raised Nagatip,F1,T1 Tendon,A
+MV-BAS-NAG-004-05,Thigh-Level Slice,Kake Drop,F3,T1 Tendon,A
+MV-BAS-NAG-004-06,Inside Haft Roll,Nagastay,F4,T1 Tendon,A
+MV-BAS-NAG-004-07,Blade-Back Hook Pull,Locking Bladecurve,F1,T1 Tendon,A
+MV-BAS-NAG-004-08,Angled Sidestep Entry,Backward Sukui,F1,T1 Tendon,A
+MV-BAS-NAG-005-01,Midshaft Balance Hold,Hooding Nagablade,F1,T1 Bone,A
+MV-BAS-NAG-005-02,Weight-Forward Slant Cut,Hard Habakiring,F1,T1 Bone,A
+MV-BAS-NAG-005-03,Cross-Body Return Cut,Sukuidrop,F4,T1 Bone,A
+MV-BAS-NAG-005-04,Rising Haft Block,Nagablade Lid,F3,T1 Bone,A
+MV-BAS-NAG-005-05,Rear-Hand Slide Retreat,Swaying Nagashaft,F1,T1 Bone,A
+MV-BAS-NAG-005-06,Edge Contact Sense,Kind Tsubaring,F1,T1 Bone,A
+MV-BAS-NAG-006-01,Heel-Biting Close Guard,Lowered Ishizukibase,F1,T1 Bone,A
+MV-BAS-NAG-006-02,Blade-Heel Chop,Sudden Sayacap,F1,T1 Bone,A
+MV-BAS-NAG-006-03,Butt-Cap Stomach Drive,Short Nagi,F1,T1 Bone,A
+MV-BAS-NAG-006-04,Haft Hook Foot Sweep,Sukuistay,F4,T1 Bone,A
+MV-BAS-NAG-006-05,Rear-Cap Block Turn,Resting Nagatip,F1,T1 Bone,A
+MV-BAS-NAG-006-06,Heel-Pivot Close Turn,Swaying Uchiotoshi,F1,T1 Bone,A
+MV-BAS-NAG-006-07,Throat Choke-Up Poke,Level Sukui,F1,T1 Bone,A
+MV-BAS-NAG-007-01,Qi-Lit Grip Hold,Hooding Nagashaft,F1,Senior L1 Low,A
+MV-BAS-NAG-007-02,Breath-Timed Arc Sweep,Nagi Blow,F3,Senior L1 Low,A
+MV-BAS-NAG-007-03,Hip-Driven Ribline Cut,Nagaheel Drop,F3,Senior L1 Low,A
+MV-BAS-NAG-007-04,Shaft-Ring Parry,Nagacowl,F4,Senior L1 Low,A
+MV-BAS-NAG-007-05,Skimming Advance Step,Shifting Harai,F1,Senior L1 Low,A
+MV-BAS-NAG-007-06,Steady Point Reading,Tending Ishizukibase,F1,Senior L1 Low,A
+MV-BAS-NAG-008-01,Measured Reach Stance,Folded Habakiring,F1,Senior L2 Mid,A
+MV-BAS-NAG-008-02,Tip-Edge Long Sweep,Open Harai,F1,Senior L2 Mid,A
+MV-BAS-NAG-008-03,Distance-Closing Forward Drive,Haraidrop,F4,Senior L2 Mid,A
+MV-BAS-NAG-008-04,Distance-Opening Back Glide,Shifting Ishizuki,F1,Senior L2 Mid,A
+MV-BAS-NAG-008-05,Foot-Line Pin,Ishilid,F4,Senior L2 Mid,A
+MV-BAS-NAG-009-01,Palm-Roll Shaft Spin,Sayacap Lid,F3,Senior L4 Low,A
+MV-BAS-NAG-009-02,Figure-Eight Sweep,Kakehit,F4,Senior L4 Low,A
+MV-BAS-NAG-009-03,Hand-Swap Lead Change,Haraihop,F4,Senior L4 Low,A
+MV-BAS-NAG-009-04,Overhead Wheel Guard,Lowered Bladecurve,F1,Senior L4 Low,A
+MV-BAS-NAG-009-05,One-Hand Reach Slash,Nagadash,F4,Senior L4 Low,A
+MV-BAS-NAG-009-06,Haft-Held Pressing Line,Straight Uchiotoshi,F1,Senior L4 Low,A
+MV-BAS-NAG-009-07,Spin-Slip Disengage,Hitching Mawashi,F1,Senior L4 Low,A
+MV-BAS-NAG-009-08,Weighted Spin Recovery,Folded Nagablade,F1,Senior L4 Low,A
+MV-BAS-NAG-010-01,Footfall Match Guard,Snug Nagaheel,F1,Senior L6 High,A
+MV-BAS-NAG-010-02,Step-and-Swing Cut,Sudden Sukui,F1,Senior L6 High,A
+MV-BAS-NAG-010-03,Side-Line Cutting Entry,Nimble Mawashi,F1,Senior L6 High,A
+MV-BAS-NAG-010-04,Light-Qi Shin Scoop,Sunestrike,F4,Senior L6 High,A
+MV-BAS-NAG-010-05,Haft-Bar Cross Block,Snug Tsubaring,F1,Senior L6 High,A
+MV-BAS-NAG-010-06,Rhythm Break Tap,Sukuipause,F4,Senior L6 High,A
+MV-BAS-NAG-010-07,Rear Cap Skip Step,Uchiotoshi Dodge,F3,Senior L6 High,A
+MV-BAS-NAG-011-01,Wide-Arc Open Guard,Planted Habakiring,F1,Senior L8 Mid,A
+MV-BAS-NAG-011-02,Full-Circle Horizon Cut,Ishidash,F4,Senior L8 Mid,A
+MV-BAS-NAG-011-03,Arc-Closing Stop Guard,Ishihusk,F4,Senior L8 Mid,A
+MV-BAS-NAG-011-04,Return Arc Counter-Sweep,Ishibump,F4,Senior L8 Mid,A
+MV-BAS-NAG-011-05,Pole-Width Deflect,Lowered Nagatip,F1,Senior L8 Mid,A
+MV-BAS-NAG-011-06,Open-Ground Circling Step,Haraiskitter,F4,Senior L8 Mid,A

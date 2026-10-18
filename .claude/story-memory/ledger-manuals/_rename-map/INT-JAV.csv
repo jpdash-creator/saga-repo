@@ -1,0 +1,60 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-JAV-001-01,Shoulder-Level Straight Cast,Keen Launch,F1,Senior L1 Low,A
+MV-INT-JAV-001-02,Reverse-Grip Back-Hand Thrust,Cruel Leadknob,F1,Senior L1 Low,A
+MV-INT-JAV-001-03,Leaping Forward Reach Step,Plumezip,F4,Senior L1 Low,A
+MV-INT-JAV-001-04,Haft-Check Side Slide,Sturdy Lightshaft,F1,Senior L1 Low,A
+MV-INT-JAV-001-05,Qi-Loaded Arm Throw,Dartflog,F4,Senior L1 Low,A
+MV-INT-JAV-001-06,Point-Hardening Rim Piercer,Grim Skewerflight,F1,Senior L1 Low,A
+MV-INT-JAV-002-01,Forearm-Gather Breath Draw,Patient Pointbalance,F1,Senior L4 Mid,A
+MV-INT-JAV-002-02,Snap-Elbow Short Throw,Brisk Whistle,F1,Senior L4 Mid,A
+MV-INT-JAV-002-03,Off-Foot Plant Brace,Rooted Dartcap,F1,Senior L4 Mid,A
+MV-INT-JAV-002-04,Spare-Shaft Hip Draw,Launchslap,F4,Senior L4 Mid,A
+MV-INT-JAV-002-05,Turning-Away Back Step,Fletchglide,F4,Senior L4 Mid,A
+MV-INT-JAV-002-06,Gathered-Qi Release Burst,Rough Loft,F1,Senior L4 Mid,A
+MV-INT-JAV-002-07,Reactive Shaft Ward Wheel,Stubborn Thinheft,F1,Senior L4 Mid,A
+MV-INT-JAV-003-01,Broad-Stance Heavy Heave,Loftthwack,F4,Senior L8 Low,A
+MV-INT-JAV-003-02,Weighted-Shaft Wrist Twist,Sure Tailweight,F1,Senior L8 Low,A
+MV-INT-JAV-003-03,Leaning Shield-Centre Drive,Savage Dart,F1,Senior L8 Low,A
+MV-INT-JAV-003-04,Waist-Level Low Block,Leadscreen,F4,Senior L8 Low,A
+MV-INT-JAV-003-05,Boss-Cracking Heavy Throw,Fierce Whistle,F1,Senior L8 Low,A
+MV-INT-JAV-003-06,Saddle-Emptying Chest Cast,Wild Skewerflight,F1,Senior L8 Low,A
+MV-INT-JAV-004-01,Cart-Bed Knee Brace,Plumeglide,F4,Warrior L1 Low,B
+MV-INT-JAV-004-02,Deck-Roll Timing Throw,Ember Whistle,F2,Warrior L1 Low,B
+MV-INT-JAV-004-03,Uphill Steep-Wrist Cast,Bold Loft,F1,Warrior L1 Low,B
+MV-INT-JAV-004-04,Downhill Short-Swing Drop,Gleamlaunch,F5,Warrior L1 Low,B
+MV-INT-JAV-004-05,Loose-Gravel Sliding Step,Darthurdle,F4,Warrior L1 Low,B
+MV-INT-JAV-004-06,Rail-Hook Elbow Brace,Regimen Thinheft,F2,Warrior L1 Low,B
+MV-INT-JAV-004-07,Sway-Cancelling Qi Anchor,Sprout Leadknob,F2,Warrior L1 Low,B
+MV-INT-JAV-004-08,Moving-Footing Aimed Hurl,Cometlead,F5,Warrior L1 Low,B
+MV-INT-JAV-005-01,Both-Hands Short Thrust,Brass Thinheft,F2,Warrior L3 Mid,B
+MV-INT-JAV-005-02,Choke-Up Parry Sweep,Poise Tailweight,F2,Warrior L3 Mid,B
+MV-INT-JAV-005-03,Hand-Over-Hand Backing Slide,Loftzip,F4,Warrior L3 Mid,B
+MV-INT-JAV-005-04,Turned-Wrist Point Flick,Barbedswat,F4,Warrior L3 Mid,B
+MV-INT-JAV-005-05,Last-Stroke Release Throw,Sleet Dropdive,F2,Warrior L3 Mid,B
+MV-INT-JAV-005-06,Qi-Along-Shaft Deep Thrust,Honed Whistle,F2,Warrior L3 Mid,B
+MV-INT-JAV-005-07,Upright-Haft Bar Block,Clay Pointbalance,F2,Warrior L3 Mid,B
+MV-INT-JAV-006-01,Shaft-High Cover Raise,Layered Dartpoint,F1,Warrior L5 High,B
+MV-INT-JAV-006-02,Cast-and-Cover Half Turn,Static Skewerflight,F2,Warrior L5 High,B
+MV-INT-JAV-006-03,Stop-Short Gap Feint,Mirage Throwloop,F2,Warrior L5 High,B
+MV-INT-JAV-006-04,Cover-Seeking Crouch Dash,Fletchcurl,F4,Warrior L5 High,B
+MV-INT-JAV-006-05,Shield-Rim Notch Throw,Draught Dart,F2,Warrior L5 High,B
+MV-INT-JAV-006-06,Retained-Shaft Qi Wheel,Barbedbuckle,F4,Warrior L5 High,B
+MV-INT-JAV-007-01,Hanging-Sandbag Hammer Drill,Hum Launch,F2,Warrior L7 Mid,B
+MV-INT-JAV-007-02,Pulley-Rope Hip Whip,Dawn Tailweight,F2,Warrior L7 Mid,B
+MV-INT-JAV-007-03,One-Leg Release Hold,Launchstalk,F4,Warrior L7 Mid,B
+MV-INT-JAV-007-04,Rolling-Shaft Heel Trip,Gall Fletch,F2,Warrior L7 Mid,B
+MV-INT-JAV-007-05,Low-Barrier Vault Throw,Prowling Leadknob,F1,Warrior L7 Mid,B
+MV-INT-JAV-007-06,Five-Breath Rapid Volley,Dartscorer,F4,Warrior L7 Mid,B
+MV-INT-JAV-007-07,Qi-Pulse Wrist Drill,Purpose Thinheft,F2,Warrior L7 Mid,B
+MV-INT-JAV-007-08,Ringing-Post Piercing Cast,Shard Skewerflight,F2,Warrior L7 Mid,B
+MV-INT-JAV-007-09,Weighted-Arm Return Sweep,Plumeprop,F4,Warrior L7 Mid,B
+MV-INT-JAV-008-01,Incoming-Line Half Sidestep,Loftswerve,F4,Warrior L9 Low,B
+MV-INT-JAV-008-02,Open-Palm Shaft Slap,Haze Lightshaft,F2,Warrior L9 Low,B
+MV-INT-JAV-008-03,Haft-Pivot Intercept Wheel,Resolute Fletch,F1,Warrior L9 Low,B
+MV-INT-JAV-008-04,Spent-Shaft Return Throw,Leadthwack,F4,Warrior L9 Low,B
+MV-INT-JAV-008-05,Rival-Shoulder Reading Eye,Candor Dartpoint,F2,Warrior L9 Low,B
+MV-INT-JAV-008-06,Cloak-Wrapped Arm Catch,Sprig Tailweight,F2,Warrior L9 Low,B
+MV-INT-JAV-008-07,High-Shaft Duck and Roll,Ducking Barbed,F1,Warrior L9 Low,B
+MV-INT-JAV-008-08,Qi-Palm Shaft Smother,Armored Throwloop,F1,Warrior L9 Low,B
+MV-INT-JAV-008-09,Reversed-Flight Return Hurl,Launchflog,F4,Warrior L9 Low,B
+MV-INT-JAV-008-10,Release-Cued Closing Step,Coasting Leadknob,F1,Warrior L9 Low,B

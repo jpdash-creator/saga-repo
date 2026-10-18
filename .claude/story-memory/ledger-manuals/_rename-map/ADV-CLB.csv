@@ -1,0 +1,120 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-CLB-001-01,Shield-Facing Crouch,Charter Thickend,F2,Champion L1 Low,B
+MV-ADV-CLB-001-02,Boss-Hunting Thrust,Ravaging Girth,F1,Champion L1 Low,B
+MV-ADV-CLB-001-03,Rim-Catching Hook,Handholdgrip Fastness,F3,Champion L1 Low,B
+MV-ADV-CLB-001-04,Angled Entry Step,Might Thump,F2,Champion L1 Low,B
+MV-ADV-CLB-001-05,Meridian-Driven Shield Hammer,Rumbleclout,F5,Champion L1 Low,B
+MV-ADV-CLB-001-06,Brace-Breaking Lever,Dominating Clout,F1,Champion L1 Low,B
+MV-ADV-CLB-001-07,Planks-to-Splinters Crush,Furrowing Burl Maelstrom,F6b,Champion L1 Low,B
+MV-ADV-CLB-001-08,Line-Opening Sweep,Scalding Cudgel,F1,Champion L1 Low,B
+MV-ADV-CLB-002-01,Rooted Trunk Stance,Hardened Stout,F1,Demigod L1 Low,B
+MV-ADV-CLB-002-02,Grain-Following Chop,Bulgebarrage,F4,Demigod L1 Low,B
+MV-ADV-CLB-002-03,Trunk-Lift Overhead,Gust Bulge,F2,Demigod L1 Low,B
+MV-ADV-CLB-002-04,Bark-Brush Sidestep,Torrent Bludgeon,F2,Demigod L1 Low,B
+MV-ADV-CLB-002-05,Sap-Rising Qi Charge,Intent Heartwood,F2,Demigod L1 Low,B
+MV-ADV-CLB-002-06,Splitting Wedge Strike,Might Knob,F2,Demigod L1 Low,B
+MV-ADV-CLB-002-07,Branch Sweep Cross,Drubbing Wallop,F1,Demigod L1 Low,B
+MV-ADV-CLB-002-08,Felled-Tree Collapse,Wallopthrash,F4,Demigod L1 Low,B
+MV-ADV-CLB-002-09,Timber Shock Down the Line,Belabor Onslaught,F3,Demigod L1 Low,B
+MV-ADV-CLB-003-01,Plate-Reading Stance,Charter Roundhead,F2,Champion L4 Mid,B
+MV-ADV-CLB-003-02,Breastplate Thud,Burlassault,F4,Champion L4 Mid,B
+MV-ADV-CLB-003-03,Helm-Side Ringing Blow,Sanguine Bellyswell,F2,Champion L4 Mid,B
+MV-ADV-CLB-003-04,Greave Knock,Sanguine Bludgeon,F2,Champion L4 Mid,B
+MV-ADV-CLB-003-05,Gap-Seeking Club Step,Gustgirth,F5,Champion L4 Mid,B
+MV-ADV-CLB-003-06,Mail-Quaking Strike,Glint Belabor,F2,Champion L4 Mid,B
+MV-ADV-CLB-003-07,Padded-Coat Pounding,Granite Stout,F2,Champion L4 Mid,B
+MV-ADV-CLB-003-08,Hinge-Joint Wedge,Chime Bulge,F2,Champion L4 Mid,B
+MV-ADV-CLB-003-09,Shock Through the Cuirass,Rumblethump,F5,Champion L4 Mid,B
+MV-ADV-CLB-003-10,Rattle the Armoured Body,Girth Cuirass,F3,Champion L4 Mid,B
+MV-ADV-CLB-004-01,Wide-Footed Reckoning Stance,Girthplating,F4,Demigod L3 Mid,B
+MV-ADV-CLB-004-02,Blunt Sweep at Hip Height,Rumble Burl,F2,Demigod L3 Mid,B
+MV-ADV-CLB-004-03,Stepping Overhand Pound,Might Bellyswell,F2,Demigod L3 Mid,B
+MV-ADV-CLB-004-04,Rear-Guard Swing,Torrent Knob,F2,Demigod L3 Mid,B
+MV-ADV-CLB-004-05,Circling Pace,Granite Thump,F2,Demigod L3 Mid,B
+MV-ADV-CLB-004-06,Haft-Butt Backthrust,Iron Thickend,F2,Demigod L3 Mid,B
+MV-ADV-CLB-004-07,Field-Fed Round Sweep,Lambasting Cudgel,F1,Demigod L3 Mid,B
+MV-ADV-CLB-004-08,Rebounding Chain of Blows,Doctrine Clout,F2,Demigod L3 Mid,B
+MV-ADV-CLB-004-09,Heavy Pause Brace,Iron Roundhead,F2,Demigod L3 Mid,B
+MV-ADV-CLB-004-10,Reckoning of the Many,Mayhemwallop,F5,Demigod L3 Mid,B
+MV-ADV-CLB-004-11,Unbroken Blunt Barrage,Transfixing Clout,F1,Demigod L3 Mid,B
+MV-ADV-CLB-005-01,Twin-Track Ready Hold,Steadfast Stout,F1,Champion L2 Low,B
+MV-ADV-CLB-005-02,Paired Knock,Iron Heartwood,F2,Champion L2 Low,B
+MV-ADV-CLB-005-03,Left-Right Crack,Gust Roundhead,F2,Champion L2 Low,B
+MV-ADV-CLB-005-04,Matched Step,Belabor Spurt,F3,Champion L2 Low,B
+MV-ADV-CLB-005-05,Parallel Deflection,Chimeknob,F5,Champion L2 Low,B
+MV-ADV-CLB-005-06,Pair-of-Rungs Hook,Handholdgrip Hauberk,F3,Champion L2 Low,B
+MV-ADV-CLB-005-07,Body-Track Pounding,Scorching Girth,F1,Champion L2 Low,B
+MV-ADV-CLB-005-08,Qi-Track Lance,Facet Cudgel,F2,Champion L2 Low,B
+MV-ADV-CLB-005-09,Dual-Rhythm Beating,Gust Burl,F2,Champion L2 Low,B
+MV-ADV-CLB-005-10,Mirror Parry and Strike,Unshaken Bulge,F1,Champion L2 Low,B
+MV-ADV-CLB-005-11,"Two Tracks, One Blow",Thumptorment,F4,Champion L2 Low,B
+MV-ADV-CLB-005-12,Tandem Shock Pair,Rumblecudgel,F5,Champion L2 Low,B
+MV-ADV-CLB-006-01,Perched Hawk Cudgel Stance,Aegis Heartwood,F2,Demigod L2 Low,B
+MV-ADV-CLB-006-02,Cudgel Talon Rap,Sanguine Handholdgrip,F2,Demigod L2 Low,B
+MV-ADV-CLB-006-03,Wing-Flap Sidestep,Torrent Thickend,F2,Demigod L2 Low,B
+MV-ADV-CLB-006-04,Beak-Level Thrust,Iron Thump,F2,Demigod L2 Low,B
+MV-ADV-CLB-006-05,Stoop-Dive Entry,Knob Canter,F3,Demigod L2 Low,B
+MV-ADV-CLB-006-06,Hooked-Talon Pull,Toxin Bellyswell,F2,Demigod L2 Low,B
+MV-ADV-CLB-006-07,Falling Hawk Strike,Lancing Bludgeon Thrash,F6b,Demigod L2 Low,B
+MV-ADV-CLB-006-08,Wheeling Hawk Barrage,Burlthrash,F4,Demigod L2 Low,B
+MV-ADV-CLB-007-01,Basin-Rim Cudgel Stance,Enduring Knob,F1,Champion L6 Mid,B
+MV-ADV-CLB-007-02,Pooling Breath Strike,Skinning Handholdgrip,F1,Champion L6 Mid,B
+MV-ADV-CLB-007-03,Spilling Edge Swing,Blazeclout,F5,Champion L6 Mid,B
+MV-ADV-CLB-007-04,River-Bend Cudgel Walk,Bludgeon Pounce,F3,Champion L6 Mid,B
+MV-ADV-CLB-007-05,Shallow Water Parry,Heartwood Cloak,F3,Champion L6 Mid,B
+MV-ADV-CLB-007-06,Gathering Pool Press,Subduing Clout,F1,Champion L6 Mid,B
+MV-ADV-CLB-007-07,Overflow Release Blow,Knobthrash,F4,Champion L6 Mid,B
+MV-ADV-CLB-007-08,Still-Surface Guard,Facetknob,F5,Champion L6 Mid,B
+MV-ADV-CLB-007-09,Basin Brims and Breaks,Bulge Torment,F3,Champion L6 Mid,B
+MV-ADV-CLB-007-10,Azure Flood Sweep,Mayhemstout,F5,Champion L6 Mid,B
+MV-ADV-CLB-008-01,Twin-Channel Grip,Ironburl,F5,Demigod L5 High,B
+MV-ADV-CLB-008-02,Eddy Turn Strike,Blazethump,F5,Demigod L5 High,B
+MV-ADV-CLB-008-03,Bank-Skimming Step,Siltgirth,F5,Demigod L5 High,B
+MV-ADV-CLB-008-04,Current-Cross Parry,Burlplating,F4,Demigod L5 High,B
+MV-ADV-CLB-008-05,Upstream Qi Push,Girthelixir,F4,Demigod L5 High,B
+MV-ADV-CLB-008-06,Downstream Pull,Rumble Wallop,F2,Demigod L5 High,B
+MV-ADV-CLB-008-07,Meeting Waters Blow,Rupturing Roundhead,F1,Demigod L5 High,B
+MV-ADV-CLB-008-08,Twin-Current Smash,Blaze Bellyswell,F2,Demigod L5 High,B
+MV-ADV-CLB-008-09,Whirlpool Press,Thorn Girth,F2,Demigod L5 High,B
+MV-ADV-CLB-009-01,Windward Stance,Facet Burl,F2,Champion L3 Low,B
+MV-ADV-CLB-009-02,Sworn-Wind Overhand,Gust Wallop,F2,Champion L3 Low,B
+MV-ADV-CLB-009-03,Gust-Quick Rap,Gust Cudgel,F2,Champion L3 Low,B
+MV-ADV-CLB-009-04,Lee-Side Cudgel Shuffle,Might Stout,F2,Champion L3 Low,B
+MV-ADV-CLB-009-05,Crosswind Cudgel Turn,Chime Thickend,F2,Champion L3 Low,B
+MV-ADV-CLB-009-06,Gale-Edge Jab,Wrecking Bulge,F1,Champion L3 Low,B
+MV-ADV-CLB-009-07,Plateau Wind Shove,Belabor Greave,F3,Champion L3 Low,B
+MV-ADV-CLB-009-08,Whistling Cudgel Arc,Mightburl,F5,Champion L3 Low,B
+MV-ADV-CLB-009-09,Wind-Held Guard,Unbroken Bellyswell,F1,Champion L3 Low,B
+MV-ADV-CLB-009-10,Oath-Wind Hammer,Blaze Handholdgrip,F2,Champion L3 Low,B
+MV-ADV-CLB-009-11,Footing-Stealing Gale Sweep,Paralyzing Roundhead,F1,Champion L3 Low,B
+MV-ADV-CLB-010-01,Edge-Standing Stance,Hoarfrost Heartwood,F2,Demigod L1 Mid,B
+MV-ADV-CLB-010-02,Drop-Side Shove,Paralyzing Thump,F1,Demigod L1 Mid,B
+MV-ADV-CLB-010-03,Plateau Rim Chop,Drubbing Thickend,F1,Demigod L1 Mid,B
+MV-ADV-CLB-010-04,Sure-Footed Edge Step,Whipping Girth,F1,Demigod L1 Mid,B
+MV-ADV-CLB-010-05,Turned-Back Parry,Chimegirth,F5,Demigod L1 Mid,B
+MV-ADV-CLB-010-06,Ground-Gripping Pull,Hamstringing Knob,F1,Demigod L1 Mid,B
+MV-ADV-CLB-010-07,Edge-Driving Blow,Might Wallop,F2,Demigod L1 Mid,B
+MV-ADV-CLB-010-08,Heel-on-the-Rim Brace,Stout Fastness,F3,Demigod L1 Mid,B
+MV-ADV-CLB-010-09,Pushing Gale Press,Bludgeon Hauberk,F3,Demigod L1 Mid,B
+MV-ADV-CLB-010-10,Ledge-Cracking Swing,Granite Clout,F2,Demigod L1 Mid,B
+MV-ADV-CLB-010-11,Edge-Holding Hammerfall,Tempered Wallop,F2,Demigod L1 Mid,B
+MV-ADV-CLB-010-12,Drive Them Off the Rim,Blazewallop,F5,Demigod L1 Mid,B
+MV-ADV-CLB-011-01,Oath-Spoken Club Stance,Unbroken Thickend,F1,Champion L7 High,B
+MV-ADV-CLB-011-02,Bearing-Taken Strike,Ironstout,F5,Champion L7 High,B
+MV-ADV-CLB-011-03,Held-Line Rap,Rumblestout,F5,Champion L7 High,B
+MV-ADV-CLB-011-04,Steady Bearing Cudgel Pace,Torrent Belabor,F2,Champion L7 High,B
+MV-ADV-CLB-011-05,Sworn Club Parry,Unbroken Burl,F1,Champion L7 High,B
+MV-ADV-CLB-011-06,Oath-Weighted Blow,Cudgelthrash,F4,Champion L7 High,B
+MV-ADV-CLB-011-07,True-Bearing Guard,Bulgeplating,F4,Champion L7 High,B
+MV-ADV-CLB-011-08,Bearing-Breaking Shove,Compressing Knob,F1,Champion L7 High,B
+MV-ADV-CLB-011-09,Kept-Oath Hammer,Thump Maelstrom,F3,Champion L7 High,B
+MV-ADV-CLB-011-10,Unbroken Bearing Sweep,Blazestout,F5,Champion L7 High,B
+MV-ADV-CLB-012-01,Gale-Facing Stance,Implacable Bulge,F1,Demigod L4 Mid,B
+MV-ADV-CLB-012-02,Wind-Pushed Overhand,Blazegirth,F5,Demigod L4 Mid,B
+MV-ADV-CLB-012-03,Held-Course Club Step,Silt Wallop,F2,Demigod L4 Mid,B
+MV-ADV-CLB-012-04,Side-Gust Parry,Torrent Burl,F2,Demigod L4 Mid,B
+MV-ADV-CLB-012-05,Gale-Gathering Breath,Might Roundhead,F2,Demigod L4 Mid,B
+MV-ADV-CLB-012-06,Tailwind Rush Strike,Granite Handholdgrip,F2,Demigod L4 Mid,B
+MV-ADV-CLB-012-07,Headwind Brace,Facet Girth,F2,Demigod L4 Mid,B
+MV-ADV-CLB-012-08,Gale-Driven Cudgel Fall,Belabor Barrage,F3,Demigod L4 Mid,B
+MV-ADV-CLB-012-09,Storm-Edge Sweep,Scalding Bellyswell,F1,Demigod L4 Mid,B

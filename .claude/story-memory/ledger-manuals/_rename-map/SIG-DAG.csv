@@ -1,0 +1,138 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-DAG-001-01,Paired-Hand Draw Slash,Royal Scalepoint,F1,Warrior,B
+MV-SIG-DAG-001-02,Azure-Edge Shuffle Step,Deluge Basehilt,F2,Warrior,B
+MV-SIG-DAG-001-03,River-Stone Edge Parry,Paritykris,F5,Warrior,B
+MV-SIG-DAG-001-04,River-Stone Qi-Braced Parry,Deluge Fingerloop,F2,Warrior,B
+MV-SIG-DAG-001-05,Delta Counter Slip Stab,Prismsidle,F5,Warrior,B
+MV-SIG-DAG-001-06,Delta Gap-Seeking Thrust,Thunderclap Vestpoint,F2,Warrior,B
+MV-SIG-DAG-001-07,Azure-Edge Joint Seam Cut,Thunderclap Waistspine,F2,Champion,B
+MV-SIG-DAG-001-08,River-Stone Scissor Cross Cut,Inferno Nip,F2,Champion,B
+MV-SIG-DAG-001-09,Delta Piercing Seam Drive,Pulsar Slip,F2,Demigod,B
+MV-SIG-DAG-001-10,River-Stone Nine-Count Flurry,Orchestral Volition Tuck,F6a,Warrior,B
+MV-SIG-DAG-002-01,Twin-Court Wrist Flick Cut,Intrepid Twinbite,F1,Warrior,B
+MV-SIG-DAG-002-02,Hawk-Talon Edge Parry,Krisvow,F4,Warrior,B
+MV-SIG-DAG-002-03,Shallows Crossguard Catch,Needleside Troth,F3,Warrior,B
+MV-SIG-DAG-002-04,Hawk Gap-Seeking Thrust,Splendid Sidle,F1,Warrior,B
+MV-SIG-DAG-002-05,Hawk Qi-Edged Draw,Steelnip,F5,Warrior,B
+MV-SIG-DAG-002-06,Twin-Court Inside Line Hook,Hornbeam Scratch,F2,Warrior,B
+MV-SIG-DAG-002-07,Twin-Court Roll Cut Disarm,Commanding Grippad,F1,Warrior,B
+MV-SIG-DAG-002-08,Twin-Court Snare Line Trap,Retribution Rondelknob,F2,Champion,B
+MV-SIG-DAG-002-09,Twin-Court Shoulder Gap Hook,Entropy Hiltbar,F2,Champion,B
+MV-SIG-DAG-002-10,Hawk Shadow Orbit Step,Fanggrace,F4,Demigod,B
+MV-SIG-DAG-002-11,Shallows Last Breath Stab,Magnificent Pulsar Rondelknob,F6a,Warrior,B
+MV-SIG-DAG-003-01,Mirror-Pair Jab Series,Seasonkris,F5,Champion,B
+MV-SIG-DAG-003-02,Azure-Sweep Hip Hold Guard,Sheathseal,F4,Champion,B
+MV-SIG-DAG-003-03,Second-Track Pommel Strike,Haemal Twinbite,F2,Champion,B
+MV-SIG-DAG-003-04,Basin-Rim Slip Parry,Fingerloop Troth,F3,Champion,B
+MV-SIG-DAG-003-05,Mirror-Pair Counter Slip Stab,Slip Banner,F3,Champion,B
+MV-SIG-DAG-003-06,Azure-Sweep Leaf Guard,Vestpoint Vow,F3,Champion,B
+MV-SIG-DAG-003-07,Millrace Qi-Braced Parry,Sainted Needleside,F1,Champion,B
+MV-SIG-DAG-003-08,Azure-Sweep Cross Catch Guard,Fangvow,F4,Champion,B
+MV-SIG-DAG-003-09,Azure-Sweep Shoulder Gap Hook,Venom Basehilt,F2,Champion,B
+MV-SIG-DAG-003-10,Mirror-Pair Suppression Flurry,Bedrock Hiltbar,F2,Champion,B
+MV-SIG-DAG-003-11,Basin-Rim Lance Slip Counter,Sheathvow,F4,Demigod,B
+MV-SIG-DAG-003-12,Millrace Last Breath Stab,Valiant Grippad Crown,F6b,Champion,B
+MV-SIG-DAG-004-01,Current Pommel Strike,Squall Waistspine,F2,Ruler,B
+MV-SIG-DAG-004-02,Current Boot Draw Stab,Prod Edict,F3,Ruler,B
+MV-SIG-DAG-004-03,Basin Backhand Slash,Squall Sidle,F2,Ruler,B
+MV-SIG-DAG-004-04,Basin Counter Slip Stab,Steeltuck,F5,Ruler,B
+MV-SIG-DAG-004-05,Sandbar Seam Probe,Pealfang,F5,Ruler,B
+MV-SIG-DAG-004-06,Current Paired Throw,Pealnip,F5,Ruler,B
+MV-SIG-DAG-004-07,Basin Armor Seam Thrust,Prism Tuck,F2,Ruler,B
+MV-SIG-DAG-004-08,Delta Ground Spike Trap,Shrewd Scalepoint,F1,Ruler,B
+MV-SIG-DAG-004-09,Delta Heartline Thrust,Pulsarsheath,F5,Demigod,B
+MV-SIG-DAG-004-10,Sandbar Silent Reaping Draw,Gallant Scalepoint Banner,F6b,Ruler,B
+MV-SIG-DAG-005-01,Dual-Track Heel Drop Stab,Radiance Prod,F2,Demigod,B
+MV-SIG-DAG-005-02,Mirror-Pair Counter Check,Parity Fingerloop,F2,Demigod,B
+MV-SIG-DAG-005-03,Twin-Edge Boot Draw Stab,Illustrious Grippad,F1,Demigod,B
+MV-SIG-DAG-005-04,Dual-Track Backhand Slash,Twinbite Verdict,F3,Demigod,B
+MV-SIG-DAG-005-05,Twin-Edge Pulse Pommel Strike,Intrepid Nip,F1,Demigod,B
+MV-SIG-DAG-005-06,River-Mouth Pulse Read,Pealkris,F5,Demigod,B
+MV-SIG-DAG-005-07,Dual-Track Roll Cut Disarm,Tyrannous Needleside,F1,Demigod,B
+MV-SIG-DAG-005-08,Twin-Edge Leaf Guard,Fangseal,F4,Demigod,B
+MV-SIG-DAG-005-09,Twin-Edge Snare Line Trap,Shrewd Hiltbar,F1,Demigod,B
+MV-SIG-DAG-005-10,Twin-Edge Pinning Throw,Tyrannous Tuck,F1,Demigod,B
+MV-SIG-DAG-005-11,Twin-Edge Shadow Orbit Step,Seasonnip,F5,Demigod,B
+MV-SIG-DAG-005-12,Dual-Track Silent Reaping Draw,Famed Basehilt Triumph,F6b,Demigod,B
+MV-SIG-DAG-006-01,River-Stone Counter Check,Parityfang,F5,Core Formation,B
+MV-SIG-DAG-006-02,River-Mouth Crossguard Catch,Peal Vestpoint,F2,Core Formation,B
+MV-SIG-DAG-006-03,River-Mouth Draw Slash,Vigortuck,F5,Core Formation,B
+MV-SIG-DAG-006-04,Shallows Paired Throw,Dauntless Rondelknob,F1,Core Formation,B
+MV-SIG-DAG-006-05,River-Mouth Sliding Hip Stab,Delugefang,F5,Core Formation,B
+MV-SIG-DAG-006-06,Twin-Hand Counter Slip Stab,Thunderclap Sidle,F2,Core Formation,B
+MV-SIG-DAG-006-07,River-Stone Inside Line Hook,Hornbeam Nip,F2,Core Formation,B
+MV-SIG-DAG-006-08,Twin-Hand Gutter Throw,Peal Scratch,F2,Core Formation,B
+MV-SIG-DAG-006-09,Azure-Edge Blade Sense Sweep,Bountiful Waistspine,F1,Core Formation,B
+MV-SIG-DAG-006-10,Azure-Edge Nullifying Cross Catch,Parity Vestpoint,F2,Core Formation,B
+MV-SIG-DAG-006-11,River-Stone Silent Reaping Draw,Magnificent Squall Rondelknob,F6a,Core Formation,B
+MV-SIG-DAG-007-01,Leeward Reverse Grip Stab,Nipedict,F4,Warrior,B
+MV-SIG-DAG-007-02,Oath Wrist Hook,Hornbeam Prod,F2,Warrior,B
+MV-SIG-DAG-007-03,Windward Elbow Lever,Entropy Grippad,F2,Warrior,B
+MV-SIG-DAG-007-04,Leeward Whip Cut Return,Thunderclap Prod,F2,Warrior,B
+MV-SIG-DAG-007-05,Windward Spiral Wrist Cut,Prodcrown,F4,Warrior,B
+MV-SIG-DAG-007-06,High-Wind Counter Slip Stab,Steel Slip,F2,Warrior,B
+MV-SIG-DAG-007-07,Oath Seam Probe,Reminiscence Needleside,F2,Warrior,B
+MV-SIG-DAG-007-08,Leeward Rolling Counter Stab,Prismsheath,F5,Champion,B
+MV-SIG-DAG-007-09,Oath Flowing Cut Chain,Resonant Scratch,F1,Champion,B
+MV-SIG-DAG-007-10,High-Wind Shatter Pommel Smash,Thunderclap Slip,F2,Demigod,B
+MV-SIG-DAG-007-11,High-Wind Unseen Hip Draw,Squall Tuck,F2,Warrior,B
+MV-SIG-DAG-008-01,Squall Edge Parry,Hiltbar Reliquary,F3,Warrior,B
+MV-SIG-DAG-008-02,Wind-Taken Grip Twist Disarm,Venom Scalepoint,F2,Warrior,B
+MV-SIG-DAG-008-03,Gale Spine Tap Stab,Pulsarkris,F5,Warrior,B
+MV-SIG-DAG-008-04,Plateau-Edge Pressure Point Jab,Tyrannous Basehilt,F1,Warrior,B
+MV-SIG-DAG-008-05,Wind-Sworn Gap-Seeking Thrust,Steelsidle,F5,Warrior,B
+MV-SIG-DAG-008-06,Wind-Sworn Step-Through Stab,Dune Sidle,F2,Warrior,B
+MV-SIG-DAG-008-07,Plateau-Edge Blade Orbit Guard,Sainted Fingerloop,F1,Champion,B
+MV-SIG-DAG-008-08,Squall Ground Spike Trap,Hornbeam Waistspine,F2,Champion,B
+MV-SIG-DAG-008-09,Squall Piercing Seam Drive,Unrivaled Scratch,F1,Demigod,B
+MV-SIG-DAG-008-10,Gale Falling Point Drop,Steel Needleside,F2,Warrior,B
+MV-SIG-DAG-009-01,Rim Wrist Flick Cut,Haemal Nip,F2,Champion,B
+MV-SIG-DAG-009-02,Wind-Sworn Forearm Block,Prism Rondelknob,F2,Champion,B
+MV-SIG-DAG-009-03,Rim Counter Slip Parry,Pall Grippad,F2,Champion,B
+MV-SIG-DAG-009-04,Oath-Held Sheath Draw Cut,Inferno Slip,F2,Champion,B
+MV-SIG-DAG-009-05,Squall Roll Cut Disarm,Nippledge,F4,Champion,B
+MV-SIG-DAG-009-06,Squall Inside Line Hook,Tuckseal,F4,Champion,B
+MV-SIG-DAG-009-07,Wind-Sworn Spiral Wrist Cut,Twinbite Banner,F3,Champion,B
+MV-SIG-DAG-009-08,Rim Blade-Lock Twist,Vestpoint Seal,F3,Champion,B
+MV-SIG-DAG-009-09,Downdraft Armor Seam Thrust,Tuck Crown,F3,Champion,B
+MV-SIG-DAG-009-10,Rim Ground Spike Trap,Twinbite Pledge,F3,Champion,B
+MV-SIG-DAG-009-11,Oath-Held Lance Slip Counter,Prismkris,F5,Demigod,B
+MV-SIG-DAG-009-12,Squall Steel Rain Throw,Peal Sidle,F2,Champion,B
+MV-SIG-DAG-010-01,Tailwind Grip Twist Disarm,Thunderclap Scalepoint,F2,Ruler,B
+MV-SIG-DAG-010-02,Windward Shuffle Step,Ethereal Basehilt,F1,Ruler,B
+MV-SIG-DAG-010-03,Windward Jab Series,Statute Hiltbar,F2,Ruler,B
+MV-SIG-DAG-010-04,Tailwind Gap-Seeking Thrust,Pulsar Nip,F2,Ruler,B
+MV-SIG-DAG-010-05,Tailwind Pulse Pommel Strike,Haemalsheath,F5,Ruler,B
+MV-SIG-DAG-010-06,Tailwind Roll Cut Disarm,Scratch Pledge,F3,Ruler,B
+MV-SIG-DAG-010-07,Open-Rim Inside Line Hook,Commanding Twinbite,F1,Ruler,B
+MV-SIG-DAG-010-08,Open-Rim Snare Line Trap,Artful Fingerloop,F1,Ruler,B
+MV-SIG-DAG-010-09,Open-Rim Pinning Throw,Sigil Hiltbar,F2,Ruler,B
+MV-SIG-DAG-010-10,Sky-Open Heartline Thrust,Radiance Scalepoint,F2,Demigod,B
+MV-SIG-DAG-010-11,Sworn Steel Rain Throw,Thunderclap Basehilt,F2,Ruler,B
+MV-SIG-DAG-011-01,Wind-Born Throwing Flick,Radiance Sidle,F2,Demigod,B
+MV-SIG-DAG-011-02,Oath-Bound Feint Jab,Reminiscence Fingerloop,F2,Demigod,B
+MV-SIG-DAG-011-03,Edge-Wind Off-Hand Trap,Millstone Rondelknob,F2,Demigod,B
+MV-SIG-DAG-011-04,Wind-Led Pulse Pommel Strike,Magnificent Waistspine,F1,Demigod,B
+MV-SIG-DAG-011-05,Oath-Bound Tendon Hook Slash,Thunderclap Tuck,F2,Demigod,B
+MV-SIG-DAG-011-06,Sky-Open Spiral Wrist Cut,Slipdecree,F4,Demigod,B
+MV-SIG-DAG-011-07,Edge-Wind Rolling Counter Stab,Eclipse Grippad,F2,Demigod,B
+MV-SIG-DAG-011-08,Edge-Wind Suppression Flurry,Statute Needleside,F2,Demigod,B
+MV-SIG-DAG-011-09,Wind-Born Heartline Thrust,Vacuum Scratch,F2,Demigod,B
+MV-SIG-DAG-011-10,Wind-Born Silent Reaping Draw,Peerless Waistspine,F1,Demigod,B
+MV-SIG-DAG-012-01,Veering Rising Gut Stab,Krisedict,F4,Core Formation,B
+MV-SIG-DAG-012-02,Squall Crouch Entry,Squallnip,F5,Core Formation,B
+MV-SIG-DAG-012-03,High-Wind Heel Drop Stab,Sidleedict,F4,Core Formation,B
+MV-SIG-DAG-012-04,Gust Palm Press Cut,Thunderclap Scratch,F2,Core Formation,B
+MV-SIG-DAG-012-05,Squall Tendon Hook Slash,Entropy Basehilt,F2,Core Formation,B
+MV-SIG-DAG-012-06,Squall Leaf Guard,Fingerloop Seal,F3,Core Formation,B
+MV-SIG-DAG-012-07,High-Wind Pressure Point Jab,Pealtuck,F5,Core Formation,B
+MV-SIG-DAG-012-08,High-Wind Spiral Wrist Cut,Quenched Vestpoint,F2,Core Formation,B
+MV-SIG-DAG-012-09,Gale Scissor Cross Cut,Inferno Sidle,F2,Core Formation,B
+MV-SIG-DAG-012-10,High-Wind Snare Line Trap,Beguiling Vestpoint,F1,Core Formation,B
+MV-SIG-DAG-012-11,Squall Shatter Pommel Smash,Quenched Rondelknob,F2,Core Formation,B
+MV-SIG-DAG-012-12,Gust Last Breath Stab,Triumphant Slip,F1,Core Formation,B
+MV-SIG-DAG-002-06,Hornbeam Scratch,Searing Scratch,F2,Warrior,B
+MV-SIG-DAG-006-07,Hornbeam Nip,Fierce Nip,F2,Core Formation,B
+MV-SIG-DAG-007-02,Hornbeam Prod,Savage Prod,F2,Warrior,B
+MV-SIG-DAG-008-06,Dune Sidle,Ruinous Sidle,F2,Warrior,B
+MV-SIG-DAG-008-08,Hornbeam Waistspine,Rending Waistspine,F2,Champion,B

@@ -1,0 +1,141 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-KUK-001-01,Matched Pair Opening Chop,Hookbelly Triumph,F3,Warrior,B
+MV-SIG-KUK-001-02,Cross-Spine Window Guard,Inwardcurve Pledge,F3,Warrior,B
+MV-SIG-KUK-001-03,Twin Stride Shuffle,Squall Cho,F2,Warrior,B
+MV-SIG-KUK-001-04,Left Blade Hook Lead,Unbending Slash,F1,Warrior,B
+MV-SIG-KUK-001-05,Right Blade Echo Cut,Bulgeedge Verdict,F3,Warrior,B
+MV-SIG-KUK-001-06,Paired Qi Pulse Guard,Squall Forwardbelly,F2,Warrior,B
+MV-SIG-KUK-001-07,Pairs Rhythm Pressure,Slashbanner,F4,Warrior,B
+MV-SIG-KUK-001-08,Twin Edge Scissor Break,Magnificent Pommelcap,F1,Champion,B
+MV-SIG-KUK-001-09,Opposite Wing Counter,Stately Kinkspine,F1,Champion,B
+MV-SIG-KUK-001-10,Pair-Born Flash Crossing,Thunderclap Gash,F2,Demigod,B
+MV-SIG-KUK-001-11,Twin Kukri Single Heartbeat,Lordly Heavytip,F1,Warrior,B
+MV-SIG-KUK-002-01,Flowing Overhand Chop,Squall Whump,F2,Warrior,B
+MV-SIG-KUK-002-02,Stone Skip Parry,Peal Horntang,F2,Warrior,B
+MV-SIG-KUK-002-03,Shallow Ford Wading Step,Lopstroke Grace,F3,Warrior,B
+MV-SIG-KUK-002-04,Rapids Hewing Run,Squallnotch,F5,Warrior,B
+MV-SIG-KUK-002-05,Backwater Hook Reverse,Chiptroth,F4,Warrior,B
+MV-SIG-KUK-002-06,Mist Curtain Guard,Steel Forwardbelly,F2,Warrior,B
+MV-SIG-KUK-002-07,Weir Break Hew,Quenched Whump,F2,Champion,B
+MV-SIG-KUK-002-08,Confluence Cross Cut,Bedrock Notch,F2,Champion,B
+MV-SIG-KUK-002-09,Floodplain Spreading Reap,Kinkedict,F4,Demigod,B
+MV-SIG-KUK-002-10,River-Run Flood Chop,Noble Quenched Chopmass,F6a,Warrior,B
+MV-SIG-KUK-003-01,Hawk Perch Chop,Notchverdict,F4,Champion,B
+MV-SIG-KUK-003-02,Pinion Spine Block,Steelcho,F5,Champion,B
+MV-SIG-KUK-003-03,Talon Pull Hook,Hornbeam Heavytip,F2,Champion,B
+MV-SIG-KUK-003-04,Dive Line Sighting,Peal Pommelcap,F2,Champion,B
+MV-SIG-KUK-003-05,Thermal Rising Cut,Squallwaist,F5,Champion,B
+MV-SIG-KUK-003-06,Gliding Circle Strike,Steel Bulgeedge,F2,Champion,B
+MV-SIG-KUK-003-07,Wing Folded Fall,Choverdict,F4,Champion,B
+MV-SIG-KUK-003-08,Prey-Marked Decisive Dive,Prism Chip,F2,Champion,B
+MV-SIG-KUK-003-09,Double Stoop Combination,Haemalchip,F5,Champion,B
+MV-SIG-KUK-003-10,Updraft Reversal Counter,Squall Inwardcurve,F2,Champion,B
+MV-SIG-KUK-003-11,Sky-Rend Pinion Stoop,Thunderclap Kinkspine,F2,Demigod,B
+MV-SIG-KUK-003-12,Azure Hawk Terminal Dive,Steel Hookbelly,F2,Champion,B
+MV-SIG-KUK-004-01,Heavy Edge Settled Chop,Thunderclap Slash,F2,Ruler,B
+MV-SIG-KUK-004-02,Track-Left Parry,Sacrosanct Cho,F1,Ruler,B
+MV-SIG-KUK-004-03,Heavy Pivot Step,Evanescent Lopstroke,F1,Ruler,B
+MV-SIG-KUK-004-04,Weight-Carrying Hew,Steelchip,F5,Ruler,B
+MV-SIG-KUK-004-05,Divided Flow Block,Steel Chopmass,F2,Ruler,B
+MV-SIG-KUK-004-06,Heavy Hook Pulling Cut,Venom Hookbelly,F2,Ruler,B
+MV-SIG-KUK-004-07,Track Crossing Heavy Chop,Kinktriumph,F4,Ruler,B
+MV-SIG-KUK-004-08,Weight and Guard Together,Sanctum Cho,F2,Ruler,B
+MV-SIG-KUK-004-09,Heavy Edge Rending Fall,Pulsarwhump,F5,Ruler,B
+MV-SIG-KUK-004-10,Dual-Track Heavy Crush,Bedrock Gash,F2,Demigod,B
+MV-SIG-KUK-004-11,Both Tracks One Edge Signature,Splendid Inwardcurve Decree,F6b,Ruler,B
+MV-SIG-KUK-005-01,Basin Edge Chop,Chip Verdict,F3,Demigod,B
+MV-SIG-KUK-005-02,Field Wall Spine Check,Unwavering Horntang,F1,Demigod,B
+MV-SIG-KUK-005-03,Hawk Glide Entry,Silken Notch,F1,Demigod,B
+MV-SIG-KUK-005-04,Field Spreading Reading,Interstice Pommelcap,F2,Demigod,B
+MV-SIG-KUK-005-05,Dive from the Rim,Waisttriumph,F4,Demigod,B
+MV-SIG-KUK-005-06,Pooled Field Counter,Phantasm Bulgeedge,F2,Demigod,B
+MV-SIG-KUK-005-07,Field-Ringed Hawk Chop,Haemal Chopmass,F2,Demigod,B
+MV-SIG-KUK-005-08,Basin Draw and Release,Dune Notch,F2,Demigod,B
+MV-SIG-KUK-005-09,Hawk Over the Basin,Season Kinkspine,F2,Demigod,B
+MV-SIG-KUK-005-10,Basin Hawk Field Collapse,Fearless Demolition Gash,F6a,Demigod,B
+MV-SIG-KUK-006-01,Twin Curve Core Chop,Inferno Slash,F2,Core Formation,B
+MV-SIG-KUK-006-02,Core-Seated Cross Block,Glacier Forwardbelly,F2,Core Formation,B
+MV-SIG-KUK-006-03,Pivot from the Center,Delugewhump,F5,Core Formation,B
+MV-SIG-KUK-006-04,Core Pulse Reading,Eclipse Heavytip,F2,Core Formation,B
+MV-SIG-KUK-006-05,Curve and Counter-Curve,Vaunted Horntang,F1,Core Formation,B
+MV-SIG-KUK-006-06,Core-Fed Hooking Draw,Hornbeam Kinkspine,F2,Core Formation,B
+MV-SIG-KUK-006-07,Held Core Parry,Sainted Cho,F1,Core Formation,B
+MV-SIG-KUK-006-08,Twin Core Pulse Pressure,Seasonkink,F5,Core Formation,B
+MV-SIG-KUK-006-09,Core Burst Cleaving Pair,Prism Gash,F2,Core Formation,B
+MV-SIG-KUK-006-10,Mirror Curve Counter Rend,Kinkseal,F4,Core Formation,B
+MV-SIG-KUK-006-11,Core-Lit Twin Passage,Feather Notch,F1,Core Formation,B
+MV-SIG-KUK-006-12,Twin Curves Core Eclipse,Lordly Magma Chip,F6a,Core Formation,B
+MV-SIG-KUK-007-01,Oath Spoken Overhead Hew,Sovereign Lopstroke,F1,Warrior,B
+MV-SIG-KUK-007-02,Sworn Plateau Stance Block,Faithful Bulgeedge,F1,Warrior,B
+MV-SIG-KUK-007-03,Wind-at-the-Back Step,Ethereal Pommelcap,F1,Warrior,B
+MV-SIG-KUK-007-04,Gust-Borne Hew,Whump Decree,F3,Warrior,B
+MV-SIG-KUK-007-05,Oathbound Hook and Pull,Hornbeam Hookbelly,F2,Warrior,B
+MV-SIG-KUK-007-06,Calm Before the Gale Guard,Steel Horntang,F2,Warrior,B
+MV-SIG-KUK-007-07,Squall-Weighted Chop,Vigor Slash,F2,Champion,B
+MV-SIG-KUK-007-08,Gale Return Hew,Heavytip Pledge,F3,Champion,B
+MV-SIG-KUK-007-09,Wind-Sworn Flash Crossing,Interstice Forwardbelly,F2,Demigod,B
+MV-SIG-KUK-007-10,Sworn Hew of the Last Wind,Vigornotch,F5,Warrior,B
+MV-SIG-KUK-008-01,Plain Plateau Chop,Bedrock Chopmass,F2,Warrior,B
+MV-SIG-KUK-008-02,Plateau Edge Heel Hack,Haemal Inwardcurve,F2,Warrior,B
+MV-SIG-KUK-008-03,Sworn Spine Turn,Inviolate Hookbelly,F1,Warrior,B
+MV-SIG-KUK-008-04,Open Ground Footwork,Dune Chip,F2,Warrior,B
+MV-SIG-KUK-008-05,Wind Mark Chop,Haemalcho,F5,Warrior,B
+MV-SIG-KUK-008-06,Plateau Drag Hook,Slashpledge,F4,Warrior,B
+MV-SIG-KUK-008-07,Held Line Bearing Guard,Parity Kinkspine,F2,Warrior,B
+MV-SIG-KUK-008-08,Sworn Stance Rolling Cuts,Inferno Chopmass,F2,Warrior,B
+MV-SIG-KUK-008-09,Crown of the Plateau Hew,Vigor Whump,F2,Champion,B
+MV-SIG-KUK-008-10,Clear Horizon Kukri Sweep,Tempestuous Chip,F2,Champion,B
+MV-SIG-KUK-008-11,Plateau Edge Falling Rend,Vacuum Forwardbelly,F2,Demigod,B
+MV-SIG-KUK-008-12,Sworn Plateau Terminal Hew,Splendid Cho,F1,Warrior,B
+MV-SIG-KUK-009-01,Bearing-Set Chop,Haemal Slash,F2,Champion,B
+MV-SIG-KUK-009-02,Heading Held Spine Parry,Deluge Pommelcap,F2,Champion,B
+MV-SIG-KUK-009-03,Tacking Step,Dune Heavytip,F2,Champion,B
+MV-SIG-KUK-009-04,Cross-Wind Cut,Gallant Horntang,F1,Champion,B
+MV-SIG-KUK-009-05,Bearing Reset Backhand,Vigor Lopstroke,F2,Champion,B
+MV-SIG-KUK-009-06,Reading the Gusts,Chomercy,F4,Champion,B
+MV-SIG-KUK-009-07,Held Heading Hook,Thrallwaist,F5,Champion,B
+MV-SIG-KUK-009-08,Gale Compass Hew,Steelwaist,F5,Champion,B
+MV-SIG-KUK-009-09,Reversing Bearing Counter,Prismcho,F5,Champion,B
+MV-SIG-KUK-009-10,Bearing Through Storm,Lopstroke Decree,F3,Demigod,B
+MV-SIG-KUK-009-11,Chop No Gale Turns,Magnificent Steel Notch,F6a,Champion,B
+MV-SIG-KUK-010-01,Bare Ground Hew,Waistbanner,F4,Ruler,B
+MV-SIG-KUK-010-02,Open Edge Block,Hookbelly Troth,F3,Ruler,B
+MV-SIG-KUK-010-03,Exposed Flank Slide,Chipgrace,F4,Ruler,B
+MV-SIG-KUK-010-04,Clear Sky Cut,Famed Bulgeedge,F1,Ruler,B
+MV-SIG-KUK-010-05,Free Palm Kukri Hook,Peremptory Whump,F1,Ruler,B
+MV-SIG-KUK-010-06,Wide Stance Gale Guard,Stately Inwardcurve,F1,Ruler,B
+MV-SIG-KUK-010-07,Unsheltered Cross Hew,Inferno Lopstroke,F2,Ruler,B
+MV-SIG-KUK-010-08,Open Field Pressure Cut,Gloomnotch,F5,Ruler,B
+MV-SIG-KUK-010-09,Cut Without Cover,Intrepid Whump,F1,Demigod,B
+MV-SIG-KUK-010-10,Edge of the Open Sky,Notch Crown,F3,Ruler,B
+MV-SIG-KUK-011-01,High Gale Landing Chop,Illustrious Forwardbelly,F1,Demigod,B
+MV-SIG-KUK-011-02,Wind Lifted Cover,Kinkpledge,F4,Demigod,B
+MV-SIG-KUK-011-03,Gust Hop Step,Vigor Pommelcap,F2,Demigod,B
+MV-SIG-KUK-011-04,Updraft Hook Drop,Sigil Bulgeedge,F2,Demigod,B
+MV-SIG-KUK-011-05,Cliff-Rise Chop,Quenched Chip,F2,Demigod,B
+MV-SIG-KUK-011-06,Skipping Gale Parry,Squall Chopmass,F2,Demigod,B
+MV-SIG-KUK-011-07,Held Wind Mid-Air Cut,Vigorcho,F5,Demigod,B
+MV-SIG-KUK-011-08,Gale Lofted Hew,Waistverdict,F4,Demigod,B
+MV-SIG-KUK-011-09,Gale-Struck Landing Wave,Vaunted Slash,F1,Demigod,B
+MV-SIG-KUK-011-10,Falling Cliff Cleaving Chop,Heroic Kinkspine,F1,Demigod,B
+MV-SIG-KUK-011-11,High Gale Skybreak Leap,Gashodyssey,F4,Demigod,B
+MV-SIG-KUK-011-12,High Gale Fall Terminal,Intrepid Heavytip Edict,F6b,Demigod,B
+MV-SIG-KUK-012-01,Core Sworn Overhead Chop,Haemal Horntang,F2,Core Formation,B
+MV-SIG-KUK-012-02,Wind Curve Guard,Waistvow,F4,Core Formation,B
+MV-SIG-KUK-012-03,Core Weighted Step,Skyborne Cho,F1,Core Formation,B
+MV-SIG-KUK-012-04,Core Wind Bearing,Interstice Hookbelly,F2,Core Formation,B
+MV-SIG-KUK-012-05,Sworn Core Drag Cut,Slashcrown,F4,Core Formation,B
+MV-SIG-KUK-012-06,Core-Held Notch Seal,Masterful Gash,F1,Core Formation,B
+MV-SIG-KUK-012-07,Wind-Sworn Curve Counter,Inwardcurve Seal,F3,Core Formation,B
+MV-SIG-KUK-012-08,Core Gale Cleaving Curve,Imperial Slash,F1,Core Formation,B
+MV-SIG-KUK-012-09,Standing Curve Whirl,Bedrock Bulgeedge,F2,Core Formation,B
+MV-SIG-KUK-012-10,Core Wind Rend,Peerless Chopmass,F1,Core Formation,B
+MV-SIG-KUK-012-11,Wind-Sworn Curve Last Oath,Haemalkink,F5,Core Formation,B
+MV-SIG-KUK-003-03,Hornbeam Heavytip,Crushing Heavytip,F2,Champion,B
+MV-SIG-KUK-004-08,Sanctum Cho,Sundering Cho,F2,Ruler,B
+MV-SIG-KUK-005-08,Dune Notch,Ruinous Notch,F2,Demigod,B
+MV-SIG-KUK-006-02,Glacier Forwardbelly,Mighty Forwardbelly,F2,Core Formation,B
+MV-SIG-KUK-006-06,Hornbeam Kinkspine,Savage Kinkspine,F2,Core Formation,B
+MV-SIG-KUK-007-05,Hornbeam Hookbelly,Rending Hookbelly,F2,Warrior,B
+MV-SIG-KUK-008-04,Dune Chip,Searing Chip,F2,Warrior,B
+MV-SIG-KUK-009-03,Dune Heavytip,Titan Heavytip,F2,Champion,B

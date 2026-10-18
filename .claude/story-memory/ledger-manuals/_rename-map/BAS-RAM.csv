@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-RAM-001-01,Upright Ram Guard,Angled Endknob,F1,T1 Unawakened,A
+MV-BAS-RAM-001-02,Straight Ram Thrust,Boughhit,F4,T1 Unawakened,A
+MV-BAS-RAM-001-03,Low Carry Shuffle,Sideways Hammerin,F1,T1 Unawakened,A
+MV-BAS-RAM-001-04,Haft Quarter-Turn Parry,Ready Ramcap,F1,T1 Unawakened,A
+MV-BAS-RAM-001-05,Bar-Leaning Shove,Leaden Pounddown,F1,T1 Unawakened,A
+MV-BAS-RAM-001-06,Rocking Backswing Drive,Ramcapblow,F4,T1 Unawakened,A
+MV-BAS-RAM-002-01,Joint Lift Count,Warm Beamhead,F1,T1 Skin,A
+MV-BAS-RAM-002-02,Level Beam Walk,Rampace,F4,T1 Skin,A
+MV-BAS-RAM-002-03,Shoulder Slide Switch,Nimble Ramtail,F1,T1 Skin,A
+MV-BAS-RAM-002-04,Heel-Plant Carry Brake,Stepping Swayswing,F1,T1 Skin,A
+MV-BAS-RAM-002-05,Crossed-Arm Beam Cradle,Holding Slingchain,F1,T1 Skin,A
+MV-BAS-RAM-002-06,Beam-Butt Backward Jab,Beamhit,F4,T1 Skin,A
+MV-BAS-RAM-002-07,Footing Call,Soft Headcap,F1,T1 Skin,A
+MV-BAS-RAM-003-01,Lock-Plate Strike,Beamdrop,F4,Senior L1 Low,A
+MV-BAS-RAM-003-02,Hinge-Side Probe,Beamstrike,F4,Senior L1 Low,A
+MV-BAS-RAM-003-03,Door-Face Brace,Carryhandle Cowl,F3,Senior L1 Low,A
+MV-BAS-RAM-003-04,Rebound Qi Catch,Settled Bandring,F1,Senior L1 Low,A
+MV-BAS-RAM-003-05,Quiet Bar Test,Calm Endknob,F1,Senior L1 Low,A
+MV-BAS-RAM-004-01,Wide Braced Stance,Angled Ramcap,F1,T1 Muscle,A
+MV-BAS-RAM-004-02,Forward Lunge Press,Logbump,F4,T1 Muscle,A
+MV-BAS-RAM-004-03,Rear-Foot Pivot Swing,Square Shudder,F1,T1 Muscle,A
+MV-BAS-RAM-004-04,Hip-Drop Charge Slip,Snug Wheelbase,F1,T1 Muscle,A
+MV-BAS-RAM-004-05,Cat-Step Approach,Backward Smitedown,F1,T1 Muscle,A
+MV-BAS-RAM-004-06,Knee-Spring Rebound,Sideways Beamhead,F1,T1 Muscle,A
+MV-BAS-RAM-004-07,Haft-Crook Ankle Hook,Pushing Beamdrive,F1,T1 Muscle,A
+MV-BAS-RAM-004-08,Slow Count Breathing,Headcap Note,F3,T1 Muscle,A
+MV-BAS-RAM-005-01,Slung Log Release,Boughdrop,F4,Senior L2 Mid,A
+MV-BAS-RAM-005-02,Chain-Hang Check,Warm Ramhorn,F1,Senior L2 Mid,A
+MV-BAS-RAM-005-03,Pullback Haul Rhythm,Bandring Note,F3,Senior L2 Mid,A
+MV-BAS-RAM-005-04,Frame-Post Brace,Resting Ramhorn,F1,Senior L2 Mid,A
+MV-BAS-RAM-005-05,Swing-Stop Grip,Angled Ramtail,F1,Senior L2 Mid,A
+MV-BAS-RAM-005-06,Overhead Beam Stoop,Ramamble,F4,Senior L2 Mid,A
+MV-BAS-RAM-006-01,Choke-Up Grip Slide,Ramblow,F4,T1 Tendon,A
+MV-BAS-RAM-006-02,Haft-Tail High Guard,Holding Carryhandle,F1,T1 Tendon,A
+MV-BAS-RAM-006-03,Balance Point Palm Read,Measured Ramcap,F1,T1 Tendon,A
+MV-BAS-RAM-006-04,Twist-Grip Snap Drive,Ramcapdash,F4,T1 Tendon,A
+MV-BAS-RAM-006-05,Slip-Hand Shock Spread,Settled Slingchain,F1,T1 Tendon,A
+MV-BAS-RAM-006-06,Overhead Beam Drop,Ramdash,F4,T1 Tendon,A
+MV-BAS-RAM-006-07,Wrist-Roll Loosening,Smooth Carryhandle,F1,T1 Tendon,A
+MV-BAS-RAM-007-01,Four-Bearer Pace,Ramcaphop,F4,Senior L3 Low,A
+MV-BAS-RAM-007-02,Weight-Share Breath,Kind Wheelbase,F1,Senior L3 Low,A
+MV-BAS-RAM-007-03,Foot-of-Slope Call,Even Ramhorn,F1,Senior L3 Low,A
+MV-BAS-RAM-007-04,Slope Lean Charge,Logdash,F4,Senior L3 Low,A
+MV-BAS-RAM-007-05,Stumble Catch Lift,Hooding Slingchain,F1,Senior L3 Low,A
+MV-BAS-RAM-008-01,Honest Pendulum Release,Logstrike,F4,Senior L4 Mid,A
+MV-BAS-RAM-008-02,Hand-Breadth Tap Series,Narrow Hammerin,F1,Senior L4 Mid,A
+MV-BAS-RAM-008-03,Swing-Height Call,Headcap Count,F3,Senior L4 Mid,A
+MV-BAS-RAM-008-04,Return Shoulder Brake,Folded Wheelbase,F1,Senior L4 Mid,A
+MV-BAS-RAM-008-05,Rope-Burn Grip Shift,Kind Ramtail,F1,Senior L4 Mid,A
+MV-BAS-RAM-008-06,Crew Rest Hold,Snug Endknob,F1,Senior L4 Mid,A
+MV-BAS-RAM-008-07,Stagger Swing Offset,Boughamble,F4,Senior L4 Mid,A
+MV-BAS-RAM-008-08,Dead-Stop Settle,Tripping Pounddown,F1,Senior L4 Mid,A
+MV-BAS-RAM-009-01,Cap-Aimed First Drive,Descending Bandring,F1,T1 Bone,A
+MV-BAS-RAM-009-02,Plank Seam Probe,Mild Beamhead,F1,T1 Bone,A
+MV-BAS-RAM-009-03,Cap-Down Leaning Cover,Folded Slingchain,F1,T1 Bone,A
+MV-BAS-RAM-009-04,Bounce-Back Catch,Carryhandle Wedge,F3,T1 Bone,A
+MV-BAS-RAM-009-05,Short Thump Series,Firm Pounddown,F1,T1 Bone,A
+MV-BAS-RAM-009-06,Splinter Sidestep,Logdodge,F4,T1 Bone,A
+MV-BAS-RAM-010-01,Stance-Drive-Recover Line,Descending Swayswing,F1,Senior L5 Low,A
+MV-BAS-RAM-010-02,Qi-Weighted Cap Strike,Beambump,F4,Senior L5 Low,A
+MV-BAS-RAM-010-03,Breaker's Wide Stance,Kept Bandring,F1,Senior L5 Low,A
+MV-BAS-RAM-010-04,Haft Roll Parry,Kept Beamhead,F1,Senior L5 Low,A
+MV-BAS-RAM-010-05,Door-Seam Reading,Measured Ramtail,F1,Senior L5 Low,A
+MV-BAS-RAM-010-06,Low Charge Rush,Ramtrot,F4,Senior L5 Low,A
+MV-BAS-RAM-010-07,Steady Door Press,Beamdash,F4,Senior L5 Low,A

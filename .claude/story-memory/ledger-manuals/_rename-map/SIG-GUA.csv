@@ -1,0 +1,134 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-GUA-001-01,Guandao Track Pair Stance,Serene Guanpole,F1,Warrior L1 Low,B
+MV-SIG-GUA-001-02,Inside Track Slash,Inferno Ironsweep,F2,Warrior L1 Low,B
+MV-SIG-GUA-001-03,Outside Track Slash,Inferno Guanhook,F2,Warrior L1 Low,B
+MV-SIG-GUA-001-04,Track Meeting Hook,Venom Longsweep,F2,Warrior L1 Low,B
+MV-SIG-GUA-001-05,Doubled Pole Guard,Steelguan,F5,Warrior L1 Low,B
+MV-SIG-GUA-001-06,Crescent Switch Cut,Inferno Bladewheel,F2,Warrior L1 Low,B
+MV-SIG-GUA-001-07,Tracks Run Together,Grand Tailspike,F1,Champion L1 Low,B
+MV-SIG-GUA-001-08,Parallel Reaping Sweep,Tuftdecree,F4,Champion L1 Low,B
+MV-SIG-GUA-001-09,Tracks Merge at the Throat,Guanvoyage,F4,Demigod L1 Low,B
+MV-SIG-GUA-001-10,Dual-Track Verdict Stroke,Heavyblade Triumph,F3,Warrior L1 Low,B
+MV-SIG-GUA-002-01,Basin Roll Stance,Volition Bladecollar,F2,Warrior L6 Low,B
+MV-SIG-GUA-002-02,Rolling Edge Cut,Intrepid Guantang,F1,Warrior L6 Low,B
+MV-SIG-GUA-002-03,Water Line Guard,Counterspike Seal,F3,Warrior L6 Low,B
+MV-SIG-GUA-002-04,Basin Edge Climb Slash,Unrivaled Polebelly,F1,Warrior L6 Low,B
+MV-SIG-GUA-002-05,Rolling Hook Pull,Thunderclap Slashdown,F2,Warrior L6 Low,B
+MV-SIG-GUA-002-06,Crescent Spill Over Parry,Undefiled Crescentback,F1,Warrior L6 Low,B
+MV-SIG-GUA-002-07,Basin Drain Sweep,Imperial Counterspike,F1,Warrior L6 Low,B
+MV-SIG-GUA-002-08,Whole Basin Wheel,Valiant Tailspike,F1,Champion L1 Low,B
+MV-SIG-GUA-002-09,Flooded Basin Press,Hornbeam Bladewheel,F2,Champion L1 Low,B
+MV-SIG-GUA-002-10,Crescent Basin Overflow Cleave,Dune Polebelly,F2,Demigod L1 Low,B
+MV-SIG-GUA-002-11,Azure Basin Closing Stroke,Valiant Redtassel,F1,Warrior L6 Low,B
+MV-SIG-GUA-003-01,Court Salute Stance,Nurturing Guanhook,F1,Champion L1 Low,B
+MV-SIG-GUA-003-02,Currents Meeting Chop,Tuftverdict,F4,Champion L1 Low,B
+MV-SIG-GUA-003-03,Court Bank Guard,Glacier Guanpole,F2,Champion L1 Low,B
+MV-SIG-GUA-003-04,Guandao River Bend Pace,Vigortuft,F5,Champion L1 Low,B
+MV-SIG-GUA-003-05,Court Hook Draw,Entropy Slashdown,F2,Champion L1 Low,B
+MV-SIG-GUA-003-06,Midriver Slash,Royal Bladewheel,F1,Champion L1 Low,B
+MV-SIG-GUA-003-07,Court Turning Parry,Peal Redtassel,F2,Champion L1 Low,B
+MV-SIG-GUA-003-08,Bank Pressing Sweep,Magnificent Longsweep,F1,Champion L1 Low,B
+MV-SIG-GUA-003-09,Court of Rivers Sequence,Season Guantang,F2,Champion L1 Low,B
+MV-SIG-GUA-003-10,Crescent Confluence Cleave,Famed Heavyswing,F1,Champion L1 Low,B
+MV-SIG-GUA-003-11,River Court Judgement,Seasontuft,F5,Demigod L1 Low,B
+MV-SIG-GUA-003-12,Court Crossing Stroke,Seasonguan,F5,Champion L1 Low,B
+MV-SIG-GUA-004-01,Two Crescent Stance,Solar Crescentback,F2,Ruler L1 Low,B
+MV-SIG-GUA-004-02,First Crescent Cut,Imperial Heavyswing,F1,Ruler L1 Low,B
+MV-SIG-GUA-004-03,Second Crescent Cut,Sovereign Bladecollar,F1,Ruler L1 Low,B
+MV-SIG-GUA-004-04,Crescent Pairing Slash,Famed Slashdown,F1,Ruler L1 Low,B
+MV-SIG-GUA-004-05,Cross Crescent Guard,Tuftvow,F4,Ruler L1 Low,B
+MV-SIG-GUA-004-06,Twin Hook Wrench,Venom Guanpole,F2,Ruler L1 Low,B
+MV-SIG-GUA-004-07,Crescents Close Sequence,Seasonhilt,F5,Ruler L1 Low,B
+MV-SIG-GUA-004-08,Courtly Reaping Spin,Tufttriumph,F4,Ruler L1 Low,B
+MV-SIG-GUA-004-09,Crescent Meets Crescent,Vigorloom,F5,Demigod L1 Low,B
+MV-SIG-GUA-004-10,Paired Crescent Finale,Destiny Guantang,F2,Ruler L1 Low,B
+MV-SIG-GUA-005-01,High Azure Stance,Parityhilt,F5,Demigod L1 Low,B
+MV-SIG-GUA-005-02,Hawk Pass Cut,Rollcut Triumph,F3,Demigod L1 Low,B
+MV-SIG-GUA-005-03,Altitude Guard,Stately Bladecollar,F1,Demigod L1 Low,B
+MV-SIG-GUA-005-04,Hawk Updraft Slash,Bedrock Redtassel,F2,Demigod L1 Low,B
+MV-SIG-GUA-005-05,Sky Hook Draw,Imperious Crescentback,F1,Demigod L1 Low,B
+MV-SIG-GUA-005-06,Azure Edge Parry,Parityguan,F5,Demigod L1 Low,B
+MV-SIG-GUA-005-07,Descent Warning Jab,Royal Slashdown,F1,Demigod L1 Low,B
+MV-SIG-GUA-005-08,Hawk Pursuit Circle,Gloomloom,F5,Demigod L1 Low,B
+MV-SIG-GUA-005-09,Verdict Reaping Wheel,Magmacrest,F5,Demigod L1 Low,B
+MV-SIG-GUA-005-10,Hawk Strikes From Beyond Sight,Season Redtassel,F2,Demigod L1 Low,B
+MV-SIG-GUA-005-11,Verdict from the High Azure,Vaunted Heavyswing Verdict,F6b,Demigod L1 Low,B
+MV-SIG-GUA-006-01,Whole Sky Stance,Solar Guanhook,F2,Core Formation L1 Low,B
+MV-SIG-GUA-006-02,Horizon Cutting Draw,Unrivaled Guanhook,F1,Core Formation L1 Low,B
+MV-SIG-GUA-006-03,Zenith Guard,Immaculate Counterspike,F1,Core Formation L1 Low,B
+MV-SIG-GUA-006-04,Skyline Slash,Vigor Rollcut,F2,Core Formation L1 Low,B
+MV-SIG-GUA-006-05,Wide Sky Hook,Venom Ironsweep,F2,Core Formation L1 Low,B
+MV-SIG-GUA-006-06,Zenith Turn Parry,Devout Guanpole,F1,Core Formation L1 Low,B
+MV-SIG-GUA-006-07,Sky Spanning Sequence,Season Tailspike,F2,Core Formation L1 Low,B
+MV-SIG-GUA-006-08,Whole Sky Wheel,Demolition Longsweep,F2,Core Formation L1 Low,B
+MV-SIG-GUA-006-09,Sky Edge Unbroken,Haemal Tailspike,F2,Core Formation L1 Low,B
+MV-SIG-GUA-006-10,Crescent Spanning the Azure Sky,Magma Crescentback,F2,Core Formation L1 Low,B
+MV-SIG-GUA-007-01,Guandao Plateau Oath Stance,Benevolent Guantang,F1,Warrior L3 Low,B
+MV-SIG-GUA-007-02,Edge of Oath Cut,Vigor Counterspike,F2,Warrior L3 Low,B
+MV-SIG-GUA-007-03,Held Ground Guard,Steeltuft,F5,Warrior L3 Low,B
+MV-SIG-GUA-007-04,Crescent Bearing Walk Pace,Soundless Polebelly,F1,Warrior L3 Low,B
+MV-SIG-GUA-007-05,Oath Hook Wrench,Thunderclap Guanpole,F2,Warrior L3 Low,B
+MV-SIG-GUA-007-06,Plateau Turning Slash,Quenched Guanhook,F2,Warrior L3 Low,B
+MV-SIG-GUA-007-07,Sworn Pole Parry,Hiltseal,F4,Warrior L3 Low,B
+MV-SIG-GUA-007-08,Windline Press,Thrallloom,F5,Warrior L3 Low,B
+MV-SIG-GUA-007-09,Oath Chain Combination,Symphonic Bladewheel,F1,Champion L1 Low,B
+MV-SIG-GUA-007-10,Plateau Wind Reaping,Inferno Rollcut,F2,Champion L1 Low,B
+MV-SIG-GUA-007-11,Oath Flash Cut,Interstice Ironsweep,F2,Demigod L1 Low,B
+MV-SIG-GUA-007-12,Guandao Plateau Oath Stroke,Majestic Bladewheel Triumph,F6b,Warrior L3 Low,B
+MV-SIG-GUA-008-01,Course Setting Stance,Vigor Redtassel,F2,Warrior L9 Low,B
+MV-SIG-GUA-008-02,Course Keeping Cut,Steel Ironsweep,F2,Warrior L9 Low,B
+MV-SIG-GUA-008-03,Guandao Gale Brace Guard,Hilttroth,F4,Warrior L9 Low,B
+MV-SIG-GUA-008-04,Course Hook Pull,Authoritative Longsweep,F1,Warrior L9 Low,B
+MV-SIG-GUA-008-05,Crescent Gale Bearing Slash,Imperial Polebelly,F1,Warrior L9 Low,B
+MV-SIG-GUA-008-06,Crescent Heading Parry,Cresttroth,F4,Warrior L9 Low,B
+MV-SIG-GUA-008-07,Course Chain Sequence,Tenettuft,F5,Champion L1 Low,B
+MV-SIG-GUA-008-08,Gale Course Reaping,Tempestuous Rollcut,F2,Champion L1 Low,B
+MV-SIG-GUA-008-09,Bearing Unlooked Flash,Pulsar Counterspike,F2,Demigod L1 Low,B
+MV-SIG-GUA-008-10,Bearing Held Final Stroke,Splendid Longsweep Triumph,F6b,Warrior L9 Low,B
+MV-SIG-GUA-009-01,Crescent Loosing Stance,Vigor Guantang,F2,Champion L5 Low,B
+MV-SIG-GUA-009-02,Gust Riding Cut,Vigor Polebelly,F2,Champion L5 Low,B
+MV-SIG-GUA-009-03,Wind Veil Guard,Prism Bladecollar,F2,Champion L5 Low,B
+MV-SIG-GUA-009-04,Wind Lifting Hook,Thunderclap Redtassel,F2,Champion L5 Low,B
+MV-SIG-GUA-009-05,Gust Spin Slash,Squallcrest,F5,Champion L5 Low,B
+MV-SIG-GUA-009-06,Whistling Pole Parry,Peal Guanhook,F2,Champion L5 Low,B
+MV-SIG-GUA-009-07,Wind Pressing Chop,Tailspike Crown,F3,Champion L5 Low,B
+MV-SIG-GUA-009-08,Crescent Carried Sequence,Seasoncrest,F5,Champion L5 Low,B
+MV-SIG-GUA-009-09,Gale Taking Sweep,Solarguan,F5,Champion L5 Low,B
+MV-SIG-GUA-009-10,Wind Steals the Edge,Pulsarhilt,F5,Demigod L1 Low,B
+MV-SIG-GUA-009-11,Crescent Taken by the Wind Stroke,Bedrock Crescentback,F2,Champion L5 Low,B
+MV-SIG-GUA-010-01,Sworn Edge Stance,Vigor Guanhook,F2,Ruler L1 Mid,B
+MV-SIG-GUA-010-02,Plateau Wind Cut,Bedrock Ironsweep,F2,Ruler L1 Mid,B
+MV-SIG-GUA-010-03,Edge Sheltering Guard,Prismcrest,F5,Ruler L1 Mid,B
+MV-SIG-GUA-010-04,Crescent Sworn Edge Hook,Venomhilt,F5,Ruler L1 Mid,B
+MV-SIG-GUA-010-05,Plateau Counter Slash,Vigor Guanpole,F2,Ruler L1 Mid,B
+MV-SIG-GUA-010-06,Rising Wind Parry,Squall Crescentback,F2,Ruler L1 Mid,B
+MV-SIG-GUA-010-07,Crescent Sworn Edge Sequence,Season Heavyblade,F2,Ruler L1 Mid,B
+MV-SIG-GUA-010-08,Windswept Plateau Wheel,Storied Heavyblade,F1,Ruler L1 Mid,B
+MV-SIG-GUA-010-09,Edge Sworn Unbroken,Peerless Heavyswing,F1,Demigod L1 Low,B
+MV-SIG-GUA-010-10,Sworn Edge Plateau Stroke,Majestic Bedrock Bladecollar,F6a,Ruler L1 Mid,B
+MV-SIG-GUA-011-01,Great Gale Stance,Bloom Crescentback,F2,Demigod L5 Low,B
+MV-SIG-GUA-011-02,Gale Mass Cut,Steel Rollcut,F2,Demigod L5 Low,B
+MV-SIG-GUA-011-03,Storm Brace Guard,Sacrosanct Guanpole,F1,Demigod L5 Low,B
+MV-SIG-GUA-011-04,Gale Pace Step,Silken Rollcut,F1,Demigod L5 Low,B
+MV-SIG-GUA-011-05,Crescent Gale Hook Haul,Pealloom,F5,Demigod L5 Low,B
+MV-SIG-GUA-011-06,Great Arc Slash,Quenched Tailspike,F2,Demigod L5 Low,B
+MV-SIG-GUA-011-07,Storm Turn Parry,Enshrined Redtassel,F1,Demigod L5 Low,B
+MV-SIG-GUA-011-08,Gale Crushing Press,Intrepid Polebelly,F1,Demigod L5 Low,B
+MV-SIG-GUA-011-09,Great Gale Sequence,Tenetloom,F5,Demigod L5 Low,B
+MV-SIG-GUA-011-10,Great Gale Reaping Wheel,Bedrock Heavyswing,F2,Demigod L5 Low,B
+MV-SIG-GUA-011-11,Gale Edge Uncaged,Pulsarloom,F5,Demigod L5 Low,B
+MV-SIG-GUA-011-12,Stroke of the Great Gale,Matchless Magma Bladewheel,F6a,Demigod L5 Low,B
+MV-SIG-GUA-012-01,Guandao Last Oath Stance,Bloomguan,F5,Core Formation L4 Low,B
+MV-SIG-GUA-012-02,Open Wind Draw,Sovereign Guantang,F1,Core Formation L4 Low,B
+MV-SIG-GUA-012-03,Final Guard,Statute Bladecollar,F2,Core Formation L4 Low,B
+MV-SIG-GUA-012-04,Oathbound Slash,Vaunted Slashdown,F1,Core Formation L4 Low,B
+MV-SIG-GUA-012-05,Crescent Oath Hook Drag,Ruling Slashdown,F1,Core Formation L4 Low,B
+MV-SIG-GUA-012-06,Crescent Horizon Parry,Undefiled Guanhook,F1,Core Formation L4 Low,B
+MV-SIG-GUA-012-07,Breath Before Oath Press,Sigilguan,F5,Core Formation L4 Low,B
+MV-SIG-GUA-012-08,Crescent Last Oath Chain,Counterspike Banner,F3,Core Formation L4 Low,B
+MV-SIG-GUA-012-09,Open Wind Reaping Turn,Triumphant Polebelly,F1,Core Formation L4 Low,B
+MV-SIG-GUA-012-10,Oath Fulfilled in Wind,Ironsweep Triumph,F3,Core Formation L4 Low,B
+MV-SIG-GUA-012-11,The Last Oath Stroke,Unrivaled Steel Longsweep,F6a,Core Formation L4 Low,B
+MV-SIG-GUA-002-09,Hornbeam Bladewheel,Ironclad Bladewheel,F2,Champion L1 Low,B
+MV-SIG-GUA-002-10,Dune Polebelly,Thunderous Polebelly,F2,Demigod L1 Low,B
+MV-SIG-GUA-003-03,Glacier Guanpole,Unyielding Guanpole,F2,Champion L1 Low,B

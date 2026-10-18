@@ -1,0 +1,18 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-THN-003-01,Field Tingle,Charge Tingle,CHANNELED,T1 Unawakened,Basic
+CMV-ADV-THN-003-02,Field Skin,Humming Skin,CHANNELED,T1 Unawakened,Basic
+CMV-ADV-THN-003-04,Field Leap,Rebound Leap,INSTANT,T1 Unawakened,Basic
+CMV-ADV-THN-003-05,Field Flicker,Spark Pinch,INSTANT,T1 Unawakened,Basic
+CMV-ADV-THN-003-06,Field Rap,Charge Rap,INSTANT,T1 Unawakened,Basic
+CMV-ADV-THN-003-07,Field Ring,Bright Ring,INSTANT,Senior L1 Low,Intermediate
+CMV-ADV-THN-003-08,Field Snare,Charge Clamp,CHANNELED,Senior L1 Low,Intermediate
+CMV-ADV-THN-003-10,Open Field,Total Discharge,INSTANT,Champion L1 Low,Advanced
+CMV-ADV-THN-004-02,Scent Trail,Ozone Scent,CHANNELED,T1 Unawakened,Basic
+CMV-ADV-THN-004-04,Veil Step,Smear Step,INSTANT,T1 Unawakened,Basic
+CMV-ADV-THN-007-01,River Spark,Thread Spark,INSTANT,T1 Unawakened,Basic
+CMV-ADV-THN-007-09,River Crash,Surge Crash,INSTANT,Champion L1 Low,Advanced
+CMV-ADV-THN-009-01,Bolt Line,Straight Bolt,INSTANT,T1 Unawakened,Basic
+CMV-ADV-THN-009-02,Bolt Line Guard,Bolt Screen,CHANNELED,T1 Unawakened,Basic
+CMV-ADV-THN-009-04,Line Read,Charge Trace,CHANNELED,T1 Unawakened,Basic
+CMV-ADV-THN-009-05,Line Snap,Arm Snap,INSTANT,T1 Unawakened,Basic
+CMV-ADV-THN-009-08,Line Break,Cast Breaker,INSTANT,Senior L1 Low,Intermediate

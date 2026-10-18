@@ -1,0 +1,134 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-RAM-001-01,Court Salute Grip,Consecrated Beamhead,F1,Warrior L1 Low,B
+MV-SIG-RAM-001-02,Hawk-Foot Approach,Soundless Ramhorn,F1,Warrior L1 Low,B
+MV-SIG-RAM-001-03,Paired Lock-Plate Taps,Vigorbeam,F5,Warrior L1 Low,B
+MV-SIG-RAM-001-04,Court Answering Ram Parry,Pall Ramtail,F2,Warrior L1 Low,B
+MV-SIG-RAM-001-05,Door Bind Lean,Millstone Pounddown,F2,Warrior L1 Low,B
+MV-SIG-RAM-001-06,Twin-Hinge Walk,Squall Smitedown,F2,Warrior L1 Low,B
+MV-SIG-RAM-001-07,Azure Court Hinge Tear,Beamcrown,F4,Champion L1 Low,B
+MV-SIG-RAM-001-08,Court Pair Reflect,Endknob Vow,F3,Champion L1 Low,B
+MV-SIG-RAM-001-09,Court Hawk Breach Rush,Thunderclap Pounddown,F2,Demigod L1 Low,B
+MV-SIG-RAM-001-10,Azure Court Closing Drive,Sovereign Radiance Swayswing,F6a,Warrior L1 Low,B
+MV-SIG-RAM-002-01,Basin Lowering Crouch,Revered Slingchain,F1,Warrior L6 Low,B
+MV-SIG-RAM-002-02,Gate Approach Pacing,Deluge Hammerin,F2,Warrior L6 Low,B
+MV-SIG-RAM-002-03,Gatepost Level Look,Peal Ramcap,F2,Warrior L6 Low,B
+MV-SIG-RAM-002-04,Basin Roll Under-Cut,Inferno Beamdrive,F2,Warrior L6 Low,B
+MV-SIG-RAM-002-05,River Wash Turn,Devout Ramhorn,F1,Warrior L6 Low,B
+MV-SIG-RAM-002-06,Gate Sag Press,Noble Shudder,F1,Warrior L6 Low,B
+MV-SIG-RAM-002-07,Basin Breath Reset,Luminous Bandring,F1,Warrior L6 Low,B
+MV-SIG-RAM-002-08,Basin-Gate Hinge Crush,Ramverdict,F4,Champion L1 Low,B
+MV-SIG-RAM-002-09,River Gate Floodstroke,Haemalbough,F5,Champion L1 Low,B
+MV-SIG-RAM-002-10,Basin Overflow Breach,Prismbeam,F5,Demigod L1 Low,B
+MV-SIG-RAM-002-11,Brimful Gate Stroke,Valiant Prism Wheelbase,F6a,Warrior L6 Low,B
+MV-SIG-RAM-003-01,Twin Roof Peak Stance,Hornbeam Carryhandle,F2,Champion L4 Low,B
+MV-SIG-RAM-003-02,Floorplank Footing,Ramodyssey,F4,Champion L4 Low,B
+MV-SIG-RAM-003-03,Sag-Rope Tightening,Carryhandle Mercy,F3,Champion L4 Low,B
+MV-SIG-RAM-003-04,Roof Beam Knock,Revelation Wheelbase,F2,Champion L4 Low,B
+MV-SIG-RAM-003-05,Twin Peak Swing Pair,Haemalram,F5,Champion L4 Low,B
+MV-SIG-RAM-003-06,Roof-Shelter Sidestep,Smitedown Solace,F3,Champion L4 Low,B
+MV-SIG-RAM-003-07,Thatch Fire Pat,Revered Headcap,F1,Champion L4 Low,B
+MV-SIG-RAM-003-08,Twin-Peak Brace Heave,Faithful Ramcap,F1,Champion L4 Low,B
+MV-SIG-RAM-003-09,Twin-Roof Door Hammering,Boughedict,F4,Champion L4 Low,B
+MV-SIG-RAM-003-10,Roofed Pair Shelter Advance,Spectral Hammerin,F1,Champion L4 Low,B
+MV-SIG-RAM-003-11,Twin-Roof Collapse Stroke,Magnificent Pounddown,F1,Demigod L1 Low,B
+MV-SIG-RAM-003-12,Twin Peaks Joined Drive,Noble Pulsar Beamdrive,F6a,Champion L4 Low,B
+MV-SIG-RAM-004-01,Hawk Rising Lift,Parity Ramhorn,F2,Ruler L1 Mid,B
+MV-SIG-RAM-004-02,High-Perch Overlook,Eclipse Beamhead,F2,Ruler L1 Mid,B
+MV-SIG-RAM-004-03,Rising Thrust,Haemal Swayswing,F2,Ruler L1 Mid,B
+MV-SIG-RAM-004-04,Updraft Counter-Spin,Enshrined Slingchain,F1,Ruler L1 Mid,B
+MV-SIG-RAM-004-05,Hawk Claw Bar Lift,Venomlog,F5,Ruler L1 Mid,B
+MV-SIG-RAM-004-06,Feather-Light Pivot,Bedrock Smitedown,F2,Ruler L1 Mid,B
+MV-SIG-RAM-004-07,Hawk's Rising Lintel Strike,Vacuum Shudder,F2,Ruler L1 Mid,B
+MV-SIG-RAM-004-08,Ascending Line Advance,Feather Hammerin,F1,Ruler L1 Mid,B
+MV-SIG-RAM-004-09,Hawk-Eye Ascent Breach,Ramvoyage,F4,Demigod L1 Low,B
+MV-SIG-RAM-004-10,Rising Hawk Beam Stroke,Prismlog,F5,Ruler L1 Mid,B
+MV-SIG-RAM-005-01,Heavy Pair Stance,Faithful Endknob,F1,Demigod L2 Low,B
+MV-SIG-RAM-005-02,Matched Haul,Hospitable Bandring,F1,Demigod L2 Low,B
+MV-SIG-RAM-005-03,Dual Weight Read,Clement Wheelbase,F1,Demigod L2 Low,B
+MV-SIG-RAM-005-04,Alternating Heavy Blows,Vigorram,F5,Demigod L2 Low,B
+MV-SIG-RAM-005-05,Ram-Cross Parry,Immaculate Headcap,F1,Demigod L2 Low,B
+MV-SIG-RAM-005-06,Heavy Chain Release,Vigor Smitedown,F2,Demigod L2 Low,B
+MV-SIG-RAM-005-07,Twin Weight Balance,Solar Beamhead,F2,Demigod L2 Low,B
+MV-SIG-RAM-005-08,Paired Heavy Breach,Swayswing Verdict,F3,Demigod L2 Low,B
+MV-SIG-RAM-005-09,Heavy Pair Crush Press,Gloomlog,F5,Demigod L2 Low,B
+MV-SIG-RAM-005-10,Heavy Pair Convergence Stroke,Logbanner,F4,Demigod L2 Low,B
+MV-SIG-RAM-005-11,Paired Heavy Finishing Fall,Steel Ramtail,F2,Demigod L2 Low,B
+MV-SIG-RAM-006-01,Hawk Poise River Stand,Statute Endknob,F2,Core Formation L1 Low,B
+MV-SIG-RAM-006-02,River-Walk Carry,Squallbough,F5,Core Formation L1 Low,B
+MV-SIG-RAM-006-03,Hawk-Sight Door Scan,Ramhorn Benison,F3,Core Formation L1 Low,B
+MV-SIG-RAM-006-04,Current-Reading Tap,Reminiscence Headcap,F2,Core Formation L1 Low,B
+MV-SIG-RAM-006-05,Hawk Swoop Strike,Quenched Shudder,F2,Core Formation L1 Low,B
+MV-SIG-RAM-006-06,Beam River Fork Split,Skyborne Pounddown,F1,Core Formation L1 Low,B
+MV-SIG-RAM-006-07,Hawk-and-River Hold,Unbending Beamdrive,F1,Core Formation L1 Low,B
+MV-SIG-RAM-006-08,Rapids Cascade Haul,Volition Slingchain,F2,Core Formation L1 Low,B
+MV-SIG-RAM-006-09,Hawk-Plunge River-Surge Drive,Beambanner,F4,Core Formation L1 Low,B
+MV-SIG-RAM-006-10,River-Mouth Line Advance,Windborne Beamdrive,F1,Core Formation L1 Low,B
+MV-SIG-RAM-006-11,Hawk-and-River Sundering,Feather Swayswing,F1,Core Formation L1 Low,B
+MV-SIG-RAM-006-12,Hawk and River Breaching Stroke,Storied Steel Bandring,F6a,Core Formation L1 Low,B
+MV-SIG-RAM-007-01,Hand Ram Oath Grip,Devout Ramtail,F1,Warrior L2 Low,B
+MV-SIG-RAM-007-02,Wind-Ahead Walk,Delugebough,F5,Warrior L2 Low,B
+MV-SIG-RAM-007-03,Latch Whistle Listening,Interstice Carryhandle,F2,Warrior L2 Low,B
+MV-SIG-RAM-007-04,Sworn Hinge Hammer,Bedrock Beamdrive,F2,Warrior L2 Low,B
+MV-SIG-RAM-007-05,Gust Counter-Step,Parity Bandring,F2,Warrior L2 Low,B
+MV-SIG-RAM-007-06,Oath Lean Press,Gloombeam,F5,Warrior L2 Low,B
+MV-SIG-RAM-007-07,Bearing Recover Step,Logvoyage,F4,Warrior L2 Low,B
+MV-SIG-RAM-007-08,Wind-Sworn Hinge Burst,Beamdecree,F4,Champion L1 Low,B
+MV-SIG-RAM-007-09,Door-Ram Gale Surge,Ramcrown,F4,Champion L1 Low,B
+MV-SIG-RAM-007-10,Sworn Wind Breach Stroke,Vacuum Smitedown,F2,Demigod L1 Low,B
+MV-SIG-RAM-007-11,Sworn Hand-Ram Closing Blow,Storied Shudder Crown,F6b,Warrior L2 Low,B
+MV-SIG-RAM-008-01,Plateau Crouch Hold,Faithful Beamhead,F1,Warrior L8 Mid,B
+MV-SIG-RAM-008-02,Frozen-Turf Step,Hammerin Boon,F3,Warrior L8 Mid,B
+MV-SIG-RAM-008-03,Cold-Grip Warming,Bloom Headcap,F2,Warrior L8 Mid,B
+MV-SIG-RAM-008-04,Rim Edge Run Rush,Evanescent Pounddown,F1,Warrior L8 Mid,B
+MV-SIG-RAM-008-05,Rimline Parry,Peal Slingchain,F2,Warrior L8 Mid,B
+MV-SIG-RAM-008-06,Plateau Dust Cover,Phantasm Ramhorn,F2,Warrior L8 Mid,B
+MV-SIG-RAM-008-07,Rim Wind Door Breaker,Peerless Pounddown,F1,Champion L1 Low,B
+MV-SIG-RAM-008-08,Plateau Pressure Run,Season Ramcap,F2,Champion L1 Low,B
+MV-SIG-RAM-008-09,Rim Door Sundering,Soundless Endknob,F1,Demigod L1 Low,B
+MV-SIG-RAM-008-10,Plateau Rim Closing Blow,Pulsar Swayswing,F2,Warrior L8 Mid,B
+MV-SIG-RAM-009-01,Bearing Take Stance,Magnanimous Carryhandle,F1,Champion L5 Mid,B
+MV-SIG-RAM-009-02,Oath Count Carry,Pounddown Grace,F3,Champion L5 Mid,B
+MV-SIG-RAM-009-03,Held Mark Guard,Ramtail Vow,F3,Champion L5 Mid,B
+MV-SIG-RAM-009-04,Plumb Haft Hold,Undaunted Wheelbase,F1,Champion L5 Mid,B
+MV-SIG-RAM-009-05,Oath Bearing Strike,Ramcap Decree,F3,Champion L5 Mid,B
+MV-SIG-RAM-009-06,Mark-Shift Counter,Ethereal Hammerin,F1,Champion L5 Mid,B
+MV-SIG-RAM-009-07,Held Oath Pressure,Gloomramcap,F5,Champion L5 Mid,B
+MV-SIG-RAM-009-08,Bearing Recall Call,Bandring Blessing,F3,Champion L5 Mid,B
+MV-SIG-RAM-009-09,Bearing-and-Oath Breach,Pulsarram,F5,Champion L5 Mid,B
+MV-SIG-RAM-009-10,Oath-Bound Line Sweep,Wraithlike Shudder,F1,Champion L5 Mid,B
+MV-SIG-RAM-009-11,Held Bearing Flash Breach,Ramboon,F4,Demigod L1 Low,B
+MV-SIG-RAM-009-12,Bearing and Oath Finishing Drive,Heroic Headcap Verdict,F6b,Champion L5 Mid,B
+MV-SIG-RAM-010-01,Open-Ground Brace,Venerable Ramcap,F1,Ruler L1 Low,B
+MV-SIG-RAM-010-02,Wide-Sky Lean,Beamboon,F4,Ruler L1 Low,B
+MV-SIG-RAM-010-03,Lone-Door Reading,Interstice Ramhorn,F2,Ruler L1 Low,B
+MV-SIG-RAM-010-04,Open-Ground Run-Up,Windborne Hammerin,F1,Ruler L1 Low,B
+MV-SIG-RAM-010-05,Gust Cover Crouch,Stately Endknob,F1,Ruler L1 Low,B
+MV-SIG-RAM-010-06,Wide Rank Turn,Logboon,F4,Ruler L1 Low,B
+MV-SIG-RAM-010-07,Free-Wind Haul,Serene Wheelbase,F1,Ruler L1 Low,B
+MV-SIG-RAM-010-08,Open-Ground Door Breaker,Prism Shudder,F2,Ruler L1 Low,B
+MV-SIG-RAM-010-09,Free-Sky Crowd Sweep,Logdecree,F4,Ruler L1 Low,B
+MV-SIG-RAM-010-10,Open-Sky Flash Breach,Beamgrace,F4,Demigod L1 Low,B
+MV-SIG-RAM-010-11,Open-Ground Closing Stroke,Ramcapverdict,F4,Ruler L1 Low,B
+MV-SIG-RAM-011-01,Gale-Bound Haul Stance,Revered Ramtail,F1,Demigod L3 Mid,B
+MV-SIG-RAM-011-02,Heavy Wind Pace,Twilit Beamdrive,F1,Demigod L3 Mid,B
+MV-SIG-RAM-011-03,Rope Hum Listening,Eclipse Slingchain,F2,Demigod L3 Mid,B
+MV-SIG-RAM-011-04,Heavy Gale Release,Thunderclap Carryhandle,F2,Demigod L3 Mid,B
+MV-SIG-RAM-011-05,Rope Tension Counter,Deluge Slingchain,F2,Demigod L3 Mid,B
+MV-SIG-RAM-011-06,Gale Weight Settle,Venerable Beamhead,F1,Demigod L3 Mid,B
+MV-SIG-RAM-011-07,Gale-Bound Heavy Breach,Quenched Swayswing,F2,Demigod L3 Mid,B
+MV-SIG-RAM-011-08,Heavy Gale Press Advance,Seasonbough,F5,Demigod L3 Mid,B
+MV-SIG-RAM-011-09,Heavy Gale Sundering Stroke,Radiance Beamdrive,F2,Demigod L3 Mid,B
+MV-SIG-RAM-011-10,Gale-Bound Closing Fall,Boughtriumph,F4,Demigod L3 Mid,B
+MV-SIG-RAM-012-01,Sworn Wind Footing,Inviolate Ramcap,F1,Core Formation L2 Low,B
+MV-SIG-RAM-012-02,Wind-Count Advance,Ramcapboon,F4,Core Formation L2 Low,B
+MV-SIG-RAM-012-03,Breach Shadow Reading,Clement Ramtail,F1,Core Formation L2 Low,B
+MV-SIG-RAM-012-04,Oath-Voiced Lift,Bloom Bandring,F2,Core Formation L2 Low,B
+MV-SIG-RAM-012-05,Wind Oath Strike,Vigor Hammerin,F2,Core Formation L2 Low,B
+MV-SIG-RAM-012-06,Veering Wind Dodge,Inviolate Carryhandle,F1,Core Formation L2 Low,B
+MV-SIG-RAM-012-07,Sworn Bar Lift,Entropy Beamdrive,F2,Core Formation L2 Low,B
+MV-SIG-RAM-012-08,Wind Chain Bind,Unbending Shudder,F1,Core Formation L2 Low,B
+MV-SIG-RAM-012-09,Sworn Wind Door Breaker,Valiant Swayswing,F1,Core Formation L2 Low,B
+MV-SIG-RAM-012-10,Wind-Rank Sweep,Squallram,F5,Core Formation L2 Low,B
+MV-SIG-RAM-012-11,Sworn Wind Flash Breach,Season Smitedown,F2,Core Formation L2 Low,B
+MV-SIG-RAM-012-12,Sworn Wind Closing Stroke,Matchless Endknob,F1,Core Formation L2 Low,B
+MV-SIG-RAM-003-01,Hornbeam Carryhandle,Rooted Carryhandle,F2,Champion L4 Low,B

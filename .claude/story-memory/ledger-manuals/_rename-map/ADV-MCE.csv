@@ -1,0 +1,123 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-MCE-001-01,Crown Seam Smash,Sanguine Maceneck,F2,Champion L1 Low,B
+MV-ADV-MCE-001-02,Hook and Heave,Stifling Maceball,F1,Champion L1 Low,B
+MV-ADV-MCE-001-03,Weighted Slip Parry,Unflinching Flangerib,F1,Champion L1 Low,B
+MV-ADV-MCE-001-04,Anvil Footed Step,Crush Leap,F3,Champion L1 Low,B
+MV-ADV-MCE-001-05,Flange Bite Combination,Rumblepulp,F5,Champion L1 Low,B
+MV-ADV-MCE-001-06,Seam Hammer Beat,Irondent,F5,Champion L1 Low,B
+MV-ADV-MCE-001-07,Plate-Splitting Overstroke,Scorching Ironknob,F1,Champion L1 Low,B
+MV-ADV-MCE-001-08,Staggering Mass Blow,Granite Wristloop,F2,Champion L1 Low,B
+MV-ADV-MCE-002-01,Mass-Led Swing,Ribhead Torment,F3,Champion L6 Mid,B
+MV-ADV-MCE-002-02,Dragging Head Sweep,Splintering Haftring,F1,Champion L6 Mid,B
+MV-ADV-MCE-002-03,Haft Fulcrum Turn,Pearhead Cuirass,F3,Champion L6 Mid,B
+MV-ADV-MCE-002-04,Stagger-Step Entry,Soaring Smash,F1,Champion L6 Mid,B
+MV-ADV-MCE-002-05,Steady Mass Brace,Steadfast Flangerib,F1,Champion L6 Mid,B
+MV-ADV-MCE-002-06,Rolling Counterweight Check,Rumblesmash,F5,Champion L6 Mid,B
+MV-ADV-MCE-002-07,Ram Weight Blow,Intentpear,F5,Champion L6 Mid,B
+MV-ADV-MCE-002-08,Cascading Overmass Strokes,Poundassault,F4,Champion L6 Mid,B
+MV-ADV-MCE-002-09,Grounding Dead Weight,Shade Pulp,F2,Champion L6 Mid,B
+MV-ADV-MCE-003-01,Front Rank Knee Smash,Battertorment,F4,Ruler L1 Low,B
+MV-ADV-MCE-003-02,Helm Tilt Pull,Thorn Pound,F2,Ruler L1 Low,B
+MV-ADV-MCE-003-03,Rank-Gap Slip,Gustcrush,F5,Ruler L1 Low,B
+MV-ADV-MCE-003-04,Shield Rim Crush,Needling Studhead,F1,Ruler L1 Low,B
+MV-ADV-MCE-003-05,Spine Plate Knock,Wrecking Smash,F1,Ruler L1 Low,B
+MV-ADV-MCE-003-06,Gorget Hook and Drag,Pulpgreave,F4,Ruler L1 Low,B
+MV-ADV-MCE-003-07,Rank-Fold Collapse,Charter Bellhead,F2,Ruler L1 Low,B
+MV-ADV-MCE-003-08,Reforming Haft Guard,Unshaken Wristloop,F1,Ruler L1 Low,B
+MV-ADV-MCE-003-09,Line-Crushing Overstroke,Pulp Onslaught,F3,Ruler L1 Low,B
+MV-ADV-MCE-003-10,Armor Burst Blow,Harpooning Batter,F1,Ruler L1 Low,B
+MV-ADV-MCE-004-01,Field-Wrapped Haft Strike,Lambasting Maceball,F1,Demigod L1 Low,B
+MV-ADV-MCE-004-02,Extended Guard Feel,Remnant Ironknob,F2,Demigod L1 Low,B
+MV-ADV-MCE-004-03,Field Step Drift,Racing Ribhead,F1,Demigod L1 Low,B
+MV-ADV-MCE-004-04,Haft-Field Parry,Equipoise Maceneck,F2,Demigod L1 Low,B
+MV-ADV-MCE-004-05,Field Head Smash,Granite Crush,F2,Demigod L1 Low,B
+MV-ADV-MCE-004-06,Resonant Head Ring,Mayhem Studhead,F2,Demigod L1 Low,B
+MV-ADV-MCE-004-07,Qi-Field Overmass Smash,Haftring Assault,F3,Demigod L1 Low,B
+MV-ADV-MCE-004-08,Extended Crush Reach,Smashassault,F4,Demigod L1 Low,B
+MV-ADV-MCE-005-01,Dantian-Drawn Swing,Poundtorment,F4,Demigod L6 Low,B
+MV-ADV-MCE-005-02,Haft-as-Arm Turn,Implacable Bellhead,F1,Demigod L6 Low,B
+MV-ADV-MCE-005-03,Head Nested Step,Pound Pounce,F3,Demigod L6 Low,B
+MV-ADV-MCE-005-04,Unified Weight Check,Toxin Pearhead,F2,Demigod L6 Low,B
+MV-ADV-MCE-005-05,Body-Haft Brace,Iron Studhead,F2,Demigod L6 Low,B
+MV-ADV-MCE-005-06,Single-Breath Triple Swing,Sanguine Crush,F2,Demigod L6 Low,B
+MV-ADV-MCE-005-07,Heavy Dantian Smash,Splitting Batter,F1,Demigod L6 Low,B
+MV-ADV-MCE-005-08,Resting Weight Press,Silencing Pulp,F1,Demigod L6 Low,B
+MV-ADV-MCE-005-09,Whole-Body Mace Drive,Batterthrash,F4,Demigod L6 Low,B
+MV-ADV-MCE-006-01,Twin-Head Overstroke,Tempered Pearhead,F2,Champion L4 Low,B
+MV-ADV-MCE-006-02,Paired Beat Step,Pulpleap,F4,Champion L4 Low,B
+MV-ADV-MCE-006-03,Azure Haft Cross,Steadfast Maceneck,F1,Champion L4 Low,B
+MV-ADV-MCE-006-04,Counterweight Hook,Gyverib,F5,Champion L4 Low,B
+MV-ADV-MCE-006-05,Dual-Track Flange Rap,Blazebatter,F5,Champion L4 Low,B
+MV-ADV-MCE-006-06,Pommel Lead Feint,Remnant Dent,F2,Champion L4 Low,B
+MV-ADV-MCE-006-07,Matched-Weight Smash,Sanguine Haftring,F2,Champion L4 Low,B
+MV-ADV-MCE-006-08,Twin Stroke River,Shade Pound,F2,Champion L4 Low,B
+MV-ADV-MCE-006-09,Basin-Held Haft Press,Ponderous Smash,F2,Champion L4 Low,B
+MV-ADV-MCE-007-01,Hawk Dive Smash,Skinning Flangerib,F1,Ruler L3 Mid,B
+MV-ADV-MCE-007-02,Mace Perch Ward,Thorn Maceball,F2,Ruler L3 Mid,B
+MV-ADV-MCE-007-03,Azure Reach Step,Gustpear,F5,Ruler L3 Mid,B
+MV-ADV-MCE-007-04,Talon-Hook Flange,Subduing Dent,F1,Ruler L3 Mid,B
+MV-ADV-MCE-007-05,Wing-Beat Backswing,Tempered Ironknob,F2,Ruler L3 Mid,B
+MV-ADV-MCE-007-06,Stoop Entry Pivot,Macejaunt,F4,Ruler L3 Mid,B
+MV-ADV-MCE-007-07,Stoop-and-Rise Rebound,Ribhead Cuirass,F3,Ruler L3 Mid,B
+MV-ADV-MCE-007-08,Circling Hawk Drop,Tempered Batter,F2,Ruler L3 Mid,B
+MV-ADV-MCE-007-09,Aerie Weight Drop,Ponderous Maceball,F2,Ruler L3 Mid,B
+MV-ADV-MCE-007-10,Twin Hawk Stoop,Furrowing Downpour Dent,F6a,Ruler L3 Mid,B
+MV-ADV-MCE-008-01,Basin-Cup Strike,Macebarrage,F4,Demigod L3 Low,B
+MV-ADV-MCE-008-02,River Slide Step,Silt Batter,F2,Demigod L3 Low,B
+MV-ADV-MCE-008-03,Azure Haft Ward,Aegis Studhead,F2,Demigod L3 Low,B
+MV-ADV-MCE-008-04,Paired Field Sense,Verityrib,F5,Demigod L3 Low,B
+MV-ADV-MCE-008-05,Pooling Haft Hold,Gyve Wristloop,F2,Demigod L3 Low,B
+MV-ADV-MCE-008-06,Basin Rim Parry,Murkrib,F5,Demigod L3 Low,B
+MV-ADV-MCE-008-07,Drawing Basin Crush,Tempered Bellhead,F2,Demigod L3 Low,B
+MV-ADV-MCE-008-08,Deep Basin Overstroke,Rumble Pearhead,F2,Demigod L3 Low,B
+MV-ADV-MCE-009-01,Paired Head Down-Swing,Smash Maelstrom,F3,Void God L2 Low,B
+MV-ADV-MCE-009-02,River Haft Flow,Immovable Haftring,F1,Void God L2 Low,B
+MV-ADV-MCE-009-03,Stream Step Cross,Might Maceneck,F2,Void God L2 Low,B
+MV-ADV-MCE-009-04,Twin Rim Hook,Thorn Flangerib,F2,Void God L2 Low,B
+MV-ADV-MCE-009-05,Azure Field Settle,Iron Bellhead,F2,Void God L2 Low,B
+MV-ADV-MCE-009-06,River Bend Swing,Gustrib,F5,Void God L2 Low,B
+MV-ADV-MCE-009-07,Basin-Filling Guard,Chime Ironknob,F2,Void God L2 Low,B
+MV-ADV-MCE-009-08,Twin River Crush,Lancing Wristloop,F1,Void God L2 Low,B
+MV-ADV-MCE-009-09,Downstream Weight Drop,Lancing Dent,F1,Void God L2 Low,B
+MV-ADV-MCE-009-10,Confluence Heavy Stroke,Iron Pound,F2,Void God L2 Low,B
+MV-ADV-MCE-009-11,Twin-Court Haft Seal,Lot Ribhead,F2,Void God L2 Low,B
+MV-ADV-MCE-010-01,Wind-Rolled Swing,Pearbarrage,F4,Champion L2 Low,B
+MV-ADV-MCE-010-02,Gale Mace Glide,Gustdent,F5,Champion L2 Low,B
+MV-ADV-MCE-010-03,Rolling Haft Parry,Equipoise Flangerib,F2,Champion L2 Low,B
+MV-ADV-MCE-010-04,Plateau Edge Knock,Gust Maceball,F2,Champion L2 Low,B
+MV-ADV-MCE-010-05,Wind Hook Roll,Fastening Studhead,F2,Champion L2 Low,B
+MV-ADV-MCE-010-06,Oath-Turn Pivot,Crush Sprint,F3,Champion L2 Low,B
+MV-ADV-MCE-010-07,Oath Roll Smash,Sanguine Bellhead,F2,Champion L2 Low,B
+MV-ADV-MCE-010-08,Gale Roll Barrage,Trouncing Intent Haftring,F6a,Champion L2 Low,B
+MV-ADV-MCE-010-09,Wind-Held Haft Press,Shade Ironknob,F2,Champion L2 Low,B
+MV-ADV-MCE-011-01,Edge-Held Overswing,Tempered Wristloop,F2,Ruler L6 Low,B
+MV-ADV-MCE-011-02,Bearing Flange Guard,Hoarfrost Ribhead,F2,Ruler L6 Low,B
+MV-ADV-MCE-011-03,Plateau Line Step,Torrent Pulp,F2,Ruler L6 Low,B
+MV-ADV-MCE-011-04,Knob Edge Check,Mayhem Dent,F2,Ruler L6 Low,B
+MV-ADV-MCE-011-05,Wind-Edge Rake,Lambasting Pearhead,F1,Ruler L6 Low,B
+MV-ADV-MCE-011-06,Bearing-Hold Turn,Flangerib Plating,F3,Ruler L6 Low,B
+MV-ADV-MCE-011-07,Edge-Breaking Blow,Charter Maceneck,F2,Ruler L6 Low,B
+MV-ADV-MCE-011-08,Fixed Bearing Crush,Facetpear,F5,Ruler L6 Low,B
+MV-ADV-MCE-012-01,Oath-Sworn Overstroke,Tempered Crush,F2,Demigod L4 Low,B
+MV-ADV-MCE-012-02,Gale-Wrapped Haft,Maceplating,F4,Demigod L4 Low,B
+MV-ADV-MCE-012-03,Gale Mace Bearing Pace,Whipping Pound,F1,Demigod L4 Low,B
+MV-ADV-MCE-012-04,Sworn Field Sense,Chime Maceball,F2,Demigod L4 Low,B
+MV-ADV-MCE-012-05,Oath Haft Lock,Ponderous Pulp,F2,Demigod L4 Low,B
+MV-ADV-MCE-012-06,Gale Rim Parry,Equipoise Bellhead,F2,Demigod L4 Low,B
+MV-ADV-MCE-012-07,Gale-Stroke Rolling Smash,Tempered Smash,F2,Demigod L4 Low,B
+MV-ADV-MCE-012-08,Oath-Broken Guard,Smashcloak,F4,Demigod L4 Low,B
+MV-ADV-MCE-012-09,Gale-Weight Descent,Transfixing Maceneck,F1,Demigod L4 Low,B
+MV-ADV-MCE-012-10,Sworn Wind Sweep,Slagdent,F5,Demigod L4 Low,B
+MV-ADV-MCE-013-01,Held Bearing Smash,Ironrib,F5,Void God L5 Low,B
+MV-ADV-MCE-013-02,Bearing Line Haft Ward,Pearhauberk,F4,Void God L5 Low,B
+MV-ADV-MCE-013-03,Steady Wind Advance,Surging Crush,F1,Void God L5 Low,B
+MV-ADV-MCE-013-04,Oath-Bound Flange Hook,Thorn Haftring,F2,Void God L5 Low,B
+MV-ADV-MCE-013-05,Held Field Ward,Macecloak,F4,Void God L5 Low,B
+MV-ADV-MCE-013-06,Plateau Haft Turn-Off,Gust Ironknob,F2,Void God L5 Low,B
+MV-ADV-MCE-013-07,Wind-Hold Haft Check,Rumble Batter,F2,Void God L5 Low,B
+MV-ADV-MCE-013-08,No-Walls Reach,Granite Pulp,F2,Void God L5 Low,B
+MV-ADV-MCE-013-09,Bearing-Held Overmass,Hour Pearhead,F2,Void God L5 Low,B
+MV-ADV-MCE-013-10,Held Wind Seal,Deedpulp,F5,Void God L5 Low,B
+MV-ADV-MCE-013-11,Oath Weight Crush,Hollow Ribhead,F2,Void God L5 Low,B
+MV-ADV-MCE-013-12,Gale-Spread Sweep,Dismantling Pound,F2,Void God L5 Low,B
+MV-ADV-MCE-013-11,Hollow Ribhead,Rending Ribhead,F2,Void God L5 Low,B

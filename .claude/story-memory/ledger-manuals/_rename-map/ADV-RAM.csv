@@ -1,0 +1,104 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-RAM-001-01,Beam Cap Aim Line,Verity Bandring,F2,Champion L1 Low,B
+MV-ADV-RAM-001-02,Hip-Loaded Drive,Beamdrive Thrash,F3,Champion L1 Low,B
+MV-ADV-RAM-001-03,Crouch Behind Beam,Aegis Beamhead,F2,Champion L1 Low,B
+MV-ADV-RAM-001-04,Stuttering Approach Step,Boughpounce,F4,Champion L1 Low,B
+MV-ADV-RAM-001-05,Ram Haft Pulse Drive,Facetbough,F5,Champion L1 Low,B
+MV-ADV-RAM-001-06,Failed-Blow Heel Slide,Gust Ramtail,F2,Champion L1 Low,B
+MV-ADV-RAM-001-07,Door-Heart Breaching Drive,Ramcapbarrage,F4,Champion L1 Low,B
+MV-ADV-RAM-001-08,Breach Wake Entry,Might Swayswing,F2,Champion L1 Low,B
+MV-ADV-RAM-002-01,Haft Grain Reading,Expanse Endknob,F2,Champion L3 Mid,B
+MV-ADV-RAM-002-02,Palm-Heel Haft Seat,Steadfast Carryhandle,F1,Champion L3 Mid,B
+MV-ADV-RAM-002-03,Two-Beat Haft Push,Rumbleramcap,F5,Champion L3 Mid,B
+MV-ADV-RAM-002-04,Dantian Warm Roll,Daybreak Headcap,F2,Champion L3 Mid,B
+MV-ADV-RAM-002-05,Cap-Edge Skid Parry,Mantled Wheelbase,F1,Champion L3 Mid,B
+MV-ADV-RAM-002-06,Haft-Tail Whip Flick,Gustbough,F5,Champion L3 Mid,B
+MV-ADV-RAM-002-07,Wood-Bleed Release,Iron Ramcap,F2,Champion L3 Mid,B
+MV-ADV-RAM-002-08,Reversed Tail Thrust,Ironbough,F5,Champion L3 Mid,B
+MV-ADV-RAM-002-09,Grain-Tuned Shattering Blow,Boughtorment,F4,Champion L3 Mid,B
+MV-ADV-RAM-002-10,Whole-Beam Qi Surge,Splintering Beamdrive,F1,Champion L3 Mid,B
+MV-ADV-RAM-003-01,Iron-Strap Mapping,Remnant Ramhorn,F2,Demigod L1 Low,B
+MV-ADV-RAM-003-02,Beam-Side Shoulder Brace,Hoarfrost Headcap,F2,Demigod L1 Low,B
+MV-ADV-RAM-003-03,Last-Twenty Pace Surge,Logcanter,F4,Demigod L1 Low,B
+MV-ADV-RAM-003-04,Strap-Skip Cap Strike,Blaze Swayswing,F2,Demigod L1 Low,B
+MV-ADV-RAM-003-05,Rivet-Shearing Wedge Drive,Hollow Pounddown,F2,Demigod L1 Low,B
+MV-ADV-RAM-003-06,Rapid Hinge Rattle,Stifling Shudder,F1,Demigod L1 Low,B
+MV-ADV-RAM-003-07,Falling Timber Turn,Murk Endknob,F2,Demigod L1 Low,B
+MV-ADV-RAM-003-08,Iron-Bound Leaf Heartbreak,Boughassault,F4,Demigod L1 Low,B
+MV-ADV-RAM-003-09,Leaf-Fold Follow Shove,Hour Smitedown,F2,Demigod L1 Low,B
+MV-ADV-RAM-004-01,Axle Hum Check,Mindful Ramcap,F1,Demigod L2 Mid,B
+MV-ADV-RAM-004-02,Push-Pole Long Stride,Gustram,F5,Demigod L2 Mid,B
+MV-ADV-RAM-004-03,Slope Wheel Chock,Thorn Wheelbase,F2,Demigod L2 Mid,B
+MV-ADV-RAM-004-04,Rut-Line Steering,Torrent Hammerin,F2,Demigod L2 Mid,B
+MV-ADV-RAM-004-05,Rear-Stop Back-Haul,Restoring Ramhorn,F1,Demigod L2 Mid,B
+MV-ADV-RAM-004-06,Roof Panel Tilt,Chime Slingchain,F2,Demigod L2 Mid,B
+MV-ADV-RAM-004-07,Rolling Momentum Strike,Rumblebeam,F5,Demigod L2 Mid,B
+MV-ADV-RAM-004-08,Pole Counter-Heave,Facet Bandring,F2,Demigod L2 Mid,B
+MV-ADV-RAM-004-09,Dropped-Wheel Righting,Equipoise Ramtail,F2,Demigod L2 Mid,B
+MV-ADV-RAM-004-10,Full-Roll Breach Drive,Scalding Carryhandle,F1,Demigod L2 Mid,B
+MV-ADV-RAM-004-11,Locked-Wheel Pinning Blow,Tempered Hammerin,F2,Demigod L2 Mid,B
+MV-ADV-RAM-005-01,Paired Line Lift,Intent Headcap,F2,Champion L5 Low,B
+MV-ADV-RAM-005-02,Twin Haft Grip,Granite Endknob,F2,Champion L5 Low,B
+MV-ADV-RAM-005-03,Basin Roll Step,Silt Hammerin,F2,Champion L5 Low,B
+MV-ADV-RAM-005-04,River Pace Count,Vital Beamhead,F2,Champion L5 Low,B
+MV-ADV-RAM-005-05,Azure Cap Strike,Rumble Pounddown,F2,Champion L5 Low,B
+MV-ADV-RAM-005-06,Hawk-Eyed Seam Sight,Waning Ramtail,F2,Champion L5 Low,B
+MV-ADV-RAM-005-07,Paired Blow Echo,Rumblelog,F5,Champion L5 Low,B
+MV-ADV-RAM-005-08,Twin Shoulder Interlock,Charter Wheelbase,F2,Champion L5 Low,B
+MV-ADV-RAM-005-09,Basin Dip Brake,Bandring Hauberk,F3,Champion L5 Low,B
+MV-ADV-RAM-005-10,River-Bend Beam Turn,Hastening Shudder,F1,Champion L5 Low,B
+MV-ADV-RAM-005-11,Dual-Track Breaching Pair,Drubbing Glint Beamdrive,F6a,Champion L5 Low,B
+MV-ADV-RAM-005-12,Azure Line Advance,Torrent Swayswing,F2,Champion L5 Low,B
+MV-ADV-RAM-006-01,Hawk Height Gauge,Fortifying Beamhead,F1,Demigod L3 Low,B
+MV-ADV-RAM-006-02,Stoop Run-Up Crouch,Mightramcap,F5,Demigod L3 Low,B
+MV-ADV-RAM-006-03,Hawk Wing Guard,Slingchain Cuirass,F3,Demigod L3 Low,B
+MV-ADV-RAM-006-04,Plunging Cap Drop,Transfixing Smitedown,F1,Demigod L3 Low,B
+MV-ADV-RAM-006-05,Falling Stoop Arc,Sanguine Beamdrive,F2,Demigod L3 Low,B
+MV-ADV-RAM-006-06,Talon Collar Hook,Fastening Beamdrive,F2,Demigod L3 Low,B
+MV-ADV-RAM-006-07,Hawk-Turn Recovery,Steadfast Ramcap,F1,Demigod L3 Low,B
+MV-ADV-RAM-006-08,Hawk-Stoop Breaching Dive,Novaramcap,F5,Demigod L3 Low,B
+MV-ADV-RAM-006-09,Lintel Cracker Descent,Pounddown Thrash,F3,Demigod L3 Low,B
+MV-ADV-RAM-007-01,Azure Beam Level Check,Expanse Ramhorn,F2,Demigod L4 Mid,B
+MV-ADV-RAM-007-02,Pair Counter-Step,Mightbeam,F5,Demigod L4 Mid,B
+MV-ADV-RAM-007-03,Crossed Caps Guard,Adamant Bandring,F1,Demigod L4 Mid,B
+MV-ADV-RAM-007-04,Twin Short-Ram Thrust,Granite Swayswing,F2,Demigod L4 Mid,B
+MV-ADV-RAM-007-05,Azure Line Withdrawal,Silt Carryhandle,F2,Demigod L4 Mid,B
+MV-ADV-RAM-007-06,Hinge-and-Lock Pair Blow,Ramassault,F4,Demigod L4 Mid,B
+MV-ADV-RAM-007-07,Cross-Beam Pin,Gyve Smitedown,F2,Demigod L4 Mid,B
+MV-ADV-RAM-007-08,Mirror Swing Exchange,Hourlog,F5,Demigod L4 Mid,B
+MV-ADV-RAM-007-09,Azure Twin Breach,Facetlog,F5,Demigod L4 Mid,B
+MV-ADV-RAM-007-10,Paired Beam Wedge Entry,Glancing Might Smitedown,F6a,Demigod L4 Mid,B
+MV-ADV-RAM-008-01,Wind-Sworn Lean Step,Gust Wheelbase,F2,Champion L2 High,B
+MV-ADV-RAM-008-02,Oath-Held Grip,Ramhorn Greave,F3,Champion L2 High,B
+MV-ADV-RAM-008-03,Gust Count Release,Rumble Ramtail,F2,Champion L2 High,B
+MV-ADV-RAM-008-04,Windward Bearing Call,Chime Endknob,F2,Champion L2 High,B
+MV-ADV-RAM-008-05,Plateau Edge Drive,Logassault,F4,Champion L2 High,B
+MV-ADV-RAM-008-06,Crosswind Beam Brace,Hardened Headcap,F1,Champion L2 High,B
+MV-ADV-RAM-008-07,Oath-Sworn Breaking Blow,Nova Shudder,F2,Champion L2 High,B
+MV-ADV-RAM-008-08,Gale-Following Entry,Ramsprint,F4,Champion L2 High,B
+MV-ADV-RAM-009-01,Bearing Mark Sight,Ramcap Linctus,F3,Champion L6 Mid,B
+MV-ADV-RAM-009-02,Held-Line Walk,Ramcapleap,F4,Champion L6 Mid,B
+MV-ADV-RAM-009-03,Wind-Shadow Crouch,Charter Carryhandle,F2,Champion L6 Mid,B
+MV-ADV-RAM-009-04,Bearing-True Thrust,Logthrash,F4,Champion L6 Mid,B
+MV-ADV-RAM-009-05,Drift Correction Shift,Silt Smitedown,F2,Champion L6 Mid,B
+MV-ADV-RAM-009-06,Oath Count Aloud,Vigorous Beamhead,F1,Champion L6 Mid,B
+MV-ADV-RAM-009-07,Last-Word Heave,Scalding Hammerin,F1,Champion L6 Mid,B
+MV-ADV-RAM-009-08,Bearing Pivot Parry,Steadfast Slingchain,F1,Champion L6 Mid,B
+MV-ADV-RAM-009-09,Wind-at-Back Press,Harrowing Shudder,F1,Champion L6 Mid,B
+MV-ADV-RAM-009-10,Bearing-Taken Breach,Logtorment,F4,Champion L6 Mid,B
+MV-ADV-RAM-009-11,Held-Bearing Line Advance,Torrent Smitedown,F2,Champion L6 Mid,B
+MV-ADV-RAM-010-01,Plateau Footing Read,Renewing Headcap,F1,Demigod L5 Low,B
+MV-ADV-RAM-010-02,Windward Shoulder Carry,Gustbeam,F5,Demigod L5 Low,B
+MV-ADV-RAM-010-03,Open-Air Upright Guard,Facet Beamhead,F2,Demigod L5 Low,B
+MV-ADV-RAM-010-04,Gust-Lull Drive,Transfixing Shudder,F1,Demigod L5 Low,B
+MV-ADV-RAM-010-05,Edge Sprint,Smitedown Pounce,F3,Demigod L5 Low,B
+MV-ADV-RAM-010-06,Beam Lee Rest,Anointing Ramtail,F1,Demigod L5 Low,B
+MV-ADV-RAM-010-07,Midrun Bearing Shift,Gustramcap,F5,Demigod L5 Low,B
+MV-ADV-RAM-010-08,Rising Gust Bolt-Rattle,Smitedown Onslaught,F3,Demigod L5 Low,B
+MV-ADV-RAM-010-09,Oath Chain Haul,Invigorating Bandring,F1,Demigod L5 Low,B
+MV-ADV-RAM-010-10,Wind-Tied Counter-Swing,Murk Ramhorn,F2,Demigod L5 Low,B
+MV-ADV-RAM-010-11,Plateau Wind Breach,Beamdrive Onslaught,F3,Demigod L5 Low,B
+MV-ADV-RAM-010-12,Wind-Sworn Line Press,Swayswing Onslaught,F3,Demigod L5 Low,B
+MV-ADV-RAM-002-01,Expanse Endknob,Wary Endknob,F2,Champion L3 Mid,B
+MV-ADV-RAM-003-05,Hollow Pounddown,Heavy Pounddown,F2,Demigod L1 Low,B
+MV-ADV-RAM-007-01,Expanse Ramhorn,Sharp Ramhorn,F2,Demigod L4 Mid,B

@@ -1,0 +1,98 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-CHK-001-01,Plate Seam Reading,Chime Fingerhole,F2,Champion,B
+MV-ADV-CHK-001-02,Hip-Turn Heavy Throw,Gustbounce,F5,Champion,B
+MV-ADV-CHK-001-03,Rim-Rest Guard,Vessel Ringface,F2,Champion,B
+MV-ADV-CHK-001-04,Closing Half-Step,Meridian Hoopedge,F2,Champion,B
+MV-ADV-CHK-001-05,Pauldron Gap Seeker,Facet Outerblade,F2,Champion,B
+MV-ADV-CHK-001-06,Gorget Skimmer,Skinning Innergrip,F1,Champion,B
+MV-ADV-CHK-001-07,Plate-Parting Spin,Facet Bladering,F2,Champion,B
+MV-ADV-CHK-001-08,Seam Split and Away,Diskbarrage,F4,Champion,B
+MV-ADV-CHK-002-01,Curve Intent Setting,Daybreak Fingerhole,F2,Champion,B
+MV-ADV-CHK-002-02,Offside Lean Throw,Meridian Roundedge,F2,Champion,B
+MV-ADV-CHK-002-03,Banked Cuff Turn,Torrent Outerblade,F2,Champion,B
+MV-ADV-CHK-002-04,Light Cross Step,Diskleap,F4,Champion,B
+MV-ADV-CHK-002-05,Bow-Shaped Arc,Hoopassault,F4,Champion,B
+MV-ADV-CHK-002-06,Rising Curl Over Shield,Vessel Spinrim,F2,Champion,B
+MV-ADV-CHK-002-07,Hooked Back Return,Vessel Carom,F2,Champion,B
+MV-ADV-CHK-002-08,Pursuit Loop Cast,Needling Holeedge,F1,Champion,B
+MV-ADV-CHK-002-09,Spiral Over the Spear Hedge,Cleaving Bounce,F1,Champion,B
+MV-ADV-CHK-003-01,Silent Ring Tally,Restoring Hoopedge,F1,Demigod,B
+MV-ADV-CHK-003-02,Sweeping Fan-Out,Chimegraze,F5,Demigod,B
+MV-ADV-CHK-003-03,Even-Beat Stack Draw,Vigorous Innergrip,F1,Demigod,B
+MV-ADV-CHK-003-04,Backing Volley Pace,Grazejaunt,F4,Demigod,B
+MV-ADV-CHK-003-05,Forearm Cover Raise,Iron Bladering,F2,Demigod,B
+MV-ADV-CHK-003-06,Rolling Ring Barrage,Granite Holeedge,F2,Demigod,B
+MV-ADV-CHK-003-07,Fan Cut Spread,Splintering Carom,F1,Demigod,B
+MV-ADV-CHK-003-08,Chained Release Count,Severing Graze,F1,Demigod,B
+MV-ADV-CHK-003-09,Qi Field Ring Storm,Siltcarom,F5,Demigod,B
+MV-ADV-CHK-003-10,Overlapping Orbit Screen,Unyielding Disk,F1,Demigod,B
+MV-ADV-CHK-004-01,Steady Finger Drive,Spinrim Elixir,F3,Demigod,B
+MV-ADV-CHK-004-02,Slow Release Flight,Blazecarom,F5,Demigod,B
+MV-ADV-CHK-004-03,Warm Rim Check,Remnant Disk,F2,Demigod,B
+MV-ADV-CHK-004-04,Light Skip Step,Bounding Ringface,F1,Demigod,B
+MV-ADV-CHK-004-05,Grinding Contact Cut,Iron Ricochet,F2,Demigod,B
+MV-ADV-CHK-004-06,Qi-Fed Long Spin,Scalding Hoopedge,F1,Demigod,B
+MV-ADV-CHK-004-07,Spinning Chest Guard,Resilient Spinrim,F1,Demigod,B
+MV-ADV-CHK-004-08,Unbroken Spin Cascade,Gust Innergrip,F2,Demigod,B
+MV-ADV-CHK-004-09,Whirl-Through Limb Binding,Grazecuirass,F4,Demigod,B
+MV-ADV-CHK-005-01,Twin Wrist Pairing,Daybreak Bladering,F2,Champion,B
+MV-ADV-CHK-005-02,Twin Ring Hawk Gaze,Fortifying Roundedge,F1,Champion,B
+MV-ADV-CHK-005-03,Dual-Track Throw,Harrowing Graze,F1,Champion,B
+MV-ADV-CHK-005-04,Azure Ring-Guard Stance,Iron Fingerhole,F2,Champion,B
+MV-ADV-CHK-005-05,Matched Ring-Hand Pace,Roundpounce,F4,Champion,B
+MV-ADV-CHK-005-06,River Bend Pair,Skinning Whirlcut,F1,Champion,B
+MV-ADV-CHK-005-07,Basin Palm Gather,Transfixing Graze,F1,Champion,B
+MV-ADV-CHK-005-08,Twin Echo Release,Intentround,F5,Champion,B
+MV-ADV-CHK-005-09,Hawk Talon Cross,Unmaking Gyrate,F1,Champion,B
+MV-ADV-CHK-005-10,Dual-Track Cross Guard,Unbroken Torrent Disk,F6a,Champion,B
+MV-ADV-CHK-006-01,Hawk Circling Gaze,Waning Outerblade,F2,Demigod,B
+MV-ADV-CHK-006-02,Mirror Draw,Vital Fingerhole,F2,Demigod,B
+MV-ADV-CHK-006-03,Twin Flat Skim,Facetgraze,F5,Demigod,B
+MV-ADV-CHK-006-04,Azure Sky Lob,Furrowing Ricochet,F1,Demigod,B
+MV-ADV-CHK-006-05,Crossed-Wrist Block,Unbroken Spinrim,F1,Demigod,B
+MV-ADV-CHK-006-06,Basin Edge Sidestep,Nimbuscarom,F5,Demigod,B
+MV-ADV-CHK-006-07,Circuit Return Pair,Gust Ringface,F2,Demigod,B
+MV-ADV-CHK-006-08,River Fork Split,Hoarfrost Bounce,F2,Demigod,B
+MV-ADV-CHK-006-09,Paired Rim Scissor Parry,Gust Disk,F2,Demigod,B
+MV-ADV-CHK-006-10,Hawk Dive Glide,Bounce Leap,F3,Demigod,B
+MV-ADV-CHK-006-11,Twin Orbit Closing Net,Thornhoop,F5,Demigod,B
+MV-ADV-CHK-006-12,Azure Hawk Pincer Strike,Glintbounce,F5,Demigod,B
+MV-ADV-CHK-007-01,River Pace Breathing,Equipoise Roundedge,F2,Demigod,B
+MV-ADV-CHK-007-02,Ring-Steadying Basin Floor,Vital Bladering,F2,Demigod,B
+MV-ADV-CHK-007-03,Parallel Skim Pair,Bouncethrash,F4,Demigod,B
+MV-ADV-CHK-007-04,Bank-Side Lob,Scything Holeedge,F1,Demigod,B
+MV-ADV-CHK-007-05,Stone Bed Dodge,Soaring Graze,F1,Demigod,B
+MV-ADV-CHK-007-06,Reed Bend Ring Cover,Aura Holeedge,F2,Demigod,B
+MV-ADV-CHK-007-07,Current Follow Throw,Gyratethrash,F4,Demigod,B
+MV-ADV-CHK-007-08,Eddy Turn Cut,Granite Bounce,F2,Demigod,B
+MV-ADV-CHK-007-09,Flood Rush Pair,Caromassault,F4,Demigod,B
+MV-ADV-CHK-007-10,Basin Overflow Sheet,Blazegyrate,F5,Demigod,B
+MV-ADV-CHK-007-11,River Cut Through the Rank,Glintround,F5,Demigod,B
+MV-ADV-CHK-008-01,Loose Wind Grip,Intent Outerblade,F2,Champion,B
+MV-ADV-CHK-008-02,Held-Bearing Ring Throw,Facethoop,F5,Champion,B
+MV-ADV-CHK-008-03,Bare Plateau Stance,Aegis Roundedge,F2,Champion,B
+MV-ADV-CHK-008-04,Gust-Leaning Ring Step,Siltgraze,F5,Champion,B
+MV-ADV-CHK-008-05,Crosswind Lead Throw,Scything Carom,F1,Champion,B
+MV-ADV-CHK-008-06,Sworn Homecoming Curve,Blaze Fingerhole,F2,Champion,B
+MV-ADV-CHK-008-07,Windward Rim Slash,Cleaving Ricochet,F1,Champion,B
+MV-ADV-CHK-008-08,Gale-Pitched Spin,Raging Innergrip,F1,Champion,B
+MV-ADV-CHK-008-09,Open-Air Rim Guard,Chime Bladering,F2,Champion,B
+MV-ADV-CHK-009-01,Plateau-Brink Ring Stance,Nursing Disk,F1,Demigod,B
+MV-ADV-CHK-009-02,Bearing Line Sighting,Remnant Innergrip,F2,Demigod,B
+MV-ADV-CHK-009-03,Oath-Counted Throw,Furrowing Hoopedge,F1,Demigod,B
+MV-ADV-CHK-009-04,Wind-Shoulder Block,Charter Holeedge,F2,Demigod,B
+MV-ADV-CHK-009-05,Updraft Hop,Vaulting Ringface,F1,Demigod,B
+MV-ADV-CHK-009-06,Far-Bearing Ring Cast,Facetgyrate,F5,Demigod,B
+MV-ADV-CHK-009-07,Gust-Rider Throw,Wrecking Gyrate,F1,Demigod,B
+MV-ADV-CHK-009-08,Wind Rim Parry,Gust Spinrim,F2,Demigod,B
+MV-ADV-CHK-009-09,Gale Bearing Volley,Trouncing Hoopedge,F1,Demigod,B
+MV-ADV-CHK-009-10,Edge-Wind Reaping Arc,Transfixing Carom,F1,Demigod,B
+MV-ADV-CHK-010-01,Open-Hand Carry,Anointing Hoopedge,F1,Champion,B
+MV-ADV-CHK-010-02,Oath Ring Pitch,Meridian Gyrate,F2,Champion,B
+MV-ADV-CHK-010-03,Steady-Footed Brace,Meridian Spinrim,F2,Champion,B
+MV-ADV-CHK-010-04,Plateau Run Start,Bounding Roundedge,F1,Champion,B
+MV-ADV-CHK-010-05,Sworn Straight Cast,Scorching Graze,F1,Champion,B
+MV-ADV-CHK-010-06,Wind-Cut Backhand,Rumble Holeedge,F2,Champion,B
+MV-ADV-CHK-010-07,Point-Blank Oath Throw,Tearing Roundedge,F1,Champion,B
+MV-ADV-CHK-010-08,Wind-at-the-Back Rush,Mightround,F5,Champion,B
+MV-ADV-CHK-005-10,Unbroken Torrent Disk,Stalwart Disk,F6a,Champion,B

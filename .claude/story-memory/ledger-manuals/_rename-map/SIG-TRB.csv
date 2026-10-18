@@ -1,0 +1,137 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-TRB-001-01,Twin Court Box Balancing,Parity Longarm,F2,Warrior L1 Low,B
+MV-SIG-TRB-001-02,Paired Hanger Inspection,Releasehook Largesse,F3,Warrior L1 Low,B
+MV-SIG-TRB-001-03,Court Winch Pairing Turn,Magnanimous Fulcrum,F1,Warrior L1 Low,B
+MV-SIG-TRB-001-04,Twin Weight Settle Throw,Pulsar Letgo,F2,Warrior L1 Low,B
+MV-SIG-TRB-001-05,Paired Hanger Whip Release,Peal Rigging,F2,Warrior L1 Low,B
+MV-SIG-TRB-001-06,Azure Beat Pairing Count,Vigor Slingpouch,F2,Warrior L1 Low,B
+MV-SIG-TRB-001-07,Mirror Weight Step Back,Squall Swing,F2,Warrior L1 Low,B
+MV-SIG-TRB-001-08,Court Box Falling Hammer,Famed Shortarm,F1,Champion L1 Low,B
+MV-SIG-TRB-001-09,Twin Court Frame Ward,Sanctum Longarm,F2,Champion L1 Low,B
+MV-SIG-TRB-001-10,Paired Fall Heavy Ward Breaker,Radiance Heaveoff,F2,Demigod L1 Low,B
+MV-SIG-TRB-001-11,Twin Court Counterweight Descent,Unrivaled Pullrope,F1,Warrior L1 Low,B
+MV-SIG-TRB-002-01,Hawk Perch Sighting Post,Reminiscence Tackle,F2,Warrior L6 Low,B
+MV-SIG-TRB-002-02,Steep Cradle Tilting,Parityarm,F5,Warrior L6 Low,B
+MV-SIG-TRB-002-03,Plummet Ranging Knots,Pealtackle,F5,Warrior L6 Low,B
+MV-SIG-TRB-002-04,Hawk Climb Release,Pulsar Swing,F2,Warrior L6 Low,B
+MV-SIG-TRB-002-05,Spotter Called Correction,Tacklemercy,F4,Warrior L6 Low,B
+MV-SIG-TRB-002-06,Paired Plunge Double,Pulsartackle,F5,Warrior L6 Low,B
+MV-SIG-TRB-002-07,Hawk Court Plunge Strike,Steel Counterswing,F2,Champion L1 Low,B
+MV-SIG-TRB-002-08,Dust Cloud Hiding Fall,Reminiscence Heaveoff,F2,Champion L1 Low,B
+MV-SIG-TRB-002-09,Stoop Without Warning,Vacuumarm,F5,Demigod L1 Low,B
+MV-SIG-TRB-002-10,Hawk Court Falling Talon,Radiance Letgo,F2,Warrior L6 Low,B
+MV-SIG-TRB-003-01,Basin Court Trench Digging,Vigorpulley,F5,Champion L1 Low,B
+MV-SIG-TRB-003-02,Siege Line Survey Rope,Interstice Releasehook,F2,Champion L1 Low,B
+MV-SIG-TRB-003-03,Shot Dump Ring Piling,Hospitable Releasehook,F1,Champion L1 Low,B
+MV-SIG-TRB-003-04,Engine Number Painted Post,Parity Releasehook,F2,Champion L1 Low,B
+MV-SIG-TRB-003-05,Line Fire in Turn,Heaveoff Triumph,F3,Champion L1 Low,B
+MV-SIG-TRB-003-06,Basin Line Corrector Relay,Magnanimous Ballast,F1,Champion L1 Low,B
+MV-SIG-TRB-003-07,Line Wide Ranging Volley,Pealswing,F5,Champion L1 Low,B
+MV-SIG-TRB-003-08,Fallen Crew Line Closing,Bloomtackle,F5,Champion L1 Low,B
+MV-SIG-TRB-003-09,Basin Siege Grinding Fall,Storied Overthrow,F1,Champion L1 Low,B
+MV-SIG-TRB-003-10,Line Wide Ward Smashing,Imperial Swing,F1,Champion L1 Low,B
+MV-SIG-TRB-003-11,Siege Line in One Breath,Thunderclap Letgo,F2,Demigod L1 Low,B
+MV-SIG-TRB-003-12,Basin Court Unbroken Line,Triumphant Bedrock Shortarm,F6a,Champion L1 Low,B
+MV-SIG-TRB-004-01,Ranging Stake Interval Setting,Revelation Ballast,F2,Ruler L1 Low,B
+MV-SIG-TRB-004-02,Whitened Trial Stone,Serene Hangcradle,F1,Ruler L1 Low,B
+MV-SIG-TRB-004-03,River Reed Range Cord,Bountiful Slingpouch,F1,Ruler L1 Low,B
+MV-SIG-TRB-004-04,Flowing Correction Pass,Clement Hangcradle,F1,Ruler L1 Low,B
+MV-SIG-TRB-004-05,Long Short Bracket,Inferno Counterswing,F2,Ruler L1 Low,B
+MV-SIG-TRB-004-06,Single Stone Proving,Pulsararm,F5,Ruler L1 Low,B
+MV-SIG-TRB-004-07,Moving Foe Range Update,Bountiful Tackle,F1,Ruler L1 Low,B
+MV-SIG-TRB-004-08,Ward Seeking Ranged Stone,Splendid Swing,F1,Ruler L1 Low,B
+MV-SIG-TRB-004-09,River Court Walking Fall,Volition Whiplash,F2,Ruler L1 Low,B
+MV-SIG-TRB-004-10,Ranging Engine Final Stone,Vaunted Overthrow,F1,Demigod L1 Low,B
+MV-SIG-TRB-004-11,River Court Perfect Range,Illustrious Whiplash Edict,F6b,Ruler L1 Low,B
+MV-SIG-TRB-005-01,Great Beam Gantry Raising,Bloom Fulcrum,F2,Demigod L3 Mid,B
+MV-SIG-TRB-005-02,Azure Banner Stage Call,Armgift,F4,Demigod L3 Mid,B
+MV-SIG-TRB-005-03,Great Arm Brass Banding,Vigor Ballast,F2,Demigod L3 Mid,B
+MV-SIG-TRB-005-04,High Throw Sky Clearing,Peal Longarm,F2,Demigod L3 Mid,B
+MV-SIG-TRB-005-05,Staged Sky Arc Winding,Solar Releasehook,F2,Demigod L3 Mid,B
+MV-SIG-TRB-005-06,Great Arc High Release,Glacier Whiplash,F2,Demigod L3 Mid,B
+MV-SIG-TRB-005-07,Twin Crew Heave Together,Magnanimous Slingpouch,F1,Demigod L3 Mid,B
+MV-SIG-TRB-005-08,Banner Down Release,Inferno Shortarm,F2,Demigod L3 Mid,B
+MV-SIG-TRB-005-09,Sky Breaking Qi Stone,Dauntless Heaveoff,F1,Demigod L3 Mid,B
+MV-SIG-TRB-005-10,Azure Court Sky Rain,Duneswing,F5,Demigod L3 Mid,B
+MV-SIG-TRB-005-11,Sky Breaker's Long Winding,Matchless Swing,F1,Demigod L3 Mid,B
+MV-SIG-TRB-005-12,Azure Court Sky Breaker,Magmaswing,F5,Demigod L3 Mid,B
+MV-SIG-TRB-006-01,Twin Foundation Beam Laying,Bloomarm,F5,Core Formation L1 Low,B
+MV-SIG-TRB-006-02,Siege End Spotter Pairing,Eclipse Rigging,F2,Core Formation L1 Low,B
+MV-SIG-TRB-006-03,Full Weight Rope Testing,Eclipse Tackle,F2,Core Formation L1 Low,B
+MV-SIG-TRB-006-04,Dual Track Stone Pairing Throw,Armtriumph,F4,Core Formation L1 Low,B
+MV-SIG-TRB-006-05,Sally Holding Throw,Prismswing,F5,Core Formation L1 Low,B
+MV-SIG-TRB-006-06,Track Switching Bearing,Hangcradle Largesse,F3,Core Formation L1 Low,B
+MV-SIG-TRB-006-07,Siege Ending Core Stone,Thunderclap Releasehook,F2,Core Formation L1 Low,B
+MV-SIG-TRB-006-08,Twin Track Closing Fall,Thrall Pullrope,F2,Core Formation L1 Low,B
+MV-SIG-TRB-006-09,Twin Track Core Breaker,Vacuumletgo,F5,Core Formation L1 Low,B
+MV-SIG-TRB-006-10,Dual Track Siege Ender,Gallant Overthrow Banner,F6b,Core Formation L1 Low,B
+MV-SIG-TRB-007-01,Oath Beam Plateau Raising,Armmercy,F4,Warrior L1 Low,B
+MV-SIG-TRB-007-02,Wind-Sworn Pin Check,Eclipse Slingpouch,F2,Warrior L1 Low,B
+MV-SIG-TRB-007-03,Beam Bearing Mark Cutting,Wise Longarm,F1,Warrior L1 Low,B
+MV-SIG-TRB-007-04,Oath Beam Calm Release,Squall Tackle,F2,Warrior L1 Low,B
+MV-SIG-TRB-007-05,Bearing Kept Winding,Volition Tackle,F2,Warrior L1 Low,B
+MV-SIG-TRB-007-06,Wind at the Arm Tip Throw,Sovereign Overthrow,F1,Warrior L1 Low,B
+MV-SIG-TRB-007-07,Oath Beam Piercing Stone,Steelswing,F5,Champion L1 Low,B
+MV-SIG-TRB-007-08,Oath Beam Gust Brace,Sanctum Shortarm,F2,Champion L1 Low,B
+MV-SIG-TRB-007-09,Sworn Beam Great Cast,Royal Heaveoff,F1,Demigod L1 Low,B
+MV-SIG-TRB-007-10,Oath Beam Wind Breaker,Unrivaled Entropy Whiplash,F6a,Warrior L1 Low,B
+MV-SIG-TRB-008-01,Plateau Bearing Stone Setting,Parity Tackle,F2,Warrior L5 Mid,B
+MV-SIG-TRB-008-02,Held Line Rope Stretching,Pealarm,F5,Warrior L5 Mid,B
+MV-SIG-TRB-008-03,Horizon Notch Sighting,Merciful Ballast,F1,Warrior L5 Mid,B
+MV-SIG-TRB-008-04,Wind Blown Gravel Sweeping,Bloom Rigging,F2,Warrior L5 Mid,B
+MV-SIG-TRB-008-05,Held Bearing Throw,Prism Letgo,F2,Warrior L5 Mid,B
+MV-SIG-TRB-008-06,Peak Marked Aim,Illustrious Counterswing,F1,Warrior L5 Mid,B
+MV-SIG-TRB-008-07,Bearing Return After Recoil,Compassionate Ballast,F1,Warrior L5 Mid,B
+MV-SIG-TRB-008-08,Cairn Stepped Line Shift,Bloompulley,F5,Warrior L5 Mid,B
+MV-SIG-TRB-008-09,Held Bearing Barrier Fall,Sigilarm,F5,Champion L1 Low,B
+MV-SIG-TRB-008-10,Plateau Bearing Piercing Stone,Steelpulley,F5,Champion L1 Low,B
+MV-SIG-TRB-008-11,Held Bearing One Stone,Armbanner,F4,Demigod L1 Low,B
+MV-SIG-TRB-008-12,Plateau Bearing Unmoved,Statute Heaveoff,F2,Warrior L5 Mid,B
+MV-SIG-TRB-009-01,Open Ground Buried Timber Anchor,Solar Pullrope,F2,Champion L4 Low,B
+MV-SIG-TRB-009-02,Bare Rise Watch Posting,Benevolent Rigging,F1,Champion L4 Low,B
+MV-SIG-TRB-009-03,Order of Need Rope Coiling,Tranquil Ballast,F1,Champion L4 Low,B
+MV-SIG-TRB-009-04,Gale Across Open Ground Throw,Tackleverdict,F4,Champion L4 Low,B
+MV-SIG-TRB-009-05,Skirmish Breaking Quick Lob,Squallarm,F5,Champion L4 Low,B
+MV-SIG-TRB-009-06,Open Ring Crew Stance,Vigor Heaveoff,F2,Champion L4 Low,B
+MV-SIG-TRB-009-07,Fall Back Along Bearing,Deluge Rigging,F2,Champion L4 Low,B
+MV-SIG-TRB-009-08,Charging Champion Ward Splitting,Prismarm,F5,Champion L4 Low,B
+MV-SIG-TRB-009-09,Open Ground Gravel Gale,Noble Shortarm,F1,Champion L4 Low,B
+MV-SIG-TRB-009-10,Open Field Final Hurl,Noble Fulcrum,F1,Demigod L1 Low,B
+MV-SIG-TRB-009-11,Open Ground Engine Gale Fall,Inferno Rigging,F2,Champion L4 Low,B
+MV-SIG-TRB-010-01,Oath Sling Wind Cord Plaiting,Parity Rigging,F2,Ruler L1 Mid,B
+MV-SIG-TRB-010-02,Sling Bearing Eye Fixing,Reminiscence Releasehook,F2,Ruler L1 Mid,B
+MV-SIG-TRB-010-03,Cord Release Rock Cut,Reminiscence Hangcradle,F2,Ruler L1 Mid,B
+MV-SIG-TRB-010-04,Sworn Cord Release,Swing Crown,F3,Ruler L1 Mid,B
+MV-SIG-TRB-010-05,Bearing Cord Whip,Inferno Overthrow,F2,Ruler L1 Mid,B
+MV-SIG-TRB-010-06,Sling Gust Retune,Pulleybenison,F4,Ruler L1 Mid,B
+MV-SIG-TRB-010-07,Oath Sling Bearing Stone,Radiance Counterswing,F2,Ruler L1 Mid,B
+MV-SIG-TRB-010-08,Cord Held Bearing Rain,Demolition Whiplash,F2,Ruler L1 Mid,B
+MV-SIG-TRB-010-09,Oath Sling Long Reach,Pulsar Overthrow,F2,Demigod L1 Low,B
+MV-SIG-TRB-010-10,Oath Sling True Bearing,Paramount Quenched Counterswing,F6a,Ruler L1 Mid,B
+MV-SIG-TRB-011-01,Storm Frame Rock Pinning,Tranquil Pullrope,F1,Demigod L5 Low,B
+MV-SIG-TRB-011-02,Gathering Cloud Reading,Revelation Shortarm,F2,Demigod L5 Low,B
+MV-SIG-TRB-011-03,Hail Stone Sheltered Piling,Parity Fulcrum,F2,Demigod L5 Low,B
+MV-SIG-TRB-011-04,Storm Sling Soaking,Slingpouch Largesse,F3,Demigod L5 Low,B
+MV-SIG-TRB-011-05,Storm Gust Release,Pulleydecree,F4,Demigod L5 Low,B
+MV-SIG-TRB-011-06,Rain Heavy Aim Lift,Gallant Fulcrum,F1,Demigod L5 Low,B
+MV-SIG-TRB-011-07,Storm Lull Winding,Luminous Hangcradle,F1,Demigod L5 Low,B
+MV-SIG-TRB-011-08,Thunder Count Release,Glacier Counterswing,F2,Demigod L5 Low,B
+MV-SIG-TRB-011-09,Storm Engine Stone Piercing,Pulleyverdict,F4,Demigod L5 Low,B
+MV-SIG-TRB-011-10,Plateau Hail Throw,Demolition Ballast,F2,Demigod L5 Low,B
+MV-SIG-TRB-011-11,Storm Lull Great Winding,Letgobanner,F4,Demigod L5 Low,B
+MV-SIG-TRB-011-12,Storm Engine Down-Stroke,Dauntless Swing Triumph,F6b,Demigod L5 Low,B
+MV-SIG-TRB-012-01,Deep Rock Gale Bedding,Tackle Gift,F3,Core Formation L2 Mid,B
+MV-SIG-TRB-012-02,Breath and Winding Cycle,Solar Rigging,F2,Core Formation L2 Mid,B
+MV-SIG-TRB-012-03,Gauge Flag Folds Reading,Longarm Benison,F3,Core Formation L2 Mid,B
+MV-SIG-TRB-012-04,Gale Beat Counted Throw,Prism Heaveoff,F2,Core Formation L2 Mid,B
+MV-SIG-TRB-012-05,Core Warmed Arm Heave,Armbenison,F4,Core Formation L2 Mid,B
+MV-SIG-TRB-012-06,Instant Return Winding,Vigor Tackle,F2,Core Formation L2 Mid,B
+MV-SIG-TRB-012-07,Gale Line Bearing Slide,Pulleybanner,F4,Core Formation L2 Mid,B
+MV-SIG-TRB-012-08,Core Stone Through the Gale,Radiance Ballast,F2,Core Formation L2 Mid,B
+MV-SIG-TRB-012-09,Three Throw Gale Chain,Grand Overthrow,F1,Core Formation L2 Mid,B
+MV-SIG-TRB-012-10,Core Qi Great Winding Cast,Prism Releasehook,F2,Core Formation L2 Mid,B
+MV-SIG-TRB-012-11,Gale Unbroken Falling Chain,Seasonarm,F5,Core Formation L2 Mid,B
+MV-SIG-TRB-001-09,Sanctum Longarm,Ironclad Longarm,F2,Champion L1 Low,B
+MV-SIG-TRB-005-06,Glacier Whiplash,Thunderous Whiplash,F2,Demigod L3 Mid,B
+MV-SIG-TRB-007-08,Sanctum Shortarm,Immovable Shortarm,F2,Champion L1 Low,B
+MV-SIG-TRB-011-08,Glacier Counterswing,Thunderous Counterswing,F2,Demigod L5 Low,B

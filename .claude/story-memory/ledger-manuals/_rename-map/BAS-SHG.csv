@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-SHG-001-01,Shoulder Seat Settle,Warm Choke,F1,Unawakened,A
+MV-BAS-SHG-001-02,Muzzle Peer Check,Breechcount,F4,Unawakened,A
+MV-BAS-SHG-001-03,Half-Cock Carry Step,Chokepace,F4,Unawakened,A
+MV-BAS-SHG-001-04,Near Door Spread,Sawnedge Blow,F3,Unawakened,A
+MV-BAS-SHG-001-05,Stock Butt Shove,Bead Stay,F3,Unawakened,A
+MV-BAS-SHG-001-06,Kneeling Elbow Rest,Blunt Shell,F1,Unawakened,A
+MV-BAS-SHG-002-01,Measured Powder Pour,Tending Slugchamber,F1,Skin,A
+MV-BAS-SHG-002-02,Wad Ram Home,Beadreview,F4,Skin,A
+MV-BAS-SHG-002-03,Pouch Weight Feel,Warm Pellet,F1,Skin,A
+MV-BAS-SHG-002-04,Fresh Load Raise,Shellblow,F4,Skin,A
+MV-BAS-SHG-002-05,Crouch Behind Reload,Wad Wedge,F3,Skin,A
+MV-BAS-SHG-003-01,Short Barrel Hip Hold,Wadgauge,F4,Muscle,A
+MV-BAS-SHG-003-02,Barrel Crossing Sweep,Pelletdash,F4,Muscle,A
+MV-BAS-SHG-003-03,Alley Corner Spread,Chokedrop,F4,Muscle,A
+MV-BAS-SHG-003-04,Two Paces Back Fire,Leaden Pattern,F1,Muscle,A
+MV-BAS-SHG-003-05,Muzzle Prod Warning,Towing Spreadshot,F1,Muscle,A
+MV-BAS-SHG-003-06,Forearm Barrel Guard,Kept Doublebarrel,F1,Muscle,A
+MV-BAS-SHG-003-07,Sideways Slip Step,Shifting Pumpgrip,F1,Muscle,A
+MV-BAS-SHG-004-01,Buckshot Palm Roll,Pelletcount,F4,Tendon,A
+MV-BAS-SHG-004-02,Damp Swab Pass,Kind Shell,F1,Tendon,A
+MV-BAS-SHG-004-03,Flint Edge Turn,Even Pellet,F1,Tendon,A
+MV-BAS-SHG-004-04,Heavy Buckshot Blast,Sudden Pump,F1,Tendon,A
+MV-BAS-SHG-004-05,Kick Ride Recovery,Slugchamber Review,F3,Tendon,A
+MV-BAS-SHG-004-06,Over-Head Scare Shot,Descending Slug,F1,Tendon,A
+MV-BAS-SHG-004-07,Hedge Raking Shot,Shelldash,F4,Tendon,A
+MV-BAS-SHG-004-08,Barrel Ankle Hook,Sluglid,F4,Tendon,A
+MV-BAS-SHG-005-01,Cheek Weld Press,Breechreview,F4,Bone,A
+MV-BAS-SHG-005-02,Forward Lean Brace,Ready Sawnedge,F1,Bone,A
+MV-BAS-SHG-005-03,Short Arc Stock Smash,Plain Blast,F1,Bone,A
+MV-BAS-SHG-005-04,Reversed Piece Hook,Fouling Doublebarrel,F1,Bone,A
+MV-BAS-SHG-005-05,Rear Step Shot,Wad Bump,F3,Bone,A
+MV-BAS-SHG-005-06,Leading Foot Glide,Breechtrot,F4,Bone,A
+MV-BAS-SHG-006-01,Powder Qi Thread,Even Breech,F1,Senior,A
+MV-BAS-SHG-006-02,Pellet Qi Film,Warm Bead,F1,Senior,A
+MV-BAS-SHG-006-03,Barrel Warp Reading,Shellreview,F4,Senior,A
+MV-BAS-SHG-006-04,Filmed Pellet Shot,Pelletdrop,F4,Senior,A
+MV-BAS-SHG-006-05,Breath Shoulder Cushion,Pellethusk,F4,Senior,A
+MV-BAS-SHG-007-01,Opening Fan Glance,Steady Pumpgrip,F1,Senior,A
+MV-BAS-SHG-007-02,Loose Fan Release,Gnawing Choke,F1,Senior,A
+MV-BAS-SHG-007-03,Muzzle Qi Hold,Pelletreview,F4,Senior,A
+MV-BAS-SHG-007-04,Fan Edge Pinning,Short Slug,F1,Senior,A
+MV-BAS-SHG-007-05,Tight Fan Single Mark,Quick Pump,F1,Senior,A
+MV-BAS-SHG-007-06,Smoke Flash Dazzle,Pulling Pattern,F1,Senior,A
+MV-BAS-SHG-007-07,Curved Retreat Cover,Pumppace,F4,Senior,A
+MV-BAS-SHG-008-01,Doorframe Lean Peek,Soft Breech,F1,Senior,A
+MV-BAS-SHG-008-02,Threshold Room Burst,Blunt Spreadshot,F1,Senior,A
+MV-BAS-SHG-008-03,Hedge Gap Thread,Flat Sawnedge,F1,Senior,A
+MV-BAS-SHG-008-04,Door Kick Gut Jab,Pulling Pump,F1,Senior,A
+MV-BAS-SHG-008-05,Cover to Cover Dart,Stepping Doublebarrel,F1,Senior,A
+MV-BAS-SHG-008-06,Hedge Root Rest,Settled Pellet,F1,Senior,A
+MV-BAS-SHG-009-01,Plank Scatter Reading,Shell Note,F3,Senior,A
+MV-BAS-SHG-009-02,Pellet Count Weighing,Calm Wad,F1,Senior,A
+MV-BAS-SHG-009-03,Even Spacing Qi,Smooth Slugchamber,F1,Senior,A
+MV-BAS-SHG-009-04,Even Pattern Shot,Quick Blast,F1,Senior,A
+MV-BAS-SHG-009-05,Thin Pattern Cover Fire,Straight Pattern,F1,Senior,A
+MV-BAS-SHG-009-06,Heavy Centre Bite,Beaddrop,F4,Senior,A
+MV-BAS-SHG-009-07,Aside After Firing,Skipping Breech,F1,Senior,A
+MV-BAS-SHG-009-08,Post Pattern Warning,Fouling Buckshot,F1,Senior,A
+MV-BAS-SHG-010-01,Pouch Hand Ready,Pumpgrip Gauge,F3,Senior,A
+MV-BAS-SHG-010-02,Paper Cartridge Tear,Deep Bead,F1,Senior,A
+MV-BAS-SHG-010-03,Qi Spark Priming,Smooth Choke,F1,Senior,A
+MV-BAS-SHG-010-04,Swift Follow Shot,Pumpdrop,F4,Senior,A
+MV-BAS-SHG-010-05,Low Recharge Hardening,Solid Sawnedge,F1,Senior,A
+MV-BAS-SHG-010-06,Recharge Retreat Pace,Quiet Pellet,F1,Senior,A
+MV-BAS-SHG-005-03,Plain Blast,Hard Blast,F1,Bone,A

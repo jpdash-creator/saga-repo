@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-cultivation-p06-move-combat-function-classification",
+ "part": 6,
+ "area": 3,
+ "sequence_in_part": 3,
+ "title": "Move Combat Function Classification",
+ "domain": "cultivation",
+ "source_file": "Part_6_Cultivation_Move_Taxonomy_Law.md",
+ "start_line": 463,
+ "end_line": 603,
+ "line_count": 141,
+ "output_path": ".claude/skills/ssc-cultivation-p06-move-combat-function-classification/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-cultivation-p05-foundational-principles-governing-mandate",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Named Moves deployed in combat governed by Part 5"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-governance-areas-overview",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Named Moves deployed in combat governed by Part 5"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-immutable-principles",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Named Moves deployed in combat governed by Part 5"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-combat-initiation-legitimacy",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Named Moves deployed in combat governed by Part 5"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-escalation-tier-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Named Moves deployed in combat governed by Part 5"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-engagement-recognition-mutuality-law",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Named Moves deployed in combat governed by Part 5"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-intensity-containment-boundaries",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Named Moves deployed in combat governed by Part 5"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-third-party-proxy-combat-rules",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Named Moves deployed in combat governed by Part 5"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-battlefield-spatial-cosmological-constraints",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Named Moves deployed in combat governed by Part 5"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-multi-faction-chaos-stabilization",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Named Moves deployed in combat governed by Part 5"
+  }
+ ]
+}

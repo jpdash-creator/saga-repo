@@ -1,0 +1,143 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-HKS-001-01,Court Pair Opening Stance,Hoarfrost Hookcrook,F2,Demigod,B
+MV-ELI-HKS-001-02,Left Hook Courtesy Cut,Clevisscourge,F4,Demigod,B
+MV-ELI-HKS-001-03,Even-Step Entrance,Silt Hookhilt,F2,Demigod,B
+MV-ELI-HKS-001-04,Hook-Pair Weapon Fold,Ponderous Hooklock,F2,Demigod,B
+MV-ELI-HKS-001-05,Paired Hook Mirrored Turn,Adamantine Hookend,F1,Demigod,B
+MV-ELI-HKS-001-06,Twinned Beard Tug,Mastering Cresthook,F1,Demigod,B
+MV-ELI-HKS-001-07,Matched Hooks Gate-Opening Pull,Fastening Snarl,F2,Demigod,B
+MV-ELI-HKS-001-08,Court of Two Lines Cut,Intent Pulldown,F2,Demigod,B
+MV-ELI-HKS-001-09,Paired Hooks Pincer Closure,Shattering Yank Scourge,F6b,Demigod,B
+MV-ELI-HKS-002-01,Stooping Hawk Pose,Aegiscleat,F5,Demigod,B
+MV-ELI-HKS-002-02,Dive-Edge Chop,Might Hookspine,F2,Demigod,B
+MV-ELI-HKS-002-03,Wing-Spread Retreat,Meteoric Hookcurve,F1,Demigod,B
+MV-ELI-HKS-002-04,Quick Talon Check,Adamantine Hooktip,F1,Demigod,B
+MV-ELI-HKS-002-05,Beak-Grip Tear,Gyve Hookguard,F2,Demigod,B
+MV-ELI-HKS-002-06,Lifting Parry Over the Edge,Equipoise Hookneck,F2,Demigod,B
+MV-ELI-HKS-002-07,Raptor's Reaching Gaff,Tempered Swordhook,F2,Demigod,B
+MV-ELI-HKS-002-08,Falling-Talon Lock,Gyvedisarm,F5,Demigod,B
+MV-ELI-HKS-002-09,Hawk-Circling Hook Drive,Shadecleat,F5,Demigod,B
+MV-ELI-HKS-002-10,Hawk-Dive Barb Through Mail,Hollow Cresthook,F2,Demigod,B
+MV-ELI-HKS-003-01,Basin-Hold Posture,Charter Hookhilt,F2,Demigod,B
+MV-ELI-HKS-003-02,Spillway Cut,Gustcleat,F5,Demigod,B
+MV-ELI-HKS-003-03,Bank-Walk Step,Gustyank,F5,Demigod,B
+MV-ELI-HKS-003-04,Reed Lean Pull,Gyve Hookcrook,F2,Demigod,B
+MV-ELI-HKS-003-05,Sandbar Guard Roll,Aegis Hookspine,F2,Demigod,B
+MV-ELI-HKS-003-06,Eddying Wrist Lock,Gyve Swordhook,F2,Demigod,B
+MV-ELI-HKS-003-07,Tributary Cut and Pull,Iron Disarm,F2,Demigod,B
+MV-ELI-HKS-003-08,Meeting-of-Waters Parry,Indomitable Hookguard,F1,Demigod,B
+MV-ELI-HKS-003-09,Undertow Hooking Drag,Numbing Disarm,F1,Demigod,B
+MV-ELI-HKS-003-10,Rising Water Cutting Cascade,Hour Pulldown,F2,Demigod,B
+MV-ELI-HKS-003-11,Whirling Waters Blade Capture,Snarlvalor,F4,Demigod,B
+MV-ELI-HKS-004-01,Two-Hook Line Stance,Hookcurve Obduracy,F3,Demigod,B
+MV-ELI-HKS-004-02,Hidden Second Tip Thrust,Tempered Twistaway,F2,Demigod,B
+MV-ELI-HKS-004-03,Shadow Step,Granite Yank,F2,Demigod,B
+MV-ELI-HKS-004-04,Single-Line Hook Draw,Fastening Hookend,F2,Demigod,B
+MV-ELI-HKS-004-05,Veiled Second Hook Cut,Might Twistaway,F2,Demigod,B
+MV-ELI-HKS-004-06,Line-Break Disrupt,Enthralling Hookneck,F1,Demigod,B
+MV-ELI-HKS-004-07,Collinear Hook Piercing,Tempered Hooktip,F2,Demigod,B
+MV-ELI-HKS-004-08,Doubled Edge Withdrawal Trap,Clevismettle,F4,Demigod,B
+MV-ELI-HKS-004-09,Reflected Thrust Along the Line,Hollowcleat,F5,Demigod,B
+MV-ELI-HKS-005-01,Dual-Track Ready Stance,Facet Hookspine,F2,Demigod,B
+MV-ELI-HKS-005-02,Straight Track Jab,Tempered Hooklock,F2,Demigod,B
+MV-ELI-HKS-005-03,Curved Track Draw,Iron Hookguard,F2,Demigod,B
+MV-ELI-HKS-005-04,Track-Change Skip,Phantom Yank,F1,Demigod,B
+MV-ELI-HKS-005-05,Braided Parry,Unbudging Swordhook,F1,Demigod,B
+MV-ELI-HKS-005-06,Straight-and-Curve Trap,Fastening Hooktip,F2,Demigod,B
+MV-ELI-HKS-005-07,Parallel Pull,Fastening Hookneck,F2,Demigod,B
+MV-ELI-HKS-005-08,Switching Hooks Riposte,Murkgrapnel,F5,Demigod,B
+MV-ELI-HKS-005-09,Dual-Track Snare Trap,Gyve Hookend,F2,Demigod,B
+MV-ELI-HKS-005-10,Double-Track Hook Seizure,Thorndisarm,F5,Demigod,B
+MV-ELI-HKS-005-11,Never-Meeting Tracks Barrage,Granite Hookcrook,F2,Demigod,B
+MV-ELI-HKS-005-12,Net of Two Tracks,Fastening Pulldown,F2,Demigod,B
+MV-ELI-HKS-006-01,Mouth-of-the-River Stance,Charter Hookcurve,F2,Demigod,B
+MV-ELI-HKS-006-02,Silt-Bar Cut,Corroding Twistaway,F1,Demigod,B
+MV-ELI-HKS-006-03,Delta Step Fan,Might Hookhilt,F2,Demigod,B
+MV-ELI-HKS-006-04,Channel-Hook Check,Toxin Snarl,F2,Demigod,B
+MV-ELI-HKS-006-05,Widening Tide Parry,Torrent Cresthook,F2,Demigod,B
+MV-ELI-HKS-006-06,Brackish Drag,Hoarfrost Disarm,F2,Demigod,B
+MV-ELI-HKS-006-07,Estuary Hook and Slice,Unsparing Disarm,F1,Demigod,B
+MV-ELI-HKS-006-08,Outflow Hooking Throw,Overbearing Snarl,F1,Demigod,B
+MV-ELI-HKS-006-09,Spring Flood Crush,Hookend Ruin,F3,Demigod,B
+MV-ELI-HKS-006-10,Widening Spiral of Hooks,Iron Hooklock,F2,Demigod,B
+MV-ELI-HKS-007-01,Cry-Ready Breath Stance,Cresthook Spine,F3,Demigod,B
+MV-ELI-HKS-007-02,Shrike Hook Peck,Merciless Snarl,F1,Demigod,B
+MV-ELI-HKS-007-03,Roost Step,Ghosting Hookguard,F1,Demigod,B
+MV-ELI-HKS-007-04,Screech Release Cut,Irongrapnel,F5,Demigod,B
+MV-ELI-HKS-007-05,Talon Clasp Parry,Gust Hookspine,F2,Demigod,B
+MV-ELI-HKS-007-06,Thermal Climb Cut,Decimating Hooktip,F1,Demigod,B
+MV-ELI-HKS-007-07,Hooked Talon Twist,Hoarfrost Twistaway,F2,Demigod,B
+MV-ELI-HKS-007-08,Dive-and-Climb Chain,Shattering Hookhilt,F1,Demigod,B
+MV-ELI-HKS-007-09,Freezing Shout and Talon Thrust,Grapnelhavoc,F4,Demigod,B
+MV-ELI-HKS-008-01,Wind-Sworn Doctrine Posture,Obdurate Swordhook,F1,Demigod,B
+MV-ELI-HKS-008-02,Breeze-Brush Cut,Hellish Hookcrook,F1,Demigod,B
+MV-ELI-HKS-008-03,Tailwind Advance,Blinding Yank,F1,Demigod,B
+MV-ELI-HKS-008-04,Hook Turned With the Wind,Grapneldurance,F4,Demigod,B
+MV-ELI-HKS-008-05,Veering Hook Catch,Webbing Pulldown,F1,Demigod,B
+MV-ELI-HKS-008-06,Squall Reply,Lacerating Hooklock,F1,Demigod,B
+MV-ELI-HKS-008-07,Sworn-to-the-Wind Pull,Thornclevis,F5,Demigod,B
+MV-ELI-HKS-008-08,Crosswind Hooking Tear,Cleatvalor,F4,Demigod,B
+MV-ELI-HKS-008-09,Rising Gale Press,Cleatwrath,F4,Demigod,B
+MV-ELI-HKS-008-10,Windside Weapon-Arm Tearing,Enthralling Snarl,F1,Demigod,B
+MV-ELI-HKS-009-01,Hooked Tip Sighting Stance,Grapnelmettle,F4,Demigod,B
+MV-ELI-HKS-009-02,Beyond-the-Edge Reach,Hookhilt Scourge,F3,Demigod,B
+MV-ELI-HKS-009-03,Held-Bearing Retreat,Phantom Hookspine,F1,Demigod,B
+MV-ELI-HKS-009-04,Hooked Bearing Snare,Overpowering Hookneck,F1,Demigod,B
+MV-ELI-HKS-009-05,Compass-Turn Cut,Rumble Hookguard,F2,Demigod,B
+MV-ELI-HKS-009-06,Drift-Correcting Parry,Inexorable Hookneck,F1,Demigod,B
+MV-ELI-HKS-009-07,Far-Bearing Hook Pull,Ponderous Swordhook,F2,Demigod,B
+MV-ELI-HKS-009-08,Line-Holding Barrage,Intentgrapnel,F5,Demigod,B
+MV-ELI-HKS-009-09,Reach-Beyond Bearing Hook,Nova Hookcrook,F2,Demigod,B
+MV-ELI-HKS-010-01,Oath-on-the-Heights Pose,Aegis Hookend,F2,Demigod,B
+MV-ELI-HKS-010-02,High-Ground Chop,Hellish Pulldown,F1,Demigod,B
+MV-ELI-HKS-010-03,Ridge Walk,Unseen Hookcurve,F1,Demigod,B
+MV-ELI-HKS-010-04,Thin-Air Block,Equipoise Cresthook,F2,Demigod,B
+MV-ELI-HKS-010-05,Altitude Hold,Aegis Hooktip,F2,Demigod,B
+MV-ELI-HKS-010-06,Sworn Hooks Crossing,Hoarfrost Yank,F2,Demigod,B
+MV-ELI-HKS-010-07,Crag-Splitting Pull,Maiming Hookguard,F1,Demigod,B
+MV-ELI-HKS-010-08,Cold Wind Slice,Sanguine Hookcurve,F2,Demigod,B
+MV-ELI-HKS-010-09,Ledge-Edge Hooking Drop,Gyveyank,F5,Demigod,B
+MV-ELI-HKS-010-10,Two-Oath Cross Hooking,Suffocating Disarm,F1,Demigod,B
+MV-ELI-HKS-010-11,Skyline Cutting Run,Granite Hooklock,F2,Demigod,B
+MV-ELI-HKS-010-12,Sworn Line Held Against All,Cleatspine,F4,Demigod,B
+MV-ELI-HKS-011-01,Gale-Rider Stance,Facetcleat,F5,Demigod,B
+MV-ELI-HKS-011-02,Tailwind Cut,Hellish Cresthook,F1,Demigod,B
+MV-ELI-HKS-011-03,Wind-Slide Step,Disarmvortex,F4,Demigod,B
+MV-ELI-HKS-011-04,Gust Check Parry,Cleatdurance,F4,Demigod,B
+MV-ELI-HKS-011-05,Riding Hook Draw,Cleatmettle,F4,Demigod,B
+MV-ELI-HKS-011-06,Billowing Sleeve Snare,Ponderous Hookspine,F2,Demigod,B
+MV-ELI-HKS-011-07,Shearing Gust Cut,Ironclevis,F5,Demigod,B
+MV-ELI-HKS-011-08,Crosswind Wrist Sever,Nova Hooklock,F2,Demigod,B
+MV-ELI-HKS-011-09,Storm-Front Cutting Wave,Shade Yank,F2,Demigod,B
+MV-ELI-HKS-011-10,Surge-Ride Arm Cut,Booming Snarl,F1,Demigod,B
+MV-ELI-HKS-012-01,Standing Bearing Pose,Aegis Hookcrook,F2,Demigod,B
+MV-ELI-HKS-012-02,Unmoving Thrust,Hookneck Reckoning,F3,Demigod,B
+MV-ELI-HKS-012-03,Pivot on the Bearing,Grapnelblink,F4,Demigod,B
+MV-ELI-HKS-012-04,Bearing-Held Hook Lock,Disarmnerve,F4,Demigod,B
+MV-ELI-HKS-012-05,Steady Wind Parry,Murkclevis,F5,Demigod,B
+MV-ELI-HKS-012-06,Weather-Vane Counter,Mangling Twistaway,F1,Demigod,B
+MV-ELI-HKS-012-07,Planted Hook Heave,Gyvegrapnel,F5,Demigod,B
+MV-ELI-HKS-012-08,Unshaken Line Succession,Snarlscourge,F4,Demigod,B
+MV-ELI-HKS-012-09,Steadfast Force Return Pull,Overbearing Hoarfrost Hookhilt,F6a,Demigod,B
+MV-ELI-HKS-013-01,Armor-Seeking Stance,Granite Hookend,F2,Demigod,B
+MV-ELI-HKS-013-02,Seam Prick,Mangling Pulldown,F1,Demigod,B
+MV-ELI-HKS-013-03,Gorget Gap Probe,Mightclevis,F5,Demigod,B
+MV-ELI-HKS-013-04,Weighted Step Forward,Gust Disarm,F2,Demigod,B
+MV-ELI-HKS-013-05,Glancing Plate Parry,Equipoise Hooktip,F2,Demigod,B
+MV-ELI-HKS-013-06,Rim-Catch Pry,Twistaway Nerve,F3,Demigod,B
+MV-ELI-HKS-013-07,Strap-Cutting Hook Slice,Wrathful Swordhook,F1,Demigod,B
+MV-ELI-HKS-013-08,Helmet-Rim Haul,Ponderous Hookcurve,F2,Demigod,B
+MV-ELI-HKS-013-09,Mail-Ring Splitting Wrench,Rampaging Hookguard,F1,Demigod,B
+MV-ELI-HKS-013-10,Plate-Stripping Cascade,Snarl Durance,F3,Demigod,B
+MV-ELI-HKS-013-11,Seam-Ripping Armor Pull,Gnashing Nova Pulldown,F6a,Demigod,B
+MV-ELI-HKS-014-01,Mastery Opening Salute,Clevisnerve,F4,Demigod,B
+MV-ELI-HKS-014-02,Plateau Wind Thrust,Rampaging Hookcrook,F1,Demigod,B
+MV-ELI-HKS-014-03,Open-Sky Sidestep,Siltyank,F5,Demigod,B
+MV-ELI-HKS-014-04,Gale-Lean Block,Torrent Hookhilt,F2,Demigod,B
+MV-ELI-HKS-014-05,Edge-of-Wind Hook Pull,Cresthook Valor,F3,Demigod,B
+MV-ELI-HKS-014-06,Hollow-Wind Trick Cut,Gust Hooktip,F2,Demigod,B
+MV-ELI-HKS-014-07,Whirlwind Hook Wrap,Snarlspine,F4,Demigod,B
+MV-ELI-HKS-014-08,High Plateau Rending Pull,Disarm Wrath,F3,Demigod,B
+MV-ELI-HKS-014-09,Unwalled Ground Sweeping Barrage,Yank Reckoning,F3,Demigod,B
+MV-ELI-HKS-014-10,Plateau-Crossing Hook Burst,Eviscerating Hookspine Reckoning,F6b,Demigod,B
+MV-ELI-HKS-002-10,Hollow Cresthook,Piercing Cresthook,F2,Demigod,B

@@ -1,0 +1,132 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-GRS-001-01,Slope Descent Cut,Rondel Triumph,F3,Warrior L1 Low,B
+MV-SIG-GRS-001-02,Basin Rim Cover,Prismheft,F5,Warrior L1 Low,B
+MV-SIG-GRS-001-03,Low Water Pace,Squall Greatedge,F2,Warrior L1 Low,B
+MV-SIG-GRS-001-04,Basin Fill Cleave,Heroic Windmill,F1,Warrior L1 Low,B
+MV-SIG-GRS-001-05,Rim Turning Parry,Lugsvow,F4,Warrior L1 Low,B
+MV-SIG-GRS-001-06,Drain Pull Bind,Lugs Covenant,F3,Warrior L1 Low,B
+MV-SIG-GRS-001-07,Basin Flood Cleave,Majestic Overswing,F1,Champion L1 Low,B
+MV-SIG-GRS-001-08,Basin Ring Sweep,Entropy Crossbeam,F2,Champion L1 Low,B
+MV-SIG-GRS-001-09,Basin Deep Pull,Gloomhaul,F5,Demigod L1 Low,B
+MV-SIG-GRS-001-10,Sweep of the Filling Basin,Peerless Inferno Flange,F6a,Warrior L1 Low,B
+MV-SIG-GRS-002-01,Hawk Pair Chop,Haulbanner,F4,Warrior L5 Low,B
+MV-SIG-GRS-002-02,Hawk Pair Cover,Consecrated Longgrip,F1,Warrior L5 Low,B
+MV-SIG-GRS-002-03,Hawk Pair Pace,Dunelugs,F5,Warrior L5 Low,B
+MV-SIG-GRS-002-04,Hawk Shadow Cleave,Vigor Greatsweep,F2,Warrior L5 Low,B
+MV-SIG-GRS-002-05,Spread Wing Pair Parry,Flangetroth,F4,Warrior L5 Low,B
+MV-SIG-GRS-002-06,Talon Lock Hold,Glacier Mulinet,F2,Warrior L5 Low,B
+MV-SIG-GRS-002-07,Pair Dive Lunge,Quenched Hiltwrap,F2,Warrior L5 Low,B
+MV-SIG-GRS-002-08,Paired Hawk Heavy Dive,Inferno Wrench,F2,Champion L1 Low,B
+MV-SIG-GRS-002-09,Two Wing Hawk Sweep,Bulk Decree,F3,Champion L1 Low,B
+MV-SIG-GRS-002-10,Pair Hawk Crossing Flash,Windborne Longgrip,F1,Demigod L1 Low,B
+MV-SIG-GRS-002-11,Two Hawks One Cleave,Splendid Heft,F1,Warrior L5 Low,B
+MV-SIG-GRS-003-01,River Court Chop,Haemal Hiltwrap,F2,Champion L1 Mid,B
+MV-SIG-GRS-003-02,River Court Ward,Statute Rondel,F2,Champion L1 Mid,B
+MV-SIG-GRS-003-03,River Court Pace,Silken Greatsweep,F1,Champion L1 Mid,B
+MV-SIG-GRS-003-04,Confluence Cleave,Quenched Haul,F2,Champion L1 Mid,B
+MV-SIG-GRS-003-05,Court Current Parry,Bulk Pledge,F3,Champion L1 Mid,B
+MV-SIG-GRS-003-06,River Court Binding,Millstone Flange,F2,Champion L1 Mid,B
+MV-SIG-GRS-003-07,Court Flood Hew,Squallwrench,F5,Champion L1 Low,B
+MV-SIG-GRS-003-08,Bend and Break Sequence,Destiny Heft,F2,Champion L1 Low,B
+MV-SIG-GRS-003-09,River Court Verdict Cut,Ruling Greatedge,F1,Demigod L1 Low,B
+MV-SIG-GRS-003-10,Confluence of Two Edges,Orchestral Volition Lugs,F6a,Champion L1 Mid,B
+MV-SIG-GRS-004-01,Azure Twin Cut,Wrench Crown,F3,Ruler L1 Mid,B
+MV-SIG-GRS-004-02,Azure Twin Parry,Squall Lugs,F2,Ruler L1 Mid,B
+MV-SIG-GRS-004-03,Twin Edge Pace,Twilit Mulinet,F1,Ruler L1 Mid,B
+MV-SIG-GRS-004-04,Azure Twin Glance,Peal Counterweight,F2,Ruler L1 Mid,B
+MV-SIG-GRS-004-05,Front Edge Rise,Imperial Crossbeam,F1,Ruler L1 Mid,B
+MV-SIG-GRS-004-06,Back Edge Fall,Inferno Overswing,F2,Ruler L1 Mid,B
+MV-SIG-GRS-004-07,Between-Edges Greatsword Lock,Thralllugs,F5,Ruler L1 Mid,B
+MV-SIG-GRS-004-08,Edge Change Lunge,Famed Longgrip,F1,Ruler L1 Mid,B
+MV-SIG-GRS-004-09,Compendium Heavy Cut,Steelhaul,F5,Ruler L1 Mid,B
+MV-SIG-GRS-004-10,Edge Pair Sequence,Harmonious Hiltwrap,F1,Ruler L1 Mid,B
+MV-SIG-GRS-004-11,Twin-Edge Break Flash,Skyborne Counterweight,F1,Demigod L1 Low,B
+MV-SIG-GRS-004-12,Azure Twin-Edge Fall,Royal Greatedge,F1,Ruler L1 Mid,B
+MV-SIG-GRS-005-01,Field Hawk Chop,Lordly Flange,F1,Demigod L1 Low,B
+MV-SIG-GRS-005-02,Field Hawk Guard,Bedrock Counterweight,F2,Demigod L1 Low,B
+MV-SIG-GRS-005-03,Field Hawk Pace,Haulboon,F4,Demigod L1 Low,B
+MV-SIG-GRS-005-04,Field Dive Cleave,Rondelcrown,F4,Demigod L1 Low,B
+MV-SIG-GRS-005-05,Hawk Field Parry,Pealbulk,F5,Demigod L1 Low,B
+MV-SIG-GRS-005-06,Field Press Hold,Valiant Wrench,F1,Demigod L1 Low,B
+MV-SIG-GRS-005-07,Doctrine Dive Cleave,Steelbulk,F5,Demigod L1 Low,B
+MV-SIG-GRS-005-08,Field Wheel Sweep,Solarwrench,F5,Demigod L1 Low,B
+MV-SIG-GRS-005-09,Field Hawk Strike Flash,Seasonhaul,F5,Demigod L1 Low,B
+MV-SIG-GRS-005-10,Falling Field of the Hawk,Paramount Heft,F1,Demigod L1 Low,B
+MV-SIG-GRS-006-01,Core Azure Cut,Haemalwrench,F5,Core Formation L1 Low,B
+MV-SIG-GRS-006-02,Core Azure Guard,Crossbeam Reliquary,F3,Core Formation L1 Low,B
+MV-SIG-GRS-006-03,Core Azure Pace,Deluge Greatsweep,F2,Core Formation L1 Low,B
+MV-SIG-GRS-006-04,Core-Fed Cleave,Thunderclap Haul,F2,Core Formation L1 Low,B
+MV-SIG-GRS-006-05,Core Parry Turn,Stately Bulk,F1,Core Formation L1 Low,B
+MV-SIG-GRS-006-06,Core Cover Bind,Hornbeam Rondel,F2,Core Formation L1 Low,B
+MV-SIG-GRS-006-07,Core Heavy Cleave,Overswing Triumph,F3,Core Formation L1 Low,B
+MV-SIG-GRS-006-08,Core Field Sweep,Solar Mulinet,F2,Core Formation L1 Low,B
+MV-SIG-GRS-006-09,Core Azure Flash Cleave,Pulsar Windmill,F2,Core Formation L1 Low,B
+MV-SIG-GRS-006-10,Azure Core Great Descent,Counterweight Decree,F3,Core Formation L1 Low,B
+MV-SIG-GRS-007-01,Plateau Lesson Cut,Bedrock Mulinet,F2,Warrior L2 Low,B
+MV-SIG-GRS-007-02,Plateau Lesson Guard,Statute Longgrip,F2,Warrior L2 Low,B
+MV-SIG-GRS-007-03,Plateau Lesson Pace,Greatsweep Grace,F3,Warrior L2 Low,B
+MV-SIG-GRS-007-04,Lesson Gust Cleave,Heroic Hiltwrap,F1,Warrior L2 Low,B
+MV-SIG-GRS-007-05,Edge to Wind Parry,Consecrated Greatedge,F1,Warrior L2 Low,B
+MV-SIG-GRS-007-06,Plateau Bearing Bind,Sigillugs,F5,Warrior L2 Low,B
+MV-SIG-GRS-007-07,Plateau Heavy Fall,Steelflange,F5,Champion L1 Low,B
+MV-SIG-GRS-007-08,Windward Ring Sweep,Dune Heft,F2,Champion L1 Low,B
+MV-SIG-GRS-007-09,Plateau Gale Flash,Crossbeam Grace,F3,Demigod L1 Low,B
+MV-SIG-GRS-007-10,Fall from the Plateau Edge,Triumphant Haul,F1,Warrior L2 Low,B
+MV-SIG-GRS-008-01,Oath Edge Chop,Squall Overswing,F2,Warrior L8 Low,B
+MV-SIG-GRS-008-02,Oath Edge Covering Stance,Lugsseal,F4,Warrior L8 Low,B
+MV-SIG-GRS-008-03,Oath Edge Pace,Deluge Haul,F2,Warrior L8 Low,B
+MV-SIG-GRS-008-04,Oath Gust Cleave,Lugsdecree,F4,Warrior L8 Low,B
+MV-SIG-GRS-008-05,Oath Turned Parry,Parity Rondel,F2,Warrior L8 Low,B
+MV-SIG-GRS-008-06,Oath Binding Press,Hornbeam Lugs,F2,Warrior L8 Low,B
+MV-SIG-GRS-008-07,Oath Heavy Fall,Imperial Flange,F1,Champion L1 Low,B
+MV-SIG-GRS-008-08,Oath Ring Sweep,Magmarondel,F5,Champion L1 Low,B
+MV-SIG-GRS-008-09,Oath Gale Flash,Pulsar Bulk,F2,Demigod L1 Low,B
+MV-SIG-GRS-008-10,Oath Sworn Upon the Wind,Vaunted Inferno Heft,F6a,Warrior L8 Low,B
+MV-SIG-GRS-009-01,Keeper Bearing Cut,Squall Greatsweep,F2,Champion L3 Low,B
+MV-SIG-GRS-009-02,Keeper Bearing Guard,Stately Counterweight,F1,Champion L3 Low,B
+MV-SIG-GRS-009-03,Keeper Bearing Pace,Ethereal Wrench,F1,Champion L3 Low,B
+MV-SIG-GRS-009-04,Keeper Gust Cleave,Wrenchtriumph,F4,Champion L3 Low,B
+MV-SIG-GRS-009-05,Keeper Parry Turn,Squall Bulk,F2,Champion L3 Low,B
+MV-SIG-GRS-009-06,Keeper Line Bind,Sigil Windmill,F2,Champion L3 Low,B
+MV-SIG-GRS-009-07,Keeper Qi Thrust,Steelwrench,F5,Champion L3 Low,B
+MV-SIG-GRS-009-08,Keeper Heavy Fall,Bedrock Longgrip,F2,Champion L1 Low,B
+MV-SIG-GRS-009-09,Keeper Chain Sequence,Volition Windmill,F2,Champion L1 Low,B
+MV-SIG-GRS-009-10,Keeper Bearing Flash,Skyborne Greatedge,F1,Demigod L1 Low,B
+MV-SIG-GRS-009-11,Bearing That Does Not Turn,Unbending Volition Mulinet,F6a,Champion L3 Low,B
+MV-SIG-GRS-010-01,Open Plateau Hewing Cut,Rondelverdict,F4,Ruler L1 Low,B
+MV-SIG-GRS-010-02,Open Plateau Standing Guard,Hefttroth,F4,Ruler L1 Low,B
+MV-SIG-GRS-010-03,Open Plateau Pace,Squall Flange,F2,Ruler L1 Low,B
+MV-SIG-GRS-010-04,Open Plateau Cleave,Vigorrondel,F5,Ruler L1 Low,B
+MV-SIG-GRS-010-05,Plateau Cross Parry,Squall Rondel,F2,Ruler L1 Low,B
+MV-SIG-GRS-010-06,Open Plateau Bind,Hornbeam Windmill,F2,Ruler L1 Low,B
+MV-SIG-GRS-010-07,Plateau Cleaving Fall,Peerless Wrench,F1,Ruler L1 Low,B
+MV-SIG-GRS-010-08,All-Sides Greatsword Arc,Vaunted Lugs,F1,Ruler L1 Low,B
+MV-SIG-GRS-010-09,Open Plateau Flash,Pulsarflange,F5,Demigod L1 Low,B
+MV-SIG-GRS-010-10,Wind Across the Open Plateau,Famed Demolition Overswing,F6a,Ruler L1 Low,B
+MV-SIG-GRS-011-01,Gale-Born Chop,Squall Hiltwrap,F2,Demigod L2 Low,B
+MV-SIG-GRS-011-02,Gale-Born Cover,Steelrondel,F5,Demigod L2 Low,B
+MV-SIG-GRS-011-03,Gale-Born Pace,Vigor Counterweight,F2,Demigod L2 Low,B
+MV-SIG-GRS-011-04,Gale-Born Glance,Reminiscence Crossbeam,F2,Demigod L2 Low,B
+MV-SIG-GRS-011-05,Gale-Born Cleave,Majestic Wrench,F1,Demigod L2 Low,B
+MV-SIG-GRS-011-06,Gale-Born Parry,Crossbeam Seal,F3,Demigod L2 Low,B
+MV-SIG-GRS-011-07,Gale-Born Bind,Masterful Overswing,F1,Demigod L2 Low,B
+MV-SIG-GRS-011-08,Gale-Born Lunge,Pulsar Hiltwrap,F2,Demigod L2 Low,B
+MV-SIG-GRS-011-09,Doctrine Gale Fall,Squall Haul,F2,Demigod L2 Low,B
+MV-SIG-GRS-011-10,Gale-Born Ring Sweep,Bedrock Greatsweep,F2,Demigod L2 Low,B
+MV-SIG-GRS-011-11,Gale-Born Flash Cleave,Radiance Longgrip,F2,Demigod L1 Low,B
+MV-SIG-GRS-011-12,Born of the Gale Edge,Solarlugs,F5,Demigod L2 Low,B
+MV-SIG-GRS-012-01,Core Wind Cut,Vigorflange,F5,Core Formation L2 Low,B
+MV-SIG-GRS-012-02,Core Wind Guard,Sainted Lugs,F1,Core Formation L2 Low,B
+MV-SIG-GRS-012-03,Core Wind Pace,Bedrock Heft,F2,Core Formation L2 Low,B
+MV-SIG-GRS-012-04,Core Wind Cleave,Squall Mulinet,F2,Core Formation L2 Low,B
+MV-SIG-GRS-012-05,Core Gust Deflection,Devout Bulk,F1,Core Formation L2 Low,B
+MV-SIG-GRS-012-06,Core Wind Bind,Thrallheft,F5,Core Formation L2 Low,B
+MV-SIG-GRS-012-07,Core Wind Fall,Haemal Flange,F2,Core Formation L2 Low,B
+MV-SIG-GRS-012-08,Core Wind Sweep,Gallant Greatedge,F1,Core Formation L2 Low,B
+MV-SIG-GRS-012-09,Core Wind Flash Cleave,Seasonlugs,F5,Core Formation L2 Low,B
+MV-SIG-GRS-012-10,Great Wind of the Core,Imperial Entropy Flange,F6a,Core Formation L2 Low,B
+MV-SIG-GRS-002-06,Glacier Mulinet,Titan Mulinet,F2,Warrior L5 Low,B
+MV-SIG-GRS-006-06,Hornbeam Rondel,Mighty Rondel,F2,Core Formation L1 Low,B
+MV-SIG-GRS-007-08,Dune Heft,Colossal Heft,F2,Champion L1 Low,B
+MV-SIG-GRS-008-06,Hornbeam Lugs,Thunderous Lugs,F2,Warrior L8 Low,B
+MV-SIG-GRS-010-06,Hornbeam Windmill,Sovereign Windmill,F2,Ruler L1 Low,B

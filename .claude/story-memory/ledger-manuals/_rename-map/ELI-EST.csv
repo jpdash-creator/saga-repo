@@ -1,0 +1,151 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-EST-001-01,Court Salute Estoc Guard,Obdurate Stiffspine,F1,Demigod,B
+MV-ELI-EST-001-02,Twin Court Opening Thrust,Pitiless Impale,F1,Demigod,B
+MV-ELI-EST-001-03,Court Pace Measuring,Gust Trianglespine,F2,Demigod,B
+MV-ELI-EST-001-04,Paired Court Beat,Torrent Thrustspine,F2,Demigod,B
+MV-ELI-EST-001-05,Court Binding Cross,Slenderdurance,F4,Demigod,B
+MV-ELI-EST-001-06,Twin Court Probe,Vigilant Rigidtang,F1,Demigod,B
+MV-ELI-EST-001-07,Court Double Armor Strike,Pierceruin,F4,Demigod,B
+MV-ELI-EST-001-08,Paired Court Return,Glint Hardtip,F2,Demigod,B
+MV-ELI-EST-001-09,Twin Court Single Wound,Tautruin,F4,Demigod,B
+MV-ELI-EST-002-01,Cloud Perch Stance,Tautdurance,F4,Demigod,B
+MV-ELI-EST-002-02,Azure Estoc Dive,Gouge Ruin,F3,Demigod,B
+MV-ELI-EST-002-03,High Air Step,Gust Pierce,F2,Demigod,B
+MV-ELI-EST-002-04,Pinion Beat Estoc Parry,Unassailable Squaretip,F1,Demigod,B
+MV-ELI-EST-002-05,Azure Sky Scan,Slenderinsight,F4,Demigod,B
+MV-ELI-EST-002-06,Hawk Foot Bind,Thorn Stiffblade,F2,Demigod,B
+MV-ELI-EST-002-07,Sudden Pitch Thrust,Bracespine Havoc,F3,Demigod,B
+MV-ELI-EST-002-08,Azure Estoc Falling Stroke,Pitiless Squarepoint,F1,Demigod,B
+MV-ELI-EST-002-09,Hawk Shadow Flurry,Hellish Skewer,F1,Demigod,B
+MV-ELI-EST-002-10,Azure Streak Plunge,Meteoric Nova Longtang,F6a,Demigod,B
+MV-ELI-EST-003-01,Two-Track Ready Guard,Hoarfrost Bracespine,F2,Demigod,B
+MV-ELI-EST-003-02,Armor Track Thrust,Vengeful Stiffspine,F1,Demigod,B
+MV-ELI-EST-003-03,Second Track Estoc Step,Unseen Longtang,F1,Demigod,B
+MV-ELI-EST-003-04,Track Crossing Estoc Parry,Murktaut,F5,Demigod,B
+MV-ELI-EST-003-05,Dual Weight Shift,Might Trianglespine,F2,Demigod,B
+MV-ELI-EST-003-06,Track Reading Gaze,Verity Rigidtang,F2,Demigod,B
+MV-ELI-EST-003-07,Outer Track Bind,Gyve Bore,F2,Demigod,B
+MV-ELI-EST-003-08,Inner Track Thrust,Corroding Squarepoint,F1,Demigod,B
+MV-ELI-EST-003-09,Two-Track Seam Wedge,Brutalizing Stiffblade,F1,Demigod,B
+MV-ELI-EST-003-10,Track Closing Press,Shade Skewer,F2,Demigod,B
+MV-ELI-EST-003-11,Twin Track Armor Bypass,Grave Squaretip,F2,Demigod,B
+MV-ELI-EST-004-01,Deep Basin Estoc Guard,Hoarfrost Stiffblade,F2,Demigod,B
+MV-ELI-EST-004-02,Sunken Floor Thrust,Rampaging Bore,F1,Demigod,B
+MV-ELI-EST-004-03,Descending Step,Gustbore,F5,Demigod,B
+MV-ELI-EST-004-04,Steep Side Parry,Chimeslender,F5,Demigod,B
+MV-ELI-EST-004-05,Silent Water Breathing,Elevating Thrustspine,F1,Demigod,B
+MV-ELI-EST-004-06,Depth Sounding,Beneficent Hardtip,F1,Demigod,B
+MV-ELI-EST-004-07,Basin Whirl Bind,Gyve Drill,F2,Demigod,B
+MV-ELI-EST-004-08,Undercurrent Step,Headlong Pierce,F1,Demigod,B
+MV-ELI-EST-004-09,Deep Pool Feint,Murkgouge,F5,Demigod,B
+MV-ELI-EST-004-10,Sinking Point Drive,Titanic Thrustspine,F1,Demigod,B
+MV-ELI-EST-004-11,Deep Pool Pin,Boremettle,F4,Demigod,B
+MV-ELI-EST-004-12,Dead Calm Blade,Verity Longtang,F2,Demigod,B
+MV-ELI-EST-005-01,River Confluence Stance,Trianglespine Obduracy,F3,Demigod,B
+MV-ELI-EST-005-02,Meeting Waters Estoc Thrust,Skewerhavoc,F4,Demigod,B
+MV-ELI-EST-005-03,Ford Crossing Estoc Step,Blinding Gouge,F1,Demigod,B
+MV-ELI-EST-005-04,Bank Slap Parry,Torrent Bracespine,F2,Demigod,B
+MV-ELI-EST-005-05,Silt Settling Breath,Intent Squarepoint,F2,Demigod,B
+MV-ELI-EST-005-06,Tributary Bind,Fastening Drill,F2,Demigod,B
+MV-ELI-EST-005-07,Rapids Thrust,Iron Impale,F2,Demigod,B
+MV-ELI-EST-005-08,Whirlpool Parry,Unconquered Squaretip,F1,Demigod,B
+MV-ELI-EST-005-09,Spring Source Sense,Veritytaut,F5,Demigod,B
+MV-ELI-EST-005-10,Delta Fan of Thrusts,Grievous Rigidtang,F1,Demigod,B
+MV-ELI-EST-005-11,River Mouth Surge,Hellish Gouge,F1,Demigod,B
+MV-ELI-EST-005-12,Sluice Holding Guard,Thornslender,F5,Demigod,B
+MV-ELI-EST-005-13,Five Streams One Mouth,Grievous Psyche Hardtip,F6a,Demigod,B
+MV-ELI-EST-006-01,Paired Hawk Guard,Hoarfrost Trianglespine,F2,True God,B
+MV-ELI-EST-006-02,Hawk Pair Thrust,Decimating Impale,F1,True God,B
+MV-ELI-EST-006-03,Hunting Stride,Meteoric Pierce,F1,True God,B
+MV-ELI-EST-006-04,Talon Parry,Equipoise Stiffblade,F2,True God,B
+MV-ELI-EST-006-05,Twin Eye Sense,Veritystrait,F5,True God,B
+MV-ELI-EST-006-06,Pair Pinion Bind,Maiming Skewer,F1,True God,B
+MV-ELI-EST-006-07,Stoop and Rise Thrust,Booming Bracespine,F1,True God,B
+MV-ELI-EST-006-08,Hunting Pair Cross,Intent Gouge,F2,True God,B
+MV-ELI-EST-006-09,Talon Hook Thrust,Grievous Stiffspine,F1,True God,B
+MV-ELI-EST-006-10,Hawk Pair Seizing Stroke,Berserk Drill Devastation,F6b,True God,B
+MV-ELI-EST-007-01,Spire Foot Stance,Tautspine,F4,Monarch,B
+MV-ELI-EST-007-02,Spire Line Thrust,Hollowtaut,F5,Monarch,B
+MV-ELI-EST-007-03,Climbing Step,Mighttaut,F5,Monarch,B
+MV-ELI-EST-007-04,Spire Sight,Straitinsight,F4,Monarch,B
+MV-ELI-EST-007-05,Twin Spire Bind,Thornstrait,F5,Monarch,B
+MV-ELI-EST-007-06,Spire Top Beat,Tautmettle,F4,Monarch,B
+MV-ELI-EST-007-07,Spire Piercing Drive,Rumble Longtang,F2,Monarch,B
+MV-ELI-EST-007-08,Twin Spire Counter,Facetstrait,F5,Monarch,B
+MV-ELI-EST-007-09,Monarch's Spire Stroke,Glint Stiffspine,F2,Demigod,B
+MV-ELI-EST-008-01,Sworn Wind Estoc Brace,Squarepoint Valor,F3,Demigod,B
+MV-ELI-EST-008-02,Wind Drawn Estoc Line,Devastating Thrustspine,F1,Demigod,B
+MV-ELI-EST-008-03,Skimming Estoc Glide,Gust Squaretip,F2,Demigod,B
+MV-ELI-EST-008-04,Breeze Beat Parry,Adamantine Hardtip,F1,Demigod,B
+MV-ELI-EST-008-05,Wind Taste Sense,Remnant Rigidtang,F2,Demigod,B
+MV-ELI-EST-008-06,Gale Hold Bind,Thornpierce,F5,Demigod,B
+MV-ELI-EST-008-07,Oath Sprint Thrust,Rumbletaut,F5,Demigod,B
+MV-ELI-EST-008-08,Storm Front Thrust,Hollowgouge,F5,Demigod,B
+MV-ELI-EST-008-09,Wind Shear Beat,Rumble Bore,F2,Demigod,B
+MV-ELI-EST-008-10,Wind-Sworn Passing Gust,Unseen Drill Slipstream,F6b,Demigod,B
+MV-ELI-EST-009-01,Plateau Brink Estoc Stand,Invincible Longtang,F1,Demigod,B
+MV-ELI-EST-009-02,Brink Thrust,Nova Pierce,F2,Demigod,B
+MV-ELI-EST-009-03,Cliffside Step,Phantom Bracespine,F1,Demigod,B
+MV-ELI-EST-009-04,Ledge Parry,Torrent Trianglespine,F2,Demigod,B
+MV-ELI-EST-009-05,Dry Air Breathing,Straitrespite,F4,Demigod,B
+MV-ELI-EST-009-06,Brink Reading,Slenderrespite,F4,Demigod,B
+MV-ELI-EST-009-07,Edge Pinning Bind,Thorn Bore,F2,Demigod,B
+MV-ELI-EST-009-08,Drop-Off Feint,Webbing Impale,F1,Demigod,B
+MV-ELI-EST-009-09,Brink Shoving Thrust,Ironbore,F5,Demigod,B
+MV-ELI-EST-009-10,Edge Sweep Press,Granite Pierce,F2,Demigod,B
+MV-ELI-EST-009-11,Over the Brink Thrust,Blistering Skewer,F1,Demigod,B
+MV-ELI-EST-010-01,Held Bearing Estoc Pose,Indomitable Stiffblade,F1,Demigod,B
+MV-ELI-EST-010-02,Plate Bearing Thrust,Pitiless Squaretip,F1,Demigod,B
+MV-ELI-EST-010-03,Bearing Pace Along the Point,Rigidtang Rocketry,F3,Demigod,B
+MV-ELI-EST-010-04,Square Bearing Parry,Unbowed Thrustspine,F1,Demigod,B
+MV-ELI-EST-010-05,Bearing Breath,Vital Hardtip,F2,Demigod,B
+MV-ELI-EST-010-06,Bearing Cross Check,Remnant Longtang,F2,Demigod,B
+MV-ELI-EST-010-07,Hold the Line Bind,Hogtying Squarepoint,F1,Demigod,B
+MV-ELI-EST-010-08,Plate Bearing Wedge,Glint Gouge,F2,Demigod,B
+MV-ELI-EST-010-09,Slow Bearing Turn,Dazzling Impale,F1,Demigod,B
+MV-ELI-EST-010-10,Bearing Through Plate,Tempered Stiffspine,F2,Demigod,B
+MV-ELI-EST-010-11,Bearing Pressing Wave,Hour Drill,F2,Demigod,B
+MV-ELI-EST-010-12,Bearing Unmoved,Invincible Bracespine,F1,Demigod,B
+MV-ELI-EST-011-01,Oath Gale Estoc Pose,Facet Stiffspine,F2,Demigod,B
+MV-ELI-EST-011-02,Oath Gale Thrust,Nova Impale,F2,Demigod,B
+MV-ELI-EST-011-03,Gale Pace,Vanishing Pierce,F1,Demigod,B
+MV-ELI-EST-011-04,Oath Weighing,Chime Thrustspine,F2,Demigod,B
+MV-ELI-EST-011-05,Gale Oath Bind,Hoarfrost Drill,F2,Demigod,B
+MV-ELI-EST-011-06,Windfall Visor Thrust,Impalewrath,F4,Demigod,B
+MV-ELI-EST-011-07,Oath Gale Charge,Blistering Bore,F1,Demigod,B
+MV-ELI-EST-011-08,Oath Estoc Turn-Back,Hardtip Spine,F3,Demigod,B
+MV-ELI-EST-011-09,Gale Oath Final Point,Grievous Bore,F1,Demigod,B
+MV-ELI-EST-012-01,Unwalled Estoc Stand,Thorntaut,F5,Demigod,B
+MV-ELI-EST-012-02,Open Plateau Thrust,Slenderwrath,F4,Demigod,B
+MV-ELI-EST-012-03,Wide Sky Estoc Stride,Gustdrill,F5,Demigod,B
+MV-ELI-EST-012-04,Open Hand Estoc Parry,Murk Squarepoint,F2,Demigod,B
+MV-ELI-EST-012-05,Far Horizon Breath,Galvanizing Squaretip,F1,Demigod,B
+MV-ELI-EST-012-06,Wide Sky Scan,Trianglespine Vitality,F3,Demigod,B
+MV-ELI-EST-012-07,Unwalled Bind,Gyvestrait,F5,Demigod,B
+MV-ELI-EST-012-08,Crosswind Slip,Dazzling Rigidtang,F1,Demigod,B
+MV-ELI-EST-012-09,Empty Ground Feint,Suffocating Stiffblade,F1,Demigod,B
+MV-ELI-EST-012-10,Unwalled Piercing Charge,Punishing Trianglespine,F1,Demigod,B
+MV-ELI-EST-012-11,Open Ground Flurry,Hellish Pierce,F1,Demigod,B
+MV-ELI-EST-012-12,Sky Wide Press,Bracespine Devastation,F3,Demigod,B
+MV-ELI-EST-012-13,Nothing Between,Skewer Flash,F3,Demigod,B
+MV-ELI-EST-013-01,Long Gale Guard,Hoarfrost Longtang,F2,Demigod,B
+MV-ELI-EST-013-02,Reaching Gale Thrust,Devastating Stiffblade,F1,Demigod,B
+MV-ELI-EST-013-03,Gale Distance Step,Silt Rigidtang,F2,Demigod,B
+MV-ELI-EST-013-04,Gale Tip Parry,Unrelenting Thrustspine,F1,Demigod,B
+MV-ELI-EST-013-05,Gale Range Sense,Tautrespite,F4,Demigod,B
+MV-ELI-EST-013-06,Long Reach Bind,Thornskewer,F5,Demigod,B
+MV-ELI-EST-013-07,Gale Withdrawal Thrust,Wrathful Skewer,F1,Demigod,B
+MV-ELI-EST-013-08,Gale Reach Stab,Ferocious Gouge,F1,Demigod,B
+MV-ELI-EST-013-09,Far Gale Press,Intent Bore,F2,Demigod,B
+MV-ELI-EST-013-10,Reach of the Long Gale,Chime Hardtip,F2,Demigod,B
+MV-ELI-EST-014-01,Monarch Oath Stance,Thorn Stiffspine,F2,Monarch,B
+MV-ELI-EST-014-02,Monarch Bearing Thrust,Drill Wrath,F3,Monarch,B
+MV-ELI-EST-014-03,Oath Walking Pace,Gougevortex,F4,Monarch,B
+MV-ELI-EST-014-04,Bearing Turn Estoc Parry,Obdurate Longtang,F1,Monarch,B
+MV-ELI-EST-014-05,Oath Breath Calm,Vitaltaut,F5,Monarch,B
+MV-ELI-EST-014-06,Sworn Bearing Sense,Clairvoyant Squaretip,F1,Monarch,B
+MV-ELI-EST-014-07,Oath Cross Bind,Gyve Squarepoint,F2,Monarch,B
+MV-ELI-EST-014-08,Wind Oath Thrust,Glinttaut,F5,Monarch,B
+MV-ELI-EST-014-09,Monarch's Bearing Lunge,Facet Gouge,F2,Monarch,B
+MV-ELI-EST-014-10,Oath Held Estoc Cover,Impervious Trianglespine,F1,Monarch,B
+MV-ELI-EST-014-11,Monarch's Unbroken Bearing,Straitruin,F4,Demigod,B

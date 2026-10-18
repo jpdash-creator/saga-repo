@@ -1,0 +1,80 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-DAO-001-01,Single Edge Straight Chop,Open Dishguard,F1,T1 Unawakened,A
+MV-BAS-DAO-001-02,Spine Cradle Guard,Knucklebar Husk,F3,T1 Unawakened,A
+MV-BAS-DAO-001-03,Brief Shuffle Advance,Light Brush,F1,T1 Unawakened,A
+MV-BAS-DAO-001-04,Belly Draw Slice,Dragcut Strike,F3,T1 Unawakened,A
+MV-BAS-DAO-001-05,Wrist Roll Parry,Angled Spineback,F1,T1 Unawakened,A
+MV-BAS-DAO-002-01,Overhead Downhew,Brushblow,F4,T1 Skin,A
+MV-BAS-DAO-002-02,Rising Belly Flick,Sudden Swathe,F1,T1 Skin,A
+MV-BAS-DAO-002-03,Crossed Forearm Block,Angled Tipbend,F1,T1 Skin,A
+MV-BAS-DAO-002-04,Side Slip Step,Easing Curvespine,F1,T1 Skin,A
+MV-BAS-DAO-002-05,Inward Flat Brush,Ready Ringpommel,F1,T1 Skin,A
+MV-BAS-DAO-002-06,Flat Girth Sweep,Plain Bellyblade,F1,T1 Skin,A
+MV-BAS-DAO-003-01,Plain Vertical Chop,Swathestrike,F4,T1 Muscle,A
+MV-BAS-DAO-003-02,Diagonal Shoulder Hew,Brushhit,F4,T1 Muscle,A
+MV-BAS-DAO-003-03,Backhand Diagonal Hew,Blunt Rearedge,F1,T1 Muscle,A
+MV-BAS-DAO-003-04,Braced Spine Catch,Chopbelly Husk,F3,T1 Muscle,A
+MV-BAS-DAO-003-05,Hooked Wrist Slip,Holding Flatside,F1,T1 Muscle,A
+MV-BAS-DAO-003-06,Two-Pace Closing Step,Whisk Amble,F3,T1 Muscle,A
+MV-BAS-DAO-003-07,Chop and Recover Rhythm,Square Scrape,F1,T1 Muscle,A
+MV-BAS-DAO-004-01,Heel Pivot Turn,Backward Slice,F1,T1 Tendon,A
+MV-BAS-DAO-004-02,Crescent Foot Arc,Backward Whisk,F1,T1 Tendon,A
+MV-BAS-DAO-004-03,Back Pace Retreat,Chopskitter,F4,T1 Tendon,A
+MV-BAS-DAO-004-04,Low Stance Hew,Flatside Drop,F3,T1 Tendon,A
+MV-BAS-DAO-004-05,Step-Through Slice,Short Chopbelly,F1,T1 Tendon,A
+MV-BAS-DAO-004-06,Guard Behind Pivot,Settled Dishguard,F1,T1 Tendon,A
+MV-BAS-DAO-005-01,Cut From the Guard Line,Blunt Bellyblade,F1,T1 Bone,A
+MV-BAS-DAO-005-02,Guard Over the Head,Resting Spineback,F1,T1 Bone,A
+MV-BAS-DAO-005-03,Guard Beside the Ribs,Bevellid,F4,T1 Bone,A
+MV-BAS-DAO-005-04,Flat Sweep Aside,Lowered Rearedge,F1,T1 Bone,A
+MV-BAS-DAO-005-05,Counter Cut Beneath,Bevelblow,F4,T1 Bone,A
+MV-BAS-DAO-005-06,Hip Shift Dodge,Swatheskitter,F4,T1 Bone,A
+MV-BAS-DAO-005-07,Rolling Wrist Cut,Brushbump,F4,T1 Bone,A
+MV-BAS-DAO-005-08,Fixed Foot Chop,Plain Brush,F1,T1 Bone,A
+MV-BAS-DAO-006-01,Willow Switch Cut,Swatheblow,F4,T1 Muscle,A
+MV-BAS-DAO-006-02,Narrow Leaf Slice,Narrow Curvespine,F1,T1 Muscle,A
+MV-BAS-DAO-006-03,Light Hand Parry,Settled Ringpommel,F1,T1 Muscle,A
+MV-BAS-DAO-006-04,Tip Dip Guard,Choppause,F4,T1 Muscle,A
+MV-BAS-DAO-006-05,Drifting Step Pair,Light Knucklebar,F1,T1 Muscle,A
+MV-BAS-DAO-007-01,Breath-Timed Downcut,Scrape Hit,F3,Senior L1 Low,A
+MV-BAS-DAO-007-02,Qi-Skimmed Draw Cut,Square Swathe,F1,Senior L1 Low,A
+MV-BAS-DAO-007-03,Spine Ring Block,Tight Rearedge,F1,Senior L1 Low,A
+MV-BAS-DAO-007-04,Level Breath Step,Skipping Dragcut,F1,Senior L1 Low,A
+MV-BAS-DAO-007-05,Circling Qi Parry,Raised Bellyblade,F1,Senior L1 Low,A
+MV-BAS-DAO-007-06,Long Exhale Chop,Brushstrike,F4,Senior L1 Low,A
+MV-BAS-DAO-008-01,Qi-Edged Slash,Dishdash,F4,Senior L2 Low,A
+MV-BAS-DAO-008-02,Thin Qi Rising Slash,Slicehit,F4,Senior L2 Low,A
+MV-BAS-DAO-008-03,Wrapped Qi Guard,Planted Dishguard,F1,Senior L2 Low,A
+MV-BAS-DAO-008-04,Qi-Light Skip Step,Bevelamble,F4,Senior L2 Low,A
+MV-BAS-DAO-008-05,Slash-Slip Turn,Tight Tipbend,F1,Senior L2 Low,A
+MV-BAS-DAO-008-06,Double Qi Hew,Slicebump,F4,Senior L2 Low,A
+MV-BAS-DAO-008-07,Through-Slash Recovery,Open Swathe,F1,Senior L2 Low,A
+MV-BAS-DAO-009-01,Ox-Tail Heavy Chop,Open Flatside,F1,Senior L3 Low,A
+MV-BAS-DAO-009-02,Broad Belly Hew,Plain Ringpommel,F1,Senior L3 Low,A
+MV-BAS-DAO-009-03,Weighted Back Sweep,Forward Scrape,F1,Senior L3 Low,A
+MV-BAS-DAO-009-04,Heavy Spine Brace,Dishcowl,F4,Senior L3 Low,A
+MV-BAS-DAO-009-05,Momentum Catch Step,Slicehop,F4,Senior L3 Low,A
+MV-BAS-DAO-009-06,Swinging Weight Parry,Raised Spineback,F1,Senior L3 Low,A
+MV-BAS-DAO-009-07,Wide Rolling Slash,Knucklebar Strike,F3,Senior L3 Low,A
+MV-BAS-DAO-009-08,Counterweight Recovery,Snug Tipbend,F1,Senior L3 Low,A
+MV-BAS-DAO-010-01,Edge Lead Slice,Whisk Hit,F3,Senior L1 Mid,A
+MV-BAS-DAO-010-02,Spine Lead Rap,Chopbelly Hit,F3,Senior L1 Mid,A
+MV-BAS-DAO-010-03,Edge Spine Turnover,Ready Curvespine,F1,Senior L1 Mid,A
+MV-BAS-DAO-010-04,Flat Press Guard,Choplid,F4,Senior L1 Mid,A
+MV-BAS-DAO-010-05,Narrow Gap Step,Dishamble,F4,Senior L1 Mid,A
+MV-BAS-DAO-011-01,Shoulder Driven Hew,Narrow Slice,F1,Senior L4 Low,A
+MV-BAS-DAO-011-02,Elbow Loose Chop,Straight Dragcut,F1,Senior L4 Low,A
+MV-BAS-DAO-011-03,Forearm Lock Guard,Kept Curvespine,F1,Senior L4 Low,A
+MV-BAS-DAO-011-04,Arm Arc Parry,Chophusk,F4,Senior L4 Low,A
+MV-BAS-DAO-011-05,Long Reach Slash,Flat Flatside,F1,Senior L4 Low,A
+MV-BAS-DAO-011-06,Forward Drive Step,Knucklebar Pace,F3,Senior L4 Low,A
+MV-BAS-DAO-012-01,Curve Following Cut,Dishdrop,F4,Senior L5 Low,A
+MV-BAS-DAO-012-02,Crescent Chop,Swathebump,F4,Senior L5 Low,A
+MV-BAS-DAO-012-03,Inner Curve Draw,Flat Brush,F1,Senior L5 Low,A
+MV-BAS-DAO-012-04,Outer Curve Hook,Downward Ringpommel,F1,Senior L5 Low,A
+MV-BAS-DAO-012-05,Curve Cradle Guard,Dishwedge,F4,Senior L5 Low,A
+MV-BAS-DAO-012-06,Crescent Slip Step,Skipping Spineback,F1,Senior L5 Low,A
+MV-BAS-DAO-012-07,Curve Turning Parry,Resting Dishguard,F1,Senior L5 Low,A
+MV-BAS-DAO-002-06,Plain Bellyblade,Keen Bellyblade,F1,T1 Skin,A
+MV-BAS-DAO-005-08,Plain Brush,Iron Brush,F1,T1 Bone,A
+MV-BAS-DAO-009-02,Plain Ringpommel,Stout Ringpommel,F1,Senior L3 Low,A

@@ -1,0 +1,71 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-FAL-001-01,Advance-and-Drop Chop,Savage Hew,F1,Senior,A
+MV-INT-FAL-001-02,Skipping Chop Approach,Stumphurdle,F4,Senior,A
+MV-INT-FAL-001-03,Outstep Flat Block,Stumpbuckle,F4,Senior,A
+MV-INT-FAL-001-04,Heel-Plant Overhead Fall,Hack Thwack,F3,Senior,A
+MV-INT-FAL-001-05,Gliding Guard Backstep,Stumpprop,F4,Senior,A
+MV-INT-FAL-001-06,Stepping Qi Chop Chain,Brisk Hash,F1,Senior,A
+MV-INT-FAL-001-07,Cross-Step Cleaver Drive,Hackhurdle,F4,Senior,A
+MV-INT-FAL-002-01,Drag-Cut Edge Setting,Vicious Heavyback,F1,Senior,A
+MV-INT-FAL-002-02,Thumb-Side Belly Slice,Fierce Whack,F1,Senior,A
+MV-INT-FAL-002-03,Slope-Step Pull,Hewhurdle,F4,Senior,A
+MV-INT-FAL-002-04,Spine-Lead Guard,Resolute Chopblade,F1,Senior,A
+MV-INT-FAL-002-05,Draw-Cut Hip Swing,Harsh Nubtip,F1,Senior,A
+MV-INT-FAL-002-06,Short Pull Withdrawal,Lithe Cleaverbelly,F1,Senior,A
+MV-INT-FAL-002-07,Qi-Fed Belly Drag,Grim Wedgetip,F1,Senior,A
+MV-INT-FAL-002-08,Dragging Guard Break,Viselike Falchhilt,F1,Senior,A
+MV-INT-FAL-003-01,Cleaver Cross Guard,Unmoving Thickspine,F1,Senior,A
+MV-INT-FAL-003-02,Shoulder Turn Absorbing Parry,Rooted Bulkblade,F1,Senior,A
+MV-INT-FAL-003-03,Guard-Heel Pivot,Ducking Cleft,F1,Senior,A
+MV-INT-FAL-003-04,Answering Drop Behind Guard,Rugged Weightbelly,F1,Senior,A
+MV-INT-FAL-003-05,Qi-Backed Cleaver Wall,Nubhasp,F4,Senior,A
+MV-INT-FAL-003-06,Turn-and-Return Cleaver,Resolute Thickspine,F1,Senior,A
+MV-INT-FAL-004-01,Swell-Gathering Breath,Gap Clipedge,F2,Warrior,B
+MV-INT-FAL-004-02,Forward-Mass Overhead,Brawn Chunk,F2,Warrior,B
+MV-INT-FAL-004-03,Mass-Shift Hack,Draught Clipedge,F2,Warrior,B
+MV-INT-FAL-004-04,Heavy-End Cover,Sleet Falchhilt,F2,Warrior,B
+MV-INT-FAL-004-05,Weighted Slide Step,Clay Hack,F2,Warrior,B
+MV-INT-FAL-004-06,Dense-Tip Rebound Cut,Acrid Chunk,F1,Warrior,B
+MV-INT-FAL-004-07,Qi-Swell Falling Chop,Bold Weightbelly,F1,Warrior,B
+MV-INT-FAL-004-08,Settled-Weight Parry,Nubtipprop,F4,Warrior,B
+MV-INT-FAL-004-09,Swell-Driven Press,Hew Prop,F3,Warrior,B
+MV-INT-FAL-005-01,Reading the Falling Cut,Stumpcordial,F4,Warrior,B
+MV-INT-FAL-005-02,Edge-On-Edge Stop Cut,Draught Nubtip,F2,Warrior,B
+MV-INT-FAL-005-03,Slipped-Hack Answer,Draught Heavyback,F2,Warrior,B
+MV-INT-FAL-005-04,Rising Block Chop,Claynubtip,F5,Warrior,B
+MV-INT-FAL-005-05,Back-Step Return Hack,Draught Cleaverbelly,F2,Warrior,B
+MV-INT-FAL-005-06,Wrist-Cross Counter Parry,Nubscreen,F4,Warrior,B
+MV-INT-FAL-005-07,Instant Reversal Chop,Honedhew,F5,Warrior,B
+MV-INT-FAL-005-08,Qi-Hardened Counter Edge,Stumpbarrier,F4,Warrior,B
+MV-INT-FAL-005-09,Overturn Initiative Chop,Rugged Wedgetip,F1,Warrior,B
+MV-INT-FAL-005-10,Counter-Press Disarm,Clutching Bulkblade,F1,Warrior,B
+MV-INT-FAL-006-01,Forward Press Opening Hack,Nubtipflog,F4,Warrior,B
+MV-INT-FAL-006-02,Driving Step Hack,Stern Cleft,F1,Warrior,B
+MV-INT-FAL-006-03,Alternating Hand Hack,Ember Chopblade,F2,Warrior,B
+MV-INT-FAL-006-04,Press-Over Guard Hold,Unmoving Clipedge,F1,Warrior,B
+MV-INT-FAL-006-05,Press-Line Footwork,Grit Whack,F2,Warrior,B
+MV-INT-FAL-006-06,Three-Hack Qi Press,Static Hack,F2,Warrior,B
+MV-INT-FAL-006-07,Relentless Wall Drive,Dusknubtip,F5,Warrior,B
+MV-INT-FAL-007-01,Spine Hook Catch,Weighty Hew,F2,Warrior,B
+MV-INT-FAL-007-02,Weight-Down Blade Press,Burdening Wedgetip,F1,Warrior,B
+MV-INT-FAL-007-03,Trapped Edge Slide,Ruthless Hash,F1,Warrior,B
+MV-INT-FAL-007-04,Binding Heel Anchor,Stubborn Bulkblade,F1,Warrior,B
+MV-INT-FAL-007-05,Hilt-Hand Twist,Gallnub,F5,Warrior,B
+MV-INT-FAL-007-06,Short Disengage Step,Fleet Weightbelly,F1,Warrior,B
+MV-INT-FAL-007-07,Qi-Locked Heavy Bind,Hashbarrier,F4,Warrior,B
+MV-INT-FAL-007-08,Pressing Spine Throw,Statichash,F5,Warrior,B
+MV-INT-FAL-008-01,Wide Sweep Chop,Dire Heavyback,F1,Warrior,B
+MV-INT-FAL-008-02,Clip-Point Flick,Fierce Nubtip,F1,Warrior,B
+MV-INT-FAL-008-03,Sweep-Pivot Recovery,Falchhilt Glide,F3,Warrior,B
+MV-INT-FAL-008-04,Reverse Sweep Return,Dense Cleaverbelly,F1,Warrior,B
+MV-INT-FAL-008-05,Qi-Reaching Sweep,Clay Chunk,F2,Warrior,B
+MV-INT-FAL-008-06,Arc-Clearing Clip,Weighty Thickspine,F2,Warrior,B
+MV-INT-FAL-009-01,Chop-Out Turn,Scudding Heavyback,F1,Warrior,B
+MV-INT-FAL-009-02,Pivot Back Chop,Chopblade Scorer,F3,Warrior,B
+MV-INT-FAL-009-03,Turning Cover Guard,Brassstump,F5,Warrior,B
+MV-INT-FAL-009-04,Doubled Chop Rhythm,Doughty Whack,F1,Warrior,B
+MV-INT-FAL-009-05,Open-Hand Balance Swing,Brawn Hew,F2,Warrior,B
+MV-INT-FAL-009-06,Turn-Aside Flat Parry,Rillnub,F5,Warrior,B
+MV-INT-FAL-009-07,Qi-Smoothed Turn Chop,Rough Whack,F1,Warrior,B
+MV-INT-FAL-009-08,Spiral Chop Escape,Nubswerve,F4,Warrior,B
+MV-INT-FAL-009-09,Turning Heavy Deflection,Humstump,F5,Warrior,B

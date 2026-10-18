@@ -1,0 +1,7 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ELI-LGT-002-07,Reflecting Wall,Polished Return,CHANNELED,Champion L1 Low,Advanced
+CMV-ELI-LGT-004-02,Ring Ward,Ring Shield,CHANNELED,Warrior L1 Low,Basic
+CMV-ELI-LGT-006-01,Plain Ray,Shown Ray,INSTANT,Warrior L1 Low,Basic
+CMV-ELI-LGT-008-06,Scorch Line,Scorch Trace,CHANNELED,Warrior L1 Low,Intermediate
+CMV-ELI-LGT-009-06,Bright Bastion,Bright Aegis,INSTANT,Warrior L1 Low,Intermediate
+CMV-ELI-LGT-010-07,Lantern Field,Lantern Link,CHANNELED,Champion L1 Low,Advanced

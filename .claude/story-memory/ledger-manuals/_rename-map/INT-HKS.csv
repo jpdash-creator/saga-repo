@@ -1,0 +1,64 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-HKS-001-01,Pull-Ready Hook Stance,Grapnelhasp,F4,Senior,A
+MV-INT-HKS-001-02,Drawing Cut Across the Forearm,Hookneck Scorer,F3,Senior,A
+MV-INT-HKS-001-03,Tug and Step Behind,Gripping Hookhilt,F1,Senior,A
+MV-INT-HKS-001-04,Short Tip Rebound Parry,Grapnelprop,F4,Senior,A
+MV-INT-HKS-001-05,Qi-Heavy Hooking Pull,Tethering Twistaway,F1,Senior,A
+MV-INT-HKS-001-06,Barb-Snap Counter,Harsh Hookguard,F1,Senior,A
+MV-INT-HKS-002-01,Ledger-Straight Guard Line,Hooktip Screen,F3,Senior,A
+MV-INT-HKS-002-02,Low Hook Skip Step,Snarl Curl,F3,Senior,A
+MV-INT-HKS-002-03,Pommel and Barb Double Rap,Snarlscorer,F4,Senior,A
+MV-INT-HKS-002-04,Brush-Away Edge Block,Dense Hookspine,F1,Senior,A
+MV-INT-HKS-002-05,Held-Breath Guard Press,Swordhook Carapace,F3,Senior,A
+MV-INT-HKS-002-06,Guard-Blade Slap Open,Snarlhasp,F4,Senior,A
+MV-INT-HKS-003-01,Open Wrist Presentation,Hookcurve Buckle,F3,Senior,A
+MV-INT-HKS-003-02,Wrist-Hook Slice,Cleatthwack,F4,Senior,A
+MV-INT-HKS-003-03,Rearward Sway Over the Barb,Scudding Hookcrook,F1,Senior,A
+MV-INT-HKS-003-04,Heel-Turn Flick Parry,Clevisbarrier,F4,Senior,A
+MV-INT-HKS-003-05,Palm-Weight Disarm Hook,Entangling Hookend,F1,Senior,A
+MV-INT-HKS-003-06,Qi-Edged Trap Counter,Rude Cresthook,F1,Senior,A
+MV-INT-HKS-003-07,Swift Rebound Cut After Parry,Fierce Pulldown,F1,Senior,A
+MV-INT-HKS-004-01,Snare Posture Low,Rigid Hookspine,F1,Warrior,B
+MV-INT-HKS-004-02,Blade-Slide Entry,Hooklock Glide,F3,Warrior,B
+MV-INT-HKS-004-03,Edge-Turn Wrist Cut,Honed Hookneck,F2,Warrior,B
+MV-INT-HKS-004-04,Short Barb Block,Grapnelbarrier,F4,Warrior,B
+MV-INT-HKS-004-05,Grip-Strangle Hook Lock,Spliceyank,F5,Warrior,B
+MV-INT-HKS-004-06,Rolling Crook Entry,Staticdisarm,F5,Warrior,B
+MV-INT-HKS-004-07,Circulated Snare of the Blade,Sprig Hookcrook,F2,Warrior,B
+MV-INT-HKS-004-08,Snare-and-Open Thrust,Comet Cresthook,F2,Warrior,B
+MV-INT-HKS-005-01,Rim-Ready Guard,Regimen Hookend,F2,Warrior,B
+MV-INT-HKS-005-02,Barb Behind the Rim,Yankscreen,F4,Warrior,B
+MV-INT-HKS-005-03,Low Thrust Under the Boss,Brass Twistaway,F2,Warrior,B
+MV-INT-HKS-005-04,Gaff Slip Out of the Press,Grit Hookguard,F2,Warrior,B
+MV-INT-HKS-005-05,Rim-Tearing Gaff Wrench,Hum Hooktip,F2,Warrior,B
+MV-INT-HKS-005-06,Shield-Edge Cut Down,Brasscleat,F5,Warrior,B
+MV-INT-HKS-006-01,Matched Hooks Opening Pose,Shelter Hookhilt,F2,Warrior,B
+MV-INT-HKS-006-02,Left Hook Holds Right Hook Cuts,Claysnarl,F5,Warrior,B
+MV-INT-HKS-006-03,Crossed-Guard Brace,Padded Swordhook,F1,Warrior,B
+MV-INT-HKS-006-04,Open-Field Wide Step,Pirouetting Pulldown,F1,Warrior,B
+MV-INT-HKS-006-05,Alternating Barb Pull,Stamp Hooklock,F2,Warrior,B
+MV-INT-HKS-006-06,Twin Hooks Scissor Catch,Sleet Yank,F2,Warrior,B
+MV-INT-HKS-006-07,Hook-Over-Hook Driving Press,Moment Hookcurve,F2,Warrior,B
+MV-INT-HKS-007-01,Linked Stroke Ready Pose,Shardclevis,F5,Warrior,B
+MV-INT-HKS-007-02,Rising Draw Into Descending Chop,Disarmscorer,F4,Warrior,B
+MV-INT-HKS-007-03,Chain Step Right Left,Snarlzip,F4,Warrior,B
+MV-INT-HKS-007-04,Hook-Turn Parry Into Riposte,Grapnelbuckle,F4,Warrior,B
+MV-INT-HKS-007-05,Open Hand Hilt Reinforce,Regimen Hookneck,F2,Warrior,B
+MV-INT-HKS-007-06,Three Beat Barb Run,Brass Yank,F2,Warrior,B
+MV-INT-HKS-007-07,Breath-Linked Bind and Slice,Sleet Pulldown,F2,Warrior,B
+MV-INT-HKS-007-08,Cascading Gaff Drive,Lurching Hookguard,F1,Warrior,B
+MV-INT-HKS-007-09,Turn-the-Hook Reversal,Resolute Hookhilt,F1,Warrior,B
+MV-INT-HKS-008-01,Leg-Hunting Stance,Sleet Hookend,F2,Warrior,B
+MV-INT-HKS-008-02,Ankle Gaff Tug,Sprig Yank,F2,Warrior,B
+MV-INT-HKS-008-03,Sweeping Calf Shear,Swordhook Scorer,F3,Warrior,B
+MV-INT-HKS-008-04,Backward Stumble Step,Rill Hooktip,F2,Warrior,B
+MV-INT-HKS-008-05,Hip-Lift Hook Throw,Yankbuckle,F4,Warrior,B
+MV-INT-HKS-008-06,Dragging Gaff Fall,Sleet Cresthook,F2,Warrior,B
+MV-INT-HKS-009-01,Tempering Breath Guard,Sleetcleat,F5,Warrior,B
+MV-INT-HKS-009-02,Guard-Blade Forward Cut,Rugged Hookcurve,F1,Warrior,B
+MV-INT-HKS-009-03,Roll-Off Parry on the Guard,Rill Cresthook,F2,Warrior,B
+MV-INT-HKS-009-04,Half-Pace Forward Slip,Brawn Disarm,F2,Warrior,B
+MV-INT-HKS-009-05,Guard-Tip Jab and Catch,Cramping Twistaway,F1,Warrior,B
+MV-INT-HKS-009-06,Quenched Crescent Bite,Brass Hookspine,F2,Warrior,B
+MV-INT-HKS-009-07,Guard-and-Tip Pinch Tear,Clevisscreen,F4,Warrior,B
+MV-INT-HKS-006-01,Shelter Hookhilt,Bracing Hookhilt,F2,Warrior,B

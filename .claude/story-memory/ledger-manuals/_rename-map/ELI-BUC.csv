@@ -1,0 +1,155 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-BUC-001-01,Twin-Court Ready Plate,Facet Lightrim,F2,Demigod,B
+MV-ELI-BUC-001-02,Court Answering Rap,Evergreen Edgeplate,F1,Demigod,B
+MV-ELI-BUC-001-03,Court Exchange Step,Dab Vortex,F3,Demigod,B
+MV-ELI-BUC-001-04,Paired Qi Handoff,Umbospine,F4,Demigod,B
+MV-ELI-BUC-001-05,Court Crossing Strike,Blaze Snapblock,F2,Demigod,B
+MV-ELI-BUC-001-06,Twin Rim Bind,Ponderous Armstrap,F2,Demigod,B
+MV-ELI-BUC-001-07,Twin Screen Advance,Invincible Punchboss,F1,Demigod,B
+MV-ELI-BUC-001-08,Answered Court Counter,Glamour Centergrip,F2,Demigod,B
+MV-ELI-BUC-001-09,Twin-Court Flash Crossing,Dazzling Rumble Nudge,F6a,Demigod,B
+MV-ELI-BUC-002-01,Hawk Hover Guard,Invincible Roundface,F1,Demigod,B
+MV-ELI-BUC-002-02,Stooping Rim Cut,Shattering Umbo,F1,Demigod,B
+MV-ELI-BUC-002-03,Hawk Eye Sidestep,Gust Smallface,F2,Demigod,B
+MV-ELI-BUC-002-04,Pinion Turn Parry,Bucklerredge Nerve,F3,Demigod,B
+MV-ELI-BUC-002-05,Azure Quick Rap,Tempered Punchblock,F2,Demigod,B
+MV-ELI-BUC-002-06,Rising Thermal Cover,Granite Lightrim,F2,Demigod,B
+MV-ELI-BUC-002-07,Talon Lock Rim,Thorn Bucklerredge,F2,Demigod,B
+MV-ELI-BUC-002-08,Diving Dome Punch,Tuckin Havoc,F3,Demigod,B
+MV-ELI-BUC-002-09,Hawk's Shadow Cover,Facetumbo,F5,Demigod,B
+MV-ELI-BUC-002-10,Twin Talon Counter,Mightpelta,F5,Demigod,B
+MV-ELI-BUC-002-11,Hawk Vanishing Stoop,Nova Roundface,F2,Demigod,B
+MV-ELI-BUC-003-01,Guard Track Hold,Evergreen Umbo,F1,Demigod,B
+MV-ELI-BUC-003-02,Strike Track Jab,Granite Knucklegrip,F2,Demigod,B
+MV-ELI-BUC-003-03,Track Switch Plate Pace,Might Parry,F2,Demigod,B
+MV-ELI-BUC-003-04,Seam Rap,Torrent Edgeplate,F2,Demigod,B
+MV-ELI-BUC-003-05,Parallel Qi Draw,Thorn Punchboss,F2,Demigod,B
+MV-ELI-BUC-003-06,Merging Strike,Blaze Nudge,F2,Demigod,B
+MV-ELI-BUC-003-07,Track Crossing Parry,Chime Knucklegrip,F2,Demigod,B
+MV-ELI-BUC-003-08,Confluence Rim Cut,Granite Punchblock,F2,Demigod,B
+MV-ELI-BUC-003-09,Joined Track Screen,Aegistarge,F5,Demigod,B
+MV-ELI-BUC-003-10,Seamless Track Sequence,Escalating Smallface,F1,Demigod,B
+MV-ELI-BUC-004-01,Basin Floor Stance,Impervious Armstrap,F1,Demigod,B
+MV-ELI-BUC-004-02,Steady Water Step,Ghosting Dab,F1,Demigod,B
+MV-ELI-BUC-004-03,Rim Drain Rap,Murk Edgeplate,F2,Demigod,B
+MV-ELI-BUC-004-04,Lowland Rim Sweep,Nudgeruin,F4,Demigod,B
+MV-ELI-BUC-004-05,Silt Settling Hold,Iron Punchboss,F2,Demigod,B
+MV-ELI-BUC-004-06,Deep Draw Qi Pool,Peltadurance,F4,Demigod,B
+MV-ELI-BUC-004-07,Brimming Rim Rap,Chimetarge,F5,Demigod,B
+MV-ELI-BUC-004-08,Undertow Pull,Targespine,F4,Demigod,B
+MV-ELI-BUC-004-09,Pour Strike,Tempered Centergrip,F2,Demigod,B
+MV-ELI-BUC-004-10,Still Water Screen,Unassailable Smallface,F1,Demigod,B
+MV-ELI-BUC-004-11,Basin Overflow Sweep,Punishing Parry,F1,Demigod,B
+MV-ELI-BUC-004-12,Drowning Weight Press,Hourdab,F5,Demigod,B
+MV-ELI-BUC-005-01,Hawk and River Ready Hold,Hoarfrost Roundface,F2,Void God,B
+MV-ELI-BUC-005-02,River Side Glide,Blinding Snapblock,F1,Void God,B
+MV-ELI-BUC-005-03,Stoop Rap,Lightrim Hardihood,F3,Void God,B
+MV-ELI-BUC-005-04,Long Flow Slash,Granite Centergrip,F2,Void God,B
+MV-ELI-BUC-005-05,Wing-Fold Cover,Obdurate Umbo,F1,Void God,B
+MV-ELI-BUC-005-06,Current Lift Parry,Unbudging Knucklegrip,F1,Void God,B
+MV-ELI-BUC-005-07,River Stoop Rap and Drop,Vengeful Dab,F1,Void God,B
+MV-ELI-BUC-005-08,Hawk Grip Bind,Ponderous Bucklerredge,F2,Void God,B
+MV-ELI-BUC-005-09,Eddy Sidelong Cover,Unconquered Bucklerredge,F1,Void God,B
+MV-ELI-BUC-005-10,Confluent Rim Wave,Parryhavoc,F4,Void God,B
+MV-ELI-BUC-005-11,Hawk Over Water Counter,Targedurance,F4,Void God,B
+MV-ELI-BUC-005-12,River in Spate Screen,Irontarge,F5,Void God,B
+MV-ELI-BUC-005-13,Hawk-and-River Passage,Phantom Nudge,F1,Void God,B
+MV-ELI-BUC-006-01,Azure Rim Guard,Targevalor,F4,Void God,B
+MV-ELI-BUC-006-02,Sky-Line Step,Peltaglare,F4,Void God,B
+MV-ELI-BUC-006-03,Clear Sky Rap,Flintlike Edgeplate,F1,Void God,B
+MV-ELI-BUC-006-04,Azure Qi Edge,Dabscourge,F4,Void God,B
+MV-ELI-BUC-006-05,Wide Sky Plate Cover,Iron Armstrap,F2,Void God,B
+MV-ELI-BUC-006-06,Falling Rim Stroke,Punishing Tuckin,F1,Void God,B
+MV-ELI-BUC-006-07,Thunderhead Smash,Iron Punchblock,F2,Void God,B
+MV-ELI-BUC-006-08,Azure Dome Screen,Centergrip Durance,F3,Void God,B
+MV-ELI-BUC-006-09,Sky-Cleaving Rim Step,Unseen Expanse Snapblock,F6a,Void God,B
+MV-ELI-BUC-007-01,River Court Open Hold,Umbonerve,F4,True God,B
+MV-ELI-BUC-007-02,Ford Crossing Plate Step,Dazzling Tuckin,F1,True God,B
+MV-ELI-BUC-007-03,Bank Turn Parry,Chime Smallface,F2,True God,B
+MV-ELI-BUC-007-04,Pebble Rap,Rumble Tuckin,F2,True God,B
+MV-ELI-BUC-007-05,Reed Bend Cover,Lightrim Fortitude,F3,True God,B
+MV-ELI-BUC-007-06,Stream Bound Qi,Flintlike Umbo,F1,True God,B
+MV-ELI-BUC-007-07,Whirlpool Rim Lock,Gyveparry,F5,True God,B
+MV-ELI-BUC-007-08,Current Strike,Vengeful Parry,F1,True God,B
+MV-ELI-BUC-007-09,Court of Flowing Counter,Facet Knucklegrip,F2,True God,B
+MV-ELI-BUC-007-10,Swollen River Blow,Tuckinruin,F4,True God,B
+MV-ELI-BUC-007-11,River Court Passage,Hour Punchboss,F2,True God,B
+MV-ELI-BUC-008-01,Oath-Given Stance,Punchboss Fortitude,F3,Demigod,B
+MV-ELI-BUC-008-02,Wind Against Cut,Chime Roundface,F2,Demigod,B
+MV-ELI-BUC-008-03,Wind-Sworn Pace,Headlong Nudge,F1,Demigod,B
+MV-ELI-BUC-008-04,Hard Oath Rap,Gust Punchblock,F2,Demigod,B
+MV-ELI-BUC-008-05,Held Oath Guard,Umbodurance,F4,Demigod,B
+MV-ELI-BUC-008-06,Gust Binding Rim,Thorn Dab,F2,Demigod,B
+MV-ELI-BUC-008-07,Oath Pressing Strike,Tempered Nudge,F2,Demigod,B
+MV-ELI-BUC-008-08,Sworn Wind Screen,Facetpelta,F5,Demigod,B
+MV-ELI-BUC-008-09,Oath Broken Counter,Unrelenting Edgeplate,F1,Demigod,B
+MV-ELI-BUC-008-10,Oath-Wind Passage,Hour Snapblock,F2,Demigod,B
+MV-ELI-BUC-009-01,Plateau Rim Plate Stance,Impenetrable Smallface,F1,Demigod,B
+MV-ELI-BUC-009-02,Rim Walk Step,Siltpelta,F5,Demigod,B
+MV-ELI-BUC-009-03,Crosswind Rim Rap,Torrent Bucklerredge,F2,Demigod,B
+MV-ELI-BUC-009-04,Ridge Chop,Nudgescourge,F4,Demigod,B
+MV-ELI-BUC-009-05,Edge-Wary Cover,Aegis Centergrip,F2,Demigod,B
+MV-ELI-BUC-009-06,Rimstone Qi Hold,Umbo Mettle,F3,Demigod,B
+MV-ELI-BUC-009-07,Dropping Edge Bind,Webbing Parry,F1,Demigod,B
+MV-ELI-BUC-009-08,Windward Rim Rake,Targewrath,F4,Demigod,B
+MV-ELI-BUC-009-09,Gust Return Parry,Gust Knucklegrip,F2,Demigod,B
+MV-ELI-BUC-009-10,Open Rim Screen,Aegis Roundface,F2,Demigod,B
+MV-ELI-BUC-009-11,Rockfall Dome Drive,Gust Tuckin,F2,Demigod,B
+MV-ELI-BUC-009-12,Ridge-Crossing Flash,Targeglare,F4,Demigod,B
+MV-ELI-BUC-010-01,Open Ground Hold,Unrelenting Lightrim,F1,Demigod,B
+MV-ELI-BUC-010-02,Plain Rim Turn,Murktarge,F5,Demigod,B
+MV-ELI-BUC-010-03,Wide Sky Step,Silt Snapblock,F2,Demigod,B
+MV-ELI-BUC-010-04,Long Sight Read,Peltarespite,F4,Demigod,B
+MV-ELI-BUC-010-05,Open Hand Rim Strike,Devastating Dab,F1,Demigod,B
+MV-ELI-BUC-010-06,Wind Cleared Guard,Unbowed Bucklerredge,F1,Demigod,B
+MV-ELI-BUC-010-07,Sky Wide Screen,Unbudging Centergrip,F1,Demigod,B
+MV-ELI-BUC-010-08,Plateau Run Strike,Rumble Armstrap,F2,Demigod,B
+MV-ELI-BUC-010-09,Horizon Flash,Torrential Hour Armstrap,F6a,Demigod,B
+MV-ELI-BUC-011-01,Bearing Held Hold,Facet Smallface,F2,Demigod,B
+MV-ELI-BUC-011-02,Turn to Bearing Step,Mightumbo,F5,Demigod,B
+MV-ELI-BUC-011-03,Gale Edge Rap,Equipoise Edgeplate,F2,Demigod,B
+MV-ELI-BUC-011-04,Bearing Line Dome Jab,Peltawrath,F4,Demigod,B
+MV-ELI-BUC-011-05,Tall Tree Brace,Targemettle,F4,Demigod,B
+MV-ELI-BUC-011-06,Fixed Bearing Guard,Inexorable Umbo,F1,Demigod,B
+MV-ELI-BUC-011-07,Bearing Qi Drive,Rumble Punchblock,F2,Demigod,B
+MV-ELI-BUC-011-08,Gale Rim Hook,Hoarfrost Snapblock,F2,Demigod,B
+MV-ELI-BUC-011-09,Crosswind Plate Correction,Equipoise Roundface,F2,Demigod,B
+MV-ELI-BUC-011-10,Bearing Gale Screen,Hoarfrost Knucklegrip,F2,Demigod,B
+MV-ELI-BUC-011-11,Held Line Counter,Obdurate Punchboss,F1,Demigod,B
+MV-ELI-BUC-011-12,Driving Gale Smash,Dab Havoc,F3,Demigod,B
+MV-ELI-BUC-011-13,Gale Bearing Dash,Nova Armstrap,F2,Demigod,B
+MV-ELI-BUC-012-01,Open Wind Stance,Aegis Edgeplate,F2,Void God,B
+MV-ELI-BUC-012-02,Slipstream Step,Siltumbo,F5,Void God,B
+MV-ELI-BUC-012-03,Passing Gust Parry,Chime Armstrap,F2,Void God,B
+MV-ELI-BUC-012-04,Draught Rim Flick,Iron Tuckin,F2,Void God,B
+MV-ELI-BUC-012-05,Light Plate Cover,Hoarfrost Bucklerredge,F2,Void God,B
+MV-ELI-BUC-012-06,Wind Round Rock Guard,Peltamettle,F4,Void God,B
+MV-ELI-BUC-012-07,Unseen Gust Strike,Unsparing Punchblock,F1,Void God,B
+MV-ELI-BUC-012-08,Wind Wrapping Rim,Hoarfrost Nudge,F2,Void God,B
+MV-ELI-BUC-012-09,Open Wind Screen,Flintlike Lightrim,F1,Void God,B
+MV-ELI-BUC-012-10,Sail Catch Reply,Glinttarge,F5,Void God,B
+MV-ELI-BUC-012-11,Windless Passing,Expanse Dab,F2,Void God,B
+MV-ELI-BUC-013-01,Kept Oath Hold,Centergrip Mettle,F3,Void God,B
+MV-ELI-BUC-013-02,Rim Oath Parry,Peltaspine,F4,Void God,B
+MV-ELI-BUC-013-03,Pledge Step,Mightdab,F5,Void God,B
+MV-ELI-BUC-013-04,Pressing Rim Rap,Snapblock Scourge,F3,Void God,B
+MV-ELI-BUC-013-05,Unyielding Rim Qi,Impervious Roundface,F1,Void God,B
+MV-ELI-BUC-013-06,Oath-Bound Bind,Thorn Knucklegrip,F2,Void God,B
+MV-ELI-BUC-013-07,Debt Returned Strike,Brutalizing Parry,F1,Void God,B
+MV-ELI-BUC-013-08,Oath-Kept Screen,Unrelenting Punchboss,F1,Void God,B
+MV-ELI-BUC-013-09,Pledge Reflecting Rim,Veritytarge,F5,Void God,B
+MV-ELI-BUC-013-10,Pledge-Keeping Flash,Glint Umbo,F2,Void God,B
+MV-ELI-BUC-014-01,Long Wind Stance,Aegis Smallface,F2,True God,B
+MV-ELI-BUC-014-02,Following Wind Step,Siltdab,F5,True God,B
+MV-ELI-BUC-014-03,Salt Gust Rap,Murk Armstrap,F2,True God,B
+MV-ELI-BUC-014-04,Backwind Rim Cut,Rumbleumbo,F5,True God,B
+MV-ELI-BUC-014-05,Gale Lean Cover,Thorn Lightrim,F2,True God,B
+MV-ELI-BUC-014-06,Sustained Wind Guard,Targenerve,F4,True God,B
+MV-ELI-BUC-014-07,Hauling Wind Hook,Ponderous Parry,F2,True God,B
+MV-ELI-BUC-014-08,Driving Wind Punch,Parry Wrath,F3,True God,B
+MV-ELI-BUC-014-09,Veering Wind Parry,Torrent Lightrim,F2,True God,B
+MV-ELI-BUC-014-10,Long Wind Screen,Facet Bucklerredge,F2,True God,B
+MV-ELI-BUC-014-11,Storm Front Sweep,Eviscerating Tuckin,F1,True God,B
+MV-ELI-BUC-014-12,Long Wind Passage,Meteoric Nova Edgeplate,F6a,True God,B
+MV-ELI-BUC-006-09,Unseen Expanse Snapblock,Unseen Snapblock,F6a,Void God,B
+MV-ELI-BUC-012-11,Expanse Dab,Flashing Dab,F2,Void God,B

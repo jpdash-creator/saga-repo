@@ -1,0 +1,4 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-SOC-006-02,Peak Intake,Crest Intake,INSTANT,,Basic
+CMV-SIG-SOC-006-09,Summit Reservoir,Filled Reserve,CHANNELED,,Advanced
+CMV-SIG-SOC-006-10,Summit Outflow,Heavy Outflow,INSTANT,,Advanced

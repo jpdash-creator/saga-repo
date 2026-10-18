@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-character-p27-consequence-propagation-mechanics",
+ "part": 27,
+ "area": 7,
+ "sequence_in_part": 7,
+ "title": "Consequence Propagation Mechanics",
+ "domain": "character",
+ "source_file": "Part_27_Character_Consequence_Law.md",
+ "start_line": 332,
+ "end_line": 422,
+ "line_count": 91,
+ "output_path": ".claude/skills/ssc-character-p27-consequence-propagation-mechanics/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-character-p17-foundational-principles-hero",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero consequence arcs governed by Part 27 CSS arcs"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-growth-progression-law",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero consequence arcs governed by Part 27 CSS arcs"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-cultivation-power-governance",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero consequence arcs governed by Part 27 CSS arcs"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-ideology-belief-arc",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero consequence arcs governed by Part 27 CSS arcs"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-psychology",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero consequence arcs governed by Part 27 CSS arcs"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-ledger",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero consequence arcs governed by Part 27 CSS arcs"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-struggle-challenge-architecture",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero consequence arcs governed by Part 27 CSS arcs"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-relationships-faction-architecture",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero consequence arcs governed by Part 27 CSS arcs"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-identity-self-perception",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero consequence arcs governed by Part 27 CSS arcs"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-combat-architecture",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero consequence arcs governed by Part 27 CSS arcs"
+  }
+ ]
+}

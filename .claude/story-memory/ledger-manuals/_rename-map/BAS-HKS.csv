@@ -1,0 +1,68 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-HKS-001-01,Hooked Grip Ready Stance,Cleathusk,F4,Unawakened,A
+MV-BAS-HKS-001-02,Straight Thrust From the Hip,Clevishit,F4,Unawakened,A
+MV-BAS-HKS-001-03,Beard Catch of the Wrist,Tripping Hookend,F1,Unawakened,A
+MV-BAS-HKS-001-04,Moon-Guard Block,Kept Cresthook,F1,Unawakened,A
+MV-BAS-HKS-001-05,Back-Heel Retreat With Level Tip,Clevispace,F4,Unawakened,A
+MV-BAS-HKS-002-01,Slow Crook Arc Practice,Yankhit,F4,Skin,A
+MV-BAS-HKS-002-02,Gaff Step Forward,Disarmamble,F4,Skin,A
+MV-BAS-HKS-002-03,Pommel Spike Jab,Plain Hooktip,F1,Skin,A
+MV-BAS-HKS-002-04,Outside Hook Parry,Grapnelcowl,F4,Skin,A
+MV-BAS-HKS-002-05,Two-Hand Hilt Reset,Raised Hookspine,F1,Skin,A
+MV-BAS-HKS-002-06,Shin Snatch Drag,Stopping Hookhilt,F1,Skin,A
+MV-BAS-HKS-003-01,Falling Barb Cut,Firm Hookneck,F1,Muscle,A
+MV-BAS-HKS-003-02,Rising Inner-Bend Slice,Blunt Disarm,F1,Muscle,A
+MV-BAS-HKS-003-03,Cross-Body Gaff Sweep,Hookguard Hit,F3,Muscle,A
+MV-BAS-HKS-003-04,Wrist Flick Tip Snap,Hard Swordhook,F1,Muscle,A
+MV-BAS-HKS-003-05,Held-Edge Slide Stop,Solid Hookcurve,F1,Muscle,A
+MV-BAS-HKS-003-06,Pivot Behind the Hook,Quiet Hookcrook,F1,Muscle,A
+MV-BAS-HKS-003-07,Short Draw of the Curve,Square Hooklock,F1,Muscle,A
+MV-BAS-HKS-004-01,Crescent Guard Cover High,Hooding Hooktip,F1,Tendon,A
+MV-BAS-HKS-004-02,Low Barb Check,Planted Hookend,F1,Tendon,A
+MV-BAS-HKS-004-03,Spine Press Pushaway,Catching Yank,F1,Tendon,A
+MV-BAS-HKS-004-04,Hip Sink Under the Cut,Stepping Hookcurve,F1,Tendon,A
+MV-BAS-HKS-004-05,Return Thrust After Guard,Gnawing Pulldown,F1,Tendon,A
+MV-BAS-HKS-005-01,Bone-Set Hook Pull,Tripping Hookhilt,F1,Bone,A
+MV-BAS-HKS-005-02,Crook-and-Guard Pincer,Turning Twistaway,F1,Bone,A
+MV-BAS-HKS-005-03,Heavy Gaff Chop,Narrow Cresthook,F1,Bone,A
+MV-BAS-HKS-005-04,Tip-Wrench of the Spear Shaft,Clevislid,F4,Bone,A
+MV-BAS-HKS-005-05,Square-Stance Hold,Folded Hookneck,F1,Bone,A
+MV-BAS-HKS-005-06,Heel Plant Lunge,Snarlhit,F4,Bone,A
+MV-BAS-HKS-005-07,Elbow Bend Trap,Fixing Pulldown,F1,Bone,A
+MV-BAS-HKS-005-08,Barb Release Spin,Twistaway Hop,F3,Bone,A
+MV-BAS-HKS-006-01,Breath-Carried Crook Arc,Open Hooklock,F1,Senior,A
+MV-BAS-HKS-006-02,Warm-Edge Moon Guard,Hooding Swordhook,F1,Senior,A
+MV-BAS-HKS-006-03,Qi-Tightened Hook Grip,Hitching Snarl,F1,Senior,A
+MV-BAS-HKS-006-04,Floating Heel Glide,Backward Yank,F1,Senior,A
+MV-BAS-HKS-006-05,Pommel Spike Rap,Grapnelbump,F4,Senior,A
+MV-BAS-HKS-006-06,Pull-and-Shear Beginner Cut,Upward Hookspine,F1,Senior,A
+MV-BAS-HKS-007-01,Qi-Backed Crescent Shield,Grapnelhusk,F4,Senior,A
+MV-BAS-HKS-007-02,Stream-Turn Parry,Cleviswedge,F4,Senior,A
+MV-BAS-HKS-007-03,Beard Snag of the Sleeve,Grapnelpause,F4,Senior,A
+MV-BAS-HKS-007-04,Calm-Breath Thrust,Disarmdrop,F4,Senior,A
+MV-BAS-HKS-007-05,Step Behind the Barb,Clevisskitter,F4,Senior,A
+MV-BAS-HKS-008-01,Paired Practice Hook Lock,Catching Pulldown,F1,Senior,A
+MV-BAS-HKS-008-02,Edge-on-Edge Slow Parry,Folded Hookhilt,F1,Senior,A
+MV-BAS-HKS-008-03,Tip-to-Wrist Tap,Hookcrook Dash,F3,Senior,A
+MV-BAS-HKS-008-04,Mirror Footwork Drill,Snarltrot,F4,Senior,A
+MV-BAS-HKS-008-05,Drag-and-Release Pass,Fouling Hookguard,F1,Senior,A
+MV-BAS-HKS-008-06,Knee-Height Gaff Pass,Quick Yank,F1,Senior,A
+MV-BAS-HKS-008-07,Guard-Arm Overlap,Cleatwedge,F4,Senior,A
+MV-BAS-HKS-009-01,Gaff Walk Forward,Snarlpace,F4,Senior,A
+MV-BAS-HKS-009-02,Side-Slip Crook Cut,Snarl Blow,F3,Senior,A
+MV-BAS-HKS-009-03,Hooked Blade Draw Back,Catching Hookguard,F1,Senior,A
+MV-BAS-HKS-009-04,Reverse Heel Hop,Quiet Hookneck,F1,Senior,A
+MV-BAS-HKS-009-05,Barb Under the Rim,Towing Twistaway,F1,Senior,A
+MV-BAS-HKS-009-06,Level Point Hold,Folded Swordhook,F1,Senior,A
+MV-BAS-HKS-010-01,Wing-Tip Snag Stroke,Locking Hookcurve,F1,Senior,A
+MV-BAS-HKS-010-02,Guard-Blade Hammer,Cleatblow,F4,Senior,A
+MV-BAS-HKS-010-03,Rolling Wrist Cover,Cleatpause,F4,Senior,A
+MV-BAS-HKS-010-04,Hook-Beat Opening,Hookcrook Pause,F3,Senior,A
+MV-BAS-HKS-010-05,Short Pull Step,Quiet Hooktip,F1,Senior,A
+MV-BAS-HKS-011-01,Beard Lift of the Wrist,Stopping Disarm,F1,Senior,A
+MV-BAS-HKS-011-02,Straight Edge Slash Across,Sudden Snarl,F1,Senior,A
+MV-BAS-HKS-011-03,Bend-of-Blade Catch,Resting Cresthook,F1,Senior,A
+MV-BAS-HKS-011-04,Edge Change Over the Top,Upward Swordhook,F1,Senior,A
+MV-BAS-HKS-011-05,Reaching Hook Step,Grapnelamble,F4,Senior,A
+MV-BAS-HKS-011-06,Pinned Blade Press,Fixing Cresthook,F1,Senior,A
+MV-BAS-HKS-002-03,Plain Hooktip,Sharp Hooktip,F1,Skin,A

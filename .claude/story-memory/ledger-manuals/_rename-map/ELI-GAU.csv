@@ -1,0 +1,128 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-GAU-001-01,Hawk Fall Entry Jab,Blaze Knucklecap,F2,Demigod L1 Low,B
+MV-ELI-GAU-001-02,Perching Cuff Guard,Granite Fingerplate,F2,Demigod L1 Low,B
+MV-ELI-GAU-001-03,Soaring Retreat Step,Siltclench,F5,Demigod L1 Low,B
+MV-ELI-GAU-001-04,Marking Palm Touch,Wringmettle,F4,Demigod L1 Low,B
+MV-ELI-GAU-001-05,Stoop Lining Elbow,Mittscourge,F4,Demigod L1 Low,B
+MV-ELI-GAU-001-06,Hawk Cover Catch,Glovevalor,F4,Demigod L1 Low,B
+MV-ELI-GAU-001-07,Hawk Fall Plate Breaker,Devastating Backhandplate,F1,Demigod L1 Low,B
+MV-ELI-GAU-001-08,Marked Target Seizure,Thorn Wristcuff,F2,Demigod L1 Low,B
+MV-ELI-GAU-001-09,Hawkfall Rupture Fist,Rumble Crushgrip,F2,Demigod L1 Low,B
+MV-ELI-GAU-002-01,Attack Court Opening Fist,Tempered Clench,F2,Demigod L4 Mid,B
+MV-ELI-GAU-002-02,Guard Court Cuff Cover,Cuffplate Tenacity,F3,Demigod L4 Mid,B
+MV-ELI-GAU-002-03,Court Switch Slide,Blinding Seizeup,F1,Demigod L4 Mid,B
+MV-ELI-GAU-002-04,Court Edge Plate Rap,Vambhavoc,F4,Demigod L4 Mid,B
+MV-ELI-GAU-002-05,Court Exchange Strike,Clamphavoc,F4,Demigod L4 Mid,B
+MV-ELI-GAU-002-06,Guard Court Pivot,Unconquered Gauntcuff,F1,Demigod L4 Mid,B
+MV-ELI-GAU-002-07,Attack Court Surge,Unsparing Grasp,F1,Demigod L4 Mid,B
+MV-ELI-GAU-002-08,Twin Court Gauntlet Reversal,Unrelenting Elbowcop,F1,Demigod L4 Mid,B
+MV-ELI-GAU-002-09,Judged Blow Press,Shade Palmguard,F2,Demigod L4 Mid,B
+MV-ELI-GAU-002-10,Twin Court Mirror Turn,Verity Vambrace,F2,Demigod L4 Mid,B
+MV-ELI-GAU-003-01,Basin Pressing Palm,Rumble Clamp,F2,Demigod L8 Low,B
+MV-ELI-GAU-003-02,Rim Raised Cuff,Aegismitt,F5,Demigod L8 Low,B
+MV-ELI-GAU-003-03,Settling Basin Step,Gustvamb,F5,Demigod L8 Low,B
+MV-ELI-GAU-003-04,Water Weight Fist,Gustgrasp,F5,Demigod L8 Low,B
+MV-ELI-GAU-003-05,Basin Edge Hook,Shattering Clench,F1,Demigod L8 Low,B
+MV-ELI-GAU-003-06,Pressure Building Clinch,Fastening Thumbplate,F2,Demigod L8 Low,B
+MV-ELI-GAU-003-07,Held Steel Squeeze,Shadewring,F5,Demigod L8 Low,B
+MV-ELI-GAU-003-08,Pressure Reading Palm,Mittinsight,F4,Demigod L8 Low,B
+MV-ELI-GAU-003-09,Brimming Basin Thrust,Might Wring,F2,Demigod L8 Low,B
+MV-ELI-GAU-003-10,Overflow Breaking Cuff,Thumbplate Scourge,F3,Demigod L8 Low,B
+MV-ELI-GAU-003-11,Basin Release Burst,Numbing Palmguard Fortitude,F6b,Demigod L8 Low,B
+MV-ELI-GAU-004-01,River Law Plate Jab,Vengeful Clamp,F1,Void God L2 Mid,B
+MV-ELI-GAU-004-02,Rock Parting Cuff,Murk Cuffplate,F2,Void God L2 Mid,B
+MV-ELI-GAU-004-03,Watercourse Slide,Silt Backhandplate,F2,Void God L2 Mid,B
+MV-ELI-GAU-004-04,Channel Finding Fist,Granite Wristcuff,F2,Void God L2 Mid,B
+MV-ELI-GAU-004-05,Dammed Blow Overrun,Blazewring,F5,Void God L2 Mid,B
+MV-ELI-GAU-004-06,Spillway Cuff Turn,Evergreen Vambrace,F1,Void God L2 Mid,B
+MV-ELI-GAU-004-07,Cataract Fist Pair,Wringwrath,F4,Void God L2 Mid,B
+MV-ELI-GAU-004-08,Meandering Seal Grip,Wringvalor,F4,Void God L2 Mid,B
+MV-ELI-GAU-004-09,Riverbed Flash Strike,Lightning Knucklecap,F1,Void God L2 Mid,B
+MV-ELI-GAU-005-01,Updraft Plate Rise,Gust Seizeup,F2,Void God L6 High,B
+MV-ELI-GAU-005-02,Current Holding Cuff,Unrelenting Fingerplate,F1,Void God L6 High,B
+MV-ELI-GAU-005-03,Wing Tuck Slide,Torrent Wring,F2,Void God L6 High,B
+MV-ELI-GAU-005-04,Pulled Stream Backhand,Blistering Gauntcuff,F1,Void God L6 High,B
+MV-ELI-GAU-005-05,Hawk Eye Fixing Step,Lightning Crushgrip,F1,Void God L6 High,B
+MV-ELI-GAU-005-06,Stoop and Pull Pair,Wringhavoc,F4,Void God L6 High,B
+MV-ELI-GAU-005-07,Current Carried Cuff Guard,Thornglove,F5,Void God L6 High,B
+MV-ELI-GAU-005-08,Falling Talon Sweep,Chime Backhandplate,F2,Void God L6 High,B
+MV-ELI-GAU-005-09,Eddy Hawk Spin,Invincible Elbowcop,F1,Void God L6 High,B
+MV-ELI-GAU-005-10,Hawk Over Current Strike,Clenchhavoc,F4,Void God L6 High,B
+MV-ELI-GAU-005-11,Undertow Locking Cuff,Thornclench,F5,Void God L6 High,B
+MV-ELI-GAU-005-12,Hawk and Current Truestrike,Gnashing Fingerplate,F1,Void God L6 High,B
+MV-ELI-GAU-006-01,Closing Court Jab,Granite Grasp,F2,True God L1 Low,B
+MV-ELI-GAU-006-02,Court Door Cuff Cover,Hoarfrost Cuffplate,F2,True God L1 Low,B
+MV-ELI-GAU-006-03,Narrowing Step,Torrential Crushgrip,F1,True God L1 Low,B
+MV-ELI-GAU-006-04,Final Court Hammer,Blazeclench,F5,True God L1 Low,B
+MV-ELI-GAU-006-05,Closing Pincer Press,Gyve Clamp,F2,True God L1 Low,B
+MV-ELI-GAU-006-06,Court Verdict Cross,Might Knucklecap,F2,True God L1 Low,B
+MV-ELI-GAU-006-07,Sealing Court Guard,Facet Thumbplate,F2,True God L1 Low,B
+MV-ELI-GAU-006-08,Closed Court Crush,Wristcuff Havoc,F3,True God L1 Low,B
+MV-ELI-GAU-006-09,Twin Court Arm Seal,Clampvalor,F4,True God L1 Low,B
+MV-ELI-GAU-006-10,Closed Pair Empowered Verdict,Might Gauntcuff,F2,True God L1 Low,B
+MV-ELI-GAU-007-01,Unwalled Plate Straight,Iron Vambrace,F2,Demigod L2 Low,B
+MV-ELI-GAU-007-02,Open Sky Cuff Cover,Aegis Palmguard,F2,Demigod L2 Low,B
+MV-ELI-GAU-007-03,Ridgeline Gauntlet Wind Step,Ghosting Wring,F1,Demigod L2 Low,B
+MV-ELI-GAU-007-04,Wind Behind Fist Surge,Glovescourge,F4,Demigod L2 Low,B
+MV-ELI-GAU-007-05,Free Arm Gale Sweep,Chime Clench,F2,Demigod L2 Low,B
+MV-ELI-GAU-007-06,Open Stance Cuff Turn,Murkglove,F5,Demigod L2 Low,B
+MV-ELI-GAU-007-07,Gale Breaking Plate Drive,Tempered Vambrace,F2,Demigod L2 Low,B
+MV-ELI-GAU-007-08,Unbarred Guard Bind,Thornmitt,F5,Demigod L2 Low,B
+MV-ELI-GAU-007-09,Wind-Sworn Seal Palm,Lotmitt,F5,Demigod L2 Low,B
+MV-ELI-GAU-008-01,Oathbound Plate Jab,Corroding Elbowcop,F1,Demigod L5 Mid,B
+MV-ELI-GAU-008-02,Plateau Stand Cuff Cover,Iron Wristcuff,F2,Demigod L5 Mid,B
+MV-ELI-GAU-008-03,Treading Wind Step,Headlong Grasp,F1,Demigod L5 Mid,B
+MV-ELI-GAU-008-04,Scarp Edge Backhand,Clamp Reckoning,F3,Demigod L5 Mid,B
+MV-ELI-GAU-008-05,Heather Lane Retreat,Torrential Grasp,F1,Demigod L5 Mid,B
+MV-ELI-GAU-008-06,Oath Bearing Plate Hammer,Might Crushgrip,F2,Demigod L5 Mid,B
+MV-ELI-GAU-008-07,Oath Held Forearm Guard,Thorn Elbowcop,F2,Demigod L5 Mid,B
+MV-ELI-GAU-008-08,Upland Wind Parry,Equipoise Cuffplate,F2,Demigod L5 Mid,B
+MV-ELI-GAU-008-09,Unyielding Heading Press,Suffocating Fingerplate,F1,Demigod L5 Mid,B
+MV-ELI-GAU-008-10,Plateau Breaking Oath Strike,Glint Seizeup,F2,Demigod L5 Mid,B
+MV-ELI-GAU-008-11,Windward Arm Pin,Ponderous Wring,F2,Demigod L5 Mid,B
+MV-ELI-GAU-008-12,Stalwart Cuff Return,Murkvamb,F5,Demigod L5 Mid,B
+MV-ELI-GAU-008-13,Plateau Oath Nullifying Cuff,Hollow Gauntcuff,F2,Demigod L5 Mid,B
+MV-ELI-GAU-009-01,Gale-Struck Plate Jab,Blaze Backhandplate,F2,Demigod L9 Peak,B
+MV-ELI-GAU-009-02,Crosswind Cuff Cover,Indomitable Thumbplate,F1,Demigod L9 Peak,B
+MV-ELI-GAU-009-03,Bearing Shift Slide,Silt Crushgrip,F2,Demigod L9 Peak,B
+MV-ELI-GAU-009-04,Weak Line Hammer,Wrathful Knucklecap,F1,Demigod L9 Peak,B
+MV-ELI-GAU-009-05,Stance Line Reading Fist,Ruinous Knucklecap,F1,Demigod L9 Peak,B
+MV-ELI-GAU-009-06,Bearing Corrected Cuff Turn,Adamantine Elbowcop,F1,Demigod L9 Peak,B
+MV-ELI-GAU-009-07,Weak Line Sensing Palm,Waning Vambrace,F2,Demigod L9 Peak,B
+MV-ELI-GAU-009-08,Along the Fault Strike,Hollow Palmguard,F2,Demigod L9 Peak,B
+MV-ELI-GAU-009-09,Gale Pressure Hammer,Corroding Backhandplate,F1,Demigod L9 Peak,B
+MV-ELI-GAU-009-10,Gale Struck Fault Break,Titanic Clench,F1,Demigod L9 Peak,B
+MV-ELI-GAU-010-01,Long Stride Plate Jab,Ferocious Seizeup,F1,Void God L3 Low,B
+MV-ELI-GAU-010-02,Steady Breath Cuff Cover,Iron Fingerplate,F2,Void God L3 Low,B
+MV-ELI-GAU-010-03,Pacing Wind Step,Mightgrasp,F5,Void God L3 Low,B
+MV-ELI-GAU-010-04,Unbroken Backhand Chain,Wristcuff Scourge,F3,Void God L3 Low,B
+MV-ELI-GAU-010-05,Wind Rest Guard,Torrent Gauntcuff,F2,Void God L3 Low,B
+MV-ELI-GAU-010-06,Sustained Breath Hammer,Graspwrath,F4,Void God L3 Low,B
+MV-ELI-GAU-010-07,Gale Lane Cuff Slip,Unconquered Thumbplate,F1,Void God L3 Low,B
+MV-ELI-GAU-010-08,Pursuing Gale Step,Gust Palmguard,F2,Void God L3 Low,B
+MV-ELI-GAU-010-09,Unbroken Wind Flurry,Might Clamp,F2,Void God L3 Low,B
+MV-ELI-GAU-010-10,Drawn Out Arm Wrap,Mastering Clench,F1,Void God L3 Low,B
+MV-ELI-GAU-010-11,Long Wind Flash Fist,Blinding Wristcuff Blink,F6b,Void God L3 Low,B
+MV-ELI-GAU-011-01,Lone Fist Oath Jab,Glovehavoc,F4,Void God L7 Mid,B
+MV-ELI-GAU-011-02,Bare Slope Cuff Cover,Unbudging Vambrace,F1,Void God L7 Mid,B
+MV-ELI-GAU-011-03,Stone Skirting Slide,Granite Clench,F2,Void God L7 Mid,B
+MV-ELI-GAU-011-04,Sworn Lone Hammer,Blaze Cuffplate,F2,Void God L7 Mid,B
+MV-ELI-GAU-011-05,Open Ground Cuff Turn,Palmguard Valor,F3,Void God L7 Mid,B
+MV-ELI-GAU-011-06,Drifting Wind Wrist Catch,Ponderous Seizeup,F2,Void God L7 Mid,B
+MV-ELI-GAU-011-07,Uncovered Guard Break,Glint Wring,F2,Void God L7 Mid,B
+MV-ELI-GAU-011-08,Open Hand Oath Hold,Granite Elbowcop,F2,Void God L7 Mid,B
+MV-ELI-GAU-011-09,Sworn Fist Empowered Blow,Vital Thumbplate,F2,Void God L7 Mid,B
+MV-ELI-GAU-012-01,Heavy Glove Bearing Swing,Wrathful Crushgrip,F1,True God L2 Mid,B
+MV-ELI-GAU-012-02,Weighted Cuff Settle,Indomitable Fingerplate,F1,True God L2 Mid,B
+MV-ELI-GAU-012-03,Gale Leaning Step,Meteoric Clamp,F1,True God L2 Mid,B
+MV-ELI-GAU-012-04,Leaden Backhand Swing,Rumblevamb,F5,True God L2 Mid,B
+MV-ELI-GAU-012-05,Heavy Hand Return Guard,Flintlike Cuffplate,F1,True God L2 Mid,B
+MV-ELI-GAU-012-06,Bearing Pressed Heavy Hammer,Vengeful Wring,F1,True God L2 Mid,B
+MV-ELI-GAU-012-07,Gale Cushioned Cuff Block,Charter Backhandplate,F2,True God L2 Mid,B
+MV-ELI-GAU-012-08,Leaning Wind Shove,Mitthavoc,F4,True God L2 Mid,B
+MV-ELI-GAU-012-09,Weight Shifting Pivot Guard,Equipoise Knucklecap,F2,True God L2 Mid,B
+MV-ELI-GAU-012-10,Gale Weighted Crush,Wringruin,F4,True God L2 Mid,B
+MV-ELI-GAU-012-11,Bearing Held Arm Press,Overbearing Grasp,F1,True God L2 Mid,B
+MV-ELI-GAU-012-12,Gale Bearing Truestrike,Grievous Seizeup Reckoning,F6b,True God L2 Mid,B
+MV-ELI-GAU-008-13,Hollow Gauntcuff,Dampening Gauntcuff,F2,Demigod L5 Mid,B
+MV-ELI-GAU-009-08,Hollow Palmguard,Lancing Palmguard,F2,Demigod L9 Peak,B

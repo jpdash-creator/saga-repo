@@ -1,0 +1,103 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-SAI-001-01,Tine Cup Catch,Manacling Tineleft,F1,Champion,B
+MV-ADV-SAI-001-02,Shaft Brace Knock,Wristcloak,F4,Champion,B
+MV-ADV-SAI-001-03,Trap Foot Anchor,Hastening Wrest,F1,Champion,B
+MV-ADV-SAI-001-04,Edge Bite Feel,Verity Handknob,F2,Champion,B
+MV-ADV-SAI-001-05,Tine Pair Snare,Subduing Pinion,F1,Champion,B
+MV-ADV-SAI-001-06,Twisting Spearhead Catch,Rumble Twist,F2,Champion,B
+MV-ADV-SAI-001-07,Held Blade Hammer,Blazeprong,F5,Champion,B
+MV-ADV-SAI-001-08,Binding Cage Fork,Crippling Crossprong,F1,Champion,B
+MV-ADV-SAI-001-09,Cage Release Lash,Pinionbarrage,F4,Champion,B
+MV-ADV-SAI-002-01,Shaft Slip Inside,Veeleap,F4,Champion,B
+MV-ADV-SAI-002-02,Pike Head Knock Aside,Gust Hiltpoint,F2,Champion,B
+MV-ADV-SAI-002-03,Tine Stop on the Haft,Gyve Snag,F2,Champion,B
+MV-ADV-SAI-002-04,Low Crouch Crossed Cover,Steadfast Tineright,F1,Champion,B
+MV-ADV-SAI-002-05,Spent Reach Breathing,Perceptive Sanguard,F1,Champion,B
+MV-ADV-SAI-002-06,Haft Climbing Run,Soaring Clasp,F1,Champion,B
+MV-ADV-SAI-002-07,Crossed Tine Axe Stop,Aegis Crossprong,F2,Champion,B
+MV-ADV-SAI-002-08,Pushed Haft Foot Sweep,Staggering Handknob,F1,Champion,B
+MV-ADV-SAI-002-09,Point-Blank Entry Drive,Hollow Prongbase,F2,Champion,B
+MV-ADV-SAI-002-10,Counter-Wheel Haft Tear,Dominating Wrest,F1,Champion,B
+MV-ADV-SAI-003-01,Prong Line Extension,Furrowing Centerprong,F1,Demigod,B
+MV-ADV-SAI-003-02,Field Flare Brace,Iron Tinecrook,F2,Demigod,B
+MV-ADV-SAI-003-03,Trailing Field Retreat,Pinionspurt,F4,Demigod,B
+MV-ADV-SAI-003-04,Field Brush Reading,Chimewrist,F5,Demigod,B
+MV-ADV-SAI-003-05,Tine Field Net,Thorn Tineleft,F2,Demigod,B
+MV-ADV-SAI-003-06,Fork Pulse Rebound,Unshaken Handknob,F1,Demigod,B
+MV-ADV-SAI-003-07,Beyond-the-Prongs Lance,Twistassault,F4,Demigod,B
+MV-ADV-SAI-003-08,Field-Locked Crossing,Suppressing Sidehook,F1,Demigod,B
+MV-ADV-SAI-004-01,Thread Starting Jab,Prongtorment,F4,Demigod,B
+MV-ADV-SAI-004-02,Threaded Crossbar Stop,Ironwrist,F5,Demigod,B
+MV-ADV-SAI-004-03,Prong Tip Tick,Snagthrash,F4,Demigod,B
+MV-ADV-SAI-004-04,Thread Step In,Glancing Pinion,F1,Demigod,B
+MV-ADV-SAI-004-05,Thread Knob Drop,Needling Tineright,F1,Demigod,B
+MV-ADV-SAI-004-06,Thread Tension Reading,Discerning Prongbase,F1,Demigod,B
+MV-ADV-SAI-004-07,Long Thread Bind,Hoarfrost Wrest,F2,Demigod,B
+MV-ADV-SAI-004-08,Cross Thread Parry,Resilient Crossprong,F1,Demigod,B
+MV-ADV-SAI-004-09,Thread Snap Rap,Scorching Handknob,F1,Demigod,B
+MV-ADV-SAI-004-10,Fine Thread Weave Guard,Sanguard Hauberk,F3,Demigod,B
+MV-ADV-SAI-004-11,Thread Pull Impale,Nova Tineleft,F2,Demigod,B
+MV-ADV-SAI-005-01,Twin-Track Opening Jab,Cleaving Tinecrook,F1,Ruler,B
+MV-ADV-SAI-005-02,Basin Ring Guard,Immovable Sanguard,F1,Ruler,B
+MV-ADV-SAI-005-03,River Slip Step,Torrent Hiltpoint,F2,Ruler,B
+MV-ADV-SAI-005-04,Mirror Hand Parry,Enduring Tineright,F1,Ruler,B
+MV-ADV-SAI-005-05,Paired Knob Tap,Wristthrash,F4,Ruler,B
+MV-ADV-SAI-005-06,Sai-Tip Measure,Mindful Crossprong,F1,Ruler,B
+MV-ADV-SAI-005-07,Twin Fork Embrace,Quelling Sidehook,F1,Ruler,B
+MV-ADV-SAI-005-08,Cross Current Counter,Equipoise Handknob,F2,Ruler,B
+MV-ADV-SAI-005-09,River Stone Roll Strike,Rupturing Tineleft,F1,Ruler,B
+MV-ADV-SAI-005-10,Dual-Track Slide In,Careening Twist,F1,Ruler,B
+MV-ADV-SAI-005-11,Azure Basin Sealing Cross,Gyvepinion,F5,Ruler,B
+MV-ADV-SAI-005-12,Twin Rivers Meeting Thrust,Harpooning Nova Crossprong,F6a,Ruler,B
+MV-ADV-SAI-006-01,Hawk Stoop Jab,Snagassault,F4,Demigod,B
+MV-ADV-SAI-006-02,Court Pair Shield,Hardened Sanguard,F1,Demigod,B
+MV-ADV-SAI-006-03,Talon Step Entry,Wristjaunt,F4,Demigod,B
+MV-ADV-SAI-006-04,Azure Sky Reading,Waning Tineright,F2,Demigod,B
+MV-ADV-SAI-006-05,Hawk Wing Spread Parry,Murk Prongbase,F2,Demigod,B
+MV-ADV-SAI-006-06,Talon Pin Bind,Paralyzing Hiltpoint,F1,Demigod,B
+MV-ADV-SAI-006-07,Paired Beak Strike,Clasptorment,F4,Demigod,B
+MV-ADV-SAI-006-08,Pair of Hawks Pursuit,Interlocking Tinecrook,F1,Demigod,B
+MV-ADV-SAI-006-09,Azure Zenith Drop Pin,Transfixing Sidehook,F1,Demigod,B
+MV-ADV-SAI-007-01,River Bend Turn,Surging Clasp,F1,Champion,B
+MV-ADV-SAI-007-02,Outer Track Guard,Annealed Tineleft,F1,Champion,B
+MV-ADV-SAI-007-03,Inner Track Jab,Might Centerprong,F2,Champion,B
+MV-ADV-SAI-007-04,Ford Stone Check,Staunch Crossprong,F1,Champion,B
+MV-ADV-SAI-007-05,Shallows Touch Reading,Sustaining Handknob,F1,Champion,B
+MV-ADV-SAI-007-06,Eddy Pull Disarm,Snagplating,F4,Champion,B
+MV-ADV-SAI-007-07,Current Turn Redirection,Unflinching Tinecrook,F1,Champion,B
+MV-ADV-SAI-007-08,Two-Track Meeting Rap,Twisttorment,F4,Champion,B
+MV-ADV-SAI-007-09,Flood Stage Barrage,Ponderous Twist,F2,Champion,B
+MV-ADV-SAI-007-10,Deep Channel Upright Cross,Treacherous Sanguard,F1,Champion,B
+MV-ADV-SAI-008-01,Plateau Edge Jab,Prongassault,F4,Void God,B
+MV-ADV-SAI-008-02,Wind-Taken Guard,Mantled Tineright,F1,Void God,B
+MV-ADV-SAI-008-03,Bearing Hold Step,Bounding Handknob,F1,Void God,B
+MV-ADV-SAI-008-04,Open Air Reading,Remnant Hiltpoint,F2,Void God,B
+MV-ADV-SAI-008-05,Gust Catch Fork,Stifling Centerprong,F1,Void God,B
+MV-ADV-SAI-008-06,Crosswind Parry Sweep,Adamant Hiltpoint,F1,Void God,B
+MV-ADV-SAI-008-07,Oath-Held Fork Clamp,Dominating Prongbase,F1,Void God,B
+MV-ADV-SAI-008-08,Plateau Rim Drive,Wresttorment,F4,Void God,B
+MV-ADV-SAI-009-01,Bearing Line Jab,Grinding Tineleft,F1,Ruler,B
+MV-ADV-SAI-009-02,Wind Break Crossbar,Implacable Tinecrook,F1,Ruler,B
+MV-ADV-SAI-009-03,Gale Push Step,Veepounce,F4,Ruler,B
+MV-ADV-SAI-009-04,Trailing Edge Hook,Chime Pinion,F2,Ruler,B
+MV-ADV-SAI-009-05,Gust Knob Strike,Claspbarrage,F4,Ruler,B
+MV-ADV-SAI-009-06,Steady Air Reading,Vigorous Hiltpoint,F1,Ruler,B
+MV-ADV-SAI-009-07,Held Bearing Bind,Silencing Handknob,F1,Ruler,B
+MV-ADV-SAI-009-08,Cold Front Cut Stop,Unyielding Prongbase,F1,Ruler,B
+MV-ADV-SAI-009-09,Veering Counter Pull,Hamstringing Sidehook,F1,Ruler,B
+MV-ADV-SAI-009-10,Catching Fork Squall,Thornclasp,F5,Ruler,B
+MV-ADV-SAI-009-11,Bearing Held Through Storm,Wrecking Handknob Barrage,F6b,Ruler,B
+MV-ADV-SAI-010-01,Oath Line Jab,Granite Tineleft,F2,Demigod,B
+MV-ADV-SAI-010-02,Crosswind Tine Guard,Staunch Sidehook,F1,Demigod,B
+MV-ADV-SAI-010-03,Rim Slide Step,Vaulting Hiltpoint,F1,Demigod,B
+MV-ADV-SAI-010-04,Lee Side Knob Rap,Twistbarrage,F4,Demigod,B
+MV-ADV-SAI-010-05,Squall Deflecting Roll,Resilient Prongbase,F1,Demigod,B
+MV-ADV-SAI-010-06,Held Breath Reading,Expanse Tinecrook,F2,Demigod,B
+MV-ADV-SAI-010-07,Prong Across the Wind,Tempered Centerprong,F2,Demigod,B
+MV-ADV-SAI-010-08,Sworn Fork Brace,Facetprong,F5,Demigod,B
+MV-ADV-SAI-010-09,Tine Gust Disarm,Compressing Tineright,F1,Demigod,B
+MV-ADV-SAI-010-10,Wind-Shear Rake,Skinning Wrest,F1,Demigod,B
+MV-ADV-SAI-010-11,Open Plateau Sweep,Slag Sidehook,F2,Demigod,B
+MV-ADV-SAI-010-12,Oath Fixed Prong Thrust,Wrestassault,F4,Demigod,B
+MV-ADV-SAI-002-09,Hollow Prongbase,Solid Prongbase,F2,Champion,B
+MV-ADV-SAI-010-06,Expanse Tinecrook,Dense Tinecrook,F2,Demigod,B

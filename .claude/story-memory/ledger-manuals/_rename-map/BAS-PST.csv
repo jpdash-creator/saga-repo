@@ -1,0 +1,73 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-PST-001-01,Locked Elbow Pistol Stand,Hammer Pace,F3,T1 Unawakened,A
+MV-BAS-PST-001-02,Thumb Web Grip Seating,Sudden Barrel,F1,T1 Unawakened,A
+MV-BAS-PST-001-03,Front Post Sight Line,Narrow Triggerbar,F1,T1 Unawakened,A
+MV-BAS-PST-001-04,Pistol Arm Rising Arc,Blunt Lanyardring,F1,T1 Unawakened,A
+MV-BAS-PST-001-05,Barrel Rap Parry,Hammerwedge,F4,T1 Unawakened,A
+MV-BAS-PST-001-06,Spent Piece Butt Strike,Firm Quickdraw,F1,T1 Unawakened,A
+MV-BAS-PST-002-01,Paper Charge Tear Pour,Pistolhit,F4,T1 Skin,A
+MV-BAS-PST-002-02,Ramrod Seat Stroke,Open Foresight,F1,T1 Skin,A
+MV-BAS-PST-002-03,Flash Pan Prime Tap,Firm Report,F1,T1 Skin,A
+MV-BAS-PST-002-04,Half Cock Carry Walk,Muzzlepace,F4,T1 Skin,A
+MV-BAS-PST-002-05,Touch Hole Wire Probe,Barrelcount,F4,T1 Skin,A
+MV-BAS-PST-002-06,Dry Pouch Shoulder Turn,Hammercowl,F4,T1 Skin,A
+MV-BAS-PST-002-07,Pan Flash Misfire Recovery,Quick Cylinder,F1,T1 Skin,A
+MV-BAS-PST-003-01,Belt Sash Draw,Frizzen Strike,F3,T1 Muscle,A
+MV-BAS-PST-003-02,Cross Body Pistol Draw,Muzzleblow,F4,T1 Muscle,A
+MV-BAS-PST-003-03,Hip Quick Shot,Gnawing Hipshot,F1,T1 Muscle,A
+MV-BAS-PST-003-04,Drawing Sidestep,Stepping Muzzle,F1,T1 Muscle,A
+MV-BAS-PST-003-05,Belt Holster Thumb Flick,Soft Cylinder,F1,T1 Muscle,A
+MV-BAS-PST-004-01,Outstretched Wrist Weight Hold,Square Flashpan,F1,T1 Tendon,A
+MV-BAS-PST-004-02,Forearm Tendon Lock,Square Lanyardring,F1,T1 Tendon,A
+MV-BAS-PST-004-03,Recoil Roll Reseat,Gnawing Pointblank,F1,T1 Tendon,A
+MV-BAS-PST-004-04,Water Cup Barrel Balance,Muzzlegauge,F4,T1 Tendon,A
+MV-BAS-PST-004-05,Empty Pan Hammer Fall,Firm Thumbback,F1,T1 Tendon,A
+MV-BAS-PST-004-06,Wrist Flick Muzzle Swing,Gnawing Triggerbar,F1,T1 Tendon,A
+MV-BAS-PST-004-07,Stiff Wrist Cudgel Catch,Muzzlehusk,F4,T1 Tendon,A
+MV-BAS-PST-004-08,Thumb Eased Full Cock,Blunt Muzzle,F1,T1 Tendon,A
+MV-BAS-PST-005-01,Muzzle Against Ribs,Gnawing Flashpan,F1,T1 Bone,A
+MV-BAS-PST-005-02,Barrel Throat Shove,Blunt Thumbback,F1,T1 Bone,A
+MV-BAS-PST-005-03,Free Hand Wrist Seize,Locking Pistolgrip,F1,T1 Bone,A
+MV-BAS-PST-005-04,Clinch Pivot Flank Shot,Pistolstrike,F4,T1 Bone,A
+MV-BAS-PST-005-05,Powder Smoke Cloud Step,Snapfire Hop,F3,T1 Bone,A
+MV-BAS-PST-005-06,Extended Barrel Face Cover,Barrelstay,F4,T1 Bone,A
+MV-BAS-PST-006-01,Qi Primed Pan Spark,Barrelbump,F4,Senior L1 Low,A
+MV-BAS-PST-006-02,Exhale Matched Hammer Fall,Descending Hammer,F1,Senior L1 Low,A
+MV-BAS-PST-006-03,Pan Cover Knife Catch,Hooding Frizzen,F1,Senior L1 Low,A
+MV-BAS-PST-006-04,Ground Spark Warning Shot,Reportdrop,F4,Senior L1 Low,A
+MV-BAS-PST-006-05,Lock Plate Click Reading,Watching Barrel,F1,Senior L1 Low,A
+MV-BAS-PST-006-06,Cocked Hammer Glide,Stepping Foresight,F1,Senior L1 Low,A
+MV-BAS-PST-006-07,Loose Powder Eye Flash,Pulling Pointblank,F1,Senior L1 Low,A
+MV-BAS-PST-007-01,Level Barrel Draw,Reportbump,F4,Senior L2 Low,A
+MV-BAS-PST-007-02,Plumb Line Shoulder Sight,Leaden Quickdraw,F1,Senior L2 Low,A
+MV-BAS-PST-007-03,Barrel Dip Correction,Flat Snapfire,F1,Senior L2 Low,A
+MV-BAS-PST-007-04,Cheek Rest Bone Read,Triggerbar Review,F3,Senior L2 Low,A
+MV-BAS-PST-007-05,Crossing Mark Lead,Upward Report,F1,Senior L2 Low,A
+MV-BAS-PST-008-01,Cartridge Pouch Thumb Pull,Leaden Snapfire,F1,Senior L1 Mid,A
+MV-BAS-PST-008-02,Skyward Muzzle Powder Pour,Narrow Lanyardring,F1,Senior L1 Mid,A
+MV-BAS-PST-008-03,Seat and Swab Stroke,Pistoldrop,F4,Senior L1 Mid,A
+MV-BAS-PST-008-04,Spare Pistol Sash Draw,Downward Frizzen,F1,Senior L1 Mid,A
+MV-BAS-PST-008-05,Pillar Lean Loading,Settled Pistolgrip,F1,Senior L1 Mid,A
+MV-BAS-PST-008-06,Powder Horn Cord Swing,Muzzlewedge,F4,Senior L1 Mid,A
+MV-BAS-PST-008-07,Palm Warmed Dry Powder,Gnawing Muzzle,F1,Senior L1 Mid,A
+MV-BAS-PST-008-08,Ramrod Shuffle Sidestep,Easing Hammer,F1,Senior L1 Mid,A
+MV-BAS-PST-009-01,Reverse Grip Knee Hook,Open Hipshot,F1,Senior L1 Low,A
+MV-BAS-PST-009-02,Butt Cap Temple Tap,Forward Pistolgrip,F1,Senior L1 Low,A
+MV-BAS-PST-009-03,Hot Barrel Forearm Block,Planted Cylinder,F1,Senior L1 Low,A
+MV-BAS-PST-009-04,Qi Weighted Butt Chop,Hammerstrike,F4,Senior L1 Low,A
+MV-BAS-PST-009-05,Backhand Draw Wrist Crack,Level Quickdraw,F1,Senior L1 Low,A
+MV-BAS-PST-009-06,Club to Firing Grip Roll,Descending Report,F1,Senior L1 Low,A
+MV-BAS-PST-010-01,Low Wall Elbow Rest,Hipshot Bump,F3,Senior L2 Low,A
+MV-BAS-PST-010-02,Corner Peek Snap Shot,Barrelhit,F4,Senior L2 Low,A
+MV-BAS-PST-010-03,Table Edge Screen,Foresight Pause,F3,Senior L2 Low,A
+MV-BAS-PST-010-04,Crouch Run Cover Hop,Pistoltrot,F4,Senior L2 Low,A
+MV-BAS-PST-010-05,Smoke Veiled Blind Fire,Straight Thumbback,F1,Senior L2 Low,A
+MV-BAS-PST-010-06,Doorframe Shoulder Pivot,Hammerdash,F4,Senior L2 Low,A
+MV-BAS-PST-010-07,Behind Stone Listening Pause,Tending Cylinder,F1,Senior L2 Low,A
+MV-BAS-PST-011-01,Double Belt Draw,Narrow Snapfire,F1,Senior L3 Mid,A
+MV-BAS-PST-011-02,Dropped Pistol Second Draw,Plain Flashpan,F1,Senior L3 Mid,A
+MV-BAS-PST-011-03,Crossed Arm Barrel Guard,Muzzle Pause,F3,Senior L3 Mid,A
+MV-BAS-PST-011-04,Backstep Double Report,Hard Triggerbar,F1,Senior L3 Mid,A
+MV-BAS-PST-011-05,Doorway Muzzle Sweep,Reportblow,F4,Senior L3 Mid,A
+MV-BAS-PST-011-06,Empty Pistol Face Toss,Reportcowl,F4,Senior L3 Mid,A
+MV-BAS-PST-011-02,Plain Flashpan,Swift Flashpan,F1,Senior L3 Mid,A

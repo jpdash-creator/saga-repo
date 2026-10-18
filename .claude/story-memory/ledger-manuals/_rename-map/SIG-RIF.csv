@@ -1,0 +1,67 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-RIF-001-01,Paired-Rifle Shoulder Seat,Pealzero,F5,Warrior,B
+MV-SIG-RIF-001-02,Twin-Lane Scouting Pace,Bedrock Bipod,F2,Warrior,B
+MV-SIG-RIF-001-03,Azure Cover Crouch,Bedrock Rifling,F2,Warrior,B
+MV-SIG-RIF-001-04,Mirrored Reload Rhythm,Chamber Triumph,F3,Warrior,B
+MV-SIG-RIF-001-05,Twin-Line Cut-Off Fire,Seasonscope,F5,Warrior,B
+MV-SIG-RIF-001-06,Paired Barrel Parry,Buttpad Troth,F3,Warrior,B
+MV-SIG-RIF-001-07,Hawk-Call Range Signal,Reminiscence Bolt,F2,Warrior,B
+MV-SIG-RIF-001-08,Paired Piercing Round,Imperial Buttpad,F1,Champion,B
+MV-SIG-RIF-001-09,Twin-Barrel Retreat Cover,Vigor Muzzlebrake,F2,Champion,B
+MV-SIG-RIF-001-10,Hawk-Pair Armour Splitter,Lordly Sight,F1,Demigod,B
+MV-SIG-RIF-001-11,Two Hawks One Line,Dauntless Steel Zero,F6a,Warrior,B
+MV-SIG-RIF-002-01,Court-Rifle Rest Settle,Rearsight Decree,F3,Warrior,B
+MV-SIG-RIF-002-02,Azure Light Shade Hold,Pealbolt,F5,Warrior,B
+MV-SIG-RIF-002-03,Blue-Lane Sidestep,Magazine Voyage,F3,Warrior,B
+MV-SIG-RIF-002-04,Court Beat Break,Venombreath,F5,Warrior,B
+MV-SIG-RIF-002-05,Twin-Rest Held Round,Unrivaled Breath,F1,Warrior,B
+MV-SIG-RIF-002-06,Azure Hide Withdrawal,Boltseal,F4,Warrior,B
+MV-SIG-RIF-002-07,Court Crosswise Guard,Marrowfire Buttpad,F2,Champion,B
+MV-SIG-RIF-002-08,Azure Court Piercing Pair,Pulsar Chamber,F2,Champion,B
+MV-SIG-RIF-002-09,Basin-Court Heavy Shot,Noble Rearsight,F1,Demigod,B
+MV-SIG-RIF-002-10,Azure Court Closing Fire,Unrivaled Rifling,F1,Warrior,B
+MV-SIG-RIF-003-01,Basin Slope Rest,Peal Buttpad,F2,Champion,B
+MV-SIG-RIF-003-02,River-Ford Range Walk,Bountiful Rifling,F1,Champion,B
+MV-SIG-RIF-003-03,Rim-Edge Step,Silken Scopemount,F1,Champion,B
+MV-SIG-RIF-003-04,Reed-Hide Crouch,Statute Buttpad,F2,Champion,B
+MV-SIG-RIF-003-05,Basin Hollow Echo Cast,Tyrannous Rearsight,F1,Champion,B
+MV-SIG-RIF-003-06,River-Pace Qi Rhythm,Pulsar Muzzlebrake,F2,Champion,B
+MV-SIG-RIF-003-07,Twin-Ridge Pin Fire,Millstone Zero,F2,Champion,B
+MV-SIG-RIF-003-08,Shoreline Sidestep Dash,Zero Heraldry,F3,Champion,B
+MV-SIG-RIF-003-09,Basin-and-River Crossing Fire,Millstone Scopemount,F2,Champion,B
+MV-SIG-RIF-003-10,Ridge-Roll Shot Chain,Tenetscope,F5,Champion,B
+MV-SIG-RIF-003-11,Basin-Mouth Armour Shot,Peerless Breath,F1,Demigod,B
+MV-SIG-RIF-003-12,River Through the Basin,Heroic Millstone Sight,F6a,Champion,B
+MV-SIG-RIF-004-01,Twin-Barrel Stance Check,Interstice Muzzlebrake,F2,Ruler,B
+MV-SIG-RIF-004-02,Paired Slope Climb,Feather Zero,F1,Ruler,B
+MV-SIG-RIF-004-03,Wide Elbow Rifle Brace,Scopebanner,F4,Ruler,B
+MV-SIG-RIF-004-04,Twin-Track Loading,Squall Scopemount,F2,Ruler,B
+MV-SIG-RIF-004-05,Barrel Rebound Parry,Delugescope,F5,Ruler,B
+MV-SIG-RIF-004-06,Hawk-Shadow Withdrawal,Breathvow,F4,Ruler,B
+MV-SIG-RIF-004-07,Twin-Muzzle Disruption Flash,Ruling Zero,F1,Ruler,B
+MV-SIG-RIF-004-08,Alternating Barrel Volley,Bipodedict,F4,Ruler,B
+MV-SIG-RIF-004-09,Hawk-Dive Armour Seeker,Longshot Triumph,F3,Ruler,B
+MV-SIG-RIF-004-10,Higher Paired Piercer,Splendid Buttpad,F1,Demigod,B
+MV-SIG-RIF-004-11,Two Muzzles One Voice,Pulsar Cheekrest,F2,Ruler,B
+MV-SIG-RIF-005-01,Dual-Track Seat Check,Interstice Chamber,F2,Demigod,B
+MV-SIG-RIF-005-02,Field-Hawk Perch Step,Ethereal Muzzlebrake,F1,Demigod,B
+MV-SIG-RIF-005-03,Azure-Breath Hold,Fearless Sight,F1,Demigod,B
+MV-SIG-RIF-005-04,Field-Barrel Linked Shot,Pulsarzero,F5,Demigod,B
+MV-SIG-RIF-005-05,Basin-Mist Cloak,Despotic Rifling,F1,Demigod,B
+MV-SIG-RIF-005-06,Twin-Track Deflect Turn,Pall Rearsight,F2,Demigod,B
+MV-SIG-RIF-005-07,Dual-Track Pinning Burst,Bipod Crown,F3,Demigod,B
+MV-SIG-RIF-005-08,Field-Hawk Stoop Shot,Prism Muzzlebrake,F2,Demigod,B
+MV-SIG-RIF-005-09,Dual-Track Armour Reaver,Dauntless Bolt,F1,Demigod,B
+MV-SIG-RIF-005-10,Hawk of the Azure Field,Storied Pulsar Bipod,F6a,Demigod,B
+MV-SIG-RIF-006-01,Core-Steadied Seat,Buttpad Banner,F3,Core Formation,B
+MV-SIG-RIF-006-02,Hawk Core Pulse Reading,Merciful Chamber,F1,Core Formation,B
+MV-SIG-RIF-006-03,Azure Step Pair,Ethereal Rifling,F1,Core Formation,B
+MV-SIG-RIF-006-04,Core Cover Crouch,Consecrated Muzzlebrake,F1,Core Formation,B
+MV-SIG-RIF-006-05,Core-Fed Dual Track,Pealscope,F5,Core Formation,B
+MV-SIG-RIF-006-06,Basin-Core Echo Veil,Ruling Bipod,F1,Core Formation,B
+MV-SIG-RIF-006-07,Core Pulse Muzzle Beat,Boltpledge,F4,Core Formation,B
+MV-SIG-RIF-006-08,Core Lift Retreat,Squallbipod,F5,Core Formation,B
+MV-SIG-RIF-006-09,Core-Driven Piercing Burst,Radiance Reticle,F2,Core Formation,B
+MV-SIG-RIF-006-10,Core Hawk Rolling Fire,Matchless Squeeze,F1,Core Formation,B
+MV-SIG-RIF-006-11,Core Hawk Reach Shot,Vacuumbolt,F5,Core Formation,B
+MV-SIG-RIF-006-12,Crown of the Hawk's Eye,Boltcrown,F4,Core Formation,B

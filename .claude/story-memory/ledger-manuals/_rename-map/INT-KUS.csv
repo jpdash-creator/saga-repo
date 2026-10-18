@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-KUS-001-01,Weight-Ring Ready Guard,Sickleprop,F4,Senior L6 Low,A
+MV-INT-KUS-001-02,Qi-Fed Overhead Whirl,Tangknob Flog,F3,Senior L6 Low,A
+MV-INT-KUS-001-03,Spin-Up Release,Sickleblade Flog,F3,Senior L6 Low,A
+MV-INT-KUS-001-04,Spiral Circling Step,Sicklehurdle,F4,Senior L6 Low,A
+MV-INT-KUS-001-05,Whirl Gathering Strike,Sicklepull Scorer,F3,Senior L6 Low,A
+MV-INT-KUS-001-06,Whirl-Through Break,Sicklehasp,F4,Senior L6 Low,A
+MV-INT-KUS-002-01,Loose Loop Posture,Regimen Rodhandle,F2,Warrior L1 Low,B
+MV-INT-KUS-002-02,Wrap Cast at the Forearm,Ember Tangle,F2,Warrior L1 Low,B
+MV-INT-KUS-002-03,Coil Around the Haft,Splice Lashcut,F2,Warrior L1 Low,B
+MV-INT-KUS-002-04,Slack-Out Cut,Emberkusari,F5,Warrior L1 Low,B
+MV-INT-KUS-002-05,Entangle Tug Counter,Haze Chainkey,F2,Warrior L1 Low,B
+MV-INT-KUS-002-06,Snag Release Flick,Discord Snare,F2,Warrior L1 Low,B
+MV-INT-KUS-002-07,Spear-Haft Entanglement,Tanglescreen,F4,Warrior L1 Low,B
+MV-INT-KUS-002-08,Binding Pull to the Ground,Weightball Prop,F3,Warrior L1 Low,B
+MV-INT-KUS-003-01,Kama-Forward Guard,Chainloop Barrier,F3,Senior L7 Mid,A
+MV-INT-KUS-003-02,Plain Reaping Pull,Stern Entwine,F1,Senior L7 Mid,A
+MV-INT-KUS-003-03,Counterweight Fling,Raw Weightswing,F1,Senior L7 Mid,A
+MV-INT-KUS-003-04,Chain-Held Block,Ballbind Screen,F3,Senior L7 Mid,A
+MV-INT-KUS-003-05,Kama Range Shuffle,Scudding Chainlength,F1,Senior L7 Mid,A
+MV-INT-KUS-003-06,Weight Opens and Blade Closes,Vicious Chainloop,F1,Senior L7 Mid,A
+MV-INT-KUS-003-07,Short-to-Long Reach Switch,Clutching Pommelring,F1,Senior L7 Mid,A
+MV-INT-KUS-004-01,Blade-Side Guard,Buttressed Chainlength,F1,Warrior L2 Low,B
+MV-INT-KUS-004-02,Forearm Hook Tap,Brasssnare,F5,Warrior L2 Low,B
+MV-INT-KUS-004-03,Weight to the Elbow,Kusariswat,F4,Warrior L2 Low,B
+MV-INT-KUS-004-04,Cuff Catch,Stamp Ballbind,F2,Warrior L2 Low,B
+MV-INT-KUS-004-05,Shoulder Roll Evasion,Rill Snare,F2,Warrior L2 Low,B
+MV-INT-KUS-004-06,Pinch-Point Parry,Humkama,F5,Warrior L2 Low,B
+MV-INT-KUS-004-07,Blade-Arm Wrap and Lock,Weighty Entwine,F2,Warrior L2 Low,B
+MV-INT-KUS-004-08,Twist-Down Wrist Pull,Static Pommelring,F2,Warrior L2 Low,B
+MV-INT-KUS-004-09,Hook-and-Weight Pincer,Rugged Sicklehook,F1,Warrior L2 Low,B
+MV-INT-KUS-005-01,Ready Ring Posture,Tangknob Buckle,F3,Senior L8 Low,A
+MV-INT-KUS-005-02,Wheel Strike from the Ring,Kusariscorer,F4,Senior L8 Low,A
+MV-INT-KUS-005-03,Ring Break Throw,Sicklescorer,F4,Senior L8 Low,A
+MV-INT-KUS-005-04,Backward Rolling Step,Tangleglide,F4,Senior L8 Low,A
+MV-INT-KUS-005-05,Whirling Wheel Guard,Stalwart Rodhandle,F1,Senior L8 Low,A
+MV-INT-KUS-005-06,Wheel-to-Arrow Release,Kamabuckle,F4,Senior L8 Low,A
+MV-INT-KUS-006-01,Long Hold Stance,Shielding Weightball,F1,Warrior L4 Mid,B
+MV-INT-KUS-006-02,Mid-Reach Rake,Stern Sicklehook,F1,Warrior L4 Mid,B
+MV-INT-KUS-006-03,Extended Weight Poke,Sleetkusari,F5,Warrior L4 Mid,B
+MV-INT-KUS-006-04,Shorten-Grip Shift,Rilltangle,F5,Warrior L4 Mid,B
+MV-INT-KUS-006-05,Reach Parry Slap,Draught Tangknob,F2,Warrior L4 Mid,B
+MV-INT-KUS-006-06,Gap-Closing Hop,Clay Lashcut,F2,Warrior L4 Mid,B
+MV-INT-KUS-006-07,Edge-of-Reach Cut,Hungry Sicklepull,F1,Warrior L4 Mid,B
+MV-INT-KUS-006-08,Range Switch Feint,Hazesnare,F5,Warrior L4 Mid,B
+MV-INT-KUS-006-09,Reach-Locking Weight Pin,Weighty Weightswing,F2,Warrior L4 Mid,B
+MV-INT-KUS-006-10,Pull-In Hook Rush,Bold Tangle,F1,Warrior L4 Mid,B
+MV-INT-KUS-007-01,Hook-Ready Crouch,Stalwart Chainkey,F1,Senior L9 Peak,A
+MV-INT-KUS-007-02,Calf Pull Cut,Kusariflog,F4,Senior L9 Peak,A
+MV-INT-KUS-007-03,Weight Tap to the Brow,Hungry Tangle,F1,Senior L9 Peak,A
+MV-INT-KUS-007-04,Belt Hook Grab,Kamaprop,F4,Senior L9 Peak,A
+MV-INT-KUS-007-05,Spinning Back Pull,Fleet Chainkey,F1,Senior L9 Peak,A
+MV-INT-KUS-007-06,Hook Pull and Sweep,Gripping Weightswing,F1,Senior L9 Peak,A
+MV-INT-KUS-007-07,Dragging Hook Retreat,Cramping Sicklehook,F1,Senior L9 Peak,A
+MV-INT-KUS-008-01,Two-Hand Neutral Stance,Pommelring Prop,F3,Warrior L6 Low,B
+MV-INT-KUS-008-02,Close Hook Strike,Crimson Snare,F2,Warrior L6 Low,B
+MV-INT-KUS-008-03,Far Weight Cast,Hum Chainlength,F2,Warrior L6 Low,B
+MV-INT-KUS-008-04,Mid-Range Gauge,Kamacordial,F4,Warrior L6 Low,B
+MV-INT-KUS-008-05,Weight Blocks the Blade,Draught Weightball,F2,Warrior L6 Low,B
+MV-INT-KUS-008-06,Switch-Foot Glide,Springing Rodhandle,F1,Warrior L6 Low,B
+MV-INT-KUS-008-07,Range Transition Chain,Bold Lashcut,F1,Warrior L6 Low,B
+MV-INT-KUS-008-08,Closing Entanglement Pull,Ballbind Prop,F3,Warrior L6 Low,B

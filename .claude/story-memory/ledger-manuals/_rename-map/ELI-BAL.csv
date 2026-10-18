@@ -1,0 +1,129 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-BAL-001-01,Twin Stock Pairing,Unerring Stockbed,F1,Demigod L1 Low,B
+MV-ELI-BAL-001-02,Answering Voices Winding,Buoying Bowarms,F1,Demigod L1 Low,B
+MV-ELI-BAL-001-03,Alternating Weight Rack Order,Equipoise Windlassdrum,F2,Demigod L1 Low,B
+MV-ELI-BAL-001-04,Mirror Aimed Pair,Stakewrath,F4,Demigod L1 Low,B
+MV-ELI-BAL-001-05,Answered Release,Streakhavoc,F4,Demigod L1 Low,B
+MV-ELI-BAL-001-06,Aimer Swap Between Stocks,Ghosting Stakedrive,F1,Demigod L1 Low,B
+MV-ELI-BAL-001-07,Courtly Double Pierce,Clawhavoc,F4,Demigod L1 Low,B
+MV-ELI-BAL-001-08,Chain Linked Twin Throw,Sliderwrath,F4,Demigod L1 Low,B
+MV-ELI-BAL-001-09,Two Bolts Falling as One,Unsparing Springarm,F1,Demigod L1 Low,B
+MV-ELI-BAL-002-01,Hawk Perch Posture,Facet Bolthead,F2,Demigod L2 Mid,B
+MV-ELI-BAL-002-02,Pale Sky Light Reading,Beneficent Aimframe,F1,Demigod L2 Mid,B
+MV-ELI-BAL-002-03,Three Breath Stoop Count,Resurgent Windlassdrum,F1,Demigod L2 Mid,B
+MV-ELI-BAL-002-04,Hawk Feather Fletch Trim,Vital Trackbed,F2,Demigod L2 Mid,B
+MV-ELI-BAL-002-05,Climbing Hawk Elevation,Hoarfrost Boltflight,F2,Demigod L2 Mid,B
+MV-ELI-BAL-002-06,Talon Saddle Pinning Bolt,Hoarfrost Skewerbolt,F2,Demigod L2 Mid,B
+MV-ELI-BAL-002-07,Out of the Glare Loose,Impalement Devastation,F3,Demigod L2 Mid,B
+MV-ELI-BAL-002-08,Azure Dive on the Marked Chief,Glintstake,F5,Demigod L2 Mid,B
+MV-ELI-BAL-002-09,Whistling Vane Shriek,Mayhem Bolthead,F2,Demigod L2 Mid,B
+MV-ELI-BAL-002-10,Hawk Descending Out of Azure,Rumble Boltflight,F2,Demigod L2 Mid,B
+MV-ELI-BAL-003-01,Riverside Bed Ramming,Vital Sinewcord,F2,Demigod L3 Low,B
+MV-ELI-BAL-003-02,Basin Floor Pacing,Expanse Aimframe,F2,Demigod L3 Low,B
+MV-ELI-BAL-003-03,Stream Sound Listening,Verity Stockbed,F2,Demigod L3 Low,B
+MV-ELI-BAL-003-04,Mooring Post Chain Lashing,Hoarfrost Bowarms,F2,Demigod L3 Low,B
+MV-ELI-BAL-003-05,Wet Season Oil Rotation,Radiant Springarm,F1,Demigod L3 Low,B
+MV-ELI-BAL-003-06,Wharf Clearing Bolts,Hourslider,F5,Demigod L3 Low,B
+MV-ELI-BAL-003-07,Rowboat Thwart Shattering,Ironclaw,F5,Demigod L3 Low,B
+MV-ELI-BAL-003-08,Cable Cutting Chain Bolt,Facet Skewerbolt,F2,Demigod L3 Low,B
+MV-ELI-BAL-003-09,Bridgehead Holding Fire,Hurtlewrath,F4,Demigod L3 Low,B
+MV-ELI-BAL-003-10,Pier Toppling Gathered Bolt,Wrathful Stakedrive,F1,Demigod L3 Low,B
+MV-ELI-BAL-003-11,Drowning Ford Barrage,Corroding Trackbed Reckoning,F6b,Demigod L3 Low,B
+MV-ELI-BAL-004-01,Dual Rail Wax Rubbing,Vigilant Springarm,F1,Demigod L4 High,B
+MV-ELI-BAL-004-02,Slider Return Count,Remnant Stockbed,F2,Demigod L4 High,B
+MV-ELI-BAL-004-03,Fingertip Head Balancing,Vital Bowarms,F2,Demigod L4 High,B
+MV-ELI-BAL-004-04,Two Track Slide Release,Punishing Impalement,F1,Demigod L4 High,B
+MV-ELI-BAL-004-05,Long to Short Track Shift,Streakglare,F4,Demigod L4 High,B
+MV-ELI-BAL-004-06,Light Heavy Alternation,Vital Bolthead,F2,Demigod L4 High,B
+MV-ELI-BAL-004-07,Harness Join Parting Bolt,Hurtleruin,F4,Demigod L4 High,B
+MV-ELI-BAL-004-08,Blunt Head Gate Hammer,Rumble Sinewcord,F2,Demigod L4 High,B
+MV-ELI-BAL-004-09,Both Tracks Final Release,Glint Trackbed,F2,Demigod L4 High,B
+MV-ELI-BAL-005-01,Chalk Mark Station Posting,Expanse Windlassdrum,F2,Demigod L6 Low,B
+MV-ELI-BAL-005-02,Pair Signal Flags,Chime Aimframe,F2,Demigod L6 Low,B
+MV-ELI-BAL-005-03,Whistle Call Relay,Springarm Vitality,F3,Demigod L6 Low,B
+MV-ELI-BAL-005-04,Matched Spare Skeins,Energizing Windlassdrum,F1,Demigod L6 Low,B
+MV-ELI-BAL-005-05,Rotating Pair Rest,Clairvoyant Bolthead,F1,Demigod L6 Low,B
+MV-ELI-BAL-005-06,Staggered Pair Volley,Grievous Skewerbolt,F1,Demigod L6 Low,B
+MV-ELI-BAL-005-07,End to End Crossing Dive,Glint Impalement,F2,Demigod L6 Low,B
+MV-ELI-BAL-005-08,Passing Screen Rotation,Evergreen Stockbed,F1,Demigod L6 Low,B
+MV-ELI-BAL-005-09,Reserve Pair Run Up,Clawblink,F4,Demigod L6 Low,B
+MV-ELI-BAL-005-10,Hawks in a Line Falling,Shadestake,F5,Demigod L6 Low,B
+MV-ELI-BAL-005-11,Battery Held at Full Wind,Streakscourge,F4,Demigod L6 Low,B
+MV-ELI-BAL-005-12,Pairs of Hawks Crossing,Glintslider,F5,Demigod L6 Low,B
+MV-ELI-BAL-006-01,Twin Skein Even Winding,Daybreak Sinewcord,F2,Monarch L2 Low,B
+MV-ELI-BAL-006-02,Dantian Carriage Seating,Intent Trackbed,F2,Monarch L2 Low,B
+MV-ELI-BAL-006-03,Palm Heat Fibre Reading,Elevating Bowarms,F1,Monarch L2 Low,B
+MV-ELI-BAL-006-04,Failing Skein Dark Swap,Galvanizing Aimframe,F1,Monarch L2 Low,B
+MV-ELI-BAL-006-05,Twin Skein Charged Throw,Glinthurtle,F5,Monarch L2 Low,B
+MV-ELI-BAL-006-06,Trembling Arm Verge Hold,Unrelenting Bowarms,F1,Monarch L2 Low,B
+MV-ELI-BAL-006-07,Pitched Skein Twang,Toxinstreak,F5,Monarch L2 Low,B
+MV-ELI-BAL-006-08,Half Turn Skein Overdraw,Nova Boltflight,F2,Monarch L2 Low,B
+MV-ELI-BAL-006-09,Dantian Fed Skein Surge,Glint Stakedrive,F2,Monarch L2 Low,B
+MV-ELI-BAL-006-10,Monarch's Twin Skein Release,Clawscourge,F4,Demigod L1 Low,B
+MV-ELI-BAL-007-01,Heaving Deck Knee Bend,Charter Aimframe,F2,Demigod L1 Mid,B
+MV-ELI-BAL-007-02,Spray Blown Sight Wipe,Verity Bolthead,F2,Demigod L1 Mid,B
+MV-ELI-BAL-007-03,Rail Chalk Bearing Mark,Expanse Stockbed,F2,Demigod L1 Mid,B
+MV-ELI-BAL-007-04,Hull Crest Hold Release,Stakedrive Ruin,F3,Demigod L1 Mid,B
+MV-ELI-BAL-007-05,Boarding Net Pinning Bolt,Thorn Impalement,F2,Demigod L1 Mid,B
+MV-ELI-BAL-007-06,Wake Leading Shot,Eviscerating Skewerbolt,F1,Demigod L1 Mid,B
+MV-ELI-BAL-007-07,Waterline Hole Heavy Bolt,Boltflight Scourge,F3,Demigod L1 Mid,B
+MV-ELI-BAL-007-08,Rudder Cutting Chain Bolt,Sliderhavoc,F4,Demigod L1 Mid,B
+MV-ELI-BAL-007-09,Oath of the Wind Born Bolt,Nova Windlassdrum,F2,Demigod L1 Mid,B
+MV-ELI-BAL-008-01,Plateau Grass Wind Sign,Illuminating Springarm,F1,Demigod L2 Low,B
+MV-ELI-BAL-008-02,Oath Cairn Alignment,Expanse Sinewcord,F2,Demigod L2 Low,B
+MV-ELI-BAL-008-03,Bare Rock Wheel Chocking,Granite Trackbed,F2,Demigod L2 Low,B
+MV-ELI-BAL-008-04,Stone Weighted Tail,Thorn Bolthead,F2,Demigod L2 Low,B
+MV-ELI-BAL-008-05,Lull Waiting Stillness,Healing Stockbed,F1,Demigod L2 Low,B
+MV-ELI-BAL-008-06,Open Ground Low Flat Throw,Stakeruin,F4,Demigod L2 Low,B
+MV-ELI-BAL-008-07,Gale Leaning Bearing Correction,Impalement Ruin,F3,Demigod L2 Low,B
+MV-ELI-BAL-008-08,Horse Line Scattering Shot,Brutalizing Stakedrive,F1,Demigod L2 Low,B
+MV-ELI-BAL-008-09,Oath Sworn Held Aim,Devastating Boltflight,F1,Demigod L2 Low,B
+MV-ELI-BAL-008-10,Plateau Wind Riding Bolt,Chime Skewerbolt,F2,Demigod L2 Low,B
+MV-ELI-BAL-008-11,Gale Oath Piercing Bearing,Iron Trackbed,F2,Demigod L2 Low,B
+MV-ELI-BAL-009-01,Skid Plate Timber Laying,Equipoise Bowarms,F2,Demigod L5 Mid,B
+MV-ELI-BAL-009-02,Bearing Pole Planting,Chime Sinewcord,F2,Demigod L5 Mid,B
+MV-ELI-BAL-009-03,Dust Devil Watching,Chime Windlassdrum,F2,Demigod L5 Mid,B
+MV-ELI-BAL-009-04,Wide Crew Scatter Spacing,Revitalizing Aimframe,F1,Demigod L5 Mid,B
+MV-ELI-BAL-009-05,Turf Skimming Bolt,Stakescourge,F4,Demigod L5 Mid,B
+MV-ELI-BAL-009-06,Walking Aim Across the Front,Streakruin,F4,Demigod L5 Mid,B
+MV-ELI-BAL-009-07,Half Turn Wheel About,Might Impalement,F2,Demigod L5 Mid,B
+MV-ELI-BAL-009-08,Bearing Held Under Charge,Gust Boltflight,F2,Demigod L5 Mid,B
+MV-ELI-BAL-009-09,Open Plain Reaping Volley,Sliderscourge,F4,Demigod L5 Mid,B
+MV-ELI-BAL-009-10,Bearing Without Walls,Pitiless Hollow Sinewcord,F6a,Demigod L5 Mid,B
+MV-ELI-BAL-010-01,Cheek on Stock Low Breathing,Springarm Respite,F3,Demigod L3 Low,B
+MV-ELI-BAL-010-02,Leeward Hand Shelter,Thorn Claw,F2,Demigod L3 Low,B
+MV-ELI-BAL-010-03,Streamer Row Reading,Remnant Windlassdrum,F2,Demigod L3 Low,B
+MV-ELI-BAL-010-04,Fine Pin Windage Nudge,Might Stockbed,F2,Demigod L3 Low,B
+MV-ELI-BAL-010-05,Flight Breath Counting,Chime Bowarms,F2,Demigod L3 Low,B
+MV-ELI-BAL-010-06,Rising Wind Lift Shot,Hurtlehavoc,F4,Demigod L3 Low,B
+MV-ELI-BAL-010-07,Falling Wind Patience Shot,Blaze Stakedrive,F2,Demigod L3 Low,B
+MV-ELI-BAL-010-08,Crosswind Arc Throw,Clawwrath,F4,Demigod L3 Low,B
+MV-ELI-BAL-010-09,Tailwind Heavy Strike,Sliderruin,F4,Demigod L3 Low,B
+MV-ELI-BAL-010-10,Long Wind Hurl,Hurtlescourge,F4,Demigod L3 Low,B
+MV-ELI-BAL-010-11,Streamer Guided Volley,Stakehavoc,F4,Demigod L3 Low,B
+MV-ELI-BAL-010-12,Gale Cut Heavy Bolt,Gnashing Skewerbolt,F1,Demigod L3 Low,B
+MV-ELI-BAL-010-13,Long Wind Taking the Bolt,Merciless Facet Hurtle,F6a,Demigod L3 Low,B
+MV-ELI-BAL-011-01,Storm Lashing Doubling,Charter Sinewcord,F2,Demigod L7 Low,B
+MV-ELI-BAL-011-02,Dry Cord Grip Wrapping,Intent Aimframe,F2,Demigod L7 Low,B
+MV-ELI-BAL-011-03,Gust Pause Calling,Waning Springarm,F2,Demigod L7 Low,B
+MV-ELI-BAL-011-04,Pitching Deck Slide Run,Meteoric Trackbed,F1,Demigod L7 Low,B
+MV-ELI-BAL-011-05,Bell Sound Blind Aim,Chime Impalement,F2,Demigod L7 Low,B
+MV-ELI-BAL-011-06,Wave Break Covering Shot,Decimating Hurtle,F1,Demigod L7 Low,B
+MV-ELI-BAL-011-07,Lightning Lit Aim Taking,Streakwrath,F4,Demigod L7 Low,B
+MV-ELI-BAL-011-08,Oath Held in the Squall,Hoarfrost Bolthead,F2,Demigod L7 Low,B
+MV-ELI-BAL-011-09,Storm Struck Hull Bolt,Glint Streak,F2,Demigod L7 Low,B
+MV-ELI-BAL-012-01,Edge Skein Frost Wrapping,Prescient Bolthead,F1,Monarch L3 Mid,B
+MV-ELI-BAL-012-02,Cliff Wind Qi Steadying,Aimframe Vitality,F3,Monarch L3 Mid,B
+MV-ELI-BAL-012-03,Updraft Face Reading,Galvanizing Claw,F1,Monarch L3 Mid,B
+MV-ELI-BAL-012-04,Anchor Rope Cliff Hitch,Iron Stockbed,F2,Monarch L3 Mid,B
+MV-ELI-BAL-012-05,Down Cliff Plunging Throw,Blaze Boltflight,F2,Monarch L3 Mid,B
+MV-ELI-BAL-012-06,Ledge Path Splintering Bolt,Maiming Stakedrive,F1,Monarch L3 Mid,B
+MV-ELI-BAL-012-07,Climbing Rope Cutting Bolt,Clawruin,F4,Monarch L3 Mid,B
+MV-ELI-BAL-012-08,Edge Skein Overdraw,Blistering Skewerbolt,F1,Monarch L3 Mid,B
+MV-ELI-BAL-012-09,Bearing Held Over the Void,Chimeslider,F5,Monarch L3 Mid,B
+MV-ELI-BAL-012-10,Monarch's Edge Release,Novastake,F5,Demigod L1 Low,B
+MV-ELI-BAL-003-02,Expanse Aimframe,Clear Aimframe,F2,Demigod L3 Low,B
+MV-ELI-BAL-005-01,Expanse Windlassdrum,Exact Windlassdrum,F2,Demigod L6 Low,B
+MV-ELI-BAL-007-03,Expanse Stockbed,Exact Stockbed,F2,Demigod L1 Mid,B
+MV-ELI-BAL-008-02,Expanse Sinewcord,Keen Sinewcord,F2,Demigod L2 Low,B
+MV-ELI-BAL-009-10,Pitiless Hollow Sinewcord,Pitiless Sinewcord,F6a,Demigod L5 Mid,B

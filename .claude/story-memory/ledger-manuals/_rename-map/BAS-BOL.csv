@@ -1,0 +1,61 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-BOL-001-01,Coiled Cord Ready Stance,Bolaskitter,F4,T1 Unawakened,A
+MV-BAS-BOL-001-02,Overarm Single Whirl,Whirlcast Strike,F3,T1 Unawakened,A
+MV-BAS-BOL-001-03,Low Ankle Cast,Stiff Stonehead,F1,T1 Unawakened,A
+MV-BAS-BOL-001-04,Stone Ball Knuckle Rap,Open Cordfork,F1,T1 Unawakened,A
+MV-BAS-BOL-001-05,Cord Drag Check,Wrapup Husk,F3,T1 Unawakened,A
+MV-BAS-BOL-001-06,Fallen Weight Scoop,Swaying Fetter,F1,T1 Unawakened,A
+MV-BAS-BOL-002-01,Hanging Cord Measure,Watching Ballsling,F1,T1 Skin,A
+MV-BAS-BOL-002-02,Pendulum Shin Swing,Wide Hobble,F1,T1 Skin,A
+MV-BAS-BOL-002-03,Loose Tail Flick,Fetterlid,F4,T1 Skin,A
+MV-BAS-BOL-002-04,Forearm Wrap Guard,Ready Heavyball,F1,T1 Skin,A
+MV-BAS-BOL-002-05,Hauling Backstep,Light Shackle,F1,T1 Skin,A
+MV-BAS-BOL-003-01,Running Hobble Lead,Fetterstrike,F4,T1 Muscle,A
+MV-BAS-BOL-003-02,Knee-High Sweep Cast,Downward Bolaweight,F1,T1 Muscle,A
+MV-BAS-BOL-003-03,Pinned Ankle Haul,Pulling Cordthree,F1,T1 Muscle,A
+MV-BAS-BOL-003-04,Cord Skip Parry,Folded Tripcord,F1,T1 Muscle,A
+MV-BAS-BOL-003-05,Double-Step Closing Rush,Shifting Tripcord,F1,T1 Muscle,A
+MV-BAS-BOL-003-06,Fallen Foe Knee Press,Bolapause,F4,T1 Muscle,A
+MV-BAS-BOL-003-07,Scuff Feint Throw,Stopping Bindfall,F1,T1 Muscle,A
+MV-BAS-BOL-004-01,Overhead Halo Whirl,Stiff Knotcenter,F1,T1 Tendon,A
+MV-BAS-BOL-004-02,Late Wrist Snap Release,Stiff Joinknot,F1,T1 Tendon,A
+MV-BAS-BOL-004-03,Spinning Cord Screen,Raised Spindle,F1,T1 Tendon,A
+MV-BAS-BOL-004-04,Circle Reversal Snatch,Bolawedge,F4,T1 Tendon,A
+MV-BAS-BOL-004-05,Hum Pitch Reading,Stonehead Review,F3,T1 Tendon,A
+MV-BAS-BOL-004-06,Hip-Side Whirl Cast,Wrapuppace,F4,T1 Tendon,A
+MV-BAS-BOL-005-01,Crossing Cord Cast,Orbdash,F4,T1 Bone,A
+MV-BAS-BOL-005-02,Single Leg Catch,Fetterwedge,F4,T1 Bone,A
+MV-BAS-BOL-005-03,Stumble Line Haul,Orbcowl,F4,T1 Bone,A
+MV-BAS-BOL-005-04,Lunging Cord Slap,Blunt Bindfall,F1,T1 Bone,A
+MV-BAS-BOL-005-05,Stride Gap Reading,Heavyball Count,F3,T1 Bone,A
+MV-BAS-BOL-006-01,Three-Weight Fan Cast,Hard Knotcenter,F1,Senior L1 Low,A
+MV-BAS-BOL-006-02,Central Ball Anchor Hold,Cordfork Wedge,F3,Senior L1 Low,A
+MV-BAS-BOL-006-03,Steady Wrist Loop,Orbbump,F4,Senior L1 Low,A
+MV-BAS-BOL-006-04,Overlap Cord Guard,Lowered Bolaweight,F1,Senior L1 Low,A
+MV-BAS-BOL-006-05,Rotation Counter Step,Nimble Shackle,F1,Senior L1 Low,A
+MV-BAS-BOL-006-06,Trailing Cord Snag,Fouling Wrapup,F1,Senior L1 Low,A
+MV-BAS-BOL-006-07,Tripod Drop Landing,Short Joinknot,F1,Senior L1 Low,A
+MV-BAS-BOL-007-01,Cord Line Cast Across,Bolablow,F4,Senior L3 Mid,A
+MV-BAS-BOL-007-02,Pursuit Running Throw,Open Whirlcast,F1,Senior L3 Mid,A
+MV-BAS-BOL-007-03,Mounted Flank Whirl,Wrapupstrike,F4,Senior L3 Mid,A
+MV-BAS-BOL-007-04,Slack Taking Pull,Towing Ballsling,F1,Senior L3 Mid,A
+MV-BAS-BOL-007-05,Quarry Heading Read,Deep Cordfork,F1,Senior L3 Mid,A
+MV-BAS-BOL-007-06,Cord End Snap Aside,Folded Cordthree,F1,Senior L3 Mid,A
+MV-BAS-BOL-008-01,Running Stock Snare Throw,Narrow Hobble,F1,Senior L4 Low,A
+MV-BAS-BOL-008-02,Hind-Leg Hobble Loop,Tripping Fetter,F1,Senior L4 Low,A
+MV-BAS-BOL-008-03,Gloved Cord Brake,Pushing Spindle,F1,Senior L4 Low,A
+MV-BAS-BOL-008-04,Rush-Past Sidestep,Stepping Ballsling,F1,Senior L4 Low,A
+MV-BAS-BOL-008-05,Panting Quarry Listen,Warm Cordthree,F1,Senior L4 Low,A
+MV-BAS-BOL-009-01,Inhale Whirl Lift,Narrow Stonehead,F1,Senior L6 Mid,A
+MV-BAS-BOL-009-02,Exhale Release Cast,Bolaweight Hit,F3,Senior L6 Mid,A
+MV-BAS-BOL-009-03,Held Breath Cord Tension,Fetterpause,F4,Senior L6 Mid,A
+MV-BAS-BOL-009-04,Even Pulse Footwork,Heavyball Trot,F3,Senior L6 Mid,A
+MV-BAS-BOL-009-05,Breath Gap Reading,Bolagauge,F4,Senior L6 Mid,A
+MV-BAS-BOL-009-06,Short Breath Parry Whirl,Stonewedge,F4,Senior L6 Mid,A
+MV-BAS-BOL-010-01,Hip Turn Throw,Sharp Whirlcast,F1,Senior L8 High,A
+MV-BAS-BOL-010-02,Full Body Spin Cast,Wrapupdrop,F4,Senior L8 High,A
+MV-BAS-BOL-010-03,Lofted Far Arc,Hobbledrop,F4,Senior L8 High,A
+MV-BAS-BOL-010-04,Spin Entry Step,Nimble Hobble,F1,Senior L8 High,A
+MV-BAS-BOL-010-05,Whirled Cord Reel,Orbwedge,F4,Senior L8 High,A
+MV-BAS-BOL-010-06,Counter-Spin Brush Aside,Lowered Joinknot,F1,Senior L8 High,A
+MV-BAS-BOL-010-07,Trailing Weight Spin Feint,Locking Wrapup,F1,Senior L8 High,A

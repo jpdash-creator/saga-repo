@@ -1,0 +1,102 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-KND-001-01,Plate Edge Jab,Gust Knuckleplate,F2,Champion L1 Low,B
+MV-ADV-KND-001-02,Gorget Slip Step,Gust Bandarch,F2,Champion L1 Low,B
+MV-ADV-KND-001-03,Vambrace Knock Aside,Ringgreave,F4,Champion L1 Low,B
+MV-ADV-KND-001-04,Armored Crouch Cover,Aegisstud,F5,Champion L1 Low,B
+MV-ADV-KND-001-05,Rivet Line Hammer,Blaze Overhand,F2,Champion L1 Low,B
+MV-ADV-KND-001-06,Dent and Follow Hook,Tempered Ringband,F2,Champion L1 Low,B
+MV-ADV-KND-001-07,Shock Through the Breastplate,Knuckthrash,F4,Champion L1 Low,B
+MV-ADV-KND-001-08,Armor Seam Crushing Press,Iron Handfill,F2,Champion L1 Low,B
+MV-ADV-KND-002-01,Plate Rap Probe,Ironslab,F5,Champion L6 Mid,B
+MV-ADV-KND-002-02,Fist-Ring Hammer Down,Iron Haymaker,F2,Champion L6 Mid,B
+MV-ADV-KND-002-03,Brass Ring Shield Rim Haul,Silencing Hooking,F1,Champion L6 Mid,B
+MV-ADV-KND-002-04,Heavy Guard Sidestep,Granite Palmbar,F2,Champion L6 Mid,B
+MV-ADV-KND-002-05,Brass Forearm Turn-Out,Chime Fistbar,F2,Champion L6 Mid,B
+MV-ADV-KND-002-06,Charged Ring Bend Strike,Wrecking Brassring,F1,Champion L6 Mid,B
+MV-ADV-KND-002-07,Shield Rim Pry,Crippling Uppercut,F1,Champion L6 Mid,B
+MV-ADV-KND-002-08,Mace Turn and Return,Gust Brassrim,F2,Champion L6 Mid,B
+MV-ADV-KND-002-09,Plate Splitting Drop,Harrowing Glint Bandarch,F6a,Champion L6 Mid,B
+MV-ADV-KND-002-10,Three-Breath Plate Shatter,Rumblestud,F5,Champion L6 Mid,B
+MV-ADV-KND-003-01,Field Edge Jab,Blaze Fistbar,F2,Demigod L1 Low,B
+MV-ADV-KND-003-02,Field-Open Knuckle Pace,Silt Knockout,F2,Demigod L1 Low,B
+MV-ADV-KND-003-03,Field Cover Block,Facetslab,F5,Demigod L1 Low,B
+MV-ADV-KND-003-04,Outer Field Rap,Mayhem Brawl,F2,Demigod L1 Low,B
+MV-ADV-KND-003-05,Field-Linked Chain Strike,Splintering Palmbar,F1,Demigod L1 Low,B
+MV-ADV-KND-003-06,Field Wrap Parry,Slabcuirass,F4,Demigod L1 Low,B
+MV-ADV-KND-003-07,Field Edge Press,Chime Studplate,F2,Demigod L1 Low,B
+MV-ADV-KND-003-08,Field Release Cross,Gustring,F5,Demigod L1 Low,B
+MV-ADV-KND-003-09,Field Breach Boss,Rumble Ringband,F2,Demigod L1 Low,B
+MV-ADV-KND-004-01,Extended Straight Lead,Ironstud,F5,Demigod L5 Mid,B
+MV-ADV-KND-004-02,Long Line Cross,Brawlbarrage,F4,Demigod L5 Mid,B
+MV-ADV-KND-004-03,Reach Slip Step,Knuckleplate Spurt,F3,Demigod L5 Mid,B
+MV-ADV-KND-004-04,Extended Guard Frame,Thorn Knuckleridge,F2,Demigod L5 Mid,B
+MV-ADV-KND-004-05,Outer Arc Parry,Enduring Studplate,F1,Demigod L5 Mid,B
+MV-ADV-KND-004-06,Elbow Lock Tap,Chime Overhand,F2,Demigod L5 Mid,B
+MV-ADV-KND-004-07,Qi-Tongue Boss Jab,Sanguine Knockout,F2,Demigod L5 Mid,B
+MV-ADV-KND-004-08,Extended Pivot Sweep,Gustbrawl,F5,Demigod L5 Mid,B
+MV-ADV-KND-004-09,Long-Arm Ring Haul,Mayhem Handfill,F2,Demigod L5 Mid,B
+MV-ADV-KND-004-10,Full Extension Piercing Drive,Rupturing Hollow Knuckleridge,F6a,Demigod L5 Mid,B
+MV-ADV-KND-004-11,Reach and Recoil Sequence,Brassring Assault,F3,Demigod L5 Mid,B
+MV-ADV-KND-005-01,Twin Ring Jab,Blaze Brawl,F2,Champion L3 Low,B
+MV-ADV-KND-005-02,Paired Hand Slip,Soaring Uppercut,F1,Champion L3 Low,B
+MV-ADV-KND-005-03,Dual Track Ring Parry,Implacable Knuckleridge,F1,Champion L3 Low,B
+MV-ADV-KND-005-04,Twin Cover Brace,Thorn Brassrim,F2,Champion L3 Low,B
+MV-ADV-KND-005-05,Left-Right Track Cross,Gustslab,F5,Champion L3 Low,B
+MV-ADV-KND-005-06,Paired Wrist Bind,Thorn Hooking,F2,Champion L3 Low,B
+MV-ADV-KND-005-07,Twin Track Breaking Blow,Rumble Brawl,F2,Champion L3 Low,B
+MV-ADV-KND-005-08,Dual Anchor Counter,Enduring Fistbar,F1,Champion L3 Low,B
+MV-ADV-KND-006-01,Hawk Perch Brass Guard,Iron Brassrim,F2,Demigod L3 Low,B
+MV-ADV-KND-006-02,Talon Knuckle Jab,Harpooning Knuckleplate,F1,Demigod L3 Low,B
+MV-ADV-KND-006-03,Hawk Hop Step,Silt Haymaker,F2,Demigod L3 Low,B
+MV-ADV-KND-006-04,Twin Ring Talon Hook,Blazestud,F5,Demigod L3 Low,B
+MV-ADV-KND-006-05,Stoop Entry Parry,Murkstud,F5,Demigod L3 Low,B
+MV-ADV-KND-006-06,Hawk Stoop Straight,Harpooning Knockout,F1,Demigod L3 Low,B
+MV-ADV-KND-006-07,Twin Talon Pin,Compressing Hooking,F1,Demigod L3 Low,B
+MV-ADV-KND-006-08,Wingbeat Ring Rap,Rumbleslab,F5,Demigod L3 Low,B
+MV-ADV-KND-006-09,Stooping Hawk Falling Blow,Mightknuck,F5,Demigod L3 Low,B
+MV-ADV-KND-006-10,Talon Seize Hold,Gyve Handfill,F2,Demigod L3 Low,B
+MV-ADV-KND-007-01,Basin Edge Jab,Sanguine Studplate,F2,Demigod L7 High,B
+MV-ADV-KND-007-02,Basin Run Knuckle Slide,Soaring Bandarch,F1,Demigod L7 High,B
+MV-ADV-KND-007-03,Basin Guard Cup,Facetknuck,F5,Demigod L7 High,B
+MV-ADV-KND-007-04,Current Parry,Chimeknuck,F5,Demigod L7 High,B
+MV-ADV-KND-007-05,Pooling Breath Rap,Crippling Ringband,F1,Demigod L7 High,B
+MV-ADV-KND-007-06,Riverbank Cross,Sanguine Haymaker,F2,Demigod L7 High,B
+MV-ADV-KND-007-07,Rising Basin Uppercut,Unmaking Knuckleridge,F1,Demigod L7 High,B
+MV-ADV-KND-007-08,Running River Hook Chain,Lambasting Palmbar,F1,Demigod L7 High,B
+MV-ADV-KND-007-09,Eddy Turn Counter,Ringhauberk,F4,Demigod L7 High,B
+MV-ADV-KND-007-10,Silt Press,Studcloak,F4,Demigod L7 High,B
+MV-ADV-KND-007-11,Flood Basin Release,Harrowing Knockout,F1,Demigod L7 High,B
+MV-ADV-KND-007-12,Undertow Pull and Drive,Toxin Studplate,F2,Demigod L7 High,B
+MV-ADV-KND-008-01,Oath Jab Straight,Tearing Overhand,F1,Ruler L1 Low,B
+MV-ADV-KND-008-02,Crosswind Slip Step,Overhand Pounce,F3,Ruler L1 Low,B
+MV-ADV-KND-008-03,Sworn Brass Guard Hold,Studgreave,F4,Ruler L1 Low,B
+MV-ADV-KND-008-04,Bearing Take Forearm Parry,Gust Handfill,F2,Ruler L1 Low,B
+MV-ADV-KND-008-05,Wind-Sworn Chain Strike,Might Uppercut,F2,Ruler L1 Low,B
+MV-ADV-KND-008-06,Oath Line Ring Rap,Mayhem Haymaker,F2,Ruler L1 Low,B
+MV-ADV-KND-008-07,Headwind Counter,Gust Brassring,F2,Ruler L1 Low,B
+MV-ADV-KND-008-08,Oath-Held Heavy Cross,Brawlassault,F4,Ruler L1 Low,B
+MV-ADV-KND-008-09,Sworn Bearing Fist Press,Knuckcuirass,F4,Ruler L1 Low,B
+MV-ADV-KND-009-01,Plateau Rim Jab,Drubbing Uppercut,F1,Ruler L5 Mid,B
+MV-ADV-KND-009-02,Open Ground Brass Stride,Silt Ringband,F2,Ruler L5 Mid,B
+MV-ADV-KND-009-03,Edge Cover Ring Guard,Thorn Bandarch,F2,Ruler L5 Mid,B
+MV-ADV-KND-009-04,Rim Roll Parry,Gust Palmbar,F2,Ruler L5 Mid,B
+MV-ADV-KND-009-05,Drop-Off Cross,Might Fistbar,F2,Ruler L5 Mid,B
+MV-ADV-KND-009-06,Dust Rap,Toxin Brassrim,F2,Ruler L5 Mid,B
+MV-ADV-KND-009-07,Rim Run Combination,Might Brawl,F2,Ruler L5 Mid,B
+MV-ADV-KND-009-08,Edge Turn Counter,Chime Knuckleplate,F2,Ruler L5 Mid,B
+MV-ADV-KND-009-09,Gale Edge Shoulder Check,Rumble Knuckleplate,F2,Ruler L5 Mid,B
+MV-ADV-KND-009-10,Rimfall Hammer,Iron Hooking,F2,Ruler L5 Mid,B
+MV-ADV-KND-009-11,Plateau Wind Hook,Guststud,F5,Ruler L5 Mid,B
+MV-ADV-KND-010-01,Bearing Take Jab,Fistbar Thrash,F3,Demigod L2 Low,B
+MV-ADV-KND-010-02,Bearing Hold Knuckle Step,Torrent Brassring,F2,Demigod L2 Low,B
+MV-ADV-KND-010-03,Open Guard Spread,Steadfast Handfill,F1,Demigod L2 Low,B
+MV-ADV-KND-010-04,Crosswind Turn Parry,Resilient Bandarch,F1,Demigod L2 Low,B
+MV-ADV-KND-010-05,Bearing Line Cross,Knockout Thrash,F3,Demigod L2 Low,B
+MV-ADV-KND-010-06,Tail-Wind Tap,Chime Ringband,F2,Demigod L2 Low,B
+MV-ADV-KND-010-07,Held Bearing Straight,Might Brassrim,F2,Demigod L2 Low,B
+MV-ADV-KND-010-08,Windward Hook Chain,Trouncing Overhand,F1,Demigod L2 Low,B
+MV-ADV-KND-010-09,Leeward Slip Counter,Chime Palmbar,F2,Demigod L2 Low,B
+MV-ADV-KND-010-10,Wind Gap Press,Gyve Uppercut,F2,Demigod L2 Low,B
+MV-ADV-KND-010-11,Gale Bearing Breaking Blow,Iron Knuckleridge,F2,Demigod L2 Low,B
+MV-ADV-KND-010-12,Wind-Sworn Field Release,Blazering,F5,Demigod L2 Low,B
+MV-ADV-KND-004-10,Rupturing Hollow Knuckleridge,Rupturing Knuckleridge,F6a,Demigod L5 Mid,B

@@ -1,0 +1,4 @@
+move_id,old_name,new_name,function
+CMV-INT-VOD-002-04,Blink Hollow,Blink Void,Mobility:Step
+CMV-INT-VOD-004-01,Hollow Field,Dulling Void,Control:Suppress
+CMV-INT-VOD-004-07,Null Field,Void Press,Control:Suppress

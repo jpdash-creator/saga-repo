@@ -1,0 +1,100 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-BLW-001-01,Armor Seam Study,Chimecane,F5,Champion,B
+MV-ADV-BLW-001-02,Steel Tip Honing,Perceptive Reedtube,F1,Champion,B
+MV-ADV-BLW-001-03,Heavy Dart Seating,Tubeelixir,F4,Champion,B
+MV-ADV-BLW-001-04,Gap Seeking Shot,Rumble Huff,F2,Champion,B
+MV-ADV-BLW-001-05,Needle Through Mail,Novacane,F5,Champion,B
+MV-ADV-BLW-001-06,Helm Slit Whistle,Lancing Hiss,F1,Champion,B
+MV-ADV-BLW-001-07,Plated Foe Circling,Puff Sprint,F3,Champion,B
+MV-ADV-BLW-001-08,Plate Seam Driver,Iron Exhale,F2,Champion,B
+MV-ADV-BLW-001-09,Cracked Cuirass Volley,Dartneedle Onslaught,F3,Champion,B
+MV-ADV-BLW-002-01,Cloak Fold Hide,Intent Mouthend,F2,Champion,B
+MV-ADV-BLW-002-02,Shadow Edge Stand,Gust Plug,F2,Champion,B
+MV-ADV-BLW-002-03,Lantern Count Reading,Airbore Elixir,F3,Champion,B
+MV-ADV-BLW-002-04,Muffled Dart Loading,Rousing Padhead,F1,Champion,B
+MV-ADV-BLW-002-05,Dark Mark Sensing,Verity Dartfletch,F2,Champion,B
+MV-ADV-BLW-002-06,Murmur Blow,Rumble Needlepuff,F2,Champion,B
+MV-ADV-BLW-002-07,Veiled Volley,Intentexhale,F5,Champion,B
+MV-ADV-BLW-002-08,Lost Shooter Trail,Mayhem Tube,F2,Champion,B
+MV-ADV-BLW-003-01,Field Breath Opening,Sustaining Tube,F1,Demigod,B
+MV-ADV-BLW-003-02,Bore Line Feeling,Tuberemedy,F4,Demigod,B
+MV-ADV-BLW-003-03,Short Start Blow,Daybreak Cane,F2,Demigod,B
+MV-ADV-BLW-003-04,Dart Tip Qi Wash,Mindful Mouthpiece,F1,Demigod,B
+MV-ADV-BLW-003-05,Field Held Shot,Facet Puff,F2,Demigod,B
+MV-ADV-BLW-003-06,Breathless Blow,Splintering Burst,F1,Demigod,B
+MV-ADV-BLW-003-07,Field Steered Dart,Exhalethrash,F4,Demigod,B
+MV-ADV-BLW-003-08,Ring Guard Breath,Mouthend Greave,F3,Demigod,B
+MV-ADV-BLW-003-09,Unbound Dart Stream,Novahiss,F5,Demigod,B
+MV-ADV-BLW-003-10,Wide Field Pierce,Hollowexhale,F5,Demigod,B
+MV-ADV-BLW-004-01,Sky Arc Estimation,Plugremedy,F4,Demigod,B
+MV-ADV-BLW-004-02,Tall Stance Brace,Exhale Leap,F3,Demigod,B
+MV-ADV-BLW-004-03,Flight Weight Choosing,Intent Reedtube,F2,Demigod,B
+MV-ADV-BLW-004-04,Slow Release Trickle,Unmaking Needlepuff,F1,Demigod,B
+MV-ADV-BLW-004-05,Long Rise Lob,Burstassault,F4,Demigod,B
+MV-ADV-BLW-004-06,Ranging Dart Pair,Chime Dartfletch,F2,Demigod,B
+MV-ADV-BLW-004-07,Dusk Range Sense,Plugelixir,F4,Demigod,B
+MV-ADV-BLW-004-08,Far Meadow Reach,Nova Burst,F2,Demigod,B
+MV-ADV-BLW-004-09,Dropping Star Shot,Tempered Airbore,F2,Demigod,B
+MV-ADV-BLW-005-01,Twin Reed Matching,Verity Dartneedle,F2,Champion,B
+MV-ADV-BLW-005-02,Paired Lip Switch,Rousing Mouthpiece,F1,Champion,B
+MV-ADV-BLW-005-03,Left Right Dart Count,Expanse Plug,F2,Champion,B
+MV-ADV-BLW-005-04,Basin Pair Stance,Granite Hiss,F2,Champion,B
+MV-ADV-BLW-005-05,Twin Tube Opening,Rumblehiss,F5,Champion,B
+MV-ADV-BLW-005-06,Echo Pair Blow,Airbore Torment,F3,Champion,B
+MV-ADV-BLW-005-07,Azure Crossing Fire,Scorching Tube,F1,Champion,B
+MV-ADV-BLW-005-08,Mirror Reed Guard,Annealed Cane,F1,Champion,B
+MV-ADV-BLW-005-09,Twin Court Volley,Funneling Padhead,F1,Champion,B
+MV-ADV-BLW-005-10,Hawk Pair Pierce,Tempered Huff,F2,Champion,B
+MV-ADV-BLW-006-01,Hawk Gaze Fixing,Tubelinctus,F4,Demigod,B
+MV-ADV-BLW-006-02,Perch Stance Settle,Racing Huff,F1,Demigod,B
+MV-ADV-BLW-006-03,Twin Bore Loading,Invigorating Mouthend,F1,Demigod,B
+MV-ADV-BLW-006-04,Single Breath Pairing,Hoarfrost Dartneedle,F2,Demigod,B
+MV-ADV-BLW-006-05,Stooping Pair Shot,Facettube,F5,Demigod,B
+MV-ADV-BLW-006-06,Open Azure Gaze Sweep,Cane Linctus,F3,Demigod,B
+MV-ADV-BLW-006-07,Talon Pair Strike,Tubetorment,F4,Demigod,B
+MV-ADV-BLW-006-08,Hawk Dive Burst,Rumble Mouthpiece,F2,Demigod,B
+MV-ADV-BLW-007-01,Riverbank Footing,Mightburst,F5,Demigod,B
+MV-ADV-BLW-007-02,Current Line Reading,Waningcane,F5,Demigod,B
+MV-ADV-BLW-007-03,Reed Bed Hide,Heartening Reedtube,F1,Demigod,B
+MV-ADV-BLW-007-04,Water Mirror Check,Renewing Padhead,F1,Demigod,B
+MV-ADV-BLW-007-05,River Crossing Dart,Burstthrash,F4,Demigod,B
+MV-ADV-BLW-007-06,Basin Mist Shot,Glintplug,F5,Demigod,B
+MV-ADV-BLW-007-07,Downstream Lead Blow,Rumbletube,F5,Demigod,B
+MV-ADV-BLW-007-08,Ripple Ring Cover,Unshaken Mouthend,F1,Demigod,B
+MV-ADV-BLW-007-09,Current Dart Trail,Intent Hiss,F2,Demigod,B
+MV-ADV-BLW-007-10,River Bend Ambush,Toxin Dartfletch,F2,Demigod,B
+MV-ADV-BLW-007-11,Basin Flood Volley,Grinding Plug,F1,Demigod,B
+MV-ADV-BLW-008-01,Bearing Take Pause,Verityplug,F5,Ruler,B
+MV-ADV-BLW-008-02,Windward Stand,Granite Exhale,F2,Ruler,B
+MV-ADV-BLW-008-03,Oath Breath Count,Tube Tincture,F3,Ruler,B
+MV-ADV-BLW-008-04,Open Ground Rest,Equipoise Mouthpiece,F2,Ruler,B
+MV-ADV-BLW-008-05,Gust Lull Blow,Needlepuff Maelstrom,F3,Ruler,B
+MV-ADV-BLW-008-06,Fixed Bearing Dart Run,Gust Cane,F2,Ruler,B
+MV-ADV-BLW-008-07,Gale Shift Correction,Might Dartneedle,F2,Ruler,B
+MV-ADV-BLW-008-08,Wind-Sworn Carry,Lambasting Puff Torment,F6b,Ruler,B
+MV-ADV-BLW-008-09,Plateau Lip Drive,Lancing Burst,F1,Ruler,B
+MV-ADV-BLW-009-01,Oath Stillness Stand,Soaring Burst,F1,Demigod,B
+MV-ADV-BLW-009-02,Bare Ridge Crouch,Rousing Dartfletch,F1,Demigod,B
+MV-ADV-BLW-009-03,Wind Taste Draw,Waning Airbore,F2,Demigod,B
+MV-ADV-BLW-009-04,Sworn Count Loading,Intent Padhead,F2,Demigod,B
+MV-ADV-BLW-009-05,Oath Whisper Shot,Chime Plug,F2,Demigod,B
+MV-ADV-BLW-009-06,Bearing Lock Blow,Gust Exhale,F2,Demigod,B
+MV-ADV-BLW-009-07,Silent Plateau Crossing,Mightexhale,F5,Demigod,B
+MV-ADV-BLW-009-08,Oath Breath Shield,Steadfast Reedtube,F1,Demigod,B
+MV-ADV-BLW-009-09,Quiet Dart Reckoning,Iron Hiss,F2,Demigod,B
+MV-ADV-BLW-009-10,Windless Hour Strike,Rumbleburst,F5,Demigod,B
+MV-ADV-BLW-010-01,Long Reed Carry Strap,Daybreak Mouthend,F2,Ruler,B
+MV-ADV-BLW-010-02,Cliff Edge Prone,Glancing Puff,F1,Ruler,B
+MV-ADV-BLW-010-03,Cairn Crag Sighting,Expanse Mouthpiece,F2,Ruler,B
+MV-ADV-BLW-010-04,Hollow Breath Draw,Might Padhead,F2,Ruler,B
+MV-ADV-BLW-010-05,Reed Length Swing,Silt Dartneedle,F2,Ruler,B
+MV-ADV-BLW-010-06,Edge Wind Dart,Facet Needlepuff,F2,Ruler,B
+MV-ADV-BLW-010-07,Gorge Crossing Blow,Rupturing Cane,F1,Ruler,B
+MV-ADV-BLW-010-08,Updraft Lift Dart,Blaze Exhale,F2,Ruler,B
+MV-ADV-BLW-010-09,Hard Gust Hold,Might Airbore,F2,Ruler,B
+MV-ADV-BLW-010-10,Gust Series Count,Renewing Plug,F1,Ruler,B
+MV-ADV-BLW-010-11,Open Sky Long Shot,Tubethrash,F4,Ruler,B
+MV-ADV-BLW-010-12,Cliff Path Hail,Huff Assault,F3,Ruler,B
+MV-ADV-BLW-005-03,Expanse Plug,Measured Plug,F2,Champion,B
+MV-ADV-BLW-008-08,Lambasting Puff Torment,Lambasting Puff,F6b,Ruler,B
+MV-ADV-BLW-010-03,Expanse Mouthpiece,Keen Mouthpiece,F2,Ruler,B

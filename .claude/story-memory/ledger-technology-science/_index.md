@@ -1,0 +1,117 @@
+# ledger-technology-science — Ledger Index
+
+**Ledger Domain:** Technology — Named Scientific Frameworks, Paradigm-Shift Events, and Knowledge Assets
+**Governed By:** `guardrails/ledger/guardrail-ledger-update-law.md`, Part 37 (Ledger Schema Law), Part 10 (Technology Science Law)
+**Template:** Part 37 Area 3.7 — Schema Template: Technology-Science Ledger
+**Last Updated:** 2026-10-05
+**Index Version:** 10.0
+**Total Entries:** 0
+
+> **Purpose:** This folder tracks named scientific entities introduced in prose that require continuity under Part 10 (Technology Science Law). Three categories:
+> - **Named Scientific Frameworks** — canonical theoretical frameworks, laws, or paradigms that have been named in prose and govern how a civilization understands a domain of reality. Pattern: a named framework explaining how soul sense can be used as an observational instrument for subatomic phenomena (the pattern is not a name and registers nothing). These are the intellectual architecture within which characters operate.
+> - **Named Paradigm-Shift Events** — specific historical moments when a civilization's understanding of a domain was fundamentally restructured (Part 10 Area 2.3 — 5-Phase Anomaly-Paradigm Cycle). Pattern: a named event in which anomaly accumulation in Materials Science forced a new paradigm (the pattern is not a name and registers nothing). These are reference events in the civilization's intellectual history.
+> - **Named Knowledge Assets** — classified scientific findings, proprietary theoretical models, or sequestered knowledge archives that are introduced in prose as objects with strategic value (intersection with Part 24 Information Law).
+>
+> This ledger ensures that when a scientific concept is introduced in prose, it remains consistent in subsequent references — same domain, same knowledge layer, same access profile, same implications.
+
+> **Scope Boundary:** This ledger tracks *the scientific knowledge layer* (Part 10's domain). The research activities that produce or use this knowledge are tracked in `ledger-technology-growth`. The technology systems built on this knowledge are tracked in `ledger-technology-scale`. This ledger is the knowledge content layer.
+
+> **Update Protocol:** Per `guardrails/ledger/guardrail-ledger-update-law.md`:
+> - **New Framework File Trigger:** Any Area that names and characterizes a scientific framework (gives it a proper name and describes its knowledge layer and domain scope) requires a new `[framework-name].md` file at Gate 2.
+> - **New Paradigm-Shift File Trigger:** Any Area that names and characterizes a historical paradigm-shift event requires a new `[event-name].md` file.
+> - **New Knowledge Asset File Trigger:** Any Area that introduces a classified or proprietary scientific knowledge asset by name requires a new `[asset-name].md` file, filed in `ledger-technology-science`; `ledger-society-information` receives a pointer row (classification and custodian) only, never a second file.
+> - **Update Trigger:** Knowledge layer advancement; diffusion of previously classified knowledge; paradigm stress events accumulating toward shift.
+
+> **Mandatory Update Triggers:**
+> - Named scientific framework introduced with knowledge layer detail
+> - Named paradigm-shift event characterized in prose
+> - Scientific knowledge asset introduced as a narratively significant object
+> - New knowledge layer achieved (L1→L2→L3→L4 advancement in a named domain)
+> - Scientific knowledge classified or declassified (update the asset file here and the pointer row in `ledger-society-information`)
+> - Cultivation-assisted scientific discovery event (soul-sense observation contributing to a named framework)
+
+> **Marker Legend:** These markers appear in the entries of this ledger. Open cells otherwise carry `OPEN-AREA` or `OPEN-AUTHOR` (Part 37 Area 5).
+> - `[ASKED]`: the author chose this value.
+> - `[DERIVED]`: the drafter inferred this value from cited evidence and the author reviewed it in the digest without overriding it (Part 39 Rule 39.3.3.1); it is pending only when the entry also says flagged for author confirmation.
+> - `[AUTHOR-PENDING]`: a question about this value has been raised and is not yet answered.
+> - `[MARKED SLOT]`: a slot left empty on purpose until the author rules.
+> - "flag, do not invent": when a scene needs the value, the prose may establish one small fact at a time under Part 28 Area 17, logged in this ledger and offered to the author as a draft value at the next Section close. A name or a major entity (Part 28 Area 20.4) goes to the author first, through the Decision Consultation Gate.
+
+---
+
+## Registry A — Named Scientific Frameworks
+
+| Entity Name (B) | Classification (B/L) | First Area Appearance (B) | Entity File (L) | Status (L) | Last Updated (L) | Knowledge Layer (L1–L4) | Civilization | Scope |
+|---|---|---|---|---|---|---|---|---|
+
+*No entries yet. Files created as named scientific frameworks appear in prose. Classification: the Knowledge Layer (L1–L4).*
+
+---
+
+## Registry B — Named Paradigm-Shift Events
+
+| Entity Name (B) | Classification (B/L) | First Area Appearance (B) | Entity File (L) | Status (L) | Last Updated (L) | Era/Date | Prior Paradigm | New Paradigm |
+|---|---|---|---|---|---|---|---|---|
+
+*No entries yet. Files created as named paradigm-shift events are characterized in prose. Classification: the domain (Part 8 Type).*
+
+---
+
+## Registry C — Named Knowledge Assets
+
+| Entity Name (B) | Classification (B/L) | First Area Appearance (B) | Entity File (L) | Status (L) | Last Updated (L) | Domain | Knowledge Layer | Custodian |
+|---|---|---|---|---|---|---|---|---|
+
+*No entries yet. Files created when classified knowledge assets are introduced in prose. Classification: the Part 24 classification tier.*
+
+---
+
+## Part 28 Area 17 — Lore Section Schema (Technology-Science Domain)
+
+**Governing Law:** Part 28 Area 17 (Lore Creation Law). **Audit Hook:** ALCA dimension AL-10 (`guardrails/audit/guardrail-alca.md`).
+
+**For Named Scientific Frameworks — Required Minimum Lore Fields:**
+
+1. **Framework Name** — canonical name as established in prose.
+2. **Domain** — Part 8 Type 1–14; which domain of reality this framework describes.
+3. **Knowledge Layer** — Part 10 L1 (empirical) / L2 (phenomenological) / L3 (theoretical) / L4 (predictive-generative).
+4. **Civilization of Origin** — which civilization developed this framework; cross-reference.
+5. **Core Claims** — the canonical propositions this framework makes (what it says is true about the domain).
+6. **Predictive Scope** — what phenomena this framework can predict or engineer.
+7. **Known Limitations** — where the framework is known to fail or require extension.
+8. **Current Paradigm Status** — is this the active framework, a competing framework, or a superseded framework?
+9. **Diffusion** — which civilizations/factions currently operate within this framework.
+
+**For Named Paradigm-Shift Events — Required Minimum Lore Fields:**
+
+1. **Event Name** — canonical name as established in prose.
+2. **Domain** — which domain's paradigm shifted.
+3. **Prior Paradigm** — cross-reference to the superseded framework file.
+4. **Trigger Anomaly** — what anomalous evidence accumulated to stress the prior paradigm.
+5. **Shift Event** — the specific discovery or proof that caused the paradigm transition.
+6. **New Paradigm** — cross-reference to the replacement framework file.
+7. **Civilization Impact** — which civilizations were affected and how their research trajectory changed.
+8. **Historical Date/Era** — narrative timeline of when this occurred.
+
+**For Named Knowledge Assets — Required Minimum Lore Fields:**
+
+1. **Asset Name** — canonical name.
+2. **Content** — what the asset contains (theoretical framework, experimental data, prediction model).
+3. **Classification Tier** — Part 24 Tier I–V.
+4. **Custodian** — who holds it; cross-reference to faction/information ledger.
+5. **Strategic Value** — what capability this knowledge unlocks for whoever possesses it.
+6. **Known Copies** — how many copies exist and where.
+
+**Depth Test:** "Can a scene involving this scientific framework, paradigm event, or knowledge asset be written accurately from only this ledger file?" If yes, depth is satisfied.
+
+---
+
+## Lore Section Compliance Registry
+
+| File | Entry Name | Type | Domain | Layer | Depth-Test Certification | Last Lore Update |
+|---|---|---|---|---|---|---|
+
+*No entries yet.*
+
+---
+

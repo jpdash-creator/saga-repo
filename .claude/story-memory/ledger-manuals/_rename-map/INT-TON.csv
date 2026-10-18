@@ -1,0 +1,58 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-TON-001-01,Diagonal Rail Opening Guard,Handlehasp,F4,Senior-,A
+MV-INT-TON-001-02,Down Cut Rail Chop,Vicious Spinpeg,F1,Senior-,A
+MV-INT-TON-001-03,Folded Elbow Underswing,Elbowside Scorer,F3,Senior-,A
+MV-INT-TON-001-04,Slipping Rail Retreat,Fleet Tap,F1,Senior-,A
+MV-INT-TON-001-05,Qi Cracked Guard Hammer,Fierce Shortshaft,F1,Senior-,A
+MV-INT-TON-001-06,Splinter Gap Drive,Sidehandle Swat,F3,Senior-,A
+MV-INT-TON-002-01,Handle Seat Check,Shielding Tonfashaft,F1,Senior-,A
+MV-INT-TON-002-02,Handle Butt Rap,Wild Gripbar,F1,Senior-,A
+MV-INT-TON-002-03,Soft Wrist Slip Parry,Buttressed Roundend,F1,Senior-,A
+MV-INT-TON-002-04,Fore Thumb Hook Press,Rapbarrier,F4,Senior-,A
+MV-INT-TON-002-05,Handle Shuffle Retreat,Scudding Forearm,F1,Senior-,A
+MV-INT-TON-002-06,Struck Handle Quake,Raw Rap,F1,Senior-,A
+MV-INT-TON-002-07,Qi Rung Rail Slap,Tapswat,F4,Senior-,A
+MV-INT-TON-003-01,Pinning Arm Opening Press,Static Rearend,F2,Warrior+,B
+MV-INT-TON-003-02,Forearm Pin Drag,Humrap,F5,Warrior+,B
+MV-INT-TON-003-03,Pinning Stub Poke,Acrid Knock,F1,Warrior+,B
+MV-INT-TON-003-04,Heel Anchor Brace,Sleet Forearmside,F2,Warrior+,B
+MV-INT-TON-003-05,Overhand Pinned Rap,Draught Spinflip,F2,Warrior+,B
+MV-INT-TON-003-06,Side Pin Walk,Brawnjolt,F5,Warrior+,B
+MV-INT-TON-003-07,Qi Weighted Pin Press,Sleet Jolt,F2,Warrior+,B
+MV-INT-TON-003-08,Pin Release Counter Hammer,Honed Shortshaft,F2,Warrior+,B
+MV-INT-TON-004-01,Hooked Arm Guard Hold,Rigid Tonfashaft,F1,Warrior+,B
+MV-INT-TON-004-02,Hook Over Wrist Pull,Entangling Rap,F1,Warrior+,B
+MV-INT-TON-004-03,Hook Back Knee Rake,Brawn Sidehandle,F2,Warrior+,B
+MV-INT-TON-004-04,Hooked Stride Check,Pirouetting Forearmside,F1,Warrior+,B
+MV-INT-TON-004-05,Qi Hooked Collar Draw,Static Spinflip,F2,Warrior+,B
+MV-INT-TON-004-06,Barbed Rail Ankle Sweep,Honed Jolt,F2,Warrior+,B
+MV-INT-TON-005-01,Two Rail Opening Frame,Spinpeg Barrier,F3,Warrior+,B
+MV-INT-TON-005-02,Left Right Alternate Jab,Ember Handlepeg,F2,Warrior+,B
+MV-INT-TON-005-03,Crossed Rail Catch,Hum Elbowside,F2,Warrior+,B
+MV-INT-TON-005-04,Back Hand Rail Rap,Acrid Handlepeg,F1,Warrior+,B
+MV-INT-TON-005-05,Open Arms Parry Pair,Poisehandle,F5,Warrior+,B
+MV-INT-TON-005-06,Mirror Foot Shuffle,Brawnrap,F5,Warrior+,B
+MV-INT-TON-005-07,Two Hand Qi Pincer,Draught Knock,F2,Warrior+,B
+MV-INT-TON-005-08,Rolling Pair Shield,Brasshandle,F5,Warrior+,B
+MV-INT-TON-005-09,Off Rail Feint Main Strike,Static Roundend,F2,Warrior+,B
+MV-INT-TON-006-01,Rolling Block Setup,Sleethandle,F5,Warrior+,B
+MV-INT-TON-006-02,Outer Roll Parry,Barprop,F4,Warrior+,B
+MV-INT-TON-006-03,Inner Roll Rail Shove,Brassrap,F5,Warrior+,B
+MV-INT-TON-006-04,Rotating Elbow Pad,Brass Handlepeg,F2,Warrior+,B
+MV-INT-TON-006-05,Roll Out Slide,Clay Forearm,F2,Warrior+,B
+MV-INT-TON-006-06,Qi Backed Rolling Block,Draught Roundend,F2,Warrior+,B
+MV-INT-TON-006-07,Roll Through Counter Smash,Brassbar,F5,Warrior+,B
+MV-INT-TON-007-01,Wrist Trap Hook,Clutching Tap,F1,Warrior+,B
+MV-INT-TON-007-02,Elbow Lock Rail Lever,Discord Gripbar,F2,Warrior+,B
+MV-INT-TON-007-03,Thumb Web Strike,Acrid Gripbar,F1,Warrior+,B
+MV-INT-TON-007-04,Lock Cover Brace,Barbarrier,F4,Warrior+,B
+MV-INT-TON-007-05,Short Lever Shoulder Nudge,Binding Forearm,F1,Warrior+,B
+MV-INT-TON-007-06,Locking Pace Slide,Brawntap,F5,Warrior+,B
+MV-INT-TON-007-07,Qi Set Elbow Lock,Gripping Elbowside,F1,Warrior+,B
+MV-INT-TON-007-08,Wrist Pry Turn,Clutching Rap,F1,Warrior+,B
+MV-INT-TON-008-01,Close Guard Hold,Tonfahasp,F4,Warrior+,B
+MV-INT-TON-008-02,Short Orbit Rap,Draught Rearend,F2,Warrior+,B
+MV-INT-TON-008-03,Guard Slip Under Arm,Brawn Spinflip,F2,Warrior+,B
+MV-INT-TON-008-04,Cuff Strike Reply,Vicious Rearend,F1,Warrior+,B
+MV-INT-TON-008-05,Counter Spin Cut Through,Rapslap,F4,Warrior+,B
+MV-INT-TON-008-06,Spun Guard Interlock,Tonfaprop,F4,Warrior+,B

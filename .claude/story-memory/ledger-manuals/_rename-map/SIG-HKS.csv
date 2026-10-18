@@ -1,0 +1,138 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-HKS-001-01,Paired-Edge Court Greeting,Hookhilt Reliquary,F3,Warrior,B
+MV-SIG-HKS-001-02,Two-Edge Brush Cut,Snarlverdict,F4,Warrior,B
+MV-SIG-HKS-001-03,Measured Pair Stride Forward,Delugecleat,F5,Warrior,B
+MV-SIG-HKS-001-04,Hook-and-Hook Edge Press,Thrall Hookguard,F2,Warrior,B
+MV-SIG-HKS-001-05,Counter-Hook Wrist Slip,Clevistroth,F4,Warrior,B
+MV-SIG-HKS-001-06,Pair Beat Disruption,Venom Disarm,F2,Warrior,B
+MV-SIG-HKS-001-07,Matched Hook Arm-Trapping Fold,Thrallcleat,F5,Champion,B
+MV-SIG-HKS-001-08,Court Edge Cutting Press,Seasonyank,F5,Champion,B
+MV-SIG-HKS-001-09,Opening of the Two Gates of Steel,Hornbeam Hooklock,F2,Demigod,B
+MV-SIG-HKS-001-10,Court of the Paired Edge Closing,Destiny Hooktip,F2,Warrior,B
+MV-SIG-HKS-002-01,Twin-Track Ready Posture,Steelgrapnel,F5,Warrior,B
+MV-SIG-HKS-002-02,High-Track Chop,Haemal Twistaway,F2,Warrior,B
+MV-SIG-HKS-002-03,Low-Track Shin Sweep,Steel Swordhook,F2,Warrior,B
+MV-SIG-HKS-002-04,Two-Track Pivot Parry,Devout Hookneck,F1,Warrior,B
+MV-SIG-HKS-002-05,Rail-Cross Hook Trap,Millstone Snarl,F2,Warrior,B
+MV-SIG-HKS-002-06,Switching-Track Riposte,Cleatedict,F4,Warrior,B
+MV-SIG-HKS-002-07,Beside-the-Line Slip Cut,Ethereal Hookcurve,F1,Warrior,B
+MV-SIG-HKS-002-08,Rail-Locked Hook Lift,Thrall Pulldown,F2,Champion,B
+MV-SIG-HKS-002-09,Parallel Cutting Procession,Matchless Hookcrook,F1,Champion,B
+MV-SIG-HKS-002-10,Tracks Folding on the Throat,Pulsar Cresthook,F2,Demigod,B
+MV-SIG-HKS-002-11,Twin-Track Closing Sequence,Destiny Hookspine,F2,Warrior,B
+MV-SIG-HKS-003-01,Basin Cup Guard,Undaunted Hookspine,F1,Champion,B
+MV-SIG-HKS-003-02,Rain-Drop Tip Strikes,Haemalyank,F5,Champion,B
+MV-SIG-HKS-003-03,Slow Circle Walk,Hookend Heraldry,F3,Champion,B
+MV-SIG-HKS-003-04,Brimming Parry,Deluge Hookcurve,F2,Champion,B
+MV-SIG-HKS-003-05,Overflow Hook Pull,Thrallyank,F5,Champion,B
+MV-SIG-HKS-003-06,Rim Skimming Slice,Sovereign Snarl,F1,Champion,B
+MV-SIG-HKS-003-07,Basin-Held Hooking Throw,Sigil Cresthook,F2,Champion,B
+MV-SIG-HKS-003-08,Rising Waterline Cut,Bedrock Hookguard,F2,Champion,B
+MV-SIG-HKS-003-09,Whirlpool Hook Collapse,Hornbeam Hookend,F2,Demigod,B
+MV-SIG-HKS-003-10,Cup-Spilling Hook Release,Hookhilt Decree,F3,Champion,B
+MV-SIG-HKS-004-01,River-Run Standing Pose,Hooktip Pledge,F3,Ruler,B
+MV-SIG-HKS-004-02,Source-Spring Thrust,Illustrious Hookcrook,F1,Ruler,B
+MV-SIG-HKS-004-03,Weir Step,Spectral Hooklock,F1,Ruler,B
+MV-SIG-HKS-004-04,Bend-Following Parry,Squall Hookneck,F2,Ruler,B
+MV-SIG-HKS-004-05,Midstream Hook Pull,Sigil Pulldown,F2,Ruler,B
+MV-SIG-HKS-004-06,Rapids Quick Cuts,Vigorcleat,F5,Ruler,B
+MV-SIG-HKS-004-07,Drift Slip Behind,Dune Disarm,F2,Ruler,B
+MV-SIG-HKS-004-08,Confluence Disarming Clasp,Sigil Swordhook,F2,Ruler,B
+MV-SIG-HKS-004-09,Undercut-Bank Hooking Drag,Sigilcleat,F5,Ruler,B
+MV-SIG-HKS-004-10,Floodplain Spreading Cuts,Seasonsnarl,F5,Ruler,B
+MV-SIG-HKS-004-11,Gorge-Narrowing Hook Rend,Quenched Disarm,F2,Demigod,B
+MV-SIG-HKS-004-12,Spring-to-Mouth Hook Sequence,Resonant Season Cresthook,F6a,Ruler,B
+MV-SIG-HKS-005-01,Dual Talon Hanging Stance,Clevispledge,F4,Demigod,B
+MV-SIG-HKS-005-02,Left Talon Rake,Quenched Hooklock,F2,Demigod,B
+MV-SIG-HKS-005-03,Right Talon Rake,Haemal Snarl,F2,Demigod,B
+MV-SIG-HKS-005-04,Gliding Hawk Approach,Vigor Hookspine,F2,Demigod,B
+MV-SIG-HKS-005-05,Hooks Folded Like Wings Parry,Sacrosanct Hookneck,F1,Demigod,B
+MV-SIG-HKS-005-06,Double Seizure of the Sword Arm,Yankseal,F4,Demigod,B
+MV-SIG-HKS-005-07,Perch-and-Strike Drop,Steelcleat,F5,Demigod,B
+MV-SIG-HKS-005-08,Wheeling Hawk Cut Sequence,Hooktip Decree,F3,Demigod,B
+MV-SIG-HKS-005-09,Hawk Falling Through Steel,Pulsar Yank,F2,Demigod,B
+MV-SIG-HKS-005-10,Three-Phase Dive of Twin Talons,Orchestral Destiny Swordhook,F6a,Demigod,B
+MV-SIG-HKS-006-01,Azure Core Centring Breath,Sainted Hookguard,F1,Core Formation,B
+MV-SIG-HKS-006-02,Clear-Sky Thrust,Haemaldisarm,F5,Core Formation,B
+MV-SIG-HKS-006-03,Level Horizon Step,Squall Hookcrook,F2,Core Formation,B
+MV-SIG-HKS-006-04,Calm Water Parry,Peal Hookcurve,F2,Core Formation,B
+MV-SIG-HKS-006-05,Qi-Gathering Hook Hold,Millstone Hookend,F2,Core Formation,B
+MV-SIG-HKS-006-06,Pulse-Timed Cut,Unrivaled Hookhilt,F1,Core Formation,B
+MV-SIG-HKS-006-07,Core-Driven Hooking Heave,Disarmseal,F4,Core Formation,B
+MV-SIG-HKS-006-08,Zenith-Line Hook Press,Subjugating Twistaway,F1,Core Formation,B
+MV-SIG-HKS-006-09,Cloudless Cutting Succession,Snarlcrown,F4,Core Formation,B
+MV-SIG-HKS-006-10,Core-Bound Weapon Seizure,Thrall Hookend,F2,Core Formation,B
+MV-SIG-HKS-006-11,Core Circuit of Binds and Cuts,Grand Volition Pulldown,F6a,Core Formation,B
+MV-SIG-HKS-007-01,Windbound Standing Guard,Cleatseal,F4,Warrior,B
+MV-SIG-HKS-007-02,Windbound Hook Cut,Vigor Hookcrook,F2,Warrior,B
+MV-SIG-HKS-007-03,Headwind Stride,Windborne Yank,F1,Warrior,B
+MV-SIG-HKS-007-04,Gap-in-the-Gale Slip,Squallgrapnel,F5,Warrior,B
+MV-SIG-HKS-007-05,Bound-by-Wind Hook Tug,Authoritative Twistaway,F1,Warrior,B
+MV-SIG-HKS-007-06,Whistling Edge Slice,Steel Hookspine,F2,Warrior,B
+MV-SIG-HKS-007-07,Cloak-Billow Cover,Sanctum Hookguard,F2,Warrior,B
+MV-SIG-HKS-007-08,Turning Wind Counter,Bedrock Hookhilt,F2,Warrior,B
+MV-SIG-HKS-007-09,Windlash Hook Throw,Millstone Hookcurve,F2,Champion,B
+MV-SIG-HKS-007-10,Strong Wind Pressing Chain,Bedrock Hooklock,F2,Champion,B
+MV-SIG-HKS-007-11,Windward Sword-Arm Wrench,Grapnelseal,F4,Demigod,B
+MV-SIG-HKS-007-12,Wind-Turned Answering Cycle,Tenet Disarm,F2,Warrior,B
+MV-SIG-HKS-008-01,Bearing-Line Ready Stance,Bedrock Hooktip,F2,Warrior,B
+MV-SIG-HKS-008-02,Surveyor's Thrust,Inferno Twistaway,F2,Warrior,B
+MV-SIG-HKS-008-03,Crossing Step Behind the Line,Evanescent Hookneck,F1,Warrior,B
+MV-SIG-HKS-008-04,Back-Bearing Hook Catch,Hornbeam Pulldown,F2,Warrior,B
+MV-SIG-HKS-008-05,Held-Point Return Parry,Parity Cresthook,F2,Warrior,B
+MV-SIG-HKS-008-06,Drift-Correct Cut,Vigor Twistaway,F2,Warrior,B
+MV-SIG-HKS-008-07,Bearing-Locked Hook Drag,Sigilsnarl,F5,Champion,B
+MV-SIG-HKS-008-08,Long Line Cutting Rank,Volition Hookend,F2,Champion,B
+MV-SIG-HKS-008-09,Horizon Hooked Reach,Storied Yank,F1,Demigod,B
+MV-SIG-HKS-008-10,Three Lines Closing in One Thrust,Hookneck Verdict,F3,Warrior,B
+MV-SIG-HKS-009-01,Oath-Held Hook Guard,Glacier Hooktip,F2,Champion,B
+MV-SIG-HKS-009-02,Pledged Edge Cut,Haemal Swordhook,F2,Champion,B
+MV-SIG-HKS-009-03,Vow-Keeping Step,Evanescent Swordhook,F1,Champion,B
+MV-SIG-HKS-009-04,Oath-Bound Hook Lock,Sigildisarm,F5,Champion,B
+MV-SIG-HKS-009-05,Gale-Pressed Parry,Faithful Cresthook,F1,Champion,B
+MV-SIG-HKS-009-06,Pledge-Break Hook Tear,Thunderclap Pulldown,F2,Champion,B
+MV-SIG-HKS-009-07,Third-Oath Counter Slice,Vigor Hooklock,F2,Champion,B
+MV-SIG-HKS-009-08,Sworn Line Hooking Pull,Authoritative Hookhilt,F1,Champion,B
+MV-SIG-HKS-009-09,Gale-Force Chain of Pledges,Majestic Snarl,F1,Champion,B
+MV-SIG-HKS-009-10,Oath-Kept Armor Hooking,Quenched Hookcrook,F2,Demigod,B
+MV-SIG-HKS-009-11,Vow Bind and Release Course,Resonant Destiny Yank,F6a,Champion,B
+MV-SIG-HKS-010-01,Bearing-and-Oath Salute,Hookguard Seal,F3,Ruler,B
+MV-SIG-HKS-010-02,Held-Line Slice,Peerless Disarm,F1,Ruler,B
+MV-SIG-HKS-010-03,Shuffle on the Bearing,Squallyank,F5,Ruler,B
+MV-SIG-HKS-010-04,Oath-Line Hook Hold,Yankvow,F4,Ruler,B
+MV-SIG-HKS-010-05,Bearing Check and Return,Squall Hookcurve,F2,Ruler,B
+MV-SIG-HKS-010-06,Course-Setting Beat,Peal Hooklock,F2,Ruler,B
+MV-SIG-HKS-010-07,Dead-Reckoning Hook Seizure,Hornbeam Hookspine,F2,Ruler,B
+MV-SIG-HKS-010-08,Oath-Pace Cutting March,Seasondisarm,F5,Ruler,B
+MV-SIG-HKS-010-09,Landmark-Fixed Hook Haul,Sigil Yank,F2,Demigod,B
+MV-SIG-HKS-010-10,Held Bearing and Held Oath Form,Orchestral Snarl,F1,Ruler,B
+MV-SIG-HKS-011-01,Open Gale Wide Stance,Steelclevis,F5,Demigod,B
+MV-SIG-HKS-011-02,Sweeping Gale Slash,Quenched Hookhilt,F2,Demigod,B
+MV-SIG-HKS-011-03,Skimming Run,Vigor Snarl,F2,Demigod,B
+MV-SIG-HKS-011-04,Gale Push Block,Pall Cresthook,F2,Demigod,B
+MV-SIG-HKS-011-05,Rolling Hook Capture,Disarmvow,F4,Demigod,B
+MV-SIG-HKS-011-06,Spiral-Gust Cut,Squallcleat,F5,Demigod,B
+MV-SIG-HKS-011-07,Whipping Tail Hook,Peal Disarm,F2,Demigod,B
+MV-SIG-HKS-011-08,Wind-Born Dodge Hook,Bedrock Hookend,F2,Demigod,B
+MV-SIG-HKS-011-09,Open-Ground Hook Sweep Throw,Unbending Hooktip,F1,Demigod,B
+MV-SIG-HKS-011-10,Storm-Driven Cutting Rush,Gloomsnarl,F5,Demigod,B
+MV-SIG-HKS-011-11,Gale Through the Ranks,Snarlseal,F4,Demigod,B
+MV-SIG-HKS-011-12,Sweep Hook and Throw Sequence,Choral Season Hookcrook,F6a,Demigod,B
+MV-SIG-HKS-012-01,Unwalled Core Breath,Glacier Hookguard,F2,Core Formation,B
+MV-SIG-HKS-012-02,Hollow-Reed Cut,Thunderclap Hookspine,F2,Core Formation,B
+MV-SIG-HKS-012-03,Open-Field Gliding Step,Squall Swordhook,F2,Core Formation,B
+MV-SIG-HKS-012-04,Core-Warmed Hook Grip,Yank Covenant,F3,Core Formation,B
+MV-SIG-HKS-012-05,Boundless Parry,Deluge Hookcrook,F2,Core Formation,B
+MV-SIG-HKS-012-06,Horizon-Run Hook Cut,Vigorclevis,F5,Core Formation,B
+MV-SIG-HKS-012-07,Unbounded Hook Heave,Authoritative Hookcurve,F1,Core Formation,B
+MV-SIG-HKS-012-08,Boundless Core Cutting Storm,Bedrock Twistaway,F2,Core Formation,B
+MV-SIG-HKS-012-09,Core-Tide Hooking Seal,Imperious Cresthook,F1,Core Formation,B
+MV-SIG-HKS-012-10,Open Core Sequence Without a Wall,Symphonic Destiny Hooklock,F6a,Core Formation,B
+MV-SIG-HKS-001-09,Hornbeam Hooklock,Rending Hooklock,F2,Demigod,B
+MV-SIG-HKS-003-09,Hornbeam Hookend,Rending Hookend,F2,Demigod,B
+MV-SIG-HKS-004-07,Dune Disarm,Surging Disarm,F2,Ruler,B
+MV-SIG-HKS-007-07,Sanctum Hookguard,Stalwart Hookguard,F2,Warrior,B
+MV-SIG-HKS-008-04,Hornbeam Pulldown,Vising Pulldown,F2,Warrior,B
+MV-SIG-HKS-009-01,Glacier Hooktip,Adamant Hooktip,F2,Champion,B
+MV-SIG-HKS-010-07,Hornbeam Hookspine,Crushing Hookspine,F2,Ruler,B
+MV-SIG-HKS-012-01,Glacier Hookguard,Ironclad Hookguard,F2,Core Formation,B

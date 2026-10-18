@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-TKN-001-01,Cuff Edge Skim Throw,Rough Throwgrip,F1,Senior,A
+MV-INT-TKN-001-02,Wood Bite Practice Cast,Keen Weighttang,F1,Senior,A
+MV-INT-TKN-001-03,Hem Anchor Low Throw,Entangling Balanceblade,F1,Senior,A
+MV-INT-TKN-001-04,Draw-Aside Foot Shuffle,Edgeflat Swerve,F3,Senior,A
+MV-INT-TKN-001-05,Qi-Edged Sleeve Nail,Cramping Spinthrow,F1,Senior,A
+MV-INT-TKN-001-06,Double Cloth Stitch Throw,Binding Pointguard,F1,Senior,A
+MV-INT-TKN-002-01,Rolling Blade Opening Toss,Rough Bladeflat,F1,Senior,A
+MV-INT-TKN-002-02,Left Right Step Spin,Flightflog,F4,Senior,A
+MV-INT-TKN-002-03,Series Guard Elbow,Slimscreen,F4,Senior,A
+MV-INT-TKN-002-04,Third Spin Swerve,Prowling Throwtang,F1,Senior,A
+MV-INT-TKN-002-05,Spinning Wheel Drill Cast,Lodge Scorer,F3,Senior,A
+MV-INT-TKN-002-06,Rolling Series Chain Throw,Keen Spineweight,F1,Senior,A
+MV-INT-TKN-002-07,Guard Between Release Turn,Padded Edgeflat,F1,Senior,A
+MV-INT-TKN-003-01,Walking Throw Cadence,Rugged Flight,F1,Senior,A
+MV-INT-TKN-003-02,Circling Orbit Throw,Rude Spinetip,F1,Senior,A
+MV-INT-TKN-003-03,Weave and Release,Stick Stalk,F3,Senior,A
+MV-INT-TKN-003-04,Skip Step Quick Cast,Slimslap,F4,Senior,A
+MV-INT-TKN-003-05,Pursuit Reading Glance,Sound Bladeflat,F1,Senior,A
+MV-INT-TKN-003-06,Late Pivot Release,Stickscorer,F4,Senior,A
+MV-INT-TKN-003-07,Spiral Stride Barrage,Lurching Thunk,F1,Senior,A
+MV-INT-TKN-003-08,Qi Spring Leap Throw,Brutal Pointguard,F1,Senior,A
+MV-INT-TKN-004-01,Shoulder Glance Backhand Toss,Cometthunk,F5,Warrior,B
+MV-INT-TKN-004-02,Cross Body Return Throw,Sleet Flight,F2,Warrior,B
+MV-INT-TKN-004-03,Retreat Heel Cast,Doughty Hiltweight,F1,Warrior,B
+MV-INT-TKN-004-04,Blind Side Wrist Flip,Shard Balanceblade,F2,Warrior,B
+MV-INT-TKN-004-05,Retreat Cover Roll,Brawn Throwtang,F2,Warrior,B
+MV-INT-TKN-004-06,Fleeing Whirl Turn,Pirouetting Lodge,F1,Warrior,B
+MV-INT-TKN-004-07,Rear Guard Ankle Pin,Shivbarrier,F4,Warrior,B
+MV-INT-TKN-004-08,Over Shoulder Qi Arc,Draught Throwgrip,F2,Warrior,B
+MV-INT-TKN-004-09,Break Pursuit Scatter Throw,Doughty Flickthrow,F1,Warrior,B
+MV-INT-TKN-005-01,Taut Line Test Toss,Hum Spineweight,F2,Warrior,B
+MV-INT-TKN-005-02,Edge First Cord Throw,Staticshiv,F5,Warrior,B
+MV-INT-TKN-005-03,Strap Buckle Snip Cast,Humshiv,F5,Warrior,B
+MV-INT-TKN-005-04,Hanging Lamp Drop Throw,Gall Weighttang,F2,Warrior,B
+MV-INT-TKN-005-05,Rein Slash Distance Throw,Shard Stick,F2,Warrior,B
+MV-INT-TKN-005-06,Side Step Cord Guard,Stickswerve,F4,Warrior,B
+MV-INT-TKN-005-07,Bowstring Snap Cast,Gall Spinetip,F2,Warrior,B
+MV-INT-TKN-005-08,Net Rope Qi Edge Throw,Humthunk,F5,Warrior,B
+MV-INT-TKN-005-09,Tether Chain Break Cast,Discord Flickthrow,F2,Warrior,B
+MV-INT-TKN-005-10,Binding Cord Unthread Throw,Slimbuckle,F4,Warrior,B
+MV-INT-TKN-006-01,Chest Strap Draw,Cometlodge,F5,Warrior,B
+MV-INT-TKN-006-02,Bandolier Spending Order,Gap Bladeflat,F2,Warrior,B
+MV-INT-TKN-006-03,Cross Hand Double Draw,Humlodge,F5,Warrior,B
+MV-INT-TKN-006-04,Loop Shoulder Reload,Patient Hiltweight,F1,Warrior,B
+MV-INT-TKN-006-05,Fast Forward Strap Roll,Stickzip,F4,Warrior,B
+MV-INT-TKN-006-06,Strap Burst Draw Salvo,Purpose Pointguard,F2,Warrior,B
+MV-INT-TKN-006-07,Qi Pressed Last Loop Throw,Comet Spinthrow,F2,Warrior,B
+MV-INT-TKN-007-01,Three Finger Fan Grip,Sleetstick,F5,Warrior,B
+MV-INT-TKN-007-02,Narrow Wing Spread Throw,Emberlodge,F5,Warrior,B
+MV-INT-TKN-007-03,Wide Wing Spread Throw,Brutal Edgeflat,F1,Warrior,B
+MV-INT-TKN-007-04,Fan Shield Guard Wave,Draught Spinetip,F2,Warrior,B
+MV-INT-TKN-007-05,Close Step Fan Entry,Brawn Thunk,F2,Warrior,B
+MV-INT-TKN-007-06,Dodge Route Blocking Fan,Discord Flight,F2,Warrior,B
+MV-INT-TKN-007-07,Four Blade Qi Fan,Cometstick,F5,Warrior,B
+MV-INT-TKN-007-08,Fan Net Cage Cast,Viselike Throwgrip,F1,Warrior,B
+MV-INT-TKN-008-01,Shield Rim Rap Throw,Static Spinthrow,F2,Warrior,B
+MV-INT-TKN-008-02,Blade Flat Knock Aside,Shard Flickthrow,F2,Warrior,B
+MV-INT-TKN-008-03,Pommel Hammer Throw,Hiltweight Swat,F3,Warrior,B
+MV-INT-TKN-008-04,Lowered Guard Opening Step,Lodgezip,F4,Warrior,B
+MV-INT-TKN-008-05,Pole Haft Flick Throw,Sleet Balanceblade,F2,Warrior,B
+MV-INT-TKN-008-06,Buckler Edge Spin Drive,Comet Spineweight,F2,Warrior,B
+MV-INT-TKN-008-07,Qi Hammered Shield Throw,Hum Throwtang,F2,Warrior,B
+MV-INT-TKN-008-08,Double Impact Guard Split,Gripping Pointguard,F1,Warrior,B
+MV-INT-TKN-008-09,Rolling Impact Chain Throw,Dusklodge,F5,Warrior,B

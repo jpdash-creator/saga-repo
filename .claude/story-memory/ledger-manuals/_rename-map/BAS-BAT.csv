@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-BAT-001-01,Baton Grip Set,Billystay,F4,Unawakened,A
+MV-BAS-BAT-001-02,Half Step Advance,Light Balanceknob,F1,Unawakened,A
+MV-BAS-BAT-001-03,Overhead Rod Drop,Truncheon Drop,F3,Unawakened,A
+MV-BAS-BAT-001-04,Hip Swing to the Ribs,Gnawing Batongrip,F1,Unawakened,A
+MV-BAS-BAT-001-05,Crosswise Rod Block,Ready Sidebar,F1,Unawakened,A
+MV-BAS-BAT-002-01,Wrist Loop Carry,Resting Shortstick,F1,Skin,A
+MV-BAS-BAT-002-02,Shuffle Guard Walk,Weightend Hop,F3,Skin,A
+MV-BAS-BAT-002-03,Forearm Rap,Quick Gripwrap,F1,Skin,A
+MV-BAS-BAT-002-04,Elbow Hook Pull,Crackdown Husk,F3,Skin,A
+MV-BAS-BAT-002-05,Low Shin Cut,Sharp Hardwood,F1,Skin,A
+MV-BAS-BAT-002-06,Two-Hand Push Bar,Capendpause,F4,Skin,A
+MV-BAS-BAT-003-01,Cudgel Grip Roll,Holding Lanyardloop,F1,Muscle,A
+MV-BAS-BAT-003-02,Forearm Brace Block,Snug Balanceknob,F1,Muscle,A
+MV-BAS-BAT-003-03,Angle Step Out,Capendskitter,F4,Muscle,A
+MV-BAS-BAT-003-04,Downward Collar Strike,Stundrop,F4,Muscle,A
+MV-BAS-BAT-003-05,Rising Butt Jab,Narrow Capend,F1,Muscle,A
+MV-BAS-BAT-003-06,Sleeve Catch Twist,Cuff Wedge,F3,Muscle,A
+MV-BAS-BAT-003-07,Retreating Parry Swing,Tight Batongrip,F1,Muscle,A
+MV-BAS-BAT-004-01,Carrying Stick Ready Hold,Hooding Gripwrap,F1,Tendon,A
+MV-BAS-BAT-004-02,Slow Lunge Step,Nimble Sidebar,F1,Tendon,A
+MV-BAS-BAT-004-03,First Strike Down the Line,Batondrop,F4,Tendon,A
+MV-BAS-BAT-004-04,Knuckle Guard Rap,Switchblow,F4,Tendon,A
+MV-BAS-BAT-004-05,Controlled Push Away,Hitching Cuff,F1,Tendon,A
+MV-BAS-BAT-004-06,Stepping Retreat Cover,Tick Hop,F3,Tendon,A
+MV-BAS-BAT-004-07,Wrist Knock Release,Batonhusk,F4,Tendon,A
+MV-BAS-BAT-004-08,Side Parry and Return,Billyhusk,F4,Tendon,A
+MV-BAS-BAT-005-01,Thumb Along Shaft Hold,Capendlid,F4,Bone,A
+MV-BAS-BAT-005-02,Wrist Snap Rap,Gnawing Rapidrap,F1,Bone,A
+MV-BAS-BAT-005-03,Rod Heel Press,Crackdown Wedge,F3,Bone,A
+MV-BAS-BAT-005-04,Inner Third Baton Check,Batonpause,F4,Bone,A
+MV-BAS-BAT-005-05,Inside Wrist Hook,Stopping Switch,F1,Bone,A
+MV-BAS-BAT-005-06,Pivot Away Step,Quiet Shortstick,F1,Bone,A
+MV-BAS-BAT-006-01,Breath Settled Grip,Capendcowl,F4,Senior,A
+MV-BAS-BAT-006-02,Qi Thread Rap,Firm Capend,F1,Senior,A
+MV-BAS-BAT-006-03,Warm Forearm Block,Resting Truncheon,F1,Senior,A
+MV-BAS-BAT-006-04,Inhale and Slide Step,Swaying Weightend,F1,Senior,A
+MV-BAS-BAT-006-05,Rod Tip Jab to the Gut,Upward Hardwood,F1,Senior,A
+MV-BAS-BAT-006-06,Exhale Drop Strike,Forward Switch,F1,Senior,A
+MV-BAS-BAT-006-07,Steady Breath Hook,Locking Lanyardloop,F1,Senior,A
+MV-BAS-BAT-007-01,Duty Rod Guard,Tight Lanyardloop,F1,Senior,A
+MV-BAS-BAT-007-02,Rap and Retreat,Switchbump,F4,Senior,A
+MV-BAS-BAT-007-03,Shaft Slap Parry,Sidebar Wedge,F3,Senior,A
+MV-BAS-BAT-007-04,Square Stance Turn,Nimble Stun,F1,Senior,A
+MV-BAS-BAT-007-05,Rod Lever Pin,Ticklid,F4,Senior,A
+MV-BAS-BAT-008-01,Thread Grip Hold,Tight Weightend,F1,Senior,A
+MV-BAS-BAT-008-02,Circulated Thigh Strike,Hard Stun,F1,Senior,A
+MV-BAS-BAT-008-03,Qi-Warmed Cross Block,Folded Balanceknob,F1,Senior,A
+MV-BAS-BAT-008-04,Light Qi Shuffle,Batonskitter,F4,Senior,A
+MV-BAS-BAT-008-05,Rod Edge Collarbone Cut,Quick Rapidrap,F1,Senior,A
+MV-BAS-BAT-008-06,Hook and Heave Down,Switchcowl,F4,Senior,A
+MV-BAS-BAT-008-07,Tap to the Elbow Joint,Billywedge,F4,Senior,A
+MV-BAS-BAT-008-08,Backstep Cover Swing,Batonwedge,F4,Senior,A
+MV-BAS-BAT-009-01,Steady Hand Hold,Kept Gripwrap,F1,Senior,A
+MV-BAS-BAT-009-02,Measured Rap to the Wrist,Narrow Tick,F1,Senior,A
+MV-BAS-BAT-009-03,Slow Press Along the Arm,Batonlid,F4,Senior,A
+MV-BAS-BAT-009-04,Even Weight Glide,Easing Stun,F1,Senior,A
+MV-BAS-BAT-009-05,Check Swing Across,Tight Truncheon,F1,Senior,A
+MV-BAS-BAT-009-06,Thigh Tap Return,Firm Crackdown,F1,Senior,A
+MV-BAS-BAT-010-01,Stick and Step Union,Planted Hardwood,F1,Senior,A
+MV-BAS-BAT-010-02,Settled Breath Rap,Switchstrike,F4,Senior,A
+MV-BAS-BAT-010-03,Stepping Elbow Check,Batonstay,F4,Senior,A
+MV-BAS-BAT-010-04,Rear Foot Drive Strike,Flat Shortstick,F1,Senior,A
+MV-BAS-BAT-010-05,Cross-Step Slip,Nimble Cuff,F1,Senior,A
+MV-BAS-BAT-010-06,Shaft Bar Pin,Tripping Rapidrap,F1,Senior,A
+MV-BAS-BAT-010-07,Quick Wrist Flick Cut,Stun Blow,F3,Senior,A

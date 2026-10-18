@@ -1,0 +1,80 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-GRN-001-01,Burst Shape Foreknowing,Chime Pinring,F2,Champion L1 Low,B
+MV-ADV-GRN-001-02,Level Palm Weighing,Lancing Cap,F1,Champion L1 Low,B
+MV-ADV-GRN-001-03,Sunk Hip Release,Rumblecasing,F5,Champion L1 Low,B
+MV-ADV-GRN-001-04,Splinter-Side Cover Roll,Charter Powderchamber,F2,Champion L1 Low,B
+MV-ADV-GRN-001-05,Solid Face Spray Placement,Granite Lever,F2,Champion L1 Low,B
+MV-ADV-GRN-001-06,Open Field Scatter Placement,Detonate Assault,F3,Champion L1 Low,B
+MV-ADV-GRN-001-07,Qi-Fanned Splinter Line,Fuseassault,F4,Champion L1 Low,B
+MV-ADV-GRN-001-08,Tripcord Shell Snare,Toxinspoon,F5,Champion L1 Low,B
+MV-ADV-GRN-002-01,Dawn Track Reading,Verity Shrapnel,F2,Champion L4 Mid,B
+MV-ADV-GRN-002-02,Peg and Cord Lashing,Thorn Kaboom,F2,Champion L4 Mid,B
+MV-ADV-GRN-002-03,Elbow Crawl to the Site,Soaring Spoon,F1,Champion L4 Mid,B
+MV-ADV-GRN-002-04,Single Heel Withdrawal,Gust Fragmentation,F2,Champion L4 Mid,B
+MV-ADV-GRN-002-05,Buried Shell Under Boards,Furrowing Shockwave,F1,Champion L4 Mid,B
+MV-ADV-GRN-002-06,Hung Shell Door Rig,Slag Firecap,F2,Champion L4 Mid,B
+MV-ADV-GRN-002-07,Dud Left in Plain Sight,Murksizzle,F5,Champion L4 Mid,B
+MV-ADV-GRN-002-08,Funnel Path Shell Line,Fastening Casing,F2,Champion L4 Mid,B
+MV-ADV-GRN-002-09,Yard Ring Closing Snare,Facet Fragment,F2,Champion L4 Mid,B
+MV-ADV-GRN-003-01,Field-Held Shell Float,Ravaging Fuse,F1,Demigod L1 Low,B
+MV-ADV-GRN-003-02,Dark Standing Sense,Expanse Powderchamber,F2,Demigod L1 Low,B
+MV-ADV-GRN-003-03,Crosswind Field Line Throw,Chimecap,F5,Demigod L1 Low,B
+MV-ADV-GRN-003-04,Field Sidestep Away,Gust Fuse,F2,Demigod L1 Low,B
+MV-ADV-GRN-003-05,Muffled Burst Crouch,Thornlever,F5,Demigod L1 Low,B
+MV-ADV-GRN-003-06,Mid-Flight Field Nudge,Nova Sizzle,F2,Demigod L1 Low,B
+MV-ADV-GRN-003-07,Narrow Fan Burst Press,Shrapnel Thrash,F3,Demigod L1 Low,B
+MV-ADV-GRN-003-08,Sweeping Return Parry,Casing Hauberk,F3,Demigod L1 Low,B
+MV-ADV-GRN-003-09,Unbroken Shell Barrage,Siltspoon,F5,Demigod L1 Low,B
+MV-ADV-GRN-003-10,Field Casing Over the Wounded,Thorncasing,F5,Demigod L1 Low,B
+MV-ADV-GRN-004-01,Ash Pinch Wind Test,Discerning Pinring,F1,Demigod L3 Mid,B
+MV-ADV-GRN-004-02,Under-Smoke Crawl,Might Shockwave,F2,Demigod L3 Mid,B
+MV-ADV-GRN-004-03,Eyes-Shut Counted Throw,Gustcap,F5,Demigod L3 Mid,B
+MV-ADV-GRN-004-04,Damp Cloth Mouth Tie,Unyielding Spoon,F1,Demigod L3 Mid,B
+MV-ADV-GRN-004-05,Spark Trail Carry Guess,Caplinctus,F4,Demigod L3 Mid,B
+MV-ADV-GRN-004-06,Smoke Bank Edge Walk,Might Detonate,F2,Demigod L3 Mid,B
+MV-ADV-GRN-004-07,Row of Puffs Screen,Glamour Firecap,F2,Demigod L3 Mid,B
+MV-ADV-GRN-004-08,Earth Bank Forward Spray,Ravaging Cap,F1,Demigod L3 Mid,B
+MV-ADV-GRN-004-09,Flash Answer Throw,Splintering Sizzle,F1,Demigod L3 Mid,B
+MV-ADV-GRN-004-10,Choking Pass Smoke Lay,Mayhem Lever,F2,Demigod L3 Mid,B
+MV-ADV-GRN-004-11,Steady Fall Ground Denial,Charter Fragment,F2,Demigod L3 Mid,B
+MV-ADV-GRN-005-01,Paired Hand Shell Draw,Granite Concussion,F2,Champion L2 Low,B
+MV-ADV-GRN-005-02,Twin Fuse Breathing,Shrapnel Remedy,F3,Champion L2 Low,B
+MV-ADV-GRN-005-03,Left and Right Release Pair,Lancing Fragment,F1,Champion L2 Low,B
+MV-ADV-GRN-005-04,Back-to-Back Crouch Pair,Facetcasing,F5,Champion L2 Low,B
+MV-ADV-GRN-005-05,Two-Mark Linked Cast,Blaze Concussion,F2,Champion L2 Low,B
+MV-ADV-GRN-005-06,Track Switch Pitch,Tearing Powderchamber,F1,Champion L2 Low,B
+MV-ADV-GRN-005-07,Partnered Burst and Rush,Careening Shockwave,F1,Champion L2 Low,B
+MV-ADV-GRN-005-08,Opposed Sides Crossfire Cast,Slagsizzle,F5,Champion L2 Low,B
+MV-ADV-GRN-005-09,Dual-Track Splinter Screen,Mantled Lever,F1,Champion L2 Low,B
+MV-ADV-GRN-006-01,Hare-Marking Hawk Eye,Expanse Spoon,F2,Ruler L2 Mid,B
+MV-ADV-GRN-006-02,Lifting Wing Arm Raise,Glint Detonate,F2,Ruler L2 Mid,B
+MV-ADV-GRN-006-03,Stooping Arm Drop Throw,Facetspoon,F5,Ruler L2 Mid,B
+MV-ADV-GRN-006-04,Talon Pinch Short Lob,Glintsizzle,F5,Ruler L2 Mid,B
+MV-ADV-GRN-006-05,Cliff Perch Lean-Out,Adamant Casing,F1,Ruler L2 Mid,B
+MV-ADV-GRN-006-06,Wheeling Circle Throw,Kaboom Onslaught,F3,Ruler L2 Mid,B
+MV-ADV-GRN-006-07,Low Glide Escape,Gustkaboom,F5,Ruler L2 Mid,B
+MV-ADV-GRN-006-08,Hidden Hare Flushing Lob,Glamour Fuse,F2,Ruler L2 Mid,B
+MV-ADV-GRN-006-09,Falling Hawk Volley,Downpour Fragmentation,F2,Ruler L2 Mid,B
+MV-ADV-GRN-006-10,Hover Over the Mark,Furrowing Fragmentation Barrage,F6b,Ruler L2 Mid,B
+MV-ADV-GRN-007-01,Shoulder-to-Shoulder Court Stance,Facetlever,F5,Demigod L2 Low,B
+MV-ADV-GRN-007-02,Two-Word Pair Signal,Expanse Cap,F2,Demigod L2 Low,B
+MV-ADV-GRN-007-03,Shared Qi Breath Beat,Remnant Pinring,F2,Demigod L2 Low,B
+MV-ADV-GRN-007-04,Mirror Step Advance,Torrent Concussion,F2,Demigod L2 Low,B
+MV-ADV-GRN-007-05,Off-Hand Reserve Shell,Glint Kaboom,F2,Demigod L2 Low,B
+MV-ADV-GRN-007-06,Rested Arm Rotation,Vaulting Shockwave,F1,Demigod L2 Low,B
+MV-ADV-GRN-007-07,Alternating Pair Casts,Granite Powderchamber,F2,Demigod L2 Low,B
+MV-ADV-GRN-007-08,Joined Field Shell Guiding,Fusetorment,F4,Demigod L2 Low,B
+MV-ADV-GRN-007-09,Paired Withdrawal Through Bursts,Hastening Sizzle,F1,Demigod L2 Low,B
+MV-ADV-GRN-007-10,Twin-Court Burst Ring,Slag Casing,F2,Demigod L2 Low,B
+MV-ADV-GRN-007-11,Paired Lattice of Shells,Nova Firecap,F2,Demigod L2 Low,B
+MV-ADV-GRN-008-01,Slanted Bank Throwing Footing,Charter Spoon,F2,Demigod L5 Low,B
+MV-ADV-GRN-008-02,Basin Rim Pitching,Chime Concussion,F2,Demigod L5 Low,B
+MV-ADV-GRN-008-03,Drifting Debris Reading,Waninglever,F5,Demigod L5 Low,B
+MV-ADV-GRN-008-04,Stepping Stone Crossing,Torrent Sizzle,F2,Demigod L5 Low,B
+MV-ADV-GRN-008-05,Ford Shallows Burst,Blazecap,F5,Demigod L5 Low,B
+MV-ADV-GRN-008-06,Basin Filling Cast,Blaze Lever,F2,Demigod L5 Low,B
+MV-ADV-GRN-008-07,High Water Line Shell Trap,Deed Cap,F2,Demigod L5 Low,B
+MV-ADV-GRN-008-08,River Bend Raking Barrage,Rupturing Pinring,F1,Demigod L5 Low,B
+MV-ADV-GRN-003-02,Expanse Powderchamber,Clear Powderchamber,F2,Demigod L1 Low,B
+MV-ADV-GRN-006-01,Expanse Spoon,Sharp Spoon,F2,Ruler L2 Mid,B
+MV-ADV-GRN-007-02,Expanse Cap,Wary Cap,F2,Demigod L2 Low,B

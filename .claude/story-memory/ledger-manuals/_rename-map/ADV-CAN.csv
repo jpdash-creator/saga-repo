@@ -1,0 +1,71 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-CAN-001-01,Timber Face Chalk Mark,Waning Quoin,F2,Champion L1 Mid,B
+MV-ADV-CAN-001-02,Heavy Ball Sling Barrow,Mightshot,F5,Champion L1 Mid,B
+MV-ADV-CAN-001-03,Scoop Count Heavy Charge,Quoinelixir,F4,Champion L1 Mid,B
+MV-ADV-CAN-001-04,Trunnion Cap Mallet Tap,Verity Wheelhub,F2,Champion L1 Mid,B
+MV-ADV-CAN-001-05,Padded Beam Trail Brace,Unbroken Carriage,F1,Champion L1 Mid,B
+MV-ADV-CAN-001-06,Tight Wad Qi Press,Equipoise Touchhole,F2,Champion L1 Mid,B
+MV-ADV-CAN-001-07,Plank Splitting Round,Raging Broadside,F1,Champion L1 Mid,B
+MV-ADV-CAN-001-08,Wedged Hole Triple Shot,Successive Hour Trunnion,F6a,Champion L1 Mid,B
+MV-ADV-CAN-002-01,Marker Stake Row,Expanse Breechrope,F2,Champion L5 Low,B
+MV-ADV-CAN-002-02,Thigh Slap Beat Keep,Anointing Linstock,F1,Champion L5 Low,B
+MV-ADV-CAN-002-03,Wheel Gap Pace Out,Hastening Muzzleswell,F1,Champion L5 Low,B
+MV-ADV-CAN-002-04,Waxed Cloth Cartridge Cover,Granite Gunbore,F2,Champion L5 Low,B
+MV-ADV-CAN-002-05,Spare Handspike Pass Down,Might Breechrope,F2,Champion L5 Low,B
+MV-ADV-CAN-002-06,Rolling Order Down the Line,Shade Bombard,F2,Champion L5 Low,B
+MV-ADV-CAN-002-07,Half Notch March,Nova Roar,F2,Champion L5 Low,B
+MV-ADV-CAN-002-08,Rested Gun Wake,Shotremedy,F4,Champion L5 Low,B
+MV-ADV-CAN-002-09,Creeping Shell Curtain,Shotthrash,F4,Champion L5 Low,B
+MV-ADV-CAN-002-10,Lifted Fire Release,Lotrecoil,F5,Champion L5 Low,B
+MV-ADV-CAN-003-01,Axle Line Toe Nudge,Cascabel Canter,F3,Demigod L1 Low,B
+MV-ADV-CAN-003-02,Powder Dump Box Count,Rejuvenating Muzzleswell,F1,Demigod L1 Low,B
+MV-ADV-CAN-003-03,Centre Cord Pull,Vigorous Trunnion,F1,Demigod L1 Low,B
+MV-ADV-CAN-003-04,Dry Grass Floor Sweep,Daybreak Cascabel,F2,Demigod L1 Low,B
+MV-ADV-CAN-003-05,Field Qi Ring Link,Quoinlinctus,F4,Demigod L1 Low,B
+MV-ADV-CAN-003-06,Cross Smoke Reading,Waning Wheelhub,F2,Demigod L1 Low,B
+MV-ADV-CAN-003-07,Battery Back Pace,Bounding Gunbore,F1,Demigod L1 Low,B
+MV-ADV-CAN-003-08,Massed Crash Salvo,Cannonade Assault,F3,Demigod L1 Low,B
+MV-ADV-CAN-003-09,Half Line Fold Behind,Sinister Quoin,F1,Demigod L1 Low,B
+MV-ADV-CAN-004-01,Flash Bearing Stake Line,Verityshot,F5,Demigod L3 Mid,B
+MV-ADV-CAN-004-02,Boom Breath Delay Count,Discerning Carriage,F1,Demigod L3 Mid,B
+MV-ADV-CAN-004-03,Plume Thickness Judge,Waning Linstock,F2,Demigod L3 Mid,B
+MV-ADV-CAN-004-04,Wheel Rim Glass Rest,Verityquoin,F5,Demigod L3 Mid,B
+MV-ADV-CAN-004-05,Slate Bearing Runner,Vital Trunnion,F2,Demigod L3 Mid,B
+MV-ADV-CAN-004-06,First Guess Quoin Set,Vitalquoin,F5,Demigod L3 Mid,B
+MV-ADV-CAN-004-07,Crossed Bearing Fix,Verity Linstock,F2,Demigod L3 Mid,B
+MV-ADV-CAN-004-08,Answering Shot Fire,Facet Recoil,F2,Demigod L3 Mid,B
+MV-ADV-CAN-004-09,Carriage Dismount Round,Cannonthrash,F4,Demigod L3 Mid,B
+MV-ADV-CAN-004-10,Silent Gun Feint,Mayhem Recoil,F2,Demigod L3 Mid,B
+MV-ADV-CAN-004-11,Battery Silencing Volley,Intent Ballshot,F2,Demigod L3 Mid,B
+MV-ADV-CAN-004-12,Hidden Reply Switch,Compounding Touchhole,F1,Demigod L3 Mid,B
+MV-ADV-CAN-005-01,Twin Hand Rammer Seat,Rejuvenating Gunbore,F1,Champion L8 Mid,B
+MV-ADV-CAN-005-02,Mirror Side Stance,Torrent Cannonade,F2,Champion L8 Mid,B
+MV-ADV-CAN-005-03,Paired Spike Swing,Vital Muzzleswell,F2,Champion L8 Mid,B
+MV-ADV-CAN-005-04,Twin Bucket Alternate,Intent Touchhole,F2,Champion L8 Mid,B
+MV-ADV-CAN-005-05,Partner Shoulder Cover,Cannongreave,F4,Champion L8 Mid,B
+MV-ADV-CAN-005-06,Matched Breath Nod Lay,Mindful Carriage,F1,Champion L8 Mid,B
+MV-ADV-CAN-005-07,Twin Track Sponge Ram,Might Wheelhub,F2,Champion L8 Mid,B
+MV-ADV-CAN-005-08,Crossed Portfire Touch,Rumblecannon,F5,Champion L8 Mid,B
+MV-ADV-CAN-005-09,Mirrored Trail Pivot,Gust Broadside,F2,Champion L8 Mid,B
+MV-ADV-CAN-005-10,Twin Court Double Round,Hour Ballshot,F2,Champion L8 Mid,B
+MV-ADV-CAN-005-11,Azure Pairing Relay Fire,Roartorment,F4,Champion L8 Mid,B
+MV-ADV-CAN-006-01,Hawk Stoop Glance,Cannonelixir,F4,Ruler L2 Low,B
+MV-ADV-CAN-006-02,Wagon Bed Height Take,Chime Cascabel,F2,Ruler L2 Low,B
+MV-ADV-CAN-006-03,Shadow Length Reckon,Expanse Linstock,F2,Ruler L2 Low,B
+MV-ADV-CAN-006-04,Kestrel Hover Still,Intentshot,F5,Ruler L2 Low,B
+MV-ADV-CAN-006-05,River Bend Fall Read,Gunbore Elixir,F3,Ruler L2 Low,B
+MV-ADV-CAN-006-06,Quartering Wind Lay,Intent Breechrope,F2,Ruler L2 Low,B
+MV-ADV-CAN-006-07,Far Hawk Sight Shot,Blaze Recoil,F2,Ruler L2 Low,B
+MV-ADV-CAN-006-08,Ford Crossing Tracking Fire,Quoinassault,F4,Ruler L2 Low,B
+MV-ADV-CAN-007-01,Dual Track Breath Pair,Equipoise Cascabel,F2,Demigod L5 Low,B
+MV-ADV-CAN-007-02,Shot Skin Qi Coat,Daybreak Quoin,F2,Demigod L5 Low,B
+MV-ADV-CAN-007-03,Bore Line Qi Trace,Remnant Quoin,F2,Demigod L5 Low,B
+MV-ADV-CAN-007-04,Vent Glint Heat Check,Expanse Trunnion,F2,Demigod L5 Low,B
+MV-ADV-CAN-007-05,Twin Pulse Charge Seat,Intent Carriage,F2,Demigod L5 Low,B
+MV-ADV-CAN-007-06,Azure Thread Lay,Breechrope Remedy,F3,Demigod L5 Low,B
+MV-ADV-CAN-007-07,Basin Echo Recoil Soak,Quoinplating,F4,Demigod L5 Low,B
+MV-ADV-CAN-007-08,Qi Laid Round Shot,Facet Cannonade,F2,Demigod L5 Low,B
+MV-ADV-CAN-007-09,Paired Thread Penetrator,Facet Ballshot,F2,Demigod L5 Low,B
+MV-ADV-CAN-002-01,Expanse Breechrope,Sharp Breechrope,F2,Champion L5 Low,B
+MV-ADV-CAN-006-03,Expanse Linstock,Keen Linstock,F2,Ruler L2 Low,B
+MV-ADV-CAN-007-04,Expanse Trunnion,Keen Trunnion,F2,Demigod L5 Low,B

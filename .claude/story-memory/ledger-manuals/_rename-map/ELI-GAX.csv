@@ -1,0 +1,153 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-GAX-001-01,Court Opening Chop,Wideswell Reckoning,F3,Demigod L1 Low,B
+MV-ELI-GAX-001-02,Twin Court Step,Meteoric Rend,F1,Demigod L1 Low,B
+MV-ELI-GAX-001-03,Court Guard Hold,Granite Greatbeard,F2,Demigod L1 Low,B
+MV-ELI-GAX-001-04,Twin-Court Hew,Axescourge,F4,Demigod L1 Low,B
+MV-ELI-GAX-001-05,Court Answer Parry,Chime Haftrope,F2,Demigod L1 Low,B
+MV-ELI-GAX-001-06,Seat Pressing Weight,Charter Hewfall,F2,Demigod L1 Low,B
+MV-ELI-GAX-001-07,Court Pair Great Cleave,Might Overhew,F2,Demigod L1 Low,B
+MV-ELI-GAX-001-08,Twin Seat Crushing Fall,Vengeful Longhelve,F1,Demigod L1 Low,B
+MV-ELI-GAX-001-09,Twin-Court Verdict Stroke,Punishing Greatbit,F1,Demigod L1 Low,B
+MV-ELI-GAX-002-01,River Fork Chop,Grievous Sunder,F1,Demigod L2 Mid,B
+MV-ELI-GAX-002-02,Ford Wading Step,Vanishing Haftbell,F1,Demigod L2 Mid,B
+MV-ELI-GAX-002-03,Bank Guard Lift,Aegis Doubleedge,F2,Demigod L2 Mid,B
+MV-ELI-GAX-002-04,Silt Reading Sense,Veritytimber,F5,Demigod L2 Mid,B
+MV-ELI-GAX-002-05,Double Fall Hew,Blaze Splitmass,F2,Demigod L2 Mid,B
+MV-ELI-GAX-002-06,Fork Current Deflect,Torrent Poleshoe,F2,Demigod L2 Mid,B
+MV-ELI-GAX-002-07,Undertow Hook Drag,Maiming Riven,F1,Demigod L2 Mid,B
+MV-ELI-GAX-002-08,Double River Great Fall,Titanic Overhew,F1,Demigod L2 Mid,B
+MV-ELI-GAX-002-09,Flood Weight Cleave,Might Wideswell,F2,Demigod L2 Mid,B
+MV-ELI-GAX-002-10,River Mouth Sundering Fall,Corroding Tempered Greatbit,F6a,Demigod L2 Mid,B
+MV-ELI-GAX-003-01,Hawk Eye Chop,Gust Haftbell,F2,Demigod L4 High,B
+MV-ELI-GAX-003-02,Wing Spread Step,Dazzling Longhelve,F1,Demigod L4 High,B
+MV-ELI-GAX-003-03,Beak Poke Strike,Rampaging Greatpoll,F1,Demigod L4 High,B
+MV-ELI-GAX-003-04,Talon Hewing Cut,Heavyeye Ruin,F3,Demigod L4 High,B
+MV-ELI-GAX-003-05,Hawk Cry Great Bit Hold,Charter Greatpoll,F2,Demigod L4 High,B
+MV-ELI-GAX-003-06,Feather Brush Deflect,Murk Doubleedge,F2,Demigod L4 High,B
+MV-ELI-GAX-003-07,Azure Hawk Hewing Stroke,Rend Havoc,F3,Demigod L4 High,B
+MV-ELI-GAX-003-08,Soaring Descent Cleave,Blazesunder,F5,Demigod L4 High,B
+MV-ELI-GAX-003-09,Hawk-Rending Azure Stroke,Splitmass Wrath,F3,Demigod L4 High,B
+MV-ELI-GAX-004-01,Basin Rim Chop,Rivenruin,F4,Void God L1 Low,B
+MV-ELI-GAX-004-02,Low Ground Step,Gustrend,F5,Void God L1 Low,B
+MV-ELI-GAX-004-03,Bowl Wall Guard,Poleshoe Tenacity,F3,Void God L1 Low,B
+MV-ELI-GAX-004-04,Echo Floor Reading,Axerespite,F4,Void God L1 Low,B
+MV-ELI-GAX-004-05,Basin Floor Hammer,Gust Haftrope,F2,Void God L1 Low,B
+MV-ELI-GAX-004-06,Wall Climbing Hew,Blistering Riven,F1,Void God L1 Low,B
+MV-ELI-GAX-004-07,Rim Pinning Press,Granite Sunder,F2,Void God L1 Low,B
+MV-ELI-GAX-004-08,Basin Breaking Great Fall,Hewfall Havoc,F3,Void God L1 Low,B
+MV-ELI-GAX-004-09,Bowl Shattering Sweep,Blistering Poleshoe,F1,Void God L1 Low,B
+MV-ELI-GAX-004-10,Basin Collapse Hew,Sanguine Sunder,F2,Void God L1 Low,B
+MV-ELI-GAX-005-01,Paired Court Great Chop,Iron Splitmass,F2,Demigod L7 Low,B
+MV-ELI-GAX-005-02,Court Pace Step,Siltsunder,F5,Demigod L7 Low,B
+MV-ELI-GAX-005-03,Pair Bar Guard,Unbudging Greatbeard,F1,Demigod L7 Low,B
+MV-ELI-GAX-005-04,Court Pair Reading,Veritygreat,F5,Demigod L7 Low,B
+MV-ELI-GAX-005-05,Falling Pair Hew,Gust Heavyeye,F2,Demigod L7 Low,B
+MV-ELI-GAX-005-06,Paired Counter Parry,Chime Haftbell,F2,Demigod L7 Low,B
+MV-ELI-GAX-005-07,Court Hook Pull,Immobilizing Heavyeye,F1,Demigod L7 Low,B
+MV-ELI-GAX-005-08,Paired Edge Great Fall,Eviscerating Haftrope,F1,Demigod L7 Low,B
+MV-ELI-GAX-005-09,Court Doubling Cleave,Eviscerating Riven,F1,Demigod L7 Low,B
+MV-ELI-GAX-005-10,Court of Two Edges Fall,Grievous Tempered Greatbeard,F6a,Demigod L7 Low,B
+MV-ELI-GAX-006-01,Breach Line Chop,Rumblegreat,F5,Void God L3 Mid,B
+MV-ELI-GAX-006-02,Track Breach Step,Lightning Longhelve,F1,Void God L3 Mid,B
+MV-ELI-GAX-006-03,Door Track Guard,Indomitable Doubleedge,F1,Void God L3 Mid,B
+MV-ELI-GAX-006-04,Dual-Track Breaker Hew,Granite Greatbit,F2,Void God L3 Mid,B
+MV-ELI-GAX-006-05,Breach Hook Wrench,Mayhem Overhew,F2,Void God L3 Mid,B
+MV-ELI-GAX-006-06,Breach Press Down,Charter Rend,F2,Void God L3 Mid,B
+MV-ELI-GAX-006-07,Dual Breach Great Cleave,Wrathful Heavyeye,F1,Void God L3 Mid,B
+MV-ELI-GAX-006-08,Twin Gate Splitting Fall,Eviscerating Wideswell,F1,Void God L3 Mid,B
+MV-ELI-GAX-006-09,Dual-Track Breach Stroke,Lacerating Haftbell,F1,Void God L3 Mid,B
+MV-ELI-GAX-007-01,Ford Cross Chop,Gnashing Sunder,F1,True God L1 Low,B
+MV-ELI-GAX-007-02,Stone Step Across,Overhew Flash,F3,True God L1 Low,B
+MV-ELI-GAX-007-03,Ford Guard Wade,Indomitable Longhelve,F1,True God L1 Low,B
+MV-ELI-GAX-007-04,Current Edge Reading,Illuminating Greatpoll,F1,True God L1 Low,B
+MV-ELI-GAX-007-05,Ford Defending Cleave,Granite Riven,F2,True God L1 Low,B
+MV-ELI-GAX-007-06,Shallow Water Hew,Vengeful Greatbeard,F1,True God L1 Low,B
+MV-ELI-GAX-007-07,Stream Turn Deflect,Unconquered Haftrope,F1,True God L1 Low,B
+MV-ELI-GAX-007-08,River Ford Great Cleave,Rumbletimber,F5,True God L1 Low,B
+MV-ELI-GAX-007-09,Crossing Denial Sweep,Downpour Greatbit,F2,True God L1 Low,B
+MV-ELI-GAX-007-10,Ford Held Against the Flood,Hour Wideswell,F2,True God L1 Low,B
+MV-ELI-GAX-008-01,Hawk Pair Great Chop,Might Doubleedge,F2,Monarch L5 Mid,B
+MV-ELI-GAX-008-02,Descent Step,Silt Rend,F2,Monarch L5 Mid,B
+MV-ELI-GAX-008-03,Pair Perch Guard,Aegis Longhelve,F2,Monarch L5 Mid,B
+MV-ELI-GAX-008-04,Paired Descent Hew,Gustriven,F5,Monarch L5 Mid,B
+MV-ELI-GAX-008-05,Hawk Pair Press,Intent Splitmass,F2,Monarch L5 Mid,B
+MV-ELI-GAX-008-06,Talon Pair Hook,Enthralling Hewfall,F1,Monarch L5 Mid,B
+MV-ELI-GAX-008-07,Paired Hawk Great Descent,Hewfall Scourge,F3,Monarch L5 Mid,B
+MV-ELI-GAX-008-08,Twin Descent Cleave,Gust Splitmass,F2,Monarch L5 Mid,B
+MV-ELI-GAX-008-09,Azure Pair Descent Stroke,Mightriven,F5,Demigod L1 Low,B
+MV-ELI-GAX-009-01,Sworn Wind Great Chop,Gust Poleshoe,F2,Demigod L1 Mid,B
+MV-ELI-GAX-009-02,Wind Gap Step,Phantom Overhew,F1,Demigod L1 Mid,B
+MV-ELI-GAX-009-03,Sworn Wind Haft Guard,Thorngreat,F5,Demigod L1 Mid,B
+MV-ELI-GAX-009-04,Gust Edge Reading,Timberrespite,F4,Demigod L1 Mid,B
+MV-ELI-GAX-009-05,Wind Oath Hew,Timberruin,F4,Demigod L1 Mid,B
+MV-ELI-GAX-009-06,Gale Parry Turn,Unbowed Wideswell,F1,Demigod L1 Mid,B
+MV-ELI-GAX-009-07,Wind Hook Pull,Numbing Poleshoe,F1,Demigod L1 Mid,B
+MV-ELI-GAX-009-08,Wind-Sworn Great Cleave,Brutalizing Doubleedge,F1,Demigod L1 Mid,B
+MV-ELI-GAX-009-09,Sworn Gale Fall,Sunderruin,F4,Demigod L1 Mid,B
+MV-ELI-GAX-009-10,Wind Oath Sundering,Hellish Nova Heavyeye,F6a,Demigod L1 Mid,B
+MV-ELI-GAX-010-01,Plateau Line Chop,Greatwrath,F4,Demigod L3 High,B
+MV-ELI-GAX-010-02,Line Walking Step,Sunderblink,F4,Demigod L3 High,B
+MV-ELI-GAX-010-03,Open Sky Haft Guard,Aegis Greatbeard,F2,Demigod L3 High,B
+MV-ELI-GAX-010-04,Plateau Hew Along the Line,Axehavoc,F4,Demigod L3 High,B
+MV-ELI-GAX-010-05,Great Edge Wind Parry,Torrent Haftrope,F2,Demigod L3 High,B
+MV-ELI-GAX-010-06,Line Pressing Weight,Intent Greatpoll,F2,Demigod L3 High,B
+MV-ELI-GAX-010-07,Plateau Line Great Hew,Rivenhavoc,F4,Demigod L3 High,B
+MV-ELI-GAX-010-08,Held Line Crushing Fall,Pitiless Hewfall,F1,Demigod L3 High,B
+MV-ELI-GAX-010-09,Plateau Line Unbroken Cleave,Grievous Haftbell,F1,Demigod L3 High,B
+MV-ELI-GAX-011-01,Oath Held Chop,Tempered Sunder,F2,Demigod L6 Mid,B
+MV-ELI-GAX-011-02,Oath Step Forward,Granite Rend,F2,Demigod L6 Mid,B
+MV-ELI-GAX-011-03,Held Edge Guard,Unrelenting Greatbit,F1,Demigod L6 Mid,B
+MV-ELI-GAX-011-04,Edge Oath Reading,Waningtimber,F5,Demigod L6 Mid,B
+MV-ELI-GAX-011-05,Oath Edge Great Hew,Timberscourge,F4,Demigod L6 Mid,B
+MV-ELI-GAX-011-06,Held Edge Parry,Invincible Greatpoll,F1,Demigod L6 Mid,B
+MV-ELI-GAX-011-07,Oath Edge Drag,Toxin Heavyeye,F2,Demigod L6 Mid,B
+MV-ELI-GAX-011-08,Oath-Held Edge Great Fall,Rendruin,F4,Demigod L6 Mid,B
+MV-ELI-GAX-011-09,Unyielding Edge Cleave,Wrathful Riven,F1,Demigod L6 Mid,B
+MV-ELI-GAX-011-10,Edge That Keeps Its Oath,Sunderhavoc,F4,Demigod L6 Mid,B
+MV-ELI-GAX-012-01,Open Plateau Great Chop,Blaze Haftrope,F2,Void God L2 Low,B
+MV-ELI-GAX-012-02,Great Axe Bearing Walk,Sunderflash,F4,Void God L2 Low,B
+MV-ELI-GAX-012-03,Plateau Wind Guard,Facettimber,F5,Void God L2 Low,B
+MV-ELI-GAX-012-04,Plateau Bearing Hew,Blaze Wideswell,F2,Void God L2 Low,B
+MV-ELI-GAX-012-05,Cross Bearing Parry,Murkaxe,F5,Void God L2 Low,B
+MV-ELI-GAX-012-06,Bearing Great Sweep Hold,Silt Splitmass,F2,Void God L2 Low,B
+MV-ELI-GAX-012-07,Open Plateau Great Hew,Gnashing Haftbell,F1,Void God L2 Low,B
+MV-ELI-GAX-012-08,Bearing Over the Plateau Cleave,Rend Devastation,F3,Void God L2 Low,B
+MV-ELI-GAX-012-09,Plateau Bearing Great Sundering,Ferocious Greatpoll,F1,Void God L2 Low,B
+MV-ELI-GAX-013-01,Line Break Chop,Longhelve Reckoning,F3,Demigod L8 Peak,B
+MV-ELI-GAX-013-02,Gust Break Step,Torrent Riven,F2,Demigod L8 Peak,B
+MV-ELI-GAX-013-03,Broken Line Guard,Greatbeard Hardihood,F3,Demigod L8 Peak,B
+MV-ELI-GAX-013-04,Draft Break Reading,Elevating Greatbit,F1,Demigod L8 Peak,B
+MV-ELI-GAX-013-05,Wind Breaking Hew,Rumble Doubleedge,F2,Demigod L8 Peak,B
+MV-ELI-GAX-013-06,Line Tearing Hook,Toxin Overhew,F2,Demigod L8 Peak,B
+MV-ELI-GAX-013-07,Gale Press Down,Decimating Doubleedge,F1,Demigod L8 Peak,B
+MV-ELI-GAX-013-08,Wind-Broken Great Cleave,Rumbleaxe,F5,Demigod L8 Peak,B
+MV-ELI-GAX-013-09,Torn Line Sweep,Mayhemtimber,F5,Demigod L8 Peak,B
+MV-ELI-GAX-013-10,Line Torn by the Wind,Corroding Haftbell,F1,Demigod L8 Peak,B
+MV-ELI-GAX-014-01,Gale Cleave Chop,Sunderwrath,F4,Void God L4 High,B
+MV-ELI-GAX-014-02,Gale Draw Step,Silt Heavyeye,F2,Void God L4 High,B
+MV-ELI-GAX-014-03,Gale Cover Guard,Iron Poleshoe,F2,Void God L4 High,B
+MV-ELI-GAX-014-04,Gale-Cleaving Hew,Booming Rend,F1,Void God L4 High,B
+MV-ELI-GAX-014-05,Gale Turn Haft Parry,Murk Haftrope,F2,Void God L4 High,B
+MV-ELI-GAX-014-06,Cleaving Gale Press,Hourriven,F5,Void God L4 High,B
+MV-ELI-GAX-014-07,Great Gale Cleave,Blazeaxe,F5,Void God L4 High,B
+MV-ELI-GAX-014-08,Gale Fall Crushing Blow,Berserk Sunder,F1,Void God L4 High,B
+MV-ELI-GAX-014-09,Gale Sundering Axe Stroke,Gust Overhew,F2,Void God L4 High,B
+MV-ELI-GAX-015-01,Sworn Bearing Chop,Iron Greatbeard,F2,True God L2 Mid,B
+MV-ELI-GAX-015-02,Bearing Lock Step,Silt Greatpoll,F2,True God L2 Mid,B
+MV-ELI-GAX-015-03,Bearing Guard Cross,Timberspine,F4,True God L2 Mid,B
+MV-ELI-GAX-015-04,Stroke Bearing Reading,Chime Wideswell,F2,True God L2 Mid,B
+MV-ELI-GAX-015-05,Bearing Stroke Hew,Might Poleshoe,F2,True God L2 Mid,B
+MV-ELI-GAX-015-06,Bearing Turn Counter,Unbowed Longhelve,F1,True God L2 Mid,B
+MV-ELI-GAX-015-07,Sworn Bearing Press,Intent Greatbit,F2,True God L2 Mid,B
+MV-ELI-GAX-015-08,Sworn Bearing Great Stroke,Blaze Haftbell,F2,True God L2 Mid,B
+MV-ELI-GAX-015-09,Bearing Driven Fall,Sunderscourge,F4,True God L2 Mid,B
+MV-ELI-GAX-015-10,Bearing Without Return,Gnashing Glint Sunder,F6a,True God L2 Mid,B
+MV-ELI-GAX-016-01,Open Edge Chop,Riven Wrath,F3,Monarch L8 Low,B
+MV-ELI-GAX-016-02,No Wall Step,Torrent Greatbit,F2,Monarch L8 Low,B
+MV-ELI-GAX-016-03,Open Flank Haft Guard,Axevalor,F4,Monarch L8 Low,B
+MV-ELI-GAX-016-04,Edge Without Walls Hew,Rendwrath,F4,Monarch L8 Low,B
+MV-ELI-GAX-016-05,Open Flank Parry,Torrent Heavyeye,F2,Monarch L8 Low,B
+MV-ELI-GAX-016-06,Unwalled Press,Shaderend,F5,Monarch L8 Low,B
+MV-ELI-GAX-016-07,Great Unwalled Cleave,Hewfall Wrath,F3,Monarch L8 Low,B
+MV-ELI-GAX-016-08,Open Ground Crushing Fall,Rampaging Splitmass,F1,Monarch L8 Low,B
+MV-ELI-GAX-016-09,Edge of No Walls Stroke,Rendscourge,F4,Demigod L1 Low,B

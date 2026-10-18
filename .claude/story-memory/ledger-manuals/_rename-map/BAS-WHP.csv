@@ -1,0 +1,73 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-WHP-001-01,Trailing Thong Ready Stance,Fall Lid,F3,T1 Unawakened,A
+MV-BAS-WHP-001-02,Forearm Flick Lash,Keeper Strike,F3,T1 Unawakened,A
+MV-BAS-WHP-001-03,Overhead Wheel Swing,Quick Tether,F1,T1 Unawakened,A
+MV-BAS-WHP-001-04,Side Slide Behind the Line,Plaithop,F4,T1 Unawakened,A
+MV-BAS-WHP-001-05,Wrist Roll Recovery,Lowered Popper,F1,T1 Unawakened,A
+MV-BAS-WHP-001-06,Low Sweep at the Ankles,Snapdash,F4,T1 Unawakened,A
+MV-BAS-WHP-002-01,Palm-Under Handle Hold,Whiptail Note,F3,T1 Skin,A
+MV-BAS-WHP-002-02,Cracker Snap Finish,Downward Flick,F1,T1 Skin,A
+MV-BAS-WHP-002-03,Figure Eight Warding,Thongcowl,F4,T1 Skin,A
+MV-BAS-WHP-002-04,Crossing Back Step,Shifting Popcrack,F1,T1 Skin,A
+MV-BAS-WHP-002-05,Thong Wrap on the Wrist,Locking Snap,F1,T1 Skin,A
+MV-BAS-WHP-002-06,Rising Cut Under the Chin,Flickdrop,F4,T1 Skin,A
+MV-BAS-WHP-002-07,Short Recoil Draw,Poppercowl,F4,T1 Skin,A
+MV-BAS-WHP-003-01,Plain Wrist Flick,Descending Plait,F1,T1 Muscle,A
+MV-BAS-WHP-003-02,Standing Hip Turn Lash,Falldrop,F4,T1 Muscle,A
+MV-BAS-WHP-003-03,Guard Ring Hum,Raised Lashcore,F1,T1 Muscle,A
+MV-BAS-WHP-003-04,Ankle Hook Pull,Hitching Whipheel,F1,T1 Muscle,A
+MV-BAS-WHP-003-05,Retreating Curve Step,Falltrot,F4,T1 Muscle,A
+MV-BAS-WHP-004-01,Full Reach Casting Stride,Firm Furl,F1,T1 Tendon,A
+MV-BAS-WHP-004-02,Slack Gather Between Casts,Keepergauge,F4,T1 Tendon,A
+MV-BAS-WHP-004-03,Windup Behind the Shoulder,Thongdrop,F4,T1 Tendon,A
+MV-BAS-WHP-004-04,Cast Beneath the Guard,Lashdash,F4,T1 Tendon,A
+MV-BAS-WHP-004-05,Thong Fan Block,Resting Whipstock,F1,T1 Tendon,A
+MV-BAS-WHP-004-06,Casting Heel Swivel,Backward Lashend,F1,T1 Tendon,A
+MV-BAS-WHP-004-07,Elbow Anchor Retrieval,Keeperpause,F4,T1 Tendon,A
+MV-BAS-WHP-004-08,Double Cast Rhythm,Blunt Thong,F1,T1 Tendon,A
+MV-BAS-WHP-005-01,Popper Crack Beside the Ear,Quick Lash,F1,T1 Bone,A
+MV-BAS-WHP-005-02,Fall Drop on the Forearm,Narrow Keeper,F1,T1 Bone,A
+MV-BAS-WHP-005-03,Forward Rolling Loops,Thongpause,F4,T1 Bone,A
+MV-BAS-WHP-005-04,Backhand Lash Return,Gnawing Plait,F1,T1 Bone,A
+MV-BAS-WHP-005-05,Quick Gather Withdrawal,Quiet Lashcore,F1,T1 Bone,A
+MV-BAS-WHP-005-06,Fall Knot Hold,Plaithusk,F4,T1 Bone,A
+MV-BAS-WHP-006-01,Thong Spine Qi Lash,Open Whiptail,F1,Senior L1 Low,A
+MV-BAS-WHP-006-02,Qi-Steadied Guard Ring,Angled Whipstock,F1,Senior L1 Low,A
+MV-BAS-WHP-006-03,Tip Touch Probe,Smooth Lashend,F1,Senior L1 Low,A
+MV-BAS-WHP-006-04,Light-Foot Lash Advance,Furlpace,F4,Senior L1 Low,A
+MV-BAS-WHP-006-05,Wrap and Draw with Qi,Pushing Furl,F1,Senior L1 Low,A
+MV-BAS-WHP-006-06,Flat Thong Parry Flick,Solid Thong,F1,Senior L1 Low,A
+MV-BAS-WHP-006-07,Crack Across the Eyeline,Sharp Tether,F1,Senior L1 Low,A
+MV-BAS-WHP-007-01,Short Handle Circuit Lash,Forward Popcrack,F1,Senior L2 Mid,A
+MV-BAS-WHP-007-02,Inner Circle Shield Turn,Whipheel Pause,F3,Senior L2 Mid,A
+MV-BAS-WHP-007-03,Close Wrist Wrap,Tripping Snap,F1,Senior L2 Mid,A
+MV-BAS-WHP-007-04,Stepping Circuit Entry,Nimble Thong,F1,Senior L2 Mid,A
+MV-BAS-WHP-007-05,Tip Flutter Warning,Kind Popper,F1,Senior L2 Mid,A
+MV-BAS-WHP-008-01,Coil Spring Release,Lashbump,F4,Senior L3 Low,A
+MV-BAS-WHP-008-02,Shoulder Coil Carry,Judging Fall,F1,Senior L3 Low,A
+MV-BAS-WHP-008-03,Loose Loop Snare,Fixing Snap,F1,Senior L3 Low,A
+MV-BAS-WHP-008-04,Tail Snap from the Hip,Stiff Flick,F1,Senior L3 Low,A
+MV-BAS-WHP-008-05,Coil Block Overhead,Solid Plait,F1,Senior L3 Low,A
+MV-BAS-WHP-008-06,Release and Retreat,Furlhop,F4,Senior L3 Low,A
+MV-BAS-WHP-008-07,Qi Tug on a Snagged Line,Thongwedge,F4,Senior L3 Low,A
+MV-BAS-WHP-008-08,Gathering Loop Count,Lashcore Gauge,F3,Senior L3 Low,A
+MV-BAS-WHP-009-01,Tension Read at the Handle,Keeper Count,F3,Senior L4 High,A
+MV-BAS-WHP-009-02,Bend Point Lash,Wide Furl,F1,Senior L4 High,A
+MV-BAS-WHP-009-03,Taut Line Block,Keeperstay,F4,Senior L4 High,A
+MV-BAS-WHP-009-04,Slack Pull Misdirection,Pulling Lashend,F1,Senior L4 High,A
+MV-BAS-WHP-009-05,Lean-Away Lash Draw,Fall Pace,F3,Senior L4 High,A
+MV-BAS-WHP-009-06,Thong Hum Warning,Firm Whipstock,F1,Senior L4 High,A
+MV-BAS-WHP-010-01,Thong Reach Measure Tap,Thongreview,F4,Senior L2 Low,A
+MV-BAS-WHP-010-02,Extended Qi Lash,Descending Tether,F1,Senior L2 Low,A
+MV-BAS-WHP-010-03,Short Thong Reach Check,Holding Popper,F1,Senior L2 Low,A
+MV-BAS-WHP-010-04,Skip Step Lash,Thonghop,F4,Senior L2 Low,A
+MV-BAS-WHP-010-05,Distance Keeping Crack,Open Whipheel,F1,Senior L2 Low,A
+MV-BAS-WHP-010-06,Wrist Hook Catch,Fouling Popper,F1,Senior L2 Low,A
+MV-BAS-WHP-010-07,Pulled Short Parry,Popperstay,F4,Senior L2 Low,A
+MV-BAS-WHP-011-01,Plaited Core Lash,Plain Furl,F1,Senior L5 Mid,A
+MV-BAS-WHP-011-02,Braid Weave Guard,Fall Stay,F3,Senior L5 Mid,A
+MV-BAS-WHP-011-03,Dawn Routine Footwork,Skipping Flick,F1,Senior L5 Mid,A
+MV-BAS-WHP-011-04,Twin Braid Wrap,Turning Popcrack,F1,Senior L5 Mid,A
+MV-BAS-WHP-011-05,Plait Tension Check,Kind Thong,F1,Senior L5 Mid,A
+MV-BAS-WHP-011-06,Evening Cooling Stroke,Short Plait,F1,Senior L5 Mid,A
+MV-BAS-WHP-011-01,Plain Furl,Lean Furl,F1,Senior L5 Mid,A

@@ -1,0 +1,73 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-FAL-001-01,Heavy Hilt Seating,Sudden Clipedge,F1,Unawakened,A
+MV-BAS-FAL-001-02,Forward-Weight Drop Chop,Cleftblow,F4,Unawakened,A
+MV-BAS-FAL-001-03,Belly Slice at the Hip,Narrow Nubtip,F1,Unawakened,A
+MV-BAS-FAL-001-04,Spine Rest Guard,Angled Chopblade,F1,Unawakened,A
+MV-BAS-FAL-001-05,Back-Foot Hand's Breadth Slide,Chunkpace,F4,Unawakened,A
+MV-BAS-FAL-001-06,Cleaver Reset Shrug,Cleaverbelly Stay,F3,Unawakened,A
+MV-BAS-FAL-002-01,Log-Splitting Overhead,Flat Hash,F1,Skin,A
+MV-BAS-FAL-002-02,Slanting Collar-to-Hip Chop,Plain Weightbelly,F1,Skin,A
+MV-BAS-FAL-002-03,Rising Underarm Belly Cut,Hew Blow,F3,Skin,A
+MV-BAS-FAL-002-04,Count-of-Three Post Drill,Descending Cleft,F1,Skin,A
+MV-BAS-FAL-002-05,Off-the-Line Chop Step,Hashamble,F4,Skin,A
+MV-BAS-FAL-002-06,Flat-of-the-Blade Knock,Nubtiphusk,F4,Skin,A
+MV-BAS-FAL-002-07,Dropped-Point Half-Circle Recovery,Heavyback Pause,F3,Skin,A
+MV-BAS-FAL-003-01,Edge-Square Alignment Cut,Low Wedgetip,F1,Muscle,A
+MV-BAS-FAL-003-02,Back-Edge Palm Brace,Thickspine Pause,F3,Muscle,A
+MV-BAS-FAL-003-03,Slow Hacking Beat,Hard Whack,F1,Muscle,A
+MV-BAS-FAL-003-04,Falchion Wrist Snap at the Swell,Falchhilt Drop,F3,Muscle,A
+MV-BAS-FAL-003-05,Edge-Tucked Retreat,Hewamble,F4,Muscle,A
+MV-BAS-FAL-004-01,Wide-Base Chopping Stance,Stumpcowl,F4,Tendon,A
+MV-BAS-FAL-004-02,Chopping Heel-Roll Advance,Light Chunk,F1,Tendon,A
+MV-BAS-FAL-004-03,Cross-Step Side Chop,Cleftbump,F4,Tendon,A
+MV-BAS-FAL-004-04,Pivot-and-Fall Hack,Stiff Nubtip,F1,Tendon,A
+MV-BAS-FAL-004-05,Rear-Leg Weight Draw,Chunkskitter,F4,Tendon,A
+MV-BAS-FAL-004-06,Low Squat Shin Hack,Blunt Hew,F1,Tendon,A
+MV-BAS-FAL-004-07,Planted-Foot Broad Parry,Hooding Wedgetip,F1,Tendon,A
+MV-BAS-FAL-004-08,Circle-the-Post Cutting Walk,Cleaverbelly Amble,F3,Tendon,A
+MV-BAS-FAL-005-01,Curved-Back Draw Cut,Leaden Clipedge,F1,Bone,A
+MV-BAS-FAL-005-02,Hip-Turn Falling Hack,Leaden Hack,F1,Bone,A
+MV-BAS-FAL-005-03,Jawline Return Stroke,Low Bulkblade,F1,Bone,A
+MV-BAS-FAL-005-04,Swell-Bite Wrist Cut,Wide Chunk,F1,Bone,A
+MV-BAS-FAL-005-05,Spine-Over-Shoulder Carry,Resting Bulkblade,F1,Bone,A
+MV-BAS-FAL-005-06,Chop-and-Slide Retreat,Hewdodge,F4,Bone,A
+MV-BAS-FAL-006-01,Hanging Guard Over the Brow,Nubtippause,F4,Muscle,A
+MV-BAS-FAL-006-02,Low Hanging Wall Cover,Nubtipcowl,F4,Muscle,A
+MV-BAS-FAL-006-03,Flat Slap Knock,Hooding Heavyback,F1,Muscle,A
+MV-BAS-FAL-006-04,Forearm-Shield Turn,Settled Falchhilt,F1,Muscle,A
+MV-BAS-FAL-006-05,Guard-to-Chop Release,Downward Cleft,F1,Muscle,A
+MV-BAS-FAL-006-06,Guarded Half-Step,Quiet Hack,F1,Muscle,A
+MV-BAS-FAL-006-07,Pommel Pin Against the Ribs,Stumpstay,F4,Muscle,A
+MV-BAS-FAL-007-01,Edge-Thread Chop,Hashbump,F4,Senior,A
+MV-BAS-FAL-007-02,Qi-Seated Spine Guard,Raised Weightbelly,F1,Senior,A
+MV-BAS-FAL-007-03,Breath-and-Drop Hack,Wide Thickspine,F1,Senior,A
+MV-BAS-FAL-007-04,Wrist-Warm Flat Knock,Nubpause,F4,Senior,A
+MV-BAS-FAL-007-05,Circulating Heel Slide,Swaying Whack,F1,Senior,A
+MV-BAS-FAL-007-06,Belly-Drag Qi Slice,Whackstrike,F4,Senior,A
+MV-BAS-FAL-008-01,Weight-Pulse Overhead,Sudden Chopblade,F1,Senior,A
+MV-BAS-FAL-008-02,Late-Pulse Hack,Nubdash,F4,Senior,A
+MV-BAS-FAL-008-03,Swell-Timed Side Cut,Hewstrike,F4,Senior,A
+MV-BAS-FAL-008-04,Pulse-Stilled Guard,Stumpwedge,F4,Senior,A
+MV-BAS-FAL-008-05,Rebound Chop Recovery,Narrow Cleaverbelly,F1,Senior,A
+MV-BAS-FAL-008-06,Short Shuffle Pulse,Skipping Thickspine,F1,Senior,A
+MV-BAS-FAL-008-07,Weighted Parry Return,Resting Weightbelly,F1,Senior,A
+MV-BAS-FAL-009-01,Rolling Wrist Figure-Eight,Whack Drop,F3,Senior,A
+MV-BAS-FAL-009-02,Over-the-Shoulder Roll Chop,Short Nubtip,F1,Senior,A
+MV-BAS-FAL-009-03,Underhand Roll Climb,Hashstrike,F4,Senior,A
+MV-BAS-FAL-009-04,Rolled Cross-Hand Guard,Ready Chopblade,F1,Senior,A
+MV-BAS-FAL-009-05,Wrist-Swing Disarm Tap,Pushing Hash,F1,Senior,A
+MV-BAS-FAL-009-06,Rotating Heel Pivot,Wedgetip Pace,F3,Senior,A
+MV-BAS-FAL-009-07,Chained Roll Parry,Planted Bulkblade,F1,Senior,A
+MV-BAS-FAL-009-08,Roll-Out Clip Cut,Short Clipedge,F1,Senior,A
+MV-BAS-FAL-010-01,Full-Reach Falling Chop,Stiff Hack,F1,Senior,A
+MV-BAS-FAL-010-02,Lunging Heel Slide,Light Falchhilt,F1,Senior,A
+MV-BAS-FAL-010-03,Recovery Heel Drag,Swaying Heavyback,F1,Senior,A
+MV-BAS-FAL-010-04,Spent-Blade Rise Guard,Kept Nubtip,F1,Senior,A
+MV-BAS-FAL-010-05,Stretched Flat Parry,Settled Wedgetip,F1,Senior,A
+MV-BAS-FAL-011-01,Cleaving Belly Descent,Sharp Whack,F1,Senior,A
+MV-BAS-FAL-011-02,Slant-Climb Cleave,Cleftstrike,F4,Senior,A
+MV-BAS-FAL-011-03,Cleave-Breath Return,Hewhit,F4,Senior,A
+MV-BAS-FAL-011-04,Heavy Edge Gather Guard,Solid Cleaverbelly,F1,Senior,A
+MV-BAS-FAL-011-05,Cleave-Off Sidestep,Stepping Hack,F1,Senior,A
+MV-BAS-FAL-011-06,Swell-Rap Deflection,Solid Bulkblade,F1,Senior,A
+MV-BAS-FAL-002-02,Plain Weightbelly,Heavy Weightbelly,F1,Skin,A

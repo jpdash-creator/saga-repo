@@ -1,0 +1,21 @@
+char_id,name,ledger_file,tier,kingdom,realm,effective_realm,blocked_types,affinity,sovereignty,primary_weapons,snapshot_date
+VRS,Varys,ledger-character-hero/varys.md,Hero,Azure Sky,Ruler L3 Mid,Ruler L3 Mid,none,Swords:Sovereignty,ceiling:Swords,STS;JIA;SAB;FAL,2026-10-05
+VLA,Valia,ledger-character-hero/valia.md,Hero,Azure Sky,Ruler L1 Mid,Ruler L1 Mid,none,Healing:Sovereignty,ceiling:Healing,KAT,2026-10-05
+AER,Aeries,ledger-character-hero/aeries.md,Hero,Gale,Ruler L2 Mid,Ruler L2 Mid,none,Wind:Sovereignty,ceiling:Wind,GRS,2026-10-05
+AAL,Aalia,ledger-character-hero/aalia.md,Hero,Gale,Ruler L1 Mid,Ruler L1 Mid,none,Space:Sovereignty,ceiling:Space,SHS;BFS;HKS;DAG,2026-10-05
+HRC,Hercules,ledger-character-hero/hercules.md,Hero,none,Demigod L1 Mid,Champion L8 High,SIG;CAT,Strength:Sovereignty,ceiling:Strength,HTH;SPR;SAB;HAL,2026-10-05
+BSN,Bison,ledger-character-hero/bison.md,Hero,none,Demigod L1 Mid,Champion L8 High,SIG;CAT,Wind:Sovereignty,ceiling:Wind,BAX;HAX;WHM,2026-10-05
+VRY,Varya,ledger-character-hero/varya.md,Hero,Azure Sky,T1 Unawakened,T1 Unawakened,none,Creation:Sovereignty,ceiling:Creation,none,2026-10-05
+AEG,Aegon,ledger-character-hero/aegon.md,Hero,Gale,T1 Unawakened,T1 Unawakened,none,Darkness:Sovereignty,ceiling:Darkness,none,2026-10-05
+OSK,Ossian Kade,ledger-character-side/ossian-kade.md,A,Azure Sky,Ruler L2 Mid,Ruler L2 Mid,none,none,none,SAB,2026-10-05
+MRC,Maren Cole,ledger-character-side/maren-cole.md,A,Azure Sky,Ruler L1 High,Ruler L1 High,none,none,none,none,2026-10-05
+YUA,Yun Ashvale,ledger-character-side/yun-ashvale.md,A,Azure Sky,Ruler L2 Low,Ruler L2 Low,none,none,none,none,2026-10-05
+BRC,Bramwell Cog,ledger-character-side/bramwell-cog.md,A,Azure Sky,Ruler L2 Low,Ruler L2 Low,none,none,none,none,2026-10-05
+DRF,Doran Fell,ledger-character-side/doran-fell.md,A,Azure Sky,OPEN-AUTHOR,OPEN-AUTHOR,none,none,none,none,2026-10-05
+EDV,Edran Voss,ledger-character-side/edran-voss.md,A,Azure Sky,Ruler L1 Low,Ruler L1 Low,none,none,none,none,2026-10-05
+ISF,Isolde Farrow,ledger-character-side/isolde-farrow.md,A,Azure Sky,Ruler L1 Mid,Ruler L1 Mid,none,none,none,PIK,2026-10-05
+TAH,Tamsin Holt,ledger-character-side/tamsin-holt.md,A,Azure Sky,OPEN-AUTHOR,OPEN-AUTHOR,none,none,none,none,2026-10-05
+SLM,Selene Marrow,ledger-character-side/selene-marrow.md,A,Azure Sky,Ruler L1 Low,Ruler L1 Low,none,none,none,none,2026-10-05
+CRV,Corin Vale,ledger-character-side/corin-vale.md,B,Azure Sky,Champion L2 Mid,Champion L2 Mid,none,none,none,SAB,2026-10-05
+BSC,Bastion Crowe,ledger-character-side/bastion-crowe.md,B,Azure Sky,Ruler L1 Mid,Ruler L1 Mid,none,none,none,SAB,2026-10-05
+KLR,Kellan Rothe,ledger-character-side/kellan-rothe.md,B,Azure Sky,Ruler L1 High,Ruler L1 High,none,none,none,none,2026-10-05

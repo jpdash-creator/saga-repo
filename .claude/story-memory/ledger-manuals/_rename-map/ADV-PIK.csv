@@ -1,0 +1,101 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-PIK-001-01,Square-Corner Overlap Level,Aegis Steelcap,F2,Champion L1 Low,B
+MV-ADV-PIK-001-02,Turning-File Pivot Step,Bristle Pounce,F3,Champion L1 Low,B
+MV-ADV-PIK-001-03,Square-Face Short Jab,Pikecollar Assault,F3,Champion L1 Low,B
+MV-ADV-PIK-001-04,Inner-Rank Shaft Raise,Torrent Pikebands,F2,Champion L1 Low,B
+MV-ADV-PIK-001-05,Wheeling-Rank Qi Sweep,Rupturing Pikeshoe,F1,Champion L1 Low,B
+MV-ADV-PIK-001-06,Turn-Locking Shaft Weave,Paralyzing Longpole,F1,Champion L1 Low,B
+MV-ADV-PIK-001-07,Square-Closing Shock Thrust,Glint Levelhold,F2,Champion L1 Low,B
+MV-ADV-PIK-001-08,Four-Face Qi Lattice,Staunch Iron Pikeshaft,F6a,Champion L1 Low,B
+MV-ADV-PIK-002-01,Shock-Load Shaft Grip,Daybreak Footspike,F2,Demigod L1 Low,B
+MV-ADV-PIK-002-02,Weighted Pike Jab,Granite Press,F2,Demigod L1 Low,B
+MV-ADV-PIK-002-03,Heavy Brace Plant,Shafthauberk,F4,Demigod L1 Low,B
+MV-ADV-PIK-002-04,Anchored Weight Advance,Racing Mastlength,F1,Demigod L1 Low,B
+MV-ADV-PIK-002-05,Ash-Ringing Hand Numbing Beat,Quelling Ashstaff,F1,Demigod L1 Low,B
+MV-ADV-PIK-002-06,Shock-Wave Drive Thrust,Pressbarrage,F4,Demigod L1 Low,B
+MV-ADV-PIK-002-07,Brace-Returned Shock Pulse,Veritypike,F5,Demigod L1 Low,B
+MV-ADV-PIK-002-08,Pike-Weight Slow Press,Intentmast,F5,Demigod L1 Low,B
+MV-ADV-PIK-002-09,Field-Loaded Crushing Thrust,Mastbarrage,F4,Demigod L1 Low,B
+MV-ADV-PIK-002-10,Shock-Braced Counter Stand,Iron Pikehead,F2,Demigod L1 Low,B
+MV-ADV-PIK-003-01,Armoured-Breast Seam Aim,Facet Footspike,F2,Champion L4 Mid,B
+MV-ADV-PIK-003-02,Rider-Gorget Gap Jab,Blaze Present,F2,Champion L4 Mid,B
+MV-ADV-PIK-003-03,Lance-Tip Sidestep Parry,Chimemast,F5,Champion L4 Mid,B
+MV-ADV-PIK-003-04,Flank-Skirting Slide Step,Couchout Pounce,F3,Champion L4 Mid,B
+MV-ADV-PIK-003-05,Plate-Piercing Qi Spike,Wrecking Longpole,F1,Champion L4 Mid,B
+MV-ADV-PIK-003-06,Horse-Armour Hinge Prise,Chime Pikehead,F2,Champion L4 Mid,B
+MV-ADV-PIK-003-07,Rider-Lance Ground Bind,Gyveshaft,F5,Champion L4 Mid,B
+MV-ADV-PIK-003-08,Charge-Breaking Brace Lock,Pikecollar Cuirass,F3,Champion L4 Mid,B
+MV-ADV-PIK-003-09,Fallen-Rider Follow-Through,Rumblemast,F5,Champion L4 Mid,B
+MV-ADV-PIK-004-01,Full-Reach Rotation Start,Severing Brace,F1,Demigod L2 Mid,B
+MV-ADV-PIK-004-02,Palm-to-Palm Shaft Whirl,Unshaken Mastlength,F1,Demigod L2 Mid,B
+MV-ADV-PIK-004-03,Half-Turn Return Draw,Gustpike,F5,Demigod L2 Mid,B
+MV-ADV-PIK-004-04,Reach-Edge Dragging Lunge,Siltmast,F5,Demigod L2 Mid,B
+MV-ADV-PIK-004-05,Turning-Shaft Grip Exchange,Intent Pikebands,F2,Demigod L2 Mid,B
+MV-ADV-PIK-004-06,Point-Circle Warding Wheel,Hoarfrost Steelcap,F2,Demigod L2 Mid,B
+MV-ADV-PIK-004-07,Rotating Qi Corkscrew Thrust,Splintering Press,F1,Demigod L2 Mid,B
+MV-ADV-PIK-004-08,Reach-Extending Qi Lash,Rumble Pikeshaft,F2,Demigod L2 Mid,B
+MV-ADV-PIK-004-09,Spin-Wrapped Weapon Draw,Thorn Pikeshoe,F2,Demigod L2 Mid,B
+MV-ADV-PIK-004-10,Great Rotation Sweeping Arc,Severing Levelhold,F1,Demigod L2 Mid,B
+MV-ADV-PIK-004-11,Rotation-Locked Reach Thrust,Bracethrash,F4,Demigod L2 Mid,B
+MV-ADV-PIK-005-01,Twin-File Paired Jab,Scything Brace,F1,Champion L2 Low,B
+MV-ADV-PIK-005-02,Azure Over-Cross Guard,Aegismast,F5,Champion L2 Low,B
+MV-ADV-PIK-005-03,Alternating Thrust Cadence,Sanguine Present,F2,Champion L2 Low,B
+MV-ADV-PIK-005-04,Matched-Pace Pair Advance,Soaring Pikeshaft,F1,Champion L2 Low,B
+MV-ADV-PIK-005-05,Partner-Covering Shaft Turn,Pikecollar Plating,F3,Champion L2 Low,B
+MV-ADV-PIK-005-06,Twin-Point Chest Squeeze,Intent Bristle,F2,Champion L2 Low,B
+MV-ADV-PIK-005-07,Twin Point Qi Echo,Scything Couchout,F1,Champion L2 Low,B
+MV-ADV-PIK-005-08,Paired-File Qi Handover,Equipoise Footspike,F2,Champion L2 Low,B
+MV-ADV-PIK-005-09,Twin-Court Weapon Pinch,Pikeshoe Greave,F3,Champion L2 Low,B
+MV-ADV-PIK-005-10,Mirrored Ward Retreat,Gustmast,F5,Champion L2 Low,B
+MV-ADV-PIK-005-11,Azure Pair Crossing Shock,Glint Present,F2,Champion L2 Low,B
+MV-ADV-PIK-005-12,Four-Stroke Paired Weave,Funneling Press,F1,Champion L2 Low,B
+MV-ADV-PIK-006-01,Hawk-Gather Rising Step,Couchout Leap,F3,Demigod L1 Mid,B
+MV-ADV-PIK-006-02,Basin-Floor Crouch Jab,Sanguine Pikehead,F2,Demigod L1 Mid,B
+MV-ADV-PIK-006-03,Hawk-Pinion Pike Guard,Pikegreave,F4,Demigod L1 Mid,B
+MV-ADV-PIK-006-04,Diagonal Falling Glance,Gust Brace,F2,Demigod L1 Mid,B
+MV-ADV-PIK-006-05,Hawk-Dive Qi Plunge,Nova Mastlength,F2,Demigod L1 Mid,B
+MV-ADV-PIK-006-06,Swooping Arc Weapon Press,Gyve Steelcap,F2,Demigod L1 Mid,B
+MV-ADV-PIK-006-07,Azure-Sky Hawk-Eye Sense,Waning Pikebands,F2,Demigod L1 Mid,B
+MV-ADV-PIK-006-08,Stooping Hawk Shock Thrust,Shaftthrash,F4,Demigod L1 Mid,B
+MV-ADV-PIK-006-09,Basin-Hawk Rebound Arc,Granite Ashstaff,F2,Demigod L1 Mid,B
+MV-ADV-PIK-007-01,Point-and-Ferrule Weight Pairing,Vital Ashstaff,F2,Champion L6 Low,B
+MV-ADV-PIK-007-02,River-Bank Butt Jab,Granite Brace,F2,Champion L6 Low,B
+MV-ADV-PIK-007-03,End-Over-End Paired Reverse,Gust Couchout,F2,Champion L6 Low,B
+MV-ADV-PIK-007-04,River-Bend Curving Step,Pikepounce,F4,Champion L6 Low,B
+MV-ADV-PIK-007-05,Twin-End Shaft Guard,Steelcap Fastness,F3,Champion L6 Low,B
+MV-ADV-PIK-007-06,Ferrule-Bite Point-Echo Turn,Splintering Longpole,F1,Champion L6 Low,B
+MV-ADV-PIK-007-07,Square-Bank Qi Brace,Aegispike,F5,Champion L6 Low,B
+MV-ADV-PIK-007-08,Ferrule Ground Pin,Shaftplating,F4,Champion L6 Low,B
+MV-ADV-PIK-007-09,River-Square Double Strike Cycle,Lot Pikecollar,F2,Champion L6 Low,B
+MV-ADV-PIK-007-10,Dual-Bank Qi Surge Stroke,Furrowing Bristle,F1,Champion L6 Low,B
+MV-ADV-PIK-008-01,Plateau Bearing First-Taking,Waningshaft,F5,Demigod L3 Low,B
+MV-ADV-PIK-008-02,Windward Shaft Level,Iron Longpole,F2,Demigod L3 Low,B
+MV-ADV-PIK-008-03,Bearing-Line Forward Step,Soaring Mastlength,F1,Demigod L3 Low,B
+MV-ADV-PIK-008-04,Gale-Line Jab,Bristle Maelstrom,F3,Demigod L3 Low,B
+MV-ADV-PIK-008-05,Crosswind Shaft Turn,Murkshaft,F5,Demigod L3 Low,B
+MV-ADV-PIK-008-06,Plateau-Edge Standoff Hold,Ponderous Pikehead,F2,Demigod L3 Low,B
+MV-ADV-PIK-008-07,Wind-Fed Bearing Thrust,Lambasting Present,F1,Demigod L3 Low,B
+MV-ADV-PIK-008-08,Wind-Sworn Shaft Bind,Hoarfrost Footspike,F2,Demigod L3 Low,B
+MV-ADV-PIK-008-09,Gale-Rush Foe Turning,Masthauberk,F4,Demigod L3 Low,B
+MV-ADV-PIK-008-10,Plateau Gale Thrust,Ravaging Pikebands,F1,Demigod L3 Low,B
+MV-ADV-PIK-008-11,Oath-Bearing Brace Hold,Granite Pikeshoe,F2,Demigod L3 Low,B
+MV-ADV-PIK-009-01,Open-Ground Oath Jab,Rumble Brace,F2,Champion L3 Low,B
+MV-ADV-PIK-009-02,No-Walls Level Stand,Aegis Ashstaff,F2,Champion L3 Low,B
+MV-ADV-PIK-009-03,Oath-Sworn Forward Step,Silt Press,F2,Champion L3 Low,B
+MV-ADV-PIK-009-04,Wind-Edge Shaft Rap,Mayhem Ashstaff,F2,Champion L3 Low,B
+MV-ADV-PIK-009-05,Oath-Backed Wind Thrust,Facet Bristle,F2,Champion L3 Low,B
+MV-ADV-PIK-009-06,Unyielding Bearing Brace,Facet Pikecollar,F2,Champion L3 Low,B
+MV-ADV-PIK-009-07,Charge-Stopping Oath Lock,Charter Pikeshaft,F2,Champion L3 Low,B
+MV-ADV-PIK-009-08,Open-Field Oath Surge,Iron Levelhold,F2,Champion L3 Low,B
+MV-ADV-PIK-010-01,Gale-Fast Foot Line,Gustshaft,F5,Demigod L2 High,B
+MV-ADV-PIK-010-02,Held-Bearing Level Press,Unbroken Longpole,F1,Demigod L2 High,B
+MV-ADV-PIK-010-03,Charge-Meeting Point Set,Mightbrace,F5,Demigod L2 High,B
+MV-ADV-PIK-010-04,Wind-Edge Shaft Beat,Crippling Pikeshoe,F1,Demigod L2 High,B
+MV-ADV-PIK-010-05,Bearing-Kept Retreat Slide,Gust Pikehead,F2,Demigod L2 High,B
+MV-ADV-PIK-010-06,Gale-Cut Overhead Guard,Unflinching Mastlength,F1,Demigod L2 High,B
+MV-ADV-PIK-010-07,Charge-Splitting Qi Wedge,Mastthrash,F4,Demigod L2 High,B
+MV-ADV-PIK-010-08,Wind-Read Charge Sense,Waning Steelcap,F2,Demigod L2 High,B
+MV-ADV-PIK-010-09,Bearing-Locked Foe Pin,Hoarfrost Levelhold,F2,Demigod L2 High,B
+MV-ADV-PIK-010-10,Gale-Return Shock Reflection,Mastplating,F4,Demigod L2 High,B
+MV-ADV-PIK-010-11,Charge-Breaking Gale Thrust,Harpooning Rumble Pikebands,F6a,Demigod L2 High,B
+MV-ADV-PIK-010-12,Gap-Pressing Gale Advance,Grinding Levelhold,F1,Demigod L2 High,B

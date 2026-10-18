@@ -1,0 +1,121 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-NAG-001-01,Arc-Study Guard Line,Aegis Nagablade,F2,Champion L2 Low,B
+MV-ADV-NAG-001-02,Hanging Edge Slice,Gustnagi,F5,Champion L2 Low,B
+MV-ADV-NAG-001-03,Short Haft Jab,Hollow Nagaheel,F2,Champion L2 Low,B
+MV-ADV-NAG-001-04,Outward Shaft Beat,Hardened Ishizuki,F1,Champion L2 Low,B
+MV-ADV-NAG-001-05,Rolling Retreat Step,Gustishi,F5,Champion L2 Low,B
+MV-ADV-NAG-001-06,Arc-Linking Double Sweep,Scything Nagashaft,F1,Champion L2 Low,B
+MV-ADV-NAG-001-07,Haft-Catching Qi Turn,Mantled Sayacap,F1,Champion L2 Low,B
+MV-ADV-NAG-001-08,Heavy-Qi Overhead Hew,Tempered Uchiotoshi,F2,Champion L2 Low,B
+MV-ADV-NAG-001-09,Three-Arc Cascade,Mawashi Onslaught,F3,Champion L2 Low,B
+MV-ADV-NAG-001-10,Gathered-Qi Reaping Arc,Scorching Blaze Nagi,F6a,Champion L2 Low,B
+MV-ADV-NAG-002-01,Gathering Stance,Thorn Bladecurve,F2,Demigod L1 Low,B
+MV-ADV-NAG-002-02,Low Gathered Slice,Iron Tsubaring,F2,Demigod L1 Low,B
+MV-ADV-NAG-002-03,Rear Haft Thrust,Needling Nagatip,F1,Demigod L1 Low,B
+MV-ADV-NAG-002-04,Haft-Shoulder Shed,Gust Habakiring,F2,Demigod L1 Low,B
+MV-ADV-NAG-002-05,Qi-Gathering Wind-Up Sweep,Ravaging Mawashi,F1,Demigod L1 Low,B
+MV-ADV-NAG-002-06,Gathered Haft Slam,Rumbleharai,F5,Demigod L1 Low,B
+MV-ADV-NAG-002-07,Gathering Step-Through,Might Sayacap,F2,Demigod L1 Low,B
+MV-ADV-NAG-002-08,Released Gathering Sweep,Blazenaga,F5,Demigod L1 Low,B
+MV-ADV-NAG-002-09,Wide Reaping Release,Granite Kake,F2,Demigod L1 Low,B
+MV-ADV-NAG-003-01,Field Guard Posture,Ironnaga,F5,Champion L7 Mid,B
+MV-ADV-NAG-003-02,Marching Cut,Blazesune,F5,Champion L7 Mid,B
+MV-ADV-NAG-003-03,Ground-Level Point Poke,Rupturing Kake,F1,Champion L7 Mid,B
+MV-ADV-NAG-003-04,Field Parry Wheel,Gustnaga,F5,Champion L7 Mid,B
+MV-ADV-NAG-003-05,Rank-Breaking Sweep,Granite Sukui,F2,Champion L7 Mid,B
+MV-ADV-NAG-003-06,Surging Field Advance,Surging Tsubaring,F1,Champion L7 Mid,B
+MV-ADV-NAG-003-07,Long Reaping Stroke,Cleaving Harai,F1,Champion L7 Mid,B
+MV-ADV-NAG-003-08,Haft-Anchored Hold,Aegissune,F5,Champion L7 Mid,B
+MV-ADV-NAG-004-01,Open-Ground Long Haft Stance,Enduring Nagablade,F1,Demigod L4 Mid,B
+MV-ADV-NAG-004-02,Wide Horizon Cut,Splitting Nagaheel,F1,Demigod L4 Mid,B
+MV-ADV-NAG-004-03,Open-Line Thrust,Kaketorment,F4,Demigod L4 Mid,B
+MV-ADV-NAG-004-04,Haft Ward Circle,Resilient Ishizukibase,F1,Demigod L4 Mid,B
+MV-ADV-NAG-004-05,Long Stride Advance,Nagipounce,F4,Demigod L4 Mid,B
+MV-ADV-NAG-004-06,Sentinel Tap,Toxinsukui,F5,Demigod L4 Mid,B
+MV-ADV-NAG-004-07,Open-Ground Surge Sweep,Iron Habakiring,F2,Demigod L4 Mid,B
+MV-ADV-NAG-004-08,Circling Backstep Cut,Tempered Nagatip,F2,Demigod L4 Mid,B
+MV-ADV-NAG-004-09,Haft-Raised Qi Shield,Charter Ishizukibase,F2,Demigod L4 Mid,B
+MV-ADV-NAG-004-10,Edge-Tangling Loop,Paralyzing Harai,F1,Demigod L4 Mid,B
+MV-ADV-NAG-004-11,Wide-Ground Reaping Arc,Dismantling Uchiotoshi,F2,Demigod L4 Mid,B
+MV-ADV-NAG-004-12,Unbroken Circle Sweep,Sanguine Sukui,F2,Demigod L4 Mid,B
+MV-ADV-NAG-005-01,Paired Arc Guard,Hoarfrost Nagashaft,F2,Champion L4 High,B
+MV-ADV-NAG-005-02,Twin Cut Opening,Granite Ishizukibase,F2,Champion L4 High,B
+MV-ADV-NAG-005-03,Counter-Arc Slice,Tearing Nagi,F1,Champion L4 High,B
+MV-ADV-NAG-005-04,Twin-Track Thrust,Splitting Mawashi,F1,Champion L4 High,B
+MV-ADV-NAG-005-05,Paired Haft Deflection,Chime Bladecurve,F2,Champion L4 High,B
+MV-ADV-NAG-005-06,Twin-Foot Glide,Torrent Nagashaft,F2,Champion L4 High,B
+MV-ADV-NAG-005-07,Mirrored Arc Sweep,Gust Tsubaring,F2,Champion L4 High,B
+MV-ADV-NAG-005-08,Pairing Step Entangle,Thornsune,F5,Champion L4 High,B
+MV-ADV-NAG-005-09,Second Arc Surge,Ishitorment,F4,Champion L4 High,B
+MV-ADV-NAG-005-10,Twin Crescent Reaping,Granite Ishizuki,F2,Champion L4 High,B
+MV-ADV-NAG-005-11,Paired-Qi Binding Hold,Thorn Nagatip,F2,Champion L4 High,B
+MV-ADV-NAG-006-01,Rear-Foot Wing Guard,Facetsune,F5,Demigod L2 High,B
+MV-ADV-NAG-006-02,Stooping Hawk Cut,Transfixing Habakiring,F1,Demigod L2 High,B
+MV-ADV-NAG-006-03,Talon Point Dart,Raging Nagaheel,F1,Demigod L2 High,B
+MV-ADV-NAG-006-04,Wing-Beat Haft Parry,Hardened Nagablade,F1,Demigod L2 High,B
+MV-ADV-NAG-006-05,Hover Step Shift,Nagileap,F4,Demigod L2 High,B
+MV-ADV-NAG-006-06,Hawk-Swoop Sweep,Rumble Bladecurve,F2,Demigod L2 High,B
+MV-ADV-NAG-006-07,Talon Hook Grapple,Staggering Sayacap,F1,Demigod L2 High,B
+MV-ADV-NAG-006-08,Twin-Wing Haft Shield,Aegis Nagatip,F2,Demigod L2 High,B
+MV-ADV-NAG-006-09,Soaring Hawk Descent,Grinding Kake,F1,Demigod L2 High,B
+MV-ADV-NAG-006-10,Azure Wingspread Sweep,Lambasting Sukui Assault,F6b,Demigod L2 High,B
+MV-ADV-NAG-007-01,River-Bend Stance,Hoarfrost Habakiring,F2,Ruler L2 Low,B
+MV-ADV-NAG-007-02,Flowing Edge Slice,Tempered Ishizuki,F2,Ruler L2 Low,B
+MV-ADV-NAG-007-03,Current-Line Thrust,Transfixing Sayacap,F1,Ruler L2 Low,B
+MV-ADV-NAG-007-04,Eddy Whirl Haft Parry,Torrent Ishizuki,F2,Ruler L2 Low,B
+MV-ADV-NAG-007-05,Bend-Taking Sweep,Sukui Onslaught,F3,Ruler L2 Low,B
+MV-ADV-NAG-007-06,Undercurrent Haft Drag,Chime Nagi,F2,Ruler L2 Low,B
+MV-ADV-NAG-007-07,Meander Step Pivot,Granite Mawashi,F2,Ruler L2 Low,B
+MV-ADV-NAG-007-08,Flood-Crest Cutting Arc,Nagashaft Onslaught,F3,Ruler L2 Low,B
+MV-ADV-NAG-007-09,Whirlpool Haft Capture,Quelling Ishizukibase,F1,Ruler L2 Low,B
+MV-ADV-NAG-008-01,Basin Rim Haft Ward,Bladecurve Plating,F3,Demigod L6 Low,B
+MV-ADV-NAG-008-02,Dish-Arc Crescent Sweep,Harrowing Kake,F1,Demigod L6 Low,B
+MV-ADV-NAG-008-03,Rim-Line Thrust,Ishibarrage,F4,Demigod L6 Low,B
+MV-ADV-NAG-008-04,Azure Haft Shed,Unshaken Nagablade,F1,Demigod L6 Low,B
+MV-ADV-NAG-008-05,Terrace Step Descent,Siltsune,F5,Demigod L6 Low,B
+MV-ADV-NAG-008-06,Reed-Bend Tap,Toxin Nagaheel,F2,Demigod L6 Low,B
+MV-ADV-NAG-008-07,Basin-Filling Surge Cut,Mightnagi,F5,Demigod L6 Low,B
+MV-ADV-NAG-008-08,Two-Court Haft Turn,Gust Sayacap,F2,Demigod L6 Low,B
+MV-ADV-NAG-008-09,Azure Pool Binding,Fastening Ishizukibase,F2,Demigod L6 Low,B
+MV-ADV-NAG-008-10,Low Basin Scythe,Haraibarrage,F4,Demigod L6 Low,B
+MV-ADV-NAG-008-11,Sky-Mirror Reaping Arc,Nagithrash,F4,Demigod L6 Low,B
+MV-ADV-NAG-008-12,Basin Overflow Cut,Uchiotoshi Torment,F3,Demigod L6 Low,B
+MV-ADV-NAG-009-01,Bearing-Set Guard,Adamant Tsubaring,F1,Champion L3 Mid,B
+MV-ADV-NAG-009-02,Windward Crescent Edge Cut,Scorching Nagatip,F1,Champion L3 Mid,B
+MV-ADV-NAG-009-03,Headwind Blade Point Drive,Ravaging Harai,F1,Champion L3 Mid,B
+MV-ADV-NAG-009-04,Crosswind Haft Turn,Murk Nagashaft,F2,Champion L3 Mid,B
+MV-ADV-NAG-009-05,Plateau Lip Short Pace,Siltharai,F5,Champion L3 Mid,B
+MV-ADV-NAG-009-06,Wind-Sworn Rising Sweep,Harai Onslaught,F3,Champion L3 Mid,B
+MV-ADV-NAG-009-07,Oath-Held Guard,Aegisnaga,F5,Champion L3 Mid,B
+MV-ADV-NAG-009-08,Bearing-Taken Cutting Entry,Gustharai,F5,Champion L3 Mid,B
+MV-ADV-NAG-009-09,Gale-Fed Sweeping Cut,Haraithrash,F4,Champion L3 Mid,B
+MV-ADV-NAG-009-10,Held Bearing Haft Lock,Ponderous Uchiotoshi,F2,Champion L3 Mid,B
+MV-ADV-NAG-010-01,Plateau Lip Haft Stance,Mantled Ishizuki,F1,Demigod L3 Low,B
+MV-ADV-NAG-010-02,Open-Sky Cut,Rumble Habakiring,F2,Demigod L3 Low,B
+MV-ADV-NAG-010-03,Cliff-Edge Thrust,Transfixing Kake,F1,Demigod L3 Low,B
+MV-ADV-NAG-010-04,Wind-Turned Haft Parry,Equipoise Nagablade,F2,Demigod L3 Low,B
+MV-ADV-NAG-010-05,Plateau Gust Crescent Sweep,Tempered Nagi,F2,Demigod L3 Low,B
+MV-ADV-NAG-010-06,Unwalled Haft Ring,Bladecurve Cloak,F3,Demigod L3 Low,B
+MV-ADV-NAG-010-07,Cliffside Reaping Sweep,Sukuitorment,F4,Demigod L3 Low,B
+MV-ADV-NAG-010-08,Plateau-Wide Cut Arc,Daybreak Nagaheel,F2,Demigod L3 Low,B
+MV-ADV-NAG-011-01,Oath-Sworn Stance,Charter Sayacap,F2,Ruler L1 High,B
+MV-ADV-NAG-011-02,Sworn Crescent Draw Cut,Might Sukui,F2,Ruler L1 High,B
+MV-ADV-NAG-011-03,Oath-Line Thrust,Ishithrash,F4,Ruler L1 High,B
+MV-ADV-NAG-011-04,Spoken-Vow Parry,Nagashaft Fastness,F3,Ruler L1 High,B
+MV-ADV-NAG-011-05,Witness Step Forward,Might Tsubaring,F2,Ruler L1 High,B
+MV-ADV-NAG-011-06,Bound-Oath Tap,Mawashi Cloak,F3,Ruler L1 High,B
+MV-ADV-NAG-011-07,Oath Crescent Sweep,Sanguine Ishizukibase,F2,Ruler L1 High,B
+MV-ADV-NAG-011-08,Vow-Kept Haft Brace,Immovable Bladecurve,F1,Ruler L1 High,B
+MV-ADV-NAG-011-09,Oath-Breaker Cut,Kake Thrash,F3,Ruler L1 High,B
+MV-ADV-NAG-011-10,Vowed Wide Reaping,Slagnaga,F5,Ruler L1 High,B
+MV-ADV-NAG-011-11,Unbroken Oath Cutting Line,Sukui Barrage,F3,Ruler L1 High,B
+MV-ADV-NAG-012-01,Gale Bearing Haft Guard,Staunch Habakiring,F1,Demigod L5 High,B
+MV-ADV-NAG-012-02,Gale-Heading Cut,Kakebarrage,F4,Demigod L5 High,B
+MV-ADV-NAG-012-03,Steady Bearing Thrust,Hollownaga,F5,Demigod L5 High,B
+MV-ADV-NAG-012-04,Veering Haft Parry,Murk Ishizuki,F2,Demigod L5 High,B
+MV-ADV-NAG-012-05,Gale-Force Sweep,Iron Uchiotoshi,F2,Demigod L5 High,B
+MV-ADV-NAG-012-06,Bearing-Shift Step Cut,Blazeishi,F5,Demigod L5 High,B
+MV-ADV-NAG-012-07,Wind-Reading Haft Sense,Chime Nagablade,F2,Demigod L5 High,B
+MV-ADV-NAG-012-08,Gale-Wind Reaping Arc,Dismantling Nagi,F2,Demigod L5 High,B
+MV-ADV-NAG-012-09,Held-Heading Cut,Sanguine Harai,F2,Demigod L5 High,B
+MV-ADV-NAG-001-03,Hollow Nagaheel,Piercing Nagaheel,F2,Champion L2 Low,B

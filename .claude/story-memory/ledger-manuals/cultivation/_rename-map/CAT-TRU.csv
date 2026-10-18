@@ -1,0 +1,5 @@
+move_id,old_name,new_name,function
+CMV-CAT-TRU-001-11,Allseeing Field,Allseeing Eye,Support:Sense
+CMV-CAT-TRU-001-12,Plain Decree,Bare Decree,Attack:Strike;Control:Suppress
+CMV-CAT-TRU-002-04,Plain Palisade,Clear Barrier,Defense:Shield
+CMV-CAT-TRU-002-09,Liarless Field,Liarless Ban,Defense:Nullify

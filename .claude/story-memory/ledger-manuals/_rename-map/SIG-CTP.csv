@@ -1,0 +1,134 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-CTP-001-01,Twin Cup Stance,Vigor Stoneload,F2,Warrior,B
+MV-SIG-CTP-001-02,Cup Pair Weighing,Armcupgift,F4,Warrior,B
+MV-SIG-CTP-001-03,Twin Winder Breathing,Luminous Axlepin,F1,Warrior,B
+MV-SIG-CTP-001-04,Twin Cup Lift,Compassionate Torsion,F1,Warrior,B
+MV-SIG-CTP-001-05,Paired Arm Surge,Inferno Stonefall,F2,Warrior,B
+MV-SIG-CTP-001-06,Cup Cross Check,Eclipse Armcup,F2,Warrior,B
+MV-SIG-CTP-001-07,Twin Cup Parting Arc,Unwinddecree,F4,Champion,B
+MV-SIG-CTP-001-08,Cup Pair Hammering,Unwindbanner,F4,Champion,B
+MV-SIG-CTP-001-09,Azure Court Twin Throw,Solartorque,F5,Demigod,B
+MV-SIG-CTP-001-10,Twin Cup Heaven Pairing,Solararmcup,F5,Warrior,B
+MV-SIG-CTP-002-01,Basin Thrower Footing,Bountiful Releasepin,F1,Warrior,B
+MV-SIG-CTP-002-02,Paired Rope Haul,Bloom Skein,F2,Warrior,B
+MV-SIG-CTP-002-03,Reach Mark Pegging,Reminiscence Throwarm,F2,Warrior,B
+MV-SIG-CTP-002-04,Basin Pair Steadying,Glacier Frameside,F2,Warrior,B
+MV-SIG-CTP-002-05,Reach Pair Lob,Peal Unwind,F2,Warrior,B
+MV-SIG-CTP-002-06,Basin Echo Sensing,Skeingift,F4,Warrior,B
+MV-SIG-CTP-002-07,Thrower Draw Handoff,Bloom Basecradle,F2,Warrior,B
+MV-SIG-CTP-002-08,Reach Pair Splitting,Radiance Ballistic,F2,Champion,B
+MV-SIG-CTP-002-09,Basin Floor Crush,Splendid Torque,F1,Champion,B
+MV-SIG-CTP-002-10,Basin Pair Walking Fall,Millstone Bombardment,F2,Demigod,B
+MV-SIG-CTP-002-11,Basin Throwers Concord Cast,Winchverdict,F4,Warrior,B
+MV-SIG-CTP-003-01,Hawk Crest Frame Ranking,Bloom Winchdrum,F2,Champion,B
+MV-SIG-CTP-003-02,Spotter Wing Signal,Winchgift,F4,Champion,B
+MV-SIG-CTP-003-03,Crest Plume Reading,Bountiful Axlepin,F1,Champion,B
+MV-SIG-CTP-003-04,Twin Frame Crest Draw,Serene Frameside,F1,Champion,B
+MV-SIG-CTP-003-05,Wing Beat Loosing,Gallant Skein,F1,Champion,B
+MV-SIG-CTP-003-06,Crest Edge Qi Screen,Steel Stoneload,F2,Champion,B
+MV-SIG-CTP-003-07,Hawk Crest Raking,Bedrock Torque,F2,Champion,B
+MV-SIG-CTP-003-08,Twin Frame Hunting Pair,Storied Ballistic,F1,Champion,B
+MV-SIG-CTP-003-09,Hawk Crest Dive Pair,Arcflight Verdict,F3,Demigod,B
+MV-SIG-CTP-003-10,Crest Twin Dive,Gallant Pulsar Basecradle,F6a,Champion,B
+MV-SIG-CTP-004-01,River Company Roll Call,Winchbenison,F4,Ruler,B
+MV-SIG-CTP-004-02,Raft Sleeper Binding,Bloom Releasepin,F2,Ruler,B
+MV-SIG-CTP-004-03,Figure Eight Rope Coiling,Torsion Mercy,F3,Ruler,B
+MV-SIG-CTP-004-04,Bank Lookout Rotation,Interstice Winchdrum,F2,Ruler,B
+MV-SIG-CTP-004-05,Dual Track Qi Draw,Parity Armcup,F2,Ruler,B
+MV-SIG-CTP-004-06,River Cover Throw,Gloom Stonefall,F2,Ruler,B
+MV-SIG-CTP-004-07,Company Rank Turning,Unwind Heraldry,F3,Ruler,B
+MV-SIG-CTP-004-08,Companion Frame Pacing,Basecradle Largesse,F3,Ruler,B
+MV-SIG-CTP-004-09,River Siege Pounding,Pulsar Throwarm,F2,Ruler,B
+MV-SIG-CTP-004-10,Bank Line Overthrow,Entropy Arcflight,F2,Ruler,B
+MV-SIG-CTP-004-11,River Company Breach Cast,Vaunted Bombardment,F1,Demigod,B
+MV-SIG-CTP-004-12,Dual Track Siege Concord,Choral Winchdrum,F1,Ruler,B
+MV-SIG-CTP-005-01,Hawk Engine Beam Seating,Parity Releasepin,F2,Demigod,B
+MV-SIG-CTP-005-02,Stone Sheen Reading,Wise Skein,F1,Demigod,B
+MV-SIG-CTP-005-03,Engine Wing Bracing,Glacier Armcup,F2,Demigod,B
+MV-SIG-CTP-005-04,Hawk Engine Field Draw,Valiant Arcflight,F1,Demigod,B
+MV-SIG-CTP-005-05,Even Field Loosing,Peal Torsion,F2,Demigod,B
+MV-SIG-CTP-005-06,Wing Qi Steadying,Inviolate Frameside,F1,Demigod,B
+MV-SIG-CTP-005-07,Hawk Engine Stoop,Throwarm Decree,F3,Demigod,B
+MV-SIG-CTP-005-08,Azure Fall Spread,Skeintriumph,F4,Demigod,B
+MV-SIG-CTP-005-09,Heavy and Light Pairing,Prismunwind,F5,Demigod,B
+MV-SIG-CTP-005-10,Azure Hawk Engine Sundering,Heroic Steel Torque,F6a,Demigod,B
+MV-SIG-CTP-006-01,Core Draw Posture,Winchmercy,F4,Core Formation,B
+MV-SIG-CTP-006-02,Core Stone Sorting,Revelation Stoneload,F2,Core Formation,B
+MV-SIG-CTP-006-03,Tooth Count Meeting,Axlepin Benison,F3,Core Formation,B
+MV-SIG-CTP-006-04,Core Led Draw,Paritywinch,F5,Core Formation,B
+MV-SIG-CTP-006-05,River Core Loft,Pulsar Bombardment,F2,Core Formation,B
+MV-SIG-CTP-006-06,Core Frame Settling,Hornbeam Axlepin,F2,Core Formation,B
+MV-SIG-CTP-006-07,Twin Wave Sensing,Interstice Stoneload,F2,Core Formation,B
+MV-SIG-CTP-006-08,Core Tipped Stoop,Steel Unwind,F2,Core Formation,B
+MV-SIG-CTP-006-09,River Core Rain,Armcupbanner,F4,Core Formation,B
+MV-SIG-CTP-006-10,Core Engine Pair Cast,Inferno Frameside,F2,Core Formation,B
+MV-SIG-CTP-006-11,River Core Great Throw,Intrepid Vacuum Releasepin,F6a,Core Formation,B
+MV-SIG-CTP-007-01,Plateau Thrower Standing,Bountiful Throwarm,F1,Warrior,B
+MV-SIG-CTP-007-02,Oath Word Counting,Eclipse Basecradle,F2,Warrior,B
+MV-SIG-CTP-007-03,Wet Finger Wind Tasting,Skeinbenison,F4,Warrior,B
+MV-SIG-CTP-007-04,Plateau Skein Wind Draw,Bloomarmcup,F5,Warrior,B
+MV-SIG-CTP-007-05,Oath Held Loosing,Pulsar Ballistic,F2,Warrior,B
+MV-SIG-CTP-007-06,Bearing Lean Correction,Peal Skein,F2,Warrior,B
+MV-SIG-CTP-007-07,Gust Pause Sidestep,Evanescent Torque,F1,Warrior,B
+MV-SIG-CTP-007-08,Rim Wind Stone Pitch,Quenched Unwind,F2,Champion,B
+MV-SIG-CTP-007-09,Wind Oath Scatter,Paramount Armcup,F1,Champion,B
+MV-SIG-CTP-007-10,Oath Sworn Gale Throw,Vacuum Ballistic,F2,Demigod,B
+MV-SIG-CTP-007-11,Plateau Oath Gale Cast,Tenet Arcflight,F2,Warrior,B
+MV-SIG-CTP-008-01,Carry Bar Trot,Bedrock Stonefall,F2,Warrior,B
+MV-SIG-CTP-008-02,Bearing Stone Placing,Parity Torsion,F2,Warrior,B
+MV-SIG-CTP-008-03,Windward Dust Crouch,Skeintroth,F4,Warrior,B
+MV-SIG-CTP-008-04,Breath Quick Setting,Clement Releasepin,F1,Warrior,B
+MV-SIG-CTP-008-05,Wind Behind Throw,Winchdecree,F4,Warrior,B
+MV-SIG-CTP-008-06,Skirmish Shift Heave,Torquevoyage,F4,Warrior,B
+MV-SIG-CTP-008-07,Bearing Chased Hail,Imperial Axlepin,F1,Champion,B
+MV-SIG-CTP-008-08,Three Bearing Stinging,Squallskein,F5,Champion,B
+MV-SIG-CTP-008-09,Sworn Skirmish Barrage,Gloomunwind,F5,Demigod,B
+MV-SIG-CTP-008-10,Wind Sworn Frame Hunt,Unrivaled Bombardment Banner,F6b,Warrior,B
+MV-SIG-CTP-009-01,Crank Oath Taking,Bloomwinch,F5,Champion,B
+MV-SIG-CTP-009-02,Gale Cloth Rope Wrapping,Vigorarmcup,F5,Champion,B
+MV-SIG-CTP-009-03,Sworn Count Hand Rotation,Gracious Torsion,F1,Champion,B
+MV-SIG-CTP-009-04,Shoulder Gale Bracing,Sanctum Frameside,F2,Champion,B
+MV-SIG-CTP-009-05,Oath Held Winding,Solarskein,F5,Champion,B
+MV-SIG-CTP-009-06,Gale Surge Loosing,Prism Stonefall,F2,Champion,B
+MV-SIG-CTP-009-07,Crew Oath Qi Binding,Bountiful Skein,F1,Champion,B
+MV-SIG-CTP-009-08,Instant Wind Taking,Tranquil Basecradle,F1,Champion,B
+MV-SIG-CTP-009-09,Gale Winding Hammer,Fearless Winchdrum,F1,Champion,B
+MV-SIG-CTP-009-10,Wind Torn Sky Cast,Noble Torque,F1,Champion,B
+MV-SIG-CTP-009-11,Oath-Taken Great Draw,Quenched Stonefall,F2,Demigod,B
+MV-SIG-CTP-009-12,Gale Oath Crew Reckoning,Destiny Winchdrum,F2,Champion,B
+MV-SIG-CTP-010-01,Roller Log Engine Hauling,Deluge Unwind,F2,Ruler,B
+MV-SIG-CTP-010-02,Roller Relay Laying,Benevolent Armcup,F1,Ruler,B
+MV-SIG-CTP-010-03,Plateau Lip Gust Sensing,Interstice Throwarm,F2,Ruler,B
+MV-SIG-CTP-010-04,Roller Qi Heave,Windborne Stoneload,F1,Ruler,B
+MV-SIG-CTP-010-05,Edge Gust Riding Throw,Peal Ballistic,F2,Ruler,B
+MV-SIG-CTP-010-06,Engine Anchor Qi Drive,Glacier Throwarm,F2,Ruler,B
+MV-SIG-CTP-010-07,Wind Engine Reach,Pulsarunwind,F5,Ruler,B
+MV-SIG-CTP-010-08,Plateau Cross Hail,Magmaarmcup,F5,Ruler,B
+MV-SIG-CTP-010-09,Edge Wind Great Cast,Vacuum Skein,F2,Demigod,B
+MV-SIG-CTP-010-10,Wind Engine Oath Release,Noble Bombardment Triumph,F6b,Ruler,B
+MV-SIG-CTP-011-01,Engine Length Walking,Torqueodyssey,F4,Demigod,B
+MV-SIG-CTP-011-02,Three Strand Wind Rope,Armcupmercy,F4,Demigod,B
+MV-SIG-CTP-011-03,Far Ridge Gauging,Peal Frameside,F2,Demigod,B
+MV-SIG-CTP-011-04,Long Wind Qi Drawing,Bountiful Winchdrum,F1,Demigod,B
+MV-SIG-CTP-011-05,Ridge Aimed Loosing,Gallant Arcflight,F1,Demigod,B
+MV-SIG-CTP-011-06,Gale Skein Field Reading,Bountiful Stoneload,F1,Demigod,B
+MV-SIG-CTP-011-07,Wind Rope Qi Tightening,Tranquil Torsion,F1,Demigod,B
+MV-SIG-CTP-011-08,Long Wind Reaping,Tempestuous Axlepin,F2,Demigod,B
+MV-SIG-CTP-011-09,Gale Engine Piercing,Paramount Ballistic,F1,Demigod,B
+MV-SIG-CTP-011-10,Long Wind Great Throw,Vaunted Releasepin,F1,Demigod,B
+MV-SIG-CTP-011-11,Long Wind Oath Reach,Exalted Unwind Edict,F6b,Demigod,B
+MV-SIG-CTP-012-01,Core Wind Shared Breath,Solarwinch,F5,Core Formation,B
+MV-SIG-CTP-012-02,Open Sky Weather Reading,Skeinmercy,F4,Core Formation,B
+MV-SIG-CTP-012-03,Core Draw Oath,Parityskein,F5,Core Formation,B
+MV-SIG-CTP-012-04,Core Wind Drawing,Compassionate Basecradle,F1,Core Formation,B
+MV-SIG-CTP-012-05,Open Sky Core Loosing,Unwindcrown,F4,Core Formation,B
+MV-SIG-CTP-012-06,Wind Core Settling,Winchdrum Pledge,F3,Core Formation,B
+MV-SIG-CTP-012-07,Core Gale Stone Lancing,Radiance Arcflight,F2,Core Formation,B
+MV-SIG-CTP-012-08,Open Sky Sworn Hail,Magma Torque,F2,Core Formation,B
+MV-SIG-CTP-012-09,Core Oath Engine Cast,Thunderclap Throwarm,F2,Core Formation,B
+MV-SIG-CTP-012-10,Open Sky Core Oath Throw,Demolition Armcup,F2,Core Formation,B
+MV-SIG-CTP-002-04,Glacier Frameside,Unyielding Frameside,F2,Warrior,B
+MV-SIG-CTP-005-03,Glacier Armcup,Unyielding Armcup,F2,Demigod,B
+MV-SIG-CTP-006-06,Hornbeam Axlepin,Ironclad Axlepin,F2,Core Formation,B
+MV-SIG-CTP-009-04,Sanctum Frameside,Rooted Frameside,F2,Champion,B
+MV-SIG-CTP-010-06,Glacier Throwarm,Rooted Throwarm,F2,Ruler,B

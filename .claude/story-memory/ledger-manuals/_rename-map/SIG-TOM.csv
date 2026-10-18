@@ -1,0 +1,140 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-TOM-001-01,Court Hip-Hatchet Stance,Faithful Balancepoint,F1,Warrior L2 Low,B
+MV-SIG-TOM-001-02,Court First High Chop,Vigor Spikepoll,F2,Warrior L2 Low,B
+MV-SIG-TOM-001-03,Azure Five-Pace Toss,Glacier Toss,F2,Warrior L2 Low,B
+MV-SIG-TOM-001-04,Step-and-Cut Court Pair,Imperial Hurl,F1,Warrior L2 Low,B
+MV-SIG-TOM-001-05,Court Haft Turn,Delugehead,F5,Warrior L2 Low,B
+MV-SIG-TOM-001-06,Hawk-Marked Throw,Peerless Thumbnotch,F1,Warrior L2 Low,B
+MV-SIG-TOM-001-07,Azure Wrist Hook Pull,Thunderclap Edgecurve,F2,Warrior L2 Low,B
+MV-SIG-TOM-001-08,Court Three-Beat Sequence,Seasonlob,F5,Champion L1 Low,B
+MV-SIG-TOM-001-09,Azure Fan of Hatchets,Heroic Fling,F1,Champion L1 Low,B
+MV-SIG-TOM-001-10,Court Flash Step Chop,Interstice Quickbit,F2,Demigod L1 Low,B
+MV-SIG-TOM-001-11,Court Draw-Throw-Cut Line,Seasonhurl,F5,Warrior L2 Low,B
+MV-SIG-TOM-002-01,Folded-Wing Paired Guard,Headtroth,F4,Warrior L9 Mid,B
+MV-SIG-TOM-002-02,Hawk-Talon Hatchet Chop,Inferno Birchhelve,F2,Warrior L9 Mid,B
+MV-SIG-TOM-002-03,Twin Perch Toss,Flingedict,F4,Warrior L9 Mid,B
+MV-SIG-TOM-002-04,Hatchet Wing-Spread Retreat,Squall Lob,F2,Warrior L9 Mid,B
+MV-SIG-TOM-002-05,Second-Hawk Follow Cut,Vigorfling,F5,Warrior L9 Mid,B
+MV-SIG-TOM-002-06,Paired Beard Wrist Spread,Entropy Pitch,F2,Warrior L9 Mid,B
+MV-SIG-TOM-002-07,Hawk Pair Throw Over Guard,Unrivaled Tailknob,F1,Warrior L9 Mid,B
+MV-SIG-TOM-002-08,Pinion Catch Deflection,Deluge Lightbit,F2,Warrior L9 Mid,B
+MV-SIG-TOM-002-09,Hawks in Chase Sequence,Destiny Thumbnotch,F2,Champion L1 Low,B
+MV-SIG-TOM-002-10,Hawk Pair Net Throw,Sigillob,F5,Champion L1 Low,B
+MV-SIG-TOM-002-11,Twin Hawk Blink Dive,Chuck Boon,F3,Demigod L1 Low,B
+MV-SIG-TOM-002-12,Paired Hawks Descending,Peerless Thunderclap Throwhelve,F6a,Warrior L9 Mid,B
+MV-SIG-TOM-003-01,Basin-Floor Hatchet Stance,Unwavering Tailknob,F1,Champion L4 Low,B
+MV-SIG-TOM-003-02,River Reach Chop,Bedrock Birchhelve,F2,Champion L4 Low,B
+MV-SIG-TOM-003-03,Bank-Skim Toss,Thunderclap Lightbit,F2,Champion L4 Low,B
+MV-SIG-TOM-003-04,Eddy-Turn Haft Parry,Pall Tomahead,F2,Champion L4 Low,B
+MV-SIG-TOM-003-05,Current Cut Step,Dune Tomahead,F2,Champion L4 Low,B
+MV-SIG-TOM-003-06,Ford-Crossing Throw,Peal Balancepoint,F2,Champion L4 Low,B
+MV-SIG-TOM-003-07,Flood Fan of Hatchets,Tempestuous Spikepoll,F2,Champion L4 Low,B
+MV-SIG-TOM-003-08,Meander Pursuit Sequence,Symphonic Quickbit,F1,Champion L4 Low,B
+MV-SIG-TOM-003-09,River-Mouth Blink Throw,Wraithlike Toss,F1,Demigod L1 Low,B
+MV-SIG-TOM-003-10,River-Bend Hatchet Reach,Famed Hurl,F1,Champion L4 Low,B
+MV-SIG-TOM-004-01,Twin-Court Open Guard,Throwhelve Troth,F3,Ruler L1 Mid,B
+MV-SIG-TOM-004-02,Court Left-Right Chop,Gallant Lob,F1,Ruler L1 Mid,B
+MV-SIG-TOM-004-03,Court Pair Short Toss,Prismflint,F5,Ruler L1 Mid,B
+MV-SIG-TOM-004-04,Double-Track Cut and Step,Thunderclap Pitch,F2,Ruler L1 Mid,B
+MV-SIG-TOM-004-05,Court Hook and Throw,Subjugating Fling,F1,Ruler L1 Mid,B
+MV-SIG-TOM-004-06,Twin Haft Block-Counter,Pall Spikepoll,F2,Ruler L1 Mid,B
+MV-SIG-TOM-004-07,Mirror-Court Feint,Nightmare Edgecurve,F2,Ruler L1 Mid,B
+MV-SIG-TOM-004-08,Two-Track Strike Sequence,Destiny Fling,F2,Ruler L1 Mid,B
+MV-SIG-TOM-004-09,Court Pincer Volley,Famed Chuck,F1,Ruler L1 Mid,B
+MV-SIG-TOM-004-10,Twin-Court Flash Verdict,Thunderclap Tomahead,F2,Demigod L1 Low,B
+MV-SIG-TOM-004-11,Twin-Court Double Verdict,Thunderclap Thumbnotch,F2,Ruler L1 Mid,B
+MV-SIG-TOM-005-01,Azure Perch Ready Guard,Enshrined Quickbit,F1,Demigod L3 Low,B
+MV-SIG-TOM-005-02,High-Stoop Falling Chop,Steel Hurl,F2,Demigod L3 Low,B
+MV-SIG-TOM-005-03,Azure Air-Read Glance,Tranquil Tailknob,F1,Demigod L3 Low,B
+MV-SIG-TOM-005-04,Hawk Dive Approach Step,Bedrock Edgecurve,F2,Demigod L3 Low,B
+MV-SIG-TOM-005-05,Stoop Throw from Height,Dauntless Throwhelve,F1,Demigod L3 Low,B
+MV-SIG-TOM-005-06,Talon Beard Rake,Peremptory Lightbit,F1,Demigod L3 Low,B
+MV-SIG-TOM-005-07,Azure Wing-Slip Parry,Pall Throwhelve,F2,Demigod L3 Low,B
+MV-SIG-TOM-005-08,Hawk Feint Pull-Up,Nightmare Toss,F2,Demigod L3 Low,B
+MV-SIG-TOM-005-09,Stoop and Recover Sequence,Tenetflint,F5,Demigod L3 Low,B
+MV-SIG-TOM-005-10,Azure Descent Volley,Headdecree,F4,Demigod L3 Low,B
+MV-SIG-TOM-005-11,Axe Stoop Beyond Sight,Thunderclap Lob,F2,Demigod L3 Low,B
+MV-SIG-TOM-005-12,Azure Stooping Axe Fall,Vacuum Spikepoll,F2,Demigod L3 Low,B
+MV-SIG-TOM-006-01,Sovereign Court Stance,Sanctum Quickbit,F2,Core Formation L2 Low,B
+MV-SIG-TOM-006-02,Core-Backed Chop,Quenched Lightbit,F2,Core Formation L2 Low,B
+MV-SIG-TOM-006-03,Core-Fed Short Throw,Peal Pitch,F2,Core Formation L2 Low,B
+MV-SIG-TOM-006-04,Sovereign Haft Turn,Headpledge,F4,Core Formation L2 Low,B
+MV-SIG-TOM-006-05,Azure Core Hatchet Step,Bedrock Chuck,F2,Core Formation L2 Low,B
+MV-SIG-TOM-006-06,Sky-Line Throw,Squall Pitch,F2,Core Formation L2 Low,B
+MV-SIG-TOM-006-07,Core Volley Over the Basin,Fearless Fling,F1,Core Formation L2 Low,B
+MV-SIG-TOM-006-08,Sovereign Pursuit Sequence,Volition Birchhelve,F2,Core Formation L2 Low,B
+MV-SIG-TOM-006-09,Azure Core Flash Strike,Radiance Hurl,F2,Core Formation L2 Low,B
+MV-SIG-TOM-006-10,Azure Unbroken Hatchet Line,Symphonic Tenet Tomahead,F6a,Core Formation L2 Low,B
+MV-SIG-TOM-007-01,Wind-Sworn Hatchet Stance,Prismhead,F5,Warrior L1 Mid,B
+MV-SIG-TOM-007-02,Plateau Edge Hatchet Chop,Intrepid Toss,F1,Warrior L1 Mid,B
+MV-SIG-TOM-007-03,Bearing Toss,Glacier Thumbnotch,F2,Warrior L1 Mid,B
+MV-SIG-TOM-007-04,Oath Short Step,Spectral Chuck,F1,Warrior L1 Mid,B
+MV-SIG-TOM-007-05,Gust-Turn Hatchet Parry,Pealbirch,F5,Warrior L1 Mid,B
+MV-SIG-TOM-007-06,Plateau Windline Throw,Lordly Balancepoint,F1,Warrior L1 Mid,B
+MV-SIG-TOM-007-07,Oath Hook Wrist Pull,Peal Birchhelve,F2,Warrior L1 Mid,B
+MV-SIG-TOM-007-08,Open Ground Dash Cut,Silken Edgecurve,F1,Warrior L1 Mid,B
+MV-SIG-TOM-007-09,Wind-Sworn Three-Beat Chain,Flingbanner,F4,Champion L1 Low,B
+MV-SIG-TOM-007-10,Plateau Scatter Fan,Duneflint,F5,Champion L1 Low,B
+MV-SIG-TOM-007-11,Gale Blink Cut,Seasonpitch,F5,Demigod L1 Low,B
+MV-SIG-TOM-007-12,Plateau Hatchet Oath Throw,Magnificent Radiance Edgecurve,F6a,Warrior L1 Mid,B
+MV-SIG-TOM-008-01,Bearing-Fixing Stance,Flintpledge,F4,Warrior L7 Low,B
+MV-SIG-TOM-008-02,Held-Line Chop,Vigor Lob,F2,Warrior L7 Low,B
+MV-SIG-TOM-008-03,Oath-Count Throw,Birchcrown,F4,Warrior L7 Low,B
+MV-SIG-TOM-008-04,Bearing-Hold Haft Parry,Parity Balancepoint,F2,Warrior L7 Low,B
+MV-SIG-TOM-008-05,Crosswind Step Cut,Chuck Grace,F3,Warrior L7 Low,B
+MV-SIG-TOM-008-06,Sworn Mark Throw,Matchless Toss,F1,Warrior L7 Low,B
+MV-SIG-TOM-008-07,Held Bearing Volley,Entropy Hurl,F2,Champion L1 Low,B
+MV-SIG-TOM-008-08,Oath Bearing Sequence,Resonant Tomahead,F1,Champion L1 Low,B
+MV-SIG-TOM-008-09,Bearing Flash Strike,Pulsarlob,F5,Demigod L1 Low,B
+MV-SIG-TOM-008-10,Bearing-Held Light Axe Cut,Dauntless Tailknob,F1,Warrior L7 Low,B
+MV-SIG-TOM-009-01,Windward Hatchet Ready Stance,Statute Throwhelve,F2,Champion L3 Mid,B
+MV-SIG-TOM-009-02,Open Plateau Chop,Quenched Quickbit,F2,Champion L3 Mid,B
+MV-SIG-TOM-009-03,Windward Short Throw,Inferno Balancepoint,F2,Champion L3 Mid,B
+MV-SIG-TOM-009-04,Windward Haft Slip,Flintvow,F4,Champion L3 Mid,B
+MV-SIG-TOM-009-05,Long Grass Crouch Step,Silken Lob,F1,Champion L3 Mid,B
+MV-SIG-TOM-009-06,Tailgust Throw,Unrivaled Thumbnotch,F1,Champion L3 Mid,B
+MV-SIG-TOM-009-07,Windward Beard Tug,Spikepoll Pledge,F3,Champion L3 Mid,B
+MV-SIG-TOM-009-08,Open-Ground Throw Chain,Season Fling,F2,Champion L3 Mid,B
+MV-SIG-TOM-009-09,Windward Hail of Axes,Dune Lightbit,F2,Champion L3 Mid,B
+MV-SIG-TOM-009-10,Windward Blink Descent,Interstice Pitch,F2,Demigod L1 Low,B
+MV-SIG-TOM-009-11,Windward Plateau Axe Fall,Noble Thunderclap Birchhelve,F6a,Champion L3 Mid,B
+MV-SIG-TOM-010-01,Sworn Bit-Edge Stance,Headseal,F4,Ruler L1 Low,B
+MV-SIG-TOM-010-02,Edge-First Chop,Thunderclap Spikepoll,F2,Ruler L1 Low,B
+MV-SIG-TOM-010-03,Open Gale Toss,Prism Thumbnotch,F2,Ruler L1 Low,B
+MV-SIG-TOM-010-04,Sworn Lead-Heel Pivot,Hurlvoyage,F4,Ruler L1 Low,B
+MV-SIG-TOM-010-05,Gale Slant Block,Flintseal,F4,Ruler L1 Low,B
+MV-SIG-TOM-010-06,Edge Oath Throw,Pealchuck,F5,Ruler L1 Low,B
+MV-SIG-TOM-010-07,Wind-Caught Beard Pull,Sigil Tomahead,F2,Ruler L1 Low,B
+MV-SIG-TOM-010-08,Open Wind Advance,Ethereal Fling,F1,Ruler L1 Low,B
+MV-SIG-TOM-010-09,Sworn Bit-Edge Sequence,Lobverdict,F4,Ruler L1 Low,B
+MV-SIG-TOM-010-10,Gale Edge Volley,Solar Tailknob,F2,Ruler L1 Low,B
+MV-SIG-TOM-010-11,Edge in the Gale Blink,Pulsarhead,F5,Demigod L1 Low,B
+MV-SIG-TOM-010-12,Sworn Edge of the Open Gale,Flintverdict,F4,Ruler L1 Low,B
+MV-SIG-TOM-011-01,Gale-Riding Guard,Birchtroth,F4,Demigod L1 Mid,B
+MV-SIG-TOM-011-02,Riding Downchop,Haemalhurl,F5,Demigod L1 Mid,B
+MV-SIG-TOM-011-03,Bearing Ride Throw,Tailknob Banner,F3,Demigod L1 Mid,B
+MV-SIG-TOM-011-04,Gust-Mounted Step,Dunehurl,F5,Demigod L1 Mid,B
+MV-SIG-TOM-011-05,Riding Haft Deflect,Parity Quickbit,F2,Demigod L1 Mid,B
+MV-SIG-TOM-011-06,Updraft Lob,Pulsarfling,F5,Demigod L1 Mid,B
+MV-SIG-TOM-011-07,Gale Hook Haul,Sigilhead,F5,Demigod L1 Mid,B
+MV-SIG-TOM-011-08,Riding Pursuit Sequence,Tenethead,F5,Demigod L1 Mid,B
+MV-SIG-TOM-011-09,Riding Squall Volley,Magma Edgecurve,F2,Demigod L1 Mid,B
+MV-SIG-TOM-011-10,Gale-Rider Blink Strike,Thunderclap Toss,F2,Demigod L1 Mid,B
+MV-SIG-TOM-011-11,Gale-Riding Axe Descent,Vaunted Pitch Decree,F6b,Demigod L1 Mid,B
+MV-SIG-TOM-012-01,Boundless Open Stance,Sanctum Balancepoint,F2,Core Formation L4 Low,B
+MV-SIG-TOM-012-02,Core-Wind Chop,Famed Lob,F1,Core Formation L4 Low,B
+MV-SIG-TOM-012-03,Core Bearing Throw,Glacier Throwhelve,F2,Core Formation L4 Low,B
+MV-SIG-TOM-012-04,Boundless Haft Deflect,Sacrosanct Lightbit,F1,Core Formation L4 Low,B
+MV-SIG-TOM-012-05,Core-Gust Hatchet Step,Chuck Voyage,F3,Core Formation L4 Low,B
+MV-SIG-TOM-012-06,Far-Bearing Throw,Prism Hurl,F2,Core Formation L4 Low,B
+MV-SIG-TOM-012-07,Boundless Volley,Spikepoll Crown,F3,Core Formation L4 Low,B
+MV-SIG-TOM-012-08,Held Bearing Pursuit Chain,Season Chuck,F2,Core Formation L4 Low,B
+MV-SIG-TOM-012-09,Boundless Blink Cut,Radiance Birchhelve,F2,Core Formation L4 Low,B
+MV-SIG-TOM-012-10,Boundless Bearing Throw,Valiant Thumbnotch Decree,F6b,Core Formation L4 Low,B
+MV-SIG-TOM-001-03,Glacier Toss,Spinning Toss,F2,Warrior L2 Low,B
+MV-SIG-TOM-003-05,Dune Tomahead,Chasing Tomahead,F2,Champion L4 Low,B
+MV-SIG-TOM-006-01,Sanctum Quickbit,Settled Quickbit,F2,Core Formation L2 Low,B
+MV-SIG-TOM-007-03,Glacier Thumbnotch,Straight Thumbnotch,F2,Warrior L1 Mid,B
+MV-SIG-TOM-009-09,Dune Lightbit,Hailing Lightbit,F2,Champion L3 Mid,B
+MV-SIG-TOM-012-01,Sanctum Balancepoint,Steady Balancepoint,F2,Core Formation L4 Low,B
+MV-SIG-TOM-012-03,Glacier Throwhelve,Unerring Throwhelve,F2,Core Formation L4 Low,B

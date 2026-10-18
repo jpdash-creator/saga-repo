@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-KUK-001-01,Belly Overhead Fall,Forward Kinkspine,F1,Unawakened,A
+MV-BAS-KUK-001-02,Heel-Led Forward Hack,Straight Slash,F1,Unawakened,A
+MV-BAS-KUK-001-03,Spine Turn Check,Planted Cho,F1,Unawakened,A
+MV-BAS-KUK-001-04,Drag-Up Gather Step,Whumptrot,F4,Unawakened,A
+MV-BAS-KUK-001-05,Handle-Butt Forearm Knock,Gashwedge,F4,Unawakened,A
+MV-BAS-KUK-001-06,Low Belly Watch,Kind Pommelcap,F1,Unawakened,A
+MV-BAS-KUK-002-01,Tip-Heavy Pendulum Chop,Hard Chopmass,F1,Skin,A
+MV-BAS-KUK-002-02,Loose-Wrist Rolling Hew,Level Gash,F1,Skin,A
+MV-BAS-KUK-002-03,Weight Catch Recovery,Snug Heavytip,F1,Skin,A
+MV-BAS-KUK-002-04,Sliding Foot Under the Swing,Chipdodge,F4,Skin,A
+MV-BAS-KUK-002-05,Reverse Belly Hook,Waistdrop,F4,Skin,A
+MV-BAS-KUK-002-06,Off-Hand Wrist Seize,Gashstay,F4,Skin,A
+MV-BAS-KUK-002-07,Balance-Point Stillness,Even Inwardcurve,F1,Skin,A
+MV-BAS-KUK-003-01,Thicket Opening Chop,Sharp Forwardbelly,F1,Unawakened,A
+MV-BAS-KUK-003-02,Low Stalk Sweep,Horntang Blow,F3,Unawakened,A
+MV-BAS-KUK-003-03,Branch Knock Aside,Kinkspine Wedge,F3,Unawakened,A
+MV-BAS-KUK-003-04,Trail-Breaking Advance,Choamble,F4,Unawakened,A
+MV-BAS-KUK-003-05,Vine Cut and Pull,Catching Whump,F1,Unawakened,A
+MV-BAS-KUK-004-01,Full-Hand Grip Chop,Sharp Chip,F1,Muscle,A
+MV-BAS-KUK-004-02,Thumb-Along-Spine Cut,Straight Chip,F1,Muscle,A
+MV-BAS-KUK-004-03,Wrist Snap Backhand,Descending Bulgeedge,F1,Muscle,A
+MV-BAS-KUK-004-04,Reverse Grip Point Punch,Low Notch,F1,Muscle,A
+MV-BAS-KUK-004-05,Crossed Wrist Parry,Raised Bulgeedge,F1,Muscle,A
+MV-BAS-KUK-004-06,Grip Shift Pivot,Gashdodge,F4,Muscle,A
+MV-BAS-KUK-004-07,Choke-Up Short Stab,Locking Hookbelly,F1,Muscle,A
+MV-BAS-KUK-004-08,Palm Weight Reading,Kinknote,F4,Muscle,A
+MV-BAS-KUK-005-01,Inward Curve Drag Cut,Low Lopstroke,F1,Bone,A
+MV-BAS-KUK-005-02,Curve Hook at the Knee,Kinkdash,F4,Bone,A
+MV-BAS-KUK-005-03,Cupped Edge Catch,Waistwedge,F4,Bone,A
+MV-BAS-KUK-005-04,Curve Pull Stumble,Nabbing Notch,F1,Bone,A
+MV-BAS-KUK-005-05,Wrist-Hang Slip Step,Nimble Chopmass,F1,Bone,A
+MV-BAS-KUK-005-06,Bite Depth Appraisal,Waistgauge,F4,Bone,A
+MV-BAS-KUK-006-01,Qi-Thread Belly Chop,Downward Forwardbelly,F1,Senior,A
+MV-BAS-KUK-006-02,Warm Edge Backcut,Notchstrike,F4,Senior,A
+MV-BAS-KUK-006-03,Spine Ward Flick,Hookbelly Cowl,F3,Senior,A
+MV-BAS-KUK-006-04,Qi-Eased Gather Step,Slash Dodge,F3,Senior,A
+MV-BAS-KUK-006-05,Handle-Butt Qi Jolt,Fouling Gash,F1,Senior,A
+MV-BAS-KUK-006-06,Belly Hook Pull,Kinkhusk,F4,Senior,A
+MV-BAS-KUK-006-07,Edge Glow Reading,Smooth Cho,F1,Senior,A
+MV-BAS-KUK-007-01,Sheath Mouth Release,Level Pommelcap,F1,Senior,A
+MV-BAS-KUK-007-02,Draw-Cut Overhand Drop,Sudden Horntang,F1,Senior,A
+MV-BAS-KUK-007-03,Quick Sheath Shield,Planted Heavytip,F1,Senior,A
+MV-BAS-KUK-007-04,Hip Turn Entry,Notchamble,F4,Senior,A
+MV-BAS-KUK-007-05,Sheath Mouth Reading,Watching Inwardcurve,F1,Senior,A
+MV-BAS-KUK-008-01,Hewing Cross Stroke,Single Lopstroke,F1,Senior,A
+MV-BAS-KUK-008-02,Notch-Seat Shear,Open Slash,F1,Senior,A
+MV-BAS-KUK-008-03,Double Hack Combination,Narrow Chip,F1,Senior,A
+MV-BAS-KUK-008-04,Notch Catch Hold,Holding Inwardcurve,F1,Senior,A
+MV-BAS-KUK-008-05,Notch Twist Disarm,Towing Gash,F1,Senior,A
+MV-BAS-KUK-008-06,Weighted Swing Step-Through,Backward Lopstroke,F1,Senior,A
+MV-BAS-KUK-008-07,Hewing Line Press,Kinkcowl,F4,Senior,A
+MV-BAS-KUK-008-08,Notch Pressure Sense,Chocount,F4,Senior,A
+MV-BAS-KUK-009-01,Hip Draw Slash,Square Notch,F1,Senior,A
+MV-BAS-KUK-009-02,Return Chop Under the Elbow,Waistdash,F4,Senior,A
+MV-BAS-KUK-009-03,Third Cut Overhead Finish,Notchblow,F4,Senior,A
+MV-BAS-KUK-009-04,Draw Hand Cover Block,Ready Chopmass,F1,Senior,A
+MV-BAS-KUK-009-05,Hip Slide Close,Light Horntang,F1,Senior,A
+MV-BAS-KUK-009-06,Waist Read Watch,Kind Heavytip,F1,Senior,A
+MV-BAS-KUK-010-01,Weighted Edge Timed Chop,Chohit,F4,Senior,A
+MV-BAS-KUK-010-02,Rising Belly Cut,Gnawing Whump,F1,Senior,A
+MV-BAS-KUK-010-03,Qi-Steadied Cross Hew,Single Forwardbelly,F1,Senior,A
+MV-BAS-KUK-010-04,Off-Hand Spine Brace Stop,Waiststay,F4,Senior,A
+MV-BAS-KUK-010-05,Falling Weight Side Step,Sideways Hookbelly,F1,Senior,A
+MV-BAS-KUK-010-06,Edge Return Snap,Towing Kinkspine,F1,Senior,A
+MV-BAS-KUK-010-07,Swing Rhythm Reading,Pommelcap Note,F3,Senior,A

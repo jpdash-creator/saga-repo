@@ -1,0 +1,136 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-RAP-001-01,Opening Brow Salute of the Court,Sanctum Whipblade,F2,Warrior,B
+MV-SIG-RAP-001-02,Azure Court Measured Pace,Voltegrace,F4,Warrior,B
+MV-SIG-RAP-001-03,Narrow Line Observation,Clement Cuphilt,F1,Warrior,B
+MV-SIG-RAP-001-04,Court Turn and Strike,Venerable Cupedge,F1,Warrior,B
+MV-SIG-RAP-001-05,Azure Slipping Disengage,Pallvolte,F5,Warrior,B
+MV-SIG-RAP-001-06,First Paired Beat,Pealfoil,F5,Warrior,B
+MV-SIG-RAP-001-07,Court Line Lunge,Prismremise,F5,Champion,B
+MV-SIG-RAP-001-08,Paired Guard Answer,Parity Tipwhip,F2,Champion,B
+MV-SIG-RAP-001-09,Azure Court Flash Thrust,Radiance Sweephilt,F2,Demigod,B
+MV-SIG-RAP-001-10,Salute of the Opened Line,Vaunted Stoccata,F1,Warrior,B
+MV-SIG-RAP-002-01,Hawk Pair Guard,Sainted Bellguard,F1,Warrior,B
+MV-SIG-RAP-002-02,Twin Pinion Step,Skyborne Remise,F1,Warrior,B
+MV-SIG-RAP-002-03,Paired Gaze Watch,Interstice Needlepoint,F2,Warrior,B
+MV-SIG-RAP-002-04,Hawk Pair Lunge,Pasguard Edict,F3,Warrior,B
+MV-SIG-RAP-002-05,Wingbeat Forte Parry,Foilvow,F4,Warrior,B
+MV-SIG-RAP-002-06,Talon Feint,Authoritative Lunge,F1,Warrior,B
+MV-SIG-RAP-002-07,Hovering Pair Press,Bedrock Passata,F2,Warrior,B
+MV-SIG-RAP-002-08,Pair of Talons Strike,Slimtang Verdict,F3,Champion,B
+MV-SIG-RAP-002-09,Wings Close Upon the Point,Faithful Sweephilt,F1,Champion,B
+MV-SIG-RAP-002-10,Hawk's Pair Falls Together,Noble Cuphilt,F1,Demigod,B
+MV-SIG-RAP-002-11,Hawk's Pair Descends,Paramount Fleche,F1,Warrior,B
+MV-SIG-RAP-003-01,Riverbank Sloped Guard,Steelswept,F5,Champion,B
+MV-SIG-RAP-003-02,Shallow-Water Light Step,Vigor Lunge,F2,Champion,B
+MV-SIG-RAP-003-03,Basin Light Reading,Reminiscence Tipwhip,F2,Champion,B
+MV-SIG-RAP-003-04,Ford Crossing Lunge,Majestic Bellguard,F1,Champion,B
+MV-SIG-RAP-003-05,Spring-Fed Riposte,Venerable Pasguard,F1,Champion,B
+MV-SIG-RAP-003-06,Sandbar Forte Bind,Subjugating Volte,F1,Champion,B
+MV-SIG-RAP-003-07,Current Takes the Blade,Entropy Volte,F2,Champion,B
+MV-SIG-RAP-003-08,Rising Water Thrust,Pulsar Whipblade,F2,Champion,B
+MV-SIG-RAP-003-09,River Cuts Its Bed,Vacuum Slimtang,F2,Demigod,B
+MV-SIG-RAP-003-10,The River Closes Upon the Stone,Prism Counterpoise,F2,Champion,B
+MV-SIG-RAP-004-01,Left-Track Guard,Sanctum Counterpoise,F2,Ruler,B
+MV-SIG-RAP-004-02,Right-Track Guard,Hornbeam Cuphilt,F2,Ruler,B
+MV-SIG-RAP-004-03,Cross-Track Step,Deluge Remise,F2,Ruler,B
+MV-SIG-RAP-004-04,Dual Sight at the Hip,Clement Tipwhip,F1,Ruler,B
+MV-SIG-RAP-004-05,Braided Track Thrust,Prismlunge,F5,Ruler,B
+MV-SIG-RAP-004-06,Paired Cross Parry,Deluge Needlepoint,F2,Ruler,B
+MV-SIG-RAP-004-07,Switchback Disengage,Pall Cupedge,F2,Ruler,B
+MV-SIG-RAP-004-08,Track Pin Press,Passata Decree,F3,Ruler,B
+MV-SIG-RAP-004-09,Two Answers One Beat,Seasonvolte,F5,Ruler,B
+MV-SIG-RAP-004-10,Track Seal Beat,Destiny Lunge,F2,Ruler,B
+MV-SIG-RAP-004-11,Reach of Both Tracks,Steel Fleche,F2,Demigod,B
+MV-SIG-RAP-004-12,Dual Track Final Answer,Steellunge,F5,Ruler,B
+MV-SIG-RAP-005-01,Pinion Field Stance,Sweptpledge,F4,Demigod,B
+MV-SIG-RAP-005-02,Sky Breadth Step,Vigor Slimtang,F2,Demigod,B
+MV-SIG-RAP-005-03,Azure Field Sensing,Eclipse Needlepoint,F2,Demigod,B
+MV-SIG-RAP-005-04,Field Pinion Lunge,Vacuum Stoccata,F2,Demigod,B
+MV-SIG-RAP-005-05,Wide Pinion Parry,Parityswept,F5,Demigod,B
+MV-SIG-RAP-005-06,Pinion Tip Bind,Stoccata Vow,F3,Demigod,B
+MV-SIG-RAP-005-07,Skybound Feint,Entropy Fleche,F2,Demigod,B
+MV-SIG-RAP-005-08,Pinion Thrust Beyond Sight,Vacuum Whipblade,F2,Demigod,B
+MV-SIG-RAP-005-09,Sky Cloak Turn,Parityfoil,F5,Demigod,B
+MV-SIG-RAP-005-10,Azure Pinion Flash,Thunderclap Passata,F2,Demigod,B
+MV-SIG-RAP-005-11,Sky-Wide Pinion Thrust,Sovereign Steel Counterpoise,F6a,Demigod,B
+MV-SIG-RAP-006-01,Twin Point Guard,Bedrock Pasguard,F2,Core Formation,B
+MV-SIG-RAP-006-02,Core-Steady Azure Glide,Bedrock Bellguard,F2,Core Formation,B
+MV-SIG-RAP-006-03,Paired Core Sense,Pealswept,F5,Core Formation,B
+MV-SIG-RAP-006-04,Core-Fed Lunge,Royal Remise,F1,Core Formation,B
+MV-SIG-RAP-006-05,Twin Point Parry,Peal Sweephilt,F2,Core Formation,B
+MV-SIG-RAP-006-06,Paired Core Bind,Thrall Needlepoint,F2,Core Formation,B
+MV-SIG-RAP-006-07,Second Point Within the First,Thunderclap Pasguard,F2,Core Formation,B
+MV-SIG-RAP-006-08,Core Rings the Steel,Thunderclap Lunge,F2,Core Formation,B
+MV-SIG-RAP-006-09,Twin Azure Seal,Valiant Cuphilt,F1,Core Formation,B
+MV-SIG-RAP-006-10,Twin Azure Points Descend,Noble Thunderclap Cupedge,F6a,Core Formation,B
+MV-SIG-RAP-007-01,Oath-Taking Stance,Passeal,F4,Warrior,B
+MV-SIG-RAP-007-02,Windward Closing Stride,Bedrock Stoccata,F2,Warrior,B
+MV-SIG-RAP-007-03,Plateau Eye,Slimtang Mercy,F3,Warrior,B
+MV-SIG-RAP-007-04,Sworn Lunge,Volte Decree,F3,Warrior,B
+MV-SIG-RAP-007-05,Oath-Foot Parry Pivot,Devout Whipblade,F1,Warrior,B
+MV-SIG-RAP-007-06,Oathknot Bind,Sigil Fleche,F2,Warrior,B
+MV-SIG-RAP-007-07,Breath-Held Feint,Phantasm Sweephilt,F2,Warrior,B
+MV-SIG-RAP-007-08,Oath Breaks the Guard,Vacuumremise,F5,Champion,B
+MV-SIG-RAP-007-09,Gale Backs the Parry,Peal Cupedge,F2,Champion,B
+MV-SIG-RAP-007-10,Wind-Sworn Flash Thrust,Season Counterpoise,F2,Demigod,B
+MV-SIG-RAP-007-11,Wind-Sworn First Oath Lunge,Sovereign Bellguard Banner,F6b,Warrior,B
+MV-SIG-RAP-008-01,Plateau Bearing Guard,Sanctum Tipwhip,F2,Warrior,B
+MV-SIG-RAP-008-02,Shoulder-Level Rapier Walk,Flecheodyssey,F4,Warrior,B
+MV-SIG-RAP-008-03,Cloud Shadow Reading,Pealpas,F5,Warrior,B
+MV-SIG-RAP-008-04,Bearing Held Lunge,Thunderclap Counterpoise,F2,Warrior,B
+MV-SIG-RAP-008-05,Ridge Turn Parry,Pallpas,F5,Warrior,B
+MV-SIG-RAP-008-06,Bearing Cross Beat,Peremptory Slimtang,F1,Warrior,B
+MV-SIG-RAP-008-07,Bearing Splits the Guard,Quenched Lunge,F2,Champion,B
+MV-SIG-RAP-008-08,Edge Wind Counter,Sweptvow,F4,Champion,B
+MV-SIG-RAP-008-09,Bearing Flash Through the Line,Pulsarpas,F5,Demigod,B
+MV-SIG-RAP-008-10,Bearing Sworn to the Last Breath,Peerless Needlepoint,F1,Warrior,B
+MV-SIG-RAP-009-01,Bare Ground Guard,Steel Sweephilt,F2,Champion,B
+MV-SIG-RAP-009-02,Broad Field Fencing Pace,Deluge Passata,F2,Champion,B
+MV-SIG-RAP-009-03,Open Air Sighting,Sweptgift,F4,Champion,B
+MV-SIG-RAP-009-04,Free Wrist Hold,Volition Whipblade,F2,Champion,B
+MV-SIG-RAP-009-05,Gap Running Thrust,Cuphilt Verdict,F3,Champion,B
+MV-SIG-RAP-009-06,Broad Arm Parry Sweep,Pallswept,F5,Champion,B
+MV-SIG-RAP-009-07,Unwalled Feint,Pasvow,F4,Champion,B
+MV-SIG-RAP-009-08,Pressing Wind Walk,Magnificent Remise,F1,Champion,B
+MV-SIG-RAP-009-09,Point Where No Wall Stands,Thunderclap Volte,F2,Champion,B
+MV-SIG-RAP-009-10,Open Sky Counter,Squallswept,F5,Champion,B
+MV-SIG-RAP-009-11,Unwalled Flash Thrust,Thunderclap Bellguard,F2,Demigod,B
+MV-SIG-RAP-009-12,Point Without a Wall,Famed Passata Crown,F6b,Champion,B
+MV-SIG-RAP-010-01,Slanted Post Crosswind Guard,Prismfoil,F5,Ruler,B
+MV-SIG-RAP-010-02,Slant-Entry Sidewind Step,Windborne Cupedge,F1,Ruler,B
+MV-SIG-RAP-010-03,Dust Eddy Reading,Pasguard Blessing,F3,Ruler,B
+MV-SIG-RAP-010-04,Crosswind Lunge,Prism Tipwhip,F2,Ruler,B
+MV-SIG-RAP-010-05,Slanting Wind Parry,Inviolate Needlepoint,F1,Ruler,B
+MV-SIG-RAP-010-06,Gust Disengage Beat,Peal Fleche,F2,Ruler,B
+MV-SIG-RAP-010-07,Crosswind Turns the Steel,Unbending Volte,F1,Ruler,B
+MV-SIG-RAP-010-08,Wind Cuts Both Ways,Lungeedict,F4,Ruler,B
+MV-SIG-RAP-010-09,Crosswind Flash Thrust,Remise Grace,F3,Demigod,B
+MV-SIG-RAP-010-10,Crosswind That Cannot Be Parried,Fearless Thunderclap Sweephilt,F6a,Ruler,B
+MV-SIG-RAP-011-01,Gale Oath Field Stance,Statute Bellguard,F2,Demigod,B
+MV-SIG-RAP-011-02,Oath-Wind Step,Squalllunge,F5,Demigod,B
+MV-SIG-RAP-011-03,Field of the Sworn Sensing,Compassionate Counterpoise,F1,Demigod,B
+MV-SIG-RAP-011-04,Field Gale Lunge,Majestic Cupedge,F1,Demigod,B
+MV-SIG-RAP-011-05,Oath-Sworn Wind Parry,Pall Cuphilt,F2,Demigod,B
+MV-SIG-RAP-011-06,Sworn Field Bind,Hornbeam Stoccata,F2,Demigod,B
+MV-SIG-RAP-011-07,Gale Oath Feint,Voltevow,F4,Demigod,B
+MV-SIG-RAP-011-08,Gale Oath Pierces,Radiance Pasguard,F2,Demigod,B
+MV-SIG-RAP-011-09,Field Wind Nullify,Undefiled Tipwhip,F1,Demigod,B
+MV-SIG-RAP-011-10,Sworn Gale Flash Lunge,Thunderclap Fleche,F2,Demigod,B
+MV-SIG-RAP-011-11,Gale Oath Thrust,Steelvolte,F5,Demigod,B
+MV-SIG-RAP-012-01,Core Plateau Guard,Prism Cuphilt,F2,Core Formation,B
+MV-SIG-RAP-012-02,Core-Breath Wind Stride,Squall Passata,F2,Core Formation,B
+MV-SIG-RAP-012-03,Core Sense of the Foe's Heading,Pasbenison,F4,Core Formation,B
+MV-SIG-RAP-012-04,Plateau Breath Hold,Bloomswept,F5,Core Formation,B
+MV-SIG-RAP-012-05,Core-Wind Lunge,Vacuum Lunge,F2,Core Formation,B
+MV-SIG-RAP-012-06,Core-Surge Gale Parry,Parity Slimtang,F2,Core Formation,B
+MV-SIG-RAP-012-07,Core-Coil Oath Bind,Thrall Cupedge,F2,Core Formation,B
+MV-SIG-RAP-012-08,Plateau Feint of the Core,Phantasm Remise,F2,Core Formation,B
+MV-SIG-RAP-012-09,Unbound Wind Thrust,Pulsarfoil,F5,Core Formation,B
+MV-SIG-RAP-012-10,Wind Sweep of the Guard,Venerable Sweephilt,F1,Core Formation,B
+MV-SIG-RAP-012-11,Plateau Gale Flash Thrust,Radiance Stoccata,F2,Core Formation,B
+MV-SIG-RAP-012-12,Plateau Wind Unbound,Majestic Volte Verdict,F6b,Core Formation,B
+MV-SIG-RAP-001-01,Sanctum Whipblade,Sovereign Whipblade,F2,Warrior,B
+MV-SIG-RAP-004-01,Sanctum Counterpoise,Peerless Counterpoise,F2,Ruler,B
+MV-SIG-RAP-004-02,Hornbeam Cuphilt,Mighty Cuphilt,F2,Ruler,B
+MV-SIG-RAP-008-01,Sanctum Tipwhip,Titan Tipwhip,F2,Warrior,B
+MV-SIG-RAP-011-06,Hornbeam Stoccata,Thunderous Stoccata,F2,Demigod,B

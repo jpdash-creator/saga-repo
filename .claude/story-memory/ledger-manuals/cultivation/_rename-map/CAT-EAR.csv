@@ -1,0 +1,8 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-CAT-EAR-001-02,Mountain Shoulder,Bedrock Shoulder,INSTANT,Senior L1 Low,Intermediate
+CMV-CAT-EAR-001-08,Cleaving Ridge,Cleaving Upthrust,INSTANT,Champion L1 Low,Advanced
+CMV-CAT-EAR-001-09,Mountain Heave,Colossal Heave,CAST,Demigod L1 Low,Elite
+CMV-CAT-EAR-001-13,Mountain Fall,Crushing Cataclysm,CAST,Demigod L1 Low,Catastrophic
+CMV-CAT-EAR-001-05,Peak Lean,Leaning Weight,CHANNELED,,Advanced
+CMV-CAT-EAR-001-10,Summit Breaker,Crown Breaker,CAST,,Elite
+CMV-CAT-EAR-001-12,Falling Peak,Toppling Mass,CAST,,Signature

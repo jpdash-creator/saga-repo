@@ -1,0 +1,98 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-MAU-001-01,Heavy-Maul Opening Guard,Malletgreave,F4,Champion,B
+MV-ADV-MAU-001-02,Anvil-Head Counterfall,Blazequake,F5,Champion,B
+MV-ADV-MAU-001-03,Haft-Heel Hook,Mayhem Ironband,F2,Champion,B
+MV-ADV-MAU-001-04,Maul Reach Slide Step,Endcappounce,F4,Champion,B
+MV-ADV-MAU-001-05,Pounding Wave of Strokes,Might Heavyhelve,F2,Champion,B
+MV-ADV-MAU-001-06,Crushing Shoulder Wedge,Chime Gripbulge,F2,Champion,B
+MV-ADV-MAU-001-07,Haft-Whirl Deflection,Wedgeface Greave,F3,Champion,B
+MV-ADV-MAU-001-08,Skull-Splitting Maul Descent,Mightsquash,F5,Champion,B
+MV-ADV-MAU-001-09,Maul-Slam Tremor,Slag Sledgeface,F2,Champion,B
+MV-ADV-MAU-002-01,Cocked-Maul Ready Stance,Hoarfrost Mallethead,F2,Demigod,B
+MV-ADV-MAU-002-02,Tide-Breaker Overstroke,Iron Sledge,F2,Demigod,B
+MV-ADV-MAU-002-03,Knee-Crush Sweep,Blaze Maulbutt,F2,Demigod,B
+MV-ADV-MAU-002-04,Haft-Block Shove,Mayhem Flatten,F2,Demigod,B
+MV-ADV-MAU-002-05,Stutter Approach Step,Thudjaunt,F4,Demigod,B
+MV-ADV-MAU-002-06,Fractured Guard Hammering,Might Quake,F2,Demigod,B
+MV-ADV-MAU-002-07,Rebounding Head Chain,Granite Endcap,F2,Demigod,B
+MV-ADV-MAU-002-08,Qi-Shell Haft Cover,Heavyhelve Greave,F3,Demigod,B
+MV-ADV-MAU-002-09,Shatterpoint Maul Fall,Facetsquash,F5,Demigod,B
+MV-ADV-MAU-002-10,Stone-Cracking Floor Slam,Squash Maelstrom,F3,Demigod,B
+MV-ADV-MAU-003-01,Haft-Shield Advance,Thorn Maulhead,F2,Champion,B
+MV-ADV-MAU-003-02,Step-and-Block Drop,Rumble Ironband,F2,Champion,B
+MV-ADV-MAU-003-03,Pushing Maul Brace,Toxin Thud,F2,Champion,B
+MV-ADV-MAU-003-04,Edge-Side Parry,Gust Pommelweight,F2,Champion,B
+MV-ADV-MAU-003-05,Advancing Guard Barrage,Mightmallet,F5,Champion,B
+MV-ADV-MAU-003-06,Parry-Break Hammer Return,Tempered Sledge,F2,Champion,B
+MV-ADV-MAU-003-07,Armored Advance Crush,Rumble Endcap,F2,Champion,B
+MV-ADV-MAU-003-08,Rolling Guard Pivot,Gust Quake,F2,Champion,B
+MV-ADV-MAU-004-01,Line-Breaker Shoulder Charge,Subduing Pommelweight,F1,Demigod,B
+MV-ADV-MAU-004-02,Pike-Snapping Maul Sweep,Skinning Maulbutt,F1,Demigod,B
+MV-ADV-MAU-004-03,Rank-Front Overstroke,Trouncing Pulverize,F1,Demigod,B
+MV-ADV-MAU-004-04,Shield-Rim Hammer Rap,Gust Sledgeface,F2,Demigod,B
+MV-ADV-MAU-004-05,Close-Rank Haft Guard,Facet Maulhead,F2,Demigod,B
+MV-ADV-MAU-004-06,Broken-File Maul Step,Gustendcap,F5,Demigod,B
+MV-ADV-MAU-004-07,Shield-Splitting Strike,Rumbledolly,F5,Demigod,B
+MV-ADV-MAU-004-08,Sustained Rank Clearing,Gust Mallethead,F2,Demigod,B
+MV-ADV-MAU-004-09,Pike-Push Counter,Toxinbeetle,F5,Demigod,B
+MV-ADV-MAU-004-10,Pike-Hedge Cracking Fall,Tempered Pulverize,F2,Demigod,B
+MV-ADV-MAU-004-11,Trampling Maul Advance,Thud Assault,F3,Demigod,B
+MV-ADV-MAU-005-01,Twin-Track Opening Swing,Tempered Gripbulge,F2,Champion,B
+MV-ADV-MAU-005-02,Twin-Hand Maul Haft Guard,Sledgeface Fastness,F3,Champion,B
+MV-ADV-MAU-005-03,Basin-Edge Footfall,Silt Squash,F2,Champion,B
+MV-ADV-MAU-005-04,River-Stone Haft Rap,Chime Pommelweight,F2,Champion,B
+MV-ADV-MAU-005-05,Paired-Blow Cadence,Endcapthrash,F4,Champion,B
+MV-ADV-MAU-005-06,Basin Cross-Step Counter,Blazebeetle,F5,Champion,B
+MV-ADV-MAU-005-07,Azure Twin-Haft Deflection,Unshaken Heavyhelve,F1,Champion,B
+MV-ADV-MAU-005-08,Two-Track Maul Descent,Splitting Wedgeface Maelstrom,F6b,Champion,B
+MV-ADV-MAU-005-09,Basin-Floor Echo Slam,Tearing Maulbutt,F1,Champion,B
+MV-ADV-MAU-006-01,Hawk-Perch Maul Stance,Iron Maulhead,F2,Demigod,B
+MV-ADV-MAU-006-02,Stooping Hawk Strike,Trouncing Thud,F1,Demigod,B
+MV-ADV-MAU-006-03,Paired Talon Haft Jabs,Glintthud,F5,Demigod,B
+MV-ADV-MAU-006-04,Wing-Beat Footwork,Blurring Pulverize,F1,Demigod,B
+MV-ADV-MAU-006-05,Hawk-Eye Sighting Pause,Restoring Mallethead,F1,Demigod,B
+MV-ADV-MAU-006-06,Dive-and-Climb Pairing,Might Gripbulge,F2,Demigod,B
+MV-ADV-MAU-006-07,Twin Talon Disarm,Rumblethud,F5,Demigod,B
+MV-ADV-MAU-006-08,Azure Wing Parry,Gust Wedgeface,F2,Demigod,B
+MV-ADV-MAU-006-09,Hawk-Dive Maul Plunge,Tearing Quake,F1,Demigod,B
+MV-ADV-MAU-006-10,Falling-Pair Tandem,Ironsquash,F5,Demigod,B
+MV-ADV-MAU-007-01,River-Ford Wading Guard,Pommelweight Fastness,F3,Ruler,B
+MV-ADV-MAU-007-02,Current-Pushing Haft Shove,Squash Cuirass,F3,Ruler,B
+MV-ADV-MAU-007-03,Bank-Stone Overstroke,Might Flatten,F2,Ruler,B
+MV-ADV-MAU-007-04,Stepping-Stone Footwork,Gustdolly,F5,Ruler,B
+MV-ADV-MAU-007-05,Ford-Crossing Maul Surge,Drubbing Sledge,F1,Ruler,B
+MV-ADV-MAU-007-06,Ford Eddy Haft Turn,Chime Maulhead,F2,Ruler,B
+MV-ADV-MAU-007-07,Flood-Weight Maul Fall,Tearing Heavyhelve,F1,Ruler,B
+MV-ADV-MAU-007-08,Cascade Haft Barrage,Tempered Sledgeface,F2,Ruler,B
+MV-ADV-MAU-008-01,Wind-Sworn Maul Stance,Mallethauberk,F4,Demigod,B
+MV-ADV-MAU-008-02,Plateau-Edge Overstroke,Sanguine Maulbutt,F2,Demigod,B
+MV-ADV-MAU-008-03,Gale-Lean Low Sweep,Might Ironband,F2,Demigod,B
+MV-ADV-MAU-008-04,Bearing-Line Haft Thrust,Hollow Endcap,F2,Demigod,B
+MV-ADV-MAU-008-05,Oath-Stone Footfall,Sledge Sprint,F3,Demigod,B
+MV-ADV-MAU-008-06,Crosswind Haft Rap,Staggering Wedgeface,F1,Demigod,B
+MV-ADV-MAU-008-07,Rising Wind Hammer Chain,Quaketorment,F4,Demigod,B
+MV-ADV-MAU-008-08,Bearing-Held Deflection,Murk Mallethead,F2,Demigod,B
+MV-ADV-MAU-008-09,Gust-Step Counterfall,Tempered Flatten,F2,Demigod,B
+MV-ADV-MAU-008-10,Plateau Shove,Rumblesledge,F5,Demigod,B
+MV-ADV-MAU-008-11,Wind-Sworn Maul Plunge,Scalding Pulverize,F1,Demigod,B
+MV-ADV-MAU-008-12,Open-Plateau Ground Break,Needling Gripbulge,F1,Demigod,B
+MV-ADV-MAU-009-01,Oath-Bearing Haft Guard,Maulbutt Cloak,F3,Champion,B
+MV-ADV-MAU-009-02,Bearing-Held Overstroke,Ironendcap,F5,Champion,B
+MV-ADV-MAU-009-03,Sworn-Line Step,Squash Pounce,F3,Champion,B
+MV-ADV-MAU-009-04,Wind-Check Poll Tap,Anointing Maulhead,F1,Champion,B
+MV-ADV-MAU-009-05,Oath-Rite Triple Fall,Sanguine Ironband,F2,Champion,B
+MV-ADV-MAU-009-06,Bearing-Break Haft Wrench,Rumble Flatten,F2,Champion,B
+MV-ADV-MAU-009-07,Sworn Gale Parry,Equipoise Pommelweight,F2,Champion,B
+MV-ADV-MAU-009-08,Oath-Kept Maul Descent,Sanguine Sledge,F2,Champion,B
+MV-ADV-MAU-009-09,Bearing-Kept Ground Blow,Siltmallet,F5,Champion,B
+MV-ADV-MAU-010-01,Gale-Walk Carry Stance,Beetlegreave,F4,Demigod,B
+MV-ADV-MAU-010-02,Headwind Overstroke,Malletassault,F4,Demigod,B
+MV-ADV-MAU-010-03,Tailwind Rolling Cut,Endcap Assault,F3,Demigod,B
+MV-ADV-MAU-010-04,Lee-Side Haft Jab,Drubbing Quake,F1,Demigod,B
+MV-ADV-MAU-010-05,Crosswind Shuffle,Wedgeface Spurt,F3,Demigod,B
+MV-ADV-MAU-010-06,Walking Gale Barrage,Gust Heavyhelve,F2,Demigod,B
+MV-ADV-MAU-010-07,Gust-Caught Maul Parry,Annealed Gripbulge,F1,Demigod,B
+MV-ADV-MAU-010-08,Wind-Pinned Weapon Pry,Hamstringing Sledgeface,F1,Demigod,B
+MV-ADV-MAU-010-09,Gale-Weight Maul Fall,Squashthrash,F4,Demigod,B
+MV-ADV-MAU-010-10,Storm-Pace Maul Advance,Scalding Ironband,F1,Demigod,B
+MV-ADV-MAU-008-04,Hollow Endcap,Lancing Endcap,F2,Demigod,B

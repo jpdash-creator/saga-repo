@@ -1,0 +1,85 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-STS-001-01,Crossguard Set Stance,Midrib Stay,F3,T1 Unawakened,A
+MV-BAS-STS-001-02,Straight Forward Thrust,Leafdash,F4,T1 Unawakened,A
+MV-BAS-STS-001-03,Overhead Edge Drop,Quillon Drop,F3,T1 Unawakened,A
+MV-BAS-STS-001-04,Rising Reverse Edge Cut,Firm Glissade,F1,T1 Unawakened,A
+MV-BAS-STS-001-05,Pommel Heel Strike,Level Pommel,F1,T1 Unawakened,A
+MV-BAS-STS-001-06,Gliding Heel Step,Leafhop,F4,T1 Unawakened,A
+MV-BAS-STS-002-01,Quillon Catch Parry,Fuller Wedge,F3,T1 Skin,A
+MV-BAS-STS-002-02,Point-Line Lunge,Foiblestrike,F4,T1 Skin,A
+MV-BAS-STS-002-03,Flat Beat Aside,Towing Ricasso,F1,T1 Skin,A
+MV-BAS-STS-002-04,Wrist Turn Cut,Plain Feint,F1,T1 Skin,A
+MV-BAS-STS-002-05,Lead Foot Pivot,Light Crossbar,F1,T1 Skin,A
+MV-BAS-STS-002-06,Two-Edge Recovery Chain,Stiff Beat,F1,T1 Skin,A
+MV-BAS-STS-002-07,Hilt Lock Hold,Hooding Forte,F1,T1 Skin,A
+MV-BAS-STS-003-01,Forward Edge Slash,Midribdash,F4,T1 Muscle,A
+MV-BAS-STS-003-02,Backhand Edge Slash,Blunt Cutover,F1,T1 Muscle,A
+MV-BAS-STS-003-03,Half-Step Thrust,Open Envelop,F1,T1 Muscle,A
+MV-BAS-STS-003-04,Crossguard Edge Slip,Planted Tang,F1,T1 Muscle,A
+MV-BAS-STS-003-05,Tight Circle Cut,Pommelstrike,F4,T1 Muscle,A
+MV-BAS-STS-003-06,Backward Slide Step,Nimble Feint,F1,T1 Muscle,A
+MV-BAS-STS-003-07,Edge Check,Locking Riposte,F1,T1 Muscle,A
+MV-BAS-STS-003-08,Lowered Point Watch,Resting Leaf,F1,T1 Muscle,A
+MV-BAS-STS-004-01,Straight-Arm Stab,Hard Midrib,F1,T1 Tendon,A
+MV-BAS-STS-004-02,Shoulder Cut Descent,Hard Quillon,F1,T1 Tendon,A
+MV-BAS-STS-004-03,Cross-Body Sweep,Single Ricasso,F1,T1 Tendon,A
+MV-BAS-STS-004-04,Parry and Return,Foiblestay,F4,T1 Tendon,A
+MV-BAS-STS-004-05,Shuffle Step Advance,Shifting Foible,F1,T1 Tendon,A
+MV-BAS-STS-004-06,Hanging Guard Cover,Tanghusk,F4,T1 Tendon,A
+MV-BAS-STS-005-01,Thumb-Ring Grip,Planted Foible,F1,T1 Bone,A
+MV-BAS-STS-005-02,Lead Cut to the Wrist,Feintstrike,F4,T1 Bone,A
+MV-BAS-STS-005-03,Breast Thrust,Fullerbump,F4,T1 Bone,A
+MV-BAS-STS-005-04,Edge Stop Block,Snug Forte,F1,T1 Bone,A
+MV-BAS-STS-005-05,Quarter Turn Side Step,Light Leaf,F1,T1 Bone,A
+MV-BAS-STS-005-06,Close Quarter Pommel Jab,Midribbump,F4,T1 Bone,A
+MV-BAS-STS-005-07,Double Hand Rise Cut,Forward Riposte,F1,T1 Bone,A
+MV-BAS-STS-006-01,Square Stance Cut,Midribhit,F4,T1 Muscle,A
+MV-BAS-STS-006-02,Weighted Back Foot Parry,Raised Tang,F1,T1 Muscle,A
+MV-BAS-STS-006-03,Hilt-High Thrust,Pommel Bump,F3,T1 Muscle,A
+MV-BAS-STS-006-04,Turning Edge Sweep,Hard Fuller,F1,T1 Muscle,A
+MV-BAS-STS-006-05,Circle Footwork Pass,Light Cutover,F1,T1 Muscle,A
+MV-BAS-STS-006-06,Blade Press Off,Fullerhusk,F4,T1 Muscle,A
+MV-BAS-STS-006-07,Guard Return Settle,Tight Crossbar,F1,T1 Muscle,A
+MV-BAS-STS-006-08,Inside Line Step Thrust,Flat Glissade,F1,T1 Muscle,A
+MV-BAS-STS-007-01,Level Point Thrust,Midribstrike,F4,Senior L1 Low,A
+MV-BAS-STS-007-02,Qi-Backed Edge Cut,Blunt Envelop,F1,Senior L1 Low,A
+MV-BAS-STS-007-03,Breath Held Parry,Tight Quillon,F1,Senior L1 Low,A
+MV-BAS-STS-007-04,Edge Rhythm Step,Leaf Pace,F3,Senior L1 Low,A
+MV-BAS-STS-007-05,Warm Blade Beat,Foiblelid,F4,Senior L1 Low,A
+MV-BAS-STS-007-06,Sensing Blade Touch,Ricasso Note,F3,Senior L1 Low,A
+MV-BAS-STS-008-01,Steady Qi Guard,Tang Pause,F3,Senior L2 Mid,A
+MV-BAS-STS-008-02,Edge Pulse Cut,Sharp Riposte,F1,Senior L2 Mid,A
+MV-BAS-STS-008-03,Pointed Breath Lunge,Fullerdrop,F4,Senior L2 Mid,A
+MV-BAS-STS-008-04,Turn and Glance Off,Leafstay,F4,Senior L2 Mid,A
+MV-BAS-STS-008-05,Pace Control Step,Easing Beat,F1,Senior L2 Mid,A
+MV-BAS-STS-008-06,Press the Flat,Feint Cowl,F3,Senior L2 Mid,A
+MV-BAS-STS-008-07,Quiet Reserve Draw,Stiff Cutover,F1,Senior L2 Mid,A
+MV-BAS-STS-008-08,Rising Breath Cut,Level Midrib,F1,Senior L2 Mid,A
+MV-BAS-STS-009-01,Qi Pommel Rap,Foibledrop,F4,Senior L3 Low,A
+MV-BAS-STS-009-02,Quillon Hook Catch,Pommel Cowl,F3,Senior L3 Low,A
+MV-BAS-STS-009-03,Cross-Hilt Stop,Kept Crossbar,F1,Senior L3 Low,A
+MV-BAS-STS-009-04,Underhand Point Flick,Forward Glissade,F1,Senior L3 Low,A
+MV-BAS-STS-009-05,Close Step and Cut,Fullerskitter,F4,Senior L3 Low,A
+MV-BAS-STS-009-06,Reverse Grip Parry,Tangwedge,F4,Senior L3 Low,A
+MV-BAS-STS-010-01,Dawn Breath Cut,Straight Foible,F1,Senior L4 Mid,A
+MV-BAS-STS-010-02,Settled Qi Point,Sharp Beat,F1,Senior L4 Mid,A
+MV-BAS-STS-010-03,Steady Blade Hold,Ricasso Wedge,F3,Senior L4 Mid,A
+MV-BAS-STS-010-04,Pivot and Withdraw,Light Fuller,F1,Senior L4 Mid,A
+MV-BAS-STS-010-05,Cut Chain Rise,Tangstrike,F4,Senior L4 Mid,A
+MV-BAS-STS-010-06,Soft Parry Slip,Tight Foible,F1,Senior L4 Mid,A
+MV-BAS-STS-010-07,Edge Weight Check,Nabbing Fuller,F1,Senior L4 Mid,A
+MV-BAS-STS-010-08,Calm Reserve Step,Fullerdodge,F4,Senior L4 Mid,A
+MV-BAS-STS-011-01,Aligned Edge Cut,Open Midrib,F1,Senior L5 Low,A
+MV-BAS-STS-011-02,Edge-Flat Switch,Quillon Stay,F3,Senior L5 Low,A
+MV-BAS-STS-011-03,Alignment Guard,Planted Crossbar,F1,Senior L5 Low,A
+MV-BAS-STS-011-04,Thrust on the Line,Plain Tang,F1,Senior L5 Low,A
+MV-BAS-STS-011-05,Sidestep Realign,Feintamble,F4,Senior L5 Low,A
+MV-BAS-STS-012-01,High Guard Hold,Ready Forte,F1,Senior L6 Mid,A
+MV-BAS-STS-012-02,Middle Guard Cut,Feintbump,F4,Senior L6 Mid,A
+MV-BAS-STS-012-03,Low Guard Rise,Hard Forte,F1,Senior L6 Mid,A
+MV-BAS-STS-012-04,Guard Change Step,Foiblehop,F4,Senior L6 Mid,A
+MV-BAS-STS-012-05,Crossed Guard Block,Leafpause,F4,Senior L6 Mid,A
+MV-BAS-STS-012-06,Guard Thrust Break,Open Beat,F1,Senior L6 Mid,A
+MV-BAS-STS-012-07,Guard Beat,Catching Glissade,F1,Senior L6 Mid,A
+MV-BAS-STS-002-04,Plain Feint,Quick Feint,F1,T1 Skin,A
+MV-BAS-STS-011-04,Plain Tang,Honed Tang,F1,Senior L5 Low,A

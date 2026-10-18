@@ -1,0 +1,143 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-CRB-001-01,Paired Quarrel Seat,Tranquil Bowprod,F1,Warrior+,B
+MV-SIG-CRB-001-02,Twin Track Foot Rhythm,Dune Trigger,F2,Warrior+,B
+MV-SIG-CRB-001-03,Pair Mark Call,Luminous Stock,F1,Warrior+,B
+MV-SIG-CRB-001-04,Paired Quarrel Loose,Inferno Setback,F2,Warrior+,B
+MV-SIG-CRB-001-05,Second Quarrel Follow,Benevolent Latch,F1,Warrior+,B
+MV-SIG-CRB-001-06,Pair Step Reset,Deluge Boltrail,F2,Warrior+,B
+MV-SIG-CRB-001-07,Paired Quarrel Fork,Twangcrown,F4,Warrior+,B
+MV-SIG-CRB-001-08,Doctrine Pair Cast,Squall Twang,F2,Warrior+,B
+MV-SIG-CRB-001-09,Court Paired Great Loose,Prismsear,F5,Warrior+,B
+MV-SIG-CRB-001-10,Two Bolts One Wound,Valiant Steel Span,F6a,Warrior+,B
+MV-SIG-CRB-002-01,Hawk Court Stance Set,Searbenison,F4,Warrior+,B
+MV-SIG-CRB-002-02,Sure Bolt Check,Luminous Cranequin,F1,Warrior+,B
+MV-SIG-CRB-002-03,Court Sight Narrow,Interstice Tripbar,F2,Warrior+,B
+MV-SIG-CRB-002-04,Sure Bolt Loose,Stocktriumph,F4,Warrior+,B
+MV-SIG-CRB-002-05,Court Pace Reset,Bedrock Cranking,F2,Warrior+,B
+MV-SIG-CRB-002-06,Wing Beat Count,Tranquil Stirrup,F1,Warrior+,B
+MV-SIG-CRB-002-07,Court Overlook Glance,Latchgift,F4,Warrior+,B
+MV-SIG-CRB-002-08,Hawk Court Pin Bolt,Sigil Windlass,F2,Warrior+,B
+MV-SIG-CRB-002-09,Sure Bolt Charged Drive,Pulsar Releaseclack,F2,Warrior+,B
+MV-SIG-CRB-002-10,Hawk Court Great Stoop,Radiance Boltrail,F2,Warrior+,B
+MV-SIG-CRB-002-11,Unerring Hawk Stoop,Intrepid Cranequin,F1,Warrior+,B
+MV-SIG-CRB-003-01,Basin Line Dress,Twilit Trigger,F1,Warrior+,B
+MV-SIG-CRB-003-02,Rank Quarrel Issue,Vigor Windlass,F2,Warrior+,B
+MV-SIG-CRB-003-03,Line Bank Rest,Volition Latch,F2,Warrior+,B
+MV-SIG-CRB-003-04,Rank Count Voice,Revelation Stirrup,F2,Warrior+,B
+MV-SIG-CRB-003-05,Basin Line Loose,Prismspan,F5,Warrior+,B
+MV-SIG-CRB-003-06,Rank Rotation Step,Squallspan,F5,Warrior+,B
+MV-SIG-CRB-003-07,Line Span Relay,Clement Stock,F1,Warrior+,B
+MV-SIG-CRB-003-08,Rank Call Listen,Revelation Sear,F2,Warrior+,B
+MV-SIG-CRB-003-09,Basin Line Weighted Volley,Searedict,F4,Warrior+,B
+MV-SIG-CRB-003-10,Rank Hold Cast,Statute Twang,F2,Warrior+,B
+MV-SIG-CRB-003-11,Basin Line Great Volley,Dune Sear,F2,Warrior+,B
+MV-SIG-CRB-003-12,Rank of a Hundred Bolts,Dunestock,F5,Warrior+,B
+MV-SIG-CRB-004-01,Drawn Prod Foot Seat,Parity Bowprod,F2,Warrior+,B
+MV-SIG-CRB-004-02,River Court Draw Count,Benevolent Tripbar,F1,Warrior+,B
+MV-SIG-CRB-004-03,Prod Limb Cool,Vigor Sear,F2,Warrior+,B
+MV-SIG-CRB-004-04,Drawn Prod Loose,Cranking Verdict,F3,Warrior+,B
+MV-SIG-CRB-004-05,Current Step Slide,Delugetwang,F5,Warrior+,B
+MV-SIG-CRB-004-06,Prod Draw Chain,Gracious Bowprod,F1,Warrior+,B
+MV-SIG-CRB-004-07,Court Draw Listen,Eclipse Boltrail,F2,Warrior+,B
+MV-SIG-CRB-004-08,River Court Drawn Strike,Prismlatch,F5,Warrior+,B
+MV-SIG-CRB-004-09,Drawn Prod Cast Hold,Steel Quarrel,F2,Warrior+,B
+MV-SIG-CRB-004-10,River Court Great Draw,Paramount Span,F1,Warrior+,B
+MV-SIG-CRB-004-11,Verdict of the Drawn Prod,Fearless Quarrel Banner,F6b,Warrior+,B
+MV-SIG-CRB-005-01,Far Loosing Stance,Paritysear,F5,Warrior+,B
+MV-SIG-CRB-005-02,Azure Reach Sight,Pealsear,F5,Warrior+,B
+MV-SIG-CRB-005-03,Distant Mark Count,Eclipse Cranequin,F2,Warrior+,B
+MV-SIG-CRB-005-04,Far Draw Breath,Vigorlatch,F5,Warrior+,B
+MV-SIG-CRB-005-05,Far Loosing Loose,Radiance Setback,F2,Warrior+,B
+MV-SIG-CRB-005-06,Reach Step,Windlass Heraldry,F3,Warrior+,B
+MV-SIG-CRB-005-07,Mark Hold Aim,Peallatch,F5,Warrior+,B
+MV-SIG-CRB-005-08,Far Reload,Vigor Tripbar,F2,Warrior+,B
+MV-SIG-CRB-005-09,Azure Far Pierce,Magnificent Quarrel,F1,Warrior+,B
+MV-SIG-CRB-005-10,Far Hold Cast,Radiance Stock,F2,Warrior+,B
+MV-SIG-CRB-005-11,Azure Sky Far Great Bolt,Pulsar Latch,F2,Warrior+,B
+MV-SIG-CRB-005-12,Far Azure Needle,Storied Pulsar Twang,F6a,Warrior+,B
+MV-SIG-CRB-006-01,Zenith Prod Stance,Serene Trigger,F1,Warrior+,B
+MV-SIG-CRB-006-02,Zenith Sight Clear,Eclipse Sear,F2,Warrior+,B
+MV-SIG-CRB-006-03,Zenith Breath Hold,Bloomsear,F5,Warrior+,B
+MV-SIG-CRB-006-04,Zenith Prod Loose,Peal Stirrup,F2,Warrior+,B
+MV-SIG-CRB-006-05,Zenith Step Rise,Evanescent Setback,F1,Warrior+,B
+MV-SIG-CRB-006-06,Zenith Draw Chain,Volition Windlass,F2,Warrior+,B
+MV-SIG-CRB-006-07,Zenith Pierce,Paramount Stirrup,F1,Warrior+,B
+MV-SIG-CRB-006-08,Zenith Hold Cast,Setback Verdict,F3,Warrior+,B
+MV-SIG-CRB-006-09,Zenith Great Bolt,Gallant Span,F1,Warrior+,B
+MV-SIG-CRB-006-10,Zenith Twin Prod Descent,Vacuumsear,F5,Warrior+,B
+MV-SIG-CRB-007-01,Sworn Bolt Edge Stance,Bloomstock,F5,Warrior+,B
+MV-SIG-CRB-007-02,Oath Bolt Sight,Peal Trigger,F2,Warrior+,B
+MV-SIG-CRB-007-03,Plateau Breath Count,Stockmercy,F4,Warrior+,B
+MV-SIG-CRB-007-04,Sworn Bolt Loose,Latchverdict,F4,Warrior+,B
+MV-SIG-CRB-007-05,Plateau Oath Pace,Bedrock Releaseclack,F2,Warrior+,B
+MV-SIG-CRB-007-06,Oath Reload Hold,Searmercy,F4,Warrior+,B
+MV-SIG-CRB-007-07,Plateau Bearing Glance,Revelation Stock,F2,Warrior+,B
+MV-SIG-CRB-007-08,Doctrine Oath Pierce,Fearless Bowprod,F1,Warrior+,B
+MV-SIG-CRB-007-09,Plateau Oath Hold,Vacuumspan,F5,Warrior+,B
+MV-SIG-CRB-007-10,Plateau Great Sworn Bolt,Pulsarstock,F5,Warrior+,B
+MV-SIG-CRB-007-11,Oath Sworn Single Bolt,Peerless Cranking Triumph,F6b,Warrior+,B
+MV-SIG-CRB-008-01,Open Quarrel Stance,Paritylatch,F5,Warrior+,B
+MV-SIG-CRB-008-02,Wind Sworn Grip,Lifegiving Tripbar,F1,Warrior+,B
+MV-SIG-CRB-008-03,Open Sky Mark,Wise Latch,F1,Warrior+,B
+MV-SIG-CRB-008-04,Open Quarrel Loose,Glacier Cranking,F2,Warrior+,B
+MV-SIG-CRB-008-05,Gale Gap Pace,Releaseclack Grace,F3,Warrior+,B
+MV-SIG-CRB-008-06,Wind Draw Chain,Cranequin Largesse,F3,Warrior+,B
+MV-SIG-CRB-008-07,Open Quarrel Drive,Boltrail Edict,F3,Warrior+,B
+MV-SIG-CRB-008-08,Open Hold Cast,Thunderclap Twang,F2,Warrior+,B
+MV-SIG-CRB-008-09,Wind-Sworn Great Loose,Steel Releaseclack,F2,Warrior+,B
+MV-SIG-CRB-008-10,Quarrel With No Cover,Splendid Radiance Span,F6a,Warrior+,B
+MV-SIG-CRB-009-01,Long Rank Bearing Take,Pealstock,F5,Warrior+,B
+MV-SIG-CRB-009-02,Rank Stone Stance,Parity Windlass,F2,Warrior+,B
+MV-SIG-CRB-009-03,Plateau Rank Issue,Bloomlatch,F5,Warrior+,B
+MV-SIG-CRB-009-04,Rank Oath Breath,Volition Boltrail,F2,Warrior+,B
+MV-SIG-CRB-009-05,Long Rank Loose,Twang Decree,F3,Warrior+,B
+MV-SIG-CRB-009-06,Rank Bearing Step,Vigor Quarrel,F2,Warrior+,B
+MV-SIG-CRB-009-07,Rank Reload Oath,Bloom Cranequin,F2,Warrior+,B
+MV-SIG-CRB-009-08,Rank Gust Read,Reminiscence Latch,F2,Warrior+,B
+MV-SIG-CRB-009-09,Long Rank Volley,Bedrock Tripbar,F2,Warrior+,B
+MV-SIG-CRB-009-10,Long Rank Hold Cast,Bedrock Setback,F2,Warrior+,B
+MV-SIG-CRB-009-11,Long Plateau Great Volley,Entropy Cranking,F2,Warrior+,B
+MV-SIG-CRB-009-12,Bearing Kept to the Rim,Seartriumph,F4,Warrior+,B
+MV-SIG-CRB-010-01,Heavy Prod Gale Brace,Magnanimous Bowprod,F1,Warrior+,B
+MV-SIG-CRB-010-02,Oath Heavy Draw,Gracious Stock,F1,Warrior+,B
+MV-SIG-CRB-010-03,Gale Bolt Select,Revelation Trigger,F2,Warrior+,B
+MV-SIG-CRB-010-04,Heavy Prod Gale Loose,Vacuum Quarrel,F2,Warrior+,B
+MV-SIG-CRB-010-05,Heavy Oath Step,Twangsolace,F4,Warrior+,B
+MV-SIG-CRB-010-06,Heavy Reload Gale,Solar Tripbar,F2,Warrior+,B
+MV-SIG-CRB-010-07,Gale Heavy Pierce,Matchless Span,F1,Warrior+,B
+MV-SIG-CRB-010-08,Heavy Oath Hold,Thunderclap Bowprod,F2,Warrior+,B
+MV-SIG-CRB-010-09,Gale Heavy Great Quarrel,Stirrup Banner,F3,Warrior+,B
+MV-SIG-CRB-010-10,Breaker of the Heavy Gale,Storied Trigger,F1,Warrior+,B
+MV-SIG-CRB-011-01,Unwalled Edge Footing,Luminous Latch,F1,Warrior+,B
+MV-SIG-CRB-011-02,Edge Open Sight,Stockgift,F4,Warrior+,B
+MV-SIG-CRB-011-03,Unwalled Breath Hold,Solarstock,F5,Warrior+,B
+MV-SIG-CRB-011-04,Edge Open Loose,Glacier Twang,F2,Warrior+,B
+MV-SIG-CRB-011-05,Unwalled Drop Step,Bedrock Cranequin,F2,Warrior+,B
+MV-SIG-CRB-011-06,Edge Reload Open,Benevolent Sear,F1,Warrior+,B
+MV-SIG-CRB-011-07,Edge Distance Sense,Luminous Sear,F1,Warrior+,B
+MV-SIG-CRB-011-08,Unwalled Edge Pierce,Setback Crown,F3,Warrior+,B
+MV-SIG-CRB-011-09,Edge Open Hold Cast,Quenched Releaseclack,F2,Warrior+,B
+MV-SIG-CRB-011-10,Unwalled Edge Great Quarrel,Thunderclap Span,F2,Warrior+,B
+MV-SIG-CRB-011-11,Unsheltered Dropping Oath,Heroic Radiance Releaseclack,F6a,Warrior+,B
+MV-SIG-CRB-012-01,Far Sky Prod Stance,Vigorstock,F5,Warrior+,B
+MV-SIG-CRB-012-02,Oath Wind Read,Interstice Windlass,F2,Warrior+,B
+MV-SIG-CRB-012-03,Far Sky Count Breath,Stock Benison,F3,Warrior+,B
+MV-SIG-CRB-012-04,Sky Prod Rest,Serene Boltrail,F1,Warrior+,B
+MV-SIG-CRB-012-05,Far Sky Prod Loose,Fearless Sear,F1,Warrior+,B
+MV-SIG-CRB-012-06,Sky Oath Pace,Delugelatch,F5,Warrior+,B
+MV-SIG-CRB-012-07,Sky Draw Chain,Parity Stock,F2,Warrior+,B
+MV-SIG-CRB-012-08,Far Sky Reading,Revelation Latch,F2,Warrior+,B
+MV-SIG-CRB-012-09,Far Sky Oath Pierce,Vacuumstock,F5,Warrior+,B
+MV-SIG-CRB-012-10,Far Sky Hold Cast,Sovereign Cranking,F1,Warrior+,B
+MV-SIG-CRB-012-11,Far Sky Great Quarrel,Stirrup Verdict,F3,Warrior+,B
+MV-SIG-CRB-012-12,Far Sky Oath Quarrel,Pulsar Stirrup,F2,Warrior+,B
+MV-SIG-CRB-001-02,Dune Trigger,Nimble Trigger,F2,Warrior+,B
+MV-SIG-CRB-001-10,Valiant Steel Span,Valiant Span,F6a,Warrior+,B
+MV-SIG-CRB-003-11,Dune Sear,Thunderous Sear,F2,Warrior+,B
+MV-SIG-CRB-004-11,Fearless Quarrel Banner,Fearless Quarrel,F6b,Warrior+,B
+MV-SIG-CRB-005-12,Storied Pulsar Twang,Storied Twang,F6a,Warrior+,B
+MV-SIG-CRB-007-11,Peerless Cranking Triumph,Peerless Cranking,F6b,Warrior+,B
+MV-SIG-CRB-008-04,Glacier Cranking,Valiant Cranking,F2,Warrior+,B
+MV-SIG-CRB-008-10,Splendid Radiance Span,Splendid Span,F6a,Warrior+,B
+MV-SIG-CRB-011-04,Glacier Twang,Resounding Twang,F2,Warrior+,B
+MV-SIG-CRB-011-11,Heroic Radiance Releaseclack,Heroic Releaseclack,F6a,Warrior+,B

@@ -1,0 +1,1 @@
+- [Word count and lookups](reference_word_count_and_lookups.md) — Grep word-count recipes (total and per-block tallies), V&V counting greps, exact paths and Read/Grep/Glob gotchas, tracker edit routine, Novel-elements category map

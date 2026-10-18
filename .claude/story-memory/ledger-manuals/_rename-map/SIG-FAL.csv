@@ -1,0 +1,139 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-FAL-001-01,Hawk Rolls Opening Salute,Hornbeam Clipedge,F2,Warrior,B
+MV-SIG-FAL-001-02,Perch-to-Pounce Chop,Thunderclap Bulkblade,F2,Warrior,B
+MV-SIG-FAL-001-03,Wing-Shadow Falchion Step,Chunkgrace,F4,Warrior,B
+MV-SIG-FAL-001-04,Talon Flat Parry,Deluge Nubtip,F2,Warrior,B
+MV-SIG-FAL-001-05,Roll-Over-Shoulder Draw Cut,Bedrock Wedgetip,F2,Warrior,B
+MV-SIG-FAL-001-06,Soaring Guard Rise,Hornbeam Falchhilt,F2,Warrior,B
+MV-SIG-FAL-001-07,Hawk-Turn Reverse Chop,Steelstump,F5,Warrior,B
+MV-SIG-FAL-001-08,Circling Wing Binding,Sigilnub,F5,Warrior,B
+MV-SIG-FAL-001-09,Hawk Rolls Heavy Descent,Vigor Whack,F2,Champion,B
+MV-SIG-FAL-001-10,Rolling Counter Stoop,Squall Thickspine,F2,Champion,B
+MV-SIG-FAL-001-11,Hawk Rolls Field Piercing,Steel Weightbelly,F2,Demigod,B
+MV-SIG-FAL-001-12,School Stoop of the Falling Hawk,Nubtipcrown,F4,Warrior,B
+MV-SIG-FAL-002-01,Twin-Court Opening Stance,Enshrined Heavyback,F1,Warrior,B
+MV-SIG-FAL-002-02,Near-Court Chop,Bedrock Chopblade,F2,Warrior,B
+MV-SIG-FAL-002-03,Far-Court Return,Quenched Hash,F2,Warrior,B
+MV-SIG-FAL-002-04,Court-Edge Cleaver Shuffle,Cleaverbelly Boon,F3,Warrior,B
+MV-SIG-FAL-002-05,Paired-Parry Turnover,Pall Thickspine,F2,Warrior,B
+MV-SIG-FAL-002-06,Court-Order Cut Pair,Bedrock Hack,F2,Warrior,B
+MV-SIG-FAL-002-07,Twin-Line Heavy Chop,Majestic Falchhilt,F1,Champion,B
+MV-SIG-FAL-002-08,Court-Balance Counter,Pall Chopblade,F2,Champion,B
+MV-SIG-FAL-002-09,Twin-Court Field Chop,Vigor Hew,F2,Demigod,B
+MV-SIG-FAL-002-10,School Judgment of the Two Courts,Unrivaled Steel Cleft,F6a,Warrior,B
+MV-SIG-FAL-003-01,River-Mouth Stance,Steel Bulkblade,F2,Champion,B
+MV-SIG-FAL-003-02,Basin-Edge Falchion Chop,Inferno Clipedge,F2,Champion,B
+MV-SIG-FAL-003-03,Streaming Sidestep,Windborne Chunk,F1,Champion,B
+MV-SIG-FAL-003-04,Hollow Catch Guard,Squall Weightbelly,F2,Champion,B
+MV-SIG-FAL-003-05,Slow Fill Basin Guard,Prismnub,F5,Champion,B
+MV-SIG-FAL-003-06,River-Run Belly Cut,Steel Heavyback,F2,Champion,B
+MV-SIG-FAL-003-07,Bend-and-Cut Pivot,Vigornubtip,F5,Champion,B
+MV-SIG-FAL-003-08,Eddy Binding Roll,Thrall Whack,F2,Champion,B
+MV-SIG-FAL-003-09,Basin Overflow Falchion Cleave,Haemalchunk,F5,Champion,B
+MV-SIG-FAL-003-10,Rising River Counter,Eclipse Wedgetip,F2,Champion,B
+MV-SIG-FAL-003-11,Basin Gathered Field Return,Vacuum Heavyback,F2,Demigod,B
+MV-SIG-FAL-003-12,School Flood of the Basin,Triumphant Chunk,F1,Champion,B
+MV-SIG-FAL-004-01,Wingbeat Ready Guard,Hornbeam Thickspine,F2,Ruler,B
+MV-SIG-FAL-004-02,Downbeat Chop,Steel Cleaverbelly,F2,Ruler,B
+MV-SIG-FAL-004-03,Upbeat Recovery Step,Feather Nubtip,F1,Ruler,B
+MV-SIG-FAL-004-04,Wingbeat Pair Parry,Pall Nubtip,F2,Ruler,B
+MV-SIG-FAL-004-05,Paired Beat Hack,Exalted Hack,F1,Ruler,B
+MV-SIG-FAL-004-06,Gliding Pair Step,Vigor Chopblade,F2,Ruler,B
+MV-SIG-FAL-004-07,Wing-Press Pin,Peremptory Hash,F1,Ruler,B
+MV-SIG-FAL-004-08,Paired Beat Heavy Fall,Bedrock Chunk,F2,Ruler,B
+MV-SIG-FAL-004-09,Wing-Folded Counter,Parity Clipedge,F2,Ruler,B
+MV-SIG-FAL-004-10,Double-Wing Field Release,Sovereign Hew,F1,Demigod,B
+MV-SIG-FAL-004-11,School Wingbeat of Two Falls,Thunderclap Hew,F2,Ruler,B
+MV-SIG-FAL-005-01,Dual-Track Opening Breath,Tranquil Falchhilt,F1,Demigod,B
+MV-SIG-FAL-005-02,Azure Track Falchion Chop,Haemalstump,F5,Demigod,B
+MV-SIG-FAL-005-03,Second Track Cross Step,Delugenub,F5,Demigod,B
+MV-SIG-FAL-005-04,Field-Hooded Guard,Weightbelly Reliquary,F3,Demigod,B
+MV-SIG-FAL-005-05,Hawk Track Reading,Clement Cleaverbelly,F1,Demigod,B
+MV-SIG-FAL-005-06,Linked-Track Parry,Nubtippledge,F4,Demigod,B
+MV-SIG-FAL-005-07,Dual-Track Pull Cut,Bulkblade Triumph,F3,Demigod,B
+MV-SIG-FAL-005-08,Paired-Track Gap Closer,Vigor Hash,F2,Demigod,B
+MV-SIG-FAL-005-09,Twin-Track Cleaving Fall,Hacktriumph,F4,Demigod,B
+MV-SIG-FAL-005-10,Hawk-Track Counter Press,Gloom Whack,F2,Demigod,B
+MV-SIG-FAL-005-11,Azure Orbit Sweep,Peerless Wedgetip,F1,Demigod,B
+MV-SIG-FAL-005-12,School Dual Fall of the Azure Hawk,Matchless Steel Wedgetip,F6a,Demigod,B
+MV-SIG-FAL-006-01,Crest-Raised Stance,Nubpledge,F4,Core Formation,B
+MV-SIG-FAL-006-02,Crest-Fall Chop,Bedrock Nubtip,F2,Core Formation,B
+MV-SIG-FAL-006-03,Level-Crest Step,Squall Hew,F2,Core Formation,B
+MV-SIG-FAL-006-04,Core-Fed Edge Hack,Haemalhew,F5,Core Formation,B
+MV-SIG-FAL-006-05,Core-Steadied Flat Parry,Parity Thickspine,F2,Core Formation,B
+MV-SIG-FAL-006-06,Crest Binding Press,Sigil Cleaverbelly,F2,Core Formation,B
+MV-SIG-FAL-006-07,Crest Piercing Stroke,Pulsarwhack,F5,Core Formation,B
+MV-SIG-FAL-006-08,Core-Held Heavy Wall,Hornbeam Chopblade,F2,Core Formation,B
+MV-SIG-FAL-006-09,Crest Descending Reckoning,Haemalcleft,F5,Core Formation,B
+MV-SIG-FAL-006-10,School Crest of the Final Fall,Noble Clipedge Verdict,F6b,Core Formation,B
+MV-SIG-FAL-007-01,Plateau Sworn Opening,Nubseal,F4,Warrior,B
+MV-SIG-FAL-007-02,Wind-Spoken Chop,Squallchunk,F5,Warrior,B
+MV-SIG-FAL-007-03,Edge-of-Wind Step,Squallcleft,F5,Warrior,B
+MV-SIG-FAL-007-04,Sworn Flat Block,Stumppledge,F4,Warrior,B
+MV-SIG-FAL-007-05,Wind-Fed Heavy Hack,Haemalwhack,F5,Warrior,B
+MV-SIG-FAL-007-06,Plateau-Footed Pivot,Deluge Weightbelly,F2,Warrior,B
+MV-SIG-FAL-007-07,Wind-Sworn Falchion Cleave,Hewverdict,F4,Champion,B
+MV-SIG-FAL-007-08,Plateau Oath Spine Rest,Prism Heavyback,F2,Champion,B
+MV-SIG-FAL-007-09,Sworn Wind Piercing Chop,Radiance Whack,F2,Demigod,B
+MV-SIG-FAL-007-10,School Oath Falling on the Plateau,Thunderclap Falchhilt,F2,Warrior,B
+MV-SIG-FAL-008-01,Bearing-Taking Falchion Stance,Luminous Chopblade,F1,Warrior,B
+MV-SIG-FAL-008-02,Along-the-Bearing Chop,Cleft Banner,F3,Warrior,B
+MV-SIG-FAL-008-03,Bearing-Kept Advance,Squallnub,F5,Warrior,B
+MV-SIG-FAL-008-04,Bearing-Turn Flat Parry,Pallstump,F5,Warrior,B
+MV-SIG-FAL-008-05,Held-Aim Hacking Beat,Intrepid Bulkblade,F1,Warrior,B
+MV-SIG-FAL-008-06,Wind-Shifted Bearing,Vigor Chunk,F2,Warrior,B
+MV-SIG-FAL-008-07,Bearing Cross Guard,Statute Cleaverbelly,F2,Warrior,B
+MV-SIG-FAL-008-08,Bearing Breaking Press,Unbending Hash,F1,Warrior,B
+MV-SIG-FAL-008-09,Long Line Falling Cleave,Imperial Hash,F1,Champion,B
+MV-SIG-FAL-008-10,Bearing Reversal Falchion Counter,Sainted Nubtip,F1,Champion,B
+MV-SIG-FAL-008-11,Fixed-Bearing Field Cut,Triumphant Falchhilt,F1,Demigod,B
+MV-SIG-FAL-008-12,School Bearing of the Falling Blade,Unrivaled Cleft Verdict,F6b,Warrior,B
+MV-SIG-FAL-009-01,Running Gale Start,Squall Hack,F2,Champion,B
+MV-SIG-FAL-009-02,Run-In Overhead Chop,Haemal Hack,F2,Champion,B
+MV-SIG-FAL-009-03,Gust-Catch Flat Parry,Enshrined Clipedge,F1,Champion,B
+MV-SIG-FAL-009-04,Skimming Low Hack,Wedgetip Crown,F3,Champion,B
+MV-SIG-FAL-009-05,Gale-Fed Footfall,Deluge Hew,F2,Champion,B
+MV-SIG-FAL-009-06,Overhead Gale Guard,Heavyback Vow,F3,Champion,B
+MV-SIG-FAL-009-07,Wind-Rush Doubled Chop,Exalted Weightbelly,F1,Champion,B
+MV-SIG-FAL-009-08,Gale-Rush Heavy Fall,Unrivaled Chunk,F1,Champion,B
+MV-SIG-FAL-009-09,Run-Through Slash,Wraithlike Bulkblade,F1,Champion,B
+MV-SIG-FAL-009-10,Gale-Driven Cleaving Charge,Thunderclap Whack,F2,Demigod,B
+MV-SIG-FAL-009-11,School Gale Before the Fall,Exalted Cleft Triumph,F6b,Champion,B
+MV-SIG-FAL-010-01,Open-Ground Falchion Stance,Sacrosanct Thickspine,F1,Ruler,B
+MV-SIG-FAL-010-02,Plateau Chop Without Cover,Vigorhack,F5,Ruler,B
+MV-SIG-FAL-010-03,Wide-Wind Footwork,Nubtipboon,F4,Ruler,B
+MV-SIG-FAL-010-04,Open Circle Parry,Pealstump,F5,Ruler,B
+MV-SIG-FAL-010-05,Fixed-Ground Chop Series,Squallhash,F5,Ruler,B
+MV-SIG-FAL-010-06,Plateau Sweeping Retreat,Bedrock Cleft,F2,Ruler,B
+MV-SIG-FAL-010-07,Open-Plateau Heavy Cleave,Unrivaled Whack,F1,Ruler,B
+MV-SIG-FAL-010-08,All-Sides Wind Guard,Venerable Nubtip,F1,Ruler,B
+MV-SIG-FAL-010-09,Unwalled Field Sweep,Heavyback Edict,F3,Demigod,B
+MV-SIG-FAL-010-10,School Open Plateau Verdict,Splendid Hack,F1,Ruler,B
+MV-SIG-FAL-011-01,Oath-and-Bearing Opening,Devout Bulkblade,F1,Demigod,B
+MV-SIG-FAL-011-02,Oath-Held Falling Hack,Majestic Cleft,F1,Demigod,B
+MV-SIG-FAL-011-03,Bearing Held Footwork,Deluge Falchhilt,F2,Demigod,B
+MV-SIG-FAL-011-04,Wind-Cast Sense Line,Revelation Chopblade,F2,Demigod,B
+MV-SIG-FAL-011-05,Oath-Backed Parry Beat,Wedgetip Reliquary,F3,Demigod,B
+MV-SIG-FAL-011-06,Bearing Chain Chop,Fearless Hew,F1,Demigod,B
+MV-SIG-FAL-011-07,Oathline Turn Away,Nubvoyage,F4,Demigod,B
+MV-SIG-FAL-011-08,Oath-Bound Heavy Cleave,Steelhew,F5,Demigod,B
+MV-SIG-FAL-011-09,Bearing and Oath Counter Press,Season Cleaverbelly,F2,Demigod,B
+MV-SIG-FAL-011-10,Sworn Field Cleaving Verdict,Thunderclap Hack,F2,Demigod,B
+MV-SIG-FAL-011-11,School Oath of the Long Bearing,Steelhash,F5,Demigod,B
+MV-SIG-FAL-012-01,High Plateau Falchion Stance,Sanctum Thickspine,F2,Core Formation,B
+MV-SIG-FAL-012-02,Highest Wind Chop,Haemal Hash,F2,Core Formation,B
+MV-SIG-FAL-012-03,Core-Light Cleaver Step,Dunenub,F5,Core Formation,B
+MV-SIG-FAL-012-04,Peak Wind Parry,Stately Clipedge,F1,Core Formation,B
+MV-SIG-FAL-012-05,Core-Held Edge Hack,Squall Whack,F2,Core Formation,B
+MV-SIG-FAL-012-06,High Plateau Turn,Feather Thickspine,F1,Core Formation,B
+MV-SIG-FAL-012-07,Core Wind Shield,Steelnub,F5,Core Formation,B
+MV-SIG-FAL-012-08,Peak Wind Binding Cut,Thrallhack,F5,Core Formation,B
+MV-SIG-FAL-012-09,Highest Plateau Cleave,Quenched Chunk,F2,Core Formation,B
+MV-SIG-FAL-012-10,Plateau Peak Counter,Stately Chopblade,F1,Core Formation,B
+MV-SIG-FAL-012-11,Core Gale Falchion Descent,Famed Hew,F1,Core Formation,B
+MV-SIG-FAL-012-12,School Summit of the Plateau Falchion,Fearless Thunderclap Cleaverbelly,F6a,Core Formation,B
+MV-SIG-FAL-001-01,Hornbeam Clipedge,Mighty Clipedge,F2,Warrior,B
+MV-SIG-FAL-001-06,Hornbeam Falchhilt,Titan Falchhilt,F2,Warrior,B
+MV-SIG-FAL-004-01,Hornbeam Thickspine,Colossal Thickspine,F2,Ruler,B
+MV-SIG-FAL-006-08,Hornbeam Chopblade,Thunderous Chopblade,F2,Core Formation,B
+MV-SIG-FAL-012-01,Sanctum Thickspine,Sovereign Thickspine,F2,Core Formation,B

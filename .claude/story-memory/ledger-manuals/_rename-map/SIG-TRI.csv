@@ -1,0 +1,138 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-TRI-001-01,Basin Pair Opening Thrust,Squallgig,F5,Warrior L1 Low,B
+MV-SIG-TRI-001-02,Reed-Stem Guard Slip,Squall Triprong,F2,Warrior L1 Low,B
+MV-SIG-TRI-001-03,River-Stone Fork Step,Squalltrident,F5,Warrior L1 Low,B
+MV-SIG-TRI-001-04,Paired Rake and Return,Vigor Forktine,F2,Warrior L1 Low,B
+MV-SIG-TRI-001-05,Basin-Hold Fork Bind,Hornbeam Socketbase,F2,Warrior L1 Low,B
+MV-SIG-TRI-001-06,Hawk-Eye Fork Probe,Reminiscence Barbtine,F2,Warrior L1 Low,B
+MV-SIG-TRI-001-07,Paired Current Thrust,Gaff Decree,F3,Champion L1 Low,B
+MV-SIG-TRI-001-08,Basin Bar Guard,Hornbeam Midtine,F2,Champion L1 Low,B
+MV-SIG-TRI-001-09,Fork Overturn of the Pair,Peal Gig,F2,Demigod L1 Low,B
+MV-SIG-TRI-001-10,First Azure Trident Form,Harmonious Tenet Tridentshaft,F6a,Warrior L1 Low,B
+MV-SIG-TRI-002-01,Left-Track Prong Jab,Paramount Triplehead,F1,Warrior L6 Mid,B
+MV-SIG-TRI-002-02,Right-Track Low Hold,Bedrock Prongroot,F2,Warrior L6 Mid,B
+MV-SIG-TRI-002-03,Track-Change Slide,Hookbarb Odyssey,F3,Warrior L6 Mid,B
+MV-SIG-TRI-002-04,Two-Height Prong Pair,Steel Pinch,F2,Warrior L6 Mid,B
+MV-SIG-TRI-002-05,Tine Track-Crossing Parry,Pall Triprong,F2,Warrior L6 Mid,B
+MV-SIG-TRI-002-06,Under-Track Barb Hook,Pinchpledge,F4,Warrior L6 Mid,B
+MV-SIG-TRI-002-07,Both-Tracks Step Chain,Triovoyage,F4,Warrior L6 Mid,B
+MV-SIG-TRI-002-08,Twin-Track Pursuit Thrust,Magnificent Seize,F1,Champion L1 Low,B
+MV-SIG-TRI-002-09,Track-Break Snare,Tripletroth,F4,Champion L1 Low,B
+MV-SIG-TRI-002-10,Two-Track Lance,Vacuum Gig,F2,Demigod L1 Low,B
+MV-SIG-TRI-002-11,Twin-Track Doctrine Form,Symphonic Fork,F1,Warrior L6 Mid,B
+MV-SIG-TRI-003-01,River-Line Straight Thrust,Quenched Sidetine,F2,Champion L4 High,B
+MV-SIG-TRI-003-02,Hawk-Wing Haft Spread,Statute Tridentshaft,F2,Champion L4 High,B
+MV-SIG-TRI-003-03,Bank-Hop Step,Forkgrace,F4,Champion L4 High,B
+MV-SIG-TRI-003-04,River-Mouth Parry,Squalltrio,F5,Champion L4 High,B
+MV-SIG-TRI-003-05,Hawk-Dive Thrust,Prismgig,F5,Champion L4 High,B
+MV-SIG-TRI-003-06,River-Run Haft Sweep,Famed Midtine,F1,Champion L4 High,B
+MV-SIG-TRI-003-07,Mid-Stream Fork Hold,Authoritative Prongroot,F1,Champion L4 High,B
+MV-SIG-TRI-003-08,Hawk-Sight Reading Step,Sidetine Benison,F3,Champion L4 High,B
+MV-SIG-TRI-003-09,River-Weight Bearing Press,Gloom Fork,F2,Champion L1 Low,B
+MV-SIG-TRI-003-10,Perch-Above Hovering Trap,Dunetriple,F5,Champion L1 Low,B
+MV-SIG-TRI-003-11,High-and-Low Meeting Strike,Thunderclap Barbtine,F2,Demigod L1 Low,B
+MV-SIG-TRI-003-12,Hawk and River Form,Tenettrident,F5,Champion L4 High,B
+MV-SIG-TRI-004-01,Court-Pair Fork Opening Jab,Paramount Gaff,F1,Ruler L1 Mid,B
+MV-SIG-TRI-004-02,Fork-Pair Guard Stance,Steel Socketbase,F2,Ruler L1 Mid,B
+MV-SIG-TRI-004-03,Court-Corner Step,Ethereal Seize,F1,Ruler L1 Mid,B
+MV-SIG-TRI-004-04,Two-Fork Feint,Trioverdict,F4,Ruler L1 Mid,B
+MV-SIG-TRI-004-05,Court Passing Parry,Delugetrio,F5,Ruler L1 Mid,B
+MV-SIG-TRI-004-06,Seat-of-Court Pin,Sigil Prongdrive,F2,Ruler L1 Mid,B
+MV-SIG-TRI-004-07,Court Judgment Thrust,Gafftriumph,F4,Ruler L1 Mid,B
+MV-SIG-TRI-004-08,Court Boundary Seal,Sigilfork,F5,Ruler L1 Mid,B
+MV-SIG-TRI-004-09,Court Overturn Flash,Wraithlike Pinch,F1,Demigod L1 Low,B
+MV-SIG-TRI-004-10,Court of Two Forks Form,Harmonious Prongdrive Triumph,F6b,Ruler L1 Mid,B
+MV-SIG-TRI-005-01,Unbroken Current Jab,Hookbarb Edict,F3,Demigod L3 Mid,B
+MV-SIG-TRI-005-02,Azure Flow Guard,Glacier Forktine,F2,Demigod L3 Mid,B
+MV-SIG-TRI-005-03,Current-Matched Step,Bedrock Fork,F2,Demigod L3 Mid,B
+MV-SIG-TRI-005-04,Current-Linked Double Thrust,Vacuumfork,F5,Demigod L3 Mid,B
+MV-SIG-TRI-005-05,Flowing Fork Wrench,Thunderclap Sidetine,F2,Demigod L3 Mid,B
+MV-SIG-TRI-005-06,Azure Undertow Hook,Unbending Prongroot,F1,Demigod L3 Mid,B
+MV-SIG-TRI-005-07,Current-Reading Tine Probe,Eclipse Midtine,F2,Demigod L3 Mid,B
+MV-SIG-TRI-005-08,Unbroken Current Screen,Prismtrident,F5,Demigod L3 Mid,B
+MV-SIG-TRI-005-09,Azure Flood Snare,Statute Triprong,F2,Demigod L3 Mid,B
+MV-SIG-TRI-005-10,Azure Torrent Lance,Seize Edict,F3,Demigod L1 Low,B
+MV-SIG-TRI-005-11,Azure Currents Unbroken Form,Volition Barbtine,F2,Demigod L3 Mid,B
+MV-SIG-TRI-006-01,Core-Seated Thrust,Peerless Triplehead,F1,Core Formation L1 Low,B
+MV-SIG-TRI-006-02,Basin-Floor Fork Stance,Bedrock Socketbase,F2,Core Formation L1 Low,B
+MV-SIG-TRI-006-03,Dual-Track Glide,Dune Gaff,F2,Core Formation L1 Low,B
+MV-SIG-TRI-006-04,Core-Turn Deflection,Triplehead Troth,F3,Core Formation L1 Low,B
+MV-SIG-TRI-006-05,Core-Fed Fork Drive,Steel Gig,F2,Core Formation L1 Low,B
+MV-SIG-TRI-006-06,Paired Core Pulse Guard,Triplevow,F4,Core Formation L1 Low,B
+MV-SIG-TRI-006-07,Core-Anchored Pin,Millstone Forktine,F2,Core Formation L1 Low,B
+MV-SIG-TRI-006-08,Basin-Rim Slip Step,Vigortriple,F5,Core Formation L1 Low,B
+MV-SIG-TRI-006-09,Core Lance Through the Guard,Steeltriple,F5,Core Formation L1 Low,B
+MV-SIG-TRI-006-10,Core Basin Seal,Ruling Hookbarb,F1,Core Formation L1 Low,B
+MV-SIG-TRI-006-11,Core Azure Overturn,Prismtrio,F5,Core Formation L1 Low,B
+MV-SIG-TRI-006-12,Core Trident of the Basin Form,Harmonious Triplehead Triumph,F6b,Core Formation L1 Low,B
+MV-SIG-TRI-007-01,Plateau Oath Jab,Steel Prongdrive,F2,Warrior L2 Low,B
+MV-SIG-TRI-007-02,First Wind Guard,Devout Tridentshaft,F1,Warrior L2 Low,B
+MV-SIG-TRI-007-03,Open-Ground Prong Slide,Squall Socketbase,F2,Warrior L2 Low,B
+MV-SIG-TRI-007-04,Oath-Held Reach Thrust,Thunderclap Prongroot,F2,Warrior L2 Low,B
+MV-SIG-TRI-007-05,Windshift Parry,Pall Sidetine,F2,Warrior L2 Low,B
+MV-SIG-TRI-007-06,Bearing-Taking Pin,Sigil Pinch,F2,Warrior L2 Low,B
+MV-SIG-TRI-007-07,Plateau Spring Step,Vigor Seize,F2,Warrior L2 Low,B
+MV-SIG-TRI-007-08,Sworn Gust Thrust,Splendid Pinch,F1,Champion L1 Low,B
+MV-SIG-TRI-007-09,First Oath Snare,Trioseal,F4,Champion L1 Low,B
+MV-SIG-TRI-007-10,Oath-Wind Lance,Prism Hookbarb,F2,Demigod L1 Low,B
+MV-SIG-TRI-007-11,First Wind Oath Form,Tenetfork,F5,Warrior L2 Low,B
+MV-SIG-TRI-008-01,Bearing-Set Thrust,Royal Gig,F1,Warrior L8 High,B
+MV-SIG-TRI-008-02,Sworn-Stance Fork Guard,Undaunted Forktine,F1,Warrior L8 High,B
+MV-SIG-TRI-008-03,Held-Bearing Tine Walk,Windborne Gaff,F1,Warrior L8 High,B
+MV-SIG-TRI-008-04,Bearing-Crossing Haft Parry,Squall Tridentshaft,F2,Warrior L8 High,B
+MV-SIG-TRI-008-05,Oath-Repeating Jab,Vigor Prongdrive,F2,Warrior L8 High,B
+MV-SIG-TRI-008-06,Wind-Barb Hook Pull,Sigil Triprong,F2,Warrior L8 High,B
+MV-SIG-TRI-008-07,Bearing-Breaking Entry,Steel Midtine,F2,Champion L1 Low,B
+MV-SIG-TRI-008-08,Oath-Drawn Line Seal,Tridentshaft Troth,F3,Champion L1 Low,B
+MV-SIG-TRI-008-09,Bearing and Oath Overwhelm,Thunderclap Fork,F2,Demigod L1 Low,B
+MV-SIG-TRI-008-10,Bearing and Oath Form,Harmonious Forktine Banner,F6b,Warrior L8 High,B
+MV-SIG-TRI-009-01,Open-Air Fork Thrust,Sidetine Triumph,F3,Champion L3 Mid,B
+MV-SIG-TRI-009-02,Unsheltered Fork Guard,Tridentpledge,F4,Champion L3 Mid,B
+MV-SIG-TRI-009-03,Gale-Lean Fork Advance,Twilit Barbtine,F1,Champion L3 Mid,B
+MV-SIG-TRI-009-04,Wind-Cut Haft Parry,Unwavering Triprong,F1,Champion L3 Mid,B
+MV-SIG-TRI-009-05,Gale Fork Gust Drive,Thunderclap Socketbase,F2,Champion L3 Mid,B
+MV-SIG-TRI-009-06,Whirl-of-the-Open Haft,Peal Hookbarb,F2,Champion L3 Mid,B
+MV-SIG-TRI-009-07,Ring-Break Barb Hook,Commanding Barbtine,F1,Champion L3 Mid,B
+MV-SIG-TRI-009-08,Standing-Wind Brace,Hornbeam Triplehead,F2,Champion L3 Mid,B
+MV-SIG-TRI-009-09,Open-Plain Drift Snare,Wily Midtine,F1,Champion L1 Low,B
+MV-SIG-TRI-009-10,Wall-Less Wide Ward,Undaunted Prongroot,F1,Champion L1 Low,B
+MV-SIG-TRI-009-11,Gale Fork Sweep of the Plain,Triumphant Fork,F1,Demigod L1 Low,B
+MV-SIG-TRI-009-12,Gale Trident Without Walls Form,Triotriumph,F4,Champion L3 Mid,B
+MV-SIG-TRI-010-01,Wind-Sworn Edge Jab,Steeltrio,F5,Ruler L1 Low,B
+MV-SIG-TRI-010-02,Edge-of-Plateau Stand,Steeltrident,F5,Ruler L1 Low,B
+MV-SIG-TRI-010-03,Windward Tine Pace,Evanescent Gig,F1,Ruler L1 Low,B
+MV-SIG-TRI-010-04,Gust-Timed Rake,Intrepid Pinch,F1,Ruler L1 Low,B
+MV-SIG-TRI-010-05,Swept-Edge Parry,Squall Midtine,F2,Ruler L1 Low,B
+MV-SIG-TRI-010-06,Rim-Hook Haul,Imperious Triplehead,F1,Ruler L1 Low,B
+MV-SIG-TRI-010-07,Wind-Sworn Reach Snap,Vigortrident,F5,Ruler L1 Low,B
+MV-SIG-TRI-010-08,Edge-Bound Trap Line,Shrewd Socketbase,F1,Ruler L1 Low,B
+MV-SIG-TRI-010-09,Sworn Edge Drive,Radiance Sidetine,F2,Demigod L1 Low,B
+MV-SIG-TRI-010-10,Wind-Sworn Trident Edge Form,Grand Season Fork,F6a,Ruler L1 Low,B
+MV-SIG-TRI-011-01,Long-Oath Opening Jab,Gaffbanner,F4,Demigod L1 High,B
+MV-SIG-TRI-011-02,Sworn Fork Guard,Bedrock Hookbarb,F2,Demigod L1 High,B
+MV-SIG-TRI-011-03,Oath-Length Stride,Seizeodyssey,F4,Demigod L1 High,B
+MV-SIG-TRI-011-04,Field-Held Prong Parry,Squall Forktine,F2,Demigod L1 High,B
+MV-SIG-TRI-011-05,Pledged Thrust Chain,Radiance Gig,F2,Demigod L1 High,B
+MV-SIG-TRI-011-06,Oath-Barb Hook Pull,Sigil Prongroot,F2,Demigod L1 High,B
+MV-SIG-TRI-011-07,Windswept Reading Step,Gracious Barbtine,F1,Demigod L1 High,B
+MV-SIG-TRI-011-08,Long-Oath Field Drive,Steel Gaff,F2,Demigod L1 High,B
+MV-SIG-TRI-011-09,Oath-Pinned Seal,Sigiltrio,F5,Demigod L1 High,B
+MV-SIG-TRI-011-10,Oath Beyond Breaking,Sigil Tridentshaft,F2,Demigod L1 Low,B
+MV-SIG-TRI-011-11,Long Oath Fork Form,Symphonic Volition Pinch,F6a,Demigod L1 High,B
+MV-SIG-TRI-012-01,Core-Rooted Edge Thrust,Haemal Forktine,F2,Core Formation L2 Mid,B
+MV-SIG-TRI-012-02,Open-Gale Fork Stance,Glacier Barbtine,F2,Core Formation L2 Mid,B
+MV-SIG-TRI-012-03,Gale-Scouring Stride,Duneseize,F5,Core Formation L2 Mid,B
+MV-SIG-TRI-012-04,Core-Wind Fork Drive,Famed Prongdrive,F1,Core Formation L2 Mid,B
+MV-SIG-TRI-012-05,Held-Bearing Core Guard,Faithful Triprong,F1,Core Formation L2 Mid,B
+MV-SIG-TRI-012-06,Plateau-Rock Pin,Unbending Prongdrive,F1,Core Formation L2 Mid,B
+MV-SIG-TRI-012-07,Open-Wind Reading Probe,Lifegiving Prongroot,F1,Core Formation L2 Mid,B
+MV-SIG-TRI-012-08,Core Gale Lance,Prism Pinch,F2,Core Formation L2 Mid,B
+MV-SIG-TRI-012-09,Open-Gale Binding Line,Tridentseal,F4,Core Formation L2 Mid,B
+MV-SIG-TRI-012-10,Gale Bearing Overturn,Prismtriple,F5,Core Formation L2 Mid,B
+MV-SIG-TRI-012-11,Core Trident of the Open Gale Form,Season Gig,F2,Core Formation L2 Mid,B
+MV-SIG-TRI-001-05,Hornbeam Socketbase,Gathering Socketbase,F2,Warrior L1 Low,B
+MV-SIG-TRI-001-08,Hornbeam Midtine,Brimming Midtine,F2,Champion L1 Low,B
+MV-SIG-TRI-005-02,Glacier Forktine,Shifting Forktine,F2,Demigod L3 Mid,B
+MV-SIG-TRI-006-03,Dune Gaff,Gliding Gaff,F2,Core Formation L1 Low,B
+MV-SIG-TRI-009-08,Hornbeam Triplehead,Standing Triplehead,F2,Champion L3 Mid,B
+MV-SIG-TRI-012-02,Glacier Barbtine,Deflecting Barbtine,F2,Core Formation L2 Mid,B

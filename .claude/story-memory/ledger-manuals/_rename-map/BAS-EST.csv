@@ -1,0 +1,72 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-EST-001-01,Estoc Ready Stance,Straitcowl,F4,Unawakened,A
+MV-BAS-EST-001-02,Level Estoc Thrust,Firm Hardtip,F1,Unawakened,A
+MV-BAS-EST-001-03,Stiff Recover Step,Rigidtang Amble,F3,Unawakened,A
+MV-BAS-EST-001-04,Two-Hand Grip Hold,Even Stiffspine,F1,Unawakened,A
+MV-BAS-EST-001-05,Lowered Point Feint,Nabbing Squaretip,F1,Unawakened,A
+MV-BAS-EST-001-06,Beat Aside Parry,Straithusk,F4,Unawakened,A
+MV-BAS-EST-002-01,Upright Stiff Blade Pose,Holding Longtang,F1,Skin,A
+MV-BAS-EST-002-02,Straight Arm Drive,Wide Trianglespine,F1,Skin,A
+MV-BAS-EST-002-03,Short Slide Step,Drillamble,F4,Skin,A
+MV-BAS-EST-002-04,Wrist Turn Parry,Holding Squarepoint,F1,Skin,A
+MV-BAS-EST-002-05,Pace Counting Drill,Bracespine Review,F3,Skin,A
+MV-BAS-EST-003-01,Post Target Thrust,Open Bore,F1,Muscle,A
+MV-BAS-EST-003-02,Falling Step Lunge,Gouge Hit,F3,Muscle,A
+MV-BAS-EST-003-03,Quick Withdraw Recover,Swaying Thrustspine,F1,Muscle,A
+MV-BAS-EST-003-04,Rising Beat Estoc Parry,Resting Stiffblade,F1,Muscle,A
+MV-BAS-EST-003-05,Half Pace Advance,Shifting Skewer,F1,Muscle,A
+MV-BAS-EST-003-06,Estoc Pommel Knock,Narrow Impale,F1,Muscle,A
+MV-BAS-EST-003-07,Cross Bind Press,Fixing Hardtip,F1,Muscle,A
+MV-BAS-EST-004-01,Square Section Grip Lesson,Judging Stiffspine,F1,Tendon,A
+MV-BAS-EST-004-02,Four Mark Board Drill,Piercehit,F4,Tendon,A
+MV-BAS-EST-004-03,Rear Foot Spring Thrust,Gnawing Drill,F1,Tendon,A
+MV-BAS-EST-004-04,Low Guard Rest,Slenderlid,F4,Tendon,A
+MV-BAS-EST-004-05,Gliding Retreat,Backward Rigidtang,F1,Tendon,A
+MV-BAS-EST-004-06,Flat Face Beat,Tautpause,F4,Tendon,A
+MV-BAS-EST-004-07,Hilt Drive Strike,Borehit,F4,Tendon,A
+MV-BAS-EST-004-08,Thrust and Thrust Again,Level Bore,F1,Tendon,A
+MV-BAS-EST-005-01,Long Reach Measure,Calm Squarepoint,F1,Bone,A
+MV-BAS-EST-005-02,Chest Line Thrust,Level Pierce,F1,Bone,A
+MV-BAS-EST-005-03,Half Hold Shortening,Slendernote,F4,Bone,A
+MV-BAS-EST-005-04,Slipped Step Away,Pierce Pace,F3,Bone,A
+MV-BAS-EST-005-05,Crossguard Catch,Slenderwedge,F4,Bone,A
+MV-BAS-EST-005-06,Braced Point Stand,Tautcowl,F4,Bone,A
+MV-BAS-EST-006-01,Pivoting Point Turn,Backward Trianglespine,F1,Senior,A
+MV-BAS-EST-006-02,Qi-Lit Lunge,Single Longtang,F1,Senior,A
+MV-BAS-EST-006-03,Oblique Gliding Step,Gougeamble,F4,Senior,A
+MV-BAS-EST-006-04,Steadying Breath Hold,Tending Squaretip,F1,Senior,A
+MV-BAS-EST-006-05,Back Heel Recovery,Gougeskitter,F4,Senior,A
+MV-BAS-EST-006-06,Point Line Deflection,Straitstay,F4,Senior,A
+MV-BAS-EST-006-07,Stamp Break Feint,Locking Thrustspine,F1,Senior,A
+MV-BAS-EST-007-01,Gorget Line Thrust,Square Impale,F1,Senior,A
+MV-BAS-EST-007-02,Armpit Lift Thrust,Boreblow,F4,Senior,A
+MV-BAS-EST-007-03,Plate Edge Feel,Straitcount,F4,Senior,A
+MV-BAS-EST-007-04,Visor Slit Estoc Tap,Descending Bracespine,F1,Senior,A
+MV-BAS-EST-007-05,Guarded Withdrawal,Solid Stiffblade,F1,Senior,A
+MV-BAS-EST-008-01,Settled Two-Hand Guard,Solid Hardtip,F1,Senior,A
+MV-BAS-EST-008-02,Hip Driven Lunge,Gouge Dash,F3,Senior,A
+MV-BAS-EST-008-03,Pommel Hand Anchor,Mild Bracespine,F1,Senior,A
+MV-BAS-EST-008-04,Rolling Forward Step,Light Drill,F1,Senior,A
+MV-BAS-EST-008-05,Heavy Point Beat,Slenderhusk,F4,Senior,A
+MV-BAS-EST-008-06,Crossguard Hook Pull,Fouling Skewer,F1,Senior,A
+MV-BAS-EST-008-07,Rear Hand Pommel Smash,Slenderstrike,F4,Senior,A
+MV-BAS-EST-008-08,Lunge Withdraw Pair,Upward Stiffblade,F1,Senior,A
+MV-BAS-EST-009-01,Mail Ring Parting Thrust,Wide Skewer,F1,Senior,A
+MV-BAS-EST-009-02,Seam Probing Press,Warm Rigidtang,F1,Senior,A
+MV-BAS-EST-009-03,Hanging Mail Drill,Downward Longtang,F1,Senior,A
+MV-BAS-EST-009-04,Stout Boot Step,Skipping Thrustspine,F1,Senior,A
+MV-BAS-EST-009-05,Leather Gap Feint,Borewedge,F4,Senior,A
+MV-BAS-EST-009-06,Close Cover Guard,Angled Squarepoint,F1,Senior,A
+MV-BAS-EST-010-01,Blade Crossing Lay,Stiffspine Husk,F3,Senior,A
+MV-BAS-EST-010-02,Sliding Bind Thrust,Leaden Bore,F1,Senior,A
+MV-BAS-EST-010-03,Yielding Pressure Step,Shifting Gouge,F1,Senior,A
+MV-BAS-EST-010-04,Cross Pressure Release,Fixing Drill,F1,Senior,A
+MV-BAS-EST-010-05,Bind Feel Reading,Soft Trianglespine,F1,Senior,A
+MV-BAS-EST-010-06,Turning Out Deflection,Holding Squaretip,F1,Senior,A
+MV-BAS-EST-010-07,Bind Escape Withdraw,Nimble Impale,F1,Senior,A
+MV-BAS-EST-011-01,Stiff Blade Rest Pose,Tautstay,F4,Senior,A
+MV-BAS-EST-011-02,Plain Straight Stab,Drillstrike,F4,Senior,A
+MV-BAS-EST-011-03,Steady Chest Press,Drilldrop,F4,Senior,A
+MV-BAS-EST-011-04,Even Pace Walk,Easing Longtang,F1,Senior,A
+MV-BAS-EST-011-05,Plain Beat Away,Lowered Stiffspine,F1,Senior,A
+MV-BAS-EST-011-06,Lunge and Hold,Short Rigidtang,F1,Senior,A

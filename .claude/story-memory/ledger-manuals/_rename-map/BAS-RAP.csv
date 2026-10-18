@@ -1,0 +1,71 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-RAP-001-01,Cup-Hilt Grip Setting,Sweephilt Review,F3,Unawakened,A
+MV-BAS-RAP-001-02,Narrow Guard Stance,Hooding Counterpoise,F1,Unawakened,A
+MV-BAS-RAP-001-03,Straight Lunge,Gnawing Stoccata,F1,Unawakened,A
+MV-BAS-RAP-001-04,Recovery Step Back,Backward Whipblade,F1,Unawakened,A
+MV-BAS-RAP-001-05,Inside Wrist Parry,Slimtang Cowl,F3,Unawakened,A
+MV-BAS-RAP-001-06,Eye-Level Point Hold,Hard Needlepoint,F1,Unawakened,A
+MV-BAS-RAP-002-01,Measured Reach Check,Calm Cupedge,F1,Skin,A
+MV-BAS-RAP-002-02,Single Lunge Repeat,Pashit,F4,Skin,A
+MV-BAS-RAP-002-03,Heel-Drive Return,Sweptdodge,F4,Skin,A
+MV-BAS-RAP-002-04,Belly Sweep Parry,Ready Cuphilt,F1,Skin,A
+MV-BAS-RAP-002-05,Even Count Drill,Measured Pasguard,F1,Skin,A
+MV-BAS-RAP-003-01,Steady Flame Point Hold,Tipwhip Count,F3,Muscle,A
+MV-BAS-RAP-003-02,Thumb Roll Aim,Sweptreview,F4,Muscle,A
+MV-BAS-RAP-003-03,Throat-Line Prick,Square Bellguard,F1,Muscle,A
+MV-BAS-RAP-003-04,Flank Slip Thrust,Quick Passata,F1,Muscle,A
+MV-BAS-RAP-003-05,Tight Circle Turn,Pasguard Wedge,F3,Muscle,A
+MV-BAS-RAP-003-06,Cup-Side Knuckle Tap,Foildash,F4,Muscle,A
+MV-BAS-RAP-003-07,Same-Line Withdrawal,Folded Whipblade,F1,Muscle,A
+MV-BAS-RAP-004-01,Low Quarter Guard,Pascowl,F4,Tendon,A
+MV-BAS-RAP-004-02,High Inside Guard,Planted Tipwhip,F1,Tendon,A
+MV-BAS-RAP-004-03,Outside Bar Guard,Ready Bellguard,F1,Tendon,A
+MV-BAS-RAP-004-04,Round-Shoulder Parry,Ready Sweephilt,F1,Tendon,A
+MV-BAS-RAP-004-05,Hilt-Cup Catch,Sweptcowl,F4,Tendon,A
+MV-BAS-RAP-004-06,Guard Change Shuffle,Quiet Fleche,F1,Tendon,A
+MV-BAS-RAP-004-07,Sight Line Check,Steady Counterpoise,F1,Tendon,A
+MV-BAS-RAP-004-08,Latch Guard Stop,Folded Slimtang,F1,Tendon,A
+MV-BAS-RAP-005-01,Short Advance Slide,Light Stoccata,F1,Bone,A
+MV-BAS-RAP-005-02,Quick Retreat Pair,Nimble Passata,F1,Bone,A
+MV-BAS-RAP-005-03,Crossing Pass,Backward Volte,F1,Bone,A
+MV-BAS-RAP-005-04,Sidestep Off the Line,Stepping Remise,F1,Bone,A
+MV-BAS-RAP-005-05,Settled Hips Lunge,Wide Remise,F1,Bone,A
+MV-BAS-RAP-005-06,Ground Feel Stance,Sweptgauge,F4,Bone,A
+MV-BAS-RAP-006-01,Straight Arm Before Foot,Cupedge Bump,F3,Muscle,A
+MV-BAS-RAP-006-02,Open Hand Counterweight,Cuphilt Gauge,F3,Muscle,A
+MV-BAS-RAP-006-03,Waiting Point at the Face,Open Needlepoint,F1,Muscle,A
+MV-BAS-RAP-006-04,Short Wrist Turn,Sweptwedge,F4,Muscle,A
+MV-BAS-RAP-006-05,Rear Heel Drive,Shifting Cupedge,F1,Muscle,A
+MV-BAS-RAP-007-01,Point-Tip Qi Thread,Foilgauge,F4,Senior,A
+MV-BAS-RAP-007-02,Quickened Lunge,Pasdash,F4,Senior,A
+MV-BAS-RAP-007-03,Whisper Flick Parry,Holding Counterpoise,F1,Senior,A
+MV-BAS-RAP-007-04,Fast Withdrawal Pull,Stepping Lunge,F1,Senior,A
+MV-BAS-RAP-007-05,Glint Feint Dart,Lunge Cowl,F3,Senior,A
+MV-BAS-RAP-007-06,Needle Rap on the Wrist,Flechebump,F4,Senior,A
+MV-BAS-RAP-007-07,Held Breath Film Guard,Settled Cuphilt,F1,Senior,A
+MV-BAS-RAP-008-01,Two-Finger Ricasso Hold,Measured Bellguard,F1,Senior,A
+MV-BAS-RAP-008-02,Cup Turn Catch,Solid Needlepoint,F1,Senior,A
+MV-BAS-RAP-008-03,Thumb Pressure Lunge,Sweptstrike,F4,Senior,A
+MV-BAS-RAP-008-04,Wrist Spring Recovery,Foilstay,F4,Senior,A
+MV-BAS-RAP-008-05,Cup Hook to the Jaw,Straight Stoccata,F1,Senior,A
+MV-BAS-RAP-008-06,Loose Grip Reset,Sweptnote,F4,Senior,A
+MV-BAS-RAP-008-07,Pommel Drop Block,Holding Pasguard,F1,Senior,A
+MV-BAS-RAP-008-08,Forward Hand Slide,Pasreview,F4,Senior,A
+MV-BAS-RAP-009-01,Breath-In Guard,Lowered Sweephilt,F1,Senior,A
+MV-BAS-RAP-009-02,Breath-Out Lunge,Firm Fleche,F1,Senior,A
+MV-BAS-RAP-009-03,Held-Breath Parry,Snug Slimtang,F1,Senior,A
+MV-BAS-RAP-009-04,Slow Return Walk,Sideways Whipblade,F1,Senior,A
+MV-BAS-RAP-009-05,Listening to the Foe's Chest,Watching Bellguard,F1,Senior,A
+MV-BAS-RAP-009-06,Two-Breath Double Lunge,Remisestrike,F4,Senior,A
+MV-BAS-RAP-010-01,Single Line Sight,Whipblade Count,F3,Senior,A
+MV-BAS-RAP-010-02,Line Holding Thrust,Swepthit,F4,Senior,A
+MV-BAS-RAP-010-03,Line Crossing Beat,Remise Stay,F3,Senior,A
+MV-BAS-RAP-010-04,Barred Line Guard,Kept Pasguard,F1,Senior,A
+MV-BAS-RAP-010-05,Line Shift Step,Remisetrot,F4,Senior,A
+MV-BAS-RAP-010-06,Falling Point Cut,Quick Lunge,F1,Senior,A
+MV-BAS-RAP-010-07,Retrace the Line Back,Stepping Volte,F1,Senior,A
+MV-BAS-RAP-011-01,Late Thrust Wait,Voltestrike,F4,Senior,A
+MV-BAS-RAP-011-02,Early Thrust Cut-Off,Level Tipwhip,F1,Senior,A
+MV-BAS-RAP-011-03,Hinge Step In,Flechehop,F4,Senior,A
+MV-BAS-RAP-011-04,Pause Parry,Swepthusk,F4,Senior,A
+MV-BAS-RAP-011-05,Rhythm Count Reading,Kind Sweephilt,F1,Senior,A

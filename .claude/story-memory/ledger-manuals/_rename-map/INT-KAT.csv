@@ -1,0 +1,79 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-KAT-001-01,Hip-Draw Back Step,Scudding Tsuba,F1,Senior,A
+MV-INT-KAT-001-02,Bare-Edge Pushing Cut,Tsubathwack,F4,Senior,A
+MV-INT-KAT-001-03,Slow-Draw Wiping Parry,Tsukabarrier,F4,Senior,A
+MV-INT-KAT-001-04,Sheath-Mouth Slanting Knee Cut,Menukithwack,F4,Senior,A
+MV-INT-KAT-001-05,Shadow Step of the Scabbard,Prowling Tsuka,F1,Senior,A
+MV-INT-KAT-001-06,Pommel Three-Line Cut,Habakiswat,F4,Senior,A
+MV-INT-KAT-002-01,Long-Grip Tip Thrust,Grim Kiri,F1,Senior,A
+MV-INT-KAT-002-02,Open-Hand Two-Hand Brace,Rigid Hamon,F1,Senior,A
+MV-INT-KAT-002-03,Curved-Blade Falling Flank Cut,Raw Noto,F1,Senior,A
+MV-INT-KAT-002-04,Spine Pommel Check,Nukitsuke Barrier,F3,Senior,A
+MV-INT-KAT-002-05,Distance Read of the Sheath,Menukibandage,F4,Senior,A
+MV-INT-KAT-002-06,Pressure Advance of the Scabbard,Tsukaslap,F4,Senior,A
+MV-INT-KAT-002-07,Square-Stance Stepping Parry,Sageo Carapace,F3,Senior,A
+MV-INT-KAT-003-01,Rising Block of the Hilt,Dense Mune,F1,Senior,A
+MV-INT-KAT-003-02,Hilt-Hand Bare Draw Cut,Harsh Zanshin,F1,Senior,A
+MV-INT-KAT-003-03,Drawn-Blade Blade Bind,Menukibuckle,F4,Senior,A
+MV-INT-KAT-003-04,Bare-Edge Foot Read,Kindly Saya,F1,Senior,A
+MV-INT-KAT-003-05,Slow-Draw Diagonal Wrist Cut,Hungry Tameshi,F1,Senior,A
+MV-INT-KAT-003-06,Sheath-Mouth Sheath Block,Stalwart Menuki,F1,Senior,A
+MV-INT-KAT-003-07,Feint Draw of the Scabbard,Stalling Nakago,F1,Senior,A
+MV-INT-KAT-003-08,Pommel Cut and Step Through,Notoswat,F4,Senior,A
+MV-INT-KAT-004-01,Pommel Slanting Forearm Cut,Sageoslap,F4,Senior,A
+MV-INT-KAT-004-02,Beat Aside of the Hilt,Levering Menuki,F1,Senior,A
+MV-INT-KAT-004-03,Long-Grip Shoulder Read,Munelinen,F4,Senior,A
+MV-INT-KAT-004-04,Open-Hand Rising Wrist Cut,Menukislap,F4,Senior,A
+MV-INT-KAT-004-05,Curved-Blade Hanging Guard,Nakagoprop,F4,Senior,A
+MV-INT-KAT-004-06,Spine Side Step,Fleet Habaki,F1,Senior,A
+MV-INT-KAT-004-07,Hip-Draw Short Step Thrust,Dire Kissaki,F1,Senior,A
+MV-INT-KAT-004-08,Tip-Line Parry Step Cut,Tsubabarrier,F4,Senior,A
+MV-INT-KAT-004-09,Square-Stance Hip-Anchored Draw,Stern Kesagiri,F1,Senior,A
+MV-INT-KAT-005-01,Blade Bind of the Scabbard,Stalling Nukitsuke,F1,Warrior,B
+MV-INT-KAT-005-02,Square-Stance Breath Read,Sageo Tonic,F3,Warrior,B
+MV-INT-KAT-005-03,Single-Edge Reverse Knee Cut,Bold Saya,F1,Warrior,B
+MV-INT-KAT-005-04,Hilt-Hand Rising Block,Sprig Tsuba,F2,Warrior,B
+MV-INT-KAT-005-05,Drawn-Blade Slant Entry,Draught Noto,F2,Warrior,B
+MV-INT-KAT-005-06,Bare-Edge Slanting Wrist Cut,Honed Zanshin,F2,Warrior,B
+MV-INT-KAT-005-07,Slow-Draw Half-Step Entry,Hamon Swerve,F3,Warrior,B
+MV-INT-KAT-005-08,Sheath-Mouth Sheath Throw Draw,Clay Kissaki,F2,Warrior,B
+MV-INT-KAT-005-09,Scabbard Edge Line Check,Lunartsuka,F5,Warrior,B
+MV-INT-KAT-005-10,Pommel Cross Cut Pair,Honed Mune,F2,Warrior,B
+MV-INT-KAT-006-01,Sheath-Mouth Breath Read,Kindly Nakago,F1,Senior,A
+MV-INT-KAT-006-02,Return Cut of the Scabbard,Sageoflog,F4,Senior,A
+MV-INT-KAT-006-03,Pommel Mid Guard,Layered Hamon,F1,Senior,A
+MV-INT-KAT-006-04,Two-Hand Rear-Foot Slide,Pirouetting Tsuka,F1,Senior,A
+MV-INT-KAT-006-05,Long-Grip Reverse Thigh Cut,Dire Tameshi,F1,Senior,A
+MV-INT-KAT-006-06,Open-Hand Circle Sweep,Hungry Kiri,F1,Senior,A
+MV-INT-KAT-006-07,Curved-Blade Hilt Break and Cut,Hamonhasp,F4,Senior,A
+MV-INT-KAT-007-01,Spine Rising Rib Cut,Habaki Slap,F3,Senior,A
+MV-INT-KAT-007-02,Hip-Draw Spine Parry,Rigid Sageo,F1,Senior,A
+MV-INT-KAT-007-03,Tip-Line Gliding Step,Pirouetting Kesagiri,F1,Senior,A
+MV-INT-KAT-007-04,Square-Stance Diagonal Knee Cut,Sayaswat,F4,Senior,A
+MV-INT-KAT-007-05,Back Step of the Hilt,Fleet Kissaki,F1,Senior,A
+MV-INT-KAT-007-06,Hilt-Hand Level Rib Cut,Rude Zanshin,F1,Senior,A
+MV-INT-KAT-007-07,Drawn-Blade Counter Draw,Hamonflog,F4,Senior,A
+MV-INT-KAT-007-08,Bare-Edge Weight Shift Cut,Rugged Kesagiri,F1,Senior,A
+MV-INT-KAT-008-01,Bare-Edge Sheath Block,Dense Habaki,F1,Warrior,B
+MV-INT-KAT-008-02,Slow-Draw Rear-Foot Slide,Clay Noto,F2,Warrior,B
+MV-INT-KAT-008-03,Sheath-Mouth Rising Flank Cut,Claysaya,F5,Warrior,B
+MV-INT-KAT-008-04,Half-Step Entry of the Scabbard,Grit Tameshi,F2,Warrior,B
+MV-INT-KAT-008-05,Pommel Crossed Wrist Parry,Draught Tsuka,F2,Warrior,B
+MV-INT-KAT-008-06,Two-Hand Rhythm Break Cut,Mirage Saya,F2,Warrior,B
+MV-INT-KAT-009-01,Open-Hand Pivot Turn,Clay Nukitsuke,F2,Warrior,B
+MV-INT-KAT-009-02,Curved-Blade Diagonal Rib Cut,Crimson Tsuba,F2,Warrior,B
+MV-INT-KAT-009-03,Spine Slant Entry,Fleet Nakago,F1,Warrior,B
+MV-INT-KAT-009-04,Hip-Draw Falling Neck Cut,Staticnoto,F5,Warrior,B
+MV-INT-KAT-009-05,Tip-Line Low Guard,Habakiprop,F4,Warrior,B
+MV-INT-KAT-009-06,Square-Stance Slanting Neck Cut,Harsh Mune,F1,Warrior,B
+MV-INT-KAT-009-07,Single-Edge Draw and Return Cut,Brisk Kesagiri,F1,Warrior,B
+MV-INT-KAT-009-08,Hilt-Hand Parry and Riposte,Poise Menuki,F2,Warrior,B
+MV-INT-KAT-009-09,Drawn-Blade Qi-Edged Draw,Static Kiri,F2,Warrior,B
+MV-INT-KAT-010-01,Hilt-Hand Falling Knee Cut,Ember Hamon,F2,Warrior,B
+MV-INT-KAT-010-02,Drawn-Blade Gliding Step,Grit Kiri,F2,Warrior,B
+MV-INT-KAT-010-03,Bare-Edge Rising Forearm Cut,Habaki Thwack,F3,Warrior,B
+MV-INT-KAT-010-04,Slow-Draw Two-Hand Brace,Buttressed Kissaki,F1,Warrior,B
+MV-INT-KAT-010-05,Sheath-Mouth Falling Forearm Cut,Embersaya,F5,Warrior,B
+MV-INT-KAT-010-06,Scabbard Pommel Check,Gall Nukitsuke,F2,Warrior,B
+MV-INT-KAT-010-07,Pommel Grip Wring Cut,Brawn Tsuba,F2,Warrior,B
+MV-INT-KAT-010-08,Edge Sense of the Hilt,Candorhamon,F5,Warrior,B

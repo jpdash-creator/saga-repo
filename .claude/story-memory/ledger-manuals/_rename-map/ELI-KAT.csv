@@ -1,0 +1,179 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-KAT-001-01,Rear-Foot Slide of Paired Edges,Blinding Kiri,F1,Demigod,B
+MV-ELI-KAT-001-02,Twin-Court Falling Knee Cut,Gustkiri,F5,Demigod,B
+MV-ELI-KAT-001-03,Azure-Sheath Spine Parry,Invincible Tsuba,F1,Demigod,B
+MV-ELI-KAT-001-04,Hawk-Draw Hand Shift Cut,Nukitsuke Devastation,F3,Demigod,B
+MV-ELI-KAT-001-05,Azure-Curve Parry Step Cut,Murk Habaki,F2,Demigod,B
+MV-ELI-KAT-001-06,Twin-Court Turning Back Cut,Grievous Tameshi,F1,Demigod,B
+MV-ELI-KAT-001-07,Azure-Sheath Falling Leaf Evade,Vanishing Tsuka,F1,Demigod,B
+MV-ELI-KAT-001-08,Hawk-Draw Parry Shake Return,Unassailable Kissaki,F1,Demigod,B
+MV-ELI-KAT-001-09,Edge Curtain of Paired Edges,Obdurate Charter Nakago,F6a,Demigod,B
+MV-ELI-KAT-002-01,Hawk-Draw Slanting Wrist Cut,Sanguine Hamon,F2,Demigod,B
+MV-ELI-KAT-002-02,Rising Block of Paired Edges,Menukinerve,F4,Demigod,B
+MV-ELI-KAT-002-03,Twin-Court Level Knee Cut,Hellish Sageo,F1,Demigod,B
+MV-ELI-KAT-002-04,Azure-Sheath Blade Bind,Immobilizing Kesagiri,F1,Demigod,B
+MV-ELI-KAT-002-05,Hawk-Draw Hip-Anchored Draw,Brutalizing Mune,F1,Demigod,B
+MV-ELI-KAT-002-06,Azure-Curve Steady Grip Qi,Muneinsight,F4,Demigod,B
+MV-ELI-KAT-002-07,Twin-Court Feint Draw,Noto Tenacity,F3,Demigod,B
+MV-ELI-KAT-002-08,Azure-Sheath Qi Needle Thrust,Merciless Tsuka,F1,Demigod,B
+MV-ELI-KAT-002-09,Hawk-Draw Measured Withdrawal,Silt Zanshin,F2,Demigod,B
+MV-ELI-KAT-002-10,Azure-Curve Binding Seal Cut,Lot Noto,F2,Demigod,B
+MV-ELI-KAT-003-01,Mid Guard of the River,Iron Saya,F2,Demigod,B
+MV-ELI-KAT-003-02,Hawk-Draw Rising Knee Cut,Rumblehamon,F5,Demigod,B
+MV-ELI-KAT-003-03,Shoulder Check of Paired Edges,Toxinmenuki,F5,Demigod,B
+MV-ELI-KAT-003-04,Twin-Court Foot Read,Sageorespite,F4,Demigod,B
+MV-ELI-KAT-003-05,Azure-Sheath Falling Flank Cut,Gnashing Tameshi,F1,Demigod,B
+MV-ELI-KAT-003-06,Hawk-Draw Breath Cycle Cutting,Equipoise Tsuba,F2,Demigod,B
+MV-ELI-KAT-003-07,Azure-Curve Resting Point Guard,Thornhabaki,F5,Demigod,B
+MV-ELI-KAT-003-08,Twin-Court Cross Cut Pair,Gnashing Menuki,F1,Demigod,B
+MV-ELI-KAT-003-09,Azure-Sheath Sweep Through Cut,Gnashing Saya,F1,Demigod,B
+MV-ELI-KAT-003-10,Hawk-Draw Doubled Edge Cut,Booming Mune,F1,Demigod,B
+MV-ELI-KAT-003-11,Arc Severing of Paired Edges,Hamon Havoc,F3,Demigod,B
+MV-ELI-KAT-004-01,Twin-Court Falling Neck Cut,Blazenoto,F5,Void God,B
+MV-ELI-KAT-004-02,Sheath Hook of the River,Tsubavalor,F4,Void God,B
+MV-ELI-KAT-004-03,Hawk-Draw Shoulder Read,Waning Kissaki,F2,Void God,B
+MV-ELI-KAT-004-04,Azure-Curve Diagonal Rib Cut,Tsukascourge,F4,Void God,B
+MV-ELI-KAT-004-05,Twin-Court Rolling Parry,Unconquered Sageo,F1,Void God,B
+MV-ELI-KAT-004-06,Azure-Sheath Shadow Step,Hamonflash,F4,Void God,B
+MV-ELI-KAT-004-07,Hawk-Draw Bind and Slip Cut,Hogtying Kesagiri,F1,Void God,B
+MV-ELI-KAT-004-08,Azure-Curve Low Sweep Parry,Impervious Habaki,F1,Void God,B
+MV-ELI-KAT-004-09,Twin-Court Pivot and Cut,Headlong Zanshin,F1,Void God,B
+MV-ELI-KAT-004-10,Seam Thrust of the River,Muneruin,F4,Void God,B
+MV-ELI-KAT-004-11,Hawk-Draw Rooted Stance Cut,Rumblesageo,F5,Void God,B
+MV-ELI-KAT-004-12,Azure-Curve Rain of Cuts,Hour Nakago,F2,Void God,B
+MV-ELI-KAT-005-01,Pommel Check of the Hawk,Sayaspine,F4,Void God,B
+MV-ELI-KAT-005-02,Foot Read of the Basin,Expanse Hamon,F2,Void God,B
+MV-ELI-KAT-005-03,Azure-Sheath Falling Thigh Cut,Nukitsuke Havoc,F3,Void God,B
+MV-ELI-KAT-005-04,Hawk-Draw Flat Deflect,Indomitable Menuki,F1,Void God,B
+MV-ELI-KAT-005-05,Pivot Turn of Paired Edges,Meteoric Nakago,F1,Void God,B
+MV-ELI-KAT-005-06,Twin-Court Reaching Thrust,Blaze Menuki,F2,Void God,B
+MV-ELI-KAT-005-07,Azure-Sheath Whirling Guard,Thornsageo,F5,Void God,B
+MV-ELI-KAT-005-08,Hawk-Draw Edge Line Check,Chime Habaki,F2,Void God,B
+MV-ELI-KAT-005-09,Qi-Edged Draw of the Hawk,Habakiwrath,F4,Void God,B
+MV-ELI-KAT-005-10,Twin-Court Armor-Splitting Draw,Rampaging Saya,F1,Void God,B
+MV-ELI-KAT-005-11,Spiral Thrust of the River,Facethabaki,F5,Void God,B
+MV-ELI-KAT-005-12,Hawk-Draw Sealing Cut,Intentkiri,F5,Void God,B
+MV-ELI-KAT-005-13,Plate-Breaking Cut of Paired Edges,Berserk Mune,F1,Void God,B
+MV-ELI-KAT-006-01,Hawk-Draw Distance Read,Waninghamon,F5,Void God,B
+MV-ELI-KAT-006-02,Azure-Curve Reverse Forearm Cut,Berserk Tameshi,F1,Void God,B
+MV-ELI-KAT-006-03,Twin-Court Wiping Parry,Kissaki Durance,F3,Void God,B
+MV-ELI-KAT-006-04,Azure-Sheath Grip Wring Cut,Blaze Kiri,F2,Void God,B
+MV-ELI-KAT-006-05,Hawk-Draw Binding Thrust,Sageo Mettle,F3,Void God,B
+MV-ELI-KAT-006-06,Azure-Curve Hilt Break and Cut,Toxin Kesagiri,F2,Void God,B
+MV-ELI-KAT-006-07,Twin-Court Edge Threading Cut,Hamonscourge,F4,Void God,B
+MV-ELI-KAT-006-08,Azure-Sheath Steady Breath Draw,Tsuba Vigil,F3,Void God,B
+MV-ELI-KAT-006-09,Hawk-Draw Balance-Taking Parry,Torrent Hamon,F2,Void God,B
+MV-ELI-KAT-007-01,Azure-Sheath Scabbard Strike,Ruinous Nukitsuke,F1,True God,B
+MV-ELI-KAT-007-02,Hawk-Draw Sheath Block,Charter Habaki,F2,True God,B
+MV-ELI-KAT-007-03,Side Step of the Hawk,Vanishing Kiri,F1,True God,B
+MV-ELI-KAT-007-04,Twin-Court Diagonal Flank Cut,Granite Zanshin,F2,True God,B
+MV-ELI-KAT-007-05,Slant Entry of the River,Silt Tsuba,F2,True God,B
+MV-ELI-KAT-007-06,Hawk-Draw Passing Cut,Tameshi Devastation,F3,True God,B
+MV-ELI-KAT-007-07,Azure-Curve Cut and Step Through,Wrathful Kissaki,F1,True God,B
+MV-ELI-KAT-007-08,Twin-Court Blade Slide Entry,Suffocating Zanshin,F1,True God,B
+MV-ELI-KAT-007-09,Azure-Sheath Looping Counter,Facetsageo,F5,True God,B
+MV-ELI-KAT-007-10,Hawk-Draw Narrow Front Guard,Obdurate Saya,F1,True God,B
+MV-ELI-KAT-007-11,Chain Draw of the Hawk,Intent Noto,F2,True God,B
+MV-ELI-KAT-008-01,Twin-Court Two-Hand Brace,Sageo Durance,F3,Monarch,B
+MV-ELI-KAT-008-02,Azure-Sheath Pivot Turn,Kiriflash,F4,Monarch,B
+MV-ELI-KAT-008-03,Hawk-Draw Rising Neck Cut,Blaze Tsuka,F2,Monarch,B
+MV-ELI-KAT-008-04,Slant Entry of the Hawk,Blinding Menuki,F1,Monarch,B
+MV-ELI-KAT-008-05,Twin-Court Counter Draw,Tsubahavoc,F4,Monarch,B
+MV-ELI-KAT-008-06,Edge Sense of the River,Unerring Tsuka,F1,Monarch,B
+MV-ELI-KAT-008-07,Hawk-Draw Flowing Edge Guard,Inexorable Nakago,F1,Monarch,B
+MV-ELI-KAT-008-08,Breaking Cut of Paired Edges,Sageospine,F4,Monarch,B
+MV-ELI-KAT-008-09,Twin-Court Shaded Step Cut,Mune Glare,F3,Monarch,B
+MV-ELI-KAT-008-10,Azure-Sheath Flash Draw,Meteoric Expanse Nukitsuke,F6a,Demigod,B
+MV-ELI-KAT-009-01,Gliding Step of the Gale,Siltmune,F5,Demigod,B
+MV-ELI-KAT-009-02,Open-Edge Reverse Thigh Cut,Gust Tsuba,F2,Demigod,B
+MV-ELI-KAT-009-03,Gale-Sheath Back Step,Dazzling Menuki,F1,Demigod,B
+MV-ELI-KAT-009-04,Wind-Sworn Pulling Cut,Granite Mune,F2,Demigod,B
+MV-ELI-KAT-009-05,Low Guard of the Oath,Granite Habaki,F2,Demigod,B
+MV-ELI-KAT-009-06,Open-Edge Threaded Parry,Hamonspine,F4,Demigod,B
+MV-ELI-KAT-009-07,Pressure Advance of the Bearing,Kiri Devastation,F3,Demigod,B
+MV-ELI-KAT-009-08,Wind-Sworn Open Line Entry,Silt Kesagiri,F2,Demigod,B
+MV-ELI-KAT-009-09,Bearing-Draw Low Line Cut,Might Sageo,F2,Demigod,B
+MV-ELI-KAT-009-10,Open-Edge Edge Circle Guard,Adamantine Tsuka,F1,Demigod,B
+MV-ELI-KAT-009-11,Gale-Sheath Measured Withdrawal,Meteoric Kissaki,F1,Demigod,B
+MV-ELI-KAT-009-12,Wind-Sworn Deep Edge,Hollow Nakago,F2,Demigod,B
+MV-ELI-KAT-010-01,Wind-Sworn Wrist Snap Cut,Eviscerating Noto,F1,Demigod,B
+MV-ELI-KAT-010-02,Rear-Foot Slide of the Gale,Siltsaya,F5,Demigod,B
+MV-ELI-KAT-010-03,Open-Edge Diagonal Wrist Cut,Iron Kiri,F2,Demigod,B
+MV-ELI-KAT-010-04,Gale-Sheath Hanging Guard,Hamon Durance,F3,Demigod,B
+MV-ELI-KAT-010-05,Wind-Sworn Reverse Flank Cut,Tempered Saya,F2,Demigod,B
+MV-ELI-KAT-010-06,Bearing-Draw Beat and Cut,Overpowering Zanshin,F1,Demigod,B
+MV-ELI-KAT-010-07,Open-Edge Sheath Throw Draw,Iron Tameshi,F2,Demigod,B
+MV-ELI-KAT-010-08,Gale-Sheath Resting Point Guard,Unconquered Nakago,F1,Demigod,B
+MV-ELI-KAT-010-09,Plateau Draw and Return Cut,Blaze Kesagiri,F2,Demigod,B
+MV-ELI-KAT-010-10,Bearing-Draw Cutting Mist Step,Gusthabaki,F5,Demigod,B
+MV-ELI-KAT-010-11,Open-Edge Wide Arc Parry,Equipoise Kissaki,F2,Demigod,B
+MV-ELI-KAT-010-12,Gale-Sheath Line Reading Cut,Waning Tsuba,F2,Demigod,B
+MV-ELI-KAT-010-13,Wind-Sworn Guard-Parting Thrust,Glinttsuba,F5,Demigod,B
+MV-ELI-KAT-011-01,Side Step of the Bearing,Nukitsuke Rocketry,F3,Demigod,B
+MV-ELI-KAT-011-02,Wind-Sworn Falling Wrist Cut,Vengeful Hamon,F1,Demigod,B
+MV-ELI-KAT-011-03,Rising Block of the Gale,Aegissaya,F5,Demigod,B
+MV-ELI-KAT-011-04,Open-Edge Tip Thrust,Grievous Noto,F1,Demigod,B
+MV-ELI-KAT-011-05,Gale-Sheath Flowing Edge Guard,Facetnakago,F5,Demigod,B
+MV-ELI-KAT-011-06,Wind-Sworn Tip Flick,Gustsaya,F5,Demigod,B
+MV-ELI-KAT-011-07,Bearing-Draw Breath Cycle Cutting,Habakivigil,F4,Demigod,B
+MV-ELI-KAT-011-08,Open-Edge Hilt Strike Seal,Fastening Zanshin,F2,Demigod,B
+MV-ELI-KAT-011-09,Reflected Cut of the Bearing,Impervious Mune,F1,Demigod,B
+MV-ELI-KAT-011-10,Wind-Sworn True Edge Cut,Blistering Noto,F1,Demigod,B
+MV-ELI-KAT-012-01,Open-Edge Rising Thigh Cut,Tsubascourge,F4,Void God,B
+MV-ELI-KAT-012-02,Sheath Block of the Bearing,Inexorable Tsuka,F1,Void God,B
+MV-ELI-KAT-012-03,Wind-Sworn Level Rib Cut,Menukiscourge,F4,Void God,B
+MV-ELI-KAT-012-04,Bearing-Draw Rolling Cut Series,Berserk Kiri,F1,Void God,B
+MV-ELI-KAT-012-05,Open-Edge Cross Cut Pair,Booming Menuki,F1,Void God,B
+MV-ELI-KAT-012-06,Gale-Sheath Edge Sense,Remnant Saya,F2,Void God,B
+MV-ELI-KAT-012-07,Wind-Sworn Gathered Draw,Blaze Sageo,F2,Void God,B
+MV-ELI-KAT-012-08,Bearing-Draw Edge Qi Burst,Grievous Habaki,F1,Void God,B
+MV-ELI-KAT-012-09,Open-Edge Severing Edge,Novanoto,F5,Void God,B
+MV-ELI-KAT-013-01,Bearing-Draw Low Guard,Charter Tsuba,F2,Void God,B
+MV-ELI-KAT-013-02,Open-Edge Level Wrist Cut,Ruinous Kiri,F1,Void God,B
+MV-ELI-KAT-013-03,Shoulder Check of the Bearing,Rumble Kissaki,F2,Void God,B
+MV-ELI-KAT-013-04,Wind-Sworn Breath Read,Verityhabaki,F5,Void God,B
+MV-ELI-KAT-013-05,Return Cut of the Gale,Pitiless Nukitsuke,F1,Void God,B
+MV-ELI-KAT-013-06,Open-Edge Shadow Step,Habaki Flash,F3,Void God,B
+MV-ELI-KAT-013-07,Gale-Sheath Steady Grip Qi,Intent Saya,F2,Void God,B
+MV-ELI-KAT-013-08,Wind-Sworn Beat and Cut,Mayhemmenuki,F5,Void God,B
+MV-ELI-KAT-013-09,Bearing-Draw Shaded Step Cut,Torrent Sageo,F2,Void God,B
+MV-ELI-KAT-013-10,Open-Edge Anchoring Cut,Gyvenoto,F5,Void God,B
+MV-ELI-KAT-013-11,Edge Rebound of the Bearing,Veritytsuba,F5,Void God,B
+MV-ELI-KAT-014-01,Wind-Sworn Diagonal Forearm Cut,Punishing Tsuka,F1,True God,B
+MV-ELI-KAT-014-02,Blade Bind of the Oath,Nakagodurance,F4,True God,B
+MV-ELI-KAT-014-03,Open-Edge Shoulder Read,Waning Nakago,F2,True God,B
+MV-ELI-KAT-014-04,Gale-Sheath Diagonal Thigh Cut,Sanguine Noto,F2,True God,B
+MV-ELI-KAT-014-05,Wind-Sworn Rolling Parry,Chime Menuki,F2,True God,B
+MV-ELI-KAT-014-06,Bearing-Draw Three-Line Cut,Mightnakago,F5,True God,B
+MV-ELI-KAT-014-07,Oath-Spine Threaded Parry,Unbudging Hamon,F1,True God,B
+MV-ELI-KAT-014-08,Gale-Sheath Crossed Wrist Parry,Unrelenting Saya,F1,True God,B
+MV-ELI-KAT-014-09,Plateau Open Line Entry,Silt Tameshi,F2,True God,B
+MV-ELI-KAT-014-10,Rapid Re-draw of the Oath,Vengeful Kesagiri,F1,True God,B
+MV-ELI-KAT-014-11,Open-Edge Hundred Cut Sequence,Intent Tameshi,F2,True God,B
+MV-ELI-KAT-014-12,Unseen Passage of the Bearing,Ghosting Rumble Kesagiri,F6a,True God,B
+MV-ELI-KAT-015-01,Gale-Sheath Hilt Pin,Chimenakago,F5,True God,B
+MV-ELI-KAT-015-02,Wind-Sworn Foot Read,Remnant Mune,F2,True God,B
+MV-ELI-KAT-015-03,Bearing-Draw Rising Wrist Cut,Sanguine Kissaki,F2,True God,B
+MV-ELI-KAT-015-04,Open-Edge Wiping Parry,Murk Menuki,F2,True God,B
+MV-ELI-KAT-015-05,Gale-Sheath Parry and Riposte,Equipoise Mune,F2,True God,B
+MV-ELI-KAT-015-06,Wind-Sworn Slip Cut,Adamantine Tsuba,F1,True God,B
+MV-ELI-KAT-015-07,Gale-Draw Weight Shift Cut,Rumble Habaki,F2,True God,B
+MV-ELI-KAT-015-08,Open-Edge Leaping Drop Cut,Habakihavoc,F4,True God,B
+MV-ELI-KAT-015-09,Gale-Sheath Edge Wave Barrage,Hoarfrost Nakago,F2,True God,B
+MV-ELI-KAT-015-10,Wind-Sworn Suspended Edge,Hogtying Intent Nukitsuke,F6a,True God,B
+MV-ELI-KAT-016-01,Oath-Spine Distance Read,Chime Hamon,F2,Monarch,B
+MV-ELI-KAT-016-02,Gale-Sheath Slanting Flank Cut,Vengeful Nukitsuke,F1,Monarch,B
+MV-ELI-KAT-016-03,Wind-Sworn Mid Guard,Evergreen Tsuba,F1,Monarch,B
+MV-ELI-KAT-016-04,Half-Step Entry of the Oath,Torrential Tsuka,F1,Monarch,B
+MV-ELI-KAT-016-05,Open-Edge Diagonal Shoulder Cut,Zanshin Wrath,F3,Monarch,B
+MV-ELI-KAT-016-06,Gale-Sheath Grip Wring Cut,Zanshin Scourge,F3,Monarch,B
+MV-ELI-KAT-016-07,Wind-Sworn Edge Line Check,Radiant Tsuka,F1,Monarch,B
+MV-ELI-KAT-016-08,Passing Cut of the Gale,Tameshi Wrath,F3,Monarch,B
+MV-ELI-KAT-016-09,Open-Edge Reaching Thrust,Grievous Menuki,F1,Monarch,B
+MV-ELI-KAT-016-10,Gale-Sheath Binding Edge Press,Hoarfrost Kiri,F2,Monarch,B
+MV-ELI-KAT-016-11,Wind-Sworn Heavy Falling Cut,Might Kesagiri,F2,Monarch,B
+MV-ELI-KAT-016-12,Bearing-Draw Parry Shake Return,Murk Mune,F2,Monarch,B
+MV-ELI-KAT-016-13,Open-Edge Blink Passing Cut,Vanishing Glint Tameshi,F6a,Demigod,B
+MV-ELI-KAT-005-02,Expanse Hamon,Tempered Hamon,F2,Void God,B
+MV-ELI-KAT-008-10,Meteoric Expanse Nukitsuke,Meteoric Nukitsuke,F6a,Demigod,B
+MV-ELI-KAT-009-12,Hollow Nakago,Hardened Nakago,F2,Demigod,B

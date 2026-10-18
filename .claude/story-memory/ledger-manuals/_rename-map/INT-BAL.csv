@@ -1,0 +1,58 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-BAL-001-01,Dry Arm Qi Check,Patient Trackbed,F1,Senior L5 Low,A
+MV-INT-BAL-001-02,Cord Walk to the Catch,Rallying Sinewcord,F1,Senior L5 Low,A
+MV-INT-BAL-001-03,Rail Braced Bolt Throw,Stakescorer,F4,Senior L5 Low,A
+MV-INT-BAL-001-04,Idle Arm Knockaside,Layered Stockbed,F1,Senior L5 Low,A
+MV-INT-BAL-001-05,Packed Arm Heavy Snap,Harsh Bolthead,F1,Senior L5 Low,A
+MV-INT-BAL-001-06,Lifted Shield Gap Loose,Impalement Slap,F3,Senior L5 Low,A
+MV-INT-BAL-002-01,Oil and Qi Skein Rub,Sure Springarm,F1,Senior L8 Low,A
+MV-INT-BAL-002-02,Plucked Skein Pitch,Tenderhearted Aimframe,F1,Senior L8 Low,A
+MV-INT-BAL-002-03,Staggered Half Turn Winding,Genial Bowarms,F1,Senior L8 Low,A
+MV-INT-BAL-002-04,Cracked Skein Strain Bleed,Sturdy Windlassdrum,F1,Senior L8 Low,A
+MV-INT-BAL-002-05,Stored Twist Quick Loose,Clawslap,F4,Senior L8 Low,A
+MV-INT-BAL-002-06,Charged Skein Surge Shot,Rude Boltflight,F1,Senior L8 Low,A
+MV-INT-BAL-002-07,Low Line Halting Bolt,Streakswat,F4,Senior L8 Low,A
+MV-INT-BAL-003-01,Wheel Lock Heel Kick,Sleet Trackbed,F2,Warrior L1 Low,B
+MV-INT-BAL-003-02,Slow Roll Forward Haul,Clayhurtle,F5,Warrior L1 Low,B
+MV-INT-BAL-003-03,Axle Fat Dab,Soothing Windlassdrum,F1,Warrior L1 Low,B
+MV-INT-BAL-003-04,Plank Road Laying,Attentive Bolthead,F1,Warrior L1 Low,B
+MV-INT-BAL-003-05,Tail Spike Plant,Stubborn Sinewcord,F1,Warrior L1 Low,B
+MV-INT-BAL-003-06,Stop and Loose Quickly,Sliderthwack,F4,Warrior L1 Low,B
+MV-INT-BAL-003-07,One Wheel Pivot Turn,Clawzip,F4,Warrior L1 Low,B
+MV-INT-BAL-003-08,Rolling Cover Fire,Clayslider,F5,Warrior L1 Low,B
+MV-INT-BAL-004-01,Quoin Hair Slide,Knitting Bowarms,F1,Senior L6 Mid,A
+MV-INT-BAL-004-02,Plumb Cord Hang,Kindly Stockbed,F1,Senior L6 Mid,A
+MV-INT-BAL-004-03,Cheek Felt Crosswind Lean,Cooling Springarm,F1,Senior L6 Mid,A
+MV-INT-BAL-004-04,High Ground Two Mark Lift,Quickening Aimframe,F1,Senior L6 Mid,A
+MV-INT-BAL-004-05,Long Arc Lob,Skewerbolt Scorer,F3,Senior L6 Mid,A
+MV-INT-BAL-004-06,Gale Stiffened Bolt Flight,Stakethwack,F4,Senior L6 Mid,A
+MV-INT-BAL-005-01,Post by Post Roll Call,Sound Sinewcord,F1,Warrior L2 Mid,B
+MV-INT-BAL-005-02,Silent Hand Sign Relay,Hum Windlassdrum,F2,Warrior L2 Mid,B
+MV-INT-BAL-005-03,Rotating Winch Relief,Dawn Trackbed,F2,Warrior L2 Mid,B
+MV-INT-BAL-005-04,Fallen Post Filling,Stakedrive Zip,F3,Warrior L2 Mid,B
+MV-INT-BAL-005-05,Raised Fist Freeze,Alert Aimframe,F1,Warrior L2 Mid,B
+MV-INT-BAL-005-06,Rack Count Reckoning,Hearty Bowarms,F1,Warrior L2 Mid,B
+MV-INT-BAL-005-07,Paced Crew Fire,Emberhurtle,F5,Warrior L2 Mid,B
+MV-INT-BAL-005-08,Pressed Three Bolt Burst,Duskstreak,F5,Warrior L2 Mid,B
+MV-INT-BAL-005-09,Chief's Rally Bark,Staticstreak,F5,Warrior L2 Mid,B
+MV-INT-BAL-006-01,Shaft Weight Hefting,Soothing Bolthead,F1,Senior L3 High,A
+MV-INT-BAL-006-02,Broadhead Seat Check,Rallying Springarm,F1,Senior L3 High,A
+MV-INT-BAL-006-03,Light Shaft Runner Catch,Stakeslap,F4,Senior L3 High,A
+MV-INT-BAL-006-04,Extra Turn for Heavy Shafts,Knitting Stockbed,F1,Senior L3 High,A
+MV-INT-BAL-006-05,Thread Ringed Shaft Marking,Sound Bolthead,F1,Senior L3 High,A
+MV-INT-BAL-006-06,Door Breaking Heavy Bolt,Keen Skewerbolt,F1,Senior L3 High,A
+MV-INT-BAL-006-07,Barbed Cloak Pinning Shot,Clawbuckle,F4,Senior L3 High,A
+MV-INT-BAL-007-01,Mantlet Sliding Closed,Shielding Sinewcord,F1,Warrior L5 Low,B
+MV-INT-BAL-007-02,Mantlet Slit Sighting,Genial Trackbed,F1,Warrior L5 Low,B
+MV-INT-BAL-007-03,Wet Hide Dousing,Sleet Claw,F2,Warrior L5 Low,B
+MV-INT-BAL-007-04,Stooped Reload Beneath Cover,Cooling Aimframe,F1,Warrior L5 Low,B
+MV-INT-BAL-007-05,Mantlet Face Rebound,Rill Springarm,F2,Warrior L5 Low,B
+MV-INT-BAL-007-06,Open Loose and Slam Shut,Hurtlescorer,F4,Warrior L5 Low,B
+MV-INT-BAL-008-01,Counted Pace Distance,Gap Windlassdrum,F2,Warrior L7 Mid,B
+MV-INT-BAL-008-02,Shadow Ratio Reckoning,Recall Stockbed,F2,Warrior L7 Mid,B
+MV-INT-BAL-008-03,Notched Rod at Arm's Length,Attentive Bowarms,F1,Warrior L7 Mid,B
+MV-INT-BAL-008-04,First Bolt Spotting,Emberslider,F5,Warrior L7 Mid,B
+MV-INT-BAL-008-05,Landing Mark Scratch,Purpose Bowarms,F2,Warrior L7 Mid,B
+MV-INT-BAL-008-06,Three Breath Settling,Brawn Bolthead,F2,Warrior L7 Mid,B
+MV-INT-BAL-008-07,Short and Long Bracketing,Hurtleflog,F4,Warrior L7 Mid,B
+MV-INT-BAL-008-08,Banner Rider Hunting Bolt,Sliderscorer,F4,Warrior L7 Mid,B

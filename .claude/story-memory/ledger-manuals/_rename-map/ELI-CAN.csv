@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-CAN-001-01,Hawk Rise Horizon Sweep,Remnant Muzzleswell,F2,Demigod L3 Mid,B
+MV-ELI-CAN-001-02,Twin Eye Glass Pairing,Energizing Linstock,F1,Demigod L3 Mid,B
+MV-ELI-CAN-001-03,Wind Feather Pole Read,Waningshot,F5,Demigod L3 Mid,B
+MV-ELI-CAN-001-04,Far Mark Qi Anchor,Equipoise Gunbore,F2,Demigod L3 Mid,B
+MV-ELI-CAN-001-05,Dust Veil Sight Through,Chimequoin,F5,Demigod L3 Mid,B
+MV-ELI-CAN-001-06,Slow Heartbeat Settle,Intent Wheelhub,F2,Demigod L3 Mid,B
+MV-ELI-CAN-001-07,Far Piercing Lay,Iron Breechrope,F2,Demigod L3 Mid,B
+MV-ELI-CAN-001-08,Skyward Arc Plunge,Blaze Ballshot,F2,Demigod L3 Mid,B
+MV-ELI-CAN-001-09,Stooping Hawk Long Gun,Booming Recoil,F1,Demigod L3 Mid,B
+MV-ELI-CAN-002-01,Twin Gun Angle Pace,Cannonade Slipstream,F3,Demigod L5 Low,B
+MV-ELI-CAN-002-02,Pair Stake Cross Mark,Beneficent Cascabel,F1,Demigod L5 Low,B
+MV-ELI-CAN-002-03,Crossing Tally Call,Equipoise Quoin,F2,Demigod L5 Low,B
+MV-ELI-CAN-002-04,Smoke Lane Cloth Wave,Intentcannon,F5,Demigod L5 Low,B
+MV-ELI-CAN-002-05,Neighbour Flank Step In,Impenetrable Trunnion,F1,Demigod L5 Low,B
+MV-ELI-CAN-002-06,Crossed Bearing Lock,Veritycannon,F5,Demigod L5 Low,B
+MV-ELI-CAN-002-07,Twin Gun Breath Report,Gustshot,F5,Demigod L5 Low,B
+MV-ELI-CAN-002-08,Pair Reload Trade,Carriage Premonition,F3,Demigod L5 Low,B
+MV-ELI-CAN-002-09,Crossing Lane Cage,Fastening Touchhole,F2,Demigod L5 Low,B
+MV-ELI-CAN-002-10,Opened Blade Volley,Downpour Recoil,F2,Demigod L5 Low,B
+MV-ELI-CAN-002-11,Twin Court Pincer Report,Lot Cascabel,F2,Demigod L5 Low,B
+MV-ELI-CAN-003-01,Bank Line Sight Walk,Prescient Breechrope,F1,Demigod L8 Mid,B
+MV-ELI-CAN-003-02,Flank Gun Spade Dig,Facet Muzzleswell,F2,Demigod L8 Mid,B
+MV-ELI-CAN-003-03,Reed Bed Crouch,Aegisquoin,F5,Demigod L8 Mid,B
+MV-ELI-CAN-003-04,Under Lip Cartridge Carry,Headlong Roar,F1,Demigod L8 Mid,B
+MV-ELI-CAN-003-05,Long Axis Lay,Lacerating Ballshot,F1,Demigod L8 Mid,B
+MV-ELI-CAN-003-06,Water Mirror Wind Judge,Energizing Touchhole,F1,Demigod L8 Mid,B
+MV-ELI-CAN-003-07,Ford Bunch Mark,Shotinsight,F4,Demigod L8 Mid,B
+MV-ELI-CAN-003-08,Whole Rank Rake,Roarruin,F4,Demigod L8 Mid,B
+MV-ELI-CAN-003-09,Bank Shadow Enfilade,Septic Carriage,F1,Demigod L8 Mid,B
+MV-ELI-CAN-003-10,River Run Raking Round,Hellish Linstock,F1,Demigod L8 Mid,B
+MV-ELI-CAN-004-01,Azure Fuse Paper Cut,Vitalshot,F5,Void God L1 Low,B
+MV-ELI-CAN-004-02,Paired Shell Strap Lift,Vital Gunbore,F2,Void God L1 Low,B
+MV-ELI-CAN-004-03,Shell Cradle Tally,Expanse Wheelhub,F2,Void God L1 Low,B
+MV-ELI-CAN-004-04,Burst Echo Listening,Quoinrespite,F4,Void God L1 Low,B
+MV-ELI-CAN-004-05,Quick Match Dry Pinch,Waningcannon,F5,Void God L1 Low,B
+MV-ELI-CAN-004-06,Fuse Burn Qi Slow,Resurgent Quoin,F1,Void God L1 Low,B
+MV-ELI-CAN-004-07,Twin Fuse Pairing,Might Trunnion,F2,Void God L1 Low,B
+MV-ELI-CAN-004-08,Bank Roll Shell Drop,Siltshot,F5,Void God L1 Low,B
+MV-ELI-CAN-004-09,Burst Height Quoin Lean,Waning Gunbore,F2,Void God L1 Low,B
+MV-ELI-CAN-004-10,Twin Burst Over Column,Slag Cannonade,F2,Void God L1 Low,B
+MV-ELI-CAN-004-11,Trench Late Burst Round,Blaze Bombard,F2,Void God L1 Low,B
+MV-ELI-CAN-004-12,Azure Rain Overhead Chain,Mayhemquoin,F5,Void God L1 Low,B
+MV-ELI-CAN-004-13,Azure Great Shell Burst,Ferocious Silt Broadside,F6a,Void God L1 Low,B
+MV-ELI-CAN-005-01,Twin Lookout Ranging,Elevating Carriage,F1,Void God L3 Mid,B
+MV-ELI-CAN-005-02,Slate Pair Exchange,Resurgent Breechrope,F1,Void God L3 Mid,B
+MV-ELI-CAN-005-03,Dual Count Pacing,Resurgent Touchhole,F1,Void God L3 Mid,B
+MV-ELI-CAN-005-04,Paired Splash Compare,Cannoninsight,F4,Void God L3 Mid,B
+MV-ELI-CAN-005-05,Two Track Qi Call,Clairvoyant Muzzleswell,F1,Void God L3 Mid,B
+MV-ELI-CAN-005-06,Spotter Perch Shift,Phantom Trunnion,F1,Void God L3 Mid,B
+MV-ELI-CAN-005-07,Second Shot Settled,Facet Roar,F2,Void God L3 Mid,B
+MV-ELI-CAN-005-08,Shifting Mark Follow,Hoarfrost Cannonade,F2,Void God L3 Mid,B
+MV-ELI-CAN-005-09,Ranging Pair Strike,Reverberating Ballshot,F1,Void God L3 Mid,B
+MV-ELI-CAN-006-01,Basin Rim Echo Listen,Cascabel Vitality,F3,Void God L6 Low,B
+MV-ELI-CAN-006-02,Blast Dust Ring Sweep,Beneficent Wheelhub,F1,Void God L6 Low,B
+MV-ELI-CAN-006-03,Cloth Flag Drop,Mightcannon,F5,Void God L6 Low,B
+MV-ELI-CAN-006-04,Counter Notch Reset,Linstock Respite,F3,Void God L6 Low,B
+MV-ELI-CAN-006-05,Wheel Shadow Crouch,Inexorable Gunbore,F1,Void God L6 Low,B
+MV-ELI-CAN-006-06,Echo Cross Bearing,Chime Muzzleswell,F2,Void God L6 Low,B
+MV-ELI-CAN-006-07,Answer In Kind Round,Rumble Broadside,F2,Void God L6 Low,B
+MV-ELI-CAN-006-08,Smoke Pot Counter Mask,Facet Quoin,F2,Void God L6 Low,B
+MV-ELI-CAN-006-09,Basin Floor Retreat,Might Recoil,F2,Void God L6 Low,B
+MV-ELI-CAN-006-10,Echo Chase Volley,Brutalizing Broadside,F1,Void God L6 Low,B
+MV-ELI-CAN-006-11,Rim Hidden Reply,Toxin Roar,F2,Void God L6 Low,B
+MV-ELI-CAN-006-12,Basin Silencing Round,Roarvalor,F4,Void God L6 Low,B
+MV-ELI-CAN-004-03,Expanse Wheelhub,Wary Wheelhub,F2,Void God L1 Low,B

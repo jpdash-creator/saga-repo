@@ -1,0 +1,139 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-TKN-001-01,Raised Elbow Hawk Perch Throw,Glint Flickthrow,F2,Demigod,B
+MV-ELI-TKN-001-02,Low Track Anchor Flick,Lodgewrath,F4,Demigod,B
+MV-ELI-TKN-001-03,Cross Over Step Guard,Shivflash,F4,Demigod,B
+MV-ELI-TKN-001-04,Dual Pulse Throw Pair,Merciless Pointguard,F1,Demigod,B
+MV-ELI-TKN-001-05,Hawk Shadow Feint Throw,Shivvalor,F4,Demigod,B
+MV-ELI-TKN-001-06,Parry and Plunge Return,Spineweight Fortitude,F3,Demigod,B
+MV-ELI-TKN-001-07,Falling Talon Twin Cast,Stickwrath,F4,Demigod,B
+MV-ELI-TKN-001-08,Dual Rail Barrier Lattice,Charter Balanceblade,F2,Demigod,B
+MV-ELI-TKN-001-09,Hawk Zenith Dual Rain,Bladeflat Devastation,F3,Demigod,B
+MV-ELI-TKN-002-01,Matched Blade Standing Pose,Might Edgeflat,F2,Demigod,B
+MV-ELI-TKN-002-02,Basin Left Right Throw,Hoarfrost Lodge,F2,Demigod,B
+MV-ELI-TKN-002-03,Answering Wrist Snap,Rumble Flight,F2,Demigod,B
+MV-ELI-TKN-002-04,Level Sight Reading Glance,Waning Throwtang,F2,Demigod,B
+MV-ELI-TKN-002-05,Matched Arc Crossing Throw,Merciless Hiltweight,F1,Demigod,B
+MV-ELI-TKN-002-06,Paired Guard Return Cast,Leanmettle,F4,Demigod,B
+MV-ELI-TKN-002-07,Paired Edge Cuff Pin,Hoarfrost Spinetip,F2,Demigod,B
+MV-ELI-TKN-002-08,Broad Field Answer Volley,Thunkwrath,F4,Demigod,B
+MV-ELI-TKN-002-09,Mirror Field Marked Throw,Facetshiv,F5,Demigod,B
+MV-ELI-TKN-002-10,Basin Pair Final Seeing,Glintslim,F5,Demigod,B
+MV-ELI-TKN-003-01,Stream Start Pebble Toss,Blaze Throwgrip,F2,Demigod,B
+MV-ELI-TKN-003-02,Eddy Spin Blade Reload,Illuminating Spinetip,F1,Demigod,B
+MV-ELI-TKN-003-03,Bank Side Slide Cast,Gust Thunk,F2,Demigod,B
+MV-ELI-TKN-003-04,Ford Step Breath Cast,Silt Weighttang,F2,Demigod,B
+MV-ELI-TKN-003-05,Slow Current Hold Throw,Nova Hiltweight,F2,Demigod,B
+MV-ELI-TKN-003-06,Rapid Run Overlap Cast,Intent Lodge,F2,Demigod,B
+MV-ELI-TKN-003-07,Stream Bend Around Cast,Gust Bladeflat,F2,Demigod,B
+MV-ELI-TKN-003-08,Undertow Pin Draw,Fastening Pointguard,F2,Demigod,B
+MV-ELI-TKN-003-09,Flood Lane Blade Torrent,Mayhem Weighttang,F2,Demigod,B
+MV-ELI-TKN-003-10,Meander Return Streaming,Stick Scourge,F3,Demigod,B
+MV-ELI-TKN-003-11,River Mouth Final Flood,Dismantling Balanceblade,F2,Demigod,B
+MV-ELI-TKN-004-01,Reach Measuring Cast,Expanse Throwgrip,F2,Void God,B
+MV-ELI-TKN-004-02,Long Sky Overhand Throw,Rumble Thunk,F2,Void God,B
+MV-ELI-TKN-004-03,Reach Gather Breath,Might Throwtang,F2,Void God,B
+MV-ELI-TKN-004-04,Open Ground Spacing Walk,Might Flickthrow,F2,Void God,B
+MV-ELI-TKN-004-05,Far Reach Pinning Throw,Spinthrow Valor,F3,Void God,B
+MV-ELI-TKN-004-06,Extended Field Glide Throw,Leanruin,F4,Void God,B
+MV-ELI-TKN-004-07,Skyline Drop Volley,Merciless Spineweight,F1,Void God,B
+MV-ELI-TKN-004-08,Horizon Mark Pierce Cast,Decimating Edgeflat,F1,Void God,B
+MV-ELI-TKN-004-09,Rim of Sight Sniping Cast,Stick Devastation,F3,Void God,B
+MV-ELI-TKN-004-10,Far Reach Lock and Fall,Fastening Spinthrow,F2,Void God,B
+MV-ELI-TKN-004-11,Azure Span Marked Barrage,Hour Bladeflat,F2,Void God,B
+MV-ELI-TKN-004-12,Edge of Reach Final Fall,Unsparing Throwtang Devastation,F6b,Void God,B
+MV-ELI-TKN-005-01,Hidden Edge Palm Hold,Equipoise Spinetip,F2,Void God,B
+MV-ELI-TKN-005-02,First Edge False Throw,Murkflight,F5,Void God,B
+MV-ELI-TKN-005-03,Second Path Wrist Turn,Nova Pointguard,F2,Void God,B
+MV-ELI-TKN-005-04,Quiet Basin Side Sweep,Throwgrip Rocketry,F3,Void God,B
+MV-ELI-TKN-005-05,Twin Edge Breath Flick,Vengeful Edgeflat,F1,Void God,B
+MV-ELI-TKN-005-06,Shadow Edge Follow Cast,Gust Hiltweight,F2,Void God,B
+MV-ELI-TKN-005-07,Hidden Edge Parry Cut,Gust Balanceblade,F2,Void God,B
+MV-ELI-TKN-005-08,Second Edge Binding Cast,Spineweight Valor,F3,Void God,B
+MV-ELI-TKN-005-09,Twin Path Weaving Throw,Murkstick,F5,Void God,B
+MV-ELI-TKN-005-10,Double Edge Seam Strike,Nova Stick,F2,Void God,B
+MV-ELI-TKN-005-11,Hidden Pair Lattice Cast,Slimspine,F4,Void God,B
+MV-ELI-TKN-005-12,Edge Behind Edge Bind,Gyveflight,F5,Void God,B
+MV-ELI-TKN-005-13,Twin Edge Blink Strike,Expanse Spinthrow,F2,Void God,B
+MV-ELI-TKN-006-01,Tower Edge Overlook Stance,Verity Weighttang,F2,Void God,B
+MV-ELI-TKN-006-02,Downward Court Release,Slimhavoc,F4,Void God,B
+MV-ELI-TKN-006-03,Perch Landing Roll,Slimglare,F4,Void God,B
+MV-ELI-TKN-006-04,Gallery Rail Brace Throw,Chime Thunk,F2,Void God,B
+MV-ELI-TKN-006-05,Upper Air Drop Throw,Stick Reckoning,F3,Void God,B
+MV-ELI-TKN-006-06,Chosen Mark Fixing,Charter Lodge,F2,Void God,B
+MV-ELI-TKN-006-07,Wing Fold Dive Reload,Vital Spineweight,F2,Void God,B
+MV-ELI-TKN-006-08,Court Height Net Throw,Thorn Hiltweight,F2,Void God,B
+MV-ELI-TKN-006-09,Overlook Marked Salvo,Intent Throwgrip,F2,Void God,B
+MV-ELI-TKN-006-10,Hawk Court Decisive Drop,Grievous Thunk,F1,Void God,B
+MV-ELI-TKN-007-01,Sworn Wind Taste Reading,Remnant Pointguard,F2,Demigod,B
+MV-ELI-TKN-007-02,Long Release Plateau Throw,Chime Edgeflat,F2,Demigod,B
+MV-ELI-TKN-007-03,Bearing Mark Stone Lean,Gustflight,F5,Demigod,B
+MV-ELI-TKN-007-04,Gust Gap Timing Cast,Hoarfrost Throwtang,F2,Demigod,B
+MV-ELI-TKN-007-05,Wind Edge Brace Hold,Obdurate Balanceblade,F1,Demigod,B
+MV-ELI-TKN-007-06,Wind Carried Long Arc,Shivwrath,F4,Demigod,B
+MV-ELI-TKN-007-07,Headwind Driving Cast,Flighthavoc,F4,Demigod,B
+MV-ELI-TKN-007-08,Sworn Wind Skip Throw,Facet Bladeflat,F2,Demigod,B
+MV-ELI-TKN-007-09,Cross Current Sweeping Volley,Shade Flickthrow,F2,Demigod,B
+MV-ELI-TKN-007-10,Wind Lane Marking Cast,Wicked Throwtang,F1,Demigod,B
+MV-ELI-TKN-007-11,Wind-Sworn Last Release,Punishing Flickthrow,F1,Demigod,B
+MV-ELI-TKN-008-01,Oath Tide Stone Planting,Flightglare,F4,Demigod,B
+MV-ELI-TKN-008-02,High Rim Straight Throw,Shattering Flight,F1,Demigod,B
+MV-ELI-TKN-008-03,Plateau Word Pledge Draw,Stickruin,F4,Demigod,B
+MV-ELI-TKN-008-04,Edge Wind Ring Block,Unbowed Spinetip,F1,Demigod,B
+MV-ELI-TKN-008-05,Flight Sworn Never Fail,Rumbleslim,F5,Demigod,B
+MV-ELI-TKN-008-06,Oath Held Edge Pin,Lodgedurance,F4,Demigod,B
+MV-ELI-TKN-008-07,Plateau Arc Sworn Salvo,Granite Spinthrow,F2,Demigod,B
+MV-ELI-TKN-008-08,Rim Anchored Oath Throw,Tempered Flight,F2,Demigod,B
+MV-ELI-TKN-008-09,Unbroken Oath High Cast,Decimating Thunk Reckoning,F6b,Demigod,B
+MV-ELI-TKN-009-01,Gale Face Reading Posture,Weighttang Vitality,F3,Demigod,B
+MV-ELI-TKN-009-02,Edge Hurl Down Slope,Glint Edgeflat,F2,Demigod,B
+MV-ELI-TKN-009-03,Lull Count Throw,Facet Pointguard,F2,Demigod,B
+MV-ELI-TKN-009-04,Torn Cloak Shield Wave,Obdurate Hiltweight,F1,Demigod,B
+MV-ELI-TKN-009-05,Gale Foot Slide,Silt Lodge,F2,Demigod,B
+MV-ELI-TKN-009-06,Gale Swept Skimming Cast,Blaze Weighttang,F2,Demigod,B
+MV-ELI-TKN-009-07,Edge Turning in Wind,Mayhemlean,F5,Demigod,B
+MV-ELI-TKN-009-08,Hurled Edge Return Gust,Intent Spineweight,F2,Demigod,B
+MV-ELI-TKN-009-09,Gale Fan Short Cast,Flight Scourge,F3,Demigod,B
+MV-ELI-TKN-009-10,Wind Carried Tracking Throw,Corroding Stick,F1,Demigod,B
+MV-ELI-TKN-009-11,Great Gale Lock and Loose,Ponderous Bladeflat,F2,Demigod,B
+MV-ELI-TKN-009-12,Gale Reading Final Edge,Tempered Lodge,F2,Demigod,B
+MV-ELI-TKN-010-01,Open Field Posture No Cover,Daybreak Spinetip,F2,Void God,B
+MV-ELI-TKN-010-02,Bare Ground Measured Throw,Glint Spinthrow,F2,Void God,B
+MV-ELI-TKN-010-03,Reach Hold Backstep,Weighttang Flash,F3,Void God,B
+MV-ELI-TKN-010-04,Open Hand Wide Sweep Cast,Hoarfrost Throwgrip,F2,Void God,B
+MV-ELI-TKN-010-05,Skyline Edge Pursuit Cast,Shivruin,F4,Void God,B
+MV-ELI-TKN-010-06,Reach Wins Field Pressure,Hourthunk,F5,Void God,B
+MV-ELI-TKN-010-07,Open Ground Counter Reach,Murkshiv,F5,Void God,B
+MV-ELI-TKN-010-08,No Cover Scatter Field,Granite Throwtang,F2,Void God,B
+MV-ELI-TKN-010-09,Edge Trap Open Run,Remorseless Throwgrip,F1,Void God,B
+MV-ELI-TKN-010-10,Holding the Field by Reach,Ponderous Spineweight,F2,Void God,B
+MV-ELI-TKN-011-01,Bearing Rod Alignment,Shivinsight,F4,Void God,B
+MV-ELI-TKN-011-02,Oath Voice Steady Throw,Rumblelodge,F5,Void God,B
+MV-ELI-TKN-011-03,Fixed Hip Edge Cast,Novathunk,F5,Void God,B
+MV-ELI-TKN-011-04,Strain Breath Steadying,Leanvigil,F4,Void God,B
+MV-ELI-TKN-011-05,Held Line Pivot Step,Granite Bladeflat,F2,Void God,B
+MV-ELI-TKN-011-06,Two Anchor Edge Cast,Ruinous Balanceblade,F1,Void God,B
+MV-ELI-TKN-011-07,Oath Binding Pin Hand,Hoarfrost Spinthrow,F2,Void God,B
+MV-ELI-TKN-011-08,Rolling Bearing Hand Guard,Evergreen Edgeflat,F1,Void God,B
+MV-ELI-TKN-011-09,Cascade of Sworn Bearings,Intentthunk,F5,Void God,B
+MV-ELI-TKN-011-10,Oath Hand Unyielding Pierce,Nova Lodge,F2,Void God,B
+MV-ELI-TKN-011-11,Bearing Chain Corridor,Novashiv,F5,Void God,B
+MV-ELI-TKN-011-12,Bearing Unbroken Binding Throw,Overpowering Thunk,F1,Void God,B
+MV-ELI-TKN-011-13,Edge Hand Oath Fulfilled,Hollow Pointguard,F2,Void God,B
+MV-ELI-TKN-012-01,Sworn Wrist Binding Wrap,Balanceblade Respite,F3,Void God,B
+MV-ELI-TKN-012-02,Plain Wrist Edge Cast,Gust Spinetip,F2,Void God,B
+MV-ELI-TKN-012-03,Oath Rest Breath,Intent Hiltweight,F2,Void God,B
+MV-ELI-TKN-012-04,Sworn Hand Short Step,Torrent Throwgrip,F2,Void God,B
+MV-ELI-TKN-012-05,Gale Wrist Rapid Throw,Rampaging Spinetip,F1,Void God,B
+MV-ELI-TKN-012-06,Sworn Wrist Qi Snap,Hollow Spineweight,F2,Void God,B
+MV-ELI-TKN-012-07,Wrist Held Parry Throw,Unconquered Bladeflat,F1,Void God,B
+MV-ELI-TKN-012-08,Gale Edge Wrist Pin,Gyveslim,F5,Void God,B
+MV-ELI-TKN-012-09,Sworn Wrist Rain of Edges,Ruinous Flight,F1,Void God,B
+MV-ELI-TKN-012-10,Wrist Oath Return Cast,Lot Flickthrow,F2,Void God,B
+MV-ELI-TKN-012-11,Oath Spoken Final Edge,Eviscerating Iron Flight,F6a,Void God,B
+MV-ELI-TKN-004-01,Expanse Throwgrip,Discerning Throwgrip,F2,Void God,B
+MV-ELI-TKN-004-12,Unsparing Throwtang Devastation,Unsparing Throwtang,F6b,Void God,B
+MV-ELI-TKN-005-13,Expanse Spinthrow,Streaking Spinthrow,F2,Void God,B
+MV-ELI-TKN-008-09,Decimating Thunk Reckoning,Decimating Thunk,F6b,Demigod,B
+MV-ELI-TKN-011-13,Hollow Pointguard,Lancing Pointguard,F2,Void God,B
+MV-ELI-TKN-012-06,Hollow Spineweight,Rending Spineweight,F2,Void God,B
+MV-ELI-TKN-012-11,Eviscerating Iron Flight,Eviscerating Flight,F6a,Void God,B

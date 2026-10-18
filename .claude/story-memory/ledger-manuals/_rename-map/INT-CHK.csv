@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-CHK-001-01,Wall Angle Estimate,Tenderhearted Roundedge,F1,Senior,A
+MV-INT-CHK-001-02,Planted-Foot Heave,Diskthwack,F4,Senior,A
+MV-INT-CHK-001-03,Rebound Palm Cup,Hoopedge Carapace,F3,Senior,A
+MV-INT-CHK-001-04,Shoulder-Width Reset,Hoopglide,F4,Senior,A
+MV-INT-CHK-001-05,Corner Bank Shot,Grazethwack,F4,Senior,A
+MV-INT-CHK-001-06,Double-Bank Homecoming,Bounceswat,F4,Senior,A
+MV-INT-CHK-002-01,Stoop-and-Gather Stride,Innergrip Curl,F3,Senior,A
+MV-INT-CHK-002-02,Landing Mark Count,Attentive Disk,F1,Senior,A
+MV-INT-CHK-002-03,Half-Turn Sidearm,Harsh Fingerhole,F1,Senior,A
+MV-INT-CHK-002-04,Belt Pouch Reload,Holeedge Linen,F3,Senior,A
+MV-INT-CHK-002-05,Over-Shoulder Ring Guard,Rigid Outerblade,F1,Senior,A
+MV-INT-CHK-002-06,Spend-and-Snatch Throw,Caromscorer,F4,Senior,A
+MV-INT-CHK-002-07,Low Scoop Uppercut,Gyrateslap,F4,Senior,A
+MV-INT-CHK-003-01,Wrist Brace Wrap,Patient Roundedge,F1,Senior,A
+MV-INT-CHK-003-02,Thumb-Led Flick,Roundslap,F4,Senior,A
+MV-INT-CHK-003-03,Flat Palm Fan,Shielding Bladering,F1,Senior,A
+MV-INT-CHK-003-04,Tucked-Elbow Step,Diskstalk,F4,Senior,A
+MV-INT-CHK-003-05,Joint Click Listening,Rallying Innergrip,F1,Senior,A
+MV-INT-CHK-003-06,Snap-and-Hold Pose,Attentive Outerblade,F1,Senior,A
+MV-INT-CHK-003-07,Full-Circle Wrist Whip,Diskscorer,F4,Senior,A
+MV-INT-CHK-003-08,Rim-Lock Wrench,Grazescreen,F4,Senior,A
+MV-INT-CHK-004-01,Paired Ring Grip,Tenderhearted Disk,F1,Warrior,B
+MV-INT-CHK-004-02,High-Low Pair Throw,Shardgraze,F5,Warrior,B
+MV-INT-CHK-004-03,Outer-Edge Block,Spinrim Carapace,F3,Warrior,B
+MV-INT-CHK-004-04,Second Ring Quick Draw,Vapor Spinrim,F2,Warrior,B
+MV-INT-CHK-004-05,Crossing Step Pair,Brawn Ringface,F2,Warrior,B
+MV-INT-CHK-004-06,Twin Flight Watch,Sound Fingerhole,F1,Warrior,B
+MV-INT-CHK-004-07,Staggered Pair Release,Bounceflog,F4,Warrior,B
+MV-INT-CHK-004-08,Scissor Crossing Flight,Bouncethwack,F4,Warrior,B
+MV-INT-CHK-004-09,Pinned Guard Pair,Gall Whirlcut,F2,Warrior,B
+MV-INT-CHK-005-01,Hard Surface Choice,Cooling Bladering,F1,Warrior,B
+MV-INT-CHK-005-02,Glancing Angle Pitch,Whirlcut Swat,F3,Warrior,B
+MV-INT-CHK-005-03,Shield Rim Skip,Roundswat,F4,Warrior,B
+MV-INT-CHK-005-04,Stone Floor Rebound,Caromswat,F4,Warrior,B
+MV-INT-CHK-005-05,Low Crouch Brace,Layered Fingerhole,F1,Warrior,B
+MV-INT-CHK-005-06,Retreat Along the Rebound,Carom Hurdle,F3,Warrior,B
+MV-INT-CHK-005-07,Ring Ping Listening,Knitting Roundedge,F1,Warrior,B
+MV-INT-CHK-005-08,Armor Plate Carom,Humbounce,F5,Warrior,B
+MV-INT-CHK-005-09,Blade-Flat Redirect,Pulsegraze,F5,Warrior,B
+MV-INT-CHK-005-10,Triple Rebound Sweep,Gyrate Hammerfall,F3,Warrior,B
+MV-INT-CHK-006-01,Fingertip Perch,Tenderhearted Ringface,F1,Senior,A
+MV-INT-CHK-006-02,Orbit Speed Match,Sound Bladering,F1,Senior,A
+MV-INT-CHK-006-03,Perch-to-Palm Flip,Alert Spinrim,F1,Senior,A
+MV-INT-CHK-006-04,Flung Orbit Release,Brutal Bounce,F1,Senior,A
+MV-INT-CHK-006-05,Hop-Back Retreat,Veering Graze,F1,Senior,A
+MV-INT-CHK-006-06,Whirling Perch Parry,Padded Hoopedge,F1,Senior,A
+MV-INT-CHK-006-07,Qi-Fed Orbit Burst,Wild Carom,F1,Senior,A
+MV-INT-CHK-007-01,Ring Edge-Line Sighting,Candor Innergrip,F2,Warrior,B
+MV-INT-CHK-007-02,Thin Profile Throw,Fierce Gyrate,F1,Warrior,B
+MV-INT-CHK-007-03,Upright Slice Cast,Grim Disk,F1,Warrior,B
+MV-INT-CHK-007-04,Leather Sheath Slide,Cooling Ringface,F1,Warrior,B
+MV-INT-CHK-007-05,Guard Edge Roll,Scudding Gyrate,F1,Warrior,B
+MV-INT-CHK-007-06,Strap-Backed Forearm Guard,Hoopedge Buckle,F3,Warrior,B
+MV-INT-CHK-007-07,Honed-Rim Punch Through,Blank Outerblade,F2,Warrior,B
+MV-INT-CHK-007-08,Throat-Height Shearing Pass,Stern Hoopedge,F1,Warrior,B
+MV-INT-CHK-007-09,Edge Fan Dart Cutter,Poise Fingerhole,F2,Warrior,B
+MV-INT-CHK-008-01,Walking Throw Rhythm,Hoopslap,F4,Senior,A
+MV-INT-CHK-008-02,Matching-Step Release,Keen Whirlcut,F1,Senior,A
+MV-INT-CHK-008-03,Gait Balance Check,Sure Ringface,F1,Senior,A
+MV-INT-CHK-008-04,Ring Hand Tuck,Holeedge Bandage,F3,Senior,A
+MV-INT-CHK-008-05,Turning Retreat,Graze Curl,F3,Senior,A
+MV-INT-CHK-008-06,Roll-Out Guard,Holeedge Barrier,F3,Senior,A
+MV-INT-CHK-008-07,Running Pivot Throw,Rushing Spinrim,F1,Senior,A
+MV-INT-CHK-008-08,Cross-Step Sling Cast,Caromflog,F4,Senior,A

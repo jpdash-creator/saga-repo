@@ -1,0 +1,16 @@
+# Starward Saga authorized tool scripts -- dependencies
+# Per .claude/guardrails/tools/guardrail-authorized-scripts-only.md, exactly these
+# 4 scripts are canon-authorized: prose_docx_creator.py, prose_md_creator.py,
+# reset_story.py, saga_image_creator.py.
+
+# Required by prose_docx_creator.py (novel-grade .docx generation)
+python-docx>=1.1.0
+
+# Optional, only needed if saga_image_creator.py is invoked in the corresponding mode:
+#   --mode openai     requires: openai
+#   --mode stability  requires: requests
+#   --mode svg        requires: cairosvg
+# Install on demand, e.g.:
+#   pip install openai            # for --mode openai
+#   pip install requests          # for --mode stability
+#   pip install cairosvg          # for --mode svg

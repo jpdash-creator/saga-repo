@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-technology-p10-science-civilization-scale",
+ "part": 10,
+ "area": 9,
+ "sequence_in_part": 9,
+ "title": "Science and Civilization Scale",
+ "domain": "technology",
+ "source_file": "Part_10_Technology_Science_Law.md",
+ "start_line": 581,
+ "end_line": 606,
+ "line_count": 26,
+ "output_path": ".claude/skills/ssc-technology-p10-science-civilization-scale/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-cultivation-p03-cultivation-ladder-realm-hierarchy",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-lifespan-mechanics",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-power-density",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-realm-transition",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-cultivation-talent",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-growth-speed",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-power-comparison",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-damage-tolerance-recovery",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-affinity-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-heart-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  }
+ ]
+}

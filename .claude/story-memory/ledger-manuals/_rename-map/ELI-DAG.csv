@@ -1,0 +1,174 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-DAG-001-01,Bankside Point Thrust,Tempered Prod,F2,Demigod,B
+MV-ELI-DAG-001-02,Ford Rising Gut Stab,Iron Needleside,F2,Demigod,B
+MV-ELI-DAG-001-03,Tributary Shoulder Read,Rondelknob Vitality,F3,Demigod,B
+MV-ELI-DAG-001-04,Hawk-Stoop Blade Cover Step,Hoarfrost Waistspine,F2,Demigod,B
+MV-ELI-DAG-001-05,Ford Counter Slip Stab,Vengeful Twinbite,F1,Demigod,B
+MV-ELI-DAG-001-06,Court-Pair Veil Feint,Immobilizing Hiltbar,F1,Demigod,B
+MV-ELI-DAG-001-07,Bankside Gap-Seeking Thrust,Glintprod,F5,Demigod,B
+MV-ELI-DAG-001-08,Tributary Pinning Throw,Ponderous Fingerloop,F2,Demigod,B
+MV-ELI-DAG-001-09,Tributary Armor Seam Thrust,Glint Vestpoint,F2,Demigod,B
+MV-ELI-DAG-001-10,Tributary Shatter Pommel Smash,Gnashing Sanguine Basehilt,F6a,Demigod,B
+MV-ELI-DAG-002-01,Riverbend Palm Press Cut,Sheathscourge,F4,Demigod,B
+MV-ELI-DAG-002-02,Current Thigh Cut,Blaze Scalepoint,F2,Demigod,B
+MV-ELI-DAG-002-03,Azure-Reach Wrist Hook,Thorn Tuck,F2,Demigod,B
+MV-ELI-DAG-002-04,Riverbend Boot Draw Stab,Glint Grippad,F2,Demigod,B
+MV-ELI-DAG-002-05,River-Mouth Reverse Grip Stab,Novaslip,F5,Demigod,B
+MV-ELI-DAG-002-06,Azure-Reach Roll Cut Disarm,Toxinsheath,F5,Demigod,B
+MV-ELI-DAG-002-07,Current Seam Probe,Fangrespite,F4,Demigod,B
+MV-ELI-DAG-002-08,Delta Paired Throw,Nipruin,F4,Demigod,B
+MV-ELI-DAG-002-09,Azure-Reach Veil Feint,Remnant Scalepoint,F2,Demigod,B
+MV-ELI-DAG-002-10,Azure-Reach Gutter Throw,Blaze Sidle,F2,Demigod,B
+MV-ELI-DAG-002-11,Azure-Reach Joint Seam Cut,Mayhem Sidle,F2,Demigod,B
+MV-ELI-DAG-002-12,Riverbend Heartline Thrust,Hollownip,F5,Demigod,B
+MV-ELI-DAG-003-01,Reed Wrist Flick Cut,Rumble Scratch,F2,Demigod,B
+MV-ELI-DAG-003-02,Azure-Reach Jab Series,Fangruin,F4,Demigod,B
+MV-ELI-DAG-003-03,Hawk-Wing Blade Cover Step,Charter Needleside,F2,Demigod,B
+MV-ELI-DAG-003-04,Basin-Rim Roll Cut Disarm,Rumble Vestpoint,F2,Demigod,B
+MV-ELI-DAG-003-05,Basin-Rim Spiral Wrist Cut,Granite Slip,F2,Demigod,B
+MV-ELI-DAG-003-06,Basin-Rim Gap-Seeking Thrust,Tuckhavoc,F4,Demigod,B
+MV-ELI-DAG-003-07,Basin-Rim Shoulder Gap Hook,Nipmettle,F4,Demigod,B
+MV-ELI-DAG-003-08,Hawk-Wing Blade Orbit Guard,Hiltbar Valor,F3,Demigod,B
+MV-ELI-DAG-003-09,Hawk-Wing Armor-Lifting Lever,Toxin Prod,F2,Demigod,B
+MV-ELI-DAG-004-01,Twin-Court Rising Gut Stab,Novasidle,F5,Demigod,B
+MV-ELI-DAG-004-02,Basin-Rim Grip Twist Disarm,Rumble Grippad,F2,Demigod,B
+MV-ELI-DAG-004-03,Tributary Thigh Cut,Sanguine Twinbite,F2,Demigod,B
+MV-ELI-DAG-004-04,Basin-Rim Sheath Draw Cut,Tempered Tuck,F2,Demigod,B
+MV-ELI-DAG-004-05,Twin-Court Side Rib Thrust,Pitiless Rondelknob,F1,Demigod,B
+MV-ELI-DAG-004-06,Basin-Rim Seam Probe,Unerring Waistspine,F1,Demigod,B
+MV-ELI-DAG-004-07,Eddy Paired Throw,Rumble Fingerloop,F2,Demigod,B
+MV-ELI-DAG-004-08,Tributary Step-Through Stab,Slipblink,F4,Demigod,B
+MV-ELI-DAG-004-09,Twin-Court Joint Seam Cut,Mayhem Prod,F2,Demigod,B
+MV-ELI-DAG-004-10,Eddy Armor Seam Thrust,Hollow Scratch,F2,Demigod,B
+MV-ELI-DAG-004-11,Sandbar Lance Slip Counter,Verity Basehilt,F2,Demigod,B
+MV-ELI-DAG-005-01,Dual-Court Point Thrust,Unsparing Hiltbar,F1,Demigod,B
+MV-ELI-DAG-005-02,Dual-Court Palm Press Cut,Granite Scalepoint,F2,Demigod,B
+MV-ELI-DAG-005-03,Hawk-Stoop Hilt Hook Pull,Hogtying Vestpoint,F1,Demigod,B
+MV-ELI-DAG-005-04,Hawk Backhand Slash,Hellish Nip,F1,Demigod,B
+MV-ELI-DAG-005-05,Dual-Court Thigh Cut,Wrathful Nip,F1,Demigod,B
+MV-ELI-DAG-005-06,Paired-Hand Leaf Guard,Murk Grippad,F2,Demigod,B
+MV-ELI-DAG-005-07,Hawk-Stoop Blade-Lock Twist,Gyveslip,F5,Demigod,B
+MV-ELI-DAG-005-08,Hawk Counter Slip Stab,Facet Slip,F2,Demigod,B
+MV-ELI-DAG-005-09,Dual-Court Roll Cut Disarm,Toxin Scratch,F2,Demigod,B
+MV-ELI-DAG-005-10,Dual-Court Shoulder Gap Hook,Rumble Tuck,F2,Demigod,B
+MV-ELI-DAG-005-11,Hawk-Stoop Joint Seam Cut,Immobilizing Needleside,F1,Demigod,B
+MV-ELI-DAG-005-12,Hawk-Stoop Ground Spike Trap,Toxin Twinbite,F2,Demigod,B
+MV-ELI-DAG-005-13,Hawk-Stoop Lance Slip Counter,Impenetrable Rondelknob,F1,Demigod,B
+MV-ELI-DAG-006-01,Sandbar Hilt Hook Pull,Fastening Fingerloop,F2,Demigod,B
+MV-ELI-DAG-006-02,Basin-Rim Off-Hand Trap,Hoarfrost Nip,F2,Demigod,B
+MV-ELI-DAG-006-03,Basin-Rim Throwing Flick,Glint Slip,F2,Demigod,B
+MV-ELI-DAG-006-04,Twin Spine Tap Stab,Prodruin,F4,Demigod,B
+MV-ELI-DAG-006-05,Basin-Rim Tendon Hook Slash,Toxin Sidle,F2,Demigod,B
+MV-ELI-DAG-006-06,Sandbar Spiral Wrist Cut,Unsparing Waistspine,F1,Demigod,B
+MV-ELI-DAG-006-07,Basin-Rim Qi-Braced Parry,Fangvalor,F4,Demigod,B
+MV-ELI-DAG-006-08,Paired-Step Joint Seam Cut,Mayhem Basehilt,F2,Demigod,B
+MV-ELI-DAG-006-09,Mirror-Pair Shoulder Gap Hook,Mayhem Tuck,F2,Demigod,B
+MV-ELI-DAG-006-10,Sandbar Shadow Orbit Step,Torrential Prod,F1,Demigod,B
+MV-ELI-DAG-007-01,Hawk-Eye Elbow Lever,Mayhem Vestpoint,F2,Demigod,B
+MV-ELI-DAG-007-02,Azure-Line Crossguard Catch,Impervious Hiltbar,F1,Demigod,B
+MV-ELI-DAG-007-03,Basin-Rim Draw Slash,Iron Twinbite,F2,Demigod,B
+MV-ELI-DAG-007-04,Twin-Hand Counter Check,Torrent Needleside,F2,Demigod,B
+MV-ELI-DAG-007-05,River Grip Twist Disarm,Mayhem Waistspine,F2,Demigod,B
+MV-ELI-DAG-007-06,Hawk-Eye Blade-Lock Twist,Gyve Basehilt,F2,Demigod,B
+MV-ELI-DAG-007-07,Twin-Hand Roll Cut Disarm,Overpowering Slip,F1,Demigod,B
+MV-ELI-DAG-007-08,Basin-Rim Step-Through Stab,Might Fingerloop,F2,Demigod,B
+MV-ELI-DAG-007-09,Basin-Rim Cross Catch Guard,Granite Rondelknob,F2,Demigod,B
+MV-ELI-DAG-007-10,Basin-Rim Reaping Draw,Tuckscourge,F4,Demigod,B
+MV-ELI-DAG-007-11,Azure-Line Counter Pull Riposte,Fangdurance,F4,Demigod,B
+MV-ELI-DAG-007-12,River Heartline Thrust,Glint Scalepoint,F2,Demigod,B
+MV-ELI-DAG-008-01,Hawk-Stoop Grip Twist Disarm,Mayhem Scratch,F2,Monarch,B
+MV-ELI-DAG-008-02,Second-Track Hip Hold Guard,Facet Rondelknob,F2,Monarch,B
+MV-ELI-DAG-008-03,Ford Draw Slash,Corroding Grippad,F1,Monarch,B
+MV-ELI-DAG-008-04,Azure-Dive Counter Slip Stab,Unsparing Sidle,F1,Monarch,B
+MV-ELI-DAG-008-05,Hawk-Stoop Paired Throw,Decimating Sidle,F1,Monarch,B
+MV-ELI-DAG-008-06,Second-Track Tendon Hook Slash,Chime Tuck,F2,Monarch,B
+MV-ELI-DAG-008-07,Ford Scissor Cross Cut,Gusttuck,F5,Monarch,B
+MV-ELI-DAG-008-08,Ford Wrist Qi Seating,Intent Scalepoint,F2,Monarch,B
+MV-ELI-DAG-008-09,Hawk-Stoop Twin Edge Crossing,Reverberating Basehilt Reckoning,F6b,Demigod,B
+MV-ELI-DAG-009-01,Whirl Slip Parry,Murk Vestpoint,F2,Demigod,B
+MV-ELI-DAG-009-02,Rim Crossguard Catch,Murk Waistspine,F2,Demigod,B
+MV-ELI-DAG-009-03,Veering Edge Parry,Adamantine Twinbite,F1,Demigod,B
+MV-ELI-DAG-009-04,Veering Blade Cover Step,Fangmettle,F4,Demigod,B
+MV-ELI-DAG-009-05,Rim Rising Gut Stab,Nova Hiltbar,F2,Demigod,B
+MV-ELI-DAG-009-06,Whirl Veil Feint,Harnessing Fingerloop,F1,Demigod,B
+MV-ELI-DAG-009-07,Veering Qi-Edged Draw,Niphavoc,F4,Demigod,B
+MV-ELI-DAG-009-08,Whirl Pulse Pommel Strike,Sanguine Nip,F2,Demigod,B
+MV-ELI-DAG-009-09,Whirl Reaping Draw,Ironkris,F5,Demigod,B
+MV-ELI-DAG-009-10,Downdraft Shoulder Gap Hook,Maiming Prod,F1,Demigod,B
+MV-ELI-DAG-009-11,Whirl Piercing Seam Drive,Rampaging Needleside Wrath,F6b,Demigod,B
+MV-ELI-DAG-010-01,Open-Sky Spine Tap Stab,Slip Havoc,F3,Demigod,B
+MV-ELI-DAG-010-02,Oath Backhand Slash,Brutalizing Hiltbar,F1,Demigod,B
+MV-ELI-DAG-010-03,Oath Point Thrust,Glintsidle,F5,Demigod,B
+MV-ELI-DAG-010-04,Open-Sky Counter Slip Stab,Sidleruin,F4,Demigod,B
+MV-ELI-DAG-010-05,Oath Leaf Guard,Unassailable Fingerloop,F1,Demigod,B
+MV-ELI-DAG-010-06,Updraft Paired Throw,Eviscerating Scratch,F1,Demigod,B
+MV-ELI-DAG-010-07,Bearing Hidden Wrist Cut,Strangling Vestpoint,F1,Demigod,B
+MV-ELI-DAG-010-08,Open-Rim Suppression Flurry,Shadetuck,F5,Demigod,B
+MV-ELI-DAG-010-09,Updraft Piercing Seam Drive,Hollow Twinbite,F2,Demigod,B
+MV-ELI-DAG-011-01,Wind-Born Backhand Slash,Rondelknob Scourge,F3,Demigod,B
+MV-ELI-DAG-011-02,Crosswind Reverse Grip Stab,Novafang,F5,Demigod,B
+MV-ELI-DAG-011-03,Wind-Born Forearm Block,Impervious Needleside,F1,Demigod,B
+MV-ELI-DAG-011-04,Wind-Born Elbow Lever,Slip Nerve,F3,Demigod,B
+MV-ELI-DAG-011-05,Bearing Counter Check,Basehilt Durance,F3,Demigod,B
+MV-ELI-DAG-011-06,Bearing Seam Probe,Chime Grippad,F2,Demigod,B
+MV-ELI-DAG-011-07,Oath-Held Gap-Seeking Thrust,Pitiless Tuck,F1,Demigod,B
+MV-ELI-DAG-011-08,Wind-Born Veil Feint,Overbearing Scalepoint,F1,Demigod,B
+MV-ELI-DAG-011-09,Oath-Held Paired Throw,Blazeslip,F5,Demigod,B
+MV-ELI-DAG-011-10,Updraft Reaping Draw,Corroding Sidle,F1,Demigod,B
+MV-ELI-DAG-011-11,Oath-Held Rolling Counter Stab,Veritykris,F5,Demigod,B
+MV-ELI-DAG-011-12,Updraft Armor Seam Thrust,Novakris,F5,Demigod,B
+MV-ELI-DAG-011-13,Bearing Heartline Thrust,Krisscourge,F4,Demigod,B
+MV-ELI-DAG-012-01,Steady-Bearing Shoulder Read,Krisrespite,F4,Demigod,B
+MV-ELI-DAG-012-02,Oath-Step Palm Press Cut,Krisruin,F4,Demigod,B
+MV-ELI-DAG-012-03,Gale Pommel Strike,Blaze Grippad,F2,Demigod,B
+MV-ELI-DAG-012-04,Gale Crossguard Catch,Sheathvalor,F4,Demigod,B
+MV-ELI-DAG-012-05,Sky-Open Inside Line Hook,Hoarfrost Scratch,F2,Demigod,B
+MV-ELI-DAG-012-06,Rim Roll Cut Disarm,Rumblekris,F5,Demigod,B
+MV-ELI-DAG-012-07,Rim Leaf Guard,Fangspine,F4,Demigod,B
+MV-ELI-DAG-012-08,Gale Snare Line Trap,Deed Fingerloop,F2,Demigod,B
+MV-ELI-DAG-012-09,Sky-Open Ground Spike Trap,Fastening Hiltbar,F2,Demigod,B
+MV-ELI-DAG-012-10,Oath-Step Shatter Pommel Smash,Rampaging Might Scratch,F6a,Demigod,B
+MV-ELI-DAG-013-01,Plateau Thigh Cut,Tempered Nip,F2,Demigod,B
+MV-ELI-DAG-013-02,Sky-Open Throwing Flick,Waistspine Reckoning,F3,Demigod,B
+MV-ELI-DAG-013-03,Edge-Wind Point Thrust,Rumble Prod,F2,Demigod,B
+MV-ELI-DAG-013-04,Sky-Open Crouch Entry,Sidlevortex,F4,Demigod,B
+MV-ELI-DAG-013-05,Gale False Draw,Enthralling Needleside,F1,Demigod,B
+MV-ELI-DAG-013-06,Oath-Bound Qi-Edged Draw,Devastating Scalepoint,F1,Demigod,B
+MV-ELI-DAG-013-07,Edge-Wind Whip Cut Return,Gustsidle,F5,Demigod,B
+MV-ELI-DAG-013-08,Sky-Open Pulse Read,Veritysheath,F5,Demigod,B
+MV-ELI-DAG-013-09,Plateau Pulse Pommel Strike,Iron Rondelknob,F2,Demigod,B
+MV-ELI-DAG-013-10,Plateau Shoulder Gap Hook,Enthralling Nip,F1,Demigod,B
+MV-ELI-DAG-013-11,Oath-Bound Snare Line Trap,Predatory Twinbite,F1,Demigod,B
+MV-ELI-DAG-013-12,Sky-Open Shatter Pommel Smash,Tempered Vestpoint,F2,Demigod,B
+MV-ELI-DAG-014-01,Wind-Cut Feint Jab,Murk Sidle,F2,Demigod,B
+MV-ELI-DAG-014-02,Gust Side Rib Thrust,Prod Devastation,F3,Demigod,B
+MV-ELI-DAG-014-03,Gust Backhand Slash,Sheathhavoc,F4,Demigod,B
+MV-ELI-DAG-014-04,Gust Cross Catch Guard,Thorn Basehilt,F2,Demigod,B
+MV-ELI-DAG-014-05,Wind-Cut Tendon Hook Slash,Tuck Tenacity,F3,Demigod,B
+MV-ELI-DAG-014-06,Wind-Led Paired Throw,Facet Needleside,F2,Demigod,B
+MV-ELI-DAG-014-07,Gust Rolling Counter Stab,Inexorable Waistspine,F1,Demigod,B
+MV-ELI-DAG-014-08,Gale Wrist Qi Seating,Intent Hiltbar,F2,Demigod,B
+MV-ELI-DAG-014-09,Wind-Led Rising Reaper Draw,Decimating Grippad,F1,Demigod,B
+MV-ELI-DAG-015-01,Rim Backhand Slash,Might Twinbite,F2,Demigod,B
+MV-ELI-DAG-015-02,Updraft Counter Check,Sheathspine,F4,Demigod,B
+MV-ELI-DAG-015-03,Crosswind-Step Wrist Hook,Hoarfrost Tuck,F2,Demigod,B
+MV-ELI-DAG-015-04,Updraft Feint Jab,Murk Fingerloop,F2,Demigod,B
+MV-ELI-DAG-015-05,Whirl Retreat Skip,Might Basehilt,F2,Demigod,B
+MV-ELI-DAG-015-06,Sky-Edge Seam Probe,Beneficent Scalepoint,F1,Demigod,B
+MV-ELI-DAG-015-07,Whirl Cross Catch Guard,Facet Vestpoint,F2,Demigod,B
+MV-ELI-DAG-015-08,Crosswind-Step Veil Feint,Remnant Sidle,F2,Demigod,B
+MV-ELI-DAG-015-09,Crosswind-Step Ground Spike Trap,Fastening Waistspine,F2,Demigod,B
+MV-ELI-DAG-015-10,Sky-Edge Vital Lane Stab,Slipwrath,F4,Demigod,B
+MV-ELI-DAG-015-11,Updraft Shadow Orbit Step,Novatuck,F5,Demigod,B
+MV-ELI-DAG-016-01,Oath-Held Thigh Cut,Rondelknob Ruin,F3,Monarch,B
+MV-ELI-DAG-016-02,Cliff-Edge Pivot Step,Dazzling Slip,F1,Monarch,B
+MV-ELI-DAG-016-03,Cliff-Edge Forearm Block,Indomitable Waistspine,F1,Monarch,B
+MV-ELI-DAG-016-04,Oath-Held Grip Twist Disarm,Maiming Slip,F1,Monarch,B
+MV-ELI-DAG-016-05,Open-Sky Step-Through Stab,Sidle Flash,F3,Monarch,B
+MV-ELI-DAG-016-06,Gale Pulse Pommel Strike,Gustnip,F5,Monarch,B
+MV-ELI-DAG-016-07,Open-Sky Pressure Point Jab,Immobilizing Scratch,F1,Monarch,B
+MV-ELI-DAG-016-08,Gale Spear Gap Slip,Torrential Scalepoint,F1,Monarch,B
+MV-ELI-DAG-016-09,Oath-Held Blade Sense Sweep,Sheathrespite,F4,Monarch,B
+MV-ELI-DAG-016-10,Cliff-Edge Needle Barrage Throw,Berserk Hoarfrost Slip,F6a,Demigod,B
+MV-ELI-DAG-004-10,Hollow Scratch,Tempered Scratch,F2,Demigod,B
+MV-ELI-DAG-010-09,Hollow Twinbite,Forged Twinbite,F2,Demigod,B

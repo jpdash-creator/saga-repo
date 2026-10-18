@@ -1,0 +1,2 @@
+manual_id,grade,affinity_id,origin,title,realm_band,min_realm,energy_req,cultivation_req,affinity_req,sovereignty_req,move_count,composition,tradition,summary,status,first_area,notes
+CMAN-CAT-CRY-001,CAT,CRY,Common,Canon of the Shattering Lattice,CF,Core Formation L2 Low,QI-EXT,CORE-ON+LINK-PRIOR+LINK-STEP,A6,SOV-C,13,I4 A4 E3 S1 C1,shattering lattice school,A canon for the crystal master who sets a lattice across a whole field from the formed core and breaks it all at once in a storm of edges.,Active,Not yet established,"moves renamed 2026-10-16, old names in _rename-map"

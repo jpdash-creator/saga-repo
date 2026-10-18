@@ -1,0 +1,81 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-KNF-001-01,Plain Heel-to-Tip Slice,Open Plunge,F1,Unawakened,A
+MV-BAS-KNF-001-02,Short Straight Poke,Square Peel,F1,Unawakened,A
+MV-BAS-KNF-001-03,Forearm Flat Block,Hooding Bolster,F1,Unawakened,A
+MV-BAS-KNF-001-04,Half-Step Cut-In,Shifting Choil,F1,Unawakened,A
+MV-BAS-KNF-001-05,Spine Tap on the Wrist,Stopping Edgebelly,F1,Unawakened,A
+MV-BAS-KNF-001-06,Low Point Stance Watch,Deep Tangpin,F1,Unawakened,A
+MV-BAS-KNF-002-01,Belt Draw and Strike,Choildrop,F4,Skin,A
+MV-BAS-KNF-002-02,Reverse Hook Cut,Descending Thumbramp,F1,Skin,A
+MV-BAS-KNF-002-03,Hip-Side Sheath Block,Angled Scales,F1,Skin,A
+MV-BAS-KNF-002-04,Hip Shift Slash,Sideways Whittle,F1,Skin,A
+MV-BAS-KNF-002-05,Thumb-Brace Press Cut,Short Shave,F1,Skin,A
+MV-BAS-KNF-002-06,Heel Notch Sleeve Snag,Locking Buttcap,F1,Skin,A
+MV-BAS-KNF-002-07,Lanyard Wrap Pull,Lanyard Lid,F3,Skin,A
+MV-BAS-KNF-003-01,Hammer Grip Chop,Downward Pare,F1,Skin,A
+MV-BAS-KNF-003-02,Saber Grip Draw Cut,Short Swedge,F1,Skin,A
+MV-BAS-KNF-003-03,Ice-Pick Grip Drop,Plunge Hit,F3,Skin,A
+MV-BAS-KNF-003-04,Fencing Grip Point Line,Straight Pare,F1,Skin,A
+MV-BAS-KNF-003-05,Grip Swap Flick,Turning Lanyard,F1,Skin,A
+MV-BAS-KNF-004-01,Skinning Sweep Cut,Leaden Trim,F1,Muscle,A
+MV-BAS-KNF-004-02,Gutting Hook Pull,Hard Slit,F1,Muscle,A
+MV-BAS-KNF-004-03,Belly-Edge Curve Drag,Square Whittle,F1,Muscle,A
+MV-BAS-KNF-004-04,Pelt-Peel Wrist Roll,Trimhusk,F4,Muscle,A
+MV-BAS-KNF-004-05,Boning Tip Probe,Narrow Swedge,F1,Muscle,A
+MV-BAS-KNF-004-06,Joint-Seek Notch Cut,Slitblow,F4,Muscle,A
+MV-BAS-KNF-004-07,Bone-Skirt Guard,Thumbramp Wedge,F3,Muscle,A
+MV-BAS-KNF-004-08,Steady Carcass Stance,Plungenote,F4,Muscle,A
+MV-BAS-KNF-005-01,Whittle Shaving Stroke,Plungestrike,F4,Tendon,A
+MV-BAS-KNF-005-02,Thumb-Push Chip Cut,Choil Strike,F3,Tendon,A
+MV-BAS-KNF-005-03,Pare Toward the Body,Choilhit,F4,Tendon,A
+MV-BAS-KNF-005-04,Pare Away from the Body,Plungedash,F4,Tendon,A
+MV-BAS-KNF-005-05,Crosshatch Notching,Peelcowl,F4,Tendon,A
+MV-BAS-KNF-005-06,Shaving Guard Turn,Settled Buttcap,F1,Tendon,A
+MV-BAS-KNF-006-01,Cross-Draw Opening Cut,Sharp Slit,F1,Bone,A
+MV-BAS-KNF-006-02,Backhand Sheath Draw,Blunt Trim,F1,Bone,A
+MV-BAS-KNF-006-03,Chest-Carry Pull,Shave Strike,F3,Bone,A
+MV-BAS-KNF-006-04,Boot-Top Rise,Blunt Bolster,F1,Bone,A
+MV-BAS-KNF-006-05,Sheath Strap Parry,Swedgestay,F4,Bone,A
+MV-BAS-KNF-006-06,Drop and Step Retreat,Swedgehop,F4,Bone,A
+MV-BAS-KNF-006-07,Blind Sheath Return,Plungecount,F4,Bone,A
+MV-BAS-KNF-007-01,Pocket Blade Flick Draw,Firm Peel,F1,Senior,A
+MV-BAS-KNF-007-02,Lockback Press Cut,Forward Shave,F1,Senior,A
+MV-BAS-KNF-007-03,Palm-Hidden Jab,Plungeblow,F4,Senior,A
+MV-BAS-KNF-007-04,Closed Handle Rap,Trimcowl,F4,Senior,A
+MV-BAS-KNF-007-05,Folding Spine Brace,Folded Edgebelly,F1,Senior,A
+MV-BAS-KNF-007-06,Quiet Pocket Retreat,Swedgeskitter,F4,Senior,A
+MV-BAS-KNF-008-01,Work-Knife Cut Chain,Swedgestrike,F4,Senior,A
+MV-BAS-KNF-008-02,Rope-Cutter Slash,Sharp Lanyard,F1,Senior,A
+MV-BAS-KNF-008-03,Strap Sever Pull,Flat Tangpin,F1,Senior,A
+MV-BAS-KNF-008-04,Packing Tip Pierce,Swedge Drop,F3,Senior,A
+MV-BAS-KNF-008-05,Wedge Pry Thrust,Locking Peel,F1,Senior,A
+MV-BAS-KNF-008-06,Leather Punch Stab,Gnawing Trim,F1,Senior,A
+MV-BAS-KNF-008-07,Tool Flat Guard,Kept Bolster,F1,Senior,A
+MV-BAS-KNF-008-08,Bench Stance Footwork,Slitdodge,F4,Senior,A
+MV-BAS-KNF-009-01,Fighting Knife Front Cut,Quick Pare,F1,Senior,A
+MV-BAS-KNF-009-02,Clip-Point Rising Stab,Scalesdash,F4,Senior,A
+MV-BAS-KNF-009-03,Knife Crossguard Catch,Pushing Edgebelly,F1,Senior,A
+MV-BAS-KNF-009-04,Sweeping Guard Parry,Plungewedge,F4,Senior,A
+MV-BAS-KNF-009-05,Lead Hand Check,Choil Stay,F3,Senior,A
+MV-BAS-KNF-009-06,Shuffle Approach Step,Buttcap Skitter,F3,Senior,A
+MV-BAS-KNF-010-01,Carver's Long Draw,Scalesdrop,F4,Senior,A
+MV-BAS-KNF-010-02,Spiral Gouge Cut,Swedgehit,F4,Senior,A
+MV-BAS-KNF-010-03,Relief Chisel Press,Plain Plunge,F1,Senior,A
+MV-BAS-KNF-010-04,Chip-Away Notch,Descending Tangpin,F1,Senior,A
+MV-BAS-KNF-010-05,Fine-Line Scoring Cut,Parelid,F4,Senior,A
+MV-BAS-KNF-010-06,Carver's Wrist Guard,Hooding Edgebelly,F1,Senior,A
+MV-BAS-KNF-010-07,Heel Pivot Close,Swaying Slit,F1,Senior,A
+MV-BAS-KNF-011-01,Qi-Skim Edge Draw,Single Thumbramp,F1,Senior,A
+MV-BAS-KNF-011-02,Warm Edge Press,Swedgeblow,F4,Senior,A
+MV-BAS-KNF-011-03,Circulating Tip Poke,Level Tangpin,F1,Senior,A
+MV-BAS-KNF-011-04,Breath-Matched Guard,Planted Plunge,F1,Senior,A
+MV-BAS-KNF-011-05,Edge Sense Scan,Warm Scales,F1,Senior,A
+MV-BAS-KNF-012-01,Butcher Chop Slash,Downward Swedge,F1,Senior,A
+MV-BAS-KNF-012-02,Break-Down Wedge Cut,Level Scales,F1,Senior,A
+MV-BAS-KNF-012-03,Heavy Belly Draw,Slitdrop,F4,Senior,A
+MV-BAS-KNF-012-04,Slab Slicing Pull,Plungebump,F4,Senior,A
+MV-BAS-KNF-012-05,Block-Steel Parry,Thumbramp Lid,F3,Senior,A
+MV-BAS-KNF-012-06,Apron Stance Footwork,Light Peel,F1,Senior,A
+MV-BAS-KNF-012-07,Wide Arc Sweep,Wide Buttcap,F1,Senior,A
+MV-BAS-KNF-012-08,Cut and Clear Retreat,Stepping Pare,F1,Senior,A
+MV-BAS-KNF-010-03,Plain Plunge,Short Plunge,F1,Senior,A

@@ -1,0 +1,151 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-GLV-001-01,Two-Stream Awareness,Bendinsight,F4,Demigod L1 Low,B
+MV-ELI-GLV-001-02,Left-Bank Draw Cut,Longedge Wrath,F3,Demigod L1 Low,B
+MV-ELI-GLV-001-03,Right-Bank Return Slash,Gustbend,F5,Demigod L1 Low,B
+MV-ELI-GLV-001-04,Twin Stream Wheel,Granite Bladespine,F2,Demigod L1 Low,B
+MV-ELI-GLV-001-05,Parallel Bank Guard,Charter Tangheel,F2,Demigod L1 Low,B
+MV-ELI-GLV-001-06,Stream-Split Disruption,Chime Slicefall,F2,Demigod L1 Low,B
+MV-ELI-GLV-001-07,Meeting-Waters Cut,Shattering Longcut,F1,Demigod L1 Low,B
+MV-ELI-GLV-001-08,Parting-Current Sequence,Lotreave,F5,Demigod L1 Low,B
+MV-ELI-GLV-001-09,Twin Rivers Crescent Fall,Lacerating Windrake,F1,Demigod L1 Low,B
+MV-ELI-GLV-002-01,Waxing Arc Ready,Resurgent Spineedge,F1,Demigod L2 Mid,B
+MV-ELI-GLV-002-02,Waning Arc Cut,Glaivewrath,F4,Demigod L2 Mid,B
+MV-ELI-GLV-002-03,Paired Moon Parry,Guardlug Nerve,F3,Demigod L2 Mid,B
+MV-ELI-GLV-002-04,Moonstep Glide,Phantom Edgeswing,F1,Demigod L2 Mid,B
+MV-ELI-GLV-002-05,Crescent Meeting Slash,Gustreave,F5,Demigod L2 Mid,B
+MV-ELI-GLV-002-06,Eclipse Cover Screen,Thornbend,F5,Demigod L2 Mid,B
+MV-ELI-GLV-002-07,Moon-Tide Pull,Chime Glaiveblade,F2,Demigod L2 Mid,B
+MV-ELI-GLV-002-08,Full Moon Glaive Circle,Crookhavoc,F4,Demigod L2 Mid,B
+MV-ELI-GLV-002-09,Dark-of-Moon Feint Sequence,Hour Cutbelly,F2,Demigod L2 Mid,B
+MV-ELI-GLV-002-10,Two Crescents Descending,Hellish Ferrulecap,F1,Demigod L2 Mid,B
+MV-ELI-GLV-003-01,Basin-Long Stance,Glaivevigil,F4,Demigod L4 Low,B
+MV-ELI-GLV-003-02,Azure Edge Lengthening,Elevating Curvetip,F1,Demigod L4 Low,B
+MV-ELI-GLV-003-03,Far-Rim Lunge Cut,Tempered Glaiveblade,F2,Demigod L4 Low,B
+MV-ELI-GLV-003-04,Basin-Floor Recovery Slide,Ferrulecap Whirlpool,F3,Demigod L4 Low,B
+MV-ELI-GLV-003-05,Reach-Hold Tip Turn,Unbowed Cutbelly,F1,Demigod L4 Low,B
+MV-ELI-GLV-003-06,Reach-Doubling Cut,Grievous Glavesocket,F1,Demigod L4 Low,B
+MV-ELI-GLV-003-07,Long Basin Sweep,Blaze Tangheel,F2,Demigod L4 Low,B
+MV-ELI-GLV-003-08,Rim-Snare Draw,Hoarfrost Curvecut,F2,Demigod L4 Low,B
+MV-ELI-GLV-003-09,Distance-Mocking Feint,Chime Edgeswing,F2,Demigod L4 Low,B
+MV-ELI-GLV-003-10,Azure Arc Release,Eviscerating Bladespine,F1,Demigod L4 Low,B
+MV-ELI-GLV-003-11,Long Basin Pinning Thrust,Punishing Guardlug,F1,Demigod L4 Low,B
+MV-ELI-GLV-003-12,Azure Reach Unbroken,Pitiless Glavesocket,F1,Demigod L4 Low,B
+MV-ELI-GLV-004-01,Shadow-Cast Stance,Longedge Respite,F3,Demigod L6 High,B
+MV-ELI-GLV-004-02,Overhead Shadow Fall,Bendwrath,F4,Demigod L6 High,B
+MV-ELI-GLV-004-03,Circling Hawk Pace,Silt Longcut,F2,Demigod L6 High,B
+MV-ELI-GLV-004-04,Beak-Tip Pluck,Hollowcutter,F5,Demigod L6 High,B
+MV-ELI-GLV-004-05,Wing-Shade Guard,Facetbend,F5,Demigod L6 High,B
+MV-ELI-GLV-004-06,Shadow-Leading Feint Cut,Mayhem Reave,F2,Demigod L6 High,B
+MV-ELI-GLV-004-07,Talon Rip Drag,Eviscerating Curvecut,F1,Demigod L6 High,B
+MV-ELI-GLV-004-08,Hawk-Eye Pressure Gaze,Charter Curvetip,F2,Demigod L6 High,B
+MV-ELI-GLV-004-09,Shadow Over Shadow Sequence,Confluent Windrake,F1,Demigod L6 High,B
+MV-ELI-GLV-004-10,Azure Dive Break,Iron Slicefall,F2,Demigod L6 High,B
+MV-ELI-GLV-004-11,Hawk-Shadow Descending Strike,Blistering Reave Scourge,F6b,Demigod L6 High,B
+MV-ELI-GLV-005-01,Ford Reading Gaze,Expanse Guardlug,F2,Demigod L8 Low,B
+MV-ELI-GLV-005-02,Stone-to-Stone Advance,Gustglaive,F5,Demigod L8 Low,B
+MV-ELI-GLV-005-03,Midstream Hold,Thornglaive,F5,Demigod L8 Low,B
+MV-ELI-GLV-005-04,Ford-Crossing Cut,Cutbelly Havoc,F3,Demigod L8 Low,B
+MV-ELI-GLV-005-05,Between-Tracks Foot Rap,Overpowering Bladespine,F1,Demigod L8 Low,B
+MV-ELI-GLV-005-06,Two-Track Crescent Sweep,Siltbend,F5,Demigod L8 Low,B
+MV-ELI-GLV-005-07,Current-Turn Shaft Parry,Murkglaive,F5,Demigod L8 Low,B
+MV-ELI-GLV-005-08,Washed-Footing Pull,Tangheel Valor,F3,Demigod L8 Low,B
+MV-ELI-GLV-005-09,Ford-Edge Pin,Gyvebend,F5,Demigod L8 Low,B
+MV-ELI-GLV-005-10,Crossing Chain Cut,Hourcrook,F5,Demigod L8 Low,B
+MV-ELI-GLV-005-11,Dual-Track Heavy Hew,Sanguine Curvecut,F2,Demigod L8 Low,B
+MV-ELI-GLV-005-12,Ford-Flooding Surge,Edgeswing Ruin,F3,Demigod L8 Low,B
+MV-ELI-GLV-005-13,Dual-Track Ford Break,Tempered Spineedge,F2,Demigod L8 Low,B
+MV-ELI-GLV-006-01,Silver Edge Awareness,Verity Curvetip,F2,Void God L1 Mid,B
+MV-ELI-GLV-006-02,Silver Draw Cut,Spineedge Ruin,F3,Void God L1 Mid,B
+MV-ELI-GLV-006-03,Blue Flow Parry,Chimeglaive,F5,Void God L1 Mid,B
+MV-ELI-GLV-006-04,Current-Backed Silver Slash,Ironbend,F5,Void God L1 Mid,B
+MV-ELI-GLV-006-05,Blue Eddy Capture,Gyve Ferrulecap,F2,Void God L1 Mid,B
+MV-ELI-GLV-006-06,Silver-Rim Return,Bendruin,F4,Void God L1 Mid,B
+MV-ELI-GLV-006-07,Crescent in the Current Sequence,Hour Glavesocket,F2,Void God L1 Mid,B
+MV-ELI-GLV-006-08,Blue Tide Rising,Unbudging Tangheel,F1,Void God L1 Mid,B
+MV-ELI-GLV-006-09,Silver Crescent on Blue Water,Hellish Longcut Havoc,F6b,Void God L1 Mid,B
+MV-ELI-GLV-007-01,Basin Centre Stance,Waning Bladespine,F2,Void God L4 Low,B
+MV-ELI-GLV-007-02,Crowned Overhead Guard,Bendvalor,F4,Void God L4 Low,B
+MV-ELI-GLV-007-03,Rim-Facing Cut,Sanguine Windrake,F2,Void God L4 Low,B
+MV-ELI-GLV-007-04,Spoke-and-Hub Step,Torrent Slicefall,F2,Void God L4 Low,B
+MV-ELI-GLV-007-05,Ring-Splitting Qi Sweep,Silt Guardlug,F2,Void God L4 Low,B
+MV-ELI-GLV-007-06,Crowned Counter Turn,Torrent Spineedge,F2,Void God L4 Low,B
+MV-ELI-GLV-007-07,Hub-Pressing Circle,Hourreave,F5,Void God L4 Low,B
+MV-ELI-GLV-007-08,Basin Crowned Sequence,Hour Longedge,F2,Void God L4 Low,B
+MV-ELI-GLV-007-09,Rim-Breaking Cleave,Bendscourge,F4,Void God L4 Low,B
+MV-ELI-GLV-007-10,Crown of Azure Edges,Corroding Blaze Glaiveblade,F6a,Void God L4 Low,B
+MV-ELI-GLV-008-01,Plateau Oath Glaive Stance,Vigilant Ferrulecap,F1,Demigod L1 Mid,B
+MV-ELI-GLV-008-02,Sworn Crescent Cut,Punishing Windrake,F1,Demigod L1 Mid,B
+MV-ELI-GLV-008-03,Open-Stone Footing,Iron Cutbelly,F2,Demigod L1 Mid,B
+MV-ELI-GLV-008-04,Oath-Marked Advance,Gust Curvecut,F2,Demigod L1 Mid,B
+MV-ELI-GLV-008-05,Edge-Facing Thrust,Crookruin,F4,Demigod L1 Mid,B
+MV-ELI-GLV-008-06,Oath-Backed Hew,Ferocious Longedge,F1,Demigod L1 Mid,B
+MV-ELI-GLV-008-07,Plateau Wind Shaft Parry,Cutterspine,F4,Demigod L1 Mid,B
+MV-ELI-GLV-008-08,Sworn Ground Press,Slicefall Obduracy,F3,Demigod L1 Mid,B
+MV-ELI-GLV-008-09,Oath-Bound Cut Chain,Lotbend,F5,Demigod L1 Mid,B
+MV-ELI-GLV-008-10,Plateau-Shaking Cleave,Crookscourge,F4,Demigod L1 Mid,B
+MV-ELI-GLV-008-11,Open Plateau Sworn Reap,Daybreak Glaiveblade,F2,Demigod L1 Mid,B
+MV-ELI-GLV-009-01,Oath-Bearing Reckoning,Waningcutter,F5,Demigod L3 Low,B
+MV-ELI-GLV-009-02,Bearing-Line Crescent Cut,Iron Edgeswing,F2,Demigod L3 Low,B
+MV-ELI-GLV-009-03,Kept-Bearing Parry,Gust Spineedge,F2,Demigod L3 Low,B
+MV-ELI-GLV-009-04,Oath-Fixed Tip Thrust,Gnashing Glavesocket,F1,Demigod L3 Low,B
+MV-ELI-GLV-009-05,Bearing-Pressing Walk,Glaivevalor,F4,Demigod L3 Low,B
+MV-ELI-GLV-009-06,Sworn Parry Snap,Reavedurance,F4,Demigod L3 Low,B
+MV-ELI-GLV-009-07,Bearing-Held Glaive Sequence,Crookwrath,F4,Demigod L3 Low,B
+MV-ELI-GLV-009-08,Bearing-Splitting Cleave,Ruinous Longcut,F1,Demigod L3 Low,B
+MV-ELI-GLV-009-09,Unbroken Oath Crescent,Gust Guardlug,F2,Demigod L3 Low,B
+MV-ELI-GLV-010-01,Long Wind Listening,Buoying Glaiveblade,F1,Demigod L5 High,B
+MV-ELI-GLV-010-02,Wind-Borne Reach Cut,Windrake Wrath,F3,Demigod L5 High,B
+MV-ELI-GLV-010-03,Cross-Wind Sidestep,Granite Tangheel,F2,Demigod L5 High,B
+MV-ELI-GLV-010-04,Lee Shelter Guard,Facet Longedge,F2,Demigod L5 High,B
+MV-ELI-GLV-010-05,Headwind Glaive Point Drive,Ironglaive,F5,Demigod L5 High,B
+MV-ELI-GLV-010-06,Long Wind Hew,Gust Ferrulecap,F2,Demigod L5 High,B
+MV-ELI-GLV-010-07,Gale Curtain Sweep,Silt Curvecut,F2,Demigod L5 High,B
+MV-ELI-GLV-010-08,Wind Shear Rip,Mayhem Bladespine,F2,Demigod L5 High,B
+MV-ELI-GLV-010-09,Wind-Held Bearing Pin,Fastening Reave,F2,Demigod L5 High,B
+MV-ELI-GLV-010-10,Long Wind Chain of Strokes,Intentglaive,F5,Demigod L5 High,B
+MV-ELI-GLV-010-11,Gust-Splitting Cleave,Granite Curvetip,F2,Demigod L5 High,B
+MV-ELI-GLV-010-12,Long Wind Unleashed,Hellish Slicefall,F1,Demigod L5 High,B
+MV-ELI-GLV-011-01,Edge-Line Bearing,Waning Glavesocket,F2,Demigod L7 Low,B
+MV-ELI-GLV-011-02,Outer-Shoulder Drive Cut,Blistering Curvetip,F1,Demigod L7 Low,B
+MV-ELI-GLV-011-03,Rim-Tread Step,Phantom Cutbelly,F1,Demigod L7 Low,B
+MV-ELI-GLV-011-04,Sheer-Side Slant Guard,Unrelenting Spineedge,F1,Demigod L7 Low,B
+MV-ELI-GLV-011-05,Edge-Shoving Hew,Might Longcut,F2,Demigod L7 Low,B
+MV-ELI-GLV-011-06,Dropwise Leg Pull,Harnessing Guardlug,F1,Demigod L7 Low,B
+MV-ELI-GLV-011-07,Bearing-Kept Retreat,Torrent Bladespine,F2,Demigod L7 Low,B
+MV-ELI-GLV-011-08,Edge-Tread Chain,Doctrine Reave,F2,Demigod L7 Low,B
+MV-ELI-GLV-011-09,Cliff-Line Cleave,Sanguine Cutbelly,F2,Demigod L7 Low,B
+MV-ELI-GLV-011-10,Plateau Edge Last Bearing,Eviscerating Blaze Glavesocket,F6a,Demigod L7 Low,B
+MV-ELI-GLV-012-01,Open Country Eye,Waningcrook,F5,Demigod L9 Mid,B
+MV-ELI-GLV-012-02,Gale-Swept Cut,Pitiless Longcut,F1,Demigod L9 Mid,B
+MV-ELI-GLV-012-03,Wide Berth Curving Step,Might Glaiveblade,F2,Demigod L9 Mid,B
+MV-ELI-GLV-012-04,Unsheltered Guard,Aegis Ferrulecap,F2,Demigod L9 Mid,B
+MV-ELI-GLV-012-05,Free-Run Thrust,Glint Edgeswing,F2,Demigod L9 Mid,B
+MV-ELI-GLV-012-06,Crescent Gale Reap,Iron Curvetip,F2,Demigod L9 Mid,B
+MV-ELI-GLV-012-07,Open-Air Sweep,Slag Slicefall,F2,Demigod L9 Mid,B
+MV-ELI-GLV-012-08,Gale Counter Turn,Torrent Tangheel,F2,Demigod L9 Mid,B
+MV-ELI-GLV-012-09,Bare-Field Pin,Immobilizing Windrake,F1,Demigod L9 Mid,B
+MV-ELI-GLV-012-10,Open-Country Chain,Doctrine Curvecut,F2,Demigod L9 Mid,B
+MV-ELI-GLV-012-11,Gale-Crescent Cleave,Gust Longedge,F2,Demigod L9 Mid,B
+MV-ELI-GLV-012-12,Plain-Breaking Sweep,Dismantling Edgeswing,F2,Demigod L9 Mid,B
+MV-ELI-GLV-012-13,Unwalled Gale Crescent,Dismantling Curvecut,F2,Demigod L9 Mid,B
+MV-ELI-GLV-013-01,Reaper's Breath Count,Waning Tangheel,F2,Void God L2 Low,B
+MV-ELI-GLV-013-02,Low Reaping Cut,Glaivescourge,F4,Void God L2 Low,B
+MV-ELI-GLV-013-03,Stubble Step,Silt Bladespine,F2,Void God L2 Low,B
+MV-ELI-GLV-013-04,Wind-Sworn Reap Return,Longedge Ruin,F3,Void God L2 Low,B
+MV-ELI-GLV-013-05,Swath-Parting Guard,Equipoise Cutbelly,F2,Void God L2 Low,B
+MV-ELI-GLV-013-06,Sheaf-Binding Press,Suffocating Spineedge,F1,Void God L2 Low,B
+MV-ELI-GLV-013-07,Whole-Row Reap Chain,Multiplying Reave,F1,Void God L2 Low,B
+MV-ELI-GLV-013-08,Swath-Cutting Sweep,Mayhem Slicefall,F2,Void God L2 Low,B
+MV-ELI-GLV-013-09,Last Sheaf Reaping,Might Ferrulecap,F2,Void God L2 Low,B
+MV-ELI-GLV-014-01,Final Oath Recital,Glavesocket Vigil,F3,True God L1 Low,B
+MV-ELI-GLV-014-02,Oath-Weighted Cut,Rumbleglaive,F5,True God L1 Low,B
+MV-ELI-GLV-014-03,Standing-Oath Guard,Facet Glaiveblade,F2,True God L1 Low,B
+MV-ELI-GLV-014-04,Bearing-to-the-End Step,Reave Slipstream,F3,True God L1 Low,B
+MV-ELI-GLV-014-05,Oath Point Prod,Tempered Windrake,F2,True God L1 Low,B
+MV-ELI-GLV-014-06,Sworn Edge Rip,Unsparing Reave,F1,True God L1 Low,B
+MV-ELI-GLV-014-07,Unyielding Advance Press,Ponderous Edgeswing,F2,True God L1 Low,B
+MV-ELI-GLV-014-08,Oath-Holding Bind,Numbing Tangheel,F1,True God L1 Low,B
+MV-ELI-GLV-014-09,Last Oath Chain,Doctrine Longcut,F2,True God L1 Low,B
+MV-ELI-GLV-014-10,Oath-Splitting Cleave,Rampaging Curvetip,F1,True God L1 Low,B
+MV-ELI-GLV-014-11,Last Oath Fulfilled,Cutterwrath,F4,True God L1 Low,B
+MV-ELI-GLV-005-01,Expanse Guardlug,Probing Guardlug,F2,Demigod L8 Low,B

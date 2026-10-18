@@ -1,0 +1,6 @@
+move_id,old_name,new_name,function
+CMV-ADV-HEA-003-05,Field Mending,Closing Balm,Support:Heal
+CMV-ADV-HEA-003-07,Cradling Field,Cradle Balm,Support:Heal
+CMV-ADV-HEA-003-08,Soothing Expanse,Easing Tide,Support:Heal;Support:Empower
+CMV-ADV-HEA-007-05,River Mending,Renewing Current,Support:Heal
+CMV-ADV-HEA-007-01,Basin Warmth,Cupped Warmth,CHANNELED,,Basic

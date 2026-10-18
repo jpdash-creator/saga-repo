@@ -1,0 +1,113 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-HKS-001-01,Disarm Line Stance,Granite Hookspine,F2,Champion,B
+MV-ADV-HKS-001-02,Thumb-Side Tip Tap,Tempered Hookend,F2,Champion,B
+MV-ADV-HKS-001-03,Ground-Skimming Hook Sweep,Rumblegrapnel,F5,Champion,B
+MV-ADV-HKS-001-04,Heel Slide Inside the Reach,Torrent Hookcrook,F2,Champion,B
+MV-ADV-HKS-001-05,Sword-Taking Pull,Ponderous Hookneck,F2,Champion,B
+MV-ADV-HKS-001-06,Spine-and-Tip Pin Down,Thorncleat,F5,Champion,B
+MV-ADV-HKS-001-07,Hilt-Wrenching Hooked Disarm,Thornyank,F5,Champion,B
+MV-ADV-HKS-001-08,Weapon-Taker's Cascade,Mayhemdisarm,F5,Champion,B
+MV-ADV-HKS-002-01,Hook Meets Hook Posture,Aegis Swordhook,F2,Demigod,B
+MV-ADV-HKS-002-02,Beard Beat Aside,Chime Hookguard,F2,Demigod,B
+MV-ADV-HKS-002-03,Drop the Wrist Out,Gustsnarl,F5,Demigod,B
+MV-ADV-HKS-002-04,Cross-Hook Hold,Ponderous Pulldown,F2,Demigod,B
+MV-ADV-HKS-002-05,Slip-Out Counter Hook,Implacable Cresthook,F1,Demigod,B
+MV-ADV-HKS-002-06,Reverse the Drag,Paralyzing Hookhilt,F1,Demigod,B
+MV-ADV-HKS-002-07,Spine-Over-Bend Release,Clevisassault,F4,Demigod,B
+MV-ADV-HKS-002-08,Answering Crook Reflection,Adamant Waning Hookcurve,F6a,Demigod,B
+MV-ADV-HKS-002-09,Locked Bend Shearing Twist,Severing Hooktip,F1,Demigod,B
+MV-ADV-HKS-003-01,Open-Guard Invitation,Facet Hookend,F2,Champion,B
+MV-ADV-HKS-003-02,Tip-Over-Hilt Flick,Tempered Yank,F2,Champion,B
+MV-ADV-HKS-003-03,Slanting Step Past the Edge,Gust Cresthook,F2,Champion,B
+MV-ADV-HKS-003-04,Short Hook Haul,Ponderous Disarm,F2,Champion,B
+MV-ADV-HKS-003-05,Guard Pry Open Cut,Mightcleat,F5,Champion,B
+MV-ADV-HKS-003-06,Qi-Wedge Guard Break,Toxincleat,F5,Champion,B
+MV-ADV-HKS-003-07,Wrist-Sprung Inside Cut,Mightsnarl,F5,Champion,B
+MV-ADV-HKS-003-08,Steady Guard-Opening Haul,Gyveclevis,F5,Champion,B
+MV-ADV-HKS-003-09,Gaping Defence Thrust,Rumble Hooklock,F2,Champion,B
+MV-ADV-HKS-003-10,Collapsing Cover Combination,Trouncing Disarm,F1,Champion,B
+MV-ADV-HKS-004-01,Bound-Blade Ready,Cleatplating,F4,Demigod,B
+MV-ADV-HKS-004-02,Slow Edge Circling,Disarmcloak,F4,Demigod,B
+MV-ADV-HKS-004-03,Walk-Through Step,Glancing Swordhook,F1,Demigod,B
+MV-ADV-HKS-004-04,Pommel Knock to the Jaw,Sanguine Snarl,F2,Demigod,B
+MV-ADV-HKS-004-05,Held Blade Squeeze,Gyvecleat,F5,Demigod,B
+MV-ADV-HKS-004-06,Sliding Off the Bind,Might Hooktip,F2,Demigod,B
+MV-ADV-HKS-004-07,Bound Sword Under the Foot,Clevisplating,F4,Demigod,B
+MV-ADV-HKS-004-08,Rope-Taut Line Press,Pulldown Plating,F3,Demigod,B
+MV-ADV-HKS-005-01,Twin Hook Basin Stance,Hookcurve Cloak,F3,Demigod,B
+MV-ADV-HKS-005-02,Paired Tip Stitch,Might Hooklock,F2,Demigod,B
+MV-ADV-HKS-005-03,River-Step Left Right,Silt Hookneck,F2,Demigod,B
+MV-ADV-HKS-005-04,Azure Twin Catch,Grapnelgreave,F4,Demigod,B
+MV-ADV-HKS-005-05,Dual-Track Hook Draw,Grinding Hookcrook,F1,Demigod,B
+MV-ADV-HKS-005-06,Basin Rim Shear,Iron Hookspine,F2,Demigod,B
+MV-ADV-HKS-005-07,Twin Hooks Interlock Spin,Hookhilt Plating,F3,Demigod,B
+MV-ADV-HKS-005-08,Paired Hawk Talon Seizure,Cleatcuirass,F4,Demigod,B
+MV-ADV-HKS-005-09,Two-River Convergence Cut,Trouncing Yank,F1,Demigod,B
+MV-ADV-HKS-006-01,Court-Pair Salute Guard,Hoarfrost Hookneck,F2,Champion,B
+MV-ADV-HKS-006-02,Matched Hooks Inside Cut,Iron Twistaway,F2,Champion,B
+MV-ADV-HKS-006-03,Pair-Step Advance,Torrent Snarl,F2,Champion,B
+MV-ADV-HKS-006-04,Twin Beard Shoulder Catch,Quelling Yank,F1,Champion,B
+MV-ADV-HKS-006-05,Court Scissor Cross,Pulldown Maelstrom,F3,Champion,B
+MV-ADV-HKS-006-06,Left Holds Right Strikes Twice,Sanguine Twistaway,F2,Champion,B
+MV-ADV-HKS-006-07,Cross-Court Shield Roll,Hoarfrost Hookend,F2,Champion,B
+MV-ADV-HKS-006-08,Mirrored Wrist Trap,Fastening Hookhilt,F2,Champion,B
+MV-ADV-HKS-006-09,Twin Court Beat and Pull,Silencing Cresthook,F1,Champion,B
+MV-ADV-HKS-006-10,Doubled Hook Hold-and-Drive,Quelling Hoarfrost Hooktip,F6a,Champion,B
+MV-ADV-HKS-006-11,Paired Quill Stitching Storm,Intent Hookcrook,F2,Champion,B
+MV-ADV-HKS-007-01,Bend-of-the-Stream Posture,Granite Hookcurve,F2,Demigod,B
+MV-ADV-HKS-007-02,Meander Cut,Might Disarm,F2,Demigod,B
+MV-ADV-HKS-007-03,Eddy Pivot,Careening Snarl,F1,Demigod,B
+MV-ADV-HKS-007-04,Current Drag of the Blade,Silencing Hookspine,F1,Demigod,B
+MV-ADV-HKS-007-05,Silt-Heavy Bend Press,Fastening Hooklock,F2,Demigod,B
+MV-ADV-HKS-007-06,Ford-Crossing Slip,Clevisspurt,F4,Demigod,B
+MV-ADV-HKS-007-07,River-Bend Hooking Throw,Snarlplating,F4,Demigod,B
+MV-ADV-HKS-007-08,Flood-Tide Overbearing Cut,Hourclevis,F5,Demigod,B
+MV-ADV-HKS-008-01,Hooked Tip Hanging Perch,Thorn Hookneck,F2,Ruler,B
+MV-ADV-HKS-008-02,Talon Swoop Cut,Raging Hookguard,F1,Ruler,B
+MV-ADV-HKS-008-03,Short-Wing Hop,Torrent Swordhook,F2,Ruler,B
+MV-ADV-HKS-008-04,Beak Snatch,Paralyzing Disarm,F1,Ruler,B
+MV-ADV-HKS-008-05,Flapping Guard-Blade Beat,Chime Swordhook,F2,Ruler,B
+MV-ADV-HKS-008-06,Updraft Hook Lift,Fastening Twistaway,F2,Ruler,B
+MV-ADV-HKS-008-07,Stoop onto the Hand,Blazegrapnel,F5,Ruler,B
+MV-ADV-HKS-008-08,Hawk-Claw Hooked Seizure,Hoarfrost Hookguard,F2,Ruler,B
+MV-ADV-HKS-008-09,Circling Raptor Sequence,Ponderous Yank,F2,Ruler,B
+MV-ADV-HKS-008-10,Cliff-Edge Hook Drop,Splitting Hooklock,F1,Ruler,B
+MV-ADV-HKS-009-01,Wind-Sworn Opening Pose,Thorn Cresthook,F2,Champion,B
+MV-ADV-HKS-009-02,Gust-Flick Wrist Cut,Ironcleat,F5,Champion,B
+MV-ADV-HKS-009-03,Plateau Glide,Silt Twistaway,F2,Champion,B
+MV-ADV-HKS-009-04,Cross-Wind Hook Pull,Cleviscuirass,F4,Champion,B
+MV-ADV-HKS-009-05,Leaning-Gale Press,Harpooning Hookcurve,F1,Champion,B
+MV-ADV-HKS-009-06,Gale-Sworn Parry Wheel,Hookguard Hauberk,F3,Champion,B
+MV-ADV-HKS-009-07,Hooked Bearing Take,Gyvesnarl,F5,Champion,B
+MV-ADV-HKS-009-08,Windward Hook Tear,Hamstringing Pulldown,F1,Champion,B
+MV-ADV-HKS-009-09,Open-Plateau Cutting Rush,Ponderous Hookhilt,F2,Champion,B
+MV-ADV-HKS-010-01,Edge-Stand Ready Pose,Hookend Plating,F3,Demigod,B
+MV-ADV-HKS-010-02,Rim-Run Cut,Might Hookcrook,F2,Demigod,B
+MV-ADV-HKS-010-03,Fall-Away Step,Torrent Pulldown,F2,Demigod,B
+MV-ADV-HKS-010-04,Edge-Snag Wrench,Cleviscloak,F4,Demigod,B
+MV-ADV-HKS-010-05,Wind-Shear Parry,Grapnelcuirass,F4,Demigod,B
+MV-ADV-HKS-010-06,Cliff-Face Cover,Hookspine Cuirass,F3,Demigod,B
+MV-ADV-HKS-010-07,Edge Pull and Drop,Suppressing Hookcrook,F1,Demigod,B
+MV-ADV-HKS-010-08,Updraft Parry Lift,Murkcleat,F5,Demigod,B
+MV-ADV-HKS-010-09,Wind-Bite Slicing Withdrawal,Hookcurve Barrage,F3,Demigod,B
+MV-ADV-HKS-010-10,Plateau Edge Hooking Fall,Ponderous Hooktip,F2,Demigod,B
+MV-ADV-HKS-010-11,Updrafted Barb Rending,Scalding Hookguard,F1,Demigod,B
+MV-ADV-HKS-010-12,Gale-Rim Cascading Cuts,Swordhook Thrash,F3,Demigod,B
+MV-ADV-HKS-011-01,Oath Pledge Stance,Granite Cresthook,F2,Demigod,B
+MV-ADV-HKS-011-02,Fixed-Line Hook Thrust,Harpooning Hookend,F1,Demigod,B
+MV-ADV-HKS-011-03,Held-Bearing Sidestep,Vaulting Disarm,F1,Demigod,B
+MV-ADV-HKS-011-04,Sworn Hook Withhold,Thorn Twistaway,F2,Demigod,B
+MV-ADV-HKS-011-05,Fixed-Bearing Counter Cut,Iron Hookneck,F2,Demigod,B
+MV-ADV-HKS-011-06,Unbroken Oath Press,Thorn Hookhilt,F2,Demigod,B
+MV-ADV-HKS-011-07,Gale-Oath Hooking Pull,Gyve Hookspine,F2,Demigod,B
+MV-ADV-HKS-011-08,Bearing-Bound Cascade,Intent Yank,F2,Demigod,B
+MV-ADV-HKS-012-01,Wide Hook Guard on Open Ground,Granite Hooktip,F2,Ruler,B
+MV-ADV-HKS-012-02,Wind-Gap Slash,Might Swordhook,F2,Ruler,B
+MV-ADV-HKS-012-03,Long-Reach Slide Step,Bounding Hooklock,F1,Ruler,B
+MV-ADV-HKS-012-04,Reed-Bend Hook Pull,Thornsnarl,F5,Ruler,B
+MV-ADV-HKS-012-05,Backwind Parry,Gustclevis,F5,Ruler,B
+MV-ADV-HKS-012-06,Gale-Hook Overreach Trap,Staggering Snarl,F1,Ruler,B
+MV-ADV-HKS-012-07,Sweeping Gale Arc,Rumble Hooktip,F2,Ruler,B
+MV-ADV-HKS-012-08,Hooked Gale Arc Break,Rumble Snarl,F2,Ruler,B
+MV-ADV-HKS-012-09,Open-Ground Whirl of Hooks,Ponderous Snarl,F2,Ruler,B
+MV-ADV-HKS-012-10,Gale Pull Through the Crowd,Silencing Twistaway,F1,Ruler,B

@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-RPD-001-01,Second-Book Spiral Cast,Vicious Whipout,F1,Senior,A
+MV-INT-RPD-001-02,Twin Loop Wrist Hold,Levering Cordknot,F1,Senior,A
+MV-INT-RPD-001-03,Cord-Slip Backstep,Ducking Dartneck,F1,Senior,A
+MV-INT-RPD-001-04,Crossed Cord Chop Parry,Resolute Cordlength,F1,Senior,A
+MV-INT-RPD-001-05,Qi-Pointed Dart Pierce,Stern Reelin,F1,Senior,A
+MV-INT-RPD-001-06,Beam-Anchored Cord Leap,Scudding Retrieve,F1,Senior,A
+MV-INT-RPD-002-01,Running Noose Toss,Gripping Cordloop,F1,Senior,A
+MV-INT-RPD-002-02,Stooped Loop Evasion,Tineswerve,F4,Senior,A
+MV-INT-RPD-002-03,Behind-Back Hand Swap,Gagging Flickhand,F1,Senior,A
+MV-INT-RPD-002-04,Loop Slap Check,Unmoving Tailring,F1,Senior,A
+MV-INT-RPD-002-05,Foot Snare Plant,Entangling Loopcast,F1,Senior,A
+MV-INT-RPD-002-06,Slack-Line Pin Hold,Gripping Cordwinder,F1,Senior,A
+MV-INT-RPD-002-07,Qi-Tightened Snare,Tinehasp,F4,Senior,A
+MV-INT-RPD-002-08,Slipped Loop Counter Cast,Tineflog,F4,Senior,A
+MV-INT-RPD-003-01,Sent-Dart Straight Run,Spiralcast Swat,F3,Senior,A
+MV-INT-RPD-003-02,Mid-Flight Qi Nudge,Thrumflog,F4,Senior,A
+MV-INT-RPD-003-03,Return-Call Clip,Stern Dartneck,F1,Senior,A
+MV-INT-RPD-003-04,Humming Cord Stance,Kindly Dartblade,F1,Senior,A
+MV-INT-RPD-003-05,Slide-Rail Cord Guard,Guarding Ringend,F1,Senior,A
+MV-INT-RPD-003-06,Dodge-Chasing Dart Throw,Doughty Darttip,F1,Senior,A
+MV-INT-RPD-003-07,Sent-Cord Stiff Whip,Reelinslap,F4,Senior,A
+MV-INT-RPD-004-01,Whirl Guard Entry,Brass Flickhand,F2,Warrior,B
+MV-INT-RPD-004-02,High Spin Parry,Layered Cordlength,F1,Warrior,B
+MV-INT-RPD-004-03,Low Spin Parry,Hazespool,F5,Warrior,B
+MV-INT-RPD-004-04,Whirl-Break Throw,Grim Snapback,F1,Warrior,B
+MV-INT-RPD-004-05,Orbiting Right Step,Rillreelin,F5,Warrior,B
+MV-INT-RPD-004-06,Disk Snap on the Blade,Static Loopcast,F2,Warrior,B
+MV-INT-RPD-004-07,Sustained Cord Disk,Sprig Dartblade,F2,Warrior,B
+MV-INT-RPD-004-08,Arrow-Turning Whirl,Tinescreen,F4,Warrior,B
+MV-INT-RPD-004-09,Disk Release Lash,Thrumswat,F4,Warrior,B
+MV-INT-RPD-005-01,Post Rebound Cast,Brisk Cordknot,F1,Warrior,B
+MV-INT-RPD-005-02,Wall Carom Throw,Darttip Thwack,F3,Warrior,B
+MV-INT-RPD-005-03,Rebound Echo Listening,Recall Cordwinder,F2,Warrior,B
+MV-INT-RPD-005-04,Corner Carom Feint,Recall Snapback,F2,Warrior,B
+MV-INT-RPD-005-05,Rebound Step Slide,Clay Tailring,F2,Warrior,B
+MV-INT-RPD-005-06,Catch-and-Cast Rhythm,Gleam Reelin,F2,Warrior,B
+MV-INT-RPD-005-07,Rapped Hand Guard,Hazetine,F5,Warrior,B
+MV-INT-RPD-005-08,Qi-Sprung Ricochet,Ruthless Spiralcast,F1,Warrior,B
+MV-INT-RPD-005-09,Bounding Double Strike,Brass Whipout,F2,Warrior,B
+MV-INT-RPD-005-10,Caught-Dart Burst Throw,Blankthrum,F5,Warrior,B
+MV-INT-RPD-006-01,Short-Cord Palm Strike,Embertine,F5,Warrior,B
+MV-INT-RPD-006-02,Choked Dart Hammer,Spoolthwack,F4,Warrior,B
+MV-INT-RPD-006-03,Collar Loop Pull,Stamp Retrieve,F2,Warrior,B
+MV-INT-RPD-006-04,Inside Step Press,Pluckzip,F4,Warrior,B
+MV-INT-RPD-006-05,Pinned Cord Guard,Resolute Dartneck,F1,Warrior,B
+MV-INT-RPD-006-06,Close-Wrap Takedown,Sprigspool,F5,Warrior,B
+MV-INT-RPD-006-07,Dart Pommel Crack,Emberspool,F5,Warrior,B
+MV-INT-RPD-007-01,Spear Haft Tangle,Stalling Loopcast,F1,Warrior,B
+MV-INT-RPD-007-02,Staff Tip Snare,Reelinprop,F4,Warrior,B
+MV-INT-RPD-007-03,Inside the Shaft Slip,Ringend Stalk,F3,Warrior,B
+MV-INT-RPD-007-04,Haft Rake Down,Gall Spiralcast,F2,Warrior,B
+MV-INT-RPD-007-05,Over-the-Shaft Dart Drop,Cordknot Scorer,F3,Warrior,B
+MV-INT-RPD-007-06,Long-Reach Counter Watch,Alert Tailring,F1,Warrior,B
+MV-INT-RPD-007-07,Qi-Pulled Haft Wrench,Static Cordloop,F2,Warrior,B
+MV-INT-RPD-007-08,Shaft-Riding Dart Run,Honed Flickhand,F2,Warrior,B
+MV-INT-RPD-008-01,Far-Cast Straight Line,Ember Snapback,F2,Warrior,B
+MV-INT-RPD-008-02,Reach Hop and Throw,Rill Whipout,F2,Warrior,B
+MV-INT-RPD-008-03,Distance Reading Lift,Thrumlinen,F4,Warrior,B
+MV-INT-RPD-008-04,Wide Arc Cut Cast,Hungry Cordloop,F1,Warrior,B
+MV-INT-RPD-008-05,Reach Recall Guard,Poise Ringend,F2,Warrior,B
+MV-INT-RPD-008-06,Staggered Double Cast,Acrid Dartblade,F1,Warrior,B
+MV-INT-RPD-008-07,Far Qi Surge Cast,Brisk Reelin,F1,Warrior,B
+MV-INT-RPD-008-08,Arc-Snap Return Cut,Pluckthwack,F4,Warrior,B
+MV-INT-RPD-008-09,Long-Reach Anchor Pull,Cordlength Carapace,F3,Warrior,B

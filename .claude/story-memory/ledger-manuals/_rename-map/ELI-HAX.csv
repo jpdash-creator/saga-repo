@@ -1,0 +1,147 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-HAX-001-01,Wing-Tuck Guard,Hoarfrost Cheek,F2,Demigod L1 Low,B
+MV-ELI-HAX-001-02,Pinion Chop,Bitruin,F4,Demigod L1 Low,B
+MV-ELI-HAX-001-03,Low Hatchet Glide,Heelflash,F4,Demigod L1 Low,B
+MV-ELI-HAX-001-04,Feather-Edge Qi Cut,Poll Havoc,F3,Demigod L1 Low,B
+MV-ELI-HAX-001-05,Primary-Feather Parry,Unbowed Handlenub,F1,Demigod L1 Low,B
+MV-ELI-HAX-001-06,Talon-Seize Hook,Beardnerve,F4,Demigod L1 Low,B
+MV-ELI-HAX-001-07,Wing-Beat Cascade,Lotbillet,F5,Demigod L1 Low,B
+MV-ELI-HAX-001-08,Dive-Break Cleave,Facet Splinter,F2,Demigod L1 Low,B
+MV-ELI-HAX-001-09,Hawk-Wing Vanishing Cut,Devastating Might Helve,F6a,Demigod L1 Low,B
+MV-ELI-HAX-002-01,Track-One Ready Guard,Adamantine Eye,F1,Demigod L2 Low,B
+MV-ELI-HAX-002-02,Track-Two Reply Chop,Billetruin,F4,Demigod L2 Low,B
+MV-ELI-HAX-002-03,Parallel Rap,Numbing Cheek,F1,Demigod L2 Low,B
+MV-ELI-HAX-002-04,Dual-Rail Step,Pollblink,F4,Demigod L2 Low,B
+MV-ELI-HAX-002-05,Field-Track Edge Cut,Beardwrath,F4,Demigod L2 Low,B
+MV-ELI-HAX-002-06,Rail-Cross Parry,Equipoise Toe,F2,Demigod L2 Low,B
+MV-ELI-HAX-002-07,Double-Rail Hook,Immobilizing Heel,F1,Demigod L2 Low,B
+MV-ELI-HAX-002-08,Parallel Field Sweep,Downpour Chock,F2,Demigod L2 Low,B
+MV-ELI-HAX-002-09,Twin-Track Counter Chain,Multiplying Haftswell,F1,Demigod L2 Low,B
+MV-ELI-HAX-002-10,Two-Track Severing Stroke,Titanic Rumble Fell,F6a,Demigod L2 Low,B
+MV-ELI-HAX-003-01,Bank-Braced Hatchet,Flintlike Haftswell,F1,Demigod L3 Mid,B
+MV-ELI-HAX-003-02,Silt-Sweep Chop,Helvewrath,F4,Demigod L3 Mid,B
+MV-ELI-HAX-003-03,Bankwater Rap,Rumble Handlenub,F2,Demigod L3 Mid,B
+MV-ELI-HAX-003-04,Channel-Following Step,Billetglare,F4,Demigod L3 Mid,B
+MV-ELI-HAX-003-05,Weir Hook,Toevalor,F4,Demigod L3 Mid,B
+MV-ELI-HAX-003-06,Rising-Water Qi Cut,Kerfruin,F4,Demigod L3 Mid,B
+MV-ELI-HAX-003-07,Steady Current Parry,Chime Haftswell,F2,Demigod L3 Mid,B
+MV-ELI-HAX-003-08,Pressing Hook Pull,Maiming Eye,F1,Demigod L3 Mid,B
+MV-ELI-HAX-003-09,Flood-Pressure Sequence,Synchronized Chock,F1,Demigod L3 Mid,B
+MV-ELI-HAX-003-10,Backwater Suppression Chop,Shadehelve,F5,Demigod L3 Mid,B
+MV-ELI-HAX-003-11,River-Breaking Bank Stroke,Tempered Billet,F2,Demigod L3 Mid,B
+MV-ELI-HAX-004-01,Hook-Edge Ready Guard,Impervious Beard,F1,Demigod L4 Low,B
+MV-ELI-HAX-004-02,Edge-Then-Hook Chop,Cheekscourge,F4,Demigod L4 Low,B
+MV-ELI-HAX-004-03,Hook-Set Step,Heelglimmer,F4,Demigod L4 Low,B
+MV-ELI-HAX-004-04,Edge-Setting Hook,Overbearing Bit,F1,Demigod L4 Low,B
+MV-ELI-HAX-004-05,Hook-Setting Edge,Heelwrath,F4,Demigod L4 Low,B
+MV-ELI-HAX-004-06,Paired Parry Roll,Torrent Beard,F2,Demigod L4 Low,B
+MV-ELI-HAX-004-07,Hook-Edge Alternation,Escalating Fell,F1,Demigod L4 Low,B
+MV-ELI-HAX-004-08,Paired Rip Cut,Hollowbit,F5,Demigod L4 Low,B
+MV-ELI-HAX-004-09,Bound Hook-and-Edge Severance,Punishing Granite Eye,F6a,Demigod L4 Low,B
+MV-ELI-HAX-005-01,Dusk Hatchet Guard,Unconquered Toe,F1,Demigod L5 Mid,B
+MV-ELI-HAX-005-02,Low-Light Chop,Pollscourge,F4,Demigod L5 Mid,B
+MV-ELI-HAX-005-03,Shadow-Side Rap,Mayhem Beard,F2,Demigod L5 Mid,B
+MV-ELI-HAX-005-04,Dim-Path Step,Chockvortex,F4,Demigod L5 Mid,B
+MV-ELI-HAX-005-05,Gloaming Hook,Hogtying Kerf,F1,Demigod L5 Mid,B
+MV-ELI-HAX-005-06,Field-Sight Edge Cut,Cheekruin,F4,Demigod L5 Mid,B
+MV-ELI-HAX-005-07,Dusk-Blind Parry,Gust Bit,F2,Demigod L5 Mid,B
+MV-ELI-HAX-005-08,Evening Hook Pull,Toxin Helve,F2,Demigod L5 Mid,B
+MV-ELI-HAX-005-09,Dusk-Veil Retreat,Dazzling Fell,F1,Demigod L5 Mid,B
+MV-ELI-HAX-005-10,Twilight Sense Sequence,Intent Billet,F2,Demigod L5 Mid,B
+MV-ELI-HAX-005-11,Blind-Side Cleave,Clairvoyant Eye,F1,Demigod L5 Mid,B
+MV-ELI-HAX-005-12,Azure Dusk Edge-Fall,Hellish Handlenub,F1,Demigod L5 Mid,B
+MV-ELI-HAX-006-01,Twin-Hand Ready Cross,Obdurate Heel,F1,Demigod L6 Low,B
+MV-ELI-HAX-006-02,Left-Right Counted Chop,Beardscourge,F4,Demigod L6 Low,B
+MV-ELI-HAX-006-03,Counted Pace Step,Toeblink,F4,Demigod L6 Low,B
+MV-ELI-HAX-006-04,Two-Beard Snag,Chimekerf,F5,Demigod L6 Low,B
+MV-ELI-HAX-006-05,Twin-Qi Edge Cut,Blistering Chock,F1,Demigod L6 Low,B
+MV-ELI-HAX-006-06,Crossed-Head Parry,Murk Eye,F2,Demigod L6 Low,B
+MV-ELI-HAX-006-07,Two-Head Hold,Harnessing Poll,F1,Demigod L6 Low,B
+MV-ELI-HAX-006-08,Reckoned Pair Cascade,Reverberating Fell,F1,Demigod L6 Low,B
+MV-ELI-HAX-006-09,Opposed-Edge Shear,Novaheel,F5,Demigod L6 Low,B
+MV-ELI-HAX-006-10,One-Body Pair Cut,Sanguine Helve,F2,Demigod L6 Low,B
+MV-ELI-HAX-007-01,Dawn Grip Check,Inexorable Cheek,F1,Demigod L7 Mid,B
+MV-ELI-HAX-007-02,Mist-Clearing Chop,Bithavoc,F4,Demigod L7 Mid,B
+MV-ELI-HAX-007-03,Dew-Slick Footing Step,Eyeflash,F4,Demigod L7 Mid,B
+MV-ELI-HAX-007-04,Sunrise Rap,Overpowering Heel,F1,Demigod L7 Mid,B
+MV-ELI-HAX-007-05,Morning Beard Pull,Fastening Poll,F2,Demigod L7 Mid,B
+MV-ELI-HAX-007-06,Warmed-Hand Qi Cut,Mightbit,F5,Demigod L7 Mid,B
+MV-ELI-HAX-007-07,Dawn-Line Parry,Equipoise Cheek,F2,Demigod L7 Mid,B
+MV-ELI-HAX-007-08,First-Light Hook,Suffocating Beard,F1,Demigod L7 Mid,B
+MV-ELI-HAX-007-09,Morning Round Sequence,Overlapping Kerf,F1,Demigod L7 Mid,B
+MV-ELI-HAX-007-10,Daybreak Field Sweep,Daybreak Poll,F2,Demigod L7 Mid,B
+MV-ELI-HAX-007-11,Hatchet-Hand Daybreak Stroke,Energizing Beard,F1,Demigod L7 Mid,B
+MV-ELI-HAX-008-01,Oath-Book Guard,Unbudging Handlenub,F1,Demigod L1 Mid,B
+MV-ELI-HAX-008-02,Fair-Wind Hatchet Drop,Helvehavoc,F4,Demigod L1 Mid,B
+MV-ELI-HAX-008-03,Gust-Reading Rap,Mastering Toe,F1,Demigod L1 Mid,B
+MV-ELI-HAX-008-04,Gust-Light Hatchet Pace,Unseen Cheek,F1,Demigod L1 Mid,B
+MV-ELI-HAX-008-05,Windward Qi Cut,Ironbit,F5,Demigod L1 Mid,B
+MV-ELI-HAX-008-06,Hatchet Oath-Held Parry,Chime Poll,F2,Demigod L1 Mid,B
+MV-ELI-HAX-008-07,Wind-Sworn Hook,Ponderous Billet,F2,Demigod L1 Mid,B
+MV-ELI-HAX-008-08,Oath-Book Cascade,Confluent Axehew,F1,Demigod L1 Mid,B
+MV-ELI-HAX-008-09,Sworn Gale Suppression Cuts,Charter Eye,F2,Demigod L1 Mid,B
+MV-ELI-HAX-008-10,Wind-Sworn Flash Cut,Rampaging Fell,F1,Demigod L1 Mid,B
+MV-ELI-HAX-009-01,First-Bearing Guard,Invincible Heel,F1,Demigod L2 Mid,B
+MV-ELI-HAX-009-02,Bearing-Line Chop,Beardruin,F4,Demigod L2 Mid,B
+MV-ELI-HAX-009-03,Bearing Shift Step,Phantom Cheek,F1,Demigod L2 Mid,B
+MV-ELI-HAX-009-04,Taken-Bearing Qi Cut,Wrathful Chock,F1,Demigod L2 Mid,B
+MV-ELI-HAX-009-05,Hand-Width Deflection,Gust Poll,F2,Demigod L2 Mid,B
+MV-ELI-HAX-009-06,Beard Bearing Hook Drag,Hogtying Billet,F1,Demigod L2 Mid,B
+MV-ELI-HAX-009-07,Hatchet Bearing Chain Sequence,Multiplying Bit,F1,Demigod L2 Mid,B
+MV-ELI-HAX-009-08,Breath-Loosed Hatchet Cleave,Berserk Haftswell,F1,Demigod L2 Mid,B
+MV-ELI-HAX-009-09,Bearing-Break Counterstroke,Verity Cheek,F2,Demigod L2 Mid,B
+MV-ELI-HAX-010-01,Plateau-Rim Stance,Indomitable Bit,F1,Demigod L3 Low,B
+MV-ELI-HAX-010-02,Hatchet High-Ground Chop,Kerfwrath,F4,Demigod L3 Low,B
+MV-ELI-HAX-010-03,Updraft Rap,Numbing Poll,F1,Demigod L3 Low,B
+MV-ELI-HAX-010-04,Scree Step,Dazzling Toe,F1,Demigod L3 Low,B
+MV-ELI-HAX-010-05,Edge-Hook Snatch,Strangling Chock,F1,Demigod L3 Low,B
+MV-ELI-HAX-010-06,Rim-Wind Qi Cut,Unsparing Beard,F1,Demigod L3 Low,B
+MV-ELI-HAX-010-07,Crosswind Rim Parry,Torrent Poll,F2,Demigod L3 Low,B
+MV-ELI-HAX-010-08,Scarp Hook Pull,Rumbleheel,F5,Demigod L3 Low,B
+MV-ELI-HAX-010-09,Ledge Retreat,Lightning Axehew,F1,Demigod L3 Low,B
+MV-ELI-HAX-010-10,Plateau Gust Sequence,Escalating Beard,F1,Demigod L3 Low,B
+MV-ELI-HAX-010-11,Scarp-Splitting Cleave,Glint Eye,F2,Demigod L3 Low,B
+MV-ELI-HAX-010-12,Gale-Gap Sweep,Granite Fell,F2,Demigod L3 Low,B
+MV-ELI-HAX-010-13,Plateau-Fall Stroke,Titanic Helve,F1,Demigod L3 Low,B
+MV-ELI-HAX-011-01,Open-Flank Guard,Unrelenting Cheek,F1,Demigod L4 Mid,B
+MV-ELI-HAX-011-02,Wide-Field Chop,Hellish Bit,F1,Demigod L4 Mid,B
+MV-ELI-HAX-011-03,Wall-Less Rap,Overbearing Poll,F1,Demigod L4 Mid,B
+MV-ELI-HAX-011-04,Circle-Step,Meteoric Kerf,F1,Demigod L4 Mid,B
+MV-ELI-HAX-011-05,Open-Hand Hook,Hogtying Heel,F1,Demigod L4 Mid,B
+MV-ELI-HAX-011-06,All-Sides Qi Cut,Beardhavoc,F4,Demigod L4 Mid,B
+MV-ELI-HAX-011-07,Quarter-Turn Parry,Equipoise Poll,F2,Demigod L4 Mid,B
+MV-ELI-HAX-011-08,Open-Ground Hook Pull,Maiming Chock,F1,Demigod L4 Mid,B
+MV-ELI-HAX-011-09,Every-Quarter Sequence,Synchronized Helve,F1,Demigod L4 Mid,B
+MV-ELI-HAX-011-10,Hatchet Open-Sky Sweep,Dismantling Bit,F2,Demigod L4 Mid,B
+MV-ELI-HAX-011-11,No-Wall Rear Strike,Booming Eye,F1,Demigod L4 Mid,B
+MV-ELI-HAX-012-01,Hatchet Oath-Wind Stance,Impenetrable Eye,F1,Demigod L5 Low,B
+MV-ELI-HAX-012-02,Sworn Chop,Ruinous Splinter,F1,Demigod L5 Low,B
+MV-ELI-HAX-012-03,Binding Rap,Webbing Cheek,F1,Demigod L5 Low,B
+MV-ELI-HAX-012-04,Oath Pace,Vanishing Heel,F1,Demigod L5 Low,B
+MV-ELI-HAX-012-05,Wind-Bound Qi Cut,Corroding Beard,F1,Demigod L5 Low,B
+MV-ELI-HAX-012-06,Hatchet Oath Parry Turn,Chime Cheek,F2,Demigod L5 Low,B
+MV-ELI-HAX-012-07,Binding Hook,Hoarfrost Eye,F2,Demigod L5 Low,B
+MV-ELI-HAX-012-08,Sworn Stroke Sequence,Lot Poll,F2,Demigod L5 Low,B
+MV-ELI-HAX-012-09,Oath-Fed Cleave,Brutalizing Fell,F1,Demigod L5 Low,B
+MV-ELI-HAX-012-10,Wind-Bound Oath Stroke,Mangling Heel,F1,Demigod L5 Low,B
+MV-ELI-HAX-013-01,Hatchet Crosswind Guard,Unassailable Bit,F1,Demigod L6 Mid,B
+MV-ELI-HAX-013-02,Side-Gust Chop,Punishing Heel,F1,Demigod L6 Mid,B
+MV-ELI-HAX-013-03,Slant Step,Headlong Bit,F1,Demigod L6 Mid,B
+MV-ELI-HAX-013-04,Crosswind Qi Cut,Toewrath,F4,Demigod L6 Mid,B
+MV-ELI-HAX-013-05,Gust-Turn Deflection,Murk Poll,F2,Demigod L6 Mid,B
+MV-ELI-HAX-013-06,Cross-Draft Hook,Suffocating Eye,F1,Demigod L6 Mid,B
+MV-ELI-HAX-013-07,Crossing Cut Sequence,Reverberating Heel,F1,Demigod L6 Mid,B
+MV-ELI-HAX-013-08,Gale-Cross Shear,Rumble Axehew,F2,Demigod L6 Mid,B
+MV-ELI-HAX-013-09,Crosswind Severing Line,Shattering Toe,F1,Demigod L6 Mid,B
+MV-ELI-HAX-014-01,Bearing-Hold Guard,Flintlike Handlenub,F1,Demigod L7 Low,B
+MV-ELI-HAX-014-02,Break-Line Chop,Toehavoc,F4,Demigod L7 Low,B
+MV-ELI-HAX-014-03,Hold-and-Rap,Overpowering Cheek,F1,Demigod L7 Low,B
+MV-ELI-HAX-014-04,Hatchet Bearing Step,Dazzling Poll,F1,Demigod L7 Low,B
+MV-ELI-HAX-014-05,Break Hook,Enthralling Beard,F1,Demigod L7 Low,B
+MV-ELI-HAX-014-06,Held-Line Qi Cut,Bitscourge,F4,Demigod L7 Low,B
+MV-ELI-HAX-014-07,Bearing-Counter Parry,Gust Haftswell,F2,Demigod L7 Low,B
+MV-ELI-HAX-014-08,Break-Pull Hook,Numbing Billet,F1,Demigod L7 Low,B
+MV-ELI-HAX-014-09,Bearing Retreat,Torrential Beard,F1,Demigod L7 Low,B
+MV-ELI-HAX-014-10,Hold-Then-Break Sequence,Overlapping Helve,F1,Demigod L7 Low,B
+MV-ELI-HAX-014-11,Line-Shattering Cleave,Tempered Chock,F2,Demigod L7 Low,B
+MV-ELI-HAX-014-12,Bearing-Broken Edge Stroke,Shade Toe,F2,Demigod L7 Low,B

@@ -1,0 +1,79 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-KNF-001-01,Clinch-Range Short Cut,Pareflog,F4,Senior,A
+MV-INT-KNF-001-02,Elbow-Tuck Stab,Lurching Peel,F1,Senior,A
+MV-INT-KNF-001-03,Knife Inside Wrist Hook,Stalling Trim,F1,Senior,A
+MV-INT-KNF-001-04,Close Guard Cover,Plungehasp,F4,Senior,A
+MV-INT-KNF-001-05,Body-Line Slip Step,Fleet Pare,F1,Senior,A
+MV-INT-KNF-001-06,Qi-Threaded Clinch Slice,Vicious Thumbramp,F1,Senior,A
+MV-INT-KNF-001-07,Locked-Arm Tip Drive,Slitscorer,F4,Senior,A
+MV-INT-KNF-002-01,Open Hand Feint Cut,Gripping Buttcap,F1,Senior,A
+MV-INT-KNF-002-02,Free Hand Sleeve Pull,Cramping Shave,F1,Senior,A
+MV-INT-KNF-002-03,Palm Shove Edge Follow,Choil Scorer,F3,Senior,A
+MV-INT-KNF-002-04,Hand Trap Slice,Viselike Lanyard,F1,Senior,A
+MV-INT-KNF-002-05,Off-Hand Cover Block,Rooted Bolster,F1,Senior,A
+MV-INT-KNF-002-06,Switch Hand Pass,Edgebelly Buckle,F3,Senior,A
+MV-INT-KNF-002-07,Hand-Shadowed Rising Cut,Grim Plunge,F1,Senior,A
+MV-INT-KNF-002-08,Palm Cover Tip Surge,Pareslap,F4,Senior,A
+MV-INT-KNF-003-01,Slip-In Entry Cut,Rough Whittle,F1,Senior,A
+MV-INT-KNF-003-02,Outside Entry Stab,Savage Scales,F1,Senior,A
+MV-INT-KNF-003-03,Entry Guard Check,Swedgebarrier,F4,Senior,A
+MV-INT-KNF-003-04,Gap-Closing Skip Step,Shaveglide,F4,Senior,A
+MV-INT-KNF-003-05,Qi-Pulse Entry Surge,Pirouetting Pare,F1,Senior,A
+MV-INT-KNF-003-06,Entering Edge Cascade,Lurching Tangpin,F1,Senior,A
+MV-INT-KNF-004-01,Quarry Finishing Cut,Bold Slit,F1,Senior,A
+MV-INT-KNF-004-02,Follow-Through Drive,Scalesscorer,F4,Senior,A
+MV-INT-KNF-004-03,Tracking Foot Glide,Scudding Peel,F1,Senior,A
+MV-INT-KNF-004-04,Thicket Guard Turn,Padded Scales,F1,Senior,A
+MV-INT-KNF-004-05,Snare-Cord Sever,Lurching Whittle,F1,Senior,A
+MV-INT-KNF-004-06,Wounded-Prey Watch,Alert Plunge,F1,Senior,A
+MV-INT-KNF-004-07,Running Game Intercept Slash,Brisk Lanyard,F1,Senior,A
+MV-INT-KNF-004-08,Hunting Tip Ambush Stab,Fierce Buttcap,F1,Senior,A
+MV-INT-KNF-004-09,Pursuit Edge Run,Swedge Swat,F3,Senior,A
+MV-INT-KNF-005-01,First Form Straight Cut,Choilthwack,F4,Senior,A
+MV-INT-KNF-005-02,Second Form Rising Cut,Keen Trim,F1,Senior,A
+MV-INT-KNF-005-03,Third Form Diagonal Drop,Shaveswat,F4,Senior,A
+MV-INT-KNF-005-04,Fourth Form Thrust Line,Keen Slit,F1,Senior,A
+MV-INT-KNF-005-05,Fifth Form Parry Return,Plungeprop,F4,Senior,A
+MV-INT-KNF-005-06,Sixth Form Slide Step,Tangpin Curl,F3,Senior,A
+MV-INT-KNF-005-07,Seventh Form Tip Check,Choilbuckle,F4,Senior,A
+MV-INT-KNF-005-08,Eighth Form Qi Overhead Chop,Fierce Bolster,F1,Senior,A
+MV-INT-KNF-005-09,Ninth Form Rolling Wrist Cut,Dire Swedge,F1,Senior,A
+MV-INT-KNF-005-10,Tenth Form Binding Close,Clutching Swedge,F1,Senior,A
+MV-INT-KNF-006-01,Spine Rap Disarm,Gallpeel,F5,Warrior,B
+MV-INT-KNF-006-02,Edge Lead Draw,Draught Thumbramp,F2,Warrior,B
+MV-INT-KNF-006-03,Spine Lever Press,Lanyard Buckle,F3,Warrior,B
+MV-INT-KNF-006-04,Edge-Spine Flip Guard,Rooted Edgebelly,F1,Warrior,B
+MV-INT-KNF-006-05,Flat Slap Opening,Staticswedge,F5,Warrior,B
+MV-INT-KNF-006-06,Qi-Backed Spine Hammer,Stern Bolster,F1,Warrior,B
+MV-INT-KNF-006-07,Edge Return Slice,Statictrim,F5,Warrior,B
+MV-INT-KNF-007-01,Rock Chop Flurry,Static Whittle,F2,Warrior,B
+MV-INT-KNF-007-02,Slice and Slide Cut,Brawn Peel,F2,Warrior,B
+MV-INT-KNF-007-03,Rapid Mincing Jabs,Shard Tangpin,F2,Warrior,B
+MV-INT-KNF-007-04,Pan-Side Flat Block,Regimen Choil,F2,Warrior,B
+MV-INT-KNF-007-05,Counter Rhythm Step,Grit Choil,F2,Warrior,B
+MV-INT-KNF-007-06,Hot Kitchen Glance,Candor Thumbramp,F2,Warrior,B
+MV-INT-KNF-007-07,Tempo Doubling Chop Chain,Clayslit,F5,Warrior,B
+MV-INT-KNF-007-08,Blade Spin Catch Cut,Claypare,F5,Warrior,B
+MV-INT-KNF-008-01,Guard Shave Cut,Draught Buttcap,F2,Warrior,B
+MV-INT-KNF-008-02,Hilt Hook Pull,Weighty Pare,F2,Warrior,B
+MV-INT-KNF-008-03,Sleeve Rip Tip,Brasspeel,F5,Warrior,B
+MV-INT-KNF-008-04,Counter Bind Step,Clayplunge,F5,Warrior,B
+MV-INT-KNF-008-05,Guard Splitting Qi Wedge,Brutal Plunge,F1,Warrior,B
+MV-INT-KNF-008-06,Weapon Lock Peel,Trimbuckle,F4,Warrior,B
+MV-INT-KNF-009-01,First Link Cut,Honed Shave,F2,Warrior,B
+MV-INT-KNF-009-02,Second Link Return,Static Slit,F2,Warrior,B
+MV-INT-KNF-009-03,Third Link Cross,Scales Flog,F3,Warrior,B
+MV-INT-KNF-009-04,Link Breaking Retreat,Draught Trim,F2,Warrior,B
+MV-INT-KNF-009-05,Chain Guard Slide,Swedgebuckle,F4,Warrior,B
+MV-INT-KNF-009-06,Chain Rhythm Count,Humscales,F5,Warrior,B
+MV-INT-KNF-009-07,Qi-Linked Triple Cut,Embertrim,F5,Warrior,B
+MV-INT-KNF-009-08,Chain Bridging Step Cut,Grit Pare,F2,Warrior,B
+MV-INT-KNF-009-09,Chain Closing Lock,Viselike Edgebelly,F1,Warrior,B
+MV-INT-KNF-010-01,Hand Watch Probe Cut,Rushing Swedge,F1,Warrior,B
+MV-INT-KNF-010-02,Wrist Reading Tap,Attentive Plunge,F1,Warrior,B
+MV-INT-KNF-010-03,Finger Break Flick,Levering Shave,F1,Warrior,B
+MV-INT-KNF-010-04,Grip Shift Punish,Brass Whittle,F2,Warrior,B
+MV-INT-KNF-010-05,Reading Guard Slip,Edgebelly Prop,F3,Warrior,B
+MV-INT-KNF-010-06,Reach Test Step,Plungezip,F4,Warrior,B
+MV-INT-KNF-010-07,Qi Sensed Grip Counter,Fierce Slit,F1,Warrior,B
+MV-INT-KNF-010-08,Hand Reader's Rising Cut,Swift Buttcap,F1,Warrior,B

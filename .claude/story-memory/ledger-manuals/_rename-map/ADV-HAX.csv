@@ -1,0 +1,113 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-HAX-001-01,Melee Ready Guard,Granite Cheek,F2,Champion L1 Low,B
+MV-ADV-HAX-001-02,Cut and Recover,Bitassault,F4,Champion L1 Low,B
+MV-ADV-HAX-001-03,Hook-Step Pull,Rumblekerf,F5,Champion L1 Low,B
+MV-ADV-HAX-001-04,Melee Slip Step,Toespurt,F4,Champion L1 Low,B
+MV-ADV-HAX-001-05,Full-Meridian Chop,Beardassault,F4,Champion L1 Low,B
+MV-ADV-HAX-001-06,Close Hook Wrench,Hoarfrost Toe,F2,Champion L1 Low,B
+MV-ADV-HAX-001-07,Mail-Biting Chop,Glintbit,F5,Champion L1 Low,B
+MV-ADV-HAX-001-08,Three-Pace Cut Cascade,Successive Poll,F1,Champion L1 Low,B
+MV-ADV-HAX-002-01,Close-Axe Neutral Guard,Iron Eye,F2,Champion L5 Low,B
+MV-ADV-HAX-002-02,Beard-Lift Cut,Helvethrash,F4,Champion L5 Low,B
+MV-ADV-HAX-002-03,Cut-Drag-Cut,Might Axehew,F2,Champion L5 Low,B
+MV-ADV-HAX-002-04,Inside Heel Turn,Surging Splinter,F1,Champion L5 Low,B
+MV-ADV-HAX-002-05,Qi-Wound Hook,Chime Billet,F2,Champion L5 Low,B
+MV-ADV-HAX-002-06,Two-Cut Qi Flow,Chockbarrage,F4,Champion L5 Low,B
+MV-ADV-HAX-002-07,Beard-Wrench Slide,Thornpoll,F5,Champion L5 Low,B
+MV-ADV-HAX-002-08,Guard Unmaking Sequence,Hour Chock,F2,Champion L5 Low,B
+MV-ADV-HAX-002-09,Overturning Hook Chop,Axehew Hauberk,F3,Champion L5 Low,B
+MV-ADV-HAX-003-01,Field-Hatchet Stand,Adamant Haftswell,F1,Demigod L1 Low,B
+MV-ADV-HAX-003-02,Poll-Edge Switch Chop,Cheekthrash,F4,Demigod L1 Low,B
+MV-ADV-HAX-003-03,Field-Line Rap,Silencing Fell,F1,Demigod L1 Low,B
+MV-ADV-HAX-003-04,Two-Pace Glide,Silt Helve,F2,Demigod L1 Low,B
+MV-ADV-HAX-003-05,Beard Rake,Tempered Poll,F2,Demigod L1 Low,B
+MV-ADV-HAX-003-06,Field-Edge Cleave,Billetbarrage,F4,Demigod L1 Low,B
+MV-ADV-HAX-003-07,Field-Fed Guard Break,Eyecloak,F4,Demigod L1 Low,B
+MV-ADV-HAX-003-08,Closing Field Step,Torrent Bit,F2,Demigod L1 Low,B
+MV-ADV-HAX-003-09,Hatchet Field Outflow,Ravaging Slag Helve,F6a,Demigod L1 Low,B
+MV-ADV-HAX-003-10,Field-Rooted Counter Cut,Resilient Toe,F1,Demigod L1 Low,B
+MV-ADV-HAX-004-01,Plank-Biting Chop,Pollassault,F4,Demigod L3 Low,B
+MV-ADV-HAX-004-02,Splinter-Shower Chop,Gusteye,F5,Demigod L3 Low,B
+MV-ADV-HAX-004-03,Door-Rim Guard,Hardened Eye,F1,Demigod L3 Low,B
+MV-ADV-HAX-004-04,Cover-Edge Step,Racing Fell,F1,Demigod L3 Low,B
+MV-ADV-HAX-004-05,Cover-Splitting Qi Cut,Tearing Chock,F1,Demigod L3 Low,B
+MV-ADV-HAX-004-06,Gap-Widening Hook,Toxin Poll,F2,Demigod L3 Low,B
+MV-ADV-HAX-004-07,Barricade-Breaching Blow,Novabillet,F5,Demigod L3 Low,B
+MV-ADV-HAX-004-08,Branch-Through Cleave,Harpooning Heel,F1,Demigod L3 Low,B
+MV-ADV-HAX-005-01,Paired Hatchet Ready Cross,Aegis Beard,F2,Champion L2 Mid,B
+MV-ADV-HAX-005-02,Twin Alternating Chop,Blaze Helve,F2,Champion L2 Mid,B
+MV-ADV-HAX-005-03,Hatchet Court Entry Pace,Toe Pounce,F3,Champion L2 Mid,B
+MV-ADV-HAX-005-04,Scissor Hook Pull,Mayhem Cheek,F2,Champion L2 Mid,B
+MV-ADV-HAX-005-05,Dual-Track Cut,Fellbarrage,F4,Champion L2 Mid,B
+MV-ADV-HAX-005-06,Mirror-Parry Counter,Equipoise Bit,F2,Champion L2 Mid,B
+MV-ADV-HAX-005-07,Twin Hook Lock,Ponderous Heel,F2,Champion L2 Mid,B
+MV-ADV-HAX-005-08,Twin-Court Cascade,Funneling Helve,F1,Champion L2 Mid,B
+MV-ADV-HAX-005-09,Court Pincer Breaker,Needling Fell,F1,Champion L2 Mid,B
+MV-ADV-HAX-006-01,Hatchet Hawk-Perch Guard,Facet Toe,F2,Demigod L2 Mid,B
+MV-ADV-HAX-006-02,Hatchet Stoop Chop,Bittorment,F4,Demigod L2 Mid,B
+MV-ADV-HAX-006-03,Talon Hook,Staggering Cheek,F1,Demigod L2 Mid,B
+MV-ADV-HAX-006-04,Hatchet Wing-Spread Parry,Murk Haftswell,F2,Demigod L2 Mid,B
+MV-ADV-HAX-006-05,Hatchet Skimming Step,Vaulting Chock,F1,Demigod L2 Mid,B
+MV-ADV-HAX-006-06,Pounce Chop and Rebound,Ironfell,F5,Demigod L2 Mid,B
+MV-ADV-HAX-006-07,Diving Qi Chop,Kerfassault,F4,Demigod L2 Mid,B
+MV-ADV-HAX-006-08,Talon-Drag Hold,Compressing Beard,F1,Demigod L2 Mid,B
+MV-ADV-HAX-006-09,Wing-Beat Retreat,Hastening Heel,F1,Demigod L2 Mid,B
+MV-ADV-HAX-006-10,Falling-Hawk Sequence,Tiered Chock,F1,Demigod L2 Mid,B
+MV-ADV-HAX-006-11,Hawk-Eye Reading Cut,Perceptive Cheek,F1,Demigod L2 Mid,B
+MV-ADV-HAX-007-01,Road-Rut Footing Guard,Annealed Poll,F1,Ruler L1 Low,B
+MV-ADV-HAX-007-02,Bank-Edge Chop,Cheekbarrage,F4,Ruler L1 Low,B
+MV-ADV-HAX-007-03,Narrow-Lane Hook,Rumble Helve,F2,Ruler L1 Low,B
+MV-ADV-HAX-007-04,Levee Walk Step,Beard Sprint,F3,Ruler L1 Low,B
+MV-ADV-HAX-007-05,Ditch-Side Qi Cut,Heelthrash,F4,Ruler L1 Low,B
+MV-ADV-HAX-007-06,Roadside Knee Hook,Gyve Fell,F2,Ruler L1 Low,B
+MV-ADV-HAX-007-07,Ford-Crossing Chain Cut,Intertwined Axehew,F1,Ruler L1 Low,B
+MV-ADV-HAX-007-08,River-Bank Overturn,Fastening Beard,F2,Ruler L1 Low,B
+MV-ADV-HAX-008-01,Ford-Step Guard,Charter Heel,F2,Demigod L5 Low,B
+MV-ADV-HAX-008-02,Stone-Hop Chop,Skinning Axehew,F1,Demigod L5 Low,B
+MV-ADV-HAX-008-03,Hatchet Ripple Rap,Chimebit,F5,Demigod L5 Low,B
+MV-ADV-HAX-008-04,Force-Carried Sidestep,Gust Cheek,F2,Demigod L5 Low,B
+MV-ADV-HAX-008-05,Eddy Hook Turn,Hamstringing Toe,F1,Demigod L5 Low,B
+MV-ADV-HAX-008-06,Ford-Crossing Qi Cut,Helvetorment,F4,Demigod L5 Low,B
+MV-ADV-HAX-008-07,Hatchet Undertow Pull,Thorn Eye,F2,Demigod L5 Low,B
+MV-ADV-HAX-008-08,Shoal Retreat,Careening Poll,F1,Demigod L5 Low,B
+MV-ADV-HAX-008-09,Flood-Crest Cleave,Slagfell,F5,Demigod L5 Low,B
+MV-ADV-HAX-008-10,Reckoned Crossing Sequence,Alternating Handlenub,F1,Demigod L5 Low,B
+MV-ADV-HAX-009-01,Wind-Sworn Ready Hang,Enduring Beard,F1,Champion L3 Low,B
+MV-ADV-HAX-009-02,Hatchet Gust Chop,Cheektorment,F4,Champion L3 Low,B
+MV-ADV-HAX-009-03,Light-Wrist Snap,Silencing Heel,F1,Champion L3 Low,B
+MV-ADV-HAX-009-04,Leaf-Turn Step,Bounding Toe,F1,Champion L3 Low,B
+MV-ADV-HAX-009-05,Updraft Backhand,Grinding Handlenub,F1,Champion L3 Low,B
+MV-ADV-HAX-009-06,Hatchet Crosswind Deflection,Murk Beard,F2,Champion L3 Low,B
+MV-ADV-HAX-009-07,Gale-Hook Drag,Hoarfrost Chock,F2,Champion L3 Low,B
+MV-ADV-HAX-009-08,Wind-Sworn Flurry,Compounding Bit,F1,Champion L3 Low,B
+MV-ADV-HAX-009-09,Squall Breaker Chop,Transfixing Facet Eye,F6a,Champion L3 Low,B
+MV-ADV-HAX-010-01,Hatchet Sworn Front,Unbroken Heel,F1,Demigod L4 Mid,B
+MV-ADV-HAX-010-02,Hatchet Bearing Chop,Severing Poll,F1,Demigod L4 Mid,B
+MV-ADV-HAX-010-03,Sworn Line Rap,Paralyzing Bit,F1,Demigod L4 Mid,B
+MV-ADV-HAX-010-04,Held-Bearing Parry,Torrent Eye,F2,Demigod L4 Mid,B
+MV-ADV-HAX-010-05,Quiet Pace,Billet Jaunt,F3,Demigod L4 Mid,B
+MV-ADV-HAX-010-06,Oath-Word Hook,Crippling Beard,F1,Demigod L4 Mid,B
+MV-ADV-HAX-010-07,Bearing-Held Qi Cut,Ironhelve,F5,Demigod L4 Mid,B
+MV-ADV-HAX-010-08,Sworn Hatchet Pull,Dominating Kerf,F1,Demigod L4 Mid,B
+MV-ADV-HAX-010-09,Steady-Bearing Step,Axehew Canter,F3,Demigod L4 Mid,B
+MV-ADV-HAX-010-10,Oath-Backed Hook-Chop,Unmaking Cheek,F1,Demigod L4 Mid,B
+MV-ADV-HAX-010-11,Unbroken Bearing Sequence,Doctrine Poll,F2,Demigod L4 Mid,B
+MV-ADV-HAX-010-12,Hatchet Windbound Cleave,Sanguine Toe,F2,Demigod L4 Mid,B
+MV-ADV-HAX-011-01,Cliff-Lip Footing Guard,Staunch Cheek,F1,Champion L7 Mid,B
+MV-ADV-HAX-011-02,Open-Ground Chop,Drubbing Beard,F1,Champion L7 Mid,B
+MV-ADV-HAX-011-03,Beard Gust-Catch Hook,Quelling Poll,F1,Champion L7 Mid,B
+MV-ADV-HAX-011-04,Drop-Step,Blurring Heel,F1,Champion L7 Mid,B
+MV-ADV-HAX-011-05,Edge-Wind Qi Cut,Billetassault,F4,Champion L7 Mid,B
+MV-ADV-HAX-011-06,Cliff-Lip Shove,Chimeeye,F5,Champion L7 Mid,B
+MV-ADV-HAX-011-07,Plateau Rim Sequence,Hour Helve,F2,Champion L7 Mid,B
+MV-ADV-HAX-011-08,Edge-Fall Overturn,Compressing Fell,F1,Champion L7 Mid,B
+MV-ADV-HAX-012-01,Line-Drawn Guard,Hardened Poll,F1,Demigod L6 Low,B
+MV-ADV-HAX-012-02,Gale-Line Chop,Scything Chock,F1,Demigod L6 Low,B
+MV-ADV-HAX-012-03,Tail-Wind Rap,Mayhemtoe,F5,Demigod L6 Low,B
+MV-ADV-HAX-012-04,Hatchet Side-Wind Step,Vaulting Billet,F1,Demigod L6 Low,B
+MV-ADV-HAX-012-05,Drawn-Line Hook,Gyve Cheek,F2,Demigod L6 Low,B
+MV-ADV-HAX-012-06,Line-Joining Qi Cut,Raging Fell,F1,Demigod L6 Low,B
+MV-ADV-HAX-012-07,Counter-Line Parry,Chime Heel,F2,Demigod L6 Low,B
+MV-ADV-HAX-012-08,Backwind Retreat,Whipping Kerf,F1,Demigod L6 Low,B
+MV-ADV-HAX-012-09,Gale-Line Net Cut,Scorching Blaze Poll,F6a,Demigod L6 Low,B
+MV-ADV-HAX-012-10,Long Line Sequence,Successive Toe,F1,Demigod L6 Low,B

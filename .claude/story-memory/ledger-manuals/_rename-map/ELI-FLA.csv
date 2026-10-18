@@ -1,0 +1,132 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-FLA-001-01,Hawk-Glide Chain Draw,Rumble Spikehead,F2,Demigod,B
+MV-ELI-FLA-001-02,Hammered Haft Ground Set,Indomitable Hingecap,F1,Demigod,B
+MV-ELI-FLA-001-03,Azure Beat Pivot Step,Gust Looping,F2,Demigod,B
+MV-ELI-FLA-001-04,Orbit Pressure Sensing,Flailinsight,F4,Demigod,B
+MV-ELI-FLA-001-05,Hammering Orbit Fall,Swingthru Scourge,F3,Demigod,B
+MV-ELI-FLA-001-06,Twin-Beat Shield Smash,Titanic Chainring,F1,Demigod,B
+MV-ELI-FLA-001-07,Spinning Hawk Ward,Torrent Handstaff,F2,Demigod,B
+MV-ELI-FLA-001-08,Pinion Chain Whip-Round,Overbearing Chainlink,F1,Demigod,B
+MV-ELI-FLA-001-09,Azure Anvil Drop,Gustflail,F5,Demigod,B
+MV-ELI-FLA-001-10,Hawk Hammer Orbit Descent,Blazegimbal,F5,Demigod,B
+MV-ELI-FLA-002-01,Paired Chain Court Salute,Wheelwrath,F4,Demigod,B
+MV-ELI-FLA-002-02,Twin Haft Locked Guard,Impenetrable Swivel,F1,Demigod,B
+MV-ELI-FLA-002-03,Court Sidestep Pair,Unseen Flailhead,F1,Demigod,B
+MV-ELI-FLA-002-04,Left-Hand Lag Beat,Wheelscourge,F4,Demigod,B
+MV-ELI-FLA-002-05,Two-Chain Tension Read,Expanse Swingarm,F2,Demigod,B
+MV-ELI-FLA-002-06,Crossed Chains Scissor Pull,Gyvethresh,F5,Demigod,B
+MV-ELI-FLA-002-07,Alternating Head Hail,Rebound Ruin,F3,Demigod,B
+MV-ELI-FLA-002-08,Counter-Turning Ring Cover,Thornswivel,F5,Demigod,B
+MV-ELI-FLA-002-09,Unwatched Head Strike,Iron Headball,F2,Demigod,B
+MV-ELI-FLA-002-10,Court Pair Guard-Crushing Blow,Threshscourge,F4,Demigod,B
+MV-ELI-FLA-002-11,Twin Chain Tether Cage,Ponderous Lashout,F2,Demigod,B
+MV-ELI-FLA-002-12,Twin Court Falling Verdict,Berserk Linkband Devastation,F6b,Demigod,B
+MV-ELI-FLA-003-01,River-Bend Guard Turn,Gust Headball,F2,Demigod,B
+MV-ELI-FLA-003-02,Shallows Slow Retreat,Ghosting Thresh,F1,Demigod,B
+MV-ELI-FLA-003-03,Current-Feel Chain Test,Chime Hingecap,F2,Demigod,B
+MV-ELI-FLA-003-04,Undercut Bank Hook,Flailhead Tenacity,F3,Demigod,B
+MV-ELI-FLA-003-05,Backwater Counter Swing,Wheelhavoc,F4,Demigod,B
+MV-ELI-FLA-003-06,Bend-and-Strike Cadence,Granite Rebound,F2,Demigod,B
+MV-ELI-FLA-003-07,Confluence Counter Drive,Decimating Handstaff,F1,Demigod,B
+MV-ELI-FLA-003-08,Whirlpool Weapon Seizure,Hoarfrost Chainlink,F2,Demigod,B
+MV-ELI-FLA-003-09,Flood Bend Reversal,Obdurate Waning Swingarm,F6a,Demigod,B
+MV-ELI-FLA-004-01,Basin Stance Drop Swing,Ruinous Swingthru,F1,Demigod,B
+MV-ELI-FLA-004-02,Thunder Footfall Stamp,Ghosting Wheel,F1,Demigod,B
+MV-ELI-FLA-004-03,Overhead Haft Rain Guard,Aegis Chainring,F2,Demigod,B
+MV-ELI-FLA-004-04,Distant Rumble Sensing,Radiant Swivel,F1,Demigod,B
+MV-ELI-FLA-004-05,Iron Rain Short Chops,Blazewheel,F5,Demigod,B
+MV-ELI-FLA-004-06,Rolling Thunder Orbit,Granite Spikehead,F2,Demigod,B
+MV-ELI-FLA-004-07,Basin Rim Shove Strike,Mayhem Linkband,F2,Demigod,B
+MV-ELI-FLA-004-08,Falling Iron Cross-Parry,Torrent Hingecap,F2,Demigod,B
+MV-ELI-FLA-004-09,Thunderclap Twin Fall,Shattering Lashout,F1,Demigod,B
+MV-ELI-FLA-004-10,Ground-Splitting Overhead Hammer,Wheel Devastation,F3,Demigod,B
+MV-ELI-FLA-004-11,Thunder-Fall Iron Verdict,Ironswivel,F5,Demigod,B
+MV-ELI-FLA-005-01,Mirror Image Chain Swing,Might Flailhead,F2,Demigod,B
+MV-ELI-FLA-005-02,Track-Matching Footwork,Might Swingthru,F2,Demigod,B
+MV-ELI-FLA-005-03,Reflected Haft Guard,Adamantine Chainlink,F1,Demigod,B
+MV-ELI-FLA-005-04,Opponent Pattern Reading,Verity Swivel,F2,Demigod,B
+MV-ELI-FLA-005-05,Echo Chain Whip,Spikehead Scourge,F3,Demigod,B
+MV-ELI-FLA-005-06,Track Reversal Strike,Rumblegimbal,F5,Demigod,B
+MV-ELI-FLA-005-07,Mirror Counter Orbit,Aegisgimbal,F5,Demigod,B
+MV-ELI-FLA-005-08,Paired Track Feint,Glamour Chainring,F2,Demigod,B
+MV-ELI-FLA-005-09,Shadow Track Wrap,Thornwheel,F5,Demigod,B
+MV-ELI-FLA-005-10,Mirror-Perfect Counterblow,Gustgimbal,F5,Demigod,B
+MV-ELI-FLA-005-11,Recurring Track Chain Weave,Hoarfrost Rebound,F2,Demigod,B
+MV-ELI-FLA-005-12,Mirror Wrist-Severing Orbit,Tempered Thresh,F2,Demigod,B
+MV-ELI-FLA-005-13,Looking-Glass Return Fall,Thresh Wrath,F3,Demigod,B
+MV-ELI-FLA-006-01,Reed-Bend Opening Swing,Might Swingarm,F2,Monarch,B
+MV-ELI-FLA-006-02,Azure Reed Sway Step,Siltthresh,F5,Monarch,B
+MV-ELI-FLA-006-03,Reed-Hollow Yielding Guard,Gimbalnerve,F4,Monarch,B
+MV-ELI-FLA-006-04,Meridian Chain Feel,Waning Headball,F2,Monarch,B
+MV-ELI-FLA-006-05,Haft-Butt Follow-Through,Blistering Handstaff,F1,Monarch,B
+MV-ELI-FLA-006-06,Supple Reed Whip Ring,Indomitable Headball,F1,Monarch,B
+MV-ELI-FLA-006-07,Sidelong Haft Hook,Fastening Wheel,F2,Monarch,B
+MV-ELI-FLA-006-08,Monarch Reed Tangle,Gyvegimbal,F5,Monarch,B
+MV-ELI-FLA-006-09,Bending Weight Fall,Looping Devastation,F3,Monarch,B
+MV-ELI-FLA-006-10,Second Weight Reed Break,Ferocious Linkband,F1,Demigod,B
+MV-ELI-FLA-007-01,Oath Stance Rising Swing,Lacerating Rebound,F1,Demigod,B
+MV-ELI-FLA-007-02,Heel-Tested Plateau Footing,Unbowed Chainring,F1,Demigod,B
+MV-ELI-FLA-007-03,Flail Wind-Bearing Footfall,Lightning Lashout,F1,Demigod,B
+MV-ELI-FLA-007-04,Sworn Grip Chain Listening,Expanse Hingecap,F2,Demigod,B
+MV-ELI-FLA-007-05,Edge Run Cross-Swing,Gimbalruin,F4,Demigod,B
+MV-ELI-FLA-007-06,Oath Chain Cinch,Gyveswivel,F5,Demigod,B
+MV-ELI-FLA-007-07,Windbreak Broadside Guard,Facet Spikehead,F2,Demigod,B
+MV-ELI-FLA-007-08,Plateau Rolling Swing,Hellish Handstaff,F1,Demigod,B
+MV-ELI-FLA-007-09,Bearing Cut-Back,Decimating Looping,F1,Demigod,B
+MV-ELI-FLA-007-10,Gale Oath Crushing Fall,Shattering Swingarm,F1,Demigod,B
+MV-ELI-FLA-007-11,Edge-Pushing Wide Orbit,Toxin Lashout,F2,Demigod,B
+MV-ELI-FLA-007-12,Oath-Sworn Heavy Wind Fall,Chainlink Reckoning,F3,Demigod,B
+MV-ELI-FLA-008-01,Rim Bearing Opening Cast,Tempered Swivel,F2,Demigod,B
+MV-ELI-FLA-008-02,Downwind Slip Step,Silt Linkband,F2,Demigod,B
+MV-ELI-FLA-008-03,Crosswind Steady Chain Hold,Chimegimbal,F5,Demigod,B
+MV-ELI-FLA-008-04,Rim Drop Distance Reading,Unerring Chainring,F1,Demigod,B
+MV-ELI-FLA-008-05,Open Rim Whirling Guard,Hoarfrost Spikehead,F2,Demigod,B
+MV-ELI-FLA-008-06,Bearing-Locked Counter,Granite Wheel,F2,Demigod,B
+MV-ELI-FLA-008-07,Rimward Knee Hook,Ponderous Swingthru,F2,Demigod,B
+MV-ELI-FLA-008-08,Edge-of-Sky Sweeping Strike,Looping Ruin,F3,Demigod,B
+MV-ELI-FLA-008-09,Chain-Bearing Foot Pin,Swingthru Nerve,F3,Demigod,B
+MV-ELI-FLA-008-10,Open Rim Final Bearing,Gustswivel,F5,Demigod,B
+MV-ELI-FLA-009-01,Heavy Head Tailwind Swing,Wheelruin,F4,Demigod,B
+MV-ELI-FLA-009-02,Wind-Sworn Brace Squat,Unassailable Flailhead,F1,Demigod,B
+MV-ELI-FLA-009-03,Weight-Aware Planted Step,Might Handstaff,F2,Demigod,B
+MV-ELI-FLA-009-04,Wind-Lifted Head Rise,Devastating Thresh,F1,Demigod,B
+MV-ELI-FLA-009-05,Sworn Counterweight Turn,Chimeswivel,F5,Demigod,B
+MV-ELI-FLA-009-06,Wind-Held Slow Orbit,Hellish Headball,F1,Demigod,B
+MV-ELI-FLA-009-07,Heavy Gale Hammer,Swivelscourge,F4,Demigod,B
+MV-ELI-FLA-009-08,Planted Head Anvil Stand,Charter Flailhead,F2,Demigod,B
+MV-ELI-FLA-009-09,Wind-Sworn Weight of Stone,Corroding Rebound,F1,Demigod,B
+MV-ELI-FLA-010-01,Crosswind Whirling Opening,Sanguine Linkband,F2,Demigod,B
+MV-ELI-FLA-010-02,Cross-Gust Pivot,Siltgimbal,F5,Demigod,B
+MV-ELI-FLA-010-03,Whirl Gust Parry,Chime Swingarm,F2,Demigod,B
+MV-ELI-FLA-010-04,Quartering Wind Sensing,Waning Hingecap,F2,Demigod,B
+MV-ELI-FLA-010-05,Twisting Haft Spiral Throw,Swivel Reckoning,F3,Demigod,B
+MV-ELI-FLA-010-06,Crosswind Bend Strike,Mangling Chainlink,F1,Demigod,B
+MV-ELI-FLA-010-07,Whirling Guard Curtain,Aegis Linkband,F2,Demigod,B
+MV-ELI-FLA-010-08,Tangle-Wind Chain Lash,Enthralling Wheel,F1,Demigod,B
+MV-ELI-FLA-010-09,Whirl-Step Combination,Rumble Looping,F2,Demigod,B
+MV-ELI-FLA-010-10,Gale Whirl Hail,Slagwheel,F5,Demigod,B
+MV-ELI-FLA-010-11,Crosswind Seizing Cast,Gyvewheel,F5,Demigod,B
+MV-ELI-FLA-010-12,Iron Cyclone Chain,Gimbalwrath,F4,Demigod,B
+MV-ELI-FLA-010-13,Whirling Iron Squall Break,Swingthru Ruin,F3,Demigod,B
+MV-ELI-FLA-011-01,Updraft Launch Swing,Lashout Wrath,F3,Demigod,B
+MV-ELI-FLA-011-02,Toe-Spring Rise Step,Granite Swingarm,F2,Demigod,B
+MV-ELI-FLA-011-03,Rising Weight Guard,Aegis Headball,F2,Demigod,B
+MV-ELI-FLA-011-04,Thermal Chain Reading,Waningflail,F5,Demigod,B
+MV-ELI-FLA-011-05,Climbing Hook Strike,Iron Hingecap,F2,Demigod,B
+MV-ELI-FLA-011-06,Rising Spiral Shear,Tempered Rebound,F2,Demigod,B
+MV-ELI-FLA-011-07,Updraft Deflection Lift,Obdurate Handstaff,F1,Demigod,B
+MV-ELI-FLA-011-08,Rising Chain Drag,Chime Chainlink,F2,Demigod,B
+MV-ELI-FLA-011-09,Upward Gale Hammer,Ruinous Thresh,F1,Demigod,B
+MV-ELI-FLA-011-10,Lofting Orbit Fall,Devastating Looping,F1,Demigod,B
+MV-ELI-FLA-011-11,Rise-and-Fall Single Stroke,Merciless Sanguine Flailhead,F6a,Demigod,B
+MV-ELI-FLA-012-01,Lull Opening Swing,Might Lashout,F2,Monarch,B
+MV-ELI-FLA-012-02,Held Breath Stance,Flailvalor,F4,Monarch,B
+MV-ELI-FLA-012-03,Gust-Stilled Silent Step,Swivelvortex,F4,Monarch,B
+MV-ELI-FLA-012-04,Between-Gust Chain Cast,Gust Spikehead,F2,Monarch,B
+MV-ELI-FLA-012-05,Breath-Timed Counter,Unbudging Flailhead,F1,Monarch,B
+MV-ELI-FLA-012-06,Chain Hush Bind,Hogtying Swivel,F1,Monarch,B
+MV-ELI-FLA-012-07,Gale Return Strike,Grievous Swingarm,F1,Monarch,B
+MV-ELI-FLA-012-08,Meridian Lull Smothering,Looping Fortitude,F3,Monarch,B
+MV-ELI-FLA-012-09,Breath Before the Gale,Might Chainring,F2,Demigod,B
+MV-ELI-FLA-002-05,Expanse Swingarm,Keen Swingarm,F2,Demigod,B
+MV-ELI-FLA-007-04,Expanse Hingecap,Acute Hingecap,F2,Demigod,B

@@ -1,0 +1,79 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-STS-001-01,Qi Edge Draw Cut,Fuller Scorer,F3,Senior L1 Low,A
+MV-INT-STS-001-02,Hilt Settled Guard,Resolute Foible,F1,Senior L1 Low,A
+MV-INT-STS-001-03,Pointed Qi Thrust,Forteswat,F4,Senior L1 Low,A
+MV-INT-STS-001-04,Forward Slip Step,Scudding Crossbar,F1,Senior L1 Low,A
+MV-INT-STS-001-05,Qi-Lengthened Edge Cut,Harsh Forte,F1,Senior L1 Low,A
+MV-INT-STS-001-06,Crossguard Qi Bind,Viselike Pommel,F1,Senior L1 Low,A
+MV-INT-STS-002-01,Inhale Raise Cut,Pommelswat,F4,Senior L2 Mid,A
+MV-INT-STS-002-02,Breath-Bound Guard,Midribbarrier,F4,Senior L2 Mid,A
+MV-INT-STS-002-03,Exhale Point Thrust,Doughty Beat,F1,Senior L2 Mid,A
+MV-INT-STS-002-04,Breath Step,Pommelswerve,F4,Senior L2 Mid,A
+MV-INT-STS-002-05,Beat and Breath,Pommelscreen,F4,Senior L2 Mid,A
+MV-INT-STS-002-06,Two-Breath Double Cut,Swift Envelop,F1,Senior L2 Mid,A
+MV-INT-STS-002-07,Crossguard Breath Turn,Resolute Ricasso,F1,Senior L2 Mid,A
+MV-INT-STS-003-01,Cross-Blade Press,Binding Riposte,F1,Senior L3 Low,A
+MV-INT-STS-003-02,Binding Guard,Pommelhasp,F4,Senior L3 Low,A
+MV-INT-STS-003-03,Underpoint Thrust,Rude Cutover,F1,Senior L3 Low,A
+MV-INT-STS-003-04,Quarter Turn Blade Pivot,Coasting Feint,F1,Senior L3 Low,A
+MV-INT-STS-003-05,Wrist Roll Cut,Dire Tang,F1,Senior L3 Low,A
+MV-INT-STS-003-06,Slide Off Parry,Midribhasp,F4,Senior L3 Low,A
+MV-INT-STS-003-07,Qi Coil Bind,Burdening Glissade,F1,Senior L3 Low,A
+MV-INT-STS-003-08,Pinned Hilt Twist,Quillon Barrier,F3,Senior L3 Low,A
+MV-INT-STS-004-01,Second Course Cut,Keen Crossbar,F1,Senior L4 High,A
+MV-INT-STS-004-02,Closed Door Guard,Fortescreen,F4,Senior L4 High,A
+MV-INT-STS-004-03,Lunging Qi Point,Fortescorer,F4,Senior L4 High,A
+MV-INT-STS-004-04,Cut and Withdraw,Savage Ricasso,F1,Senior L4 High,A
+MV-INT-STS-004-05,Edge Lane Step,Prowling Midrib,F1,Senior L4 High,A
+MV-INT-STS-004-06,Parrying Edge Rise,Buttressed Midrib,F1,Senior L4 High,A
+MV-INT-STS-004-07,Heavy Edge Cut,Raw Leaf,F1,Senior L4 High,A
+MV-INT-STS-004-08,Turning Thrust Chain,Feintthwack,F4,Senior L4 High,A
+MV-INT-STS-004-09,Crossguard Catch Disarm Twist,Forteprop,F4,Senior L4 High,A
+MV-INT-STS-005-01,Circling Point Feint,Hungry Leaf,F1,Senior L5 Mid,A
+MV-INT-STS-005-02,Point Held Guard,Guarding Foible,F1,Senior L5 Mid,A
+MV-INT-STS-005-03,Quick Retreat Thrust,Stern Quillon,F1,Senior L5 Mid,A
+MV-INT-STS-005-04,Point Beat Aside,Binding Pommel,F1,Senior L5 Mid,A
+MV-INT-STS-005-05,Sliding Sword Step,Tang Swerve,F3,Senior L5 Mid,A
+MV-INT-STS-005-06,Low Point Parry,Rooted Fuller,F1,Senior L5 Mid,A
+MV-INT-STS-005-07,Point Flick Cut,Pommelscorer,F4,Senior L5 Mid,A
+MV-INT-STS-005-08,Moving Point Volley,Fortethwack,F4,Senior L5 Mid,A
+MV-INT-STS-005-09,Point Evasion Weave,Coasting Envelop,F1,Senior L5 Mid,A
+MV-INT-STS-005-10,Qi Pointed Beat,Feint Buckle,F3,Senior L5 Mid,A
+MV-INT-STS-006-01,Half-Sword Thrust,Feintslap,F4,Senior L6 Low,A
+MV-INT-STS-006-02,Blade-Hand Guard,Leafbuckle,F4,Senior L6 Low,A
+MV-INT-STS-006-03,Short Lever Cut,Foiblescorer,F4,Senior L6 Low,A
+MV-INT-STS-006-04,Close Step Entry,Fleet Beat,F1,Senior L6 Low,A
+MV-INT-STS-006-05,Crossguard Hook Strike,Doughty Glissade,F1,Senior L6 Low,A
+MV-INT-STS-006-06,Armor Seam Thrust,Raw Glissade,F1,Senior L6 Low,A
+MV-INT-STS-006-07,Half-Sword Throw,Viselike Riposte,F1,Senior L6 Low,A
+MV-INT-STS-007-01,Crossing Edge Cut,Raw Foible,F1,Senior L7 Mid,A
+MV-INT-STS-007-02,Cross-Point Guard,Midribbuckle,F4,Senior L7 Mid,A
+MV-INT-STS-007-03,Tip Over Thrust,Ruthless Fuller,F1,Senior L7 Mid,A
+MV-INT-STS-007-04,Release Step,Prowling Feint,F1,Senior L7 Mid,A
+MV-INT-STS-007-05,Drag Beat,Gagging Ricasso,F1,Senior L7 Mid,A
+MV-INT-STS-007-06,Crossing Parry Turn,Rooted Quillon,F1,Senior L7 Mid,A
+MV-INT-STS-007-07,Crossing Slice,Keen Midrib,F1,Senior L7 Mid,A
+MV-INT-STS-007-08,Breaking the Cross,Tang Carapace,F3,Senior L7 Mid,A
+MV-INT-STS-008-01,Recovering Edge Cut,Foibleslap,F4,Senior L8 Low,A
+MV-INT-STS-008-02,Reset Guard,Armored Leaf,F1,Senior L8 Low,A
+MV-INT-STS-008-03,Return Thrust,Rushing Cutover,F1,Senior L8 Low,A
+MV-INT-STS-008-04,Recovery Step,Pirouetting Forte,F1,Senior L8 Low,A
+MV-INT-STS-008-05,Double Cut Recovery,Forteflog,F4,Senior L8 Low,A
+MV-INT-STS-008-06,Open Line Close,Crossbar Barrier,F3,Senior L8 Low,A
+MV-INT-STS-009-01,Measure Cut,Midribslap,F4,Senior L9 Mid,A
+MV-INT-STS-009-02,Measure Guard,Shielding Forte,F1,Senior L9 Mid,A
+MV-INT-STS-009-03,Long Lunge,Stern Envelop,F1,Senior L9 Mid,A
+MV-INT-STS-009-04,Closing Step,Tangcurl,F4,Senior L9 Mid,A
+MV-INT-STS-009-05,Open Measure Beat,Levering Beat,F1,Senior L9 Mid,A
+MV-INT-STS-009-06,Measure Parry,Stalwart Ricasso,F1,Senior L9 Mid,A
+MV-INT-STS-009-07,Measure Break Step,Forte Curl,F3,Senior L9 Mid,A
+MV-INT-STS-009-08,Reach Cut Extension,Rugged Envelop,F1,Senior L9 Mid,A
+MV-INT-STS-009-09,Measure Trap,Beathasp,F4,Senior L9 Mid,A
+MV-INT-STS-010-01,Stepping Edge Cut,Brass Fuller,F2,Warrior L1 Low,B
+MV-INT-STS-010-02,Walking Guard,Resolute Pommel,F1,Warrior L1 Low,B
+MV-INT-STS-010-03,Side Step Thrust,Gleam Tang,F2,Warrior L1 Low,B
+MV-INT-STS-010-04,Back Step Parry,Hum Quillon,F2,Warrior L1 Low,B
+MV-INT-STS-010-05,Pivot Edge Sweep,Brawnpommel,F5,Warrior L1 Low,B
+MV-INT-STS-010-06,Flowing Advance,Draught Riposte,F2,Warrior L1 Low,B
+MV-INT-STS-010-07,Triple Step Edge Chain,Brass Midrib,F2,Warrior L1 Low,B
+MV-INT-STS-010-08,Stepping Bind,Gagging Crossbar,F1,Warrior L1 Low,B

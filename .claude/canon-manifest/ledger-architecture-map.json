@@ -1,0 +1,163 @@
+[
+ {
+  "ledger_folder": "ledger-character-hero",
+  "domain": "Hero characters",
+  "governing_parts": "Part 17",
+  "template_source": "Part 37 Area 2.3 (authoritative)",
+  "cs_ts_applicable": "YES — Section 2"
+ },
+ {
+  "ledger_folder": "ledger-character-villain",
+  "domain": "Villain characters (Tier A and B villains as full files, reserved until the author maps them; Tier C and D side villains as entries and rows)",
+  "governing_parts": "Part 18 (Area 6.3), Part 40 Area 12, Part 44 Area 4 (registered gifted fighter, Section 2 Combat Level Advantage line)",
+  "template_source": "Part 37 Area 2.2 (authoritative; tier scope) and Area 2.11 (Tier C and D registries)",
+  "cs_ts_applicable": "YES — Section 2"
+ },
+ {
+  "ledger_folder": "ledger-character-side",
+  "domain": "Side characters",
+  "governing_parts": "Part 19, Part 44 Area 4 (registered gifted fighter, Section 2 Combat Level Advantage line)",
+  "template_source": "Part 37 Area 2.1 (authoritative)",
+  "cs_ts_applicable": "YES — Section 2"
+ },
+ {
+  "ledger_folder": "ledger-people-society-faction",
+  "domain": "Factions",
+  "governing_parts": "Part 22",
+  "template_source": "Part 37 Area 2.6 (authoritative)",
+  "cs_ts_applicable": "YES"
+ },
+ {
+  "ledger_folder": "ledger-people-society-civilization",
+  "domain": "Civilizations",
+  "governing_parts": "Part 21, Part 25",
+  "template_source": "Part 37 Area 2.7 (authoritative)",
+  "cs_ts_applicable": "YES"
+ },
+ {
+  "ledger_folder": "ledger-people-society-affiliation",
+  "domain": "Affiliation agreements, faction-pair rows and combined-force files",
+  "governing_parts": "Part 23, Part 37 Area 3.3",
+  "template_source": "Part 37 Area 3.3 (authoritative)",
+  "cs_ts_applicable": "NO (relational)"
+ },
+ {
+  "ledger_folder": "ledger-society-information",
+  "domain": "All information: named information assets and character knowledge states, plus a register row for every named document (italic) and every named agreement, treaty or accord (roman; its file stays in ledger-people-society-affiliation).",
+  "governing_parts": "Part 24, Part 28 (Area 20, Rule 20.8.7), Part 37 Area 3.4",
+  "template_source": "Part 37 Area 3.4 (authoritative)",
+  "cs_ts_applicable": "NO (actor-level)"
+ },
+ {
+  "ledger_folder": "ledger-worlds-location",
+  "domain": "Worlds and locations",
+  "governing_parts": "Part 13",
+  "template_source": "Part 37 Area 2.4 (authoritative)",
+  "cs_ts_applicable": "YES"
+ },
+ {
+  "ledger_folder": "ledger-worlds-kingdom-state",
+  "domain": "Named kingdoms, empires, polities, and governing entities",
+  "governing_parts": "Part 13, Part 21, Part 22, Part 37 Area 2.5",
+  "template_source": "Part 37 Area 2.5 (authoritative) — new folder",
+  "cs_ts_applicable": "YES"
+ },
+ {
+  "ledger_folder": "ledger-worlds-travel",
+  "domain": "Named travel routes, gate networks, infrastructure",
+  "governing_parts": "Part 15, Part 37 Area 3.1",
+  "template_source": "Part 37 Area 3.1 (authoritative)",
+  "cs_ts_applicable": "NO (infrastructure)"
+ },
+ {
+  "ledger_folder": "ledger-worlds-distance",
+  "domain": "Named spatial landmarks and distance measurements",
+  "governing_parts": "Part 14, Part 37 Area 3.2",
+  "template_source": "Part 37 Area 3.2 (authoritative)",
+  "cs_ts_applicable": "NO (spatial)"
+ },
+ {
+  "ledger_folder": "ledger-energy-relics-artifacts",
+  "domain": "Relics and artifacts",
+  "governing_parts": "Part 12, Part 11",
+  "template_source": "Part 37 Area 2.8 (authoritative)",
+  "cs_ts_applicable": "YES"
+ },
+ {
+  "ledger_folder": "ledger-technology-vehicle",
+  "domain": "Named vehicles",
+  "governing_parts": "Part 32",
+  "template_source": "Part 37 Area 2.10 (authoritative)",
+  "cs_ts_applicable": "YES"
+ },
+ {
+  "ledger_folder": "ledger-technology-weapon",
+  "domain": "Named weapons",
+  "governing_parts": "Part 33",
+  "template_source": "Part 37 Area 2.9 (authoritative)",
+  "cs_ts_applicable": "YES"
+ },
+ {
+  "ledger_folder": "ledger-technology-scale",
+  "domain": "Named technology systems and institutions",
+  "governing_parts": "Part 8, Part 37 Area 3.5",
+  "template_source": "Part 37 Area 3.5 (authoritative)",
+  "cs_ts_applicable": "YES — TS% primary"
+ },
+ {
+  "ledger_folder": "ledger-technology-growth",
+  "domain": "Named research programs and discovery events",
+  "governing_parts": "Part 9, Part 37 Area 3.6",
+  "template_source": "Part 37 Area 3.6 (authoritative)",
+  "cs_ts_applicable": "NO (activity)"
+ },
+ {
+  "ledger_folder": "ledger-technology-science",
+  "domain": "Scientific frameworks, paradigm events, knowledge assets",
+  "governing_parts": "Part 10, Part 37 Area 3.7",
+  "template_source": "Part 37 Area 3.7 (authoritative)",
+  "cs_ts_applicable": "NO (knowledge)"
+ },
+ {
+  "ledger_folder": "ledger-named-items",
+  "domain": "Named items: made or used things with a proper name of their own, of fourteen Types including relics, artifacts, formation arrays and energy caches (a register of names, with pointers to home entries in other ledgers).",
+  "governing_parts": "Part 28 (Area 20, Rule 20.8), Part 12 Rule 2.2.3, Part 37 Area 3.8",
+  "template_source": "Part 37 Area 3.8 (authoritative) — one-table register, no entity files",
+  "cs_ts_applicable": "NO (register; any CS%/TS% sits in the home entry)"
+ },
+ {
+  "ledger_folder": "ledger-named-moves",
+  "domain": "Named Moves: the one generic register of every Named Move, Named Technique and Named Cultivation Practice (a register of names with pointers to the users' entries, which own the values)",
+  "governing_parts": "Part 6 (Area 6, Rule 6.5), Part 2 Area 3, Part 37 Area 3.9.",
+  "template_source": "Part 37 Area 3.9 (authoritative) — one-table register, no entity files",
+  "cs_ts_applicable": "NO (register; any CS%/TS% sits in the user's entry)"
+ },
+ {
+  "ledger_folder": "ledger-character-monster",
+  "domain": "Monsters: Kinds and named Individuals of beasts that hold their own qi or are body-refined and dangerous from strength alone; depth tiers A to D (depth of record); sentient monsters reserved",
+  "governing_parts": "Part 40 (Monster Law), Part 37 Area 3.10, Part 3, Part 6 (Area 12, Rule 6.5), Part 11, Part 16 Area 12.2, Part 19 Area 1.2, Part 39",
+  "template_source": "Part 37 Area 3.10 (authoritative) — thirteen-section Kind and Individual files plus registry tables in _index.md",
+  "cs_ts_applicable": "YES — Section 2 (a Kind records a typical band; a wild monster with no technology contact sits at the low-technology end)"
+ },
+ {
+  "ledger_folder": "ledger-worlds-calendar",
+  "domain": "Calendar: the recorded time of every Phase, Section, Novel-Part, Chapter and Area (a Current Position block, the epoch, month and weekday tables, the fixed days, the eight heroes' birth years, planned windows for the Phase and the Sections only, and the recorded tables); index-only, one _index.md and no entity files",
+  "governing_parts": "Part 41 (Calendar Law), Part 37 Area 3.11, Part 30 (Phase Day count and Section durations), Part 2 (the date line under each Area Title Block), Part 13 Area 27",
+  "template_source": "Part 37 Area 3.11 (authoritative) — index-only register, no entity files",
+  "cs_ts_applicable": "NO (time record)"
+ },
+ {
+  "ledger_folder": "ledger-manuals",
+  "domain": "Manuals: every manual (a written or encoded transmission text holding 5 to 15 Named Moves for one weapon type), its manual-borne Named Moves, the 79 weapon types, the kingdom stocks of Azure Sky and Gale, the personal manuals of individuals, and which character holds which manual (CSV files keyed by one ID scheme, queried by ID; the register of record for manual-borne moves until a move is first written in prose)",
+  "governing_parts": "Part 42 (Manual and Weapon Style Law), Part 6 (Areas 2 to 7 and 9, Rule 6.5), Part 33, Part 28 (Rule 20.8), Part 37, Part 3 Area 16.2, Part 4 Area 1",
+  "template_source": "Part 37 Area 3.12 (the content is Part 42 Area 10) — CSV set with an _index.md design record, no entity files",
+  "cs_ts_applicable": "NO (register; any CS%/TS% sits in the character's entry)"
+ },
+ {
+  "ledger_folder": "ledger-character-hero, ledger-character-villain, ledger-character-side, ledger-character-monster (Section 14, Evolution Entries)",
+  "domain": "Evolution Entries: the dated, append-only record of how a character has changed (entry number, date, layer or dimension, was, becomes, ADD/CHANGE/RETIRE, Area, who ruled, reason), appended after Section 13 of every hero, villain, side-character and monster ledger; the base profile is never overwritten and the current profile is the base plus the entries",
+  "governing_parts": "Part 43 (Character Evolution Law), Part 39 (Check #21, Sections 11 and 12), Part 37 Area 2.1",
+  "template_source": "Part 37 Area 2.1 Section 14 (added 2026-10-06, appended, no renumbering; Varys Evolution Entry 1 is the first)",
+  "cs_ts_applicable": "NO"
+ }
+]

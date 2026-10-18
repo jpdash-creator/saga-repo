@@ -1,0 +1,100 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-NUN-001-01,Whirl-Wall Stance,Aegisclack,F5,Champion,B
+MV-ADV-NUN-001-02,Spun Rod Rim Strike,Tempered Cordjoint,F2,Champion,B
+MV-ADV-NUN-001-03,Rim-Skirt Step,Glancing Backspin,F1,Champion,B
+MV-ADV-NUN-001-04,Spoke Catch Block,Murkrod,F5,Champion,B
+MV-ADV-NUN-001-05,Turning-Door Press,Cleaving Capstick,F1,Champion,B
+MV-ADV-NUN-001-06,Spin-Break Blade Slap,Mayhemclack,F5,Champion,B
+MV-ADV-NUN-001-07,Full Whirl Rampart,Granite Hardstick,F2,Champion,B
+MV-ADV-NUN-001-08,Whirl-Burst Ring Sweep,Splitting Silt Chainjoint,F6a,Champion,B
+MV-ADV-NUN-002-01,Orbit Field Stance,Hardened Roundstick,F1,Demigod,B
+MV-ADV-NUN-002-02,Field-Guided Orbit Cut,Gust Cascade,F2,Demigod,B
+MV-ADV-NUN-002-03,Hinge-Centred Pivot Step,Silt Gripstick,F2,Demigod,B
+MV-ADV-NUN-002-04,Orbit Shell Deflect,Adamant Swingstick,F1,Demigod,B
+MV-ADV-NUN-002-05,Doubled Orbit Press,Shade Sidespin,F2,Demigod,B
+MV-ADV-NUN-002-06,Orbit-Cross Disarm,Shoulderroll Fastness,F3,Demigod,B
+MV-ADV-NUN-002-07,Wide Orbit Sidelong Lash,Rodtorment,F4,Demigod,B
+MV-ADV-NUN-002-08,Orbit Lock Tether,Stifling Tiedend,F1,Demigod,B
+MV-ADV-NUN-002-09,Hinge-Burst Orbit Break,Facet Backspin,F2,Demigod,B
+MV-ADV-NUN-003-01,Slack-Cord Snare Hold,Charter Stickend,F2,Champion,B
+MV-ADV-NUN-003-02,Snare Cast Flick,Tempered Fliparound,F2,Champion,B
+MV-ADV-NUN-003-03,Slack-Step Glide,Might Octastick,F2,Champion,B
+MV-ADV-NUN-003-04,Snare Wrist Hitch,Stavecuirass,F4,Champion,B
+MV-ADV-NUN-003-05,Loop Check Block,Torrent Gripstick,F2,Champion,B
+MV-ADV-NUN-003-06,Leg-Snare Sweep,Thornclack,F5,Champion,B
+MV-ADV-NUN-003-07,Snare-and-Pull Entry,Octastick Fastness,F3,Champion,B
+MV-ADV-NUN-003-08,Shaft Cord Haul,Toxin Cascade,F2,Champion,B
+MV-ADV-NUN-003-09,Ankle-Height Trip-Line,Thorn Hardstick,F2,Champion,B
+MV-ADV-NUN-003-10,Triple-Cast Closing Snare,Thorn Neckwrap,F2,Champion,B
+MV-ADV-NUN-004-01,Twin-Stick Complete Guard,Aegiswhirr,F5,Demigod,B
+MV-ADV-NUN-004-02,Standing Rod Drop Cut,Might Cordjoint,F2,Demigod,B
+MV-ADV-NUN-004-03,Cord Rebound Cross Cut,Rumblerod,F5,Demigod,B
+MV-ADV-NUN-004-04,Qi Field Glide Step,Surging Fliparound,F1,Demigod,B
+MV-ADV-NUN-004-05,Double Rod Brace Deflect,Staunch Capstick,F1,Demigod,B
+MV-ADV-NUN-004-06,Hinge Flick Jab,Rodthrash,F4,Demigod,B
+MV-ADV-NUN-004-07,Sweeping Twin Orbit Press,Shadeclack,F5,Demigod,B
+MV-ADV-NUN-004-08,Over-Shoulder Cord Whip,Stavebarrage,F4,Demigod,B
+MV-ADV-NUN-004-09,Cord-and-Rod Arm Snare,Rodcloak,F4,Demigod,B
+MV-ADV-NUN-004-10,Hinge-Break Weapon Strip,Quelling Roundstick,F1,Demigod,B
+MV-ADV-NUN-004-11,Great Twin-Stick Sweep,Lambasting Swingstick,F1,Demigod,B
+MV-ADV-NUN-004-12,Locked Bar Crush,Splitting Tiedend,F1,Demigod,B
+MV-ADV-NUN-005-01,Dual-Track Opening Stance,Aegis Chainjoint,F2,Champion,B
+MV-ADV-NUN-005-02,Left Guard Right Strike,Dowelbarrage,F4,Champion,B
+MV-ADV-NUN-005-03,Track-Crossing Step,Whipping Tiedend,F1,Champion,B
+MV-ADV-NUN-005-04,Paired Rod Parry,Equipoise Cordjoint,F2,Champion,B
+MV-ADV-NUN-005-05,Twin-Track Alternating Beat,Lambasting Sidespin,F1,Champion,B
+MV-ADV-NUN-005-06,Paired Rod Scissor Bind,Staggering Stickend,F1,Champion,B
+MV-ADV-NUN-005-07,Track-Switch Counter,Rodcuirass,F4,Champion,B
+MV-ADV-NUN-005-08,Twin Rod Pincer Strike,Ravaging Backspin,F1,Champion,B
+MV-ADV-NUN-005-09,Dual-Track Reversal Chain,Hourclack,F5,Champion,B
+MV-ADV-NUN-006-01,Hawk Perch Rod Stance,Facetstave,F5,Demigod,B
+MV-ADV-NUN-006-02,Stoop Drop Rod,Rodbarrage,F4,Demigod,B
+MV-ADV-NUN-006-03,Wing-Spread Rod Guard,Equipoise Roundstick,F2,Demigod,B
+MV-ADV-NUN-006-04,Hawk Glide Rod Step,Gust Neckwrap,F2,Demigod,B
+MV-ADV-NUN-006-05,Talon Rod Hook,Paralyzing Gripstick,F1,Demigod,B
+MV-ADV-NUN-006-06,Dive-Check Cord Snap,Toxinwhirr,F5,Demigod,B
+MV-ADV-NUN-006-07,Rising Hawk Cord Flick,Splintering Chainjoint,F1,Demigod,B
+MV-ADV-NUN-006-08,Second Stoop Return,Iron Shoulderroll,F2,Demigod,B
+MV-ADV-NUN-006-09,Hawk-Eye Feint Drop,Murkclack,F5,Demigod,B
+MV-ADV-NUN-006-10,Hawk's Double Dive,Glintwhirr,F5,Demigod,B
+MV-ADV-NUN-006-11,Circling Hawk Wheel,Drubbing Neckwrap,F1,Demigod,B
+MV-ADV-NUN-007-01,Twin-Court Seat,Unflinching Swingstick,F1,Ruler,B
+MV-ADV-NUN-007-02,Court-Keeper Rod Cut,Might Cascade,F2,Ruler,B
+MV-ADV-NUN-007-03,Court-Edge Shuffle,Gust Sidespin,F2,Ruler,B
+MV-ADV-NUN-007-04,Outer Court Deflect,Gust Octastick,F2,Ruler,B
+MV-ADV-NUN-007-05,Inner Court Pin,Compressing Fliparound,F1,Ruler,B
+MV-ADV-NUN-007-06,Courts Exchange Counter,Torrent Hardstick,F2,Ruler,B
+MV-ADV-NUN-007-07,Two-Court Pressure Frame,Grinding Octastick,F1,Ruler,B
+MV-ADV-NUN-007-08,Courtly Hinge Reversal,Stickend Cloak,F3,Ruler,B
+MV-ADV-NUN-008-01,Gale-Facing Rod Stance,Granite Chainjoint,F2,Demigod,B
+MV-ADV-NUN-008-02,Wind-Carried Rod Cut,Gripstick Assault,F3,Demigod,B
+MV-ADV-NUN-008-03,Gust-Carried Hinge Step,Torrent Shoulderroll,F2,Demigod,B
+MV-ADV-NUN-008-04,Crosswind Cord-Rod Parry,Unshaken Capstick,F1,Demigod,B
+MV-ADV-NUN-008-05,Cord Whistle Snap,Mayhemstave,F5,Demigod,B
+MV-ADV-NUN-008-06,Leeward Orbit Return,Chime Swingstick,F2,Demigod,B
+MV-ADV-NUN-008-07,Windward Orbit Press,Harpooning Backspin,F1,Demigod,B
+MV-ADV-NUN-008-08,Gale Cord Hook,Thornrod,F5,Demigod,B
+MV-ADV-NUN-008-09,Gale Orbit Great Sweep,Daybreak Neckwrap,F2,Demigod,B
+MV-ADV-NUN-008-10,Bearing-Held Orbit Break,Iron Roundstick,F2,Demigod,B
+MV-ADV-NUN-009-01,Plateau Bearing Rod Stance,Iron Hardstick,F2,Ruler,B
+MV-ADV-NUN-009-02,Bearing-True Rod Drop,Sanguine Stickend,F2,Ruler,B
+MV-ADV-NUN-009-03,Edge-Walk Rod Step,Silt Capstick,F2,Ruler,B
+MV-ADV-NUN-009-04,Crosswind Rod Brace,Gustclack,F5,Ruler,B
+MV-ADV-NUN-009-05,Bearing Hold Counter,Gust Cordjoint,F2,Ruler,B
+MV-ADV-NUN-009-06,Uneven-Ground Cord Snag,Thorn Tiedend,F2,Ruler,B
+MV-ADV-NUN-009-07,Held-Line Press,Intent Cascade,F2,Ruler,B
+MV-ADV-NUN-009-08,Fixed-Bearing Overhead Fall,Chainjoint Onslaught,F3,Ruler,B
+MV-ADV-NUN-009-09,Bearing Anchor Tether,Ponderous Swingstick,F2,Ruler,B
+MV-ADV-NUN-010-01,Windward Cord Stance,Thorn Cordjoint,F2,Void God,B
+MV-ADV-NUN-010-02,Cord-Cast Rod Swing,Neckwrap Assault,F3,Void God,B
+MV-ADV-NUN-010-03,Wind-Edge Glide,Gust Fliparound,F2,Void God,B
+MV-ADV-NUN-010-04,Cord Recall Parry,Murk Roundstick,F2,Void God,B
+MV-ADV-NUN-010-05,Wind-Sworn Rod Hold,Hoarfrost Octastick,F2,Void God,B
+MV-ADV-NUN-010-06,Windward Rod Tap,Rumble Tiedend,F2,Void God,B
+MV-ADV-NUN-010-07,Oath-Cast Orbit Lash,Whirrthrash,F4,Void God,B
+MV-ADV-NUN-010-08,Windward Cord Entangle,Thorn Shoulderroll,F2,Void God,B
+MV-ADV-NUN-010-09,Recall Snap Wrench,Mayhem Shoulderroll,F2,Void God,B
+MV-ADV-NUN-010-10,Gale-Line Cord Press,Shade Gripstick,F2,Void God,B
+MV-ADV-NUN-010-11,Oath-Bound Cord Cast,Hollow Capstick,F2,Void God,B
+MV-ADV-NUN-010-12,Windward Closing Ring,Gyve Hardstick,F2,Void God,B
+MV-ADV-NUN-010-11,Hollow Capstick,Driving Capstick,F2,Void God,B

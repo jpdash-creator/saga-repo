@@ -1,0 +1,61 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-WPK-001-01,Pick Grip and Haft Stance,Resting Hardtooth,F1,T1 Unawakened,A
+MV-BAS-WPK-001-02,Overhead Spike Drop,Drive Drop,F3,T1 Unawakened,A
+MV-BAS-WPK-001-03,Short Hammer Rap,Crackdrop,F4,T1 Unawakened,A
+MV-BAS-WPK-001-04,Haft Cross Block,Raised Crowbill,F1,T1 Unawakened,A
+MV-BAS-WPK-001-05,Back-Foot Slide Out,Peckhead Amble,F3,T1 Unawakened,A
+MV-BAS-WPK-001-06,Beak Hook Tug,Turning Puncture,F1,T1 Unawakened,A
+MV-BAS-WPK-002-01,Post Point Tap,Chinkstrike,F4,T1 Skin,A
+MV-BAS-WPK-002-02,Shoulder-Width Pick Screen,Spikebeak Pause,F3,T1 Skin,A
+MV-BAS-WPK-002-03,Buried Spike Wrench,Nabbing Chink,F1,T1 Skin,A
+MV-BAS-WPK-002-04,Flat-Footed Pick Shuffle,Stepping Pickhelve,F1,T1 Skin,A
+MV-BAS-WPK-002-05,Rapping the Plate for Thin Spots,Soft Pickfluke,F1,T1 Skin,A
+MV-BAS-WPK-003-01,Hammer Face Helm Knock,Pickbump,F4,T1 Muscle,A
+MV-BAS-WPK-003-02,Beak Poke at the Gap,Level Punch,F1,T1 Muscle,A
+MV-BAS-WPK-003-03,Choked-Up Short Grip,Planted Waistpoint,F1,T1 Muscle,A
+MV-BAS-WPK-003-04,Hammer Face Parry Rise,Settled Ironthorn,F1,T1 Muscle,A
+MV-BAS-WPK-003-05,Haft Slip Reach Stab,Wide Stonetip,F1,T1 Muscle,A
+MV-BAS-WPK-003-06,Side-Step Hammer Return,Picktrot,F4,T1 Muscle,A
+MV-BAS-WPK-003-07,Face-or-Beak Glance,Soft Backbill,F1,T1 Muscle,A
+MV-BAS-WPK-004-01,Lead-Foot Beak Lunge,Peck Bump,F3,T1 Tendon,A
+MV-BAS-WPK-004-02,Hip-Turn Hammer Swing,Blunt Pickhelve,F1,T1 Tendon,A
+MV-BAS-WPK-004-03,Crossing Step Behind the Haft,Crackpace,F4,T1 Tendon,A
+MV-BAS-WPK-004-04,Pivot Off the Pick Line,Nimble Pickfluke,F1,T1 Tendon,A
+MV-BAS-WPK-004-05,Rooted Stance Under Load,Pickstay,F4,T1 Tendon,A
+MV-BAS-WPK-005-01,Rim-Snag Beak Haul,Stopping Crowbill,F1,T1 Bone,A
+MV-BAS-WPK-005-02,Sleeve Beak Snatch,Towing Spikebeak,F1,T1 Bone,A
+MV-BAS-WPK-005-03,Heel-Catching Beak Sweep,Drivecowl,F4,T1 Bone,A
+MV-BAS-WPK-005-04,Hook-Free Backstep,Light Peck,F1,T1 Bone,A
+MV-BAS-WPK-005-05,Beak Crook Guard,Hooding Stonetip,F1,T1 Bone,A
+MV-BAS-WPK-005-06,Haul-In Short Hammer,Wide Backbill,F1,T1 Bone,A
+MV-BAS-WPK-006-01,Qi-Lit Haft Grip,Hooding Peckhead,F1,Senior L1 Low,A
+MV-BAS-WPK-006-02,Lit Spike Drop,Crowblow,F4,Senior L1 Low,A
+MV-BAS-WPK-006-03,Pulse Rap on the Hammer Face,Upward Crack,F1,Senior L1 Low,A
+MV-BAS-WPK-006-04,Haft Ring Parry,Tight Waistpoint,F1,Senior L1 Low,A
+MV-BAS-WPK-006-05,Qi-Lit Skip Pace,Stepping Puncture,F1,Senior L1 Low,A
+MV-BAS-WPK-006-06,Beak Hook with Pulled Qi,Stopping Chink,F1,Senior L1 Low,A
+MV-BAS-WPK-006-07,Spike Ring Listening,Pickcount,F4,Senior L1 Low,A
+MV-BAS-WPK-006-08,Steadying Breath on the Haft,Pickgauge,F4,Senior L1 Low,A
+MV-BAS-WPK-007-01,Eye-to-Point Line,Tending Crowbill,F1,Senior L2 Low,A
+MV-BAS-WPK-007-02,Slow Spike Placement,Gnawing Ironthorn,F1,Senior L2 Low,A
+MV-BAS-WPK-007-03,Settled Qi Guard,Crowhusk,F4,Senior L2 Low,A
+MV-BAS-WPK-007-04,Half-Step Point Correction,Shifting Pickhelve,F1,Senior L2 Low,A
+MV-BAS-WPK-007-05,Seam-Edge Beak Nudge,Crackhusk,F4,Senior L2 Low,A
+MV-BAS-WPK-008-01,Mail Ring Spike Push,Narrow Drive,F1,Senior L3 Low,A
+MV-BAS-WPK-008-02,Arm-Joint Seam Poke,Short Chink,F1,Senior L3 Low,A
+MV-BAS-WPK-008-03,Hammer-Face Dent Blow,Descending Crack,F1,Senior L3 Low,A
+MV-BAS-WPK-008-04,Haft Rise Against a Sword Cut,Settled Pickfluke,F1,Senior L3 Low,A
+MV-BAS-WPK-008-05,Crouched Helm Shelter,Crowcowl,F4,Senior L3 Low,A
+MV-BAS-WPK-008-06,Close-Quarter Shuffle,Drivepace,F4,Senior L3 Low,A
+MV-BAS-WPK-008-07,Armor Fit Reading,Kind Spikebeak,F1,Senior L3 Low,A
+MV-BAS-WPK-009-01,Head-Weight Settle,Hardtooth Husk,F3,Senior L5 Low,A
+MV-BAS-WPK-009-02,Long-Haft Reach Thrust,Crowstrike,F4,Senior L5 Low,A
+MV-BAS-WPK-009-03,Short-Haft Choke Swing,Gnawing Waistpoint,F1,Senior L5 Low,A
+MV-BAS-WPK-009-04,Recovery Along the Haft,Hardtooth Lid,F3,Senior L5 Low,A
+MV-BAS-WPK-009-05,Weight-Follow Step,Light Puncture,F1,Senior L5 Low,A
+MV-BAS-WPK-009-06,Haft-Butt Gut Jab,Pickhit,F4,Senior L5 Low,A
+MV-BAS-WPK-010-01,Press-Line Pick Guard,Lowered Stonetip,F1,Senior L7 Low,A
+MV-BAS-WPK-010-02,Over-the-Shoulder Beak Pull,Hitching Crack,F1,Senior L7 Low,A
+MV-BAS-WPK-010-03,Crowded-Rank Short Stab,Flukehit,F4,Senior L7 Low,A
+MV-BAS-WPK-010-04,Shuffle Through the Press,Drive Dodge,F3,Senior L7 Low,A
+MV-BAS-WPK-010-05,Muddy Ground Foot Check,Crowreview,F4,Senior L7 Low,A

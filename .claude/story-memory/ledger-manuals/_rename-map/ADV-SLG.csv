@@ -1,0 +1,102 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-SLG-001-01,Helm-Line Eye Mark,Expanse Slingtether,F2,Champion L2 Mid,B
+MV-ADV-SLG-001-02,Short-Cord Hard Whirl,Orbitassault,F4,Champion L2 Mid,B
+MV-ADV-SLG-001-03,Plate-Seam Flat Loose,Slung Barrage,F3,Champion L2 Mid,B
+MV-ADV-SLG-001-04,Glance-Off Cord Sweep,Chime Fingerhitch,F2,Champion L2 Mid,B
+MV-ADV-SLG-001-05,Mail-Shearing Pulse Shot,Peltbarrage,F4,Champion L2 Mid,B
+MV-ADV-SLG-001-06,Visor-Slit Needle Throw,Hollowsling,F5,Champion L2 Mid,B
+MV-ADV-SLG-001-07,Gorget-Rattling Rebound Hit,Slungcuirass,F4,Champion L2 Mid,B
+MV-ADV-SLG-001-08,Plate-Rending Spiral Slug,Nova Pelt,F2,Champion L2 Mid,B
+MV-ADV-SLG-001-09,Three-Slug Breach Cascade,Doctrine Cordleft,F2,Champion L2 Mid,B
+MV-ADV-SLG-002-01,Pouch-Open Fast Load,Cradlelinctus,F4,Champion L6 Low,B
+MV-ADV-SLG-002-02,Back-to-Back Whirl Cycle,Glint Wristhitch,F2,Champion L6 Low,B
+MV-ADV-SLG-002-03,Count-of-Three Release,Chime Orbit,F2,Champion L6 Low,B
+MV-ADV-SLG-002-04,Spare-Cord Quick Swap,Vital Releasecord,F2,Champion L6 Low,B
+MV-ADV-SLG-002-05,Ready-Pouch Shield Raise,Charter Cordright,F2,Champion L6 Low,B
+MV-ADV-SLG-002-06,Overlapping Pulse Volley,Charter Stonepelt,F2,Champion L6 Low,B
+MV-ADV-SLG-002-07,Rolling-Loose Chain Cast,Rumbleslung,F5,Champion L6 Low,B
+MV-ADV-SLG-002-08,Breathless-Cycle Reserve Draw,Vitalcradle,F5,Champion L6 Low,B
+MV-ADV-SLG-002-09,Hailstone Drumfire,Downpour Pouch,F2,Champion L6 Low,B
+MV-ADV-SLG-002-10,Unbroken Cycle Chain,Lot Slingstone,F2,Champion L6 Low,B
+MV-ADV-SLG-003-01,Field-Skin Cord Wrap,Vigorous Leadshot,F1,Demigod L1 Low,B
+MV-ADV-SLG-003-02,Field-Edge Mark Touch,Fortifying Releasecord,F1,Demigod L1 Low,B
+MV-ADV-SLG-003-03,Hand-Released Field Throw,Hoarfrost Singing,F2,Demigod L1 Low,B
+MV-ADV-SLG-003-04,Field-Brushed Missile Turn,Murk Cradle,F2,Demigod L1 Low,B
+MV-ADV-SLG-003-05,Field-Steered Midflight Bend,Gust Stonepelt,F2,Demigod L1 Low,B
+MV-ADV-SLG-003-06,Cord-Field Tension Snap,Grinding Flingaway,F1,Demigod L1 Low,B
+MV-ADV-SLG-003-07,Veil-Wrapped Bullet Pierce,Iron Slingstone,F2,Demigod L1 Low,B
+MV-ADV-SLG-003-08,Twice-Struck Recall Cast,Lot Singing,F2,Demigod L1 Low,B
+MV-ADV-SLG-004-01,Long-Cord Stretch Whirl,Rumble Wristhitch,F2,Demigod L4 Mid,B
+MV-ADV-SLG-004-02,Horizon-Slope Altitude Lift,Restoring Cradle,F1,Demigod L4 Mid,B
+MV-ADV-SLG-004-03,Third-Turn Distance Draw,Leadshot Assault,F3,Demigod L4 Mid,B
+MV-ADV-SLG-004-04,High-Arc Carry Release,Tearing Cordleft,F1,Demigod L4 Mid,B
+MV-ADV-SLG-004-05,Lead-Core Distance Bullet,Equipoise Fingerhitch,F2,Demigod L4 Mid,B
+MV-ADV-SLG-004-06,Boulder-Backed Steadying Crouch,Pouch Plating,F3,Demigod L4 Mid,B
+MV-ADV-SLG-004-07,Field-Lofted Long Pulse,Slungtorment,F4,Demigod L4 Mid,B
+MV-ADV-SLG-004-08,Ridge-to-Ridge Carry Throw,Glint Slingtether,F2,Demigod L4 Mid,B
+MV-ADV-SLG-004-09,Held-Distance Qi Thread,Mindful Slingtether,F1,Demigod L4 Mid,B
+MV-ADV-SLG-004-10,Valley-Crossing Great Cast,Slingtorment,F4,Demigod L4 Mid,B
+MV-ADV-SLG-004-11,Mountain-Pitch Roof Breaker,Tempered Flingaway,F2,Demigod L4 Mid,B
+MV-ADV-SLG-005-01,Twin-Stone Pouch Pairing,Releasecord Elixir,F3,Champion L4 High,B
+MV-ADV-SLG-005-02,Dual-Cord Counter Whirl,Severing Slung,F1,Champion L4 High,B
+MV-ADV-SLG-005-03,Azure-Sky Loft Release,Gust Orbit,F2,Champion L4 High,B
+MV-ADV-SLG-005-04,Basin-Floor Skim Throw,Glintcradle,F5,Champion L4 High,B
+MV-ADV-SLG-005-05,River-Bend Curved Pair,Splintering Slung,F1,Champion L4 High,B
+MV-ADV-SLG-005-06,Hawk-Eyed Twin Strike,Pouchthrash,F4,Champion L4 High,B
+MV-ADV-SLG-005-07,Twin-Court Step Cross,Siltpouch,F5,Champion L4 High,B
+MV-ADV-SLG-005-08,Hammer-and-Anvil Stone Pair,Scorching Cordright,F1,Champion L4 High,B
+MV-ADV-SLG-005-09,Dual-Track Basin Volley,Doctrine Pelt,F2,Champion L4 High,B
+MV-ADV-SLG-006-01,Azure-Track Whirl Set,Hoarfrost Flingaway,F2,Demigod L2 Mid,B
+MV-ADV-SLG-006-02,River-Track Cord Draw,Slingelixir,F4,Demigod L2 Mid,B
+MV-ADV-SLG-006-03,Basin-Ridge Mark Sense,Expanse Wristhitch,F2,Demigod L2 Mid,B
+MV-ADV-SLG-006-04,Twin-Handed Loop Switch,Vital Leadshot,F2,Demigod L2 Mid,B
+MV-ADV-SLG-006-05,Paired-Foot Step Anchor,Bounding Stonepelt,F1,Demigod L2 Mid,B
+MV-ADV-SLG-006-06,Hawk-Wing Cord Guard,Pouchcloak,F4,Demigod L2 Mid,B
+MV-ADV-SLG-006-07,Dual-Track Pulse Pair,Furrowing Cordright,F1,Demigod L2 Mid,B
+MV-ADV-SLG-006-08,River-Current Bend Cast,Hoarfrost Pelt,F2,Demigod L2 Mid,B
+MV-ADV-SLG-006-09,Azure-Field Steady Hold,Daybreak Pouch,F2,Demigod L2 Mid,B
+MV-ADV-SLG-006-10,Twin-Cord Ankle Pin,Fingerhitch Cuirass,F3,Demigod L2 Mid,B
+MV-ADV-SLG-006-11,Basin-Wide Twin Rain,Dismantling Orbit,F2,Demigod L2 Mid,B
+MV-ADV-SLG-006-12,Hawk-and-River Crossing Strike,Intent Slung,F2,Demigod L2 Mid,B
+MV-ADV-SLG-007-01,Hawk-Eye Height Judge,Expanse Cradle,F2,Demigod L7 Low,B
+MV-ADV-SLG-007-02,Climbing Perch Whirl,Chimesling,F5,Demigod L7 Low,B
+MV-ADV-SLG-007-03,Stooping Stone Release,Facet Cordleft,F2,Demigod L7 Low,B
+MV-ADV-SLG-007-04,Perch-Edge Footing Set,Pouchremedy,F4,Demigod L7 Low,B
+MV-ADV-SLG-007-05,Ledge-Drop Landing Roll,Careening Singing,F1,Demigod L7 Low,B
+MV-ADV-SLG-007-06,Pulse-Driven Plunge Shot,Nova Slingstone,F2,Demigod L7 Low,B
+MV-ADV-SLG-007-07,Single-Head Crowd Pick,Chimepouch,F5,Demigod L7 Low,B
+MV-ADV-SLG-007-08,Talon-Grip Weapon Drop,Rumble Pouch,F2,Demigod L7 Low,B
+MV-ADV-SLG-007-09,Hawk's Stoop Hammerfall,Peltthrash,F4,Demigod L7 Low,B
+MV-ADV-SLG-007-10,Falling-Talon Cluster,Pouchassault,F4,Demigod L7 Low,B
+MV-ADV-SLG-008-01,Plateau-Edge Bearing Take,Veritypouch,F5,Champion L7 Mid,B
+MV-ADV-SLG-008-02,Gale-Rim Low Whirl,Facet Slingstone,F2,Champion L7 Mid,B
+MV-ADV-SLG-008-03,Open-Air Oath Release,Nova Slingtether,F2,Champion L7 Mid,B
+MV-ADV-SLG-008-04,Cliff-Lean Footing Hold,Intent Leadshot,F2,Champion L7 Mid,B
+MV-ADV-SLG-008-05,Bearing-Held Pulse Cast,Rumble Cordright,F2,Champion L7 Mid,B
+MV-ADV-SLG-008-06,Wind-Drift Correction Loose,Trouncing Orbit,F1,Champion L7 Mid,B
+MV-ADV-SLG-008-07,Gale-Carried Long Throw,Nova Cordleft,F2,Champion L7 Mid,B
+MV-ADV-SLG-008-08,Cliff-Lip Fall Strike,Needling Flingaway Barrage,F6b,Champion L7 Mid,B
+MV-ADV-SLG-009-01,Oath-Spoken Stance Settle,Daybreak Wristhitch,F2,Demigod L3 High,B
+MV-ADV-SLG-009-02,Open-Sky Whirl Rise,Novaslung,F5,Demigod L3 High,B
+MV-ADV-SLG-009-03,Wind-Sworn Flat Letgo,Transfixing Cradle,F1,Demigod L3 High,B
+MV-ADV-SLG-009-04,No-Walls Bare Ground Step,Cradlejaunt,F4,Demigod L3 High,B
+MV-ADV-SLG-009-05,Wind-Ridden Field Cast,Scorching Pelt,F1,Demigod L3 High,B
+MV-ADV-SLG-009-06,Sworn-Line Bearing Hold,Waning Releasecord,F2,Demigod L3 High,B
+MV-ADV-SLG-009-07,Gale-Sheathed Bullet Throw,Glint Fingerhitch,F2,Demigod L3 High,B
+MV-ADV-SLG-009-08,Oath-Bound Cyclone Whirl,Cleaving Stonepelt,F1,Demigod L3 High,B
+MV-ADV-SLG-009-09,Breath-Held Great Throw,Rumble Orbit,F2,Demigod L3 High,B
+MV-ADV-SLG-010-01,Open-Plain Spread Stance,Might Cradle,F2,Ruler L1 High,B
+MV-ADV-SLG-010-02,Loose-Line Interval Keeping,Fingerhitch Elixir,F3,Ruler L1 High,B
+MV-ADV-SLG-010-03,Gale-Line Wave Whirl,Transfixing Cordleft,F1,Ruler L1 High,B
+MV-ADV-SLG-010-04,Charge-Leading Bearing Throw,Rumblepelt,F5,Ruler L1 High,B
+MV-ADV-SLG-010-05,Step-Back Line Reform,Torrent Flingaway,F2,Ruler L1 High,B
+MV-ADV-SLG-010-06,Cord-Raised Overhead Cover,Granite Slingtether,F2,Ruler L1 High,B
+MV-ADV-SLG-010-07,Wind-Rank Volley Pulse,Ponderous Cordright,F2,Ruler L1 High,B
+MV-ADV-SLG-010-08,Plateau-Line Staggered Cast,Chime Leadshot,F2,Ruler L1 High,B
+MV-ADV-SLG-010-09,Oath-Held Gap Closure,Might Releasecord,F2,Ruler L1 High,B
+MV-ADV-SLG-010-10,No-Walls Running Barrage,Shadepouch,F5,Ruler L1 High,B
+MV-ADV-SLG-010-11,Gale-Front Breaking Rain,Doctrine Singing,F2,Ruler L1 High,B
+MV-ADV-SLG-001-01,Expanse Slingtether,Keen Slingtether,F2,Champion L2 Mid,B
+MV-ADV-SLG-006-03,Expanse Wristhitch,Measured Wristhitch,F2,Demigod L2 Mid,B
+MV-ADV-SLG-007-01,Expanse Cradle,Exacting Cradle,F2,Demigod L7 Low,B
+MV-ADV-SLG-008-08,Needling Flingaway Barrage,Needling Flingaway,F6b,Champion L7 Mid,B

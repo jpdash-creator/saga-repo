@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-society-p22-faction-civilization-boundary-governance",
+ "part": 22,
+ "area": 29,
+ "sequence_in_part": 29,
+ "title": "Faction-Civilization Boundary Governance",
+ "domain": "society",
+ "source_file": "Part_22_People_Society_Faction_Law.md",
+ "start_line": 1304,
+ "end_line": 1339,
+ "line_count": 36,
+ "output_path": ".claude/skills/ssc-society-p22-faction-civilization-boundary-governance/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-society-p21-foundational-principles",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Civilization contains/sponsors Factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p21-five-civilization-axes",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Civilization contains/sponsors Factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p21-composite-civilization-tier-civilization-tier-designations",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Civilization contains/sponsors Factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p21-cct-synthesis-formula",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Civilization contains/sponsors Factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p21-ctd-minimum-axis-thresholds",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Civilization contains/sponsors Factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p21-civilization-type-taxonomy",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Civilization contains/sponsors Factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p21-civilization-types-special-classifications",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Civilization contains/sponsors Factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p21-ctd-ctd-civilizational-profiles",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Civilization contains/sponsors Factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p21-civilization-advancement-mechanics",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Civilization contains/sponsors Factions per Part 22"
+  },
+  {
+   "skill_id": "ssc-society-p21-civilization-interaction-laws",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Civilization contains/sponsors Factions per Part 22"
+  }
+ ]
+}

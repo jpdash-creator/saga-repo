@@ -1,0 +1,5 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-MOO-005-02,Plain Tug,Bare Tug,INSTANT,Warrior L1 Low,Basic
+CMV-SIG-MOO-005-07,Plain Phase,Phase Slip,INSTANT,Warrior L1 Low,Intermediate
+CMV-SIG-MOO-002-03,Basin Halo,Bowl Halo,CHANNELED,,Basic
+CMV-SIG-MOO-002-08,Held Basin,Held Pull,CHANNELED,,Advanced

@@ -1,0 +1,12 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ELI-DRK-002-01,Court Dimming,Side Dimming,INSTANT,Warrior L1 Low,Basic
+CMV-ELI-DRK-002-04,Court Slip,Turning Slip,INSTANT,Warrior L1 Low,Basic
+CMV-ELI-DRK-002-07,Court Wall,Angled Guard,CHANNELED,Warrior L1 Low,Intermediate
+CMV-ELI-DRK-003-02,Hollow Basin,Curved Catch,INSTANT,Warrior L1 Low,Basic
+CMV-ELI-DRK-004-01,River Ink,Ink Flick,INSTANT,Warrior L1 Low,Basic
+CMV-ELI-DRK-004-06,Bank Shade,Steep Shade,CHANNELED,Warrior L1 Low,Intermediate
+CMV-ELI-DRK-005-08,Paired Wall,Shadowmate Guard,CHANNELED,Warrior L1 Low,Intermediate
+CMV-ELI-DRK-003-01,Basin Gather,Dark Gather,CHANNELED,,Basic
+CMV-ELI-DRK-003-04,Basin Step,Lowering Step,INSTANT,,Basic
+CMV-ELI-DRK-003-05,Basin Sense,Pooled Sense,CHANNELED,,Basic
+CMV-ELI-DRK-003-08,Basin Seal,Plug Seal,INSTANT,,Intermediate

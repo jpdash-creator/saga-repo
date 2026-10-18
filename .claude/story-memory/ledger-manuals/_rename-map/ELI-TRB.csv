@@ -1,0 +1,134 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-TRB-001-01,Great Beam Timber Reckoning,Expanse Pullrope,F2,Demigod L1 Low,B
+MV-ELI-TRB-001-02,Court Twin Rank Forming,Vigilant Pullrope,F1,Demigod L1 Low,B
+MV-ELI-TRB-001-03,Azure Banner Head Raising,Tackleinsight,F4,Demigod L1 Low,B
+MV-ELI-TRB-001-04,Great Sling Soaking,Beneficent Fulcrum,F1,Demigod L1 Low,B
+MV-ELI-TRB-001-05,Greased Rail Cradle Roll,Daybreak Longarm,F2,Demigod L1 Low,B
+MV-ELI-TRB-001-06,Call and Answer Winding,Might Releasehook,F2,Demigod L1 Low,B
+MV-ELI-TRB-001-07,Heavy Shot Courtly Release,Gnashing Tackle,F1,Demigod L1 Low,B
+MV-ELI-TRB-001-08,Twin Rank Pin Pairing,Shattering Overthrow,F1,Demigod L1 Low,B
+MV-ELI-TRB-001-09,Azure Court Crushing Fall,Daybreak Hangcradle,F2,Demigod L1 Low,B
+MV-ELI-TRB-001-10,Great Arm Ward Shatter,Glint Slingpouch,F2,Demigod L1 Low,B
+MV-ELI-TRB-001-11,Azure Court Single Heavenfall,Iron Shortarm,F2,Demigod L1 Low,B
+MV-ELI-TRB-002-01,Linked Beam Cord Tying,Daybreak Pullrope,F2,Demigod L2 Mid,B
+MV-ELI-TRB-002-02,Twin Axle Trough Leveling,Energizing Slingpouch,F1,Demigod L2 Mid,B
+MV-ELI-TRB-002-03,Mirrored Crew Station Setting,Might Ballast,F2,Demigod L2 Mid,B
+MV-ELI-TRB-002-04,Paired Shot Grain Matching,Beneficent Rigging,F1,Demigod L2 Mid,B
+MV-ELI-TRB-002-05,Echo Count Calling,Equipoise Shortarm,F2,Demigod L2 Mid,B
+MV-ELI-TRB-002-06,Cord Pull Feeling,Pulleyrespite,F4,Demigod L2 Mid,B
+MV-ELI-TRB-002-07,Slack Cord Twin Release,Vengeful Letgo,F1,Demigod L2 Mid,B
+MV-ELI-TRB-002-08,Low High Staggered Pair,Shattering Swing,F1,Demigod L2 Mid,B
+MV-ELI-TRB-002-09,Crossed Flight Lines,Unsparing Tackle,F1,Demigod L2 Mid,B
+MV-ELI-TRB-002-10,Linked Bracketing Fall,Dismantling Rigging,F2,Demigod L2 Mid,B
+MV-ELI-TRB-002-11,Tied Cord Qi Joining,Healing Fulcrum,F1,Demigod L2 Mid,B
+MV-ELI-TRB-002-12,Linked Hammerfall,Novatackle,F5,Demigod L2 Mid,B
+MV-ELI-TRB-003-01,River Bank Shot Rolling,Galvanizing Fulcrum,F1,Demigod L4 Low,B
+MV-ELI-TRB-003-02,Floating Stick Current Read,Verity Longarm,F2,Demigod L4 Low,B
+MV-ELI-TRB-003-03,Cast Iron Shot Choosing,Pulleyinsight,F4,Demigod L4 Low,B
+MV-ELI-TRB-003-04,Boat Lead Throw,Swing Reckoning,F3,Demigod L4 Low,B
+MV-ELI-TRB-003-05,Water Skip Hull Cast,Novaarm,F5,Demigod L4 Low,B
+MV-ELI-TRB-003-06,Ford Crossing Barrage,Booming Overthrow,F1,Demigod L4 Low,B
+MV-ELI-TRB-003-07,Iron Fall Hull Splitter,Swingruin,F4,Demigod L4 Low,B
+MV-ELI-TRB-003-08,River Line Closing Fall,Suffocating Counterswing,F1,Demigod L4 Low,B
+MV-ELI-TRB-003-09,Drowned Ford Great Iron Drop,Downpour Whiplash,F2,Demigod L4 Low,B
+MV-ELI-TRB-004-01,Sky Grey Sling Dyeing,Clairvoyant Hangcradle,F1,Demigod L6 Mid,B
+MV-ELI-TRB-004-02,Hawk Eye Distance Training,Releasehook Premonition,F3,Demigod L6 Mid,B
+MV-ELI-TRB-004-03,Silent Pin Oiling,Vitalpulley,F5,Demigod L6 Mid,B
+MV-ELI-TRB-004-04,Dawn Mist Waiting,Vigilant Rigging,F1,Demigod L6 Mid,B
+MV-ELI-TRB-004-05,Leather Muffled Winch,Radiant Releasehook,F1,Demigod L6 Mid,B
+MV-ELI-TRB-004-06,Dusk Shadow Arc Throw,Brutalizing Heaveoff,F1,Demigod L6 Mid,B
+MV-ELI-TRB-004-07,Soundless Release Cast,Rumbletackle,F5,Demigod L6 Mid,B
+MV-ELI-TRB-004-08,First Light Dropping Throw,Eviscerating Whiplash,F1,Demigod L6 Mid,B
+MV-ELI-TRB-004-09,Cloud Base Rising Lob,Chime Tackle,F2,Demigod L6 Mid,B
+MV-ELI-TRB-004-10,Stoop on the Standard,Swingscourge,F4,Demigod L6 Mid,B
+MV-ELI-TRB-004-11,Hidden Engine Veiling,Reverie Letgo,F2,Demigod L6 Mid,B
+MV-ELI-TRB-004-12,Second Site Crew Shift,Counterswing Glimmer,F3,Demigod L6 Mid,B
+MV-ELI-TRB-004-13,Unseen Stone Falling Sky,Iron Heaveoff,F2,Demigod L6 Mid,B
+MV-ELI-TRB-005-01,Siege Train Wagon Marshalling,Armrespite,F4,Demigod L8 Low,B
+MV-ELI-TRB-005-02,Basin Road Axle Greasing,Shortarm Vigil,F3,Demigod L8 Low,B
+MV-ELI-TRB-005-03,Beam Section Count Marking,Resurgent Longarm,F1,Demigod L8 Low,B
+MV-ELI-TRB-005-04,Engine Yard Line Pegging,Equipoise Pullrope,F2,Demigod L8 Low,B
+MV-ELI-TRB-005-05,Drilled Beam Assembly,Intentpulley,F5,Demigod L8 Low,B
+MV-ELI-TRB-005-06,New Engine Proving Throw,Eviscerating Fulcrum,F1,Demigod L8 Low,B
+MV-ELI-TRB-005-07,Cracked Arm Spare Swap,Intent Rigging,F2,Demigod L8 Low,B
+MV-ELI-TRB-005-08,Siege Opening Salvo,Unsparing Ballast,F1,Demigod L8 Low,B
+MV-ELI-TRB-005-09,Days Long Siege Pressure,Intent Overthrow,F2,Demigod L8 Low,B
+MV-ELI-TRB-005-10,Train Engines in One Voice,Dismantling Letgo,F2,Demigod L8 Low,B
+MV-ELI-TRB-006-01,Beam Glint Skyline Sighting,Verity Hangcradle,F2,Void God L1 Low,B
+MV-ELI-TRB-006-02,Crater Return Bearing,Expanse Ballast,F2,Void God L1 Low,B
+MV-ELI-TRB-006-03,Last Fall Marker Pole,Arminsight,F4,Void God L1 Low,B
+MV-ELI-TRB-006-04,Flank Lookout Posting,Intent Slingpouch,F2,Void God L1 Low,B
+MV-ELI-TRB-006-05,Crater Depth Rod Measuring,Chime Longarm,F2,Void God L1 Low,B
+MV-ELI-TRB-006-06,Fresh Bearing Quick Lay,Whiplash Devastation,F3,Void God L1 Low,B
+MV-ELI-TRB-006-07,Two Track Counter Pair,Facet Pullrope,F2,Void God L1 Low,B
+MV-ELI-TRB-006-08,Whistle Scatter Return,Might Slingpouch,F2,Void God L1 Low,B
+MV-ELI-TRB-006-09,Counter Battery Smashing Fall,Berserk Fulcrum,F1,Void God L1 Low,B
+MV-ELI-TRB-006-10,Silent Sentry Engine,Tackle Valor,F3,Void God L1 Low,B
+MV-ELI-TRB-006-11,Twin Eye Return Stone,Punishing Glint Shortarm,F6a,Void God L1 Low,B
+MV-ELI-TRB-007-01,Plateau Rock Wedge Bedding,Healing Releasehook,F1,Demigod L1 Mid,B
+MV-ELI-TRB-007-02,Wind Rope Guying Lines,Might Hangcradle,F2,Demigod L1 Mid,B
+MV-ELI-TRB-007-03,Sworn Station Keeping,Equipoise Releasehook,F2,Demigod L1 Mid,B
+MV-ELI-TRB-007-04,Bearing Cairn Piling,Energizing Rigging,F1,Demigod L1 Mid,B
+MV-ELI-TRB-007-05,Feather Vane Hanging,Waning Shortarm,F2,Demigod L1 Mid,B
+MV-ELI-TRB-007-06,Gale at the Back Throw,Blazeswing,F5,Demigod L1 Mid,B
+MV-ELI-TRB-007-07,Cairn Upwind Lean,Tacklehavoc,F4,Demigod L1 Mid,B
+MV-ELI-TRB-007-08,Lull Caught Release,Tackleruin,F4,Demigod L1 Mid,B
+MV-ELI-TRB-007-09,Hushed Oath Winding,Vital Ballast,F2,Demigod L1 Mid,B
+MV-ELI-TRB-007-10,Plateau Edge Falling Storm,Daybreak Overthrow,F2,Demigod L1 Mid,B
+MV-ELI-TRB-007-11,Wind-Sworn Stone Piercing,Pulleywrath,F4,Demigod L1 Mid,B
+MV-ELI-TRB-007-12,Sworn Wind Great Throw,Novaletgo,F5,Demigod L1 Mid,B
+MV-ELI-TRB-008-01,Battery Oath Chain Speaking,Tacklerespite,F4,Demigod L3 Low,B
+MV-ELI-TRB-008-02,Bearing Stake Line Driving,Tacklevigil,F4,Demigod L3 Low,B
+MV-ELI-TRB-008-03,Thin Smoke Line Signal,Buoying Tackle,F1,Demigod L3 Low,B
+MV-ELI-TRB-008-04,Sill Stone Ring Setting,Intentarm,F5,Demigod L3 Low,B
+MV-ELI-TRB-008-05,Oath Count Battery Release,Unsparing Releasehook,F1,Demigod L3 Low,B
+MV-ELI-TRB-008-06,Held Line Walking Throw,Letgoscourge,F4,Demigod L3 Low,B
+MV-ELI-TRB-008-07,Battery Gust Steadying,Equipoise Rigging,F2,Demigod L3 Low,B
+MV-ELI-TRB-008-08,Bearing Held Fall Rake,Charter Swing,F2,Demigod L3 Low,B
+MV-ELI-TRB-008-09,Oath Chain Great Volley,Siltarm,F5,Demigod L3 Low,B
+MV-ELI-TRB-008-10,Unbroken Bearing Final Stone,Grievous Tackle,F1,Demigod L3 Low,B
+MV-ELI-TRB-009-01,Open Ground Engine Spreading,Energizing Longarm,F1,Demigod L5 Mid,B
+MV-ELI-TRB-009-02,Empty Plain Watch Posting,Prescient Ballast,F1,Demigod L5 Mid,B
+MV-ELI-TRB-009-03,Quick Strike Gear Packing,Radiant Pullrope,F1,Demigod L5 Mid,B
+MV-ELI-TRB-009-04,Open Field First Throw,Hoarfrost Letgo,F2,Demigod L5 Mid,B
+MV-ELI-TRB-009-05,Throw and Drag Back,Armwrath,F4,Demigod L5 Mid,B
+MV-ELI-TRB-009-06,Thin Ring Crew Spreading,Swing Flash,F3,Demigod L5 Mid,B
+MV-ELI-TRB-009-07,Skirmisher Scattering Hail,Dismantling Counterswing,F2,Demigod L5 Mid,B
+MV-ELI-TRB-009-08,Open Ground Ward Breaking,Tempered Fulcrum,F2,Demigod L5 Mid,B
+MV-ELI-TRB-009-09,Unsheltered Last Throw,Merciless Rumble Counterswing,F6a,Demigod L5 Mid,B
+MV-ELI-TRB-010-01,Ashwood Arm Lengthening,Intent Longarm,F2,Demigod L7 Low,B
+MV-ELI-TRB-010-02,Wind-Waxed Cord Doubling,Unerring Hangcradle,F1,Demigod L7 Low,B
+MV-ELI-TRB-010-03,Horizon Landmark Reckoning,Buoying Fulcrum,F1,Demigod L7 Low,B
+MV-ELI-TRB-010-04,High Wind Shot Weighing,Unerring Releasehook,F1,Demigod L7 Low,B
+MV-ELI-TRB-010-05,Shifted Long Pull Rotation,Revitalizing Pullrope,F1,Demigod L7 Low,B
+MV-ELI-TRB-010-06,Last Moment Far Loosening,Glint Overthrow,F2,Demigod L7 Low,B
+MV-ELI-TRB-010-07,Drift Reckoned Far Fall,Glintletgo,F5,Demigod L7 Low,B
+MV-ELI-TRB-010-08,High Gale Rider Throw,Unsparing Overthrow,F1,Demigod L7 Low,B
+MV-ELI-TRB-010-09,Rider Reported Second Stone,Grievous Letgo,F1,Demigod L7 Low,B
+MV-ELI-TRB-010-10,Far Reckoned Stone Pinning,Hellish Slingpouch,F1,Demigod L7 Low,B
+MV-ELI-TRB-010-11,Far Fall Fieldwide Hail,Blazearm,F5,Demigod L7 Low,B
+MV-ELI-TRB-010-12,Rear Reserve Pinning Barrage,Charter Whiplash,F2,Demigod L7 Low,B
+MV-ELI-TRB-010-13,Stone from Beyond Sight,Glint Tackle,F2,Demigod L7 Low,B
+MV-ELI-TRB-011-01,Oath Cord Knotting,Ballast Respite,F3,Void God L2 Low,B
+MV-ELI-TRB-011-02,Pouch Flap Wind Stitching,Prescient Pullrope,F1,Void God L2 Low,B
+MV-ELI-TRB-011-03,Edge Rock Release Mark,Pulleyvigil,F4,Void God L2 Low,B
+MV-ELI-TRB-011-04,Pouch Opening Eye Watch,Veritytackle,F5,Void God L2 Low,B
+MV-ELI-TRB-011-05,Hand Breadth Sling Trimming,Buoying Slingpouch,F1,Void God L2 Low,B
+MV-ELI-TRB-011-06,Oath Cord Slip Throw,Gust Heaveoff,F2,Void God L2 Low,B
+MV-ELI-TRB-011-07,Edge Sling Whiplash,Overthrow Havoc,F3,Void God L2 Low,B
+MV-ELI-TRB-011-08,Plateau Rock Skim Throw,Blazeletgo,F5,Void God L2 Low,B
+MV-ELI-TRB-011-09,Oath Cord Stone Piercing,Berserk Shortarm,F1,Void God L2 Low,B
+MV-ELI-TRB-011-10,Edge Sling Gravel Storm,Granite Shortarm,F2,Void God L2 Low,B
+MV-ELI-TRB-011-11,Oath Sling Last Release,Ironpulley,F5,Void God L2 Low,B
+MV-ELI-TRB-012-01,Rising Shape Bearing Fix,Armvigil,F4,Void God L3 Mid,B
+MV-ELI-TRB-012-02,Gale Drift Fall Reading,Verityarm,F5,Void God L3 Mid,B
+MV-ELI-TRB-012-03,Crew Dispersal Whistle,Energizing Hangcradle,F1,Void God L3 Mid,B
+MV-ELI-TRB-012-04,Quick Winch Return Drill,Equipoise Longarm,F2,Void God L3 Mid,B
+MV-ELI-TRB-012-05,Wind Drift Counter Lay,Glint Heaveoff,F2,Void God L3 Mid,B
+MV-ELI-TRB-012-06,Gale Turned Reply,Facet Rigging,F2,Void God L3 Mid,B
+MV-ELI-TRB-012-07,Plateau Scatter Pattern Step,Pulleyflash,F4,Void God L3 Mid,B
+MV-ELI-TRB-012-08,Wind-Sworn Counter Stone,Tempered Letgo,F2,Void God L3 Mid,B
+MV-ELI-TRB-012-09,Gale Turning Frame Guard,Gusttackle,F5,Void God L3 Mid,B
+MV-ELI-TRB-012-10,Held Still Gale Reply,Eviscerating Counterswing Wrath,F6b,Void God L3 Mid,B
+MV-ELI-TRB-001-01,Expanse Pullrope,Steady Pullrope,F2,Demigod L1 Low,B
+MV-ELI-TRB-006-02,Expanse Ballast,Sharp Ballast,F2,Void God L1 Low,B

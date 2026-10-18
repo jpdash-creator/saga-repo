@@ -1,0 +1,90 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-GAR-001-01,Forearm Meridian Pulse,Tempered Garrote,F2,Champion,B
+MV-ADV-GAR-001-02,Cord Brace Stance,Ironnoose,F5,Champion,B
+MV-ADV-GAR-001-03,Shin Hook Draw,Hamstringing Gripdowel,F1,Champion,B
+MV-ADV-GAR-001-04,Silent Weave Walk,Silt Cinch,F2,Champion,B
+MV-ADV-GAR-001-05,Meridian-Wound Loop,Subduing Barbedwire,F1,Champion,B
+MV-ADV-GAR-001-06,Pressure Point Rake,Facet Toggle,F2,Champion,B
+MV-ADV-GAR-001-07,Full-Meridian Drag,Gyvestrand,F5,Champion,B
+MV-ADV-GAR-001-08,Snapback Counter-Choke,Glint Wirebraid,F2,Champion,B
+MV-ADV-GAR-002-01,Field Hold Stance,Togglecloak,F4,Demigod,B
+MV-ADV-GAR-002-02,Reaching Loop Cast,Fastening Cordhandle,F2,Demigod,B
+MV-ADV-GAR-002-03,Orbit Pace Step,Might Throttle,F2,Demigod,B
+MV-ADV-GAR-002-04,Cord Tip Flick,Gust Cordbraid,F2,Demigod,B
+MV-ADV-GAR-002-05,Field-Sheathed Cord,Immovable Wirecore,F1,Demigod,B
+MV-ADV-GAR-002-06,Beyond-Reach Loop,Stifling Slipknot,F1,Demigod,B
+MV-ADV-GAR-002-07,Field Ripple Pull,Crippling Tighten,F1,Demigod,B
+MV-ADV-GAR-002-08,Living Cord Strangle,Shade Handlebar,F2,Demigod,B
+MV-ADV-GAR-002-09,Field Slipknot Lock,Crippling Slipnoose,F1,Demigod,B
+MV-ADV-GAR-003-01,Two-Foe Pivot Loop,Noosering Plating,F3,Champion,B
+MV-ADV-GAR-003-02,Cord Corner Step,Granite Handlebar,F2,Champion,B
+MV-ADV-GAR-003-03,Waist-High Cord Sweep,Unmaking Noosering,F1,Champion,B
+MV-ADV-GAR-003-04,Flank Cross Guard,Chime Gripdowel,F2,Champion,B
+MV-ADV-GAR-003-05,Tangle Drag Pull,Gyve Constrict,F2,Champion,B
+MV-ADV-GAR-003-06,Rotating Anchor Hold,Facet Cordbraid,F2,Champion,B
+MV-ADV-GAR-003-07,Triple Loop Cascade,Doctrine Slipknot,F2,Champion,B
+MV-ADV-GAR-003-08,Ankle-High Crossing Snare,Sinister Cordhandle Cloak,F6b,Champion,B
+MV-ADV-GAR-004-01,Outreach Bar Hold,Thornstrand,F5,Demigod,B
+MV-ADV-GAR-004-02,Lengthened Loop Cast,Thorn Cinch,F2,Demigod,B
+MV-ADV-GAR-004-03,Far Foot Sweep,Gustwire,F5,Demigod,B
+MV-ADV-GAR-004-04,Overarm Cord Crack,Rumble Toggle,F2,Demigod,B
+MV-ADV-GAR-004-05,Wrapped Palm Catch,Gustnoose,F5,Demigod,B
+MV-ADV-GAR-004-06,Qi-Lengthened Cord,Ponderous Wirecore,F2,Demigod,B
+MV-ADV-GAR-004-07,Taut Line Pluck,Toggleplating,F4,Demigod,B
+MV-ADV-GAR-004-08,Reaching Throat Snare,Raging Garrote,F1,Demigod,B
+MV-ADV-GAR-004-09,Extended Field Strangle,Ponderous Barbedwire,F2,Demigod,B
+MV-ADV-GAR-004-10,Whirling Cord Ring,Thorn Wirecore,F2,Demigod,B
+MV-ADV-GAR-005-01,Paired Cord Crossing,Ponderous Wirebraid,F2,Ruler,B
+MV-ADV-GAR-005-02,Twin Height Screen,Hoarfrost Cordbraid,F2,Ruler,B
+MV-ADV-GAR-005-03,River Turn Step,Siltwire,F5,Ruler,B
+MV-ADV-GAR-005-04,Wide Draw Slap,Toggleassault,F4,Ruler,B
+MV-ADV-GAR-005-05,Dual-Track Pull,Intentwire,F5,Ruler,B
+MV-ADV-GAR-005-06,Hawk Loop Drop,Gyvetoggle,F5,Ruler,B
+MV-ADV-GAR-005-07,Basin Edge Snare,Togglecuirass,F4,Ruler,B
+MV-ADV-GAR-005-08,Twin Loop Qi Stop,Wireplating,F4,Ruler,B
+MV-ADV-GAR-006-01,Hawk Wing Hold,Adamant Wirebraid,F1,Demigod,B
+MV-ADV-GAR-006-02,River Bend Cast,Hoarfrost Tighten,F2,Demigod,B
+MV-ADV-GAR-006-03,Twin Heel Turn,Silt Cordhandle,F2,Demigod,B
+MV-ADV-GAR-006-04,Thin Line Jaw Flick,Constrict Assault,F3,Demigod,B
+MV-ADV-GAR-006-05,Opposite Wrist Wrap,Thorn Gripdowel,F2,Demigod,B
+MV-ADV-GAR-006-06,Basin-Rested Cord,Thornwire,F5,Demigod,B
+MV-ADV-GAR-006-07,Hawk-Stoop Pursuit,Vaulting Noosering,F1,Demigod,B
+MV-ADV-GAR-006-08,Twin Track Whisper,Murk Slipnoose,F2,Demigod,B
+MV-ADV-GAR-006-09,Paired Field Strangulation,Strandthrash,F4,Demigod,B
+MV-ADV-GAR-006-10,Dual-Track Release Flare,Rumble Slipknot,F2,Demigod,B
+MV-ADV-GAR-007-01,Azure Cord Salute,Implacable Toggle,F1,Demigod,B
+MV-ADV-GAR-007-02,Court Pair Cast,Thorn Throttle,F2,Demigod,B
+MV-ADV-GAR-007-03,Ford-Crossing Step,Granite Tighten,F2,Demigod,B
+MV-ADV-GAR-007-04,Hawk Cord Snap,Granite Barbedwire,F2,Demigod,B
+MV-ADV-GAR-007-05,Twin Qi Weave,Fastening Constrict,F2,Demigod,B
+MV-ADV-GAR-007-06,Azure Slack Glide,Barbedwire Cloak,F3,Demigod,B
+MV-ADV-GAR-007-07,Basin Drain Spiral,Handlebar Maelstrom,F3,Demigod,B
+MV-ADV-GAR-007-08,Court Pair Seal Draw,Fastening Cinch,F2,Demigod,B
+MV-ADV-GAR-007-09,Hawk and River Weave,Wirebraid Assault,F3,Demigod,B
+MV-ADV-GAR-008-01,Plateau Edge Cord Stance,Thorn Handlebar,F2,Champion,B
+MV-ADV-GAR-008-02,Downwind Loop Cast,Ponderous Cinch,F2,Champion,B
+MV-ADV-GAR-008-03,Fixed Bearing Walk,Gust Slipnoose,F2,Champion,B
+MV-ADV-GAR-008-04,Oath Draw Snap,Gust Gripdowel,F2,Champion,B
+MV-ADV-GAR-008-05,Gale Slack Fold,Unshaken Noosering,F1,Champion,B
+MV-ADV-GAR-008-06,Wind-Sworn Hold,Gyve Throttle,F2,Champion,B
+MV-ADV-GAR-008-07,Plateau Gale Pull,Shade Cordhandle,F2,Champion,B
+MV-ADV-GAR-008-08,Oath-Bound Knot,Gyvenoose,F5,Champion,B
+MV-ADV-GAR-009-01,Open Ground Cord Bar,Thorn Cordbraid,F2,Demigod,B
+MV-ADV-GAR-009-02,Gust Breath Cast,Noosecuirass,F4,Demigod,B
+MV-ADV-GAR-009-03,Swept Bearing Turn,Wirecanter,F4,Demigod,B
+MV-ADV-GAR-009-04,Gale Whip Strike,Tempered Slipknot,F2,Demigod,B
+MV-ADV-GAR-009-05,Oath Line Parry,Murk Wirecore,F2,Demigod,B
+MV-ADV-GAR-009-06,Open Cord Field,Noosegreave,F4,Demigod,B
+MV-ADV-GAR-009-07,Wind-Sworn Drift,Granite Toggle,F2,Demigod,B
+MV-ADV-GAR-009-08,Heading Read Through Cord,Chimewire,F5,Demigod,B
+MV-ADV-GAR-009-09,Gale Field Strangle,Intent Tighten,F2,Demigod,B
+MV-ADV-GAR-009-10,Unsworn Snap Release,Toxin Wirecore,F2,Demigod,B
+MV-ADV-GAR-010-01,High Plateau Stance,Facet Slipknot,F2,Ruler,B
+MV-ADV-GAR-010-02,Crosswind Loop,Stifling Constrict,F1,Ruler,B
+MV-ADV-GAR-010-03,Heading Hold Step,Wirebraid Jaunt,F3,Ruler,B
+MV-ADV-GAR-010-04,Sworn Cord Throat Cut,Wrecking Constrict,F1,Ruler,B
+MV-ADV-GAR-010-05,Bearing Cord Lash,Mightwire,F5,Ruler,B
+MV-ADV-GAR-010-06,Wind-Held Loop,Silencing Garrote,F1,Ruler,B
+MV-ADV-GAR-010-07,Gale-Veil Retreat,Unshaken Toggle,F1,Ruler,B
+MV-ADV-GAR-010-08,Staked Path Snare,Toxin Handlebar,F2,Ruler,B
+MV-ADV-GAR-010-09,Last Bearing Pull,Wirebarrage,F4,Ruler,B

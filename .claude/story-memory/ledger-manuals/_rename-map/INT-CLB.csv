@@ -1,0 +1,74 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-CLB-001-01,Breath-Borne Grip,Buttressed Bellyswell,F1,Senior L1 Low,A
+MV-INT-CLB-001-02,Lung-Driven Overswing,Raw Clout,F1,Senior L1 Low,A
+MV-INT-CLB-001-03,Hip-Turn Bash,Rugged Roundhead,F1,Senior L1 Low,A
+MV-INT-CLB-001-04,Light-Foot Cutback,Slinking Handholdgrip,F1,Senior L1 Low,A
+MV-INT-CLB-001-05,Shaft-Slap Interception,Sturdy Knob,F1,Senior L1 Low,A
+MV-INT-CLB-001-06,Elbow Knock Reverse,Burlthwack,F4,Senior L1 Low,A
+MV-INT-CLB-001-07,Qi-Weighted Overhead Slam,Brisk Thickend,F1,Senior L1 Low,A
+MV-INT-CLB-001-08,Held-Breath Pressing Brace,Burl Carapace,F3,Senior L1 Low,A
+MV-INT-CLB-002-01,Joint-Watch Stance,Guarding Girth,F1,Senior L4 Low,A
+MV-INT-CLB-002-02,Knuckle Rap,Rude Belabor,F1,Senior L4 Low,A
+MV-INT-CLB-002-03,Instep Stamp Knock,Binding Bulge,F1,Senior L4 Low,A
+MV-INT-CLB-002-04,Hop-Back Club Reset,Bludgeon Zip,F3,Senior L4 Low,A
+MV-INT-CLB-002-05,Elbow Crush Blow,Thump Scorer,F3,Senior L4 Low,A
+MV-INT-CLB-002-06,Hinge-Shattering Drive,Heartwood Slap,F3,Senior L4 Low,A
+MV-INT-CLB-003-01,Pendulum Ready Hang,Shielding Roundhead,F1,Senior L5 Mid,A
+MV-INT-CLB-003-02,Dipping Arc Rise,Wallop Swat,F3,Senior L5 Mid,A
+MV-INT-CLB-003-03,Wrist-Turned Reverse Arc,Knobthwack,F4,Senior L5 Mid,A
+MV-INT-CLB-003-04,Counterweight Step,Clouthurdle,F4,Senior L5 Mid,A
+MV-INT-CLB-003-05,Brake-and-Release Catch,Stoutbarrier,F4,Senior L5 Mid,A
+MV-INT-CLB-003-06,Swinging Knee Hook,Gagging Stout,F1,Senior L5 Mid,A
+MV-INT-CLB-003-07,Qi-Fed Full Arc,Brisk Bellyswell,F1,Senior L5 Mid,A
+MV-INT-CLB-003-08,Orbiting Head Cross,Knob Prop,F3,Senior L5 Mid,A
+MV-INT-CLB-003-09,Gathered Momentum Burst,Stern Stout,F1,Senior L5 Mid,A
+MV-INT-CLB-004-01,Bounce-Ready Stance,Thickend Hasp,F3,Warrior L1 Low,B
+MV-INT-CLB-004-02,Rebound Rap,Brassthump,F5,Warrior L1 Low,B
+MV-INT-CLB-004-03,Glancing Haft Guard,Poisestout,F5,Warrior L1 Low,B
+MV-INT-CLB-004-04,Tuck-and-Spring Step,Rill Cudgel,F2,Warrior L1 Low,B
+MV-INT-CLB-004-05,Return-Stroke Knock,Brawnburl,F5,Warrior L1 Low,B
+MV-INT-CLB-004-06,Qi-Sprung Ricochet Blow,Clay Thump,F2,Warrior L1 Low,B
+MV-INT-CLB-004-07,Rebound Parry Counter,Hum Girth,F2,Warrior L1 Low,B
+MV-INT-CLB-005-01,Inside-the-Point Stance,Dense Heartwood,F1,Senior L7 High,A
+MV-INT-CLB-005-02,Spear-Haft Rap,Rude Bludgeon,F1,Senior L7 High,A
+MV-INT-CLB-005-03,Slide Along the Shaft,Wallopprop,F4,Senior L7 High,A
+MV-INT-CLB-005-04,Forward Lunge Clout,Fierce Wallop,F1,Senior L7 High,A
+MV-INT-CLB-005-05,Knuckle-Guard Knock,Ruthless Handholdgrip,F1,Senior L7 High,A
+MV-INT-CLB-005-06,Oblique Entry Step,Girthcurl,F4,Senior L7 High,A
+MV-INT-CLB-005-07,Pole-Pressing Down Stroke,Stouthasp,F4,Senior L7 High,A
+MV-INT-CLB-005-08,Bind the Reaching Shaft,Burl Screen,F3,Senior L7 High,A
+MV-INT-CLB-005-09,Entering Shoulder Hammer,Savage Cudgel,F1,Senior L7 High,A
+MV-INT-CLB-005-10,Reach-Closing Rush,Bulge Hurdle,F3,Senior L7 High,A
+MV-INT-CLB-006-01,Knot-Hold Grip,Sprigknob,F5,Warrior L3 Mid,B
+MV-INT-CLB-006-02,Gnarled End Smash,Brassstout,F5,Warrior L3 Mid,B
+MV-INT-CLB-006-03,Knot-Tip Prod,Wallopslap,F4,Warrior L3 Mid,B
+MV-INT-CLB-006-04,Twist-Off Parry,Hum Bellyswell,F2,Warrior L3 Mid,B
+MV-INT-CLB-006-05,Planted Foot Pivot,Claygirth,F5,Warrior L3 Mid,B
+MV-INT-CLB-006-06,Knot Hook Drag,Gall Clout,F2,Warrior L3 Mid,B
+MV-INT-CLB-006-07,Qi-Struck Knot Blow,Clay Belabor,F2,Warrior L3 Mid,B
+MV-INT-CLB-006-08,Knot-Edge Raking Pull,Bulgebuckle,F4,Warrior L3 Mid,B
+MV-INT-CLB-007-01,Open-Hand Ward,Unmoving Handholdgrip,F1,Senior L3 Low,A
+MV-INT-CLB-007-02,Palm Feint Cudgel Blow,Grim Bludgeon,F1,Senior L3 Low,A
+MV-INT-CLB-007-03,Free-Hand Sleeve Grab,Bulgescreen,F4,Senior L3 Low,A
+MV-INT-CLB-007-04,Tucked-Cudgel Stride,Wallopswerve,F4,Senior L3 Low,A
+MV-INT-CLB-007-05,Hand-Swap Swing,Acrid Heartwood,F1,Senior L3 Low,A
+MV-INT-CLB-007-06,Low Palm Shove,Roundhead Scorer,F3,Senior L3 Low,A
+MV-INT-CLB-007-07,Palm-Cudgel Pincer Press,Gripping Bulge,F1,Senior L3 Low,A
+MV-INT-CLB-007-08,Backhand Palm Burst,Brisk Cudgel,F1,Senior L3 Low,A
+MV-INT-CLB-007-09,Sleeve-Twist Haft Fling,Clutching Knob,F1,Senior L3 Low,A
+MV-INT-CLB-008-01,Braced Stagger Guard,Stalwart Girth,F1,Warrior L5 High,B
+MV-INT-CLB-008-02,Chest-Stopping Blow,Acrid Thump,F1,Warrior L5 High,B
+MV-INT-CLB-008-03,Stumble-Inducing Tap,Gallstout,F5,Warrior L5 High,B
+MV-INT-CLB-008-04,Recovering Half-Step,Brawn Stout,F2,Warrior L5 High,B
+MV-INT-CLB-008-05,Stagger-Driving Overhand,Savage Burl,F1,Warrior L5 High,B
+MV-INT-CLB-008-06,Reeling Press,Weighty Thickend,F2,Warrior L5 High,B
+MV-INT-CLB-009-01,Bruise-Maker's Stance,Stalwart Bulge,F1,Senior L2 Mid,A
+MV-INT-CLB-009-02,Thigh Bruiser,Rough Wallop,F1,Senior L2 Mid,A
+MV-INT-CLB-009-03,Upper-Arm Clubbing,Bludgeon Slap,F3,Senior L2 Mid,A
+MV-INT-CLB-009-04,Hip Check,Burlhasp,F4,Senior L2 Mid,A
+MV-INT-CLB-009-05,Leaning Block-and-Return,Knobhasp,F4,Senior L2 Mid,A
+MV-INT-CLB-009-06,Quick Pivot Retreat,Belabor Zip,F3,Senior L2 Mid,A
+MV-INT-CLB-009-07,Ribs-then-Back Rap,Cruel Heartwood,F1,Senior L2 Mid,A
+MV-INT-CLB-009-08,Deep-Bruising Qi Blow,Stout Slap,F3,Senior L2 Mid,A
+MV-INT-CLB-009-09,Muscle-Locking Thump,Girthscreen,F4,Senior L2 Mid,A
+MV-INT-CLB-009-10,Offbeat Beating,Thumpswat,F4,Senior L2 Mid,A

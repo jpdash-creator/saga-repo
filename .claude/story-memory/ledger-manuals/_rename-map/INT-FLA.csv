@@ -1,0 +1,68 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-FLA-001-01,Figure-Eight Opening Swing,Acrid Thresh,F1,Senior,A
+MV-INT-FLA-001-02,Mid-Orbit Hand Change,Raw Wheel,F1,Senior,A
+MV-INT-FLA-001-03,Upright Haft Wrap Guard,Padded Swingarm,F1,Senior,A
+MV-INT-FLA-001-04,Orbit Entry Step,Threshhurdle,F4,Senior,A
+MV-INT-FLA-001-05,Wrist-Driven Circling,Acrid Swingthru,F1,Senior,A
+MV-INT-FLA-001-06,Orbit Pulse Reading,Genial Hingecap,F1,Senior,A
+MV-INT-FLA-001-07,Rising Spiral Orbit Strike,Dire Rebound,F1,Senior,A
+MV-INT-FLA-001-08,Vertical Chain Ring Flick,Sturdy Handstaff,F1,Senior,A
+MV-INT-FLA-002-01,Loop-and-Haul Wrap,Viselike Swivel,F1,Senior,A
+MV-INT-FLA-002-02,Counter-Turn Unwinding,Clutching Lashout,F1,Senior,A
+MV-INT-FLA-002-03,Haft Wedge Under Grip,Flailhasp,F4,Senior,A
+MV-INT-FLA-002-04,Wrapped Wrist Anchor,Resolute Spikehead,F1,Senior,A
+MV-INT-FLA-002-05,Pull-Turn Drag Step,Prowling Flailhead,F1,Senior,A
+MV-INT-FLA-002-06,Cross-Chain Pull Probe,Gimbalcordial,F4,Senior,A
+MV-INT-FLA-002-07,Double Wrap Weapon Pin,Levering Headball,F1,Senior,A
+MV-INT-FLA-002-08,Shoulder-High Snare Pull,Cramping Thresh,F1,Senior,A
+MV-INT-FLA-002-09,Slackened Chain Arm Whip,Flailscorer,F4,Senior,A
+MV-INT-FLA-003-01,Rising-Falling Opening Swing,Threshflog,F4,Warrior,B
+MV-INT-FLA-003-02,Low Guard Rear-Knee Hold,Rooted Chainring,F1,Warrior,B
+MV-INT-FLA-003-03,Two-Step Gap Close,Draught Flailhead,F2,Warrior,B
+MV-INT-FLA-003-04,Haft Jab Knee Feint,Discord Rebound,F2,Warrior,B
+MV-INT-FLA-003-05,Rear-Hand Chain Steer,Brassgimbal,F5,Warrior,B
+MV-INT-FLA-003-06,Parry-Return Combination,Poise Linkband,F2,Warrior,B
+MV-INT-FLA-003-07,Stamped Overhand Weight Drop,Clay Swingthru,F2,Warrior,B
+MV-INT-FLA-003-08,Crossing Pendulum Strike,Staticgimbal,F5,Warrior,B
+MV-INT-FLA-003-09,Gap-Stealing Sidestep Swing,Grit Spikehead,F2,Warrior,B
+MV-INT-FLA-003-10,Low-High Split Strike,Honed Wheel,F2,Warrior,B
+MV-INT-FLA-004-01,Over-the-Rim Head Drop,Rough Linkband,F1,Senior,A
+MV-INT-FLA-004-02,Shield-Edge Chain Hook,Lashout Prop,F3,Senior,A
+MV-INT-FLA-004-03,Low Shield Undercut,Looping Flog,F3,Senior,A
+MV-INT-FLA-004-04,Haft Jam Against Boss,Swivelbarrier,F4,Senior,A
+MV-INT-FLA-004-05,Line-Breaking Backstep,Flailstalk,F4,Senior,A
+MV-INT-FLA-004-06,Arm-Behind-Shield Rattle,Ruthless Hingecap,F1,Senior,A
+MV-INT-FLA-004-07,Rim-Pry Shield Drag,Gagging Handstaff,F1,Senior,A
+MV-INT-FLA-005-01,Half-Arc Reverse,Swivel Flog,F3,Warrior,B
+MV-INT-FLA-005-02,Out-and-Back Flail Beat,Emberswivel,F5,Warrior,B
+MV-INT-FLA-005-03,Elbow-Guarded Reversal,Clay Chainlink,F2,Warrior,B
+MV-INT-FLA-005-04,Reversing Foot Pivot,Swingarm Zip,F3,Warrior,B
+MV-INT-FLA-005-05,Backswing Tap-Down,Static Looping,F2,Warrior,B
+MV-INT-FLA-005-06,Turning Point Count,Gimbalbandage,F4,Warrior,B
+MV-INT-FLA-005-07,Whiplash Reverse Strike,Flailhead Hammerfall,F3,Warrior,B
+MV-INT-FLA-005-08,Misleading Reverse Draw,Gimbalprop,F4,Warrior,B
+MV-INT-FLA-005-09,Double-Reversal S-Curve,Wheelslap,F4,Warrior,B
+MV-INT-FLA-006-01,Spear-Gap Diagonal Run,Threshcurl,F4,Senior,A
+MV-INT-FLA-006-02,Blade Reach Reading,Knitting Chainring,F1,Senior,A
+MV-INT-FLA-006-03,Short Chain Inside Step,Threshswat,F4,Senior,A
+MV-INT-FLA-006-04,Point-Pinning Overhead Fall,Rough Headball,F1,Senior,A
+MV-INT-FLA-006-05,Pole-Catching Chain Loop,Swingarm Screen,F3,Senior,A
+MV-INT-FLA-006-06,Stride-Matching Retreat,Slinking Chainlink,F1,Senior,A
+MV-INT-FLA-007-01,Full-Chain Far Strike,Threshslap,F4,Warrior,B
+MV-INT-FLA-007-02,Half-Length Waist Strike,Clay Linkband,F2,Warrior,B
+MV-INT-FLA-007-03,Fist-Length Clinch Punch,Gimbalthwack,F4,Warrior,B
+MV-INT-FLA-007-04,Ground Tap Distance Mark,Recall Spikehead,F2,Warrior,B
+MV-INT-FLA-007-05,Link-Sliding Guard,Swivelscreen,F4,Warrior,B
+MV-INT-FLA-007-06,Paying-Out Retreat,Veering Rebound,F1,Warrior,B
+MV-INT-FLA-007-07,Shifting Length Cadence,Swingthru Scorer,F3,Warrior,B
+MV-INT-FLA-007-08,Short-Falling Lunge Punish,Gallwheel,F5,Warrior,B
+MV-INT-FLA-008-01,Post-Rebound Strike,Brawn Headball,F2,Warrior,B
+MV-INT-FLA-008-02,Shield-Face Bounce Return,Acrid Chainlink,F1,Warrior,B
+MV-INT-FLA-008-03,Touch-and-Home Pull,Regimen Hingecap,F2,Warrior,B
+MV-INT-FLA-008-04,Block-Bounce Backhand,Savage Handstaff,F1,Warrior,B
+MV-INT-FLA-008-05,Recovery Backstep Chain,Springing Lashout,F1,Warrior,B
+MV-INT-FLA-008-06,Surface Slant Reading,Lunar Chainring,F2,Warrior,B
+MV-INT-FLA-008-07,Returning Overhead Cut,Rude Wheel,F1,Warrior,B
+MV-INT-FLA-008-08,Twin-Surface Rebound Cascade,Dire Swivel,F1,Warrior,B
+MV-INT-FLA-008-09,Knuckle Rebound Snap,Static Handstaff,F2,Warrior,B
+MV-INT-FLA-008-10,Spinning Recovery Return,Swivelthwack,F4,Warrior,B

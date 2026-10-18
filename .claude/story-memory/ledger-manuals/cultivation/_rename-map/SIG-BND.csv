@@ -1,0 +1,12 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-BND-003-01,Court Hitch,Paired Hitch,INSTANT,,Basic
+CMV-SIG-BND-003-02,Court Parry,Crossed Parry,INSTANT,,Basic
+CMV-SIG-BND-003-03,Court Ear,Twin Ear,INSTANT,,Basic
+CMV-SIG-BND-003-07,Knot Field,Knot Weave,CAST,,Advanced
+CMV-SIG-BND-003-08,Court Fetters,Matched Fetters,CHANNELED,,Advanced
+CMV-SIG-BND-003-10,Court Closing,Pairbinder,CAST,,Signature
+CMV-SIG-BND-005-03,Heel Line,Heel Tether,CHANNELED,,Basic
+CMV-SIG-BND-006-08,Standing Line,Standing Tether,CHANNELED,,Advanced
+CMV-SIG-BND-007-04,Plain Hold,Frank Hold,CHANNELED,,Intermediate
+CMV-SIG-BND-002-03,Basin Brace,Cupped Brace,CHANNELED,,Basic
+CMV-SIG-BND-002-08,Basin Snare,Cupped Snare,CAST,,Advanced

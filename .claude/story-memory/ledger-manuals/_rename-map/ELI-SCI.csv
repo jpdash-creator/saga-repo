@@ -1,0 +1,151 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-SCI-001-01,Hawk-Eye Field Ready Guard,Thorn Scimhilt,F2,Demigod L2 High,B
+MV-ELI-SCI-001-02,Quartering Hawk Cut,Ruinous Cantle,F1,Demigod L2 High,B
+MV-ELI-SCI-001-03,Circling Watch Step,Rakeglimmer,F4,Demigod L2 High,B
+MV-ELI-SCI-001-04,Watchful Edge Turn,Unbudging Saddleguard,F1,Demigod L2 High,B
+MV-ELI-SCI-001-05,Sighted Draw Through the Seam,Rumblerake,F5,Demigod L2 High,B
+MV-ELI-SCI-001-06,Marked-Foe Pursuit Slash,Blazerake,F5,Demigod L2 High,B
+MV-ELI-SCI-001-07,Hawk-Sighted Curve Strike,Deepbelly Wrath,F3,Demigod L2 High,B
+MV-ELI-SCI-001-08,Gaze-Held Ward,Evergreen Flowedge,F1,Demigod L2 High,B
+MV-ELI-SCI-001-09,Stoop Through the Field,Broadcurve Flash,F3,Demigod L2 High,B
+MV-ELI-SCI-002-01,Crescent-Pair Readying,Impervious Talwar,F1,Demigod L5 Low,B
+MV-ELI-SCI-002-02,Left Crescent Opening,Blaze Carve,F2,Demigod L5 Low,B
+MV-ELI-SCI-002-03,Right Crescent Closing,Granite Whipcut,F2,Demigod L5 Low,B
+MV-ELI-SCI-002-04,Basin Rim Walking Step,Dazzling Swellback,F1,Demigod L5 Low,B
+MV-ELI-SCI-002-05,Rim-Turned Parry,Murk Crescent,F2,Demigod L5 Low,B
+MV-ELI-SCI-002-06,Twin Crescent Follow-Through,Scoopscourge,F4,Demigod L5 Low,B
+MV-ELI-SCI-002-07,Pinching Edge Bind,Ponderous Lop,F2,Demigod L5 Low,B
+MV-ELI-SCI-002-08,Slip Between Crescents,Silt Crescent,F2,Demigod L5 Low,B
+MV-ELI-SCI-002-09,Azure Closing Pincer,Rakescourge,F4,Demigod L5 Low,B
+MV-ELI-SCI-002-10,Basin-Wide Edge Barrier,Unbowed Swellback,F1,Demigod L5 Low,B
+MV-ELI-SCI-002-11,Crescent Beyond the Edge,Deed Arcwheel,F2,Demigod L5 Low,B
+MV-ELI-SCI-003-01,River-Bend Standing Guard,Unassailable Scimhilt,F1,Demigod L8 Mid,B
+MV-ELI-SCI-003-02,Bank-Cutting Slash,Ironscoop,F5,Demigod L8 Mid,B
+MV-ELI-SCI-003-03,Meander Footwork,Might Rake,F2,Demigod L8 Mid,B
+MV-ELI-SCI-003-04,Bend-Carrying Parry,Murktalwar,F5,Demigod L8 Mid,B
+MV-ELI-SCI-003-05,Pooled-Water Hold,Unrelenting Flaretip,F1,Demigod L8 Mid,B
+MV-ELI-SCI-003-06,Back-Current Cut,Sanguine Flaretip,F2,Demigod L8 Mid,B
+MV-ELI-SCI-003-07,Rapids Sweeping Combination,Synchronized Cantle,F1,Demigod L8 Mid,B
+MV-ELI-SCI-003-08,Undercutting Bend Strike,Hollowlip,F5,Demigod L8 Mid,B
+MV-ELI-SCI-003-09,Floodwater Pushing Field,Overbearing Lop,F1,Demigod L8 Mid,B
+MV-ELI-SCI-003-10,River Turning Round the Hill,Expanse Arcwheel,F2,Demigod L8 Mid,B
+MV-ELI-SCI-004-01,Sky-Cover Reading Stance,Saddleguard Premonition,F3,Void God L3 Low,B
+MV-ELI-SCI-004-02,Pair of Opening Sweeps,Talwarscourge,F4,Void God L3 Low,B
+MV-ELI-SCI-004-03,Opposed-Line Retreat,Granite Scoop,F2,Void God L3 Low,B
+MV-ELI-SCI-004-04,Two-Handed Cover Press,Cantlespine,F4,Void God L3 Low,B
+MV-ELI-SCI-004-05,Spine-Lead Parry Fold,Gust Deepbelly,F2,Void God L3 Low,B
+MV-ELI-SCI-004-06,Matched Sweep Chain,Might Scoop,F2,Void God L3 Low,B
+MV-ELI-SCI-004-07,Pincer Pull of the Hook,Hoarfrost Flowedge,F2,Void God L3 Low,B
+MV-ELI-SCI-004-08,Counter-Sweep Beneath the Cut,Granite Broadcurve,F2,Void God L3 Low,B
+MV-ELI-SCI-004-09,Sky-Wide Paired Arc,Wrathful Carve,F1,Void God L3 Low,B
+MV-ELI-SCI-004-10,Open-Sky Sweeping Wheel,Decimating Whipcut,F1,Void God L3 Low,B
+MV-ELI-SCI-004-11,Linked Lines of Defence,Granite Scimhilt,F2,Void God L3 Low,B
+MV-ELI-SCI-004-12,Pair Closing on the Blind Side,Punishing Deepbelly,F1,Void God L3 Low,B
+MV-ELI-SCI-004-13,Sky Folded Over the Foe,Shade Talwar,F2,Void God L3 Low,B
+MV-ELI-SCI-005-01,Low-Pass Readying,Unbowed Saddleguard,F1,Demigod L3 High,B
+MV-ELI-SCI-005-02,Skimming Edge Cut,Mightcarve,F5,Demigod L3 High,B
+MV-ELI-SCI-005-03,Long-Stride Run Up,Silt Whipcut,F2,Demigod L3 High,B
+MV-ELI-SCI-005-04,Thermal-Lift Step,Might Talwar,F2,Demigod L3 High,B
+MV-ELI-SCI-005-05,Wingtip Check Parry,Murk Broadcurve,F2,Demigod L3 High,B
+MV-ELI-SCI-005-06,Long Pass Draw,Tempered Rake,F2,Demigod L3 High,B
+MV-ELI-SCI-005-07,Passing Hook Snatch,Fastening Cantle,F2,Demigod L3 High,B
+MV-ELI-SCI-005-08,Turn at the Pass's End,Blazelop,F5,Demigod L3 High,B
+MV-ELI-SCI-005-09,Hawk's Lowering Field,Thorntalwar,F5,Demigod L3 High,B
+MV-ELI-SCI-005-10,Passing Field Cut,Granite Rake,F2,Demigod L3 High,B
+MV-ELI-SCI-005-11,Edge Past the Eye,Scoop Reckoning,F3,Demigod L3 High,B
+MV-ELI-SCI-005-12,Pass That Leaves No Gap,Blinding Flaretip,F1,Demigod L3 High,B
+MV-ELI-SCI-006-01,Open Basin Guard,Charter Swellback,F2,True God L2 Low,B
+MV-ELI-SCI-006-02,First Track Slash,Eviscerating Flowedge,F1,True God L2 Low,B
+MV-ELI-SCI-006-03,Second Track Return,Blaze Arcwheel,F2,True God L2 Low,B
+MV-ELI-SCI-006-04,Between-Tracks Parry,Unbowed Talwar,F1,True God L2 Low,B
+MV-ELI-SCI-006-05,Cross-Track Draw Cut,Lipscourge,F4,True God L2 Low,B
+MV-ELI-SCI-006-06,Track-Switching Counter,Saddleguard Reckoning,F3,True God L2 Low,B
+MV-ELI-SCI-006-07,Twin-Line Piercing Cut,Lipruin,F4,True God L2 Low,B
+MV-ELI-SCI-006-08,Open Basin Ward,Flowedge Fortitude,F3,True God L2 Low,B
+MV-ELI-SCI-006-09,Basin Folded Along Two Lines,Unbudging Facet Broadcurve,F6a,True God L2 Low,B
+MV-ELI-SCI-007-01,Net-Meridian Standing Guard,Facet Flaretip,F2,Monarch L1 High,B
+MV-ELI-SCI-007-02,Twin Curve Opening Cut,Rakehavoc,F4,Monarch L1 High,B
+MV-ELI-SCI-007-03,Weight-Over-Foot Pivot,Scoopvortex,F4,Monarch L1 High,B
+MV-ELI-SCI-007-04,Second Curve Closing,Tempered Lop,F2,Monarch L1 High,B
+MV-ELI-SCI-007-05,Meridian-Fed Parry,Inexorable Deepbelly,F1,Monarch L1 High,B
+MV-ELI-SCI-007-06,Reading the Guard's Curve,Beneficent Crescent,F1,Monarch L1 High,B
+MV-ELI-SCI-007-07,Interlocked Twin Cut,Ferocious Crescent,F1,Monarch L1 High,B
+MV-ELI-SCI-007-08,Network-Pressed Edge,Booming Carve,F1,Monarch L1 High,B
+MV-ELI-SCI-007-09,Twin Curve Standing Ward,Adamantine Swellback,F1,Monarch L1 High,B
+MV-ELI-SCI-007-10,Curves Meeting at the Heart,Rakewrath,F4,Demigod L1 Low,B
+MV-ELI-SCI-008-01,Sworn Curve Windward Guard,Unconquered Cantle,F1,Demigod L3 Mid,B
+MV-ELI-SCI-008-02,Oath-Bound Forehand,Blistering Whipcut,F1,Demigod L3 Mid,B
+MV-ELI-SCI-008-03,Wind-Leaning Advance,Silt Arcwheel,F2,Demigod L3 Mid,B
+MV-ELI-SCI-008-04,Gust-Turned Backhand,Gust Lop,F2,Demigod L3 Mid,B
+MV-ELI-SCI-008-05,Bearing-Locked Parry,Impervious Flowedge,F1,Demigod L3 Mid,B
+MV-ELI-SCI-008-06,Sworn Draw Along the Wind,Iron Scimhilt,F2,Demigod L3 Mid,B
+MV-ELI-SCI-008-07,Squall-Breaking Hook,Carve Fortitude,F3,Demigod L3 Mid,B
+MV-ELI-SCI-008-08,Windbound Sweeping Arc,Daybreak Arcwheel,F2,Demigod L3 Mid,B
+MV-ELI-SCI-008-09,Oath Ward Against the Gale,Hoarfrost Flaretip,F2,Demigod L3 Mid,B
+MV-ELI-SCI-008-10,Curve That the Wind Cannot Turn,Corroding Scimhilt Reckoning,F6b,Demigod L3 Mid,B
+MV-ELI-SCI-009-01,Scimitar Plateau Brink Stance,Hoarfrost Broadcurve,F2,Demigod L6 High,B
+MV-ELI-SCI-009-02,Brink-Edge Overhand,Carvewrath,F4,Demigod L6 High,B
+MV-ELI-SCI-009-03,Dropped-Step Evasion,Gust Saddleguard,F2,Demigod L6 High,B
+MV-ELI-SCI-009-04,Rising Hook from the Ledge,Talwarhavoc,F4,Demigod L6 High,B
+MV-ELI-SCI-009-05,Ledge-Rolling Parry,Unrelenting Crescent,F1,Demigod L6 High,B
+MV-ELI-SCI-009-06,Field Across the Flats,Facetlip,F5,Demigod L6 High,B
+MV-ELI-SCI-009-07,Edge-Walking Draw,Devastating Rake,F1,Demigod L6 High,B
+MV-ELI-SCI-009-08,Plateau Crosswind Cut,Booming Whipcut,F1,Demigod L6 High,B
+MV-ELI-SCI-009-09,Hook Pulling Off the Ledge,Gyvecantle,F5,Demigod L6 High,B
+MV-ELI-SCI-009-10,Whole-Plateau Cut,Downpour Swellback,F2,Demigod L6 High,B
+MV-ELI-SCI-009-11,Brink Held Against Many,Aegislip,F5,Demigod L6 High,B
+MV-ELI-SCI-009-12,Falling Past the Brink,Nova Deepbelly,F2,Demigod L6 High,B
+MV-ELI-SCI-010-01,Long-Draw Windward Hold,Facettalwar,F5,Demigod L9 High,B
+MV-ELI-SCI-010-02,Slow Opening Draw,Vengeful Rake,F1,Demigod L9 High,B
+MV-ELI-SCI-010-03,Held-Bearing Step,Ghosting Talwar,F1,Demigod L9 High,B
+MV-ELI-SCI-010-04,Wind-Fed Long Draw,Rumblelop,F5,Demigod L9 High,B
+MV-ELI-SCI-010-05,Parry Drawn Back to the Hip,Swellback Mettle,F3,Demigod L9 High,B
+MV-ELI-SCI-010-06,Draw Beneath the Guard,Hollow Cantle,F2,Demigod L9 High,B
+MV-ELI-SCI-010-07,Draw Through the Squall,Nova Lop,F2,Demigod L9 High,B
+MV-ELI-SCI-010-08,Tethered Bearing Guard,Talwar Durance,F3,Demigod L9 High,B
+MV-ELI-SCI-010-09,Draw That Outruns the Wind,Phantom Nova Rake,F6a,Demigod L9 High,B
+MV-ELI-SCI-011-01,Gale-Hook Readying,Inexorable Crescent,F1,Void God L1 High,B
+MV-ELI-SCI-011-02,Hooking Forehand,Blaze Flowedge,F2,Void God L1 High,B
+MV-ELI-SCI-011-03,Gale-Pushed Sidestep,Blinding Scimhilt,F1,Void God L1 High,B
+MV-ELI-SCI-011-04,Point-Down Hook Block,Obdurate Cantle,F1,Void God L1 High,B
+MV-ELI-SCI-011-05,Hook Dragging Through Grass,Mayhemscoop,F5,Void God L1 High,B
+MV-ELI-SCI-011-06,Gale-Driven Hook Bind,Hoarfrost Deepbelly,F2,Void God L1 High,B
+MV-ELI-SCI-011-07,Hook Whip of the Wind,Rumble Saddleguard,F2,Void God L1 High,B
+MV-ELI-SCI-011-08,Counter-Hook on the Thrust,Gust Broadcurve,F2,Void God L1 High,B
+MV-ELI-SCI-011-09,Gale-Hooked Weapon Tear,Intentrake,F5,Void God L1 High,B
+MV-ELI-SCI-011-10,Hooked Ring of Wind,Talwarmettle,F4,Void God L1 High,B
+MV-ELI-SCI-011-11,Edge That Pulls the Gale,Overpowering Scoop,F1,Void God L1 High,B
+MV-ELI-SCI-012-01,Unwalled Standing Stance,Lipspine,F4,Void God L6 Mid,B
+MV-ELI-SCI-012-02,Oath of the First Cut,Rumblelip,F5,Void God L6 Mid,B
+MV-ELI-SCI-012-03,Open-Ground Circle,Dazzling Flaretip,F1,Void God L6 Mid,B
+MV-ELI-SCI-012-04,Beaten Wind Parry,Chime Flowedge,F2,Void God L6 Mid,B
+MV-ELI-SCI-012-05,Standing Backhand Oath,Decimating Scoop,F1,Void God L6 Mid,B
+MV-ELI-SCI-012-06,Oath Drawn Across the Open,Whipcut Reckoning,F3,Void God L6 Mid,B
+MV-ELI-SCI-012-07,Coverless Guard Turning,Cantledurance,F4,Void God L6 Mid,B
+MV-ELI-SCI-012-08,Hooking the Fleeing Foe,Lipnerve,F4,Void God L6 Mid,B
+MV-ELI-SCI-012-09,Oath Pressing the Blade Down,Chimelop,F5,Void God L6 Mid,B
+MV-ELI-SCI-012-10,Open Sweep of the Oath,Daybreak Lop,F2,Void God L6 Mid,B
+MV-ELI-SCI-012-11,Gale at the Back,Aegis Swellback,F2,Void God L6 Mid,B
+MV-ELI-SCI-012-12,Oath Cut Through the Standing Guard,Hollowrake,F5,Void God L6 Mid,B
+MV-ELI-SCI-012-13,Open-Ground Sovereign Cut,Grave Scoop,F2,Void God L6 Mid,B
+MV-ELI-SCI-013-01,Horizon-Facing Guard,Unassailable Flaretip,F1,True God L3 Low,B
+MV-ELI-SCI-013-02,Distant Bearing Overcut,Punishing Saddleguard,F1,True God L3 Low,B
+MV-ELI-SCI-013-03,Long Line Stride,Ghosting Arcwheel,F1,True God L3 Low,B
+MV-ELI-SCI-013-04,Far-Sighted Edge Read,Waning Scimhilt,F2,True God L3 Low,B
+MV-ELI-SCI-013-05,Far Bearing Held Cut,Carvescourge,F4,True God L3 Low,B
+MV-ELI-SCI-013-06,Parry on the Long Line,Impervious Broadcurve,F1,True God L3 Low,B
+MV-ELI-SCI-013-07,Reaching Hook Past the Guard,Fastening Talwar,F2,True God L3 Low,B
+MV-ELI-SCI-013-08,Horizon Cut,Facet Whipcut,F2,True God L3 Low,B
+MV-ELI-SCI-013-09,Scimitar Bearing Held in Storm,Cantle Mettle,F3,True God L3 Low,B
+MV-ELI-SCI-013-10,Cut Arriving Before the Blade,Rumble Deepbelly,F2,True God L3 Low,B
+MV-ELI-SCI-014-01,Monarch Net Windward Guard,Thorn Saddleguard,F2,Monarch L2 Mid,B
+MV-ELI-SCI-014-02,Network-Driven Curve Cut,Talwarruin,F4,Monarch L2 Mid,B
+MV-ELI-SCI-014-03,Scimitar Gale-Light Footfall,Torrent Rake,F2,Monarch L2 Mid,B
+MV-ELI-SCI-014-04,Scimitar Gale-Edge Turn,Obdurate Flowedge,F1,Monarch L2 Mid,B
+MV-ELI-SCI-014-05,Curve-and-Wind Draw,Grievous Crescent,F1,Monarch L2 Mid,B
+MV-ELI-SCI-014-06,Binding the Foe's Blade to the Wind,Crescent Mettle,F3,Monarch L2 Mid,B
+MV-ELI-SCI-014-07,Net-Carried Gale Cut,Glinttalwar,F5,Monarch L2 Mid,B
+MV-ELI-SCI-014-08,Monarch's Ring of Wind,Iron Deepbelly,F2,Monarch L2 Mid,B
+MV-ELI-SCI-014-09,Gale Folded Into the Curve,Impervious Glamour Scimhilt,F6a,Demigod L1 Low,B
+MV-ELI-SCI-003-10,Expanse Arcwheel,Sweeping Arcwheel,F2,Demigod L8 Mid,B
+MV-ELI-SCI-010-06,Hollow Cantle,Brawny Cantle,F2,Demigod L9 High,B

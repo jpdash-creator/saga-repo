@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-GAR-001-01,Moving Neck Loop,Burdening Cinch,F1,Senior,A
+MV-INT-GAR-001-02,Loop Rim Flick,Noosebuckle,F4,Senior,A
+MV-INT-GAR-001-03,Two-Step Closing Pull,Noosescorer,F4,Senior,A
+MV-INT-GAR-001-04,Loose Fist Anchor,Tethering Constrict,F1,Senior,A
+MV-INT-GAR-001-05,Qi-Closed Loop,Lassoing Gripdowel,F1,Senior,A
+MV-INT-GAR-001-06,Swaying Neck Drag,Barbedwire Hammerfall,F3,Senior,A
+MV-INT-GAR-002-01,Charged Cord Grip,Guarding Cordbraid,F1,Senior,A
+MV-INT-GAR-002-02,Toggle Spin Cast,Levering Toggle,F1,Senior,A
+MV-INT-GAR-002-03,Low Ankle Hook,Gripping Slipnoose,F1,Senior,A
+MV-INT-GAR-002-04,Back Draw Step,Slinking Throttle,F1,Senior,A
+MV-INT-GAR-002-05,Cord Edge Slice,Lurching Tighten,F1,Senior,A
+MV-INT-GAR-002-06,Rolling Cord Parry,Unmoving Handlebar,F1,Senior,A
+MV-INT-GAR-002-07,Qi Wire Hum,Ruthless Wirebraid,F1,Senior,A
+MV-INT-GAR-002-08,Lashing Tail Return,Rough Slipknot,F1,Senior,A
+MV-INT-GAR-003-01,Tension Hold Posture,Sturdy Wirecore,F1,Senior,A
+MV-INT-GAR-003-02,Sudden Slack Dive,Tighten Glide,F3,Senior,A
+MV-INT-GAR-003-03,Release and Re-Loop,Noosering Barrier,F3,Senior,A
+MV-INT-GAR-003-04,Hand-Over-Hand Haul,Gagging Garrote,F1,Senior,A
+MV-INT-GAR-003-05,Taut Cord Slap,Harsh Throttle,F1,Senior,A
+MV-INT-GAR-003-06,Qi Tension Ladder,Slipknot Scorer,F3,Senior,A
+MV-INT-GAR-003-07,Heave Recoil Snap,Noosescreen,F4,Senior,A
+MV-INT-GAR-004-01,Toggle Tip Jab,Draught Wirecore,F2,Warrior,B
+MV-INT-GAR-004-02,Dual Toggle Fan,Claytoggle,F5,Warrior,B
+MV-INT-GAR-004-03,Hooked Toggle Catch,Rilltoggle,F5,Warrior,B
+MV-INT-GAR-004-04,Running Slip Cast,Sprigtoggle,F5,Warrior,B
+MV-INT-GAR-004-05,Toggle Pivot Walk,Lithe Toggle,F1,Warrior,B
+MV-INT-GAR-004-06,Handle Spin Reverse,Tethering Cordhandle,F1,Warrior,B
+MV-INT-GAR-004-07,Qi-Locked Toggle,Splice Garrote,F2,Warrior,B
+MV-INT-GAR-004-08,Flowing Handle Weave,Splice Slipnoose,F2,Warrior,B
+MV-INT-GAR-004-09,Toggle Shock Knock,Static Cinch,F2,Warrior,B
+MV-INT-GAR-005-01,Shadow-Edge Approach,Wireswerve,F4,Warrior,B
+MV-INT-GAR-005-02,Sleeve Fold Hide,Brassnoose,F5,Warrior,B
+MV-INT-GAR-005-03,Seated Neck Drop,Sprig Cordbraid,F2,Warrior,B
+MV-INT-GAR-005-04,Silent Draw Taut,Purpose Barbedwire,F2,Warrior,B
+MV-INT-GAR-005-05,Qi-Muffled Tread,Veering Noosering,F1,Warrior,B
+MV-INT-GAR-005-06,Pulse-Reading Wait,Gap Wirebraid,F2,Warrior,B
+MV-INT-GAR-006-01,Backward Arm Whip,Brass Gripdowel,F2,Warrior,B
+MV-INT-GAR-006-02,Rear Hip Thrust,Cinchstalk,F4,Warrior,B
+MV-INT-GAR-006-03,Collar Loop Haul,Weighty Cordhandle,F2,Warrior,B
+MV-INT-GAR-006-04,Palm Bar Guard,Wirescreen,F4,Warrior,B
+MV-INT-GAR-006-05,Shoulder Lift Roll,Poisenoose,F5,Warrior,B
+MV-INT-GAR-006-06,Knee Drop Anchor,Togglehasp,F4,Warrior,B
+MV-INT-GAR-006-07,Short Pull Cadence,Momentstrand,F5,Warrior,B
+MV-INT-GAR-006-08,Qi-Backed Heave,Swift Handlebar,F1,Warrior,B
+MV-INT-GAR-006-09,Spine Arch Lift,Viselike Toggle,F1,Warrior,B
+MV-INT-GAR-006-10,Rebound Toggle Whip,Hungry Noosering,F1,Warrior,B
+MV-INT-GAR-007-01,Warrior Cord Stance,Claynoose,F5,Warrior,B
+MV-INT-GAR-007-02,Square Hip Draw,Honedstrand,F5,Warrior,B
+MV-INT-GAR-007-03,Wrist Cord Capture,Stampwire,F5,Warrior,B
+MV-INT-GAR-007-04,Stepping Loop Cast,Grit Gripdowel,F2,Warrior,B
+MV-INT-GAR-007-05,Cord Along Shaft Slip,Toggleprop,F4,Warrior,B
+MV-INT-GAR-007-06,Neck Loop Hold,Sprig Barbedwire,F2,Warrior,B
+MV-INT-GAR-007-07,Even Measure Draw,Clay Handlebar,F2,Warrior,B
+MV-INT-GAR-007-08,Cord Rein Spin,Weighty Constrict,F2,Warrior,B
+MV-INT-GAR-008-01,Chin Guard Hook,Cometnoose,F5,Warrior,B
+MV-INT-GAR-008-02,Gorget Edge Slip,Gleam Cordbraid,F2,Warrior,B
+MV-INT-GAR-008-03,Rib Clamp Counter,Padded Wirecore,F1,Warrior,B
+MV-INT-GAR-008-04,Helm Brim Entry,Brawn Slipknot,F2,Warrior,B
+MV-INT-GAR-008-05,Wire Bend Release,Shard Gripdowel,F2,Warrior,B
+MV-INT-GAR-008-06,Qi-Stiffened Wire,Blank Wirebraid,F2,Warrior,B
+MV-INT-GAR-008-07,Armor Seam Draw,Levering Throttle,F1,Warrior,B

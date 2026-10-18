@@ -1,0 +1,15 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-LGT-002-06,Dawn Rampart,Dawn Shield,CHANNELED,Warrior L1 Low,Intermediate
+CMV-SIG-LGT-003-10,Spectrum Court,Prism Burn,CAST,Demigod L1 Low,Elite
+CMV-SIG-LGT-006-10,Single Line,Single Beam,CAST,Warrior L1 Low,Signature
+CMV-SIG-LGT-007-01,Plain Glow,Soft Glow,CHANNELED,Warrior L1 Low,Basic
+CMV-SIG-LGT-007-02,Field Spark,Aureole Spark,INSTANT,Warrior L1 Low,Basic
+CMV-SIG-LGT-007-03,Field Feel,Aureole Feel,CHANNELED,Warrior L1 Low,Basic
+CMV-SIG-LGT-007-04,Field Wave,Aureole Wave,INSTANT,Warrior L1 Low,Intermediate
+CMV-SIG-LGT-007-05,Field Curtain,Aureole Veil,CHANNELED,Warrior L1 Low,Intermediate
+CMV-SIG-LGT-007-06,Sight Field,Aureole Sight,CHANNELED,Warrior L1 Low,Intermediate
+CMV-SIG-LGT-007-07,Field Press,Aureole Press,CHANNELED,Warrior L1 Low,Intermediate
+CMV-SIG-LGT-007-08,Field Blaze,Aureole Blaze,CHANNELED,Champion L1 Low,Advanced
+CMV-SIG-LGT-007-09,Field Seal,Aureole Seal,CHANNELED,Champion L1 Low,Advanced
+CMV-SIG-LGT-007-10,Plain Radiance,Pure Radiance,CAST,Demigod L1 Low,Elite
+CMV-SIG-LGT-007-11,Unshadowed Field,Unshadowed Aureole,CAST,Warrior L1 Low,Signature

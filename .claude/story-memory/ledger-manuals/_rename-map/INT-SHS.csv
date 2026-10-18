@@ -1,0 +1,84 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-SHS-001-01,Bind Contact Feel,Pokehasp,F4,Senior,A
+MV-INT-SHS-001-02,Pressing Edge Cover,Sturdy Shortspine,F1,Senior,A
+MV-INT-SHS-001-03,Slide Off Thrust,Brisk Sting,F1,Senior,A
+MV-INT-SHS-001-04,Bind Break Short Step,Fleet Cutedge,F1,Senior,A
+MV-INT-SHS-001-05,Crossguard Lock Hold,Clutching Hiltcap,F1,Senior,A
+MV-INT-SHS-001-06,Slip From Bind Stab,Keen Gore,F1,Senior,A
+MV-INT-SHS-002-01,Wall Side Stance,Rooted Broadleaf,F1,Senior,A
+MV-INT-SHS-002-02,Elbow Pinned Short Stab,Gorethwack,F4,Senior,A
+MV-INT-SHS-002-03,Packed Room Slide,Slinking Knobgrip,F1,Senior,A
+MV-INT-SHS-002-04,Overhead Beam Duck,Ducking Shortspine,F1,Senior,A
+MV-INT-SHS-002-05,Door Frame Parry,Padded Handguard,F1,Senior,A
+MV-INT-SHS-002-06,Lane Pin Press,Cramping Thumbrest,F1,Senior,A
+MV-INT-SHS-002-07,Tight Space Burst,Digflog,F4,Senior,A
+MV-INT-SHS-003-01,Inner Line Hold,Regimen Hiltcap,F2,Warrior,B
+MV-INT-SHS-003-02,Under Arm Prick,Honed Gore,F2,Warrior,B
+MV-INT-SHS-003-03,Swing Inside Step,Draught Poke,F2,Warrior,B
+MV-INT-SHS-003-04,Weak Blade Check,Poise Stubblade,F2,Warrior,B
+MV-INT-SHS-003-05,Close Hand Strike,Brawnstab,F5,Warrior,B
+MV-INT-SHS-003-06,Ribbed Line Stab,Embernick,F5,Warrior,B
+MV-INT-SHS-003-07,Inner Line Surge,Static Sting,F2,Warrior,B
+MV-INT-SHS-003-08,Hilt Side Overturn,Discord Handguard,F2,Warrior,B
+MV-INT-SHS-004-01,Middle Course Thrust,Stubthwack,F4,Senior,A
+MV-INT-SHS-004-02,Qi Edge Parry,Armored Cutedge,F1,Senior,A
+MV-INT-SHS-004-03,Weight Shift Close,Lithe Dig,F1,Senior,A
+MV-INT-SHS-004-04,Recovery Snap Guard,Thumbscreen,F4,Senior,A
+MV-INT-SHS-004-05,Backhand Flick Stab,Nickswat,F4,Senior,A
+MV-INT-SHS-004-06,Twin Beat Probe,Attentive Broadleaf,F1,Senior,A
+MV-INT-SHS-004-07,Driven Point Pulse,Pokeslap,F4,Senior,A
+MV-INT-SHS-004-08,Guard Recovery Flow,Layered Pointcap,F1,Senior,A
+MV-INT-SHS-004-09,Stab Into Step Chain,Twofold Stab,F1,Senior,A
+MV-INT-SHS-005-01,Corridor Mouth Stance,Buttressed Stubblade,F1,Senior,A
+MV-INT-SHS-005-02,Doorway Cut Off Step,Scudding Cutedge,F1,Senior,A
+MV-INT-SHS-005-03,Stair Head Thrust,Tipslap,F4,Senior,A
+MV-INT-SHS-005-04,Stair Foot Parry,Resolute Knobgrip,F1,Senior,A
+MV-INT-SHS-005-05,Corner Peek Probe,Alert Shortspine,F1,Senior,A
+MV-INT-SHS-005-06,Narrow Pass Slide,Coasting Broadleaf,F1,Senior,A
+MV-INT-SHS-005-07,Hall Wall Rebound,Stalwart Thumbrest,F1,Senior,A
+MV-INT-SHS-005-08,Choke Point Hold,Stalling Stabtip,F1,Senior,A
+MV-INT-SHS-005-09,Landing Plunge Stab,Goreslap,F4,Senior,A
+MV-INT-SHS-005-10,Turn Corner Thrust,Stingswat,F4,Senior,A
+MV-INT-SHS-006-01,Pair Guard Cover,Shelter Cutedge,F2,Warrior,B
+MV-INT-SHS-006-02,Partner Flank Stab,Crimson Nick,F2,Warrior,B
+MV-INT-SHS-006-03,Shoulder Swap Step,Rillpoke,F5,Warrior,B
+MV-INT-SHS-006-04,Matching Cut Beat,Brass Sting,F2,Warrior,B
+MV-INT-SHS-006-05,Back to Back Ward,Haze Broadleaf,F2,Warrior,B
+MV-INT-SHS-006-06,Opening Call Thrust,Nickflog,F4,Warrior,B
+MV-INT-SHS-006-07,Linked Qi Cover,Purpose Thumbrest,F2,Warrior,B
+MV-INT-SHS-006-08,Two Blade Press,Splice Cutedge,F2,Warrior,B
+MV-INT-SHS-007-01,Forward Grip Reset,Brisk Stubblade,F1,Senior,A
+MV-INT-SHS-007-02,Reverse Grip Short Hold,Dense Hiltcap,F1,Senior,A
+MV-INT-SHS-007-03,Toss Catch Switch,Thumbswerve,F4,Senior,A
+MV-INT-SHS-007-04,Thumb Press Stab,Stabthwack,F4,Senior,A
+MV-INT-SHS-007-05,Edge Up Rip,Raw Cutedge,F1,Senior,A
+MV-INT-SHS-007-06,Qi Grip Pivot,Swift Pointcap,F1,Senior,A
+MV-INT-SHS-007-07,Hidden Hand Switch,Entangling Handguard,F1,Senior,A
+MV-INT-SHS-008-01,Spear Shaft Slip,Rigid Shortspine,F1,Senior,A
+MV-INT-SHS-008-02,Past The Point Step,Prowling Cutedge,F1,Senior,A
+MV-INT-SHS-008-03,Shaft Hand Cut,Stubflog,F4,Senior,A
+MV-INT-SHS-008-04,Long Blade Crowd,Burdening Stabtip,F1,Senior,A
+MV-INT-SHS-008-05,Dip Under Sweep,Tipcurl,F4,Senior,A
+MV-INT-SHS-008-06,Haft Catch Hook,Stubhasp,F4,Senior,A
+MV-INT-SHS-008-07,Reach Collapse Rush,Springing Pointcap,F1,Senior,A
+MV-INT-SHS-008-08,Long Arm Smother,Tethering Knobgrip,F1,Senior,A
+MV-INT-SHS-008-09,Inside Reach Kill Stab,Vicious Gore,F1,Senior,A
+MV-INT-SHS-009-01,Rim Cover Stance,Clay Pointcap,F2,Warrior,B
+MV-INT-SHS-009-02,Shield Edge Peek Stab,Honed Dig,F2,Warrior,B
+MV-INT-SHS-009-03,Boss Punch Shove,Gall Hiltcap,F2,Warrior,B
+MV-INT-SHS-009-04,Shield Under Slash,Crimson Dig,F2,Warrior,B
+MV-INT-SHS-009-05,Pace Behind Cover,Gritnick,F5,Warrior,B
+MV-INT-SHS-009-06,Rim Catch Turn,Rill Stubblade,F2,Warrior,B
+MV-INT-SHS-009-07,Hook And Stab,Sprig Stabtip,F2,Warrior,B
+MV-INT-SHS-009-08,Shield Wall Press,Sleet Knobgrip,F2,Warrior,B
+MV-INT-SHS-009-09,Cover Strike Rush,Ember Sting,F2,Warrior,B
+MV-INT-SHS-009-10,Rim Flick Disarm,Static Thumbrest,F2,Warrior,B
+MV-INT-SHS-010-01,Step Thrust Match,Stabslap,F4,Senior,A
+MV-INT-SHS-010-02,Heel Lift Reach,Digzip,F4,Senior,A
+MV-INT-SHS-010-03,Diagonal Slip Stab,Rough Pointcap,F1,Senior,A
+MV-INT-SHS-010-04,Foot Press Guard,Guarding Broadleaf,F1,Senior,A
+MV-INT-SHS-010-05,Pace Back Parry,Stubborn Cutedge,F1,Senior,A
+MV-INT-SHS-010-06,Quick Return Prick,Pokeswat,F4,Senior,A
+MV-INT-SHS-010-07,Qi Driven Lunge,Fleet Gore,F1,Senior,A
+MV-INT-SHS-010-08,Step Weld Combination,Woven Poke,F1,Senior,A
+MV-INT-SHS-006-01,Shelter Cutedge,Steady Cutedge,F2,Warrior,B

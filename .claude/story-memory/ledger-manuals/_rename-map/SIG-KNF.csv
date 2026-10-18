@@ -1,0 +1,139 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-KNF-001-01,Azure Court Bow Cut,Steel Edgebelly,F2,Warrior,B
+MV-SIG-KNF-001-02,Court Thread Jab,Trimverdict,F4,Warrior,B
+MV-SIG-KNF-001-03,Court Mantle Guard,Statute Tangpin,F2,Warrior,B
+MV-SIG-KNF-001-04,Court Seat Slice,Inferno Scales,F2,Warrior,B
+MV-SIG-KNF-001-05,Court Feint Hand,Unbending Shave,F1,Warrior,B
+MV-SIG-KNF-001-06,Court Sidestep,Pareodyssey,F4,Warrior,B
+MV-SIG-KNF-001-07,Azure Court Reckoning Cut,Triumphant Pare,F1,Champion,B
+MV-SIG-KNF-001-08,Court Twin Knife Parry,Pealswedge,F5,Champion,B
+MV-SIG-KNF-001-09,Azure Court Knife Edict,Quenched Slit,F2,Demigod,B
+MV-SIG-KNF-001-10,Edge of the Azure Court,Peel Verdict,F3,Warrior,B
+MV-SIG-KNF-002-01,Basin Signature Draw,Squall Plunge,F2,Warrior,B
+MV-SIG-KNF-002-02,Reed Line Stab,Peeledict,F4,Warrior,B
+MV-SIG-KNF-002-03,Shoal Guard,Statute Lanyard,F2,Warrior,B
+MV-SIG-KNF-002-04,Basin Lip Slice,Squall Swedge,F2,Warrior,B
+MV-SIG-KNF-002-05,Silt Veil Feint,Pallpeel,F5,Warrior,B
+MV-SIG-KNF-002-06,Spillway Step,Spectral Thumbramp,F1,Warrior,B
+MV-SIG-KNF-002-07,Basin Hook Bind,Sigil Buttcap,F2,Warrior,B
+MV-SIG-KNF-002-08,Basin Torrent Rake,Thunderclap Bolster,F2,Champion,B
+MV-SIG-KNF-002-09,Basin Anchor Guard,Prismswedge,F5,Champion,B
+MV-SIG-KNF-002-10,Basin Deluge Cut,Inferno Whittle,F2,Demigod,B
+MV-SIG-KNF-002-11,Twin Waters Basin Cut,Peerless Haemal Choil,F6a,Warrior,B
+MV-SIG-KNF-003-01,Hawk Eye Opening Cut,Steelchoil,F5,Champion,B
+MV-SIG-KNF-003-02,Eye Level Point,Radiance Whittle,F2,Champion,B
+MV-SIG-KNF-003-03,Eye Cover Block,Bedrock Scales,F2,Champion,B
+MV-SIG-KNF-003-04,Eye Line Step,Pare Solace,F3,Champion,B
+MV-SIG-KNF-003-05,Eye of the Hawk Slice,Fearless Choil,F1,Champion,B
+MV-SIG-KNF-003-06,Prey Mark Wrist Tap,Venom Bolster,F2,Champion,B
+MV-SIG-KNF-003-07,Knife Hawk Eye Reading,Gracious Buttcap,F1,Champion,B
+MV-SIG-KNF-003-08,Eye Locked Bind,Trimpledge,F4,Champion,B
+MV-SIG-KNF-003-09,Hawk-Eyed Piercing Dive,Pulsar Trim,F2,Champion,B
+MV-SIG-KNF-003-10,Hawk-Eyed Hover Parry,Pall Edgebelly,F2,Champion,B
+MV-SIG-KNF-003-11,Hawk-Eyed Mark Cut,Steel Slit,F2,Demigod,B
+MV-SIG-KNF-003-12,Silent Stoop of the Hawk Edge,Peerless Bedrock Trim,F6a,Champion,B
+MV-SIG-KNF-004-01,Confluence Draw Cut,Illustrious Peel,F1,Ruler,B
+MV-SIG-KNF-004-02,Tributary Jab,Prism Lanyard,F2,Ruler,B
+MV-SIG-KNF-004-03,River Bank Knife Guard,Glacier Tangpin,F2,Ruler,B
+MV-SIG-KNF-004-04,Meeting Streams Slice,Magnificent Swedge,F1,Ruler,B
+MV-SIG-KNF-004-05,Backwater Parry,Peal Thumbramp,F2,Ruler,B
+MV-SIG-KNF-004-06,Channel Step,Deluge Whittle,F2,Ruler,B
+MV-SIG-KNF-004-07,Confluence Pressing Cut,Steelplunge,F5,Ruler,B
+MV-SIG-KNF-004-08,River Join Bind,Glacier Trim,F2,Ruler,B
+MV-SIG-KNF-004-09,Great River Rejoining Cut,Illustrious Edgebelly,F1,Demigod,B
+MV-SIG-KNF-004-10,Rivers Made One Edge,Vaunted Bedrock Plunge,F6a,Ruler,B
+MV-SIG-KNF-005-01,Field Track Opening Cut,Haemalpeel,F5,Demigod,B
+MV-SIG-KNF-005-02,Field Track Jab,Illustrious Lanyard,F1,Demigod,B
+MV-SIG-KNF-005-03,Field Track Cover,Hornbeam Plunge,F2,Demigod,B
+MV-SIG-KNF-005-04,Field Track Walk,Feather Tangpin,F1,Demigod,B
+MV-SIG-KNF-005-05,Field Twin Slice,Steel Thumbramp,F2,Demigod,B
+MV-SIG-KNF-005-06,Field Track Switch Guard,Deluge Bolster,F2,Demigod,B
+MV-SIG-KNF-005-07,Field Tracking Sense,Nurturing Buttcap,F1,Demigod,B
+MV-SIG-KNF-005-08,Field Track Bind,Commanding Shave,F1,Demigod,B
+MV-SIG-KNF-005-09,Xiantian Twin Rail Cut,Thunderclap Scales,F2,Demigod,B
+MV-SIG-KNF-005-10,Xiantian Rail Rebound Guard,Tangpin Reliquary,F3,Demigod,B
+MV-SIG-KNF-005-11,Xiantian Twin Rail Flash,Skyborne Swedge,F1,Demigod,B
+MV-SIG-KNF-005-12,Two Tracks Meeting at the Point,Vacuum Slit,F2,Demigod,B
+MV-SIG-KNF-006-01,Core Hawk Draw,Peelbanner,F4,Core Formation,B
+MV-SIG-KNF-006-02,Core Talon Jab,Pulsar Peel,F2,Core Formation,B
+MV-SIG-KNF-006-03,Core Wing Cover,Bolster Reliquary,F3,Core Formation,B
+MV-SIG-KNF-006-04,Core Stoop Slice,Vigor Shave,F2,Core Formation,B
+MV-SIG-KNF-006-05,Core Azure Parry,Pealplunge,F5,Core Formation,B
+MV-SIG-KNF-006-06,Core Hover Bind,Thrall Pare,F2,Core Formation,B
+MV-SIG-KNF-006-07,Core Wing Step,Vigor Scales,F2,Core Formation,B
+MV-SIG-KNF-006-08,Core Hawk Rake,Triumphant Whittle,F1,Core Formation,B
+MV-SIG-KNF-006-09,Core Azure Updraft Guard,Swedgeseal,F4,Core Formation,B
+MV-SIG-KNF-006-10,Core Hawk Dive Edge,Squall Lanyard,F2,Core Formation,B
+MV-SIG-KNF-006-11,Azure Hawk Descends,Lordly Steel Peel,F6a,Core Formation,B
+MV-SIG-KNF-007-01,Wind-Sworn Signature Draw,Squallslit,F5,Warrior,B
+MV-SIG-KNF-007-02,Sworn Gust Jab,Steelshave,F5,Warrior,B
+MV-SIG-KNF-007-03,Sworn Gust Cover,Bedrock Thumbramp,F2,Warrior,B
+MV-SIG-KNF-007-04,Sworn Gust Slice,Inferno Shave,F2,Warrior,B
+MV-SIG-KNF-007-05,Sworn Rooted Counter,Bedrock Slit,F2,Warrior,B
+MV-SIG-KNF-007-06,Sworn Gust Bind,Despotic Plunge,F1,Warrior,B
+MV-SIG-KNF-007-07,Sworn Gust Step,Deluge Choil,F2,Warrior,B
+MV-SIG-KNF-007-08,Wind-Sworn Gale Rake,Vigorswedge,F5,Champion,B
+MV-SIG-KNF-007-09,Knife Sworn Gale Parry,Stately Buttcap,F1,Champion,B
+MV-SIG-KNF-007-10,Wind-Sworn Tempest Cut,Choil Banner,F3,Demigod,B
+MV-SIG-KNF-007-11,Oath of the Sworn Wind Edge,Vigor Trim,F2,Warrior,B
+MV-SIG-KNF-008-01,Plateau Bearing Opening Cut,Squallchoil,F5,Warrior,B
+MV-SIG-KNF-008-02,Bearing Mark Jab,Famed Swedge,F1,Warrior,B
+MV-SIG-KNF-008-03,Bearing Cover,Glacier Buttcap,F2,Warrior,B
+MV-SIG-KNF-008-04,Plateau Course Slice,Edgebelly Verdict,F3,Warrior,B
+MV-SIG-KNF-008-05,Course Hold Parry,Scales Troth,F3,Warrior,B
+MV-SIG-KNF-008-06,Bearing Shift Pace,Shavevoyage,F4,Warrior,B
+MV-SIG-KNF-008-07,Plateau Bearing Knife Sweep,Sovereign Shave,F1,Champion,B
+MV-SIG-KNF-008-08,Plateau Edge Press,Masterful Thumbramp,F1,Champion,B
+MV-SIG-KNF-008-09,Plateau Bearing Knife Flash,Pulsarpare,F5,Demigod,B
+MV-SIG-KNF-008-10,Bearing Held to the Edge,Unrivaled Whittle,F1,Warrior,B
+MV-SIG-KNF-009-01,Oath Edge Signature Draw,Shavedecree,F4,Champion,B
+MV-SIG-KNF-009-02,Knife Oath Line Jab,Steelscales,F5,Champion,B
+MV-SIG-KNF-009-03,Oath Edge Cover,Glacier Choil,F2,Champion,B
+MV-SIG-KNF-009-04,Oath Line Step,Bedrock Swedge,F2,Champion,B
+MV-SIG-KNF-009-05,Oath Edge Cross Slice,Steel Pare,F2,Champion,B
+MV-SIG-KNF-009-06,Oath Hold Counter,Steel Lanyard,F2,Champion,B
+MV-SIG-KNF-009-07,Oath Edge Bind,Sigilshave,F5,Champion,B
+MV-SIG-KNF-009-08,Oath Line Sense,Hospitable Bolster,F1,Champion,B
+MV-SIG-KNF-009-09,Oath Edge Rending Cut,Slitedict,F4,Champion,B
+MV-SIG-KNF-009-10,Oath Edge Standing Parry,Squall Tangpin,F2,Champion,B
+MV-SIG-KNF-009-11,Oath Edge Judgment Cut,Haemal Edgebelly,F2,Demigod,B
+MV-SIG-KNF-009-12,Oath That Cuts the Wind,Thunderclap Pare,F2,Champion,B
+MV-SIG-KNF-010-01,Gale Bound Draw Cut,Fearless Trim,F1,Ruler,B
+MV-SIG-KNF-010-02,Bound Gust Jab,Quenched Peel,F2,Ruler,B
+MV-SIG-KNF-010-03,Bound Cover Turn,Squall Bolster,F2,Ruler,B
+MV-SIG-KNF-010-04,Gale Bound Slice,Peeltriumph,F4,Ruler,B
+MV-SIG-KNF-010-05,Bound Wind Parry,Deluge Thumbramp,F2,Ruler,B
+MV-SIG-KNF-010-06,Gale Bound Bind,Thrall Slit,F2,Ruler,B
+MV-SIG-KNF-010-07,Bound Gust Step,Squallscales,F5,Ruler,B
+MV-SIG-KNF-010-08,Gale Bound Surge Cut,Vigorslit,F5,Ruler,B
+MV-SIG-KNF-010-09,Gale Bound Standing Guard,Scales Seal,F3,Ruler,B
+MV-SIG-KNF-010-10,Gale Bound Burst Cut,Illustrious Shave,F1,Demigod,B
+MV-SIG-KNF-010-11,Binding of the Gale to the Blade,Tyrannous Glacier Pare,F6a,Ruler,B
+MV-SIG-KNF-011-01,Xiantian Sky Oath Draw,Splendid Choil,F1,Demigod,B
+MV-SIG-KNF-011-02,Sky Oath Jab,Prism Tangpin,F2,Demigod,B
+MV-SIG-KNF-011-03,Sky Oath Cover,Plungeseal,F4,Demigod,B
+MV-SIG-KNF-011-04,Sky Oath Slice,Squall Buttcap,F2,Demigod,B
+MV-SIG-KNF-011-05,Sky Oath Counter,Shavebanner,F4,Demigod,B
+MV-SIG-KNF-011-06,Sky Oath Step,Squall Trim,F2,Demigod,B
+MV-SIG-KNF-011-07,Sky Oath Gale Cut,Quenched Plunge,F2,Demigod,B
+MV-SIG-KNF-011-08,Sky Oath Standing Guard,Steelswedge,F5,Demigod,B
+MV-SIG-KNF-011-09,Sky Oath Flash Edge,Evanescent Swedge,F1,Demigod,B
+MV-SIG-KNF-011-10,Oath Sworn Under the Open Sky,Exalted Plunge Verdict,F6b,Demigod,B
+MV-SIG-KNF-012-01,Core Held Wind Draw,Haemalplunge,F5,Core Formation,B
+MV-SIG-KNF-012-02,Core Held Wind Jab,Vacuum Lanyard,F2,Core Formation,B
+MV-SIG-KNF-012-03,Core Held Wind Cover,Statute Thumbramp,F2,Core Formation,B
+MV-SIG-KNF-012-04,Core Held Wind Step,Squallshave,F5,Core Formation,B
+MV-SIG-KNF-012-05,Core Held Wind Slice,Vigorchoil,F5,Core Formation,B
+MV-SIG-KNF-012-06,Core Held Wind Counter,Royal Bolster,F1,Core Formation,B
+MV-SIG-KNF-012-07,Core Held Wind Bind,Thrallswedge,F5,Core Formation,B
+MV-SIG-KNF-012-08,Core Held Wind Sense,Interstice Edgebelly,F2,Core Formation,B
+MV-SIG-KNF-012-09,Core Held Wind Rake,Steel Trim,F2,Core Formation,B
+MV-SIG-KNF-012-10,Core Held Wind Parry,Parity Plunge,F2,Core Formation,B
+MV-SIG-KNF-012-11,Core Held Wind Edge,Haemal Slit,F2,Core Formation,B
+MV-SIG-KNF-012-12,The Wind Held in the Blade,Noble Peel,F1,Core Formation,B
+MV-SIG-KNF-004-03,Glacier Tangpin,Crushing Tangpin,F2,Ruler,B
+MV-SIG-KNF-004-08,Glacier Trim,Searing Trim,F2,Ruler,B
+MV-SIG-KNF-005-03,Hornbeam Plunge,Rending Plunge,F2,Demigod,B
+MV-SIG-KNF-008-03,Glacier Buttcap,Titan Buttcap,F2,Warrior,B
+MV-SIG-KNF-009-03,Glacier Choil,Fierce Choil,F2,Champion,B
+MV-SIG-KNF-010-11,Tyrannous Glacier Pare,Tyrannous Pare,F6a,Ruler,B

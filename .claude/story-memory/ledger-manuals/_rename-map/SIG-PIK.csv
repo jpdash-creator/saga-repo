@@ -1,0 +1,142 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-PIK-001-01,Court Pikemen's Opening Jab,Bedrock Longpole,F2,Warrior L1 Low,B
+MV-SIG-PIK-001-02,Azure Court Level Guard,Statute Footspike,F2,Warrior L1 Low,B
+MV-SIG-PIK-001-03,Paired Court Step-In,Pikegrace,F4,Warrior L1 Low,B
+MV-SIG-PIK-001-04,Court-Taught Qi Warming,Pikegift,F4,Warrior L1 Low,B
+MV-SIG-PIK-001-05,Azure Edge Shaft Binding,Millstone Pikeshaft,F2,Warrior L1 Low,B
+MV-SIG-PIK-001-06,Court Rank Thrust Relay,Mastdecree,F4,Warrior L1 Low,B
+MV-SIG-PIK-001-07,Court-Hall Heavy Thrust,Vacuum Pikebands,F2,Champion L1 Low,B
+MV-SIG-PIK-001-08,Azure Square Guard Lock,Inviolate Mastlength,F1,Champion L1 Low,B
+MV-SIG-PIK-001-09,Court Master's Plunging Cross,Steelshaft,F5,Demigod L1 Low,B
+MV-SIG-PIK-001-10,Azure Court Hawk-Cross Finish,Quenched Steelcap,F2,Warrior L1 Low,B
+MV-SIG-PIK-002-01,Ferrule-Pair Grip Pose,Parityshaft,F5,Warrior L6 Mid,B
+MV-SIG-PIK-002-02,Basin-Edge Point Jab,Steelbrace,F5,Warrior L6 Mid,B
+MV-SIG-PIK-002-03,Paired-End Shaft Turn,Parity Pikeshoe,F2,Warrior L6 Mid,B
+MV-SIG-PIK-002-04,Low Basin Pivot Walk,Windborne Couchout,F1,Warrior L6 Mid,B
+MV-SIG-PIK-002-05,Basin Belly-Breath Reading,Interstice Pikehead,F2,Warrior L6 Mid,B
+MV-SIG-PIK-002-06,Ferrule Rebound Qi Strike,Haemalpike,F5,Warrior L6 Mid,B
+MV-SIG-PIK-002-07,Paired Basin Weapon Seizure,Tyrannous Press,F1,Warrior L6 Mid,B
+MV-SIG-PIK-002-08,Basin-Rim Foe Pushback,Levelhold Pledge,F3,Warrior L6 Mid,B
+MV-SIG-PIK-002-09,Twin-End Basin Rush,Ashstaff Banner,F3,Champion L1 Low,B
+MV-SIG-PIK-002-10,Basin-Held Ferrule Brace,Glacier Steelcap,F2,Champion L1 Low,B
+MV-SIG-PIK-002-11,Matched Ferrule Ending Sweep,Dune Bristle,F2,Demigod L1 Low,B
+MV-SIG-PIK-002-12,Basin-Pour Ferrule Release,Vaunted Quenched Present,F6a,Warrior L6 Mid,B
+MV-SIG-PIK-003-01,Hawk-Stoop Opening Crouch,Solar Pikecollar,F2,Champion L3 Low,B
+MV-SIG-PIK-003-02,Stoop-Line Pike Jab,Squall Present,F2,Champion L3 Low,B
+MV-SIG-PIK-003-03,Talon-Spread Shaft Guard,Squallpike,F5,Champion L3 Low,B
+MV-SIG-PIK-003-04,Quarry-Marking Qi Sense,Pealpike,F5,Champion L3 Low,B
+MV-SIG-PIK-003-05,Stooping Qi Thrust,Pulsarbrace,F5,Champion L3 Low,B
+MV-SIG-PIK-003-06,Quarry-Holding Weapon Press,Unbending Footspike,F1,Champion L3 Low,B
+MV-SIG-PIK-003-07,Hawk-Circle Retreat,Dune Brace,F2,Champion L3 Low,B
+MV-SIG-PIK-003-08,Falling Hawk Heavy Thrust,Vacuum Mastlength,F2,Champion L3 Low,B
+MV-SIG-PIK-003-09,Hover-Pause Brace,Steelpike,F5,Champion L3 Low,B
+MV-SIG-PIK-003-10,Hawk-Master Vanishing Dive,Spectral Brace,F1,Demigod L1 Low,B
+MV-SIG-PIK-003-11,Hawk-Stoop Killing Dive,Quenched Bristle,F2,Champion L3 Low,B
+MV-SIG-PIK-004-01,Twin-River Line Jab,Inferno Pikeshoe,F2,Ruler L1 Low,B
+MV-SIG-PIK-004-02,River-Side Guard Cross,Peal Pikeshaft,F2,Ruler L1 Low,B
+MV-SIG-PIK-004-03,Parallel Flow Advance,Pikebands Odyssey,F3,Ruler L1 Low,B
+MV-SIG-PIK-004-04,Twin-Current Qi Thrust,Couchout Decree,F3,Ruler L1 Low,B
+MV-SIG-PIK-004-05,Riverbed Weapon Drag,Venom Ashstaff,F2,Ruler L1 Low,B
+MV-SIG-PIK-004-06,River Brace Shaft Lock,Prismshaft,F5,Ruler L1 Low,B
+MV-SIG-PIK-004-07,Twin Rivers Closing Thrust,Vacuumbrace,F5,Ruler L1 Low,B
+MV-SIG-PIK-004-08,Spate-Line Press,Pikehead Troth,F3,Ruler L1 Low,B
+MV-SIG-PIK-004-09,Twin-Flow Sweeping Break,Demolition Pikebands,F2,Demigod L1 Low,B
+MV-SIG-PIK-004-10,Twin Rivers Closing Flood,Intrepid Solar Longpole,F6a,Ruler L1 Low,B
+MV-SIG-PIK-005-01,Dual-Track Opening Hold,Bedrock Footspike,F2,Demigod L1 Low,B
+MV-SIG-PIK-005-02,Left-Hand Track Pike Jab,Squallpress,F5,Demigod L1 Low,B
+MV-SIG-PIK-005-03,Right-Track Guard Slide,Squall Pikeshaft,F2,Demigod L1 Low,B
+MV-SIG-PIK-005-04,Dual-Track Step Weave,Dune Pikehead,F2,Demigod L1 Low,B
+MV-SIG-PIK-005-05,Twin-Track Qi Pulse Thrust,Thunderclap Brace,F2,Demigod L1 Low,B
+MV-SIG-PIK-005-06,Track-Crossing Foe Bind,Thrall Pikecollar,F2,Demigod L1 Low,B
+MV-SIG-PIK-005-07,Track-Split Feint,Despotic Mastlength,F1,Demigod L1 Low,B
+MV-SIG-PIK-005-08,Dual-Track Rebound Parry,Pikeseal,F4,Demigod L1 Low,B
+MV-SIG-PIK-005-09,Doubled-Track Heavy Thrust,Triumphant Pikecollar,F1,Demigod L1 Low,B
+MV-SIG-PIK-005-10,Track-Locked Square Brace,Prism Longpole,F2,Demigod L1 Low,B
+MV-SIG-PIK-005-11,Dual-Track Rank Breaker,Pikebanner,F4,Demigod L1 Low,B
+MV-SIG-PIK-005-12,Dual-Track Double Drive,Present Verdict,F3,Demigod L1 Low,B
+MV-SIG-PIK-006-01,Summit-Stand Level Pike,Piketroth,F4,Core Formation L1 Low,B
+MV-SIG-PIK-006-02,Two-Thread Jab,Bracetriumph,F4,Core Formation L1 Low,B
+MV-SIG-PIK-006-03,Summit Climbing Pike Step,Deluge Ashstaff,F2,Core Formation L1 Low,B
+MV-SIG-PIK-006-04,Current-One Core Thrust,Radiance Levelhold,F2,Core Formation L1 Low,B
+MV-SIG-PIK-006-05,Current-Two Weapon Bind,Shaftpledge,F4,Core Formation L1 Low,B
+MV-SIG-PIK-006-06,Summit Air Qi Sense,Peal Pikecollar,F2,Core Formation L1 Low,B
+MV-SIG-PIK-006-07,Crossed-Currents Guard Return,Phantasm Steelcap,F2,Core Formation L1 Low,B
+MV-SIG-PIK-006-08,Azure Summit Heavy Thrust,Radiance Pikeshoe,F2,Core Formation L1 Low,B
+MV-SIG-PIK-006-09,Two-Current Core Brace,Sacrosanct Pikeshaft,F1,Core Formation L1 Low,B
+MV-SIG-PIK-006-10,Summit Master Cleaving Sweep,Inferno Levelhold,F2,Core Formation L1 Low,B
+MV-SIG-PIK-006-11,Summit Twin-Current Spearing,Royal Pulsar Press,F6a,Core Formation L1 Low,B
+MV-SIG-PIK-007-01,Oath-Course Level Stand,Prism Steelcap,F2,Warrior L2 Low,B
+MV-SIG-PIK-007-02,Wind-Sworn Opening Jab,Vigorshaft,F5,Warrior L2 Low,B
+MV-SIG-PIK-007-03,Oath Advance Footing,Dune Press,F2,Warrior L2 Low,B
+MV-SIG-PIK-007-04,Oath-Fed Qi Thrust,Quenched Pikebands,F2,Warrior L2 Low,B
+MV-SIG-PIK-007-05,Wind-Sworn Weapon Bind,Pressvow,F4,Warrior L2 Low,B
+MV-SIG-PIK-007-06,Oath-Course Guard Return,Prism Ashstaff,F2,Warrior L2 Low,B
+MV-SIG-PIK-007-07,Wind-Bearing Qi Sense,Pealshaft,F5,Warrior L2 Low,B
+MV-SIG-PIK-007-08,Oath-Course Heavy Thrust,Prism Present,F2,Champion L1 Low,B
+MV-SIG-PIK-007-09,Wind-Sworn Brace Hold,Enshrined Footspike,F1,Champion L1 Low,B
+MV-SIG-PIK-007-10,Oath-Master Gale Break,Imperial Press,F1,Demigod L1 Low,B
+MV-SIG-PIK-007-11,Wind-Sworn Oath Impalement,Fearless Quenched Levelhold,F6a,Warrior L2 Low,B
+MV-SIG-PIK-008-01,Plateau Bearing Level Hold,Stately Mastlength,F1,Warrior L8 Low,B
+MV-SIG-PIK-008-02,Bearing-Line Short Jab,Haemalshaft,F5,Warrior L8 Low,B
+MV-SIG-PIK-008-03,Plateau Pace Shift,Dunemast,F5,Warrior L8 Low,B
+MV-SIG-PIK-008-04,Bearing-Fed Qi Thrust,Mastverdict,F4,Warrior L8 Low,B
+MV-SIG-PIK-008-05,Plateau Weapon Pin,Sigilbrace,F5,Warrior L8 Low,B
+MV-SIG-PIK-008-06,Bearing-Kept Guard Return,Radiance Pikehead,F2,Warrior L8 Low,B
+MV-SIG-PIK-008-07,Plateau Heavy Bearing Thrust,Vacuum Pikeshoe,F2,Champion L1 Low,B
+MV-SIG-PIK-008-08,Bearing-Line Brace,Pikeshoe Covenant,F3,Champion L1 Low,B
+MV-SIG-PIK-008-09,Bearing-Master Line Sweep,Magmamast,F5,Demigod L1 Low,B
+MV-SIG-PIK-008-10,Plateau Bearing Lock Thrust,Magnificent Ashstaff,F1,Warrior L8 Low,B
+MV-SIG-PIK-009-01,Edge-Held Level Pike,Steel Pikehead,F2,Champion L5 Mid,B
+MV-SIG-PIK-009-02,Edge-Line Jab,Shafttriumph,F4,Champion L5 Mid,B
+MV-SIG-PIK-009-03,Edge-Held Shaft Parry,Immaculate Longpole,F1,Champion L5 Mid,B
+MV-SIG-PIK-009-04,Edge-Side Slide Step,Delugepress,F5,Champion L5 Mid,B
+MV-SIG-PIK-009-05,Edge Oath Qi Thrust,Steel Mastlength,F2,Champion L5 Mid,B
+MV-SIG-PIK-009-06,Edge-Held Weapon Bind,Tyrannous Bristle,F1,Champion L5 Mid,B
+MV-SIG-PIK-009-07,Edge Updraft Sense,Interstice Pikebands,F2,Champion L5 Mid,B
+MV-SIG-PIK-009-08,Edge Shock Return,Eclipse Steelcap,F2,Champion L5 Mid,B
+MV-SIG-PIK-009-09,Edge-Held Heavy Thrust,Vacuum Couchout,F2,Champion L5 Mid,B
+MV-SIG-PIK-009-10,Edge Oath Brace,Longpole Pledge,F3,Champion L5 Mid,B
+MV-SIG-PIK-009-11,Edge-Master Sweeping Break,Footspike Edict,F3,Demigod L1 Low,B
+MV-SIG-PIK-009-12,Edge-Held No-Step-Back Thrust,Steel Bristle,F2,Champion L5 Mid,B
+MV-SIG-PIK-010-01,Oath-Line Level Stand,Enshrined Pikecollar,F1,Ruler L1 Mid,B
+MV-SIG-PIK-010-02,Open-Ground Line Jab,Masttriumph,F4,Ruler L1 Mid,B
+MV-SIG-PIK-010-03,Oath-Line Step Together,Brace Solace,F3,Ruler L1 Mid,B
+MV-SIG-PIK-010-04,Oath-Line Qi Thrust,Sovereign Bristle,F1,Ruler L1 Mid,B
+MV-SIG-PIK-010-05,Line-Bound Weapon Hold,Volition Couchout,F2,Ruler L1 Mid,B
+MV-SIG-PIK-010-06,Oath-Line Shock Return,Radiance Ashstaff,F2,Ruler L1 Mid,B
+MV-SIG-PIK-010-07,Open-Ground Line Sense,Serene Steelcap,F1,Ruler L1 Mid,B
+MV-SIG-PIK-010-08,Oath-Line Heavy Thrust,Present Crown,F3,Ruler L1 Mid,B
+MV-SIG-PIK-010-09,Oath-Line Brace,Glacier Pikecollar,F2,Ruler L1 Mid,B
+MV-SIG-PIK-010-10,Line-Master Gale Sweep,Dune Levelhold,F2,Demigod L1 Low,B
+MV-SIG-PIK-010-11,Sworn Line Pike Gale Press,Imperious Present Seal,F6b,Ruler L1 Mid,B
+MV-SIG-PIK-011-01,Windward Reach Level Hold,Steelmast,F5,Demigod L2 Low,B
+MV-SIG-PIK-011-02,Long-Reach Wind Jab,Bedrock Pikebands,F2,Demigod L2 Low,B
+MV-SIG-PIK-011-03,Windward Lunge Slide,Pikeshaft Grace,F3,Demigod L2 Low,B
+MV-SIG-PIK-011-04,Reach-Fed Qi Thrust,Radiance Couchout,F2,Demigod L2 Low,B
+MV-SIG-PIK-011-05,Long-Reach Weapon Press,Gloom Brace,F2,Demigod L2 Low,B
+MV-SIG-PIK-011-06,Windward Reach Sensing,Interstice Footspike,F2,Demigod L2 Low,B
+MV-SIG-PIK-011-07,Windward Heavy Reach Thrust,Prismmast,F5,Demigod L2 Low,B
+MV-SIG-PIK-011-08,Long-Reach Standing Brace,Consecrated Pikeshaft,F1,Demigod L2 Low,B
+MV-SIG-PIK-011-09,Reach-Master Windward Break,Seasonpress,F5,Demigod L2 Low,B
+MV-SIG-PIK-011-10,Windward Whole-Shaft Drive,Dauntless Pulsar Couchout,F6a,Demigod L2 Low,B
+MV-SIG-PIK-012-01,Gale-Sworn Core Level Stand,Statute Longpole,F2,Core Formation L2 Low,B
+MV-SIG-PIK-012-02,Sworn Gale Jab,Thunderclap Pikehead,F2,Core Formation L2 Low,B
+MV-SIG-PIK-012-03,Core-Held Shaft Guard,Pall Steelcap,F2,Core Formation L2 Low,B
+MV-SIG-PIK-012-04,Sworn Gale Step Surge,Deluge Mastlength,F2,Core Formation L2 Low,B
+MV-SIG-PIK-012-05,Core Qi Gale Thrust,Imperial Levelhold,F1,Core Formation L2 Low,B
+MV-SIG-PIK-012-06,Sworn Gale Weapon Bind,Glacier Brace,F2,Core Formation L2 Low,B
+MV-SIG-PIK-012-07,Core-Sworn Bearing Read,Magnanimous Pikebands,F1,Core Formation L2 Low,B
+MV-SIG-PIK-012-08,Gale Core Shock Return,Devout Mastlength,F1,Core Formation L2 Low,B
+MV-SIG-PIK-012-09,Gale-Sworn Heavy Thrust,Dauntless Pikecollar,F1,Core Formation L2 Low,B
+MV-SIG-PIK-012-10,Core Oath Brace,Glacier Pikeshaft,F2,Core Formation L2 Low,B
+MV-SIG-PIK-012-11,Gale-Sworn Master Break,Tempestuous Press,F2,Core Formation L2 Low,B
+MV-SIG-PIK-012-12,Sworn Gale Core Impalement,Lordly Bristle,F1,Core Formation L2 Low,B
+MV-SIG-PIK-002-10,Glacier Steelcap,Steadfast Steelcap,F2,Champion L1 Low,B
+MV-SIG-PIK-002-11,Dune Bristle,Sweeping Bristle,F2,Demigod L1 Low,B
+MV-SIG-PIK-003-07,Dune Brace,Wheeling Brace,F2,Champion L3 Low,B
+MV-SIG-PIK-005-04,Dune Pikehead,Weaving Pikehead,F2,Demigod L1 Low,B
+MV-SIG-PIK-007-03,Dune Press,Advancing Press,F2,Warrior L2 Low,B
+MV-SIG-PIK-010-09,Glacier Pikecollar,Shared Pikecollar,F2,Ruler L1 Mid,B
+MV-SIG-PIK-010-10,Dune Levelhold,Cleaving Levelhold,F2,Demigod L1 Low,B
+MV-SIG-PIK-012-06,Glacier Brace,Binding Brace,F2,Core Formation L2 Low,B
+MV-SIG-PIK-012-10,Glacier Pikeshaft,Immovable Pikeshaft,F2,Core Formation L2 Low,B

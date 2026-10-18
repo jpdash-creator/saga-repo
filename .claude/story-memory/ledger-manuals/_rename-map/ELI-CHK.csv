@@ -1,0 +1,129 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-CHK-001-01,Twin Basin Stance,Disk Vigil,F3,Demigod,B
+MV-ELI-CHK-001-02,Sky-and-Shoulder Reading,Galvanizing Roundedge,F1,Demigod,B
+MV-ELI-CHK-001-03,Low Pair Skim,Rumble Bladering,F2,Demigod,B
+MV-ELI-CHK-001-04,Paired Arc Over Cover,Devastating Spinrim,F1,Demigod,B
+MV-ELI-CHK-001-05,Mirror Rim Parry,Gust Fingerhole,F2,Demigod,B
+MV-ELI-CHK-001-06,Basin Rim Surge,Merciless Outerblade,F1,Demigod,B
+MV-ELI-CHK-001-07,Closing Sky Pair,Downpour Graze,F2,Demigod,B
+MV-ELI-CHK-001-08,Azure Ring Wheel Guard,Unassailable Outerblade,F1,Demigod,B
+MV-ELI-CHK-001-09,Basin Closing Twin Orbit,Slag Innergrip,F2,Demigod,B
+MV-ELI-CHK-002-01,Hawk Eye Lock,Nimbus Hoopedge,F2,Demigod,B
+MV-ELI-CHK-002-02,Two-Handed Level Pitch,Rumble Ricochet,F2,Demigod,B
+MV-ELI-CHK-002-03,Wing-Spread Guard Stance,Impervious Holeedge,F1,Demigod,B
+MV-ELI-CHK-002-04,Soft Landing Step,Grazeglare,F4,Demigod,B
+MV-ELI-CHK-002-05,Hawk Dive Arc,Facet Whirlcut,F2,Demigod,B
+MV-ELI-CHK-002-06,Hidden Second Track,Webbing Innergrip,F1,Demigod,B
+MV-ELI-CHK-002-07,Talon Rim Snatch,Murk Ringface,F2,Demigod,B
+MV-ELI-CHK-002-08,Twin Stoop From Height,Booming Gyrate,F1,Demigod,B
+MV-ELI-CHK-002-09,Wide Wing Intercept,Chimebounce,F5,Demigod,B
+MV-ELI-CHK-002-10,Wings Unfolding Flank Cut,Glintdisk,F5,Demigod,B
+MV-ELI-CHK-003-01,Ring-Court Opening Salute,Prescient Hoopedge,F1,Demigod,B
+MV-ELI-CHK-003-02,Rim Circling Warm-Up,Elevating Fingerhole,F1,Demigod,B
+MV-ELI-CHK-003-03,Paired Level Circuit,Decimating Gyrate,F1,Demigod,B
+MV-ELI-CHK-003-04,Hawk-Wing Block,Thorn Holeedge,F2,Demigod,B
+MV-ELI-CHK-003-05,Rim-Out Court Retreat,Meteoric Ricochet,F1,Demigod,B
+MV-ELI-CHK-003-06,Circling Rim Snare,Toxingyrate,F5,Demigod,B
+MV-ELI-CHK-003-07,Twin-Court Rim Crossfire,Booming Bladering,F1,Demigod,B
+MV-ELI-CHK-003-08,River Loop Pass,Aura Bounce,F2,Demigod,B
+MV-ELI-CHK-003-09,Rim Carousel,Punishing Carom,F1,Demigod,B
+MV-ELI-CHK-003-10,Court Verdict Cut,Hollowround,F5,Demigod,B
+MV-ELI-CHK-003-11,Twin-Court Great Circle,Punishing Graze Wrath,F6b,Demigod,B
+MV-ELI-CHK-004-01,Orbit Pair Tuning,Verity Spinrim,F2,Demigod,B
+MV-ELI-CHK-004-02,Hawk Banked Throw,Caromruin,F4,Demigod,B
+MV-ELI-CHK-004-03,Azure Breath Pace,Vital Roundedge,F2,Demigod,B
+MV-ELI-CHK-004-04,Orbit Hand-Off,Ruinous Ringface,F1,Demigod,B
+MV-ELI-CHK-004-05,Twin Orbit Parry,Chime Hoopedge,F2,Demigod,B
+MV-ELI-CHK-004-06,Hawk-Wing Ring Sweep,Mayhemgyrate,F5,Demigod,B
+MV-ELI-CHK-004-07,Hung Orbit Snare,Silt Ringface,F2,Demigod,B
+MV-ELI-CHK-004-08,Paired Orbit Rebound,Brutalizing Spinrim,F1,Demigod,B
+MV-ELI-CHK-004-09,Interlocked Orbit Break,Eviscerating Rumble Carom,F6a,Demigod,B
+MV-ELI-CHK-005-01,Basin Wheel Grip,Vital Innergrip,F2,Demigod,B
+MV-ELI-CHK-005-02,Wheel Rim Test Spin,Energizing Bladering,F1,Demigod,B
+MV-ELI-CHK-005-03,Dual-Track Wheel Throw,Chime Gyrate,F2,Demigod,B
+MV-ELI-CHK-005-04,River Shield Turn,Aegis Outerblade,F2,Demigod,B
+MV-ELI-CHK-005-05,Water-Step Weave,Gustgraze,F5,Demigod,B
+MV-ELI-CHK-005-06,Wheel Spoke Cut,Roundruin,F4,Demigod,B
+MV-ELI-CHK-005-07,Twin Wheel Crossing,Hoopruin,F4,Demigod,B
+MV-ELI-CHK-005-08,Basin Slip Parry,Adamantine Outerblade,F1,Demigod,B
+MV-ELI-CHK-005-09,River Bend Retreat,Granite Ricochet,F2,Demigod,B
+MV-ELI-CHK-005-10,Great Wheel Ground Roll,Diskhavoc,F4,Demigod,B
+MV-ELI-CHK-005-11,Crossed Rim Arm Pin,Fastening Disk,F2,Demigod,B
+MV-ELI-CHK-005-12,Basin Wheel Overturning,Daybreak Holeedge,F2,Demigod,B
+MV-ELI-CHK-006-01,Paired Rim Weighing,Remnant Fingerhole,F2,Monarch,B
+MV-ELI-CHK-006-02,Slow Heavy Pair Throw,Ferocious Carom,F1,Monarch,B
+MV-ELI-CHK-006-03,Twin Arm Brace,Indomitable Holeedge,F1,Monarch,B
+MV-ELI-CHK-006-04,Heavy-Rim Measured Step,Meridian Fingerhole,F2,Monarch,B
+MV-ELI-CHK-006-05,Weighted Rim Cut,Irondisk,F5,Monarch,B
+MV-ELI-CHK-006-06,Dual-Track Pin Throw,Gyrate Spine,F3,Monarch,B
+MV-ELI-CHK-006-07,Cross-Rim Guard,Chime Disk,F2,Monarch,B
+MV-ELI-CHK-006-08,Hawk Pair Lance,Hollow Disk,F2,Monarch,B
+MV-ELI-CHK-006-09,Twin Rim Tangle,Bouncedurance,F4,Monarch,B
+MV-ELI-CHK-006-10,Paired Rim Reserve Strike,Brutalizing Bounce,F1,Demigod,B
+MV-ELI-CHK-007-01,Wind-Read Raise,Expanse Ringface,F2,Demigod,B
+MV-ELI-CHK-007-02,Oath Under Breath Pitch,Auragyrate,F5,Demigod,B
+MV-ELI-CHK-007-03,Gale Brace Stance,Invincible Hoopedge,F1,Demigod,B
+MV-ELI-CHK-007-04,Plateau Ring Stride,Siltbounce,F5,Demigod,B
+MV-ELI-CHK-007-05,Gust-Taken Rise,Chime Innergrip,F2,Demigod,B
+MV-ELI-CHK-007-06,Oath-Bound Rim Parry,Unrelenting Bladering,F1,Demigod,B
+MV-ELI-CHK-007-07,Leeward Bank Throw,Facet Spinrim,F2,Demigod,B
+MV-ELI-CHK-007-08,Wind-Borne Oath Volley,Ruinous Gyrate,F1,Demigod,B
+MV-ELI-CHK-007-09,Swept Plateau Line,Slag Bounce,F2,Demigod,B
+MV-ELI-CHK-007-10,Sworn Bearing Return,Glint Roundedge,F2,Demigod,B
+MV-ELI-CHK-008-01,Far Mark Fixing,Healing Fingerhole,F1,Demigod,B
+MV-ELI-CHK-008-02,Long Sidearm Sling,Carom Reckoning,F3,Demigod,B
+MV-ELI-CHK-008-03,Heel-Dug Stance,Unbudging Roundedge,F1,Demigod,B
+MV-ELI-CHK-008-04,Bearing Hold Release,Hoarfrost Bladering,F2,Demigod,B
+MV-ELI-CHK-008-05,Crosswind Sidearm Curl,Hoarfrost Spinrim,F2,Demigod,B
+MV-ELI-CHK-008-06,Gust Turn Parry,Unassailable Holeedge,F1,Demigod,B
+MV-ELI-CHK-008-07,Plateau-Wide Bearing Sweep,Nimbusdisk,F5,Demigod,B
+MV-ELI-CHK-008-08,Sight-Limit Ring Cast,Glintcarom,F5,Demigod,B
+MV-ELI-CHK-008-09,Horizon Held Throw,Eviscerating Iron Roundedge,F6a,Demigod,B
+MV-ELI-CHK-009-01,Gale Pitch Hum,Aura Hoopedge,F2,Demigod,B
+MV-ELI-CHK-009-02,Carried Grip Release,Ricochet Devastation,F3,Demigod,B
+MV-ELI-CHK-009-03,Lee Shoulder Cover,Invincible Ringface,F1,Demigod,B
+MV-ELI-CHK-009-04,Sliding Gale Pace,Graze Whirlpool,F3,Demigod,B
+MV-ELI-CHK-009-05,Wind-Eased Wrist Roll,Equipoise Spinrim,F2,Demigod,B
+MV-ELI-CHK-009-06,Gale-Lifted Lob,Nimbusround,F5,Demigod,B
+MV-ELI-CHK-009-07,Rim Chiming Jar,Mayhemround,F5,Demigod,B
+MV-ELI-CHK-009-08,Squall Pair Release,Caromhavoc,F4,Demigod,B
+MV-ELI-CHK-009-09,Gale-Carried Curve,Nimbusbounce,F5,Demigod,B
+MV-ELI-CHK-009-10,Squall Curtain Guard,Aegis Disk,F2,Demigod,B
+MV-ELI-CHK-009-11,Gale Takes the Rim,Grazehavoc,F4,Demigod,B
+MV-ELI-CHK-010-01,Open Ground Reckoning,Nimbus Innergrip,F2,Demigod,B
+MV-ELI-CHK-010-02,Unwalled Wide Stance,Adamantine Holeedge,F1,Demigod,B
+MV-ELI-CHK-010-03,Wind-Shoulder Hurl,Rumblebounce,F5,Demigod,B
+MV-ELI-CHK-010-04,Bare-Foot Plateau Pace,Hoopvortex,F4,Demigod,B
+MV-ELI-CHK-010-05,Palm-Wind Spin Lift,Radiant Bladering,F1,Demigod,B
+MV-ELI-CHK-010-06,Wide Open Cast,Gusthoop,F5,Demigod,B
+MV-ELI-CHK-010-07,Fall-Away Parry,Gust Outerblade,F2,Demigod,B
+MV-ELI-CHK-010-08,Drift-Behind Throw,Diskscourge,F4,Demigod,B
+MV-ELI-CHK-010-09,Knee-Hooking Rim Pull,Bounce Mettle,F3,Demigod,B
+MV-ELI-CHK-010-10,Open-Field Orbit Cover,Facet Ringface,F2,Demigod,B
+MV-ELI-CHK-010-11,Sweeping Gale Cut,Hellish Graze,F1,Demigod,B
+MV-ELI-CHK-010-12,Long Rim Snare,Gyve Graze,F2,Demigod,B
+MV-ELI-CHK-010-13,Last Rim in the Wind,Bounce Devastation,F3,Demigod,B
+MV-ELI-CHK-011-01,Bearing Breath Count,Equipoise Fingerhole,F2,Demigod,B
+MV-ELI-CHK-011-02,Wind-Side Pitch,Auraround,F5,Demigod,B
+MV-ELI-CHK-011-03,Ring Cuff Guard,Aura Disk,F2,Demigod,B
+MV-ELI-CHK-011-04,Bearing Shift Throw,Ferocious Whirlcut,F1,Demigod,B
+MV-ELI-CHK-011-05,Gale Gap Slip,Aura Ricochet,F2,Demigod,B
+MV-ELI-CHK-011-06,Leeward Rim Block,Murk Outerblade,F2,Demigod,B
+MV-ELI-CHK-011-07,Bearing Pierce Volley,Roundscourge,F4,Demigod,B
+MV-ELI-CHK-011-08,Wind Reversal Snare,Deed Holeedge,F2,Demigod,B
+MV-ELI-CHK-011-09,Bearing Break Gust Pass,Glint Gyrate,F2,Demigod,B
+MV-ELI-CHK-012-01,Old Grip Remembered,Revitalizing Roundedge,F1,Monarch,B
+MV-ELI-CHK-012-02,Slow Oath Pitch,Whirlcut Devastation,F3,Monarch,B
+MV-ELI-CHK-012-03,Back-to-Wind Guard,Granite Innergrip,F2,Monarch,B
+MV-ELI-CHK-012-04,Long Sure Stride,Might Graze,F2,Monarch,B
+MV-ELI-CHK-012-05,Sworn Edge Draw Cut,Bouncehavoc,F4,Monarch,B
+MV-ELI-CHK-012-06,Held-Breath Cast,Vessel Whirlcut,F2,Monarch,B
+MV-ELI-CHK-012-07,Gale Tilt Parry,Unbudging Ringface,F1,Monarch,B
+MV-ELI-CHK-012-08,Oath Weight Throw,Novagyrate,F5,Monarch,B
+MV-ELI-CHK-012-09,Wind-Bound Pursuit,Thorngraze,F5,Monarch,B
+MV-ELI-CHK-012-10,Oath Fulfilled Cast,Disk Wrath,F3,Demigod,B
+MV-ELI-CHK-003-11,Punishing Graze Wrath,Punishing Graze,F6b,Demigod,B
+MV-ELI-CHK-004-09,Eviscerating Rumble Carom,Eviscerating Carom,F6a,Demigod,B
+MV-ELI-CHK-006-08,Hollow Disk,Lancing Disk,F2,Monarch,B
+MV-ELI-CHK-007-01,Expanse Ringface,Perceptive Ringface,F2,Demigod,B
+MV-ELI-CHK-008-09,Eviscerating Iron Roundedge,Eviscerating Roundedge,F6a,Demigod,B

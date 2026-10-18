@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-KND-001-01,Jab-Cross Chain Lead,Knuckscorer,F4,Senior L2 Low,A
+MV-INT-KND-001-02,Knuckle Chain Slip,Brawlcurl,F4,Senior L2 Low,A
+MV-INT-KND-001-03,Chain Cover Brace,Studscreen,F4,Senior L2 Low,A
+MV-INT-KND-001-04,Elbow Chain Check,Slabbuckle,F4,Senior L2 Low,A
+MV-INT-KND-001-05,Three-Knuckle Link Run,Studscorer,F4,Senior L2 Low,A
+MV-INT-KND-001-06,Qi-Tied Guard Knock,Gagging Brassring,F1,Senior L2 Low,A
+MV-INT-KND-002-01,Brass Combination Opener,Wild Fistbar,F1,Senior L5 Mid,A
+MV-INT-KND-002-02,Ring Cross Follow,Rugged Haymaker,F1,Senior L5 Mid,A
+MV-INT-KND-002-03,Rear Hand Slip Check,Shielding Bandarch,F1,Senior L5 Mid,A
+MV-INT-KND-002-04,Shuffle Entry Step,Overhand Stalk,F3,Senior L5 Mid,A
+MV-INT-KND-002-05,Upright Brass Guard,Guarding Studplate,F1,Senior L5 Mid,A
+MV-INT-KND-002-06,Four-Blow Brass Run,Cruel Ringband,F1,Senior L5 Mid,A
+MV-INT-KND-002-07,Pivot Finish Rap,Brawlbarrier,F4,Senior L5 Mid,A
+MV-INT-KND-003-01,Count-Drop Heavy Jab,Stern Uppercut,F1,Senior L8 High,A
+MV-INT-KND-003-02,Slow Step Heavy Cross,Brisk Handfill,F1,Senior L8 High,A
+MV-INT-KND-003-03,Even Beat Hook,Wild Hooking,F1,Senior L8 High,A
+MV-INT-KND-003-04,Beat-Break Parry,Stalwart Brassrim,F1,Senior L8 High,A
+MV-INT-KND-003-05,Tempo Shift Step,Brawlswerve,F4,Senior L8 High,A
+MV-INT-KND-003-06,Rhythm Guard Hold,Rigid Knuckleridge,F1,Senior L8 High,A
+MV-INT-KND-003-07,Off-Beat Hook Burst,Swift Brawl,F1,Senior L8 High,A
+MV-INT-KND-003-08,Rhythm Break Rap,Lassoing Ringband,F1,Senior L8 High,A
+MV-INT-KND-004-01,Pressure Step Jab,Rude Knockout,F1,Warrior L1 Low,B
+MV-INT-KND-004-02,Inside Line Cross,Brisk Palmbar,F1,Warrior L1 Low,B
+MV-INT-KND-004-03,Forearm Press Ram,Discord Overhand,F2,Warrior L1 Low,B
+MV-INT-KND-004-04,Pressure Slip Out,Clayring,F5,Warrior L1 Low,B
+MV-INT-KND-004-05,Brass Shell Guard,Regimen Handfill,F2,Warrior L1 Low,B
+MV-INT-KND-004-06,Pull-In Parry,Rillstud,F5,Warrior L1 Low,B
+MV-INT-KND-004-07,Crowding Short Blow Rain,Crimson Studplate,F2,Warrior L1 Low,B
+MV-INT-KND-004-08,Leaning Shoulder Pin,Sleet Knockout,F2,Warrior L1 Low,B
+MV-INT-KND-004-09,Squeeze Step Counter,Hooking Hurdle,F3,Warrior L1 Low,B
+MV-INT-KND-005-01,Guard Gap Probe,Brawlswat,F4,Warrior L3 Mid,B
+MV-INT-KND-005-02,Forearm Hammer Knock,Draught Brawl,F2,Warrior L3 Mid,B
+MV-INT-KND-005-03,Lower Arm Drag,Gall Palmbar,F2,Warrior L3 Mid,B
+MV-INT-KND-005-04,Brass Wedge Poke,Studswat,F4,Warrior L3 Mid,B
+MV-INT-KND-005-05,Wedge Step In,Springing Fistbar,F1,Warrior L3 Mid,B
+MV-INT-KND-005-06,Elbow Pin Parry,Poisestud,F5,Warrior L3 Mid,B
+MV-INT-KND-005-07,Return Cover Shell,Clay Brassrim,F2,Warrior L3 Mid,B
+MV-INT-KND-005-08,Qi Wedge Through the Guard,Gleamring,F5,Warrior L3 Mid,B
+MV-INT-KND-005-09,Double Rap Guard Split,Entangling Knuckleplate,F1,Warrior L3 Mid,B
+MV-INT-KND-005-10,Cracking Downward Knuckle,Brawn Brassring,F2,Warrior L3 Mid,B
+MV-INT-KND-006-01,Late Cross Counter,Brawn Knuckleplate,F2,Warrior L5 High,B
+MV-INT-KND-006-02,Slip and Brass Return,Veering Fistbar,F1,Warrior L5 High,B
+MV-INT-KND-006-03,Outer Forearm Counter Turn,Haze Knuckleridge,F2,Warrior L5 High,B
+MV-INT-KND-006-04,Counter Cover Roll,Knuckbuckle,F4,Warrior L5 High,B
+MV-INT-KND-006-05,Bait Hand Tap,Hum Uppercut,F2,Warrior L5 High,B
+MV-INT-KND-006-06,Counter Pulse Straight,Ember Hooking,F2,Warrior L5 High,B
+MV-INT-KND-006-07,Low Feint High Hook,Clutching Haymaker,F1,Warrior L5 High,B
+MV-INT-KND-007-01,Boss Line Probe,Keen Brawl,F1,Warrior L7 Mid,B
+MV-INT-KND-007-02,Point-Shoulder Jab,Bandarch Scorer,F3,Warrior L7 Mid,B
+MV-INT-KND-007-03,Boss Slip Parry,Dense Brassrim,F1,Warrior L7 Mid,B
+MV-INT-KND-007-04,Point Hold Guard,Regimen Ringband,F2,Warrior L7 Mid,B
+MV-INT-KND-007-05,Short Boss Step,Grit Haymaker,F2,Warrior L7 Mid,B
+MV-INT-KND-007-06,Knuckle Bone Rap,Binding Bandarch,F1,Warrior L7 Mid,B
+MV-INT-KND-007-07,Qi-Set Boss Bore,Acrid Uppercut,F1,Warrior L7 Mid,B
+MV-INT-KND-007-08,Between-Rib Boss Seat,Brassslab,F5,Warrior L7 Mid,B
+MV-INT-KND-008-01,Rolling Ring Jab,Crimson Knuckleplate,F2,Warrior L9 High,B
+MV-INT-KND-008-02,Wheel Hook Cross,Honedring,F5,Warrior L9 High,B
+MV-INT-KND-008-03,Roll Under Parry,Padded Handfill,F1,Warrior L9 High,B
+MV-INT-KND-008-04,Wheel Step Out,Knockout Swerve,F3,Warrior L9 High,B
+MV-INT-KND-008-05,Rolling Guard Wheel,Shardknuck,F5,Warrior L9 High,B
+MV-INT-KND-008-06,Ring Spin Tap,Hum Brassring,F2,Warrior L9 High,B
+MV-INT-KND-008-07,Full Wheel Combination,Emberbrawl,F5,Warrior L9 High,B
+MV-INT-KND-008-08,Roll Past the Guard,Scudding Palmbar,F1,Warrior L9 High,B
+MV-INT-KND-008-09,Qi Wheel Unbalance,Brawlbuckle,F4,Warrior L9 High,B

@@ -1,0 +1,134 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-SLG-001-01,Paired-Hawk Stance Mirror,Cradlerespite,F4,Demigod L2 Low,B
+MV-ELI-SLG-001-02,Mated-Seat Pouch Pressing,Radiant Cordright,F1,Demigod L2 Low,B
+MV-ELI-SLG-001-03,Hawk-Wing Double Whirl,Shattering Slingstone,F1,Demigod L2 Low,B
+MV-ELI-SLG-001-04,Matched-Release Beat Count,Hoarfrost Fingerhitch,F2,Demigod L2 Low,B
+MV-ELI-SLG-001-05,Wingtip Cross-Line Throw,Titanic Cradle,F1,Demigod L2 Low,B
+MV-ELI-SLG-001-06,Talon-Paired Armour Rake,Glint Orbit,F2,Demigod L2 Low,B
+MV-ELI-SLG-001-07,Hawk's Glide Evasion Step,Siltslung,F5,Demigod L2 Low,B
+MV-ELI-SLG-001-08,Pair-Strike Visor Opener,Orbitruin,F4,Demigod L2 Low,B
+MV-ELI-SLG-001-09,Mirror-Pair Rain Sequence,Slingtether Devastation,F3,Demigod L2 Low,B
+MV-ELI-SLG-001-10,Two Hawks Closing the Sky,Slingscourge,F4,Demigod L2 Low,B
+MV-ELI-SLG-002-01,Basin-Crowd Spacing Read,Vigilant Wristhitch,F1,Demigod L5 Mid,B
+MV-ELI-SLG-002-02,Rank-Tempo Whirl Lead,Glintslung,F5,Demigod L5 Mid,B
+MV-ELI-SLG-002-03,Shared-Beat Release,Shattering Leadshot,F1,Demigod L5 Mid,B
+MV-ELI-SLG-002-04,Azure-Count Reload Chant,Vigilant Pouch,F1,Demigod L5 Mid,B
+MV-ELI-SLG-002-05,Belt-Pair Double Draw,Intentsling,F5,Demigod L5 Mid,B
+MV-ELI-SLG-002-06,Wave-Crest Volley Pulse,Ponderous Singing,F2,Demigod L5 Mid,B
+MV-ELI-SLG-002-07,Level-Basin Steady Rain,Gust Releasecord,F2,Demigod L5 Mid,B
+MV-ELI-SLG-002-08,Rank-Breaking Bunch Throw,Rumble Cordleft,F2,Demigod L5 Mid,B
+MV-ELI-SLG-002-09,Azure Torrent Barrage,Slag Slung,F2,Demigod L5 Mid,B
+MV-ELI-SLG-002-10,Sky-Darkening Stone Sequence,Multiplying Cordleft,F1,Demigod L5 Mid,B
+MV-ELI-SLG-002-11,Hailstorm of the Whole Basin,Cradlehavoc,F4,Demigod L5 Mid,B
+MV-ELI-SLG-003-01,River-Cord Left-Hand Draw,Resurgent Cradle,F1,Demigod L3 Low,B
+MV-ELI-SLG-003-02,Track-Beat Division Count,Energizing Wristhitch,F1,Demigod L3 Low,B
+MV-ELI-SLG-003-03,Opposed-Circle Dual Whirl,Pelt Devastation,F3,Demigod L3 Low,B
+MV-ELI-SLG-003-04,Track-Crossing Delayed Release,Pouchwrath,F4,Demigod L3 Low,B
+MV-ELI-SLG-003-05,Low-River High-Azure Split,Hoarfrost Stonepelt,F2,Demigod L3 Low,B
+MV-ELI-SLG-003-06,Cord-Weave Weapon Trap,Slung Spine,F3,Demigod L3 Low,B
+MV-ELI-SLG-003-07,Interleaved Track Sequence,Lotcradle,F5,Demigod L3 Low,B
+MV-ELI-SLG-003-08,Crossed-Cord Doorway Snare,Cradlevalor,F4,Demigod L3 Low,B
+MV-ELI-SLG-003-09,Two Rivers Converging Cast,Hollow Stonepelt,F2,Demigod L3 Low,B
+MV-ELI-SLG-004-01,Single-Stone Breath Gather,Daybreak Fingerhitch,F2,Demigod L8 High,B
+MV-ELI-SLG-004-02,Chosen-Weak-Point Gaze,Chimecradle,F5,Demigod L8 High,B
+MV-ELI-SLG-004-03,Patience Turn Slow Whirl,Chime Slingstone,F2,Demigod L8 High,B
+MV-ELI-SLG-004-04,Unhurried Release Wait,Gustpelt,F5,Demigod L8 High,B
+MV-ELI-SLG-004-05,Dead-Still Foot Plant,Daybreak Releasecord,F2,Demigod L8 High,B
+MV-ELI-SLG-004-06,Hawk-Eye Pulse Aim,Chime Pelt,F2,Demigod L8 High,B
+MV-ELI-SLG-004-07,Held-Breath Bone-Seeking Shot,Novapouch,F5,Demigod L8 High,B
+MV-ELI-SLG-004-08,Stone-Weight Qi Settling,Radiant Pouch,F1,Demigod L8 High,B
+MV-ELI-SLG-004-09,Eye-Closing Dazzle Throw,Reverie Cordright,F2,Demigod L8 High,B
+MV-ELI-SLG-004-10,Hawk Pinion Needle Cast,Facet Singing,F2,Demigod L8 High,B
+MV-ELI-SLG-004-11,Lone-Stone Arm Arrest,Ponderous Orbit,F2,Demigod L8 High,B
+MV-ELI-SLG-004-12,The One Stone Falls,Grievous Slingtether Scourge,F6b,Demigod L8 High,B
+MV-ELI-SLG-005-01,Curtain-Line Cord Sweep,Gust Leadshot,F2,Void God L2 Mid,B
+MV-ELI-SLG-005-02,Stone-Screen Spacing Count,Veritycradle,F5,Void God L2 Mid,B
+MV-ELI-SLG-005-03,Fan-Shaped Short Release,Titanic Pelt,F1,Void God L2 Mid,B
+MV-ELI-SLG-005-04,Basin-Edge Holding Stance,Healing Cordright,F1,Void God L2 Mid,B
+MV-ELI-SLG-005-05,Stone-Veil Rising Cast,Cradlemettle,F4,Void God L2 Mid,B
+MV-ELI-SLG-005-06,Counter-Volley Echo Throw,Facet Flingaway,F2,Void God L2 Mid,B
+MV-ELI-SLG-005-07,Screen-Mending Gap Fill,Charter Pouch,F2,Void God L2 Mid,B
+MV-ELI-SLG-005-08,Curtain-of-Stones Interception,Flintlike Slingtether,F1,Void God L2 Mid,B
+MV-ELI-SLG-005-09,Rain-Answering Return Sequence,Hour Wristhitch,F2,Void God L2 Mid,B
+MV-ELI-SLG-005-10,Curtain Fallen Upon the Foe,Unconquered Glint Releasecord,F6a,Void God L2 Mid,B
+MV-ELI-SLG-006-01,Closing-Pair Cord Gather,Mightpouch,F5,Void God L6 Low,B
+MV-ELI-SLG-006-02,Hip-Cinched Twin Loop,Vital Slingstone,F2,Void God L6 Low,B
+MV-ELI-SLG-006-03,Sky-River Opposed Whirl,Gust Slung,F2,Void God L6 Low,B
+MV-ELI-SLG-006-04,Mirrored-Hand Release,Cradle Reckoning,F3,Void God L6 Low,B
+MV-ELI-SLG-006-05,Pair-Step Pivot Turn,Peltblink,F4,Void God L6 Low,B
+MV-ELI-SLG-006-06,River-Cord Low Sweep,Cordleft Scourge,F3,Void God L6 Low,B
+MV-ELI-SLG-006-07,Sky-Cord High Lash,Vengeful Stonepelt,F1,Void God L6 Low,B
+MV-ELI-SLG-006-08,Crossed-Cord Capture,Fastening Leadshot,F2,Void God L6 Low,B
+MV-ELI-SLG-006-09,Twin-Pulse Echo,Blistering Cordleft,F1,Void God L6 Low,B
+MV-ELI-SLG-006-10,Sky-River Pinch Strike,Gust Slingtether,F2,Void God L6 Low,B
+MV-ELI-SLG-006-11,Twin-Cord Disarming Haul,Chime Singing,F2,Void God L6 Low,B
+MV-ELI-SLG-006-12,Paired Orbit Barrage,Silt Orbit,F2,Void God L6 Low,B
+MV-ELI-SLG-006-13,Sky and River Closed Upon One,Shattering Pouch,F1,Void God L6 Low,B
+MV-ELI-SLG-007-01,Bearing-Chalk Marking,Chime Releasecord,F2,Demigod L2 Mid,B
+MV-ELI-SLG-007-02,Plateau-Line Sight Draw,Remnant Wristhitch,F2,Demigod L2 Mid,B
+MV-ELI-SLG-007-03,Taken-Bearing Whirl,Decimating Orbit,F1,Demigod L2 Mid,B
+MV-ELI-SLG-007-04,Oath-Word Release Timing,Flingaway Scourge,F3,Demigod L2 Mid,B
+MV-ELI-SLG-007-05,Gust-Fall Step Trim,Might Slung,F2,Demigod L2 Mid,B
+MV-ELI-SLG-007-06,Held-Bearing Pulse Throw,Rampaging Slingstone,F1,Demigod L2 Mid,B
+MV-ELI-SLG-007-07,Cross-Gale Offset Cast,Decimating Singing,F1,Demigod L2 Mid,B
+MV-ELI-SLG-007-08,Bearing-Locked Rider Throw,Tempered Fingerhitch,F2,Demigod L2 Mid,B
+MV-ELI-SLG-007-09,Plateau-Breadth Bearing Volley,Ponderous Pelt,F2,Demigod L2 Mid,B
+MV-ELI-SLG-007-10,Oath-True Distant Strike,Ruinous Flingaway,F1,Demigod L2 Mid,B
+MV-ELI-SLG-007-11,The Bearing Kept to the Last,Hollow Leadshot,F2,Demigod L2 Mid,B
+MV-ELI-SLG-008-01,Gale-Sworn Cord Dedication,Intent Cordright,F2,Demigod L4 Low,B
+MV-ELI-SLG-008-02,Sworn-Wind Whirl Entry,Releasecord Scourge,F3,Demigod L4 Low,B
+MV-ELI-SLG-008-03,Oath-Cut Clean Release,Punishing Stonepelt,F1,Demigod L4 Low,B
+MV-ELI-SLG-008-04,Wind-Sworn Rising Pulse,Hoarfrost Orbit,F2,Demigod L4 Low,B
+MV-ELI-SLG-008-05,Gale-Backed Lash Throw,Blaze Fingerhitch,F2,Demigod L4 Low,B
+MV-ELI-SLG-008-06,Sworn-Line Weapon Snare,Harnessing Cradle,F1,Demigod L4 Low,B
+MV-ELI-SLG-008-07,Gale-Carried Spiral Slug,Grievous Pouch,F1,Demigod L4 Low,B
+MV-ELI-SLG-008-08,Oath-of-Three-Winds Sequence,Doctrine Cradle,F2,Demigod L4 Low,B
+MV-ELI-SLG-008-09,Storm-Sworn Stone Descends,Unsparing Pelt,F1,Demigod L4 Low,B
+MV-ELI-SLG-009-01,Wide-Open Ground Reading,Waningsling,F5,Demigod L6 High,B
+MV-ELI-SLG-009-02,Spread-Line Whirl Cadence,Mangling Stonepelt,F1,Demigod L6 High,B
+MV-ELI-SLG-009-03,Loose-Order Release,Glint Cordleft,F2,Demigod L6 High,B
+MV-ELI-SLG-009-04,No-Cover Sidestep Habit,Flingaway Glimmer,F3,Demigod L6 High,B
+MV-ELI-SLG-009-05,Open-Volley Sweep Pulse,Shattering Singing,F1,Demigod L6 High,B
+MV-ELI-SLG-009-06,Gale-Flank Wheeling Cast,Titanic Leadshot,F1,Demigod L6 High,B
+MV-ELI-SLG-009-07,Cover-Stripping Rock Spray,Hourcradle,F5,Demigod L6 High,B
+MV-ELI-SLG-009-08,No-Walls Cavalry Breaker,Downpour Cordright,F2,Demigod L6 High,B
+MV-ELI-SLG-009-09,Open-Plain Rolling Sequence,Intent Wristhitch,F2,Demigod L6 High,B
+MV-ELI-SLG-009-10,The Open Sky Refuses a Wall,Siltsling,F5,Demigod L6 High,B
+MV-ELI-SLG-010-01,Wet-Finger Gust Test,Waning Slingtether,F2,Void God L1 Low,B
+MV-ELI-SLG-010-02,Streamer-Cord Drift Read,Slingrespite,F4,Void God L1 Low,B
+MV-ELI-SLG-010-03,Offset-Mark Aim Shift,Radiant Fingerhitch,F1,Void God L1 Low,B
+MV-ELI-SLG-010-04,Crosswind Whirl Lean,Chime Stonepelt,F2,Void God L1 Low,B
+MV-ELI-SLG-010-05,Breath-Matched Letgo,Facetcradle,F5,Void God L1 Low,B
+MV-ELI-SLG-010-06,Gust-Window Pulse Cast,Slingstone Reckoning,F3,Void God L1 Low,B
+MV-ELI-SLG-010-07,Bending-Air Curve Throw,Hoarfrost Slung,F2,Void God L1 Low,B
+MV-ELI-SLG-010-08,Dead-Air Pocket Shot,Facet Pouch,F2,Void God L1 Low,B
+MV-ELI-SLG-010-09,Gale-Riding Skip Throw,Peltruin,F4,Void God L1 Low,B
+MV-ELI-SLG-010-10,Wind-Taken Mark Descent,Slungruin,F4,Void God L1 Low,B
+MV-ELI-SLG-010-11,Storm-Corrected Triple Cast,Lotsling,F5,Void God L1 Low,B
+MV-ELI-SLG-010-12,The Wind Delivers the Stone,Tempered Slingtether,F2,Void God L1 Low,B
+MV-ELI-SLG-011-01,Edge-Rider Crouch Perch,Pouchvigil,F4,Void God L4 High,B
+MV-ELI-SLG-011-02,Cliff-Foot Grip Settling,Might Leadshot,F2,Void God L4 High,B
+MV-ELI-SLG-011-03,Under-Edge Hanging Whirl,Rumblesling,F5,Void God L4 High,B
+MV-ELI-SLG-011-04,Drop-Line Aim Fix,Illuminating Slingstone,F1,Void God L4 High,B
+MV-ELI-SLG-011-05,Ledge-Roll Descent Step,Dazzling Orbit,F1,Void God L4 High,B
+MV-ELI-SLG-011-06,Under-Edge Rising Throw,Ferocious Fingerhitch,F1,Void God L4 High,B
+MV-ELI-SLG-011-07,Edge-Dive Pulse Release,Devastating Singing,F1,Void God L4 High,B
+MV-ELI-SLG-011-08,Climber-Hand Pin Cast,Ponderous Releasecord,F2,Void God L4 High,B
+MV-ELI-SLG-011-09,Cliffside Stone Avalanche,Cradle Devastation,F3,Void God L4 High,B
+MV-ELI-SLG-011-10,Rider's Falling Return Strike,Lot Cordright,F2,Void God L4 High,B
+MV-ELI-SLG-011-11,The Edge Takes Back What Climbs,Punishing Blaze Slung,F6a,Void God L4 High,B
+MV-ELI-SLG-012-01,Unmissed-Mark Eye Oath,Verity Wristhitch,F2,True God L1 Low,B
+MV-ELI-SLG-012-02,Slow-Count Sworn Whirl,Slungscourge,F4,True God L1 Low,B
+MV-ELI-SLG-012-03,Oath-Fixed Release Hand,Blazesling,F5,True God L1 Low,B
+MV-ELI-SLG-012-04,Shot-Bag Even Weight,Daybreak Cordleft,F2,True God L1 Low,B
+MV-ELI-SLG-012-05,Plateau-Oath Pulse Seat,Wristhitch Respite,F3,True God L1 Low,B
+MV-ELI-SLG-012-06,Sworn-Bearing Corrective Loose,Slunghavoc,F4,True God L1 Low,B
+MV-ELI-SLG-012-07,Oath-Pinned Fleeing Shot,Pitiless Slingtether,F1,True God L1 Low,B
+MV-ELI-SLG-012-08,Unmissed Stone Chain,Lotslung,F5,True God L1 Low,B
+MV-ELI-SLG-012-09,Sworn Stone Lance,Tempered Slung,F2,True God L1 Low,B
+MV-ELI-SLG-012-10,The Oath Fulfilled in Stone,Glintpouch,F5,True God L1 Low,B
+MV-ELI-SLG-003-09,Hollow Stonepelt,Rending Stonepelt,F2,Demigod L3 Low,B
+MV-ELI-SLG-004-12,Grievous Slingtether Scourge,Grievous Slingtether,F6b,Demigod L8 High,B
+MV-ELI-SLG-005-10,Unconquered Glint Releasecord,Unconquered Releasecord,F6a,Void God L2 Mid,B
+MV-ELI-SLG-007-11,Hollow Leadshot,Searing Leadshot,F2,Demigod L2 Mid,B
+MV-ELI-SLG-011-11,Punishing Blaze Slung,Punishing Slung,F6a,Void God L4 High,B

@@ -1,0 +1,143 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-MET-001-01,Court Stance Weight Raise,Squall Weighttip,F2,Warrior,B
+MV-SIG-MET-001-02,Court Cord Salute Parry,Stately Meteorhead,F1,Warrior,B
+MV-SIG-MET-001-03,Court Pace Advance,Vigor Tailstone,F2,Warrior,B
+MV-SIG-MET-001-04,Court Orbit Opening,Bedrock Gyre,F2,Warrior,B
+MV-SIG-MET-001-05,Salute Cord Binding,Thrallplumb,F5,Warrior,B
+MV-SIG-MET-001-06,Courtyard Sweep Cut,Plumbtriumph,F4,Warrior,B
+MV-SIG-MET-001-07,Court Orbit Reversal Counter,Pealcable,F5,Warrior,B
+MV-SIG-MET-001-08,Azure Court Plummet,Vacuumplumb,F5,Champion,B
+MV-SIG-MET-001-09,Court Net of Cord,Dune Loopend,F2,Champion,B
+MV-SIG-MET-001-10,Grand Court Meteor Drop,Steelcable,F5,Demigod,B
+MV-SIG-MET-001-11,Azure Court Closing Orbit,Lordly Vigor Weightneck,F6a,Warrior,B
+MV-SIG-MET-002-01,Twin-Cord Hawk Raise,Matchless Revolve,F1,Warrior,B
+MV-SIG-MET-002-02,Descent Angle Footwork,Vigor Ropehead,F2,Warrior,B
+MV-SIG-MET-002-03,Hawk Talon Cord Flick,Pealwhorl,F5,Warrior,B
+MV-SIG-MET-002-04,Paired Strand Guard,Sanctum Orbitband,F2,Warrior,B
+MV-SIG-MET-002-05,Hawk Descent Weight Drop,Cabletriumph,F4,Warrior,B
+MV-SIG-MET-002-06,Twin-Strand Wrist Snare,Longrope Reliquary,F3,Warrior,B
+MV-SIG-MET-002-07,Talon Cord Pull-Down,Millstone Reelback,F2,Warrior,B
+MV-SIG-MET-002-08,Hawk Pass Counter-Cut,Undaunted Ropehead,F1,Warrior,B
+MV-SIG-MET-002-09,Twin Strand Stoop Pierce,Steel Dropweight,F2,Champion,B
+MV-SIG-MET-002-10,Hawk Pair Pursuit Chase,Thunderclap Longrope,F2,Champion,B
+MV-SIG-MET-002-11,Twin-Cord Hawk Eclipse,Heroic Plummet,F1,Demigod,B
+MV-SIG-MET-002-12,Hawk Descent Final Pair,Haemal Spinout,F2,Warrior,B
+MV-SIG-MET-003-01,Basin Shelf Weight Drag,Steelplumb,F5,Champion,B
+MV-SIG-MET-003-02,Syllabus Cord Block,Revered Cordsplice,F1,Champion,B
+MV-SIG-MET-003-03,Basin Edge Footing,Dropweight Voyage,F3,Champion,B
+MV-SIG-MET-003-04,Basin Wide Hammer Arc,Noble Reelback,F1,Champion,B
+MV-SIG-MET-003-05,Silted Cord Entangle,Millstone Orbitband,F2,Champion,B
+MV-SIG-MET-003-06,Basin Echo Counter Swing,Peal Meteorhead,F2,Champion,B
+MV-SIG-MET-003-07,Basin Pour Weight Crush,Inferno Slingshot,F2,Champion,B
+MV-SIG-MET-003-08,Basin Drain Cord Pull,Sigil Slingshot,F2,Champion,B
+MV-SIG-MET-003-09,Brimming Basin Meteor,Bedrock Spinout,F2,Demigod,B
+MV-SIG-MET-003-10,Basin Closing Whirl,Vaunted Plummet Decree,F6b,Champion,B
+MV-SIG-MET-004-01,Iron Sweep Opening Swing,Squall Weightneck,F2,Ruler,B
+MV-SIG-MET-004-02,Dual Sweep Footwork,Bedrock Tailstone,F2,Ruler,B
+MV-SIG-MET-004-03,Sweep Parry Cord,Deluge Loopend,F2,Ruler,B
+MV-SIG-MET-004-04,Low-Track High-Track Feint,Unbending Orbitband,F1,Ruler,B
+MV-SIG-MET-004-05,Iron Sweep Crushing Pass,Triumphant Revolve,F1,Ruler,B
+MV-SIG-MET-004-06,Dual Sweep Hook Pull,Sigilplumb,F5,Ruler,B
+MV-SIG-MET-004-07,Sweep Rebound Reverse,Bedrock Plummet,F2,Ruler,B
+MV-SIG-MET-004-08,Twin Track Pressure Line,Fearless Ropehead,F1,Ruler,B
+MV-SIG-MET-004-09,Dual-Track Sweep Surge,Sovereign Cordsplice,F1,Ruler,B
+MV-SIG-MET-004-10,Iron Sweep Breaking Strike,Pulsar Slingshot,F2,Ruler,B
+MV-SIG-MET-004-11,Pair of Sweeps Unbroken,Storied Gyre,F1,Demigod,B
+MV-SIG-MET-004-12,Iron Sweep Court Finish,Noble Steel Weighttip,F6a,Ruler,B
+MV-SIG-MET-005-01,River Hawk Opening Cast,Steelponderer,F5,Demigod,B
+MV-SIG-MET-005-02,Codex Cord Guard,Prismcable,F5,Demigod,B
+MV-SIG-MET-005-03,Hammer Reach Skip,Dune Weighttip,F2,Demigod,B
+MV-SIG-MET-005-04,River Hawk Orbit Strike,Gallant Meteorhead,F1,Demigod,B
+MV-SIG-MET-005-05,Hawk Over River Binding,Millstone Spinout,F2,Demigod,B
+MV-SIG-MET-005-06,Ford Crossing Counter,Deluge Dropweight,F2,Demigod,B
+MV-SIG-MET-005-07,Rising Current Disruption,Weightneck Covenant,F3,Demigod,B
+MV-SIG-MET-005-08,River Hawk Dive Pierce,Reelback Crown,F3,Demigod,B
+MV-SIG-MET-005-09,Hawk and River Weight Rain,Tempestuous Cordsplice,F2,Demigod,B
+MV-SIG-MET-005-10,River Mouth Hawk Descent,Squall Revolve,F2,Demigod,B
+MV-SIG-MET-005-11,River and Hawk Closing Descent,Peerless Haemal Gyre,F6a,Demigod,B
+MV-SIG-MET-006-01,Azure Weight Foundation Swing,Cablecrown,F4,Core Formation,B
+MV-SIG-MET-006-02,Azure Sky Cord Parry,Deluge Longrope,F2,Core Formation,B
+MV-SIG-MET-006-03,Foundation Walk Step,Squall Slingshot,F2,Core Formation,B
+MV-SIG-MET-006-04,Azure Core Orbit Strike,Plumbbanner,F4,Core Formation,B
+MV-SIG-MET-006-05,Core Cord Wrap,Glacier Loopend,F2,Core Formation,B
+MV-SIG-MET-006-06,Azure Counter Whirl,Tailstone Covenant,F3,Core Formation,B
+MV-SIG-MET-006-07,Core-Fed Meteor Pierce,Pulsarponderer,F5,Core Formation,B
+MV-SIG-MET-006-08,Core Orbit Tempest,Duneplumb,F5,Core Formation,B
+MV-SIG-MET-006-09,Core-Heavy Azure Plummet,Exalted Gyre,F1,Core Formation,B
+MV-SIG-MET-006-10,Azure Weight Complete Descent,Thunderclap Spinout,F2,Core Formation,B
+MV-SIG-MET-007-01,Sworn First Wind Cast,Vigorcable,F5,Warrior,B
+MV-SIG-MET-007-02,Oath Cord Guard,Hornbeam Orbitband,F2,Warrior,B
+MV-SIG-MET-007-03,Wind Foot Advance,Twilit Ropehead,F1,Warrior,B
+MV-SIG-MET-007-04,Bearing Hold Tap,Venom Tailstone,F2,Warrior,B
+MV-SIG-MET-007-05,Wind-Sworn Orbit Opening,Inferno Meteorhead,F2,Warrior,B
+MV-SIG-MET-007-06,Oath Cord Binding,Sigilwhorl,F5,Warrior,B
+MV-SIG-MET-007-07,Gale Sweep Cut,Magmaponderer,F5,Warrior,B
+MV-SIG-MET-007-08,Wind Reversal Counter,Delugewhorl,F5,Warrior,B
+MV-SIG-MET-007-09,Wind-Sworn Plummet,Thunderclap Reelback,F2,Champion,B
+MV-SIG-MET-007-10,Gale Cord Trap Line,Cableseal,F4,Champion,B
+MV-SIG-MET-007-11,Sworn Wind Hammer Fall,Gyreedict,F4,Demigod,B
+MV-SIG-MET-007-12,Wind-Sworn Weight Closing Oath,Vigorwhorl,F5,Warrior,B
+MV-SIG-MET-008-01,Plateau Oath Swing,Haemal Loopend,F2,Warrior,B
+MV-SIG-MET-008-02,Syllabus Cord Parry,Pall Longrope,F2,Warrior,B
+MV-SIG-MET-008-03,Plateau Edge Footwork,Vigor Weighttip,F2,Warrior,B
+MV-SIG-MET-008-04,Oath Cord Hook,Glacier Dropweight,F2,Warrior,B
+MV-SIG-MET-008-05,Plateau Wind Orbit,Inferno Cordsplice,F2,Warrior,B
+MV-SIG-MET-008-06,Edge Reversal Counter,Peal Orbitband,F2,Warrior,B
+MV-SIG-MET-008-07,Plateau Oath Weight Pierce,Royal Weightneck,F1,Champion,B
+MV-SIG-MET-008-08,Oath Cord Pull Haul,Sigilgyre,F5,Champion,B
+MV-SIG-MET-008-09,Plateau Oath Falling Star,Squall Reelback,F2,Demigod,B
+MV-SIG-MET-008-10,Plateau Oath Closing Fall,Steel Plummet,F2,Warrior,B
+MV-SIG-MET-009-01,Bearing Hammer Opening Cast,Haemalponderer,F5,Champion,B
+MV-SIG-MET-009-02,Third Course Cord Guard,Hornbeam Weighttip,F2,Champion,B
+MV-SIG-MET-009-03,Bearing-Keeping Slide Step,Squall Dropweight,F2,Champion,B
+MV-SIG-MET-009-04,Bearing Hammer Orbit Cut,Ropehead Banner,F3,Champion,B
+MV-SIG-MET-009-05,Held Line Cord Lock,Sigil Meteorhead,F2,Champion,B
+MV-SIG-MET-009-06,Bearing Break Disruption,Revolve Covenant,F3,Champion,B
+MV-SIG-MET-009-07,Quarter-Bearing Counter Turn,Tailstone Pledge,F3,Champion,B
+MV-SIG-MET-009-08,Bearing Hammer Pierce Cast,Spinout Decree,F3,Champion,B
+MV-SIG-MET-009-09,Bearing Line Barrage,Gyre Verdict,F3,Champion,B
+MV-SIG-MET-009-10,Hammer Dropped on the Bearing,Squall Plummet,F2,Demigod,B
+MV-SIG-MET-009-11,Third Course Bearing Closing,Haemal Revolve,F2,Champion,B
+MV-SIG-MET-010-01,Gale-Cast Opening Throw,Haemal Slingshot,F2,Ruler,B
+MV-SIG-MET-010-02,Iron Cord Brace,Hornbeam Loopend,F2,Ruler,B
+MV-SIG-MET-010-03,Gale-Shouldered Long Stride,Squall Longrope,F2,Ruler,B
+MV-SIG-MET-010-04,Gale-Cast Orbit Crush,Vigor Cordsplice,F2,Ruler,B
+MV-SIG-MET-010-05,Gale Lasso Wrap,Sigil Revolve,F2,Ruler,B
+MV-SIG-MET-010-06,Gale Turning Counter,Pealponderer,F5,Ruler,B
+MV-SIG-MET-010-07,Cast-Line Suppression,Triumphant Longrope,F1,Ruler,B
+MV-SIG-MET-010-08,Gale-Cast Pierce,Plumbcrown,F4,Ruler,B
+MV-SIG-MET-010-09,Gale Wake Iron Rain,Tempestuous Weighttip,F2,Ruler,B
+MV-SIG-MET-010-10,Gale-Cast Comet Strike,Royal Ropehead,F1,Demigod,B
+MV-SIG-MET-010-11,Gale-Cast Iron Closing,Vigor Reelback,F2,Ruler,B
+MV-SIG-MET-011-01,Sworn Wind Codex Cast,Thunderclap Loopend,F2,Void God,B
+MV-SIG-MET-011-02,Wind Codex Guard,Prismponderer,F5,Void God,B
+MV-SIG-MET-011-03,Sworn Footwork Bearing,Whorlodyssey,F4,Void God,B
+MV-SIG-MET-011-04,Codex Cord Probe,Eclipse Meteorhead,F2,Void God,B
+MV-SIG-MET-011-05,Sworn Wind Orbit Smash,Steel Orbitband,F2,Void God,B
+MV-SIG-MET-011-06,Wind Codex Binding,Slingshot Vow,F3,Void God,B
+MV-SIG-MET-011-07,Sworn Counter Whirl,Immaculate Tailstone,F1,Void God,B
+MV-SIG-MET-011-08,Wind Codex Pressure Line,Gyretriumph,F4,Void God,B
+MV-SIG-MET-011-09,Sworn Wind Pierce,Radiance Weightneck,F2,Void God,B
+MV-SIG-MET-011-10,Codex Storm Orbit,Magmagyre,F5,Void God,B
+MV-SIG-MET-011-11,Sworn Wind Meteor Descent,Vigor Gyre,F2,Void God,B
+MV-SIG-MET-011-12,Meteor Codex Closing Vow,Majestic Inferno Weightneck,F6a,Void God,B
+MV-SIG-MET-012-01,Whole Gale Opening Swing,Unrivaled Weighttip,F1,Core Formation,B
+MV-SIG-MET-012-02,Gale Taught Cord Parry,Faithful Orbitband,F1,Core Formation,B
+MV-SIG-MET-012-03,Whole Bearing Step,Loopend Odyssey,F3,Core Formation,B
+MV-SIG-MET-012-04,Gale Core Orbit Crush,Famed Slingshot,F1,Core Formation,B
+MV-SIG-MET-012-05,Core Gale Cord Wrap,Ruling Spinout,F1,Core Formation,B
+MV-SIG-MET-012-06,Taught Counter Reversal,Pallcable,F5,Core Formation,B
+MV-SIG-MET-012-07,Core-Driven Gale Pierce,Prismwhorl,F5,Core Formation,B
+MV-SIG-MET-012-08,Whole Gale Orbit Storm,Dunewhorl,F5,Core Formation,B
+MV-SIG-MET-012-09,Whole Gale Hammerfall,Gyre Banner,F3,Core Formation,B
+MV-SIG-MET-012-10,Gale Weight Whole Closing Fall,Vaunted Vigor Dropweight,F6a,Core Formation,B
+MV-SIG-MET-001-09,Dune Loopend,Catching Loopend,F2,Champion,B
+MV-SIG-MET-002-04,Sanctum Orbitband,Solid Orbitband,F2,Warrior,B
+MV-SIG-MET-005-03,Dune Weighttip,Deft Weighttip,F2,Demigod,B
+MV-SIG-MET-006-05,Glacier Loopend,Cording Loopend,F2,Core Formation,B
+MV-SIG-MET-007-02,Hornbeam Orbitband,Stolid Orbitband,F2,Warrior,B
+MV-SIG-MET-008-04,Glacier Dropweight,Lashing Dropweight,F2,Warrior,B
+MV-SIG-MET-009-02,Hornbeam Weighttip,Sound Weighttip,F2,Champion,B
+MV-SIG-MET-010-02,Hornbeam Loopend,Sturdy Loopend,F2,Ruler,B
+MV-SIG-MET-006-08,Duneplumb,Rakeplumb,F5,Core Formation,B
+MV-SIG-MET-012-08,Dunewhorl,Reapwhorl,F5,Core Formation,B

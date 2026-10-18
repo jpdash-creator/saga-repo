@@ -1,0 +1,212 @@
+[
+ {
+  "domain": "Canon Governance and Audit",
+  "authority_part": 1,
+  "authority_tier": 0,
+  "sub_domains": "Authority tiers, domain routing, conflict resolution, audit law, ledger law, commands law, CCIA"
+ },
+ {
+  "domain": "Meta-Canon Knowledge Graph + NSA",
+  "authority_part": 34,
+  "authority_tier": 0,
+  "sub_domains": "Inter-Part relationships, entity registry, CCIA run log, NSA framework"
+ },
+ {
+  "domain": "Novel Structure and Prose Standards",
+  "authority_part": 2,
+  "authority_tier": 1,
+  "sub_domains": "Phase/Section/Part/Chapter/Area/Prose hierarchy; prose depth mandate; closure rules"
+ },
+ {
+  "domain": "Cultivation Realm System",
+  "authority_part": 3,
+  "authority_tier": 1,
+  "sub_domains": "All cultivation realms, breakthrough conditions, realm classification, realm names"
+ },
+ {
+  "domain": "Cultivation Energy System",
+  "authority_part": 4,
+  "authority_tier": 1,
+  "sub_domains": "CPM (Cultivation Point Metric), energy grades, energy types, energy cycling"
+ },
+ {
+  "domain": "Combat Law",
+  "authority_part": 5,
+  "authority_tier": 1,
+  "sub_domains": "All forms of combat resolution, weapon discharge rules, psych-state modifiers, rank authority"
+ },
+ {
+  "domain": "Move Taxonomy",
+  "authority_part": 6,
+  "authority_tier": 1,
+  "sub_domains": "Named Move classification, skill tiers, move registration"
+ },
+ {
+  "domain": "Fusion Law",
+  "authority_part": 7,
+  "authority_tier": 1,
+  "sub_domains": "Cultivation-Technology fusion mechanics, hybrid techniques"
+ },
+ {
+  "domain": "Technology Scale",
+  "authority_part": 8,
+  "authority_tier": 1,
+  "sub_domains": "Technology tier system (Tiers 1–20), Type 8 domain levels, weapon tier source"
+ },
+ {
+  "domain": "Spiritual/Soul System",
+  "authority_part": 9,
+  "authority_tier": 1,
+  "sub_domains": "Soul structure, spiritual sense, soul-based cultivation"
+ },
+ {
+  "domain": "Body Cultivation System",
+  "authority_part": 10,
+  "authority_tier": 1,
+  "sub_domains": "Physical body cultivation, body refinement tiers"
+ },
+ {
+  "domain": "Cultivation Energy Resource Law",
+  "authority_part": 11,
+  "authority_tier": 1,
+  "sub_domains": "CPM Grade 1–20, energy resource types, Heavenly Scale Grade 1–17"
+ },
+ {
+  "domain": "Energy Relics and Artifacts",
+  "authority_part": 12,
+  "authority_tier": 1,
+  "sub_domains": "Named relic governance, artifact tiers, formation arrays, Soul Bond rules"
+ },
+ {
+  "domain": "World Systems and Location",
+  "authority_part": 13,
+  "authority_tier": 1,
+  "sub_domains": "All location tiers (Village through Galaxy), Three Universal Axes, Sacred Ground, Void Zones"
+ },
+ {
+  "domain": "Cosmic Measurement System",
+  "authority_part": 14,
+  "authority_tier": 1,
+  "sub_domains": "CMS real-world metric units, astronomical units, weapon range (authoritative)"
+ },
+ {
+  "domain": "Travel Law",
+  "authority_part": 15,
+  "authority_tier": 1,
+  "sub_domains": "All movement and travel mechanics across all scales"
+ },
+ {
+  "domain": "Character Classification",
+  "authority_part": 16,
+  "authority_tier": 1,
+  "sub_domains": "What constitutes a character, character tiers, Classification fields, Ledger routing"
+ },
+ {
+  "domain": "Hero Law",
+  "authority_part": 17,
+  "authority_tier": 1,
+  "sub_domains": "Main protagonist governance, hero arc structure, ledger-character-hero"
+ },
+ {
+  "domain": "Villain Law",
+  "authority_part": 18,
+  "authority_tier": 1,
+  "sub_domains": "Main antagonist governance, villain psychological archetypes, ledger-character-villain"
+ },
+ {
+  "domain": "Side Character Law",
+  "authority_part": 19,
+  "authority_tier": 1,
+  "sub_domains": "Side character tiers A/B/C, Mentor Death Law, ledger-character-side"
+ },
+ {
+  "domain": "Ideology Law",
+  "authority_part": 20,
+  "authority_tier": 1,
+  "sub_domains": "Ideology Instability State (IS-state), IE events, Ideology Ledger Section 4"
+ },
+ {
+  "domain": "Civilization Law",
+  "authority_part": 21,
+  "authority_tier": 1,
+  "sub_domains": "Civilization classification, CTD (Civilization Tier Designation) ladder (CCT-1 Subsistence through CCT-20 Absolute), civilization Ledger; EA axis authority"
+ },
+ {
+  "domain": "Faction Law",
+  "authority_part": 22,
+  "authority_tier": 1,
+  "sub_domains": "Faction classification, faction CS%/TS% reference ranges, SII"
+ },
+ {
+  "domain": "Affiliation Law",
+  "authority_part": 23,
+  "authority_tier": 1,
+  "sub_domains": "Character-to-faction/civilization bonds, affiliation mechanics"
+ },
+ {
+  "domain": "Information and Secrecy Law",
+  "authority_part": 24,
+  "authority_tier": 1,
+  "sub_domains": "Information tiers, secrecy doctrine, intelligence assets, Tier I Sovereign Secrets"
+ },
+ {
+  "domain": "Culture and Social Law",
+  "authority_part": 25,
+  "authority_tier": 1,
+  "sub_domains": "Cultural expression, social hierarchy, cultural markers"
+ },
+ {
+  "domain": "Psychological Law",
+  "authority_part": 26,
+  "authority_tier": 1,
+  "sub_domains": "PIS-state, psychological arc phases, combat psych modifiers"
+ },
+ {
+  "domain": "Consequence Law",
+  "authority_part": 27,
+  "authority_tier": 1,
+  "sub_domains": "CSS arcs, consequence magnitude scale, consequence evasion"
+ },
+ {
+  "domain": "Creative Flexibility Law",
+  "authority_part": 28,
+  "authority_tier": 1,
+  "sub_domains": "Negotiable vs. Locked Canon, Tier 1/Tier 2 flexibility, prose-to-Base-Info conversion"
+ },
+ {
+  "domain": "Dialogue and Social Interaction",
+  "authority_part": 29,
+  "authority_tier": 1,
+  "sub_domains": "Dialogue standards, social interaction mechanics"
+ },
+ {
+  "domain": "Novel Macro Story Law",
+  "authority_part": 30,
+  "authority_tier": 1,
+  "sub_domains": "Phase-level arc mandates, Section-level story structure, Phase 1 End-State Locked Canon, protagonist arc mandates, pacing laws (P30-3, P30-L5), thematic pillar architecture, Narrative Motion Principle"
+ },
+ {
+  "domain": "Cultivation-Technology Synergy",
+  "authority_part": 31,
+  "authority_tier": 1,
+  "sub_domains": "CS%/TS% system, 10-band definitions, interaction zones, all entity CS%/TS% governance"
+ },
+ {
+  "domain": "Vehicle Law",
+  "authority_part": 32,
+  "authority_tier": 1,
+  "sub_domains": "Vehicle classification, CHV Class, vehicle Ledger"
+ },
+ {
+  "domain": "Weapon Law",
+  "authority_part": 33,
+  "authority_tier": 1,
+  "sub_domains": "Weapon classification, WS Class, weapon discharge rules, weapon Ledger"
+ },
+ {
+  "domain": "Ledger Schema Law",
+  "authority_part": 37,
+  "authority_tier": 1,
+  "sub_domains": "Schema templates for all ledger types; entity creation thresholds (C-1 through C-3, L-1, L-2, F-1, V-1, O-1 through O-3); ledger folder registry (17 folders); B vs L field classification rules; new type discovery protocol; schema amendment protocol"
+ }
+]

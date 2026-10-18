@@ -1,0 +1,73 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-BOS-001-01,Bo Level Centre Hold,Bogripwedge,F4,Unawakened,A
+MV-BAS-BOS-001-02,Sliding Bo Forward Jab,Blockstrike,F4,Unawakened,A
+MV-BAS-BOS-001-03,Bo Crown Drop,Open Balancenode,F1,Unawakened,A
+MV-BAS-BOS-001-04,Outside Bo Brush Parry,Bostipcowl,F4,Unawakened,A
+MV-BAS-BOS-001-05,Short Shuffle Behind the Bo,Bogrippace,F4,Unawakened,A
+MV-BAS-BOS-001-06,Heel-Turn Bo Backstep,Skipping Taperend,F1,Unawakened,A
+MV-BAS-BOS-002-01,Planted Bo Waking Stance,Planted Leftgrip,F1,Unawakened,A
+MV-BAS-BOS-002-02,Lead-Hand Bo Tap,Narrow Bogrip,F1,Unawakened,A
+MV-BAS-BOS-002-03,Diagonal Bo Cross Block,Bostiplid,F4,Unawakened,A
+MV-BAS-BOS-002-04,Feet-Together Bo Slide Retreat,Stepping Staffcentre,F1,Unawakened,A
+MV-BAS-BOS-002-05,Low Butt-End Rap,Plain Tipcap,F1,Unawakened,A
+MV-BAS-BOS-002-06,Wrist-Ring Bo Turn,Bostip Stay,F3,Unawakened,A
+MV-BAS-BOS-002-07,Bo Guard Reset Draw,Angled Roundstaff,F1,Unawakened,A
+MV-BAS-BOS-003-01,Plain Bo Sideways Hold,Angled Whitewood,F1,Muscle,A
+MV-BAS-BOS-003-02,Straight Bo Stab at the Belt,Bogripstrike,F4,Muscle,A
+MV-BAS-BOS-003-03,Rising Bo Under-Parry,Folded Whitewood,F1,Muscle,A
+MV-BAS-BOS-003-04,Wide-Footed Bo Side Step,Tipjab Dodge,F3,Muscle,A
+MV-BAS-BOS-003-05,Bo Double Tap Shoulder Strike,Gnawing Pivot,F1,Muscle,A
+MV-BAS-BOS-004-01,Long Bo Reach Guard,Holding Roundstaff,F1,Tendon,A
+MV-BAS-BOS-004-02,Full-Length Bo Lunge,Sudden Block,F1,Tendon,A
+MV-BAS-BOS-004-03,Low Bo Ankle Sweep,Pivotdash,F4,Tendon,A
+MV-BAS-BOS-004-04,Backhand Bo Sweep Return,Narrow Sweepstep,F1,Tendon,A
+MV-BAS-BOS-004-05,Bo Hand-Change Slide,Tight Taperend,F1,Tendon,A
+MV-BAS-BOS-004-06,Thrust-and-Withdraw Bo Pull,Pivothit,F4,Tendon,A
+MV-BAS-BOS-004-07,Bo Lean-Back Distance Step,Blockamble,F4,Tendon,A
+MV-BAS-BOS-004-08,Overhead Bo Cover Sweep,Resting Rightgrip,F1,Tendon,A
+MV-BAS-BOS-005-01,Bo Measured Distance Stance,Folded Bostip,F1,Bone,A
+MV-BAS-BOS-005-02,Bo Tip Probe to the Wrist,Tipjabdrop,F4,Bone,A
+MV-BAS-BOS-005-03,Closing-Pace Bo Advance,Skipping Block,F1,Bone,A
+MV-BAS-BOS-005-04,Bo Tip Wide Check,Tipcapstay,F4,Bone,A
+MV-BAS-BOS-005-05,Long-Reach Bo Rib Thrust,Sudden Sweepstep,F1,Bone,A
+MV-BAS-BOS-005-06,Rear-End Bo Reach Catch,Tipcaphusk,F4,Bone,A
+MV-BAS-BOS-006-01,Bo Yard-Line Ready Stance,Bostipwedge,F4,Skin,A
+MV-BAS-BOS-006-02,Partner-Matched Bo Jab,Downward Bogrip,F1,Skin,A
+MV-BAS-BOS-006-03,Bo Up-and-Over Cut,Bogriphit,F4,Skin,A
+MV-BAS-BOS-006-04,Bo Shaft-to-Shaft Press,Balancenode Pause,F3,Skin,A
+MV-BAS-BOS-006-05,Circle-Step Bo Orbit,Rightgrip Trot,F3,Skin,A
+MV-BAS-BOS-006-06,Bo Slap-Down Parry,Bogripcowl,F4,Skin,A
+MV-BAS-BOS-006-07,Bo Yard-End Salute Draw,Angled Leftgrip,F1,Skin,A
+MV-BAS-BOS-007-01,Qi-Warmed Bo Grip Hold,Solid Staffcentre,F1,Senior,A
+MV-BAS-BOS-007-02,Breath-Timed Bo Thrust,Wide Tipjab,F1,Senior,A
+MV-BAS-BOS-007-03,Gentle Bo Draw-Back Parry,Planted Balancenode,F1,Senior,A
+MV-BAS-BOS-007-04,Bo Step on Rising Qi,Shifting Bogrip,F1,Senior,A
+MV-BAS-BOS-007-05,Qi-Weighted Bo Chop,Wide Roll,F1,Senior,A
+MV-BAS-BOS-008-01,Slow-Breath Bo Ready Hold,Bogriplid,F4,Senior,A
+MV-BAS-BOS-008-02,Single Bo Wrist Spin,Tipcapwedge,F4,Senior,A
+MV-BAS-BOS-008-03,Bo Overhead Spin Cover,Bogrippause,F4,Senior,A
+MV-BAS-BOS-008-04,Bo Half-Spin Rear Strike,Quick Pivot,F1,Senior,A
+MV-BAS-BOS-008-05,Inhale-Drawn Bo Step Turn,Sideways Roll,F1,Senior,A
+MV-BAS-BOS-008-06,Figure-Eight Bo Sweep Guard,Tipcaplid,F4,Senior,A
+MV-BAS-BOS-008-07,Spinning Bo Tip Flick,Blockblow,F4,Senior,A
+MV-BAS-BOS-008-08,Bo Spin Wind-Down Hold,Lowered Tipcap,F1,Senior,A
+MV-BAS-BOS-009-01,Drillmaster Bo Command Stance,Holding Bostip,F1,Senior,A
+MV-BAS-BOS-009-02,Counted Bo Forward Thrust,Short Spinbreak,F1,Senior,A
+MV-BAS-BOS-009-03,Counted Bo Block and Return,Kept Leftgrip,F1,Senior,A
+MV-BAS-BOS-009-04,Marching Bo Footfall,Swaying Spinbreak,F1,Senior,A
+MV-BAS-BOS-009-05,Pressed-Beat Bo Sweep,Firm Rightgrip,F1,Senior,A
+MV-BAS-BOS-009-06,Bo Last-Count Stillness,Whitewood Stay,F3,Senior,A
+MV-BAS-BOS-010-01,Behind-the-Bo Angled Stance,Roundstaff Stay,F3,Senior,A
+MV-BAS-BOS-010-02,Qi-Light Bo Glide Step,Light Spinbreak,F1,Senior,A
+MV-BAS-BOS-010-03,Bo Angled Entry Thrust,Level Pivot,F1,Senior,A
+MV-BAS-BOS-010-04,Reversing Bo Pivot,Quiet Tipcap,F1,Senior,A
+MV-BAS-BOS-010-05,Bo Foot-Line Parry,Snug Taperend,F1,Senior,A
+MV-BAS-BOS-010-06,Slipping Bo Outside Step,Stepping Sweepstep,F1,Senior,A
+MV-BAS-BOS-010-07,Bo Rear-Foot Drive Jab,Short Roll,F1,Senior,A
+MV-BAS-BOS-011-01,First-Qi Bo Steady Hold,Settled Whitewood,F1,Senior,A
+MV-BAS-BOS-011-02,Qi-Fed Bo Tap Strike,Blockdash,F4,Senior,A
+MV-BAS-BOS-011-03,Bo Arm-Qi Cross Guard,Resting Taperend,F1,Senior,A
+MV-BAS-BOS-011-04,Bo Leg-Qi Short Advance,Staffcentre Amble,F3,Senior,A
+MV-BAS-BOS-011-05,Bo Shaft Qi Flick Parry,Angled Balancenode,F1,Senior,A
+MV-BAS-BOS-011-06,Bo Settled-Qi Recovery Hold,Bostip Husk,F3,Senior,A
+MV-BAS-BOS-002-05,Plain Tipcap,Quick Tipcap,F1,Unawakened,A

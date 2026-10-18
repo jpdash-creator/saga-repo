@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-character-p19-side-character-ideology",
+ "part": 19,
+ "area": 3,
+ "sequence_in_part": 3,
+ "title": "Side Character Ideology",
+ "domain": "character",
+ "source_file": "Part_19_Character_Side_Character_Law.md",
+ "start_line": 102,
+ "end_line": 119,
+ "line_count": 18,
+ "output_path": ".claude/skills/ssc-character-p19-side-character-ideology/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-character-p16-foundational-principles-character",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-technology",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-military-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-academic-scholarly-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-governance-administrative-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-commerce-resource-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-criminal-underground-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-location-civilization-context",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-power-equivalence-cultivation-vs-technology",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-KUK-001-01,Twin-Edge Hawk Pair Strike,Tempered Inwardcurve,F2,Demigod,B
+MV-ELI-KUK-001-02,Wing-Spread Parry Pair,Gust Hookbelly,F2,Demigod,B
+MV-ELI-KUK-001-03,Hook-Wing Entry,Suffocating Bulgeedge,F1,Demigod,B
+MV-ELI-KUK-001-04,Pair Hop Landing,Torrent Notch,F2,Demigod,B
+MV-ELI-KUK-001-05,Twin Weight Sense,Galvanizing Heavytip,F1,Demigod,B
+MV-ELI-KUK-001-06,Linked Field Double Chop,Tempered Lopstroke,F2,Demigod,B
+MV-ELI-KUK-001-07,Crossed Hawk Pinion Bind,Hoarfrost Gash,F2,Demigod,B
+MV-ELI-KUK-001-08,Alternating Dive Pressure,Ponderous Chip,F2,Demigod,B
+MV-ELI-KUK-001-09,Pinion Break Hew,Nova Horntang,F2,Demigod,B
+MV-ELI-KUK-001-10,Mirrored Wing Cutting Wheel,Merciless Kinkspine,F1,Demigod,B
+MV-ELI-KUK-001-11,Azure Hawk Falling Pair,Booming Rumble Forwardbelly,F6a,Demigod,B
+MV-ELI-KUK-002-01,Basin Reserve Chop,Blaze Pommelcap,F2,Demigod,B
+MV-ELI-KUK-002-02,Rim Guard Stop,Inexorable Horntang,F1,Demigod,B
+MV-ELI-KUK-002-03,Deep Stance Slide,Phantom Pommelcap,F1,Demigod,B
+MV-ELI-KUK-002-04,Reserve Depth Reading,Verity Cho,F2,Demigod,B
+MV-ELI-KUK-002-05,Slow Fill Heavy Chop,Blaze Whump,F2,Demigod,B
+MV-ELI-KUK-002-06,Overflow Rim Backcut,Rumbleslash,F5,Demigod,B
+MV-ELI-KUK-002-07,Settled Pool Brace,Kinkspine,F4,Demigod,B
+MV-ELI-KUK-002-08,Basin Draining Hew,Sanguine Chopmass,F2,Demigod,B
+MV-ELI-KUK-002-09,Walled Water Counter,Glint Hookbelly,F2,Demigod,B
+MV-ELI-KUK-002-10,Basin Well Overflowing Chop,Tempered Slash,F2,Demigod,B
+MV-ELI-KUK-003-01,Left-Track Guard Edge,Chimekink,F5,Demigod,B
+MV-ELI-KUK-003-02,Right-Track Cutting Edge,Rumblekink,F5,Demigod,B
+MV-ELI-KUK-003-03,Track Switch Hip Turn,Torrent Slash,F2,Demigod,B
+MV-ELI-KUK-003-04,Overlap Belly Hook,Overbearing Whump,F1,Demigod,B
+MV-ELI-KUK-003-05,Dual Pulse Feel,Heavytip Vigil,F3,Demigod,B
+MV-ELI-KUK-003-06,Guard-While-Cutting Rhythm,Gustkink,F5,Demigod,B
+MV-ELI-KUK-003-07,Split-Flow Hewing Pair,Sanguine Forwardbelly,F2,Demigod,B
+MV-ELI-KUK-003-08,Parallel Line Slip,Gust Chopmass,F2,Demigod,B
+MV-ELI-KUK-003-09,Twin Channel Overhead Fall,Tempered Notch,F2,Demigod,B
+MV-ELI-KUK-003-10,Track-Crossing Rending Cut,Irongash,F5,Demigod,B
+MV-ELI-KUK-003-11,Counter-Track Mirror Parry,Glintkink,F5,Demigod,B
+MV-ELI-KUK-003-12,Twin Qi Tracks Merged Edge,Eviscerating Cho,F1,Demigod,B
+MV-ELI-KUK-004-01,High Roost Chop,Gust Lopstroke,F2,Demigod,B
+MV-ELI-KUK-004-02,Feather Fall Slip,Gustchip,F5,Demigod,B
+MV-ELI-KUK-004-03,Azure Field Reading,Prescient Inwardcurve,F1,Demigod,B
+MV-ELI-KUK-004-04,Updraft Rising Cut,Berserk Bulgeedge,F1,Demigod,B
+MV-ELI-KUK-004-05,Wheel and Strike,Pitiless Lopstroke,F1,Demigod,B
+MV-ELI-KUK-004-06,Pinion Screen Block,Chospine,F4,Demigod,B
+MV-ELI-KUK-004-07,Long Stoop Cleaving Dive,Shattering Gash,F1,Demigod,B
+MV-ELI-KUK-004-08,Wing-Beat Retreat Sweep,Inwardcurve Devastation,F3,Demigod,B
+MV-ELI-KUK-004-09,Sky-Splitting Azure Stoop,Novacho,F5,Demigod,B
+MV-ELI-KUK-005-01,Paired Sickle Reap,Grievous Gash,F1,Demigod,B
+MV-ELI-KUK-005-02,Twin Belly Block,Flintlike Heavytip,F1,Demigod,B
+MV-ELI-KUK-005-03,Reaper's Pivot Stride,Waistflash,F4,Demigod,B
+MV-ELI-KUK-005-04,Rank Line Reading,Remnant Forwardbelly,F2,Demigod,B
+MV-ELI-KUK-005-05,Crossed Reaping Hook,Thorn Whump,F2,Demigod,B
+MV-ELI-KUK-005-06,Field-Fed Reaping Pair,Chipscourge,F4,Demigod,B
+MV-ELI-KUK-005-07,Backward Crescent Pull,Mayhem Chip,F2,Demigod,B
+MV-ELI-KUK-005-08,Reaper's Rhythm Chain,Hourchip,F5,Demigod,B
+MV-ELI-KUK-005-09,Rank-Cutting Double Crescent,Mayhem Kinkspine,F2,Demigod,B
+MV-ELI-KUK-005-10,Harvest Field Sweep,Mangling Hookbelly,F1,Demigod,B
+MV-ELI-KUK-005-11,Paired Crescent Return,Blaze Notch,F2,Demigod,B
+MV-ELI-KUK-005-12,Cleaving Rank Hew,Glint Slash,F2,Demigod,B
+MV-ELI-KUK-005-13,Wide Season Reaping,Downpour Chopmass,F2,Demigod,B
+MV-ELI-KUK-006-01,Slow Water Pair Chop,Titanic Pommelcap,F1,Monarch,B
+MV-ELI-KUK-006-02,Riverbed Heavy Guard,Iron Horntang,F2,Monarch,B
+MV-ELI-KUK-006-03,Drifting Pace,Granite Cho,F2,Monarch,B
+MV-ELI-KUK-006-04,Meridian Flow Reading,Chimewaist,F5,Monarch,B
+MV-ELI-KUK-006-05,Weighted Hook Pull,Hoarfrost Chip,F2,Monarch,B
+MV-ELI-KUK-006-06,Tide-Heavy Overhand,Grievous Cho,F1,Monarch,B
+MV-ELI-KUK-006-07,Slow Current Counter,Chime Chopmass,F2,Monarch,B
+MV-ELI-KUK-006-08,Millstone Crossing Grind,Blistering Chip,F1,Monarch,B
+MV-ELI-KUK-006-09,Deep Pool Shield Stance,Hoarfrost Kinkspine,F2,Monarch,B
+MV-ELI-KUK-006-10,River Turning Double Hew,Iron Hookbelly,F2,Monarch,B
+MV-ELI-KUK-006-11,Slow Flood Twin Fall,Granite Bulgeedge,F2,Demigod,B
+MV-ELI-KUK-007-01,Sworn Overhead Chop,Wrathful Slash,F1,Demigod,B
+MV-ELI-KUK-007-02,High Plateau Footing,Mightgash,F5,Demigod,B
+MV-ELI-KUK-007-03,Oath Stance Spine Parry,Equipoise Horntang,F2,Demigod,B
+MV-ELI-KUK-007-04,Sworn Gaze Reading,Waning Inwardcurve,F2,Demigod,B
+MV-ELI-KUK-007-05,Oath-Bound Wrist Lock,Gyvegash,F5,Demigod,B
+MV-ELI-KUK-007-06,Pledged Weight Drop Chop,Iron Bulgeedge,F2,Demigod,B
+MV-ELI-KUK-007-07,Held Ground Oath Guard,Kinkmettle,F4,Demigod,B
+MV-ELI-KUK-007-08,Hewing Vow Cascade,Titanic Gash,F1,Demigod,B
+MV-ELI-KUK-007-09,Plateau Edge Counter Hew,Facetcho,F5,Demigod,B
+MV-ELI-KUK-007-10,Unbroken Oath Cleave,Ruinous Tempered Pommelcap,F6a,Demigod,B
+MV-ELI-KUK-008-01,Wind-Ridden Chop,Sanguine Heavytip,F2,Demigod,B
+MV-ELI-KUK-008-02,Wind Split Guard,Torrent Chopmass,F2,Demigod,B
+MV-ELI-KUK-008-03,Tailwind Hewing Advance,Torrent Lopstroke,F2,Demigod,B
+MV-ELI-KUK-008-04,Pressure Gap Reading,Waistinsight,F4,Demigod,B
+MV-ELI-KUK-008-05,Leeward Hook,Fastening Inwardcurve,F2,Demigod,B
+MV-ELI-KUK-008-06,Pressure-Edged Hew,Granite Notch,F2,Demigod,B
+MV-ELI-KUK-008-07,Crosswind Backcut,Notchwrath,F4,Demigod,B
+MV-ELI-KUK-008-08,Updraft Cutting Ascent,Whump Whirlpool,F3,Demigod,B
+MV-ELI-KUK-008-09,Squall Line Hewing,Dismantling Lopstroke,F2,Demigod,B
+MV-ELI-KUK-008-10,Gale-Backed Fall of the Blade,Booming Forwardbelly,F1,Demigod,B
+MV-ELI-KUK-008-11,Eddy Deflection Spin,Gust Horntang,F2,Demigod,B
+MV-ELI-KUK-008-12,Wind-Sworn Rending Gust,Ruinous Heavytip,F1,Demigod,B
+MV-ELI-KUK-009-01,Held Heading Chop,Kinkspine Scourge,F3,Demigod,B
+MV-ELI-KUK-009-02,Gale-Facing Pivot,Silt Cho,F2,Demigod,B
+MV-ELI-KUK-009-03,Storm Stance Parry,Equipoise Bulgeedge,F2,Demigod,B
+MV-ELI-KUK-009-04,Storm Reckoning Sense,Unerring Hookbelly,F1,Demigod,B
+MV-ELI-KUK-009-05,Gale-Corrected Cut,Might Notch,F2,Demigod,B
+MV-ELI-KUK-009-06,Heading Through the Squall,Headlong Gash,F1,Demigod,B
+MV-ELI-KUK-009-07,True Bearing Gale Hew,Gashruin,F4,Demigod,B
+MV-ELI-KUK-009-08,Gale Net Bearing Trap,Predatory Forwardbelly,F1,Demigod,B
+MV-ELI-KUK-009-09,Unwavering Gale Heading,Unsparing Chip Devastation,F6b,Demigod,B
+MV-ELI-KUK-010-01,Open Ground Reaping Cut,Gashscourge,F4,Demigod,B
+MV-ELI-KUK-010-02,Wide Plain Stance Hold,Chodurance,F4,Demigod,B
+MV-ELI-KUK-010-03,Skyline Sidestep,Torrential Gash,F1,Demigod,B
+MV-ELI-KUK-010-04,Hook the Charging Rank,Chime Heavytip,F2,Demigod,B
+MV-ELI-KUK-010-05,Rank Edge Feeling,Chovigil,F4,Demigod,B
+MV-ELI-KUK-010-06,Wind-Driven Front Sweep,Silt Forwardbelly,F2,Demigod,B
+MV-ELI-KUK-010-07,Skirting Reap and Withdraw,Wrathful Whump,F1,Demigod,B
+MV-ELI-KUK-010-08,Standing Gale Barrier Hew,Shade Lopstroke,F2,Demigod,B
+MV-ELI-KUK-010-09,Plateau-Wide Crescent,Daybreak Kinkspine,F2,Demigod,B
+MV-ELI-KUK-010-10,Pursuit Reap Chain,Mayhem Slash,F2,Demigod,B
+MV-ELI-KUK-010-11,Horizon-Reaping Gale,Pommelcap Havoc,F3,Demigod,B
+MV-ELI-KUK-011-01,Carried Overhead Fall,Chopmass Reckoning,F3,Demigod,B
+MV-ELI-KUK-011-02,Loft Landing Cover,Ironwaist,F5,Demigod,B
+MV-ELI-KUK-011-03,Gale Bound Step,Notchglare,F4,Demigod,B
+MV-ELI-KUK-011-04,Updraft Gauging,Cho Respite,F3,Demigod,B
+MV-ELI-KUK-011-05,Hook-Down Pull,Overpowering Inwardcurve,F1,Demigod,B
+MV-ELI-KUK-011-06,Carried Double Fall,Waistruin,F4,Demigod,B
+MV-ELI-KUK-011-07,Gale Skip Parry,Unrelenting Hookbelly,F1,Demigod,B
+MV-ELI-KUK-011-08,Long Carry Line Chop,Might Bulgeedge,F2,Demigod,B
+MV-ELI-KUK-011-09,Gale-Lofted Crushing Descent,Granite Pommelcap,F2,Demigod,B
+MV-ELI-KUK-011-10,Cliff-Edge Leap Hew,Mangling Whump,F1,Demigod,B
+MV-ELI-KUK-011-11,Cascade Landing Wave,Blazewaist,F5,Demigod,B
+MV-ELI-KUK-011-12,Weathering Blade Hew,Merciless Bulgeedge,F1,Demigod,B
+MV-ELI-KUK-011-13,Falling Gale Mountain Hew,Devastating Chip,F1,Demigod,B
+MV-ELI-KUK-012-01,Standing Fast Chop,Notchhavoc,F4,Monarch,B
+MV-ELI-KUK-012-02,Unmoving Foot Brace,Impervious Pommelcap,F1,Monarch,B
+MV-ELI-KUK-012-03,Wind Round the Blade Reading,Waistvigil,F4,Monarch,B
+MV-ELI-KUK-012-04,Anchor Hook,Gyvenotch,F5,Monarch,B
+MV-ELI-KUK-012-05,Meridian-Rooted Hew,Shattering Slash,F1,Monarch,B
+MV-ELI-KUK-012-06,Stone Standing Deflection,Evergreen Heavytip,F1,Monarch,B
+MV-ELI-KUK-012-07,Gale Absorbing Stance,Chomettle,F4,Monarch,B
+MV-ELI-KUK-012-08,Held Oath Counterweight,Kinkvalor,F4,Monarch,B
+MV-ELI-KUK-012-09,Rooted Plateau Hew,Devastating Forwardbelly,F1,Monarch,B
+MV-ELI-KUK-012-10,Unmoved Edge Breaks the Gale,Notch Ruin,F3,Demigod,B

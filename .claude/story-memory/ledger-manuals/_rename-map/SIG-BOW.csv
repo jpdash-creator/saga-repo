@@ -1,0 +1,137 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-BOW-001-01,Twin String Seating,Peal Nock,F2,Warrior L1 Low,B
+MV-SIG-BOW-001-02,Court Stance Rise,Squallloose,F5,Warrior L1 Low,B
+MV-SIG-BOW-001-03,Paired Nock Draw,Sovereign Quiver,F1,Warrior L1 Low,B
+MV-SIG-BOW-001-04,Twin Strand Loose,Pulsar Riser,F2,Warrior L1 Low,B
+MV-SIG-BOW-001-05,Court Paired Guard,Sacrosanct Vanes,F1,Warrior L1 Low,B
+MV-SIG-BOW-001-06,Twin String Snare Shot,Sigil Anchor,F2,Warrior L1 Low,B
+MV-SIG-BOW-001-07,Azure Court Dual Shaft,Radiance Loose,F2,Champion L1 Low,B
+MV-SIG-BOW-001-08,Twin Court Falling Rain,Solar Draw,F2,Champion L1 Low,B
+MV-SIG-BOW-001-09,Court Twin Strand Reaving,Prismanchor,F5,Demigod L1 Low,B
+MV-SIG-BOW-001-10,Azure Court Twin String Verdict,Matchless Volley Decree,F6b,Warrior L1 Low,B
+MV-SIG-BOW-002-01,Basin Count Opening,Reminiscence Serving,F2,Warrior L5 Mid,B
+MV-SIG-BOW-002-02,Paired Draw Link,Famed Limb,F1,Warrior L5 Mid,B
+MV-SIG-BOW-002-03,Basin Rank Pace,Delugeanchor,F5,Warrior L5 Mid,B
+MV-SIG-BOW-002-04,Basin Pair Release,Prism Snapshot,F2,Warrior L5 Mid,B
+MV-SIG-BOW-002-05,River Rank Stream,Splendid Arrowrest,F1,Warrior L5 Mid,B
+MV-SIG-BOW-002-06,Paired Guard Cross,Devout Bowgrip,F1,Warrior L5 Mid,B
+MV-SIG-BOW-002-07,Basin Spotter Sense,Limbtip Mercy,F3,Warrior L5 Mid,B
+MV-SIG-BOW-002-08,Basin Dual Breach,Volleytriumph,F4,Champion L1 Low,B
+MV-SIG-BOW-002-09,Rank River Volley,Solar Riser,F2,Champion L1 Low,B
+MV-SIG-BOW-002-10,Basin Pair Sundering,Prismloose,F5,Demigod L1 Low,B
+MV-SIG-BOW-002-11,Basin Paired Draw Concord,Choral Nock,F1,Warrior L5 Mid,B
+MV-SIG-BOW-003-01,Hawk Eye Opening,Bowstring Benison,F3,Champion L2 Low,B
+MV-SIG-BOW-003-02,Near Track Draw,Squall Anchor,F2,Champion L2 Low,B
+MV-SIG-BOW-003-03,Far Track Draw,Loosecrown,F4,Champion L2 Low,B
+MV-SIG-BOW-003-04,Track Switching Loose,Pulsarquiver,F5,Champion L2 Low,B
+MV-SIG-BOW-003-05,Hawk Eye Range Pacing,Revelation Bowgrip,F2,Champion L2 Low,B
+MV-SIG-BOW-003-06,Two Track Pin Shot,Thrallvolley,F5,Champion L2 Low,B
+MV-SIG-BOW-003-07,Hawk Two Track Lance,Radiance Release,F2,Champion L2 Low,B
+MV-SIG-BOW-003-08,Near Track Rain Shot,Solar Volley,F2,Champion L2 Low,B
+MV-SIG-BOW-003-09,Hawk Eye Twin Track Reaver,Prismlimb,F5,Champion L2 Low,B
+MV-SIG-BOW-003-10,Hawk Eye Two Track Reading,Lifegiving Limb Benison,F6b,Champion L2 Low,B
+MV-SIG-BOW-004-01,Dual Track Seating,Quivergift,F4,Ruler L1 Mid,B
+MV-SIG-BOW-004-02,Azure Stance Hold,Ethereal Loose,F1,Ruler L1 Mid,B
+MV-SIG-BOW-004-03,High Track Draw,Pulsar Arrowrest,F2,Ruler L1 Mid,B
+MV-SIG-BOW-004-04,Low Track Draw,Illustrious Snapshot,F1,Ruler L1 Mid,B
+MV-SIG-BOW-004-05,Track Crossing Loose,Prism Quiver,F2,Ruler L1 Mid,B
+MV-SIG-BOW-004-06,Dual Track Snare Cord,Thrall Bowstring,F2,Ruler L1 Mid,B
+MV-SIG-BOW-004-07,Azure Parry Draw,Vanespledge,F4,Ruler L1 Mid,B
+MV-SIG-BOW-004-08,Hawk Court Volley Stream,Gloom Serving,F2,Ruler L1 Mid,B
+MV-SIG-BOW-004-09,Dual Track Hawk Breach,Exalted Limbtip,F1,Ruler L1 Mid,B
+MV-SIG-BOW-004-10,Azure Falling Pair,Solaranchor,F5,Ruler L1 Mid,B
+MV-SIG-BOW-004-11,Dual Track Final Piercer,Steel Limb,F2,Ruler L1 Mid,B
+MV-SIG-BOW-004-12,Azure Dual Track Canon Shot,Prism Release,F2,Ruler L1 Mid,B
+MV-SIG-BOW-005-01,Hawk And River Seating,Tranquil Vanes,F1,Demigod L2 Low,B
+MV-SIG-BOW-005-02,Field Hawk Draw,Radiance Quiver,F2,Demigod L2 Low,B
+MV-SIG-BOW-005-03,River Pace Release,Nockedict,F4,Demigod L2 Low,B
+MV-SIG-BOW-005-04,River Hawk Stoop Loose,Arrowrest Decree,F3,Demigod L2 Low,B
+MV-SIG-BOW-005-05,Hawk Field Reading,Limbmercy,F4,Demigod L2 Low,B
+MV-SIG-BOW-005-06,Twin Flow Pin Shot,Masterful Nock,F1,Demigod L2 Low,B
+MV-SIG-BOW-005-07,Hawk River Piercer,Vacuum Limbtip,F2,Demigod L2 Low,B
+MV-SIG-BOW-005-08,Azure River Arrow Fall,Anchor Decree,F3,Demigod L2 Low,B
+MV-SIG-BOW-005-09,River Hawk Sky Reaver,Riser Verdict,F3,Demigod L2 Low,B
+MV-SIG-BOW-005-10,Hawk And River Draw Sovereign,Magnificent Bowgrip Verdict,F6b,Demigod L2 Low,B
+MV-SIG-BOW-006-01,Core Seated Draw,Illustrious Vanes,F1,Core Formation L1 Low,B
+MV-SIG-BOW-006-02,Core Nock Steady,Peal Riser,F2,Core Formation L1 Low,B
+MV-SIG-BOW-006-03,Core Stance Root,Soundless Draw,F1,Core Formation L1 Low,B
+MV-SIG-BOW-006-04,Core Lit Shaft,Pulsar Snapshot,F2,Core Formation L1 Low,B
+MV-SIG-BOW-006-05,Core Pace Stream,Volition Loose,F2,Core Formation L1 Low,B
+MV-SIG-BOW-006-06,Core Guard Draw,Serving Covenant,F3,Core Formation L1 Low,B
+MV-SIG-BOW-006-07,Core Twin Pin,Volley Pledge,F3,Core Formation L1 Low,B
+MV-SIG-BOW-006-08,Core Paired Piercer,Prismdraw,F5,Core Formation L1 Low,B
+MV-SIG-BOW-006-09,Azure Core Arrow Rain,Dunelimb,F5,Core Formation L1 Low,B
+MV-SIG-BOW-006-10,Core Hawk Descent,Release Decree,F3,Core Formation L1 Low,B
+MV-SIG-BOW-006-11,Azure Core Bow Sovereign,Vaunted Limbtip,F1,Core Formation L1 Low,B
+MV-SIG-BOW-007-01,Sworn Wind Seating,Peallimb,F5,Warrior L2 Low,B
+MV-SIG-BOW-007-02,Plateau Foot Set,Duneloose,F5,Warrior L2 Low,B
+MV-SIG-BOW-007-03,Sworn Draw Hold,Dauntless Draw,F1,Warrior L2 Low,B
+MV-SIG-BOW-007-04,Wind Sworn Arrow Loose,Splendid Nock,F1,Warrior L2 Low,B
+MV-SIG-BOW-007-05,Bearing Held Stave Guard,Deluge Bowstring,F2,Warrior L2 Low,B
+MV-SIG-BOW-007-06,Gale Cord Snare Shot,Ruling Bowgrip,F1,Warrior L2 Low,B
+MV-SIG-BOW-007-07,Oath Bearing Lance,Royal Quiver,F1,Champion L1 Low,B
+MV-SIG-BOW-007-08,Wind Sworn Falling Rain,Quiververdict,F4,Champion L1 Low,B
+MV-SIG-BOW-007-09,Sworn Bearing Reaving,Steelanchor,F5,Demigod L1 Low,B
+MV-SIG-BOW-007-10,Wind Sworn Bowman Oath Shot,Gallant Quenched Serving,F6a,Warrior L2 Low,B
+MV-SIG-BOW-008-01,Bearing Rule Opening,Quivermercy,F4,Warrior L6 Low,B
+MV-SIG-BOW-008-02,Archer Ledge Walk,Spectral Release,F1,Warrior L6 Low,B
+MV-SIG-BOW-008-03,Bearing Draw Gather,Gallant Snapshot,F1,Warrior L6 Low,B
+MV-SIG-BOW-008-04,Bearing Crossed Loose,Anchor Triumph,F3,Warrior L6 Low,B
+MV-SIG-BOW-008-05,Gale Plateau Stream,Royal Draw,F1,Warrior L6 Low,B
+MV-SIG-BOW-008-06,Plateau Hook Pull,Loose Reliquary,F3,Warrior L6 Low,B
+MV-SIG-BOW-008-07,Bearing Held Sense,Clement Limb,F1,Warrior L6 Low,B
+MV-SIG-BOW-008-08,Plateau Bearing Piercer,Prism Volley,F2,Champion L1 Low,B
+MV-SIG-BOW-008-09,Bearing Held Rain,Inferno Bowstring,F2,Champion L1 Low,B
+MV-SIG-BOW-008-10,Plateau Bearing Shaft Sundering,Pulsar Bowgrip,F2,Demigod L1 Low,B
+MV-SIG-BOW-008-11,Plateau Archer Bearing Concord,Tenet Nock,F2,Warrior L6 Low,B
+MV-SIG-BOW-009-01,Sworn Word Breath,Riserbenison,F4,Champion L3 Low,B
+MV-SIG-BOW-009-02,Gale Draw Rise,Thunderclap Loose,F2,Champion L3 Low,B
+MV-SIG-BOW-009-03,Word Held Loose,Vaunted Quiver,F1,Champion L3 Low,B
+MV-SIG-BOW-009-04,Gale Draw Curved Arrow,Radiance Bowstring,F2,Champion L3 Low,B
+MV-SIG-BOW-009-05,Wind Hush Pluck,Vanesseal,F4,Champion L3 Low,B
+MV-SIG-BOW-009-06,Gale Draw Guard,Vanes Covenant,F3,Champion L3 Low,B
+MV-SIG-BOW-009-07,Gale Word Piercer,Anchorverdict,F4,Champion L3 Low,B
+MV-SIG-BOW-009-08,Sworn Gale Rain,Arrowrest Banner,F3,Champion L3 Low,B
+MV-SIG-BOW-009-09,Gale Draw Sovereign Reaving,Pulsar Limb,F2,Champion L3 Low,B
+MV-SIG-BOW-009-10,Gale Draw Sworn Word Shot,Steelquiver,F5,Champion L3 Low,B
+MV-SIG-BOW-010-01,Sworn Rank Opening,Revelation Serving,F2,Ruler L1 Low,B
+MV-SIG-BOW-010-02,Open Rank Stand,Spectral Anchor,F1,Ruler L1 Low,B
+MV-SIG-BOW-010-03,Rank Draw Hold,Thunderclap Riser,F2,Ruler L1 Low,B
+MV-SIG-BOW-010-04,Rank Loose Count,Inferno Limbtip,F2,Ruler L1 Low,B
+MV-SIG-BOW-010-05,Sworn Rank Volley,Valiant Arrowrest,F1,Ruler L1 Low,B
+MV-SIG-BOW-010-06,No Walls Turn Guard,Pall Vanes,F2,Ruler L1 Low,B
+MV-SIG-BOW-010-07,Open Rank Cord Shot,Hornbeam Snapshot,F2,Ruler L1 Low,B
+MV-SIG-BOW-010-08,Rank Bearing Share,Vigor Vanes,F2,Ruler L1 Low,B
+MV-SIG-BOW-010-09,Sworn Rank Piercer,Radiance Volley,F2,Ruler L1 Low,B
+MV-SIG-BOW-010-10,Open Rank Arrow Fall,Tempestuous Limb,F2,Ruler L1 Low,B
+MV-SIG-BOW-010-11,Sworn Ranks Final Draw,Pulsar Loose,F2,Ruler L1 Low,B
+MV-SIG-BOW-010-12,Sworn Ranks Open Ground Shot,Serving Verdict,F3,Ruler L1 Low,B
+MV-SIG-BOW-011-01,Field Bearing Seating,Limbgift,F4,Demigod L3 Low,B
+MV-SIG-BOW-011-02,Sworn Field Draw,Pulsaranchor,F5,Demigod L3 Low,B
+MV-SIG-BOW-011-03,Wind Field Release,Pulsar Draw,F2,Demigod L3 Low,B
+MV-SIG-BOW-011-04,Field Bearing Lock,Squalldraw,F5,Demigod L3 Low,B
+MV-SIG-BOW-011-05,Gale Field Reading,Reminiscence Bowstring,F2,Demigod L3 Low,B
+MV-SIG-BOW-011-06,Wind Sworn Field Guard,Unwavering Arrowrest,F1,Demigod L3 Low,B
+MV-SIG-BOW-011-07,Field Bearing Piercer,Limbtriumph,F4,Demigod L3 Low,B
+MV-SIG-BOW-011-08,Wind Sworn Field Rain,Solar Release,F2,Demigod L3 Low,B
+MV-SIG-BOW-011-09,Sworn Field Reaving,Prismriser,F5,Demigod L3 Low,B
+MV-SIG-BOW-011-10,Wind Sworn Field Bearing Shot,Matchless Steel Volley,F6a,Demigod L3 Low,B
+MV-SIG-BOW-012-01,Core Oath Seating,Pealvanes,F5,Core Formation L2 Low,B
+MV-SIG-BOW-012-02,Core Gale Draw,Illustrious Release,F1,Core Formation L2 Low,B
+MV-SIG-BOW-012-03,Core Bearing Step,Feather Nock,F1,Core Formation L2 Low,B
+MV-SIG-BOW-012-04,Core Wind Shaft,Valiant Snapshot,F1,Core Formation L2 Low,B
+MV-SIG-BOW-012-05,Core Gale Stream,Anchor Crown,F3,Core Formation L2 Low,B
+MV-SIG-BOW-012-06,Core Oath Guard,Sanctum Bowgrip,F2,Core Formation L2 Low,B
+MV-SIG-BOW-012-07,Core Plateau Pin,Volleytroth,F4,Core Formation L2 Low,B
+MV-SIG-BOW-012-08,Core Oath Piercer,Fearless Limbtip,F1,Core Formation L2 Low,B
+MV-SIG-BOW-012-09,Gale Core Arrow Rain,Inferno Limb,F2,Core Formation L2 Low,B
+MV-SIG-BOW-012-10,Core Gale Descent,Steel Limbtip,F2,Core Formation L2 Low,B
+MV-SIG-BOW-012-11,Gale Oath Core Bow Sovereign,Unrivaled Bowgrip Triumph,F6b,Core Formation L2 Low,B
+MV-SIG-BOW-001-10,Matchless Volley Decree,Matchless Volley,F6b,Warrior L1 Low,B
+MV-SIG-BOW-003-10,Lifegiving Limb Benison,Illustrious Limb,F6b,Champion L2 Low,B
+MV-SIG-BOW-005-10,Magnificent Bowgrip Verdict,Magnificent Bowgrip,F6b,Demigod L2 Low,B
+MV-SIG-BOW-007-10,Gallant Quenched Serving,Gallant Serving,F6a,Warrior L2 Low,B
+MV-SIG-BOW-010-07,Hornbeam Snapshot,Binding Snapshot,F2,Ruler L1 Low,B
+MV-SIG-BOW-011-10,Matchless Steel Volley,Peerless Volley,F6a,Demigod L3 Low,B
+MV-SIG-BOW-012-06,Sanctum Bowgrip,Adamant Bowgrip,F2,Core Formation L2 Low,B
+MV-SIG-BOW-012-11,Unrivaled Bowgrip Triumph,Unrivaled Bowgrip,F6b,Core Formation L2 Low,B

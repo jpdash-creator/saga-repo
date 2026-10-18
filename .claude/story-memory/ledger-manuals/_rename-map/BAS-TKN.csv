@@ -1,0 +1,67 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-TKN-001-01,Thumb Spine Plumb Toss,Leandrop,F4,Unawakened,A
+MV-BAS-TKN-001-02,Ear-High Snap Throw,Hard Hiltweight,F1,Unawakened,A
+MV-BAS-TKN-001-03,Hip-Rise Underhand Flick,Balanceblade Drop,F3,Unawakened,A
+MV-BAS-TKN-001-04,Heel Drop Spacing Step,Stepping Bladeflat,F1,Unawakened,A
+MV-BAS-TKN-001-05,Beat Count Double Toss,Sharp Lodge,F1,Unawakened,A
+MV-BAS-TKN-002-01,Belt Row Draw and Throw,Downward Spinthrow,F1,Skin,A
+MV-BAS-TKN-002-02,Forefinger Rail Release,Shivstrike,F4,Skin,A
+MV-BAS-TKN-002-03,Open Palm Fall-Away Throw,Throwtang Strike,F3,Skin,A
+MV-BAS-TKN-002-04,Rolled Wrist Hinge Cut,Stickblow,F4,Skin,A
+MV-BAS-TKN-002-05,Plank Test Single Cast,Leanreview,F4,Skin,A
+MV-BAS-TKN-002-06,Quarter Turn Line Break,Backward Flickthrow,F1,Skin,A
+MV-BAS-TKN-003-01,One Spin Close Throw,Open Weighttang,F1,Muscle,A
+MV-BAS-TKN-003-02,Two Spin Mid Throw,Narrow Spineweight,F1,Muscle,A
+MV-BAS-TKN-003-03,Three Spin Far Throw,Plain Pointguard,F1,Muscle,A
+MV-BAS-TKN-003-04,Pace Counting Glance,Even Spinetip,F1,Muscle,A
+MV-BAS-TKN-003-05,Crouch and Rise Release,Firm Edgeflat,F1,Muscle,A
+MV-BAS-TKN-003-06,Short Rail Fence Cast,Shivpause,F4,Muscle,A
+MV-BAS-TKN-003-07,Cross Foot Retreat Spin,Swaying Edgeflat,F1,Muscle,A
+MV-BAS-TKN-004-01,Square Stance Post Throw,Stiff Spinthrow,F1,Tendon,A
+MV-BAS-TKN-004-02,Wide Stance Sweep Release,Level Stick,F1,Tendon,A
+MV-BAS-TKN-004-03,Tendon Snap Short Flick,Quick Flight,F1,Tendon,A
+MV-BAS-TKN-004-04,Locked Elbow Long Cast,Lodgehit,F4,Tendon,A
+MV-BAS-TKN-004-05,Off Hand Sidearm Throw,Thunkblow,F4,Tendon,A
+MV-BAS-TKN-004-06,Braced Shoulder Parry Clink,Ready Throwgrip,F1,Tendon,A
+MV-BAS-TKN-004-07,Rising Stance Rhythm Throw,Balanceblade Dash,F3,Tendon,A
+MV-BAS-TKN-004-08,Stance Reset Pivot,Swaying Thunk,F1,Tendon,A
+MV-BAS-TKN-005-01,Chalk Ring Count Throw,Single Weighttang,F1,Bone,A
+MV-BAS-TKN-005-02,Bone Jar Hard Release,Bladeflat Drop,F3,Bone,A
+MV-BAS-TKN-005-03,Ten Throw Ladder Drill,Sharp Throwtang,F1,Bone,A
+MV-BAS-TKN-005-04,Moving Mark Lead Throw,Lodgedrop,F4,Bone,A
+MV-BAS-TKN-005-05,Hip Shield Knife Block,Solid Spineweight,F1,Bone,A
+MV-BAS-TKN-005-06,Count Break Dodge Step,Sideways Lodge,F1,Bone,A
+MV-BAS-TKN-006-01,Warm Hand Point Throw,Shivbump,F4,Senior,A
+MV-BAS-TKN-006-02,Qi Thread Blade Guide,Calm Spinetip,F1,Senior,A
+MV-BAS-TKN-006-03,Quick Pulse Release,Lodgedash,F4,Senior,A
+MV-BAS-TKN-006-04,Spine Anchor Turn Throw,Square Flickthrow,F1,Senior,A
+MV-BAS-TKN-006-05,Lamp Flame Snuff Cast,Lodgestay,F4,Senior,A
+MV-BAS-TKN-006-06,Glide Step Retreat,Easing Throwgrip,F1,Senior,A
+MV-BAS-TKN-006-07,Wrist Ring Turn Block,Raised Pointguard,F1,Senior,A
+MV-BAS-TKN-007-01,Held Breath Steady Throw,Forward Pointguard,F1,Senior,A
+MV-BAS-TKN-007-02,Out Breath Flight Push,Sharp Bladeflat,F1,Senior,A
+MV-BAS-TKN-007-03,Breath Count Rhythm Drill,Sharp Stick,F1,Senior,A
+MV-BAS-TKN-007-04,Sip Breath Sidestep,Shivpace,F4,Senior,A
+MV-BAS-TKN-007-05,Calm Count Reading,Deep Spineweight,F1,Senior,A
+MV-BAS-TKN-008-01,Slope Uphill Lift Throw,Descending Hiltweight,F1,Senior,A
+MV-BAS-TKN-008-02,Downhill Drop Correction,Thunkbump,F4,Senior,A
+MV-BAS-TKN-008-03,Side Draft Hold-Off Throw,Flightbump,F4,Senior,A
+MV-BAS-TKN-008-04,Running Shoulder Release,Sudden Balanceblade,F1,Senior,A
+MV-BAS-TKN-008-05,Mud Footing Plant,Quiet Thunk,F1,Senior,A
+MV-BAS-TKN-008-06,Hedge Cover Snap Cast,Slimblow,F4,Senior,A
+MV-BAS-TKN-008-07,Dusk Edge Glint Reading,Steady Weighttang,F1,Senior,A
+MV-BAS-TKN-008-08,Boot Stop Parry,Snug Spinetip,F1,Senior,A
+MV-BAS-TKN-009-01,Weighted Wrist Roll Throw,Flat Flight,F1,Senior,A
+MV-BAS-TKN-009-02,Pound Stone Wrist Lift,Slimreview,F4,Senior,A
+MV-BAS-TKN-009-03,Reed Cut Flick,Stiff Hiltweight,F1,Senior,A
+MV-BAS-TKN-009-04,Cuff Snap Release,Low Thunk,F1,Senior,A
+MV-BAS-TKN-009-05,Forearm Brace Catch,Angled Edgeflat,F1,Senior,A
+MV-BAS-TKN-009-06,Grip Squeeze Reset,Shivnote,F4,Senior,A
+MV-BAS-TKN-010-01,Post Pull Blade Recovery,Slimgauge,F4,Senior,A
+MV-BAS-TKN-010-02,Scoop Pickup Throw,Downward Throwgrip,F1,Senior,A
+MV-BAS-TKN-010-03,Second Hand Feed Throw,Lodgestrike,F4,Senior,A
+MV-BAS-TKN-010-04,Doorframe Sweep Retrieve,Shivgauge,F4,Senior,A
+MV-BAS-TKN-010-05,Spent Blade Drop Step,Sideways Throwtang,F1,Senior,A
+MV-BAS-TKN-010-06,Rebound Catch Throw,Forward Flight,F1,Senior,A
+MV-BAS-TKN-010-07,Sleeve Slide Re-Draw,Narrow Lodge,F1,Senior,A
+MV-BAS-TKN-003-03,Plain Pointguard,Long Pointguard,F1,Muscle,A

@@ -1,0 +1,7 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-FIR-002-09,Tower Blaze,Pillar Blaze,INSTANT,Champion L1 Low,Advanced
+CMV-ADV-FIR-003-01,Field Ember,Coal Sense,CHANNELED,Warrior L1 Low,Basic
+CMV-ADV-FIR-003-03,Spark Field,Scattered Sparks,INSTANT,Warrior L1 Low,Basic
+CMV-ADV-FIR-003-06,Burning Field,Steady Scorch,CHANNELED,Warrior L1 Low,Intermediate
+CMV-ADV-FIR-007-06,Dual Path Burn,Twin Burn,INSTANT,Warrior L1 Low,Intermediate
+CMV-ADV-FIR-010-04,Fire Line,Scorch Hold,INSTANT,Warrior L1 Low,Basic

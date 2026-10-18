@@ -1,0 +1,206 @@
+# AZURE SKY PALACE — Location Ledger
+
+**Governing Canon Parts:** Parts 13, 14, 15, 21, 22, 25, 31
+**Location Tier (Part 13 Area 2.1):** Sub-World — Royal Seat (within Azure Sky Kingdom, Sapphire Basin capital)
+**First Area Appearance:** Area 01 — The Hour on the West Platform (Ref: 1.1.1.001.01)
+**Last Updated:** 2026-10-17
+**Ledger Version:** v1.0
+
+---
+
+## Section 1 — Identity and Classification (B)
+
+**Full Name:** The Azure Sky Palace
+**Common Name / Aliases:** Azure Sky Palace; The Palace; Royal Palace of Twin Courts (full formal name)
+**Location Tier (Part 13 Area 2.1):** Sub-World — royal seat; the primary residence and governance complex of Azure Sky Kingdom's ruling sovereigns
+**Cosmological Area (Part 13):** Sub-location within the Sapphire Basin capital; within Azure Sky Kingdom (cross-ref: sapphire-basin.md, azure-sky-kingdom.md)
+**Part 13 Character:** Dual-track (cultivation + technology) — paired architectural complex; inscription bands in both cultivation-script and technology-schematic; azure roof tiling
+**Sacred Ground Status:** Not yet established — Twin Oath Shrine is nearby in the Sapphire Basin capital; palace itself not yet formally designated sacred
+**Part 13 Class Code:** OPEN-AREA
+**Special Zone Status (Part 13 Area 2.5):** OPEN-AREA
+**Historical Depth (Part 13):** OPEN-AREA
+**Immediate Parent (file name):** OPEN-AREA
+**Containing World:** Saha (cross-ref: saha.md)
+**Containing Star System:** Sol Star System (cross-ref: sol-star-system.md)
+**Physical Description (pre-established canon; precise scene-of-origin to be reconfirmed when this location is actually written):**
+
+**The upper courtyard platform (west edge):**
+*"On the western edge of the Azure Sky Palace's upper courtyard, a platform extends from the terrace at an elevation sufficient to see past the capital's outermost district to the northern horizon, where the Windward Range's silhouette is visible on clear mornings as a dark and irregular line above the plain."*
+
+*"The platform has no railing. It is not built for comfort. It is built for sight."*
+
+*"The stone is Sapphire Basin bedrock, blue-flecked and dense, laid without mortar in the old highland style, each slab chosen for flatness and for the density that holds the highland winters without cracking."*
+
+*"On the platform's north face, three inscription bands run horizontal through the stone: one in cultivation-script, one in technology-schematic notation, and one in the old foundational hand that predates both."*
+
+**Additional palace features (from cross-reference):**
+- Paired architectural complex in the Sapphire Basin capital
+- Two physically separated audience halls: the Sword Court (cultivation petitions) and the Signet Court (technology petitions), bridged by a central reconciliation chamber
+- Azure roof tiles (signature of the kingdom)
+- Paired inscription bands at every formal threshold
+
+**The Sword Court hall:** deep-blue facing stone, a long east colonnade cut to hold morning light and highland air in equal measure, a petitioners' floor, standing lamps, and a long table where court business is conducted. The hall's cold is an intentional architectural property rather than a fault. The colonnade opens onto a view of Azorion's tiered azure-tile roofs, the basin, and the Windward Range beyond. A short covered span joins the Sword Court to the Signet Court, timber-floored between the stone of the two halls, and serves as a working crossing between them; it corroborates the "two audience halls...bridged by a central reconciliation chamber" architecture recorded above. 
+
+> **THE TWIN COURTS BRIDGE — author-named; MAJOR entity per Part 28 Area 20.4(e), `consulted`.**
+>
+> - **The span and the central reconciliation chamber are one structure, the Twin Courts Bridge.**
+> - **It is elevated.** The bridge crosses above the palace platform, so that standing on it puts a person over Azorion with the basin and the Windward Range beyond, and someone standing on the platform below is visible from it.
+> - It is short, covered, timber-floored between the stone of the two halls, and a working crossing, not a ceremonial one.
+> - **The chamber's ratification function:** dual-signature edicts are ratified here, as §5.1 and `azure-sky-kingdom.md` §5.3 record. The Twin Courts Bridge is where the two halves of a kingdom are reconciled, and it is also the way across.
+> - The west-edge upper courtyard platform (§5.2) is visible from above. Varys's registered pre-dawn practice there (`B39-L24-SESSION-99` THE DEFENDED HOUR) is unchanged.
+>
+> **Immutable since its first use in an Area (Part 28 Area 17.5 / Area 3.4).** The bridge first appears in Area 01 (Ref: 1.1.1.001.01), and its name (the Twin Courts Bridge) and its elevation (overhead of the west-edge platform) are now established and immutable. As shown there, it is seen only from the platform below: it crosses the dark overhead with a flame lit in its span, yellow against the night and going thin against the white of first light. Nothing else about it is established: its interior, its length, its rail, its roof and its ornament are not described, the span is not entered, and what holds the flame and who tends it are not established.
+>
+> **First crossed on the page (Chapter 003, Ref: 1.1.1.003).** Walked, not seen from below: a runner crosses it from the Sword Court to the Signet Court at an even pace, and the Grand Marshal's party crosses it together, three pairs of boots coming on without slowing and stopping together at the Signet Court's far door. Its timber "answered boots"; the Queen says it is "colder than it looks from this side"; the Grand Marshal's news of a death is said on it. The text calls it "the covered span" and never by its name. Nothing is said of its length, its rail, its roof or the reconciliation chamber, and its elevation over the platform is not mentioned.
+
+**The Sword Court's length and its approach (Part 28 Area 17.5 / Part 37 Area 5):** these facts **bind future prose** — this is standing architecture, not transient scene business:
+- **The hall is built long**, and deliberately so — long enough that crossing it takes time, the walk from the south door to the table. Shown in use in the Sword Court section, 5.6 (Area 1.1.1.001.04): the king reads a petitioner by his walk, and the length shortens a nervous man's steps as he crosses it. Whether the walk has any further use is OPEN-AREA.
+- **The approach has a fixed sequence:** entering by the south door, a visitor crosses **the petitioners' floor first**, and only then reaches the long table where court business is conducted. Any future Sword Court scene entering from the south passes those two in that order.
+- **The standing lamps stand in twin rows flanking that walk**, so the approach runs *between* them. (Twin rows are also of a piece with the palace's paired architectural signature, §5.1.)
+- **No measurement of that length is recorded, and none is invented here** (Part 28 Area 17.3 — qualitative depth only). "Long" and the ordering of what the walk passes are the whole of the record; any future prose that needs a figure must establish it, not infer one from this entry. The **acoustic** property of that length is recorded only this far: a voice pitched flat and unhurried carries down that length without being raised. **No ambient hum, frequency, vibration, or resonance infrastructure is implied or permitted** (author-removed concept — standing exclusion).
+
+**Cultural Association (Part 25):** The physical embodiment of the Twin Oath — dual structures, dual inscription bands, dual audience halls; paired banners on all state buildings
+
+---
+
+## Section 2 — Spatial Data (B/L)
+
+**Distance from Key Reference Points (Part 14 CMS):** Located in the Sapphire Basin capital (center of Azure Sky Kingdom); platform on west edge of upper courtyard provides line-of-sight to Windward Range (~visible on clear mornings); the Long Coast lies about 480 km east of the platform
+**Travel Time from Key Points (Part 15):** Not yet established in prose
+**Ambient Energy Class (Part 13 Area 2.3):** Class 3–4 (Sapphire Basin bedrock foundation; dual-track ambient character)
+**Dominant Affinity Presence (Part 4):** Mixed (no single dominant — dual-track palace; both cultivation and technology ambient signatures present simultaneously)
+**Cultivation Synergy % (CS%) (Part 31 Area 21):** 70% — dual-track palace; cultivation-side (Sword Court, academy connections)
+**Technology Synergy % (TS%) (Part 31 Area 21):** 70% — dual-track palace; technology-side (Signet Court, guild hall connections)
+**Flora and Fauna:** Pigeons roost on a ledge near the last door of the household side's walk and clatter up from it at first light (Area 1.1.1.001.03). Everything else is OPEN-AREA.
+
+*[L — CS%/TS% updated if palace character changes]*
+
+---
+
+## Section 3 — Faction/Civilization Control (B/L)
+
+**Controlling Faction(s):** Azure Sky Kingdom — sovereign seat; controlled by the Crown-in-Twin (Varys + Valia)
+**Contested Status:** Not contested at story start
+**Known Characters Present:** King Varys (resident), Queen Valia (resident), Princess Varya (resident of Azure Sky Kingdom; where she lives in the palace is not yet established; her workroom is the Peg Room, 5.5); Prince Aegon of Gale Kingdom, who lodges in the king's house for the school term as a guest of the house, asleep there on the first morning by his father's account and not seen (Area 1.1.1.001.02); Ivo Lathram (Tier D), the palace's night wire clerk, who waited at the foot of the platform stair with the night's slips on the first morning (Area 1.1.1.001.02). Seen in Area 01: Varys, alone on the west-edge platform from the last dark hour of the first morning until first light, then going down its stair; the palace behind him asleep, with no window lit, no step on the terrace and no door (Area 1.1.1.001.01). Seen on the household side at first light on the first morning: Varys walks it from the inner doors to its last door; Queen Valia crosses its cross-passage, closes a small hurt in a man's wrist in passing and goes through the door where her queue of unnamed men and women waits; Princess Varya works at a table in the Peg Room, her small workroom, with the king passing its open door and she unaware of him; none of the three is shown with another, and the workers of the household are unnamed and none speaks (Area 1.1.1.001.03). Seen in the Sword Court hours after first light on the first morning: Varys, the last to come, standing at the foot of the steps; the floor clerk Nessa Pryor (Tier D) beside the long table; the miller Garth Maddock (Tier D), the day's first petitioner; and the hall's petitioners as unnamed texture, none speaking (Area 1.1.1.001.04). Seen in the Signet Court on the morning of 1247.1.2 / PD 2 (Chapter 003, Ref: 1.1.1.003): see `signet-court.md`, Section 3.
+
+*[L — Updated at every control change, character arrival/departure, or significant event]*
+
+---
+
+## Section 4 — Events Log (L)
+
+| Area Reference | Event Summary | Parts Triggered | Sections Updated |
+|---|---|---|---|
+| 1.1.1.001.01 — The Hour on the West Platform | First use of the palace in an Area. The west-edge platform is in use at the last dark hour of the first morning of the year (1247.1.1 / PD 1), with Varys alone on it until first light. The Twin Courts Bridge is first used, overhead (name and elevation now immutable; a flame lit in its span; nothing else about the span described). The stair along the platform's flank is first shown, open to the roofs, its steps cut from the same blue-flecked rock as the slabs. Also first shown: frost on the slabs' seams, the slab nearest the edge worn a shade paler, and the palace asleep in its tiers. | Parts 13, 28, 41 | Header (First Area Appearance); Section 1 (the Twin Courts Bridge); Section 3; Section 4; Sections 5.1 to 5.4 |
+| 1.1.1.001.02 — What the Wire Brought Down | The foot of the platform stair and the upper courtyard are first shown, at first light on the first morning (1247.1.1 / PD 1). The stair turns back on itself in a last turn, and its last step opens onto the courtyard's paved stones; frost lies on the stones, a line of dark prints leads through it to where a man stood, and the light reaches the top of the stair wall before the foot. The palace's night wire clerk waits at the stair's foot with the night's slips and does not climb; whether he waits there daily is not stated. The palace's inner doors stand across the courtyard from the stair's foot, and a door-bar is dragged out of its brackets from beyond them as the light comes, which reads as the doors barred at night and drawn at first light. Prince Aegon is named as lodged in the king's house (Section 3). | Parts 13, 28, 41 | Section 3; Section 4; Sections 5.1 to 5.4 |
+| 1.1.1.001.03 — The Palace Wakes Around Him | The household side is first shown, at first light on the first morning (1247.1.1 / PD 1), from the inner doors to the last door of its walk. The doors open inward as the door-bar's scrape ends, and only a forearm in a rolled brown sleeve is shown of whoever drew the bar. Beyond them a low stone passage as cold as the courtyard, with a kitchen doorway on the right, steam climbing under the rafters, high narrow windows with thick, slightly green panes, and planking farther in; the household's workers are unnamed and none speaks. A worker with a tray halts in a doorway and the king stops with them, one instance with no custom stated. A cross-passage on the left ends in a shut door with a short queue of unnamed men and women waiting; Queen Valia crosses to it, closes a small hurt in a man's wrist in passing, and goes through. Princess Varya works in the Peg Room, a small workroom of her own (new place, see peg-room.md). The household thins into empty rooms, and the last door of the walk, dark oak with an iron latch, opens outward onto the day with the light full on the roofs. Pigeons, a groaning gate and the city's low noise are heard through it. The household's greeting to the king, the duty of the door-bar, court and class decorum and the way Varys left the household in the last dark hour stay not established. | Parts 13, 28, 39, 41 | Section 2 (Flora and Fauna); Section 3; Section 4; Sections 5.1, 5.3 and 5.5 |
+| 1.1.1.001.04 — The Long Hall Takes the Morning | The Sword Court is first shown in an Area, hours after first light on the first morning (1247.1.1 / PD 1), after the two morning bells that open the Courts had rung long before: the hall entered by its open south door, the path between two rows of tall stands, the open floor for petitioners, the long table, the steps and the throne at the far end, the open pillars on the east side, the carving over the door and a floor of petitioners waiting. The king arrives last, gives the paired acknowledgement and stands at the foot of the steps; the floor clerk reads the first name; a miller crosses the hall, is broken by it when he calls out and carried by it when he speaks low, and is heard and answered. The city's noise comes in through the pillars. See 5.6. | Parts 13, 22, 25, 28, 39, 41 | Section 1 (the walk's use); Section 3; Section 4; Sections 5.1 and 5.6; the location-form block |
+| 1.1.1.003 — The Lone Banner (1247.1.2 / PD 2) | The Signet Court is first shown in use, as "the Court" and "the hall" (see `signet-court.md` §5.2). The covered span between the two halls is crossed on the page for the first time: a runner brings the king's finding of the day before from the Sword Court to the Signet Court at an even pace, and late in the morning the Grand Marshal, Bastion Crowe of the Skysworn and King Varys come over it together; the news of the mine clerk's death is said on the span. | Parts 13, 28, 41 | Section 1 (the Twin Courts Bridge); Section 3; Section 4 |
+
+---
+
+## Section 5 — Lore (Part 28 Area 17)
+
+**Schema:** Part 28 Area 17.2 — Location Domain (royal seat tier)
+**Depth Standard:** Part 28 Area 17.3 — Breadth-and-Depth (full depth — Phase 1 primary scene setting anticipated; pre-established canon, precise scene-of-origin to be reconfirmed when this location is actually written)
+**Audit Hook:** ALCA dimension AL-10 (`guardrails/audit/guardrail-alca.md`)
+
+### 5.1 — Architectural Signature
+
+The Azure Sky Palace is a paired architectural complex: two physically separated audience halls (Sword Court for cultivation petitions; Signet Court for technology petitions) bridged by a central reconciliation chamber where dual-signature edicts are ratified. The Sapphire Basin capital's azure roof tiles are visible from the palace platform, catching first light in the particular way that gives the kingdom its name.
+
+**Shown in Area 01 (Ref: 1.1.1.001.01).** Seen from the west-edge platform at the last dark hour, the palace behind a standing man is black and wide, rising in tiers that are dark from terrace to ridge, each roof set a little higher than the one below, and it sleeps: no window lit, no step on the terrace, no door. The first light that blues the city's roofs reaches the lip of the platform only after it has crossed them.
+
+**Shown in Area 02 (Ref: 1.1.1.001.02).** The palace's inner doors are seen across the upper courtyard from the stair's foot, with a door-bar kept in brackets that is dragged out from beyond them at first light (see 5.2).
+
+**Shown in Area 03 (Ref: 1.1.1.001.03).** The household's side of the palace lies beyond the inner doors and is shown from them to the last door of its walk (see 5.5).
+
+**Shown in Area 04 (Ref: 1.1.1.001.04).** The Sword Court, one of the two audience halls, is shown in use (see 5.6).
+
+### 5.2 — The Platform
+
+The west-edge upper courtyard platform is the location of Varys's daily pre-dawn contemplation practice — 11 continuous years of mornings (pre-established canon; precise scene-of-origin to be reconfirmed when this location is actually written). No railing. Built for sight. Sapphire Basin bedrock, blue-flecked, laid without mortar. The stone was chosen for flatness and for the density that holds the highland winters without cracking. Three inscription bands on the north face: cultivation-script (top), technology-schematic (middle), old foundational hand (bottom — predates both scripts). The view north: the Windward Range's silhouette on clear mornings. The view east: the direction of the Long Coast, about 480 km away.
+
+**Shown in Area 01 (Ref: 1.1.1.001.01): the platform in use.** The platform is a floor of blue-flecked slabs fitted without mortar, flat as a table, ending in air; the flecks hold what little light there is, like spilled salt. The slab nearest the edge is worn a shade paler than the rest. Varys stands on it, and a hand's breadth beyond his boots the slab ends and the air drops away to the nearest roof. No other stone in the palace gives the Windward Range, or the road running out toward it. The Twin Courts Bridge crosses overhead (Section 1). On a cold spring morning frost whitens the seams between the slabs and ticks once as the air moves over it. A stair runs down along the platform's flank with the slope of roofs open beside it; its steps are cut from the same blue-flecked rock as the slabs, and the wall beside them is dry where the frost does not reach. The stair turns on its way down, and the wall then closes the view of the plain; its length, its foot and where it opens into the upper courtyard are not shown. The three inscription bands on the north face are not shown in Area 01. The Area confirms the pre-established description above (the platform on the west edge, no rail, blue-flecked stone laid without mortar, the view north to the Range) and contradicts none of it.
+
+**Shown in Area 02 (Ref: 1.1.1.001.02): the stair's foot and the upper courtyard.** The stair turns back on itself in a last turn, and its last step opens onto the upper courtyard's paved stones. Frost lies on the stones at first light, and a line of dark prints leads through it to the stair's foot, the oldest already filmed over again. The light reaches the top of the stair wall before the foot: a line of blue lies along the wall's top while the foot is still grey, and the blue comes down the wall as the light grows. The palace's night wire clerk waits at the stair's foot with the night's slips of paper and does not climb; no reason is given and no rule is stated. The palace's inner doors stand across the courtyard from the stair's foot, and from beyond them a door-bar is dragged out of its brackets as the light comes, a long dry scrape still going when a man reaches the doors; the Area reads as a door-bar kept in brackets across the doors through the night and drawn at first light. **Not established:** the length of the stair, the courtyard's size and shape, whose duty it is to draw the bar, which doors these are among the palace's doors, whether the clerk waits at the stair's foot every morning, and by what way Varys left the household for the platform in the last dark hour (OPEN-AREA).
+
+**Narrative summary (as of Area 02).** The west-edge platform is a bare, railless floor of blue-flecked stone set above the roofs, the one place in the palace that looks out over the city and the plain to the Windward Range and the road that runs toward it. Its slabs are flat and tight-fitted; the one nearest the edge is worn a shade paler than the rest and sits a hand's breadth from a drop to the nearest roof. In the last dark hour of a spring morning it is frosted along its seams and still but for a thread of wind, and it carries the small sounds of whoever stands on it: a heel turning on stone, cloth, a hilt in a palm. The Twin Courts Bridge crosses above it with one yellow flame in its span. Behind it the palace sleeps in its dark tiers. When the light comes it crosses the city's roofs first and reaches the platform's lip last, and a stair along the platform's flank, cut from the same stone and open to the roofs on one side, takes a man down ahead of it. At its foot the last step opens onto the upper courtyard's frosted stones, where the palace's night wire clerk waits at first light with the night's slips, and across the courtyard the palace's inner doors are barred through the night and drawn with a long scrape of the bar at first light (Area 1.1.1.001.02).
+
+### 5.3 — Climate and Seasonal Texture (axis 13; Part 13 Area 27)
+
+**Established:** on the first morning of spring (the in-world season names are set for Azorion in `azorion.md` §5.14), in the last dark hour the platform is cold and clear above, with frost whitening the seams between the slabs and a standing man's breath hanging as a white cloud before it thins and is gone. The air is still, then a thread of wind comes over the edge once the forms are under way. The basin's haze lies below the platform and rises only to the tallest chimneys (Area 1.1.1.001.01). At first light the courtyard's stones below are frosted and grey, going blue as the light comes down the stair wall from its top, and the cold gets in at an open coat (Area 1.1.1.001.02). On the household side the stone passage just inside the inner doors is as cold as the courtyard had been, kitchen steam climbs and hangs under the rafters, the daylight reaches the floor by stages through high windows, and the sky behind the glass is still grey; by the last window of the walk the light has weight, and at the last door it is full on the roofs (Area 1.1.1.001.03). **Not established:** the platform in other seasons, in rain or in wind, and what the highland winters do beyond the stone holding them without cracking (Section 1) (OPEN-AREA).
+
+### 5.4 — Hazards and Dangers to a Visitor (axis 14)
+
+**Established:** the platform has no rail, and a hand's breadth beyond the edge slab the air drops away to the nearest roof; frost lies on the seams between the slabs on a cold morning; the platform is reached by a stair along its flank (Area 1.1.1.001.01). **Not established:** whether the stair is guarded and any other danger (OPEN-AREA). Who uses the stair is a conduct fact of Varys's ledger (`varys.md` Section 11, `B39-L16-PERMIT-99` and `B39-L13-BOUND-06`) and is not restated here.
+
+### 5.5 — The Household Side (axis 12)
+
+**Shown in Area 03 (Ref: 1.1.1.001.03): the household side at first light on the first morning.** What follows is met in the order one walker meets it, from the inner doors to the last door of the walk. Every item is a first-use fact and an instance, never a custom.
+
+- **The inner doors.** The doors open inward. The door-bar's scrape ends in a knock of wood on stone, and a forearm in a rolled brown sleeve goes back behind the nearer leaf; nothing more of whoever drew the bar is shown.
+- **The passage and the kitchens.** Beyond the doors the passage runs low and stone-floored and is as cold as the courtyard had been. A kitchen doorway opens on the right, and steam rolls out of it, climbs and hangs under the rafters in a grey bank. High narrow windows in the outer wall carry thick, slightly green panes; the daylight reaches the steam by stages and then the floor, which turns the colour of skimmed milk. The kitchen holds a range, a rack of ladles, tongs and a trough filled from a height, and a room farther along holds shelves of crocks stacked to the ceiling. The workers are unnamed and none speaks: a cook in a sleeveless tunic who lifts a lid on a folded cloth, a woman scouring a pan with sand, a man stirring a pot with a paddle taller than himself and a girl setting bowls along a board. Elsewhere along the passage a worker half-runs with an armful of cloth, a maid carries linen piled to her chin, a boy carries split wood in a basket and a broom works over a threshold. Doors slap shut and bolts shoot back, and no head lifts as the king passes.
+- **The tray-stop (one instance, no custom).** A worker comes out of a side door into the steam with a tray of cups and a covered dish and halts in the open doorway, and the king stops too. Nothing is said, no bow is made and no title is used. When the cups shift the worker walks on, and the two pass each other at the narrowest part of the passage. The household's greeting to the king stays not established.
+- **The floor and the light.** Farther in, the stone gives way to planking and the sound of steps turns flat and close. The light lies across the planks in broad pale panels beneath each high window, from no one direction, so that bodies cast no shadow. Steam wanders into the panels and turns as pale as they are, and the walls lighten from the top down.
+- **The cross-passage and the queue.** On the left a second passage opens. At its far end, beneath a window, a door is shut, and a short queue of grown men and women, all unnamed, waits along the wall beside it with caps in their hands, one man with a cloth wound round his hand and one woman leaning on a stick. They keep to the wall and leave the passage clear. Queen Valia comes into the far end from the right with her sleeves pushed above the elbow, her qi held so close against her that the hurt people in the queue feel nothing but a woman coming, the queue's motion stops as she reaches it, she lays a palm on a man's shoulder in passing and closes a small hurt in his wrist with one sure sweep of the palm (the man looks at his wrist, turns it, and the stiffness is gone), and goes through the door, which shuts behind her. The room behind the door is not shown, named or described (OPEN-AREA). No one speaks.
+- **The Peg Room.** Beyond the next turn past the cross-passage a door stands open on Princess Varya's small workroom, the Peg Room (`ledger-worlds-location/peg-room.md`). The king crosses its doorway without entering, and she does not turn.
+- **Beyond the Peg Room.** The household thins. Doors stand open on empty rooms, and in the nearest a table is laid with bowls for a meal still to come, the chairs pushed in and a cloth folded on every seat. At the last window the light is no longer pale.
+- **The last door of the walk.** The corridor ends at a door heavier than the rest, of dark oak with an iron latch that is grey, plain and worn a little at the lift. Light shows under it and round it in a thin strip, and a draught comes in beneath. Through the oak come the day's own sounds: pigeons clattering up from a ledge, a gate groaning open somewhere below and the wide low noise of the city. The door opens outward on a long low note of hinges onto a day in which the light is full on the roofs. What lies beyond the sill is not described.
+
+**Not established:** the household side's size, plan and number of rooms; any name for its kitchens, passages or rooms; who the cook, the other workers and the people in the queue are; what the room behind the queue's door is (OPEN-AREA); whether the household has a greeting for the king or the queen, and what it is; court and class decorum, including where a member of the house may go and what she may be seen doing (the palace block lists it as not established); whose duty it is to draw the inner door-bar; which of the palace's doors the inner doors are; by what way Varys left the household for the platform in the last dark hour (OPEN-AREA); what lies beyond the last door.
+
+**Narrative summary (as of Area 03).** The household side of the palace is awake before the king reaches it. Past the inner doors, which open inward as the bar's scrape ends, a cold low passage runs between the kitchens, where steam climbs under the rafters and the cooks and scourers work without lifting their heads, and a run of doors that let out the sound of work and a little more cold. The king walks it at one speed, stops once for a worker halted with a tray, and glimpses, as the light comes in by stages through high narrow windows, the queen crossing to a door where a short queue of unnamed men and women waits for her and easing a man's wrist in passing, and the princess at a table in a workroom of her own. Beyond that the rooms stand empty and laid for a meal still to come, and a last heavy door of dark oak opens outward on the city's day, with the light full on the roofs (Area 1.1.1.001.03).
+
+### 5.6 — The Sword Court in Use (axis 12)
+
+**Shown in Area 04 (Ref: 1.1.1.001.04): the Sword Court hours after first light on the first morning.** What follows is met in the order the king meets it, from the south door to the far end. Every item is a first-use fact and an instance, never a custom. The page's own plain words are given, with the ledger's term beside them where the ledger holds one.
+
+- **The south door and the hall's line.** The king stops in the open south door and looks up the hall's length: it runs away from the door to the north, where the throne stands at the far end. From the foot of the steps the open door is a small bright patch at the other end. No figure is given for the hall's length.
+- **The far end.** The throne is a tall plain chair at the top of wide steps (the dais of the character ledgers), with a wall of blue stone rising behind it (the deep-blue facing stone).
+- **The east side and the light.** Tall open pillars run along the east side, on the right as one enters (the east colonnade), open on the blue roofs of the city, which fall away down the hill. The sun, well up, comes in from the east through them and lights the side of the throne that faces them, and between the pillars it lays bright patches on the stone; the petitioners nearest the east side stand half in light and half in shade.
+- **The path and the stands.** Two rows of tall stands, each with a wide cup at the top where a light burns at night (the standing lamps), line the path up the middle of the hall; by day the cups are empty.
+- **The floor and the table.** The path crosses the open floor where the petitioners gather, near the entrance; past it lies the long table, empty; past the table lies bare stone up to the steps. The air in the hall is cool.
+- **The petitioners.** The floor is full, in plain cloth in blue, grey and undyed wool, every face turned to the door. Most have waited since the bells. The king is the last to come, and none of them has yet said what they came to ask.
+- **The carving over the door.** Two strips of carving run one above the other over the south door: the top strip flowing writing, the bottom strip straight marks and angles, like a builder's plan (the paired inscription bands, cultivation side above and signet side below; the Area does not read or name them).
+- **The bells.** The two morning bells, the brass one first and the other right behind it with a long, bright ring, had rung long before to open the court (see `azorion.md` 5.12). The page does not give the hour they rang, only that the sun was by then well up.
+- **The paired acknowledgement.** Given once at the opening from the south door: the right hand open toward the upper strip and then the lower, then the shoulders (the left rising and pausing at the top, the right rising to meet it, both dropping together); the crowd waits for the pause and then moves, and nobody returns the form (see `azure-sky-kingdom-state.md`, THE FORMS ARE KEPT).
+- **The king's place.** He walks the path to the foot of the steps and stands on the floor and not on the steps, level with anyone who comes to him, with the throne empty at his back. While a petitioner crosses the hall he keeps his place and holds his presence drawn in until it is no more than an ordinary man's, so that the unawakened miller crosses the last of the hall with no pain in him but his own nerves (one instance, no custom).
+- **The floor clerk's place.** The floor clerk, Nessa Pryor, stands at the long table, at its end, with one sheet at her side. She has stood there since before the king came. She lifts the sheet to read each name and request, begins with the first name on it, reads in a flat, even voice that is not loud, with no qi under it and only breath and long practice, and carries down the hall, and then lowers the sheet and is still again. She does not address the king. A man at the back of the floor jumps at his name as if she were beside him. No desk, seat, pen or writing by anyone is shown.
+- **What the hall does to a voice.** It carries a low, even voice to the back of the hall and breaks a loud one: a loud call struck the stone behind the king and came back in pieces, and the same man's low voice, at talking distance, carried to the back. This is the ordinary behaviour of stone and a voice; the clerk's voice carries with no qi under it, only breath and long practice. No hum, frequency, vibration or resonance infrastructure is implied or permitted (author-removed concept, standing exclusion).
+- **What the walk is used for.** A petitioner who is called crosses the whole hall to the king's floor. The king reads him by his walk, and the length shortens a nervous man's steps. At the end of the long table, by the clerk, he can still turn back, and a few steps beyond her he cannot. He stops at talking distance. After the king answers, the clerk reads the next name and the petitioner walks back down the hall.
+- **The city's noise.** Voices, a seller in the street below calling the same words over and over, and hooves on stone come in through the open pillars.
+
+**Not established:** the hall's size and the number or height of the steps; the hall's west side and the way the covered span joins it; whether anyone lights the stands at night, and how; how the day's names are ordered on the sheet beyond the first; where the record of a finding is made and by whom, and where the dual signature is made; whether the king's greeting at the door is given at every opening of the Courts (one instance, no custom is shown); court and class decorum (the location-form block lists it as not established); and the clerk of record's place in the hall (nothing is shown or implied) (OPEN-AREA).
+
+**Narrative summary (as of Area 04).** The Sword Court is a long hall entered from the south by an open door under two strips of carving, with a floor of waiting petitioners near the door, then a path between two rows of tall stands, a long table, bare stone and wide steps, and a tall plain chair, empty, at the top with a wall of blue stone behind it. Tall open pillars on the east side let in the sun, the city's roofs and the city's noise. The air is cool. A low even voice carries the length of the hall and a loud one comes back in pieces. On the first morning the king comes last, greets the room in the court's way, walks the path and stands on the floor at the foot of the steps; the floor clerk reads each name and request from one sheet at the end of the long table; a miller crosses the hall to the king, is heard through to the end and is answered, and the clerk reads the next name (Area 1.1.1.001.04).
+
+---
+
+
+
+
+---
+
+## Collective Behavior Code (Part 39 Layer L19) (B/L)
+
+**Code Status:** Registered 2026-10-06. Location form (Part 37 Area 2.4 addendum), one block for the whole palace complex; the Sword Court and the Twin Courts Bridge are rows of this file and take no block of their own.
+**Members currently bound:** the members of the Azure Sky Kingdom ruling-state code while they are in the palace, as that code lists them (`ledger-people-society-faction/azure-sky-kingdom-state.md`). Place lines are registered here for King Varys only (`varys.md` section 11.5: `B39-L19-PLACE-02`, `B39-L13-BOUND-06`). `[DERIVED]`
+**Shared conduct, greeting and deference ritual, in-group markers, conduct toward outsiders, conduct when the group is criticized, induction conduct, enforcement:** carried by the kingdom code and not restated here. `[DERIVED]`
+**For locations only, conduct the place imposes:**
+- What anyone standing here does differently, member or not: nothing is registered beyond the build of the place (the platform has no rail and is built for sight, not comfort; section 1 and 5.2). `[DERIVED]`
+- What is forbidden here by custom rather than by rule: (1) the stair to the west-edge platform is never barred and no prohibition has ever been stated; nobody is invited up, and the night wire clerk waits at its foot and does not climb (Area 1.1.1.001.02; no reason given, no rule stated). (2) The palace schedules around the king's hour, with no written order ever saying so. `[DERIVED]`
+- The Sword Court (hall): built long so that crossing it takes time; a visitor entering by the south door crosses the petitioners' floor first and only then reaches the long table; the standing lamps stand in twin rows flanking that walk; the hall's cold is by design; a voice pitched flat and unhurried carries its length without being raised (no hum, frequency, vibration or resonance infrastructure). The floor clerk's voice carried with no qi under it, only breath and long practice (Area 1.1.1.001.04). The forms of an audience stay with THE FORMS ARE KEPT in the kingdom code. Nessa Pryor's place (beside the long table) and the petitioner's trade (a miller) were first shown in the Sword Court section, 5.6 (Area 1.1.1.001.04), as instances, and are not place conduct. `[DERIVED]`
+- Not established and not written here: court and class decorum (where a member of the house may go and what she may be seen doing; kingdom-code open item 5); whose duty it is to draw the inner door-bar; the household's greeting to the king (one instance and no custom is shown, in 5.5: a worker with a tray halted as he passed and he stopped with them).
+
+**Registered deviations by member:** King Varys: kingdom-code seam `B39-L19-SEAM-99` (the pre-dawn hour); place line `B39-L19-PLACE-02` (the platform), cited and not re-registered. Princess Varya: her seam `B39-L19-SEAM-07` is cited and this block supplies it no target. Queen Valia: none registered at this place.
+
+---
+
+**Changelog:** Updated 2026-10-06: Collective Behavior Code block, the empty stub to the registered location-form block, Part 39 Rule 39.23.1.5, palace location code registered at the Area 03 consultation by author approval, Option A plus Sword Court paragraph.
+
+**Changelog:** Updated 2026-10-06: Sections 1, 3, 4 and 5.1 extended and Section 5.6 (the Sword Court in use) added from the Gate 2 of Area 1.1.1.001.04; the location-form block's Sword Court line corrected, since the clerk's place and the petitioner's trade are now shown.
+
+**Changelog:** Updated 2026-10-17: Sections 3, 4, 5.5 and 5.6 amended at the Gate 2 of the Chapter 001 retrofit (Areas 03 and 04 rewritten for Part 29 Rule 29.12.1.3, cultivation visibility): the queen's small heal and her qi held close in the queue (5.5), the clerk's voice with no qi under it and the king's presence drawn in at the petition (5.6); no Baseline field changed.
+
+**Changelog:** Updated 2026-10-17: Sections 1, 3 and 4 extended at the Gate 2 of the whole-built Chapter 003 (Ref: 1.1.1.003): the covered span first crossed on the page (the Twin Courts Bridge block) and the Signet Court first shown in use (pointer to `signet-court.md`); no Baseline field changed and no immutable line altered.

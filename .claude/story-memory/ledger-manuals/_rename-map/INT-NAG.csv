@@ -1,0 +1,71 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-NAG-001-01,Second Course Ready Guard,Layered Ishizukibase,F1,Senior L3 Low,A
+MV-INT-NAG-001-02,Qi-Edged Rising Sweep,Ruthless Harai,F1,Senior L3 Low,A
+MV-INT-NAG-001-03,Pull-Back Draw Cut,Dire Habakiring,F1,Senior L3 Low,A
+MV-INT-NAG-001-04,Forearm-Level Thrust,Dire Nagaheel,F1,Senior L3 Low,A
+MV-INT-NAG-001-05,Open-Palm Slide Parry,Stalwart Sayacap,F1,Senior L3 Low,A
+MV-INT-NAG-001-06,Crossing Step Advance,Haraihurdle,F4,Senior L3 Low,A
+MV-INT-NAG-001-07,Surging Crescent Sweep,Lurching Tsubaring,F1,Senior L3 Low,A
+MV-INT-NAG-001-08,Shaft-Wrapped Binding Turn,Nagascreen,F4,Senior L3 Low,A
+MV-INT-NAG-002-01,Root-Gripped Stance,Stubborn Nagablade,F1,Senior L5 Mid,A
+MV-INT-NAG-002-02,Blade-Root Hacking Cut,Harsh Bladecurve,F1,Senior L5 Mid,A
+MV-INT-NAG-002-03,Haft-Slide Entering Thrust,Lurching Ishizuki,F1,Senior L5 Mid,A
+MV-INT-NAG-002-04,Root-Catch Parry,Ishiprop,F4,Senior L5 Mid,A
+MV-INT-NAG-002-05,Qi-Anchored Heel Cut,Sukuiflog,F4,Senior L5 Mid,A
+MV-INT-NAG-002-06,Rooted Counter Spin,Stubborn Ishizuki,F1,Senior L5 Mid,A
+MV-INT-NAG-003-01,Spinning Guard Opening,Ishibuckle,F4,Senior L7 High,A
+MV-INT-NAG-003-02,Spin-Top Wrist Cut,Doughty Sukui,F1,Senior L7 High,A
+MV-INT-NAG-003-03,Underarm Reverse Sweep,Sunethwack,F4,Senior L7 High,A
+MV-INT-NAG-003-04,Rear-Hand Backslash,Rude Kake,F1,Senior L7 High,A
+MV-INT-NAG-003-05,Counter-Spin Parry,Nagabuckle,F4,Senior L7 High,A
+MV-INT-NAG-003-06,Pivot Slip Entry,Sukuistalk,F4,Senior L7 High,A
+MV-INT-NAG-003-07,Shaft-Tip Beat,Viselike Nagashaft,F1,Senior L7 High,A
+MV-INT-NAG-003-08,Wheeling Haft Barrier,Buttressed Nagatip,F1,Senior L7 High,A
+MV-INT-NAG-003-09,Spin-Release Long Sweep,Ishizukibase Swat,F3,Senior L7 High,A
+MV-INT-NAG-003-10,Winding Haft Entangle,Lassoing Uchiotoshi,F1,Senior L7 High,A
+MV-INT-NAG-004-01,Edge-Following Qi Hold,Sleet Habakiring,F2,Warrior L1 Low,B
+MV-INT-NAG-004-02,Curve-Riding Slice,Nagaflog,F4,Warrior L1 Low,B
+MV-INT-NAG-004-03,Tip-Whip Flick,Statickake,F5,Warrior L1 Low,B
+MV-INT-NAG-004-04,Edge-Turn Parry,Rillsune,F5,Warrior L1 Low,B
+MV-INT-NAG-004-05,Sliding Glance Step,Gritnagi,F5,Warrior L1 Low,B
+MV-INT-NAG-004-06,Edge-Lengthening Qi Cut,Clay Nagi,F2,Warrior L1 Low,B
+MV-INT-NAG-004-07,Curve-Cutting Cross Draw,Clay Sayacap,F2,Warrior L1 Low,B
+MV-INT-NAG-005-01,Counter-Sweep Waiting Guard,Sprigishi,F5,Warrior L2 Mid,B
+MV-INT-NAG-005-02,Parry-Then-Sweep Return,Honedharai,F5,Warrior L2 Mid,B
+MV-INT-NAG-005-03,Passing Foe Outside Cut,Wild Harai,F1,Warrior L2 Mid,B
+MV-INT-NAG-005-04,Downward Smothering Press,Clay Nagablade,F2,Warrior L2 Mid,B
+MV-INT-NAG-005-05,Double-Beat Feint Tap,Bladecurve Buckle,F3,Warrior L2 Mid,B
+MV-INT-NAG-005-06,Withdraw-and-Sweep Step,Rillsukui,F5,Warrior L2 Mid,B
+MV-INT-NAG-005-07,Answering Sweep,Raw Uchiotoshi,F1,Warrior L2 Mid,B
+MV-INT-NAG-005-08,Over-the-Shaft Turnabout,Rill Tsubaring,F2,Warrior L2 Mid,B
+MV-INT-NAG-005-09,Turned-Tide Low Sweep,Brawn Kake,F2,Warrior L2 Mid,B
+MV-INT-NAG-006-01,Sliding Grip Stance,Regimen Nagaheel,F2,Warrior L3 High,B
+MV-INT-NAG-006-02,Slip-Along Thrust,Gleamsukui,F5,Warrior L3 High,B
+MV-INT-NAG-006-03,Mid-Slide Hooking Cut,Brutal Nagatip,F1,Warrior L3 High,B
+MV-INT-NAG-006-04,Slide-Back Guard Recovery,Bladecurve Hasp,F3,Warrior L3 High,B
+MV-INT-NAG-006-05,Reach Switch Step,Rill Mawashi,F2,Warrior L3 High,B
+MV-INT-NAG-006-06,Shaft Lock Jam,Discord Habakiring,F2,Warrior L3 High,B
+MV-INT-NAG-006-07,Full-Slide Extension Sweep,Vicious Harai,F1,Warrior L3 High,B
+MV-INT-NAG-006-08,Snapped Slide Piercing,Honed Nagi,F2,Warrior L3 High,B
+MV-INT-NAG-007-01,Reach-Return Base Stance,Sleet Nagashaft,F2,Warrior L5 Low,B
+MV-INT-NAG-007-02,Outward Reach Slash,Crimson Ishizukibase,F2,Warrior L5 Low,B
+MV-INT-NAG-007-03,Inward Return Cut,Ember Mawashi,F2,Warrior L5 Low,B
+MV-INT-NAG-007-04,Return-Line Block,Ishizuki Buckle,F3,Warrior L5 Low,B
+MV-INT-NAG-007-05,Reach-Return Weaving Cut,Ruthless Kake,F1,Warrior L5 Low,B
+MV-INT-NAG-007-06,Long Beat Past the Guard,Nagiprop,F4,Warrior L5 Low,B
+MV-INT-NAG-008-01,Hook-Ready Guard,Nagaprop,F4,Warrior L6 Mid,B
+MV-INT-NAG-008-02,Blade-Back Collar Haul,Humnaga,F5,Warrior L6 Mid,B
+MV-INT-NAG-008-03,Hook-and-Cut Follow,Crimson Mawashi,F2,Warrior L6 Mid,B
+MV-INT-NAG-008-04,Blade-Back Rap,Draught Sukui,F2,Warrior L6 Mid,B
+MV-INT-NAG-008-05,Leg Hook Trip,Nagibuckle,F4,Warrior L6 Mid,B
+MV-INT-NAG-008-06,Hook-Release Step,Clay Tsubaring,F2,Warrior L6 Mid,B
+MV-INT-NAG-008-07,Dragging Hook Bind,Entangling Nagaheel,F1,Warrior L6 Mid,B
+MV-INT-NAG-008-08,Hook-Spin Throw-Down,Hum Uchiotoshi,F2,Warrior L6 Mid,B
+MV-INT-NAG-008-09,Pulled-Open Guard Cut,Static Nagi,F2,Warrior L6 Mid,B
+MV-INT-NAG-009-01,Steady Shaft Foundation,Armored Nagablade,F1,Warrior L8 High,B
+MV-INT-NAG-009-02,Plumb-Line Descent,Hungry Sayacap,F1,Warrior L8 High,B
+MV-INT-NAG-009-03,Level-Line Thrust,Savage Nagashaft,F1,Warrior L8 High,B
+MV-INT-NAG-009-04,Haft Anchor Block,Buttressed Nagashaft,F1,Warrior L8 High,B
+MV-INT-NAG-009-05,Weight-Settling Step,Prowling Uchiotoshi,F1,Warrior L8 High,B
+MV-INT-NAG-009-06,Unmoving Shaft Counter,Hum Nagablade,F2,Warrior L8 High,B
+MV-INT-NAG-009-07,Crushing Haft Line,Momentnaga,F5,Warrior L8 High,B

@@ -1,0 +1,138 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-MAU-001-01,Paired-Stroke Waiting Guard,Maulhead Covenant,F3,Warrior,B
+MV-SIG-MAU-001-02,First-of-Pair Overhead Fall,Sledgebanner,F4,Warrior,B
+MV-SIG-MAU-001-03,Matched Footfall,Heavyhelve Voyage,F3,Warrior,B
+MV-SIG-MAU-001-04,Second-Stroke Hammer Follow,Haemalmallet,F5,Warrior,B
+MV-SIG-MAU-001-05,Pair-Turning Haft Parry,Undefiled Wedgeface,F1,Warrior,B
+MV-SIG-MAU-001-06,Linked Weapon Wrench,Beetletroth,F4,Warrior,B
+MV-SIG-MAU-001-07,Paired Crush on the Guard,Vigor Mallethead,F2,Champion,B
+MV-SIG-MAU-001-08,Echo-Stroke Ground Hammer,Unrivaled Flatten,F1,Champion,B
+MV-SIG-MAU-001-09,Matched Fall of the Heavy Pair,Matchless Gripbulge,F1,Demigod,B
+MV-SIG-MAU-001-10,Paired Stroke Verdict,Famed Haemal Thud,F6a,Warrior,B
+MV-SIG-MAU-002-01,Deep-Basin Sunken Guard,Statute Sledgeface,F2,Warrior,B
+MV-SIG-MAU-002-02,Rim-to-Floor Overstroke,Steelquake,F5,Warrior,B
+MV-SIG-MAU-002-03,Basin-Wade Footwork,Vigorendcap,F5,Warrior,B
+MV-SIG-MAU-002-04,Filling-Basin Hammering,Steelmallet,F5,Warrior,B
+MV-SIG-MAU-002-05,Spillway Haft Deflection,Squall Ironband,F2,Warrior,B
+MV-SIG-MAU-002-06,Basin-Wall Haft Pin,Pealquake,F5,Warrior,B
+MV-SIG-MAU-002-07,Sinking Stone Counterfall,Vigor Quake,F2,Warrior,B
+MV-SIG-MAU-002-08,Basin-Bed Maul Crush,Bedrock Pommelweight,F2,Champion,B
+MV-SIG-MAU-002-09,Deep-Basin Tremor,Beetlecrown,F4,Champion,B
+MV-SIG-MAU-002-10,Basin Floor Breaking Fall,Illustrious Sledge,F1,Demigod,B
+MV-SIG-MAU-002-11,Doctrine of the Full Basin,Magnificent Endcap Decree,F6b,Warrior,B
+MV-SIG-MAU-003-01,Bend-Bank Haft Guard,Statute Maulbutt,F2,Champion,B
+MV-SIG-MAU-003-02,Riverbank Overstroke,Thunderclap Sledgeface,F2,Champion,B
+MV-SIG-MAU-003-03,Eddy-Edge Sweep,Haemal Pulverize,F2,Champion,B
+MV-SIG-MAU-003-04,Curving Current Step,Dunequake,F5,Champion,B
+MV-SIG-MAU-003-05,Bend-Following Chain,Inferno Quake,F2,Champion,B
+MV-SIG-MAU-003-06,Undertow Haft Pull,Unbending Thud,F1,Champion,B
+MV-SIG-MAU-003-07,River-Meander Maul Parry,Heavyhelve Troth,F3,Champion,B
+MV-SIG-MAU-003-08,Cutbank Collapse Strike,Famed Gripbulge,F1,Champion,B
+MV-SIG-MAU-003-09,River-Bend Maul Descent,Steel Flatten,F2,Champion,B
+MV-SIG-MAU-003-10,Spring-Flood Ground Slam,Dunedolly,F5,Champion,B
+MV-SIG-MAU-003-11,Bend-Breaking Great Fall,Squall Endcap,F2,Demigod,B
+MV-SIG-MAU-003-12,The River's Bend Stroke,Peerless Haemal Mallethead,F6a,Champion,B
+MV-SIG-MAU-004-01,Ford-Watching Hawk Guard,Dollyvow,F4,Ruler,B
+MV-SIG-MAU-004-02,Hawk-Shadow Drop,Bedrock Maulbutt,F2,Ruler,B
+MV-SIG-MAU-004-03,Ford-Stone Hop,Spectral Maulhead,F1,Ruler,B
+MV-SIG-MAU-004-04,Paired Wingbeat Hammerings,Steel Pulverize,F2,Ruler,B
+MV-SIG-MAU-004-05,Ford-Guard Haft Sweep,Squallmallet,F5,Ruler,B
+MV-SIG-MAU-004-06,Talon-Pinned Weapon Wrest,Peremptory Sledge,F1,Ruler,B
+MV-SIG-MAU-004-07,Hawk-Over-Ford Crush,Steel Pommelweight,F2,Ruler,B
+MV-SIG-MAU-004-08,Ford-Bed Splitting Slam,Duneendcap,F5,Ruler,B
+MV-SIG-MAU-004-09,Hawk Stoops on the Crossing,Malletcrown,F4,Demigod,B
+MV-SIG-MAU-004-10,Ford Hawk's Falling Verdict,Squash Crown,F3,Ruler,B
+MV-SIG-MAU-005-01,High-Perch Haft Guard,Sainted Wedgeface,F1,Demigod,B
+MV-SIG-MAU-005-02,Hawk-Fall Overstroke,Sovereign Ironband,F1,Demigod,B
+MV-SIG-MAU-005-03,Azure Maul Glide Step,Dune Maulhead,F2,Demigod,B
+MV-SIG-MAU-005-04,Falling Hawk Barrage,Vaunted Pommelweight,F1,Demigod,B
+MV-SIG-MAU-005-05,Pinion Parry,Heavyhelve Seal,F3,Demigod,B
+MV-SIG-MAU-005-06,Beak-Point Haft Drive,Quenched Squash,F2,Demigod,B
+MV-SIG-MAU-005-07,Twin Wings Weapon Bind,Entropy Sledgeface,F2,Demigod,B
+MV-SIG-MAU-005-08,Hawk-Fall Maul Crush,Squall Thud,F2,Demigod,B
+MV-SIG-MAU-005-09,Skyfall Ground Hammer,Maulbutt Edict,F3,Demigod,B
+MV-SIG-MAU-005-10,Azure Hawk's Whole Fall,Haemal Endcap,F2,Demigod,B
+MV-SIG-MAU-005-11,Canon of the Falling Hawk,Fearless Pulverize Decree,F6b,Demigod,B
+MV-SIG-MAU-006-01,Core-Seated Maul Guard,Prismendcap,F5,Core Formation,B
+MV-SIG-MAU-006-02,Basin-and-River Overstroke,Thudverdict,F4,Core Formation,B
+MV-SIG-MAU-006-03,Core-Axis Maul Pivot,Skyborne Ironband,F1,Core Formation,B
+MV-SIG-MAU-006-04,Paired Current Haft Jab,Vacuumendcap,F5,Core Formation,B
+MV-SIG-MAU-006-05,Core-Driven Hammer Chain,Squall Quake,F2,Core Formation,B
+MV-SIG-MAU-006-06,River-Core Haft Deflection,Pallbeetle,F5,Core Formation,B
+MV-SIG-MAU-006-07,Basin-Pressed Weapon Crush,Thunderclap Mallethead,F2,Core Formation,B
+MV-SIG-MAU-006-08,Twinned Core Counterfall,Matchless Flatten,F1,Core Formation,B
+MV-SIG-MAU-006-09,Core-Weight Maul Fall,Imperial Sledge,F1,Core Formation,B
+MV-SIG-MAU-006-10,Basin-and-River Quake,Bedrock Wedgeface,F2,Core Formation,B
+MV-SIG-MAU-006-11,Core-Charged Great Fall,Bedrock Gripbulge,F2,Core Formation,B
+MV-SIG-MAU-006-12,Canon Stroke of Two Waters,Vigormallet,F5,Core Formation,B
+MV-SIG-MAU-007-01,High-Plateau Wind Guard,Heavyhelve Vow,F3,Warrior,B
+MV-SIG-MAU-007-02,Sworn-Head Overstroke,Inferno Squash,F2,Warrior,B
+MV-SIG-MAU-007-03,Windward Plant Step,Dune Flatten,F2,Warrior,B
+MV-SIG-MAU-007-04,Plateau-Wind Hammer Chain,Endcapcrown,F4,Warrior,B
+MV-SIG-MAU-007-05,Sworn Haft Deflection,Squall Wedgeface,F2,Warrior,B
+MV-SIG-MAU-007-06,Oath-Knot Weapon Wrench,Peal Maulhead,F2,Warrior,B
+MV-SIG-MAU-007-07,Gust-Riding Counterfall,Steel Sledgeface,F2,Warrior,B
+MV-SIG-MAU-007-08,High-Plateau Maul Descent,Inferno Mallethead,F2,Champion,B
+MV-SIG-MAU-007-09,Sworn-Stone Quake,Dune Gripbulge,F2,Champion,B
+MV-SIG-MAU-007-10,Sworn Head Great Fall,Vigordolly,F5,Demigod,B
+MV-SIG-MAU-007-11,Sworn Head Stroke of the High Plateau,Bedrock Quake,F2,Warrior,B
+MV-SIG-MAU-008-01,Bearing-Oath Haft Guard,Ironband Pledge,F3,Warrior,B
+MV-SIG-MAU-008-02,Oath-Line Overstroke,Valiant Squash,F1,Warrior,B
+MV-SIG-MAU-008-03,Heading-Held Maul Step,Wraithlike Pulverize,F1,Warrior,B
+MV-SIG-MAU-008-04,Bearing-Sworn Strike Chain,Matchless Sledge,F1,Warrior,B
+MV-SIG-MAU-008-05,Heading Parry,Inviolate Maulbutt,F1,Warrior,B
+MV-SIG-MAU-008-06,Misheading Haft Pry,Pealmallet,F5,Warrior,B
+MV-SIG-MAU-008-07,Sworn-Bearing Maul Crush,Thunderclap Thud,F2,Champion,B
+MV-SIG-MAU-008-08,Oath-Line Ground Hammer,Dune Maulbutt,F2,Champion,B
+MV-SIG-MAU-008-09,Bearing Oath Great Fall,Vigorsledge,F5,Demigod,B
+MV-SIG-MAU-008-10,The Bearing Oath Stroke,Vaunted Bedrock Sledgeface,F6a,Warrior,B
+MV-SIG-MAU-009-01,Rim-Rite Haft Guard,Revered Pommelweight,F1,Champion,B
+MV-SIG-MAU-009-02,Rim Gale Overstroke,Heroic Squash,F1,Champion,B
+MV-SIG-MAU-009-03,Rim-Edge Footfall,Vigor Flatten,F2,Champion,B
+MV-SIG-MAU-009-04,Rim-Rite Haft Jab,Intrepid Pulverize,F1,Champion,B
+MV-SIG-MAU-009-05,Rim-Gale Hammer Cycle,Sovereign Pommelweight,F1,Champion,B
+MV-SIG-MAU-009-06,Rim-Wind Parry,Pallmallet,F5,Champion,B
+MV-SIG-MAU-009-07,Rite-Bound Weapon Pry,Entropy Gripbulge,F2,Champion,B
+MV-SIG-MAU-009-08,Rimward Counterfall,Haemal Ironband,F2,Champion,B
+MV-SIG-MAU-009-09,Plateau Rim Maul Descent,Thunderclap Wedgeface,F2,Champion,B
+MV-SIG-MAU-009-10,Rim-Shaking Rite Slam,Intrepid Quake,F1,Champion,B
+MV-SIG-MAU-009-11,Great Rite of the Rim,Steel Thud,F2,Demigod,B
+MV-SIG-MAU-009-12,Rim Gale Rite Stroke,Steel Heavyhelve,F2,Champion,B
+MV-SIG-MAU-010-01,Wind-Turn Haft Guard,Sainted Maulhead,F1,Ruler,B
+MV-SIG-MAU-010-02,Turning-Gust Overstroke,Wedgeface Decree,F3,Ruler,B
+MV-SIG-MAU-010-03,Veering Step,Evanescent Heavyhelve,F1,Ruler,B
+MV-SIG-MAU-010-04,Wind-Shift Hammer Chain,Inferno Flatten,F2,Ruler,B
+MV-SIG-MAU-010-05,Veer and Sweep Parry,Undaunted Endcap,F1,Ruler,B
+MV-SIG-MAU-010-06,Shifted-Bearing Weapon Rap,Venom Endcap,F2,Ruler,B
+MV-SIG-MAU-010-07,Reversing Gust Strike,Noble Pommelweight,F1,Ruler,B
+MV-SIG-MAU-010-08,Maul Descent Where Wind Turns,Squall Sledgeface,F2,Ruler,B
+MV-SIG-MAU-010-09,Wind-Turn Ground Slam,Bedrock Mallethead,F2,Ruler,B
+MV-SIG-MAU-010-10,Great Fall at the Turning Wind,Quenched Thud,F2,Demigod,B
+MV-SIG-MAU-010-11,Stroke at the Wind's Turning,Magnificent Sledge,F1,Ruler,B
+MV-SIG-MAU-011-01,Heavy-Oath Haft Guard,Sanctum Maulbutt,F2,Demigod,B
+MV-SIG-MAU-011-02,Held-Weight Overstroke,Haemal Maulhead,F2,Demigod,B
+MV-SIG-MAU-011-03,Burdened Oath Step,Bedrock Ironband,F2,Demigod,B
+MV-SIG-MAU-011-04,Heavy Oath Hammer Chain,Steelendcap,F5,Demigod,B
+MV-SIG-MAU-011-05,Weighted Haft Parry,Parity Endcap,F2,Demigod,B
+MV-SIG-MAU-011-06,Oath-Burden Weapon Crush,Peal Mallethead,F2,Demigod,B
+MV-SIG-MAU-011-07,Heavy Oath Maul Descent,Haemal Sledge,F2,Demigod,B
+MV-SIG-MAU-011-08,Burdened Ground Quake,Majestic Thud,F1,Demigod,B
+MV-SIG-MAU-011-09,Oath Held Heavy Fall,Squashedict,F4,Demigod,B
+MV-SIG-MAU-011-10,Heavy Oath Stroke,Thudcrown,F4,Demigod,B
+MV-SIG-MAU-012-01,Core-Rooted Open Guard,Dollytroth,F4,Core Formation,B
+MV-SIG-MAU-012-02,Unwalled Gale Overstroke,Vigorthud,F5,Core Formation,B
+MV-SIG-MAU-012-03,Gale-Core Stride,Vigor Gripbulge,F2,Core Formation,B
+MV-SIG-MAU-012-04,Bearing-Core Haft Jab,Prismmallet,F5,Core Formation,B
+MV-SIG-MAU-012-05,Core Gale Hammer Chain,Squallbeetle,F5,Core Formation,B
+MV-SIG-MAU-012-06,Open-Core Haft Deflection,Deluge Wedgeface,F2,Core Formation,B
+MV-SIG-MAU-012-07,Core-Pressed Weapon Wrench,Venomthud,F5,Core Formation,B
+MV-SIG-MAU-012-08,Gale-Core Counterfall,Vigorsquash,F5,Core Formation,B
+MV-SIG-MAU-012-09,Unwalled Core Maul Descent,Lordly Mallethead,F1,Core Formation,B
+MV-SIG-MAU-012-10,Gale Core Ground Splitting,Tempestuous Maulhead,F2,Core Formation,B
+MV-SIG-MAU-012-11,Core Gale Great Fall,Squash Decree,F3,Core Formation,B
+MV-SIG-MAU-012-12,Stroke of the Unwalled Gale,Fearless Quake Banner,F6b,Core Formation,B
+MV-SIG-MAU-005-03,Dune Maulhead,Gliding Maulhead,F2,Demigod,B
+MV-SIG-MAU-007-03,Dune Flatten,Fleet Flatten,F2,Warrior,B
+MV-SIG-MAU-007-09,Dune Gripbulge,Quaking Gripbulge,F2,Champion,B
+MV-SIG-MAU-008-08,Dune Maulbutt,Toppling Maulbutt,F2,Champion,B
+MV-SIG-MAU-011-01,Sanctum Maulbutt,Warding Maulbutt,F2,Demigod,B

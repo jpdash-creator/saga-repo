@@ -1,0 +1,72 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-MUS-001-01,Court-Pair Standing Order,Ethereal Barrelband,F1,Warrior,B
+MV-SIG-MUS-001-02,Twin-Court Level Shot,Glacier Prime,F2,Warrior,B
+MV-SIG-MUS-001-03,Court Loader's Cover,Bedrock Bayonetlug,F2,Warrior,B
+MV-SIG-MUS-001-04,Paired Rank Pulse Count,Pan Mercy,F3,Warrior,B
+MV-SIG-MUS-001-05,Court Alternating Volley,Statute Serpent,F2,Warrior,B
+MV-SIG-MUS-001-06,Twin Barrel Parry,Fuzeseal,F4,Warrior,B
+MV-SIG-MUS-001-07,Court Crossing Volley,Entropy Wheellock,F2,Champion,B
+MV-SIG-MUS-001-08,Paired Court Advance,Dune Flintcock,F2,Champion,B
+MV-SIG-MUS-001-09,Twin-Court Breach Volley,Panedict,F4,Demigod,B
+MV-SIG-MUS-001-10,Rule of the Twin Court,Tempestuous Ramrod,F2,Warrior,B
+MV-SIG-MUS-002-01,Hawk-Wing File Spacing,Salvo Solace,F3,Warrior,B
+MV-SIG-MUS-002-02,Wing-Tip Sighting,Pealramrod,F5,Warrior,B
+MV-SIG-MUS-002-03,Wing-Beat Shot,Prismramrod,F5,Warrior,B
+MV-SIG-MUS-002-04,Left-Wing Feint Volley,Intrepid Stockbutt,F1,Warrior,B
+MV-SIG-MUS-002-05,Right-Wing Closing Sweep,Twilit Load,F1,Warrior,B
+MV-SIG-MUS-002-06,Wing-Folded Cover Crouch,Steel Lockplate,F2,Warrior,B
+MV-SIG-MUS-002-07,Hawk-Wing Qi Join,Wheellock Blessing,F3,Warrior,B
+MV-SIG-MUS-002-08,Wings Spread Volley,Aim Decree,F3,Champion,B
+MV-SIG-MUS-002-09,Stoop of the Folded Wings,Pulsar Stockbutt,F2,Champion,B
+MV-SIG-MUS-002-10,Hawk-Wing Enfilade Round,Smoke Verdict,F3,Demigod,B
+MV-SIG-MUS-002-11,Order of the Hawk's Wings,Magnificent Bedrock Ramrod,F6a,Warrior,B
+MV-SIG-MUS-003-01,River-Court Rank Posting,Dune Pan,F2,Champion,B
+MV-SIG-MUS-003-02,Bank-Line Dressing Call,Ramrodmercy,F4,Champion,B
+MV-SIG-MUS-003-03,Court-Ford Level Shot,Pulsar Aim,F2,Champion,B
+MV-SIG-MUS-003-04,Reed-Cover Kneel,Glacier Touchpan,F2,Champion,B
+MV-SIG-MUS-003-05,Court-Stream Qi Link,Vigorramrod,F5,Champion,B
+MV-SIG-MUS-003-06,Ripple Fire by Files,Imperial Serpent,F1,Champion,B
+MV-SIG-MUS-003-07,Rank-Turning Eddy,Squall Flintcock,F2,Champion,B
+MV-SIG-MUS-003-08,River-Court Barrel Ward,Undefiled Barrelband,F1,Champion,B
+MV-SIG-MUS-003-09,Flood-Court Volley,Solarload,F5,Champion,B
+MV-SIG-MUS-003-10,Ford-Denying Fire,Lordly Touchpan,F1,Champion,B
+MV-SIG-MUS-003-11,River-Court Torrent Volley,Dunepowder,F5,Demigod,B
+MV-SIG-MUS-003-12,Doctrine of the River Court,Gloom Salvo,F2,Champion,B
+MV-SIG-MUS-004-01,Dual-Track Line Posting,Skyborne Load,F1,Ruler,B
+MV-SIG-MUS-004-02,Track-Calling Cadence,Gracious Stockbutt,F1,Ruler,B
+MV-SIG-MUS-004-03,Track-Keeping Shot,Intrepid Powder,F1,Ruler,B
+MV-SIG-MUS-004-04,Track-Passing Handoff,Fuzegift,F4,Ruler,B
+MV-SIG-MUS-004-05,Locked Two-Track Advance,Powdervoyage,F4,Ruler,B
+MV-SIG-MUS-004-06,Double Track Guard,Unwavering Bayonetlug,F1,Ruler,B
+MV-SIG-MUS-004-07,Dual-Track Pinning Volley,Fuzebanner,F4,Ruler,B
+MV-SIG-MUS-004-08,Track-Splitting Volley,Imperial Prime,F1,Ruler,B
+MV-SIG-MUS-004-09,Dual-Track Line Break,Radiance Smoke,F2,Demigod,B
+MV-SIG-MUS-004-10,Doctrine of Two Tracks Unbroken,Resonant Tenet Smoke,F6a,Ruler,B
+MV-SIG-MUS-005-01,Azure Field Posture,Dunesalvo,F5,Demigod,B
+MV-SIG-MUS-005-02,Field-Seated Load,Vigor Flintcock,F2,Demigod,B
+MV-SIG-MUS-005-03,Azure-Line Aimed Shot,Powderdecree,F4,Demigod,B
+MV-SIG-MUS-005-04,Field-Tied Barrel Brace,Merciful Lockplate,F1,Demigod,B
+MV-SIG-MUS-005-05,Field-Lined Ball Flight,Radiance Wheellock,F2,Demigod,B
+MV-SIG-MUS-005-06,Field Guard at the Shoulder,Sainted Barrelband,F1,Demigod,B
+MV-SIG-MUS-005-07,Field Rim Approach Sense,Eclipse Bayonetlug,F2,Demigod,B
+MV-SIG-MUS-005-08,Azure Field Piercing Volley,Powderedict,F4,Demigod,B
+MV-SIG-MUS-005-09,Field-Wide Sheet of Shot,Bedrock Load,F2,Demigod,B
+MV-SIG-MUS-005-10,Azure Field Anvil Shot,Intrepid Lockplate,F1,Demigod,B
+MV-SIG-MUS-005-11,Azure Field Doctrine Round,Heroic Squall Serpent,F6a,Demigod,B
+MV-SIG-MUS-006-01,Core-Seated Standing,Spectral Aim,F1,Core Formation,B
+MV-SIG-MUS-006-02,Core-Breath Sighting,Panbenison,F4,Core Formation,B
+MV-SIG-MUS-006-03,Core-Steadied Level Shot,Radiance Salvo,F2,Core Formation,B
+MV-SIG-MUS-006-04,Core-Warmed Reload,Parity Touchpan,F2,Core Formation,B
+MV-SIG-MUS-006-05,Core-Pulse Ball,Thunderclap Bayonetlug,F2,Core Formation,B
+MV-SIG-MUS-006-06,Core-Held Hold,Vigorpan,F5,Core Formation,B
+MV-SIG-MUS-006-07,Core Rebound Ward,Squall Touchpan,F2,Core Formation,B
+MV-SIG-MUS-006-08,Core-Quickened Reload Step,Dune Aim,F2,Core Formation,B
+MV-SIG-MUS-006-09,Core-Fed Piercing Round,Vacuum Prime,F2,Core Formation,B
+MV-SIG-MUS-006-10,Core-Wide Volley Sheet,Storied Powder,F1,Core Formation,B
+MV-SIG-MUS-006-11,Core Heart Ball,Radiance Ramrod,F2,Core Formation,B
+MV-SIG-MUS-006-12,Canon of the Core-Sighted Shot,Imperial Pan,F1,Core Formation,B
+MV-SIG-MUS-001-02,Glacier Prime,Searing Prime,F2,Warrior,B
+MV-SIG-MUS-001-08,Dune Flintcock,Swift Flintcock,F2,Champion,B
+MV-SIG-MUS-003-01,Dune Pan,Meteoric Pan,F2,Champion,B
+MV-SIG-MUS-003-04,Glacier Touchpan,Rooted Touchpan,F2,Champion,B
+MV-SIG-MUS-006-08,Dune Aim,Swift Aim,F2,Core Formation,B

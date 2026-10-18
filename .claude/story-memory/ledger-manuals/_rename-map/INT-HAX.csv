@@ -1,0 +1,71 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-HAX-001-01,Stepping Hatchet Guard,Cheekscreen,F4,Senior L5 Low,A
+MV-INT-HAX-001-02,Lead-Foot Chop,Cruel Billet,F1,Senior L5 Low,A
+MV-INT-HAX-001-03,Rear-Foot Hook Pull,Gagging Poll,F1,Senior L5 Low,A
+MV-INT-HAX-001-04,Hatchet Gap Shuffle,Fellzip,F4,Senior L5 Low,A
+MV-INT-HAX-001-05,Stride-Strike Surge,Chockslap,F4,Senior L5 Low,A
+MV-INT-HAX-001-06,Circling Entry Chop,Keen Kerf,F1,Senior L5 Low,A
+MV-INT-HAX-002-01,Guard-Rim Tap,Stalling Eye,F1,Senior L8 Low,A
+MV-INT-HAX-002-02,Slip-Past Chop,Grim Splinter,F1,Senior L8 Low,A
+MV-INT-HAX-002-03,Hook-Over Pull,Lassoing Heel,F1,Senior L8 Low,A
+MV-INT-HAX-002-04,Low-Line Underpass,Billetcurl,F4,Senior L8 Low,A
+MV-INT-HAX-002-05,Crossed-Arm Check,Rooted Poll,F1,Senior L8 Low,A
+MV-INT-HAX-002-06,Guard-Slip Qi Cut,Eyethwack,F4,Senior L8 Low,A
+MV-INT-HAX-002-07,Passing Calf Pivot,Coasting Bit,F1,Senior L8 Low,A
+MV-INT-HAX-003-01,Sapling Notch Cut,Brisk Helve,F1,Senior L6 Mid,A
+MV-INT-HAX-003-02,Green-Wood Stagger,Cramping Beard,F1,Senior L6 Mid,A
+MV-INT-HAX-003-03,Fork-Branch Guard,Eyebuckle,F4,Senior L6 Mid,A
+MV-INT-HAX-003-04,Trunk-Lean Step,Pollglide,F4,Senior L6 Mid,A
+MV-INT-HAX-003-05,Chip-and-Return Chop,Heelswat,F4,Senior L6 Mid,A
+MV-INT-HAX-003-06,Bark-Stripping Drag,Rushing Chock,F1,Senior L6 Mid,A
+MV-INT-HAX-003-07,Felling Cut with Qi,Kerf Slap,F3,Senior L6 Mid,A
+MV-INT-HAX-003-08,Windfall Dodge-Chop,Vicious Kerf,F1,Senior L6 Mid,A
+MV-INT-HAX-004-01,Hook-Drag Guard,Rill Heel,F2,Warrior L1 Low,B
+MV-INT-HAX-004-02,Pull-Out Chop,Ember Bit,F2,Warrior L1 Low,B
+MV-INT-HAX-004-03,Neck-Hook Tug,Static Chock,F2,Warrior L1 Low,B
+MV-INT-HAX-004-04,Ankle Hook Sweep,Gall Billet,F2,Warrior L1 Low,B
+MV-INT-HAX-004-05,Shield-Edge Hook,Sleet Beard,F2,Warrior L1 Low,B
+MV-INT-HAX-004-06,Anti-Wrench Brace,Brass Poll,F2,Warrior L1 Low,B
+MV-INT-HAX-004-07,Wrist-Driven Hook and Chop,Brisk Eye,F1,Warrior L1 Low,B
+MV-INT-HAX-004-08,Reeling Chop,Honedbit,F5,Warrior L1 Low,B
+MV-INT-HAX-004-09,Drag-Step Backwash,Grit Toe,F2,Warrior L1 Low,B
+MV-INT-HAX-005-01,Press-Through Chop,Clayfell,F5,Warrior L2 Low,B
+MV-INT-HAX-005-02,Shoulder Lane Shove,Hum Poll,F2,Warrior L2 Low,B
+MV-INT-HAX-005-03,Overhead Crowd Guard,Shelter Cheek,F2,Warrior L2 Low,B
+MV-INT-HAX-005-04,Elbow-Tight Parry,Poise Haftswell,F2,Warrior L2 Low,B
+MV-INT-HAX-005-05,Gap-Finding Sidle,Draught Heel,F2,Warrior L2 Low,B
+MV-INT-HAX-005-06,Rail-Braced Chop,Beardflog,F4,Warrior L2 Low,B
+MV-INT-HAX-005-07,Crowd-Cover Backhand,Cheekslap,F4,Warrior L2 Low,B
+MV-INT-HAX-006-01,Helve Roll Parry,Sturdy Eye,F1,Warrior L3 Mid,B
+MV-INT-HAX-006-02,Wrist-Loop Cut,Brawn Helve,F2,Warrior L3 Mid,B
+MV-INT-HAX-006-03,Grip-Shift Chop,Staticpoll,F5,Warrior L3 Mid,B
+MV-INT-HAX-006-04,Helve Pin Block,Hazebit,F5,Warrior L3 Mid,B
+MV-INT-HAX-006-05,Counter-Rolling Hook,Weighty Kerf,F2,Warrior L3 Mid,B
+MV-INT-HAX-006-06,Wrist-Spring Retreat,Slinking Toe,F1,Warrior L3 Mid,B
+MV-INT-HAX-006-07,Qi-Turned Counter Chop,Crimson Fell,F2,Warrior L3 Mid,B
+MV-INT-HAX-006-08,Deflect-and-Cut Turn,Padded Beard,F1,Warrior L3 Mid,B
+MV-INT-HAX-007-01,Rim-Edge Chop,Toeswat,F4,Senior L9 Low,A
+MV-INT-HAX-007-02,Strap-Cutting Draw,Ruthless Beard,F1,Senior L9 Low,A
+MV-INT-HAX-007-03,Shield-Top Hook,Toe Hasp,F3,Senior L9 Low,A
+MV-INT-HAX-007-04,Boss-Side Rap,Viselike Helve,F1,Senior L9 Low,A
+MV-INT-HAX-007-05,Over-the-Rim Guard,Heelhasp,F4,Senior L9 Low,A
+MV-INT-HAX-007-06,Rim-Slide Parry,Armored Bit,F1,Senior L9 Low,A
+MV-INT-HAX-007-07,Low-Slip Step,Ducking Billet,F1,Senior L9 Low,A
+MV-INT-HAX-007-08,Rim-Splitting Strike,Poll Flog,F3,Senior L9 Low,A
+MV-INT-HAX-007-09,Shield-Arm Hook Pull,Tethering Beard,F1,Senior L9 Low,A
+MV-INT-HAX-007-10,Rim-Crack Follow Chop,Rude Handlenub,F1,Senior L9 Low,A
+MV-INT-HAX-008-01,Flick Chop,Wild Axehew,F1,Warrior L4 Low,B
+MV-INT-HAX-008-02,Slip-Out Guard,Resolute Poll,F1,Warrior L4 Low,B
+MV-INT-HAX-008-03,Breath-Short Step,Gritheel,F5,Warrior L4 Low,B
+MV-INT-HAX-008-04,Needle-Tap Hook,Clutching Bit,F1,Warrior L4 Low,B
+MV-INT-HAX-008-05,Qi-Burst Quick Chop,Billetswat,F4,Warrior L4 Low,B
+MV-INT-HAX-008-06,Chop-and-Slip Turn,Emberhelve,F5,Warrior L4 Low,B
+MV-INT-HAX-009-01,Log-Splitting Chop,Poll Thwack,F3,Warrior L1 Mid,B
+MV-INT-HAX-009-02,Wedge-Bite Strike,Rough Fell,F1,Warrior L1 Mid,B
+MV-INT-HAX-009-03,Handle-End Slap,Humkerf,F5,Warrior L1 Mid,B
+MV-INT-HAX-009-04,Stump-Rooted Stance,Stalwart Toe,F1,Warrior L1 Mid,B
+MV-INT-HAX-009-05,Hatchet Splinter Guard,Poise Beard,F2,Warrior L1 Mid,B
+MV-INT-HAX-009-06,Forest-Path Sidestep,Fleet Billet,F1,Warrior L1 Mid,B
+MV-INT-HAX-009-07,Wedge-Drive Qi Cut,Brawnbit,F5,Warrior L1 Mid,B
+MV-INT-HAX-009-08,Felling Step Cut,Dire Poll,F1,Warrior L1 Mid,B
+MV-INT-HAX-005-03,Shelter Cheek,Firm Cheek,F2,Warrior L2 Low,B

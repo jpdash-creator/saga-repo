@@ -1,0 +1,104 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-ATL-001-01,Hard Foreshaft Seating,Restoring Spurhook,F1,Champion,B
+MV-ADV-ATL-001-02,Weak Seam Spotting,Verity Throwstick,F2,Champion,B
+MV-ADV-ATL-001-03,Braced Heel Release,Extendassault,F4,Champion,B
+MV-ADV-ATL-001-04,Off-Line Shuffle,Spurleap,F4,Champion,B
+MV-ADV-ATL-001-05,Rivet-Seeking Cast,Iron Overarm,F2,Champion,B
+MV-ADV-ATL-001-06,Gorget Gap Dart,Needling Weightstone,F1,Champion,B
+MV-ADV-ATL-001-07,Shield-Rim Skimming Throw,Cupassault,F4,Champion,B
+MV-ADV-ATL-001-08,Plate-Splitting Dart,Facetspur,F5,Champion,B
+MV-ADV-ATL-001-09,Seam-Prying Chain,Interlocking Atlshaft,F1,Champion,B
+MV-ADV-ATL-002-01,Qi-Field Dart Wrapping,Vital Cupend,F2,Demigod,B
+MV-ADV-ATL-002-02,Groove-Pulse Release,Invigorating Dartshaft,F1,Demigod,B
+MV-ADV-ATL-002-03,Thread-Linked Flight Feel,Chimecup,F5,Demigod,B
+MV-ADV-ATL-002-04,Level Qi Cast,Propelthrash,F4,Demigod,B
+MV-ADV-ATL-002-05,Landing Balance Lean,Gust Flexshaft,F2,Demigod,B
+MV-ADV-ATL-002-06,Breath-Time Reseat,Spurelixir,F4,Demigod,B
+MV-ADV-ATL-002-07,Mid-Flight Bend,Throwlever Barrage,F3,Demigod,B
+MV-ADV-ATL-002-08,Thread-Slack Stoop,Spurbarrage,F4,Demigod,B
+MV-ADV-ATL-002-09,Dart Trail Reading,Perceptive Handgrip,F1,Demigod,B
+MV-ADV-ATL-002-10,Held-Breath Long Flight,Glint Leverage,F2,Demigod,B
+MV-ADV-ATL-002-11,Singing Shaft Barrage,Blazepropel,F5,Demigod,B
+MV-ADV-ATL-003-01,Sinew-Bound Weight Stone,Renewing Gripbinding,F1,Champion,B
+MV-ADV-ATL-003-02,One-Finger Balance Hang,Remnant Weightstone,F2,Champion,B
+MV-ADV-ATL-003-03,Slow Deep Swing,Cuptorment,F4,Champion,B
+MV-ADV-ATL-003-04,Stone-End Block,Aegis Weightstone,F2,Champion,B
+MV-ADV-ATL-003-05,Weighted Board Hammerblow,Spurthrash,F4,Champion,B
+MV-ADV-ATL-003-06,Stone-Inertia Fling,Wrecking Whipover,F1,Champion,B
+MV-ADV-ATL-003-07,Shield-Arm Pinning Dart,Manacling Handgrip,F1,Champion,B
+MV-ADV-ATL-003-08,Weight-Turn Reversal,Equipoise Fingerhooks,F2,Champion,B
+MV-ADV-ATL-004-01,Range-Ordered Quiver,Discerning Cupend,F1,Demigod,B
+MV-ADV-ATL-004-02,Layered Wind Read,Waning Dartshaft,F2,Demigod,B
+MV-ADV-ATL-004-03,Drawn-Bow Spine,Fortifying Throwstick,F1,Demigod,B
+MV-ADV-ATL-004-04,Far Arc Release,Propelassault,F4,Demigod,B
+MV-ADV-ATL-004-05,Rested Slow Approach,Extendcanter,F4,Demigod,B
+MV-ADV-ATL-004-06,Elbow-Tuck Guard,Unshaken Handgrip,F1,Demigod,B
+MV-ADV-ATL-004-07,Ten-Pace Bracketing,Harrowing Throwlever,F1,Demigod,B
+MV-ADV-ATL-004-08,Gust-Corrected Cast,Gust Whipover,F2,Demigod,B
+MV-ADV-ATL-004-09,Far Qi Thread Ranging,Expanse Flexshaft,F2,Demigod,B
+MV-ADV-ATL-004-10,Hushed Fall-Back,Cuppounce,F4,Demigod,B
+MV-ADV-ATL-004-11,Edge-of-Sight Cast,Harpooning Nova Leverage,F6a,Demigod,B
+MV-ADV-ATL-004-12,Plunging Dart Shower,Downpour Whipover,F2,Demigod,B
+MV-ADV-ATL-005-01,Board in Each Hand,Might Handgrip,F2,Champion,B
+MV-ADV-ATL-005-02,Twin Spur Seating,Rousing Cupend,F1,Champion,B
+MV-ADV-ATL-005-03,Mirrored Partner Stance,Staunch Spurhook,F1,Champion,B
+MV-ADV-ATL-005-04,Alternating Hand Cast,Extendthrash,F4,Champion,B
+MV-ADV-ATL-005-05,Basin Rim Step,Bounding Throwlever,F1,Champion,B
+MV-ADV-ATL-005-06,Twin Dart Crossing,Severing Overarm,F1,Champion,B
+MV-ADV-ATL-005-07,Partner Rotation Volley,Hour Extend,F2,Champion,B
+MV-ADV-ATL-005-08,River-Bend Lob,Propelbarrage,F4,Champion,B
+MV-ADV-ATL-005-09,Twin-Court Pincer Cast,Tempered Whipover,F2,Champion,B
+MV-ADV-ATL-005-10,Hawk's Pair Strike,Transfixing Throwlever,F1,Champion,B
+MV-ADV-ATL-006-01,Azure Gaze Fixing,Verity Handgrip,F2,Demigod,B
+MV-ADV-ATL-006-02,High Perch Footing,Mantled Atlshaft,F1,Demigod,B
+MV-ADV-ATL-006-03,Rising Wing Draw,Heartening Flexshaft,F1,Demigod,B
+MV-ADV-ATL-006-04,Steep Hawk Cast,Scalding Extend,F1,Demigod,B
+MV-ADV-ATL-006-05,Stooping Hawk Line,Hoarfrost Throwlever,F2,Demigod,B
+MV-ADV-ATL-006-06,Ledge-Leap Aerial Cast,Soaring Overarm,F1,Demigod,B
+MV-ADV-ATL-006-07,Feather-Wake Marking,Mindful Gripbinding,F1,Demigod,B
+MV-ADV-ATL-006-08,Hawk-Dive Plunge,Hollowspur,F5,Demigod,B
+MV-ADV-ATL-006-09,Sky-Court Rain,Scorching Leverage,F1,Demigod,B
+MV-ADV-ATL-007-01,Two-Track Eye Training,Sustaining Dartshaft,F1,Ruler,B
+MV-ADV-ATL-007-02,River Stone Crossing,Racing Flexshaft,F1,Ruler,B
+MV-ADV-ATL-007-03,Left-Right Loading,Dartshaft Elixir,F3,Ruler,B
+MV-ADV-ATL-007-04,Parallel Release,Spurtorment,F4,Ruler,B
+MV-ADV-ATL-007-05,Current Surface Glance,Chime Spurhook,F2,Ruler,B
+MV-ADV-ATL-007-06,Bankside Crouch,Implacable Throwstick,F1,Ruler,B
+MV-ADV-ATL-007-07,Dual-Track Dart Pair,Furrowing Propel,F1,Ruler,B
+MV-ADV-ATL-007-08,Confluence Cast,Rumble Throwlever,F2,Ruler,B
+MV-ADV-ATL-007-09,Ford-Stone Pivot,Silt Fingerhooks,F2,Ruler,B
+MV-ADV-ATL-007-10,Hand-to-Hand Board Pass,Nursing Handgrip,F1,Ruler,B
+MV-ADV-ATL-007-11,Half-Count Twin Volley,Unmaking Overarm,F1,Ruler,B
+MV-ADV-ATL-007-12,River-Mouth Pincer,Tiered Whipover,F1,Ruler,B
+MV-ADV-ATL-008-01,Plateau Edge Bearing,Vigorous Weightstone,F1,Champion,B
+MV-ADV-ATL-008-02,Bare Sky Casting Stance,Granite Cupend,F2,Champion,B
+MV-ADV-ATL-008-03,Gust-Peak Release,Gustpropel,F5,Champion,B
+MV-ADV-ATL-008-04,Level Ground Run,Vaulting Handgrip,F1,Champion,B
+MV-ADV-ATL-008-05,Bearing-Held Volley,Extendbarrage,F4,Champion,B
+MV-ADV-ATL-008-06,Crosswind Bent Cast,Lambasting Extend,F1,Champion,B
+MV-ADV-ATL-008-07,Slope-Rim Downcast,Rupturing Overarm Assault,F6b,Champion,B
+MV-ADV-ATL-008-08,Wind-Sworn Return Cast,Resilient Gripbinding,F1,Champion,B
+MV-ADV-ATL-009-01,Oath-Breath Taking,Anointing Spurhook,F1,Void God,B
+MV-ADV-ATL-009-02,Wind on the Cheek,Waning Atlshaft,F2,Void God,B
+MV-ADV-ATL-009-03,Standing Uncovered,Unflinching Cupend,F1,Void God,B
+MV-ADV-ATL-009-04,Sworn Mark Cast,Scything Throwstick,F1,Void God,B
+MV-ADV-ATL-009-05,Gale-Foot Advance,Mightcup,F5,Void God,B
+MV-ADV-ATL-009-06,Spoken-Count Reload,Nursing Throwstick,F1,Void God,B
+MV-ADV-ATL-009-07,Tailwind-Borne Dart,Tempered Propel,F2,Void God,B
+MV-ADV-ATL-009-08,Headwind Curving Throw,Skinning Extend,F1,Void God,B
+MV-ADV-ATL-009-09,Oath-Bound Steadiness,Enduring Handgrip,F1,Void God,B
+MV-ADV-ATL-009-10,Wind-Rhythm Barrage,Cupthrash,F4,Void God,B
+MV-ADV-ATL-009-11,Shrieking Gale Dart,Ponderous Leverage,F2,Void God,B
+MV-ADV-ATL-010-01,Open-Hand Warming,Rejuvenating Dartshaft,F1,Demigod,B
+MV-ADV-ATL-010-02,Cloud-Drift Glance,Verity Flexshaft,F2,Demigod,B
+MV-ADV-ATL-010-03,Wide Foot Settling,Ironcup,F5,Demigod,B
+MV-ADV-ATL-010-04,Shoulder-High Plain Cast,Cupendassault,F4,Demigod,B
+MV-ADV-ATL-010-05,Long Pace Backing,Whipping Throwstick,F1,Demigod,B
+MV-ADV-ATL-010-06,Updraft Climbing Cast,Nova Extend,F2,Demigod,B
+MV-ADV-ATL-010-07,Shifting Bearing Volley,Lambasting Propel,F1,Demigod,B
+MV-ADV-ATL-010-08,Wind Shadow Slip,Granite Handgrip,F2,Demigod,B
+MV-ADV-ATL-010-09,Gale-Line Sweep,Ravaging Throwlever,F1,Demigod,B
+MV-ADV-ATL-010-10,Still-Moment Piercing Dart,Tempered Overarm,F2,Demigod,B
+MV-ADV-ATL-004-09,Expanse Flexshaft,Exacting Flexshaft,F2,Demigod,B
+MV-ADV-ATL-004-11,Harpooning Nova Leverage,Harpooning Leverage,F6a,Demigod,B
+MV-ADV-ATL-008-07,Rupturing Overarm Assault,Rupturing Overarm,F6b,Champion,B

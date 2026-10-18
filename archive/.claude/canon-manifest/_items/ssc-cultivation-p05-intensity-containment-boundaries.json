@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-cultivation-p05-intensity-containment-boundaries",
+ "part": 5,
+ "area": 7,
+ "sequence_in_part": 7,
+ "title": "Intensity Containment Boundaries",
+ "domain": "cultivation",
+ "source_file": "Part_5_Cultivation_Combat_Fight_Law.md",
+ "start_line": 470,
+ "end_line": 560,
+ "line_count": 91,
+ "output_path": ".claude/skills/ssc-cultivation-p05-intensity-containment-boundaries/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-narration-p02-six-tier-narrative-hierarchy",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat prose structure requires Part 5 combat resolution rules"
+  },
+  {
+   "skill_id": "ssc-narration-p02-conversation-rules",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat prose structure requires Part 5 combat resolution rules"
+  },
+  {
+   "skill_id": "ssc-narration-p02-combat-move-rules",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat prose structure requires Part 5 combat resolution rules"
+  },
+  {
+   "skill_id": "ssc-narration-p02-point-view-governance",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat prose structure requires Part 5 combat resolution rules"
+  },
+  {
+   "skill_id": "ssc-narration-p02-novel-output-file-structure-law",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat prose structure requires Part 5 combat resolution rules"
+  },
+  {
+   "skill_id": "ssc-narration-p02-book-creation-law-chapter-document",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat prose structure requires Part 5 combat resolution rules"
+  },
+  {
+   "skill_id": "ssc-narration-p02-book-creation-law-chapter-markdown-file",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat prose structure requires Part 5 combat resolution rules"
+  },
+  {
+   "skill_id": "ssc-narration-p02-post-prose-audit-completeness-indicator-law",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat prose structure requires Part 5 combat resolution rules"
+  },
+  {
+   "skill_id": "ssc-narration-p02-scope-visibility-protocol",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat prose structure requires Part 5 combat resolution rules"
+  },
+  {
+   "skill_id": "ssc-narration-p02-chapter-export-format-specification",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Combat prose structure requires Part 5 combat resolution rules"
+  }
+ ]
+}

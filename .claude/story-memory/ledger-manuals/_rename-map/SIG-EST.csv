@@ -1,0 +1,140 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-EST-001-01,Azure Court Bow Guard,Steelslender,F5,Warrior,B
+MV-SIG-EST-001-02,Court Level Thrust,Thunderclap Squaretip,F2,Warrior,B
+MV-SIG-EST-001-03,Court Gliding Pace,Twilit Hardtip,F1,Warrior,B
+MV-SIG-EST-001-04,Court Pairing Beat,Delugestrait,F5,Warrior,B
+MV-SIG-EST-001-05,Court Cross Lock,Ruling Pierce,F1,Warrior,B
+MV-SIG-EST-001-06,Court Distance Gauge,Pealtaut,F5,Warrior,B
+MV-SIG-EST-001-07,Azure Court Double Point,Steel Bracespine,F2,Champion,B
+MV-SIG-EST-001-08,Court Rising Reflect,Prismtaut,F5,Champion,B
+MV-SIG-EST-001-09,Azure Court Passage,Pulsarbore,F5,Demigod,B
+MV-SIG-EST-001-10,Azure Court Last Point,Imperial Vacuum Skewer,F6a,Warrior,B
+MV-SIG-EST-002-01,Basin Pair Guard,Steel Trianglespine,F2,Warrior,B
+MV-SIG-EST-002-02,Paired Basin Estoc Drive,Splendid Squarepoint,F1,Warrior,B
+MV-SIG-EST-002-03,Basin Step Pair,Vigor Thrustspine,F2,Warrior,B
+MV-SIG-EST-002-04,Wrist-Past Blade Slip,Squall Longtang,F2,Warrior,B
+MV-SIG-EST-002-05,Basin Pair Sense,Revelation Stiffspine,F2,Warrior,B
+MV-SIG-EST-002-06,Twin Basin Bind,Sigil Rigidtang,F2,Warrior,B
+MV-SIG-EST-002-07,Basin Spiral Thrust,Vacuum Gouge,F2,Warrior,B
+MV-SIG-EST-002-08,Shallow Basin Feint,Borevow,F4,Warrior,B
+MV-SIG-EST-002-09,Paired Basin Press,Imperious Stiffblade,F1,Champion,B
+MV-SIG-EST-002-10,Basin Mirror Reflect,Phantasm Rigidtang,F2,Champion,B
+MV-SIG-EST-002-11,Two Basins One Wound,Animaimpale,F5,Demigod,B
+MV-SIG-EST-002-12,Paired Basin Closing Spiral,Storied Stiffspine Triumph,F6b,Warrior,B
+MV-SIG-EST-003-01,River Court Estoc Stand,Steeltaut,F5,Champion,B
+MV-SIG-EST-003-02,River Court Line Thrust,Unrivaled Drill,F1,Champion,B
+MV-SIG-EST-003-03,Bankside Pace,Delugeskewer,F5,Champion,B
+MV-SIG-EST-003-04,Court Current Sense,Interstice Hardtip,F2,Champion,B
+MV-SIG-EST-003-05,Court Eddy Bind,Glacier Longtang,F2,Champion,B
+MV-SIG-EST-003-06,Court Race Thrust,Paramount Impale,F1,Champion,B
+MV-SIG-EST-003-07,River Court Slip,Windborne Drill,F1,Champion,B
+MV-SIG-EST-003-08,Court Flood Flurry,Solarslender,F5,Champion,B
+MV-SIG-EST-003-09,Court Current Reflect,Squaretip Seal,F3,Champion,B
+MV-SIG-EST-003-10,River Court Torrent Point,Bore Triumph,F3,Demigod,B
+MV-SIG-EST-003-11,River Court Final Current,Thunderclap Trianglespine,F2,Champion,B
+MV-SIG-EST-004-01,Hawk Court Salute,Hornbeam Bracespine,F2,Ruler,B
+MV-SIG-EST-004-02,Court Hawk Thrust,Pulsar Impale,F2,Ruler,B
+MV-SIG-EST-004-03,Court Glide Step,Bedrock Pierce,F2,Ruler,B
+MV-SIG-EST-004-04,Hawk Court Beat,Deluge Squarepoint,F2,Ruler,B
+MV-SIG-EST-004-05,Hawk Court Gaze,Eclipse Squaretip,F2,Ruler,B
+MV-SIG-EST-004-06,Court Talon Bind,Millstone Thrustspine,F2,Ruler,B
+MV-SIG-EST-004-07,Court Stoop Thrust,Prism Stiffblade,F2,Ruler,B
+MV-SIG-EST-004-08,Court Hover Feint,Straitvow,F4,Ruler,B
+MV-SIG-EST-004-09,Hawk Court Dive Drive,Radiance Skewer,F2,Ruler,B
+MV-SIG-EST-004-10,Court Hawk Circling,Bedrock Gouge,F2,Ruler,B
+MV-SIG-EST-004-11,Hawk Court Lightning Stoop,Pulsarslender,F5,Demigod,B
+MV-SIG-EST-004-12,Hawk Court Master Stoop,Noble Longtang,F1,Ruler,B
+MV-SIG-EST-005-01,Azure Sky Stand,Hornbeam Thrustspine,F2,Demigod,B
+MV-SIG-EST-005-02,High Azure Thrust,Illustrious Bore,F1,Demigod,B
+MV-SIG-EST-005-03,Sky Pace,Dune Stiffblade,F2,Demigod,B
+MV-SIG-EST-005-04,Azure Sky Estoc Reading,Straitgift,F4,Demigod,B
+MV-SIG-EST-005-05,Sky Bind Lock,Slenderpledge,F4,Demigod,B
+MV-SIG-EST-005-06,Sky Dropping Thrust,Illustrious Pierce,F1,Demigod,B
+MV-SIG-EST-005-07,Cloud Slip Step,Windborne Hardtip,F1,Demigod,B
+MV-SIG-EST-005-08,Cloudbreak Thrust,Imperial Trianglespine,F1,Demigod,B
+MV-SIG-EST-005-09,Azure Sky Needleless Rain,Bedrock Skewer,F2,Demigod,B
+MV-SIG-EST-005-10,Azure Sky Vanishing Point,Pierceboon,F4,Demigod,B
+MV-SIG-EST-005-11,Azure Sky Single Line,Peerless Prism Bore,F6a,Demigod,B
+MV-SIG-EST-006-01,Core Seat Estoc Stand,Devout Squarepoint,F1,Core Formation,B
+MV-SIG-EST-006-02,Core Fed Thrust,Matchless Drill,F1,Core Formation,B
+MV-SIG-EST-006-03,Core Sway Step,Spectral Gouge,F1,Core Formation,B
+MV-SIG-EST-006-04,Core Ring Parry,Deluge Stiffspine,F2,Core Formation,B
+MV-SIG-EST-006-05,Core Pulse Sense,Straitbenison,F4,Core Formation,B
+MV-SIG-EST-006-06,Core Bound Lock,Thrallstrait,F5,Core Formation,B
+MV-SIG-EST-006-07,Core Driven Thrust,Straitedict,F4,Core Formation,B
+MV-SIG-EST-006-08,Core Hollow Feint,Nightmare Bore,F2,Core Formation,B
+MV-SIG-EST-006-09,Azure Core Armor Rend,Vacuum Squaretip,F2,Core Formation,B
+MV-SIG-EST-006-10,Core Ring Reflect,Prismslender,F5,Core Formation,B
+MV-SIG-EST-006-11,Azure Core Armorless Wound,Gallant Impale,F1,Core Formation,B
+MV-SIG-EST-006-12,Heart of the Azure Point,Triumphant Stiffspine,F1,Core Formation,B
+MV-SIG-EST-007-01,Oath Plateau Guard,Sanctum Rigidtang,F2,Warrior,B
+MV-SIG-EST-007-02,Oath Level Thrust,Pulsar Bracespine,F2,Warrior,B
+MV-SIG-EST-007-03,Oath Pace Out,Squall Drill,F2,Warrior,B
+MV-SIG-EST-007-04,Oath Wind Sense,Slendermercy,F4,Warrior,B
+MV-SIG-EST-007-05,Oath Wind Lock,Sigil Impale,F2,Warrior,B
+MV-SIG-EST-007-06,Oath Rim Thrust,Pulsartaut,F5,Warrior,B
+MV-SIG-EST-007-07,Oath Sidestep,Squall Stiffblade,F2,Warrior,B
+MV-SIG-EST-007-08,Oath Wind Charge,Magnificent Rigidtang,F1,Champion,B
+MV-SIG-EST-007-09,Oath Wind Return,Revelation Hardtip,F2,Champion,B
+MV-SIG-EST-007-10,Oath Wind Crossing,Season Bracespine,F2,Demigod,B
+MV-SIG-EST-007-11,Wind-Sworn Last Estoc Oath,Steel Longtang,F2,Warrior,B
+MV-SIG-EST-008-01,Rim Guard Pose,Statute Squarepoint,F2,Warrior,B
+MV-SIG-EST-008-02,Rim Point Thrust,Triumphant Thrustspine,F1,Warrior,B
+MV-SIG-EST-008-03,Rim Pace,Deluge Gouge,F2,Warrior,B
+MV-SIG-EST-008-04,Rim Wind Sense,Pealslender,F5,Warrior,B
+MV-SIG-EST-008-05,Rim Bind,Longtang Reliquary,F3,Warrior,B
+MV-SIG-EST-008-06,Rim Feint,Pall Skewer,F2,Warrior,B
+MV-SIG-EST-008-07,Rim Splitting Thrust,Straitbanner,F4,Champion,B
+MV-SIG-EST-008-08,Rim Pressing Stroke,Matchless Pierce,F1,Champion,B
+MV-SIG-EST-008-09,Rim of Nothing Thrust,Demolition Trianglespine,F2,Demigod,B
+MV-SIG-EST-008-10,Plateau Rim Final Point,Royal Prism Drill,F6a,Warrior,B
+MV-SIG-EST-009-01,Open Plateau Guard,Enshrined Thrustspine,F1,Champion,B
+MV-SIG-EST-009-02,Plateau Lead Thrust,Prismstrait,F5,Champion,B
+MV-SIG-EST-009-03,Plateau Long Step,Windborne Impale,F1,Champion,B
+MV-SIG-EST-009-04,Plateau Flat Estoc Parry,Peal Rigidtang,F2,Champion,B
+MV-SIG-EST-009-05,Open Plateau Reading,Bountiful Hardtip,F1,Champion,B
+MV-SIG-EST-009-06,Plateau Binding Cross,Authoritative Bracespine,F1,Champion,B
+MV-SIG-EST-009-07,Plateau Wind Estoc Drive,Vacuum Pierce,F2,Champion,B
+MV-SIG-EST-009-08,Plateau Quick Slip,Vigor Squaretip,F2,Champion,B
+MV-SIG-EST-009-09,Open Plateau Charge,Vacuum Stiffspine,F2,Champion,B
+MV-SIG-EST-009-10,Plateau Wind Estoc Press,Season Stiffblade,F2,Champion,B
+MV-SIG-EST-009-11,Open Plateau Passing Point,Skewer Grace,F3,Demigod,B
+MV-SIG-EST-009-12,Open Plateau Closing Gale,Pulsar Trianglespine,F2,Champion,B
+MV-SIG-EST-010-01,Gale Bearing Estoc Stand,Steelstrait,F5,Ruler,B
+MV-SIG-EST-010-02,Gale Bearing Estoc Drive,Thunderclap Stiffspine,F2,Ruler,B
+MV-SIG-EST-010-03,Bearing Walk Estoc Line,Tautvoyage,F4,Ruler,B
+MV-SIG-EST-010-04,Gale Bearing Sense,Lifegiving Squarepoint,F1,Ruler,B
+MV-SIG-EST-010-05,Bearing Cross Lock,Millstone Bracespine,F2,Ruler,B
+MV-SIG-EST-010-06,Bearing Driven Thrust,Steel Bore,F2,Ruler,B
+MV-SIG-EST-010-07,Bearing Sidestep,Bedrock Trianglespine,F2,Ruler,B
+MV-SIG-EST-010-08,Gale Bearing Lunge,Steel Rigidtang,F2,Ruler,B
+MV-SIG-EST-010-09,Bearing Return,Phantasm Squaretip,F2,Ruler,B
+MV-SIG-EST-010-10,Unswerving Gale Bearing,Demolition Squarepoint,F2,Demigod,B
+MV-SIG-EST-010-11,Gale Bearing Last Line,Radiance Longtang,F2,Ruler,B
+MV-SIG-EST-011-01,Unbarred Wind Guard,Straittroth,F4,Demigod,B
+MV-SIG-EST-011-02,Free Wind Thrust,Radiance Pierce,F2,Demigod,B
+MV-SIG-EST-011-03,Free Wind Pace,Vigor Impale,F2,Demigod,B
+MV-SIG-EST-011-04,Unbarred Estoc Parry,Deluge Hardtip,F2,Demigod,B
+MV-SIG-EST-011-05,Unbarred Wind Sense,Magnanimous Thrustspine,F1,Demigod,B
+MV-SIG-EST-011-06,Loose Wind Bind,Skewerpledge,F4,Demigod,B
+MV-SIG-EST-011-07,Gust Entering Thrust,Majestic Stiffblade,F1,Demigod,B
+MV-SIG-EST-011-08,Windward Slip,Soundless Bore,F1,Demigod,B
+MV-SIG-EST-011-09,Unbarred Wind Charge,Exalted Trianglespine,F1,Demigod,B
+MV-SIG-EST-011-10,Free Wind Press,Volition Stiffblade,F2,Demigod,B
+MV-SIG-EST-011-11,Unbarred Wind Passage,Seasonimpale,F5,Demigod,B
+MV-SIG-EST-011-12,Unbarred Wind Last Point,Vaunted Steel Drill,F6a,Demigod,B
+MV-SIG-EST-012-01,Core Oath Estoc Stand,Tautpledge,F4,Core Formation,B
+MV-SIG-EST-012-02,Core Oath Thrust,Pulsar Skewer,F2,Core Formation,B
+MV-SIG-EST-012-03,Core Oath Pace,Slendersolace,F4,Core Formation,B
+MV-SIG-EST-012-04,Core Oath Sense,Tautbenison,F4,Core Formation,B
+MV-SIG-EST-012-05,Core Oath Lock,Thrall Gouge,F2,Core Formation,B
+MV-SIG-EST-012-06,Core Oath Driven Thrust,Storied Thrustspine,F1,Core Formation,B
+MV-SIG-EST-012-07,Core Oath Charge,Piercebanner,F4,Core Formation,B
+MV-SIG-EST-012-08,Core Oath Estoc Cover,Slendervow,F4,Core Formation,B
+MV-SIG-EST-012-09,Core Oath Breaker,Vacuum Drill,F2,Core Formation,B
+MV-SIG-EST-012-10,Oath of the Core Point,Matchless Pulsar Pierce,F6a,Core Formation,B
+MV-SIG-EST-003-05,Glacier Longtang,Mighty Longtang,F2,Champion,B
+MV-SIG-EST-004-01,Hornbeam Bracespine,Titan Bracespine,F2,Ruler,B
+MV-SIG-EST-005-01,Hornbeam Thrustspine,Searing Thrustspine,F2,Demigod,B
+MV-SIG-EST-005-03,Dune Stiffblade,Ruinous Stiffblade,F2,Demigod,B
+MV-SIG-EST-007-01,Sanctum Rigidtang,Sundering Rigidtang,F2,Warrior,B

@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-SIC-001-01,Pulled Hook Entry,Garnerprop,F4,Senior,A
+MV-INT-SIC-001-02,Thin-Edge Wrist Slice,Wild Harvest,F1,Senior,A
+MV-INT-SIC-001-03,Haft-Brace Turn,Rooted Sickletang,F1,Senior,A
+MV-INT-SIC-001-04,Short Qi-Step Slide,Springing Glean,F1,Senior,A
+MV-INT-SIC-001-05,Hook-Draw Belly Slice,Stern Reapedge,F1,Senior,A
+MV-INT-SIC-001-06,Counter-Hook Wrench,Rigid Tipcurve,F1,Senior,A
+MV-INT-SIC-002-01,Straw-Cord Snag Cut,Rough Hookblade,F1,Senior,A
+MV-INT-SIC-002-02,Twine-Tie Pull,Gripping Handleknob,F1,Senior,A
+MV-INT-SIC-002-03,Sidelong Rake,Brutal Bowbelly,F1,Senior,A
+MV-INT-SIC-002-04,Blade-Spine Block,Armored Crookspine,F1,Senior,A
+MV-INT-SIC-002-05,Low Quick Pace,Strawglide,F4,Senior,A
+MV-INT-SIC-002-06,Strap-Severing Flick,Tethering Greenedge,F1,Senior,A
+MV-INT-SIC-002-07,Binder's Hook Sweep,Stook Prop,F3,Senior,A
+MV-INT-SIC-003-01,Guard-Edge Press,Armored Handleknob,F1,Senior,A
+MV-INT-SIC-003-02,Inner Hook Ripple,Grasshasp,F4,Senior,A
+MV-INT-SIC-003-03,Overhead Haft Catch,Stalwart Inwardbelly,F1,Senior,A
+MV-INT-SIC-003-04,Quick Wrist Chop,Bladeswat,F4,Senior,A
+MV-INT-SIC-003-05,Reverse Hook Tuck,Binding Greenedge,F1,Senior,A
+MV-INT-SIC-003-06,Short Pace Return,Coasting Glean,F1,Senior,A
+MV-INT-SIC-003-07,Counter-Hook Spiral Pull,Clutching Stook,F1,Senior,A
+MV-INT-SIC-003-08,Hooked Blade Shear,Strawbarrier,F4,Senior,A
+MV-INT-SIC-004-01,Swath-Edge Backhand,Brisk Sicklegrip,F1,Senior,A
+MV-INT-SIC-004-02,Doubled Hook Wrist Lock,Reap Prop,F3,Senior,A
+MV-INT-SIC-004-03,Grain-Bundle Shove,Rugged Garner,F1,Senior,A
+MV-INT-SIC-004-04,Ridge-Hopping Step,Pirouetting Sicklegrip,F1,Senior,A
+MV-INT-SIC-004-05,Tooth-Edge Draw-Through,Swift Bowbelly,F1,Senior,A
+MV-INT-SIC-004-06,Low-Crouch Cut Return,Swift Crookspine,F1,Senior,A
+MV-INT-SIC-004-07,Moving Row Weave,Ducking Tipcurve,F1,Senior,A
+MV-INT-SIC-004-08,Qi-Edged Wide Sweep,Acrid Sickletang,F1,Senior,A
+MV-INT-SIC-004-09,Pulled-Back Snare Hook,Tethering Harvest,F1,Senior,A
+MV-INT-SIC-005-01,Heel-Anchored Pull,Weighty Garner,F2,Warrior,B
+MV-INT-SIC-005-02,Stalk-Snapping Twist,Discord Sheave,F2,Warrior,B
+MV-INT-SIC-005-03,Forward Hook Skim,Inwardbelly Hammerfall,F3,Warrior,B
+MV-INT-SIC-005-04,Hung Blade Guard,Sleet Inwardbelly,F2,Warrior,B
+MV-INT-SIC-005-05,Rounded Edge Slap,Moment Reap,F2,Warrior,B
+MV-INT-SIC-005-06,Weeding Tip Flick,Gleamstraw,F5,Warrior,B
+MV-INT-SIC-005-07,Rye-Row Walking Step,Brawn Crookspine,F2,Warrior,B
+MV-INT-SIC-005-08,Rolling Hook Over the Guard,Sleetreap,F5,Warrior,B
+MV-INT-SIC-005-09,Haft-Spin Breaker,Strawscreen,F4,Warrior,B
+MV-INT-SIC-005-10,Gathered-Qi Pull Slice,Garner Swat,F3,Warrior,B
+MV-INT-SIC-006-01,Pulled Sleeve Check,Lassoing Sicklegrip,F1,Warrior,B
+MV-INT-SIC-006-02,Low Tooth Scrape,Crimson Sheave,F2,Warrior,B
+MV-INT-SIC-006-03,Bar-and-Hook Block,Sleetstraw,F5,Warrior,B
+MV-INT-SIC-006-04,Short Elbow Cut,Handleknob Scorer,F3,Warrior,B
+MV-INT-SIC-006-05,Offset Footwork Slide,Slinking Reapedge,F1,Warrior,B
+MV-INT-SIC-006-06,Hooked Neck-Height Lift,Gallstraw,F5,Warrior,B
+MV-INT-SIC-006-07,Gathered Weapon Draw,Sprigsheave,F5,Warrior,B
+MV-INT-SIC-006-08,Counter-Sweep Under the Guard,Swift Tipcurve,F1,Warrior,B
+MV-INT-SIC-007-01,Straight Pull Slice,Honedreap,F5,Warrior,B
+MV-INT-SIC-007-02,Hook Behind Guard,Stampreap,F5,Warrior,B
+MV-INT-SIC-007-03,Palm-Turn Parry,Haze Bowbelly,F2,Warrior,B
+MV-INT-SIC-007-04,Rapid Dig Thrust,Bold Harvest,F1,Warrior,B
+MV-INT-SIC-007-05,Hopped Furrow Retreat,Coasting Sickletang,F1,Warrior,B
+MV-INT-SIC-007-06,Hooked Wrist Reversal,Sleet Greenedge,F2,Warrior,B
+MV-INT-SIC-007-07,Reaching Slice Through Cover,Brawn Sheave,F2,Warrior,B
+MV-INT-SIC-008-01,Weighted Pull Chop,Grassswat,F4,Warrior,B
+MV-INT-SIC-008-02,Overhand Tooth Chop,Rude Reapedge,F1,Warrior,B
+MV-INT-SIC-008-03,Handle-Crook Hook Tug,Levering Stook,F1,Warrior,B
+MV-INT-SIC-008-04,Heavy Edge Block,Sleetblade,F5,Warrior,B
+MV-INT-SIC-008-05,Back-Foot Drag Step,Rillreap,F5,Warrior,B
+MV-INT-SIC-008-06,Blunt Back Rib Knock,Momentstook,F5,Warrior,B
+MV-INT-SIC-008-07,Weighted Disarm Hook,Gall Reap,F2,Warrior,B
+MV-INT-SIC-008-08,Qi-Backed Heavy Hook Cut,Staticstraw,F5,Warrior,B
+MV-INT-SIC-008-09,Pressure-Drag Counter,Hazegrass,F5,Warrior,B

@@ -1,0 +1,6 @@
+move_id,old_name,new_name,function
+CMV-SIG-TRU-001-03,Court Reading,Paired Reading,Support:Sense
+CMV-SIG-TRU-001-06,Court Edge,Twin Edge,Attack:Strike
+CMV-SIG-TRU-001-09,Exposing Court,Twin Exposure,Defense:Nullify
+CMV-SIG-TRU-003-07,Truthful Wall,Truthful Shield,Defense:Shield
+CMV-SIG-TRU-003-11,Speech Field,Speech Ear,Support:Sense

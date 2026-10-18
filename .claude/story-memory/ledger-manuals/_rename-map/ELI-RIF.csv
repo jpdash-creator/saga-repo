@@ -1,0 +1,78 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-RIF-001-01,Hawk-Eye Breath Anchor,Breathruin,F4,Demigod,B
+MV-ELI-RIF-001-02,Sky-Line Horizon Level,Remnant Rearsight,F2,Demigod,B
+MV-ELI-RIF-001-03,Rim-Stone Elbow Seat,Mangling Cheekrest,F1,Demigod,B
+MV-ELI-RIF-001-04,Soft-Foot Ridge Climb,Boltglimmer,F4,Demigod,B
+MV-ELI-RIF-001-05,Hawk-Gaze Qi Narrowing,Verity Magazine,F2,Demigod,B
+MV-ELI-RIF-001-06,Field-Muffled Report,Glamour Bolt,F2,Demigod,B
+MV-ELI-RIF-001-07,Rising-Air Aim Lift,Vengeful Zero,F1,Demigod,B
+MV-ELI-RIF-001-08,Hawk-Stoop Armour Breaker,Scopescourge,F4,Demigod,B
+MV-ELI-RIF-001-09,Eyrie Ledge Guard,Adamantine Buttpad,F1,Demigod,B
+MV-ELI-RIF-001-10,Unerring Hawk Reach,Merciless Nova Reticle,F6a,Demigod,B
+MV-ELI-RIF-002-01,Twin-Court Pair Stance,Aura Squeeze,F2,Demigod,B
+MV-ELI-RIF-002-02,Court Hand-Sign Reading,Chime Bolt,F2,Demigod,B
+MV-ELI-RIF-002-03,Paired Cover Drop,Bipodblink,F4,Demigod,B
+MV-ELI-RIF-002-04,Mirrored Fire Pairing,Booming Longshot,F1,Demigod,B
+MV-ELI-RIF-002-05,Court-Flank Sidestep,Gust Cheekrest,F2,Demigod,B
+MV-ELI-RIF-002-06,Twin-Beat Disruption,Numbing Rearsight,F1,Demigod,B
+MV-ELI-RIF-002-07,Twin-Court Crossed Rifle Fire,Sighthavoc,F4,Demigod,B
+MV-ELI-RIF-002-08,Two-Barrel Court Guard,Scopemettle,F4,Demigod,B
+MV-ELI-RIF-002-09,Twin-Court Verdict Shot,Hollowzero,F5,Demigod,B
+MV-ELI-RIF-003-01,Basin-Rim Cover Slide,Zeroglare,F4,Demigod,B
+MV-ELI-RIF-003-02,Cheek-to-Stock Basin Draw,Pitiless Cheekrest,F1,Demigod,B
+MV-ELI-RIF-003-03,Echo-Count Distance Judging,Expanse Magazine,F2,Demigod,B
+MV-ELI-RIF-003-04,Dry-Stream Bed Advance,Ghosting Chamber,F1,Demigod,B
+MV-ELI-RIF-003-05,Slope-Prone Brace,Granite Bipod,F2,Demigod,B
+MV-ELI-RIF-003-06,Basin-Floor Echo Spoof,Mayhem Rearsight,F2,Demigod,B
+MV-ELI-RIF-003-07,Cold-Bore Allowance Shot,Hellish Longshot,F1,Demigod,B
+MV-ELI-RIF-003-08,Rim-to-Rim Relay Sense,Waning Scopemount,F2,Demigod,B
+MV-ELI-RIF-003-09,Basin-Floor Denial Fire,Bolthavoc,F4,Demigod,B
+MV-ELI-RIF-003-10,Rim-Leap Shot Chain,Confluent Breath,F1,Demigod,B
+MV-ELI-RIF-003-11,Basin Crown Piercing Shot,Ironsight,F5,Demigod,B
+MV-ELI-RIF-004-01,River-Stone Foot Anchor,Punishing Zero,F1,Void God,B
+MV-ELI-RIF-004-02,Hawk-Wing Elbow Spread,Berserk Reticle,F1,Void God,B
+MV-ELI-RIF-004-03,Bankside Reed Parting,Sightvortex,F4,Void God,B
+MV-ELI-RIF-004-04,Water-Glare Brow Shade,Chime Chamber,F2,Void God,B
+MV-ELI-RIF-004-05,Slick-Stone Balance Check,Torrent Buttpad,F2,Void God,B
+MV-ELI-RIF-004-06,River-Rhythm Qi Pulse,Gnashing Squeeze,F1,Void God,B
+MV-ELI-RIF-004-07,Hawk-Eye Armour Reading,Remnant Cheekrest,F2,Void God,B
+MV-ELI-RIF-004-08,Piercing Track Priming,Glint Longshot,F2,Void God,B
+MV-ELI-RIF-004-09,Current-Carried Withdrawal,Vanishing Chamber,F1,Void God,B
+MV-ELI-RIF-004-10,Hawk-Over-River Plunge Shot,Breathwrath,F4,Void God,B
+MV-ELI-RIF-004-11,River Silence Pinning,Unsparing Rifling,F1,Void God,B
+MV-ELI-RIF-004-12,River-Cleaving Hawk Shot,Lacerating Zero Reckoning,F6b,Void God,B
+MV-ELI-RIF-005-01,Barrel-Track Warm-Up,Aura Rifling,F2,Void God,B
+MV-ELI-RIF-005-02,Field-Track Warm-Up,Nimbus Rearsight,F2,Void God,B
+MV-ELI-RIF-005-03,Dual-Count Reload,Decimating Magazine,F1,Void God,B
+MV-ELI-RIF-005-04,Lock-Side Thumb Check,Remnant Buttpad,F2,Void God,B
+MV-ELI-RIF-005-05,Pace-and-Rest Alternation,Zeroflash,F4,Void God,B
+MV-ELI-RIF-005-06,Track-Split Dual Aim,Corroding Bolt,F1,Void God,B
+MV-ELI-RIF-005-07,Barrel-Hum Disruption,Rumble Rifling,F2,Void God,B
+MV-ELI-RIF-005-08,Second-Track Barrel Parry,Boltvalor,F4,Void God,B
+MV-ELI-RIF-005-09,Field-Track Shield Cloak,Aegis Scopemount,F2,Void God,B
+MV-ELI-RIF-005-10,Twin-Track Piercing Burst,Shattering Reticle,F1,Void God,B
+MV-ELI-RIF-005-11,Dual-Track Walking Fire,Zeroscourge,F4,Void God,B
+MV-ELI-RIF-005-12,Track-Swap Counter Sequence,Overlapping Squeeze,F1,Void God,B
+MV-ELI-RIF-005-13,Dual-Track Unbroken Shot,Rumblebolt,F5,Void God,B
+MV-ELI-RIF-006-01,Sentinel Dawn Watch,Verity Cheekrest,F2,Void God,B
+MV-ELI-RIF-006-02,Wall-Walk Silent Pace,Sightglimmer,F4,Void God,B
+MV-ELI-RIF-006-03,Alarm-Shot Warning Report,Wrathful Longshot,F1,Void God,B
+MV-ELI-RIF-006-04,Night-Edge Sight Reading,Remnant Magazine,F2,Void God,B
+MV-ELI-RIF-006-05,Approach-Road Fire Lane,Grievous Rifling,F1,Void God,B
+MV-ELI-RIF-006-06,Counter-Rush Barrel Block,Boltnerve,F4,Void God,B
+MV-ELI-RIF-006-07,Tripwire Set-Rifle Snare,Lethal Rearsight,F1,Void God,B
+MV-ELI-RIF-006-08,Sentinel Rolling Wall Fire,Rampaging Chamber,F1,Void God,B
+MV-ELI-RIF-006-09,Last-Light Sentinel Shot,Regal Reticle,F2,Void God,B
+MV-ELI-RIF-007-01,Perch-Wait Stillness,Zeroruin,F4,True God,B
+MV-ELI-RIF-007-02,Wing-Fold Descent Step,Scopeblink,F4,True God,B
+MV-ELI-RIF-007-03,Talon-Grip Stock Hold,Might Bipod,F2,True God,B
+MV-ELI-RIF-007-04,Rising-Air Reading,Expanse Bolt,F2,True God,B
+MV-ELI-RIF-007-05,Cliff-Ledge Slip Step,Headlong Buttpad,F1,True God,B
+MV-ELI-RIF-007-06,Hawk-Stoop Aim Drop,Hellish Squeeze,F1,True God,B
+MV-ELI-RIF-007-07,Sun-Behind Glare Position,Overpowering Sight,F1,True God,B
+MV-ELI-RIF-007-08,Wing-Beat Guard,Unbowed Cheekrest,F1,True God,B
+MV-ELI-RIF-007-09,Long Stoop Piercing Shot,Sightwrath,F4,True God,B
+MV-ELI-RIF-007-10,Hawk's Return Climb,Torrential Rearsight,F1,True God,B
+MV-ELI-RIF-007-11,Lofty Perch Diving Shot,Aurascope,F5,True God,B
+MV-ELI-RIF-003-03,Expanse Magazine,Clear Magazine,F2,Demigod,B
+MV-ELI-RIF-007-04,Expanse Bolt,Wary Bolt,F2,True God,B

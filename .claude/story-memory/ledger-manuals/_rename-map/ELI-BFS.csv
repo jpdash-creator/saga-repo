@@ -1,0 +1,145 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-BFS-001-01,Formal Pair Opening,Rumble Wristside,F2,Demigod,B
+MV-ELI-BFS-001-02,Court Edge Cover,Ironscute,F5,Demigod,B
+MV-ELI-BFS-001-03,Matched Thrust Pair,Nova Shortedge,F2,Demigod,B
+MV-ELI-BFS-001-04,Field Bound Cut,Blazepleat,F5,Demigod,B
+MV-ELI-BFS-001-05,Court Counter Bind,Hoarfrost Swingguard,F2,Demigod,B
+MV-ELI-BFS-001-06,Level Court Step,Gust Cheekhilt,F2,Demigod,B
+MV-ELI-BFS-001-07,Paired Edge Verdict,Ironpleat,F5,Demigod,B
+MV-ELI-BFS-001-08,Court Field Ward,Hiltfold Nerve,F3,Demigod,B
+MV-ELI-BFS-001-09,Edge of the Highest Cut,Grave Shearedge,F2,Demigod,B
+MV-ELI-BFS-002-01,Basin Heel Settling Hold,Hoarfrost Edgepair,F2,Demigod,B
+MV-ELI-BFS-002-02,River Stone Parry,Pleatmettle,F4,Demigod,B
+MV-ELI-BFS-002-03,Quick Current Jab,Hollow Fliptang,F2,Demigod,B
+MV-ELI-BFS-002-04,Silt Cloud Wrist Feint,Overbearing Shearing,F1,Demigod,B
+MV-ELI-BFS-002-05,Pooling Qi Guard,Unconquered Doublehilt,F1,Demigod,B
+MV-ELI-BFS-002-06,Spill Over Cut,Crossing Scourge,F3,Demigod,B
+MV-ELI-BFS-002-07,Downstream Mate Pace,Ghosting Platepoint,F1,Demigod,B
+MV-ELI-BFS-002-08,Basin Brim Ward,Unbowed Wristside,F1,Demigod,B
+MV-ELI-BFS-002-09,River Run Flurry,Hourpleat,F5,Demigod,B
+MV-ELI-BFS-002-10,Flood Release Mastery,Punishing Blaze Platepoint,F6a,Demigod,B
+MV-ELI-BFS-003-01,High Perch Draw,Eviscerating Scissor,F1,Demigod,B
+MV-ELI-BFS-003-02,Hawk Brow Guard,Scutenerve,F4,Demigod,B
+MV-ELI-BFS-003-03,Falling Talon Stab,Ferocious Doublehilt,F1,Demigod,B
+MV-ELI-BFS-003-04,Wheeling Hawk Pace,Wingblink,F4,Demigod,B
+MV-ELI-BFS-003-05,Updraft Ward,Murk Hiltfold,F2,Demigod,B
+MV-ELI-BFS-003-06,Field Stoop Entry,Gust Snapcut,F2,Demigod,B
+MV-ELI-BFS-003-07,Talon Hook Rip,Strangling Clipper,F1,Demigod,B
+MV-ELI-BFS-003-08,Hawk Eye Reading,Chime Shearedge,F2,Demigod,B
+MV-ELI-BFS-003-09,Double Talon Plunge,Mangling Cheekhilt,F1,Demigod,B
+MV-ELI-BFS-003-10,Rising Hawk Wing Recovery,Phantom Flurry,F1,Demigod,B
+MV-ELI-BFS-003-11,Skyfall Canon Cut,Rumblemoth,F5,Demigod,B
+MV-ELI-BFS-004-01,Hushed Draw,Shearing Wrath,F3,Demigod,B
+MV-ELI-BFS-004-02,Cloth Muffled Guard,Flintlike Edgepair,F1,Demigod,B
+MV-ELI-BFS-004-03,Soft Footed Thrust,Facet Snapcut,F2,Demigod,B
+MV-ELI-BFS-004-04,Breathless Sidestep,Siltwing,F5,Demigod,B
+MV-ELI-BFS-004-05,Dampened Edge Lift,Toxin Crossing,F2,Demigod,B
+MV-ELI-BFS-004-06,Silent Pair Cut,Punishing Scissor,F1,Demigod,B
+MV-ELI-BFS-004-07,Stilled Field Cover,Inexorable Swingguard,F1,Demigod,B
+MV-ELI-BFS-004-08,Unheard Finishing Stroke,Rumble Doublehilt,F2,Demigod,B
+MV-ELI-BFS-004-09,Doctrine of the Quiet Pair,Reverie Flurry,F2,Demigod,B
+MV-ELI-BFS-005-01,Open Sky Salute,Facet Shearedge,F2,Demigod,B
+MV-ELI-BFS-005-02,Azure Pair Line Cut,Scutewrath,F4,Demigod,B
+MV-ELI-BFS-005-03,Twin Reach Parallel Thrust,Pleathavoc,F4,Demigod,B
+MV-ELI-BFS-005-04,Hawk Wind Slide,Shortedge Slipstream,F3,Demigod,B
+MV-ELI-BFS-005-05,River Mist Guard,Chime Shortedge,F2,Demigod,B
+MV-ELI-BFS-005-06,Wide Field Spread,Chime Platepoint,F2,Demigod,B
+MV-ELI-BFS-005-07,Reaching Sky Cut,Gust Flurry,F2,Demigod,B
+MV-ELI-BFS-005-08,Basin Floor Pair Glide,Snapcut Blink,F3,Demigod,B
+MV-ELI-BFS-005-09,Twin Horizon Bind,Pleatnerve,F4,Demigod,B
+MV-ELI-BFS-005-10,Sky Spanning Ward,Flintlike Fliptang,F1,Demigod,B
+MV-ELI-BFS-005-11,Long Pair Sweep,Devastating Scissor,F1,Demigod,B
+MV-ELI-BFS-005-12,Form of the Open Reaches,Mayhem Fliptang,F2,Demigod,B
+MV-ELI-BFS-006-01,Blade and Mate Stance,Facet Wristside,F2,Demigod,B
+MV-ELI-BFS-006-02,Lead Track Cut,Devastating Clipper,F1,Demigod,B
+MV-ELI-BFS-006-03,Mate Track Thrust,Rumble Crossing,F2,Demigod,B
+MV-ELI-BFS-006-04,Parallel Pair Footwork,Mightwing,F5,Demigod,B
+MV-ELI-BFS-006-05,Divided Field Guard,Invincible Swingguard,F1,Demigod,B
+MV-ELI-BFS-006-06,Mate Answering Cut,Mothhavoc,F4,Demigod,B
+MV-ELI-BFS-006-07,Track Swap Feint,Wingdurance,F4,Demigod,B
+MV-ELI-BFS-006-08,Two Track Convergence Cut,Might Shearing,F2,Demigod,B
+MV-ELI-BFS-006-09,Mate Cover Withdrawal,Pleatvortex,F4,Demigod,B
+MV-ELI-BFS-006-10,Meditation of the Mated Edge,Scutemettle,F4,Demigod,B
+MV-ELI-BFS-007-01,Master's Plain Draw,Titanic Clipper,F1,Monarch,B
+MV-ELI-BFS-007-02,Meridian Weight Guard,Facet Edgepair,F2,Monarch,B
+MV-ELI-BFS-007-03,Hard Elbow Thrust,Nova Doublehilt,F2,Monarch,B
+MV-ELI-BFS-007-04,Mortal Peak Surge,Fliptang Wrath,F3,Monarch,B
+MV-ELI-BFS-007-05,Network Pulse Step,Silt Shearedge,F2,Monarch,B
+MV-ELI-BFS-007-06,Iron Wrist Bind,Pleatdurance,F4,Monarch,B
+MV-ELI-BFS-007-07,Master's Close Reckoning,Sanguine Shearing,F2,Monarch,B
+MV-ELI-BFS-007-08,Pair Turned Guard,Scutespine,F4,Monarch,B
+MV-ELI-BFS-007-09,Mortal Edge at Its Limit,Rumble Platepoint,F2,Demigod,B
+MV-ELI-BFS-008-01,Oath Spoken Pair Draw,Eviscerating Hiltfold,F1,Demigod,B
+MV-ELI-BFS-008-02,Wind Grain Guard,Murk Edgepair,F2,Demigod,B
+MV-ELI-BFS-008-03,Needle Gale Mate Thrust,Novapleat,F5,Demigod,B
+MV-ELI-BFS-008-04,Gale Line Footing,Wristside Whirlpool,F3,Demigod,B
+MV-ELI-BFS-008-05,Oath Field Pair Binding,Suffocating Snapcut,F1,Demigod,B
+MV-ELI-BFS-008-06,Windfall Cut,Flurryruin,F4,Demigod,B
+MV-ELI-BFS-008-07,Sworn Hold of Ground,Evergreen Shortedge,F1,Demigod,B
+MV-ELI-BFS-008-08,Gale Voice Reply,Scutescourge,F4,Demigod,B
+MV-ELI-BFS-008-09,Wind Wrapped Ward,Unbowed Swingguard,F1,Demigod,B
+MV-ELI-BFS-008-10,One Voice of the Gale,Novaflurry,F5,Demigod,B
+MV-ELI-BFS-009-01,Plateau Square Stance,Iron Swingguard,F2,Demigod,B
+MV-ELI-BFS-009-02,Wide Arc Cut,Might Flurry,F2,Demigod,B
+MV-ELI-BFS-009-03,Edge Walk Pace,Pleatflash,F4,Demigod,B
+MV-ELI-BFS-009-04,Oath Held Counter,Impervious Fliptang,F1,Demigod,B
+MV-ELI-BFS-009-05,Rim Wind Cut,Scissor Devastation,F3,Demigod,B
+MV-ELI-BFS-009-06,Open Hand Hold Off,Intent Clipper,F2,Demigod,B
+MV-ELI-BFS-009-07,Rim Guard Sweep,Daybreak Cheekhilt,F2,Demigod,B
+MV-ELI-BFS-009-08,Unyielding Edge Ground,Adamantine Cheekhilt,F1,Demigod,B
+MV-ELI-BFS-009-09,Mastery of the Plateau Edge,Thorn Shortedge,F2,Demigod,B
+MV-ELI-BFS-010-01,Crosswind Opening Cut,Blazewing,F5,Demigod,B
+MV-ELI-BFS-010-02,Bearing Anchored Pair Guard,Granite Shearedge,F2,Demigod,B
+MV-ELI-BFS-010-03,Slant Wind Thrust,Flurry Wrath,F3,Demigod,B
+MV-ELI-BFS-010-04,Wind Bent Wing Parry,Equipoise Edgepair,F2,Demigod,B
+MV-ELI-BFS-010-05,Drifting Bearing Pace,Gust Platepoint,F2,Demigod,B
+MV-ELI-BFS-010-06,Sworn Crosswind Lock,Flurrynerve,F4,Demigod,B
+MV-ELI-BFS-010-07,Gust Field Return,Berserk Scissor,F1,Demigod,B
+MV-ELI-BFS-010-08,Fixed Bearing Reading,Waning Wristside,F2,Demigod,B
+MV-ELI-BFS-010-09,Crosswind Double Cut,Sanguine Crossing,F2,Demigod,B
+MV-ELI-BFS-010-10,Immovable Sworn Stance,Impervious Doublehilt,F1,Demigod,B
+MV-ELI-BFS-010-11,Treatise Cut of the Crosswind,Corroding Shearing Reckoning,F6b,Demigod,B
+MV-ELI-BFS-011-01,Short Steel Salute,Pleatvalor,F4,Demigod,B
+MV-ELI-BFS-011-02,Gust Counting Cut,Blaze Snapcut,F2,Demigod,B
+MV-ELI-BFS-011-03,Wind Reading Jab,Facetpleat,F5,Demigod,B
+MV-ELI-BFS-011-04,Plateau Open Step,Torrential Crossing,F1,Demigod,B
+MV-ELI-BFS-011-05,Reckoning Field Press,Webbing Cheekhilt,F1,Demigod,B
+MV-ELI-BFS-011-06,Sworn Wind Deflection,Chimemoth,F5,Demigod,B
+MV-ELI-BFS-011-07,Last Lull Cut,Tempered Clipper,F2,Demigod,B
+MV-ELI-BFS-011-08,Wind Reckoning Pair,Titanic Fliptang,F1,Demigod,B
+MV-ELI-BFS-011-09,Plateau Updraft Flank Surge,Torrent Snapcut,F2,Demigod,B
+MV-ELI-BFS-011-10,Reckoning of the Sworn Wind,Lightning Cheekhilt Vortex,F6b,Demigod,B
+MV-ELI-BFS-012-01,Storm Facing Stance,Charter Edgepair,F2,Demigod,B
+MV-ELI-BFS-012-02,Rain Shedding Parry,Unbowed Platepoint,F1,Demigod,B
+MV-ELI-BFS-012-03,Lightning Short Thrust,Hollow Swingguard,F2,Demigod,B
+MV-ELI-BFS-012-04,Bearing Return Step,Unseen Shortedge,F1,Demigod,B
+MV-ELI-BFS-012-05,Wind Weight Guard,Thorn Shearedge,F2,Demigod,B
+MV-ELI-BFS-012-06,Storm Gap Cut,Blistering Crossing,F1,Demigod,B
+MV-ELI-BFS-012-07,Held Line Ward,Indomitable Hiltfold,F1,Demigod,B
+MV-ELI-BFS-012-08,Storm Breaking Counter,Devastating Doublehilt,F1,Demigod,B
+MV-ELI-BFS-012-09,Unmoving Bearing Mastery,Unbowed Hiltfold,F1,Demigod,B
+MV-ELI-BFS-013-01,Patrol Rim Walk,Unseen Wristside,F1,Demigod,B
+MV-ELI-BFS-013-02,Oath Spoken Guard,Facet Doublehilt,F2,Demigod,B
+MV-ELI-BFS-013-03,Rising Grass Cut,Mothruin,F4,Demigod,B
+MV-ELI-BFS-013-04,Long Grass Thrust,Facet Shearing,F2,Demigod,B
+MV-ELI-BFS-013-05,Dust Wind Feint,Murk Flurry,F2,Demigod,B
+MV-ELI-BFS-013-06,Oath Long Field,Expanse Platepoint,F2,Demigod,B
+MV-ELI-BFS-013-07,Cross Rim Bind,Wingspine,F4,Demigod,B
+MV-ELI-BFS-013-08,Patrol Pair Cut,Merciless Shortedge,F1,Demigod,B
+MV-ELI-BFS-013-09,Windward Recovery Step,Wingflash,F4,Demigod,B
+MV-ELI-BFS-013-10,Long Plateau Sweep,Granite Hiltfold,F2,Demigod,B
+MV-ELI-BFS-013-11,Oath Pair Standing Ward,Hiltfold Hardihood,F3,Demigod,B
+MV-ELI-BFS-013-12,Form of the Long Plateau,Unseen Glint Clipper,F6a,Demigod,B
+MV-ELI-BFS-014-01,Mortal Wind Draw,Tempered Scissor,F2,Monarch,B
+MV-ELI-BFS-014-02,Meridian Brace Guard,Aegisscute,F5,Monarch,B
+MV-ELI-BFS-014-03,Narrow Wind Thrust,Flurryscourge,F4,Monarch,B
+MV-ELI-BFS-014-04,Master's Bearing Step,Meteoric Shearing,F1,Monarch,B
+MV-ELI-BFS-014-05,Mortal Wind Surge,Sanguine Swingguard,F2,Monarch,B
+MV-ELI-BFS-014-06,Network Sworn Guard,Gust Fliptang,F2,Monarch,B
+MV-ELI-BFS-014-07,Rim Wind Lock,Fastening Crossing,F2,Monarch,B
+MV-ELI-BFS-014-08,Master's Gust Answer,Ironflurry,F5,Monarch,B
+MV-ELI-BFS-014-09,Network Held Ward,Granite Edgepair,F2,Monarch,B
+MV-ELI-BFS-014-10,Notes on the Wind Edge,Scissor Reckoning,F3,Demigod,B
+MV-ELI-BFS-002-03,Hollow Fliptang,Spearing Fliptang,F2,Demigod,B
+MV-ELI-BFS-012-03,Hollow Swingguard,Lancing Swingguard,F2,Demigod,B
+MV-ELI-BFS-013-06,Expanse Platepoint,Probing Platepoint,F2,Demigod,B

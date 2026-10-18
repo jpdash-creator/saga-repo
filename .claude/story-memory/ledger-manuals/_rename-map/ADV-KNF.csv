@@ -1,0 +1,136 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-KNF-001-01,Second Book Guard Draw,Granite Pare,F2,Champion,B
+MV-ADV-KNF-001-02,Knuckle Line Jab,Choil Assault,F3,Champion,B
+MV-ADV-KNF-001-03,Outer Wrist Cover,Chime Bolster,F2,Champion,B
+MV-ADV-KNF-001-04,Brace and Pivot Step,Siltpeel,F5,Champion,B
+MV-ADV-KNF-001-05,Qi Fed Belly Slash,Splintering Thumbramp,F1,Champion,B
+MV-ADV-KNF-001-06,Counter Edge Interrupt,Toxinpeel,F5,Champion,B
+MV-ADV-KNF-001-07,Crossing Block Lock,Gyve Shave,F2,Champion,B
+MV-ADV-KNF-001-08,Meridian Driven Knife Rush,Plungebarrage,F4,Champion,B
+MV-ADV-KNF-001-09,Rebounding Edge Parry,Glamour Swedge,F2,Champion,B
+MV-ADV-KNF-002-01,Fed Edge Test Cut,Gust Edgebelly,F2,Champion,B
+MV-ADV-KNF-002-02,Straight Draw Pass,Might Lanyard,F2,Champion,B
+MV-ADV-KNF-002-03,Sawing Pull Cut,Blazeshave,F5,Champion,B
+MV-ADV-KNF-002-04,Shoulder Drop Guard,Hoarfrost Scales,F2,Champion,B
+MV-ADV-KNF-002-05,Pace Counting Step,Gustslit,F5,Champion,B
+MV-ADV-KNF-002-06,Edge Warming Slice,Blaze Tangpin,F2,Champion,B
+MV-ADV-KNF-002-07,Sinew Wrap Cut,Trim Barrage,F3,Champion,B
+MV-ADV-KNF-002-08,Cutting Tide Shift,Racing Whittle,F1,Champion,B
+MV-ADV-KNF-002-09,Armor Parting Qi Draw,Rupturing Slit,F1,Champion,B
+MV-ADV-KNF-002-10,Full Reserve Slicing Pass,Buttcap Torment,F3,Champion,B
+MV-ADV-KNF-003-01,Field Edge Touch Cut,Blaze Plunge,F2,Demigod,B
+MV-ADV-KNF-003-02,Reach Reading Poke,Glintplunge,F5,Demigod,B
+MV-ADV-KNF-003-03,Slack Wrist Turn Guard,Chimechoil,F5,Demigod,B
+MV-ADV-KNF-003-04,Field Line Glide,Gust Bolster,F2,Demigod,B
+MV-ADV-KNF-003-05,Living Field Edge Sweep,Scalesassault,F4,Demigod,B
+MV-ADV-KNF-003-06,Field Wrapped Tip Thrust,Unmaking Slit,F1,Demigod,B
+MV-ADV-KNF-003-07,Field Extension Cut,Gust Pare,F2,Demigod,B
+MV-ADV-KNF-003-08,Field Barrier Close,Annealed Plunge Cuirass,F6b,Demigod,B
+MV-ADV-KNF-004-01,Beyond Reach Opening Cut,Shave Torment,F3,Demigod,B
+MV-ADV-KNF-004-02,Measured Lunge Point,Splintering Buttcap,F1,Demigod,B
+MV-ADV-KNF-004-03,Short Draw Return,Plungethrash,F4,Demigod,B
+MV-ADV-KNF-004-04,Edge Guard Slip,Plungegreave,F4,Demigod,B
+MV-ADV-KNF-004-05,Reach Shortening Step,Silt Scales,F2,Demigod,B
+MV-ADV-KNF-004-06,Qi Field Distance Sense,Invigorating Lanyard,F1,Demigod,B
+MV-ADV-KNF-004-07,Blade Length Illusion Cut,Mayhem Peel,F2,Demigod,B
+MV-ADV-KNF-004-08,Field Carried Slash,Lancing Choil,F1,Demigod,B
+MV-ADV-KNF-004-09,Gap Swallowing Rush,Edgebelly Spurt,F3,Demigod,B
+MV-ADV-KNF-004-10,Far Edge Qi Whip Cut,Thumbramp Onslaught,F3,Demigod,B
+MV-ADV-KNF-004-11,Knife Reach Denial Sweep,Scorching Tangpin,F1,Demigod,B
+MV-ADV-KNF-005-01,Drill One Planted Cut,Slitthrash,F4,Demigod,B
+MV-ADV-KNF-005-02,Drill Two Pivot Cut,Ironchoil,F5,Demigod,B
+MV-ADV-KNF-005-03,Drill Three Reverse Draw,Ravaging Whittle,F1,Demigod,B
+MV-ADV-KNF-005-04,Drill Four Guard Slide,Chimescales,F5,Demigod,B
+MV-ADV-KNF-005-05,Drill Five Step Line,Silt Lanyard,F2,Demigod,B
+MV-ADV-KNF-005-06,Drill Six Breath Check,Remnant Swedge,F2,Demigod,B
+MV-ADV-KNF-005-07,Drill Seven Field Slice,Swedgebarrage,F4,Demigod,B
+MV-ADV-KNF-005-08,Drill Eight Hook and Return,Rumble Thumbramp,F2,Demigod,B
+MV-ADV-KNF-005-09,Drill Nine Binding Cut,Hoarfrost Shave,F2,Demigod,B
+MV-ADV-KNF-005-10,Drill Ten Forearm Break,Mayhem Swedge,F2,Demigod,B
+MV-ADV-KNF-005-11,Drill Eleven Long Practiced Stroke,Harrowing Peel,F1,Demigod,B
+MV-ADV-KNF-005-12,Drill Twelve Flowing Close,Hollow Plunge,F2,Demigod,B
+MV-ADV-KNF-006-01,Paired Draw Cut,Might Bolster,F2,Champion,B
+MV-ADV-KNF-006-02,River Bend Slice,Blazetrim,F5,Champion,B
+MV-ADV-KNF-006-03,Basin Floor Knife Thrust,Harpooning Tangpin,F1,Champion,B
+MV-ADV-KNF-006-04,Paired Wrist Guard,Unbroken Scales,F1,Champion,B
+MV-ADV-KNF-006-05,Shallows Step,Silttrim,F5,Champion,B
+MV-ADV-KNF-006-06,Twin Knife Crossing Slash,Harrowing Trim,F1,Champion,B
+MV-ADV-KNF-006-07,Current Turning Parry,Edgebelly Cloak,F3,Champion,B
+MV-ADV-KNF-006-08,Azure Shallows Tip Run,Hollow Peel,F2,Champion,B
+MV-ADV-KNF-006-09,Twin Blade Confluence Cut,Iron Trim,F2,Champion,B
+MV-ADV-KNF-006-10,Basin Flood Edge Sweep,Siltchoil,F5,Champion,B
+MV-ADV-KNF-007-01,Hawk Stoop Cut,Iron Buttcap,F2,Champion,B
+MV-ADV-KNF-007-02,Talon Grip Jab,Rumble Choil,F2,Champion,B
+MV-ADV-KNF-007-03,Wing Fold Guard,Annealed Swedge,F1,Champion,B
+MV-ADV-KNF-007-04,Perch Landing Step,Mightchoil,F5,Champion,B
+MV-ADV-KNF-007-05,Talon Rake Slash,Mightshave,F5,Champion,B
+MV-ADV-KNF-007-06,Hawk Eye Wrist Read,Perceptive Buttcap,F1,Champion,B
+MV-ADV-KNF-007-07,Dive and Hook Cut,Gust Plunge,F2,Champion,B
+MV-ADV-KNF-007-08,Hawk Dive Edge Strike,Trimtorment,F4,Champion,B
+MV-ADV-KNF-007-09,Azure Hover Deflection,Chime Thumbramp,F2,Champion,B
+MV-ADV-KNF-008-01,Azure Current Slip Cut,Rumble Slit,F2,Demigod,B
+MV-ADV-KNF-008-02,Eddy Turn Jab,Scalding Peel,F1,Demigod,B
+MV-ADV-KNF-008-03,Streambed Draw,Trouncing Bolster,F1,Demigod,B
+MV-ADV-KNF-008-04,Reed Bend Guard,Gust Tangpin,F2,Demigod,B
+MV-ADV-KNF-008-05,Ford Crossing Knife Step,Torrent Trim,F2,Demigod,B
+MV-ADV-KNF-008-06,Current Reading Glance,Veritychoil,F5,Demigod,B
+MV-ADV-KNF-008-07,Undercurrent Edge Pull,Plungetorment,F4,Demigod,B
+MV-ADV-KNF-008-08,Whirlpool Wrist Cut,Tempered Shave,F2,Demigod,B
+MV-ADV-KNF-008-09,Twin Current Cross Cut,Iron Whittle,F2,Demigod,B
+MV-ADV-KNF-008-10,River Stone Rebound Parry,Murk Choil,F2,Demigod,B
+MV-ADV-KNF-008-11,Azure Torrent Slicing Rush,Sanguine Slit,F2,Demigod,B
+MV-ADV-KNF-008-12,Basin Deep Current Bind,Gyveslit,F5,Demigod,B
+MV-ADV-KNF-009-01,Twin Track Opening Cut,Scales Barrage,F3,Demigod,B
+MV-ADV-KNF-009-02,Qi Track Thrust,Rumble Tangpin,F2,Demigod,B
+MV-ADV-KNF-009-03,Body Track Draw,Wrecking Edgebelly,F1,Demigod,B
+MV-ADV-KNF-009-04,Track Switch Guard,Murk Swedge,F2,Demigod,B
+MV-ADV-KNF-009-05,Dual Track Footfall,Silt Shave,F2,Demigod,B
+MV-ADV-KNF-009-06,Track Balance Check,Verity Scales,F2,Demigod,B
+MV-ADV-KNF-009-07,Two Track Counter Slice,Peel Torment,F3,Demigod,B
+MV-ADV-KNF-009-08,Qi and Body Cross Cut,Blaze Slit,F2,Demigod,B
+MV-ADV-KNF-009-09,Track Crossing Bind,Gyve Pare,F2,Demigod,B
+MV-ADV-KNF-009-10,Twin Track Convergent Edge,Sanguine Bolster,F2,Demigod,B
+MV-ADV-KNF-009-11,Dual Rail Rebound Guard,Steadfast Verity Thumbramp,F6a,Demigod,B
+MV-ADV-KNF-010-01,Wind-Sworn Draw Cut,Rumble Plunge,F2,Champion,B
+MV-ADV-KNF-010-02,Crosswind Knife Slice,Swedgeassault,F4,Champion,B
+MV-ADV-KNF-010-03,Plateau Edge Thrust,Ironshave,F5,Champion,B
+MV-ADV-KNF-010-04,Gust Guard Turn,Torrent Choil,F2,Champion,B
+MV-ADV-KNF-010-05,Knife Bearing Hold Step,Glancing Pare,F1,Champion,B
+MV-ADV-KNF-010-06,Oath Edge Slash,Choilbarrage,F4,Champion,B
+MV-ADV-KNF-010-07,Headwind Parry,Swedgegreave,F4,Champion,B
+MV-ADV-KNF-010-08,Plateau Knife Run Cut,Soaring Lanyard,F1,Champion,B
+MV-ADV-KNF-010-09,Gale Rise Knife Cut,Rupturing Trim,F1,Champion,B
+MV-ADV-KNF-010-10,Standing Wind Guard,Thorn Edgebelly,F2,Champion,B
+MV-ADV-KNF-011-01,Bearing Fixed Cut,Mighttrim,F5,Demigod,B
+MV-ADV-KNF-011-02,Held Bearing Thrust,Peelthrash,F4,Demigod,B
+MV-ADV-KNF-011-03,Knife Edge Bearing Guard,Murk Buttcap,F2,Demigod,B
+MV-ADV-KNF-011-04,Knife Bearing Shift Step,Might Whittle,F2,Demigod,B
+MV-ADV-KNF-011-05,Cross Plateau Slash,Rupturing Choil,F1,Demigod,B
+MV-ADV-KNF-011-06,Course Correcting Parry,Choilhauberk,F4,Demigod,B
+MV-ADV-KNF-011-07,True Bearing Qi Strike,Rupturing Lanyard,F1,Demigod,B
+MV-ADV-KNF-011-08,Wind Fix Binding Cut,Whittle Fastness,F3,Demigod,B
+MV-ADV-KNF-012-01,Oath Held Draw,Blazepeel,F5,Demigod,B
+MV-ADV-KNF-012-02,Sworn Point Thrust,Wrecking Pare,F1,Demigod,B
+MV-ADV-KNF-012-03,Gale Cutting Slice,Might Buttcap,F2,Demigod,B
+MV-ADV-KNF-012-04,Oath Guard Pivot,Equipoise Edgebelly,F2,Demigod,B
+MV-ADV-KNF-012-05,Standing Oath Step,Careening Shave,F1,Demigod,B
+MV-ADV-KNF-012-06,Wind Oath Reading,Remnant Thumbramp,F2,Demigod,B
+MV-ADV-KNF-012-07,Gale Cutting Cross Cut,Pare Onslaught,F3,Demigod,B
+MV-ADV-KNF-012-08,Oath Bound Counter Edge,Needling Peel,F1,Demigod,B
+MV-ADV-KNF-012-09,Upwind Dart Step,Granite Plunge,F2,Demigod,B
+MV-ADV-KNF-012-10,Gale Splitting Draw,Whittle Torment,F3,Demigod,B
+MV-ADV-KNF-012-11,Storm Edge Oath Sweep,Intent Slit,F2,Demigod,B
+MV-ADV-KNF-013-01,Open Sky Draw,Harpooning Bolster,F1,Demigod,B
+MV-ADV-KNF-013-02,Wide Plateau Slice,Choilthrash,F4,Demigod,B
+MV-ADV-KNF-013-03,Unwalled Thrust,Tearing Trim,F1,Demigod,B
+MV-ADV-KNF-013-04,Wind Skirt Guard,Iron Swedge,F2,Demigod,B
+MV-ADV-KNF-013-05,Long Horizon Stride,Choil Sprint,F3,Demigod,B
+MV-ADV-KNF-013-06,Wind Taste Knife Sense,Renewing Tangpin,F1,Demigod,B
+MV-ADV-KNF-013-07,Skyline Cut Chain,Blaze Pare,F2,Demigod,B
+MV-ADV-KNF-013-08,Crosswind Return Edge,Might Thumbramp,F2,Demigod,B
+MV-ADV-KNF-013-09,Sworn Wind Bind,Thorn Plunge,F2,Demigod,B
+MV-ADV-KNF-013-10,Open Ground Rebound,Resilient Lanyard,F1,Demigod,B
+MV-ADV-KNF-013-11,Boundless Gale Edge Strike,Ironpare,F5,Demigod,B
+MV-ADV-KNF-013-12,Skyfall Knife Descent,Facet Scales,F2,Demigod,B
+MV-ADV-KNF-005-12,Hollow Plunge,Keen Plunge,F2,Demigod,B
+MV-ADV-KNF-006-08,Hollow Peel,Steel Peel,F2,Champion,B

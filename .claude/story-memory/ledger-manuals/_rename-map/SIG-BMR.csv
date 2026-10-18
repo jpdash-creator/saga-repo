@@ -1,0 +1,146 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-BMR-001-01,Hawk Pair Standing,Deluge Curveback,F2,Warrior L1 Low,B
+MV-SIG-BMR-001-02,Doctrine Twin Throw,Inferno Circling,F2,Warrior L1 Low,B
+MV-SIG-BMR-001-03,Catch Rhythm Count,Peal Wingarm,F2,Warrior L1 Low,B
+MV-SIG-BMR-001-04,Hawk Flank Cast,Pealwood,F5,Warrior L1 Low,B
+MV-SIG-BMR-001-05,Paired Hawk Feint,Reminiscence Trailingedge,F2,Warrior L1 Low,B
+MV-SIG-BMR-001-06,Paired Stick Wing Brace,Statute Sweptwing,F2,Warrior L1 Low,B
+MV-SIG-BMR-001-07,Paired Hawk Stick Descent,Pulsarwood,F5,Champion L1 Low,B
+MV-SIG-BMR-001-08,Doctrine Pincer Pass,Radiance Returnarc,F2,Champion L1 Low,B
+MV-SIG-BMR-001-09,Hawk Pair Overreach,Elbowbend Heraldry,F3,Demigod L1 Low,B
+MV-SIG-BMR-001-10,Paired Hawk Falling,Matchless Woodgrain Crown,F6b,Warrior L1 Low,B
+MV-SIG-BMR-002-01,Basin River Stance,Vigor Crookend,F2,Warrior L7 Low,B
+MV-SIG-BMR-002-02,Crescent Draw Pair,Leadingedge Decree,F3,Warrior L7 Low,B
+MV-SIG-BMR-002-03,Bend Marking,Pealcurve,F5,Warrior L7 Low,B
+MV-SIG-BMR-002-04,River Crescent Cast,Prism Cycle,F2,Warrior L7 Low,B
+MV-SIG-BMR-002-05,Basin Eddy Hold,Millstone Tipwing,F2,Warrior L7 Low,B
+MV-SIG-BMR-002-06,Meander Return,Prism Crookend,F2,Warrior L7 Low,B
+MV-SIG-BMR-002-07,Bank Strike Pair,Arcdecree,F4,Warrior L7 Low,B
+MV-SIG-BMR-002-08,Basin Flood Cast,Dunecycle,F5,Champion L1 Low,B
+MV-SIG-BMR-002-09,River Crescent Closing,Squallreturn,F5,Champion L1 Low,B
+MV-SIG-BMR-002-10,Basin Crescent Shearing,Steelcycle,F5,Demigod L1 Low,B
+MV-SIG-BMR-002-11,Crescent of the Basin Returning,Curvetriumph,F4,Warrior L7 Low,B
+MV-SIG-BMR-003-01,Twin Court Hold,Squallcycle,F5,Champion L5 Low,B
+MV-SIG-BMR-003-02,Wing Pair Windup,Inferno Sweptwing,F2,Champion L5 Low,B
+MV-SIG-BMR-003-03,Court Pacing Step,Dune Return,F2,Champion L5 Low,B
+MV-SIG-BMR-003-04,Winged Hand Catch,Reminiscence Returnarc,F2,Champion L5 Low,B
+MV-SIG-BMR-003-05,Two Wing Cast,Squall Elbowbend,F2,Champion L5 Low,B
+MV-SIG-BMR-003-06,Court Disruption Cross,Masterful Loopback,F1,Champion L5 Low,B
+MV-SIG-BMR-003-07,Winged Parry Pair,Tipwing Seal,F3,Champion L5 Low,B
+MV-SIG-BMR-003-08,Twin Bank Sweep,Illustrious Hover,F1,Champion L5 Low,B
+MV-SIG-BMR-003-09,Two Wing Verdict,Dauntless Trailingedge,F1,Champion L5 Low,B
+MV-SIG-BMR-003-10,Court Wing Snare,Beguiling Leadingedge,F1,Champion L5 Low,B
+MV-SIG-BMR-003-11,Winged Court Flash,Radiance Curveback,F2,Demigod L1 Low,B
+MV-SIG-BMR-003-12,Two Winged Throw of the Court,Squall Loopback,F2,Champion L5 Low,B
+MV-SIG-BMR-004-01,Dual Track Setting,Pealgrain,F5,Ruler L1 Low,B
+MV-SIG-BMR-004-02,Closing Arc Draw,Thunderclap Arc,F2,Ruler L1 Low,B
+MV-SIG-BMR-004-03,Ruler Pace Measure,Curvegrace,F4,Ruler L1 Low,B
+MV-SIG-BMR-004-04,Closing Arc Cast,Graincrown,F4,Ruler L1 Low,B
+MV-SIG-BMR-004-05,Track Cutting Cross,Entropy Woodgrain,F2,Ruler L1 Low,B
+MV-SIG-BMR-004-06,Arc Brace Guard,Sanctum Woodgrain,F2,Ruler L1 Low,B
+MV-SIG-BMR-004-07,Closing Arc Pincer,Pulsarcycle,F5,Ruler L1 Low,B
+MV-SIG-BMR-004-08,Dual Track Lane Trap,Hornbeam Crookend,F2,Ruler L1 Low,B
+MV-SIG-BMR-004-09,Dual Track Deep Pierce,Imperial Arc,F1,Demigod L1 Low,B
+MV-SIG-BMR-004-10,Closing Arc Without Escape,Matchless Circling Verdict,F6b,Ruler L1 Low,B
+MV-SIG-BMR-005-01,Hawk Wheel Stance,Vigor Hover,F2,Demigod L1 Low,B
+MV-SIG-BMR-005-02,Thermal Sight,Wise Curveback,F1,Demigod L1 Low,B
+MV-SIG-BMR-005-03,Spiral Climb Release,Squallgrain,F5,Demigod L1 Low,B
+MV-SIG-BMR-005-04,Wheeling Cast,Glacier Wingarm,F2,Demigod L1 Low,B
+MV-SIG-BMR-005-05,Overhead Circle Guard,Hornbeam Sweptwing,F2,Demigod L1 Low,B
+MV-SIG-BMR-005-06,Talon Drop Hold,Sigil Cycle,F2,Demigod L1 Low,B
+MV-SIG-BMR-005-07,High Station Volley,Hover Edict,F3,Demigod L1 Low,B
+MV-SIG-BMR-005-08,Hawk Wheel Descent,Cyclebanner,F4,Demigod L1 Low,B
+MV-SIG-BMR-005-09,Wheeling Net Cast,Artful Leadingedge,F1,Demigod L1 Low,B
+MV-SIG-BMR-005-10,Sky Hawk Passage,Season Return,F2,Demigod L1 Low,B
+MV-SIG-BMR-005-11,Wheeling Hawk Stooping,Prismreturn,F5,Demigod L1 Low,B
+MV-SIG-BMR-006-01,Ring Breath Seating,Peal Elbowbend,F2,Core Formation L1 Low,B
+MV-SIG-BMR-006-02,Azure Ring Draw,Cycletriumph,F4,Core Formation L1 Low,B
+MV-SIG-BMR-006-03,Core Held Step,Tipwing Boon,F3,Core Formation L1 Low,B
+MV-SIG-BMR-006-04,Ring Return Catch,Pealbark,F5,Core Formation L1 Low,B
+MV-SIG-BMR-006-05,Ring Cast Outward,Peerless Loopback,F1,Core Formation L1 Low,B
+MV-SIG-BMR-006-06,Ring Closing Hold,Thrall Trailingedge,F2,Core Formation L1 Low,B
+MV-SIG-BMR-006-07,Core Fed Orbit,Hospitable Wingarm,F1,Core Formation L1 Low,B
+MV-SIG-BMR-006-08,Ring Burst Cast,Famed Returnarc,F1,Core Formation L1 Low,B
+MV-SIG-BMR-006-09,Azure Ring Lattice,Statute Crookend,F2,Core Formation L1 Low,B
+MV-SIG-BMR-006-10,Orbit Splitting Cast,Splendid Return,F1,Core Formation L1 Low,B
+MV-SIG-BMR-006-11,Ring Piercing Return,Gallant Hover,F1,Core Formation L1 Low,B
+MV-SIG-BMR-006-12,Azure Ring Unbroken Orbit,Storied Trailingedge,F1,Core Formation L1 Low,B
+MV-SIG-BMR-007-01,First Bearing Recital,Barkgift,F4,Warrior L2 Low,B
+MV-SIG-BMR-007-02,Windward Stick Plant,Bedrock Loopback,F2,Warrior L2 Low,B
+MV-SIG-BMR-007-03,Oath Level Release,Radiance Cycle,F2,Warrior L2 Low,B
+MV-SIG-BMR-007-04,Bearing Return Take,Woodgrain Mercy,F3,Warrior L2 Low,B
+MV-SIG-BMR-007-05,First Bearing Cast,Peal Arc,F2,Warrior L2 Low,B
+MV-SIG-BMR-007-06,Gust Crook Pull,Thrall Circling,F2,Warrior L2 Low,B
+MV-SIG-BMR-007-07,Gust Turning Guard,Leadingedge Troth,F3,Warrior L2 Low,B
+MV-SIG-BMR-007-08,Sworn Edge Pressure,Valiant Tipwing,F1,Warrior L2 Low,B
+MV-SIG-BMR-007-09,Paired Bearing Stick Volley,Woodtriumph,F4,Champion L1 Low,B
+MV-SIG-BMR-007-10,Oath Gale Net,Dune Elbowbend,F2,Champion L1 Low,B
+MV-SIG-BMR-007-11,Bearing Arrival Flash,Interstice Curveback,F2,Demigod L1 Low,B
+MV-SIG-BMR-007-12,First Bearing Held,Returntriumph,F4,Warrior L2 Low,B
+MV-SIG-BMR-008-01,Plateau Standing Rest,Squall Wingarm,F2,Warrior L8 Low,B
+MV-SIG-BMR-008-02,Sworn Return Marking,Barkmercy,F4,Warrior L8 Low,B
+MV-SIG-BMR-008-03,Flat Gale Cast,Radiance Circling,F2,Warrior L8 Low,B
+MV-SIG-BMR-008-04,Sworn Return Cast,Radiance Arc,F2,Warrior L8 Low,B
+MV-SIG-BMR-008-05,Marked Ground Snare,Imperious Return,F1,Warrior L8 Low,B
+MV-SIG-BMR-008-06,Wing Edge Gust Parry,Returnarc Reliquary,F3,Warrior L8 Low,B
+MV-SIG-BMR-008-07,Plateau Sworn Sweep,Tempestuous Sweptwing,F2,Champion L1 Low,B
+MV-SIG-BMR-008-08,Open Ground Interdiction,Returnedict,F4,Champion L1 Low,B
+MV-SIG-BMR-008-09,Oath Kept Cutting,Destiny Crookend,F2,Demigod L1 Low,B
+MV-SIG-BMR-008-10,Plateau Return Unbroken,Sovereign Prism Curveback,F6a,Warrior L8 Low,B
+MV-SIG-BMR-009-01,Edge Forward Hold,Splendid Trailingedge,F1,Champion L4 Low,B
+MV-SIG-BMR-009-02,Gale Leaning Pace,Windborne Cycle,F1,Champion L4 Low,B
+MV-SIG-BMR-009-03,Sworn Edge Honing,Woodmercy,F4,Champion L4 Low,B
+MV-SIG-BMR-009-04,Gale Parting Cast,Cycleedict,F4,Champion L4 Low,B
+MV-SIG-BMR-009-05,Edge Turn Return,Inferno Cycle,F2,Champion L4 Low,B
+MV-SIG-BMR-009-06,Oath Weighted Strike,Bedrock Wingarm,F2,Champion L4 Low,B
+MV-SIG-BMR-009-07,Crook Wrap Pull,Thrallreturn,F5,Champion L4 Low,B
+MV-SIG-BMR-009-08,Gale Edged Return,Cycleverdict,F4,Champion L4 Low,B
+MV-SIG-BMR-009-09,Edge Storm Net,Retribution Returnarc,F2,Champion L4 Low,B
+MV-SIG-BMR-009-10,Gale Edge Unmaking,Hover Decree,F3,Demigod L1 Low,B
+MV-SIG-BMR-009-11,Edged Stick Parting the Gale,Thunderclap Return,F2,Champion L4 Low,B
+MV-SIG-BMR-010-01,Open Plateau Ground Read,Grainbenison,F4,Ruler L1 Mid,B
+MV-SIG-BMR-010-02,Wide Stride Release,Heroic Sweptwing,F1,Ruler L1 Mid,B
+MV-SIG-BMR-010-03,Retreat Without Cover,Evanescent Tipwing,F1,Ruler L1 Mid,B
+MV-SIG-BMR-010-04,Hand Fast Return Take,Eclipse Woodgrain,F2,Ruler L1 Mid,B
+MV-SIG-BMR-010-05,Open Plateau Cast,Dauntless Arc,F1,Ruler L1 Mid,B
+MV-SIG-BMR-010-06,Bearing Snare Cast,Glacier Loopback,F2,Ruler L1 Mid,B
+MV-SIG-BMR-010-07,Plateau Dust Feint,Nightmare Elbowbend,F2,Ruler L1 Mid,B
+MV-SIG-BMR-010-08,Gust Riding Return,Curveback Triumph,F3,Ruler L1 Mid,B
+MV-SIG-BMR-010-09,Open Plateau Volley,Demolition Leadingedge,F2,Ruler L1 Mid,B
+MV-SIG-BMR-010-10,Held Bearing Interdiction,Barkdecree,F4,Ruler L1 Mid,B
+MV-SIG-BMR-010-11,Plateau Wing Crossing Flash,Silken Elbowbend,F1,Demigod L1 Low,B
+MV-SIG-BMR-010-12,Open Plateau Bearing Unfolded,Paramount Entropy Wingarm,F6a,Ruler L1 Mid,B
+MV-SIG-BMR-011-01,Horizon Fixing,Revelation Woodgrain,F2,Demigod L3 Low,B
+MV-SIG-BMR-011-02,Long Sky Windup,Thunderclap Circling,F2,Demigod L3 Low,B
+MV-SIG-BMR-011-03,Field Settled Footing,Delugereturn,F5,Demigod L3 Low,B
+MV-SIG-BMR-011-04,Long Return Cast,Famed Tipwing,F1,Demigod L3 Low,B
+MV-SIG-BMR-011-05,Sky Tether Recall,Peal Return,F2,Demigod L3 Low,B
+MV-SIG-BMR-011-06,Wind Carried Guard,Prism Sweptwing,F2,Demigod L3 Low,B
+MV-SIG-BMR-011-07,Horizon Crossing Throw,Crookend Edict,F3,Demigod L3 Low,B
+MV-SIG-BMR-011-08,Long Return Sweep,Tempestuous Leadingedge,F2,Demigod L3 Low,B
+MV-SIG-BMR-011-09,Beyond the Rim Flash,Thunderclap Hover,F2,Demigod L3 Low,B
+MV-SIG-BMR-011-10,Over the Horizon Recalled,Splendid Prism Trailingedge,F6a,Demigod L3 Low,B
+MV-SIG-BMR-012-01,Gale Ring Breath,Hospitable Woodgrain,F1,Core Formation L2 Low,B
+MV-SIG-BMR-012-02,Unwalled Circle Draw,Prismcurve,F5,Core Formation L2 Low,B
+MV-SIG-BMR-012-03,Core Rooted Plant,Bedrock Returnarc,F2,Core Formation L2 Low,B
+MV-SIG-BMR-012-04,Gale Ring Cast,Pulsar Arc,F2,Core Formation L2 Low,B
+MV-SIG-BMR-012-05,Ring Pull Bind,Masterful Circling,F1,Core Formation L2 Low,B
+MV-SIG-BMR-012-06,Core Wind Orbit,Solar Curveback,F2,Core Formation L2 Low,B
+MV-SIG-BMR-012-07,Ring Gust Clearing,Volition Sweptwing,F2,Core Formation L2 Low,B
+MV-SIG-BMR-012-08,Gale Ring Lattice,Shrewd Crookend,F1,Core Formation L2 Low,B
+MV-SIG-BMR-012-09,Orbit Rending Fall,Curvedecree,F4,Core Formation L2 Low,B
+MV-SIG-BMR-012-10,Ring Unmaking Return,Animaarc,F5,Core Formation L2 Low,B
+MV-SIG-BMR-012-11,Unwalled Gale Ring Turning,Illustrious Magma Loopback,F6a,Core Formation L2 Low,B
+MV-SIG-BMR-001-10,Matchless Woodgrain Crown,Matchless Woodgrain,F6b,Warrior L1 Low,B
+MV-SIG-BMR-003-03,Dune Return,Stately Return,F2,Champion L5 Low,B
+MV-SIG-BMR-004-06,Sanctum Woodgrain,Steadfast Woodgrain,F2,Ruler L1 Low,B
+MV-SIG-BMR-004-08,Hornbeam Crookend,Snaring Crookend,F2,Ruler L1 Low,B
+MV-SIG-BMR-004-10,Matchless Circling Verdict,Matchless Circling,F6b,Ruler L1 Low,B
+MV-SIG-BMR-005-04,Glacier Wingarm,Majestic Wingarm,F2,Demigod L1 Low,B
+MV-SIG-BMR-005-05,Hornbeam Sweptwing,Unyielding Sweptwing,F2,Demigod L1 Low,B
+MV-SIG-BMR-007-10,Dune Elbowbend,Cunning Elbowbend,F2,Champion L1 Low,B
+MV-SIG-BMR-008-10,Sovereign Prism Curveback,Sovereign Curveback,F6a,Warrior L8 Low,B
+MV-SIG-BMR-010-06,Glacier Loopback,Fettering Loopback,F2,Ruler L1 Mid,B
+MV-SIG-BMR-010-12,Paramount Entropy Wingarm,Paramount Wingarm,F6a,Ruler L1 Mid,B
+MV-SIG-BMR-011-10,Splendid Prism Trailingedge,Illustrious Trailingedge,F6a,Demigod L3 Low,B
+MV-SIG-BMR-012-11,Illustrious Magma Loopback,Illustrious Loopback,F6a,Core Formation L2 Low,B

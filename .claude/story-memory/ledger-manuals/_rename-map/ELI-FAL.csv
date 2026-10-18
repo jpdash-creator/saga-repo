@@ -1,0 +1,154 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-FAL-001-01,Hawk Crest Raised Guard,Impervious Heavyback,F1,Demigod,B
+MV-ELI-FAL-001-02,Pounce Weight Shift,Vanishing Bulkblade,F1,Demigod,B
+MV-ELI-FAL-001-03,Plain Stoop Chop,Punishing Weightbelly,F1,Demigod,B
+MV-ELI-FAL-001-04,Pull-Out Flat Turn,Murk Cleaverbelly,F2,Demigod,B
+MV-ELI-FAL-001-05,Wingspan Reach Cut,Rumblestump,F5,Demigod,B
+MV-ELI-FAL-001-06,Updraft Parry Rise,Murk Clipedge,F2,Demigod,B
+MV-ELI-FAL-001-07,Circling Stoop Approach,Unseen Hew,F1,Demigod,B
+MV-ELI-FAL-001-08,Field-Fed Stooping Cleave,Hackscourge,F4,Demigod,B
+MV-ELI-FAL-001-09,Pounce and Perch Return,Chunkblink,F4,Demigod,B
+MV-ELI-FAL-001-10,Hawk's Descending Verdict,Iron Thickspine,F2,Demigod,B
+MV-ELI-FAL-002-01,Court-Facing Stance,Obdurate Chopblade,F1,Demigod,B
+MV-ELI-FAL-002-02,First Court Parry,Flintlike Nubtip,F1,Demigod,B
+MV-ELI-FAL-002-03,Second Court Chop,Hellish Cleft,F1,Demigod,B
+MV-ELI-FAL-002-04,Twin-Step Court Shift,Hashvortex,F4,Demigod,B
+MV-ELI-FAL-002-05,Counter-Count Beat,Whackhavoc,F4,Demigod,B
+MV-ELI-FAL-002-06,Court-Line Qi Parry,Torrent Nubtip,F2,Demigod,B
+MV-ELI-FAL-002-07,Paired Answer Hack,Iron Hack,F2,Demigod,B
+MV-ELI-FAL-002-08,Court-Press Binding,Hoarfrost Falchhilt,F2,Demigod,B
+MV-ELI-FAL-002-09,Opposing Court Turnabout,Granite Hash,F2,Demigod,B
+MV-ELI-FAL-002-10,Field-Answered Counter Cleave,Nubvalor,F4,Demigod,B
+MV-ELI-FAL-002-11,Twin-Court Overturn,Hackvalor,F4,Demigod,B
+MV-ELI-FAL-002-12,Verdict of the Two Courts,Devastating Sanguine Chunk,F6a,Demigod,B
+MV-ELI-FAL-003-01,River-Bank Falchion Stance,Aegisnub,F5,Demigod,B
+MV-ELI-FAL-003-02,Current Slip Chop Step,Cleftglare,F4,Demigod,B
+MV-ELI-FAL-003-03,Bend-Return Hack,Sanguine Falchhilt,F2,Demigod,B
+MV-ELI-FAL-003-04,Eddy-Turn Belly Deflection,Equipoise Wedgetip,F2,Demigod,B
+MV-ELI-FAL-003-05,Meander Cutting Line,Whack Scourge,F3,Demigod,B
+MV-ELI-FAL-003-06,Bend-Hold Pin,Fastening Clipedge,F2,Demigod,B
+MV-ELI-FAL-003-07,Floodwater Cleaver Flow,Gnashing Chunk,F1,Demigod,B
+MV-ELI-FAL-003-08,Oxbow Return Cleave,Cleft Ruin,F3,Demigod,B
+MV-ELI-FAL-003-09,Undercut of the Bend,Iron Whack,F2,Demigod,B
+MV-ELI-FAL-004-01,Hold-Breath Stance Seat,Hoarfrost Wedgetip,F2,Demigod,B
+MV-ELI-FAL-004-02,Hollow-Belly Catch,Unconquered Thickspine,F1,Demigod,B
+MV-ELI-FAL-004-03,Retaining Step Back,Siltstump,F5,Demigod,B
+MV-ELI-FAL-004-04,Held Pressure Chop,Stumphavoc,F4,Demigod,B
+MV-ELI-FAL-004-05,Rim Rolling Return,Unconquered Heavyback,F1,Demigod,B
+MV-ELI-FAL-004-06,Field-Filled Hollow,Impenetrable Cleaverbelly,F1,Demigod,B
+MV-ELI-FAL-004-07,Gathered Weight Release,Booming Weightbelly,F1,Demigod,B
+MV-ELI-FAL-004-08,Pooling Blow Drain,Unrelenting Chopblade,F1,Demigod,B
+MV-ELI-FAL-004-09,Basin Hold of Many Blows,Ironnubtip,F5,Demigod,B
+MV-ELI-FAL-004-10,Spillover Cleaver Drop,Lacerating Hack,F1,Demigod,B
+MV-ELI-FAL-004-11,Full Basin Return,Hollow Bulkblade,F2,Demigod,B
+MV-ELI-FAL-005-01,Two-Stream Seat,Veritynub,F5,Demigod,B
+MV-ELI-FAL-005-02,Parallel Footfall Chop,Mightwhack,F5,Demigod,B
+MV-ELI-FAL-005-03,Doubled Brow Guard,Wedgetip Tenacity,F3,Demigod,B
+MV-ELI-FAL-005-04,Linked Step Parry,Clipedge Mettle,F3,Demigod,B
+MV-ELI-FAL-005-05,Dual Beat Heavy Hack,Unsparing Hack,F1,Demigod,B
+MV-ELI-FAL-005-06,Leg-Blade Field Link,Falchhilt Vitality,F3,Demigod,B
+MV-ELI-FAL-005-07,Paired Cut Corridor,Sanguine Heavyback,F2,Demigod,B
+MV-ELI-FAL-005-08,Twin-Stream Parry Hold,Gust Weightbelly,F2,Demigod,B
+MV-ELI-FAL-005-09,Dual Track Step-Through,Silt Cleft,F2,Demigod,B
+MV-ELI-FAL-005-10,Linked-Field Great Chop,Corroding Hash,F1,Demigod,B
+MV-ELI-FAL-005-11,Dual-Track Heavy Sweep,Slag Hash,F2,Demigod,B
+MV-ELI-FAL-005-12,Parallel Breaker Fall,Immobilizing Chopblade,F1,Demigod,B
+MV-ELI-FAL-005-13,Codex of Two Streams Cleave,Booming Iron Cleaverbelly,F6a,Demigod,B
+MV-ELI-FAL-006-01,Return Water Stance,Unrelenting Thickspine,F1,Void God,B
+MV-ELI-FAL-006-02,Stoop-Side Chop,Hackwrath,F4,Void God,B
+MV-ELI-FAL-006-03,River-Side Mirror Chop,Lacerating Chunk,F1,Void God,B
+MV-ELI-FAL-006-04,Paired Step Return,Torrential Bulkblade,F1,Void God,B
+MV-ELI-FAL-006-05,Mirror Parry Pair,Torrent Chopblade,F2,Void God,B
+MV-ELI-FAL-006-06,Hawk-and-River Hack Pair,Might Weightbelly,F2,Void God,B
+MV-ELI-FAL-006-07,Return-Tide Cross Step,Might Hack,F2,Void God,B
+MV-ELI-FAL-006-08,Mirrored Field Cleave,Might Nubtip,F2,Void God,B
+MV-ELI-FAL-006-09,River Return Binding Cut,Bulkblade Spine,F3,Void God,B
+MV-ELI-FAL-006-10,Stoop-and-Return Unbroken,Devastating Whack,F1,Void God,B
+MV-ELI-FAL-007-01,Court-Hawk Salute Guard,Thorn Thickspine,F2,Void God,B
+MV-ELI-FAL-007-02,Concord Opening Cut,Tempered Heavyback,F2,Void God,B
+MV-ELI-FAL-007-03,Court Pace Withdrawal,Ghosting Falchhilt,F1,Void God,B
+MV-ELI-FAL-007-04,Ordered Parry Sequence,Nubtipvalor,F4,Void God,B
+MV-ELI-FAL-007-05,Ranked Chop Series,Nubtipscourge,F4,Void God,B
+MV-ELI-FAL-007-06,Concordant Field Steady,Evergreen Cleaverbelly,F1,Void God,B
+MV-ELI-FAL-007-07,Hawk-Court Reach Step,Nubtipvortex,F4,Void God,B
+MV-ELI-FAL-007-08,Concordance Counter-Cut,Wedgetip Devastation,F3,Void God,B
+MV-ELI-FAL-007-09,Court-Order Cleave,Merciless Hash,F1,Void God,B
+MV-ELI-FAL-007-10,Whole-Series Press,Rampaging Hew,F1,Void God,B
+MV-ELI-FAL-007-11,Hawk-Court Final Rank,Titanic Chunk,F1,Void God,B
+MV-ELI-FAL-008-01,Wind-Reading Stance,Veritynubtip,F5,Demigod,B
+MV-ELI-FAL-008-02,Sworn Oath Chop,Cleft Scourge,F3,Demigod,B
+MV-ELI-FAL-008-03,Following-Wind Advance,Gust Nubtip,F2,Demigod,B
+MV-ELI-FAL-008-04,Headwind Flat Block,Murknubtip,F5,Demigod,B
+MV-ELI-FAL-008-05,Gust-Beat Hack Chain,Booming Whack,F1,Demigod,B
+MV-ELI-FAL-008-06,Wind-Fed Edge Guard,Invincible Nubtip,F1,Demigod,B
+MV-ELI-FAL-008-07,Updraft Hack,Devastating Cleaverbelly,F1,Demigod,B
+MV-ELI-FAL-008-08,Wind-Sworn Pivot Step,Phantom Clipedge,F1,Demigod,B
+MV-ELI-FAL-008-09,Gale Rider Cleave,Iron Hew,F2,Demigod,B
+MV-ELI-FAL-008-10,Wind-Held Heavy Edge Stand,Indomitable Heavyback,F1,Demigod,B
+MV-ELI-FAL-008-11,Wind-Cutting Chop,Glint Falchhilt,F2,Demigod,B
+MV-ELI-FAL-008-12,Sworn Gale Falchion Descent,Mighthash,F5,Demigod,B
+MV-ELI-FAL-009-01,Flat-Ground Oath Stance,Obdurate Clipedge,F1,Demigod,B
+MV-ELI-FAL-009-02,Oath-Weight Falchion Drop,Hewhavoc,F4,Demigod,B
+MV-ELI-FAL-009-03,Plateau Edge Retreat,Ghosting Hew,F1,Demigod,B
+MV-ELI-FAL-009-04,Unmoved Flat Parry,Unconquered Bulkblade,F1,Demigod,B
+MV-ELI-FAL-009-05,Oath-Driven Hack Series,Hashscourge,F4,Demigod,B
+MV-ELI-FAL-009-06,Rooted Field Hold,Wedgetip Spine,F3,Demigod,B
+MV-ELI-FAL-009-07,Oath-Bound Cleaver Fall,Grievous Hack,F1,Demigod,B
+MV-ELI-FAL-009-08,Plateau Unbroken Spine Guard,Chopblade Tenacity,F3,Demigod,B
+MV-ELI-FAL-009-09,Oath Sworn Upon the Edge,Nova Thickspine,F2,Demigod,B
+MV-ELI-FAL-010-01,Gale-Bearing Setup,Remnant Weightbelly,F2,Demigod,B
+MV-ELI-FAL-010-02,Turning Wind Hack,Rampaging Cleft,F1,Demigod,B
+MV-ELI-FAL-010-03,Bearing-Held Chopping Step,Torrent Cleft,F2,Demigod,B
+MV-ELI-FAL-010-04,Gale-Scour Parry,Murk Chopblade,F2,Demigod,B
+MV-ELI-FAL-010-05,Bearing-Chain Cuts,Rumble Thickspine,F2,Demigod,B
+MV-ELI-FAL-010-06,Field-Rolled Wind Turn,Gust Cleaverbelly,F2,Demigod,B
+MV-ELI-FAL-010-07,Cleaver Crosswind Cut,Sanguine Hew,F2,Demigod,B
+MV-ELI-FAL-010-08,Bearing-Break Pivot,Might Chunk,F2,Demigod,B
+MV-ELI-FAL-010-09,Gale-Roll Cleave,Blazechunk,F5,Demigod,B
+MV-ELI-FAL-010-10,Wind-Torn Guard Breaker,Rumblehack,F5,Demigod,B
+MV-ELI-FAL-010-11,Gale Falchion Whirl Sweep,Blazestump,F5,Demigod,B
+MV-ELI-FAL-010-12,Bearing Held to the Last,Cleftwrath,F4,Demigod,B
+MV-ELI-FAL-010-13,The Gale's Heavy Verdict,Gnashing Tempered Wedgetip,F6a,Demigod,B
+MV-ELI-FAL-011-01,Oathline Standing Guard,Nubtipmettle,F4,Demigod,B
+MV-ELI-FAL-011-02,Line-Crossing Flat Parry,Torrent Bulkblade,F2,Demigod,B
+MV-ELI-FAL-011-03,Oath-Strike Answer,Weightbelly Reckoning,F3,Demigod,B
+MV-ELI-FAL-011-04,Line-Held Backstep,Unseen Clipedge,F1,Demigod,B
+MV-ELI-FAL-011-05,Oath-Pressed Counter,Chunk Durance,F3,Demigod,B
+MV-ELI-FAL-011-06,Field-Staked Line,Aegis Falchhilt,F2,Demigod,B
+MV-ELI-FAL-011-07,Line-Return Heavy Hack,Blazehack,F5,Demigod,B
+MV-ELI-FAL-011-08,Counter at the Oathline,Equipoise Heavyback,F2,Demigod,B
+MV-ELI-FAL-011-09,Unbroken Line Press,Vengeful Whack,F1,Demigod,B
+MV-ELI-FAL-011-10,Oathline Reckoning,Devastating Hew Scourge,F6b,Demigod,B
+MV-ELI-FAL-012-01,Edge-Gust Stance,Hoarfrost Nubtip,F2,True God,B
+MV-ELI-FAL-012-02,Rimline Hack,Whackruin,F4,True God,B
+MV-ELI-FAL-012-03,Cliff-Lip Sidestep,Torrent Hash,F2,True God,B
+MV-ELI-FAL-012-04,Updraft Flat Knock,Equipoise Nubtip,F2,True God,B
+MV-ELI-FAL-012-05,Edge-Pressing Hack Pair,Tempered Hew,F2,True God,B
+MV-ELI-FAL-012-06,Wind-Lifted Edge,Intent Thickspine,F2,True God,B
+MV-ELI-FAL-012-07,Edge-Sudden Turn,Vanishing Chopblade,F1,True God,B
+MV-ELI-FAL-012-08,Cliff-Wind Cleaving Press,Blazehash,F5,True God,B
+MV-ELI-FAL-012-09,Plateau Rim Cleave,Vengeful Hash,F1,True God,B
+MV-ELI-FAL-012-10,Edge-Driven Heavy Press,Charter Whack,F2,True God,B
+MV-ELI-FAL-012-11,Over-the-Edge Fall,Ferocious Wedgetip,F1,True God,B
+MV-ELI-FAL-013-01,Windbound Stance Hold,Thornnub,F5,True God,B
+MV-ELI-FAL-013-02,Coiled Wrist Chop,Rampaging Weightbelly,F1,True God,B
+MV-ELI-FAL-013-03,Tight-Rope Footwork,Might Heavyback,F2,True God,B
+MV-ELI-FAL-013-04,Closed-Edge Parry,Adamantine Clipedge,F1,True God,B
+MV-ELI-FAL-013-05,Breath-Gated Hack,Booming Chunk,F1,True God,B
+MV-ELI-FAL-013-06,Close-Held Field Compress,Daybreak Cleaverbelly,F2,True God,B
+MV-ELI-FAL-013-07,Windbound Short Slice,Nubtipwrath,F4,True God,B
+MV-ELI-FAL-013-08,Bound Wind Step-In,Torrential Cleft,F1,True God,B
+MV-ELI-FAL-013-09,Compressed Field Chop,Nubwrath,F4,True God,B
+MV-ELI-FAL-013-10,Windbound Guard Burst,Guststump,F5,True God,B
+MV-ELI-FAL-013-11,Binding Wind Closing Cut,Fastening Falchhilt,F2,True God,B
+MV-ELI-FAL-013-12,All-at-Once Release,Daybreak Wedgetip,F2,True God,B
+MV-ELI-FAL-014-01,Long-Bearing Falchion Stance,Chopblade Valor,F3,True God,B
+MV-ELI-FAL-014-02,Far-Line Approach,Stumpvortex,F4,True God,B
+MV-ELI-FAL-014-03,Slow-Rising Chop,Mightstump,F5,True God,B
+MV-ELI-FAL-014-04,Distance-Kept Flat Block,Unconquered Clipedge,F1,True God,B
+MV-ELI-FAL-014-05,Held-Line Hack Pair,Rumble Whack,F2,True God,B
+MV-ELI-FAL-014-06,Steady Gaze Field Reading,Elevating Bulkblade,F1,True God,B
+MV-ELI-FAL-014-07,Long-Bearing Cleave,Hackhavoc,F4,True God,B
+MV-ELI-FAL-014-08,Distance Closing Drive,Silt Hew,F2,True God,B
+MV-ELI-FAL-014-09,The Single Great Cleave,Lacerating Weightbelly,F1,True God,B
+MV-ELI-FAL-004-11,Hollow Bulkblade,Mighty Bulkblade,F2,Demigod,B

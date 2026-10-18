@@ -1,0 +1,2 @@
+manual_id,grade,affinity_id,origin,title,realm_band,min_realm,energy_req,cultivation_req,affinity_req,sovereignty_req,move_count,composition,tradition,summary,status,first_area,notes
+CMAN-CAT-BON-001,CAT,BON,Common,The Canon of the Titan Frame,XT,Demigod L9 Low,QI-EXT,XT-FIELD+LINK-PRIOR+LINK-STEP,A5,SOV-C,13,I4 A4 E3 S1 C1,titan frame school,A canon on growing the frame to the scale of a titan whose bones crush what they fall upon.,Active,Not yet established,"moves renamed 2026-10-16, old names in _rename-map"

@@ -1,0 +1,187 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-CRB-001-01,Great Prod Ground Set,Daybreak Sear,F2,Warrior+,B
+MV-ELI-CRB-001-02,Court Sight Fix,Buoying Stirrup,F1,Warrior+,B
+MV-ELI-CRB-001-03,Heavy Bolt Lay,Searvigil,F4,Warrior+,B
+MV-ELI-CRB-001-04,Court Breath Pair,Stock Respite,F3,Warrior+,B
+MV-ELI-CRB-001-05,Great Prod Heavy Loose,Iron Setback,F2,Warrior+,B
+MV-ELI-CRB-001-06,Court Pair Pace,Twangblink,F4,Warrior+,B
+MV-ELI-CRB-001-07,High Court Reading,Remnant Trigger,F2,Warrior+,B
+MV-ELI-CRB-001-08,Hawk Court Pierce,Searscourge,F4,Warrior+,B
+MV-ELI-CRB-001-09,Great Prod Hold Cast,Decimating Cranking,F1,Warrior+,B
+MV-ELI-CRB-001-10,Grand Hawk Quarrel,Spanhavoc,F4,Warrior+,B
+MV-ELI-CRB-002-01,Twin Court Foot Mark,Might Tripbar,F2,Warrior+,B
+MV-ELI-CRB-002-02,Paired Bolt Draw,Daybreak Cranequin,F2,Warrior+,B
+MV-ELI-CRB-002-03,Left Court Check,Buoying Latch,F1,Warrior+,B
+MV-ELI-CRB-002-04,Right Court Check,Verity Boltrail,F2,Warrior+,B
+MV-ELI-CRB-002-05,Court Pair Count,Might Windlass,F2,Warrior+,B
+MV-ELI-CRB-002-06,Twin Court Loose,Hellish Releaseclack,F1,Warrior+,B
+MV-ELI-CRB-002-07,Court Rank Step,Unseen Quarrel,F1,Warrior+,B
+MV-ELI-CRB-002-08,Pair Reload Cycle,Healing Cranequin,F1,Warrior+,B
+MV-ELI-CRB-002-09,Twin Court Crossfire,Hoarfrost Twang,F2,Warrior+,B
+MV-ELI-CRB-002-10,Paired Bolt Fork Strike,Nova Bowprod,F2,Warrior+,B
+MV-ELI-CRB-002-11,Twin Court Final Loose,Brutalizing Windlass Wrath,F6b,Warrior+,B
+MV-ELI-CRB-003-01,Basin Slope Anchor,Daybreak Tripbar,F2,Warrior+,B
+MV-ELI-CRB-003-02,Falling Line Sight,Veritystock,F5,Warrior+,B
+MV-ELI-CRB-003-03,Azure Haze Read,Waning Latch,F2,Warrior+,B
+MV-ELI-CRB-003-04,Falling Quarrel Loose,Ruinous Releaseclack,F1,Warrior+,B
+MV-ELI-CRB-003-05,Slope Descent Step,Mightspan,F5,Warrior+,B
+MV-ELI-CRB-003-06,Basin Echo Mark,Buoying Trigger,F1,Warrior+,B
+MV-ELI-CRB-003-07,Azure Fall Strike,Bowprod Wrath,F3,Warrior+,B
+MV-ELI-CRB-003-08,Basin Rain Cast,Dismantling Stirrup,F2,Warrior+,B
+MV-ELI-CRB-003-09,Azure Sky Falling Quarrel,Glint Stock,F2,Warrior+,B
+MV-ELI-CRB-004-01,River Bend Footing,Sear Respite,F3,Warrior+,B
+MV-ELI-CRB-004-02,Far Bank Sight,Stockinsight,F4,Warrior+,B
+MV-ELI-CRB-004-03,Reach Draw Count,Galvanizing Cranequin,F1,Warrior+,B
+MV-ELI-CRB-004-04,Long Rail Lay,Buoying Boltrail,F1,Warrior+,B
+MV-ELI-CRB-004-05,Spray Cloth Wipe,Latch Insight,F3,Warrior+,B
+MV-ELI-CRB-004-06,Reaching Shot Loose,Blazespan,F5,Warrior+,B
+MV-ELI-CRB-004-07,Bend Skim Step,Blinding Twang,F1,Warrior+,B
+MV-ELI-CRB-004-08,River Mist Read,Chime Stirrup,F2,Warrior+,B
+MV-ELI-CRB-004-09,Far Bank Reload,Stock Vitality,F3,Warrior+,B
+MV-ELI-CRB-004-10,River Reach Pierce,Tempered Setback,F2,Warrior+,B
+MV-ELI-CRB-004-11,Bend Ranged Cast,Chime Trigger,F2,Warrior+,B
+MV-ELI-CRB-004-12,Reaching River Quarrel,Hellish Cranking,F1,Warrior+,B
+MV-ELI-CRB-005-01,Paired Prod Sling Carry,Latchvigil,F4,Warrior+,B
+MV-ELI-CRB-005-02,Hawk Pair Mark,Bowprod Premonition,F3,Warrior+,B
+MV-ELI-CRB-005-03,Twin Limb Tune,Energizing Windlass,F1,Warrior+,B
+MV-ELI-CRB-005-04,Hawk Feather Fletch,Stockvigil,F4,Warrior+,B
+MV-ELI-CRB-005-05,Pair Prod Rest,Galvanizing Boltrail,F1,Warrior+,B
+MV-ELI-CRB-005-06,Twin Prod Alternate Loose,Blaze Releaseclack,F2,Warrior+,B
+MV-ELI-CRB-005-07,Hawk Pair Step,Torrent Quarrel,F2,Warrior+,B
+MV-ELI-CRB-005-08,Prod Pair Reload,Might Boltrail,F2,Warrior+,B
+MV-ELI-CRB-005-09,Hawk Pair Sight,Elevating Sear,F1,Warrior+,B
+MV-ELI-CRB-005-10,Twin Prod Cross Strike,Tempered Twang,F2,Warrior+,B
+MV-ELI-CRB-005-11,Hawk Pair Pin,Twangmettle,F4,Warrior+,B
+MV-ELI-CRB-005-12,Twin Prod Qi Merge,Hollow Quarrel,F2,Warrior+,B
+MV-ELI-CRB-005-13,Twin Hawk Great Loose,Iron Twang,F2,Warrior+,B
+MV-ELI-CRB-006-01,Armour Plate Count,Expanse Tripbar,F2,Warrior+,B
+MV-ELI-CRB-006-02,Dual Track Weight Shift,Energizing Trigger,F1,Warrior+,B
+MV-ELI-CRB-006-03,Joint Gap Sight,Bowprod Vitality,F3,Warrior+,B
+MV-ELI-CRB-006-04,Track Breath Ready,Cranequin Premonition,F3,Warrior+,B
+MV-ELI-CRB-006-05,Dual Track Plate Piercer,Hollowspan,F5,Warrior+,B
+MV-ELI-CRB-006-06,Track Change Pace,Silt Latch,F2,Warrior+,B
+MV-ELI-CRB-006-07,Gap Search Loose,Searruin,F4,Warrior+,B
+MV-ELI-CRB-006-08,Dual Track Joint Split,Facetsear,F5,Warrior+,B
+MV-ELI-CRB-006-09,Armoured Foe Hold Cast,Nova Setback,F2,Warrior+,B
+MV-ELI-CRB-006-10,Dual Track Plate Breaker,Facet Cranking,F2,Warrior+,B
+MV-ELI-CRB-007-01,Basin Watch Post Seat,Searinsight,F4,Warrior+,B
+MV-ELI-CRB-007-02,Night Eye Adjust,Clairvoyant Stirrup,F1,Warrior+,B
+MV-ELI-CRB-007-03,Dark Rail Touch,Chimestock,F5,Warrior+,B
+MV-ELI-CRB-007-04,Lantern Hood Shade,Galvanizing Sear,F1,Warrior+,B
+MV-ELI-CRB-007-05,Quiet String Muffle,Galvanizing Stock,F1,Warrior+,B
+MV-ELI-CRB-007-06,Night Bolt Loose,Blaze Cranking,F2,Warrior+,B
+MV-ELI-CRB-007-07,Silent Basin Step,Lightning Releaseclack,F1,Warrior+,B
+MV-ELI-CRB-007-08,Dark Shape Reading,Latchrespite,F4,Warrior+,B
+MV-ELI-CRB-007-09,Night Bolt Strike,Windlass Reckoning,F3,Warrior+,B
+MV-ELI-CRB-007-10,Watch Fire Snuff Loose,Latchwrath,F4,Warrior+,B
+MV-ELI-CRB-007-11,Midnight Basin Quarrel,Hollow Setback,F2,Warrior+,B
+MV-ELI-CRB-008-01,Court Cord Coil,Elevating Latch,F1,Warrior+,B
+MV-ELI-CRB-008-02,River Knot Tie,Vital Tripbar,F2,Warrior+,B
+MV-ELI-CRB-008-03,Cord Wet Check,Veritylatch,F5,Warrior+,B
+MV-ELI-CRB-008-04,Reel Spindle Set,Vital Cranequin,F2,Warrior+,B
+MV-ELI-CRB-008-05,Trailing Line Lay,Energizing Bowprod,F1,Warrior+,B
+MV-ELI-CRB-008-06,Trailing Cord Loose,Ponderous Stirrup,F2,Warrior+,B
+MV-ELI-CRB-008-07,Court Reel Pull,Searvalor,F4,Warrior+,B
+MV-ELI-CRB-008-08,Cord Cut Step,Blinding Span,F1,Warrior+,B
+MV-ELI-CRB-008-09,Snag Line Check,Unerring Stock,F1,Warrior+,B
+MV-ELI-CRB-008-10,River Court Bind Strike,Fastening Quarrel,F2,Warrior+,B
+MV-ELI-CRB-008-11,Cord Net Cast,Gyvesear,F5,Warrior+,B
+MV-ELI-CRB-008-12,Court Cord Great Snare,Immobilizing Setback Nerve,F6b,Warrior+,B
+MV-ELI-CRB-009-01,Long Bearing Take,Verity Tripbar,F2,Warrior+,B
+MV-ELI-CRB-009-02,Long Oath Plateau Footing,Elevating Boltrail,F1,Warrior+,B
+MV-ELI-CRB-009-03,Wind Distance Judge,Windlass Respite,F3,Warrior+,B
+MV-ELI-CRB-009-04,Long Bearing Loose,Blaze Trigger,F2,Warrior+,B
+MV-ELI-CRB-009-05,Oath Step Hold,Granite Twang,F2,Warrior+,B
+MV-ELI-CRB-009-06,Bearing Check Twice,Trigger Vigil,F3,Warrior+,B
+MV-ELI-CRB-009-07,Long Bearing Pierce,Cranking Havoc,F3,Warrior+,B
+MV-ELI-CRB-009-08,Oath Held Cast,Twangscourge,F4,Warrior+,B
+MV-ELI-CRB-009-09,Sworn Long Bearing Quarrel,Nova Quarrel,F2,Warrior+,B
+MV-ELI-CRB-010-01,Gale Lull Wait,Sear Premonition,F3,Warrior+,B
+MV-ELI-CRB-010-02,Wind Oath Breath,Buoying Sear,F1,Warrior+,B
+MV-ELI-CRB-010-03,Gale Trim Fletch,Equipoise Cranequin,F2,Warrior+,B
+MV-ELI-CRB-010-04,Wind Rope Hold,Clairvoyant Stock,F1,Warrior+,B
+MV-ELI-CRB-010-05,Gale Stance Low,Unerring Stirrup,F1,Warrior+,B
+MV-ELI-CRB-010-06,Gale Bolt Loose,Lacerating Bowprod,F1,Warrior+,B
+MV-ELI-CRB-010-07,Wind Oath Step,Silt Span,F2,Warrior+,B
+MV-ELI-CRB-010-08,Gust Pattern Read,Windlass Premonition,F3,Warrior+,B
+MV-ELI-CRB-010-09,Gale Bolt Pierce,Novastock,F5,Warrior+,B
+MV-ELI-CRB-010-10,Oath Wind Cast,Gnashing Cranking,F1,Warrior+,B
+MV-ELI-CRB-010-11,Sworn Gale Quarrel,Merciless Rumble Setback,F6a,Warrior+,B
+MV-ELI-CRB-011-01,Ridge Bearing Take,Waning Tripbar,F2,Warrior+,B
+MV-ELI-CRB-011-02,Ridge Crest Kneel,Torrential Span,F1,Warrior+,B
+MV-ELI-CRB-011-03,Sworn Bearing Breath,Vigilant Boltrail,F1,Warrior+,B
+MV-ELI-CRB-011-04,Ridge Rock Rest,Revitalizing Cranequin,F1,Warrior+,B
+MV-ELI-CRB-011-05,Ridge Shot Loose,Glint Quarrel,F2,Warrior+,B
+MV-ELI-CRB-011-06,Crest Run Step,Span Rocketry,F3,Warrior+,B
+MV-ELI-CRB-011-07,Ridge Line Judge,Remnant Stirrup,F2,Warrior+,B
+MV-ELI-CRB-011-08,Ridge Sworn Pierce,Facettwang,F5,Warrior+,B
+MV-ELI-CRB-011-09,Ridge Hold Cast,Tempered Span,F2,Warrior+,B
+MV-ELI-CRB-011-10,Ridge Sworn Great Shot,Ruinous Glint Latch,F6a,Warrior+,B
+MV-ELI-CRB-012-01,Great Prod Wind Brace,Energizing Stock,F1,Warrior+,B
+MV-ELI-CRB-012-02,Sworn Heavy Draw,Illuminating Sear,F1,Warrior+,B
+MV-ELI-CRB-012-03,Great Bolt Wind Trim,Radiant Windlass,F1,Warrior+,B
+MV-ELI-CRB-012-04,Great Prod Carry Strap,Healing Latch,F1,Warrior+,B
+MV-ELI-CRB-012-05,Cold String Warm,Radiant Bowprod,F1,Warrior+,B
+MV-ELI-CRB-012-06,Great Prod Wind Loose,Twang Ruin,F3,Warrior+,B
+MV-ELI-CRB-012-07,Wind Sworn Heavy Step,Silt Trigger,F2,Warrior+,B
+MV-ELI-CRB-012-08,Great Prod Sworn Reload,Daybreak Boltrail,F2,Warrior+,B
+MV-ELI-CRB-012-09,Great Prod Sky Read,Waning Trigger,F2,Warrior+,B
+MV-ELI-CRB-012-10,Wind Sworn Great Pierce,Latchruin,F4,Warrior+,B
+MV-ELI-CRB-012-11,Great Prod Oath Hold,Span Devastation,F3,Warrior+,B
+MV-ELI-CRB-012-12,Wind Sworn Shatter Bolt,Titanic Releaseclack,F1,Warrior+,B
+MV-ELI-CRB-012-13,Wind Sworn Great Quarrel,Hollow Releaseclack,F2,Warrior+,B
+MV-ELI-CRB-013-01,Edge Oath Footing,Equipoise Stirrup,F2,Warrior+,B
+MV-ELI-CRB-013-02,Down Slope Sighting,Waning Boltrail,F2,Warrior+,B
+MV-ELI-CRB-013-03,Edge Rope Anchor,Illuminating Tripbar,F1,Warrior+,B
+MV-ELI-CRB-013-04,Dropping Line Mark,Expanse Latch,F2,Warrior+,B
+MV-ELI-CRB-013-05,Edge Breath Lull,Intent Cranequin,F2,Warrior+,B
+MV-ELI-CRB-013-06,Dropping Quarrel Loose,Novalatch,F5,Warrior+,B
+MV-ELI-CRB-013-07,Edge Walk Step,Spanblink,F4,Warrior+,B
+MV-ELI-CRB-013-08,Drop Distance Judge,Vigilant Bowprod,F1,Warrior+,B
+MV-ELI-CRB-013-09,Edge Reload Crouch,Galvanizing Windlass,F1,Warrior+,B
+MV-ELI-CRB-013-10,Edge Oath Dropped Strike,Tempered Releaseclack,F2,Warrior+,B
+MV-ELI-CRB-013-11,Edge Rain Cast,Ferocious Cranking,F1,Warrior+,B
+MV-ELI-CRB-013-12,Sworn Dropping Quarrel,Pitiless Releaseclack Wrath,F6b,Warrior+,B
+MV-ELI-CRB-014-01,Cross Gale Lean,Healing Tripbar,F1,Warrior+,B
+MV-ELI-CRB-014-02,Plateau Bearing Mark,Expanse Sear,F2,Warrior+,B
+MV-ELI-CRB-014-03,Gale Cloth Flag,Waning Windlass,F2,Warrior+,B
+MV-ELI-CRB-014-04,Cross Stance Low,Revitalizing Stock,F1,Warrior+,B
+MV-ELI-CRB-014-05,Cross Gale Loose,Span Scourge,F3,Warrior+,B
+MV-ELI-CRB-014-06,Gale Slide Step,Granite Cranking,F2,Warrior+,B
+MV-ELI-CRB-014-07,Bearing Offset Judge,Resurgent Stirrup,F1,Warrior+,B
+MV-ELI-CRB-014-08,Cross Gale Pierce,Brutalizing Bowprod,F1,Warrior+,B
+MV-ELI-CRB-014-09,Bearing Offset Cast,Ruinous Stock,F1,Warrior+,B
+MV-ELI-CRB-014-10,Cross Gale Great Bolt,Facet Quarrel,F2,Warrior+,B
+MV-ELI-CRB-015-01,Signal Bolt Mark,Boltrail Vitality,F3,Warrior+,B
+MV-ELI-CRB-015-02,Voice Call Pitch,Vigilant Tripbar,F1,Warrior+,B
+MV-ELI-CRB-015-03,Gale Whistle Fletch,Beneficent Trigger,F1,Warrior+,B
+MV-ELI-CRB-015-04,Signal Bolt Loose,Blaze Sear,F2,Warrior+,B
+MV-ELI-CRB-015-05,Voice Relay Step,Torrential Twang,F1,Warrior+,B
+MV-ELI-CRB-015-06,Signal Reading,Energizing Cranequin,F1,Warrior+,B
+MV-ELI-CRB-015-07,Signal Bolt Pierce,Titanic Quarrel,F1,Warrior+,B
+MV-ELI-CRB-015-08,Voice Gale Barrage Cast,Charter Setback,F2,Warrior+,B
+MV-ELI-CRB-015-09,Voiced Gale Signal Quarrel,Expanse Stirrup,F2,Warrior+,B
+MV-ELI-CRB-016-01,Open Sky Footing,Revitalizing Tripbar,F1,Warrior+,B
+MV-ELI-CRB-016-02,Hunt Track Read,Radiant Latch,F1,Warrior+,B
+MV-ELI-CRB-016-03,Quiet Stalk Step,Dazzling Cranking,F1,Warrior+,B
+MV-ELI-CRB-016-04,Quarry Wind Check,Beneficent Windlass,F1,Warrior+,B
+MV-ELI-CRB-016-05,Hunt Oath Breath,Buoying Stock,F1,Warrior+,B
+MV-ELI-CRB-016-06,Hunt Bolt Loose,Span Reckoning,F3,Warrior+,B
+MV-ELI-CRB-016-07,Stalk Hold Step,Might Setback,F2,Warrior+,B
+MV-ELI-CRB-016-08,Quarry Sign Read,Expanse Bowprod,F2,Warrior+,B
+MV-ELI-CRB-016-09,Hunt Bolt Pierce,Ironstock,F5,Warrior+,B
+MV-ELI-CRB-016-10,Open Sky Hunt Cast,Eviscerating Twang,F1,Warrior+,B
+MV-ELI-CRB-016-11,Sworn Hunt Quarrel,Setback Reckoning,F3,Warrior+,B
+MV-ELI-CRB-002-11,Brutalizing Windlass Wrath,Brutalizing Windlass,F6b,Warrior+,B
+MV-ELI-CRB-005-12,Hollow Quarrel,Rending Quarrel,F2,Warrior+,B
+MV-ELI-CRB-006-01,Expanse Tripbar,Discerning Tripbar,F2,Warrior+,B
+MV-ELI-CRB-007-11,Hollow Setback,Lancing Setback,F2,Warrior+,B
+MV-ELI-CRB-008-12,Immobilizing Setback Nerve,Immobilizing Setback,F6b,Warrior+,B
+MV-ELI-CRB-010-11,Merciless Rumble Setback,Merciless Setback,F6a,Warrior+,B
+MV-ELI-CRB-011-10,Ruinous Glint Latch,Ruinous Latch,F6a,Warrior+,B
+MV-ELI-CRB-012-13,Hollow Releaseclack,Searing Releaseclack,F2,Warrior+,B
+MV-ELI-CRB-013-04,Expanse Latch,Farseeing Latch,F2,Warrior+,B
+MV-ELI-CRB-013-12,Pitiless Releaseclack Wrath,Pitiless Releaseclack,F6b,Warrior+,B
+MV-ELI-CRB-014-02,Expanse Sear,Unerring Sear,F2,Warrior+,B
+MV-ELI-CRB-015-09,Expanse Stirrup,Resounding Stirrup,F2,Warrior+,B
+MV-ELI-CRB-016-08,Expanse Bowprod,Discerning Bowprod,F2,Warrior+,B

@@ -1,0 +1,35 @@
+move_id,manual_id,affinity_id,seq,name,move_type,function,form,cost_class,unlock_realm,description,status,first_area
+CMV-INT-MOO-001-01,CMAN-INT-MOO-001,MOO,01,Cycle Mark,Basic,Support:Sense,INSTANT,MINIMAL,Warrior L1 Low,Mark the stage of a foe's technique to see whether it is rising or ebbing.,Active,Not yet established
+CMV-INT-MOO-001-02,CMAN-INT-MOO-001,MOO,02,Lunar Brush,Basic,Attack:Strike,INSTANT,MINIMAL,Warrior L1 Low,Brush a hand of pale light across a foe's face to daze it.,Active,Not yet established
+CMV-INT-MOO-001-03,CMAN-INT-MOO-001,MOO,03,Soft Descent,Basic,Mobility:Step,INSTANT,MINIMAL,Warrior L1 Low,Land from a height with a slowed fall as if the ground pulled less.,Active,Not yet established
+CMV-INT-MOO-001-04,CMAN-INT-MOO-001,MOO,04,Silver Wrap,Basic,Defense:Shield,CHANNELED,MINIMAL,Warrior L1 Low,Wrap the body in a thin silver glow that thins the force of a blow.,Active,Not yet established
+CMV-INT-MOO-001-05,CMAN-INT-MOO-001,MOO,05,Lunar Pull,Intermediate,Control:Suppress,CHANNELED,LOW,Warrior L1 Low,Pull gently on a foe's whole body so its movements trail behind its will.,Active,Not yet established
+CMV-INT-MOO-001-06,CMAN-INT-MOO-001,MOO,06,Lunar Rebuff,Intermediate,Attack:Area,INSTANT,MODERATE,Warrior L1 Low,Send an unseen push outward in a ring that throws back all who stand close.,Active,Not yet established
+CMV-INT-MOO-002-01,CMAN-INT-MOO-002,MOO,01,Pull Mark,Basic,Control:Disrupt,INSTANT,MINIMAL,Warrior L1 Low,Mark a foe's sword hand and tug it a hand's breadth off its line.,Active,Not yet established
+CMV-INT-MOO-002-02,CMAN-INT-MOO-002,MOO,02,Push Ring,Basic,Defense:Deflect,INSTANT,MINIMAL,Warrior L1 Low,Ring the user with a push that nudges thrown weapons away.,Active,Not yet established
+CMV-INT-MOO-002-03,CMAN-INT-MOO-002,MOO,03,Tide Lean,Basic,Mobility:Step,INSTANT,MINIMAL,Warrior L1 Low,Lean into a pull and let it carry the body a long pace.,Active,Not yet established
+CMV-INT-MOO-002-04,CMAN-INT-MOO-002,MOO,04,Heavy Hour,Basic,Control:Suppress,CHANNELED,MINIMAL,Warrior L1 Low,Make the air near a foe feel thick so its arms drag.,Active,Not yet established
+CMV-INT-MOO-002-05,CMAN-INT-MOO-002,MOO,05,Pull Count,Basic,Support:Sense,INSTANT,MINIMAL,Warrior L1 Low,Count the pulls acting on a place to tell where something large moves.,Active,Not yet established
+CMV-INT-MOO-002-06,CMAN-INT-MOO-002,MOO,06,Dragging Tide,Intermediate,Control:Suppress,CHANNELED,LOW,Warrior L1 Low,Let a strong tide drag a foe backward step by step.,Active,Not yet established
+CMV-INT-MOO-002-07,CMAN-INT-MOO-002,MOO,07,Surge Push,Intermediate,Attack:Area,INSTANT,MODERATE,Warrior L1 Low,Release a surge of pull and push that sweeps foes across the floor.,Active,Not yet established
+CMV-INT-MOO-003-01,CMAN-INT-MOO-003,MOO,01,Disc Guard,Basic,Defense:Shield,CHANNELED,MINIMAL,Warrior L1 Low,Raise a bright disc of qi that shields the chest.,Active,Not yet established
+CMV-INT-MOO-003-02,CMAN-INT-MOO-003,MOO,02,Glare Flick,Basic,Control:Confuse,INSTANT,MINIMAL,Warrior L1 Low,Flick a cold glare from the disc into a foe's eyes.,Active,Not yet established
+CMV-INT-MOO-003-03,CMAN-INT-MOO-003,MOO,03,Disc Throw,Basic,Attack:Projectile,INSTANT,MINIMAL,Warrior L1 Low,Spin the disc edge first at a foe's arm.,Active,Not yet established
+CMV-INT-MOO-003-04,CMAN-INT-MOO-003,MOO,04,Echo Glow,Basic,Support:Sense,INSTANT,MINIMAL,Warrior L1 Low,Let the disc's glow return what lies beyond a corner.,Active,Not yet established
+CMV-INT-MOO-003-05,CMAN-INT-MOO-003,MOO,05,Turn Away,Basic,Defense:Deflect,INSTANT,MINIMAL,Warrior L1 Low,Turn the disc's face so a spear slides off.,Active,Not yet established
+CMV-INT-MOO-003-06,CMAN-INT-MOO-003,MOO,06,Soft Return,Basic,Defense:Reflect,INSTANT,MINIMAL,Warrior L1 Low,Send a weak blow back to its sender in a pale flash.,Active,Not yet established
+CMV-INT-MOO-003-07,CMAN-INT-MOO-003,MOO,07,Polished Mirror,Intermediate,Defense:Reflect,INSTANT,MODERATE,Warrior L1 Low,Polish the disc to a perfect face that returns a strong blow to its sender.,Active,Not yet established
+CMV-INT-MOO-003-08,CMAN-INT-MOO-003,MOO,08,Dazzle Disc,Intermediate,Control:Confuse,CHANNELED,LOW,Warrior L1 Low,Hold the disc so a foe cannot tell which of many images is the user.,Active,Not yet established
+CMV-INT-MOO-004-01,CMAN-INT-MOO-004,MOO,01,Phase Turn,Basic,Control:Disrupt,INSTANT,MINIMAL,Warrior L1 Low,Turn a foe's rising strike to its low phase and sap the force.,Active,Not yet established
+CMV-INT-MOO-004-02,CMAN-INT-MOO-004,MOO,02,Early Phase,Basic,Support:Empower,INSTANT,MINIMAL,Warrior L1 Low,Move a recovering ally one step forward in the cycle of rest and strength.,Active,Not yet established
+CMV-INT-MOO-004-03,CMAN-INT-MOO-004,MOO,03,Old Phase,Basic,Control:Suppress,CHANNELED,MINIMAL,Warrior L1 Low,Push a foe's newly gathered qi back to its thin first phase.,Active,Not yet established
+CMV-INT-MOO-004-04,CMAN-INT-MOO-004,MOO,04,Cycle Sense,Basic,Support:Sense,INSTANT,MINIMAL,Warrior L1 Low,Read where a person or tool stands in its cycle of change.,Active,Not yet established
+CMV-INT-MOO-004-05,CMAN-INT-MOO-004,MOO,05,Quickened Turn,Intermediate,Support:Empower,CHANNELED,MODERATE,Warrior L1 Low,Speed a natural change such as the ripening of fruit or the setting of a splint by a season.,Active,Not yet established
+CMV-INT-MOO-004-06,CMAN-INT-MOO-004,MOO,06,Backward Turn,Intermediate,Support:Cleanse,CHANNELED,MODERATE,Warrior L1 Low,Wind a taint back through its cycle until the poisoned ally is as before the dose.,Active,Not yet established
+CMV-INT-MOO-005-01,CMAN-INT-MOO-005,MOO,01,Dormant Prod,Basic,Support:Empower,INSTANT,MINIMAL,Warrior L1 Low,Prod a sleeping channel in an ally and set a thread of qi moving along it.,Active,Not yet established
+CMV-INT-MOO-005-02,CMAN-INT-MOO-005,MOO,02,Seed Wake,Basic,Support:Empower,CHANNELED,MINIMAL,Warrior L1 Low,Rouse the bud of a talent sleeping in an ally with slow rhythmic pulses.,Active,Not yet established
+CMV-INT-MOO-005-03,CMAN-INT-MOO-005,MOO,03,Dormant Mark,Basic,Support:Sense,INSTANT,MINIMAL,Warrior L1 Low,Find which part of an ally's body holds unused power.,Active,Not yet established
+CMV-INT-MOO-005-04,CMAN-INT-MOO-005,MOO,04,Quiet Lift,Basic,Support:Empower,INSTANT,MINIMAL,Warrior L1 Low,Lift an ally's flagging spirit with a soft pulse of pale light.,Active,Not yet established
+CMV-INT-MOO-005-05,CMAN-INT-MOO-005,MOO,05,Hidden Strike,Basic,Attack:Strike,INSTANT,MINIMAL,Warrior L1 Low,Strike out of a pale glow the foe did not mark.,Active,Not yet established
+CMV-INT-MOO-005-06,CMAN-INT-MOO-005,MOO,06,Stirred Array,Intermediate,Support:Empower,CHANNELED,LOW,Warrior L1 Low,Stir a dormant formation so its lines glow and its guard wakes.,Active,Not yet established
+CMV-INT-MOO-005-07,CMAN-INT-MOO-005,MOO,07,Surfacing Gaze,Intermediate,Support:Sense,INSTANT,MODERATE,Warrior L1 Low,Bring hidden bonds and sealed things to the surface of the user's sight within a short reach.,Active,Not yet established

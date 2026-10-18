@@ -1,0 +1,125 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-JIA-001-01,Duel Salute Cut,Tasselthrash,F4,Champion L1 Low,B
+MV-ADV-JIA-001-02,Opening Measure Pace,Driftleap,F4,Champion L1 Low,B
+MV-ADV-JIA-001-03,Duel Line Guard,Unyielding Guardwing,F1,Champion L1 Low,B
+MV-ADV-JIA-001-04,Marking Point Jab,Needling Flitter,F1,Champion L1 Low,B
+MV-ADV-JIA-001-05,Crossing Blade Counter,Staunch Jianhilt,F1,Champion L1 Low,B
+MV-ADV-JIA-001-06,Duelist Feint Chain,Glamour Eddy,F2,Champion L1 Low,B
+MV-ADV-JIA-001-07,Decisive Breath Thrust,Transfixing Springtip Onslaught,F6b,Champion L1 Low,B
+MV-ADV-JIA-001-08,Last Exchange Sweep,Rippleassault,F4,Champion L1 Low,B
+MV-ADV-JIA-002-01,Root Stance Cut,Granite Waistbend,F2,Champion L5 Mid,B
+MV-ADV-JIA-002-02,Ground Push Step,Liltpounce,F4,Champion L5 Mid,B
+MV-ADV-JIA-002-03,Elbow Close Guard,Flexgreave,F4,Champion L5 Mid,B
+MV-ADV-JIA-002-04,Spine Line Thrust,Harpooning Springtip,F1,Champion L5 Mid,B
+MV-ADV-JIA-002-05,Body Weight Sweep,Trouncing Twinspine,F1,Champion L5 Mid,B
+MV-ADV-JIA-002-06,Hip Driven Chop,Tasselbarrage,F4,Champion L5 Mid,B
+MV-ADV-JIA-002-07,Shoulder Wrap Parry,Immovable Pommeltuft,F1,Champion L5 Mid,B
+MV-ADV-JIA-002-08,Whole Body Draw Cut,Skinning Knotcord,F1,Champion L5 Mid,B
+MV-ADV-JIA-002-09,Rooted Qi Lance,Might Flexspine,F2,Champion L5 Mid,B
+MV-ADV-JIA-002-10,Rolling Weight Slash,Ironeddy,F5,Champion L5 Mid,B
+MV-ADV-JIA-003-01,Circle Ward Parry,Resilient Guardwing,F1,Ruler L2 Low,B
+MV-ADV-JIA-003-02,Orbit Step In,Eddysprint,F4,Ruler L2 Low,B
+MV-ADV-JIA-003-03,Ring Cut,Ravaging Ridgecrest,F1,Ruler L2 Low,B
+MV-ADV-JIA-003-04,Hub Point Check,Perceptive Knotcord,F1,Ruler L2 Low,B
+MV-ADV-JIA-003-05,Ring Cut Chain,Eddy Thrash,F3,Ruler L2 Low,B
+MV-ADV-JIA-003-06,Orbit Qi Sweep,Swirlassault,F4,Ruler L2 Low,B
+MV-ADV-JIA-003-07,Spiral Guard Weave,Mantled Twinspine,F1,Ruler L2 Low,B
+MV-ADV-JIA-003-08,Great Ring Slash,Swirlbarrage,F4,Ruler L2 Low,B
+MV-ADV-JIA-003-09,Closing Ring Bind,Manacling Knotcord,F1,Ruler L2 Low,B
+MV-ADV-JIA-004-01,Field Edge Cut,Aura Twinspine,F2,Demigod L1 Low,B
+MV-ADV-JIA-004-02,Field Point Thrust,Nimbus Springtip,F2,Demigod L1 Low,B
+MV-ADV-JIA-004-03,Field Guard Rise,Hardened Ridgecrest,F1,Demigod L1 Low,B
+MV-ADV-JIA-004-04,Field Pace Slip,Driftjaunt,F4,Demigod L1 Low,B
+MV-ADV-JIA-004-05,Field Touch Sense,Discerning Tassel,F1,Demigod L1 Low,B
+MV-ADV-JIA-004-06,Field Settle Hold,Sustaining Pommeltuft,F1,Demigod L1 Low,B
+MV-ADV-JIA-004-07,Reaching Edge Slice,Liltassault,F4,Demigod L1 Low,B
+MV-ADV-JIA-004-08,Field Press Bind,Stifling Guardwing,F1,Demigod L1 Low,B
+MV-ADV-JIA-004-09,Extended Parry Wave,Enduring Jianhilt,F1,Demigod L1 Low,B
+MV-ADV-JIA-004-10,Blade Field Lance,Glint Flitter,F2,Demigod L1 Low,B
+MV-ADV-JIA-004-11,Field Edge Sweep,Slagswirl,F5,Demigod L1 Low,B
+MV-ADV-JIA-005-01,Smooth Turn Parry,Unshaken Twinspine,F1,Demigod L4 Mid,B
+MV-ADV-JIA-005-02,Smooth Draw Back,Eddycanter,F4,Demigod L4 Mid,B
+MV-ADV-JIA-005-03,Smooth Cover Step,Annealed Waistbend,F1,Demigod L4 Mid,B
+MV-ADV-JIA-005-04,Smooth Sense Brush,Verity Tassel,F2,Demigod L4 Mid,B
+MV-ADV-JIA-005-05,Smooth Bind Slip,Quelling Flexspine,F1,Demigod L4 Mid,B
+MV-ADV-JIA-005-06,Turnabout Guard Cut,Implacable Flexspine,F1,Demigod L4 Mid,B
+MV-ADV-JIA-005-07,Turnabout Spiral Counter,Willowcloak,F4,Demigod L4 Mid,B
+MV-ADV-JIA-005-08,Full Turn Slash,Wrecking Springtip,F1,Demigod L4 Mid,B
+MV-ADV-JIA-006-01,Twin Track Cut,Tearing Tassel,F1,Champion L3 High,B
+MV-ADV-JIA-006-02,Paired Pace Step,Flexspurt,F4,Champion L3 High,B
+MV-ADV-JIA-006-03,Dual Line Guard,Unbroken Guardwing,F1,Champion L3 High,B
+MV-ADV-JIA-006-04,Track Switch Thrust,Lancing Flitter,F1,Champion L3 High,B
+MV-ADV-JIA-006-05,Body Track Parry,Mantled Knotcord,F1,Champion L3 High,B
+MV-ADV-JIA-006-06,Qi Track Sense,Mindful Ridgecrest,F1,Champion L3 High,B
+MV-ADV-JIA-006-07,Dual Track Lance,Meridian Springtip,F2,Champion L3 High,B
+MV-ADV-JIA-006-08,Paired Wrist Roll,Resilient Pommeltuft,F1,Champion L3 High,B
+MV-ADV-JIA-006-09,Twin Edge Counter,Enduring Twinspine,F1,Champion L3 High,B
+MV-ADV-JIA-006-10,Track Merge Slash,Rippletorment,F4,Champion L3 High,B
+MV-ADV-JIA-006-11,Paired Track Severance,Severing Swirl,F1,Champion L3 High,B
+MV-ADV-JIA-006-12,Twin Course Sweep,Driftthrash,F4,Champion L3 High,B
+MV-ADV-JIA-007-01,Hawk Perch Blade Guard,Steadfast Ridgecrest,F1,Ruler L1 Low,B
+MV-ADV-JIA-007-02,Hawk Eye Sense,Discerning Guardwing,F1,Ruler L1 Low,B
+MV-ADV-JIA-007-03,Hawk Wing Cut,Unmaking Flexspine,F1,Ruler L1 Low,B
+MV-ADV-JIA-007-04,Stooping Step,Tasselsprint,F4,Ruler L1 Low,B
+MV-ADV-JIA-007-05,Hawk Talon Thrust,Transfixing Flitter,F1,Ruler L1 Low,B
+MV-ADV-JIA-007-06,Hawk Pinion Parry,Unflinching Jianhilt,F1,Ruler L1 Low,B
+MV-ADV-JIA-007-07,Wheeling Hawk Slash,Ripplebarrage,F4,Ruler L1 Low,B
+MV-ADV-JIA-007-08,Hawk Stoop Lance,Harrowing Springtip,F1,Ruler L1 Low,B
+MV-ADV-JIA-007-09,Hawk Rake Pass,Lilttorment,F4,Ruler L1 Low,B
+MV-ADV-JIA-008-01,Azure Line Cut,Trouncing Ripple,F1,Demigod L2 Low,B
+MV-ADV-JIA-008-02,Azure Sky Thrust,Nimbus Drift,F2,Demigod L2 Low,B
+MV-ADV-JIA-008-03,Clear Sky Guard,Adamant Waistbend,F1,Demigod L2 Low,B
+MV-ADV-JIA-008-04,Azure Sword Pace,Swirlleap,F4,Demigod L2 Low,B
+MV-ADV-JIA-008-05,Sky Reading Sense,Expanse Knotcord,F2,Demigod L2 Low,B
+MV-ADV-JIA-008-06,Azure Edge Veil,Murk Flexspine,F2,Demigod L2 Low,B
+MV-ADV-JIA-008-07,Open Sky Parry,Resilient Springtip,F1,Demigod L2 Low,B
+MV-ADV-JIA-008-08,Azure Arc Slash,Driftassault,F4,Demigod L2 Low,B
+MV-ADV-JIA-008-09,Zenith Azure Thrust,Needling Swirl,F1,Demigod L2 Low,B
+MV-ADV-JIA-008-10,Azure Dome Guard,Willowplating,F4,Demigod L2 Low,B
+MV-ADV-JIA-009-01,River Bend Blade Cut,Skinning Flexspine,F1,Demigod L6 Mid,B
+MV-ADV-JIA-009-02,Basin Edge Guard,Unflinching Guardwing,F1,Demigod L6 Mid,B
+MV-ADV-JIA-009-03,Ford Crossing Blade Step,Ripplejaunt,F4,Demigod L6 Mid,B
+MV-ADV-JIA-009-04,Current Sense,Remnant Twinspine,F2,Demigod L6 Mid,B
+MV-ADV-JIA-009-05,River Run Thrust,Harpooning Flitter,F1,Demigod L6 Mid,B
+MV-ADV-JIA-009-06,Basin Pool Parry,Annealed Knotcord,F1,Demigod L6 Mid,B
+MV-ADV-JIA-009-07,Twin River Confluence Cut,Iron Twinspine,F2,Demigod L6 Mid,B
+MV-ADV-JIA-009-08,Basin Flood Sweep,Downpour Eddy,F2,Demigod L6 Mid,B
+MV-ADV-JIA-010-01,Wind Oath Cut,Grinding Pommeltuft,F1,Champion L2 Mid,B
+MV-ADV-JIA-010-02,Windward Pace,Driftspurt,F4,Champion L2 Mid,B
+MV-ADV-JIA-010-03,Leeward Guard,Unyielding Twinspine,F1,Champion L2 Mid,B
+MV-ADV-JIA-010-04,Gust Sense,Chime Knotcord,F2,Champion L2 Mid,B
+MV-ADV-JIA-010-05,Sworn Edge Thrust,Lancing Springtip,F1,Champion L2 Mid,B
+MV-ADV-JIA-010-06,Wind Turn Flat Parry,Steadfast Flexspine,F1,Champion L2 Mid,B
+MV-ADV-JIA-010-07,Bearing Held Slash,Scalding Flitter,F1,Champion L2 Mid,B
+MV-ADV-JIA-010-08,Wind-Sworn Lance,Gustswirl,F5,Champion L2 Mid,B
+MV-ADV-JIA-010-09,Sworn Gale Sweep,Gust Ridgecrest,F2,Champion L2 Mid,B
+MV-ADV-JIA-011-01,Plateau Edge Cut,Drubbing Jianhilt,F1,Demigod L1 Low,B
+MV-ADV-JIA-011-02,Rim Walk Blade Step,Liltcanter,F4,Demigod L1 Low,B
+MV-ADV-JIA-011-03,High Ground Guard,Hardened Springtip,F1,Demigod L1 Low,B
+MV-ADV-JIA-011-04,Cliffline Thrust,Scything Springtip,F1,Demigod L1 Low,B
+MV-ADV-JIA-011-05,Edge Wind Sense,Verity Pommeltuft,F2,Demigod L1 Low,B
+MV-ADV-JIA-011-06,Plateau Crossing Slash,Tasselassault,F4,Demigod L1 Low,B
+MV-ADV-JIA-011-07,Rimward Parry,Implacable Guardwing,F1,Demigod L1 Low,B
+MV-ADV-JIA-011-08,Open Ground Flat Bind,Hamstringing Ridgecrest,F1,Demigod L1 Low,B
+MV-ADV-JIA-011-09,Plateau Edge Rending,Cleaving Swirl,F1,Demigod L1 Low,B
+MV-ADV-JIA-011-10,Cliff Fall Chop,Eddybarrage,F4,Demigod L1 Low,B
+MV-ADV-JIA-012-01,True Bearing Thrust,Needling Pommeltuft,F1,Demigod L3 High,B
+MV-ADV-JIA-012-02,Bearing Check Sense,Waning Knotcord,F2,Demigod L3 High,B
+MV-ADV-JIA-012-03,Drift Correct Step,Eddypounce,F4,Demigod L3 High,B
+MV-ADV-JIA-012-04,Bearing Guard Hold,Unbroken Waistbend,F1,Demigod L3 High,B
+MV-ADV-JIA-012-05,Held Course Slash,Liltthrash,F4,Demigod L3 High,B
+MV-ADV-JIA-012-06,Cross Bearing Bind,Paralyzing Jianhilt,F1,Demigod L3 High,B
+MV-ADV-JIA-012-07,Bearing Lock Lance,Transfixing Swirl,F1,Demigod L3 High,B
+MV-ADV-JIA-012-08,Steady Course Sweep,Ravaging Flexspine,F1,Demigod L3 High,B
+MV-ADV-JIA-013-01,Open Ground Sword Cut,Unmaking Twinspine,F1,Demigod L7 Low,B
+MV-ADV-JIA-013-02,Unwalled Sword Step,Flexjaunt,F4,Demigod L7 Low,B
+MV-ADV-JIA-013-03,Wind Cover Guard,Enduring Pommeltuft,F1,Demigod L7 Low,B
+MV-ADV-JIA-013-04,Open Hand Sense,Chime Tassel,F2,Demigod L7 Low,B
+MV-ADV-JIA-013-05,Free Line Thrust,Severing Flitter,F1,Demigod L7 Low,B
+MV-ADV-JIA-013-06,Gale Draw Cut,Tempered Eddy,F2,Demigod L7 Low,B
+MV-ADV-JIA-013-07,Open Field Slash,Cleaving Lilt,F1,Demigod L7 Low,B
+MV-ADV-JIA-013-08,Gale Turn Parry,Unshaken Jianhilt,F1,Demigod L7 Low,B
+MV-ADV-JIA-013-09,Wall-Less Press Bind,Subduing Knotcord,F1,Demigod L7 Low,B
+MV-ADV-JIA-013-10,Gale Line Lance,Harrowing Flitter,F1,Demigod L7 Low,B
+MV-ADV-JIA-013-11,Rending Gale Sweep,Wrecking Eddy Maelstrom,F6b,Demigod L7 Low,B
+MV-ADV-JIA-008-05,Expanse Knotcord,Taut Knotcord,F2,Demigod L2 Low,B

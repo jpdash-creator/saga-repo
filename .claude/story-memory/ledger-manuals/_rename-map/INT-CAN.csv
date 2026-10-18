@@ -1,0 +1,64 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-CAN-001-01,Canister Tin Seat,Shotbandage,F4,Senior L3 Low,A
+MV-INT-CAN-001-02,Level Muzzle Mass Sight,Hearty Gunbore,F1,Senior L3 Low,A
+MV-INT-CAN-001-03,First Smoke Flank Step,Coasting Touchhole,F1,Senior L3 Low,A
+MV-INT-CAN-001-04,Grape Spindle Cord Tie,Tenderhearted Linstock,F1,Senior L3 Low,A
+MV-INT-CAN-001-05,Kneeling Plank Cover,Layered Muzzleswell,F1,Senior L3 Low,A
+MV-INT-CAN-001-06,Scatter Hail Blast,Cannonthwack,F4,Senior L3 Low,A
+MV-INT-CAN-001-07,Rank Sweep Pinning Fire,Ballshot Flog,F3,Senior L3 Low,A
+MV-INT-CAN-002-01,Quoin Slide Gauge,Cooling Wheelhub,F1,Senior L7 Mid,A
+MV-INT-CAN-002-02,Muzzle Dip Reckoning,Shotlinen,F4,Senior L7 Mid,A
+MV-INT-CAN-002-03,Bed Plank Shim,Kindly Trunnion,F1,Senior L7 Mid,A
+MV-INT-CAN-002-04,Wheel Rim Splinter Guard,Padded Cascabel,F1,Senior L7 Mid,A
+MV-INT-CAN-002-05,Rising Arc Lob Shot,Harsh Recoil,F1,Senior L7 Mid,A
+MV-INT-CAN-002-06,Ridge Shadow Drop,Fierce Roar,F1,Senior L7 Mid,A
+MV-INT-CAN-003-01,Crew Number Call,Kindly Quoin,F1,Warrior L1 Low,B
+MV-INT-CAN-003-02,Gun Line Pace Walk,Veering Broadside,F1,Warrior L1 Low,B
+MV-INT-CAN-003-03,Match Cord Glow Check,Hearty Touchhole,F1,Warrior L1 Low,B
+MV-INT-CAN-003-04,Left Hand Raise Halt,Brawncannon,F5,Warrior L1 Low,B
+MV-INT-CAN-003-05,Platform Plank Heel Test,Lunar Breechrope,F2,Warrior L1 Low,B
+MV-INT-CAN-003-06,Trail Straddle Crossing,Brawn Carriage,F2,Warrior L1 Low,B
+MV-INT-CAN-003-07,Held Breath Fire Call,Hum Cannonade,F2,Warrior L1 Low,B
+MV-INT-CAN-003-08,Fallen Hand Fill In,Poise Quoin,F2,Warrior L1 Low,B
+MV-INT-CAN-004-01,Fuse Plug Awl Bore,Quoinbandage,F4,Warrior L2 Mid,B
+MV-INT-CAN-004-02,Shell Strap Lift,Brawnshot,F5,Warrior L2 Mid,B
+MV-INT-CAN-004-03,Fuse Mark Trim,Dawn Wheelhub,F2,Warrior L2 Mid,B
+MV-INT-CAN-004-04,Closed Lip Flight Count,Humquoin,F5,Warrior L2 Mid,B
+MV-INT-CAN-004-05,Burst Flash Mark,Gap Breechrope,F2,Warrior L2 Mid,B
+MV-INT-CAN-004-06,Cloak Cradle Crouch,Cannonbarrier,F4,Warrior L2 Mid,B
+MV-INT-CAN-004-07,Airburst Short Count Lob,Discord Recoil,F2,Warrior L2 Mid,B
+MV-INT-CAN-004-08,Hollow Roll Late Burst,Discord Gunbore,F2,Warrior L2 Mid,B
+MV-INT-CAN-004-09,Dud Hold Back Count,Shelter Cascabel,F2,Warrior L2 Mid,B
+MV-INT-CAN-005-01,Boot Scuff Ground Test,Shotcordial,F4,Warrior L4 Low,B
+MV-INT-CAN-005-02,Low Notch Graze Lay,Patient Carriage,F1,Warrior L4 Low,B
+MV-INT-CAN-005-03,Hump Ditch Spotting,Candor Linstock,F2,Warrior L4 Low,B
+MV-INT-CAN-005-04,Dry Flat Rush Measure,Scudding Trunnion,F1,Warrior L4 Low,B
+MV-INT-CAN-005-05,Dust Puff Bound Tally,Candor Touchhole,F2,Warrior L4 Low,B
+MV-INT-CAN-005-06,Sandbag Axle Prop,Sleet Muzzleswell,F2,Warrior L4 Low,B
+MV-INT-CAN-005-07,Predawn Lane Walk Out,Recoilswerve,F4,Warrior L4 Low,B
+MV-INT-CAN-005-08,Skipping Round Lane Fire,Swift Bombard,F1,Warrior L4 Low,B
+MV-INT-CAN-005-09,Second Bound Breaker,Cruel Bombard,F1,Warrior L4 Low,B
+MV-INT-CAN-005-10,Smoke Blind Splash Line,Comet Ballshot,F2,Warrior L4 Low,B
+MV-INT-CAN-006-01,Barrel Spit Test,Linstock Cordial,F3,Warrior L5 High,B
+MV-INT-CAN-006-02,Wet Rag Barrel Wipe,Sound Cascabel,F1,Warrior L5 High,B
+MV-INT-CAN-006-03,Twenty Breath Rest,Muzzleswell Linen,F3,Warrior L5 High,B
+MV-INT-CAN-006-04,Wet Hide Glove Swap,Shotscreen,F4,Warrior L5 High,B
+MV-INT-CAN-006-05,Cool Bore Qi Draw,Brawnquoin,F5,Warrior L5 High,B
+MV-INT-CAN-006-06,Long Count Cool Fire,Dire Wheelhub,F1,Warrior L5 High,B
+MV-INT-CAN-007-01,Trail Crouch Slide,Brawn Broadside,F2,Warrior L7 Mid,B
+MV-INT-CAN-007-02,Spoke Gap Peek,Shottonic,F4,Warrior L7 Mid,B
+MV-INT-CAN-007-03,Heel Scoop Trench,Quoinscreen,F4,Warrior L7 Mid,B
+MV-INT-CAN-007-04,Barrel Shadow Stand,Resolute Breechrope,F1,Warrior L7 Mid,B
+MV-INT-CAN-007-05,Powder Cart Back Step,Prowling Recoil,F1,Warrior L7 Mid,B
+MV-INT-CAN-007-06,Cheek Plank Boot Flip,Shelter Carriage,F2,Warrior L7 Mid,B
+MV-INT-CAN-007-07,Carriage Side Counter Rush,Ember Gunbore,F2,Warrior L7 Mid,B
+MV-INT-CAN-007-08,Smoke Veil Fall Back,Regimen Quoin,F2,Warrior L7 Mid,B
+MV-INT-CAN-008-01,Ball Gap Rattle Feel,Sound Breechrope,F1,Warrior L8 Low,B
+MV-INT-CAN-008-02,Table Row Recital,Sproutcannon,F5,Warrior L8 Low,B
+MV-INT-CAN-008-03,Cartridge Weight Pick,Trunnion Linen,F3,Warrior L8 Low,B
+MV-INT-CAN-008-04,Wet Day Charge Margin,Recallquoin,F5,Warrior L8 Low,B
+MV-INT-CAN-008-05,Cross Gust Lean Brace,Clayshot,F5,Warrior L8 Low,B
+MV-INT-CAN-008-06,Worn Bore Larger Ball,Static Bombard,F2,Warrior L8 Low,B
+MV-INT-CAN-008-07,Walked Fall Three Round,Embercannon,F5,Warrior L8 Low,B
+MV-INT-CAN-004-09,Shelter Cascabel,Stout Cascabel,F2,Warrior L2 Mid,B
+MV-INT-CAN-007-06,Shelter Carriage,Hardy Carriage,F2,Warrior L7 Mid,B

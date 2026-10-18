@@ -1,0 +1,15 @@
+{
+ "skill_id": "ssc-narration-p36-combat-scene-thematic-overlay",
+ "part": 36,
+ "area": 6,
+ "sequence_in_part": 6,
+ "title": "Combat Scene Thematic Overlay",
+ "domain": "narration",
+ "source_file": "Part_36_Narration_Novel_Thematic_Law.md",
+ "start_line": 228,
+ "end_line": 259,
+ "line_count": 32,
+ "output_path": ".claude/skills/ssc-narration-p36-combat-scene-thematic-overlay/SKILL.md",
+ "has_stale_python_block": false,
+ "related": []
+}

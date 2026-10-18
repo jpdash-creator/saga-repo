@@ -1,0 +1,133 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-RAM-001-01,Court Pair Salute Stance,Facet Wheelbase,F2,Demigod L2 Low,B
+MV-ELI-RAM-001-02,Twin-Court Ring Step,Logglimmer,F4,Demigod L2 Low,B
+MV-ELI-RAM-001-03,Courtyard Door Sounding,Ramcap Insight,F3,Demigod L2 Low,B
+MV-ELI-RAM-001-04,Court-Answering Drive,Blazebeam,F5,Demigod L2 Low,B
+MV-ELI-RAM-001-05,Pair-Armed Haft Lock,Indomitable Carryhandle,F1,Demigod L2 Low,B
+MV-ELI-RAM-001-06,Dual-Court Pace Change,Boughblink,F4,Demigod L2 Low,B
+MV-ELI-RAM-001-07,Twin-Court Iron Drive,Novalog,F5,Demigod L2 Low,B
+MV-ELI-RAM-001-08,Court Cadence Assault,Berserk Hammerin,F1,Demigod L2 Low,B
+MV-ELI-RAM-001-09,Twin-Court Collapse Stroke,Devastating Nova Swayswing,F6a,Demigod L2 Low,B
+MV-ELI-RAM-002-01,Hawk Wing Spread Carry,Silt Endknob,F2,Demigod L5 Mid,B
+MV-ELI-RAM-002-02,Hawk Perch Pause,Unconquered Bandring,F1,Demigod L5 Mid,B
+MV-ELI-RAM-002-03,Draught-Reading Lift,Expanse Ramcap,F2,Demigod L5 Mid,B
+MV-ELI-RAM-002-04,Claw Grip Haft Lift,Equipoise Wheelbase,F2,Demigod L5 Mid,B
+MV-ELI-RAM-002-05,Hawk Dive Approach,Torrent Shudder,F2,Demigod L5 Mid,B
+MV-ELI-RAM-002-06,Wing-Beat Haft Rebound,Chime Headcap,F2,Demigod L5 Mid,B
+MV-ELI-RAM-002-07,Talon Hold Counter-Pull,Thorn Pounddown,F2,Demigod L5 Mid,B
+MV-ELI-RAM-002-08,Azure Updraft Lift Drive,Might Beamdrive,F2,Demigod L5 Mid,B
+MV-ELI-RAM-002-09,Hawk-Eyed Door Seam Strike,Blistering Slingchain,F1,Demigod L5 Mid,B
+MV-ELI-RAM-002-10,Hawk Wings Closing Breach,Meteoric Hammerin,F1,Demigod L5 Mid,B
+MV-ELI-RAM-003-01,Two-Track Rope Draw,Slingchain Premonition,F3,Demigod L8 Low,B
+MV-ELI-RAM-003-02,Crossing Track Footwork,Granite Smitedown,F2,Demigod L8 Low,B
+MV-ELI-RAM-003-03,Gate Leaf Weight Guess,Remnant Carryhandle,F2,Demigod L8 Low,B
+MV-ELI-RAM-003-04,Track Braced Squat,Impervious Beamhead,F1,Demigod L8 Low,B
+MV-ELI-RAM-003-05,First-Track Drive,Iron Ramtail,F2,Demigod L8 Low,B
+MV-ELI-RAM-003-06,Second-Track Echo Drive,Blazeramcap,F5,Demigod L8 Low,B
+MV-ELI-RAM-003-07,Track Switch Slide,Blinding Endknob,F1,Demigod L8 Low,B
+MV-ELI-RAM-003-08,Chain Weight Sharing,Revitalizing Ramhorn,F1,Demigod L8 Low,B
+MV-ELI-RAM-003-09,Parallel Haul Surge,Vital Endknob,F2,Demigod L8 Low,B
+MV-ELI-RAM-003-10,Dual-Track Iron Gate Drive,Novabough,F5,Demigod L8 Low,B
+MV-ELI-RAM-003-11,Track-Locked Press Advance,Intent Pounddown,F2,Demigod L8 Low,B
+MV-ELI-RAM-003-12,Two-Track Gate Sundering,Unsparing Swayswing,F1,Demigod L8 Low,B
+MV-ELI-RAM-004-01,Paired Frame Rail Grip,Impervious Ramhorn,F1,Void God L1 Low,B
+MV-ELI-RAM-004-02,Roof Hide Listening,Verity Carryhandle,F2,Void God L1 Low,B
+MV-ELI-RAM-004-03,Two-Frame Interval Step,Gust Hammerin,F2,Void God L1 Low,B
+MV-ELI-RAM-004-04,Frame Peg Hammer-In,Unbowed Slingchain,F1,Void God L1 Low,B
+MV-ELI-RAM-004-05,Under-Hide Count Whisper,Prescient Headcap,F1,Void God L1 Low,B
+MV-ELI-RAM-004-06,Roofed Pair Alternating Swing,Pitiless Pounddown,F1,Void God L1 Low,B
+MV-ELI-RAM-004-07,Hide Roof Fire Smother,Murk Beamhead,F2,Void God L1 Low,B
+MV-ELI-RAM-004-08,Frame Side-Brace Interlock,Unrelenting Ramtail,F1,Void God L1 Low,B
+MV-ELI-RAM-004-09,Paired Frame Battering,Unsparing Shudder,F1,Void God L1 Low,B
+MV-ELI-RAM-004-10,Roofed Shield-Line Advance,Ramcapvortex,F4,Void God L1 Low,B
+MV-ELI-RAM-004-11,Twin-Frame Door Shattering,Beamdrive Scourge,F3,Void God L1 Low,B
+MV-ELI-RAM-005-01,Basin Beam Stance,Hoarfrost Bandring,F2,Void God L4 Mid,B
+MV-ELI-RAM-005-02,River Current Carry,Mightbough,F5,Void God L4 Mid,B
+MV-ELI-RAM-005-03,Eddy Check,Waning Beamhead,F2,Void God L4 Mid,B
+MV-ELI-RAM-005-04,Stream Cap Tap,Sanguine Smitedown,F2,Void God L4 Mid,B
+MV-ELI-RAM-005-05,Pebble Step Retreat,Ramvortex,F4,Void God L4 Mid,B
+MV-ELI-RAM-005-06,Rapids Rush Drive,Rampaging Wheelbase,F1,Void God L4 Mid,B
+MV-ELI-RAM-005-07,Eddy Turn Dodge,Murk Ramtail,F2,Void God L4 Mid,B
+MV-ELI-RAM-005-08,Basin Pool Hold,Unbowed Bandring,F1,Void God L4 Mid,B
+MV-ELI-RAM-005-09,Backwater Haul,Daybreak Ramcap,F2,Void God L4 Mid,B
+MV-ELI-RAM-005-10,River-Bend Breaching Stroke,Rumble Shudder,F2,Void God L4 Mid,B
+MV-ELI-RAM-005-11,Floodwater Line Press,Hour Swayswing,F2,Void God L4 Mid,B
+MV-ELI-RAM-005-12,Basin Collapse Ram,Wheelbase Wrath,F3,Void God L4 Mid,B
+MV-ELI-RAM-005-13,Great River Sundering Drive,Titanic Smitedown,F1,Void God L4 Mid,B
+MV-ELI-RAM-006-01,Master's Level Gaze,Carryhandle Vitality,F3,True God L1 Low,B
+MV-ELI-RAM-006-02,Straight Spine Lift,Might Slingchain,F2,True God L1 Low,B
+MV-ELI-RAM-006-03,Poised Approach Walk,Siltram,F5,True God L1 Low,B
+MV-ELI-RAM-006-04,Controlled Cap Touch,Boughhavoc,F4,True God L1 Low,B
+MV-ELI-RAM-006-05,Door-Mapping Tap Sequence,Verity Endknob,F2,True God L1 Low,B
+MV-ELI-RAM-006-06,Master's Recoil Redirect,Chime Ramcap,F2,True God L1 Low,B
+MV-ELI-RAM-006-07,Command Cadence Shift,Energizing Headcap,F1,True God L1 Low,B
+MV-ELI-RAM-006-08,Perfect Line Breaching Drive,Facetram,F5,True God L1 Low,B
+MV-ELI-RAM-006-09,Master Hawk Counter-Surge,Obdurate Ramhorn,F1,True God L1 Low,B
+MV-ELI-RAM-006-10,Master's Silent Breach,Ironlog,F5,True God L1 Low,B
+MV-ELI-RAM-007-01,Oath Stance Plant,Charter Bandring,F2,Demigod L1 Mid,B
+MV-ELI-RAM-007-02,Sworn Breath Pace,Ramblink,F4,Demigod L1 Mid,B
+MV-ELI-RAM-007-03,Door-Sill Sounding,Clairvoyant Headcap,F1,Demigod L1 Mid,B
+MV-ELI-RAM-007-04,First-Word Strike,Lacerating Pounddown,F1,Demigod L1 Mid,B
+MV-ELI-RAM-007-05,Oath-Chain Drive,Beamscourge,F4,Demigod L1 Mid,B
+MV-ELI-RAM-007-06,Unbroken Vow Hold,Aegis Ramcap,F2,Demigod L1 Mid,B
+MV-ELI-RAM-007-07,Wind-Witness Step Aside,Siltlog,F5,Demigod L1 Mid,B
+MV-ELI-RAM-007-08,Oath-Kept Breaking Blow,Glint Smitedown,F2,Demigod L1 Mid,B
+MV-ELI-RAM-007-09,Sworn Line Advance,Silt Swayswing,F2,Demigod L1 Mid,B
+MV-ELI-RAM-007-10,Final Oath Beam Stroke,Hellish Hammerin Ruin,F6b,Demigod L1 Mid,B
+MV-ELI-RAM-008-01,Open-Wind Shoulder Set,Facet Ramtail,F2,Demigod L4 Low,B
+MV-ELI-RAM-008-02,Gale Lean Advance,Beamvortex,F4,Demigod L4 Low,B
+MV-ELI-RAM-008-03,Leaf-Tremor Sight,Revitalizing Beamhead,F1,Demigod L4 Low,B
+MV-ELI-RAM-008-04,Draught-Gap Thrust,Novabeam,F5,Demigod L4 Low,B
+MV-ELI-RAM-008-05,Gust-Shielded Pivot,Equipoise Endknob,F2,Demigod L4 Low,B
+MV-ELI-RAM-008-06,Hide-Sheet Wind Haul,Vital Ramhorn,F2,Demigod L4 Low,B
+MV-ELI-RAM-008-07,Open-Wind Door Breaker,Rumbleram,F5,Demigod L4 Low,B
+MV-ELI-RAM-008-08,Wide-Open Line Press,Shade Wheelbase,F2,Demigod L4 Low,B
+MV-ELI-RAM-008-09,Gale-Opened Breach,Ramcapscourge,F4,Demigod L4 Low,B
+MV-ELI-RAM-009-01,Bearing Taking Pause,Galvanizing Carryhandle,F1,Demigod L7 Mid,B
+MV-ELI-RAM-009-02,Held Bearing Stride,Gust Beamdrive,F2,Demigod L7 Mid,B
+MV-ELI-RAM-009-03,Beam Plumb Check,Aegis Slingchain,F2,Demigod L7 Mid,B
+MV-ELI-RAM-009-04,Drift Call,Resurgent Ramtail,F1,Demigod L7 Mid,B
+MV-ELI-RAM-009-05,Marked-Lock Strike,Shattering Beamdrive,F1,Demigod L7 Mid,B
+MV-ELI-RAM-009-06,Bearing-Fix Steadied Drive,Blaze Hammerin,F2,Demigod L7 Mid,B
+MV-ELI-RAM-009-07,Two-Mark Cross Check,Waning Ramcap,F2,Demigod L7 Mid,B
+MV-ELI-RAM-009-08,Bearing Recovery Slide,Ramglimmer,F4,Demigod L7 Mid,B
+MV-ELI-RAM-009-09,Held Line Crush,Ruinous Hammerin,F1,Demigod L7 Mid,B
+MV-ELI-RAM-009-10,True-Bearing Door Breaker,Tempered Shudder,F2,Demigod L7 Mid,B
+MV-ELI-RAM-009-11,Bearing-Fixed Entry Sweep,Logflash,F4,Demigod L7 Mid,B
+MV-ELI-RAM-009-12,Bearing Held Through Breach,Titanic Hollow Smitedown,F6a,Demigod L7 Mid,B
+MV-ELI-RAM-010-01,Edge-Stance Crouch,Ramhorn Nerve,F3,Void God L2 Low,B
+MV-ELI-RAM-010-02,Frost-Ground Shuffle,Ramcapblink,F4,Void God L2 Low,B
+MV-ELI-RAM-010-03,Edge Wind Reading,Slingchain Insight,F3,Void God L2 Low,B
+MV-ELI-RAM-010-04,Plateau Lip Shove,Ruinous Shudder,F1,Void God L2 Low,B
+MV-ELI-RAM-010-05,Low-Sun Glare Cover,Invincible Wheelbase,F1,Void God L2 Low,B
+MV-ELI-RAM-010-06,Edge-Drop Counter-Weight,Obdurate Carryhandle,F1,Void God L2 Low,B
+MV-ELI-RAM-010-07,Cliff-Updraft Haul,Daybreak Bandring,F2,Void God L2 Low,B
+MV-ELI-RAM-010-08,Lip-Skimming Strike,Vengeful Swayswing,F1,Void God L2 Low,B
+MV-ELI-RAM-010-09,Plateau Wind Door Breaker,Boughruin,F4,Void God L2 Low,B
+MV-ELI-RAM-010-10,Open Ground Rush,Granite Beamhead,F2,Void God L2 Low,B
+MV-ELI-RAM-010-11,Skybreak Edge Stroke,Mangling Headcap,F1,Void God L2 Low,B
+MV-ELI-RAM-011-01,Gale-Sworn Beam Hold,Iron Bandring,F2,Void God L6 Low,B
+MV-ELI-RAM-011-02,Sworn Wind Footfall,Mightlog,F5,Void God L6 Low,B
+MV-ELI-RAM-011-03,Three-Gust Count,Intent Wheelbase,F2,Void God L6 Low,B
+MV-ELI-RAM-011-04,Door-Tremble Sensing,Remnant Beamhead,F2,Void God L6 Low,B
+MV-ELI-RAM-011-05,Wind-Cut Drive,Ramcaphavoc,F4,Void God L6 Low,B
+MV-ELI-RAM-011-06,Gale-Fed Rush,Siltbough,F5,Void God L6 Low,B
+MV-ELI-RAM-011-07,Sworn Crew Bind,Unerring Endknob,F1,Void God L6 Low,B
+MV-ELI-RAM-011-08,Crosswind Beam Turn,Impenetrable Endknob,F1,Void God L6 Low,B
+MV-ELI-RAM-011-09,Gale Hold Press,Intentram,F5,Void God L6 Low,B
+MV-ELI-RAM-011-10,Gale-Sworn Door Breaker,Hollowbeam,F5,Void God L6 Low,B
+MV-ELI-RAM-011-11,Windward Sweep Breach,Boughglimmer,F4,Void God L6 Low,B
+MV-ELI-RAM-011-12,Oath-Gale Line Press,Blistering Swayswing,F1,Void God L6 Low,B
+MV-ELI-RAM-011-13,Gale-Sworn Sundering Stroke,Corroding Shudder,F1,Void God L6 Low,B
+MV-ELI-RAM-012-01,Breaker's Oath Posture,Hoarfrost Ramcap,F2,True God L2 Mid,B
+MV-ELI-RAM-012-02,Windborne Pace Setting,Hammerin Flash,F3,True God L2 Mid,B
+MV-ELI-RAM-012-03,Bar-Shadow Reading,Carryhandle Respite,F3,True God L2 Mid,B
+MV-ELI-RAM-012-04,Short-Breath Strike,Blaze Beamdrive,F2,True God L2 Mid,B
+MV-ELI-RAM-012-05,Oath-Spoken Drive,Beamhavoc,F4,True God L2 Mid,B
+MV-ELI-RAM-012-06,Wind-Cloak Cover,Torrent Ramtail,F2,True God L2 Mid,B
+MV-ELI-RAM-012-07,Breaker's Wind Pivot,Torrential Pounddown,F1,True God L2 Mid,B
+MV-ELI-RAM-012-08,Wind and Oath Breaking Drive,Hollowram,F5,True God L2 Mid,B
+MV-ELI-RAM-012-09,Oath-Bound Heave Advance,Silt Slingchain,F2,True God L2 Mid,B
+MV-ELI-RAM-012-10,Breaker's Final Wind,Titanic Headcap,F1,True God L2 Mid,B
+MV-ELI-RAM-002-03,Expanse Ramcap,Keen Ramcap,F2,Demigod L5 Mid,B
+MV-ELI-RAM-009-12,Titanic Hollow Smitedown,Colossal Smitedown,F6a,Demigod L7 Mid,B

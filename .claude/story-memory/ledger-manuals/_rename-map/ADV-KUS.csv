@@ -1,0 +1,95 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-KUS-001-01,Whirl-Bind Ready Pose,Sicklecloak,F4,Champion L1 Low,B
+MV-ADV-KUS-001-02,Stepping Whirl Strike,Harpooning Rodhandle,F1,Champion L1 Low,B
+MV-ADV-KUS-001-03,Chain Loop Fling,Facet Weightswing,F2,Champion L1 Low,B
+MV-ADV-KUS-001-04,Doubled-Hand Haul,Sickleblade Fastness,F3,Champion L1 Low,B
+MV-ADV-KUS-001-05,Binding Whirl Wrap,Entwine Hauberk,F3,Champion L1 Low,B
+MV-ADV-KUS-001-06,Wrap Unspooling Sling,Granite Tangle,F2,Champion L1 Low,B
+MV-ADV-KUS-001-07,Multi-Coil Limb Pin,Dominating Lashcut,F1,Champion L1 Low,B
+MV-ADV-KUS-001-08,Spiral Chain Barrage,Scything Shade Snare,F6a,Champion L1 Low,B
+MV-ADV-KUS-002-01,Hook-Forward Ready,Hoarfrost Chainlength,F2,Demigod L1 Low,B
+MV-ADV-KUS-002-02,Extended Hook Rake,Sanguine Tangknob,F2,Demigod L1 Low,B
+MV-ADV-KUS-002-03,Weight Cast Past the Guard,Skinning Chainloop,F1,Demigod L1 Low,B
+MV-ADV-KUS-002-04,Light-Footed Reach Slide,Hastening Ballbind,F1,Demigod L1 Low,B
+MV-ADV-KUS-002-05,Hook Catch on Moving Foe,Hoarfrost Sicklehook,F2,Demigod L1 Low,B
+MV-ADV-KUS-002-06,Reach Collapse Pull,Mayhemkama,F5,Demigod L1 Low,B
+MV-ADV-KUS-002-07,Hooked Guard Break,Blaze Sicklepull,F2,Demigod L1 Low,B
+MV-ADV-KUS-002-08,Piercing Hook Throw,Furrowing Pommelring,F1,Demigod L1 Low,B
+MV-ADV-KUS-002-09,Rolling Hook Sequence,Lot Chainkey,F2,Demigod L1 Low,B
+MV-ADV-KUS-003-01,Counterweight Balance Stance,Resilient Weightball,F1,Champion L6 Mid,B
+MV-ADV-KUS-003-02,Hip Counterweight Swing,Mightkama,F5,Champion L6 Mid,B
+MV-ADV-KUS-003-03,Backhand Weight Cast,Chime Lashcut,F2,Champion L6 Mid,B
+MV-ADV-KUS-003-04,Catch and Pivot,Equipoise Rodhandle,F2,Champion L6 Mid,B
+MV-ADV-KUS-003-05,Weight-Led Footwork,Gustsnare,F5,Champion L6 Mid,B
+MV-ADV-KUS-003-06,Counterweight Ring Check,Equipoise Tangknob,F2,Champion L6 Mid,B
+MV-ADV-KUS-003-07,Weight Against Blade Lock,Thorn Sicklehook,F2,Champion L6 Mid,B
+MV-ADV-KUS-003-08,Ring-to-Slash Turn,Furrowing Chainkey,F1,Champion L6 Mid,B
+MV-ADV-KUS-003-09,Balanced Double Cast,Lancing Tangle,F1,Champion L6 Mid,B
+MV-ADV-KUS-003-10,Anchored Weight Trip Line,Sicklehauberk,F4,Champion L6 Mid,B
+MV-ADV-KUS-004-01,Master's Neutral Hold,Facet Weightball,F2,Demigod L4 Mid,B
+MV-ADV-KUS-004-02,Fast Reaping Pull,Sicklethrash,F4,Demigod L4 Mid,B
+MV-ADV-KUS-004-03,Tight-Wrist Cast,Tanglebarrage,F4,Demigod L4 Mid,B
+MV-ADV-KUS-004-04,Glancing Chain Parry,Murk Pommelring,F2,Demigod L4 Mid,B
+MV-ADV-KUS-004-05,Two-Height Chain Lash,Iron Ballbind,F2,Demigod L4 Mid,B
+MV-ADV-KUS-004-06,Kama Catch and Throw-Off,Chime Chainlength,F2,Demigod L4 Mid,B
+MV-ADV-KUS-004-07,Chain-and-Crescent Interlock,Lot Sicklepull,F2,Demigod L4 Mid,B
+MV-ADV-KUS-004-08,Wide Reaping Cull,Daybreak Chainloop,F2,Demigod L4 Mid,B
+MV-ADV-KUS-005-01,Twin-Track Kama Ready Hold,Charter Sickleblade,F2,Champion L3 Low,B
+MV-ADV-KUS-005-02,Azure Arc Cut,Blaze Sicklehook,F2,Champion L3 Low,B
+MV-ADV-KUS-005-03,Paired Cast on One Line,Ravaging Chainlength,F1,Champion L3 Low,B
+MV-ADV-KUS-005-04,River-Bend Slip,Granite Snare,F2,Champion L3 Low,B
+MV-ADV-KUS-005-05,Hawk-Wing Chain Guard,Chime Weightball,F2,Champion L3 Low,B
+MV-ADV-KUS-005-06,Dual-Hand Retrieval,Stifling Entwine,F1,Champion L3 Low,B
+MV-ADV-KUS-005-07,Blade Draws and Weight Strikes,Blazesnare,F5,Champion L3 Low,B
+MV-ADV-KUS-005-08,Twin-Court Binding Loop,Thorn Weightswing,F2,Champion L3 Low,B
+MV-ADV-KUS-005-09,Basin-Edge Weight Sweep,Lancing Chainloop,F1,Champion L3 Low,B
+MV-ADV-KUS-005-10,Paired Hawk Stoop,Kusarithrash,F4,Champion L3 Low,B
+MV-ADV-KUS-005-11,Dual-Track Chain Sequence,Doctrine Snare,F2,Champion L3 Low,B
+MV-ADV-KUS-006-01,Hawk's Perch Stance,Granite Ballbind,F2,Demigod L2 Low,B
+MV-ADV-KUS-006-02,Stooping Weight Drop,Ironkama,F5,Demigod L2 Low,B
+MV-ADV-KUS-006-03,Azure Line Cast,Blaze Weightswing,F2,Demigod L2 Low,B
+MV-ADV-KUS-006-04,Talon Hook Pull,Kusariplating,F4,Demigod L2 Low,B
+MV-ADV-KUS-006-05,Hawk Circling Whirl,Gustsickle,F5,Demigod L2 Low,B
+MV-ADV-KUS-006-06,Talon Snatch and Release,Chime Pommelring,F2,Demigod L2 Low,B
+MV-ADV-KUS-006-07,Stoop-to-Strike Reversal,Blazesickle,F5,Demigod L2 Low,B
+MV-ADV-KUS-006-08,Plunging Hawk-Dive Cast,Tangle Torment,F3,Demigod L2 Low,B
+MV-ADV-KUS-006-09,Talon Net Entanglement,Hamstringing Sickleblade,F1,Demigod L2 Low,B
+MV-ADV-KUS-007-01,Basin Rim Kama Stance,Facet Rodhandle,F2,Demigod L7 Low,B
+MV-ADV-KUS-007-02,Azure Draw Cut,Ironsickle,F5,Demigod L7 Low,B
+MV-ADV-KUS-007-03,Slow River Weight Cast,Chimetangle,F5,Demigod L7 Low,B
+MV-ADV-KUS-007-04,Eddy-Turn Hook Parry,Sickleplating,F4,Demigod L7 Low,B
+MV-ADV-KUS-007-05,Dual-Track Slide Step,Racing Sicklepull,F1,Demigod L7 Low,B
+MV-ADV-KUS-007-06,Rim Sensing Touch,Vigorous Tangknob,F1,Demigod L7 Low,B
+MV-ADV-KUS-007-07,Basin Fill Loop Binding,Fastening Sicklehook,F2,Demigod L7 Low,B
+MV-ADV-KUS-007-08,River-Bend Reverse Cast,Facet Chainkey,F2,Demigod L7 Low,B
+MV-ADV-KUS-007-09,Paired Hook Shear,Scything Lashcut,F1,Demigod L7 Low,B
+MV-ADV-KUS-007-10,Eddy Pull Retreat,Rumble Entwine,F2,Demigod L7 Low,B
+MV-ADV-KUS-007-11,Hidden River-Loop Snare,Noxious Ballbind,F1,Demigod L7 Low,B
+MV-ADV-KUS-007-12,Basin Rim Reaping Circle,Mayhemkusari,F5,Demigod L7 Low,B
+MV-ADV-KUS-008-01,Oath-Post Stance,Aegis Tangknob,F2,Champion L5 Low,B
+MV-ADV-KUS-008-02,Windward Reaping Cut,Iron Snare,F2,Champion L5 Low,B
+MV-ADV-KUS-008-03,Plateau Edge Weight Cast,Novasickle,F5,Champion L5 Low,B
+MV-ADV-KUS-008-04,Gust Slip Step,Granite Chainloop,F2,Champion L5 Low,B
+MV-ADV-KUS-008-05,Sworn-Line Chain Bind,Manacling Chainkey,F1,Champion L5 Low,B
+MV-ADV-KUS-008-06,Bearing-Held Return Pull,Mayhem Tangle,F2,Champion L5 Low,B
+MV-ADV-KUS-008-07,Long Chain Gale Cast,Gust Entwine,F2,Champion L5 Low,B
+MV-ADV-KUS-008-08,Open-Ground Reaping Wheel,Siltkama,F5,Champion L5 Low,B
+MV-ADV-KUS-009-01,Edge-Walker's Stance,Immovable Sickleblade,F1,Ruler L2 Low,B
+MV-ADV-KUS-009-02,Cliff-Line Hook Cut,Might Pommelring,F2,Ruler L2 Low,B
+MV-ADV-KUS-009-03,Edge Weight Fling,Drubbing Rodhandle,F1,Ruler L2 Low,B
+MV-ADV-KUS-009-04,Rim Turn Parry,Murk Tangknob,F2,Ruler L2 Low,B
+MV-ADV-KUS-009-05,Plateau Pace Chain Step,Granite Lashcut,F2,Ruler L2 Low,B
+MV-ADV-KUS-009-06,Rim Hook Chain Haul,Ponderous Pommelring,F2,Ruler L2 Low,B
+MV-ADV-KUS-009-07,Cliff-Drop Feint,Murksickle,F5,Ruler L2 Low,B
+MV-ADV-KUS-009-08,Edge-Pin Weight Throw,Nova Sicklepull,F2,Ruler L2 Low,B
+MV-ADV-KUS-009-09,Plateau-Edge Dragging Hook,Ponderous Chainlength,F2,Ruler L2 Low,B
+MV-ADV-KUS-009-10,Sworn-Edge Chain Sequence,Sickletorment,F4,Ruler L2 Low,B
+MV-ADV-KUS-010-01,Weight-and-Hook Bearing Stance,Aegiskusari,F5,Demigod L5 Low,B
+MV-ADV-KUS-010-02,Open-Sky Weight Drop,Rumbletangle,F5,Demigod L5 Low,B
+MV-ADV-KUS-010-03,Oathline Cast,Scything Tangle,F1,Demigod L5 Low,B
+MV-ADV-KUS-010-04,Wind-Reading Chain Touch,Remnant Sickleblade,F2,Demigod L5 Low,B
+MV-ADV-KUS-010-05,Windlit Chain Wrap,Gyve Weightswing,F2,Demigod L5 Low,B
+MV-ADV-KUS-010-06,Bearing-Shift Pull,Silt Ballbind,F2,Demigod L5 Low,B
+MV-ADV-KUS-010-07,Wind-Sworn Hook Return,Harrowing Rodhandle,F1,Demigod L5 Low,B
+MV-ADV-KUS-010-08,No-Walls Reaping Spiral,Kamabarrage,F4,Demigod L5 Low,B
+MV-ADV-KUS-010-09,Held-Bearing Chain Lock,Thorn Weightball,F2,Demigod L5 Low,B

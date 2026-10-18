@@ -1,0 +1,131 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-SHD-001-01,Rebound Stance Settle,Granite Backbrace,F2,Champion L1 Low,B
+MV-ADV-SHD-001-02,Spring-Loaded Elbow Set,Annealed Edgeband,F1,Champion L1 Low,B
+MV-ADV-SHD-001-03,Returning Rim Tap,Gustcover,F5,Champion L1 Low,B
+MV-ADV-SHD-001-04,Rebound Shuffle Step,Racing Backboard,F1,Champion L1 Low,B
+MV-ADV-SHD-001-05,Blow-Weight Reading,Heartening Shieldarm,F1,Champion L1 Low,B
+MV-ADV-SHD-001-06,Sprung Face Return,Chime Strap,F2,Champion L1 Low,B
+MV-ADV-SHD-001-07,Rebound Bash through the Block,Bashbarrage,F4,Champion L1 Low,B
+MV-ADV-SHD-001-08,Counterweight Pivot,Mayhemcover,F5,Champion L1 Low,B
+MV-ADV-SHD-001-09,Full Force Return,Adamant Bossrim,F1,Champion L1 Low,B
+MV-ADV-SHD-001-10,Rebounding Board Burst,Mayhembuffet,F5,Champion L1 Low,B
+MV-ADV-SHD-002-01,Spear-Side Board Cover,Unyielding Rim,F1,Demigod L1 Low,B
+MV-ADV-SHD-002-02,Over-the-Rim Spear Poke,Harrowing Face,F1,Demigod L1 Low,B
+MV-ADV-SHD-002-03,Spear Haft Brace Step,Shovespurt,F4,Demigod L1 Low,B
+MV-ADV-SHD-002-04,Haft and Boss Pin,Ponderous Enarme,F2,Demigod L1 Low,B
+MV-ADV-SHD-002-05,Field-Covered Spear Guard,Enduring Enarme,F1,Demigod L1 Low,B
+MV-ADV-SHD-002-06,Spear Lunge behind Shield Slant,Rumbleenarme,F5,Demigod L1 Low,B
+MV-ADV-SHD-002-07,Board Sweep Spear Return,Rumble Ward,F2,Demigod L1 Low,B
+MV-ADV-SHD-002-08,Dual-Weapon Field Thrust,Glintbash,F5,Demigod L1 Low,B
+MV-ADV-SHD-002-09,Spear-and-Board Revolving Guard,Unflinching Backbrace,F1,Demigod L1 Low,B
+MV-ADV-SHD-003-01,Crushing Facing Wind-Up,Tempered Shoulderset,F2,Champion L5 Mid,B
+MV-ADV-SHD-003-02,Whole-Weight Board Lean,Steadfast Boss,F1,Champion L5 Mid,B
+MV-ADV-SHD-003-03,Charging Heel Drive,Wardleap,F4,Champion L5 Mid,B
+MV-ADV-SHD-003-04,Board Hammer to the Guard,Tempered Cover,F2,Champion L5 Mid,B
+MV-ADV-SHD-003-05,Ground-Gripping Toes,Enduring Rim,F1,Champion L5 Mid,B
+MV-ADV-SHD-003-06,Bash Recovery Shuffle,Gustboss,F5,Champion L5 Mid,B
+MV-ADV-SHD-003-07,Qi-Packed Bash,Ironward,F5,Champion L5 Mid,B
+MV-ADV-SHD-003-08,Charge-Meeting Brace Bash,Rumbleboss,F5,Champion L5 Mid,B
+MV-ADV-SHD-003-09,Facing Cascade Shove,Drubbing Shove,F1,Champion L5 Mid,B
+MV-ADV-SHD-003-10,Crushing Facing Slam,Bashassault,F4,Champion L5 Mid,B
+MV-ADV-SHD-003-11,Guard-Splitting Board Drive,Coverthrash,F4,Champion L5 Mid,B
+MV-ADV-SHD-004-01,Immovable Stance Sink,Backboard Greave,F3,Demigod L3 Mid,B
+MV-ADV-SHD-004-02,Shoulder-Locked Face Hold,Hardened Bossrim,F1,Demigod L3 Mid,B
+MV-ADV-SHD-004-03,Rooted Rim Chop,Blazeenarme,F5,Demigod L3 Mid,B
+MV-ADV-SHD-004-04,Half-Pace Hold Shift,Shoulderset Leap,F3,Demigod L3 Mid,B
+MV-ADV-SHD-004-05,Impact-Spreading Breath,Chime Edgeband,F2,Demigod L3 Mid,B
+MV-ADV-SHD-004-06,Planted Foot Anchor Check,Charter Boss,F2,Demigod L3 Mid,B
+MV-ADV-SHD-004-07,Field-Held Guard Post,Strap Plating,F3,Demigod L3 Mid,B
+MV-ADV-SHD-004-08,Stone-Footed Push Check,Resilient Face,F1,Demigod L3 Mid,B
+MV-ADV-SHD-004-09,Rooted Qi Surge Bash,Ironrim,F5,Demigod L3 Mid,B
+MV-ADV-SHD-004-10,Anchor-Line Pinning Press,Ponderous Bash,F2,Demigod L3 Mid,B
+MV-ADV-SHD-004-11,Absorbing Field Stance,Aegis Shieldarm,F2,Demigod L3 Mid,B
+MV-ADV-SHD-004-12,Mountain-Standing Counter,Annealed Bossrim,F1,Demigod L3 Mid,B
+MV-ADV-SHD-005-01,Edge Guard Raise,Shieldarm Plating,F3,Ruler L1 Low,B
+MV-ADV-SHD-005-02,Rim Catch and Twist,Facecloak,F4,Ruler L1 Low,B
+MV-ADV-SHD-005-03,Edge Cut Return,Trouncing Cover,F1,Ruler L1 Low,B
+MV-ADV-SHD-005-04,Rim-Front Slide Step,Coversprint,F4,Ruler L1 Low,B
+MV-ADV-SHD-005-05,Qi-Whetted Rim Pass,Rimtorment,F4,Ruler L1 Low,B
+MV-ADV-SHD-005-06,Edge-Catching Cross Guard,Unshaken Backbrace,F1,Ruler L1 Low,B
+MV-ADV-SHD-005-07,Edge Guard Nullifying Beat,Unshaken Charter Edgeband,F6a,Ruler L1 Low,B
+MV-ADV-SHD-005-08,Rim-and-Boss Double Cut,Iron Buffet,F2,Ruler L1 Low,B
+MV-ADV-SHD-006-01,Twin-Court Board Pairing,Boss Plating,F3,Champion L3 High,B
+MV-ADV-SHD-006-02,Paired Step in Echo,Granite Shove,F2,Champion L3 High,B
+MV-ADV-SHD-006-03,Dual-Track Rim Jab,Splitting Bash,F1,Champion L3 High,B
+MV-ADV-SHD-006-04,Partner Gap Signal,Heartening Rim,F1,Champion L3 High,B
+MV-ADV-SHD-006-05,Twin Board Cross Cover,Hardened Face,F1,Champion L3 High,B
+MV-ADV-SHD-006-06,Paired Qi Link Brace,Enarme Cloak,F3,Champion L3 High,B
+MV-ADV-SHD-006-07,Twin Rim Scissor,Rimcloak,F4,Champion L3 High,B
+MV-ADV-SHD-006-08,Dual-Track Court Sweep,Siltenarme,F5,Champion L3 High,B
+MV-ADV-SHD-006-09,Paired Shield Court Formation,Doctrine Shieldarm,F2,Champion L3 High,B
+MV-ADV-SHD-007-01,Hawk Wing Open Guard,Strap Cuirass,F3,Demigod L2 Low,B
+MV-ADV-SHD-007-02,Wing-Fold Close,Mantled Enarme,F1,Demigod L2 Low,B
+MV-ADV-SHD-007-03,Hawk-Swoop Step,Silt Ward,F2,Demigod L2 Low,B
+MV-ADV-SHD-007-04,Talon Rim Strike,Mightstrap,F5,Demigod L2 Low,B
+MV-ADV-SHD-007-05,Wing-Beat Reading,Sustaining Edgeband,F1,Demigod L2 Low,B
+MV-ADV-SHD-007-06,Hawk-Eyed Rim Gap Spotting,Backbrace Linctus,F3,Demigod L2 Low,B
+MV-ADV-SHD-007-07,Wide-Wing Cut Catch,Bossrim Cloak,F3,Demigod L2 Low,B
+MV-ADV-SHD-007-08,Wing Snap Shut Bind,Gyve Buffet,F2,Demigod L2 Low,B
+MV-ADV-SHD-007-09,Qi-Fledged Swooping Bash,Tempered Backboard,F2,Demigod L2 Low,B
+MV-ADV-SHD-007-10,Hawk Wing Spread Sweep,Slag Cover,F2,Demigod L2 Low,B
+MV-ADV-SHD-007-11,Wing-Shelter Fold,Facet Backboard,F2,Demigod L2 Low,B
+MV-ADV-SHD-008-01,River Bend Board Stance,Granite Face,F2,Ruler L1 Low,B
+MV-ADV-SHD-008-02,Stone-in-Stream Plant,Implacable Strap,F1,Ruler L1 Low,B
+MV-ADV-SHD-008-03,Current Step Aside,Might Shoulderset,F2,Ruler L1 Low,B
+MV-ADV-SHD-008-04,Eddy Rim Hook,Suppressing Shove,F1,Ruler L1 Low,B
+MV-ADV-SHD-008-05,Board-Surface Water Reading,Fortifying Backbrace,F1,Ruler L1 Low,B
+MV-ADV-SHD-008-06,Bend-Around Deflection,Steadfast Backboard,F1,Ruler L1 Low,B
+MV-ADV-SHD-008-07,Downstream Shoulder Shove,Buffet Onslaught,F3,Ruler L1 Low,B
+MV-ADV-SHD-008-08,Whirlpool Board Spin,Dominating Buffet,F1,Ruler L1 Low,B
+MV-ADV-SHD-008-09,River Return Reflection,Waning Rim,F2,Ruler L1 Low,B
+MV-ADV-SHD-008-10,Flood-Tide Press,Wrecking Cover,F1,Ruler L1 Low,B
+MV-ADV-SHD-009-01,Basin Lip Shield Stance,Unflinching Rim,F1,Demigod L5 Low,B
+MV-ADV-SHD-009-02,Basin-Side Lean Cover,Unshaken Boss,F1,Demigod L5 Low,B
+MV-ADV-SHD-009-03,Hollow-Ward Walk,Strap Jaunt,F3,Demigod L5 Low,B
+MV-ADV-SHD-009-04,Azure Lip Rim Strike,Buffetassault,F4,Demigod L5 Low,B
+MV-ADV-SHD-009-05,Centre-Calling Tap,Chime Shieldarm,F2,Demigod L5 Low,B
+MV-ADV-SHD-009-06,Basin Shoulder Brace,Hoarfrost Edgeband,F2,Demigod L5 Low,B
+MV-ADV-SHD-009-07,Gathered-Blow Funnel,Annealed Face,F1,Demigod L5 Low,B
+MV-ADV-SHD-009-08,Basin Qi Pooling,Might Bossrim,F2,Demigod L5 Low,B
+MV-ADV-SHD-009-09,Wide-Brim Cover Raise,Annealed Boss,F1,Demigod L5 Low,B
+MV-ADV-SHD-009-10,Hollow Nullifying Press,Steadfast Enarme,F1,Demigod L5 Low,B
+MV-ADV-SHD-009-11,Azure Basin Ward Formation,Noxious Shieldarm,F1,Demigod L5 Low,B
+MV-ADV-SHD-009-12,Basin Overflow Release,Slagrim,F5,Demigod L5 Low,B
+MV-ADV-SHD-010-01,Windward Board Facing Stance,Backbrace Cloak,F3,Champion L2 Mid,B
+MV-ADV-SHD-010-02,Sworn Board Hold,Boss Cuirass,F3,Champion L2 Mid,B
+MV-ADV-SHD-010-03,Gust Step Forward,Coverpounce,F4,Champion L2 Mid,B
+MV-ADV-SHD-010-04,Fixed-Mark Bearing Glance,Chime Bossrim,F2,Champion L2 Mid,B
+MV-ADV-SHD-010-05,Wind-Cut Deflection,Chime Backboard,F2,Champion L2 Mid,B
+MV-ADV-SHD-010-06,Sworn Shove,Buffetthrash,F4,Champion L2 Mid,B
+MV-ADV-SHD-010-07,Gale-Break Brace,Steadfast Edgeband,F1,Champion L2 Mid,B
+MV-ADV-SHD-010-08,Wind-Return Bash,Immovable Strap,F1,Champion L2 Mid,B
+MV-ADV-SHD-011-01,Oath Line Plant,Hoarfrost Enarme,F2,Demigod L1 Mid,B
+MV-ADV-SHD-011-02,Oath-Held Forearm Lock,Rim Greave,F3,Demigod L1 Mid,B
+MV-ADV-SHD-011-03,Plateau-Lip Shield Pace,Hastening Bash,F1,Demigod L1 Mid,B
+MV-ADV-SHD-011-04,Sworn Rim Rap,Coverbarrage,F4,Demigod L1 Mid,B
+MV-ADV-SHD-011-05,Fellow Bearer Call,Rousing Boss,F1,Demigod L1 Mid,B
+MV-ADV-SHD-011-06,Wind-Oath Field Spread,Aegis Backbrace,F2,Demigod L1 Mid,B
+MV-ADV-SHD-011-07,Oath Brace against the Charge,Unbroken Shieldarm,F1,Demigod L1 Mid,B
+MV-ADV-SHD-011-08,Standing Counter-Heave,Facetorment,F4,Demigod L1 Mid,B
+MV-ADV-SHD-011-09,Oathbreaker Rim Hook,Mayhem Bash,F2,Demigod L1 Mid,B
+MV-ADV-SHD-011-10,Unbroken Line Field,Unflinching Enarme,F1,Demigod L1 Mid,B
+MV-ADV-SHD-011-11,Sworn Line Surge,Ravaging Bash Torment,F6b,Demigod L1 Mid,B
+MV-ADV-SHD-012-01,Open-Ground Guard Set,Unbroken Bossrim,F1,Champion L8 Low,B
+MV-ADV-SHD-012-02,Plateau Wind Lean,Steadfast Strap,F1,Champion L8 Low,B
+MV-ADV-SHD-012-03,Bare-Ground Sidestep,Siltbash,F5,Champion L8 Low,B
+MV-ADV-SHD-012-04,Horizon Reading over the Rim,Mindful Rim,F1,Champion L8 Low,B
+MV-ADV-SHD-012-05,Rim Chop on Open Ground,Wardthrash,F4,Champion L8 Low,B
+MV-ADV-SHD-012-06,Rider-Turning Slant,Equipoise Face,F2,Champion L8 Low,B
+MV-ADV-SHD-012-07,Plateau Bearing Anchor,Hoarfrost Backboard,F2,Champion L8 Low,B
+MV-ADV-SHD-012-08,Dust-Cloud Cover Step,Staggering Shoulderset,F1,Champion L8 Low,B
+MV-ADV-SHD-012-09,Open Plateau Board Sweep,Mayhem Shoulderset,F2,Champion L8 Low,B
+MV-ADV-SHD-012-10,Lone Bearer Stand,Implacable Face,F1,Champion L8 Low,B
+MV-ADV-SHD-013-01,Gale-Turning Posture,Enduring Edgeband,F1,Demigod L4 Low,B
+MV-ADV-SHD-013-02,Ahead-of-the-Blow Step,Bounding Shoulderset,F1,Demigod L4 Low,B
+MV-ADV-SHD-013-03,Quick Gale Rim Flick,Bashthrash,F4,Demigod L4 Low,B
+MV-ADV-SHD-013-04,Board-Turning Breath,Rim Tincture,F3,Demigod L4 Low,B
+MV-ADV-SHD-013-05,Whirlwind Board Wheel,Resilient Backboard,F1,Demigod L4 Low,B
+MV-ADV-SHD-013-06,Gust-Led Counter Shove,Rimassault,F4,Demigod L4 Low,B
+MV-ADV-SHD-013-07,Wind-Scattering Disruption,Toxinstrap,F5,Demigod L4 Low,B
+MV-ADV-SHD-013-08,Gale-Turn Nullifying Spin,Annealed Backbrace,F1,Demigod L4 Low,B
+MV-ADV-SHD-013-09,Storm-Return Reflection,Glint Strap,F2,Demigod L4 Low,B

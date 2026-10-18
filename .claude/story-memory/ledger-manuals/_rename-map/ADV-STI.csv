@@ -1,0 +1,100 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-STI-001-01,Needle Qi Settling,Reedelixir,F4,Champion,B
+MV-ADV-STI-001-02,Hair-Line Thrust,Needlerod Assault,F3,Champion,B
+MV-ADV-STI-001-03,Offset Ward Step,Whipping Waxgrip,F1,Champion,B
+MV-ADV-STI-001-04,Flat Slap Turn,Mantled Tinyquill,F1,Champion,B
+MV-ADV-STI-001-05,Held Breath Spear Burst,Glint Darn,F2,Champion,B
+MV-ADV-STI-001-06,Layered Pierce Pair,Rodtip Maelstrom,F3,Champion,B
+MV-ADV-STI-001-07,Thin Qi Sleeve Ward,Awlgreave,F4,Champion,B
+MV-ADV-STI-001-08,Shield Rim Threading Thrust,Glint Probe,F2,Champion,B
+MV-ADV-STI-001-09,Rain of Threaded Pricks,Rodbase Assault,F3,Champion,B
+MV-ADV-STI-002-01,Reach Gap Reading,Slimshaft Linctus,F3,Demigod,B
+MV-ADV-STI-002-02,Long Weapon Slip-In,Pinpounce,F4,Demigod,B
+MV-ADV-STI-002-03,Haft Side Prick,Tempered Stitch,F2,Demigod,B
+MV-ADV-STI-002-04,Heavy Blow Sidestep,Hastening Hairpoint,F1,Demigod,B
+MV-ADV-STI-002-05,Stiletto Flat Redirect,Awlcloak,F4,Demigod,B
+MV-ADV-STI-002-06,Haft Walk Thrust,Awlbarrage,F4,Demigod,B
+MV-ADV-STI-002-07,Heavy Cut Hollow Dodge,Surging Pin,F1,Demigod,B
+MV-ADV-STI-002-08,Haft Underside Wrist Bind,Quelling Seam,F1,Demigod,B
+MV-ADV-STI-002-09,Weapon Arm Threading,Iron Waxgrip,F2,Demigod,B
+MV-ADV-STI-002-10,Reach Breaking Entry,Careening Thread,F1,Demigod,B
+MV-ADV-STI-003-01,Low Beam Duck Step,Vaulting Needlerod,F1,Champion,B
+MV-ADV-STI-003-02,Table Edge Cover,Reedplating,F4,Champion,B
+MV-ADV-STI-003-03,Tight Quarters Short Stab,Novareed,F5,Champion,B
+MV-ADV-STI-003-04,Shoulder Brush Pass,Pinsprint,F4,Champion,B
+MV-ADV-STI-003-05,Crowd Gap Thread,Rodtip Canter,F3,Champion,B
+MV-ADV-STI-003-06,Post Pinned Coat Stab,Darngreave,F4,Champion,B
+MV-ADV-STI-003-07,Shoulder Prick Clearing,Shade Hairpoint,F2,Champion,B
+MV-ADV-STI-003-08,Dark Room Touch Retreat,Spikeguard Remedy,F3,Champion,B
+MV-ADV-STI-004-01,Thread Gaze Fix,Chime Triprism,F2,Demigod,B
+MV-ADV-STI-004-02,Cloth Seam Thrust,Probeassault,F4,Demigod,B
+MV-ADV-STI-004-03,Belt Line Prick,Harrowing Boltpoint,F1,Demigod,B
+MV-ADV-STI-004-04,Wrist Pull Under Guard,Hoarfrost Thread,F2,Demigod,B
+MV-ADV-STI-004-05,Swift Lateral Slide,Torrent Darn,F2,Demigod,B
+MV-ADV-STI-004-06,Eye Level Warding Point,Charter Spikeguard,F2,Demigod,B
+MV-ADV-STI-004-07,Threaded Chest Run,Nova Triprism,F2,Demigod,B
+MV-ADV-STI-004-08,Two Line Crossing Thrust,Nova Probe,F2,Demigod,B
+MV-ADV-STI-004-09,Fixed Point Standing Guard,Implacable Tinyquill,F1,Demigod,B
+MV-ADV-STI-004-10,Straight Line Qi Thread,Glint Stitch,F2,Demigod,B
+MV-ADV-STI-004-11,Stitching Prick Rhythm,Hourreed,F5,Demigod,B
+MV-ADV-STI-005-01,Twin Track Stance Set,Charter Rodbase,F2,Champion,B
+MV-ADV-STI-005-02,Paired Prick Opening,Ironstitch,F5,Champion,B
+MV-ADV-STI-005-03,River Bend Needle Sidestep,Blurring Boltpoint,F1,Champion,B
+MV-ADV-STI-005-04,Basin Low Needle Guard,Spikeguard Greave,F3,Champion,B
+MV-ADV-STI-005-05,Second Track Wrist Tap,Stitchhauberk,F4,Champion,B
+MV-ADV-STI-005-06,Paired Breath Reset,Slimshaft Tincture,F3,Champion,B
+MV-ADV-STI-005-07,Two-Track Needle Thrust,Slimshaft Assault,F3,Champion,B
+MV-ADV-STI-005-08,Azure Cross Parry,Chime Needlerod,F2,Champion,B
+MV-ADV-STI-005-09,River Current Slip,Granite Rodbase,F2,Champion,B
+MV-ADV-STI-005-10,Basin Fill Pressure,Ponderous Probe,F2,Champion,B
+MV-ADV-STI-005-11,Dual Track Needle Weave,Pin Onslaught,F3,Champion,B
+MV-ADV-STI-005-12,Twin Court Double Pierce,Thread Torment,F3,Champion,B
+MV-ADV-STI-006-01,Hawk Perch Needle Stance,Reedcloak,F4,Demigod,B
+MV-ADV-STI-006-02,Hawk Eye Needle Fixing,Verity Rodtip,F2,Demigod,B
+MV-ADV-STI-006-03,Dive Line Thrust,Stitch Barrage,F3,Demigod,B
+MV-ADV-STI-006-04,Updraft Step Away,Torrent Triprism,F2,Demigod,B
+MV-ADV-STI-006-05,High Stoop Strike,Glint Waxgrip,F2,Demigod,B
+MV-ADV-STI-006-06,Talon Hook Pin,Compressing Hairpoint,F1,Demigod,B
+MV-ADV-STI-006-07,Azure Gap Dart,Splitting Tinyquill,F1,Demigod,B
+MV-ADV-STI-006-08,Falling Hawk Needle,Hollow Darn,F2,Demigod,B
+MV-ADV-STI-006-09,Hawk Circle Rebound,Racing Seam,F1,Demigod,B
+MV-ADV-STI-007-01,Court Bow Opening Guard,Charter Needlerod,F2,Ruler,B
+MV-ADV-STI-007-02,Twin Edge Feint,Glamour Seam,F2,Ruler,B
+MV-ADV-STI-007-03,Left Right Prick Pair,Glint Pin,F2,Ruler,B
+MV-ADV-STI-007-04,Azure Draw Step,Granite Boltpoint,F2,Ruler,B
+MV-ADV-STI-007-05,Basin Water Level Hold,Adamant Triprism,F1,Ruler,B
+MV-ADV-STI-007-06,Court Pair Counter,Chime Spikeguard,F2,Ruler,B
+MV-ADV-STI-007-07,Twin Sleeve Bind,Thorn Darn,F2,Ruler,B
+MV-ADV-STI-007-08,River Current Thrust,Facetrodtip,F5,Ruler,B
+MV-ADV-STI-007-09,Matched Shoulder Pierce,Needling Rodtip,F1,Ruler,B
+MV-ADV-STI-007-10,Twin Court Closing Step,Bounding Might Pin,F6a,Ruler,B
+MV-ADV-STI-008-01,Needle Bearing Take Stance,Charter Waxgrip,F2,Demigod,B
+MV-ADV-STI-008-02,Crosswind Thrust,Stitchtorment,F4,Demigod,B
+MV-ADV-STI-008-03,Lee Side Needle Step,Vaulting Tinyquill,F1,Demigod,B
+MV-ADV-STI-008-04,Oath Hand Steady Grip,Might Hairpoint,F2,Demigod,B
+MV-ADV-STI-008-05,Wind-Sworn Thread Pierce,Raging Stitch,F1,Demigod,B
+MV-ADV-STI-008-06,Bearing Hold Needle Parry,Chimerodtip,F5,Demigod,B
+MV-ADV-STI-008-07,Gale Line Pierce,Novarodtip,F5,Demigod,B
+MV-ADV-STI-008-08,Open Ground Angled Retreat,Torrent Rodbase,F2,Demigod,B
+MV-ADV-STI-009-01,Open Ground Side Stance,Boltpoint Plating,F3,Champion,B
+MV-ADV-STI-009-02,Plateau Wind Needle Reading,Discerning Boltpoint,F1,Champion,B
+MV-ADV-STI-009-03,Long Stride Prick,Darntorment,F4,Champion,B
+MV-ADV-STI-009-04,Dust Kick Feint,Murk Slimshaft,F2,Champion,B
+MV-ADV-STI-009-05,Edge Walking Step,Probe Spurt,F3,Champion,B
+MV-ADV-STI-009-06,Low Brush Guard,Thorn Spikeguard,F2,Champion,B
+MV-ADV-STI-009-07,Windward Closing Thrust,Stitchthrash,F4,Champion,B
+MV-ADV-STI-009-08,Leeward Slip Away,Silt Triprism,F2,Champion,B
+MV-ADV-STI-009-09,Grass Tangle Ankle Hook,Gyveprobe,F5,Champion,B
+MV-ADV-STI-009-10,Plateau Gust Rush,Thread Onslaught,F3,Champion,B
+MV-ADV-STI-009-11,Horizon Turn Pierce,Rumble Rodtip,F2,Champion,B
+MV-ADV-STI-010-01,Bearing Hold Line,Needlerod Remedy,F3,Demigod,B
+MV-ADV-STI-010-02,Gale Poke,Rumble Tinyquill,F2,Demigod,B
+MV-ADV-STI-010-03,Oath Breath Needle Steadying,Vital Waxgrip,F2,Demigod,B
+MV-ADV-STI-010-04,Backwind Step,Silt Slimshaft,F2,Demigod,B
+MV-ADV-STI-010-05,Fine Point Flat Guard,Reedgreave,F4,Demigod,B
+MV-ADV-STI-010-06,Needle Bearing Taken Thrust,Probethrash,F4,Demigod,B
+MV-ADV-STI-010-07,Wind Shift Beat Aside,Rodtipcloak,F4,Demigod,B
+MV-ADV-STI-010-08,Gale Tether Pin,Thorn Hairpoint,F2,Demigod,B
+MV-ADV-STI-010-09,Held Bearing Needle Pierce,Rumble Seam,F2,Demigod,B
+MV-ADV-STI-010-10,Gust Barrage of Pricks,Intent Seam,F2,Demigod,B
+MV-ADV-STI-006-08,Hollow Darn,Keen Darn,F2,Demigod,B

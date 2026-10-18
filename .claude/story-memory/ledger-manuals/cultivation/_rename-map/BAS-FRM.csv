@@ -1,0 +1,5 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-BAS-FRM-001-02,Plain Line,Glow Tether,CHANNELED,T1 Unawakened,Basic
+CMV-BAS-FRM-004-04,Pull Line,Cord Haul,INSTANT,T1 Unawakened,Basic
+CMV-BAS-FRM-006-05,Lock Line,Sleeve Lock,INSTANT,T1 Unawakened,Basic
+CMV-BAS-FRM-002-06,Ground Tap,Heel Tap,INSTANT,,Basic

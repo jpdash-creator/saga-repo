@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-TRB-001-01,Box Ballast Loading,Alert Pullrope,F1,Senior L6 Low,A
+MV-INT-TRB-001-02,Weight Settling Tap,Rallying Longarm,F1,Senior L6 Low,A
+MV-INT-TRB-001-03,Box Hanger Pin Keying,Quickening Releasehook,F1,Senior L6 Low,A
+MV-INT-TRB-001-04,Long Arm Down Winding,Cooling Slingpouch,F1,Senior L6 Low,A
+MV-INT-TRB-001-05,Pin Hook Rise Alignment,Pulleycordial,F4,Senior L6 Low,A
+MV-INT-TRB-001-06,Falling Box Wide Step,Tackleglide,F4,Senior L6 Low,A
+MV-INT-TRB-001-07,Dropped Weight Release,Rough Fulcrum,F1,Senior L6 Low,A
+MV-INT-TRB-001-08,Overswing Arrest Shove,Sure Tackle,F1,Senior L6 Low,A
+MV-INT-TRB-002-01,Hinge Pin Greasing,Tacklebandage,F4,Senior L9 Low,A
+MV-INT-TRB-002-02,Hanging Box Plumb Check,Tacklecordial,F4,Senior L9 Low,A
+MV-INT-TRB-002-03,Free Swing Breath Count,Sure Ballast,F1,Senior L9 Low,A
+MV-INT-TRB-002-04,Hinge Side Low Guard,Stalwart Hangcradle,F1,Senior L9 Low,A
+MV-INT-TRB-002-05,Stuck Key Knock-Out,Rude Letgo,F1,Senior L9 Low,A
+MV-INT-TRB-002-06,Hinge Lag Throw,Heaveoff Slap,F3,Senior L9 Low,A
+MV-INT-TRB-002-07,Whipped Pin Turn-Aside,Armbuckle,F4,Senior L9 Low,A
+MV-INT-TRB-003-01,Whip Throw Low Posture,Sprout Hangcradle,F2,Warrior L2 Low,B
+MV-INT-TRB-003-02,Sling Cord Spiral Coil,Dawn Rigging,F2,Warrior L2 Low,B
+MV-INT-TRB-003-03,Arm Tip Shot Rest,Ballast Cordial,F3,Warrior L2 Low,B
+MV-INT-TRB-003-04,Qi Strung Wrist Roll,Brawnpulley,F5,Warrior L2 Low,B
+MV-INT-TRB-003-05,Arc Peak Eye Fix,Humpulley,F5,Warrior L2 Low,B
+MV-INT-TRB-003-06,Cord Crack Hearing,Genial Pullrope,F1,Warrior L2 Low,B
+MV-INT-TRB-003-07,Arm Dust Cloud Step,Fleet Swing,F1,Warrior L2 Low,B
+MV-INT-TRB-003-08,Cord Crack Hurl,Shardswing,F5,Warrior L2 Low,B
+MV-INT-TRB-003-09,Overlip Whip Lob,Cruel Whiplash,F1,Warrior L2 Low,B
+MV-INT-TRB-003-10,Backlash Cord Flick,Poise Fulcrum,F2,Warrior L2 Low,B
+MV-INT-TRB-004-01,Pin Hook Short Filing,Sure Shortarm,F1,Senior L7 Mid,A
+MV-INT-TRB-004-02,Flat Flight Trough Sighting,Pulleylinen,F4,Senior L7 Mid,A
+MV-INT-TRB-004-03,Crew Crouch Behind Frame,Stubborn Rigging,F1,Senior L7 Mid,A
+MV-INT-TRB-004-04,Short Hook Downward Tug,Grim Shortarm,F1,Senior L7 Mid,A
+MV-INT-TRB-004-05,Ground Skip Hurl,Keen Slingpouch,F1,Senior L7 Mid,A
+MV-INT-TRB-004-06,Sweeping Arm Low Shuffle,Tackle Swerve,F3,Senior L7 Mid,A
+MV-INT-TRB-005-01,Strength Ranked Rope Line,Sprout Longarm,F2,Warrior L1 Mid,B
+MV-INT-TRB-005-02,Shared Breath Back Lean,Tenderhearted Tackle,F1,Warrior L1 Mid,B
+MV-INT-TRB-005-03,Beam Butt Creak Judging,Tacklelinen,F4,Warrior L1 Mid,B
+MV-INT-TRB-005-04,Heel Trench Raking,Sprout Releasehook,F2,Warrior L1 Mid,B
+MV-INT-TRB-005-05,Descent Beat Counting,Lunar Slingpouch,F2,Warrior L1 Mid,B
+MV-INT-TRB-005-06,Wet Cloth Palm Wrap,Buttressed Longarm,F1,Warrior L1 Mid,B
+MV-INT-TRB-005-07,Rope Surge Release,Rushing Swing,F1,Warrior L1 Mid,B
+MV-INT-TRB-005-08,Mid-Haul Jerk Hold,Kindly Rigging,F1,Warrior L1 Mid,B
+MV-INT-TRB-005-09,Peeled Rope End Departure,Letgocurl,F4,Warrior L1 Mid,B
+MV-INT-TRB-006-01,Slope Sill Terracing,Rallying Fulcrum,F1,Warrior L3 Low,B
+MV-INT-TRB-006-02,Mud Plank Bedding,Sproutpulley,F5,Warrior L3 Low,B
+MV-INT-TRB-006-03,Downhill Chock Setting,Poisepulley,F5,Warrior L3 Low,B
+MV-INT-TRB-006-04,Ground Give Feeling,Kindly Pullrope,F1,Warrior L3 Low,B
+MV-INT-TRB-006-05,Sand Scatter Footing,Brawn Releasehook,F2,Warrior L3 Low,B
+MV-INT-TRB-006-06,Plumb Weight Drift Reading,Soothing Shortarm,F1,Warrior L3 Low,B
+MV-INT-TRB-006-07,Grade Compensated Throw,Sleetswing,F5,Warrior L3 Low,B
+MV-INT-TRB-006-08,Sinking Sill Timber Spike,Clayarm,F5,Warrior L3 Low,B
+MV-INT-TRB-007-01,Frame Cloth Wind Watching,Gaptackle,F5,Warrior L4 Mid,B
+MV-INT-TRB-007-02,Wind Offset Peg Line,Candorpulley,F5,Warrior L4 Mid,B
+MV-INT-TRB-007-03,Dew Cable Stretch Feel,Hum Ballast,F2,Warrior L4 Mid,B
+MV-INT-TRB-007-04,Waxed Sheet Winch Cover,Brawn Fulcrum,F2,Warrior L4 Mid,B
+MV-INT-TRB-007-05,Gust Pause Hold,Sure Releasehook,F1,Warrior L4 Mid,B
+MV-INT-TRB-007-06,Upwind Offset Throw,Sleet Whiplash,F2,Warrior L4 Mid,B
+MV-INT-TRB-007-07,Wrung Cable Winding,Pulleytonic,F4,Warrior L4 Mid,B
+MV-INT-TRB-008-01,River Pebble Sack Filling,Hearty Hangcradle,F1,Warrior L5 Low,B
+MV-INT-TRB-008-02,Flat Bed Pouch Packing,Knitting Hangcradle,F1,Warrior L5 Low,B
+MV-INT-TRB-008-03,Small Stone Weight Sorting,Recall Longarm,F2,Warrior L5 Low,B
+MV-INT-TRB-008-04,Double Load Cord Test,Hum Pullrope,F2,Warrior L5 Low,B
+MV-INT-TRB-008-05,Waxed Thread Pouch Stitching,Brawnarm,F5,Warrior L5 Low,B
+MV-INT-TRB-008-06,Slip Cord Mouth Tying,Hearty Tackle,F1,Warrior L5 Low,B
+MV-INT-TRB-008-07,Scatter Shot Lob,Rubble Counterswing,F2,Warrior L5 Low,B
+MV-INT-TRB-008-08,Gravel Hail Raking Throw,Weighty Overthrow,F2,Warrior L5 Low,B
+MV-INT-TRB-008-09,Split Pouch Crouch,Brass Shortarm,F2,Warrior L5 Low,B

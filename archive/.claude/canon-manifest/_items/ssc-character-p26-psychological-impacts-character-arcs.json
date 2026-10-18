@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-character-p26-psychological-impacts-character-arcs",
+ "part": 26,
+ "area": 14,
+ "sequence_in_part": 14,
+ "title": "Psychological Impacts on Character Arcs",
+ "domain": "character",
+ "source_file": "Part_26_Character_Psychological_Law.md",
+ "start_line": 722,
+ "end_line": 767,
+ "line_count": 46,
+ "output_path": ".claude/skills/ssc-character-p26-psychological-impacts-character-arcs/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-cultivation-p05-foundational-principles-governing-mandate",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Pre-combat psych state modifiers sourced from Part 26 PIS-state"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-governance-areas-overview",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Pre-combat psych state modifiers sourced from Part 26 PIS-state"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-immutable-principles",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Pre-combat psych state modifiers sourced from Part 26 PIS-state"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-combat-initiation-legitimacy",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Pre-combat psych state modifiers sourced from Part 26 PIS-state"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-escalation-tier-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Pre-combat psych state modifiers sourced from Part 26 PIS-state"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-engagement-recognition-mutuality-law",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Pre-combat psych state modifiers sourced from Part 26 PIS-state"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-intensity-containment-boundaries",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Pre-combat psych state modifiers sourced from Part 26 PIS-state"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-third-party-proxy-combat-rules",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Pre-combat psych state modifiers sourced from Part 26 PIS-state"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-battlefield-spatial-cosmological-constraints",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Pre-combat psych state modifiers sourced from Part 26 PIS-state"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-multi-faction-chaos-stabilization",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Pre-combat psych state modifiers sourced from Part 26 PIS-state"
+  }
+ ]
+}

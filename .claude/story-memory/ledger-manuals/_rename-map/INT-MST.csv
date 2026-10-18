@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-MST-001-01,Spike Haft Opening Cut,Burrflog,F4,Senior L3 Low,A
+MV-INT-MST-001-02,Haft Knock Aside,Rooted Shaftcollar,F1,Senior L3 Low,A
+MV-INT-MST-001-03,Stud Drag Step,Ballglide,F4,Senior L3 Low,A
+MV-INT-MST-001-04,Orb Flank Swing,Pummelslap,F4,Senior L3 Low,A
+MV-INT-MST-001-05,Qi Weighted Spike Drop,Pummelflog,F4,Senior L3 Low,A
+MV-INT-MST-001-06,Spike Hook and Haft Roll,Clutching Topspike,F1,Senior L3 Low,A
+MV-INT-MST-002-01,Burr Head Arc Cut,Crunchslap,F4,Senior L5 Mid,A
+MV-INT-MST-002-02,Burr Haft Block,Sturdy Spikering,F1,Senior L5 Mid,A
+MV-INT-MST-002-03,Short Burr Jab,Cruel Thornbite,F1,Senior L5 Mid,A
+MV-INT-MST-002-04,Burr Side Slide,Burrzip,F4,Senior L5 Mid,A
+MV-INT-MST-002-05,Return Burr Swing,Maulthwack,F4,Senior L5 Mid,A
+MV-INT-MST-002-06,Qi Through the Bristles,Maulswat,F4,Senior L5 Mid,A
+MV-INT-MST-002-07,Guard Burr Catch,Guarding Headspike,F1,Senior L5 Mid,A
+MV-INT-MST-003-01,Breath Anvil Drop,Ballscorer,F4,Senior L8 Low,A
+MV-INT-MST-003-02,Spike Weave Parry,Padded Prickball,F1,Senior L8 Low,A
+MV-INT-MST-003-03,Heel Roll Advance,Thistleswerve,F4,Senior L8 Low,A
+MV-INT-MST-003-04,Rib Spike Knock,Rough Studball,F1,Senior L8 Low,A
+MV-INT-MST-003-05,Shaft Whip Recovery,Dense Ballsocket,F1,Senior L8 Low,A
+MV-INT-MST-003-06,Crown Cracker,Thistleflog,F4,Senior L8 Low,A
+MV-INT-MST-003-07,Breath Weight Hammer,Crunchscorer,F4,Senior L8 Low,A
+MV-INT-MST-003-08,Winded Foe Pin,Gagging Thornball,F1,Senior L8 Low,A
+MV-INT-MST-004-01,Thorn Arc Overhand,Wild Topspike,F1,Warrior L1 Low,B
+MV-INT-MST-004-02,Thorn Arc Backhand,Dire Spikebase,F1,Warrior L1 Low,B
+MV-INT-MST-004-03,Haft Plant Brace,Stalwart Shaftcollar,F1,Warrior L1 Low,B
+MV-INT-MST-004-04,Crushing Foot Shuffle,Veering Crunch,F1,Warrior L1 Low,B
+MV-INT-MST-004-05,Collar Thorn Pull,Lassoing Spikering,F1,Warrior L1 Low,B
+MV-INT-MST-004-06,Shaft Cap Thump,Ballswat,F4,Warrior L1 Low,B
+MV-INT-MST-004-07,Crush Line Descent,Crunchswat,F4,Warrior L1 Low,B
+MV-INT-MST-004-08,Thorn Sweep Through Legs,Cinder Studcrush,F2,Warrior L1 Low,B
+MV-INT-MST-004-09,Arc Return Guard,Layered Spikebase,F1,Warrior L1 Low,B
+MV-INT-MST-005-01,Bristle Drop Drill,Rude Headspike,F1,Warrior L3 Mid,B
+MV-INT-MST-005-02,Bristle Cross Cut,Burrthwack,F4,Warrior L3 Mid,B
+MV-INT-MST-005-03,Orb Catch Block,Resolute Prickball,F1,Warrior L3 Mid,B
+MV-INT-MST-005-04,Orb Skip Step,Springing Spikedrop,F1,Warrior L3 Mid,B
+MV-INT-MST-005-05,Pressed Stud Lunge,Shard Thornbite,F2,Warrior L3 Mid,B
+MV-INT-MST-005-06,Haft Rise Parry,Buttressed Ballsocket,F1,Warrior L3 Mid,B
+MV-INT-MST-005-07,Orb Spin Recovery,Burrslap,F4,Warrior L3 Mid,B
+MV-INT-MST-005-08,Qi Flare Bristle Strike,Ember Maul,F2,Warrior L3 Mid,B
+MV-INT-MST-005-09,Footwork Orb Chain,Braided Pummel,F1,Warrior L3 Mid,B
+MV-INT-MST-005-10,Spike Bite Anchor,Binding Spikeball,F1,Warrior L3 Mid,B
+MV-INT-MST-006-01,Barb Head Placement,Doughty Thornball,F1,Senior L6 High,A
+MV-INT-MST-006-02,Barb Brake Halt,Armored Topspike,F1,Senior L6 High,A
+MV-INT-MST-006-03,Barb Line Walk,Ballhurdle,F4,Senior L6 High,A
+MV-INT-MST-006-04,Barb Wrist Flick,Ballslap,F4,Senior L6 High,A
+MV-INT-MST-006-05,Barb Recovery Loop,Stubborn Spikebase,F1,Senior L6 High,A
+MV-INT-MST-006-06,Thread Guided Landing,Acrid Prickball,F1,Senior L6 High,A
+MV-INT-MST-006-07,Barb Brake and Reverse,Entangling Headspike,F1,Senior L6 High,A
+MV-INT-MST-007-01,Fulcrum Hand Cut,Harsh Studball,F1,Warrior L5 Low,B
+MV-INT-MST-007-02,Lever Shaft Block,Rigid Shaftcollar,F1,Warrior L5 Low,B
+MV-INT-MST-007-03,Haft Rock Step,Slinking Maul,F1,Warrior L5 Low,B
+MV-INT-MST-007-04,Spike Pry,Levering Topspike,F1,Warrior L5 Low,B
+MV-INT-MST-007-05,Low Lever Thump,Thistlethwack,F4,Warrior L5 Low,B
+MV-INT-MST-007-06,Shoulder Lever Return,Unmoving Ballsocket,F1,Warrior L5 Low,B
+MV-INT-MST-007-07,Armor Bite Press,Brass Spikering,F2,Warrior L5 Low,B
+MV-INT-MST-007-08,Held Spike Wrench,Tethering Thornbite,F1,Warrior L5 Low,B
+MV-INT-MST-008-01,Round Opening Drop,Savage Prickball,F1,Warrior L8 Mid,B
+MV-INT-MST-008-02,Round Haft Shield,Sturdy Headspike,F1,Warrior L8 Mid,B
+MV-INT-MST-008-03,Round Pace Shift,Prowling Crunch,F1,Warrior L8 Mid,B
+MV-INT-MST-008-04,Round Spike Pass,Maulflog,F4,Warrior L8 Mid,B
+MV-INT-MST-008-05,Round Closing Rap,Pummelthwack,F4,Warrior L8 Mid,B
+MV-INT-MST-008-06,Round Counter Cover,Rooted Spikebase,F1,Warrior L8 Mid,B
+MV-INT-MST-008-07,Renewed Turn Strike,Brawn Spikeball,F2,Warrior L8 Mid,B
+MV-INT-MST-008-08,Turning Spike Wheel,Grit Thornball,F2,Warrior L8 Mid,B
+MV-INT-MST-008-09,Wheel Stop Hook,Stalling Headspike,F1,Warrior L8 Mid,B

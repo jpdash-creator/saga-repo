@@ -1,0 +1,103 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-FLA-001-01,Iron-Banded Head Overswing,Threshbarrage,F4,Champion,B
+MV-ADV-FLA-001-02,Plated Shoulder Hammering,Rebound Onslaught,F3,Champion,B
+MV-ADV-FLA-001-03,Cuirass Rib-Shock Swing,Rumble Thresh,F2,Champion,B
+MV-ADV-FLA-001-04,Iron-Shod Haft Axe Stop,Swivelplating,F4,Champion,B
+MV-ADV-FLA-001-05,Armored Advance Footfall,Hingecap Pounce,F3,Champion,B
+MV-ADV-FLA-001-06,Helm-Side Rattle Strike,Gimbalbarrage,F4,Champion,B
+MV-ADV-FLA-001-07,Gauntlet Pinch Crush,Rumbleswivel,F5,Champion,B
+MV-ADV-FLA-001-08,Plate-Edge Spike Haul,Wheelplating,F4,Champion,B
+MV-ADV-FLA-001-09,Qi-Weighted Plate-Joint Fall,Rumble Headball,F2,Champion,B
+MV-ADV-FLA-001-10,Breastplate-Cracking Wide Swing,Grinding Sanguine Handstaff,F6a,Champion,B
+MV-ADV-FLA-002-01,Qi-Thread Chain Draw,Grinding Wheel,F1,Demigod,B
+MV-ADV-FLA-002-02,Field-Steadied Haft Stance,Gimbalplating,F4,Demigod,B
+MV-ADV-FLA-002-03,Qi-Quickened Short Step,Hastening Spikehead,F1,Demigod,B
+MV-ADV-FLA-002-04,Chain-Felt Touch Sensing,Chainlink Linctus,F3,Demigod,B
+MV-ADV-FLA-002-05,Field-Fed Orbit Strike,Skinning Lashout,F1,Demigod,B
+MV-ADV-FLA-002-06,Qi Chain Crack,Irongimbal,F5,Demigod,B
+MV-ADV-FLA-002-07,Qi-Packed Haft Parry,Steadfast Flailhead,F1,Demigod,B
+MV-ADV-FLA-002-08,Surge-Held Release Fall,Blaze Looping,F2,Demigod,B
+MV-ADV-FLA-002-09,Field-Tethered Head Recall,Swivel Onslaught,F3,Demigod,B
+MV-ADV-FLA-003-01,Chain-Over-Blade Cast,Hoarfrost Linkband,F2,Champion,B
+MV-ADV-FLA-003-02,Spike Strap Snag,Gyveflail,F5,Champion,B
+MV-ADV-FLA-003-03,Half-Turn Tightening Twist,Toxin Thresh,F2,Champion,B
+MV-ADV-FLA-003-04,Shake-Free Under Pressure,Chime Chainring,F2,Champion,B
+MV-ADV-FLA-003-05,Snared-Blade Cross Step,Silt Swingarm,F2,Champion,B
+MV-ADV-FLA-003-06,Bound Weapon Resistance Feel,Swivel Linctus,F3,Champion,B
+MV-ADV-FLA-003-07,Staff-Roll Lock,Fastening Swingthru,F2,Champion,B
+MV-ADV-FLA-003-08,Ankle Coil Trip,Flailgreave,F4,Champion,B
+MV-ADV-FLA-003-09,Two-Arm Pinning Wrap,Gyve Rebound,F2,Champion,B
+MV-ADV-FLA-003-10,Weapon-Stripping Heave,Mayhem Wheel,F2,Champion,B
+MV-ADV-FLA-003-11,Limb-Climbing Chain Spiral,Dominating Flailhead,F1,Champion,B
+MV-ADV-FLA-004-01,Unbroken Orbit Opening,Mightflail,F5,Demigod,B
+MV-ADV-FLA-004-02,Field-Cushioned Orbit Guard,Handstaff Cloak,F3,Demigod,B
+MV-ADV-FLA-004-03,Orbit-Matched Circling Step,Hastening Linkband,F1,Demigod,B
+MV-ADV-FLA-004-04,Orbit Tempo Feel,Remnant Swingarm,F2,Demigod,B
+MV-ADV-FLA-004-05,Tangent Orbit Release,Ironflail,F5,Demigod,B
+MV-ADV-FLA-004-06,Arm-and-Back Rolling Orbit,Equipoise Chainlink,F2,Demigod,B
+MV-ADV-FLA-004-07,Iron Ring Orbit Sweep,Wheelthrash,F4,Demigod,B
+MV-ADV-FLA-004-08,Endless Linked Orbit Cascade,Sanguine Spikehead,F2,Demigod,B
+MV-ADV-FLA-005-01,Paired Head High-Low Opening,Scorching Swingthru,F1,Ruler,B
+MV-ADV-FLA-005-02,Basin Stance Crossed Guard,Hardened Chainring,F1,Ruler,B
+MV-ADV-FLA-005-03,Court Pair Beat Step,Granite Lashout,F2,Ruler,B
+MV-ADV-FLA-005-04,River-Line Chain Pass,Sanguine Looping,F2,Ruler,B
+MV-ADV-FLA-005-05,Azure Mirror Off-Hand Swing,Tearing Headball,F1,Ruler,B
+MV-ADV-FLA-005-06,Twin-Track Chain Sense,Handstaff Remedy,F3,Ruler,B
+MV-ADV-FLA-005-07,Crossed Heads Parting Cut,Tearing Thresh,F1,Ruler,B
+MV-ADV-FLA-005-08,River-Bend Return Swing,Torrent Flailhead,F2,Ruler,B
+MV-ADV-FLA-005-09,Overlapping Arc Pair Shield,Unyielding Hingecap,F1,Ruler,B
+MV-ADV-FLA-005-10,Hawk-Pair Descent,Blazeswivel,F5,Ruler,B
+MV-ADV-FLA-005-11,Basin Double Chain Net,Ponderous Spikehead,F2,Ruler,B
+MV-ADV-FLA-006-01,Toe-Rise Stoop Windup,Might Wheel,F2,Demigod,B
+MV-ADV-FLA-006-02,Azure Overhead Watch,Swingarm Elixir,F3,Demigod,B
+MV-ADV-FLA-006-03,Folded-Wing Haft Guard,Unflinching Swivel,F1,Demigod,B
+MV-ADV-FLA-006-04,High-Step Dive Lunge,Might Hingecap,F2,Demigod,B
+MV-ADV-FLA-006-05,Perched Stillness Strike,Gust Chainring,F2,Demigod,B
+MV-ADV-FLA-006-06,Rising Hawk Flick,Iron Chainlink,F2,Demigod,B
+MV-ADV-FLA-006-07,Stoop and Chain Retrieval,Sanguine Headball,F2,Demigod,B
+MV-ADV-FLA-006-08,Sky-Mirror Roof Ward,Flailhead Greave,F3,Demigod,B
+MV-ADV-FLA-006-09,Falling Hawk Crushing Blow,Flailthrash,F4,Demigod,B
+MV-ADV-FLA-006-10,Twin-Wing Shallow Dives,Granite Linkband,F2,Demigod,B
+MV-ADV-FLA-007-01,Ford Crossing Level Swing,Might Looping,F2,Champion,B
+MV-ADV-FLA-007-02,Left-Right Paired Beat,Rupturing Swingthru,F1,Champion,B
+MV-ADV-FLA-007-03,Riverbank Slope Footing,Gustthresh,F5,Champion,B
+MV-ADV-FLA-007-04,Current-Drift Chain Jerk,Handstaff Onslaught,F3,Champion,B
+MV-ADV-FLA-007-05,Eddy Haft Turn,Resilient Spikehead,F1,Champion,B
+MV-ADV-FLA-007-06,Stone-Skip Ground Hop,Iron Chainring,F2,Champion,B
+MV-ADV-FLA-007-07,Stepped Waterfall Falls,Unmaking Swingarm,F1,Champion,B
+MV-ADV-FLA-007-08,Whirlpool Weapon Draw,Thornflail,F5,Champion,B
+MV-ADV-FLA-007-09,Weir-Stake Haft Plant,Aegisflail,F5,Champion,B
+MV-ADV-FLA-007-10,Tributary Hand-Switch Fork,Lancing Lashout,F1,Champion,B
+MV-ADV-FLA-007-11,Flood Pair Release,Lambasting Silt Swivel,F6a,Champion,B
+MV-ADV-FLA-007-12,River Bend Blind-Side Cut,Needling Hingecap,F1,Champion,B
+MV-ADV-FLA-008-01,Plateau Gust-Backed Swing,Rumble Wheel,F2,Demigod,B
+MV-ADV-FLA-008-02,Open Ground Bearing Hold,Charter Headball,F2,Demigod,B
+MV-ADV-FLA-008-03,Wind-Reading Sidestep,Mightthresh,F5,Demigod,B
+MV-ADV-FLA-008-04,Gust-Tug Chain Reading,Restoring Linkband,F1,Demigod,B
+MV-ADV-FLA-008-05,Wind-Sworn Crosswind Curve,Blazeflail,F5,Demigod,B
+MV-ADV-FLA-008-06,Oath-Taut Chain Turn,Chime Headball,F2,Demigod,B
+MV-ADV-FLA-008-07,Rim-Edge Driving Sweep,Sanguine Thresh,F2,Demigod,B
+MV-ADV-FLA-008-08,Gale-Timed Falling Head,Blaze Chainlink,F2,Demigod,B
+MV-ADV-FLA-008-09,Fixed-Bearing Windward Orbit,Mightswivel,F5,Demigod,B
+MV-ADV-FLA-009-01,Open Sky Flat Cast,Granite Swingthru,F2,Ruler,B
+MV-ADV-FLA-009-02,Bearing-Matching Step,Granite Thresh,F2,Ruler,B
+MV-ADV-FLA-009-03,Tailwind Reel-In,Blaze Swingarm,F2,Ruler,B
+MV-ADV-FLA-009-04,Sworn Guard Posture,Thorngimbal,F5,Ruler,B
+MV-ADV-FLA-009-05,Horizon-Gaze Sensing,Chime Flailhead,F2,Ruler,B
+MV-ADV-FLA-009-06,Sky-Line Rising Strike,Tempered Lashout,F2,Ruler,B
+MV-ADV-FLA-009-07,Open Rim Drift Pull,Hamstringing Hingecap,F1,Ruler,B
+MV-ADV-FLA-009-08,Fixed Bearing Counter,Hardened Chainlink,F1,Ruler,B
+MV-ADV-FLA-009-09,Unsheltered Whirl,Chainring Maelstrom,F3,Ruler,B
+MV-ADV-FLA-009-10,Sworn Line Heavy Fall,Flailtorment,F4,Ruler,B
+MV-ADV-FLA-010-01,Toe-to-Wrist Long Windup,Needling Linkband,F1,Demigod,B
+MV-ADV-FLA-010-02,Plateau Footing Spread,Charter Swivel,F2,Demigod,B
+MV-ADV-FLA-010-03,Gust-Pulse Footfall,Soaring Spikehead,F1,Demigod,B
+MV-ADV-FLA-010-04,Chain Hum Listening,Gimbalremedy,F4,Demigod,B
+MV-ADV-FLA-010-05,Widest Flat Sweep,Rumbleflail,F5,Demigod,B
+MV-ADV-FLA-010-06,Squall Reel-In Cover,Flailplating,F4,Demigod,B
+MV-ADV-FLA-010-07,Loosed Chain Gale Turn,Swivelthrash,F4,Demigod,B
+MV-ADV-FLA-010-08,Windward Haft Press,Equipoise Swivel,F2,Demigod,B
+MV-ADV-FLA-010-09,Ridge-Line Guard Drive,Rumble Handstaff,F2,Demigod,B
+MV-ADV-FLA-010-10,Far-Reach Wind Cut,Looping Assault,F3,Demigod,B
+MV-ADV-FLA-010-11,Gale Orbit Barrage,Dismantling Wheel,F2,Demigod,B
+MV-ADV-FLA-010-12,Long Swing Full Release,Lancing Looping,F1,Demigod,B

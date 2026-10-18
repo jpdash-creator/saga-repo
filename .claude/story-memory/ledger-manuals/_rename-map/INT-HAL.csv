@@ -1,0 +1,91 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-HAL-001-01,Course Opening Stance,Kindly Hookback,F1,Senior L5 Low,A
+MV-INT-HAL-001-02,Hewing Axe Stroke,Heaveswat,F4,Senior L5 Low,A
+MV-INT-HAL-001-03,Pricking Spike Lunge,Axeheel Hammerfall,F3,Senior L5 Low,A
+MV-INT-HAL-001-04,Rear Haft Slide Guard,Armored Socketring,F1,Senior L5 Low,A
+MV-INT-HAL-001-05,Bladed Arc Follow-Through,Langetslap,F4,Senior L5 Low,A
+MV-INT-HAL-001-06,Qi-Carried Spike Drive,Ruthless Snatch,F1,Senior L5 Low,A
+MV-INT-HAL-002-01,Axe-and-Spike Ready Hold,Cooling Langet,F1,Senior L7 Low,A
+MV-INT-HAL-002-02,Heavy Head Drop,Haftslap,F4,Senior L7 Low,A
+MV-INT-HAL-002-03,Point Check Jab,Brisk Hookback,F1,Senior L7 Low,A
+MV-INT-HAL-002-04,Beak Forearm Draw,Cramping Haft,F1,Senior L7 Low,A
+MV-INT-HAL-002-05,Braced Haft Block,Guarding Crownspike,F1,Senior L7 Low,A
+MV-INT-HAL-002-06,Axe to Spike Switch,Raw Axefall,F1,Senior L7 Low,A
+MV-INT-HAL-002-07,Spike to Axe Reverse,Heavethwack,F4,Senior L7 Low,A
+MV-INT-HAL-003-01,Reaching Axe Posture,Patient Beak,F1,Senior L9 Low,A
+MV-INT-HAL-003-02,Far Hewing Stroke,Rude Heave,F1,Senior L9 Low,A
+MV-INT-HAL-003-03,Extended Spike Press,Beakscorer,F4,Senior L9 Low,A
+MV-INT-HAL-003-04,Reach Guard Sweep,Guarding Haft,F1,Senior L9 Low,A
+MV-INT-HAL-003-05,Axe Reach Long Stride,Dragstalk,F4,Senior L9 Low,A
+MV-INT-HAL-003-06,Reach Check Hook,Spikeprop,F4,Senior L9 Low,A
+MV-INT-HAL-003-07,Overreach Axe Chop,Heaveflog,F4,Senior L9 Low,A
+MV-INT-HAL-003-08,Reach Recovery Glide,Ducking Spikefall,F1,Senior L9 Low,A
+MV-INT-HAL-004-01,Hook Haft Heel Stance,Patient Crownspike,F1,Warrior L1 Low,B
+MV-INT-HAL-004-02,Hook Haft Shoulder Pull,Clutching Heave,F1,Warrior L1 Low,B
+MV-INT-HAL-004-03,Haft Heel Strike,Spikethwack,F4,Warrior L1 Low,B
+MV-INT-HAL-004-04,Heel Spike Counter Thrust,Fierce Spikefall,F1,Warrior L1 Low,B
+MV-INT-HAL-004-05,Haft Sliding Parry,Hum Tailstop,F2,Warrior L1 Low,B
+MV-INT-HAL-004-06,Hook Cover Retreat,Grit Heave,F2,Warrior L1 Low,B
+MV-INT-HAL-004-07,Hook Trip and Cleave,Draught Snatch,F2,Warrior L1 Low,B
+MV-INT-HAL-004-08,Haft Heel Pin Bind,Stampheave,F5,Warrior L1 Low,B
+MV-INT-HAL-004-09,Haft Lever Hip Throw,Staticsnatch,F5,Warrior L1 Low,B
+MV-INT-HAL-005-01,Marching Halberd Carry,Sound Langet,F1,Warrior L3 Low,B
+MV-INT-HAL-005-02,Line Infantry Chop,Stern Axeblade,F1,Warrior L3 Low,B
+MV-INT-HAL-005-03,Line Infantry Thrust,Bold Spike,F1,Warrior L3 Low,B
+MV-INT-HAL-005-04,Ranks Haft Brace,Haftprop,F4,Warrior L3 Low,B
+MV-INT-HAL-005-05,Soldier's Beak Snatch,Clutching Beak,F1,Warrior L3 Low,B
+MV-INT-HAL-005-06,Press Forward Step,Spike Glide,F3,Warrior L3 Low,B
+MV-INT-HAL-005-07,Reversed Butt Spike Stab,Ruthless Tailstop,F1,Warrior L3 Low,B
+MV-INT-HAL-005-08,Braced Haft Charge Stop,Stalwart Socketring,F1,Warrior L3 Low,B
+MV-INT-HAL-005-09,Double Rank Cleave,Cinderheave,F5,Warrior L3 Low,B
+MV-INT-HAL-005-10,Hook Haul Down,Levering Hookpull,F1,Warrior L3 Low,B
+MV-INT-HAL-006-01,Shaft Qi Seat,Quickening Hookback,F1,Senior L6 Mid,A
+MV-INT-HAL-006-02,Qi-Run Axe Hew,Stern Hookpull,F1,Senior L6 Mid,A
+MV-INT-HAL-006-03,Qi-Run Spike Prick,Snatchscorer,F4,Senior L6 Mid,A
+MV-INT-HAL-006-04,Shaft Echo Parry,Axeheel Prop,F3,Senior L6 Mid,A
+MV-INT-HAL-006-05,Qi Hop Step,Lithe Socketring,F1,Senior L6 Mid,A
+MV-INT-HAL-006-06,Wave Along Shaft Strike,Beak Swat,F3,Senior L6 Mid,A
+MV-INT-HAL-006-07,Shaft Qi Ring Guard,Resolute Langet,F1,Senior L6 Mid,A
+MV-INT-HAL-007-01,Spear Answer Stance,Alert Langet,F1,Warrior L2 Mid,B
+MV-INT-HAL-007-02,Sword Answer Stance,Sprout Socketring,F2,Warrior L2 Mid,B
+MV-INT-HAL-007-03,Beak Over Spear Press,Sprighaft,F5,Warrior L2 Mid,B
+MV-INT-HAL-007-04,Axe Bite Sword Arm,Beakthwack,F4,Warrior L2 Mid,B
+MV-INT-HAL-007-05,Outreach Spike Stop,Honedbeak,F5,Warrior L2 Mid,B
+MV-INT-HAL-007-06,Sword Range Break Step,Langetstalk,F4,Warrior L2 Mid,B
+MV-INT-HAL-007-07,Spear Shaft Trap Pull,Axefall Buckle,F3,Warrior L2 Mid,B
+MV-INT-HAL-007-08,Sword Slide Hook Wrench,Hookpull Carapace,F3,Warrior L2 Mid,B
+MV-INT-HAL-008-01,Beaked Axe Carry,Genial Haft,F1,Senior L8 Mid,A
+MV-INT-HAL-008-02,Beak Peck Strike,Snatchswat,F4,Senior L8 Mid,A
+MV-INT-HAL-008-03,Axe Beak Shear,Heavescorer,F4,Senior L8 Mid,A
+MV-INT-HAL-008-04,Beak Guard Slip,Spike Buckle,F3,Senior L8 Mid,A
+MV-INT-HAL-008-05,Beak Pierce Armor Seam,Hungry Axeheel,F1,Senior L8 Mid,A
+MV-INT-HAL-008-06,Beak Rake Down,Rushing Drag,F1,Senior L8 Mid,A
+MV-INT-HAL-009-01,Drill Line Posture,Tenderhearted Hookback,F1,Warrior L5 Low,B
+MV-INT-HAL-009-02,Shoulder Line Axe Chop,Ember Spikefall,F2,Warrior L5 Low,B
+MV-INT-HAL-009-03,Shoulder Line Spike Thrust,Shard Axefall,F2,Warrior L5 Low,B
+MV-INT-HAL-009-04,Line Drill Parry Roll,Hum Crownspike,F2,Warrior L5 Low,B
+MV-INT-HAL-009-05,Line Drill Beak Hook,Binding Axeblade,F1,Warrior L5 Low,B
+MV-INT-HAL-009-06,Line Drill Pace Back,Snatchhurdle,F4,Warrior L5 Low,B
+MV-INT-HAL-009-07,Marching Axe Sweep,Ember Drag,F2,Warrior L5 Low,B
+MV-INT-HAL-009-08,Shoulder Press Spike Drive,Comet Hookpull,F2,Warrior L5 Low,B
+MV-INT-HAL-009-09,Line Gap Close Step,Fleet Tailstop,F1,Warrior L5 Low,B
+MV-INT-HAL-010-01,Sequence Opening Hold,Genial Tailstop,F1,Warrior L1 High,B
+MV-INT-HAL-010-02,First Sequence Chop,Clayspike,F5,Warrior L1 High,B
+MV-INT-HAL-010-03,First Sequence Thrust,Brass Spikefall,F2,Warrior L1 High,B
+MV-INT-HAL-010-04,Sequence Haft Turn Parry,Poise Beak,F2,Warrior L1 High,B
+MV-INT-HAL-010-05,Sequence Beak Tap,Hum Spike,F2,Warrior L1 High,B
+MV-INT-HAL-010-06,Sequence Closing Step,Heaveglide,F4,Warrior L1 High,B
+MV-INT-HAL-010-07,Three-Beat Cleave Chain,Honed Snatch,F2,Warrior L1 High,B
+MV-INT-HAL-010-08,Chain Thrust and Hook,Honed Spikefall,F2,Warrior L1 High,B
+MV-INT-HAL-011-01,Sacking Stripped Haft Draw,Brawnhaft,F5,Warrior L3 Low,B
+MV-INT-HAL-011-02,Teamside Axe Hew,Keen Axeblade,F1,Warrior L3 Low,B
+MV-INT-HAL-011-03,Tailboard Spike Thrust,Honed Spike,F2,Warrior L3 Low,B
+MV-INT-HAL-011-04,Harness Trace Beak Pull,Dragbuckle,F4,Warrior L3 Low,B
+MV-INT-HAL-011-05,Column Splitting Cleave,Rubble Axefall,F2,Warrior L3 Low,B
+MV-INT-HAL-011-06,Cart Stopping Spoke Jam,Stalling Haft,F1,Warrior L3 Low,B
+MV-INT-HAL-012-01,Ditchside Short Haft Crouch,Patient Tailstop,F1,Warrior L2 Mid,B
+MV-INT-HAL-012-02,Wagonside Slip Step,Haftglide,F4,Warrior L2 Mid,B
+MV-INT-HAL-012-03,Hedge Burst Axe Cut,Rushing Axeblade,F1,Warrior L2 Mid,B
+MV-INT-HAL-012-04,Bridle Beak Twist,Beakhasp,F4,Warrior L2 Mid,B
+MV-INT-HAL-012-05,Rail Vaulting Axe Cut,Wild Axeheel,F1,Warrior L2 Mid,B
+MV-INT-HAL-012-06,Cargo Cover Spike Rip,Cruel Crownspike,F1,Warrior L2 Mid,B

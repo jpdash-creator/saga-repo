@@ -1,0 +1,143 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-SIC-001-01,Basin Row Draw,Bowbelly Decree,F3,Warrior,B
+MV-SIG-SIC-001-02,Paired Palm Guard,Sicklegrip Covenant,F3,Warrior,B
+MV-SIG-SIC-001-03,Silent Basin Walk,Deluge Glean,F2,Warrior,B
+MV-SIG-SIC-001-04,Furrow Pair Cross Cut,Paramount Sheave,F1,Warrior,B
+MV-SIG-SIC-001-05,Wrist-Catching Twin Hook,Sigilblade,F5,Warrior,B
+MV-SIG-SIC-001-06,Cradle Parry of the Sickles,Strawpledge,F4,Warrior,B
+MV-SIG-SIC-001-07,Basin Gathering Sweep,Sovereign Greenedge,F1,Champion,B
+MV-SIG-SIC-001-08,Paired Hook Pull-Down,Sigilgrass,F5,Champion,B
+MV-SIG-SIC-001-09,Basin Rim Scissor Cut,Vigor Reapedge,F2,Demigod,B
+MV-SIG-SIC-001-10,Paired Sickles Closing the Basin,Entropy Inwardbelly,F2,Warrior,B
+MV-SIG-SIC-002-01,Hawk Glide Cut,Reapbanner,F4,Warrior,B
+MV-SIG-SIC-002-02,Azure Sky Brace,Hornbeam Handleknob,F2,Warrior,B
+MV-SIG-SIC-002-03,Feather-Light Pace,Vigor Sickletang,F2,Warrior,B
+MV-SIG-SIC-002-04,Soaring Hook Catch,Tyrannous Hookblade,F1,Warrior,B
+MV-SIG-SIC-002-05,Wing-Beat Curve Parry,Squall Tipcurve,F2,Warrior,B
+MV-SIG-SIC-002-06,Sky-Dive Slash,Reap Decree,F3,Warrior,B
+MV-SIG-SIC-002-07,Updraft Step Cut,Squallblade,F5,Warrior,B
+MV-SIG-SIC-002-08,Hawk Pinion Tear,Radiance Sheave,F2,Champion,B
+MV-SIG-SIC-002-09,Azure Pairing Counter,Pealgrass,F5,Champion,B
+MV-SIG-SIC-002-10,Hawk Stoop Through the Guard,Vigorglean,F5,Demigod,B
+MV-SIG-SIC-002-11,Hawk and Azure Crossing Fall,Noble Squall Greenedge,F6a,Warrior,B
+MV-SIG-SIC-003-01,Meeting-Waters Sickle Cut,Haemalreap,F5,Champion,B
+MV-SIG-SIC-003-02,Tributary Slip Step,Squallstraw,F5,Champion,B
+MV-SIG-SIC-003-03,Bank Stone Guard,Bladepledge,F4,Champion,B
+MV-SIG-SIC-003-04,Twin Current Hook,Glacier Harvest,F2,Champion,B
+MV-SIG-SIC-003-05,Confluence Hook Draw,Thrall Sicklegrip,F2,Champion,B
+MV-SIG-SIC-003-06,Eddying Parry,Squall Bowbelly,F2,Champion,B
+MV-SIG-SIC-003-07,Silt-Heavy Chop,Bedrock Handleknob,F2,Champion,B
+MV-SIG-SIC-003-08,Ripple-Step Slash,Squall Reap,F2,Champion,B
+MV-SIG-SIC-003-09,Two-River Cross Sweep,Magnificent Glean,F1,Champion,B
+MV-SIG-SIC-003-10,Undercurrent Disarm Pull,Peal Inwardbelly,F2,Champion,B
+MV-SIG-SIC-003-11,Rivers Joined at the Edge,Illustrious Garner,F1,Demigod,B
+MV-SIG-SIC-003-12,Twin Rivers Meeting Draw,Paramount Crookspine,F1,Champion,B
+MV-SIG-SIC-004-01,Court Salute Cut,Bedrock Sickletang,F2,Ruler,B
+MV-SIG-SIC-004-02,Dual-Track Guard Line,Consecrated Tipcurve,F1,Ruler,B
+MV-SIG-SIC-004-03,Measured Twin Pace,Bedrock Hookblade,F2,Ruler,B
+MV-SIG-SIC-004-04,Left Track Hook Pin,Sheavetroth,F4,Ruler,B
+MV-SIG-SIC-004-05,Right Track Finishing Slice,Thunderclap Stook,F2,Ruler,B
+MV-SIG-SIC-004-06,Court Pair Sickle Parry,Deluge Reapedge,F2,Ruler,B
+MV-SIG-SIC-004-07,Track-Crossing Hook Seizure,Millstone Garner,F2,Ruler,B
+MV-SIG-SIC-004-08,Court Judgment Draw,Haemal Harvest,F2,Ruler,B
+MV-SIG-SIC-004-09,Two Sickle Tracks One Edge,Vigorstook,F5,Demigod,B
+MV-SIG-SIC-004-10,Court of Two Sickle Edges,Fearless Quenched Stook,F6a,Ruler,B
+MV-SIG-SIC-005-01,Far-Field Reach Cut,Gleanedict,F4,Demigod,B
+MV-SIG-SIC-005-02,Basin-Rim Hold Guard,Immaculate Inwardbelly,F1,Demigod,B
+MV-SIG-SIC-005-03,Distant Hawk Step,Dune Sheave,F2,Demigod,B
+MV-SIG-SIC-005-04,Qi-Field Hook Cast,Grasstroth,F4,Demigod,B
+MV-SIG-SIC-005-05,Rising Basin Slash,Steel Crookspine,F2,Demigod,B
+MV-SIG-SIC-005-06,Counter-Talon Parry,Grassseal,F4,Demigod,B
+MV-SIG-SIC-005-07,Sky-Wide Snare Hook,Commanding Greenedge,F1,Demigod,B
+MV-SIG-SIC-005-08,Beyond-Basin Hawk Sweep,Magma Stook,F2,Demigod,B
+MV-SIG-SIC-005-09,Field Hawk Grip Pull,Glacier Handleknob,F2,Demigod,B
+MV-SIG-SIC-005-10,Azure Field Plunge Cut,Interstice Sickletang,F2,Demigod,B
+MV-SIG-SIC-005-11,Hawk's Edge Beyond the Basin,Unrivaled Reap,F1,Demigod,B
+MV-SIG-SIC-006-01,Fed Stream Pull,Triumphant Crookspine,F1,Core Formation,B
+MV-SIG-SIC-006-02,Riverbed Pace,Deluge Bowbelly,F2,Core Formation,B
+MV-SIG-SIC-006-03,Water-Smooth Parry,Sainted Hookblade,F1,Core Formation,B
+MV-SIG-SIC-006-04,Bend-in-the-River Hook,Millstone Tipcurve,F2,Core Formation,B
+MV-SIG-SIC-006-05,Core-Warmed Hook Draw,Millstone Harvest,F2,Core Formation,B
+MV-SIG-SIC-006-06,Deep Current Slash,Stookcrown,F4,Core Formation,B
+MV-SIG-SIC-006-07,Tide-Turn Counter,Parity Sicklegrip,F2,Core Formation,B
+MV-SIG-SIC-006-08,Source-Spring Rising Cut,Quenched Reapedge,F2,Core Formation,B
+MV-SIG-SIC-006-09,Core Stream Sweep,Dunestraw,F5,Core Formation,B
+MV-SIG-SIC-006-10,Flood Source Hook Pull,Thrall Reap,F2,Core Formation,B
+MV-SIG-SIC-006-11,Core River Break,Thunderclap Glean,F2,Core Formation,B
+MV-SIG-SIC-006-12,River Fed Curve Rising,Lordly Inwardbelly Edict,F6b,Core Formation,B
+MV-SIG-SIC-007-01,Oath-Taking Draw Cut,Haemalblade,F5,Warrior,B
+MV-SIG-SIC-007-02,Plateau Floor Brace,Sacrosanct Greenedge,F1,Warrior,B
+MV-SIG-SIC-007-03,Wind-Pace Sickle Step,Vigor Handleknob,F2,Warrior,B
+MV-SIG-SIC-007-04,Sworn Hook Lift,Glacier Crookspine,F2,Warrior,B
+MV-SIG-SIC-007-05,Plateau Ledge Parry,Enshrined Sickletang,F1,Warrior,B
+MV-SIG-SIC-007-06,Bearing Slash,Hookblade Decree,F3,Warrior,B
+MV-SIG-SIC-007-07,Wind-Anchored Drag,Thrall Sheave,F2,Warrior,B
+MV-SIG-SIC-007-08,Oath-Held Hook Throw,Subjugating Tipcurve,F1,Champion,B
+MV-SIG-SIC-007-09,Plateau Edge Counter,Consecrated Reapedge,F1,Champion,B
+MV-SIG-SIC-007-10,Oath Kept in the Cut,Quenched Garner,F2,Demigod,B
+MV-SIG-SIC-007-11,Plateau Oath Unbroken Draw,Splendid Vigor Bowbelly,F6a,Warrior,B
+MV-SIG-SIC-008-01,Bearing Taken Slice,Haemal Sicklegrip,F2,Warrior,B
+MV-SIG-SIC-008-02,Cutter's Heel Pace,Stookvoyage,F4,Warrior,B
+MV-SIG-SIC-008-03,Gust-Edge Guard,Prismstraw,F5,Warrior,B
+MV-SIG-SIC-008-04,Bearing Corrected Hook,Tyrannous Stook,F1,Warrior,B
+MV-SIG-SIC-008-05,Wind-Cutter's Counter,Peal Hookblade,F2,Warrior,B
+MV-SIG-SIC-008-06,Drifted Step Slash,Squall Glean,F2,Warrior,B
+MV-SIG-SIC-008-07,Crosswind Bearing Sweep,Grassdecree,F4,Champion,B
+MV-SIG-SIC-008-08,Bearing Hook Fall,Garnerpledge,F4,Champion,B
+MV-SIG-SIC-008-09,Last Bearing Strike,Squall Garner,F2,Demigod,B
+MV-SIG-SIC-008-10,Bearing of the Last Cut,Squall Sicklegrip,F2,Warrior,B
+MV-SIG-SIC-009-01,Unwalled Pull Cut,Garner Decree,F3,Champion,B
+MV-SIG-SIC-009-02,Open Ground Hooked Guard,Parityblade,F5,Champion,B
+MV-SIG-SIC-009-03,Wide-Pace Step,Twilit Tipcurve,F1,Champion,B
+MV-SIG-SIC-009-04,Gust-Slung Sickle Snag,Glacier Glean,F2,Champion,B
+MV-SIG-SIC-009-05,Open-Field Hook Snare,Thrall Harvest,F2,Champion,B
+MV-SIG-SIC-009-06,Windblown Parry Sweep,Parity Sickletang,F2,Champion,B
+MV-SIG-SIC-009-07,Spread-Stance Slash,Heroic Reapedge,F1,Champion,B
+MV-SIG-SIC-009-08,Sky-Wide Counter Pull,Handleknob Vow,F3,Champion,B
+MV-SIG-SIC-009-09,Boundless Field Sweep,Solar Sheave,F2,Champion,B
+MV-SIG-SIC-009-10,Open-Sky Hook Strip,Peal Greenedge,F2,Champion,B
+MV-SIG-SIC-009-11,Where No Wall Stands Against the Hook,Steel Bowbelly,F2,Demigod,B
+MV-SIG-SIC-009-12,Unwalled Field Last Sweep,Dune Stook,F2,Champion,B
+MV-SIG-SIC-010-01,Straw-Oath Draw,Strawbanner,F4,Ruler,B
+MV-SIG-SIC-010-02,Wind-Tied Guard,Strawtroth,F4,Ruler,B
+MV-SIG-SIC-010-03,Light Straw Step,Dune Tipcurve,F2,Ruler,B
+MV-SIG-SIC-010-04,Sworn Straw Hook,Millstone Reapedge,F2,Ruler,B
+MV-SIG-SIC-010-05,Windcut Parry,Sainted Crookspine,F1,Ruler,B
+MV-SIG-SIC-010-06,Oath-Line Slash,Famed Inwardbelly,F1,Ruler,B
+MV-SIG-SIC-010-07,Straw-Wrapped Drag,Unbending Sickletang,F1,Ruler,B
+MV-SIG-SIC-010-08,Binding Oath Hook,Tyrannous Bowbelly,F1,Ruler,B
+MV-SIG-SIC-010-09,Wind-and-Straw Counter,Peal Crookspine,F2,Ruler,B
+MV-SIG-SIC-010-10,Oath Cut Through the Wind,Pulsarstook,F5,Demigod,B
+MV-SIG-SIC-010-11,Oath Cut in Wind and Straw,Steelgrass,F5,Ruler,B
+MV-SIG-SIC-011-01,Highwind Draw Cut,Stookverdict,F4,Demigod,B
+MV-SIG-SIC-011-02,Ridge-Top Guard,Prism Hookblade,F2,Demigod,B
+MV-SIG-SIC-011-03,Highwind Skip,Stookboon,F4,Demigod,B
+MV-SIG-SIC-011-04,Rimward Hook Pull,Glacier Reap,F2,Demigod,B
+MV-SIG-SIC-011-05,Highwind Parry,Peal Sicklegrip,F2,Demigod,B
+MV-SIG-SIC-011-06,Ridge Slash,Vigorblade,F5,Demigod,B
+MV-SIG-SIC-011-07,Highwind Hook Sweep,Gleantriumph,F4,Demigod,B
+MV-SIG-SIC-011-08,Rim-Falling Counter,Pall Inwardbelly,F2,Demigod,B
+MV-SIG-SIC-011-09,Beyond the Rim Reach,Seasonreap,F5,Demigod,B
+MV-SIG-SIC-011-10,Highwind Rim Fall,Unbending Thrall Handleknob,F6a,Demigod,B
+MV-SIG-SIC-012-01,Wind-Drawn Pull,Squall Harvest,F2,Core Formation,B
+MV-SIG-SIC-012-02,Core-Breath Step,Gleanodyssey,F4,Core Formation,B
+MV-SIG-SIC-012-03,Drawn Curve Guard,Faithful Bowbelly,F1,Core Formation,B
+MV-SIG-SIC-012-04,Gust-Drawn Hook,Unbending Sheave,F1,Core Formation,B
+MV-SIG-SIC-012-05,Core-Wind Hook Pull,Glacier Garner,F2,Core Formation,B
+MV-SIG-SIC-012-06,Wind-Drawn Slash,Quenched Greenedge,F2,Core Formation,B
+MV-SIG-SIC-012-07,Curve Counter-Draw,Squall Crookspine,F2,Core Formation,B
+MV-SIG-SIC-012-08,Windborne Step Cut,Deluge Garner,F2,Core Formation,B
+MV-SIG-SIC-012-09,Core Wind Sickle Sweep,Tipcurve Decree,F3,Core Formation,B
+MV-SIG-SIC-012-10,Wind-Drawn Hook Strip,Peal Stook,F2,Core Formation,B
+MV-SIG-SIC-012-11,Wind Drawn to the Edge,Fearless Glean,F1,Core Formation,B
+MV-SIG-SIC-012-12,Wind-Drawn Curve Unfurled,Imperial Steel Handleknob,F6a,Core Formation,B
+MV-SIG-SIC-002-02,Hornbeam Handleknob,Mighty Handleknob,F2,Warrior,B
+MV-SIG-SIC-003-04,Glacier Harvest,Crushing Harvest,F2,Champion,B
+MV-SIG-SIC-005-03,Dune Sheave,Ruinous Sheave,F2,Demigod,B
+MV-SIG-SIC-005-09,Glacier Handleknob,Titan Handleknob,F2,Demigod,B
+MV-SIG-SIC-007-04,Glacier Crookspine,Sundering Crookspine,F2,Warrior,B
+MV-SIG-SIC-009-04,Glacier Glean,Searing Glean,F2,Champion,B
+MV-SIG-SIC-009-12,Dune Stook,Savage Stook,F2,Champion,B
+MV-SIG-SIC-010-03,Dune Tipcurve,Fierce Tipcurve,F2,Ruler,B
+MV-SIG-SIC-011-04,Glacier Reap,Titan Reap,F2,Demigod,B
+MV-SIG-SIC-012-05,Glacier Garner,Mighty Garner,F2,Core Formation,B

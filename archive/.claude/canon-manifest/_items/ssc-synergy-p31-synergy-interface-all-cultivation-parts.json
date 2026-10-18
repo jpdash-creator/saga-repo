@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-synergy-p31-synergy-interface-all-cultivation-parts",
+ "part": 31,
+ "area": 11,
+ "sequence_in_part": 11,
+ "title": "Synergy Interface with All Cultivation Parts",
+ "domain": "synergy",
+ "source_file": "Part_31_Cultivation_Technology_Synergy_Law.md",
+ "start_line": 851,
+ "end_line": 947,
+ "line_count": 97,
+ "output_path": ".claude/skills/ssc-synergy-p31-synergy-interface-all-cultivation-parts/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-cultivation-p07-fusion-classification-system",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Fusion techniques are a primary driver of CS%/TS% change"
+  },
+  {
+   "skill_id": "ssc-cultivation-p07-affinity-fusion-law",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Fusion techniques are a primary driver of CS%/TS% change"
+  },
+  {
+   "skill_id": "ssc-cultivation-p07-cultivation-path-fusion-law",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Fusion techniques are a primary driver of CS%/TS% change"
+  },
+  {
+   "skill_id": "ssc-cultivation-p07-cultivation-relic-integration-law",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Fusion techniques are a primary driver of CS%/TS% change"
+  },
+  {
+   "skill_id": "ssc-cultivation-p07-technology-relic-fusion-law",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Fusion techniques are a primary driver of CS%/TS% change"
+  },
+  {
+   "skill_id": "ssc-cultivation-p07-cultivation-technology-integration-law",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Fusion techniques are a primary driver of CS%/TS% change"
+  },
+  {
+   "skill_id": "ssc-cultivation-p07-fusion-power-expressions",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Fusion techniques are a primary driver of CS%/TS% change"
+  },
+  {
+   "skill_id": "ssc-cultivation-p07-fusion-stability-risk-law",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Fusion techniques are a primary driver of CS%/TS% change"
+  },
+  {
+   "skill_id": "ssc-cultivation-p07-fusion-resources-support-infrastructure",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Fusion techniques are a primary driver of CS%/TS% change"
+  },
+  {
+   "skill_id": "ssc-cultivation-p07-fusion-cultivation-path",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Fusion techniques are a primary driver of CS%/TS% change"
+  }
+ ]
+}

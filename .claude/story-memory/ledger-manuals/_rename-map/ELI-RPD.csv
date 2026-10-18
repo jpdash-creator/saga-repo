@@ -1,0 +1,135 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-RPD-001-01,Paired Orbit Starting Swing,Pluckhavoc,F4,Demigod,B
+MV-ELI-RPD-001-02,Mirror-Side Cord Parry,Murk Cordloop,F2,Demigod,B
+MV-ELI-RPD-001-03,Orbit-Mate Sidestep,Torrent Reelin,F2,Demigod,B
+MV-ELI-RPD-001-04,Paired Pulse Count,Dartneck Vigil,F3,Demigod,B
+MV-ELI-RPD-001-05,Twin Orbit Guard Ring,Tinenerve,F4,Demigod,B
+MV-ELI-RPD-001-06,Paired Cord Snap Cross,Sanguine Loopcast,F2,Demigod,B
+MV-ELI-RPD-001-07,Orbit Hand-Off Bind,Hoarfrost Darttip,F2,Demigod,B
+MV-ELI-RPD-001-08,Counter-Rotating Dart Rings,Pluckvalor,F4,Demigod,B
+MV-ELI-RPD-001-09,Orbit-Pair Piercing Dive,Tempered Flickhand,F2,Demigod,B
+MV-ELI-RPD-001-10,Azure Paired Orbit Rupture,Facet Whipout,F2,Demigod,B
+MV-ELI-RPD-002-01,Hawk-Eyed First Cast,Hoarfrost Cordlength,F2,Demigod,B
+MV-ELI-RPD-002-02,Marked Target Sighting,Remnant Dartblade,F2,Demigod,B
+MV-ELI-RPD-002-03,Hawk Shoulder Dip,Gustspool,F5,Demigod,B
+MV-ELI-RPD-002-04,Perch Cord Parry,Torrent Ringend,F2,Demigod,B
+MV-ELI-RPD-002-05,Talon Loop Close,Overpowering Cordknot,F1,Demigod,B
+MV-ELI-RPD-002-06,Circling Hawk Orbit,Spiralcast Ruin,F3,Demigod,B
+MV-ELI-RPD-002-07,Pinion Cord Screen,Unbudging Tailring,F1,Demigod,B
+MV-ELI-RPD-002-08,Talon Snatch of the Weapon,Chime Snapback,F2,Demigod,B
+MV-ELI-RPD-002-09,Hawk Climb Lift Step,Gust Retrieve,F2,Demigod,B
+MV-ELI-RPD-002-10,Falling Hawk Qi Dive,Hollowtine,F5,Demigod,B
+MV-ELI-RPD-002-11,Eyrie Cord Net Laid,Predatory Cordlength,F1,Demigod,B
+MV-ELI-RPD-002-12,Hawk-Eyed Streak to the Far End,Hour Reelin,F2,Demigod,B
+MV-ELI-RPD-003-01,Slow Water Drift Cast,Eviscerating Retrieve,F1,Demigod,B
+MV-ELI-RPD-003-02,Eddy Turn Cord Guard,Spoolvalor,F4,Demigod,B
+MV-ELI-RPD-003-03,Ford-Crossing Cord Step,Thrumblink,F4,Demigod,B
+MV-ELI-RPD-003-04,Undertow Loop Drag,Gyvepluck,F5,Demigod,B
+MV-ELI-RPD-003-05,Deep Pool Cord Hold,Charter Dartblade,F2,Demigod,B
+MV-ELI-RPD-003-06,Rapids Whip Strike,Blaze Cordwinder,F2,Demigod,B
+MV-ELI-RPD-003-07,Floodwater Cord Surge,Darttip Ruin,F3,Demigod,B
+MV-ELI-RPD-003-08,Whirlpool Entrapment,Thorn Tailring,F2,Demigod,B
+MV-ELI-RPD-003-09,Drowning Stillness Wrap,Maiming Fastening Loopcast,F6a,Demigod,B
+MV-ELI-RPD-004-01,Height-Taking Lob,Glint Flickhand,F2,Demigod,B
+MV-ELI-RPD-004-02,High Guard Cord Cross,Charter Cordloop,F2,Demigod,B
+MV-ELI-RPD-004-03,Steep Descent Step,Mightpluck,F5,Demigod,B
+MV-ELI-RPD-004-04,Sky-Line Sighting,Waning Dartneck,F2,Demigod,B
+MV-ELI-RPD-004-05,Roof-Edge Hook Loop,Ponderous Cordwinder,F2,Demigod,B
+MV-ELI-RPD-004-06,Plummeting Dart Weight,Iron Cordknot,F2,Demigod,B
+MV-ELI-RPD-004-07,Climbing Cord Ascent,Might Spiralcast,F2,Demigod,B
+MV-ELI-RPD-004-08,Overhead Cord Awning,Hoarfrost Dartblade,F2,Demigod,B
+MV-ELI-RPD-004-09,Sky-Dropped Piercing Fall,Novapluck,F5,Demigod,B
+MV-ELI-RPD-004-10,Height-Held Snare Drop,Tinevalor,F4,Demigod,B
+MV-ELI-RPD-004-11,Azure Zenith Cord Plunge,Berserk Whipout,F1,Demigod,B
+MV-ELI-RPD-005-01,Twin-Course Opening Throw,Chime Reelin,F2,Demigod,B
+MV-ELI-RPD-005-02,Parallel Cord Block,Flintlike Ringend,F1,Demigod,B
+MV-ELI-RPD-005-03,Course-Changing Step,Thrumglare,F4,Demigod,B
+MV-ELI-RPD-005-04,Tether Tension Sense,Revitalizing Cordknot,F1,Demigod,B
+MV-ELI-RPD-005-05,Twin Loop Slip Hold,Immobilizing Cordlength,F1,Demigod,B
+MV-ELI-RPD-005-06,Courses Crossing Strike,Merciless Ringend,F1,Demigod,B
+MV-ELI-RPD-005-07,Doubled Guard Weave,Unrelenting Dartneck,F1,Demigod,B
+MV-ELI-RPD-005-08,Alternate-Hand Tether Pull,Gyvethrum,F5,Demigod,B
+MV-ELI-RPD-005-09,Paired Feint Retreat,Glamour Flickhand,F2,Demigod,B
+MV-ELI-RPD-005-10,Twin Dart Chase,Pluckwrath,F4,Demigod,B
+MV-ELI-RPD-005-11,Parallel Snare Pair,Thorn Cordwinder,F2,Demigod,B
+MV-ELI-RPD-005-12,Course Reversal Qi Snap,Spoolruin,F4,Demigod,B
+MV-ELI-RPD-005-13,Twin-Course Convergence Blow,Shattering Gust Whipout,F6a,Demigod,B
+MV-ELI-RPD-006-01,Rim Edge First Cast,Nova Darttip,F2,Monarch,B
+MV-ELI-RPD-006-02,River Mouth Cord Parry,Equipoise Tailring,F2,Monarch,B
+MV-ELI-RPD-006-03,Rim-Walk Dart Step,Torrential Snapback,F1,Monarch,B
+MV-ELI-RPD-006-04,Reed-Bed Cord Reading,Chime Cordknot,F2,Monarch,B
+MV-ELI-RPD-006-05,Rim-Hooked Pull Down,Maiming Cordloop,F1,Monarch,B
+MV-ELI-RPD-006-06,River-Run Dart Lash,Eviscerating Ringend,F1,Monarch,B
+MV-ELI-RPD-006-07,Bank-Hold Cord Screen,Pluckdurance,F4,Monarch,B
+MV-ELI-RPD-006-08,Spillway Qi Cast,Retrieve Devastation,F3,Monarch,B
+MV-ELI-RPD-006-09,Rim Closing Cord Ring,Gyvetine,F5,Monarch,B
+MV-ELI-RPD-006-10,Rim and River Meeting,Might Cordloop,F2,Demigod,B
+MV-ELI-RPD-007-01,Plateau Wind Cast,Decimating Darttip,F1,Demigod,B
+MV-ELI-RPD-007-02,Wind-Sworn Stance Watch,Expanse Cordlength,F2,Demigod,B
+MV-ELI-RPD-007-03,Open Ground Sweep Step,Pluckglare,F4,Demigod,B
+MV-ELI-RPD-007-04,Gust Cord Parry Turn,Unbowed Tailring,F1,Demigod,B
+MV-ELI-RPD-007-05,Sworn Loop Throw,Overpowering Snapback,F1,Demigod,B
+MV-ELI-RPD-007-06,Windline Dart Crack,Ironthrum,F5,Demigod,B
+MV-ELI-RPD-007-07,Oathfast Cord Screen,Iron Flickhand,F2,Demigod,B
+MV-ELI-RPD-007-08,Gale-Borne Leap,Torrent Cordwinder,F2,Demigod,B
+MV-ELI-RPD-007-09,Plateau Gust Dart Drive,Gnashing Reelin,F1,Demigod,B
+MV-ELI-RPD-007-10,Tether Pegs Laid Wide,Silt Dartneck,F2,Demigod,B
+MV-ELI-RPD-007-11,Gale Oath Straight Pierce,Facet Spiralcast,F2,Demigod,B
+MV-ELI-RPD-008-01,Oath Bearing First Cast,Gust Loopcast,F2,Demigod,B
+MV-ELI-RPD-008-02,Bearing Cord Guard Hold,Thrumdurance,F4,Demigod,B
+MV-ELI-RPD-008-03,Heading Hold Cord Step,Blinding Whipout,F1,Demigod,B
+MV-ELI-RPD-008-04,Sworn Bearing Cinch,Overbearing Spiralcast,F1,Demigod,B
+MV-ELI-RPD-008-05,Bearing-Kept Cord Screen,Hoarfrost Cordloop,F2,Demigod,B
+MV-ELI-RPD-008-06,Unturned Dart Thrust,Lacerating Snapback,F1,Demigod,B
+MV-ELI-RPD-008-07,Kept Faith Dart Chase,Tempered Cordlength,F2,Demigod,B
+MV-ELI-RPD-008-08,Bearing Lock Snare,Silt Cordknot,F2,Demigod,B
+MV-ELI-RPD-008-09,Oath Unbroken Cord Drive,Reelinscourge,F4,Demigod,B
+MV-ELI-RPD-009-01,Edge Gale Reading Cast,Vengeful Retrieve,F1,Demigod,B
+MV-ELI-RPD-009-02,Drop-Edge Footing Step,Dazzling Snapback,F1,Demigod,B
+MV-ELI-RPD-009-03,Cord Rail Parry,Unassailable Cordwinder,F1,Demigod,B
+MV-ELI-RPD-009-04,Edge Lip Snare Loop,Reelinnerve,F4,Demigod,B
+MV-ELI-RPD-009-05,Gale Direction Reading,Remnant Tailring,F2,Demigod,B
+MV-ELI-RPD-009-06,Gale-Whipped Dart Return,Sanguine Retrieve,F2,Demigod,B
+MV-ELI-RPD-009-07,Tethered Edge Hang,Spiralcast Flash,F3,Demigod,B
+MV-ELI-RPD-009-08,Wind-Braced Cord Stand,Invincible Dartblade,F1,Demigod,B
+MV-ELI-RPD-009-09,Edge Snap Drag Down,Thrumspine,F4,Demigod,B
+MV-ELI-RPD-009-10,Gale-Fed Qi Dart Arc,Reelinwrath,F4,Demigod,B
+MV-ELI-RPD-009-11,Open Edge Cord Ambush,Septic Ringend,F1,Demigod,B
+MV-ELI-RPD-009-12,Edge Reckoning Final Fall,Unsparing Reelin,F1,Demigod,B
+MV-ELI-RPD-010-01,Open-Sky Straight Cast,Nova Loopcast,F2,Demigod,B
+MV-ELI-RPD-010-02,Unsheltered Cord Parry,Impervious Darttip,F1,Demigod,B
+MV-ELI-RPD-010-03,Cloud-Shadow Step,Tineflash,F4,Demigod,B
+MV-ELI-RPD-010-04,Wide Horizon Watch,Buoying Dartneck,F1,Demigod,B
+MV-ELI-RPD-010-05,Sky-Wide Loop Sweep,Pluckspine,F4,Demigod,B
+MV-ELI-RPD-010-06,Open-Air Whirl Strike,Merciless Flickhand,F1,Demigod,B
+MV-ELI-RPD-010-07,Cordwind Screen,Charter Cordlength,F2,Demigod,B
+MV-ELI-RPD-010-08,Sky-Cast Long Reach,Chime Whipout,F2,Demigod,B
+MV-ELI-RPD-010-09,Open Ground Cord Mesh,Thorn Darttip,F2,Demigod,B
+MV-ELI-RPD-010-10,Open-Sky Cord Descent,Thrumruin,F4,Demigod,B
+MV-ELI-RPD-011-01,Bearing-Taken Wind Throw,Blistering Cordwinder,F1,Demigod,B
+MV-ELI-RPD-011-02,Wind-Shift Guard Turn,Murk Dartblade,F2,Demigod,B
+MV-ELI-RPD-011-03,Windward Hold Step,Cordloop Whirlpool,F3,Demigod,B
+MV-ELI-RPD-011-04,Held Bearing Check,Chime Dartneck,F2,Demigod,B
+MV-ELI-RPD-011-05,Wind-Stilled Loop Close,Maiming Spiralcast,F1,Demigod,B
+MV-ELI-RPD-011-06,Crossing Gust Dart Curve,Blistering Dartblade,F1,Demigod,B
+MV-ELI-RPD-011-07,Bearing-Held Cord Bar,Granite Cordknot,F2,Demigod,B
+MV-ELI-RPD-011-08,Quartering Wind Slide,Reelinflash,F4,Demigod,B
+MV-ELI-RPD-011-09,Wind-Tied Wrist Wrap,Overbearing Flickhand,F1,Demigod,B
+MV-ELI-RPD-011-10,Counter-Wind Qi Return,Unsparing Ringend,F1,Demigod,B
+MV-ELI-RPD-011-11,Backwind Pegged Snare,Toxinspool,F5,Demigod,B
+MV-ELI-RPD-011-12,Veering Wind Dart Chase,Reelinruin,F4,Demigod,B
+MV-ELI-RPD-011-13,Bearing and Wind Closing Cast,Hollowspool,F5,Demigod,B
+MV-ELI-RPD-012-01,High Plateau Rim Cast,Blazespool,F5,Monarch,B
+MV-ELI-RPD-012-02,Thin Air Guard Spin,Charter Flickhand,F2,Monarch,B
+MV-ELI-RPD-012-03,High Ground Short Step,Dazzling Retrieve,F1,Monarch,B
+MV-ELI-RPD-012-04,Updraft Cord Feel,Ringend Vitality,F3,Monarch,B
+MV-ELI-RPD-012-05,Ridge Cord Hook,Whipout Obduracy,F3,Monarch,B
+MV-ELI-RPD-012-06,Ridge-Running Dart Lash,Reelinhavoc,F4,Monarch,B
+MV-ELI-RPD-012-07,Crest-Bound Cord Screen,Adamantine Cordwinder,F1,Monarch,B
+MV-ELI-RPD-012-08,Rope-Slung Descent,Might Reelin,F2,Monarch,B
+MV-ELI-RPD-012-09,Highwind Qi Dart Drive,Grievous Loopcast,F1,Monarch,B
+MV-ELI-RPD-012-10,Ridge Pass Snare Line,Silt Dartblade,F2,Monarch,B
+MV-ELI-RPD-012-11,Roof of the Plateau Plunge,Gnashing Spiralcast Wrath,F6b,Demigod,B
+MV-ELI-RPD-007-02,Expanse Cordlength,Attuned Cordlength,F2,Demigod,B
+MV-ELI-RPD-002-10,Hollowtine,Drilltine,F5,Demigod,B
+MV-ELI-RPD-011-13,Hollowspool,Boltspool,F5,Demigod,B

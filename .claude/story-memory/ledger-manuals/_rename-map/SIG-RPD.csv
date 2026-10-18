@@ -1,0 +1,146 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-RPD-001-01,Paired Cord Opening Throw,Pealreelin,F5,Warrior,B
+MV-SIG-RPD-001-02,Twin-Hand Guard Loop,Prismtine,F5,Warrior,B
+MV-SIG-RPD-001-03,School Shuffle Entry,Tinegrace,F4,Warrior,B
+MV-SIG-RPD-001-04,Paired Cord Wrist Trap,Thralltine,F5,Warrior,B
+MV-SIG-RPD-001-05,Courtyard Counter Whirl,Squall Cordknot,F2,Warrior,B
+MV-SIG-RPD-001-06,Pairing Dart Lash,Matchless Loopcast,F1,Warrior,B
+MV-SIG-RPD-001-07,Paired Snare Laid in Court,Beguiling Cordloop,F1,Champion,B
+MV-SIG-RPD-001-08,Dual Cord Pierce,Spooldecree,F4,Champion,B
+MV-SIG-RPD-001-09,Paired Cord Judgment Drive,Pulsarspool,F5,Demigod,B
+MV-SIG-RPD-001-10,Sixfold Paired Cord Sequence,Tenetspool,F5,Warrior,B
+MV-SIG-RPD-002-01,Stoop Opening Lob,Squallreelin,F5,Warrior,B
+MV-SIG-RPD-002-02,Hawk Wing Cord Guard Spread,Consecrated Cordwinder,F1,Warrior,B
+MV-SIG-RPD-002-03,Banking Cord Step,Deluge Retrieve,F2,Warrior,B
+MV-SIG-RPD-002-04,Hawk Dive Lash,Imperial Dartblade,F1,Warrior,B
+MV-SIG-RPD-002-05,Talon Tether Hold,Unbending Tailring,F1,Warrior,B
+MV-SIG-RPD-002-06,Climbing Cord Feint,Pall Ringend,F2,Warrior,B
+MV-SIG-RPD-002-07,Hooded Gaze Counter,Immaculate Flickhand,F1,Warrior,B
+MV-SIG-RPD-002-08,Stoop Qi Plunge,Radiance Dartneck,F2,Champion,B
+MV-SIG-RPD-002-09,Aerie Cord Trap,Sigil Cordlength,F2,Champion,B
+MV-SIG-RPD-002-10,Hawk Streak Rending Dive,Thunderclap Snapback,F2,Demigod,B
+MV-SIG-RPD-002-11,Great Stoop of the School,Matchless Vacuum Whipout,F6a,Warrior,B
+MV-SIG-RPD-003-01,Winding Cord Cast,Prismspool,F5,Champion,B
+MV-SIG-RPD-003-02,Meander Cord Parry,Peal Flickhand,F2,Champion,B
+MV-SIG-RPD-003-03,Bank-Skimming Cord Step,Skyborne Spiralcast,F1,Champion,B
+MV-SIG-RPD-003-04,Reed Loop Snare,Glacier Tailring,F2,Champion,B
+MV-SIG-RPD-003-05,Bend-and-Pull Drag,Spoolseal,F4,Champion,B
+MV-SIG-RPD-003-06,Oxbow Cord Guard,Hornbeam Darttip,F2,Champion,B
+MV-SIG-RPD-003-07,Current-Borne Dart Lash,Magnificent Ringend,F1,Champion,B
+MV-SIG-RPD-003-08,Silt Slow Wrap,Glacier Retrieve,F2,Champion,B
+MV-SIG-RPD-003-09,Flooded Plain Cord Sweep,Tempestuous Darttip,F2,Champion,B
+MV-SIG-RPD-003-10,Whirlpool Snare Set,Dune Cordknot,F2,Champion,B
+MV-SIG-RPD-003-11,Great Bend Cord Rending,Magnificent Reelin,F1,Demigod,B
+MV-SIG-RPD-003-12,River Course Full Sequence,Choral Destiny Snapback,F6a,Champion,B
+MV-SIG-RPD-004-01,Basin Tether Sighting Cast,Thunderclap Whipout,F2,Ruler,B
+MV-SIG-RPD-004-02,Rim Hold Guard,Glacier Dartblade,F2,Ruler,B
+MV-SIG-RPD-004-03,Track-Switching Cord Step,Bedrock Cordwinder,F2,Ruler,B
+MV-SIG-RPD-004-04,Dual Tether Cross-Bind,Glacier Cordlength,F2,Ruler,B
+MV-SIG-RPD-004-05,Basin Floor Cord Lash,Squall Cordloop,F2,Ruler,B
+MV-SIG-RPD-004-06,Rimward Pull Drag,Imperious Reelin,F1,Ruler,B
+MV-SIG-RPD-004-07,Counter-Track Screen,Statute Tailring,F2,Ruler,B
+MV-SIG-RPD-004-08,Basin Floor Snare Spread,Guileful Dartneck,F1,Ruler,B
+MV-SIG-RPD-004-09,Track-Cleaving Qi Dart,Radiance Loopcast,F2,Ruler,B
+MV-SIG-RPD-004-10,Dual-Track Break of the Guard,Radiance Snapback,F2,Demigod,B
+MV-SIG-RPD-004-11,Basin Dual-Track Round,Destiny Darttip,F2,Ruler,B
+MV-SIG-RPD-005-01,Hawk and Basin Lead Cast,Reelinbanner,F4,Demigod,B
+MV-SIG-RPD-005-02,Basin Rim Guard Turn,Deluge Ringend,F2,Demigod,B
+MV-SIG-RPD-005-03,Wing-Shadow Cord Step,Feather Cordlength,F1,Demigod,B
+MV-SIG-RPD-005-04,Hawk Circling Wrap,Thrall Flickhand,F2,Demigod,B
+MV-SIG-RPD-005-05,Basin Wall Rebound Throw,Illustrious Reelin,F1,Demigod,B
+MV-SIG-RPD-005-06,Updraft Parry Spiral,Squallpluck,F5,Demigod,B
+MV-SIG-RPD-005-07,Hawk Plunge Through the Basin,Tinebanner,F4,Demigod,B
+MV-SIG-RPD-005-08,Basin Cord Mesh Laid,Artful Dartneck,F1,Demigod,B
+MV-SIG-RPD-005-09,Stoop-and-Rim Flashing Strike,Ethereal Cordknot,F1,Demigod,B
+MV-SIG-RPD-005-10,Hawk-in-the-Basin Final Form,Orchestral Tenet Whipout,F6a,Demigod,B
+MV-SIG-RPD-006-01,Twin Cord Core Opening,Peal Loopcast,F2,Core Formation,B
+MV-SIG-RPD-006-02,Core-Fed Cord Guard,Cordloop Covenant,F3,Core Formation,B
+MV-SIG-RPD-006-03,Core Pulse Step,Squallspool,F5,Core Formation,B
+MV-SIG-RPD-006-04,Twin Loop Settle,Sigil Dartblade,F2,Core Formation,B
+MV-SIG-RPD-006-05,Core-Steadied Orbit,Thrumtroth,F4,Core Formation,B
+MV-SIG-RPD-006-06,Twin Cord Crossing Lash,Quenched Spiralcast,F2,Core Formation,B
+MV-SIG-RPD-006-07,Core Thrum Binding,Sigilpluck,F5,Core Formation,B
+MV-SIG-RPD-006-08,Core-Held Parry Spin,Squall Cordwinder,F2,Core Formation,B
+MV-SIG-RPD-006-09,Core Surge Dart Plunge,Plucktriumph,F4,Core Formation,B
+MV-SIG-RPD-006-10,Twin Cord Core Snare,Artful Tailring,F1,Core Formation,B
+MV-SIG-RPD-006-11,Core-Driven Twin Cord Breach,Paramount Dartblade,F1,Core Formation,B
+MV-SIG-RPD-006-12,Core Rolls Twin Sequence,Symphonic Season Cordlength,F6a,Core Formation,B
+MV-SIG-RPD-007-01,Sworn Cord First Cast,Lordly Retrieve,F1,Warrior,B
+MV-SIG-RPD-007-02,Wind-Side Guard Loop,Sanctum Darttip,F2,Warrior,B
+MV-SIG-RPD-007-03,Open Plateau Shuffle,Wraithlike Cordloop,F1,Warrior,B
+MV-SIG-RPD-007-04,Wind-Sworn Wrist Snare,Sigil Loopcast,F2,Warrior,B
+MV-SIG-RPD-007-05,Gustbreak Cord Spin,Pealpluck,F5,Warrior,B
+MV-SIG-RPD-007-06,Oath Lash of the Dart,Bedrock Spiralcast,F2,Warrior,B
+MV-SIG-RPD-007-07,Plateau Peg Snare Field,Dunespool,F5,Champion,B
+MV-SIG-RPD-007-08,Sworn Wind Dart Pierce,Tineverdict,F4,Champion,B
+MV-SIG-RPD-007-09,Wind-Sworn Gale Rending Cast,Pulsarreelin,F5,Demigod,B
+MV-SIG-RPD-007-10,Sworn Wind Round Sequence,Orchestral Dartneck Edict,F6b,Warrior,B
+MV-SIG-RPD-008-01,Edge-Cast Opening,Noble Whipout,F1,Warrior,B
+MV-SIG-RPD-008-02,Lip-Walker's Guard,Bedrock Cordknot,F2,Warrior,B
+MV-SIG-RPD-008-03,Rim Footing Slide,Vigor Spiralcast,F2,Warrior,B
+MV-SIG-RPD-008-04,Edge Lash Return,Thunderclap Ringend,F2,Warrior,B
+MV-SIG-RPD-008-05,Rope-Hold Over the Drop,Steel Cordwinder,F2,Warrior,B
+MV-SIG-RPD-008-06,Windfall Cord Drag,Commanding Reelin,F1,Warrior,B
+MV-SIG-RPD-008-07,Rim Shear Parry,Inviolate Dartneck,F1,Warrior,B
+MV-SIG-RPD-008-08,Hidden Edge Cord Ambush,Dune Dartblade,F2,Champion,B
+MV-SIG-RPD-008-09,Edge-Drop Qi Dart,Imperial Flickhand,F1,Champion,B
+MV-SIG-RPD-008-10,Edge-Breaking Fall of the Dart,Haemaltine,F5,Demigod,B
+MV-SIG-RPD-008-11,Plateau Edge Last Form,Grand Whipout,F1,Warrior,B
+MV-SIG-RPD-009-01,Oath Cord Cast,Prismpluck,F5,Champion,B
+MV-SIG-RPD-009-02,Sworn Cord Guard Hold,Steelthrum,F5,Champion,B
+MV-SIG-RPD-009-03,Kept Step Forward,Dune Reelin,F2,Champion,B
+MV-SIG-RPD-009-04,Binding Loop Offered,Sigilthrum,F5,Champion,B
+MV-SIG-RPD-009-05,Oath Cinch on the Wrist,Hornbeam Cordlength,F2,Champion,B
+MV-SIG-RPD-009-06,Kept Bearing Cord Screen,Bedrock Darttip,F2,Champion,B
+MV-SIG-RPD-009-07,Oath-Pressed Dart Thrust,Steel Snapback,F2,Champion,B
+MV-SIG-RPD-009-08,Oath Pull-In,Tinetroth,F4,Champion,B
+MV-SIG-RPD-009-09,Oath Net Spread,Dunetine,F5,Champion,B
+MV-SIG-RPD-009-10,Oath Qi Dart Drive,Prism Tailring,F2,Champion,B
+MV-SIG-RPD-009-11,Oath-Kept Cord Breach,Vacuum Snapback,F2,Demigod,B
+MV-SIG-RPD-009-12,Oath-Cord Order Entire,Harmonious Season Loopcast,F6a,Champion,B
+MV-SIG-RPD-010-01,Bearing Gale Lead Cast,Pluckbanner,F4,Ruler,B
+MV-SIG-RPD-010-02,Gale-Held Guard Turn,Delugepluck,F5,Ruler,B
+MV-SIG-RPD-010-03,Heading Hold Advance,Evanescent Flickhand,F1,Ruler,B
+MV-SIG-RPD-010-04,Gale Lash on the Bearing,Triumphant Cordloop,F1,Ruler,B
+MV-SIG-RPD-010-05,Bearing Drag Wrap,Millstone Spiralcast,F2,Ruler,B
+MV-SIG-RPD-010-06,Gale Parry Spiral,Peal Cordknot,F2,Ruler,B
+MV-SIG-RPD-010-07,Held Heading Screen,Enshrined Tailring,F1,Ruler,B
+MV-SIG-RPD-010-08,Gale-Line Snare Pegged,Retribution Cordlength,F2,Ruler,B
+MV-SIG-RPD-010-09,Bearing Qi Dart Run,Flickhand Banner,F3,Ruler,B
+MV-SIG-RPD-010-10,Gale Bearing Cord Rupture,Thunderclap Retrieve,F2,Demigod,B
+MV-SIG-RPD-010-11,Bearing and Gale Course,Destiny Ringend,F2,Ruler,B
+MV-SIG-RPD-011-01,Open Sky Lead Cast,Unrivaled Cordwinder,F1,Demigod,B
+MV-SIG-RPD-011-02,Cloudless Guard Turn,Pealthrum,F5,Demigod,B
+MV-SIG-RPD-011-03,Sky-Edge Cord Step,Soundless Dartneck,F1,Demigod,B
+MV-SIG-RPD-011-04,Open Sky Wrist Loop,Thrallpluck,F5,Demigod,B
+MV-SIG-RPD-011-05,Cord Windmill Screen,Glacier Darttip,F2,Demigod,B
+MV-SIG-RPD-011-06,Falling Sky Lash,Thunderclap Cordknot,F2,Demigod,B
+MV-SIG-RPD-011-07,Open Plain Net Cast,Retribution Cordwinder,F2,Demigod,B
+MV-SIG-RPD-011-08,Sky Qi Dart Plunge,Pulsar Dartblade,F2,Demigod,B
+MV-SIG-RPD-011-09,Wind-Sworn Sky Flash Strike,Season Spiralcast,F2,Demigod,B
+MV-SIG-RPD-011-10,Open Sky Last Round,Harmonious Retrieve,F1,Demigod,B
+MV-SIG-RPD-012-01,Long Cord Core Opening,Radiance Cordloop,F2,Core Formation,B
+MV-SIG-RPD-012-02,Core Wind Cord Guard,Thrumvow,F4,Core Formation,B
+MV-SIG-RPD-012-03,Core Heading Step,Squall Whipout,F2,Core Formation,B
+MV-SIG-RPD-012-04,Long Loop Settle,Ringend Pledge,F3,Core Formation,B
+MV-SIG-RPD-012-05,Core-Fed Long Orbit,Undefiled Cordwinder,F1,Core Formation,B
+MV-SIG-RPD-012-06,Gale Core Lash,Inferno Retrieve,F2,Core Formation,B
+MV-SIG-RPD-012-07,Core Bearing Wrap,Authoritative Loopcast,F1,Core Formation,B
+MV-SIG-RPD-012-08,Core Wind Cord Parry,Parity Flickhand,F2,Core Formation,B
+MV-SIG-RPD-012-09,Core Gale Dart Plunge,Cordknot Banner,F3,Core Formation,B
+MV-SIG-RPD-012-10,Core Long Snare Laid,Tineseal,F4,Core Formation,B
+MV-SIG-RPD-012-11,Core-Driven Long Cord Breach,Steel Dartblade,F2,Core Formation,B
+MV-SIG-RPD-012-12,Gale Core Long Sequence,Symphonic Whipout,F1,Core Formation,B
+MV-SIG-RPD-003-04,Glacier Tailring,Taut Tailring,F2,Champion,B
+MV-SIG-RPD-003-06,Hornbeam Darttip,Deflecting Darttip,F2,Champion,B
+MV-SIG-RPD-003-08,Glacier Retrieve,Fettering Retrieve,F2,Champion,B
+MV-SIG-RPD-003-10,Dune Cordknot,Lurking Cordknot,F2,Champion,B
+MV-SIG-RPD-004-02,Glacier Dartblade,Sound Dartblade,F2,Ruler,B
+MV-SIG-RPD-004-04,Glacier Cordlength,Fettering Cordlength,F2,Ruler,B
+MV-SIG-RPD-007-02,Sanctum Darttip,Stolid Darttip,F2,Warrior,B
+MV-SIG-RPD-008-08,Dune Dartblade,Latching Dartblade,F2,Champion,B
+MV-SIG-RPD-009-03,Dune Reelin,Fleet Reelin,F2,Champion,B
+MV-SIG-RPD-009-05,Hornbeam Cordlength,Hobbling Cordlength,F2,Champion,B
+MV-SIG-RPD-011-05,Glacier Darttip,Stalwart Darttip,F2,Demigod,B
+MV-SIG-RPD-007-07,Dunespool,Latchspool,F5,Champion,B
+MV-SIG-RPD-009-09,Dunetine,Latchtine,F5,Champion,B

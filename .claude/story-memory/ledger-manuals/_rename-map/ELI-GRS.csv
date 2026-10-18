@@ -1,0 +1,160 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-GRS-001-01,Dual-Track Heavy Chop,Greatedge Havoc,F3,Demigod L1 Low,B
+MV-ELI-GRS-001-02,Track Switch Pace,Flangeglare,F4,Demigod L1 Low,B
+MV-ELI-GRS-001-03,Heavy Blade Cover Hold,Obdurate Flange,F1,Demigod L1 Low,B
+MV-ELI-GRS-001-04,Two-Track Qi Cleave,Heft Ruin,F3,Demigod L1 Low,B
+MV-ELI-GRS-001-05,Dual Cover Beat,Haul Spine,F3,Demigod L1 Low,B
+MV-ELI-GRS-001-06,Paired Pace Lunge,Windmill Scourge,F3,Demigod L1 Low,B
+MV-ELI-GRS-001-07,Field Dual Heavy Cut,Tempered Rondel,F2,Demigod L1 Low,B
+MV-ELI-GRS-001-08,Track Exchange Sequence,Greatsweep Reckoning,F3,Demigod L1 Low,B
+MV-ELI-GRS-001-09,Dual-Track Flash Cleave,Dazzling Hiltwrap,F1,Demigod L1 Low,B
+MV-ELI-GRS-002-01,Hawk Ridge Guard,Obdurate Longgrip,F1,Demigod L1 Mid,B
+MV-ELI-GRS-002-02,Stoop Preparation Rise,Blaze Counterweight,F2,Demigod L1 Mid,B
+MV-ELI-GRS-002-03,Keen Wing Parry,Flintlike Crossbeam,F1,Demigod L1 Mid,B
+MV-ELI-GRS-002-04,Descent Pace,Phantom Wrench,F1,Demigod L1 Mid,B
+MV-ELI-GRS-002-05,Field Stoop Cut,Mightflange,F5,Demigod L1 Mid,B
+MV-ELI-GRS-002-06,Crossguard Ground Pin,Immobilizing Overswing,F1,Demigod L1 Mid,B
+MV-ELI-GRS-002-07,Soaring Step Lunge,Wrathful Flange,F1,Demigod L1 Mid,B
+MV-ELI-GRS-002-08,Falling Field Cleave,Flangehavoc,F4,Demigod L1 Mid,B
+MV-ELI-GRS-002-09,Hawk Cloud Sweep,Mulinet Wrath,F3,Demigod L1 Mid,B
+MV-ELI-GRS-002-10,Hawk's Sky-Fall Stoop,Ghosting Rumble Lugs,F6a,Demigod L1 Low,B
+MV-ELI-GRS-003-01,Basin Court Opening Cut,Ferocious Overswing,F1,Demigod L2 Low,B
+MV-ELI-GRS-003-02,Low Ground Pace,Gust Greatedge,F2,Demigod L2 Low,B
+MV-ELI-GRS-003-03,Court Level Guard,Granite Hiltwrap,F2,Demigod L2 Low,B
+MV-ELI-GRS-003-04,Gathering Basin Beat,Chime Longgrip,F2,Demigod L2 Low,B
+MV-ELI-GRS-003-05,Court Pair Cleave,Heftwrath,F4,Demigod L2 Low,B
+MV-ELI-GRS-003-06,Basin Lip Parry,Murk Rondel,F2,Demigod L2 Low,B
+MV-ELI-GRS-003-07,Basin Collapse Cleave,Granite Mulinet,F2,Demigod L2 Low,B
+MV-ELI-GRS-003-08,Court Answer Sequence,Escalating Bulk,F1,Demigod L2 Low,B
+MV-ELI-GRS-003-09,Basin Pooling Sweep,Lugsmettle,F4,Demigod L1 Low,B
+MV-ELI-GRS-004-01,River Source Cut,Heft Scourge,F3,Demigod L3 Low,B
+MV-ELI-GRS-004-02,Stone Bypass Pace,Haul Flash,F3,Demigod L3 Low,B
+MV-ELI-GRS-004-03,Eddy Parry,Rondelvalor,F4,Demigod L3 Low,B
+MV-ELI-GRS-004-04,Water Current Glance,Healing Bulk,F1,Demigod L3 Low,B
+MV-ELI-GRS-004-05,Bank Guard Hold,Inexorable Crossbeam,F1,Demigod L3 Low,B
+MV-ELI-GRS-004-06,Bend Cut,Counterweight Reckoning,F3,Demigod L3 Low,B
+MV-ELI-GRS-004-07,Eddy Bind,Hauldurance,F4,Demigod L3 Low,B
+MV-ELI-GRS-004-08,Undercurrent Thrust,Greatsweep Wrath,F3,Demigod L3 Low,B
+MV-ELI-GRS-004-09,River Mouth Cleave,Blaze Wrench,F2,Demigod L3 Low,B
+MV-ELI-GRS-004-10,Flood-Turn Sequence,Wrenchruin,F4,Demigod L3 Low,B
+MV-ELI-GRS-004-11,Torrent Through the Bend,Rumble Overswing,F2,Demigod L1 Low,B
+MV-ELI-GRS-005-01,Pair Discipline Cut,Rumblerondel,F5,Demigod L5 Low,B
+MV-ELI-GRS-005-02,Pair Discipline Ward,Facetlugs,F5,Demigod L5 Low,B
+MV-ELI-GRS-005-03,Matched Pace,Gust Lugs,F2,Demigod L5 Low,B
+MV-ELI-GRS-005-04,Disciplined Counter Cleave,Rumble Crossbeam,F2,Demigod L5 Low,B
+MV-ELI-GRS-005-05,Paired Parry Return,Chimelugs,F5,Demigod L5 Low,B
+MV-ELI-GRS-005-06,Guard Pair Press,Hoarfrost Longgrip,F2,Demigod L5 Low,B
+MV-ELI-GRS-005-07,Discipline Heavy Cut,Haulscourge,F4,Demigod L5 Low,B
+MV-ELI-GRS-005-08,Paired Answer Sequence,Lot Windmill,F2,Demigod L5 Low,B
+MV-ELI-GRS-005-09,Paired Edge Reflection,Waning Greatedge,F2,Demigod L1 Low,B
+MV-ELI-GRS-006-01,Azure Edge Cut,Blazeflange,F5,Void God L1 Low,B
+MV-ELI-GRS-006-02,Azure Edge Guard,Bulkspine,F4,Void God L1 Low,B
+MV-ELI-GRS-006-03,Azure Pace,Haulblink,F4,Void God L1 Low,B
+MV-ELI-GRS-006-04,Azure Beat,Chime Mulinet,F2,Void God L1 Low,B
+MV-ELI-GRS-006-05,Azure Glance,Verityheft,F5,Void God L1 Low,B
+MV-ELI-GRS-006-06,Sky-Line Cleave,Gustflange,F5,Void God L1 Low,B
+MV-ELI-GRS-006-07,Azure Parry Turn,Evergreen Bulk,F1,Void God L1 Low,B
+MV-ELI-GRS-006-08,Azure Cover Bind,Fastening Hiltwrap,F2,Void God L1 Low,B
+MV-ELI-GRS-006-09,Azure Field Thrust,Hollowrondel,F5,Void God L1 Low,B
+MV-ELI-GRS-006-10,Azure Heavy Cleave,Ironwrench,F5,Void God L1 Low,B
+MV-ELI-GRS-006-11,Azure Field Sweep,Corroding Counterweight,F1,Void God L1 Low,B
+MV-ELI-GRS-006-12,Azure Edge Sequence,Intent Heft,F2,Void God L1 Low,B
+MV-ELI-GRS-006-13,Azure Great Sweep,Berserk Daybreak Flange,F6a,Void God L1 Low,B
+MV-ELI-GRS-007-01,Court Mirror Cleave,Granite Greatsweep,F2,Demigod L4 Mid,B
+MV-ELI-GRS-007-02,Court Mirror Guard,Adamantine Rondel,F1,Demigod L4 Mid,B
+MV-ELI-GRS-007-03,Mirror Pace,Meteoric Haul,F1,Demigod L4 Mid,B
+MV-ELI-GRS-007-04,Court Mirror Beat,Mayhem Greatsweep,F2,Demigod L4 Mid,B
+MV-ELI-GRS-007-05,Left Court Qi Cut,Mighthaul,F5,Demigod L4 Mid,B
+MV-ELI-GRS-007-06,Right Court Qi Cut,Sanguine Wrench,F2,Demigod L4 Mid,B
+MV-ELI-GRS-007-07,Court Crossing Bind,Harnessing Flange,F1,Demigod L4 Mid,B
+MV-ELI-GRS-007-08,Twin-Court Field Cleave,Ironbulk,F5,Demigod L4 Mid,B
+MV-ELI-GRS-007-09,Court Doctrine Sequence,Confluent Lugs,F1,Demigod L4 Mid,B
+MV-ELI-GRS-007-10,Twin-Court Mirror Break,Maiming Overswing,F1,Demigod L1 Low,B
+MV-ELI-GRS-008-01,Basin Letter Cut,Blaze Hiltwrap,F2,Monarch L3 Low,B
+MV-ELI-GRS-008-02,Basin Letter Guard,Iron Greatedge,F2,Monarch L3 Low,B
+MV-ELI-GRS-008-03,Basin Letter Pace,Lightning Windmill,F1,Monarch L3 Low,B
+MV-ELI-GRS-008-04,Meridian Weighted Cleave,Rumbleheft,F5,Monarch L3 Low,B
+MV-ELI-GRS-008-05,Net-Driven Parry,Heftnerve,F4,Monarch L3 Low,B
+MV-ELI-GRS-008-06,Basin Press Bind,Fastening Crossbeam,F2,Monarch L3 Low,B
+MV-ELI-GRS-008-07,Meridian Net Heavy Cut,Sanguine Heft,F2,Monarch L3 Low,B
+MV-ELI-GRS-008-08,Basin Net Sequence,Intentlugs,F5,Monarch L3 Low,B
+MV-ELI-GRS-008-09,Net Surge Heavy Cleave,Gnashing Haul,F1,Demigod L1 Low,B
+MV-ELI-GRS-009-01,Sworn Wind Cut,Might Longgrip,F2,Demigod L1 Low,B
+MV-ELI-GRS-009-02,Sworn Wind Guard,Unassailable Lugs,F1,Demigod L1 Low,B
+MV-ELI-GRS-009-03,Sworn Wind Pace,Torrent Wrench,F2,Demigod L1 Low,B
+MV-ELI-GRS-009-04,Sworn Wind Glance,Waning Bulk,F2,Demigod L1 Low,B
+MV-ELI-GRS-009-05,Doctrine Gust Cleave,Might Crossbeam,F2,Demigod L1 Low,B
+MV-ELI-GRS-009-06,Sworn Bearing Bind,Fastening Windmill,F2,Demigod L1 Low,B
+MV-ELI-GRS-009-07,Wind Doctrine Parry,Indomitable Counterweight,F1,Demigod L1 Low,B
+MV-ELI-GRS-009-08,Air-Obeyed Heavy Cut,Greatsweep Havoc,F3,Demigod L1 Low,B
+MV-ELI-GRS-009-09,Sworn Air Sweep,Blaze Mulinet,F2,Demigod L1 Low,B
+MV-ELI-GRS-009-10,Wind Surge Flash Cleave,Headlong Rondel,F1,Demigod L1 Low,B
+MV-ELI-GRS-010-01,Rim Bearing Cut,Blaze Overswing,F2,Demigod L2 Mid,B
+MV-ELI-GRS-010-02,Rim Bearing Guard,Heftmettle,F4,Demigod L2 Mid,B
+MV-ELI-GRS-010-03,Rim Bearing Pace,Lugsflash,F4,Demigod L2 Mid,B
+MV-ELI-GRS-010-04,Plateau Qi Cleave,Mulinet Reckoning,F3,Demigod L2 Mid,B
+MV-ELI-GRS-010-05,Bearing Shift Parry,Unassailable Greatedge,F1,Demigod L2 Mid,B
+MV-ELI-GRS-010-06,High Ground Press,Shadehaul,F5,Demigod L2 Mid,B
+MV-ELI-GRS-010-07,Bearing Fall Cleave,Bulkruin,F4,Demigod L2 Mid,B
+MV-ELI-GRS-010-08,Plateau Run Sequence,Confluent Haul,F1,Demigod L2 Mid,B
+MV-ELI-GRS-010-09,Plateau Edge Flash Cut,Vanishing Rondel,F1,Demigod L1 Low,B
+MV-ELI-GRS-011-01,Vow to the Gale Cut,Lugswrath,F4,Demigod L1 High,B
+MV-ELI-GRS-011-02,Gale Oath Guard,Heft Durance,F3,Demigod L1 High,B
+MV-ELI-GRS-011-03,Gale Oath Pace,Silt Hiltwrap,F2,Demigod L1 High,B
+MV-ELI-GRS-011-04,Oath Spoken Beat,Wrench Durance,F3,Demigod L1 High,B
+MV-ELI-GRS-011-05,Gale Pull Reading Glance,Waningflange,F5,Demigod L1 High,B
+MV-ELI-GRS-011-06,Gale-Swung Cleave,Lugs Devastation,F3,Demigod L1 High,B
+MV-ELI-GRS-011-07,Oath-Held Parry,Murk Bulk,F2,Demigod L1 High,B
+MV-ELI-GRS-011-08,Swung Steel Bind,Fastening Counterweight,F2,Demigod L1 High,B
+MV-ELI-GRS-011-09,Gale Thrust Pierce,Longgrip Ruin,F3,Demigod L1 High,B
+MV-ELI-GRS-011-10,Oath Heavy Swing,Lugshavoc,F4,Demigod L1 High,B
+MV-ELI-GRS-011-11,Gale Oath Sequence,Hour Windmill,F2,Demigod L1 High,B
+MV-ELI-GRS-011-12,Gale Vow Rending Cut,Decimating Nova Greatedge,F6a,Demigod L1 Low,B
+MV-ELI-GRS-012-01,Open Field Cut,Iron Crossbeam,F2,Demigod L4 Low,B
+MV-ELI-GRS-012-02,Open Field Facing Guard,Facet Longgrip,F2,Demigod L4 Low,B
+MV-ELI-GRS-012-03,Open Field Pace,Might Counterweight,F2,Demigod L4 Low,B
+MV-ELI-GRS-012-04,Unwalled Qi Cleave,Rondelwrath,F4,Demigod L4 Low,B
+MV-ELI-GRS-012-05,Open Ground Parry,Unassailable Flange,F1,Demigod L4 Low,B
+MV-ELI-GRS-012-06,Unwalled Beat,Strangling Lugs,F1,Demigod L4 Low,B
+MV-ELI-GRS-012-07,Standing Field Cleave,Granite Windmill,F2,Demigod L4 Low,B
+MV-ELI-GRS-012-08,Open Edge Chain,Reverberating Overswing,F1,Demigod L4 Low,B
+MV-ELI-GRS-012-09,Standing Unwalled Reflection,Facet Hiltwrap,F2,Demigod L1 Low,B
+MV-ELI-GRS-013-01,Held Bearing Chop,Iron Haul,F2,Demigod L6 Low,B
+MV-ELI-GRS-013-02,Steady-Line Greatsword Turn,Unrelenting Heft,F1,Demigod L6 Low,B
+MV-ELI-GRS-013-03,Held Bearing Pace,Lugsblink,F4,Demigod L6 Low,B
+MV-ELI-GRS-013-04,Held Bearing Glance,Heftinsight,F4,Demigod L6 Low,B
+MV-ELI-GRS-013-05,Unyielding Bearing Cleave,Blaze Greatsweep,F2,Demigod L6 Low,B
+MV-ELI-GRS-013-06,Bearing Anchor Guard,Facet Rondel,F2,Demigod L6 Low,B
+MV-ELI-GRS-013-07,Held Line Bind,Mastering Wrench,F1,Demigod L6 Low,B
+MV-ELI-GRS-013-08,Held Line Heavy Cleave,Tempered Flange,F2,Demigod L6 Low,B
+MV-ELI-GRS-013-09,Bearing Chain Sequence,Doctrine Hiltwrap,F2,Demigod L6 Low,B
+MV-ELI-GRS-013-10,Bearing Unbroken Cleave,Rondelspine,F4,Demigod L1 Low,B
+MV-ELI-GRS-014-01,Wind Line Chop,Granite Rondel,F2,Void God L1 Mid,B
+MV-ELI-GRS-014-02,Wind Line Ward,Greatedge Spine,F3,Void God L1 Mid,B
+MV-ELI-GRS-014-03,Wind Line Pace,Gusthaul,F5,Void God L1 Mid,B
+MV-ELI-GRS-014-04,Far Wind Cleave,Devastating Lugs,F1,Void God L1 Mid,B
+MV-ELI-GRS-014-05,Line Crossing Parry,Torrent Bulk,F2,Void God L1 Mid,B
+MV-ELI-GRS-014-06,Windward Press,Charter Windmill,F2,Void God L1 Mid,B
+MV-ELI-GRS-014-07,Long Wind Line Cleave,Corroding Heft,F1,Void God L1 Mid,B
+MV-ELI-GRS-014-08,Line Following Sequence,Rondelhavoc,F4,Void God L1 Mid,B
+MV-ELI-GRS-014-09,Wind Line Far Cut,Hellish Mulinet,F1,Void God L1 Mid,B
+MV-ELI-GRS-015-01,Sworn Edge Chop,Bulk Havoc,F3,Demigod L3 High,B
+MV-ELI-GRS-015-02,Sworn Edge Parry,Unbudging Crossbeam,F1,Demigod L3 High,B
+MV-ELI-GRS-015-03,Sworn Edge Pace,Might Overswing,F2,Demigod L3 High,B
+MV-ELI-GRS-015-04,Sworn Edge Beating Strike,Chime Counterweight,F2,Demigod L3 High,B
+MV-ELI-GRS-015-05,Sworn Edge Glance,Clairvoyant Crossbeam,F1,Demigod L3 High,B
+MV-ELI-GRS-015-06,Cut Sworn Aloud,Haul Devastation,F3,Demigod L3 High,B
+MV-ELI-GRS-015-07,Sworn Press Guard,Indomitable Flange,F1,Demigod L3 High,B
+MV-ELI-GRS-015-08,Edge Oath Bind,Gyve Counterweight,F2,Demigod L3 High,B
+MV-ELI-GRS-015-09,Open Edge Sworn Cleave,Ferocious Longgrip,F1,Demigod L3 High,B
+MV-ELI-GRS-015-10,Sworn Edge Sequence,Lotlugs,F5,Demigod L3 High,B
+MV-ELI-GRS-015-11,Sworn Edge Wind Break,Mayhem Wrench,F2,Demigod L1 Low,B
+MV-ELI-GRS-016-01,Letter Wind Cut,Wrathful Lugs,F1,Monarch L6 Low,B
+MV-ELI-GRS-016-02,Letter Wind Guard,Invincible Heft,F1,Monarch L6 Low,B
+MV-ELI-GRS-016-03,Letter Wind Pace,Blinding Greatsweep,F1,Monarch L6 Low,B
+MV-ELI-GRS-016-04,Net Gust Cleave,Vengeful Greatedge,F1,Monarch L6 Low,B
+MV-ELI-GRS-016-05,Plateau Net Parry,Hiltwrap Tenacity,F3,Monarch L6 Low,B
+MV-ELI-GRS-016-06,Wind Press Bind,Thornflange,F5,Monarch L6 Low,B
+MV-ELI-GRS-016-07,Wind Net Heavy Cut,Unsparing Haul,F1,Monarch L6 Low,B
+MV-ELI-GRS-016-08,Plateau Net Sequence,Intentflange,F5,Monarch L6 Low,B
+MV-ELI-GRS-016-09,Net-Borne Gust Cut,Shattering Granite Overswing,F6a,Demigod L1 Low,B

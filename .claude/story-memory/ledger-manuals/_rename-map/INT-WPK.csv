@@ -1,0 +1,56 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-WPK-001-01,Quilted Coat Spike Press,Dire Stonetip,F1,Senior L4 Low,A
+MV-INT-WPK-001-02,Sleeve-Gap Beak Slip,Fierce Pickfluke,F1,Senior L4 Low,A
+MV-INT-WPK-001-03,Heel-Set Pick Guard,Rooted Backbill,F1,Senior L4 Low,A
+MV-INT-WPK-001-04,Thread-Count Glance,Flukebandage,F4,Senior L4 Low,A
+MV-INT-WPK-001-05,Wadding-Piercing Drive,Peck Hammerfall,F3,Senior L4 Low,A
+MV-INT-WPK-001-06,Padded Sleeve Pin,Tethering Spikebeak,F1,Senior L4 Low,A
+MV-INT-WPK-002-01,Shield-Edge Beak Catch,Pickbuckle,F4,Senior L6 Mid,A
+MV-INT-WPK-002-02,Pick Under the Rim Thrust,Acrid Punch,F1,Senior L6 Mid,A
+MV-INT-WPK-002-03,Guard Hand Haft Brace,Stalwart Pickhelve,F1,Senior L6 Mid,A
+MV-INT-WPK-002-04,Round Shield Circling Step,Slinking Crack,F1,Senior L6 Mid,A
+MV-INT-WPK-002-05,Boss-Ring Listening,Alert Crowbill,F1,Senior L6 Mid,A
+MV-INT-WPK-002-06,Rim-Lift and Spike Drop,Gripping Peckhead,F1,Senior L6 Mid,A
+MV-INT-WPK-002-07,Shield-Splitting Hammer Blow,Chinkthwack,F4,Senior L6 Mid,A
+MV-INT-WPK-003-01,Lever-Arm Choke Grip,Stubborn Waistpoint,F1,Senior L8 Low,A
+MV-INT-WPK-003-02,Beak Collar Draw,Crackbuckle,F4,Senior L8 Low,A
+MV-INT-WPK-003-03,Hooked Knee Yank,Lassoing Drive,F1,Senior L8 Low,A
+MV-INT-WPK-003-04,Pull-Through Step,Prowling Hardtooth,F1,Senior L8 Low,A
+MV-INT-WPK-003-05,Tide-Turn Haft Heave,Levering Chink,F1,Senior L8 Low,A
+MV-INT-WPK-003-06,Anchored Beak Drag,Clutching Puncture,F1,Senior L8 Low,A
+MV-INT-WPK-004-01,Cuirass Face Hammering,Flukeslap,F4,Warrior L1 Low,B
+MV-INT-WPK-004-02,Greave Edge Spike,Rugged Puncture,F1,Warrior L1 Low,B
+MV-INT-WPK-004-03,Plate Shoulder Check Guard,Sprig Peckhead,F2,Warrior L1 Low,B
+MV-INT-WPK-004-04,Visor Slit Probe,Sharddrive,F5,Warrior L1 Low,B
+MV-INT-WPK-004-05,Gorget Rap Listening,Recall Ironthorn,F2,Warrior L1 Low,B
+MV-INT-WPK-004-06,Backward Plate Drag Step,Draught Stonetip,F2,Warrior L1 Low,B
+MV-INT-WPK-004-07,Rivet-Line Splitting Blow,Rude Chink,F1,Warrior L1 Low,B
+MV-INT-WPK-004-08,Plate Peel Lever,Static Backbill,F2,Warrior L1 Low,B
+MV-INT-WPK-005-01,Butt-Hand Wide Guard,Waistpoint Barrier,F3,Warrior L2 Mid,B
+MV-INT-WPK-005-02,Full-Reach Spike Stab,Blank Hardtooth,F2,Warrior L2 Mid,B
+MV-INT-WPK-005-03,Haft Sweep Beat,Brawn Punch,F2,Warrior L2 Mid,B
+MV-INT-WPK-005-04,Gliding Back Pace,Grit Crack,F2,Warrior L2 Mid,B
+MV-INT-WPK-005-05,Long Haft Turning Parry,Hum Pickhelve,F2,Warrior L2 Mid,B
+MV-INT-WPK-005-06,Spike-at-Reach Lunge,Shard Peck,F2,Warrior L2 Mid,B
+MV-INT-WPK-006-01,Two-Hand Mid Haft Ready,Claycrow,F5,Warrior L3 Low,B
+MV-INT-WPK-006-02,Downhill Beak Chop,Gleam Drive,F2,Warrior L3 Low,B
+MV-INT-WPK-006-03,Crosswise Hammer Beat,Stonetip Hammerfall,F3,Warrior L3 Low,B
+MV-INT-WPK-006-04,Raised Haft Ward,Hazepick,F5,Warrior L3 Low,B
+MV-INT-WPK-006-05,Wide Base Advance,Peckhurdle,F4,Warrior L3 Low,B
+MV-INT-WPK-006-06,Hands-Apart Range Reading,Pickfluke Bandage,F3,Warrior L3 Low,B
+MV-INT-WPK-006-07,Full-Turn Beak Hew,Brass Spikebeak,F2,Warrior L3 Low,B
+MV-INT-WPK-006-08,Rebound Hammer Pair,Brasscrow,F5,Warrior L3 Low,B
+MV-INT-WPK-006-09,Haft Spin Fend,Pickbarrier,F4,Warrior L3 Low,B
+MV-INT-WPK-007-01,Rider's Stirrup Beak Hook,Discord Crowbill,F2,Warrior L5 Low,B
+MV-INT-WPK-007-02,Saddle-Leg Spike Prick,Blank Pickhelve,F2,Warrior L5 Low,B
+MV-INT-WPK-007-03,Low Guard Beside the Flank,Stalwart Ironthorn,F1,Warrior L5 Low,B
+MV-INT-WPK-007-04,Circling the Mount's Quarter,Rillfluke,F5,Warrior L5 Low,B
+MV-INT-WPK-007-05,Rider Down by the Girth,Punchscreen,F4,Warrior L5 Low,B
+MV-INT-WPK-007-06,Horse-Side Spike Brace,Hazefluke,F5,Warrior L5 Low,B
+MV-INT-WPK-008-01,Armpit Gap Spike Search,Shard Spikebeak,F2,Warrior L7 Low,B
+MV-INT-WPK-008-02,Hinge-Rivet Rap,Brassdrive,F5,Warrior L7 Low,B
+MV-INT-WPK-008-03,Elbow Cop Beak Hook,Entangling Punch,F1,Warrior L7 Low,B
+MV-INT-WPK-008-04,Joint-First Stance,Sleet Ironthorn,F2,Warrior L7 Low,B
+MV-INT-WPK-008-05,Shifting Gait for Plate Wearers,Puncture Stalk,F3,Warrior L7 Low,B
+MV-INT-WPK-008-06,Knee Cop Hinge Break,Crowbill Flog,F3,Warrior L7 Low,B
+MV-INT-WPK-008-07,Seam-Following Spike Run,Gleampunch,F5,Warrior L7 Low,B

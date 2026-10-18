@@ -1,0 +1,160 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-MCE-001-01,Court Opening Overstroke,Sanguine Batter,F2,Demigod L1 Low,B
+MV-ELI-MCE-001-02,Pair-Ready Stance Shift,Vanishing Pound,F1,Demigod L1 Low,B
+MV-ELI-MCE-001-03,Court Parry of Two,Evergreen Ironknob,F1,Demigod L1 Low,B
+MV-ELI-MCE-001-04,Head and Pommel Alternation,Dentscourge,F4,Demigod L1 Low,B
+MV-ELI-MCE-001-05,Binding Court Hook,Fastening Wristloop,F2,Demigod L1 Low,B
+MV-ELI-MCE-001-06,Court Ring Disruption,Chime Crush,F2,Demigod L1 Low,B
+MV-ELI-MCE-001-07,Twin Plate Crush,Nova Smash,F2,Demigod L1 Low,B
+MV-ELI-MCE-001-08,Court Press Suppression,Ponderous Studhead,F2,Demigod L1 Low,B
+MV-ELI-MCE-001-09,Twin-Court Final Weight,Decimating Glint Pearhead,F6a,Demigod L1 Low,B
+MV-ELI-MCE-002-01,Lacquer Crack Strike,Batterwrath,F4,Demigod L3 Low,B
+MV-ELI-MCE-002-02,Plate Edge Hooking,Pulp Obduracy,F3,Demigod L3 Low,B
+MV-ELI-MCE-002-03,Discourse Parry Turn,Murkpear,F5,Demigod L3 Low,B
+MV-ELI-MCE-002-04,Field Weight Checking,Macerespite,F4,Demigod L3 Low,B
+MV-ELI-MCE-002-05,Layered Guard Peel,Ironmace,F5,Demigod L3 Low,B
+MV-ELI-MCE-002-06,Basin Step Closing,Gustbatter,F5,Demigod L3 Low,B
+MV-ELI-MCE-002-07,Cuirass Backwash Blow,Facet Haftring,F2,Demigod L3 Low,B
+MV-ELI-MCE-002-08,Double Plate Collapse,Dentwrath,F4,Demigod L3 Low,B
+MV-ELI-MCE-002-09,River Weight Bursting,Unsparing Flangerib,F1,Demigod L3 Low,B
+MV-ELI-MCE-002-10,Azure Plate-Breaker's Last Stroke,Rumble Bellhead,F2,Demigod L3 Low,B
+MV-ELI-MCE-003-01,Downstream Overswing,Gust Ribhead,F2,Demigod L5 Low,B
+MV-ELI-MCE-003-02,Paired Head Check,Chime Wristloop,F2,Demigod L5 Low,B
+MV-ELI-MCE-003-03,River Footing Turn,Dazzling Dent,F1,Demigod L5 Low,B
+MV-ELI-MCE-003-04,Eddy Haft Guard,Murk Maceball,F2,Demigod L5 Low,B
+MV-ELI-MCE-003-05,Confluent Weight Smash,Blaze Smash,F2,Demigod L5 Low,B
+MV-ELI-MCE-003-06,Bank-Breaking Press,Charter Dent,F2,Demigod L5 Low,B
+MV-ELI-MCE-003-07,Flood-Gathering Stroke,Rampaging Maceball,F1,Demigod L5 Low,B
+MV-ELI-MCE-003-08,Spillway Sweep,Slag Pearhead,F2,Demigod L5 Low,B
+MV-ELI-MCE-003-09,River Paired Heads Descent,Glint Flangerib,F2,Demigod L5 Low,B
+MV-ELI-MCE-004-01,Dual-Track Overhead Smash,Tempered Maceneck,F2,Void God L1 Low,B
+MV-ELI-MCE-004-02,Basin Guard Reset,Bellhead Obduracy,F3,Void God L1 Low,B
+MV-ELI-MCE-004-03,Track-Cross Step,Dazzling Pound,F1,Void God L1 Low,B
+MV-ELI-MCE-004-04,Twin Guard Parry,Chime Ribhead,F2,Void God L1 Low,B
+MV-ELI-MCE-004-05,Inner Track Knob Strike,Rumble Ironknob,F2,Void God L1 Low,B
+MV-ELI-MCE-004-06,Guard-Strike Overlap,Blaze Crush,F2,Void God L1 Low,B
+MV-ELI-MCE-004-07,Haft Cross Binding,Ponderous Maceneck,F2,Void God L1 Low,B
+MV-ELI-MCE-004-08,Basin Rim Lock,Numbing Pulp,F1,Void God L1 Low,B
+MV-ELI-MCE-004-09,Hawk-Eye Weight Drop,Blistering Pound,F1,Void God L1 Low,B
+MV-ELI-MCE-004-10,Track-Breaking Crush,Hollow Batter,F2,Void God L1 Low,B
+MV-ELI-MCE-004-11,Basin Guard Dual Crush,Smashscourge,F4,Void God L1 Low,B
+MV-ELI-MCE-005-01,Hawk-Eyed Seam Strike,Shattering Maceneck,F1,Void God L4 Low,B
+MV-ELI-MCE-005-02,Raised Perch Step,Torrent Smash,F2,Void God L4 Low,B
+MV-ELI-MCE-005-03,Perch Haft Guard,Impervious Studhead,F1,Void God L4 Low,B
+MV-ELI-MCE-005-04,Eyeing Field Sense,Wristloop Respite,F3,Void God L4 Low,B
+MV-ELI-MCE-005-05,Azure Dive Hook,Poundspine,F4,Void God L4 Low,B
+MV-ELI-MCE-005-06,Rebounding Stoop Chain,Gust Flangerib,F2,Void God L4 Low,B
+MV-ELI-MCE-005-07,Talon Weight Cast,Shademace,F5,Void God L4 Low,B
+MV-ELI-MCE-005-08,Seam-Piercing Descent,Hollowcrush,F5,Void God L4 Low,B
+MV-ELI-MCE-005-09,Hawk Eye Final Descent,Rampaging Rumble Haftring,F6a,Void God L4 Low,B
+MV-ELI-MCE-006-01,Monarch Twin Overswing,Gust Pulp,F2,Monarch L2 Low,B
+MV-ELI-MCE-006-02,Court Rank Mace Pace,Lightning Ironknob,F1,Monarch L2 Low,B
+MV-ELI-MCE-006-03,Twin Haft Parry,Pearhead Valor,F3,Monarch L2 Low,B
+MV-ELI-MCE-006-04,Dual Meridian Strike,Tempered Ribhead,F2,Monarch L2 Low,B
+MV-ELI-MCE-006-05,Pommel Stagger Rap,Immobilizing Bellhead,F1,Monarch L2 Low,B
+MV-ELI-MCE-006-06,Heavy Court Hold,Thornrib,F5,Monarch L2 Low,B
+MV-ELI-MCE-006-07,Mortal Limit Crush,Lacerating Maceball,F1,Monarch L2 Low,B
+MV-ELI-MCE-006-08,Twin Meridian Suppression,Charter Haftring,F2,Monarch L2 Low,B
+MV-ELI-MCE-006-09,Monarch's Twin-Head Last Weight,Crushwrath,F4,Demigod L1 Low,B
+MV-ELI-MCE-007-01,Confluence Opening Smash,Corroding Crush,F1,True God L1 Low,B
+MV-ELI-MCE-007-02,Currents Step Gather,Poundflash,F4,True God L1 Low,B
+MV-ELI-MCE-007-03,River Wall Guard,Hoarfrost Studhead,F2,True God L1 Low,B
+MV-ELI-MCE-007-04,Paired Current Parry,Wristloop Obduracy,F3,True God L1 Low,B
+MV-ELI-MCE-007-05,Delta Spread Strike,Ironknob Reckoning,F3,True God L1 Low,B
+MV-ELI-MCE-007-06,Tributary Haft Binding,Fastening Bellhead,F2,True God L1 Low,B
+MV-ELI-MCE-007-07,Confluence Guard Break,Shadecrush,F5,True God L1 Low,B
+MV-ELI-MCE-007-08,Flood Plain Stroke,Mayhempear,F5,True God L1 Low,B
+MV-ELI-MCE-007-09,Backwater Counter,Glamour Pearhead,F2,True God L1 Low,B
+MV-ELI-MCE-007-10,Meeting-of-Waters Crush,Novapound,F5,True God L1 Low,B
+MV-ELI-MCE-007-11,Sovereign River Press,Batternerve,F4,True God L1 Low,B
+MV-ELI-MCE-007-12,River Confluence Last Stroke,Gnashing Batter Scourge,F6b,True God L1 Low,B
+MV-ELI-MCE-008-01,Basin-Edge Overstroke,Crushscourge,F4,Demigod L8 Low,B
+MV-ELI-MCE-008-02,Rim Skipping Step,Granite Maceneck,F2,Demigod L8 Low,B
+MV-ELI-MCE-008-03,Paired Edge Parry,Chimemace,F5,Demigod L8 Low,B
+MV-ELI-MCE-008-04,Beyond-Reach Feint,Reverie Smash,F2,Demigod L8 Low,B
+MV-ELI-MCE-008-05,Pairing Haft Crush,Brutalizing Dent,F1,Demigod L8 Low,B
+MV-ELI-MCE-008-06,Outer-Rim Hooking,Ponderous Batter,F2,Demigod L8 Low,B
+MV-ELI-MCE-008-07,Overflow Weight Blow,Hourbatter,F5,Demigod L8 Low,B
+MV-ELI-MCE-008-08,Edge-Passing Strike,Corroding Studhead,F1,Demigod L8 Low,B
+MV-ELI-MCE-008-09,Paired Strokes Beyond Weight,Facet Pound,F2,Demigod L8 Low,B
+MV-ELI-MCE-009-01,Oath-Sworn Opening Swing,Ferocious Crush,F1,Demigod L2 Low,B
+MV-ELI-MCE-009-02,Wind Bearing Entry,Mightdent,F5,Demigod L2 Low,B
+MV-ELI-MCE-009-03,Sworn Haft Parry,Ribvalor,F4,Demigod L2 Low,B
+MV-ELI-MCE-009-04,Gale Rolling Beat,Gnashing Maceball,F1,Demigod L2 Low,B
+MV-ELI-MCE-009-05,Plateau-Edge Binding,Gyve Flangerib,F2,Demigod L2 Low,B
+MV-ELI-MCE-009-06,Oath Pressure Check,Chime Pulp,F2,Demigod L2 Low,B
+MV-ELI-MCE-009-07,Gale Plate Crush,Ribhavoc,F4,Demigod L2 Low,B
+MV-ELI-MCE-009-08,Sworn Weight Crush,Intent Ironknob,F2,Demigod L2 Low,B
+MV-ELI-MCE-009-09,Wind-Sworn Last Oath,Nova Dent,F2,Demigod L2 Low,B
+MV-ELI-MCE-010-01,Bearing Break Knock,Blazepound,F5,Demigod L4 Low,B
+MV-ELI-MCE-010-02,Wind Edge Circling,Dazzling Haftring,F1,Demigod L4 Low,B
+MV-ELI-MCE-010-03,Haft Edge Deflection,Murk Ribhead,F2,Demigod L4 Low,B
+MV-ELI-MCE-010-04,Open-Ground Strike,Smashhavoc,F4,Demigod L4 Low,B
+MV-ELI-MCE-010-05,Shove-Proof Weapon Press,Shadebatter,F5,Demigod L4 Low,B
+MV-ELI-MCE-010-06,Gale Breaking Roll,Iron Maceneck,F2,Demigod L4 Low,B
+MV-ELI-MCE-010-07,Plateau Bearing Overturn,Mayhem Smash,F2,Demigod L4 Low,B
+MV-ELI-MCE-010-08,Gale Armor Burst,Pulp Havoc,F3,Demigod L4 Low,B
+MV-ELI-MCE-010-09,Wind-Spread Area Smash,Downpour Studhead,F2,Demigod L4 Low,B
+MV-ELI-MCE-010-10,Plateau Breaker's Last Gale,Dent Havoc,F3,Demigod L4 Low,B
+MV-ELI-MCE-011-01,Gale-Weighted Overswing,Rumble Ribhead,F2,Demigod L7 Low,B
+MV-ELI-MCE-011-02,Bearing Line Advance,Mightcrush,F5,Demigod L7 Low,B
+MV-ELI-MCE-011-03,Held Bearing Flange Ward,Inexorable Maceball,F1,Demigod L7 Low,B
+MV-ELI-MCE-011-04,Plateau Haft Deflection,Murk Flangerib,F2,Demigod L7 Low,B
+MV-ELI-MCE-011-05,Oath Weight Settle,Aegis Pearhead,F2,Demigod L7 Low,B
+MV-ELI-MCE-011-06,Wind-Edge Binding,Batter Fortitude,F3,Demigod L7 Low,B
+MV-ELI-MCE-011-07,Gale Held Suppression,Hour Crush,F2,Demigod L7 Low,B
+MV-ELI-MCE-011-08,Bearing Break Stroke,Granite Bellhead,F2,Demigod L7 Low,B
+MV-ELI-MCE-011-09,Open Sky Descent,Glint Wristloop,F2,Demigod L7 Low,B
+MV-ELI-MCE-011-10,Weight-Held Seal,Suffocating Pulp,F1,Demigod L7 Low,B
+MV-ELI-MCE-011-11,Gale and Bearing Last Weight,Titanic Pound,F1,Demigod L7 Low,B
+MV-ELI-MCE-012-01,Open-Ground Oath Smash,Gust Haftring,F2,Void God L2 Low,B
+MV-ELI-MCE-012-02,Wide Plateau Step,Crushvortex,F4,Void God L2 Low,B
+MV-ELI-MCE-012-03,Oath Haft Guard,Pearspine,F4,Void God L2 Low,B
+MV-ELI-MCE-012-04,Wind Guard Parry,Peardurance,F4,Void God L2 Low,B
+MV-ELI-MCE-012-05,Swore-Edge Rake,Mightpulp,F5,Void God L2 Low,B
+MV-ELI-MCE-012-06,No-Retreat Press,Smashspine,F4,Void God L2 Low,B
+MV-ELI-MCE-012-07,Plateau Sweep Roll,Blaze Wristloop,F2,Void God L2 Low,B
+MV-ELI-MCE-012-08,Oath-Piercing Stroke,Smash Reckoning,F3,Void God L2 Low,B
+MV-ELI-MCE-012-09,Open Plateau Last Oath,Titanic Maceball,F1,Void God L2 Low,B
+MV-ELI-MCE-013-01,Bearing Opening Smash,Iron Ironknob,F2,Void God L6 Low,B
+MV-ELI-MCE-013-02,Wind Line Mace Pace,Phantom Batter,F1,Void God L6 Low,B
+MV-ELI-MCE-013-03,Crossing-Line Parry,Ribdurance,F4,Void God L6 Low,B
+MV-ELI-MCE-013-04,Haft Bearing Check,Rumble Flangerib,F2,Void God L6 Low,B
+MV-ELI-MCE-013-05,Broken-Line Rake,Sanguine Pound,F2,Void God L6 Low,B
+MV-ELI-MCE-013-06,Gale Cross Press,Battervalor,F4,Void God L6 Low,B
+MV-ELI-MCE-013-07,Held-Line Overstroke,Shadesmash,F5,Void God L6 Low,B
+MV-ELI-MCE-013-08,Breaking Gale Crush,Shattering Ribhead,F1,Void God L6 Low,B
+MV-ELI-MCE-013-09,Wind-Sworn Line Break,Deed Crush,F2,Void God L6 Low,B
+MV-ELI-MCE-013-10,Bearing and Breaking Last Stroke,Merciless Haftring Ruin,F6b,Void God L6 Low,B
+MV-ELI-MCE-014-01,Monarch Wind Overswing,Gust Maceneck,F2,Monarch L4 Low,B
+MV-ELI-MCE-014-02,Held Wind Step,Torrent Haftring,F2,Monarch L4 Low,B
+MV-ELI-MCE-014-03,Oath Flange Parry,Studhead Hardihood,F3,Monarch L4 Low,B
+MV-ELI-MCE-014-04,Meridian Wind Guard,Charter Pearhead,F2,Monarch L4 Low,B
+MV-ELI-MCE-014-05,Bearing Check Rap,Overbearing Batter,F1,Monarch L4 Low,B
+MV-ELI-MCE-014-06,Wind Weight Strike,Ironknob Ruin,F3,Monarch L4 Low,B
+MV-ELI-MCE-014-07,Plateau Haft Press,Intent Pearhead,F2,Monarch L4 Low,B
+MV-ELI-MCE-014-08,Gale Meridian Crush,Ribhead Scourge,F3,Monarch L4 Low,B
+MV-ELI-MCE-014-09,Sworn Wind Binding,Thorn Wristloop,F2,Monarch L4 Low,B
+MV-ELI-MCE-014-10,Weight-Held Suppression,Wrathful Dent,F1,Monarch L4 Low,B
+MV-ELI-MCE-014-11,Oath Sweep Roll,Slagpulp,F5,Monarch L4 Low,B
+MV-ELI-MCE-014-12,Monarch Wind-Held Last Weight,Hollow Maceneck,F2,Demigod L1 Low,B
+MV-ELI-MCE-015-01,Gale Descent Opening,Might Bellhead,F2,True God L2 Low,B
+MV-ELI-MCE-015-02,Wind Bearing Slip,Torrent Crush,F2,True God L2 Low,B
+MV-ELI-MCE-015-03,Open-Air Guard,Iron Maceball,F2,True God L2 Low,B
+MV-ELI-MCE-015-04,Descent Haft Parry,Murk Studhead,F2,True God L2 Low,B
+MV-ELI-MCE-015-05,Wind-Through Binding,Mastering Pulp,F1,True God L2 Low,B
+MV-ELI-MCE-015-06,Gale Tearing Rake,Sanguine Smash,F2,True God L2 Low,B
+MV-ELI-MCE-015-07,Open-Air Suppression,Intentdent,F5,True God L2 Low,B
+MV-ELI-MCE-015-08,No-Guard Crushing,Ironcrush,F5,True God L2 Low,B
+MV-ELI-MCE-015-09,Open Gale Final Descent,Rumble Dent,F2,True God L2 Low,B
+MV-ELI-MCE-016-01,Edge-Held Wind Swing,Flangerib Reckoning,F3,Demigod L9 Low,B
+MV-ELI-MCE-016-02,Plateau-Edge Pace,Granite Batter,F2,Demigod L9 Low,B
+MV-ELI-MCE-016-03,Edge Haft Deflection,Torrent Ribhead,F2,Demigod L9 Low,B
+MV-ELI-MCE-016-04,Wind-Held Knob Strike,Eviscerating Ironknob,F1,Demigod L9 Low,B
+MV-ELI-MCE-016-05,Edge Oath Binding,Fastening Pound,F2,Demigod L9 Low,B
+MV-ELI-MCE-016-06,Released-Wind Smash,Gust Smash,F2,Demigod L9 Low,B
+MV-ELI-MCE-016-07,Plateau-Edge Suppression,Intent Bellhead,F2,Demigod L9 Low,B
+MV-ELI-MCE-016-08,Wind-Edge Crush,Nova Flangerib,F2,Demigod L9 Low,B
+MV-ELI-MCE-016-09,Edge-Held Last Wind,Rumble Wristloop,F2,Demigod L9 Low,B
+MV-ELI-MCE-004-10,Hollow Batter,Crushing Batter,F2,Void God L1 Low,B
+MV-ELI-MCE-014-12,Hollow Maceneck,Ruinous Maceneck,F2,Demigod L1 Low,B

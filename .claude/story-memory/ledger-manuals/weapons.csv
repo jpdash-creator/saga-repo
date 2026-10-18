@@ -1,0 +1,80 @@
+weapon_id,family,name,description,prominence,basic_n,inter_n,adv_n,adv_common_n,adv_kingdom_n,elite_n,sig_n
+STS,Bladed swords,Straight sword,a double-edged blade that cuts and thrusts,Prominent,12,10,9,5,4,8,6
+GRS,Bladed swords,Greatsword,a two-handed sword with long reach and heavy cuts,Prominent,12,10,9,5,4,8,6
+SAB,Bladed swords,Saber,a curved single-edged blade built for slashing,Prominent,12,10,9,5,4,8,6
+KAT,Bladed swords,Katana,a curved single-edged sword suited to drawing cuts,Prominent,12,10,9,5,4,8,6
+RAP,Bladed swords,Rapier,a slim thrust-first dueling blade,Standard,11,9,8,4,4,7,6
+SHS,Bladed swords,Short sword,a short blade for close stabbing work,Prominent,12,10,9,5,4,8,6
+SCI,Bladed swords,Scimitar,a broad curved sword for sweeping slashes,Standard,11,9,8,4,4,7,6
+FAL,Bladed swords,Falchion,a heavy single-edged sword that chops,Standard,11,9,8,4,4,7,6
+JIA,Bladed swords,Jian,a straight double-edged flexible blade,Prominent,12,10,9,5,4,8,6
+DAO,Bladed swords,Dao,a single-edged curved sabre,Prominent,12,10,9,5,4,8,6
+EST,Bladed swords,Estoc,a stiff thrust-only blade made to pierce armor,Standard,11,9,8,4,4,7,6
+DAG,Knives and short blades,Dagger,a short double-edged stabbing blade,Prominent,12,10,9,5,4,8,6
+KNF,Knives and short blades,Knife,a single-edged blade for fighting or utility,Prominent,12,10,9,5,4,8,6
+STI,Knives and short blades,Stiletto,a needle-thin blade for precise stabs,Niche,10,8,7,4,3,6,6
+KUK,Knives and short blades,Kukri,an inward-curved blade that chops,Niche,10,8,7,4,3,6,6
+MAC,Knives and short blades,Machete,a heavy blade for chopping,Niche,10,8,7,4,3,6,6
+SIC,Knives and short blades,Sickle,a curved harvesting blade used as a weapon,Niche,10,8,7,4,3,6,6
+SAI,Knives and short blades,Sai,a three-pronged metal truncheon for blocking and trapping blades,Niche,10,8,7,4,3,6,6
+HAX,Axes,Hand axe,a one-handed axe for chopping,Standard,11,9,8,4,4,7,6
+BAX,Axes,Battle axe,a war axe with a bigger head,Prominent,12,10,9,5,4,8,6
+GAX,Axes,Greataxe,a two-handed axe with a heavy cleaving swing,Prominent,12,10,9,5,4,8,6
+TOM,Axes,Tomahawk,a light axe that can be thrown,Niche,10,8,7,4,3,6,6
+WPK,Axes,War pick,a pointed pick head that punches through armor,Niche,10,8,7,4,3,6,6
+SPR,Polearms,Spear,a pointed shaft for thrusting,Prominent,12,10,9,5,4,8,6
+PIK,Polearms,Pike,a very long spear used in massed formations,Niche,10,8,7,4,3,6,6
+LAN,Polearms,Lance,a heavy spear for charging usually from horseback,Niche,10,8,7,4,3,6,6
+HAL,Polearms,Halberd,an axe blade and spike on a long shaft,Prominent,12,10,9,5,4,8,6
+GLV,Polearms,Glaive,a long shaft with a single curved blade at the end,Standard,11,9,8,4,4,7,6
+NAG,Polearms,Naginata,a curved blade on a shaft made for sweeping cuts,Standard,11,9,8,4,4,7,6
+TRI,Polearms,Trident,a three-pronged spear for thrusting and trapping,Niche,10,8,7,4,3,6,6
+GUA,Polearms,Guandao,a heavy curved blade on a long pole,Standard,11,9,8,4,4,7,6
+JAV,Polearms,Javelin,a light spear built to be thrown,Niche,10,8,7,4,3,6,6
+CLB,Blunt and hafted,Club,a plain heavy stick for striking,Standard,11,9,8,4,4,7,6
+MCE,Blunt and hafted,Mace,a weighted head on a shaft that crushes armor,Prominent,12,10,9,5,4,8,6
+WHM,Blunt and hafted,Warhammer,a hammer head often with a spike for armored foes,Prominent,12,10,9,5,4,8,6
+MAU,Blunt and hafted,Maul,a very heavy two-handed hammer,Niche,10,8,7,4,3,6,6
+MST,Blunt and hafted,Morning star,a spiked ball on a shaft,Niche,10,8,7,4,3,6,6
+QST,Blunt and hafted,Quarterstaff,a long plain staff for striking and blocking,Prominent,12,10,9,5,4,8,6
+BOS,Blunt and hafted,Bo staff,a long straight staff used in martial arts,Standard,11,9,8,4,4,7,6
+TON,Blunt and hafted,Tonfa,a handled baton for striking and blocking,Niche,10,8,7,4,3,6,6
+BAT,Blunt and hafted,Baton,a short stick for control and strikes,Niche,10,8,7,4,3,6,6
+FLA,Flexible and chained,Flail,a weighted head on a chain swung to hit,Niche,10,8,7,4,3,6,6
+WHP,Flexible and chained,Whip,a long flexible lash,Standard,11,9,8,4,4,7,6
+CHW,Flexible and chained,Chain whip,a segmented metal whip,Niche,10,8,7,4,3,6,6
+NUN,Flexible and chained,Nunchaku,two sticks joined by a short chain,Niche,10,8,7,4,3,6,6
+KUS,Flexible and chained,Kusarigama,a sickle with a weighted chain,Niche,10,8,7,4,3,6,6
+MET,Flexible and chained,Meteor hammer,a weight on a long rope or chain,Niche,10,8,7,4,3,6,6
+RPD,Flexible and chained,Rope dart,a blade on a long cord,Niche,10,8,7,4,3,6,6
+BOL,Flexible and chained,Bolas,weights on cords thrown to tangle legs,Niche,10,8,7,4,3,6,6
+NET,Flexible and chained,Net,a thrown mesh that entangles,Niche,10,8,7,4,3,6,6
+BOW,Ranged and thrown,Bow,a drawn string that launches arrows,Prominent,12,10,9,5,4,8,6
+CRB,Ranged and thrown,Crossbow,a mechanical bow that fires bolts,Prominent,12,10,9,5,4,8,6
+SLG,Ranged and thrown,Sling,a cord that hurls stones or lead shot,Niche,10,8,7,4,3,6,6
+TKN,Ranged and thrown,Throwing knife,a balanced blade for throwing,Niche,10,8,7,4,3,6,6
+SHU,Ranged and thrown,Shuriken,a small flat bladed thrown star,Niche,10,8,7,4,3,6,6
+CHK,Ranged and thrown,Chakram,a thrown metal ring with a sharp edge,Niche,10,8,7,4,3,6,6
+BMR,Ranged and thrown,Boomerang,a curved throwing stick that can return,Niche,10,8,7,4,3,6,6
+BLW,Ranged and thrown,Blowgun,a tube that fires darts,Niche,10,8,7,4,3,6,6
+ATL,Ranged and thrown,Atlatl,a throwing aid that adds speed to darts or spears,Niche,10,8,7,4,3,6,6
+PST,Firearms and gunpowder,Pistol,a one-handed firearm for close range,Standard,11,9,8,4,4,7,6
+MUS,Firearms and gunpowder,Musket,an early long gun that is slow to reload,Standard,11,9,8,4,4,7,6
+RIF,Firearms and gunpowder,Rifle,a long rifled gun for accuracy at range,Standard,11,9,8,4,4,7,6
+SHG,Firearms and gunpowder,Shotgun,a gun that fires a spread of pellets,Niche,10,8,7,4,3,6,6
+CAN,Firearms and gunpowder,Cannon,a heavy gun that fires large shot,Niche,10,8,7,4,3,6,6
+GRN,Firearms and gunpowder,Grenade,a thrown or launched explosive,Standard,11,9,8,4,4,7,6
+CTP,Siege and heavy,Catapult,a throwing arm that hurls heavy stones,Niche,10,8,7,4,3,6,6
+TRB,Siege and heavy,Trebuchet,a counterweight machine that hurls very heavy shot,Niche,10,8,7,4,3,6,6
+BAL,Siege and heavy,Ballista,a large crossbow that fires bolts the size of spears,Niche,10,8,7,4,3,6,6
+RAM,Siege and heavy,Battering ram,a heavy beam for breaking gates,Niche,10,8,7,4,3,6,6
+HTH,Unarmed and close aids,Hand to hand combat,unarmed striking grappling and throwing,Prominent,12,10,9,5,4,8,6
+KND,Unarmed and close aids,Knuckle-duster,metal worn over the fist to add punch,Niche,10,8,7,4,3,6,6
+CLW,Unarmed and close aids,Claws,blades worn on the hand,Niche,10,8,7,4,3,6,6
+GAU,Unarmed and close aids,Gauntlet,an armored glove that adds force to strikes,Niche,10,8,7,4,3,6,6
+GAR,Unarmed and close aids,Garrote,a cord or wire for strangling,Niche,10,8,7,4,3,6,6
+SHD,Defensive weapons,Shield,a large guard that can also bash,Prominent,12,10,9,5,4,8,6
+BUC,Defensive weapons,Buckler,a small shield for punching and parrying,Standard,11,9,8,4,4,7,6
+FAN,Exotic and special,War fan,a metal-ribbed fan used for blocking and cutting,Standard,11,9,8,4,4,7,6
+HKS,Exotic and special,Hook swords,blades with hooked ends for trapping weapons,Standard,11,9,8,4,4,7,6
+BFS,Exotic and special,Butterfly swords,a pair of short blades for fast close work,Standard,11,9,8,4,4,7,6

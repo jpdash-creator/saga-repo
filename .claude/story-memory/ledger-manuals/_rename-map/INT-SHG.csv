@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-SHG-001-01,Pellet Drive Stance,Pumpgrip Tonic,F3,Senior,A
+MV-INT-SHG-001-02,Qi Packed Wad Seat,Sure Choke,F1,Senior,A
+MV-INT-SHG-001-03,Driven Single Mark,Ruthless Doublebarrel,F1,Senior,A
+MV-INT-SHG-001-04,Weapon Side Close Step,Springing Pattern,F1,Senior,A
+MV-INT-SHG-001-05,Stock Drive Feel,Shellbandage,F4,Senior,A
+MV-INT-SHG-001-06,Driven Pellet Punch,Cruel Bead,F1,Senior,A
+MV-INT-SHG-001-07,Qi Lanced Late Spread,Harsh Slug,F1,Senior,A
+MV-INT-SHG-002-01,Doorway Breath Hold,Sure Sawnedge,F1,Senior,A
+MV-INT-SHG-002-02,Jamb Slide Entry,Springing Shell,F1,Senior,A
+MV-INT-SHG-002-03,Close Room Spread,Rude Wad,F1,Senior,A
+MV-INT-SHG-002-04,Threshold Scare Fire,Slugslap,F4,Senior,A
+MV-INT-SHG-002-05,Wrist Jab Muzzle,Gagging Blast,F1,Senior,A
+MV-INT-SHG-002-06,Door Leaf Brace,Dense Slugchamber,F1,Senior,A
+MV-INT-SHG-002-07,Doorway Qi Burst,Bold Spreadshot,F1,Senior,A
+MV-INT-SHG-002-08,Frame Rebound Guard,Shellbuckle,F4,Senior,A
+MV-INT-SHG-003-01,Breech Qi Holding,Patient Pellet,F1,Senior,A
+MV-INT-SHG-003-02,Cocked Ready Walk,Pumpglide,F4,Senior,A
+MV-INT-SHG-003-03,Held Charge Snap Shot,Savage Breech,F1,Senior,A
+MV-INT-SHG-003-04,Hammer Fall Reading,Choketonic,F4,Senior,A
+MV-INT-SHG-003-05,Delayed Qi Release,Keen Doublebarrel,F1,Senior,A
+MV-INT-SHG-003-06,Rolling Release Barrage,Pumpswat,F4,Senior,A
+MV-INT-SHG-004-01,Quick Raise Snap,Bold Buckshot,F1,Warrior,B
+MV-INT-SHG-004-02,Counted Recharge Rhythm,Poise Choke,F2,Warrior,B
+MV-INT-SHG-004-03,Stride Lead Aim,Breechbandage,F4,Warrior,B
+MV-INT-SHG-004-04,Dodge Step Fire,Fleet Slug,F1,Warrior,B
+MV-INT-SHG-004-05,Wrist Flick Spear Knock,Chokehasp,F4,Warrior,B
+MV-INT-SHG-004-06,Low Duck Tuck,Wadbarrier,F4,Warrior,B
+MV-INT-SHG-004-07,Rapid Pair Shots,Shard Pump,F2,Warrior,B
+MV-INT-SHG-004-08,Qi Swift Hands Reload,Purpose Slugchamber,F2,Warrior,B
+MV-INT-SHG-004-09,Running Pivot Shot,Clay Pump,F2,Warrior,B
+MV-INT-SHG-005-01,Barrel Lift Parry,Rigid Wad,F1,Warrior,B
+MV-INT-SHG-005-02,Stock Block Raise,Shardchoke,F5,Warrior,B
+MV-INT-SHG-005-03,Muzzle Guard Slide,Spliceshell,F5,Warrior,B
+MV-INT-SHG-005-04,Parry Return Smash,Clayshell,F5,Warrior,B
+MV-INT-SHG-005-05,Held Off Point Blank,Cometchoke,F5,Warrior,B
+MV-INT-SHG-005-06,Qi Iron Barrel,Brass Shell,F2,Warrior,B
+MV-INT-SHG-005-07,Parry Blast Throw,Stalwart Sawnedge,F1,Warrior,B
+MV-INT-SHG-006-01,Volley Line Dressing,Recall Pellet,F2,Warrior,B
+MV-INT-SHG-006-02,Walking Fire Pace,Slinking Spreadshot,F1,Warrior,B
+MV-INT-SHG-006-03,Alternate Rank Fire,Weighty Pattern,F2,Warrior,B
+MV-INT-SHG-006-04,Open Field Spread,Grit Buckshot,F2,Warrior,B
+MV-INT-SHG-006-05,Rear Rank Recharge,Wadcordial,F4,Warrior,B
+MV-INT-SHG-006-06,Powder Smoke Veil,Recallblast,F5,Warrior,B
+MV-INT-SHG-006-07,Line Hold Brace,Guarding Bead,F1,Warrior,B
+MV-INT-SHG-006-08,Qi Timed Volley,Hungry Shell,F1,Warrior,B
+MV-INT-SHG-006-09,Advancing Spread Wave,Cinder Blast,F2,Warrior,B
+MV-INT-SHG-006-10,Line Qi Cohesion,Pumpgrip Cordial,F3,Warrior,B
+MV-INT-SHG-007-01,Low Wall Lean,Rooted Sawnedge,F1,Senior,A
+MV-INT-SHG-007-02,Rubble Hop Step,Wadglide,F4,Senior,A
+MV-INT-SHG-007-03,Over Cover Scatter,Dire Wad,F1,Senior,A
+MV-INT-SHG-007-04,Peek and Pull Back,Breechtonic,F4,Senior,A
+MV-INT-SHG-007-05,Cover Edge Qi Burst,Dire Pellet,F1,Senior,A
+MV-INT-SHG-007-06,Stone Rest Steadying,Armored Breech,F1,Senior,A
+MV-INT-SHG-008-01,Fowler's Slow Stalk,Brawn Pump,F2,Warrior,B
+MV-INT-SHG-008-02,Pellet Drop Judging,Gap Choke,F2,Warrior,B
+MV-INT-SHG-008-03,Rising Bird Shot,Static Bead,F2,Warrior,B
+MV-INT-SHG-008-04,Flush and Hold Fire,Keen Pumpgrip,F1,Warrior,B
+MV-INT-SHG-008-05,Heartbeat Stillness,Sprout Doublebarrel,F2,Warrior,B
+MV-INT-SHG-008-06,Sling Strap Snare,Hum Slug,F2,Warrior,B
+MV-INT-SHG-008-07,Leaping Foe Qi Lead,Slugflog,F4,Warrior,B
+MV-INT-SHG-008-08,Scatter Herding Net,Cinder Spreadshot,F2,Warrior,B

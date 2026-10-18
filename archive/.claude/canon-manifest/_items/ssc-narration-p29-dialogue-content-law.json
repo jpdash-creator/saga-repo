@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-narration-p29-dialogue-content-law",
+ "part": 29,
+ "area": 3,
+ "sequence_in_part": 3,
+ "title": "Dialogue Content Law",
+ "domain": "narration",
+ "source_file": "Part_29_Narration_Theme_Dialogue_Social_Interaction_Law.md",
+ "start_line": 109,
+ "end_line": 148,
+ "line_count": 40,
+ "output_path": ".claude/skills/ssc-narration-p29-dialogue-content-law/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-character-p20-nature-ideology",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Dialogue may constitute IE events triggering Part 20 audit"
+  },
+  {
+   "skill_id": "ssc-character-p20-ideology-taxonomy",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Dialogue may constitute IE events triggering Part 20 audit"
+  },
+  {
+   "skill_id": "ssc-character-p20-ideology-ledger",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Dialogue may constitute IE events triggering Part 20 audit"
+  },
+  {
+   "skill_id": "ssc-character-p20-ideological-governance-context",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Dialogue may constitute IE events triggering Part 20 audit"
+  },
+  {
+   "skill_id": "ssc-character-p20-specific-ideology-dynamics",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Dialogue may constitute IE events triggering Part 20 audit"
+  },
+  {
+   "skill_id": "ssc-character-p20-cultivation-specific-ideology-dynamics",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Dialogue may constitute IE events triggering Part 20 audit"
+  },
+  {
+   "skill_id": "ssc-character-p20-technology-specific-ideology-dynamics",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Dialogue may constitute IE events triggering Part 20 audit"
+  },
+  {
+   "skill_id": "ssc-character-p20-ideological-states-transitions",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Dialogue may constitute IE events triggering Part 20 audit"
+  },
+  {
+   "skill_id": "ssc-character-p20-ideology-interpersonal-dynamics",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Dialogue may constitute IE events triggering Part 20 audit"
+  },
+  {
+   "skill_id": "ssc-character-p20-ideological-alignment-all-other-parts",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Dialogue may constitute IE events triggering Part 20 audit"
+  }
+ ]
+}

@@ -1,0 +1,989 @@
+[
+ {
+  "dependent_part": 2,
+  "authority_part": 3,
+  "topic": "Prose depth requires cultivation realm reference for accurate scene-setting",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 2,
+  "authority_part": 5,
+  "topic": "Combat prose structure requires Part 5 combat resolution rules",
+  "strength": "HARD",
+  "nsa_note": "High — structural dependency"
+ },
+ {
+  "dependent_part": 3,
+  "authority_part": 4,
+  "topic": "Realm definitions require CPM Grade mappings",
+  "strength": "HARD",
+  "nsa_note": "Critical — core cultivation graph root"
+ },
+ {
+  "dependent_part": 3,
+  "authority_part": 9,
+  "topic": "Cultivation realm progression requires soul system definitions",
+  "strength": "HARD",
+  "nsa_note": "High — parallel progression track"
+ },
+ {
+  "dependent_part": 3,
+  "authority_part": 10,
+  "topic": "Realm progression interacts with body cultivation tiers",
+  "strength": "HARD",
+  "nsa_note": "High — parallel progression track"
+ },
+ {
+  "dependent_part": 4,
+  "authority_part": 11,
+  "topic": "CPM Grade 1–20 maps to energy resource grades",
+  "strength": "HARD",
+  "nsa_note": "High — resource-to-practitioner link"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 3,
+  "topic": "Combat resolution requires current realm of combatants",
+  "strength": "HARD",
+  "nsa_note": "Critical — combat outcome driver"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 6,
+  "topic": "Named Moves deployed in combat governed by Part 5",
+  "strength": "HARD",
+  "nsa_note": "High — technique resolution chain"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 8,
+  "topic": "Technology-based combat requires Part 8 technology tier",
+  "strength": "HARD",
+  "nsa_note": "High — cross-system combat"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 14,
+  "topic": "Weapon ranges in combat use Part 14 CMS units",
+  "strength": "HARD",
+  "nsa_note": "Medium — measurement dependency"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 16,
+  "topic": "Combat command authority requires Part 16 character classification",
+  "strength": "HARD",
+  "nsa_note": "High — authority chain"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 26,
+  "topic": "Pre-combat psych state modifiers sourced from Part 26 PIS-state",
+  "strength": "HARD",
+  "nsa_note": "High — outcome modifier"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 33,
+  "topic": "Weapon discharge in combat triggers Part 33 Rule 33.11.1",
+  "strength": "HARD",
+  "nsa_note": "High — event trigger chain"
+ },
+ {
+  "dependent_part": 6,
+  "authority_part": 3,
+  "topic": "Move tier requires cultivation realm reference",
+  "strength": "HARD",
+  "nsa_note": "High — tier calibration"
+ },
+ {
+  "dependent_part": 6,
+  "authority_part": 8,
+  "topic": "Technology-enhanced Named Moves require Part 8 tech tier",
+  "strength": "SOFT",
+  "nsa_note": "Medium — hybrid move context"
+ },
+ {
+  "dependent_part": 7,
+  "authority_part": 3,
+  "topic": "Fusion techniques require cultivation realm thresholds",
+  "strength": "HARD",
+  "nsa_note": "Critical — fusion eligibility gate"
+ },
+ {
+  "dependent_part": 7,
+  "authority_part": 8,
+  "topic": "Fusion techniques require technology tier thresholds",
+  "strength": "HARD",
+  "nsa_note": "Critical — fusion eligibility gate"
+ },
+ {
+  "dependent_part": 7,
+  "authority_part": 31,
+  "topic": "Fusion techniques are a primary driver of CS%/TS% change",
+  "strength": "SOFT",
+  "nsa_note": "High — synergy state change trigger"
+ },
+ {
+  "dependent_part": 8,
+  "authority_part": 33,
+  "topic": "Type 8 domain levels are weapon tier source",
+  "strength": "HARD",
+  "nsa_note": "Critical — weapon classification root"
+ },
+ {
+  "dependent_part": 9,
+  "authority_part": 3,
+  "topic": "Soul system stages correspond to cultivation realm progression",
+  "strength": "HARD",
+  "nsa_note": "High — parallel soul-realm mapping"
+ },
+ {
+  "dependent_part": 10,
+  "authority_part": 3,
+  "topic": "Body cultivation tiers correspond to cultivation realm tiers",
+  "strength": "HARD",
+  "nsa_note": "High — parallel body-realm mapping"
+ },
+ {
+  "dependent_part": 11,
+  "authority_part": 4,
+  "topic": "Energy resource grades use CPM Grade framework",
+  "strength": "HARD",
+  "nsa_note": "High — resource measurement system"
+ },
+ {
+  "dependent_part": 12,
+  "authority_part": 3,
+  "topic": "Relic affinity type requires cultivation energy system definitions",
+  "strength": "HARD",
+  "nsa_note": "High — relic classification"
+ },
+ {
+  "dependent_part": 12,
+  "authority_part": 11,
+  "topic": "Relic energy function draws on Part 11 resource framework",
+  "strength": "SOFT",
+  "nsa_note": "Medium — energy interaction"
+ },
+ {
+  "dependent_part": 12,
+  "authority_part": 31,
+  "topic": "Relic CS%/TS% (Part 31 Area 21.10) governed by Soul Bond/Hybrid Class",
+  "strength": "HARD",
+  "nsa_note": "High — synergy state assignment"
+ },
+ {
+  "dependent_part": 13,
+  "authority_part": 3,
+  "topic": "Ambient Energy Class requires cultivation energy classification",
+  "strength": "HARD",
+  "nsa_note": "Critical — world energy root"
+ },
+ {
+  "dependent_part": 13,
+  "authority_part": 4,
+  "topic": "Energy Field rating maps to CPM Grade",
+  "strength": "HARD",
+  "nsa_note": "High — world-to-practitioner energy"
+ },
+ {
+  "dependent_part": 13,
+  "authority_part": 16,
+  "topic": "Location-Character Context table maps character tiers to location tiers",
+  "strength": "HARD",
+  "nsa_note": "High — compatibility constraint"
+ },
+ {
+  "dependent_part": 13,
+  "authority_part": 31,
+  "topic": "Location CS%/TS% reference ranges source from Part 13 World Classification",
+  "strength": "HARD",
+  "nsa_note": "High — world synergy root"
+ },
+ {
+  "dependent_part": 14,
+  "authority_part": 13,
+  "topic": "CMS measurement system applies to all Part 13 location tiers",
+  "strength": "SOFT",
+  "nsa_note": "Low — measurement mapping"
+ },
+ {
+  "dependent_part": 15,
+  "authority_part": 13,
+  "topic": "Travel mechanics govern movement between Part 13 location types",
+  "strength": "HARD",
+  "nsa_note": "High — movement constraint"
+ },
+ {
+  "dependent_part": 15,
+  "authority_part": 14,
+  "topic": "Travel distances use Part 14 CMS units",
+  "strength": "HARD",
+  "nsa_note": "Medium — measurement dependency"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 3,
+  "topic": "Character classification requires cultivation realm",
+  "strength": "HARD",
+  "nsa_note": "High — classification input"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 8,
+  "topic": "Character technology tier governed by Part 8 scale",
+  "strength": "HARD",
+  "nsa_note": "High — classification input"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 13,
+  "topic": "Character-location compatibility from Part 13 hierarchy",
+  "strength": "SOFT",
+  "nsa_note": "Medium — location context"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 17,
+  "topic": "Hero routing from Part 16 classification → Part 17 governance",
+  "strength": "HARD",
+  "nsa_note": "Critical — character type gate"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 18,
+  "topic": "Villain routing from Part 16 classification → Part 18 governance",
+  "strength": "HARD",
+  "nsa_note": "Critical — character type gate"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 19,
+  "topic": "Side character routing from Part 16 classification → Part 19 governance",
+  "strength": "HARD",
+  "nsa_note": "Critical — character type gate"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 31,
+  "topic": "Character CS%/TS% source from Part 16 character type",
+  "strength": "HARD",
+  "nsa_note": "High — synergy root"
+ },
+ {
+  "dependent_part": 17,
+  "authority_part": 16,
+  "topic": "Hero Ledger Classification (Section 2) uses Part 16 fields",
+  "strength": "HARD",
+  "nsa_note": "High — ledger population"
+ },
+ {
+  "dependent_part": 17,
+  "authority_part": 20,
+  "topic": "Hero ideology state governed by Part 20 IS-state",
+  "strength": "HARD",
+  "nsa_note": "High — arc integrity"
+ },
+ {
+  "dependent_part": 17,
+  "authority_part": 26,
+  "topic": "Hero psychological arc governed by Part 26 PIS-state",
+  "strength": "HARD",
+  "nsa_note": "High — arc integrity"
+ },
+ {
+  "dependent_part": 17,
+  "authority_part": 27,
+  "topic": "Hero consequence arcs governed by Part 27 CSS arcs",
+  "strength": "HARD",
+  "nsa_note": "High — narrative obligation"
+ },
+ {
+  "dependent_part": 17,
+  "authority_part": 31,
+  "topic": "Hero CS%/TS% stored in Ledger Section 2 per Part 31 Area 21.3",
+  "strength": "HARD",
+  "nsa_note": "High — ledger state"
+ },
+ {
+  "dependent_part": 18,
+  "authority_part": 16,
+  "topic": "Villain Ledger Classification uses Part 16 fields",
+  "strength": "HARD",
+  "nsa_note": "High — ledger population"
+ },
+ {
+  "dependent_part": 18,
+  "authority_part": 20,
+  "topic": "Villain ideology state governed by Part 20",
+  "strength": "HARD",
+  "nsa_note": "High — arc integrity"
+ },
+ {
+  "dependent_part": 18,
+  "authority_part": 26,
+  "topic": "Villain psychological archetypes governed by Part 26",
+  "strength": "HARD",
+  "nsa_note": "High — arc integrity"
+ },
+ {
+  "dependent_part": 18,
+  "authority_part": 31,
+  "topic": "Villain CS%/TS% stored in Ledger Section 2 per Part 31 Area 21.3",
+  "strength": "HARD",
+  "nsa_note": "High — ledger state"
+ },
+ {
+  "dependent_part": 19,
+  "authority_part": 16,
+  "topic": "Side character classification uses Part 16 fields",
+  "strength": "HARD",
+  "nsa_note": "High — ledger population"
+ },
+ {
+  "dependent_part": 19,
+  "authority_part": 31,
+  "topic": "Side character CS%/TS% per Part 31 Area 21.3",
+  "strength": "HARD",
+  "nsa_note": "High — ledger state"
+ },
+ {
+  "dependent_part": 20,
+  "authority_part": 17,
+  "topic": "Hero ideology arc phase triggers per Part 17 hero arc structure",
+  "strength": "SOFT",
+  "nsa_note": "Medium — arc interaction"
+ },
+ {
+  "dependent_part": 20,
+  "authority_part": 26,
+  "topic": "IE-4+ events trigger PIS interaction per Part 26",
+  "strength": "HARD",
+  "nsa_note": "High — state cascade"
+ },
+ {
+  "dependent_part": 21,
+  "authority_part": 13,
+  "topic": "Civilization spatial scope uses Part 13 location hierarchy",
+  "strength": "HARD",
+  "nsa_note": "High — spatial constraint"
+ },
+ {
+  "dependent_part": 21,
+  "authority_part": 22,
+  "topic": "Civilization contains/sponsors Factions per Part 22",
+  "strength": "SOFT",
+  "nsa_note": "Medium — structural relationship"
+ },
+ {
+  "dependent_part": 21,
+  "authority_part": 31,
+  "topic": "Civilization CS%/TS% reference ranges from CTD (Civilization Tier Designation)",
+  "strength": "HARD",
+  "nsa_note": "High — synergy constraint"
+ },
+ {
+  "dependent_part": 22,
+  "authority_part": 21,
+  "topic": "Faction parent civilization context from Part 21",
+  "strength": "SOFT",
+  "nsa_note": "Medium — structural relationship"
+ },
+ {
+  "dependent_part": 22,
+  "authority_part": 31,
+  "topic": "Faction CS%/TS% reference ranges from SII",
+  "strength": "HARD",
+  "nsa_note": "High — synergy constraint"
+ },
+ {
+  "dependent_part": 23,
+  "authority_part": 17,
+  "topic": "Affiliation bonds for heroes governed by Part 17 arc phase",
+  "strength": "SOFT",
+  "nsa_note": "Medium — arc context"
+ },
+ {
+  "dependent_part": 23,
+  "authority_part": 22,
+  "topic": "Faction-character affiliation governed by Part 22 faction structure",
+  "strength": "HARD",
+  "nsa_note": "High — affiliation gate"
+ },
+ {
+  "dependent_part": 24,
+  "authority_part": 22,
+  "topic": "Intelligence operations involve factions per Part 22",
+  "strength": "SOFT",
+  "nsa_note": "Medium — operational context"
+ },
+ {
+  "dependent_part": 24,
+  "authority_part": 31,
+  "topic": "Integration-model knowledge is synergy-sensitive (Part 31 Area 21.14)",
+  "strength": "HARD",
+  "nsa_note": "High — information exposure"
+ },
+ {
+  "dependent_part": 25,
+  "authority_part": 21,
+  "topic": "Cultural law operates within civilization context",
+  "strength": "HARD",
+  "nsa_note": "High — cultural frame"
+ },
+ {
+  "dependent_part": 26,
+  "authority_part": 5,
+  "topic": "PIS-state modifies combat outcomes per Part 5 combat law",
+  "strength": "HARD",
+  "nsa_note": "Critical — combat modifier"
+ },
+ {
+  "dependent_part": 26,
+  "authority_part": 20,
+  "topic": "PIS-7+ events trigger ideology audit per Part 20",
+  "strength": "HARD",
+  "nsa_note": "High — state cascade"
+ },
+ {
+  "dependent_part": 26,
+  "authority_part": 27,
+  "topic": "Psychological consequence arcs are a CSS sub-type per Part 27",
+  "strength": "SOFT",
+  "nsa_note": "Medium — arc classification"
+ },
+ {
+  "dependent_part": 27,
+  "authority_part": 17,
+  "topic": "Consequence arcs for heroes governed by Part 17 arc phase expectations",
+  "strength": "SOFT",
+  "nsa_note": "Medium — arc context"
+ },
+ {
+  "dependent_part": 27,
+  "authority_part": 26,
+  "topic": "CSS arc emotional content governed by Part 26 PIS-state",
+  "strength": "HARD",
+  "nsa_note": "High — arc content constraint"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 1,
+  "topic": "Locked Canon modifications require Part 1 audit authority",
+  "strength": "HARD",
+  "nsa_note": "Critical — governance gate"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 3,
+  "topic": "Cultivation realm names are Locked Canon under Part 28",
+  "strength": "HARD",
+  "nsa_note": "High — immutability constraint"
+ },
+ {
+  "dependent_part": 29,
+  "authority_part": 20,
+  "topic": "Dialogue may constitute IE events triggering Part 20 audit",
+  "strength": "SOFT",
+  "nsa_note": "Medium — event trigger"
+ },
+ {
+  "dependent_part": 29,
+  "authority_part": 26,
+  "topic": "Dialogue emotional expression governed by Part 26 PIS-state",
+  "strength": "SOFT",
+  "nsa_note": "Medium — emotional frame"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 3,
+  "topic": "CS% calibration references cultivation realm levels",
+  "strength": "HARD",
+  "nsa_note": "Critical — synergy calibration root"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 8,
+  "topic": "TS% calibration references technology tier scale",
+  "strength": "HARD",
+  "nsa_note": "Critical — synergy calibration root"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 12,
+  "topic": "Relic CS%/TS% governance (Area 21.10)",
+  "strength": "HARD",
+  "nsa_note": "High — relic synergy"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 13,
+  "topic": "World CS%/TS% reference ranges source from Part 13 classification",
+  "strength": "HARD",
+  "nsa_note": "High — world synergy"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 21,
+  "topic": "Civilization CS%/TS% from CTD (Part 21)",
+  "strength": "HARD",
+  "nsa_note": "High — civilization synergy"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 22,
+  "topic": "Faction CS%/TS% from SII (Part 22)",
+  "strength": "HARD",
+  "nsa_note": "High — faction synergy"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 32,
+  "topic": "Vehicle CS%/TS% governance (Area 21.12)",
+  "strength": "HARD",
+  "nsa_note": "High — vehicle synergy"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 33,
+  "topic": "Weapon CS%/TS% governance (Area 21.11)",
+  "strength": "HARD",
+  "nsa_note": "High — weapon synergy"
+ },
+ {
+  "dependent_part": 32,
+  "authority_part": 8,
+  "topic": "Vehicle technology classification uses Part 8 tech tier",
+  "strength": "HARD",
+  "nsa_note": "High — vehicle tier root"
+ },
+ {
+  "dependent_part": 32,
+  "authority_part": 14,
+  "topic": "Vehicle dimensions use Part 14 CMS units",
+  "strength": "HARD",
+  "nsa_note": "Medium — measurement"
+ },
+ {
+  "dependent_part": 33,
+  "authority_part": 5,
+  "topic": "Weapon discharge (Rule 33.11.1) is a Part 5 combat event",
+  "strength": "HARD",
+  "nsa_note": "Critical — combat chain"
+ },
+ {
+  "dependent_part": 33,
+  "authority_part": 8,
+  "topic": "Weapon tier source is Part 8 Type 8 domain levels",
+  "strength": "HARD",
+  "nsa_note": "Critical — weapon tier root"
+ },
+ {
+  "dependent_part": 33,
+  "authority_part": 14,
+  "topic": "Weapon range uses Part 14 CMS units (Area 5.3 authoritative)",
+  "strength": "HARD",
+  "nsa_note": "Medium — measurement"
+ },
+ {
+  "dependent_part": 34,
+  "authority_part": 1,
+  "topic": "Part 34 is mandated and governed by Part 1 Area 8",
+  "strength": "MUTUAL",
+  "nsa_note": "Critical — meta-canon mutual"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 1,
+  "topic": "Part 37 is governed by Part 1 audit authority; schema templates are canon-binding under Part 1 Area 5.4/5.5",
+  "strength": "HARD",
+  "nsa_note": "Critical — schema authority root"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 3,
+  "topic": "Character schema templates include Cultivation Realm field (Part 3 definitions)",
+  "strength": "HARD",
+  "nsa_note": "High — schema field dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 4,
+  "topic": "Character schema templates include Affinity Type, Meridian Root, Soul Talent, Heart Level fields (Part 4)",
+  "strength": "HARD",
+  "nsa_note": "High — schema field dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 8,
+  "topic": "Character and ledger schema templates include Technology Tier fields (Part 8 scale)",
+  "strength": "HARD",
+  "nsa_note": "High — schema field dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 11,
+  "topic": "Relic and kingdom-state schema templates include CPM Resource fields (Part 11)",
+  "strength": "SOFT",
+  "nsa_note": "Medium — resource field dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 12,
+  "topic": "Energy-Relics/Artifacts schema (Area 2.8) governs relic ledger template",
+  "strength": "HARD",
+  "nsa_note": "High — ledger template authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 13,
+  "topic": "Location and kingdom-state schema templates derive from Part 13 location classification",
+  "strength": "HARD",
+  "nsa_note": "High — location schema root"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 16,
+  "topic": "Character schema templates (Areas 2.1–2.3) use Part 16 Classification fields as their Section 2 basis",
+  "strength": "HARD",
+  "nsa_note": "Critical — character schema root"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 17,
+  "topic": "Hero schema template (Area 2.3) derives from Part 17 Hero Law",
+  "strength": "HARD",
+  "nsa_note": "High — hero schema authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 18,
+  "topic": "Villain schema template (Area 2.2) derives from Part 18 Villain Law",
+  "strength": "HARD",
+  "nsa_note": "High — villain schema authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 19,
+  "topic": "Side Character schema template (Area 2.1) derives from Part 19 Side Character Law",
+  "strength": "HARD",
+  "nsa_note": "High — side character schema authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 20,
+  "topic": "Character schemas include Ideology Profile section (Part 20 IS-state fields)",
+  "strength": "SOFT",
+  "nsa_note": "Medium — ideology section dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 21,
+  "topic": "Civilization schema (Area 2.7) derives from Part 21 Civilization Law",
+  "strength": "HARD",
+  "nsa_note": "High — civilization schema authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 22,
+  "topic": "Faction schema (Area 2.6) derives from Part 22 Faction Law",
+  "strength": "HARD",
+  "nsa_note": "High — faction schema authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 24,
+  "topic": "Information asset ledger type definition references Part 24 secrecy tiers",
+  "strength": "SOFT",
+  "nsa_note": "Medium — information field dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 26,
+  "topic": "Character schemas include Psychological Profile section (Part 26 PIS-state fields)",
+  "strength": "SOFT",
+  "nsa_note": "Medium — psychology section dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 27,
+  "topic": "Character schemas include Consequence Arc section (Part 27 CSS arc fields)",
+  "strength": "SOFT",
+  "nsa_note": "Medium — consequence section dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 28,
+  "topic": "B vs L field classification rules in Part 37 Area 5 align with Part 28 Locked/Negotiable Canon law",
+  "strength": "HARD",
+  "nsa_note": "High — field mutability authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 30,
+  "topic": "Hero/Villain schemas include Phase End-State fields governed by Part 30 Locked Canon",
+  "strength": "SOFT",
+  "nsa_note": "Medium — arc end-state field"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 31,
+  "topic": "All schema templates include CS%/TS% fields per Part 31 Area 21.3–21.12",
+  "strength": "HARD",
+  "nsa_note": "High — synergy field dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 32,
+  "topic": "Vehicle schema (Area 2.10) derives from Part 32 Vehicle Law",
+  "strength": "HARD",
+  "nsa_note": "High — vehicle schema authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 33,
+  "topic": "Weapon schema (Area 2.9) derives from Part 33 Weapon Law",
+  "strength": "HARD",
+  "nsa_note": "High — weapon schema authority"
+ },
+ {
+  "dependent_part": 1,
+  "authority_part": 37,
+  "topic": "Part 1 Areas 5.4/5.5 cross-reference Part 37 as authoritative schema source; C-38 execution requires Part 37 schema templates",
+  "strength": "HARD",
+  "nsa_note": "Critical — command execution dependency"
+ },
+ {
+  "dependent_part": 2,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 3,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 4,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 6,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 7,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 8,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 9,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 10,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 11,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 12,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 13,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 14,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 15,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 17,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 18,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 19,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 20,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 21,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 22,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 23,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 24,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 25,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 26,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 27,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 29,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 30,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 32,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 33,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 34,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ }
+]

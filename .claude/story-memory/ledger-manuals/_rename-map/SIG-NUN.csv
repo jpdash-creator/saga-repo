@@ -1,0 +1,142 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-NUN-001-01,Paired Warrior Guard,Hornbeam Tiedend,F2,Warrior,B
+MV-SIG-NUN-001-02,First Pair Strike,Squall Fliparound,F2,Warrior,B
+MV-SIG-NUN-001-03,Paired Hand Footwork,Dune Backspin,F2,Warrior,B
+MV-SIG-NUN-001-04,Hand-Over-Hand Rod Switch,Dauntless Octastick,F1,Warrior,B
+MV-SIG-NUN-001-05,Pair Cord Wrist Lock,Thrallwhirr,F5,Warrior,B
+MV-SIG-NUN-001-06,Guard Return Beat,Squalldowel,F5,Warrior,B
+MV-SIG-NUN-001-07,Pair Rod Anvil Fall,Pulsar Capstick,F2,Champion,B
+MV-SIG-NUN-001-08,Paired Double Sweep,Noble Stickend,F1,Champion,B
+MV-SIG-NUN-001-09,Pair Meridian Rap,Sigil Cascade,F2,Demigod,B
+MV-SIG-NUN-001-10,Twin River Convergence,Gripstick Triumph,F3,Warrior,B
+MV-SIG-NUN-002-01,Gathering Court Guard,Hornbeam Hardstick,F2,Warrior,B
+MV-SIG-NUN-002-02,Court Entry Cut,Clackbanner,F4,Warrior,B
+MV-SIG-NUN-002-03,Orbit-Stride Step,Dune Shoulderroll,F2,Warrior,B
+MV-SIG-NUN-002-04,Gathered Parry Roll,Parity Roundstick,F2,Warrior,B
+MV-SIG-NUN-002-05,Orbit Gather Press,Fearless Swingstick,F1,Warrior,B
+MV-SIG-NUN-002-06,Court Cord Snare,Glacier Sidespin,F2,Warrior,B
+MV-SIG-NUN-002-07,Orbit Break Slap,Imperious Cordjoint,F1,Warrior,B
+MV-SIG-NUN-002-08,Gathered Rod Counter,Parity Chainjoint,F2,Warrior,B
+MV-SIG-NUN-002-09,Single Court Closing,Glacier Stickend,F2,Champion,B
+MV-SIG-NUN-002-10,Gathered Orbit Crash,Prism Neckwrap,F2,Champion,B
+MV-SIG-NUN-002-11,Court Lock Seal Rap,Ruling Octastick,F1,Demigod,B
+MV-SIG-NUN-002-12,Twin Orbits Made One Court,Valiant Entropy Fliparound,F6a,Warrior,B
+MV-SIG-NUN-003-01,Hawk-Perch Basin Stance,Rodtroth,F4,Champion,B
+MV-SIG-NUN-003-02,Basin-Rim Rod Cut,Inferno Cascade,F2,Champion,B
+MV-SIG-NUN-003-03,Low Hawk Glide,Vigorstave,F5,Champion,B
+MV-SIG-NUN-003-04,Rim Closing Loop,Rodseal,F4,Champion,B
+MV-SIG-NUN-003-05,Hawk Drop Counter,Squall Gripstick,F2,Champion,B
+MV-SIG-NUN-003-06,Basin Pressure Descent,Millstone Roundstick,F2,Champion,B
+MV-SIG-NUN-003-07,Rim Shear Strike,Vigor Neckwrap,F2,Champion,B
+MV-SIG-NUN-003-08,Hawk Cord Plunge,Radiance Backspin,F2,Champion,B
+MV-SIG-NUN-003-09,Rim Snare Field,Stavetroth,F4,Champion,B
+MV-SIG-NUN-003-10,Basin Flash Cross,Pulsardowel,F5,Demigod,B
+MV-SIG-NUN-003-11,Hawk and Cord Over the Basin Rim,Season Cordjoint,F2,Champion,B
+MV-SIG-NUN-004-01,Azure Court Seat,Prismdowel,F5,Ruler,B
+MV-SIG-NUN-004-02,Ruler's Hinge Cut,Clackedict,F4,Ruler,B
+MV-SIG-NUN-004-03,Court-Pace Rod Step,Bedrock Shoulderroll,F2,Ruler,B
+MV-SIG-NUN-004-04,Ruling Rod Press,Bedrock Tiedend,F2,Ruler,B
+MV-SIG-NUN-004-05,Court Pin Bind,Millstone Swingstick,F2,Ruler,B
+MV-SIG-NUN-004-06,Court Reversal Counter,Squall Chainjoint,F2,Ruler,B
+MV-SIG-NUN-004-07,Ruler's Pincer Fall,Vacuum Fliparound,F2,Ruler,B
+MV-SIG-NUN-004-08,Court Sweep of Rods,Inferno Hardstick,F2,Ruler,B
+MV-SIG-NUN-004-09,Azure Court Seal Strike,Retribution Cordjoint,F2,Demigod,B
+MV-SIG-NUN-004-10,Two Courts Under One Hand,Tiedend Banner,F3,Ruler,B
+MV-SIG-NUN-005-01,Hawk-Above Stance,Undefiled Stickend,F1,Demigod,B
+MV-SIG-NUN-005-02,Basin-Wide Rod Cut,Quenched Capstick,F2,Demigod,B
+MV-SIG-NUN-005-03,Field-Watching Step,Ethereal Backspin,F1,Demigod,B
+MV-SIG-NUN-005-04,Whole-Field Deflect,Venerable Octastick,F1,Demigod,B
+MV-SIG-NUN-005-05,Overlook Pressure Orbit,Imperial Shoulderroll,F1,Demigod,B
+MV-SIG-NUN-005-06,Basin Snare Cast,Commanding Swingstick,F1,Demigod,B
+MV-SIG-NUN-005-07,Hawk-Eyed Hinge Feint,Nightmare Neckwrap,F2,Demigod,B
+MV-SIG-NUN-005-08,Hawk Counter Plunge,Venerable Capstick,F1,Demigod,B
+MV-SIG-NUN-005-09,Field-Wide Orbit Sweep,Entropy Hardstick,F2,Demigod,B
+MV-SIG-NUN-005-10,Basin-Eye Plunge,Quenched Roundstick,F2,Demigod,B
+MV-SIG-NUN-005-11,Hawk's Basin Crossing,Seasonrod,F5,Demigod,B
+MV-SIG-NUN-005-12,The Hawk Falls on One Point,Peerless Vacuum Gripstick,F6a,Demigod,B
+MV-SIG-NUN-006-01,Core-Seated Rod Guard,Undaunted Chainjoint,F1,Core Formation,B
+MV-SIG-NUN-006-02,Core-Fed Rod Cut,Clackcrown,F4,Core Formation,B
+MV-SIG-NUN-006-03,Dual-Track Core Step,Vigor Swingstick,F2,Core Formation,B
+MV-SIG-NUN-006-04,Cord Core Thread,Thrall Stickend,F2,Core Formation,B
+MV-SIG-NUN-006-05,Paired Core Parry,Parityclack,F5,Core Formation,B
+MV-SIG-NUN-006-06,Core Rebound Beat,Haemal Neckwrap,F2,Core Formation,B
+MV-SIG-NUN-006-07,Two-Track Pressure Orbit,Bedrock Gripstick,F2,Core Formation,B
+MV-SIG-NUN-006-08,Core-Lit Penetrating Drive,Heroic Sidespin,F1,Core Formation,B
+MV-SIG-NUN-006-09,Cord-Track Snare Ring,Parity Capstick,F2,Core Formation,B
+MV-SIG-NUN-006-10,Core Pulse Seal Rap,Sigilwhirr,F5,Core Formation,B
+MV-SIG-NUN-006-11,Cord and Core as One,Volition Roundstick,F2,Core Formation,B
+MV-SIG-NUN-007-01,Plateau Hand Stance,Hornbeam Cordjoint,F2,Warrior,B
+MV-SIG-NUN-007-02,Sworn Bearing Rod Drop,Doweldecree,F4,Warrior,B
+MV-SIG-NUN-007-03,Wind-Reading Step,Duneclack,F5,Warrior,B
+MV-SIG-NUN-007-04,Oath Hold Rod Parry,Octastick Covenant,F3,Warrior,B
+MV-SIG-NUN-007-05,Gust-Timed Rod Lash,Thunderclap Cascade,F2,Warrior,B
+MV-SIG-NUN-007-06,Bearing Cord Snag,Millstone Shoulderroll,F2,Warrior,B
+MV-SIG-NUN-007-07,Plateau Gust Rod Press,Gloom Tiedend,F2,Warrior,B
+MV-SIG-NUN-007-08,Wind-Sworn Overhead Fall,Stavebanner,F4,Champion,B
+MV-SIG-NUN-007-09,Plateau Edge Orbit,Dune Chainjoint,F2,Champion,B
+MV-SIG-NUN-007-10,Wind-Sworn Seal Rap,Stavevow,F4,Demigod,B
+MV-SIG-NUN-007-11,The Rods Sworn Against the Wind,Symphonic Volition Cascade,F6a,Warrior,B
+MV-SIG-NUN-008-01,Gale-Facing Bearing Guard,Consecrated Hardstick,F1,Warrior,B
+MV-SIG-NUN-008-02,Rising Gale Rod Drop,Sidespin Crown,F3,Warrior,B
+MV-SIG-NUN-008-03,Bearing Slide Step,Feather Backspin,F1,Warrior,B
+MV-SIG-NUN-008-04,Held-Heading Counter,Paritystave,F5,Warrior,B
+MV-SIG-NUN-008-05,Heading Cord Hook,Thrallstave,F5,Warrior,B
+MV-SIG-NUN-008-06,Bearing Pressure Orbit,Seasonclack,F5,Warrior,B
+MV-SIG-NUN-008-07,Gale-Backed Penetrating Fall,Noble Backspin,F1,Champion,B
+MV-SIG-NUN-008-08,Bearing Great Sweep,Imperial Fliparound,F1,Champion,B
+MV-SIG-NUN-008-09,Heading Seal Rap,Ruling Gripstick,F1,Demigod,B
+MV-SIG-NUN-008-10,Bearing Unbroken by the Gale,Resonant Season Octastick,F6a,Warrior,B
+MV-SIG-NUN-009-01,Sworn Cord Stance,Sacrosanct Roundstick,F1,Champion,B
+MV-SIG-NUN-009-02,Cord-Cast Bearing Cut,Paramount Capstick,F1,Champion,B
+MV-SIG-NUN-009-03,Gale-Carried Pace,Wraithlike Chainjoint,F1,Champion,B
+MV-SIG-NUN-009-04,Cord Return Deflect,Pealstave,F5,Champion,B
+MV-SIG-NUN-009-05,Gale Cord Snare,Sigil Stickend,F2,Champion,B
+MV-SIG-NUN-009-06,Sworn Orbit Lash,Vigorclack,F5,Champion,B
+MV-SIG-NUN-009-07,Recall Wrench,Unbending Shoulderroll,F1,Champion,B
+MV-SIG-NUN-009-08,Cord-Bearing Press,Vaunted Cordjoint,F1,Champion,B
+MV-SIG-NUN-009-09,Gale-Sworn Great Cast,Storied Fliparound,F1,Champion,B
+MV-SIG-NUN-009-10,Sworn Ring of Cord,Thralldowel,F5,Champion,B
+MV-SIG-NUN-009-11,Bearing-Locked Seal Rap,Sigilrod,F5,Demigod,B
+MV-SIG-NUN-009-12,The Gale Carries the Cord Home,Tenet Sidespin,F2,Champion,B
+MV-SIG-NUN-010-01,Windward Rods Stance,Faithful Hardstick,F1,Ruler,B
+MV-SIG-NUN-010-02,Windward Lead Cut,Quenched Tiedend,F2,Ruler,B
+MV-SIG-NUN-010-03,Plateau Pace Rod Step,Windborne Cascade,F1,Ruler,B
+MV-SIG-NUN-010-04,Wind-Lead Parry,Deluge Swingstick,F2,Ruler,B
+MV-SIG-NUN-010-05,Lead Rod Hook,Sigil Neckwrap,F2,Ruler,B
+MV-SIG-NUN-010-06,Windward Exchange Counter,Parity Stickend,F2,Ruler,B
+MV-SIG-NUN-010-07,Plateau Windward Press,Hardstick Verdict,F3,Ruler,B
+MV-SIG-NUN-010-08,Windward Overhead Plunge,Radiance Fliparound,F2,Ruler,B
+MV-SIG-NUN-010-09,Windward Round Sweep,Unrivaled Gripstick,F1,Ruler,B
+MV-SIG-NUN-010-10,Lead-Rod Seal Tap,Sigil Sidespin,F2,Demigod,B
+MV-SIG-NUN-010-11,Both Rods Face the Wind,Orchestral Sidespin,F1,Ruler,B
+MV-SIG-NUN-011-01,Oath-Bearer's Stance,Statute Capstick,F2,Demigod,B
+MV-SIG-NUN-011-02,Sworn Orbit Cut,Vigorwhirr,F5,Demigod,B
+MV-SIG-NUN-011-03,Open Orbit Step,Deluge Cordjoint,F2,Demigod,B
+MV-SIG-NUN-011-04,Orbit Answer Parry,Staveseal,F4,Demigod,B
+MV-SIG-NUN-011-05,Wind-Carried Snare,Ruling Roundstick,F1,Demigod,B
+MV-SIG-NUN-011-06,Oath Orbit Press,Tiedend Crown,F3,Demigod,B
+MV-SIG-NUN-011-07,Open Orbit Plunge,Storied Neckwrap,F1,Demigod,B
+MV-SIG-NUN-011-08,Sworn Orbit Great Sweep,Magma Backspin,F2,Demigod,B
+MV-SIG-NUN-011-09,Orbit-Sworn Vanishing Strike,Pulsar Swingstick,F2,Demigod,B
+MV-SIG-NUN-011-10,Every Swing Answered For,Symphonic Season Shoulderroll,F6a,Demigod,B
+MV-SIG-NUN-012-01,Core-Wind Stance,Bedrock Octastick,F2,Core Formation,B
+MV-SIG-NUN-012-02,Core-Fed Gale Cut,Steelrod,F5,Core Formation,B
+MV-SIG-NUN-012-03,Gale-Lit Step,Clackgrace,F4,Core Formation,B
+MV-SIG-NUN-012-04,Wind-Core Parry,Sacrosanct Gripstick,F1,Core Formation,B
+MV-SIG-NUN-012-05,Core Cord Hook,Thrallclack,F5,Core Formation,B
+MV-SIG-NUN-012-06,Gale Rebound Lash,Bedrock Capstick,F2,Core Formation,B
+MV-SIG-NUN-012-07,Core Heading Press,Famed Backspin,F1,Core Formation,B
+MV-SIG-NUN-012-08,Wind-Core Recall,Rodvow,F4,Core Formation,B
+MV-SIG-NUN-012-09,Core-Lit Gale Plunge,Pulsarwhirr,F5,Core Formation,B
+MV-SIG-NUN-012-10,Gale-Ring Cord Field,Statute Chainjoint,F2,Core Formation,B
+MV-SIG-NUN-012-11,Core Gale Seal Rap,Sigilclack,F5,Core Formation,B
+MV-SIG-NUN-012-12,Wind and Core Swing as One,Harmonious Destiny Roundstick,F6a,Core Formation,B
+MV-SIG-NUN-001-01,Hornbeam Tiedend,Firm Tiedend,F2,Warrior,B
+MV-SIG-NUN-001-03,Dune Backspin,Nimble Backspin,F2,Warrior,B
+MV-SIG-NUN-002-01,Hornbeam Hardstick,Braced Hardstick,F2,Warrior,B
+MV-SIG-NUN-002-03,Dune Shoulderroll,Deft Shoulderroll,F2,Warrior,B
+MV-SIG-NUN-002-06,Glacier Sidespin,Taut Sidespin,F2,Warrior,B
+MV-SIG-NUN-002-09,Glacier Stickend,Wrenching Stickend,F2,Champion,B
+MV-SIG-NUN-007-01,Hornbeam Cordjoint,Steady Cordjoint,F2,Warrior,B
+MV-SIG-NUN-007-09,Dune Chainjoint,Raking Chainjoint,F2,Champion,B
+MV-SIG-NUN-007-03,Duneclack,Quickclack,F5,Warrior,B

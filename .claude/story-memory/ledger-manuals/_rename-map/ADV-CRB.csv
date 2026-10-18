@@ -1,0 +1,130 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-CRB-001-01,Qi Charge Bolt Seat,Mightstock,F5,Warrior+,B
+MV-ADV-CRB-001-02,Charge Hold Breath,Renewing Trigger,F1,Warrior+,B
+MV-ADV-CRB-001-03,Charged Rail Check,Verity Stirrup,F2,Warrior+,B
+MV-ADV-CRB-001-04,Warm Shaft Loose,Glint Windlass,F2,Warrior+,B
+MV-ADV-CRB-001-05,Charged Bolt Drive,Grinding Cranequin,F1,Warrior+,B
+MV-ADV-CRB-001-06,Dense Shaft Sheath,Daybreak Latch,F2,Warrior+,B
+MV-ADV-CRB-001-07,Charged Quarrel Burst,Rumbletwang,F5,Warrior+,B
+MV-ADV-CRB-001-08,Delayed Charge Bolt,Grinding Releaseclack,F1,Warrior+,B
+MV-ADV-CRB-002-01,Volley Pace Count,Stock Tincture,F3,Warrior+,B
+MV-ADV-CRB-002-02,Span Chain Rhythm,Tripbar Remedy,F3,Warrior+,B
+MV-ADV-CRB-002-03,Quiver Pair Swap,Daybreak Bowprod,F2,Warrior+,B
+MV-ADV-CRB-002-04,Aim Carry Over,Vital Sear,F2,Warrior+,B
+MV-ADV-CRB-002-05,Sweep Mark Choosing,Renewing Latch,F1,Warrior+,B
+MV-ADV-CRB-002-06,Sustained Rank Fire,Intent Cranking,F2,Warrior+,B
+MV-ADV-CRB-002-07,Volley Interval Step,Silt Twang,F2,Warrior+,B
+MV-ADV-CRB-002-08,Quarrel Rain Aim,Chime Twang,F2,Warrior+,B
+MV-ADV-CRB-002-09,Unbroken Quarrel Rain,Mayhem Setback,F2,Warrior+,B
+MV-ADV-CRB-002-10,Weighted Volley Burst,Downpour Span,F2,Warrior+,B
+MV-ADV-CRB-003-01,Cloak Hem Mark,Renewing Windlass,F1,Warrior+,B
+MV-ADV-CRB-003-02,Sleeve Edge Aim,Remnant Cranequin,F2,Warrior+,B
+MV-ADV-CRB-003-03,Pin Bolt Seat,Equipoise Boltrail,F2,Warrior+,B
+MV-ADV-CRB-003-04,Garment Pin Loose,Gustspan,F5,Warrior+,B
+MV-ADV-CRB-003-05,Hem Pin Quarrel,Quelling Stirrup,F1,Warrior+,B
+MV-ADV-CRB-003-06,Shadow Pin Loose,Subduing Quarrel,F1,Warrior+,B
+MV-ADV-CRB-003-07,Sleeve Nail Shot,Latchcuirass,F4,Warrior+,B
+MV-ADV-CRB-003-08,Pinning Barrage Net,Suppressing Boltrail,F1,Warrior+,B
+MV-ADV-CRB-003-09,Surface Skewer Bolt,Thorn Trigger,F2,Warrior+,B
+MV-ADV-CRB-004-01,Post Ground Level,Equipoise Stock,F2,Warrior+,B
+MV-ADV-CRB-004-02,Spare Bow Rack,Intentsear,F5,Warrior+,B
+MV-ADV-CRB-004-03,Quarrel Chest Open,Vitalstock,F5,Warrior+,B
+MV-ADV-CRB-004-04,Bank Rest Rail Set,Might Bowprod,F2,Warrior+,B
+MV-ADV-CRB-004-05,Fire Lane Sighting,Remnant Tripbar,F2,Warrior+,B
+MV-ADV-CRB-004-06,Lane Stake Mark,Waning Sear,F2,Warrior+,B
+MV-ADV-CRB-004-07,Post Rest Loose,Ravaging Quarrel,F1,Warrior+,B
+MV-ADV-CRB-004-08,Pre-Spanned Swap Draw,Daybreak Trigger,F2,Warrior+,B
+MV-ADV-CRB-004-09,Lane Sweep Fire,Granite Sear,F2,Warrior+,B
+MV-ADV-CRB-004-10,Placed Lane Kill Bolt,Glintspan,F5,Warrior+,B
+MV-ADV-CRB-004-11,Spare Bow Cascade,Gusttwang,F5,Warrior+,B
+MV-ADV-CRB-005-01,Company Order Listen,Boltrail Tincture,F3,Warrior+,B
+MV-ADV-CRB-005-02,Line Dress Step,Mightlatch,F5,Warrior+,B
+MV-ADV-CRB-005-03,Bolt Issue Count,Daybreak Stock,F2,Warrior+,B
+MV-ADV-CRB-005-04,Stand Spanned Easy,Heartening Latch,F1,Warrior+,B
+MV-ADV-CRB-005-05,Dismissed Unspan Check,Latchlinctus,F4,Warrior+,B
+MV-ADV-CRB-005-06,File Number Call,Waningstock,F5,Warrior+,B
+MV-ADV-CRB-005-07,Company Line Loose,Splintering Setback,F1,Warrior+,B
+MV-ADV-CRB-005-08,Flank Turn Step,Gustsear,F5,Warrior+,B
+MV-ADV-CRB-005-09,Order Relay Pass,Invigorating Cranequin,F1,Warrior+,B
+MV-ADV-CRB-005-10,Reserve Rank Spans,Vital Windlass,F2,Warrior+,B
+MV-ADV-CRB-005-11,Company Weighted Volley,Twangbarrage,F4,Warrior+,B
+MV-ADV-CRB-005-12,Fall Back by Ranks,Silt Releaseclack,F2,Warrior+,B
+MV-ADV-CRB-006-01,Twin Track Breath Pair,Daybreak Stirrup,F2,Warrior+,B
+MV-ADV-CRB-006-02,Left Right Draw Match,Vitallatch,F5,Warrior+,B
+MV-ADV-CRB-006-03,Paired Sight Line,Tripbar Tincture,F3,Warrior+,B
+MV-ADV-CRB-006-04,Twin Beat Loose,Hoarfrost Span,F2,Warrior+,B
+MV-ADV-CRB-006-05,Dual Track Bolt,Iron Releaseclack,F2,Warrior+,B
+MV-ADV-CRB-006-06,Twin Draw Reload,Mightsear,F5,Warrior+,B
+MV-ADV-CRB-006-07,Paired Shot Step,Granite Bowprod,F2,Warrior+,B
+MV-ADV-CRB-006-08,Twin Groove Quarrel Pair,Glint Setback,F2,Warrior+,B
+MV-ADV-CRB-006-09,Body Track Qi Track Shift,Mindful Cranequin,F1,Warrior+,B
+MV-ADV-CRB-007-01,Hawk Perch Stance,Equipoise Sear,F2,Warrior+,B
+MV-ADV-CRB-007-02,Hawk Eye Fix,Nursing Tripbar,F1,Warrior+,B
+MV-ADV-CRB-007-03,Prod Pair Balance,Anointing Stirrup,F1,Warrior+,B
+MV-ADV-CRB-007-04,Hover Breath Hold,Intent Boltrail,F2,Warrior+,B
+MV-ADV-CRB-007-05,Stoop Drop Lean,Vital Bowprod,F2,Warrior+,B
+MV-ADV-CRB-007-06,Hawk Stoop Loose,Blaze Quarrel,F2,Warrior+,B
+MV-ADV-CRB-007-07,Perch Shift Step,Spanjaunt,F4,Warrior+,B
+MV-ADV-CRB-007-08,High Perch Sweep Look,Veritysear,F5,Warrior+,B
+MV-ADV-CRB-007-09,Hawk Dive Quarrel,Rumblesear,F5,Warrior+,B
+MV-ADV-CRB-007-10,Twin Prod Strike Pair,Splintering Chime Setback,F6a,Warrior+,B
+MV-ADV-CRB-008-01,Basin Bank Footing,Renewing Stock,F1,Warrior+,B
+MV-ADV-CRB-008-02,River Stone Rest,Anointing Trigger,F1,Warrior+,B
+MV-ADV-CRB-008-03,Reed Line Sight,Chimelatch,F5,Warrior+,B
+MV-ADV-CRB-008-04,Flowing Count Draw,Intent Stirrup,F2,Warrior+,B
+MV-ADV-CRB-008-05,Riverbank Rest Loose,Releaseclack Maelstrom,F3,Warrior+,B
+MV-ADV-CRB-008-06,Ford Cross Step,Stockspurt,F4,Warrior+,B
+MV-ADV-CRB-008-07,River Current Lead Bolt,Hollowsear,F5,Warrior+,B
+MV-ADV-CRB-008-08,Basin Rim Rank Fire,Tearing Quarrel Onslaught,F6b,Warrior+,B
+MV-ADV-CRB-009-01,Double Crank Seat,Latch Elixir,F3,Warrior+,B
+MV-ADV-CRB-009-02,Crank Pair Sync,Might Cranequin,F2,Warrior+,B
+MV-ADV-CRB-009-03,Twin String Check,Chime Sear,F2,Warrior+,B
+MV-ADV-CRB-009-04,Azure Rail Wipe,Intent Trigger,F2,Warrior+,B
+MV-ADV-CRB-009-05,Paired Bolt Lay,Equipoise Windlass,F2,Warrior+,B
+MV-ADV-CRB-009-06,Crank Pause Breath,Equipoise Bowprod,F2,Warrior+,B
+MV-ADV-CRB-009-07,Double Crank Reload,Mindful Tripbar,F1,Warrior+,B
+MV-ADV-CRB-009-08,Twin Crank Heavy Loose,Novasear,F5,Warrior+,B
+MV-ADV-CRB-009-09,Azure Pair Step,Silt Quarrel,F2,Warrior+,B
+MV-ADV-CRB-009-10,Double Drawn Prod Punch,Cranking Barrage,F3,Warrior+,B
+MV-ADV-CRB-009-11,Twin Crank Qi Lock,Rousing Latch,F1,Warrior+,B
+MV-ADV-CRB-010-01,Plateau Lip Set,Intentlatch,F5,Warrior+,B
+MV-ADV-CRB-010-02,Oath Breath Hold,Boltrail Linctus,F3,Warrior+,B
+MV-ADV-CRB-010-03,Wind Feather Check,Perceptive Windlass,F1,Warrior+,B
+MV-ADV-CRB-010-04,Bearing Rail Align,Invigorating Trigger,F1,Warrior+,B
+MV-ADV-CRB-010-05,Oath Bolt Seat,Sustaining Stirrup,F1,Warrior+,B
+MV-ADV-CRB-010-06,Plateau Cross Loose,Stock Assault,F3,Warrior+,B
+MV-ADV-CRB-010-07,Wind Lean Step,Silt Cranking,F2,Warrior+,B
+MV-ADV-CRB-010-08,Bearing Hold Aim,Remnant Stock,F2,Warrior+,B
+MV-ADV-CRB-010-09,Oath Sworn Quarrel,Cranking Maelstrom,F3,Warrior+,B
+MV-ADV-CRB-010-10,Open Edge Barrage,Spantorment,F4,Warrior+,B
+MV-ADV-CRB-011-01,Bearing Mark Take,Remnant Latch,F2,Warrior+,B
+MV-ADV-CRB-011-02,Sent Bolt Breath,Daybreak Windlass,F2,Warrior+,B
+MV-ADV-CRB-011-03,Gale Lean Read,Heartening Sear,F1,Warrior+,B
+MV-ADV-CRB-011-04,Edge Stone Brace,Stockremedy,F4,Warrior+,B
+MV-ADV-CRB-011-05,Bearing Cord Hold,Restoring Boltrail,F1,Warrior+,B
+MV-ADV-CRB-011-06,Plateau Grass Glance,Waning Cranequin,F2,Warrior+,B
+MV-ADV-CRB-011-07,Bearing Held Loose,Scything Cranking,F1,Warrior+,B
+MV-ADV-CRB-011-08,Bearing Carry Pace,Hastening Quarrel,F1,Warrior+,B
+MV-ADV-CRB-011-09,Gust Steadied Hold,Intentstock,F5,Warrior+,B
+MV-ADV-CRB-011-10,Cross Bearing Pair,Latchremedy,F4,Warrior+,B
+MV-ADV-CRB-011-11,Bearing Struck Quarrel,Facet Span,F2,Warrior+,B
+MV-ADV-CRB-011-12,Gale Drift Arc,Glint Twang,F2,Warrior+,B
+MV-ADV-CRB-012-01,Wind Sworn Low Set,Vigorous Tripbar,F1,Warrior+,B
+MV-ADV-CRB-012-02,Quarrel Fletch Trim,Vital Stirrup,F2,Warrior+,B
+MV-ADV-CRB-012-03,Breath Between Gusts,Stockelixir,F4,Warrior+,B
+MV-ADV-CRB-012-04,Ridge Line Sighting,Discerning Boltrail,F1,Warrior+,B
+MV-ADV-CRB-012-05,Wind Sworn Loose,Hoarfrost Setback,F2,Warrior+,B
+MV-ADV-CRB-012-06,Gust Gap Step,Gust Bowprod,F2,Warrior+,B
+MV-ADV-CRB-012-07,Plateau Drop Read,Stocklinctus,F4,Warrior+,B
+MV-ADV-CRB-012-08,Wind Sworn Pin Bolt,Hollowtwang,F5,Warrior+,B
+MV-ADV-CRB-012-09,Sworn Quarrel Hail,Spanbarrage,F4,Warrior+,B
+MV-ADV-CRB-013-01,Open Edge Footing,Intent Tripbar,F2,Warrior+,B
+MV-ADV-CRB-013-02,Cliff Lip Kneel,Gust Setback,F2,Warrior+,B
+MV-ADV-CRB-013-03,Wide Sky Sighting,Verity Bowprod,F2,Warrior+,B
+MV-ADV-CRB-013-04,Edge Hold Count,Vital Trigger,F2,Warrior+,B
+MV-ADV-CRB-013-05,Open Edge Rest Loose,Searbarrage,F4,Warrior+,B
+MV-ADV-CRB-013-06,Edge Slide Step,Torrent Span,F2,Warrior+,B
+MV-ADV-CRB-013-07,Edge Dropped Quarrel,Rupturing Setback,F1,Warrior+,B
+MV-ADV-CRB-013-08,Open Sky Barrage Cast,Harrowing Cranking,F1,Warrior+,B
+MV-ADV-CRB-007-10,Splintering Chime Setback,Cleaving Setback,F6a,Warrior+,B
+MV-ADV-CRB-008-08,Tearing Quarrel Onslaught,Tearing Quarrel,F6b,Warrior+,B

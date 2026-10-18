@@ -1,0 +1,125 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-MST-001-01,Court Orb Standing Guard,Sainted Shaftcollar,F1,Warrior L1 Low,B
+MV-SIG-MST-001-02,Court Orb Opening Fall,Ballcrown,F4,Warrior L1 Low,B
+MV-SIG-MST-001-03,Court Pace Turn,Burrgrace,F4,Warrior L1 Low,B
+MV-SIG-MST-001-04,Sapphire Burr Rake,Pummelcrown,F4,Warrior L1 Low,B
+MV-SIG-MST-001-05,Court Haft Rising Beat,Faithful Headspike,F1,Warrior L1 Low,B
+MV-SIG-MST-001-06,Hooked Sleeve Draw,Commanding Prickball,F1,Warrior L1 Low,B
+MV-SIG-MST-001-07,Court Spike Seam Drive,Noble Topspike,F1,Champion L1 Low,B
+MV-SIG-MST-001-08,Court Round of Orb and Shaft,Harmonious Pummel,F1,Champion L1 Low,B
+MV-SIG-MST-001-09,Court Weight Release,Magnificent Thornbite,F1,Demigod L1 Low,B
+MV-SIG-MST-001-10,Azure Court Orb Fall,Peerless Quenched Studcrush,F6a,Warrior L1 Low,B
+MV-SIG-MST-002-01,River Pair Opening Guard,Venerable Spikering,F1,Warrior L6 Mid,B
+MV-SIG-MST-002-02,Lead Current Swing,Crunchverdict,F4,Warrior L6 Mid,B
+MV-SIG-MST-002-03,Eddy Pace Slip,Thistlesolace,F4,Warrior L6 Mid,B
+MV-SIG-MST-002-04,Second Current Return,Maultriumph,F4,Warrior L6 Mid,B
+MV-SIG-MST-002-05,Backwater Catch,Enshrined Ballsocket,F1,Warrior L6 Mid,B
+MV-SIG-MST-002-06,Sandbar Spike Hold,Ruling Topspike,F1,Warrior L6 Mid,B
+MV-SIG-MST-002-07,Paired Spike Landing,Lordly Thornbite,F1,Champion L1 Low,B
+MV-SIG-MST-002-08,Rapids Run,Orchestral Maul,F1,Champion L1 Low,B
+MV-SIG-MST-002-09,Flood Pair Breaker,Imperial Spikeball,F1,Demigod L1 Low,B
+MV-SIG-MST-002-10,Paired River Spike Fall,Matchless Headspike,F1,Warrior L6 Mid,B
+MV-SIG-MST-003-01,Twin-Court Weight Stance,Sacrosanct Spikebase,F1,Champion L3 Low,B
+MV-SIG-MST-003-02,Left Court Crush,Maulbanner,F4,Champion L3 Low,B
+MV-SIG-MST-003-03,Right Court Crush,Pummeldecree,F4,Champion L3 Low,B
+MV-SIG-MST-003-04,Courtyard Shaft Brace,Inviolate Ballsocket,F1,Champion L3 Low,B
+MV-SIG-MST-003-05,Crowd Court Sweep,Entropy Prickball,F2,Champion L3 Low,B
+MV-SIG-MST-003-06,Heavy Orb Hook Drag,Despotic Thornball,F1,Champion L3 Low,B
+MV-SIG-MST-003-07,Weighted Court Descent,Triumphant Studball,F1,Champion L3 Low,B
+MV-SIG-MST-003-08,Twin Strike Staircase,Symphonic Crunch,F1,Champion L3 Low,B
+MV-SIG-MST-003-09,Court Spike Wedge,Intrepid Spikebase,F1,Champion L3 Low,B
+MV-SIG-MST-003-10,Both Courts Bear Down,Majestic Spikeball,F1,Demigod L1 Low,B
+MV-SIG-MST-003-11,Twin-Court Crushing Head,Exalted Bedrock Spikering,F6a,Champion L3 Low,B
+MV-SIG-MST-004-01,Basin Rim Orb Guard,Immaculate Shaftcollar,F1,Ruler L1 Low,B
+MV-SIG-MST-004-02,Hawk Dip Strike,Burrtriumph,F4,Ruler L1 Low,B
+MV-SIG-MST-004-03,Valley Wind Step,Ballvoyage,F4,Ruler L1 Low,B
+MV-SIG-MST-004-04,Cupped Fall,Crunchbanner,F4,Ruler L1 Low,B
+MV-SIG-MST-004-05,Raptor Wing Parry,Undefiled Spikebase,F1,Ruler L1 Low,B
+MV-SIG-MST-004-06,Basin Silt Pin,Unbending Studball,F1,Ruler L1 Low,B
+MV-SIG-MST-004-07,Hawk and Basin Pairing,Choral Pummel,F1,Ruler L1 Low,B
+MV-SIG-MST-004-08,Highland Spike Dive,Heroic Topspike,F1,Ruler L1 Low,B
+MV-SIG-MST-004-09,Overflow Stroke,Solar Studcrush,F2,Demigod L1 Low,B
+MV-SIG-MST-004-10,Basin and Hawk Orb Fall,Paramount Thornball,F1,Ruler L1 Low,B
+MV-SIG-MST-005-01,Sky Track Guard,Devout Ballsocket,F1,Demigod L1 Low,B
+MV-SIG-MST-005-02,Ground Track Swing,Thistlecrown,F4,Demigod L1 Low,B
+MV-SIG-MST-005-03,Cloud Shadow Pace,Maulodyssey,F4,Demigod L1 Low,B
+MV-SIG-MST-005-04,Twin Track Qi Weave,Dauntless Spikeball,F1,Demigod L1 Low,B
+MV-SIG-MST-005-05,Sky Screen Parry,Stately Headspike,F1,Demigod L1 Low,B
+MV-SIG-MST-005-06,Spike Thread Needle,Unrivaled Thornbite,F1,Demigod L1 Low,B
+MV-SIG-MST-005-07,Dual Shock Hook,Masterful Prickball,F1,Demigod L1 Low,B
+MV-SIG-MST-005-08,Azure Wave Combination,Grand Spikering,F1,Demigod L1 Low,B
+MV-SIG-MST-005-09,Skyfall Pin,Tyrannous Studball,F1,Demigod L1 Low,B
+MV-SIG-MST-005-10,Dual Track Reckoning,Sphere Topspike,F2,Demigod L1 Low,B
+MV-SIG-MST-005-11,Azure Sky Dual-Track Fall,Sovereign Vigor Headspike,F6a,Demigod L1 Low,B
+MV-SIG-MST-006-01,Two River Court Stance,Revered Spikebase,F1,Core Formation L1 Low,B
+MV-SIG-MST-006-02,Spring Source Swing,Pummelbanner,F4,Core Formation L1 Low,B
+MV-SIG-MST-006-03,Delta Spread Step,Crunchgrace,F4,Core Formation L1 Low,B
+MV-SIG-MST-006-04,Core Pulse Strike,Storied Ballsocket,F1,Core Formation L1 Low,B
+MV-SIG-MST-006-05,Estuary Guard Fold,Undaunted Spikering,F1,Core Formation L1 Low,B
+MV-SIG-MST-006-06,Tide Drag Hook,Peremptory Headspike,F1,Core Formation L1 Low,B
+MV-SIG-MST-006-07,Source and Mouth Chain,Resonant Maul,F1,Core Formation L1 Low,B
+MV-SIG-MST-006-08,Meeting Point Spike,Valiant Prickball,F1,Core Formation L1 Low,B
+MV-SIG-MST-006-09,Floodgate Opening,Kernel Thornball,F2,Core Formation L1 Low,B
+MV-SIG-MST-006-10,Court of Two Rivers Fall,Majestic Studcrush,F1,Core Formation L1 Low,B
+MV-SIG-MST-007-01,Sworn Stance on the Edge,Consecrated Topspike,F1,Warrior L2 Low,B
+MV-SIG-MST-007-02,Wind Pull Swing,Balledict,F4,Warrior L2 Low,B
+MV-SIG-MST-007-03,Skirting Stride,Thistleboon,F4,Warrior L2 Low,B
+MV-SIG-MST-007-04,Gust Edged Burr,Royal Studball,F1,Warrior L2 Low,B
+MV-SIG-MST-007-05,Turned Wind Guard,Faithful Spikebase,F1,Warrior L2 Low,B
+MV-SIG-MST-007-06,Cloak Snare Tug,Authoritative Spikering,F1,Warrior L2 Low,B
+MV-SIG-MST-007-07,Sworn Reach Thrust,Exalted Prickball,F1,Champion L1 Low,B
+MV-SIG-MST-007-08,Wind-Sworn Chain,Harmonious Crunch,F1,Champion L1 Low,B
+MV-SIG-MST-007-09,Held Gust Release,Matchless Ballsocket,F1,Demigod L1 Low,B
+MV-SIG-MST-007-10,Wind-Sworn Orb Fall,Majestic Squall Thornball,F6a,Warrior L2 Low,B
+MV-SIG-MST-008-01,Oath Bound Footing,Unwavering Shaftcollar,F1,Warrior L8 Low,B
+MV-SIG-MST-008-02,Plateau Down Stroke,Maulcrown,F4,Warrior L8 Low,B
+MV-SIG-MST-008-03,Steady Line Advance,Burrvoyage,F4,Warrior L8 Low,B
+MV-SIG-MST-008-04,Word Weighted Swing,Thistledecree,F4,Warrior L8 Low,B
+MV-SIG-MST-008-05,Promise Kept Haft Parry,Sainted Headspike,F1,Warrior L8 Low,B
+MV-SIG-MST-008-06,Sworn Spike Anchor,Subjugating Thornball,F1,Warrior L8 Low,B
+MV-SIG-MST-008-07,Plateau Oath Thrust,Famed Topspike,F1,Champion L1 Low,B
+MV-SIG-MST-008-08,Oath Strokes in Order,Grand Pummel,F1,Champion L1 Low,B
+MV-SIG-MST-008-09,Vow Pressing Weight,Commanding Spikering,F1,Demigod L1 Low,B
+MV-SIG-MST-008-10,Plateau Oath Orb Fall,Peerless Prickball,F1,Warrior L8 Low,B
+MV-SIG-MST-009-01,Bearing Taken Orb Stance,Gracious Shaftcollar,F1,Champion L5 Mid,B
+MV-SIG-MST-009-02,Gale Pushed Swing,Pummelverdict,F4,Champion L5 Mid,B
+MV-SIG-MST-009-03,Bearing Held Orb Step,Crunchsolace,F4,Champion L5 Mid,B
+MV-SIG-MST-009-04,Crosswind Correction,Devout Headspike,F1,Champion L5 Mid,B
+MV-SIG-MST-009-05,Bearing Lock Spike,Ruling Studball,F1,Champion L5 Mid,B
+MV-SIG-MST-009-06,Gale Edge Drop,Vaunted Spikedrop,F1,Champion L5 Mid,B
+MV-SIG-MST-009-07,Compass True Strike,Storied Topspike,F1,Champion L5 Mid,B
+MV-SIG-MST-009-08,Gale Course Corrections,Choral Crunch,F1,Champion L5 Mid,B
+MV-SIG-MST-009-09,Driving Gale Crush,Inferno Spikeball,F2,Champion L5 Mid,B
+MV-SIG-MST-009-10,Held Bearing Pressure,Imperious Spikebase,F1,Demigod L1 Low,B
+MV-SIG-MST-009-11,Bearing and Gale Orb Fall,Illustrious Steel Pummel,F6a,Champion L5 Mid,B
+MV-SIG-MST-010-01,Crushing Round Opening Guard,Enshrined Spikering,F1,Ruler L1 Mid,B
+MV-SIG-MST-010-02,Round First Fall,Thistletriumph,F4,Ruler L1 Mid,B
+MV-SIG-MST-010-03,Round Circling Step,Maulgrace,F4,Ruler L1 Mid,B
+MV-SIG-MST-010-04,Wind Round Rake,Pummeledict,F4,Ruler L1 Mid,B
+MV-SIG-MST-010-05,Round Cover Turn,Venerable Ballsocket,F1,Ruler L1 Mid,B
+MV-SIG-MST-010-06,Passing Hook Wrench,Despotic Studball,F1,Ruler L1 Mid,B
+MV-SIG-MST-010-07,Round Spike Needle,Gallant Spikebase,F1,Ruler L1 Mid,B
+MV-SIG-MST-010-08,Whole Round Rush,Symphonic Maul,F1,Ruler L1 Mid,B
+MV-SIG-MST-010-09,Heavy Round Pin,Tyrannous Headspike,F1,Demigod L1 Low,B
+MV-SIG-MST-010-10,Wind-Sworn Crushing Round Fall,Sovereign Thornball,F1,Ruler L1 Mid,B
+MV-SIG-MST-011-01,Plateau Edge Open Guard,Stately Spikebase,F1,Demigod L3 Low,B
+MV-SIG-MST-011-02,Edge Gust Swing,Crunchedict,F4,Demigod L3 Low,B
+MV-SIG-MST-011-03,Updraft Sidestep,Ballsolace,F4,Demigod L3 Low,B
+MV-SIG-MST-011-04,Field Gust Drive,Lordly Spikeball,F1,Demigod L3 Low,B
+MV-SIG-MST-011-05,Gale Screen Guard,Inviolate Prickball,F1,Demigod L3 Low,B
+MV-SIG-MST-011-06,Edge Spike Probe,Intrepid Thornbite,F1,Demigod L3 Low,B
+MV-SIG-MST-011-07,Wind Snare Pull,Despotic Spikebase,F1,Demigod L3 Low,B
+MV-SIG-MST-011-08,Gale Plateau Chain,Orchestral Pummel,F1,Demigod L3 Low,B
+MV-SIG-MST-011-09,Plateau Spike Dive,Dauntless Studcrush,F1,Demigod L3 Low,B
+MV-SIG-MST-011-10,Gale Pressing Fall,Penumbra Headspike,F2,Demigod L3 Low,B
+MV-SIG-MST-011-11,Plateau Edge Gale Orb Fall,Triumphant Inferno Topspike,F6a,Demigod L3 Low,B
+MV-SIG-MST-012-01,Last Oath Orb Stance,Faithful Shaftcollar,F1,Core Formation L3 Low,B
+MV-SIG-MST-012-02,Oath Opening Stroke,Burrdecree,F4,Core Formation L3 Low,B
+MV-SIG-MST-012-03,Held Breath Step,Thistlevoyage,F4,Core Formation L3 Low,B
+MV-SIG-MST-012-04,Core Gale Pulse,Maulverdict,F4,Core Formation L3 Low,B
+MV-SIG-MST-012-05,Gale Parry Sworn,Revered Topspike,F1,Core Formation L3 Low,B
+MV-SIG-MST-012-06,Windblown Hook Pull,Peremptory Thornball,F1,Core Formation L3 Low,B
+MV-SIG-MST-012-07,Last Breath Thrust,Paramount Spikebase,F1,Core Formation L3 Low,B
+MV-SIG-MST-012-08,Gale Oath Orb Sequence,Choral Maul,F1,Core Formation L3 Low,B
+MV-SIG-MST-012-09,Gale Verdict Hold,Nucleus Shaftcollar,F2,Core Formation L3 Low,B
+MV-SIG-MST-012-10,Last Gale Oath Fall,Valiant Spikering,F1,Core Formation L3 Low,B

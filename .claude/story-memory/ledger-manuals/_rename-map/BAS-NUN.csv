@@ -1,0 +1,68 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-NUN-001-01,Twin-Stick Ready Hold,Hooding Hardstick,F1,Unawakened,A
+MV-BAS-NUN-001-02,Overhand Rod Drop,Doweldash,F4,Unawakened,A
+MV-BAS-NUN-001-03,Level Hinge Swing,Whirrblow,F4,Unawakened,A
+MV-BAS-NUN-001-04,Rising Cord Flick,Forward Sidespin,F1,Unawakened,A
+MV-BAS-NUN-001-05,Grip Reset Shuffle,Swaying Fliparound,F1,Unawakened,A
+MV-BAS-NUN-001-06,Cord-Crossed Rod Block,Lowered Gripstick,F1,Unawakened,A
+MV-BAS-NUN-002-01,Hinge Warm-Up Circle,Folded Swingstick,F1,Skin,A
+MV-BAS-NUN-002-02,Standing Figure-Eight Drill,Folded Roundstick,F1,Skin,A
+MV-BAS-NUN-002-03,Back-Palm Hinge Snap,Dowelblow,F4,Skin,A
+MV-BAS-NUN-002-04,Low Orbit Shin Rake,Straight Chainjoint,F1,Skin,A
+MV-BAS-NUN-002-05,Pivot-and-Swing Footwork,Rodhop,F4,Skin,A
+MV-BAS-NUN-002-06,Capped-End Gut Jab,Plain Octastick,F1,Skin,A
+MV-BAS-NUN-002-07,Elbow-Tuck Recovery,Tiedend Stay,F3,Skin,A
+MV-BAS-NUN-003-01,Taut Cord Stance,Lowered Cordjoint,F1,Muscle,A
+MV-BAS-NUN-003-02,Heel-of-Hand Butt Thrust,Clackbump,F4,Muscle,A
+MV-BAS-NUN-003-03,Wrist-Roll Smack,Sudden Shoulderroll,F1,Muscle,A
+MV-BAS-NUN-003-04,Raised Cord Parry,Rodhusk,F4,Muscle,A
+MV-BAS-NUN-003-05,Sidestep Wrist Snap,Backward Cascade,F1,Muscle,A
+MV-BAS-NUN-004-01,Shoulder-Yoke Rest,Snug Gripstick,F1,Tendon,A
+MV-BAS-NUN-004-02,Nape-Roll Pass,Short Stickend,F1,Tendon,A
+MV-BAS-NUN-004-03,Armpit Catch Return,Capstick Pause,F3,Tendon,A
+MV-BAS-NUN-004-04,Under-Elbow Hand Switch,Staveblow,F4,Tendon,A
+MV-BAS-NUN-004-05,Catch-and-Drop Cycle,Level Roundstick,F1,Tendon,A
+MV-BAS-NUN-004-06,Over-Shoulder Back Flick,Clackdash,F4,Tendon,A
+MV-BAS-NUN-004-07,Low-Carry Walking Step,Quiet Neckwrap,F1,Tendon,A
+MV-BAS-NUN-004-08,Palm-Slide Regrip,Rodcowl,F4,Tendon,A
+MV-BAS-NUN-005-01,Swivel Stance Settle,Solid Chainjoint,F1,Bone,A
+MV-BAS-NUN-005-02,Plain Swivel Cut,Plain Backspin,F1,Bone,A
+MV-BAS-NUN-005-03,Cross-Body Swivel Return,Snug Swingstick,F1,Bone,A
+MV-BAS-NUN-005-04,Short-Arc Knuckle Rap,Rodbump,F4,Bone,A
+MV-BAS-NUN-005-05,Cord-Hook Wrist Tie,Turning Shoulderroll,F1,Bone,A
+MV-BAS-NUN-005-06,Backing Swivel Guard,Clackcowl,F4,Bone,A
+MV-BAS-NUN-006-01,Qi-Threaded Guard Bar,Tight Hardstick,F1,Senior,A
+MV-BAS-NUN-006-02,Qi Rebound Rod Rap,Wide Neckwrap,F1,Senior,A
+MV-BAS-NUN-006-03,Twin Rebound Tap,Roddrop,F4,Senior,A
+MV-BAS-NUN-006-04,Springing Cord Step,Easing Octastick,F1,Senior,A
+MV-BAS-NUN-006-05,Wrist-Turned Return Block,Clackstay,F4,Senior,A
+MV-BAS-NUN-006-06,Qi-Capped Rod Jab,Whirrhit,F4,Senior,A
+MV-BAS-NUN-006-07,Ringing Cord Snap,Locking Cordjoint,F1,Senior,A
+MV-BAS-NUN-007-01,Windmill Rod Screen,Solid Capstick,F1,Senior,A
+MV-BAS-NUN-007-02,Hip-to-Shoulder Sweep Parry,Planted Hardstick,F1,Senior,A
+MV-BAS-NUN-007-03,Looping Counter-Crack,Rodblow,F4,Senior,A
+MV-BAS-NUN-007-04,Overhead Cord Cover,Roundstick Wedge,F3,Senior,A
+MV-BAS-NUN-007-05,Parrying Backstep Glide,Clackdodge,F4,Senior,A
+MV-BAS-NUN-007-06,Spinning Wrist Clip,Tiedend Lid,F3,Senior,A
+MV-BAS-NUN-008-01,Hinge Forearm Snare,Cascade Cowl,F3,Senior,A
+MV-BAS-NUN-008-02,Cord-Wrapped Shaft Lock,Towing Fliparound,F1,Senior,A
+MV-BAS-NUN-008-03,Link-Pinch Wrist Turn,Tripping Backspin,F1,Senior,A
+MV-BAS-NUN-008-04,Scissoring Rod Catch,Lowered Stickend,F1,Senior,A
+MV-BAS-NUN-008-05,Dropped-Catch Jaw Snap,Stavedrop,F4,Senior,A
+MV-BAS-NUN-009-01,Low Orbit Release,Leaden Fliparound,F1,Senior,A
+MV-BAS-NUN-009-02,High Orbit Release,Low Tiedend,F1,Senior,A
+MV-BAS-NUN-009-03,Returning Orbit Catch,Clackhusk,F4,Senior,A
+MV-BAS-NUN-009-04,Waist-Height Orbit Turn,Stavecowl,F4,Senior,A
+MV-BAS-NUN-009-05,Outward Orbit Step,Easing Gripstick,F1,Senior,A
+MV-BAS-NUN-009-06,Inward Orbit Pull,Fouling Sidespin,F1,Senior,A
+MV-BAS-NUN-009-07,Twin Orbit Counterweight,Straight Octastick,F1,Senior,A
+MV-BAS-NUN-009-08,Hip Orbit Halt,Solid Cordjoint,F1,Senior,A
+MV-BAS-NUN-010-01,Braced Fist Hold,Snug Capstick,F1,Senior,A
+MV-BAS-NUN-010-02,Release Leap Strike,Quick Neckwrap,F1,Senior,A
+MV-BAS-NUN-010-03,Loosened Grip Lash,Downward Sidespin,F1,Senior,A
+MV-BAS-NUN-010-04,Grip-Tighten Check,Rodstay,F4,Senior,A
+MV-BAS-NUN-010-05,Braced Drive Step,Cascade Dodge,F3,Senior,A
+MV-BAS-NUN-010-06,Backhand Release Cut,Square Shoulderroll,F1,Senior,A
+MV-BAS-NUN-010-07,Brace-Break Reset,Resting Swingstick,F1,Senior,A
+MV-BAS-NUN-002-06,Plain Octastick,Clean Octastick,F1,Skin,A
+MV-BAS-NUN-005-02,Plain Backspin,Crisp Backspin,F1,Bone,A

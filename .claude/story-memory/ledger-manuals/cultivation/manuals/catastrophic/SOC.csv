@@ -1,0 +1,2 @@
+manual_id,grade,affinity_id,origin,title,realm_band,min_realm,energy_req,cultivation_req,affinity_req,sovereignty_req,move_count,composition,tradition,summary,status,first_area,notes
+CMAN-CAT-SOC-001,CAT,SOC,Common,The Canon of the Consuming Draw,CF,Core Formation L5 Low,QI-EXT,CORE-ON+LINK-PRIOR+LINK-STEP,SR5,SOV-C,14,I4 A4 E3 S1 C2,consuming draw school,A canon of the draw that consumes every hostile force in range at the Core and returns the whole store as ruin.,Active,Not yet established,"moves renamed 2026-10-16, old names in _rename-map"

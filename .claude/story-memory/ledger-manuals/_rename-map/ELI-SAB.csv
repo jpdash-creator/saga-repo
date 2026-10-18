@@ -1,0 +1,158 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-SAB-001-01,Azure Sky Draw Cut,Corroding Basket,F1,Demigod L1 Low,B
+MV-ELI-SAB-001-02,Hawk Eye Parry,Gust Counterguard,F2,Demigod L1 Low,B
+MV-ELI-SAB-001-03,Updraft Saber Step,Bellyflash,F4,Demigod L1 Low,B
+MV-ELI-SAB-001-04,Hawk Turn Slash,Blistering Swipe,F1,Demigod L1 Low,B
+MV-ELI-SAB-001-05,Azure Edge Feint,Falsedge Fortitude,F3,Demigod L1 Low,B
+MV-ELI-SAB-001-06,Soaring Guard Roll,Torrent Basket,F2,Demigod L1 Low,B
+MV-ELI-SAB-001-07,Stooping Talon Chain,Intent Flourish,F2,Demigod L1 Low,B
+MV-ELI-SAB-001-08,Azure Dome Saber Guard,Unrelenting Swell,F1,Demigod L1 Low,B
+MV-ELI-SAB-001-09,Skyfall Talon Cut,Wrathful Skimmer,F1,Demigod L1 Low,B
+MV-ELI-SAB-002-01,Court Pair Opening Cut,Blazeyelman,F5,Demigod L2 Low,B
+MV-ELI-SAB-002-02,Court Mirror Parry,Chime Counterguard,F2,Demigod L2 Low,B
+MV-ELI-SAB-002-03,Court Thrust Beside,Bellyruin,F4,Demigod L2 Low,B
+MV-ELI-SAB-002-04,Court Pace Saber Step,Siltbelly,F5,Demigod L2 Low,B
+MV-ELI-SAB-002-05,Twin Court Crossing,Whirl Devastation,F3,Demigod L2 Low,B
+MV-ELI-SAB-002-06,Paired Edge Rebuke,Equipoise Falsedge,F2,Demigod L2 Low,B
+MV-ELI-SAB-002-07,Court Hold Bind,Slantcut Havoc,F3,Demigod L2 Low,B
+MV-ELI-SAB-002-08,Two Courts One Cut,Basketwrath,F4,Demigod L2 Low,B
+MV-ELI-SAB-002-09,Court Judgement Sequence,Intentwhirl,F5,Demigod L2 Low,B
+MV-ELI-SAB-002-10,Twin Court Verdict Saber Cut,Hellish Gallop,F1,Demigod L2 Low,B
+MV-ELI-SAB-003-01,Basin Rim Belly Cut,Rumble Spinecurve,F2,Demigod L1 Mid,B
+MV-ELI-SAB-003-02,Basin Settle Guard,Pipeback Mettle,F3,Demigod L1 Mid,B
+MV-ELI-SAB-003-03,Basin Slide Step,Unseen Swipe,F1,Demigod L1 Mid,B
+MV-ELI-SAB-003-04,Basin Pour Slash,Whirlscourge,F4,Demigod L1 Mid,B
+MV-ELI-SAB-003-05,Rising Water Parry,Murk Basket,F2,Demigod L1 Mid,B
+MV-ELI-SAB-003-06,Silt Drag Bind,Sanguine Gallop,F2,Demigod L1 Mid,B
+MV-ELI-SAB-003-07,Basin Tide Sweep,Slantcut Devastation,F3,Demigod L1 Mid,B
+MV-ELI-SAB-003-08,Still Water Counter,Chime Belly,F2,Demigod L1 Mid,B
+MV-ELI-SAB-003-09,Basin Overflow Saber Cut,Gnashing Whirl Wrath,F6b,Demigod L1 Mid,B
+MV-ELI-SAB-004-01,Moon Arc Draw,Tempered Swipe,F2,Demigod L3 Low,B
+MV-ELI-SAB-004-02,Moon Phase Parry,Unbowed Counterguard,F1,Demigod L3 Low,B
+MV-ELI-SAB-004-03,Half Moon Thrust,Hollowbelly,F5,Demigod L3 Low,B
+MV-ELI-SAB-004-04,Moon Path Step,Gallop Glare,F3,Demigod L3 Low,B
+MV-ELI-SAB-004-05,Moon Edge Check,Gallopspine,F4,Demigod L3 Low,B
+MV-ELI-SAB-004-06,Waxing Cut Pair,Yelmanscourge,F4,Demigod L3 Low,B
+MV-ELI-SAB-004-07,Waning Parry Cut,Backedge Mettle,F3,Demigod L3 Low,B
+MV-ELI-SAB-004-08,Moon Pair Feint,Immobilizing Skimmer,F1,Demigod L3 Low,B
+MV-ELI-SAB-004-09,Full Moon Circle Cut,Slagbelly,F5,Demigod L3 Low,B
+MV-ELI-SAB-004-10,Moon Shadow Sequence,Doctrine Flourish,F2,Demigod L3 Low,B
+MV-ELI-SAB-004-11,Dark Moon Cut,Swipewrath,F4,Demigod L3 Low,B
+MV-ELI-SAB-005-01,Crossing Draw Cut,Blaze Whirl,F2,Demigod L2 Mid,B
+MV-ELI-SAB-005-02,Bank Guard,Aegis Knucklebow,F2,Demigod L2 Mid,B
+MV-ELI-SAB-005-03,Stepping Stone Step,Might Skimmer,F2,Demigod L2 Mid,B
+MV-ELI-SAB-005-04,Midstream Slash,Gnashing Belly,F1,Demigod L2 Mid,B
+MV-ELI-SAB-005-05,Undertow Parry,Murk Pipeback,F2,Demigod L2 Mid,B
+MV-ELI-SAB-005-06,Spray Edge Flick,Gustwhirl,F5,Demigod L2 Mid,B
+MV-ELI-SAB-005-07,Rapids Chain,Hourswell,F5,Demigod L2 Mid,B
+MV-ELI-SAB-005-08,Weir Holding Guard,Indomitable Yelman,F1,Demigod L2 Mid,B
+MV-ELI-SAB-005-09,Great River Breaking Cut,Mangling Granite Spinecurve,F6a,Demigod L2 Mid,B
+MV-ELI-SAB-006-01,Unbroken Draw,Whirlruin,F4,Demigod L4 Low,B
+MV-ELI-SAB-006-02,Unbroken Guard Line,Charter Swell,F2,Demigod L4 Low,B
+MV-ELI-SAB-006-03,Azure Straight Thrust,Facet Falsedge,F2,Demigod L4 Low,B
+MV-ELI-SAB-006-04,Unbroken Pace,Silt Slantcut,F2,Demigod L4 Low,B
+MV-ELI-SAB-006-05,Edge Without Pause,Iron Basket,F2,Demigod L4 Low,B
+MV-ELI-SAB-006-06,Unbroken Parry Wheel,Evergreen Belly,F1,Demigod L4 Low,B
+MV-ELI-SAB-006-07,Azure Bite Hook,Falsedge Ruin,F3,Demigod L4 Low,B
+MV-ELI-SAB-006-08,Unbroken Edge Chain,Reverberating Flourish,F1,Demigod L4 Low,B
+MV-ELI-SAB-006-09,Sky Blue Guard Hold,Thorn Backedge,F2,Demigod L4 Low,B
+MV-ELI-SAB-006-10,Azure Line Unbroken Cut,Glint Swipe,F2,Demigod L4 Low,B
+MV-ELI-SAB-007-01,Wing Beat Saber Cut,Lacerating Spinecurve,F1,Demigod L3 Mid,B
+MV-ELI-SAB-007-02,Wing Fold Saber Guard,Swell Fortitude,F3,Demigod L3 Mid,B
+MV-ELI-SAB-007-03,Pinion Point Thrust,Nova Swipe,F2,Demigod L3 Mid,B
+MV-ELI-SAB-007-04,Wing Tilt Slide,Phantom Knucklebow,F1,Demigod L3 Mid,B
+MV-ELI-SAB-007-05,Feather Edge Rake,Mightyelman,F5,Demigod L3 Mid,B
+MV-ELI-SAB-007-06,Thermal Rise Parry,Unconquered Basket,F1,Demigod L3 Mid,B
+MV-ELI-SAB-007-07,Wing Span Sweep,Slag Slantcut,F2,Demigod L3 Mid,B
+MV-ELI-SAB-007-08,Hawk Wing Strike And Guard,Swellhavoc,F4,Demigod L3 Mid,B
+MV-ELI-SAB-007-09,Hawk Wing Flash Cut,Basketflash,F4,Demigod L3 Mid,B
+MV-ELI-SAB-008-01,Steel Track Cut,Mightwhirl,F5,Demigod L5 Low,B
+MV-ELI-SAB-008-02,Qi Track Guard,Inexorable Counterguard,F1,Demigod L5 Low,B
+MV-ELI-SAB-008-03,Track Join Step,Siltbasket,F5,Demigod L5 Low,B
+MV-ELI-SAB-008-04,Two Track Slash,Gnashing Yelman,F1,Demigod L5 Low,B
+MV-ELI-SAB-008-05,Steel Qi Parry,Equipoise Knucklebow,F2,Demigod L5 Low,B
+MV-ELI-SAB-008-06,Track Cross Spine Bind,Gust Flourish,F2,Demigod L5 Low,B
+MV-ELI-SAB-008-07,Steel And Qi Chain,Lot Whirl,F2,Demigod L5 Low,B
+MV-ELI-SAB-008-08,Double Track Saber Shield,Hoarfrost Pipeback,F2,Demigod L5 Low,B
+MV-ELI-SAB-008-09,Twin Track Piercing Stroke,Booming Yelman,F1,Demigod L5 Low,B
+MV-ELI-SAB-009-01,Oath Wind Draw,Might Backedge,F2,Demigod L1 Low,B
+MV-ELI-SAB-009-02,Sworn Saber Turn,Torrent Spinecurve,F2,Demigod L1 Low,B
+MV-ELI-SAB-009-03,Wind Line Thrust,Brutalizing Gallop,F1,Demigod L1 Low,B
+MV-ELI-SAB-009-04,Windblown Step,Yelmanglare,F4,Demigod L1 Low,B
+MV-ELI-SAB-009-05,Oath Wind Slash,Tempered Gallop,F2,Demigod L1 Low,B
+MV-ELI-SAB-009-06,Sworn Gust Parry,Belly Fortitude,F3,Demigod L1 Low,B
+MV-ELI-SAB-009-07,Wind Hook Bind,Corroding Swipe,F1,Demigod L1 Low,B
+MV-ELI-SAB-009-08,Oath Gale Chain,Multiplying Skimmer,F1,Demigod L1 Low,B
+MV-ELI-SAB-009-09,Wind Sworn Edge Veil,Hoarfrost Swell,F2,Demigod L1 Low,B
+MV-ELI-SAB-009-10,Oath Wind Rending Cut,Swellscourge,F4,Demigod L1 Low,B
+MV-ELI-SAB-010-01,Plateau Gale Draw,Gallopruin,F4,Demigod L2 Low,B
+MV-ELI-SAB-010-02,Plateau Wind Forte Guard,Evergreen Counterguard,F1,Demigod L2 Low,B
+MV-ELI-SAB-010-03,High Ground Thrust,Hollow Pipeback,F2,Demigod L2 Low,B
+MV-ELI-SAB-010-04,Gale Over The Rim,Swellwrath,F4,Demigod L2 Low,B
+MV-ELI-SAB-010-05,Cliff Wind Parry,Murk Falsedge,F2,Demigod L2 Low,B
+MV-ELI-SAB-010-06,Dust Edge Slash,Swellruin,F4,Demigod L2 Low,B
+MV-ELI-SAB-010-07,Plateau Storm Sweep,Daybreak Skimmer,F2,Demigod L2 Low,B
+MV-ELI-SAB-010-08,Rimwind Counter,Indomitable Basket,F1,Demigod L2 Low,B
+MV-ELI-SAB-010-09,Plateau Gale Rending Stroke,Blaze Slantcut,F2,Demigod L2 Low,B
+MV-ELI-SAB-011-01,Open Sky Draw Cut,Ferocious Gallop,F1,Demigod L4 Mid,B
+MV-ELI-SAB-011-02,Sky Oath Guard,Flintlike Backedge,F1,Demigod L4 Mid,B
+MV-ELI-SAB-011-03,Open Thrust Line,Glintgallop,F5,Demigod L4 Mid,B
+MV-ELI-SAB-011-04,Sky Pace Step,Mightbelly,F5,Demigod L4 Mid,B
+MV-ELI-SAB-011-05,Open Hand Check,Overbearing Whirl,F1,Demigod L4 Mid,B
+MV-ELI-SAB-011-06,Open Sky Slash,Hellish Pipeback,F1,Demigod L4 Mid,B
+MV-ELI-SAB-011-07,Sky Oath Parry,Chime Swell,F2,Demigod L4 Mid,B
+MV-ELI-SAB-011-08,Sky Edge Hook,Sanguine Spinecurve,F2,Demigod L4 Mid,B
+MV-ELI-SAB-011-09,Open Stride Cut,Swipescourge,F4,Demigod L4 Mid,B
+MV-ELI-SAB-011-10,Open Sky Chain,Hour Flourish,F2,Demigod L4 Mid,B
+MV-ELI-SAB-011-11,Sky Held Edge Veil,Thorn Knucklebow,F2,Demigod L4 Mid,B
+MV-ELI-SAB-011-12,Open Sky Oath Cut,Iron Falsedge,F2,Demigod L4 Mid,B
+MV-ELI-SAB-012-01,Wind Bearing Cut,Rumble Counterguard,F2,Demigod L3 Low,B
+MV-ELI-SAB-012-02,Bearing Wind Guard,Aegis Belly,F2,Demigod L3 Low,B
+MV-ELI-SAB-012-03,Bearing Step Slide,Swipevortex,F4,Demigod L3 Low,B
+MV-ELI-SAB-012-04,Bearing Shift Slash,Lacerating Whirl,F1,Demigod L3 Low,B
+MV-ELI-SAB-012-05,Wind Bearing Parry,Equipoise Counterguard,F2,Demigod L3 Low,B
+MV-ELI-SAB-012-06,Bearing Lock Bind,Grievous Basket,F1,Demigod L3 Low,B
+MV-ELI-SAB-012-07,Bearing Gale Sequence,Hourgallop,F5,Demigod L3 Low,B
+MV-ELI-SAB-012-08,Held Bearing Shield,Adamantine Yelman,F1,Demigod L3 Low,B
+MV-ELI-SAB-012-09,Bearing Wind Piercing Cut,Lacerating Hollow Gallop,F6a,Demigod L3 Low,B
+MV-ELI-SAB-013-01,Sworn Draw Cut,Yelmanhavoc,F4,Demigod L5 Mid,B
+MV-ELI-SAB-013-02,Sworn Draw Guard,Belly Durance,F3,Demigod L5 Mid,B
+MV-ELI-SAB-013-03,Draw Point Thrust,Glintwhirl,F5,Demigod L5 Mid,B
+MV-ELI-SAB-013-04,Draw Walk Step,Silt Yelman,F2,Demigod L5 Mid,B
+MV-ELI-SAB-013-05,Draw And Turn Slash,Granite Skimmer,F2,Demigod L5 Mid,B
+MV-ELI-SAB-013-06,Draw Parry Return,Gust Backedge,F2,Demigod L5 Mid,B
+MV-ELI-SAB-013-07,Sworn Edge Hook,Blaze Flourish,F2,Demigod L5 Mid,B
+MV-ELI-SAB-013-08,Wind Sworn Draw Chain,Yelmanwrath,F4,Demigod L5 Mid,B
+MV-ELI-SAB-013-09,Sworn Draw Veil,Unassailable Pipeback,F1,Demigod L5 Mid,B
+MV-ELI-SAB-013-10,Wind Sworn Great Draw,Blazeswipe,F5,Demigod L5 Mid,B
+MV-ELI-SAB-014-01,Long Gale Cut,Hellish Flourish,F1,Demigod L2 Mid,B
+MV-ELI-SAB-014-02,Short Oath Guard,Charter Basket,F2,Demigod L2 Mid,B
+MV-ELI-SAB-014-03,Gale Reach Thrust,Berserk Swipe,F1,Demigod L2 Mid,B
+MV-ELI-SAB-014-04,Long Cut Short Step,Rampaging Skimmer,F1,Demigod L2 Mid,B
+MV-ELI-SAB-014-05,Short Oath Parry,Torrent Swell,F2,Demigod L2 Mid,B
+MV-ELI-SAB-014-06,Gale Gust Bind,Granite Gallop,F2,Demigod L2 Mid,B
+MV-ELI-SAB-014-07,Gale And Oath Sequence,Hour Knucklebow,F2,Demigod L2 Mid,B
+MV-ELI-SAB-014-08,Oath Standing Guard,Adamantine Spinecurve,F1,Demigod L2 Mid,B
+MV-ELI-SAB-014-09,Long Gale Short Oath Stroke,Eviscerating Sanguine Swipe,F6a,Demigod L2 Mid,B
+MV-ELI-SAB-015-01,Windward Cut,Iron Whirl,F2,Demigod L6 Low,B
+MV-ELI-SAB-015-02,Windward Guard,Obdurate Swell,F1,Demigod L6 Low,B
+MV-ELI-SAB-015-03,Windward Thrust,Vengeful Whirl,F1,Demigod L6 Low,B
+MV-ELI-SAB-015-04,Windward Saber Step,Bellyglare,F4,Demigod L6 Low,B
+MV-ELI-SAB-015-05,Windward Check,Mayhem Swipe,F2,Demigod L6 Low,B
+MV-ELI-SAB-015-06,Windward Slash Turn,Gallopwrath,F4,Demigod L6 Low,B
+MV-ELI-SAB-015-07,Leeward Parry,Knucklebow Durance,F3,Demigod L6 Low,B
+MV-ELI-SAB-015-08,Windward Hook,Baskethavoc,F4,Demigod L6 Low,B
+MV-ELI-SAB-015-09,Windward Chain,Intentyelman,F5,Demigod L6 Low,B
+MV-ELI-SAB-015-10,Windward Veil,Facet Yelman,F2,Demigod L6 Low,B
+MV-ELI-SAB-015-11,Windward Reckoning Stroke,Bellyhavoc,F4,Demigod L6 Low,B
+MV-ELI-SAB-016-01,Storm Plateau Draw,Might Flourish,F2,Demigod L4 Low,B
+MV-ELI-SAB-016-02,Storm Hold Guard,Facet Basket,F2,Demigod L4 Low,B
+MV-ELI-SAB-016-03,Storm Edge Thrust,Brutalizing Falsedge,F1,Demigod L4 Low,B
+MV-ELI-SAB-016-04,Storm Slash Rise,Titanic Skimmer,F1,Demigod L4 Low,B
+MV-ELI-SAB-016-05,Hail Edge Parry,Gust Falsedge,F2,Demigod L4 Low,B
+MV-ELI-SAB-016-06,Storm Bind Hook,Rumble Slantcut,F2,Demigod L4 Low,B
+MV-ELI-SAB-016-07,Plateau Storm Chain,Intent Spinecurve,F2,Demigod L4 Low,B
+MV-ELI-SAB-016-08,Storm Edge Veil,Hoarfrost Counterguard,F2,Demigod L4 Low,B
+MV-ELI-SAB-016-09,Great Storm Plateau Cut,Tempered Belly,F2,Demigod L4 Low,B
+MV-ELI-SAB-010-03,Hollow Pipeback,Weighty Pipeback,F2,Demigod L2 Low,B
+MV-ELI-SAB-012-09,Lacerating Hollow Gallop,Lacerating Gallop,F6a,Demigod L3 Low,B

@@ -1,0 +1,4 @@
+move_id,old_name,new_name,function
+CMV-CAT-KRM-001-03,Account Wall,Tallied Aegis,Defense:Shield
+CMV-CAT-KRM-002-03,Reckon Wall,Reckoned Shield,Defense:Shield
+CMV-CAT-KRM-002-07,Mirror Bastion,Mirrored Aegis,Defense:Reflect

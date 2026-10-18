@@ -1,0 +1,134 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-SAI-001-01,Dawn Opening Jab,Claspcrown,F4,Warrior,B
+MV-SIG-SAI-001-02,Rolls Guard Circle,Wristvow,F4,Warrior,B
+MV-SIG-SAI-001-03,Court Tread Step,Silken Hiltpoint,F1,Warrior,B
+MV-SIG-SAI-001-04,Morning Pair Catch,Thrall Sidehook,F2,Warrior,B
+MV-SIG-SAI-001-05,Light Rolling Parry,Faithful Crossprong,F1,Warrior,B
+MV-SIG-SAI-001-06,Court Jab Pair Return,Pinionverdict,F4,Warrior,B
+MV-SIG-SAI-001-07,Low Sun Fork Bind,Subjugating Clasp,F1,Champion,B
+MV-SIG-SAI-001-08,Raised Sai Crossing Strike,Illustrious Handknob,F1,Champion,B
+MV-SIG-SAI-001-09,Dawn Break Flash Entry,Twistodyssey,F4,Demigod,B
+MV-SIG-SAI-001-10,Nine-Beat Court Roll,Harmonious Pinion Triumph,F6b,Warrior,B
+MV-SIG-SAI-002-01,Crossed Wing Opening,Wristedict,F4,Warrior,B
+MV-SIG-SAI-002-02,Hawk Glance Guard,Sacrosanct Sanguard,F1,Warrior,B
+MV-SIG-SAI-002-03,Cross Step Slant,Veegrace,F4,Warrior,B
+MV-SIG-SAI-002-04,Scissor Flight Catch,Unbending Wrest,F1,Warrior,B
+MV-SIG-SAI-002-05,Crossed Parry Release,Devout Tineright,F1,Warrior,B
+MV-SIG-SAI-002-06,Wingtip Knob Strike,Snagdecree,F4,Warrior,B
+MV-SIG-SAI-002-07,Opposing Wheel Draw,Peal Pinion,F2,Warrior,B
+MV-SIG-SAI-002-08,Cross-Hawk Pinning Fall,Ruling Prongbase,F1,Champion,B
+MV-SIG-SAI-002-09,Passing Hawks Double Thrust,Steel Centerprong,F2,Champion,B
+MV-SIG-SAI-002-10,Crosswing Rebound Return,Prism Tinecrook,F2,Demigod,B
+MV-SIG-SAI-002-11,Hawks in Flight,Symphonic Ensnare,F1,Warrior,B
+MV-SIG-SAI-003-01,Gentle Current Lead Jab,Vaunted Hiltpoint,F1,Champion,B
+MV-SIG-SAI-003-02,Yielding Crossbar,Prismvee,F5,Champion,B
+MV-SIG-SAI-003-03,Eddying Step,Squall Sanguard,F2,Champion,B
+MV-SIG-SAI-003-04,Pebble Tap Rap,Pinionedict,F4,Champion,B
+MV-SIG-SAI-003-05,Slow Water Catch,Authoritative Snag,F1,Champion,B
+MV-SIG-SAI-003-06,Smoothing Stone Parry,Venerable Tineleft,F1,Champion,B
+MV-SIG-SAI-003-07,Return Wave Thrust,Prongedict,F4,Champion,B
+MV-SIG-SAI-003-08,Gentle Pull Disarm,Despotic Twist,F1,Champion,B
+MV-SIG-SAI-003-09,Basin Settling Press,Gloom Clasp,F2,Champion,B
+MV-SIG-SAI-003-10,Spreading Delta Strike,Heroic Crossprong,F1,Champion,B
+MV-SIG-SAI-003-11,Still Water Nullifier,Sigil Handknob,F2,Demigod,B
+MV-SIG-SAI-003-12,Current Returns the Blow,Immaculate Eclipse Sidehook,F6a,Champion,B
+MV-SIG-SAI-004-01,Hawk Pair Raised Guard,Revered Prongbase,F1,Ruler,B
+MV-SIG-SAI-004-02,Lowering Stoop Jab,Snagbanner,F4,Ruler,B
+MV-SIG-SAI-004-03,Descending Glide Step,Evanescent Handknob,F1,Ruler,B
+MV-SIG-SAI-004-04,Falling Fork Catch,Wrestseal,F4,Ruler,B
+MV-SIG-SAI-004-05,Dropped Knob Hammer,Intrepid Sanguard,F1,Ruler,B
+MV-SIG-SAI-004-06,Rising Beat Parry,Peal Tinecrook,F2,Ruler,B
+MV-SIG-SAI-004-07,Hawk Pair Pinning Descent,Masterful Pinion,F1,Ruler,B
+MV-SIG-SAI-004-08,Twin Point Punch Through,Triumphant Sidehook,F1,Ruler,B
+MV-SIG-SAI-004-09,Precise Fall Mark,Harbinger Crossprong,F2,Demigod,B
+MV-SIG-SAI-004-10,The Pair Descends,Majestic Pulsar Wrest,F6a,Ruler,B
+MV-SIG-SAI-005-01,Orbit Starting Jab,Prongcrown,F4,Demigod,B
+MV-SIG-SAI-005-02,Revolving Tine Guard,Undaunted Centerprong,F1,Demigod,B
+MV-SIG-SAI-005-03,Inner Track Pivot,Windborne Tineleft,F1,Demigod,B
+MV-SIG-SAI-005-04,Orbit Catch and Carry,Millstone Pinion,F2,Demigod,B
+MV-SIG-SAI-005-05,Satellite Prong Strike,Magnificent Prongbase,F1,Demigod,B
+MV-SIG-SAI-005-06,Spin Shed Parry,Stately Handknob,F1,Demigod,B
+MV-SIG-SAI-005-07,Counter Orbit Disarm,Imperious Ensnare,F1,Demigod,B
+MV-SIG-SAI-005-08,Wide Orbit Sweep,Inferno Clasp,F2,Demigod,B
+MV-SIG-SAI-005-09,Gravity Well Lock,Snagseal,F4,Demigod,B
+MV-SIG-SAI-005-10,Orbit Folding Vanish,Pulsarsnag,F5,Demigod,B
+MV-SIG-SAI-005-11,Dual-Track Perfect Orbit,Season Tinecrook,F2,Demigod,B
+MV-SIG-SAI-006-01,Zenith First Jab,Twistverdict,F4,Core Formation,B
+MV-SIG-SAI-006-02,Core Held Guard,Inviolate Sidehook,F1,Core Formation,B
+MV-SIG-SAI-006-03,Long View Step,Twilit Crossprong,F1,Core Formation,B
+MV-SIG-SAI-006-04,Heights Edge Rap,Clasptriumph,F4,Core Formation,B
+MV-SIG-SAI-006-05,Wide Sky Catch,Peremptory Tinecrook,F1,Core Formation,B
+MV-SIG-SAI-006-06,Thermal Tine Slide,Parityvee,F5,Core Formation,B
+MV-SIG-SAI-006-07,High Angle Thrust,Splendid Hiltpoint,F1,Core Formation,B
+MV-SIG-SAI-006-08,Courtyard Reading Sweep,Nucleus Prongbase,F2,Core Formation,B
+MV-SIG-SAI-006-09,Azure Height Pin,Tyrannous Sidehook,F1,Core Formation,B
+MV-SIG-SAI-006-10,Zenith Stoop Armor Break,Quenched Handknob,F2,Core Formation,B
+MV-SIG-SAI-006-11,Whole Court Drop Flash,Seasonwrist,F5,Core Formation,B
+MV-SIG-SAI-006-12,Hawk at the Zenith,Exalted Vacuum Pinion,F6a,Core Formation,B
+MV-SIG-SAI-007-01,High Edge Sworn Jab,Prongtriumph,F4,Warrior,B
+MV-SIG-SAI-007-02,Wind-Facing Guard,Enshrined Tineleft,F1,Warrior,B
+MV-SIG-SAI-007-03,Leaning Forward Step,Soundless Prongbase,F1,Warrior,B
+MV-SIG-SAI-007-04,Edge Hold Catch,Hornbeam Snag,F2,Warrior,B
+MV-SIG-SAI-007-05,Gust Counter Rap,Twistbanner,F4,Warrior,B
+MV-SIG-SAI-007-06,Slipping Gale Parry,Unwavering Hiltpoint,F1,Warrior,B
+MV-SIG-SAI-007-07,Oath Line Lunge,Royal Centerprong,F1,Warrior,B
+MV-SIG-SAI-007-08,Sworn Ground Pin,Volition Clasp,F2,Champion,B
+MV-SIG-SAI-007-09,Edge Wind Drive,Wristverdict,F4,Champion,B
+MV-SIG-SAI-007-10,High Edge Gust Flash,Interstice Sidehook,F2,Demigod,B
+MV-SIG-SAI-007-11,The Edge Is Held,Steel Prongbase,F2,Warrior,B
+MV-SIG-SAI-008-01,Planted Fork Jab,Lordly Tinecrook,F1,Warrior,B
+MV-SIG-SAI-008-02,Standing Tine Block,Undefiled Handknob,F1,Warrior,B
+MV-SIG-SAI-008-03,Left Standing Step,Prongboon,F4,Warrior,B
+MV-SIG-SAI-008-04,Rooted Catch,Commanding Sidehook,F1,Warrior,B
+MV-SIG-SAI-008-05,After the Gust Rap,Wristdecree,F4,Warrior,B
+MV-SIG-SAI-008-06,Wind Splitting Parry,Sainted Crossprong,F1,Warrior,B
+MV-SIG-SAI-008-07,Fork Lever Twist,Tyrannous Wrest,F1,Champion,B
+MV-SIG-SAI-008-08,Standing Counter Drive,Pinionbanner,F4,Champion,B
+MV-SIG-SAI-008-09,Unmoved by the Storm,Vacuum Sanguard,F2,Demigod,B
+MV-SIG-SAI-008-10,The Fork That Stands,Stately Tineright,F1,Warrior,B
+MV-SIG-SAI-009-01,Bearing Taken Jab,Pinioncrown,F4,Champion,B
+MV-SIG-SAI-009-02,Heading Hold Guard,Devout Sidehook,F1,Champion,B
+MV-SIG-SAI-009-03,Compass Quarter Step,Feather Tinecrook,F1,Champion,B
+MV-SIG-SAI-009-04,Fork Sheath Rap,Twistcrown,F4,Champion,B
+MV-SIG-SAI-009-05,Catching Fork Close,Ruling Snag,F1,Champion,B
+MV-SIG-SAI-009-06,Sidewind Sweep Parry,Squall Tineright,F2,Champion,B
+MV-SIG-SAI-009-07,Bearing Return Thrust,Paramount Hiltpoint,F1,Champion,B
+MV-SIG-SAI-009-08,Heading Wrench Disarm,Masterful Twist,F1,Champion,B
+MV-SIG-SAI-009-09,Gale Face Hold,Authoritative Clasp,F1,Champion,B
+MV-SIG-SAI-009-10,Heading Through Gale Thrust,Wrestdecree,F4,Champion,B
+MV-SIG-SAI-009-11,Gale Catching Seal,Statute Pinion,F2,Demigod,B
+MV-SIG-SAI-009-12,The Heading Holds,Imperious Handknob,F1,Champion,B
+MV-SIG-SAI-010-01,Across the Wind Jab,Wrestbanner,F4,Ruler,B
+MV-SIG-SAI-010-02,Crosswind Face Guard,Undaunted Hiltpoint,F1,Ruler,B
+MV-SIG-SAI-010-03,Oath Edge Slide,Ethereal Sidehook,F1,Ruler,B
+MV-SIG-SAI-010-04,Gust Edge Cross Catch,Peremptory Pinion,F1,Ruler,B
+MV-SIG-SAI-010-05,Prong Cut Through,Unrivaled Crossprong,F1,Ruler,B
+MV-SIG-SAI-010-06,Wind Lash Parry,Consecrated Centerprong,F1,Ruler,B
+MV-SIG-SAI-010-07,Hilt Hook Lift,Despotic Clasp,F1,Ruler,B
+MV-SIG-SAI-010-08,Cross Edge Suppression,Millstone Sidehook,F2,Ruler,B
+MV-SIG-SAI-010-09,Far Side Breakthrough,Prism Handknob,F2,Ruler,B
+MV-SIG-SAI-010-10,Oath Edge Vanishing Cross,Twistvoyage,F4,Demigod,B
+MV-SIG-SAI-010-11,The Crosswind Prong,Storied Sidehook Edict,F6b,Ruler,B
+MV-SIG-SAI-011-01,Open Air First Jab,Wresttriumph,F4,Demigod,B
+MV-SIG-SAI-011-02,Three Prong Wrap Guard,Venerable Crossprong,F1,Demigod,B
+MV-SIG-SAI-011-03,Sky Slide Step,Wraithlike Handknob,F1,Demigod,B
+MV-SIG-SAI-011-04,Field Wrapped Catch,Unbending Pinion,F1,Demigod,B
+MV-SIG-SAI-011-05,Tine Wide Throw,Immaculate Hiltpoint,F1,Demigod,B
+MV-SIG-SAI-011-06,Prong Lance Reach,Prongdecree,F4,Demigod,B
+MV-SIG-SAI-011-07,Sworn Triple Strike,Choral Hiltpoint,F1,Demigod,B
+MV-SIG-SAI-011-08,Air Cage Snare,Sigilsnag,F5,Demigod,B
+MV-SIG-SAI-011-09,Open Air Break,Tempestuous Clasp,F2,Demigod,B
+MV-SIG-SAI-011-10,Three Under One Sky,Grand Tineleft,F1,Demigod,B
+MV-SIG-SAI-012-01,Far Plateau Opening Jab,Majestic Handknob,F1,Core Formation,B
+MV-SIG-SAI-012-02,Wide Bearing Guard,Inviolate Tinecrook,F1,Core Formation,B
+MV-SIG-SAI-012-03,Far Reach Step,Skyborne Tineright,F1,Core Formation,B
+MV-SIG-SAI-012-04,Sworn Knob Strike,Claspverdict,F4,Core Formation,B
+MV-SIG-SAI-012-05,Plateau Width Catch,Millstone Wrest,F2,Core Formation,B
+MV-SIG-SAI-012-06,Distant Gust Parry,Faithful Hiltpoint,F1,Core Formation,B
+MV-SIG-SAI-012-07,Long Line Pierce,Snagedict,F4,Core Formation,B
+MV-SIG-SAI-012-08,Sworn Bearing Reading,Magnanimous Prongbase,F1,Core Formation,B
+MV-SIG-SAI-012-09,Plateau Width Press,Imperious Twist,F1,Core Formation,B
+MV-SIG-SAI-012-10,Far Bearing Lance,Thunderclap Sidehook,F2,Core Formation,B
+MV-SIG-SAI-012-11,Plateau Crossing Flash,Wrestodyssey,F4,Core Formation,B
+MV-SIG-SAI-012-12,The Whole Plateau Sworn,Dauntless Magma Pinion,F6a,Core Formation,B
+MV-SIG-SAI-007-04,Hornbeam Snag,Rending Snag,F2,Warrior,B

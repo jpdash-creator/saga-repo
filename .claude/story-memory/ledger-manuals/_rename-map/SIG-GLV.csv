@@ -1,0 +1,135 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-GLV-001-01,Court Salute and Guard,Immaculate Glaiveblade,F1,Warrior L1 Low,B
+MV-SIG-GLV-001-02,Azure Court First Cut,Quenched Ferrulecap,F2,Warrior L1 Low,B
+MV-SIG-GLV-001-03,Court-Pace Glaive Advance,Vigor Glavesocket,F2,Warrior L1 Low,B
+MV-SIG-GLV-001-04,Paired Hawk Slash,Quenched Slicefall,F2,Warrior L1 Low,B
+MV-SIG-GLV-001-05,Court Guard Return,Squall Longedge,F2,Warrior L1 Low,B
+MV-SIG-GLV-001-06,Twin Line Bind,Hornbeam Cutbelly,F2,Warrior L1 Low,B
+MV-SIG-GLV-001-07,Court Sweep of the Two Rims,Dunecrook,F5,Champion L1 Low,B
+MV-SIG-GLV-001-08,Azure Court Glaive Sequence,Destiny Guardlug,F2,Champion L1 Low,B
+MV-SIG-GLV-001-09,Azure Court Descending Cleave,Majestic Edgeswing,F1,Demigod L1 Low,B
+MV-SIG-GLV-001-10,Two-Crescent Court Mark,Heroic Tangheel,F1,Warrior L1 Low,B
+MV-SIG-GLV-002-01,Hawk Pair Circling,Bladespine Odyssey,F3,Warrior L6 Mid,B
+MV-SIG-GLV-002-02,Lead-Hawk Cut,Squall Curvetip,F2,Warrior L6 Mid,B
+MV-SIG-GLV-002-03,Trailing-Hawk Thrust,Prism Curvecut,F2,Warrior L6 Mid,B
+MV-SIG-GLV-002-04,Hawk Pair Crossing Slash,Steel Reave,F2,Warrior L6 Mid,B
+MV-SIG-GLV-002-05,Quarry-Cutting Feint,Venom Longcut,F2,Warrior L6 Mid,B
+MV-SIG-GLV-002-06,Hawk-Wing Guard Beat,Deluge Glaiveblade,F2,Warrior L6 Mid,B
+MV-SIG-GLV-002-07,Talon Hold Pressure,Gloomreave,F5,Warrior L6 Mid,B
+MV-SIG-GLV-002-08,Pair-Hunt Sequence,Seasonglaive,F5,Champion L1 Low,B
+MV-SIG-GLV-002-09,Hawk Pair Dive,Inferno Longcut,F2,Champion L1 Low,B
+MV-SIG-GLV-002-10,Paired Hawks Descend,Glavesocket Banner,F3,Demigod L1 Low,B
+MV-SIG-GLV-002-11,Rite of the Paired Hawk,Reavecrown,F4,Warrior L6 Mid,B
+MV-SIG-GLV-003-01,Basin Opening Stance,Pealbend,F5,Champion L3 Low,B
+MV-SIG-GLV-003-02,Rim-Climbing Slash,Bendtriumph,F4,Champion L3 Low,B
+MV-SIG-GLV-003-03,Rim Descent Step,Deluge Windrake,F2,Champion L3 Low,B
+MV-SIG-GLV-003-04,Court Basin Guard,Sainted Tangheel,F1,Champion L3 Low,B
+MV-SIG-GLV-003-05,Twin-Court Echo Cut,Cutbelly Decree,F3,Champion L3 Low,B
+MV-SIG-GLV-003-06,Basin-Filling Pressure,Statute Curvetip,F2,Champion L3 Low,B
+MV-SIG-GLV-003-07,River-Mouth Shaft Parry,Pall Spineedge,F2,Champion L3 Low,B
+MV-SIG-GLV-003-08,Court Pull Disruption,Peal Longedge,F2,Champion L3 Low,B
+MV-SIG-GLV-003-09,Twin-Court Chain,Grand Reave,F1,Champion L3 Low,B
+MV-SIG-GLV-003-10,Basin Cleave,Thunderclap Ferrulecap,F2,Champion L3 Low,B
+MV-SIG-GLV-003-11,Basin Overflow Crescent,Tempestuous Curvecut,F2,Demigod L1 Low,B
+MV-SIG-GLV-003-12,Twin-Court Basin Closure,Gloomcutter,F5,Champion L3 Low,B
+MV-SIG-GLV-004-01,First Crossing Salute,Nurturing Bladespine,F1,Ruler L1 Mid,B
+MV-SIG-GLV-004-02,Shallows Cut,Crookdecree,F4,Ruler L1 Mid,B
+MV-SIG-GLV-004-03,Stepping-Stone Glaive Pace,Dunereave,F5,Ruler L1 Mid,B
+MV-SIG-GLV-004-04,Mid-River Slash,Cuttertriumph,F4,Ruler L1 Mid,B
+MV-SIG-GLV-004-05,Undertow Crescent Pull,Venom Windrake,F2,Ruler L1 Mid,B
+MV-SIG-GLV-004-06,Far-Bank Guard,Undaunted Spineedge,F1,Ruler L1 Mid,B
+MV-SIG-GLV-004-07,Crossing Chain of Seven Cuts,Tenetglaive,F5,Ruler L1 Mid,B
+MV-SIG-GLV-004-08,River Weight Cleave,Dauntless Longcut,F1,Ruler L1 Mid,B
+MV-SIG-GLV-004-09,Seventh Crossing Strike,Haemalcrook,F5,Demigod L1 Low,B
+MV-SIG-GLV-004-10,River Glaive Crossing Rite,Tenetcrook,F5,Ruler L1 Mid,B
+MV-SIG-GLV-005-01,High Azure Glaive Stance,Reminiscence Guardlug,F2,Demigod L2 Low,B
+MV-SIG-GLV-005-02,Dual-Track Crescent Cut,Bedrock Tangheel,F2,Demigod L2 Low,B
+MV-SIG-GLV-005-03,Sky-Roof Guard,Peal Spineedge,F2,Demigod L2 Low,B
+MV-SIG-GLV-005-04,Track-One Qi Slash,Quenched Windrake,F2,Demigod L2 Low,B
+MV-SIG-GLV-005-05,Track-Two Qi Return,Triumphant Cutbelly,F1,Demigod L2 Low,B
+MV-SIG-GLV-005-06,Azure Cloud Parry,Delugecrook,F5,Demigod L2 Low,B
+MV-SIG-GLV-005-07,Sky-Held Bind,Millstone Guardlug,F2,Demigod L2 Low,B
+MV-SIG-GLV-005-08,High Azure Chain,Destiny Slicefall,F2,Demigod L2 Low,B
+MV-SIG-GLV-005-09,Crescent Stoop of the High Sky,Bedrock Edgeswing,F2,Demigod L2 Low,B
+MV-SIG-GLV-005-10,Azure Dual Crescent Release,Magnificent Curvecut,F1,Demigod L2 Low,B
+MV-SIG-GLV-005-11,High Azure Crescent Rite,Harmonious Slicefall,F1,Demigod L2 Low,B
+MV-SIG-GLV-006-01,Core Seat Stance,Pealcutter,F5,Core Formation L1 Mid,B
+MV-SIG-GLV-006-02,Court Edge Cut,Glaivetriumph,F4,Core Formation L1 Mid,B
+MV-SIG-GLV-006-03,Azure Court Pace,Reavevoyage,F4,Core Formation L1 Mid,B
+MV-SIG-GLV-006-04,Core Court Shaft Guard,Steel Bladespine,F2,Core Formation L1 Mid,B
+MV-SIG-GLV-006-05,Core-Fed Twin Slash,Reave Decree,F3,Core Formation L1 Mid,B
+MV-SIG-GLV-006-06,Core Pulse Shaft Parry,Enshrined Longedge,F1,Core Formation L1 Mid,B
+MV-SIG-GLV-006-07,Court Core Hold,Edgeswing Reliquary,F3,Core Formation L1 Mid,B
+MV-SIG-GLV-006-08,Core Rim Sweep,Solarglaive,F5,Core Formation L1 Mid,B
+MV-SIG-GLV-006-09,Core Court Chain,Season Glaiveblade,F2,Core Formation L1 Mid,B
+MV-SIG-GLV-006-10,Core Basin Cleave,Bedrock Spineedge,F2,Core Formation L1 Mid,B
+MV-SIG-GLV-006-11,Azure Core Descent,Squall Tangheel,F2,Core Formation L1 Mid,B
+MV-SIG-GLV-006-12,Core Crescent Court Rite,Season Curvetip,F2,Core Formation L1 Mid,B
+MV-SIG-GLV-007-01,Plateau Oath Salute,Compassionate Glaiveblade,F1,Warrior L1 Mid,B
+MV-SIG-GLV-007-02,First Sworn Cut,Squall Guardlug,F2,Warrior L1 Mid,B
+MV-SIG-GLV-007-03,Plateau Pace,Vigor Slicefall,F2,Warrior L1 Mid,B
+MV-SIG-GLV-007-04,Oath-Edge Curved Slash,Steel Ferrulecap,F2,Warrior L1 Mid,B
+MV-SIG-GLV-007-05,Sworn Guard Return,Squall Glavesocket,F2,Warrior L1 Mid,B
+MV-SIG-GLV-007-06,Plateau Press,Millstone Longedge,F2,Warrior L1 Mid,B
+MV-SIG-GLV-007-07,Oath-Bound Hold,Thrallglaive,F5,Warrior L1 Mid,B
+MV-SIG-GLV-007-08,Plateau Oath Glaive Sequence,Choral Curvecut,F1,Champion L1 Low,B
+MV-SIG-GLV-007-09,Oath Stone Cleave,Steelbend,F5,Champion L1 Low,B
+MV-SIG-GLV-007-10,Plateau Oath Descending Cut,Vigorcutter,F5,Demigod L1 Low,B
+MV-SIG-GLV-007-11,Oath-Book Crescent Rite,Resonant Windrake Verdict,F6b,Warrior L1 Mid,B
+MV-SIG-GLV-008-01,Line-Standing Stance,Bladespine Reliquary,F3,Warrior L8 Low,B
+MV-SIG-GLV-008-02,Wind-Sworn Line Cut,Bedrock Ferrulecap,F2,Warrior L8 Low,B
+MV-SIG-GLV-008-03,Line-Keeping Step,Vigor Curvetip,F2,Warrior L8 Low,B
+MV-SIG-GLV-008-04,Line Edge Surge,Quenched Longcut,F2,Warrior L8 Low,B
+MV-SIG-GLV-008-05,Wind Slip Parry,Parity Cutbelly,F2,Warrior L8 Low,B
+MV-SIG-GLV-008-06,Line-Fixing Pin,Hornbeam Reave,F2,Warrior L8 Low,B
+MV-SIG-GLV-008-07,Sworn Line Sequence,Season Guardlug,F2,Champion L1 Low,B
+MV-SIG-GLV-008-08,Wind Line Cleave,Bedrock Glavesocket,F2,Champion L1 Low,B
+MV-SIG-GLV-008-09,Wind-Sworn Line Unbroken,Squallreave,F5,Demigod L1 Low,B
+MV-SIG-GLV-008-10,Rite of the Sworn Line,Resonant Season Windrake,F6a,Warrior L8 Low,B
+MV-SIG-GLV-009-01,Bearing and Oath Stance,Bendgift,F4,Champion L5 Low,B
+MV-SIG-GLV-009-02,Bearing Cut,Thunderclap Curvecut,F2,Champion L5 Low,B
+MV-SIG-GLV-009-03,Oath-Footed Advance,Delugecutter,F5,Champion L5 Low,B
+MV-SIG-GLV-009-04,Blade-and-Oath Guard,Sacrosanct Glaiveblade,F1,Champion L5 Low,B
+MV-SIG-GLV-009-05,Bearing-Held Crescent Hew,Inferno Edgeswing,F2,Champion L5 Low,B
+MV-SIG-GLV-009-06,Gale Turn Shaft Parry,Undaunted Ferrulecap,F1,Champion L5 Low,B
+MV-SIG-GLV-009-07,Oath-Pressing Walk,Unbending Curvetip,F1,Champion L5 Low,B
+MV-SIG-GLV-009-08,Bearing Heel Rap,Longcut Seal,F3,Champion L5 Low,B
+MV-SIG-GLV-009-09,Treatise Bearing Chain,Season Longedge,F2,Champion L5 Low,B
+MV-SIG-GLV-009-10,Bearing-Rending Cleave,Haemal Reave,F2,Champion L5 Low,B
+MV-SIG-GLV-009-11,Gale Bearing Descent,Haemal Glavesocket,F2,Demigod L1 Low,B
+MV-SIG-GLV-009-12,Rite of Bearing and Oath,Harmonious Destiny Bladespine,F6a,Champion L5 Low,B
+MV-SIG-GLV-010-01,Open Field Stance,Crookbenison,F4,Ruler L1 Mid,B
+MV-SIG-GLV-010-02,Field-Reach Cut,Glaiveedict,F4,Ruler L1 Mid,B
+MV-SIG-GLV-010-03,Plain Stride,Dune Spineedge,F2,Ruler L1 Mid,B
+MV-SIG-GLV-010-04,Grass-Parting Slash,Bedrock Glaiveblade,F2,Ruler L1 Mid,B
+MV-SIG-GLV-010-05,Wind-Cover Screen,Steel Cutbelly,F2,Ruler L1 Mid,B
+MV-SIG-GLV-010-06,Plain Sweep Press,Imperial Edgeswing,F1,Ruler L1 Mid,B
+MV-SIG-GLV-010-07,Field-Held Bind,Sigil Slicefall,F2,Ruler L1 Mid,B
+MV-SIG-GLV-010-08,Open-Country Sequence,Tenet Tangheel,F2,Ruler L1 Mid,B
+MV-SIG-GLV-010-09,Plain Cleave,Triumphant Glavesocket,F1,Ruler L1 Mid,B
+MV-SIG-GLV-010-10,Open-Country Descent,Exalted Slicefall,F1,Demigod L1 Low,B
+MV-SIG-GLV-010-11,Canon Rite of Open Country,Resonant Guardlug Triumph,F6b,Ruler L1 Mid,B
+MV-SIG-GLV-011-01,Long Plateau Glaive Stance,Interstice Bladespine,F2,Demigod L4 Mid,B
+MV-SIG-GLV-011-02,Plateau Wind Crescent Cut,Glaivebanner,F4,Demigod L4 Mid,B
+MV-SIG-GLV-011-03,Long Wind Step,Squallbend,F5,Demigod L4 Mid,B
+MV-SIG-GLV-011-04,Crescent Gust Slash,Bedrock Longedge,F2,Demigod L4 Mid,B
+MV-SIG-GLV-011-05,Plateau Wind Shaft Guard,Crookvow,F4,Demigod L4 Mid,B
+MV-SIG-GLV-011-06,Wind-Weighted Press,Gloom Tangheel,F2,Demigod L4 Mid,B
+MV-SIG-GLV-011-07,Long Wind Sequence,Resonant Curvetip,F1,Demigod L4 Mid,B
+MV-SIG-GLV-011-08,Plateau Crescent Cleave,Steelglaive,F5,Demigod L4 Mid,B
+MV-SIG-GLV-011-09,Long Wind Crescent Fall,Steelcutter,F5,Demigod L4 Mid,B
+MV-SIG-GLV-011-10,Crescent Rite of the Long Wind,Choral Destiny Edgeswing,F6a,Demigod L4 Mid,B
+MV-SIG-GLV-012-01,Core Oath Seat,Cuttergift,F4,Core Formation L3 Low,B
+MV-SIG-GLV-012-02,Sworn Edge Cut,Vigorbend,F5,Core Formation L3 Low,B
+MV-SIG-GLV-012-03,Core Bearing Glaive Step,Deluge Reave,F2,Core Formation L3 Low,B
+MV-SIG-GLV-012-04,Gale-Core Slash,Haemal Curvecut,F2,Core Formation L3 Low,B
+MV-SIG-GLV-012-05,Core Oath Shaft Guard,Undefiled Ferrulecap,F1,Core Formation L3 Low,B
+MV-SIG-GLV-012-06,Sworn Core Press,Peremptory Cutbelly,F1,Core Formation L3 Low,B
+MV-SIG-GLV-012-07,Edge-Pinning Core Hold,Subjugating Longcut,F1,Core Formation L3 Low,B
+MV-SIG-GLV-012-08,Core Gale Sequence,Volition Windrake,F2,Core Formation L3 Low,B
+MV-SIG-GLV-012-09,Core Oath Cleave,Thunderclap Curvetip,F2,Core Formation L3 Low,B
+MV-SIG-GLV-012-10,Sworn Edge Core Descent,Paramount Tangheel,F1,Core Formation L3 Low,B
+MV-SIG-GLV-012-11,Rite of the Sworn Edge,Orchestral Longedge Decree,F6b,Core Formation L3 Low,B
+MV-SIG-GLV-001-06,Hornbeam Cutbelly,Binding Cutbelly,F2,Warrior L1 Low,B
+MV-SIG-GLV-008-06,Hornbeam Reave,Pinning Reave,F2,Warrior L8 Low,B
+MV-SIG-GLV-010-03,Dune Spineedge,Striding Spineedge,F2,Ruler L1 Mid,B

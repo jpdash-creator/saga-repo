@@ -1,0 +1,131 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-MET-001-01,Court Rise Weight Lift,Plumbscourge,F4,Demigod,B
+MV-ELI-MET-001-02,Court Hall Cord Parry,Unbowed Weightneck,F1,Demigod,B
+MV-ELI-MET-001-03,Rising Hawk Footwork,Might Longrope,F2,Demigod,B
+MV-ELI-MET-001-04,Raised Cord Reading,Cablerespite,F4,Demigod,B
+MV-ELI-MET-001-05,Court Hammer Descent,Tempered Spinout,F2,Demigod,B
+MV-ELI-MET-001-06,Upper Orbit Binding,Gyve Plummet,F2,Demigod,B
+MV-ELI-MET-001-07,Paired Rise-and-Fall,Pitiless Ropehead,F1,Demigod,B
+MV-ELI-MET-001-08,Azure Zenith Weight Crush,Rumble Loopend,F2,Demigod,B
+MV-ELI-MET-001-09,Falling Cord Net,Wicked Cordsplice,F1,Demigod,B
+MV-ELI-MET-001-10,Hawk Crown Meteor Fall,Merciless Tempered Tailstone,F6a,Demigod,B
+MV-ELI-MET-002-01,Dual-Track Orbit Entry,Rumble Meteorhead,F2,Demigod,B
+MV-ELI-MET-002-02,Left-Track Guard Ring,Impervious Weighttip,F1,Demigod,B
+MV-ELI-MET-002-03,Right-Track Reaching Cast,Gust Gyre,F2,Demigod,B
+MV-ELI-MET-002-04,Intersecting Track Footwork,Torrent Slingshot,F2,Demigod,B
+MV-ELI-MET-002-05,Track Switch Feint,Remnant Dropweight,F2,Demigod,B
+MV-ELI-MET-002-06,Twin Orbit Hammerfall,Plumbwrath,F4,Demigod,B
+MV-ELI-MET-002-07,Track Entangling Cross,Ponderous Longrope,F2,Demigod,B
+MV-ELI-MET-002-08,Double-Beat Cord Whip,Mayhem Revolve,F2,Demigod,B
+MV-ELI-MET-002-09,Dual Orbit Counter Draw,Equipoise Tailstone,F2,Demigod,B
+MV-ELI-MET-002-10,Basin Pair Crushing Spin,Slagponderer,F5,Demigod,B
+MV-ELI-MET-002-11,Paired Track Pincer Break,Granite Weighttip,F2,Demigod,B
+MV-ELI-MET-002-12,Mastered Orbit Convergence,Gnashing Plummet,F1,Demigod,B
+MV-ELI-MET-003-01,Twin Meteor Toss,Gyrewrath,F4,Demigod,B
+MV-ELI-MET-003-02,Descent Line Sidestep,Torrent Reelback,F2,Demigod,B
+MV-ELI-MET-003-03,Rope Haul Recovery,Ponderernerve,F4,Demigod,B
+MV-ELI-MET-003-04,Second Meteor Drop,Iron Slingshot,F2,Demigod,B
+MV-ELI-MET-003-05,Paired Plunge Snare,Immobilizing Orbitband,F1,Demigod,B
+MV-ELI-MET-003-06,Rebound Meteor Catch,Unassailable Cordsplice,F1,Demigod,B
+MV-ELI-MET-003-07,Twin Descent Column,Rumble Orbitband,F2,Demigod,B
+MV-ELI-MET-003-08,Hawk-Wing Meteor Screen,Unconquered Dropweight,F1,Demigod,B
+MV-ELI-MET-003-09,Rebounding Meteor Descent,Wrathful Gyre Havoc,F6b,Demigod,B
+MV-ELI-MET-004-01,Basin Rim Cord Cast,Pondererruin,F4,Void God,B
+MV-ELI-MET-004-02,Basin Floor Low Sweep,Pondererwrath,F4,Void God,B
+MV-ELI-MET-004-03,River Mouth Sidestep,Cableglare,F4,Void God,B
+MV-ELI-MET-004-04,Basin Echo Cord Snap,Chimeplumb,F5,Void God,B
+MV-ELI-MET-004-05,Rim Walk Cord Guard,Charter Loopend,F2,Void God,B
+MV-ELI-MET-004-06,Basin Fill Orbit,Downpour Ropehead,F2,Void God,B
+MV-ELI-MET-004-07,River Run Cord Pull,Fastening Revolve,F2,Void God,B
+MV-ELI-MET-004-08,Paired Bank Hammer Slam,Tempered Reelback,F2,Void God,B
+MV-ELI-MET-004-09,Silt-Kicking Dust Feint,Weightneck Tenacity,F3,Void God,B
+MV-ELI-MET-004-10,Basin Crush Heavy Cast,Blaze Orbitband,F2,Void God,B
+MV-ELI-MET-004-11,Overflow Orbit Surge,Punishing Spinout,F1,Void God,B
+MV-ELI-MET-004-12,Cord River Snare Line,Toxin Meteorhead,F2,Void God,B
+MV-ELI-MET-004-13,Basin Sweeping Meteor Ring,Siltplumb,F5,Void God,B
+MV-ELI-MET-005-01,Iron River Opening Run,Pitiless Cordsplice,F1,Void God,B
+MV-ELI-MET-005-02,Ripple Cord Parry,Meteorhead Nerve,F3,Void God,B
+MV-ELI-MET-005-03,Eddy Pivot Step,Gust Revolve,F2,Void God,B
+MV-ELI-MET-005-04,Iron Current Cord Pull,Hogtying Ropehead,F1,Void God,B
+MV-ELI-MET-005-05,Slack Water Guard,Facet Loopend,F2,Void God,B
+MV-ELI-MET-005-06,Iron River Flow Chain,Rumble Spinout,F2,Void God,B
+MV-ELI-MET-005-07,Undertow Cord Drag,Strangling Longrope,F1,Void God,B
+MV-ELI-MET-005-08,Rapids Break Counterstrike,Murkcable,F5,Void God,B
+MV-ELI-MET-005-09,Flood Surge Iron Orbit,Whorlruin,F4,Void God,B
+MV-ELI-MET-005-10,Iron Bank Collapse,Rumbleplumb,F5,Void God,B
+MV-ELI-MET-005-11,Two Rivers Iron Crash,Ironwhorl,F5,Void God,B
+MV-ELI-MET-006-01,Paired Hawk Rise,Mightponderer,F5,True God,B
+MV-ELI-MET-006-02,Cord Talon Tap,Numbing Slingshot,F1,True God,B
+MV-ELI-MET-006-03,Hawk Shadow Blind-Side Step,Plumbvortex,F4,True God,B
+MV-ELI-MET-006-04,Shielding Wing Cord,Charter Dropweight,F2,True God,B
+MV-ELI-MET-006-05,Hawk Pair Cross Strike,Rumble Gyre,F2,True God,B
+MV-ELI-MET-006-06,Talon Cord Snatch,Ponderous Weightneck,F2,True God,B
+MV-ELI-MET-006-07,Hovering Weight Pressure,Hour Weighttip,F2,True God,B
+MV-ELI-MET-006-08,Twin Hawk Stoop Crush,Facet Plummet,F2,True God,B
+MV-ELI-MET-006-09,Over-Basin Weight Rain,Decimating Tailstone,F1,True God,B
+MV-ELI-MET-006-10,Hawks Above the Basin Strike,Tempered Weightneck,F2,True God,B
+MV-ELI-MET-007-01,Oathsworn Wind Cast,Gustcable,F5,Demigod,B
+MV-ELI-MET-007-02,Bearing Cord Check,Chime Orbitband,F2,Demigod,B
+MV-ELI-MET-007-03,Gale Shoulder Sidestep,Plumbglare,F4,Demigod,B
+MV-ELI-MET-007-04,Wind Brace Rope Guard,Flintlike Ropehead,F1,Demigod,B
+MV-ELI-MET-007-05,Plateau Wind Tether Tug,Cablenerve,F4,Demigod,B
+MV-ELI-MET-007-06,Wind-Carried Weight Curve,Punishing Loopend,F1,Demigod,B
+MV-ELI-MET-007-07,Oath Rope Entangle,Gyve Spinout,F2,Demigod,B
+MV-ELI-MET-007-08,Crosswind Counter Snap,Unbowed Cordsplice,F1,Demigod,B
+MV-ELI-MET-007-09,Wind Oath Hammer Cast,Wrathful Reelback,F1,Demigod,B
+MV-ELI-MET-007-10,Carried Weight Barrage,Granite Meteorhead,F2,Demigod,B
+MV-ELI-MET-007-11,Wind-Borne Vow Strike,Rumblecable,F5,Demigod,B
+MV-ELI-MET-008-01,Bearing Line Hold Swing,Mangling Longrope,F1,Demigod,B
+MV-ELI-MET-008-02,Gale Face Cord Guard,Thorn Tailstone,F2,Demigod,B
+MV-ELI-MET-008-03,Bearing Fix Step,Silt Gyre,F2,Demigod,B
+MV-ELI-MET-008-04,Gale Bearing Orbit Strike,Tempered Revolve,F2,Demigod,B
+MV-ELI-MET-008-05,Held Bearing Cord Lock,Fastening Weighttip,F2,Demigod,B
+MV-ELI-MET-008-06,Gale Break Rope Whip,Rumble Dropweight,F2,Demigod,B
+MV-ELI-MET-008-07,Bearing Plateau Hammer Fall,Hellish Plummet,F1,Demigod,B
+MV-ELI-MET-008-08,Gale-Force Orbit Sweep,Pondererscourge,F4,Demigod,B
+MV-ELI-MET-008-09,Bearing Unbroken Strike,Tailstone Wrath,F3,Demigod,B
+MV-ELI-MET-009-01,Plateau Open Ground Swing,Irongyre,F5,Void God,B
+MV-ELI-MET-009-02,High Plain Footwork,Granite Ropehead,F2,Void God,B
+MV-ELI-MET-009-03,Wind Hammer Cord Lift,Toxin Loopend,F2,Void God,B
+MV-ELI-MET-009-04,Open-Ground Cord Guard,Whorlspine,F4,Void God,B
+MV-ELI-MET-009-05,Long Grass Cord Trip,Gyveponderer,F5,Void God,B
+MV-ELI-MET-009-06,Plateau Wind Hammer Crash,Eviscerating Slingshot,F1,Void God,B
+MV-ELI-MET-009-07,Wind-Lashed Cord Whip,Rumble Longrope,F2,Void God,B
+MV-ELI-MET-009-08,Open Sky Cord Throw,Chime Weightneck,F2,Void God,B
+MV-ELI-MET-009-09,Oath Ground Counter,Equipoise Weighttip,F2,Void God,B
+MV-ELI-MET-009-10,Plateau Wind Orbit Storm,Dismantling Slingshot,F2,Void God,B
+MV-ELI-MET-009-11,Hammer of the High Plain,Glint Orbitband,F2,Void God,B
+MV-ELI-MET-009-12,Wind Hammer Final Bearing,Pondererhavoc,F4,Void God,B
+MV-ELI-MET-010-01,Open Plateau Iron Swing,Tempered Meteorhead,F2,Void God,B
+MV-ELI-MET-010-02,Horizon Bearing Step,Blinding Reelback,F1,Void God,B
+MV-ELI-MET-010-03,Iron Cord Guard Turn,Granite Dropweight,F2,Void God,B
+MV-ELI-MET-010-04,Dust Plain Cord Flick,Chime Reelback,F2,Void God,B
+MV-ELI-MET-010-05,Open Plateau Iron Slam,Vengeful Spinout,F1,Void God,B
+MV-ELI-MET-010-06,Sky-Hooked Cord Drag,Hogtying Plummet,F1,Void God,B
+MV-ELI-MET-010-07,Plain-Cut Counter Orbit,Equipoise Orbitband,F2,Void God,B
+MV-ELI-MET-010-08,Plateau Iron Rain,Blaze Gyre,F2,Void God,B
+MV-ELI-MET-010-09,Open-Sky Iron Pillar,Hollow Tailstone,F2,Void God,B
+MV-ELI-MET-010-10,Iron Beyond the Horizon,Eviscerating Dropweight,F1,Void God,B
+MV-ELI-MET-011-01,Storm Bearing Cord Hold,Aegis Cordsplice,F2,Void God,B
+MV-ELI-MET-011-02,Sworn Squall Step,Whorlflash,F4,Void God,B
+MV-ELI-MET-011-03,Rain-Lashed Cord Guard,Invincible Loopend,F1,Void God,B
+MV-ELI-MET-011-04,Thunder Plain Weight Tap,Meteorhead Respite,F3,Void God,B
+MV-ELI-MET-011-05,Squall Cord Snap,Mayhem Slingshot,F2,Void God,B
+MV-ELI-MET-011-06,Storm-Sworn Orbit Smash,Blazecable,F5,Void God,B
+MV-ELI-MET-011-07,Lightning Line Cord Hook,Fastening Plummet,F2,Void God,B
+MV-ELI-MET-011-08,Gale Wake Reversal,Gust Cordsplice,F2,Void God,B
+MV-ELI-MET-011-09,Storm Eye Calm Guard,Facetplumb,F5,Void God,B
+MV-ELI-MET-011-10,Storm Oath Weight Barrage,Spinout Havoc,F3,Void God,B
+MV-ELI-MET-011-11,Squall Line Rope Trap,Ropehead Durance,F3,Void God,B
+MV-ELI-MET-011-12,Held Bearing Thunder Cast,Revolve Devastation,F3,Void God,B
+MV-ELI-MET-011-13,Through the Storm Unbent,Whorlhavoc,F4,Void God,B
+MV-ELI-MET-012-01,Long Gale Opening Swing,Corroding Revolve,F1,True God,B
+MV-ELI-MET-012-02,Gale Orbit Footwork,Blinding Longrope,F1,True God,B
+MV-ELI-MET-012-03,Open Orbit Cord Parry,Torrent Tailstone,F2,True God,B
+MV-ELI-MET-012-04,Long Orbit Hammer Draw,Overbearing Weighttip,F1,True God,B
+MV-ELI-MET-012-05,Gale-Bent Cord Wrap,Whorldurance,F4,True God,B
+MV-ELI-MET-012-06,Orbit Gap Counterstrike,Cableruin,F4,True God,B
+MV-ELI-MET-012-07,Gale Orbit Unending,Blaze Weightneck,F2,True God,B
+MV-ELI-MET-012-08,Wind-Swept Hammer Crush,Blaze Reelback,F2,True God,B
+MV-ELI-MET-012-09,Long Gale Full Orbit Fall,Gnashing Tempered Orbitband,F6a,True God,B
+MV-ELI-MET-010-09,Hollow Tailstone,Lancing Tailstone,F2,Void God,B

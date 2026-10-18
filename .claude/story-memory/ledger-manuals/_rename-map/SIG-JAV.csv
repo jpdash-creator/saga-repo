@@ -1,0 +1,133 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-JAV-001-01,Court Entry Bow Stance,Barbedvow,F4,Warrior L1 Low,B
+MV-SIG-JAV-001-02,Twin-Grip Level Throw,Inferno Launch,F2,Warrior L1 Low,B
+MV-SIG-JAV-001-03,Matched-Step Advance,Plumevoyage,F5,Warrior L1 Low,B
+MV-SIG-JAV-001-04,Left-Hand Lead Echo,Dartcrown,F4,Warrior L1 Low,B
+MV-SIG-JAV-001-05,Crossed-Shaft Catch Lock,Squall Thinheft,F2,Warrior L1 Low,B
+MV-SIG-JAV-001-06,Court-Hush Arm Strike,Millstone Throwloop,F2,Warrior L1 Low,B
+MV-SIG-JAV-001-07,Dual-Shaft Parting Throw,Triumphant Loft,F1,Champion L1 Low,B
+MV-SIG-JAV-001-08,Paired-Guard Opening Chain,Harmonious Dropdive,F1,Champion L1 Low,B
+MV-SIG-JAV-001-09,Court-Verdict Double Pierce,Radiance Whistle,F2,Demigod L1 Low,B
+MV-SIG-JAV-001-10,Twin-Court Seal Throw,Magnificent Prism Skewerflight,F6a,Warrior L1 Low,B
+MV-SIG-JAV-002-01,Rooftop Perch Settling,Revelation Leadknob,F2,Champion L2 Mid,B
+MV-SIG-JAV-002-02,Falling-Shoulder Tuck Throw,Thunderclap Dart,F2,Champion L2 Mid,B
+MV-SIG-JAV-002-03,Hawk-Landing Roll Step,Dartsolace,F4,Champion L2 Mid,B
+MV-SIG-JAV-002-04,Height-Gained Qi Draw,Solar Tailweight,F2,Champion L2 Mid,B
+MV-SIG-JAV-002-05,Hawk-Eye Mark Lock,Fletchmercy,F4,Champion L2 Mid,B
+MV-SIG-JAV-002-06,Diving Barb Throw,Quenched Launch,F2,Champion L2 Mid,B
+MV-SIG-JAV-002-07,Shadow-Cast Feint Pass,Nightmare Fletch,F2,Champion L2 Mid,B
+MV-SIG-JAV-002-08,Hawk-Dive Heavy Plunge,Valiant Loft,F1,Champion L2 Mid,B
+MV-SIG-JAV-002-09,Rising-Stoop Recovery Chain,Orchestral Whistle,F1,Champion L2 Mid,B
+MV-SIG-JAV-002-10,Unheard Dive Strike,Gallant Skewerflight,F1,Demigod L1 Low,B
+MV-SIG-JAV-002-11,Azure Hawk's Plunging Cast,Peerless Vacuum Dropdive,F6a,Champion L2 Mid,B
+MV-SIG-JAV-003-01,Basin-Held Breath Stance,Leadseal,F4,Champion L7 High,B
+MV-SIG-JAV-003-02,Pooled-Arm Lob Throw,Launchverdict,F4,Champion L7 High,B
+MV-SIG-JAV-003-03,River-Slip Forward Pace,Loftgrace,F4,Champion L7 High,B
+MV-SIG-JAV-003-04,Basin-Brimming Qi Draw,Bloom Pointbalance,F2,Champion L7 High,B
+MV-SIG-JAV-003-05,River-Run Thrust Follow,Vigor Dartcap,F2,Champion L7 High,B
+MV-SIG-JAV-003-06,Rim-Spill Side Throw,Pulsar Whistle,F2,Champion L7 High,B
+MV-SIG-JAV-003-07,Overflow Throw Into Thrust,Resonant Dart,F1,Champion L7 High,B
+MV-SIG-JAV-003-08,Riverbed Dragging Sweep,Thunderclap Leadknob,F2,Champion L7 High,B
+MV-SIG-JAV-003-09,Flood-Breaking Spear Cast,Dauntless Dartpoint,F1,Demigod L1 Low,B
+MV-SIG-JAV-003-10,Basin and River Joined Stroke,Imperial Whistle,F1,Champion L7 High,B
+MV-SIG-JAV-004-01,Two-Track Ready Hold,Steel Pointbalance,F2,Ruler L1 Mid,B
+MV-SIG-JAV-004-02,Far-Track Opening Lob,Radiance Loft,F2,Ruler L1 Mid,B
+MV-SIG-JAV-004-03,Near-Track Quick Prick,Fletchedict,F4,Ruler L1 Mid,B
+MV-SIG-JAV-004-04,Track-Crossing Sidestep,Launchboon,F4,Ruler L1 Mid,B
+MV-SIG-JAV-004-05,Mid-Beat Track Shift,Pall Fletch,F2,Ruler L1 Mid,B
+MV-SIG-JAV-004-06,Court-Pair Return Catch,Deluge Lightshaft,F2,Ruler L1 Mid,B
+MV-SIG-JAV-004-07,Same-Breath Far-and-Near Strike,Lordly Launch,F1,Ruler L1 Mid,B
+MV-SIG-JAV-004-08,Twin-Pressure Drive,Loftbanner,F4,Ruler L1 Mid,B
+MV-SIG-JAV-004-09,Double-Track Pincer Throw,Noble Dropdive,F1,Ruler L1 Mid,B
+MV-SIG-JAV-004-10,Two-Court Guard Unmaking,Entropy Throwloop,F2,Ruler L1 Mid,B
+MV-SIG-JAV-004-11,Both-Tracks Spent Pierce,Illustrious Whistle,F1,Demigod L1 Low,B
+MV-SIG-JAV-004-12,Dual-Track Court's Single Stroke,Royal Skewerflight,F1,Ruler L1 Mid,B
+MV-SIG-JAV-005-01,Crown-Height Perch Stance,Statute Dartpoint,F2,Demigod L3 Low,B
+MV-SIG-JAV-005-02,Crowned-Arc Throw,Barbedtriumph,F4,Demigod L3 Low,B
+MV-SIG-JAV-005-03,Water-Mirror Footing,Fletchgrace,F4,Demigod L3 Low,B
+MV-SIG-JAV-005-04,Hawk-Crowned Qi Rise,Plumegift,F4,Demigod L3 Low,B
+MV-SIG-JAV-005-05,River-Crowned Flowing Thrust,Heroic Dart,F1,Demigod L3 Low,B
+MV-SIG-JAV-005-06,Sky-Water Line Cast,Thunderclap Skewerflight,F2,Demigod L3 Low,B
+MV-SIG-JAV-005-07,Crown-Guard Wheel,Leadpledge,F4,Demigod L3 Low,B
+MV-SIG-JAV-005-08,High-Sky River-Fall Throw,Solar Dropdive,F2,Demigod L3 Low,B
+MV-SIG-JAV-005-09,Crowned Pair Pursuit,Grand Whistle,F1,Demigod L3 Low,B
+MV-SIG-JAV-005-10,Crown of Falling Water Pierce,Fearless Throwloop,F1,Demigod L3 Low,B
+MV-SIG-JAV-005-11,Hawk-and-River Crowning Cast,Exalted Steel Dart,F6a,Demigod L3 Low,B
+MV-SIG-JAV-006-01,Apex Stance Settling,Plumetroth,F4,Core Formation L1 Low,B
+MV-SIG-JAV-006-02,Core-Rooted Overhand Cast,Nucleus Launch,F2,Core Formation L1 Low,B
+MV-SIG-JAV-006-03,Twin-Shaft Ready Draw,Barbedmercy,F4,Core Formation L1 Low,B
+MV-SIG-JAV-006-04,Height-Taking Leap,Dartboon,F4,Core Formation L1 Low,B
+MV-SIG-JAV-006-05,Core-Fed Pair Cast,Intrepid Loft,F1,Core Formation L1 Low,B
+MV-SIG-JAV-006-06,Hawk-Reach Qi Extension,Volition Tailweight,F2,Core Formation L1 Low,B
+MV-SIG-JAV-006-07,Twin-Shaft Core Parry,Revered Leadknob,F1,Core Formation L1 Low,B
+MV-SIG-JAV-006-08,Apex Mark Binding,Thrall Dartpoint,F2,Core Formation L1 Low,B
+MV-SIG-JAV-006-09,Apex Twin Pierce,Famed Skewerflight,F1,Core Formation L1 Low,B
+MV-SIG-JAV-006-10,Core-Crowned Sky Volley,Tempestuous Dropdive,F2,Core Formation L1 Low,B
+MV-SIG-JAV-006-11,Core-Edge Hawk Strike,Plumedecree,F4,Core Formation L1 Low,B
+MV-SIG-JAV-006-12,Apex Hawk-and-Twin Throw,Paramount Dartcap,F1,Core Formation L1 Low,B
+MV-SIG-JAV-007-01,Plateau Oath-Taking Stance,Fletchseal,F4,Warrior L2 Mid,B
+MV-SIG-JAV-007-02,Sworn Straight Hurl,Leadedict,F4,Warrior L2 Mid,B
+MV-SIG-JAV-007-03,Open-Ground Measured Pace,Launchsolace,F4,Warrior L2 Mid,B
+MV-SIG-JAV-007-04,Oath-Held Breath Draw,Vigor Throwloop,F2,Warrior L2 Mid,B
+MV-SIG-JAV-007-05,Edge-of-Plateau Lean Cast,Squall Dropdive,F2,Warrior L2 Mid,B
+MV-SIG-JAV-007-06,Oath-Parted Blow Turn,Peal Leadknob,F2,Warrior L2 Mid,B
+MV-SIG-JAV-007-07,Sworn-Line Mark Pin,Venom Dartcap,F2,Warrior L2 Mid,B
+MV-SIG-JAV-007-08,Oath-Backed Heavy Throw,Storied Fletch,F1,Champion L1 Low,B
+MV-SIG-JAV-007-09,Plateau Line-Holding Chain,Symphonic Launch,F1,Champion L1 Low,B
+MV-SIG-JAV-007-10,Oath-Struck Piercing Cast,Triumphant Dartcap,F1,Demigod L1 Low,B
+MV-SIG-JAV-007-11,Sworn Line Cast of the Plateau,Valiant Quenched Throwloop,F6a,Warrior L2 Mid,B
+MV-SIG-JAV-008-01,Running-Draw Quick Throw,Plumebanner,F4,Champion L3 Low,B
+MV-SIG-JAV-008-02,Gale-Quarter Sidestep,Squall Dartcap,F2,Champion L3 Low,B
+MV-SIG-JAV-008-03,Skirmish Low Crouch Hold,Leadvow,F4,Champion L3 Low,B
+MV-SIG-JAV-008-04,Wind-Sworn Running Cast,Vaunted Whistle,F1,Champion L3 Low,B
+MV-SIG-JAV-008-05,Gust-Dodging Weave Step,Loftvoyage,F5,Champion L3 Low,B
+MV-SIG-JAV-008-06,Rear-Facing Return Throw,Leadverdict,F4,Champion L3 Low,B
+MV-SIG-JAV-008-07,Wind-Sworn Running Volley,Splendid Dart,F1,Champion L3 Low,B
+MV-SIG-JAV-008-08,Gale-Edge Pursuit Combination,Choral Dropdive,F1,Champion L3 Low,B
+MV-SIG-JAV-008-09,Gale-Run Piercing Strike,Matchless Loft,F1,Demigod L1 Low,B
+MV-SIG-JAV-008-10,Gale-Run Skirmisher's Cast,Fearless Launch,F1,Champion L3 Low,B
+MV-SIG-JAV-009-01,Bearing-Taking Shoulder Set,Interstice Lightshaft,F2,Champion L8 Mid,B
+MV-SIG-JAV-009-02,Held-Line Draw Back,Dartdecree,F4,Champion L8 Mid,B
+MV-SIG-JAV-009-03,Bearing-Marked Footfall,Loftodyssey,F5,Champion L8 Mid,B
+MV-SIG-JAV-009-04,Mark-Ahead Aim Lead,Plumebenison,F4,Champion L8 Mid,B
+MV-SIG-JAV-009-05,Bearing-Locked Wind Cast,Prism Dropdive,F2,Champion L8 Mid,B
+MV-SIG-JAV-009-06,Drift-Correcting Wrist Turn,Peal Thinheft,F2,Champion L8 Mid,B
+MV-SIG-JAV-009-07,Bearing-Held Parry Turn,Pall Dartpoint,F2,Champion L8 Mid,B
+MV-SIG-JAV-009-08,Bearing-Marking Shaft Plant,Imperious Throwloop,F1,Champion L8 Mid,B
+MV-SIG-JAV-009-09,Bearing-True Long Pierce,Triumphant Skewerflight,F1,Champion L8 Mid,B
+MV-SIG-JAV-009-10,Bearing-Chained Triple Cast,Majestic Launch,F1,Champion L8 Mid,B
+MV-SIG-JAV-009-11,Bearing-Unbroken Heavy Strike,Lordly Dartpoint,F1,Demigod L1 Low,B
+MV-SIG-JAV-009-12,The Bearing That Never Leaves,Sovereign Pulsar Launch,F6a,Champion L8 Mid,B
+MV-SIG-JAV-010-01,Unsheltered Stance,Prism Lightshaft,F2,Ruler L1 Mid,B
+MV-SIG-JAV-010-02,Open-Plateau Wide Hurl,Barbedcrown,F4,Ruler L1 Mid,B
+MV-SIG-JAV-010-03,Bare-Stone Sure Step,Fletchodyssey,F5,Ruler L1 Mid,B
+MV-SIG-JAV-010-04,Unsheltered Qi Draw,Parity Thinheft,F2,Ruler L1 Mid,B
+MV-SIG-JAV-010-05,Open-Edge Duck and Throw,Pulsar Loft,F2,Ruler L1 Mid,B
+MV-SIG-JAV-010-06,Wide-Sky Missile Turn,Deluge Dartpoint,F2,Ruler L1 Mid,B
+MV-SIG-JAV-010-07,Plateau Dust Blind Cast,Phantasm Whistle,F2,Ruler L1 Mid,B
+MV-SIG-JAV-010-08,Open-Plateau Charge Stopper,Inviolate Pointbalance,F1,Ruler L1 Mid,B
+MV-SIG-JAV-010-09,Unsheltered Rolling Throw,Thunderclap Dropdive,F2,Ruler L1 Mid,B
+MV-SIG-JAV-010-10,Plateau Open-Sky Pierce,Lordly Dart,F1,Demigod L1 Low,B
+MV-SIG-JAV-010-11,Unsheltered Plateau Cast,Royal Launch,F1,Ruler L1 Mid,B
+MV-SIG-JAV-011-01,Gale-Sworn Stance Settling,Consecrated Throwloop,F1,Demigod L6 Mid,B
+MV-SIG-JAV-011-02,Oath-Breathed Draw,Fletchcrown,F4,Demigod L6 Mid,B
+MV-SIG-JAV-011-03,Cloud-Edge Bearing Glance,Leadgift,F4,Demigod L6 Mid,B
+MV-SIG-JAV-011-04,Gale-Sworn Qi Draw,Bloom Fletch,F2,Demigod L6 Mid,B
+MV-SIG-JAV-011-05,Oath-Carried Distance Cast,Radiance Dart,F2,Demigod L6 Mid,B
+MV-SIG-JAV-011-06,Gale Oath Parry Wheel,Squall Throwloop,F2,Demigod L6 Mid,B
+MV-SIG-JAV-011-07,Sworn Gale Spear Drive,Intrepid Dropdive,F1,Demigod L6 Mid,B
+MV-SIG-JAV-011-08,Oath Chain Over Distance,Resonant Launch,F1,Demigod L6 Mid,B
+MV-SIG-JAV-011-09,Gale-Sworn Long Pierce,Majestic Whistle,F1,Demigod L6 Mid,B
+MV-SIG-JAV-011-10,Oath-Carrying Gale Cast,Exalted Quenched Skewerflight,F6a,Demigod L6 Mid,B
+MV-SIG-JAV-012-01,Final-Bearing Stance Settling,Nucleus Pointbalance,F2,Core Formation L2 Low,B
+MV-SIG-JAV-012-02,Core-Rooted Gale Draw,Kernel Launch,F2,Core Formation L2 Low,B
+MV-SIG-JAV-012-03,Last-Word Oath Breath,Barbedbenison,F4,Core Formation L2 Low,B
+MV-SIG-JAV-012-04,Storm-Edge Footing,Plumeboon,F4,Core Formation L2 Low,B
+MV-SIG-JAV-012-05,Core-Fed Storm Cast,Pulsar Dropdive,F2,Core Formation L2 Low,B
+MV-SIG-JAV-012-06,Storm-Sworn Parry Wheel,Parity Dartcap,F2,Core Formation L2 Low,B
+MV-SIG-JAV-012-07,Final-Bearing Wind Read,Eclipse Tailweight,F2,Core Formation L2 Low,B
+MV-SIG-JAV-012-08,Storm-Cloud Shadow Slip,Barbedgrace,F4,Core Formation L2 Low,B
+MV-SIG-JAV-012-09,Storm-Sworn Core Pierce,Heroic Whistle,F1,Core Formation L2 Low,B
+MV-SIG-JAV-012-10,Final-Bearing Hail Volley,Demolition Loft,F2,Core Formation L2 Low,B
+MV-SIG-JAV-012-11,Core-Storm Single Strike,Fearless Dartpoint,F1,Core Formation L2 Low,B
+MV-SIG-JAV-012-12,Final Bearing Storm Throw,Magnificent Skewerflight,F1,Core Formation L2 Low,B

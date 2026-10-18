@@ -1,0 +1,10 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-TIM-002-01,Court Beat,Echoed Beat,INSTANT,Warrior L1 Low,Basic
+CMV-SIG-TIM-002-03,Court Sense,Paired Sense,CHANNELED,Warrior L1 Low,Basic
+CMV-SIG-TIM-002-06,Court Quicken,Paired Quicken,CHANNELED,Warrior L1 Low,Intermediate
+CMV-SIG-TIM-002-09,Court Stall,Paired Stall,CHANNELED,Champion L1 Low,Advanced
+CMV-SIG-TIM-002-11,Court Moment,Shared Moment,CHANNELED,Demigod L1 Low,Elite
+CMV-SIG-TIM-003-03,Tempo Watch,Tempo Read,CHANNELED,Warrior L1 Low,Basic
+CMV-SIG-TIM-004-02,Plain Tempo,Bare Tempo,INSTANT,Warrior L1 Low,Basic
+CMV-SIG-TIM-004-03,Plain Instant,Bare Instant,INSTANT,Warrior L1 Low,Basic
+CMV-SIG-TIM-004-06,Plain Mend,Bare Mend,CHANNELED,Warrior L1 Low,Intermediate

@@ -1,0 +1,15 @@
+{
+ "skill_id": "ssc-narration-p36-world-building-as-living-texture-law",
+ "part": 36,
+ "area": 11,
+ "sequence_in_part": 11,
+ "title": "World-Building as Living Texture Law",
+ "domain": "narration",
+ "source_file": "Part_36_Narration_Novel_Thematic_Law.md",
+ "start_line": 370,
+ "end_line": 388,
+ "line_count": 19,
+ "output_path": ".claude/skills/ssc-narration-p36-world-building-as-living-texture-law/SKILL.md",
+ "has_stale_python_block": false,
+ "related": []
+}

@@ -1,0 +1,9 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-ICE-003-01,Field Chill,Rime Sense,CHANNELED,Warrior L1 Low,Basic
+CMV-ADV-ICE-003-03,Field Nip,Rime Nip,INSTANT,Warrior L1 Low,Basic
+CMV-ADV-ICE-003-06,Field Brand,Rime Brand,INSTANT,Warrior L1 Low,Intermediate
+CMV-ADV-ICE-003-09,Field Collapse,Rime Collapse,INSTANT,Champion L1 Low,Advanced
+CMV-ADV-ICE-008-06,Oath Strike,Chilling Oath,INSTANT,Warrior L1 Low,Intermediate
+CMV-ADV-ICE-009-01,Plain Frost,Clear Frost,INSTANT,Warrior L1 Low,Basic
+CMV-ADV-ICE-009-04,Line Chill,Warmth Bearing,CHANNELED,Warrior L1 Low,Basic
+CMV-ADV-ICE-009-05,Frost Line,Frost Lance,INSTANT,Warrior L1 Low,Intermediate

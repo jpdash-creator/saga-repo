@@ -1,0 +1,9 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-SUN-003-01,Shimmer Field,Shimmer Haze,CHANNELED,Warrior L1 Low,Basic
+CMV-ADV-SUN-003-02,Warm Field,Warm Glow,CHANNELED,Warrior L1 Low,Basic
+CMV-ADV-SUN-003-06,Scorching Field,Scorching Heat,CHANNELED,Warrior L1 Low,Intermediate
+CMV-ADV-SUN-003-08,Field Cleanse,Sun Cleanse,CHANNELED,Warrior L1 Low,Intermediate
+CMV-ADV-SUN-003-10,Blazing Expanse,Blazing Flash,CAST,Champion L1 Low,Advanced
+CMV-ADV-SUN-006-02,Burn Line,Burn Ray,INSTANT,Warrior L1 Low,Basic
+CMV-ADV-SUN-006-03,Mend Line,Mend Ray,CHANNELED,Warrior L1 Low,Basic
+CMV-ADV-SUN-008-02,Plain Light,Clear Light,INSTANT,Warrior L1 Low,Basic

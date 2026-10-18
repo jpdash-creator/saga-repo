@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-CAN-001-01,Wide Stance Gun Side,Nimble Trunnion,F1,T1 Unawakened,A
+MV-BAS-CAN-001-02,Sponge Twist Clean,Judging Linstock,F1,T1 Unawakened,A
+MV-BAS-CAN-001-03,Cartridge Cradle Carry,Skipping Wheelhub,F1,T1 Unawakened,A
+MV-BAS-CAN-001-04,Rammer Seat Stroke,Cascabel Note,F3,T1 Unawakened,A
+MV-BAS-CAN-001-05,Vent Prick Check,Cannonreview,F4,T1 Unawakened,A
+MV-BAS-CAN-001-06,Portfire Touch Off,Recoildrop,F4,T1 Unawakened,A
+MV-BAS-CAN-002-01,Bucket Wring Sponge,Measured Muzzleswell,F1,T1 Skin,A
+MV-BAS-CAN-002-02,Worm Screw Pull,Calm Touchhole,F1,T1 Skin,A
+MV-BAS-CAN-002-03,Rammer Short Stroke,Smooth Quoin,F1,T1 Skin,A
+MV-BAS-CAN-002-04,Staff Haft Block,Settled Carriage,F1,T1 Skin,A
+MV-BAS-CAN-002-05,Sponge Staff Butt Jab,Quoinbump,F4,T1 Skin,A
+MV-BAS-CAN-003-01,Handspike Heel Lever,Quoingauge,F4,T1 Muscle,A
+MV-BAS-CAN-003-02,Trail Bar Shift,Shifting Breechrope,F1,T1 Muscle,A
+MV-BAS-CAN-003-03,Wheel Spoke Push,Sideways Ballshot,F1,T1 Muscle,A
+MV-BAS-CAN-003-04,Quoin Knock Home,Soft Linstock,F1,T1 Muscle,A
+MV-BAS-CAN-003-05,Spike Haft Parry,Gunbore Stay,F3,T1 Muscle,A
+MV-BAS-CAN-003-06,Spike Toe Whip,Sudden Recoil,F1,T1 Muscle,A
+MV-BAS-CAN-003-07,Dead Weight Brace,Resting Touchhole,F1,T1 Muscle,A
+MV-BAS-CAN-004-01,Cartridge Bag Fold,Steady Breechrope,F1,T1 Tendon,A
+MV-BAS-CAN-004-02,Powder Tub Lid Seal,Quoinstay,F4,T1 Tendon,A
+MV-BAS-CAN-004-03,Hip Satchel Run,Skipping Cannonade,F1,T1 Tendon,A
+MV-BAS-CAN-004-04,Weighing Palm Judge,Kind Gunbore,F1,T1 Tendon,A
+MV-BAS-CAN-004-05,Bag Seat Pressure,Tending Quoin,F1,T1 Tendon,A
+MV-BAS-CAN-004-06,Spilled Grain Sweep,Warm Muzzleswell,F1,T1 Tendon,A
+MV-BAS-CAN-004-07,Cartridge Pass Chain,Deep Trunnion,F1,T1 Tendon,A
+MV-BAS-CAN-004-08,Wet Sack Smother,Resting Carriage,F1,T1 Tendon,A
+MV-BAS-CAN-005-01,Barrel Ridge Squint,Shotreview,F4,T1 Bone,A
+MV-BAS-CAN-005-02,Muzzle Swell Offset,Judging Cascabel,F1,T1 Bone,A
+MV-BAS-CAN-005-03,Trunnion Plumb Cord,Gentle Gunbore,F1,T1 Bone,A
+MV-BAS-CAN-005-04,Notch Count Elevation,Kind Breechrope,F1,T1 Bone,A
+MV-BAS-CAN-005-05,Level Muzzle Close Shot,Straight Cannonade,F1,T1 Bone,A
+MV-BAS-CAN-005-06,Cheek Drop Duck,Kept Linstock,F1,T1 Bone,A
+MV-BAS-CAN-006-01,Limber Hook Snap,Quoinpace,F4,Senior L1 Low,A
+MV-BAS-CAN-006-02,Qi Braced Trail Lift,Tending Touchhole,F1,Senior L1 Low,A
+MV-BAS-CAN-006-03,Lead Horse Flank Walk,Roarskitter,F4,Senior L1 Low,A
+MV-BAS-CAN-006-04,Trail Spade Heel Dig,Planted Carriage,F1,Senior L1 Low,A
+MV-BAS-CAN-006-05,Axle End Shoulder Roll,Broadside Pace,F3,Senior L1 Low,A
+MV-BAS-CAN-006-06,Chock Block Kick,Cannonpause,F4,Senior L1 Low,A
+MV-BAS-CAN-006-07,Ammunition Box Flip Draw,Cascabel Gauge,F3,Senior L1 Low,A
+MV-BAS-CAN-007-01,Thumb Stall Vent Stop,Shotnote,F4,Senior L2 Mid,A
+MV-BAS-CAN-007-02,Vent Pick Twist Clear,Trunnion Gauge,F3,Senior L2 Mid,A
+MV-BAS-CAN-007-03,Priming Quill Trickle,Quoinnote,F4,Senior L2 Mid,A
+MV-BAS-CAN-007-04,Match Arm Side Step,Light Roar,F1,Senior L2 Mid,A
+MV-BAS-CAN-007-05,Quiet Breath Discharge,Roardash,F4,Senior L2 Mid,A
+MV-BAS-CAN-008-01,Rollback Hip Stance,Quoinpause,F4,Senior L4 Low,A
+MV-BAS-CAN-008-02,Brake Rope Haul,Kind Quoin,F1,Senior L4 Low,A
+MV-BAS-CAN-008-03,Spoke Grip Back Walk,Roar Hop,F3,Senior L4 Low,A
+MV-BAS-CAN-008-04,Two Count Run Up,Easing Ballshot,F1,Senior L4 Low,A
+MV-BAS-CAN-008-05,Bank Plank Stop,Shothusk,F4,Senior L4 Low,A
+MV-BAS-CAN-008-06,Wheel Arc Slip,Shifting Wheelhub,F1,Senior L4 Low,A
+MV-BAS-CAN-008-07,Trail Sprag Drop,Shotpause,F4,Senior L4 Low,A
+MV-BAS-CAN-008-08,Cheek Shoulder Settle,Firm Recoil,F1,Senior L4 Low,A
+MV-BAS-CAN-009-01,Pace Tally Ranging,Watching Wheelhub,F1,Senior L6 Mid,A
+MV-BAS-CAN-009-02,Smoke Lean Wind Read,Tending Trunnion,F1,Senior L6 Mid,A
+MV-BAS-CAN-009-03,Dust Splash Mark,Gentle Muzzleswell,F1,Senior L6 Mid,A
+MV-BAS-CAN-009-04,Half Notch Correction,Calm Breechrope,F1,Senior L6 Mid,A
+MV-BAS-CAN-009-05,Ground Fall Eye,Steady Linstock,F1,Senior L6 Mid,A
+MV-BAS-CAN-009-06,Stake Line Discharge,Shotdash,F4,Senior L6 Mid,A
+MV-BAS-CAN-010-01,Gauge Ring Test,Watching Quoin,F1,Senior L8 Low,A
+MV-BAS-CAN-010-02,Wad Tamp Down,Shotgauge,F4,Senior L8 Low,A
+MV-BAS-CAN-010-03,Rope Wad Twist,Quoinreview,F4,Senior L8 Low,A
+MV-BAS-CAN-010-04,Ball Roll Feel,Deep Muzzleswell,F1,Senior L8 Low,A
+MV-BAS-CAN-010-05,Rammer Double Seat,Cannonnote,F4,Senior L8 Low,A
+MV-BAS-CAN-010-06,Tompion Pull Release,Judging Carriage,F1,Senior L8 Low,A
+MV-BAS-CAN-010-07,Skip Shot Low Fire,Recoilblow,F4,Senior L8 Low,A

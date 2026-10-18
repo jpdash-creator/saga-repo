@@ -1,0 +1,121 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-BOS-001-01,Pressure-Loading Bo Stance,Unbroken Bostip,F1,Champion,B
+MV-ADV-BOS-001-02,Bo Leaning Press Strike,Blazetipcap,F5,Champion,B
+MV-ADV-BOS-001-03,Slow-Draw Bo Parry,Gustbostip,F5,Champion,B
+MV-ADV-BOS-001-04,Bo Spring-Step Advance,Tipcapcanter,F4,Champion,B
+MV-ADV-BOS-001-05,Guard-Splitting Bo Lever,Crippling Taperend,F1,Champion,B
+MV-ADV-BOS-001-06,Held-Breath Bo Squeeze,Charter Balancenode,F2,Champion,B
+MV-ADV-BOS-001-07,Pent-Pressure Bo Release,Splitting Leftgrip,F1,Champion,B
+MV-ADV-BOS-001-08,Bo Recoil Wave Chain,Intent Sweepstep,F2,Champion,B
+MV-ADV-BOS-002-01,Field-Wrapped Bo Ready Hold,Ironbostip,F5,Demigod,B
+MV-ADV-BOS-002-02,Beyond-the-Tip Bo Jab,Splitting Staffcentre,F1,Demigod,B
+MV-ADV-BOS-002-03,Bo Field-Edge Brush Guard,Murk Tipcap,F2,Demigod,B
+MV-ADV-BOS-002-04,Field-Following Bo Step,Silt Rightgrip,F2,Demigod,B
+MV-ADV-BOS-002-05,Bo Tip Field Probe,Waning Bogrip,F2,Demigod,B
+MV-ADV-BOS-002-06,Extended Bo Sweep Arc,Gust Whitewood,F2,Demigod,B
+MV-ADV-BOS-002-07,Bo Field Hook Pull,Gyve Spinbreak,F2,Demigod,B
+MV-ADV-BOS-002-08,Bo Field Close-Gap Strike,Rumble Roll,F2,Demigod,B
+MV-ADV-BOS-002-09,Wide-Cast Bo Field Sweep,Scalding Roundstaff,F1,Demigod,B
+MV-ADV-BOS-002-10,Bo Tip Long-Reach Lunge,Lambasting Hollow Tipjab,F6a,Demigod,B
+MV-ADV-BOS-003-01,Bo Anchored-Foot Ready Stance,Taperend Fastness,F3,Champion,B
+MV-ADV-BOS-003-02,Wall-Rebound Bo Strike,Blockassault,F4,Champion,B
+MV-ADV-BOS-003-03,Slope-Side Bo Parry,Gusttipcap,F5,Champion,B
+MV-ADV-BOS-003-04,Loose-Ground Bo Footing Step,Bogrippounce,F4,Champion,B
+MV-ADV-BOS-003-05,Doorframe Bo Thrust,Bogripthrash,F4,Champion,B
+MV-ADV-BOS-003-06,Post-Wrapped Bo Swing,Blaze Pivot,F2,Champion,B
+MV-ADV-BOS-003-07,Stair-Fall Bo Pin,Bogripgreave,F4,Champion,B
+MV-ADV-BOS-003-08,Ledge-Edge Bo Push,Shadetipjab,F5,Champion,B
+MV-ADV-BOS-003-09,Terrain-Turned Bo Reversal,Lotbostip,F5,Champion,B
+MV-ADV-BOS-004-01,Bo Mark-Laying Stance,Resilient Tipcap,F1,Demigod,B
+MV-ADV-BOS-004-02,Bo Line-Scratch Jab,Rumble Staffcentre,F2,Demigod,B
+MV-ADV-BOS-004-03,Bo Ground-Stamp Check,Iron Leftgrip,F2,Demigod,B
+MV-ADV-BOS-004-04,Marked-Path Bo Step,Torrent Rightgrip,F2,Demigod,B
+MV-ADV-BOS-004-05,Circle-Drawn Bo Ring Guard,Hardened Bogrip,F1,Demigod,B
+MV-ADV-BOS-004-06,Bo Seam-Line Rap,Furrowing Block,F1,Demigod,B
+MV-ADV-BOS-004-07,Bo Lingering Line Hold,Spinbreak Greave,F3,Demigod,B
+MV-ADV-BOS-004-08,Bo Mark Chasing Strike,Splitting Tipjab,F1,Demigod,B
+MV-ADV-BOS-004-09,Bo Cross-Mark Binding Square,Chimebostip,F5,Demigod,B
+MV-ADV-BOS-004-10,Bo Ground-Mark Dragging Trap,Sinister Balancenode,F1,Demigod,B
+MV-ADV-BOS-004-11,Ringed-Ground Bo Closing Formation,Equipoise Bostip,F2,Demigod,B
+MV-ADV-BOS-005-01,Twin-Court Bo Paired Stance,Tipcaphauberk,F4,Champion,B
+MV-ADV-BOS-005-02,Paired-Stroke Bo Opening,Lancing Block,F1,Champion,B
+MV-ADV-BOS-005-03,Azure Bo Mirrored Parry,Adamant Roundstaff,F1,Champion,B
+MV-ADV-BOS-005-04,Twin-Footed Bo Court Step,Racing Sweepstep,F1,Champion,B
+MV-ADV-BOS-005-05,Basin-Pour Bo Down Stroke,Sanguine Block,F2,Champion,B
+MV-ADV-BOS-005-06,River-Reed Bo Bending Guard,Facet Taperend,F2,Champion,B
+MV-ADV-BOS-005-07,Twin-Track Bo Guard and Strike,Iron Whitewood,F2,Champion,B
+MV-ADV-BOS-005-08,Bo Hawk-Wing Double Sweep,Grinding Pivot,F1,Champion,B
+MV-ADV-BOS-005-09,Court-Answering Bo Counter,Chimebogrip,F5,Champion,B
+MV-ADV-BOS-005-10,Basin-Wall Bo Paired Press,Crippling Roundstaff,F1,Champion,B
+MV-ADV-BOS-005-11,Twin-Court Bo Closing Verdict,Successive Bostip,F1,Champion,B
+MV-ADV-BOS-005-12,Dual-Track Bo Confluence Strike,Pivotthrash,F4,Champion,B
+MV-ADV-BOS-006-01,Hawk-Perched Bo Stance,Facet Staffcentre,F2,Demigod,B
+MV-ADV-BOS-006-02,Bo Rising Wing Jab,Rumble Tipcap,F2,Demigod,B
+MV-ADV-BOS-006-03,Azure Bo Overhead Screen,Tipcapcloak,F4,Demigod,B
+MV-ADV-BOS-006-04,Bo Stoop Entry Step,Might Rightgrip,F2,Demigod,B
+MV-ADV-BOS-006-05,Hawk-Eye Bo Sighting,Vigorous Bogrip,F1,Demigod,B
+MV-ADV-BOS-006-06,Bo Talon-Hook Pull,Fastening Sweepstep,F2,Demigod,B
+MV-ADV-BOS-006-07,Bo Twin-Pass Stoop Cut,Irontipjab,F5,Demigod,B
+MV-ADV-BOS-006-08,Basin-Hawk Bo Full Stoop,Glintbostip,F5,Demigod,B
+MV-ADV-BOS-006-09,Hawk Circling Bo Pressure,Intentbogrip,F5,Demigod,B
+MV-ADV-BOS-007-01,River-Bend Bo Ready Line,Bostipplating,F4,Ruler,B
+MV-ADV-BOS-007-02,Bo Guard-Track Slide,Bogripplating,F4,Ruler,B
+MV-ADV-BOS-007-03,Bo Strike-Track Slide,Sanguine Pivot,F2,Ruler,B
+MV-ADV-BOS-007-04,Bend-Foot Bo Walk,Granite Tipjab,F2,Ruler,B
+MV-ADV-BOS-007-05,Eddy-Turn Bo Block,Mantled Balancenode,F1,Ruler,B
+MV-ADV-BOS-007-06,Bo Current-Cut Jab,Glint Spinbreak,F2,Ruler,B
+MV-ADV-BOS-007-07,Bo Parting-Stream Parry,Whitewood Greave,F3,Ruler,B
+MV-ADV-BOS-007-08,Bo Flanking Dual-Track Cut,Gust Pivot,F2,Ruler,B
+MV-ADV-BOS-007-09,River-Loop Bo Wrap Strike,Hoarfrost Tipcap,F2,Ruler,B
+MV-ADV-BOS-007-10,Bo Confluence Overflow,Intent Roll,F2,Ruler,B
+MV-ADV-BOS-008-01,Paired-Reach Bo Stance,Resilient Balancenode,F1,Void God,B
+MV-ADV-BOS-008-02,Near-End Bo Snap Strike,Granite Taperend,F2,Void God,B
+MV-ADV-BOS-008-03,Far-End Bo Reaching Parry,Bogripcuirass,F4,Void God,B
+MV-ADV-BOS-008-04,Bo End-for-End Pass,Granite Bogrip,F2,Void God,B
+MV-ADV-BOS-008-05,Reach-Splitting Bo Wedge,Subduing Roll,F1,Void God,B
+MV-ADV-BOS-008-06,Both-Ends Bo Field Press,Roll Barrage,F3,Void God,B
+MV-ADV-BOS-008-07,Azure Paired-Reach Strike,Facet Tipjab,F2,Void God,B
+MV-ADV-BOS-008-08,Reach-and-Return Bo Long Cut,Intentbostip,F5,Void God,B
+MV-ADV-BOS-009-01,Bearing-Facing Bo Stance,Aegis Leftgrip,F2,Champion,B
+MV-ADV-BOS-009-02,Wind-Following Bo Jab,Gustblock,F5,Champion,B
+MV-ADV-BOS-009-03,Crosswind Bo Parry,Chime Rightgrip,F2,Champion,B
+MV-ADV-BOS-009-04,Plateau-Edge Bo Footwork,Leftgrip Spurt,F3,Champion,B
+MV-ADV-BOS-009-05,Gust-Weighted Bo Cut,Granite Whitewood,F2,Champion,B
+MV-ADV-BOS-009-06,Bo Slack-Wind Rest,Hoarfrost Bostip,F2,Champion,B
+MV-ADV-BOS-009-07,Bo Held on the Bearing,Crippling Sweepstep,F1,Champion,B
+MV-ADV-BOS-009-08,Windward Bo Shouldering Sweep,Staffcentre Torment,F3,Champion,B
+MV-ADV-BOS-009-09,Gale-Turned Bo Guard Break,Rumble Spinbreak,F2,Champion,B
+MV-ADV-BOS-009-10,Windward Edge Bo Drive,Staffcentre Thrash,F3,Champion,B
+MV-ADV-BOS-009-11,Bearing-Struck Bo Gust Blow,Rumbleblock,F5,Champion,B
+MV-ADV-BOS-010-01,Oath-Taking Bo Ready Stance,Immovable Whitewood,F1,Demigod,B
+MV-ADV-BOS-010-02,Open-Plateau Bo Long Thrust,Roundstaff Maelstrom,F3,Demigod,B
+MV-ADV-BOS-010-03,Sworn Bo Cross Parry,Unflinching Taperend,F1,Demigod,B
+MV-ADV-BOS-010-04,Wide-Open Bo Stride,Blurring Rightgrip,F1,Demigod,B
+MV-ADV-BOS-010-05,Oath-Kept Bo Swing,Splitting Pivot,F1,Demigod,B
+MV-ADV-BOS-010-06,Plateau-Wind Bo Guard Field,Aegis Bostip,F2,Demigod,B
+MV-ADV-BOS-010-07,Bo Oath-Bound Reach,Waningtipcap,F5,Demigod,B
+MV-ADV-BOS-010-08,Sworn-Line Bo Crossing,Gyve Sweepstep,F2,Demigod,B
+MV-ADV-BOS-010-09,Wide-Field Bo Cut Through,Rumblepivot,F5,Demigod,B
+MV-ADV-BOS-010-10,Bo Oath-Weight Descent,Leftgrip Maelstrom,F3,Demigod,B
+MV-ADV-BOS-010-11,Open-Plateau Bo Sweeping Oath,Scything Tipcap Thrash,F6b,Demigod,B
+MV-ADV-BOS-010-12,Wind-Sworn Bo Long Pierce,Furrowing Tipjab,F1,Demigod,B
+MV-ADV-BOS-011-01,Open-Country Bo Moving Guard,Hoarfrost Balancenode,F2,Ruler,B
+MV-ADV-BOS-011-02,Bo Angle-Taking Jab,Trouncing Block,F1,Ruler,B
+MV-ADV-BOS-011-03,Bo Sliding Guard Pass,Torrent Bogrip,F2,Ruler,B
+MV-ADV-BOS-011-04,Bo Drifting Footwork,Torrent Roll,F2,Ruler,B
+MV-ADV-BOS-011-05,Moving-Target Bo Tap,Granite Spinbreak,F2,Ruler,B
+MV-ADV-BOS-011-06,Bo Open-Air Parry Wheel,Gust Bogrip,F2,Ruler,B
+MV-ADV-BOS-011-07,Gale-Edge Bo Slipping Entry,Bostipspurt,F4,Ruler,B
+MV-ADV-BOS-011-08,Wall-Less Bo Pursuing Guard,Hoarfrost Leftgrip,F2,Ruler,B
+MV-ADV-BOS-011-09,Open-Country Bo Gale Sweep,Mayhempivot,F5,Ruler,B
+MV-ADV-BOS-012-01,Bearing-Held Bo Stance,Facet Roundstaff,F2,Demigod,B
+MV-ADV-BOS-012-02,Keeper's Bo Straight Jab,Harpooning Tipjab,F1,Demigod,B
+MV-ADV-BOS-012-03,Bo Bearing-Turned Parry,Mantled Bostip,F1,Demigod,B
+MV-ADV-BOS-012-04,Bo Shifting-Wind Step,Torrent Sweepstep,F2,Demigod,B
+MV-ADV-BOS-012-05,Keeper's Bo Field Reading,Waning Taperend,F2,Demigod,B
+MV-ADV-BOS-012-06,Bearing-True Bo Cut,Pivot Maelstrom,F3,Demigod,B
+MV-ADV-BOS-012-07,Held-Line Bo Bind,Thorn Roll,F2,Demigod,B
+MV-ADV-BOS-012-08,Bo Field-Turning Keeper's Guard,Aegis Balancenode,F2,Demigod,B
+MV-ADV-BOS-012-09,Gale Bearing Long Drive,Facettipcap,F5,Demigod,B
+MV-ADV-BOS-012-10,Keeper's Bo Shape-Changing Field,Tiered Staffcentre,F1,Demigod,B
+MV-ADV-BOS-002-10,Lambasting Hollow Tipjab,Lambasting Tipjab,F6a,Demigod,B

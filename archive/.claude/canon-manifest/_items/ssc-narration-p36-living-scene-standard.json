@@ -1,0 +1,15 @@
+{
+ "skill_id": "ssc-narration-p36-living-scene-standard",
+ "part": 36,
+ "area": 2,
+ "sequence_in_part": 2,
+ "title": "The Living Scene Standard",
+ "domain": "narration",
+ "source_file": "Part_36_Narration_Novel_Thematic_Law.md",
+ "start_line": 48,
+ "end_line": 121,
+ "line_count": 74,
+ "output_path": ".claude/skills/ssc-narration-p36-living-scene-standard/SKILL.md",
+ "has_stale_python_block": false,
+ "related": []
+}

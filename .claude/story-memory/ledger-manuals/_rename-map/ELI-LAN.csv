@@ -1,0 +1,134 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-LAN-001-01,Azure-Pair Seat Lock,Intent Graper,F2,Demigod,B
+MV-ELI-LAN-001-02,Twin-Beat Gait Read,Waning Couchrest,F2,Demigod,B
+MV-ELI-LAN-001-03,Paired-Lane Point Jab,Iron Arrestrest,F2,Demigod,B
+MV-ELI-LAN-001-04,Mirrored Thrust Beat,Iron Lancehead,F2,Demigod,B
+MV-ELI-LAN-001-05,Partner-Side Shield Fan,Aegis Lanceguard,F2,Demigod,B
+MV-ELI-LAN-001-06,Dual-Track Rein Pulse,Granite Bellrest,F2,Demigod,B
+MV-ELI-LAN-001-07,Paired Wedge Lance Run,Merciless Counterbalance,F1,Demigod,B
+MV-ELI-LAN-001-08,Cross-Over Guard Swap,Chimegraper,F5,Demigod,B
+MV-ELI-LAN-001-09,Azure Court Twin Impalement,Glint Momentum,F2,Demigod,B
+MV-ELI-LAN-002-01,Hawk-Height Seat Rise,Might Lanceshaft,F2,Demigod,B
+MV-ELI-LAN-002-02,Basin-Floor Run Reading,Chimesaddle,F5,Demigod,B
+MV-ELI-LAN-002-03,Hawk-Claw Hooked Jab,Corroding Shatter,F1,Demigod,B
+MV-ELI-LAN-002-04,River-Rim Cover Turn,Murk Vamplate,F2,Demigod,B
+MV-ELI-LAN-002-05,Stoop-Weighted Thrust,Tilthavoc,F4,Demigod,B
+MV-ELI-LAN-002-06,Basin-Echo Haft Ward,Inexorable Coronel,F1,Demigod,B
+MV-ELI-LAN-002-07,Rim-Ledge Leap Step,Silt Shatter,F2,Demigod,B
+MV-ELI-LAN-002-08,High-Stoop Cleaving Lance,Impactruin,F4,Demigod,B
+MV-ELI-LAN-002-09,Basin-Held Rider Net,Thornride,F5,Demigod,B
+MV-ELI-LAN-002-10,Hawk Rending the Ranks,Gust Impact,F2,Demigod,B
+MV-ELI-LAN-003-01,Twin-Track Entry Stride,Graperblink,F4,Demigod,B
+MV-ELI-LAN-003-02,Left-Track Point Level,Revitalizing Lanceshaft,F1,Demigod,B
+MV-ELI-LAN-003-03,Right-Track Cross Cut,Ironride,F5,Demigod,B
+MV-ELI-LAN-003-04,Track-Switch Rein Flick,Granite Momentum,F2,Demigod,B
+MV-ELI-LAN-003-05,Dual-Line Eye Sweep,Remnant Lancehead,F2,Demigod,B
+MV-ELI-LAN-003-06,Track-Echo Piercing Drive,Rumblevamp,F5,Demigod,B
+MV-ELI-LAN-003-07,Rail-Following Haft Brush,Murk Arrestrest,F2,Demigod,B
+MV-ELI-LAN-003-08,Double-Rail Pressing Shove,Bowlmettle,F4,Demigod,B
+MV-ELI-LAN-003-09,Two-Track Splitting Charge,Gnashing Ride,F1,Demigod,B
+MV-ELI-LAN-003-10,Rail-Locked Counter Line,Torrent Coronel,F2,Demigod,B
+MV-ELI-LAN-003-11,Twin Tracks One Impact,Rumble Bowl,F2,Demigod,B
+MV-ELI-LAN-004-01,Azure-Field Breath Settle,Intentvamp,F5,Demigod,B
+MV-ELI-LAN-004-02,Sky-Tinted Aim Hold,Unerring Graper,F1,Demigod,B
+MV-ELI-LAN-004-03,Blue-Edge Point Drive,Ferocious Bowl,F1,Demigod,B
+MV-ELI-LAN-004-04,Field-Edge Haft Block,Evergreen Vamplate,F1,Demigod,B
+MV-ELI-LAN-004-05,Sky-Road Long Stride,Mightvamp,F5,Demigod,B
+MV-ELI-LAN-004-06,Field-Cloaked Point Thrust,Rumbletilt,F5,Demigod,B
+MV-ELI-LAN-004-07,Azure Haft Bloom,Evergreen Bellrest,F1,Demigod,B
+MV-ELI-LAN-004-08,Field-Pressed Rider Shove,Rumble Lanceguard,F2,Demigod,B
+MV-ELI-LAN-004-09,Cloud-Skimming Wheel,Siltvamp,F5,Demigod,B
+MV-ELI-LAN-004-10,Field-Lance Sky Rush,Rumble Impact,F2,Demigod,B
+MV-ELI-LAN-004-11,Hidden Lane Lance Snare,Toxinsaddle,F5,Demigod,B
+MV-ELI-LAN-004-12,Azure Skyfall Lance,Gnashing Blaze Couchrest,F6a,Demigod,B
+MV-ELI-LAN-005-01,River-Run Pacing Hold,Lightning Lancehead,F1,Demigod,B
+MV-ELI-LAN-005-02,Current-Seat Sway,Vitalsaddle,F5,Demigod,B
+MV-ELI-LAN-005-03,Bankside Reach Strike,Impact Reckoning,F3,Demigod,B
+MV-ELI-LAN-005-04,Eddy-Turn Haft Guard,Inexorable Lanceshaft,F1,Demigod,B
+MV-ELI-LAN-005-05,Stream-Eye Sighting,Waning Coronel,F2,Demigod,B
+MV-ELI-LAN-005-06,Run-Fed Lance Thrust,Rumble Graper,F2,Demigod,B
+MV-ELI-LAN-005-07,Undertow Leg-Hook Drag,Mayhem Bowl,F2,Demigod,B
+MV-ELI-LAN-005-08,Ripple-Breaking Ward,Inexorable Counterbalance,F1,Demigod,B
+MV-ELI-LAN-005-09,Rapid-Step Qi Gallop,Lanceguard Slipstream,F3,Demigod,B
+MV-ELI-LAN-005-10,Flood-Rush Lance Charge,Bowlruin,F4,Demigod,B
+MV-ELI-LAN-005-11,Whirlpool Haft Coil,Grapermettle,F4,Demigod,B
+MV-ELI-LAN-005-12,Weir-Held Lance Stand,Aegis Counterbalance,F2,Demigod,B
+MV-ELI-LAN-005-13,Great River Lance Surge,Iron Vamplate,F2,Demigod,B
+MV-ELI-LAN-006-01,Mortal-Peak Seat Mastery,Vital Couchrest,F2,Monarch,B
+MV-ELI-LAN-006-02,Pre-Strike Stillness Hold,Arrestrest Vitality,F3,Monarch,B
+MV-ELI-LAN-006-03,Late-Road Reach Thrust,Decimating Tilt,F1,Monarch,B
+MV-ELI-LAN-006-04,Late-Road Haft Parry,Equipoise Vamplate,F2,Monarch,B
+MV-ELI-LAN-006-05,Full-Reservoir Point Lend,Rumble Shatter,F2,Monarch,B
+MV-ELI-LAN-006-06,Cavalry-Mind Rein Link,Healing Bellrest,F1,Monarch,B
+MV-ELI-LAN-006-07,Mortal-Ceiling Guard Hold,Granite Lanceshaft,F2,Monarch,B
+MV-ELI-LAN-006-08,Last-Mortal Charge,Tilt Wrath,F3,Monarch,B
+MV-ELI-LAN-006-09,Narrowing Rank Press,Shaderide,F5,Monarch,B
+MV-ELI-LAN-006-10,Ceiling-Breaking Lance Thrust,Decimating Hollow Ride,F6a,Monarch,B
+MV-ELI-LAN-007-01,Wind-Sworn Seat Vow,Vitalgraper,F5,Demigod,B
+MV-ELI-LAN-007-02,Plateau-Wind Reading,Remnant Arrestrest,F2,Demigod,B
+MV-ELI-LAN-007-03,Sworn-Point Straight Jab,Ride Scourge,F3,Demigod,B
+MV-ELI-LAN-007-04,Windbreak Haft Turn,Flintlike Couchrest,F1,Demigod,B
+MV-ELI-LAN-007-05,Vow-Weighted Lance Drive,Pitiless Lancehead,F1,Demigod,B
+MV-ELI-LAN-007-06,Gale-Fan Shaft Veil,Unrelenting Coronel,F1,Demigod,B
+MV-ELI-LAN-007-07,Bearing-Held Rein Pull,Mightimpact,F5,Demigod,B
+MV-ELI-LAN-007-08,Sworn Gale Rider's Rush,Granite Tilt,F2,Demigod,B
+MV-ELI-LAN-007-09,Wind-Held Foe Pressing,Shade Counterbalance,F2,Demigod,B
+MV-ELI-LAN-007-10,Oath Fulfilled Gale Thrust,Grievous Ride,F1,Demigod,B
+MV-ELI-LAN-008-01,Plateau-Floor Pace Set,Tilt Whirlpool,F3,Demigod,B
+MV-ELI-LAN-008-02,Oath-Breath Couch,Equipoise Graper,F2,Demigod,B
+MV-ELI-LAN-008-03,Open-Air Reach Strike,Granite Impact,F2,Demigod,B
+MV-ELI-LAN-008-04,Edge-Wind Guard Raise,Vampnerve,F4,Demigod,B
+MV-ELI-LAN-008-05,Horizon Sighting Hold,Veritysaddle,F5,Demigod,B
+MV-ELI-LAN-008-06,Oath-Driven Piercing Run,Bowl Havoc,F3,Demigod,B
+MV-ELI-LAN-008-07,Plateau-Dust Haft Shroud,Facet Lanceguard,F2,Demigod,B
+MV-ELI-LAN-008-08,Sworn-Distance Rein Beat,Equipoise Lanceguard,F2,Demigod,B
+MV-ELI-LAN-008-09,Plateau Oath Rider Strike,Sanguine Momentum,F2,Demigod,B
+MV-ELI-LAN-008-10,Edge-Keeper Haft Bar,Lot Shatter,F2,Demigod,B
+MV-ELI-LAN-008-11,Plateau Oath Kept in Iron,Graperhavoc,F4,Demigod,B
+MV-ELI-LAN-009-01,Bearing-First Seat Hold,Verity Bellrest,F2,Demigod,B
+MV-ELI-LAN-009-02,Charge-Bearing Straight Run,Saddleglare,F4,Demigod,B
+MV-ELI-LAN-009-03,Bearing-Aligned Point Strike,Blaze Bellrest,F2,Demigod,B
+MV-ELI-LAN-009-04,Steady-Bearing Qi Lunge,Berserk Momentum,F1,Demigod,B
+MV-ELI-LAN-009-05,Crosswind Bearing Guard,Gustsaddle,F5,Demigod,B
+MV-ELI-LAN-009-06,Bearing Shift Rein Cut,Dazzling Vamplate,F1,Demigod,B
+MV-ELI-LAN-009-07,Great Charge Bearing Rush,Might Momentum,F2,Demigod,B
+MV-ELI-LAN-009-08,Bearing-Broken Foe Pin,Fastening Coronel,F2,Demigod,B
+MV-ELI-LAN-009-09,Greatest Bearing Lance Fall,Iron Shatter,F2,Demigod,B
+MV-ELI-LAN-010-01,Last-Plateau Edge Pace,Gust Ride,F2,Demigod,B
+MV-ELI-LAN-010-02,Far-Wind Seat Settle,Radiant Lancehead,F1,Demigod,B
+MV-ELI-LAN-010-03,Distant-Mark Reach Jab,Wrathful Tilt,F1,Demigod,B
+MV-ELI-LAN-010-04,Windless-Hollow Haft Guard,Unconquered Arrestrest,F1,Demigod,B
+MV-ELI-LAN-010-05,Lowland Descent Sighting,Beneficent Lanceshaft,F1,Demigod,B
+MV-ELI-LAN-010-06,Descent-Fed Piercing Thrust,Rumble Counterbalance,F2,Demigod,B
+MV-ELI-LAN-010-07,Thin-Air Shaft Ward,Aegis Graper,F2,Demigod,B
+MV-ELI-LAN-010-08,Ridge-Crossing Rein Leap,Impact Rocketry,F3,Demigod,B
+MV-ELI-LAN-010-09,Cliff-Edge Foe Shove,Harnessing Impact,F1,Demigod,B
+MV-ELI-LAN-010-10,Beyond-Plateau Rush,Iron Coronel,F2,Demigod,B
+MV-ELI-LAN-010-11,Trailing Gale Lance Wake,Vampblink,F4,Demigod,B
+MV-ELI-LAN-010-12,Lance That Outran the Plateau,Tiltglimmer,F4,Demigod,B
+MV-ELI-LAN-011-01,Long-Oath Breath Hold,Mightsaddle,F5,Demigod,B
+MV-ELI-LAN-011-02,Oath-Pace Rein Rhythm,Granite Couchrest,F2,Demigod,B
+MV-ELI-LAN-011-03,Oath-Marked Point Strike,Ironsaddle,F5,Demigod,B
+MV-ELI-LAN-011-04,Wind-Sworn Haft Parry,Murk Lanceshaft,F2,Demigod,B
+MV-ELI-LAN-011-05,Sworn-Foe Eye Fix,Verity Lancehead,F2,Demigod,B
+MV-ELI-LAN-011-06,Long-Oath Piercing Surge,Ruinous Bowl,F1,Demigod,B
+MV-ELI-LAN-011-07,Wind-Sworn Haft Barrier,Thornsaddle,F5,Demigod,B
+MV-ELI-LAN-011-08,Oath-Binding Shaft Hook,Toxinvamp,F5,Demigod,B
+MV-ELI-LAN-011-09,Wind-Lent Stride Quicken,Tiltflash,F4,Demigod,B
+MV-ELI-LAN-011-10,Long-Oath Charge,Sanguine Vamplate,F2,Demigod,B
+MV-ELI-LAN-011-11,Oath-Rank Holding Line,Granite Lanceguard,F2,Demigod,B
+MV-ELI-LAN-011-12,Sworn Wind Coil,Ponderous Bowl,F2,Demigod,B
+MV-ELI-LAN-011-13,Oath to the Last Wind,Eviscerating Shatter,F1,Demigod,B
+MV-ELI-LAN-012-01,Late-Road Oath Seat,Intent Arrestrest,F2,Monarch,B
+MV-ELI-LAN-012-02,Mortal-Peak Wind Reading,Verity Couchrest,F2,Monarch,B
+MV-ELI-LAN-012-03,Sworn Reach Strike,Rumble Bellrest,F2,Monarch,B
+MV-ELI-LAN-012-04,Oath Haft Fend,Murkgraper,F5,Monarch,B
+MV-ELI-LAN-012-05,Last-Mortal Pace Hold,Ghosting Tilt,F1,Monarch,B
+MV-ELI-LAN-012-06,Reservoir-Lent Oath Thrust,Unsparing Ride,F1,Monarch,B
+MV-ELI-LAN-012-07,Wind-Barred Haft Guard,Unconquered Coronel,F1,Monarch,B
+MV-ELI-LAN-012-08,Sworn Rein Qi Link,Revitalizing Counterbalance,F1,Monarch,B
+MV-ELI-LAN-012-09,Final-Mortal Oath Rush,Tempered Vamplate,F2,Monarch,B
+MV-ELI-LAN-012-10,Breath-Held Line Press,Strangling Lanceshaft,F1,Monarch,B
+MV-ELI-LAN-012-11,Oath at the Mortal Ceiling,Booming Hollow Momentum,F6a,Monarch,B
+MV-ELI-LAN-006-10,Decimating Hollow Ride,Decimating Ride,F6a,Monarch,B
+MV-ELI-LAN-012-11,Booming Hollow Momentum,Booming Momentum,F6a,Monarch,B

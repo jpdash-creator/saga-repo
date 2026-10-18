@@ -1,0 +1,122 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-JAV-001-01,Pair-Guard Court Opening Hold,Impenetrable Dartcap,F1,Demigod L1 Low,B
+MV-ELI-JAV-001-02,Left-Right Alternate Hurl,Launchruin,F4,Demigod L1 Low,B
+MV-ELI-JAV-001-03,Mirrored Foot Pairing,Fletchvortex,F4,Demigod L1 Low,B
+MV-ELI-JAV-001-04,Heartbeat Echo Cast,Hoarfrost Launch,F2,Demigod L1 Low,B
+MV-ELI-JAV-001-05,Mirror-Blade Catch and Return,Equipoise Lightshaft,F2,Demigod L1 Low,B
+MV-ELI-JAV-001-06,Both-Points Numbing Hush,Launchmettle,F4,Demigod L1 Low,B
+MV-ELI-JAV-001-07,Opposite-Side Converging Volley,Devastating Loft,F1,Demigod L1 Low,B
+MV-ELI-JAV-001-08,Bound-Pair Thrust-Cast-Catch,Confluent Dart,F1,Demigod L1 Low,B
+MV-ELI-JAV-001-09,Two-Mark Judgement Throw,Titanic Facet Dropdive,F6a,Demigod L1 Low,B
+MV-ELI-JAV-002-01,Hawk-Eye Far Sighting,Fletchrespite,F4,Demigod L2 Mid,B
+MV-ELI-JAV-002-02,Hover-Held Aiming Pause,Barbedinsight,F4,Demigod L2 Mid,B
+MV-ELI-JAV-002-03,Pounce-Step Closing Leap,Meteoric Dartpoint,F1,Demigod L2 Mid,B
+MV-ELI-JAV-002-04,Wing-Arm Spread Cast,Fletchwrath,F4,Demigod L2 Mid,B
+MV-ELI-JAV-002-05,Reach-Lengthening Qi Arm,Daybreak Tailweight,F2,Demigod L2 Mid,B
+MV-ELI-JAV-002-06,Stoop-Angle Descent Throw,Iron Skewerflight,F2,Demigod L2 Mid,B
+MV-ELI-JAV-002-07,Feather-Light Shaft Steering,Leadwrath,F4,Demigod L2 Mid,B
+MV-ELI-JAV-002-08,Hawk's Reach Long Pierce,Facet Whistle,F2,Demigod L2 Mid,B
+MV-ELI-JAV-002-09,Rising-Air Overhead Volley,Booming Dartcap,F1,Demigod L2 Mid,B
+MV-ELI-JAV-002-10,Shadow-Before-the-Point Throw,Wrathful Tempered Launch,F6a,Demigod L2 Mid,B
+MV-ELI-JAV-003-01,Basin-Curve Arm Arc,Barbedscourge,F4,Demigod L3 Low,B
+MV-ELI-JAV-003-02,Still-Water Stance Hold,Aegis Pointbalance,F2,Demigod L3 Low,B
+MV-ELI-JAV-003-03,Rim-Edge Sliding Pace,Dazzling Whistle,F1,Demigod L3 Low,B
+MV-ELI-JAV-003-04,Pooling Qi Draw,Vital Throwloop,F2,Demigod L3 Low,B
+MV-ELI-JAV-003-05,Ripple-Spreading Shaft Cast,Rumble Skewerflight,F2,Demigod L3 Low,B
+MV-ELI-JAV-003-06,Water-Surface Skip Throw,Dartruin,F4,Demigod L3 Low,B
+MV-ELI-JAV-003-07,Basin-Overflowing Burst Throw,Downpour Dropdive,F2,Demigod L3 Low,B
+MV-ELI-JAV-003-08,Tide-Turning Counter Cast,Chime Thinheft,F2,Demigod L3 Low,B
+MV-ELI-JAV-003-09,Falling-Water Basin Throw,Glint Launch,F2,Demigod L3 Low,B
+MV-ELI-JAV-004-01,Bank-Edge Toe Set,Lightning Fletch,F1,Demigod L4 High,B
+MV-ELI-JAV-004-02,Across-Water Reach Throw,Loftwrath,F4,Demigod L4 High,B
+MV-ELI-JAV-004-03,Ford-Wading Low Step,Torrent Dartpoint,F2,Demigod L4 High,B
+MV-ELI-JAV-004-04,Reed-Bed Cover Crouch,Fletchspine,F4,Demigod L4 High,B
+MV-ELI-JAV-004-05,Far-Bank Mark Reading,Remnant Lightshaft,F2,Demigod L4 High,B
+MV-ELI-JAV-004-06,River-Spanning Qi Cast,Hoarfrost Dropdive,F2,Demigod L4 High,B
+MV-ELI-JAV-004-07,Current-Cancelling Wrist Turn,Unerring Pointbalance,F1,Demigod L4 High,B
+MV-ELI-JAV-004-08,Two-Bank Echo Throw,Plumehavoc,F4,Demigod L4 High,B
+MV-ELI-JAV-004-09,Midstream Interception Cast,Murk Dartcap,F2,Demigod L4 High,B
+MV-ELI-JAV-004-10,Bank-to-Bank Rolling Volley,Dartscourge,F4,Demigod L4 High,B
+MV-ELI-JAV-004-11,Crossing-Stopped Single Cast,Nova Whistle,F2,Demigod L4 High,B
+MV-ELI-JAV-005-01,Paired-Release Opening Throw,Wrathful Dart,F1,Demigod L6 Mid,B
+MV-ELI-JAV-005-02,Off-Hand Companion Lead,Loftruin,F4,Demigod L6 Mid,B
+MV-ELI-JAV-005-03,Even-Spacing Release Count,Plumeinsight,F4,Demigod L6 Mid,B
+MV-ELI-JAV-005-04,Tandem Run Stride,Launchblink,F4,Demigod L6 Mid,B
+MV-ELI-JAV-005-05,Matched-Weight Shaft Choosing,Fletchinsight,F4,Demigod L6 Mid,B
+MV-ELI-JAV-005-06,Pair-Binding Qi Thread,Intent Leadknob,F2,Demigod L6 Mid,B
+MV-ELI-JAV-005-07,Leader-Follower Flight Cast,Blaze Dropdive,F2,Demigod L6 Mid,B
+MV-ELI-JAV-005-08,Split-Path Paired Throw,Launchhavoc,F4,Demigod L6 Mid,B
+MV-ELI-JAV-005-09,Held-Pair Guard Wheel,Gust Dartpoint,F2,Demigod L6 Mid,B
+MV-ELI-JAV-005-10,Flight-Pair Pincer Cast,Rampaging Whistle,F1,Demigod L6 Mid,B
+MV-ELI-JAV-005-11,Crossing-Flight Guard Breaker,Rumble Throwloop,F2,Demigod L6 Mid,B
+MV-ELI-JAV-005-12,Second-Into-First-Wound Throw,Vengeful Rumble Launch,F6a,Demigod L6 Mid,B
+MV-ELI-JAV-006-01,High-Ground Seeking Climb,Torrential Lightshaft,F1,Demigod L8 Low,B
+MV-ELI-JAV-006-02,Overhead Cover Hold,Hoarfrost Dartcap,F2,Demigod L8 Low,B
+MV-ELI-JAV-006-03,Downward Plunge Aiming,Waning Pointbalance,F2,Demigod L8 Low,B
+MV-ELI-JAV-006-04,Stoop-Answering Rising Cast,Launchscourge,F4,Demigod L8 Low,B
+MV-ELI-JAV-006-05,Falling-Foe Pinning Throw,Tempered Skewerflight,F2,Demigod L8 Low,B
+MV-ELI-JAV-006-06,Azure Lift Under-Arm,Equipoise Leadknob,F2,Demigod L8 Low,B
+MV-ELI-JAV-006-07,Sky-Cleaving Upward Spear Throw,Gnashing Dart,F1,Demigod L8 Low,B
+MV-ELI-JAV-006-08,Dive-Breaking Counter Wheel,Unbowed Tailweight,F1,Demigod L8 Low,B
+MV-ELI-JAV-006-09,Falling-Hawk Unseating Throw,Nova Loft,F2,Demigod L8 Low,B
+MV-ELI-JAV-007-01,Far-Bearing Sight Taking,Barbedvigil,F4,Demigod L1 Mid,B
+MV-ELI-JAV-007-02,Oath-Sworn Draw Stance,Flintlike Lightshaft,F1,Demigod L1 Mid,B
+MV-ELI-JAV-007-03,Wind-Cheek Turning Read,Verity Thinheft,F2,Demigod L1 Mid,B
+MV-ELI-JAV-007-04,Plateau Closing Long-Stride,Leadflash,F4,Demigod L1 Mid,B
+MV-ELI-JAV-007-05,Bearing-Locked Qi Throw,Darthavoc,F4,Demigod L1 Mid,B
+MV-ELI-JAV-007-06,Sworn-Line Straight Flight,Grievous Whistle,F1,Demigod L1 Mid,B
+MV-ELI-JAV-007-07,Spoken-Word Release Cast,Ferocious Dropdive,F1,Demigod L1 Mid,B
+MV-ELI-JAV-007-08,Far-Bearing Unbroken Cast,Merciless Launch,F1,Demigod L1 Mid,B
+MV-ELI-JAV-007-09,Oath-Anchored Reversal Guard,Unconquered Dartpoint,F1,Demigod L1 Mid,B
+MV-ELI-JAV-007-10,Oath-Fulfilled Throw,Iron Launch,F2,Demigod L1 Mid,B
+MV-ELI-JAV-008-01,Plateau-Surface Grip Stance,Granite Throwloop,F2,Demigod L2 High,B
+MV-ELI-JAV-008-02,Gale-Facing Lean Throw,Gust Dartcap,F2,Demigod L2 High,B
+MV-ELI-JAV-008-03,Rough-Ground Quick Step,Plumeglare,F4,Demigod L2 High,B
+MV-ELI-JAV-008-04,Gale-Gathering Arm Swing,Might Leadknob,F2,Demigod L2 High,B
+MV-ELI-JAV-008-05,Plateau-Echo Return Throw,Hoarfrost Whistle,F2,Demigod L2 High,B
+MV-ELI-JAV-008-06,Gust-Lifted Overhand Cast,Dartwrath,F4,Demigod L2 High,B
+MV-ELI-JAV-008-07,Gale-Spear Straight Drive,Glint Dropdive,F2,Demigod L2 High,B
+MV-ELI-JAV-008-08,Plateau-Wide Sweeping Volley,Slag Whistle,F2,Demigod L2 High,B
+MV-ELI-JAV-008-09,Plateau Spear-Fall,Nova Skewerflight,F2,Demigod L2 High,B
+MV-ELI-JAV-009-01,Following-Wind Stance,Chime Fletch,F2,Demigod L4 Low,B
+MV-ELI-JAV-009-02,Wind-Sworn Overhand Release,Facet Launch,F2,Demigod L4 Low,B
+MV-ELI-JAV-009-03,Gust-Counting Pause,Leadinsight,F4,Demigod L4 Low,B
+MV-ELI-JAV-009-04,Lee-Side Crouch Shelter,Thorn Lightshaft,F2,Demigod L4 Low,B
+MV-ELI-JAV-009-05,Wind-Following Run,Silt Dartcap,F2,Demigod L4 Low,B
+MV-ELI-JAV-009-06,Riding-Wind Qi Carry,Fletchhavoc,F4,Demigod L4 Low,B
+MV-ELI-JAV-009-07,Beyond-Sight Blind Cast,Rampaging Dart,F1,Demigod L4 Low,B
+MV-ELI-JAV-009-08,Gust-Reading Mid-Flight Nudge,Plumerespite,F4,Demigod L4 Low,B
+MV-ELI-JAV-009-09,Long-Cast Swell Throw,Rumble Loft,F2,Demigod L4 Low,B
+MV-ELI-JAV-009-10,Wind-Sworn Hailing Volley,Mayhem Dropdive,F2,Demigod L4 Low,B
+MV-ELI-JAV-009-11,Horizon-Reaching Sworn Throw,Tempered Whistle,F2,Demigod L4 Low,B
+MV-ELI-JAV-010-01,Bearing-Taking Shoulder Turn,Plumevigil,F4,Demigod L5 Mid,B
+MV-ELI-JAV-010-02,Oath-Spoken Draw Back,Leadscourge,F4,Demigod L5 Mid,B
+MV-ELI-JAV-010-03,Bearing-Kept Forward Walk,Might Dartpoint,F2,Demigod L5 Mid,B
+MV-ELI-JAV-010-04,Oath-Sealed Shaft Binding,Daybreak Thinheft,F2,Demigod L5 Mid,B
+MV-ELI-JAV-010-05,Second-Throw Bearing Amend,Eviscerating Dart,F1,Demigod L5 Mid,B
+MV-ELI-JAV-010-06,Oath-Stopped Pursuit Cast,Ponderous Throwloop,F2,Demigod L5 Mid,B
+MV-ELI-JAV-010-07,Bearing-and-Oath Joined Cast,Shattering Launch,F1,Demigod L5 Mid,B
+MV-ELI-JAV-010-08,Broken-Oath Retribution Thrust,Sanguine Leadknob,F2,Demigod L5 Mid,B
+MV-ELI-JAV-010-09,Thrown Shaft That Keeps the Word,Glint Dartpoint,F2,Demigod L5 Mid,B
+MV-ELI-JAV-011-01,Storm-Edge Reading Glance,Chime Tailweight,F2,Demigod L7 High,B
+MV-ELI-JAV-011-02,Rain-Curtain Crouch Run,Barbedglimmer,F4,Demigod L7 High,B
+MV-ELI-JAV-011-03,Gust-Gap Quick Cast,Blaze Skewerflight,F2,Demigod L7 High,B
+MV-ELI-JAV-011-04,Wet-Grip Cord Wrap,Leadrespite,F4,Demigod L7 High,B
+MV-ELI-JAV-011-05,Thunder-Beat Throw Cue,Loftscourge,F4,Demigod L7 High,B
+MV-ELI-JAV-011-06,Storm-Bound Qi Armour,Barbednerve,F4,Demigod L7 High,B
+MV-ELI-JAV-011-07,Cloud-Shadow Hiding Step,Torrent Whistle,F2,Demigod L7 High,B
+MV-ELI-JAV-011-08,Squall-Driven Flat Hurl,Punishing Dart,F1,Demigod L7 High,B
+MV-ELI-JAV-011-09,Storm-Front Counter Whirl,Murk Lightshaft,F2,Demigod L7 High,B
+MV-ELI-JAV-011-10,Edge-Running Skirmish Chain,Overlapping Launch,F1,Demigod L7 High,B
+MV-ELI-JAV-011-11,Hail-Voiced Piercing Volley,Granite Loft,F2,Demigod L7 High,B
+MV-ELI-JAV-011-12,Lightning-Lit Single Throw,Rumble Dartpoint,F2,Demigod L7 High,B
+MV-ELI-JAV-012-01,No-Cover Standing Guard,Impervious Pointbalance,F1,Demigod L9 Low,B
+MV-ELI-JAV-012-02,Every-Throw-Counts Pause,Verity Leadknob,F2,Demigod L9 Low,B
+MV-ELI-JAV-012-03,Open-Ground Straight Charge,Lightning Dart,F1,Demigod L9 Low,B
+MV-ELI-JAV-012-04,Plateau-Lip Footing Check,Gust Throwloop,F2,Demigod L9 Low,B
+MV-ELI-JAV-012-05,Wide-Open Bearing Hold,Remnant Dartpoint,F2,Demigod L9 Low,B
+MV-ELI-JAV-012-06,Last-Shaft Qi Concentration,Energizing Thinheft,F1,Demigod L9 Low,B
+MV-ELI-JAV-012-07,Pursuit-Breaking Backward Cast,Unsparing Whistle,F1,Demigod L9 Low,B
+MV-ELI-JAV-012-08,No-Retreat Braced Throw,Blaze Loft,F2,Demigod L9 Low,B
+MV-ELI-JAV-012-09,Open-Plateau Charge-Breaker,Adamantine Tailweight,F1,Demigod L9 Low,B
+MV-ELI-JAV-012-10,Final-Shaft Open-Plateau Throw,Iron Dropdive,F2,Demigod L9 Low,B

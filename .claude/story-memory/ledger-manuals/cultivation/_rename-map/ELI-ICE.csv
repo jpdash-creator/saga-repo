@@ -1,0 +1,6 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ELI-ICE-007-02,Line Strike,Bearing Stroke,INSTANT,Warrior L1 Low,Basic
+CMV-ELI-ICE-008-01,Oath Lock,Vow Lock,CHANNELED,Warrior L1 Low,Basic
+CMV-ELI-ICE-008-07,Oathgrip,Vow Grip,CHANNELED,Champion L1 Low,Advanced
+CMV-ELI-ICE-010-02,Ground Chill,Sole Chill,INSTANT,,Basic
+CMV-ELI-ICE-010-08,Ground Lock,Soil Lock,CHANNELED,,Intermediate

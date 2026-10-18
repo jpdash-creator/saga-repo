@@ -1,0 +1,15 @@
+{
+ "skill_id": "ssc-narration-p35-relationship-retired-cdl-1-framework",
+ "part": 35,
+ "area": 6,
+ "sequence_in_part": 6,
+ "title": "Relationship to Retired CDL-1 Framework",
+ "domain": "narration",
+ "source_file": "Part_35_Content_Density_Law_CDL2.md",
+ "start_line": 467,
+ "end_line": 484,
+ "line_count": 18,
+ "output_path": ".claude/skills/ssc-narration-p35-relationship-retired-cdl-1-framework/SKILL.md",
+ "has_stale_python_block": false,
+ "related": []
+}

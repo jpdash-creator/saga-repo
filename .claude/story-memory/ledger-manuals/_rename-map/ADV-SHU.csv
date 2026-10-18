@@ -1,0 +1,102 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-SHU-001-01,Laden Star Straight Release,Grinding Spray,F1,Champion L1 Low,B
+MV-ADV-SHU-001-02,Fingertip Qi Gauge,Chime Spoke,F2,Champion L1 Low,B
+MV-ADV-SHU-001-03,Weighted Spoke Hooking Pull,Sanguine Thinplate,F2,Champion L1 Low,B
+MV-ADV-SHU-001-04,Short Retreat on the Heels,Blurring Rimpoint,F1,Champion L1 Low,B
+MV-ADV-SHU-001-05,Laden Star Armor Seam Throw,Tempered Sprinkle,F2,Champion L1 Low,B
+MV-ADV-SHU-001-06,Qi Cushion Guard Turn,Gust Tippoint,F2,Champion L1 Low,B
+MV-ADV-SHU-001-07,Laden Rising Throw at the Balcony,Lancing Hub,F1,Champion L1 Low,B
+MV-ADV-SHU-001-08,Qi Weighted Star Through Plank,Glinthub,F5,Champion L1 Low,B
+MV-ADV-SHU-001-09,Gathered Qi Long Throw,Toothassault,F4,Champion L1 Low,B
+MV-ADV-SHU-002-01,Flying Star Level Pass,Hubtorment,F4,Demigod L1 Low,B
+MV-ADV-SHU-002-02,Star Flight Eye Tracking,Expanse Flatpoint,F2,Demigod L1 Low,B
+MV-ADV-SHU-002-03,Cross-Body Backhand Release,Gust Whiz,F2,Demigod L1 Low,B
+MV-ADV-SHU-002-04,Spoke Edge Wrist Cut,Gusthub,F5,Demigod L1 Low,B
+MV-ADV-SHU-002-05,Planted Pivot Dodge,Cornerpoint Jaunt,F3,Demigod L1 Low,B
+MV-ADV-SHU-002-06,Field-Steered Star Flight,Glint Peppering,F2,Demigod L1 Low,B
+MV-ADV-SHU-002-07,Spoke Hook Through a Shield Rim,Toothplating,F4,Demigod L1 Low,B
+MV-ADV-SHU-002-08,Skimming Star Along a Wall,Hoarfrost Centerhole,F2,Demigod L1 Low,B
+MV-ADV-SHU-002-09,Scattered Stars Through the Field,Downpour Bladeface,F2,Demigod L1 Low,B
+MV-ADV-SHU-002-10,Unbroken Chain of Field Stars,Hailassault,F4,Demigod L1 Low,B
+MV-ADV-SHU-003-01,Plate Edge Seam Throw,Lambasting Hail,F1,Champion L4 Low,B
+MV-ADV-SHU-003-02,Hammerhead Star Drop Throw,Hubthrash,F4,Champion L4 Low,B
+MV-ADV-SHU-003-03,Spoke Wedge Under a Pauldron,Gust Bladeface,F2,Champion L4 Low,B
+MV-ADV-SHU-003-04,Stepping Inside the Halberd Arc,Scatter Canter,F3,Champion L4 Low,B
+MV-ADV-SHU-003-05,Qi-Spiked Point Against Plate,Iron Hail,F2,Champion L4 Low,B
+MV-ADV-SHU-003-06,Second Star on the Dent,Hourwhiz,F5,Champion L4 Low,B
+MV-ADV-SHU-003-07,Plate Splitting Star Hurl,Hollowspray,F5,Champion L4 Low,B
+MV-ADV-SHU-003-08,Shattering Rivet Throw,Lancing Thinplate,F1,Champion L4 Low,B
+MV-ADV-SHU-004-01,Volley Opening Flick,Raging Peppering,F1,Demigod L2 Low,B
+MV-ADV-SHU-004-02,Volley Relay Between Hands,Facet Hub,F2,Demigod L2 Low,B
+MV-ADV-SHU-004-03,Left-Handed Backhand Fling,Blazespray,F5,Demigod L2 Low,B
+MV-ADV-SHU-004-04,Spoke Rake Past the Guard,Gusttooth,F5,Demigod L2 Low,B
+MV-ADV-SHU-004-05,Volley Counting Breath,Sustaining Cornerpoint,F1,Demigod L2 Low,B
+MV-ADV-SHU-004-06,Footwork Fan Retreat,Gust Edgeface,F2,Demigod L2 Low,B
+MV-ADV-SHU-004-07,Rolling Volley Across a Line,Ponderous Tippoint,F2,Demigod L2 Low,B
+MV-ADV-SHU-004-08,Staggered Height Volley,Hour Sprinkle,F2,Demigod L2 Low,B
+MV-ADV-SHU-004-09,Pinning Volley Over a Retreat,Ponderous Spoke,F2,Demigod L2 Low,B
+MV-ADV-SHU-004-10,Curtain of Falling Stars,Mayhem Flatpoint,F2,Demigod L2 Low,B
+MV-ADV-SHU-004-11,Long Sustained Volley Rhythm,Intent Edgeface,F2,Demigod L2 Low,B
+MV-ADV-SHU-005-01,Dual-Track Opening Throw,Rumblehail,F5,Champion L6 Low,B
+MV-ADV-SHU-005-02,Left-and-Right Track Release,Rumble Spray,F2,Champion L6 Low,B
+MV-ADV-SHU-005-03,Azure Wrist Flick,Ravaging Sprinkle,F1,Champion L6 Low,B
+MV-ADV-SHU-005-04,Paired Spoke Rake,Ironspray,F5,Champion L6 Low,B
+MV-ADV-SHU-005-05,River Step Sidling,Scatter Sprint,F3,Champion L6 Low,B
+MV-ADV-SHU-005-06,Basin-Low Sighting Stance,Bladeface Tincture,F3,Champion L6 Low,B
+MV-ADV-SHU-005-07,Twin Star Hawk Release,Tooththrash,F4,Champion L6 Low,B
+MV-ADV-SHU-005-08,Falling Hawk Overhead Throw,Ravaging Whiz,F1,Champion L6 Low,B
+MV-ADV-SHU-005-09,River Bend Curving Flight,Facet Flatpoint,F2,Champion L6 Low,B
+MV-ADV-SHU-005-10,Paired Hands Guard Cross,Unflinching Edgeface,F1,Champion L6 Low,B
+MV-ADV-SHU-005-11,Twin-Court Crossing Stars,Gust Hail,F2,Champion L6 Low,B
+MV-ADV-SHU-005-12,Azure Basin Star Rain,Slag Cornerpoint,F2,Champion L6 Low,B
+MV-ADV-SHU-006-01,Hawk-Eye Level Throw,Glint Rimpoint,F2,Demigod L1 Low,B
+MV-ADV-SHU-006-02,High Sky Sighting Breath,Expanse Tippoint,F2,Demigod L1 Low,B
+MV-ADV-SHU-006-03,Talon Spoke Grasp,Whiztorment,F4,Demigod L1 Low,B
+MV-ADV-SHU-006-04,Hover Step and Settle,Racing Whiz,F1,Demigod L1 Low,B
+MV-ADV-SHU-006-05,Hawk Dive Star Drop,Facet Peppering,F2,Demigod L1 Low,B
+MV-ADV-SHU-006-06,Twin Talon Spoke Pierce,Tempered Spoke,F2,Demigod L1 Low,B
+MV-ADV-SHU-006-07,Circling Hawk Star Pass,Unmaking Centerhole,F1,Demigod L1 Low,B
+MV-ADV-SHU-006-08,Stooping Hawk Star Descent,Tearing Hub Barrage,F6b,Demigod L1 Low,B
+MV-ADV-SHU-006-09,Hawk-Pair Crossing Descent,Glinthail,F5,Demigod L1 Low,B
+MV-ADV-SHU-007-01,Basin Rim Level Release,Facetwhiz,F5,Demigod L3 Low,B
+MV-ADV-SHU-007-02,River Current Wrist Roll Throw,Blaze Centerhole,F2,Demigod L3 Low,B
+MV-ADV-SHU-007-03,Azure Edge Palm Cut,Granite Rimpoint,F2,Demigod L3 Low,B
+MV-ADV-SHU-007-04,Paired Hand Fan Draw,Grinding Spoke,F1,Demigod L3 Low,B
+MV-ADV-SHU-007-05,River-Quiet Breath Count,Chime Thinplate,F2,Demigod L3 Low,B
+MV-ADV-SHU-007-06,Meeting Streams Crossing Throw,Chimehail,F5,Demigod L3 Low,B
+MV-ADV-SHU-007-07,River Ford Shifting Step,Mighthub,F5,Demigod L3 Low,B
+MV-ADV-SHU-007-08,Basin Guard of Two Stars,Charter Thinplate,F2,Demigod L3 Low,B
+MV-ADV-SHU-007-09,Flood Tide Star Sweep,Scorching Scatter,F1,Demigod L3 Low,B
+MV-ADV-SHU-007-10,Azure Snare Scatter,Spokecloak,F4,Demigod L3 Low,B
+MV-ADV-SHU-008-01,Wind-Sworn Star Release,Nova Tippoint,F2,Champion L8 Low,B
+MV-ADV-SHU-008-02,Plateau Edge Stance Throw,Blazehail,F5,Champion L8 Low,B
+MV-ADV-SHU-008-03,Gale Spoke Hooking Slash,Spraythrash,F4,Champion L8 Low,B
+MV-ADV-SHU-008-04,Bearing Check Sighting,Waningspoke,F5,Champion L8 Low,B
+MV-ADV-SHU-008-05,Wind Reading Curved Flight,Harpooning Hub,F1,Champion L8 Low,B
+MV-ADV-SHU-008-06,Crosswind Sidestep Throw,Centerhole Leap,F3,Champion L8 Low,B
+MV-ADV-SHU-008-07,Gale Lane Star Throw,Glint Bladeface,F2,Champion L8 Low,B
+MV-ADV-SHU-008-08,Oath-Kept Tailwind Volley,Shade Flatpoint,F2,Champion L8 Low,B
+MV-ADV-SHU-009-01,Plateau Edge Skim Throw,Scalding Whiz,F1,Ruler L1 Low,B
+MV-ADV-SHU-009-02,Open Sky Flat Release,Rumble Cornerpoint,F2,Ruler L1 Low,B
+MV-ADV-SHU-009-03,Wind Torn Spoke Rake,Sanguine Sprinkle,F2,Ruler L1 Low,B
+MV-ADV-SHU-009-04,Standing Bearing Hold,Expanse Rimpoint,F2,Ruler L1 Low,B
+MV-ADV-SHU-009-05,Gust Step Slide,Silt Peppering,F2,Ruler L1 Low,B
+MV-ADV-SHU-009-06,Cliff Edge Backstep,Siltspoke,F5,Ruler L1 Low,B
+MV-ADV-SHU-009-07,Updraft Lofted Star Throw,Blaze Edgeface,F2,Ruler L1 Low,B
+MV-ADV-SHU-009-08,Crosswind Hooking Throw,Rupturing Hub,F1,Ruler L1 Low,B
+MV-ADV-SHU-009-09,Wind Break Guard Turn,Implacable Rimpoint,F1,Ruler L1 Low,B
+MV-ADV-SHU-009-10,Gale Rake Across the Plateau,Spray Assault,F3,Ruler L1 Low,B
+MV-ADV-SHU-009-11,Cutting Wind Star Line,Raging Spray,F1,Ruler L1 Low,B
+MV-ADV-SHU-010-01,Held Bearing Level Throw,Hail Thrash,F3,Demigod L2 Low,B
+MV-ADV-SHU-010-02,Gale Wrist Whip Release,Facet Scatter,F2,Demigod L2 Low,B
+MV-ADV-SHU-010-03,Oath Spoke Draw Cut,Granite Peppering,F2,Demigod L2 Low,B
+MV-ADV-SHU-010-04,Wind Pace Shifting Step,Edgeface Pounce,F3,Demigod L2 Low,B
+MV-ADV-SHU-010-05,Gale Bent Flight at Range,Unmaking Bladeface,F1,Demigod L2 Low,B
+MV-ADV-SHU-010-06,Oath-Fast Star Pin,Staggering Hail,F1,Demigod L2 Low,B
+MV-ADV-SHU-010-07,Open Plateau Scatter Throw,Shade Thinplate,F2,Demigod L2 Low,B
+MV-ADV-SHU-010-08,Wind-Sworn Star Storm,Grinding Flatpoint,F1,Demigod L2 Low,B
+MV-ADV-SHU-010-09,Standing Gale Guard of Stars,Granite Tippoint,F2,Demigod L2 Low,B
+MV-ADV-SHU-002-02,Expanse Flatpoint,Keen Flatpoint,F2,Demigod L1 Low,B
+MV-ADV-SHU-006-02,Expanse Tippoint,Measured Tippoint,F2,Demigod L1 Low,B
+MV-ADV-SHU-006-08,Tearing Hub Barrage,Tearing Hub,F6b,Demigod L1 Low,B
+MV-ADV-SHU-009-04,Expanse Rimpoint,Exacting Rimpoint,F2,Ruler L1 Low,B

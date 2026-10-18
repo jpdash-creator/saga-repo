@@ -1,0 +1,5 @@
+move_id,old_name,new_name,function
+CMV-CAT-VOD-001-12,Hollow Heaven,Voided Heaven,Control:Suppress;Defense:Nullify
+CMV-CAT-VOD-002-10,Sea Swallow,Swallowing Void,Defense:Absorb
+CMV-CAT-VOD-002-12,Unmaking Sea,Unmaking Tide,Attack:Area;Control:Suppress
+CMV-CAT-VOD-001-09,Hollowheaven Rend,Emptying Rend,CAST,,Elite

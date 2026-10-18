@@ -1,0 +1,137 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-HAX-001-01,Pair-Hawk Guard Pose,Bedrock Cheek,F2,Warrior L1 Low,B
+MV-SIG-HAX-001-02,High-Low Paired Chop,Bitedict,F4,Warrior L1 Low,B
+MV-SIG-HAX-001-03,Matched Landing Step,Heelsolace,F4,Warrior L1 Low,B
+MV-SIG-HAX-001-04,Pair-Hawk Edge Cut,Beardcrown,F4,Warrior L1 Low,B
+MV-SIG-HAX-001-05,Paired Talon Hook,Thrall Toe,F2,Warrior L1 Low,B
+MV-SIG-HAX-001-06,Wing-Pair Parry,Squall Handlenub,F2,Warrior L1 Low,B
+MV-SIG-HAX-001-07,Hawk-Pair Cascade,Choral Chock,F1,Champion L1 Low,B
+MV-SIG-HAX-001-08,Pair-Stoop Breaker,Prismhelve,F5,Champion L1 Low,B
+MV-SIG-HAX-001-09,Matched Wing Severance,Illustrious Eye,F1,Demigod L1 Low,B
+MV-SIG-HAX-001-10,Hawk's Pair Descending Cross,Peerless Quenched Poll,F6a,Warrior L1 Low,B
+MV-SIG-HAX-002-01,Calm Palm Hip Guard,Revered Beard,F1,Warrior L6 Low,B
+MV-SIG-HAX-002-02,Dividing-Stream Chop,Pollbanner,F4,Warrior L6 Low,B
+MV-SIG-HAX-002-03,Bar-Shoal Step,Cheekboon,F4,Warrior L6 Low,B
+MV-SIG-HAX-002-04,Stream-Split Edge Cut,Helvedecree,F4,Warrior L6 Low,B
+MV-SIG-HAX-002-05,Eddy-Court Parry,Peal Eye,F2,Warrior L6 Low,B
+MV-SIG-HAX-002-06,Back-Current Hook,Unbending Billet,F1,Warrior L6 Low,B
+MV-SIG-HAX-002-07,Court-Bank Rap,Venomkerf,F5,Warrior L6 Low,B
+MV-SIG-HAX-002-08,Twin-Stream Sequence,Orchestral Fell,F1,Champion L1 Low,B
+MV-SIG-HAX-002-09,River-Fork Sweep,Magmapoll,F5,Champion L1 Low,B
+MV-SIG-HAX-002-10,Court-Confluence Stroke,Exalted Cheek,F1,Demigod L1 Low,B
+MV-SIG-HAX-002-11,River Dividing Round Cut,Heroic Thunderclap Toe,F6a,Warrior L6 Low,B
+MV-SIG-HAX-003-01,Inheritor's Ready Hang,Sacrosanct Haftswell,F1,Champion L3 Mid,B
+MV-SIG-HAX-003-02,Furrow Leg Chop,Heeldecree,F4,Champion L3 Mid,B
+MV-SIG-HAX-003-03,Silted-Ground Step,Windborne Toe,F1,Champion L3 Mid,B
+MV-SIG-HAX-003-04,Terrace Rap,Bitpledge,F4,Champion L3 Mid,B
+MV-SIG-HAX-003-05,Terraced Qi Cut,Chockbanner,F4,Champion L3 Mid,B
+MV-SIG-HAX-003-06,Heirloom Parry,Deluge Poll,F2,Champion L3 Mid,B
+MV-SIG-HAX-003-07,Low-Basin Hook Drag,Hornbeam Beard,F2,Champion L3 Mid,B
+MV-SIG-HAX-003-08,Rim-to-Floor Retreat,Spectral Fell,F1,Champion L3 Mid,B
+MV-SIG-HAX-003-09,Inherited Cascade,Symphonic Eye,F1,Champion L3 Mid,B
+MV-SIG-HAX-003-10,Basin-Rim Breaker,Radiance Billet,F2,Champion L3 Mid,B
+MV-SIG-HAX-003-11,Inheritance Silent Stroke,Gallant Kerf,F1,Demigod L1 Low,B
+MV-SIG-HAX-003-12,Basin Handing-Down Cut,Majestic Steel Heel,F6a,Champion L3 Mid,B
+MV-SIG-HAX-004-01,Court Doctrine Guard,Devout Cheek,F1,Ruler L1 Mid,B
+MV-SIG-HAX-004-02,Azure Straight Chop,Billetedict,F4,Ruler L1 Mid,B
+MV-SIG-HAX-004-03,Courtyard Pace,Pollgrace,F4,Ruler L1 Mid,B
+MV-SIG-HAX-004-04,Court-Line Qi Cut,Intrepid Splinter,F1,Ruler L1 Mid,B
+MV-SIG-HAX-004-05,Azure Turning Parry,Pall Handlenub,F2,Ruler L1 Mid,B
+MV-SIG-HAX-004-06,Doctrinal Hook,Entropy Eye,F2,Ruler L1 Mid,B
+MV-SIG-HAX-004-07,Azure Court Sequence,Harmonious Helve,F1,Ruler L1 Mid,B
+MV-SIG-HAX-004-08,Court Pillar Breaker,Quenched Axehew,F2,Ruler L1 Mid,B
+MV-SIG-HAX-004-09,Azure Verdict Stroke,Fearless Toe,F1,Demigod L1 Low,B
+MV-SIG-HAX-004-10,Court Decree Cut,Dauntless Pulsar Fell,F6a,Ruler L1 Mid,B
+MV-SIG-HAX-005-01,Hawk-River Guard,Steel Eye,F2,Demigod L1 Mid,B
+MV-SIG-HAX-005-02,Dive-and-Flow Chop,Chocktriumph,F4,Demigod L1 Mid,B
+MV-SIG-HAX-005-03,River-Skim Step,Silken Bit,F1,Demigod L1 Mid,B
+MV-SIG-HAX-005-04,Hawk-River Qi Cut,Polldecree,F4,Demigod L1 Mid,B
+MV-SIG-HAX-005-05,Cross-Current Parry,Parity Cheek,F2,Demigod L1 Mid,B
+MV-SIG-HAX-005-06,Talon-Undertow Hook,Subjugating Heel,F1,Demigod L1 Mid,B
+MV-SIG-HAX-005-07,Rising-Thermal Retreat,Squallkerf,F5,Demigod L1 Mid,B
+MV-SIG-HAX-005-08,Dive-and-Pull Sequence,Grand Beard,F1,Demigod L1 Mid,B
+MV-SIG-HAX-005-09,Hawk-Over-River Sweep,Solarbit,F5,Demigod L1 Mid,B
+MV-SIG-HAX-005-10,Hawk-Over-Water Flash Cut,Heroic Beard,F1,Demigod L1 Mid,B
+MV-SIG-HAX-005-11,High Hatchet Hawk-River Descent,Majestic Billet,F1,Demigod L1 Mid,B
+MV-SIG-HAX-006-01,Core-Track Ready Guard,Undefiled Beard,F1,Core Formation L1 Low,B
+MV-SIG-HAX-006-02,Inner-Track Chop,Chockverdict,F4,Core Formation L1 Low,B
+MV-SIG-HAX-006-03,Outer-Track Rap,Kernel Poll,F3,Core Formation L1 Low,B
+MV-SIG-HAX-006-04,Core Pace,Heelvoyage,F4,Core Formation L1 Low,B
+MV-SIG-HAX-006-05,Core-Fed Edge Cut,Cheekedict,F4,Core Formation L1 Low,B
+MV-SIG-HAX-006-06,Track-Weave Parry,Unwavering Handlenub,F1,Core Formation L1 Low,B
+MV-SIG-HAX-006-07,Beard Core Hook Wrench,Tyrannous Fell,F1,Core Formation L1 Low,B
+MV-SIG-HAX-006-08,Dual-Flow Retreat,Ethereal Billet,F1,Core Formation L1 Low,B
+MV-SIG-HAX-006-09,Core-Track Sequence,Resonant Chock,F1,Core Formation L1 Low,B
+MV-SIG-HAX-006-10,Inner Fire Cleave,Prism Splinter,F2,Core Formation L1 Low,B
+MV-SIG-HAX-006-11,Dual-Core Flash Cut,Gallant Bit,F1,Core Formation L1 Low,B
+MV-SIG-HAX-006-12,Dual-Track Core Descent,Imperial Heel,F1,Core Formation L1 Low,B
+MV-SIG-HAX-007-01,Sworn-Hang Guard,Consecrated Poll,F1,Warrior L2 Low,B
+MV-SIG-HAX-007-02,Wind-Fed Chop,Pollcrown,F4,Warrior L2 Low,B
+MV-SIG-HAX-007-03,Gale Skip Step,Eyegrace,F4,Warrior L2 Low,B
+MV-SIG-HAX-007-04,Hatchet Wind-Sworn Qi Cut,Helveverdict,F4,Warrior L2 Low,B
+MV-SIG-HAX-007-05,Hatchet Leeward Parry,Pall Beard,F2,Warrior L2 Low,B
+MV-SIG-HAX-007-06,Tail-Gust Hook,Millstone Cheek,F2,Warrior L2 Low,B
+MV-SIG-HAX-007-07,Gale Retreat Hop,Wraithlike Toe,F1,Warrior L2 Low,B
+MV-SIG-HAX-007-08,Hatchet Sworn Gale Sequence,Resonant Fell,F1,Champion L1 Low,B
+MV-SIG-HAX-007-09,Wind-Shear Breaker,Vacuum Bit,F2,Champion L1 Low,B
+MV-SIG-HAX-007-10,Wind-Sworn Passing Cut,Triumphant Beard,F1,Demigod L1 Low,B
+MV-SIG-HAX-007-11,Hatchet Sworn Gale Descent,Splendid Billet,F1,Warrior L2 Low,B
+MV-SIG-HAX-008-01,Hatchet Plateau Oath Guard,Venerable Eye,F1,Warrior L8 Mid,B
+MV-SIG-HAX-008-02,Oath-Ground Chop,Beardbanner,F4,Warrior L8 Mid,B
+MV-SIG-HAX-008-03,High-Plain Step,Poll Voyage,F3,Warrior L8 Mid,B
+MV-SIG-HAX-008-04,Plateau Qi Cut,Heelcrown,F4,Warrior L8 Mid,B
+MV-SIG-HAX-008-05,Oath-Edge Parry,Peal Poll,F2,Warrior L8 Mid,B
+MV-SIG-HAX-008-06,Plain-Hook Drag,Ruling Bit,F1,Warrior L8 Mid,B
+MV-SIG-HAX-008-07,Plateau Oath Sequence,Choral Helve,F1,Champion L1 Low,B
+MV-SIG-HAX-008-08,Oath-Sworn Breaker Cleave,Steel Toe,F2,Champion L1 Low,B
+MV-SIG-HAX-008-09,Plateau Oath Seal Stroke,Sigilkerf,F5,Demigod L1 Low,B
+MV-SIG-HAX-008-10,Plateau Oath Cut,Famed Fell,F1,Warrior L8 Mid,B
+MV-SIG-HAX-009-01,Taken-Bearing Guard,Inviolate Cheek,F1,Champion L2 High,B
+MV-SIG-HAX-009-02,Bearing-First Chop,Bitverdict,F4,Champion L2 High,B
+MV-SIG-HAX-009-03,Bearing Sight Rap,Despotic Beard,F1,Champion L2 High,B
+MV-SIG-HAX-009-04,Aligned Step,Pollsolace,F4,Champion L2 High,B
+MV-SIG-HAX-009-05,Bearing-Set Qi Cut,Heelbanner,F4,Champion L2 High,B
+MV-SIG-HAX-009-06,Re-Bearing Parry,Squall Toe,F2,Champion L2 High,B
+MV-SIG-HAX-009-07,Bearing-Pull Hook,Glacier Eye,F2,Champion L2 High,B
+MV-SIG-HAX-009-08,Bearing Reset Retreat,Skyborne Helve,F1,Champion L2 High,B
+MV-SIG-HAX-009-09,Bearing Conclusion Sequence,Grand Poll,F1,Champion L2 High,B
+MV-SIG-HAX-009-10,Bearing-Pierce Cleave,Quenched Kerf,F2,Champion L2 High,B
+MV-SIG-HAX-009-11,Bearing-Struck Flash Cut,Vigorbit,F5,Demigod L1 Low,B
+MV-SIG-HAX-009-12,Stillness Release Chop,Paramount Inferno Chock,F6a,Champion L2 High,B
+MV-SIG-HAX-010-01,Charter Reading Guard,Immaculate Poll,F1,Ruler L1 Mid,B
+MV-SIG-HAX-010-02,Charter Chop,Beardtriumph,F4,Ruler L1 Mid,B
+MV-SIG-HAX-010-03,Plateau March Step,Evanescent Cheek,F1,Ruler L1 Mid,B
+MV-SIG-HAX-010-04,Charter-Line Qi Cut,Toeedict,F4,Ruler L1 Mid,B
+MV-SIG-HAX-010-05,Clause Parry,Deluge Eye,F2,Ruler L1 Mid,B
+MV-SIG-HAX-010-06,Charter Hook,Peal Billet,F2,Ruler L1 Mid,B
+MV-SIG-HAX-010-07,Charter Retreat,Heelboon,F4,Ruler L1 Mid,B
+MV-SIG-HAX-010-08,Charter Sequence,Orchestral Bit,F1,Ruler L1 Mid,B
+MV-SIG-HAX-010-09,Charter-Breaking Cleave,Pulsar Poll,F2,Ruler L1 Mid,B
+MV-SIG-HAX-010-10,Charter Wind Stroke,Intrepid Helve,F1,Demigod L1 Low,B
+MV-SIG-HAX-010-11,Charter Descending Cut,Illustrious Cheek,F1,Ruler L1 Mid,B
+MV-SIG-HAX-011-01,Edge-Wind Guard,Stately Beard,F1,Demigod L3 Mid,B
+MV-SIG-HAX-011-02,Over-the-Edge Chop,Eyedecree,F4,Demigod L3 Mid,B
+MV-SIG-HAX-011-03,Ridge Run Step,Spectral Poll,F1,Demigod L3 Mid,B
+MV-SIG-HAX-011-04,Edge-Crossing Qi Cut,Felltriumph,F4,Demigod L3 Mid,B
+MV-SIG-HAX-011-05,Ridge Parry,Parity Toe,F2,Demigod L3 Mid,B
+MV-SIG-HAX-011-06,Cliff-Hook Drag,Thrall Heel,F2,Demigod L3 Mid,B
+MV-SIG-HAX-011-07,Over-the-Edge Sequence,Symphonic Billet,F1,Demigod L3 Mid,B
+MV-SIG-HAX-011-08,Cliff-Wind Sweep,Dune Handlenub,F2,Demigod L3 Mid,B
+MV-SIG-HAX-011-09,Edge-Wind Flash Cut,Noble Bit,F1,Demigod L3 Mid,B
+MV-SIG-HAX-011-10,Wind Over the Edge Cut,Peerless Cheek,F1,Demigod L3 Mid,B
+MV-SIG-HAX-012-01,Low Hatchet Hold,Sainted Heel,F1,Core Formation L2 Low,B
+MV-SIG-HAX-012-02,Long-Line Chop,Eyecrown,F4,Core Formation L2 Low,B
+MV-SIG-HAX-012-03,Slow-Wind Rap,Tyrannous Bit,F1,Core Formation L2 Low,B
+MV-SIG-HAX-012-04,Far-Bearing Step,Twilit Toe,F1,Core Formation L2 Low,B
+MV-SIG-HAX-012-05,Core-Held Qi Cut,Fellverdict,F4,Core Formation L2 Low,B
+MV-SIG-HAX-012-06,Long-Bearing Parry,Pall Toe,F2,Core Formation L2 Low,B
+MV-SIG-HAX-012-07,Far-Hook Pull,Hornbeam Heel,F2,Core Formation L2 Low,B
+MV-SIG-HAX-012-08,Bearing Withdrawal,Silken Cheek,F1,Core Formation L2 Low,B
+MV-SIG-HAX-012-09,Long-Bearing Sequence,Harmonious Axehew,F1,Core Formation L2 Low,B
+MV-SIG-HAX-012-10,Sail-Filling Hatchet Cleave,Nucleus Chock,F3,Core Formation L2 Low,B
+MV-SIG-HAX-012-11,Long-Bearing Flash Cut,Exalted Billet,F1,Core Formation L2 Low,B
+MV-SIG-HAX-012-12,Long Bearing Descent,Valiant Haemal Toe,F6a,Core Formation L2 Low,B
+MV-SIG-HAX-003-07,Hornbeam Beard,Rending Beard,F2,Champion L3 Mid,B
+MV-SIG-HAX-009-07,Glacier Eye,Crushing Eye,F2,Champion L2 High,B
+MV-SIG-HAX-011-08,Dune Handlenub,Mighty Handlenub,F2,Demigod L3 Mid,B
+MV-SIG-HAX-012-07,Hornbeam Heel,Savage Heel,F2,Core Formation L2 Low,B

@@ -1,0 +1,139 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-GAU-001-01,Basin Hand Opening Jab,Haemal Vambrace,F2,Warrior L2 Low,B
+MV-SIG-GAU-001-02,Basin Rim Twin Cover,Statute Cuffplate,F2,Warrior L2 Low,B
+MV-SIG-GAU-001-03,Pairing Step Slide,Ethereal Thumbplate,F1,Warrior L2 Low,B
+MV-SIG-GAU-001-04,Hand to Hand Pass Strike,Steel Elbowcop,F2,Warrior L2 Low,B
+MV-SIG-GAU-001-05,Twin Palm Hold,Thrallvamb,F5,Warrior L2 Low,B
+MV-SIG-GAU-001-06,Basin Pour Parry,Squall Fingerplate,F2,Warrior L2 Low,B
+MV-SIG-GAU-001-07,Paired Basin Hammer Fall,Bedrock Backhandplate,F2,Champion L1 Low,B
+MV-SIG-GAU-001-08,Basin Clasp Seal,Peremptory Palmguard,F1,Champion L1 Low,B
+MV-SIG-GAU-001-09,Hands Joined Rupture,Vacuum Wristcuff,F2,Demigod L1 Low,B
+MV-SIG-GAU-001-10,Paired Basin Hands Form,Paramount Wring,F1,Warrior L2 Low,B
+MV-SIG-GAU-002-01,Azure Court Lead Jab,Quenched Knucklecap,F2,Warrior L6 Mid,B
+MV-SIG-GAU-002-02,Court Rail Cuff Block,Prism Elbowcop,F2,Warrior L6 Mid,B
+MV-SIG-GAU-002-03,Azure Edge Slide,Mittsolace,F4,Warrior L6 Mid,B
+MV-SIG-GAU-002-04,Court Rank Hammer,Thunderclap Clench,F2,Warrior L6 Mid,B
+MV-SIG-GAU-002-05,Court Hold Pincer,Sigilvamb,F5,Warrior L6 Mid,B
+MV-SIG-GAU-002-06,Azure Cover Slip,Pall Fingerplate,F2,Warrior L6 Mid,B
+MV-SIG-GAU-002-07,Court Reading Palm,Interstice Backhandplate,F2,Warrior L6 Mid,B
+MV-SIG-GAU-002-08,Court Plate Splitter,Peerless Grasp,F1,Champion L1 Low,B
+MV-SIG-GAU-002-09,Court Judgment Press,Statute Palmguard,F2,Champion L1 Low,B
+MV-SIG-GAU-002-10,Court of Two Reversal Burst,Prismmitt,F5,Demigod L1 Low,B
+MV-SIG-GAU-002-11,Twin Azure Court Form,Seasonclench,F5,Warrior L6 Mid,B
+MV-SIG-GAU-003-01,River Bend Plate Jab,Vigor Grasp,F2,Champion L3 Low,B
+MV-SIG-GAU-003-02,Bend Hollow Cuff Cover,Enshrined Gauntcuff,F1,Champion L3 Low,B
+MV-SIG-GAU-003-03,Bank Hugging Slide,Vigor Wristcuff,F2,Champion L3 Low,B
+MV-SIG-GAU-003-04,Pebble Strike Backhand,Clampdecree,F4,Champion L3 Low,B
+MV-SIG-GAU-003-05,Bend Turning Hammer,Steel Wring,F2,Champion L3 Low,B
+MV-SIG-GAU-003-06,Meander Pin Press,Thrall Seizeup,F2,Champion L3 Low,B
+MV-SIG-GAU-003-07,Spiral Cuff Parry,Delugeglove,F5,Champion L3 Low,B
+MV-SIG-GAU-003-08,Sandbar Shove,Gloveverdict,F4,Champion L3 Low,B
+MV-SIG-GAU-003-09,Deep Bend Crushing Fist,Haemal Clench,F2,Champion L3 Low,B
+MV-SIG-GAU-003-10,Rapids Locking Grip,Hornbeam Clamp,F2,Champion L3 Low,B
+MV-SIG-GAU-003-11,River Bend Flash Return,Pulsarwring,F5,Demigod L1 Low,B
+MV-SIG-GAU-003-12,River Bend Form,Lordly Clamp,F1,Champion L3 Low,B
+MV-SIG-GAU-004-01,Hawk Court Lead Fist,Steel Vambrace,F2,Ruler L1 Mid,B
+MV-SIG-GAU-004-02,Court Wing Cuff Screen,Statute Gauntcuff,F2,Ruler L1 Mid,B
+MV-SIG-GAU-004-03,Circling Court Step,Dune Knucklecap,F2,Ruler L1 Mid,B
+MV-SIG-GAU-004-04,Hawk Eye Palm Reader,Glovebenison,F4,Ruler L1 Mid,B
+MV-SIG-GAU-004-05,Stoop Behind Guard,Noble Cuffplate,F1,Ruler L1 Mid,B
+MV-SIG-GAU-004-06,Talon Cuff Hold,Millstone Thumbplate,F2,Ruler L1 Mid,B
+MV-SIG-GAU-004-07,Court Stoop Plate Breaker,Quenched Clench,F2,Ruler L1 Mid,B
+MV-SIG-GAU-004-08,Hawk Court Arm Seal,Sigilclench,F5,Ruler L1 Mid,B
+MV-SIG-GAU-004-09,Hawk Court Verdict Rupture,Animaglove,F5,Demigod L1 Low,B
+MV-SIG-GAU-004-10,Hawk's Court Form,Gallant Cuffplate Crown,F6b,Ruler L1 Mid,B
+MV-SIG-GAU-005-01,Apex Track Opening Fist,Fearless Elbowcop,F1,Demigod L2 Mid,B
+MV-SIG-GAU-005-02,Second Track Cover Cuff,Hornbeam Thumbplate,F2,Demigod L2 Mid,B
+MV-SIG-GAU-005-03,Track Changing Step,Soundless Palmguard,F1,Demigod L2 Mid,B
+MV-SIG-GAU-005-04,Field Guarding Palm Wave,Enshrined Wristcuff,F1,Demigod L2 Mid,B
+MV-SIG-GAU-005-05,Inside Field Strike,Quenched Backhandplate,F2,Demigod L2 Mid,B
+MV-SIG-GAU-005-06,Dual Wrist Catch,Subjugating Clamp,F1,Demigod L2 Mid,B
+MV-SIG-GAU-005-07,Crossed Track Cuff Parry,Deluge Gauntcuff,F2,Demigod L2 Mid,B
+MV-SIG-GAU-005-08,Apex Field Plate Driver,Pulsarglove,F5,Demigod L2 Mid,B
+MV-SIG-GAU-005-09,Field Locked Twin Hold,Gloomwring,F5,Demigod L2 Mid,B
+MV-SIG-GAU-005-10,Apex Track Flash Fist,Thunderclap Grasp,F2,Demigod L2 Mid,B
+MV-SIG-GAU-005-11,Dual-Track Apex Form,Consecrated Sanctum Fingerplate,F6a,Demigod L2 Mid,B
+MV-SIG-GAU-006-01,Core Track Lead Jab,Intrepid Seizeup,F1,Core Formation L1 Low,B
+MV-SIG-GAU-006-02,Core Held Cuff Cover,Sanctum Knucklecap,F2,Core Formation L1 Low,B
+MV-SIG-GAU-006-03,Core Centered Glide,Skyborne Seizeup,F1,Core Formation L1 Low,B
+MV-SIG-GAU-006-04,Core Pulse Straight,Thunderclap Vambrace,F2,Core Formation L1 Low,B
+MV-SIG-GAU-006-05,Second Track Core Catch,Mittpledge,F4,Core Formation L1 Low,B
+MV-SIG-GAU-006-06,Core Turned Cuff Ward,Pealvamb,F5,Core Formation L1 Low,B
+MV-SIG-GAU-006-07,Core Split Gauntlet Drive,Famed Crushgrip,F1,Core Formation L1 Low,B
+MV-SIG-GAU-006-08,Core Anchored Arm Press,Grasptroth,F4,Core Formation L1 Low,B
+MV-SIG-GAU-006-09,Core Forged Truestrike,Harbinger Thumbplate,F2,Core Formation L1 Low,B
+MV-SIG-GAU-006-10,Azure Core Dual-Track Form,Crushgrip Triumph,F3,Core Formation L1 Low,B
+MV-SIG-GAU-007-01,Open Fist Wind Jab,Inferno Clench,F2,Warrior L1 Mid,B
+MV-SIG-GAU-007-02,Open Guard Cuff Lift,Fingerplate Vow,F3,Warrior L1 Mid,B
+MV-SIG-GAU-007-03,Windward Side Step,Dune Wristcuff,F2,Warrior L1 Mid,B
+MV-SIG-GAU-007-04,Sworn Hand Backswing,Squall Elbowcop,F2,Warrior L1 Mid,B
+MV-SIG-GAU-007-05,Open Hand Gale Shove,Steelglove,F5,Warrior L1 Mid,B
+MV-SIG-GAU-007-06,Pliant Guard Wind Turn,Pallvamb,F5,Warrior L1 Mid,B
+MV-SIG-GAU-007-07,Sleeve Catching Fingers,Clenchvow,F4,Warrior L1 Mid,B
+MV-SIG-GAU-007-08,Outstretched Gale Sweep,Wring Troth,F3,Warrior L1 Mid,B
+MV-SIG-GAU-007-09,Wind Split Guard Breaker,Cuffplate Decree,F3,Champion L1 Low,B
+MV-SIG-GAU-007-10,Open Fist Wind Seal,Despotic Gauntcuff,F1,Champion L1 Low,B
+MV-SIG-GAU-007-11,Wind-Sworn Nullifying Palm,Parity Palmguard,F2,Demigod L1 Low,B
+MV-SIG-GAU-007-12,Wind-Sworn Open Fist Form,Thunderclap Wring,F2,Warrior L1 Mid,B
+MV-SIG-GAU-008-01,Oathbound Line Jab,Haemal Seizeup,F2,Warrior L8 Low,B
+MV-SIG-GAU-008-02,Plateau Rock Cuff Cover,Undefiled Knucklecap,F1,Warrior L8 Low,B
+MV-SIG-GAU-008-03,Held Line Advance,Bedrock Vambrace,F2,Warrior L8 Low,B
+MV-SIG-GAU-008-04,Line Holding Hammer,Bedrock Crushgrip,F2,Warrior L8 Low,B
+MV-SIG-GAU-008-05,Sworn Line Arm Pin,Sigil Clamp,F2,Warrior L8 Low,B
+MV-SIG-GAU-008-06,Line Turning Cuff Slap,Squall Wristcuff,F2,Warrior L8 Low,B
+MV-SIG-GAU-008-07,Oath Line Breaking Fist,Vambtriumph,F4,Champion L1 Low,B
+MV-SIG-GAU-008-08,Plateau Weight Press,Millstone Clamp,F2,Champion L1 Low,B
+MV-SIG-GAU-008-09,Unyielding Oath Rupture,Wringedict,F4,Demigod L1 Low,B
+MV-SIG-GAU-008-10,Plateau Oathbound Form,Undaunted Hornbeam Backhandplate,F6a,Warrior L8 Low,B
+MV-SIG-GAU-009-01,Gale Glove Bearing Jab,Steel Crushgrip,F2,Champion L5 High,B
+MV-SIG-GAU-009-02,Bearing Brace Cuff,Prismvamb,F5,Champion L5 High,B
+MV-SIG-GAU-009-03,Glove Steady Pivot,Vigor Backhandplate,F2,Champion L5 High,B
+MV-SIG-GAU-009-04,Bearing Ranged Hammer,Illustrious Knucklecap,F1,Champion L5 High,B
+MV-SIG-GAU-009-05,Heading Correcting Cuff,Squall Vambrace,F2,Champion L5 High,B
+MV-SIG-GAU-009-06,Bearing Fixed Grip,Millstone Crushgrip,F2,Champion L5 High,B
+MV-SIG-GAU-009-07,Bearing Reading Palm,Revelation Elbowcop,F2,Champion L5 High,B
+MV-SIG-GAU-009-08,Gale Glove Plate Driver,Matchless Grasp,F1,Champion L5 High,B
+MV-SIG-GAU-009-09,Gale Held Bearing Press,Volition Wring,F2,Champion L5 High,B
+MV-SIG-GAU-009-10,Bearing Flash Return Fist,Seasonclamp,F5,Demigod L1 Low,B
+MV-SIG-GAU-009-11,Gale Glove Bearing Form,Destiny Gauntcuff,F2,Champion L5 High,B
+MV-SIG-GAU-010-01,Unwalled Steel Jab,Fingerplate Banner,F3,Ruler L1 Low,B
+MV-SIG-GAU-010-02,Open Ground Forearm Screen,Sacrosanct Cuffplate,F1,Ruler L1 Low,B
+MV-SIG-GAU-010-03,No Ground Given Step,Clenchodyssey,F4,Ruler L1 Low,B
+MV-SIG-GAU-010-04,Steel Hand Hammer Fall,Heroic Palmguard,F1,Ruler L1 Low,B
+MV-SIG-GAU-010-05,Wind Cut Cuff Parry,Parity Thumbplate,F2,Ruler L1 Low,B
+MV-SIG-GAU-010-06,Hand Locking Gale Clamp,Thrallwring,F5,Ruler L1 Low,B
+MV-SIG-GAU-010-07,Unwalled Plate Rending Drive,Radiance Grasp,F2,Ruler L1 Low,B
+MV-SIG-GAU-010-08,Open Palm Suppressing Gale,Gloom Clench,F2,Ruler L1 Low,B
+MV-SIG-GAU-010-09,Unwalled Steel Truestrike,Vacuum Wring,F2,Demigod L1 Low,B
+MV-SIG-GAU-010-10,Unwalled Steel Hand Form,Magnificent Haemal Gauntcuff,F6a,Ruler L1 Low,B
+MV-SIG-GAU-011-01,Oath Apex Lead Fist,Glovecrown,F4,Demigod L6 Low,B
+MV-SIG-GAU-011-02,Apex Wind Cuff Cover,Sanctum Backhandplate,F2,Demigod L6 Low,B
+MV-SIG-GAU-011-03,Gale Apex Stride,Bedrock Grasp,F2,Demigod L6 Low,B
+MV-SIG-GAU-011-04,Field Riding Gale Hook,Graspverdict,F4,Demigod L6 Low,B
+MV-SIG-GAU-011-05,Wind Fed Cuff Shelter,Prismglove,F5,Demigod L6 Low,B
+MV-SIG-GAU-011-06,Gale Hand Catch,Thrall Vambrace,F2,Demigod L6 Low,B
+MV-SIG-GAU-011-07,Apex Reading Palm,Knucklecap Benison,F3,Demigod L6 Low,B
+MV-SIG-GAU-011-08,Gale Oath Plate Burster,Splendid Clench,F1,Demigod L6 Low,B
+MV-SIG-GAU-011-09,Apex Wind Arm Seal,Retribution Palmguard,F2,Demigod L6 Low,B
+MV-SIG-GAU-011-10,Field Riding Flash Strike,Season Fingerplate,F2,Demigod L6 Low,B
+MV-SIG-GAU-011-11,Gale Oath Apex Form,Hospitable Volition Cuffplate,F6a,Demigod L6 Low,B
+MV-SIG-GAU-012-01,Core Heavy Glove Swing,Inferno Thumbplate,F2,Core Formation L3 Mid,B
+MV-SIG-GAU-012-02,Core Settled Cuff Block,Prism Wristcuff,F2,Core Formation L3 Mid,B
+MV-SIG-GAU-012-03,Core Leaning Step,Soundless Seizeup,F1,Core Formation L3 Mid,B
+MV-SIG-GAU-012-04,Core Backhand Hurl,Crushgrip Banner,F3,Core Formation L3 Mid,B
+MV-SIG-GAU-012-05,Core Pressure Hammer,Squall Crushgrip,F2,Core Formation L3 Mid,B
+MV-SIG-GAU-012-06,Heavy Cuff Slow Parry,Vambseal,F4,Core Formation L3 Mid,B
+MV-SIG-GAU-012-07,Weighted Gale Clamp,Clampseal,F4,Core Formation L3 Mid,B
+MV-SIG-GAU-012-08,Core Bearing Shove,Vigor Clamp,F2,Core Formation L3 Mid,B
+MV-SIG-GAU-012-09,Core Falling Crush,Thunderclap Elbowcop,F2,Core Formation L3 Mid,B
+MV-SIG-GAU-012-10,Heavy Glove Arm Press,Peremptory Vambrace,F1,Core Formation L3 Mid,B
+MV-SIG-GAU-012-11,Core Gale Rupture,Steelclamp,F5,Core Formation L3 Mid,B
+MV-SIG-GAU-012-12,Wind-Sworn Core Heavy Glove Form,Illustrious Cuffplate Triumph,F6b,Core Formation L3 Mid,B
+MV-SIG-GAU-003-10,Hornbeam Clamp,Crushing Clamp,F2,Champion L3 Low,B
+MV-SIG-GAU-004-03,Dune Knucklecap,Surging Knucklecap,F2,Ruler L1 Mid,B
+MV-SIG-GAU-005-02,Hornbeam Thumbplate,Unyielding Thumbplate,F2,Demigod L2 Mid,B
+MV-SIG-GAU-005-11,Consecrated Sanctum Fingerplate,Consecrated Fingerplate,F6a,Demigod L2 Mid,B
+MV-SIG-GAU-006-02,Sanctum Knucklecap,Stalwart Knucklecap,F2,Core Formation L1 Low,B
+MV-SIG-GAU-007-03,Dune Wristcuff,Surging Wristcuff,F2,Warrior L1 Mid,B
+MV-SIG-GAU-008-10,Undaunted Hornbeam Backhandplate,Undaunted Backhandplate,F6a,Warrior L8 Low,B
+MV-SIG-GAU-011-02,Sanctum Backhandplate,Adamant Backhandplate,F2,Demigod L6 Low,B

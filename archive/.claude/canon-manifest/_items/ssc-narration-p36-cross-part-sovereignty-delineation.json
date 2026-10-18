@@ -1,0 +1,15 @@
+{
+ "skill_id": "ssc-narration-p36-cross-part-sovereignty-delineation",
+ "part": 36,
+ "area": 15,
+ "sequence_in_part": 15,
+ "title": "Cross-Part Sovereignty Delineation",
+ "domain": "narration",
+ "source_file": "Part_36_Narration_Novel_Thematic_Law.md",
+ "start_line": 484,
+ "end_line": 528,
+ "line_count": 45,
+ "output_path": ".claude/skills/ssc-narration-p36-cross-part-sovereignty-delineation/SKILL.md",
+ "has_stale_python_block": false,
+ "related": []
+}

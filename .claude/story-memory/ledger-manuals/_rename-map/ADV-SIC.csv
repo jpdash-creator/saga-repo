@@ -1,0 +1,99 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-SIC-001-01,Anchor-Foot Pull Cut,Tempered Bowbelly,F2,Champion,B
+MV-ADV-SIC-001-02,Haft-Brace Slip,Torrent Inwardbelly,F2,Champion,B
+MV-ADV-SIC-001-03,Hook Tether Snatch,Thorngarner,F5,Champion,B
+MV-ADV-SIC-001-04,Brisk Skimming Step,Glancing Glean,F1,Champion,B
+MV-ADV-SIC-001-05,Spiral Hook Disarm,Chime Stook,F2,Champion,B
+MV-ADV-SIC-001-06,Cut-Through Crouch Rise,Gustgarner,F5,Champion,B
+MV-ADV-SIC-001-07,Qi-Locked Haft Bar,Granite Sicklegrip,F2,Champion,B
+MV-ADV-SIC-001-08,Hook-Pinned Armor Rip,Sheave Torment,F3,Champion,B
+MV-ADV-SIC-001-09,Rolling Curve Counter-Cut,Reapedge Plating,F3,Champion,B
+MV-ADV-SIC-002-01,Field-Edge Reach Cut,Harpooning Reap,F1,Demigod,B
+MV-ADV-SIC-002-02,Hook Lift Check,Garnerhauberk,F4,Demigod,B
+MV-ADV-SIC-002-03,Crossed Haft Guard,Enduring Crookspine,F1,Demigod,B
+MV-ADV-SIC-002-04,Silent Row Step,Reapsprint,F4,Demigod,B
+MV-ADV-SIC-002-05,Tip Catch Poke,Iron Greenedge,F2,Demigod,B
+MV-ADV-SIC-002-06,Qi-Fed Swath Draw,Might Harvest,F2,Demigod,B
+MV-ADV-SIC-002-07,Hooked Cloak Tear,Mayhem Sickletang,F2,Demigod,B
+MV-ADV-SIC-002-08,Furrow-Cross Slip Step,Garner Sprint,F3,Demigod,B
+MV-ADV-SIC-002-09,Wide Field Qi Sweep,Lancing Handleknob,F1,Demigod,B
+MV-ADV-SIC-002-10,Anchored Hook Wrench Throw,Suppressing Hookblade,F1,Demigod,B
+MV-ADV-SIC-003-01,Gap-Finding Tip Probe,Tempered Crookspine,F2,Champion,B
+MV-ADV-SIC-003-02,Plate-Edge Scrape Guard,Implacable Inwardbelly,F1,Champion,B
+MV-ADV-SIC-003-03,Biting Curve Pull,Might Tipcurve,F2,Champion,B
+MV-ADV-SIC-003-04,Hooked Strap Tug,Garnercloak,F4,Champion,B
+MV-ADV-SIC-003-05,Joint-Seam Hook Pry,Rumblegarner,F5,Champion,B
+MV-ADV-SIC-003-06,Pauldron-Lift Slice,Blaze Hookblade,F2,Champion,B
+MV-ADV-SIC-003-07,Buckle-Burst Hook Draw,Glint Handleknob,F2,Champion,B
+MV-ADV-SIC-003-08,Gorget Slide Reverse Cut,Harrowing Tipcurve,F1,Champion,B
+MV-ADV-SIC-004-01,Weapon-Hand Hook Check,Toxin Reapedge,F2,Demigod,B
+MV-ADV-SIC-004-02,Ringing Edge Parry,Gust Greenedge,F2,Demigod,B
+MV-ADV-SIC-004-03,Quick Sleeve Catch,Subduing Garner,F1,Demigod,B
+MV-ADV-SIC-004-04,Reverse Grip Slice,Rumble Stook,F2,Demigod,B
+MV-ADV-SIC-004-05,Hook-Haft Shield Lift,Sicklegrip Hauberk,F3,Demigod,B
+MV-ADV-SIC-004-06,Shuffle Behind the Hook,Gust Reap,F2,Demigod,B
+MV-ADV-SIC-004-07,Blade-Trap Twist,Gleangreave,F4,Demigod,B
+MV-ADV-SIC-004-08,Spear-Haft Wrap Pull,Chimestraw,F5,Demigod,B
+MV-ADV-SIC-004-09,Disarming Qi Snap,Rumble Sheave,F2,Demigod,B
+MV-ADV-SIC-004-10,Hook-Locked Weapon Throw-Off,Gleanhauberk,F4,Demigod,B
+MV-ADV-SIC-004-11,Both-Hands Strip Draw,Staggering Bowbelly,F1,Demigod,B
+MV-ADV-SIC-005-01,Paired Crossing Draw,Skinning Glean,F1,Champion,B
+MV-ADV-SIC-005-02,Twin Edge Scissor Guard,Hoarfrost Sicklegrip,F2,Champion,B
+MV-ADV-SIC-005-03,Left-Hand Hook Feed,Reapplating,F4,Champion,B
+MV-ADV-SIC-005-04,Mirror Step of the Rows,Might Sickletang,F2,Champion,B
+MV-ADV-SIC-005-05,Right-Hand Tip Dart,Glint Reap,F2,Champion,B
+MV-ADV-SIC-005-06,Scissor-Close Neck Snip,Grassbarrage,F4,Champion,B
+MV-ADV-SIC-005-07,Twin Hook Armlock,Crippling Harvest,F1,Champion,B
+MV-ADV-SIC-005-08,Opposed Arc Deflection,Chime Greenedge,F2,Champion,B
+MV-ADV-SIC-005-09,Two-Row Cross Harvest,Rumble Handleknob,F2,Champion,B
+MV-ADV-SIC-005-10,Paired Hook Disarm Spiral,Sheavecloak,F4,Champion,B
+MV-ADV-SIC-006-01,Talon Dive Slice,Tempered Stook,F2,Demigod,B
+MV-ADV-SIC-006-02,Azure Row Guard Lift,Chime Bowbelly,F2,Demigod,B
+MV-ADV-SIC-006-03,Talon Hook Snatch,Thorn Harvest,F2,Demigod,B
+MV-ADV-SIC-006-04,Hawk-Wing Sickle Sidestep,Bounding Crookspine,F1,Demigod,B
+MV-ADV-SIC-006-05,Soaring Cut Return,Sanguine Hookblade,F2,Demigod,B
+MV-ADV-SIC-006-06,Dew-Shake Wrist Flick,Rumble Glean,F2,Demigod,B
+MV-ADV-SIC-006-07,Talon Pinion Rake,Drubbing Sheave,F1,Demigod,B
+MV-ADV-SIC-006-08,Stoop-and-Hook Drop,Reapcloak,F4,Demigod,B
+MV-ADV-SIC-006-09,Azure Rise Parry,Gust Reapedge,F2,Demigod,B
+MV-ADV-SIC-006-10,Twin Talon Seize,Thornreap,F5,Demigod,B
+MV-ADV-SIC-006-11,Hawk-Talon Descending Rip,Reapbarrage,F4,Demigod,B
+MV-ADV-SIC-006-12,Azure Row Falcon Pull,Tipcurve Cloak,F3,Demigod,B
+MV-ADV-SIC-007-01,Basin Tide Pull,Gustgrass,F5,Ruler,B
+MV-ADV-SIC-007-02,River-Bend Hook Slip,Murk Inwardbelly,F2,Ruler,B
+MV-ADV-SIC-007-03,Court-Step Sickle Guard,Hookblade Hauberk,F3,Ruler,B
+MV-ADV-SIC-007-04,Paired Paces Retreat,Soaring Sickletang,F1,Ruler,B
+MV-ADV-SIC-007-05,Harvest Court Wrist Snare,Fastening Tipcurve,F2,Ruler,B
+MV-ADV-SIC-007-06,River-Run Low Sweep,Blaze Glean,F2,Ruler,B
+MV-ADV-SIC-007-07,Court-Yard Pivot Cut,Reaptorment,F4,Ruler,B
+MV-ADV-SIC-007-08,Floodplain Sweep Hook,Mayhemreap,F5,Ruler,B
+MV-ADV-SIC-007-09,River Current Draw-and-Cut,Fastening Sheave,F2,Ruler,B
+MV-ADV-SIC-008-01,Wind-Edge Pull,Blaze Sicklegrip,F2,Demigod,B
+MV-ADV-SIC-008-02,Plateau Rim Guard,Thorn Greenedge,F2,Demigod,B
+MV-ADV-SIC-008-03,Hook in the Gust,Suppressing Harvest,F1,Demigod,B
+MV-ADV-SIC-008-04,Bearing Step Off the Edge,Siltgrass,F5,Demigod,B
+MV-ADV-SIC-008-05,Crosswind Slice,Irongrass,F5,Demigod,B
+MV-ADV-SIC-008-06,Oath-Held Hook Draw,Thorn Sickletang,F2,Demigod,B
+MV-ADV-SIC-008-07,Updraft Curve Parry Lift,Murk Handleknob,F2,Demigod,B
+MV-ADV-SIC-008-08,Open-Ground Sweep Cut,Grinding Garner,F1,Demigod,B
+MV-ADV-SIC-008-09,Wind-Sworn Hook Tear,Inwardbelly Onslaught,F3,Demigod,B
+MV-ADV-SIC-008-10,Plateau Gust Counter-Draw,Immovable Bowbelly,F1,Demigod,B
+MV-ADV-SIC-009-01,Bearing-Taken Pull Cut,Sanguine Garner,F2,Champion,B
+MV-ADV-SIC-009-02,Rim-Walk Sickle Step,Mightgarner,F5,Champion,B
+MV-ADV-SIC-009-03,Hook Against the Gust,Mayhem Greenedge,F2,Champion,B
+MV-ADV-SIC-009-04,Oath-Steady Guard,Facet Bowbelly,F2,Champion,B
+MV-ADV-SIC-009-05,Windward Hook Check,Silencing Crookspine,F1,Champion,B
+MV-ADV-SIC-009-06,Leeward Slip Cut,Sanguine Inwardbelly,F2,Champion,B
+MV-ADV-SIC-009-07,Edge-Walker's Hook Fall,Stifling Tipcurve,F1,Champion,B
+MV-ADV-SIC-009-08,Held Bearing Counter-Cut,Chimegrass,F5,Champion,B
+MV-ADV-SIC-010-01,Squall-Front Slice,Tempered Reap,F2,Demigod,B
+MV-ADV-SIC-010-02,Sworn Hook Catch,Thorn Reapedge,F2,Demigod,B
+MV-ADV-SIC-010-03,Lee-Side Block,Ironstraw,F5,Demigod,B
+MV-ADV-SIC-010-04,Open Plain Skip,Reapedge Pounce,F3,Demigod,B
+MV-ADV-SIC-010-05,Gust-Pushed Chop,Sanguine Stook,F2,Demigod,B
+MV-ADV-SIC-010-06,Breath-of-Wind Flick,Garnergreave,F4,Demigod,B
+MV-ADV-SIC-010-07,Squall Edge Drag,Might Handleknob,F2,Demigod,B
+MV-ADV-SIC-010-08,Windshift Hook Snap,Mayhem Harvest,F2,Demigod,B
+MV-ADV-SIC-010-09,Sworn Line Sickle Parry,Murk Sicklegrip,F2,Demigod,B
+MV-ADV-SIC-010-10,Squall-Driven Hook Rip,Splintering Stook Barrage,F6b,Demigod,B
+MV-ADV-SIC-010-11,Wind-Sworn Disarm Sweep,Sickletang Greave,F3,Demigod,B

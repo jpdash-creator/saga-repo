@@ -1,0 +1,169 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-QST-001-01,Hawk-Eyed Stave Stance,Rowanmettle,F4,Demigod L1 Low,B
+MV-ELI-QST-001-02,Paired Gliding Stave Step,Staffflash,F4,Demigod L1 Low,B
+MV-ELI-QST-001-03,Stoop Stave Rap,Ashruin,F4,Demigod L1 Low,B
+MV-ELI-QST-001-04,Azure Line Staff Parry,Chime Ashwood,F2,Demigod L1 Low,B
+MV-ELI-QST-001-05,River-Cut Staff Thrust,Glint Rapidspin,F2,Demigod L1 Low,B
+MV-ELI-QST-001-06,Twin Track Staff Bind,Webbing Nodeknot,F1,Demigod L1 Low,B
+MV-ELI-QST-001-07,Dual-Strike Shaft Sequence,Confluent Staffspin,F1,Demigod L1 Low,B
+MV-ELI-QST-001-08,Hawk Dive Shaft Smash,Decimating Quarterpoint,F1,Demigod L1 Low,B
+MV-ELI-QST-001-09,Twin Hawk Shaft Dive,Titanic Sanguine Staffend,F6a,Demigod L1 Low,B
+MV-ELI-QST-002-01,Basin Guard Staff Rest,Staffdurance,F4,Demigod L3 Mid,B
+MV-ELI-QST-002-02,River Current Stave Step,Blinding Poleturn,F1,Demigod L3 Mid,B
+MV-ELI-QST-002-03,Basin Shaft Sweep,Staffscourge,F4,Demigod L3 Mid,B
+MV-ELI-QST-002-04,Court Shaft Beat,Ashnerve,F4,Demigod L3 Mid,B
+MV-ELI-QST-002-05,River Eddy Stave Parry,Murk Staffend,F2,Demigod L3 Mid,B
+MV-ELI-QST-002-06,Flowing Thrust Stave Line,Iron Staffspin,F2,Demigod L3 Mid,B
+MV-ELI-QST-002-07,Paired Current Shaft Combination,Rowanruin,F4,Demigod L3 Mid,B
+MV-ELI-QST-002-08,Tidal Overflow Shaft Sequence,Reverberating Rapidspin,F1,Demigod L3 Mid,B
+MV-ELI-QST-002-09,Basin-Pouring Shaft Smash,Mangling Rollover,F1,Demigod L3 Mid,B
+MV-ELI-QST-002-10,Twin-Course Staff Overflow,Merciless Staffsweep,F1,Demigod L3 Mid,B
+MV-ELI-QST-003-01,Return-Ready Staff Guard,Oakvalor,F4,Demigod L2 Low,B
+MV-ELI-QST-003-02,Paired Step Stave Back,Ashglimmer,F4,Demigod L2 Low,B
+MV-ELI-QST-003-03,Line-Held Shaft Strike,Oakwrath,F4,Demigod L2 Low,B
+MV-ELI-QST-003-04,Return Staff Parry,Gust Nodeknot,F2,Demigod L2 Low,B
+MV-ELI-QST-003-05,Azure Rebound Stave Tap,Charter Poleturn,F2,Demigod L2 Low,B
+MV-ELI-QST-003-06,Hook-and-Return Shaft,Staffgrip Nerve,F3,Demigod L2 Low,B
+MV-ELI-QST-003-07,Strike-Return Stave Sequence,Escalating Rollover,F1,Demigod L2 Low,B
+MV-ELI-QST-003-08,Court Double Stave Beat,Eviscerating Staffend,F1,Demigod L2 Low,B
+MV-ELI-QST-003-09,Heartline Return Staff Thrust,Nova Jabbing,F2,Demigod L2 Low,B
+MV-ELI-QST-004-01,Twin Guard Staff Pose,Ashspine,F4,Demigod L5 High,B
+MV-ELI-QST-004-02,Hawk Feint Staff Step,Silt Rollover,F2,Demigod L5 High,B
+MV-ELI-QST-004-03,Left-End Shaft Rap,Wrathful Staffspin,F1,Demigod L5 High,B
+MV-ELI-QST-004-04,Right-End Stave Rap,Rowanhavoc,F4,Demigod L5 High,B
+MV-ELI-QST-004-05,Crossing Staff Parry,Torrent Midstaff,F2,Demigod L5 High,B
+MV-ELI-QST-004-06,Double-End Stave Disruption,Perchmettle,F4,Demigod L5 High,B
+MV-ELI-QST-004-07,Paired-End Shaft Combination,Multiplying Staffsweep,F1,Demigod L5 High,B
+MV-ELI-QST-004-08,Hawk-Talon Stave Bind,Fastening Ironcap,F2,Demigod L5 High,B
+MV-ELI-QST-004-09,Twin Hawk Stave Drop,Hollow Quarterpoint,F2,Demigod L5 High,B
+MV-ELI-QST-004-10,Falling Hawk Shaft Sunder,Grievous Poleturn,F1,Demigod L5 High,B
+MV-ELI-QST-005-01,Dual-Track Settling Stave Guard,Perchnerve,F4,Demigod L4 Mid,B
+MV-ELI-QST-005-02,Track-Shifting Stave Step,Perchblink,F4,Demigod L4 Mid,B
+MV-ELI-QST-005-03,Opening Track Stave Strike,Rapidspin Reckoning,F3,Demigod L4 Mid,B
+MV-ELI-QST-005-04,Second Track Shaft Strike,Booming Jabbing,F1,Demigod L4 Mid,B
+MV-ELI-QST-005-05,Track-Crossing Stave Parry,Equipoise Staffend,F2,Demigod L4 Mid,B
+MV-ELI-QST-005-06,Basin Press Staff Disrupt,Mayhem Nodeknot,F2,Demigod L4 Mid,B
+MV-ELI-QST-005-07,River-Running Stave Sequence,Oakhavoc,F4,Demigod L4 Mid,B
+MV-ELI-QST-005-08,Merged-Track Stave Thrust,Rumble Staffshoe,F2,Demigod L4 Mid,B
+MV-ELI-QST-005-09,Twin-Current Staff Bind,Strangling Ironcap,F1,Demigod L4 Mid,B
+MV-ELI-QST-005-10,Mastered Track Shaft Reversal,Confluent Rollover,F1,Demigod L4 Mid,B
+MV-ELI-QST-005-11,Silent River Stave Return,Unconquered Oakstaff,F1,Demigod L4 Mid,B
+MV-ELI-QST-005-12,Dual-Track Shaft Crescendo,Shattering Rumble Rollover,F6a,Demigod L4 Mid,B
+MV-ELI-QST-006-01,Stooping Guard Staff Crouch,Staffmettle,F4,Void God L1 Low,B
+MV-ELI-QST-006-02,Updraft Shaft Step,Silt Staffend,F2,Void God L1 Low,B
+MV-ELI-QST-006-03,Rising Shaft Rap,Oakscourge,F4,Void God L1 Low,B
+MV-ELI-QST-006-04,Wing-Sweep Staff Parry,Equipoise Ironcap,F2,Void God L1 Low,B
+MV-ELI-QST-006-05,Beak Staff Thrust,Facet Poleturn,F2,Void God L1 Low,B
+MV-ELI-QST-006-06,Talon Shaft Snare,Rowanspine,F4,Void God L1 Low,B
+MV-ELI-QST-006-07,Climbing Staff Combination,Reverberating Staffspin,F1,Void God L1 Low,B
+MV-ELI-QST-006-08,Airborne Spin Shaft Strike,Lacerating Staffsweep,F1,Void God L1 Low,B
+MV-ELI-QST-006-09,Hawk's Return to Shaft Perch,Dazzling Balancegrip,F1,Void God L1 Low,B
+MV-ELI-QST-006-10,Tower-Dive Stave Sunder,Ferocious Jabbing,F1,Void God L1 Low,B
+MV-ELI-QST-007-01,Wings-Spread Stave Guard,Rowandurance,F4,Void God L3 Mid,B
+MV-ELI-QST-007-02,Soaring Side Shaft Step,Oakvortex,F4,Void God L3 Mid,B
+MV-ELI-QST-007-03,Left-Wing Staff Strike,Staffwrath,F4,Void God L3 Mid,B
+MV-ELI-QST-007-04,Right-Wing Stave Strike,Sanguine Poleturn,F2,Void God L3 Mid,B
+MV-ELI-QST-007-05,Wing-Beat Stave Parry,Murk Oakstaff,F2,Void God L3 Mid,B
+MV-ELI-QST-007-06,Closing Wings Stave Press,Toxin Staffgrip,F2,Void God L3 Mid,B
+MV-ELI-QST-007-07,Paired Wing Staff Sequence,Staffsweep Wrath,F3,Void God L3 Mid,B
+MV-ELI-QST-007-08,Feather-Edged Stave Thrust,Tempered Rollover,F2,Void God L3 Mid,B
+MV-ELI-QST-007-09,Folding Wings Shaft Dive,Rampaging Staffspin,F1,Void God L3 Mid,B
+MV-ELI-QST-007-10,Twin Wing Stave Bind,Mastering Balancegrip,F1,Void God L3 Mid,B
+MV-ELI-QST-007-11,Wide Sky Stave Smash,Hellish Staffend,F1,Void God L3 Mid,B
+MV-ELI-QST-008-01,Basin-Held Shaft Stance,Ashvalor,F4,Monarch L2 Mid,B
+MV-ELI-QST-008-02,Meridian-Fed Staff Step,Granite Quarterpoint,F2,Monarch L2 Mid,B
+MV-ELI-QST-008-03,Network Stave Strike,Rowanscourge,F4,Monarch L2 Mid,B
+MV-ELI-QST-008-04,Pooled Staff Parry,Impervious Nodeknot,F1,Monarch L2 Mid,B
+MV-ELI-QST-008-05,River Stave Thrust,Nova Rapidspin,F2,Monarch L2 Mid,B
+MV-ELI-QST-008-06,Basin-Pressing Stave Bind,Overpowering Ashwood,F1,Monarch L2 Mid,B
+MV-ELI-QST-008-07,Twin Channel Staff Sequence,Multiplying Poleturn,F1,Monarch L2 Mid,B
+MV-ELI-QST-008-08,Monarch's Long Shaft Guard,Unassailable Staffgrip,F1,Monarch L2 Mid,B
+MV-ELI-QST-008-09,Court Breaking Staff Smash,Gnashing Quarterpoint,F1,Demigod L1 Low,B
+MV-ELI-QST-009-01,Bearing Staff Stance,Hoarfrost Midstaff,F2,Demigod L1 Low,B
+MV-ELI-QST-009-02,Windward Shaft Step,Rowanglare,F4,Demigod L1 Low,B
+MV-ELI-QST-009-03,Bearing Staff Rap,Rollover Scourge,F3,Demigod L1 Low,B
+MV-ELI-QST-009-04,Crosswind Staff Beat,Oakdurance,F4,Demigod L1 Low,B
+MV-ELI-QST-009-05,Oath-Line Stave Thrust,Hollow Rapidspin,F2,Demigod L1 Low,B
+MV-ELI-QST-009-06,Gale-Shed Shaft Parry,Unrelenting Ashwood,F1,Demigod L1 Low,B
+MV-ELI-QST-009-07,Held-Bearing Staff Sequence,Escalating Staffspin,F1,Demigod L1 Low,B
+MV-ELI-QST-009-08,Wind-Sworn Stave Bind,Enthralling Ironcap,F1,Demigod L1 Low,B
+MV-ELI-QST-009-09,Plateau-Splitting Stave Blow,Wrathful Tempered Quarterpoint,F6a,Demigod L1 Low,B
+MV-ELI-QST-010-01,Oath Guard Shaft Pose,Aegisash,F5,Demigod L3 Mid,B
+MV-ELI-QST-010-02,Steady Gale Staff Step,Torrent Staffend,F2,Demigod L3 Mid,B
+MV-ELI-QST-010-03,Sworn Shaft Thrust,Mightash,F5,Demigod L3 Mid,B
+MV-ELI-QST-010-04,Wind-Turning Shaft Parry,Torrent Staffgrip,F2,Demigod L3 Mid,B
+MV-ELI-QST-010-05,Marching-Line Staff Sweep,Devastating Rapidspin,F1,Demigod L3 Mid,B
+MV-ELI-QST-010-06,Oath Stave Hold,Immobilizing Nodeknot,F1,Demigod L3 Mid,B
+MV-ELI-QST-010-07,Pledged Advance Stave Sequence,Perchscourge,F4,Demigod L3 Mid,B
+MV-ELI-QST-010-08,Gale-Backed Staff Rap,Ponderous Jabbing,F2,Demigod L3 Mid,B
+MV-ELI-QST-010-09,Unbroken Oath Shaft Smash,Punishing Midstaff,F1,Demigod L3 Mid,B
+MV-ELI-QST-010-10,Windward Standing Staff Guard,Adamantine Balancegrip,F1,Demigod L3 Mid,B
+MV-ELI-QST-010-11,Oath-Breaking Shaft Gale,Brutalizing Staffsweep,F1,Demigod L3 Mid,B
+MV-ELI-QST-011-01,Edge-Standing Shaft Guard,Thornoak,F5,Void God L2 Mid,B
+MV-ELI-QST-011-02,Rim-Walking Stave Step,Silt Rapidspin,F2,Void God L2 Mid,B
+MV-ELI-QST-011-03,Edge Stave Rap,Perchwrath,F4,Void God L2 Mid,B
+MV-ELI-QST-011-04,Sidewind Shaft Parry,Midstaff Tenacity,F3,Void God L2 Mid,B
+MV-ELI-QST-011-05,Bearing Holding Stave Thrust,Iron Jabbing,F2,Void God L2 Mid,B
+MV-ELI-QST-011-06,Rim-Pushing Shaft Press,Hogtying Staffshoe,F1,Void God L2 Mid,B
+MV-ELI-QST-011-07,Cliffside Staff Sequence,Escalating Staffsweep,F1,Void God L2 Mid,B
+MV-ELI-QST-011-08,Gale-Lifting Shaft Sweep,Ruinous Staffsweep,F1,Void God L2 Mid,B
+MV-ELI-QST-011-09,Edge-Held Staff Bind,Harnessing Staffgrip,F1,Void God L2 Mid,B
+MV-ELI-QST-011-10,Plateau Edge Staff Breaker,Rampaging Rollover,F1,Void God L2 Mid,B
+MV-ELI-QST-012-01,First Wind Shaft Stance,Aegis Quarterpoint,F2,Demigod L5 Mid,B
+MV-ELI-QST-012-02,Bearing Change Stave Step,Staffglimmer,F4,Demigod L5 Mid,B
+MV-ELI-QST-012-03,East Wind Stave Strike,Perchhavoc,F4,Demigod L5 Mid,B
+MV-ELI-QST-012-04,West Wind Shaft Strike,Blaze Rapidspin,F2,Demigod L5 Mid,B
+MV-ELI-QST-012-05,Turning Wind Staff Parry,Unconquered Nodeknot,F1,Demigod L5 Mid,B
+MV-ELI-QST-012-06,Cross-Wind Staff Disrupt,Numbing Staffshoe,F1,Demigod L5 Mid,B
+MV-ELI-QST-012-07,Four-Wind Stave Sequence,Overlapping Jabbing,F1,Demigod L5 Mid,B
+MV-ELI-QST-012-08,North Wind Shaft Thrust,Facet Rollover,F2,Demigod L5 Mid,B
+MV-ELI-QST-012-09,Stillpoint Staff Bind,Gyveoak,F5,Demigod L5 Mid,B
+MV-ELI-QST-012-10,South Wind Stave Smash,Vengeful Staffsweep,F1,Demigod L5 Mid,B
+MV-ELI-QST-012-11,Wind-Wheel Closing Stave Form,Reverberating Quarterpoint,F1,Demigod L5 Mid,B
+MV-ELI-QST-012-12,Gathering Gale Shaft Release,Booming Staffsweep,F1,Demigod L5 Mid,B
+MV-ELI-QST-013-01,No-Cover Stave Guard,Granite Ironcap,F2,Demigod L7 Peak,B
+MV-ELI-QST-013-02,Bare-Ground Stave Glide,Dazzling Rollover,F1,Demigod L7 Peak,B
+MV-ELI-QST-013-03,Horizon Shaft Strike,Rumbleoak,F5,Demigod L7 Peak,B
+MV-ELI-QST-013-04,Open Wind Stave Parry,Equipoise Staffgrip,F2,Demigod L7 Peak,B
+MV-ELI-QST-013-05,Wide Bearing Shaft Thrust,Tempered Staffend,F2,Demigod L7 Peak,B
+MV-ELI-QST-013-06,Wind Behind Stave Push,Poleturn Mettle,F3,Demigod L7 Peak,B
+MV-ELI-QST-013-07,Ringing Round Stave Sequence,Ashwrath,F4,Demigod L7 Peak,B
+MV-ELI-QST-013-08,Wall-Less Stave Bind,Thorn Ashwood,F2,Demigod L7 Peak,B
+MV-ELI-QST-013-09,Open Gale Stave Sweep,Gnashing Staffend,F1,Demigod L7 Peak,B
+MV-ELI-QST-013-10,Plateau-Wide Parry Staff Return,Indomitable Midstaff,F1,Demigod L7 Peak,B
+MV-ELI-QST-013-11,Free-Wind Staff Sequence,Synchronized Staffend,F1,Demigod L7 Peak,B
+MV-ELI-QST-013-12,Unwalled Gale Shaft Crest,Grievous Staffsweep,F1,Demigod L7 Peak,B
+MV-ELI-QST-013-13,Horizon-Breaker Stave,Devastating Might Poleturn,F6a,Demigod L7 Peak,B
+MV-ELI-QST-014-01,Low Wind Shaft Guard,Facet Ironcap,F2,Void God L1 Low,B
+MV-ELI-QST-014-02,Skimming Staff Step,Headlong Oakstaff,F1,Void God L1 Low,B
+MV-ELI-QST-014-03,Wind-Cutting Shaft Rap,Staffhavoc,F4,Void God L1 Low,B
+MV-ELI-QST-014-04,Running Shaft Parry,Chime Quarterpoint,F2,Void God L1 Low,B
+MV-ELI-QST-014-05,Slide-Through Shaft Thrust,Rumble Jabbing,F2,Void God L1 Low,B
+MV-ELI-QST-014-06,Footwork Stave Disrupt,Toxinash,F5,Void God L1 Low,B
+MV-ELI-QST-014-07,Gale-Pursuit Shaft Sequence,Multiplying Staffspin,F1,Void God L1 Low,B
+MV-ELI-QST-014-08,Wind Cutback Staff Step,Might Staffgrip,F2,Void God L1 Low,B
+MV-ELI-QST-014-09,Low Gale Shaft Smash,Poleturn Devastation,F3,Void God L1 Low,B
+MV-ELI-QST-014-10,Whirlwind Staff Close,Synchronized Staffsweep,F1,Void God L1 Low,B
+MV-ELI-QST-014-11,Gale Footfall Shaft Strike,Pitiless Staffspin,F1,Void God L1 Low,B
+MV-ELI-QST-015-01,Sworn Guard Shaft Opening,Ironash,F5,Void God L4 High,B
+MV-ELI-QST-015-02,Wind-Held Shaft Step,Granite Balancegrip,F2,Void God L4 High,B
+MV-ELI-QST-015-03,Pledge Staff Rap,Blazeash,F5,Void God L4 High,B
+MV-ELI-QST-015-04,Answering Staff Parry,Gust Ironcap,F2,Void God L4 High,B
+MV-ELI-QST-015-05,Bearing Stave Thrust,Nova Staffend,F2,Void God L4 High,B
+MV-ELI-QST-015-06,Vow Staff Hold,Hogtying Staffgrip,F1,Void God L4 High,B
+MV-ELI-QST-015-07,Counter-Oath Shaft Sequence,Confluent Rapidspin,F1,Void God L4 High,B
+MV-ELI-QST-015-08,Wind-Sworn Staff Smash,Brutalizing Rollover,F1,Void God L4 High,B
+MV-ELI-QST-015-09,Unbroken Guard Stave Return,Obdurate Ashwood,F1,Void God L4 High,B
+MV-ELI-QST-015-10,Oath-Fulfilling Staff Blow,Decimating Rollover,F1,Void God L4 High,B
+MV-ELI-QST-016-01,Plateau Root Stave Stance,Charter Oakstaff,F2,Monarch L3 Low,B
+MV-ELI-QST-016-02,Network Wind Stave Step,Oakflash,F4,Monarch L3 Low,B
+MV-ELI-QST-016-03,Oath Stave Strike,Ashhavoc,F4,Monarch L3 Low,B
+MV-ELI-QST-016-04,Gale Shaft Parry,Murk Nodeknot,F2,Monarch L3 Low,B
+MV-ELI-QST-016-05,Network Bearing Stave Thrust,Hollow Staffspin,F2,Monarch L3 Low,B
+MV-ELI-QST-016-06,Oath-Pressed Stave Hold,Enthralling Staffend,F1,Monarch L3 Low,B
+MV-ELI-QST-016-07,Wind Chain Staff Sequence,Rapidspin Havoc,F3,Monarch L3 Low,B
+MV-ELI-QST-016-08,Monarch's Standing Shaft Guard,Inexorable Balancegrip,F1,Monarch L3 Low,B
+MV-ELI-QST-016-09,Gale-Gathering Staff Smash,Eviscerating Poleturn,F1,Demigod L1 Low,B
+MV-ELI-QST-004-09,Hollow Quarterpoint,Piercing Quarterpoint,F2,Demigod L5 High,B
+MV-ELI-QST-009-05,Hollow Rapidspin,Relentless Rapidspin,F2,Demigod L1 Low,B
+MV-ELI-QST-016-05,Hollow Staffspin,Driving Staffspin,F2,Monarch L3 Low,B

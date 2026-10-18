@@ -1,0 +1,68 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-BFS-001-01,Thrust and Hook Opening,Moththwack,F4,Senior,A
+MV-INT-BFS-001-02,Hook Heel Drag,Levering Shearing,F1,Senior,A
+MV-INT-BFS-001-03,Pinned Elbow Cover,Pleatprop,F4,Senior,A
+MV-INT-BFS-001-04,Straight Pair Step,Scutecurl,F4,Senior,A
+MV-INT-BFS-001-05,Qi Hook Wrench,Viselike Flurry,F1,Senior,A
+MV-INT-BFS-001-06,Thrust Behind the Hook,Brisk Shearedge,F1,Senior,A
+MV-INT-BFS-002-01,Scissor Edge Closing,Rugged Clipper,F1,Senior,A
+MV-INT-BFS-002-02,Open Shear Guard,Hiltfold Carapace,F3,Senior,A
+MV-INT-BFS-002-03,Wrist Shear Snip,Brisk Wristside,F1,Senior,A
+MV-INT-BFS-002-04,Shear and Retreat,Pirouetting Platepoint,F1,Senior,A
+MV-INT-BFS-002-05,Spear Haft Shearing,Savage Cheekhilt,F1,Senior,A
+MV-INT-BFS-002-06,Qi-Edged Scissor Cut,Fierce Edgepair,F1,Senior,A
+MV-INT-BFS-002-07,Shearing Ward Turn,Padded Doublehilt,F1,Senior,A
+MV-INT-BFS-003-01,Orbiting Blade Circle,Resolute Fliptang,F1,Senior,A
+MV-INT-BFS-003-02,Counter Circle Wheel,Pleatbarrier,F4,Senior,A
+MV-INT-BFS-003-03,Ring Break Jab,Acrid Crossing,F1,Senior,A
+MV-INT-BFS-003-04,Loose Wrist Spin,Clutching Shortedge,F1,Senior,A
+MV-INT-BFS-003-05,Wheel Footing Glide,Scudding Shortedge,F1,Senior,A
+MV-INT-BFS-003-06,Half Ring Cut,Wingswat,F4,Senior,A
+MV-INT-BFS-003-07,Qi Ring Ward,Stalwart Swingguard,F1,Senior,A
+MV-INT-BFS-003-08,Flowing Ring Riposte,Brutal Doublehilt,F1,Senior,A
+MV-INT-BFS-004-01,Elbow Drive Cut,Pleatswat,F4,Senior,A
+MV-INT-BFS-004-02,Knuckle Rise Block,Wingbarrier,F4,Senior,A
+MV-INT-BFS-004-03,Sticking Point Jab,Doughty Fliptang,F1,Senior,A
+MV-INT-BFS-004-04,Close Quarter Drift,Pleatcurl,F4,Senior,A
+MV-INT-BFS-004-05,Wrist Pulse Chop,Edgepair Slap,F3,Senior,A
+MV-INT-BFS-004-06,Elbow Pulse Opening,Mothprop,F4,Senior,A
+MV-INT-BFS-005-01,Cross Lock Catch,Levering Wristside,F1,Senior,A
+MV-INT-BFS-005-02,Upturned Guard Lift,Flurrybarrier,F4,Senior,A
+MV-INT-BFS-005-03,Pinned Blade Chop,Keen Scissor,F1,Senior,A
+MV-INT-BFS-005-04,Failed Lock Slip,Lithe Scissor,F1,Senior,A
+MV-INT-BFS-005-05,Twin Pin Hold,Burdening Snapcut,F1,Senior,A
+MV-INT-BFS-005-06,Chin Level Cover,Wingscreen,F4,Senior,A
+MV-INT-BFS-005-07,Qi Seized Lock,Stalling Flurry,F1,Senior,A
+MV-INT-BFS-005-08,Key Turn Release,Clutching Cheekhilt,F1,Senior,A
+MV-INT-BFS-005-09,Lock Break Surge,Rugged Swingguard,F1,Senior,A
+MV-INT-BFS-006-01,Crossing Cut Entry,Clay Crossing,F2,Warrior,B
+MV-INT-BFS-006-02,Meeting Point Hold,Regimen Hiltfold,F2,Warrior,B
+MV-INT-BFS-006-03,Trade Low Cut High,Shearedge Flog,F3,Warrior,B
+MV-INT-BFS-006-04,Slide Off the X,Veering Shearing,F1,Warrior,B
+MV-INT-BFS-006-05,Second Cross Answer,Humwing,F5,Warrior,B
+MV-INT-BFS-006-06,Edge of the Exchange,Harsh Clipper,F1,Warrior,B
+MV-INT-BFS-006-07,Crossing Qi Check,Lunarpleat,F5,Warrior,B
+MV-INT-BFS-007-01,Plain Alternating Stroke,Honedscute,F5,Warrior,B
+MV-INT-BFS-007-02,Rising Wing Guard,Haze Cheekhilt,F2,Warrior,B
+MV-INT-BFS-007-03,Hilt Butt Jolt,Doughty Edgepair,F1,Warrior,B
+MV-INT-BFS-007-04,Lateral Rolling Pace,Ducking Wristside,F1,Warrior,B
+MV-INT-BFS-007-05,Parry Then Mate Return,Buttressed Doublehilt,F1,Warrior,B
+MV-INT-BFS-007-06,False Guard Drop,Slumber Snapcut,F2,Warrior,B
+MV-INT-BFS-007-07,Narrow Door Thrust,Crossing Thwack,F3,Warrior,B
+MV-INT-BFS-007-08,Course Breath Cut,Brassflurry,F5,Warrior,B
+MV-INT-BFS-007-09,Qi Led Pair Weave,Haze Platepoint,F2,Warrior,B
+MV-INT-BFS-007-10,Unbroken Pair Rush,Woven Hiltfold,F1,Warrior,B
+MV-INT-BFS-008-01,Under the Haft Duck,Pleatswerve,F4,Warrior,B
+MV-INT-BFS-008-02,Shaft Riding Slide,Winghasp,F4,Warrior,B
+MV-INT-BFS-008-03,Fingers Off the Wood,Brawn Platepoint,F2,Warrior,B
+MV-INT-BFS-008-04,Haft Cover Parry,Humscute,F5,Warrior,B
+MV-INT-BFS-008-05,Qi Haft Pin,Shearedge Barrier,F3,Warrior,B
+MV-INT-BFS-008-06,Point Past Reach,Gleamwing,F5,Warrior,B
+MV-INT-BFS-009-01,Turned Blow Return,Snapcut Swat,F3,Warrior,B
+MV-INT-BFS-009-02,Inside Parry Answer,Mothbuckle,F4,Warrior,B
+MV-INT-BFS-009-03,Outside Parry Answer,Hum Swingguard,F2,Warrior,B
+MV-INT-BFS-009-04,Waiting Guard Stance,Stalwart Fliptang,F1,Warrior,B
+MV-INT-BFS-009-05,Echoing Step Back,Springing Shearing,F1,Warrior,B
+MV-INT-BFS-009-06,Counter Beat Tap,Stalling Shortedge,F1,Warrior,B
+MV-INT-BFS-009-07,Qi Return Stroke,Ember Flurry,F2,Warrior,B
+MV-INT-BFS-009-08,Mirrored Qi Answer,Gleam Shearedge,F2,Warrior,B

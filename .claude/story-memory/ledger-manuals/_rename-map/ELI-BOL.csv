@@ -1,0 +1,121 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-BOL-001-01,Court Hawk Waiting Stance,Mightwrapup,F5,Demigod L1 Low,B
+MV-ELI-BOL-001-02,Mantling Cord Cover,Aegis Cordthree,F2,Demigod L1 Low,B
+MV-ELI-BOL-001-03,Talon Tip Tap,Stonescourge,F4,Demigod L1 Low,B
+MV-ELI-BOL-001-04,Hawk Perch Reading,Remnant Heavyball,F2,Demigod L1 Low,B
+MV-ELI-BOL-001-05,Stoop-and-Recover Wrap,Fastening Wrapup,F2,Demigod L1 Low,B
+MV-ELI-BOL-001-06,Feather Cord Turn,Chime Cordfork,F2,Demigod L1 Low,B
+MV-ELI-BOL-001-07,Dual Talon Seize,Gyvebola,F5,Demigod L1 Low,B
+MV-ELI-BOL-001-08,Hovering Pressure Orbit,Shackle Ruin,F3,Demigod L1 Low,B
+MV-ELI-BOL-001-09,Judgement Stoop Cast,Decimating Tripcord Scourge,F6b,Demigod L1 Low,B
+MV-ELI-BOL-002-01,Basin Orbit Ready Stance,Gust Ballsling,F2,Demigod L3 Low,B
+MV-ELI-BOL-002-02,Twin Wrist Roll,Impenetrable Joinknot,F1,Demigod L3 Low,B
+MV-ELI-BOL-002-03,Paired Shin Cast,Stoneruin,F4,Demigod L3 Low,B
+MV-ELI-BOL-002-04,Rim Cord Rap,Grievous Stonehead,F1,Demigod L3 Low,B
+MV-ELI-BOL-002-05,Twin Orbit Entrapment,Overbearing Whirlcast,F1,Demigod L3 Low,B
+MV-ELI-BOL-002-06,Basin Floor Drag,Thornhobble,F5,Demigod L3 Low,B
+MV-ELI-BOL-002-07,Paired Orbit Shift,Siltorb,F5,Demigod L3 Low,B
+MV-ELI-BOL-002-08,Twin Orbit Whirl Ring,Granite Hobble,F2,Demigod L3 Low,B
+MV-ELI-BOL-002-09,Reversing Orbit Return,Bolaweight Durance,F3,Demigod L3 Low,B
+MV-ELI-BOL-002-10,Twin Weight Basin Overflow,Decimating Downpour Spindle,F6a,Demigod L3 Low,B
+MV-ELI-BOL-003-01,Azure Pair Draw,Facetbola,F5,Demigod L5 Mid,B
+MV-ELI-BOL-003-02,Sky Line Reading,Verity Stonehead,F2,Demigod L5 Mid,B
+MV-ELI-BOL-003-03,Pair Weight Check,Stonenerve,F4,Demigod L5 Mid,B
+MV-ELI-BOL-003-04,Azure Pair Entangle,Thornbola,F5,Demigod L5 Mid,B
+MV-ELI-BOL-003-05,Paired Counter Wrap,Toxin Wrapup,F2,Demigod L5 Mid,B
+MV-ELI-BOL-003-06,Stooping Pair Strike,Might Cordthree,F2,Demigod L5 Mid,B
+MV-ELI-BOL-003-07,Azure Dual Fall,Fetterhavoc,F4,Demigod L5 Mid,B
+MV-ELI-BOL-003-08,Sky Lattice Snare,Stonevalor,F4,Demigod L5 Mid,B
+MV-ELI-BOL-003-09,Azure Pair Vanishing Step,Stoneglimmer,F4,Demigod L5 Mid,B
+MV-ELI-BOL-004-01,Court Bank Stance,Torrent Bindfall,F2,Demigod L7 Mid,B
+MV-ELI-BOL-004-02,River Pace Throw,Nova Knotcenter,F2,Demigod L7 Mid,B
+MV-ELI-BOL-004-03,Pair Cord Gather,Mastering Fetter,F1,Demigod L7 Mid,B
+MV-ELI-BOL-004-04,Weight Ripple Rap,Gustfetter,F5,Demigod L7 Mid,B
+MV-ELI-BOL-004-05,Current Bind Pair,Fastening Fetter,F2,Demigod L7 Mid,B
+MV-ELI-BOL-004-06,Cord Undertow Haul,Mayhem Spindle,F2,Demigod L7 Mid,B
+MV-ELI-BOL-004-07,Paired Cord Court Rebuff,Chime Heavyball,F2,Demigod L7 Mid,B
+MV-ELI-BOL-004-08,Delta Tangle Sweep,Slag Tripcord,F2,Demigod L7 Mid,B
+MV-ELI-BOL-004-09,Stream Joining Sequence,Intentstone,F5,Demigod L7 Mid,B
+MV-ELI-BOL-004-10,River Court Flood Binding,Immobilizing Bolaweight,F1,Demigod L7 Mid,B
+MV-ELI-BOL-005-01,Dual-Track Weights Ready Stance,Torrential Knotcenter,F1,Void God L2 Low,B
+MV-ELI-BOL-005-02,Left Track Cast,Fetterscourge,F4,Void God L2 Low,B
+MV-ELI-BOL-005-03,Right Track Follow Cast,Lacerating Hobble,F1,Void God L2 Low,B
+MV-ELI-BOL-005-04,Cord Track Crossing Step,Torrential Bindfall,F1,Void God L2 Low,B
+MV-ELI-BOL-005-05,Parallel Cord Guard,Unassailable Cordfork,F1,Void God L2 Low,B
+MV-ELI-BOL-005-06,Parallel Track Wrap,Wrapupdurance,F4,Void God L2 Low,B
+MV-ELI-BOL-005-07,Crossing Track Haul,Ponderous Shackle,F2,Void God L2 Low,B
+MV-ELI-BOL-005-08,Track Reading Glance,Radiant Stonehead,F1,Void God L2 Low,B
+MV-ELI-BOL-005-09,Dual Track Pincer,Gnashing Cordfork,F1,Void God L2 Low,B
+MV-ELI-BOL-005-10,Track Switch Sequence,Bolawrath,F4,Void God L2 Low,B
+MV-ELI-BOL-005-11,Twin Track Capture,Thorn Fetter,F2,Void God L2 Low,B
+MV-ELI-BOL-006-01,Rising Cord Lift,Headlong Hobble,F1,Void God L6 High,B
+MV-ELI-BOL-006-02,Azure Drop Throw,Wrathful Wrapup,F1,Void God L6 High,B
+MV-ELI-BOL-006-03,Descent Landing Step,Torrential Ballsling,F1,Void God L6 High,B
+MV-ELI-BOL-006-04,Plunging Wrap,Thornstone,F5,Void God L6 High,B
+MV-ELI-BOL-006-05,Updraft Fend,Equipoise Knotcenter,F2,Void God L6 High,B
+MV-ELI-BOL-006-06,High Sky Watch,Stonevigil,F4,Void God L6 High,B
+MV-ELI-BOL-006-07,Plummet Net Cast,Granite Joinknot,F2,Void God L6 High,B
+MV-ELI-BOL-006-08,Descending Line Trap,Deed Tripcord,F2,Void God L6 High,B
+MV-ELI-BOL-006-09,Azure Fall Hobble,Ironhobble,F5,Void God L6 High,B
+MV-ELI-BOL-007-01,Wind-Faced Low Weight Stance,Torrent Heavyball,F2,Demigod L2 Low,B
+MV-ELI-BOL-007-02,Sworn Cord Line Cast,Corroding Whirlcast,F1,Demigod L2 Low,B
+MV-ELI-BOL-007-03,Gust Break Guard,Inexorable Ballsling,F1,Demigod L2 Low,B
+MV-ELI-BOL-007-04,Wind Seeking Wrap Cast,Numbing Bolaweight,F1,Demigod L2 Low,B
+MV-ELI-BOL-007-05,Bearing Held Haul,Enthralling Joinknot,F1,Demigod L2 Low,B
+MV-ELI-BOL-007-06,Plateau Runner Reading,Veritystone,F5,Demigod L2 Low,B
+MV-ELI-BOL-007-07,Windward Oath Snare,Gyve Whirlcast,F2,Demigod L2 Low,B
+MV-ELI-BOL-007-08,Far Wind Reach Throw,Merciless Cordthree,F1,Demigod L2 Low,B
+MV-ELI-BOL-007-09,Gale Oath Cast and Haul,Escalating Spindle,F1,Demigod L2 Low,B
+MV-ELI-BOL-007-10,Wind Guided Seizure,Strangling Whirlcast,F1,Demigod L2 Low,B
+MV-ELI-BOL-008-01,Plateau Oath Weight Stance,Mighthobble,F5,Demigod L6 Mid,B
+MV-ELI-BOL-008-02,Sworn Pace Cast,Rumble Ballsling,F2,Demigod L6 Mid,B
+MV-ELI-BOL-008-03,Lean-Back Cord Check,Thorn Bolaweight,F2,Demigod L6 Mid,B
+MV-ELI-BOL-008-04,Plateau Oath Cord Cinch,Overpowering Hobble,F1,Demigod L6 Mid,B
+MV-ELI-BOL-008-05,Runner's Edge Step,Shackle Vortex,F3,Demigod L6 Mid,B
+MV-ELI-BOL-008-06,Open Air Parry Whirl,Equipoise Heavyball,F2,Demigod L6 Mid,B
+MV-ELI-BOL-008-07,Oath Held Snare Line,Silt Cordthree,F2,Demigod L6 Mid,B
+MV-ELI-BOL-008-08,Plateau Weighted Wide Sweep,Siltwrapup,F5,Demigod L6 Mid,B
+MV-ELI-BOL-008-09,Oath-Bound Capture,Gyve Tripcord,F2,Demigod L6 Mid,B
+MV-ELI-BOL-009-01,Unwalled Cord Stance,Silt Joinknot,F2,Void God L1 Low,B
+MV-ELI-BOL-009-02,Bearing Mark Cast,Chime Wrapup,F2,Void God L1 Low,B
+MV-ELI-BOL-009-03,Open Side Flick,Wrapupspine,F4,Void God L1 Low,B
+MV-ELI-BOL-009-04,Full Circle Watch,Expanse Spindle,F2,Void God L1 Low,B
+MV-ELI-BOL-009-05,Wind Break Step,Might Knotcenter,F2,Void God L1 Low,B
+MV-ELI-BOL-009-06,Bearing-Locked Cord Wrap,Cordfork Fortitude,F3,Void God L1 Low,B
+MV-ELI-BOL-009-07,Open Ground Haul,Stonespine,F4,Void God L1 Low,B
+MV-ELI-BOL-009-08,Overhead Whirl Rain Guard,Charter Stonehead,F2,Void God L1 Low,B
+MV-ELI-BOL-009-09,Wall-Less Whirl Sweep,Daybreak Bolaweight,F2,Void God L1 Low,B
+MV-ELI-BOL-009-10,Bearing Tripline Field,Charter Joinknot,F2,Void God L1 Low,B
+MV-ELI-BOL-009-11,Unwalled Sweeping Capture,Strangling Spindle Fortitude,F6b,Void God L1 Low,B
+MV-ELI-BOL-010-01,Gale Leaning Stance,Silt Shackle,F2,Void God L4 Mid,B
+MV-ELI-BOL-010-02,Gust Timed Release,Hellish Heavyball,F1,Void God L4 Mid,B
+MV-ELI-BOL-010-03,Cord Whip in the Wind,Blazebola,F5,Void God L4 Mid,B
+MV-ELI-BOL-010-04,Curving Gale Wrap,Gyve Ballsling,F2,Void God L4 Mid,B
+MV-ELI-BOL-010-05,Updraft Parry Whirl,Equipoise Tripcord,F2,Void God L4 Mid,B
+MV-ELI-BOL-010-06,Gale Reading Step,Fetter Glimmer,F3,Void God L4 Mid,B
+MV-ELI-BOL-010-07,Gale Riding Reach Cast,Lacerating Cordfork,F1,Void God L4 Mid,B
+MV-ELI-BOL-010-08,Gale Roped Tripline,Fastening Cordthree,F2,Void God L4 Mid,B
+MV-ELI-BOL-010-09,Gale Bent Seizing Cast,Bindfall Fortitude,F3,Void God L4 Mid,B
+MV-ELI-BOL-011-01,Horizon Facing Stance,Granite Knotcenter,F2,True God L1 Low,B
+MV-ELI-BOL-011-02,Dust Plume Sighting,Veritybola,F5,True God L1 Low,B
+MV-ELI-BOL-011-03,Sworn Far Cast,Gnashing Whirlcast,F1,True God L1 Low,B
+MV-ELI-BOL-011-04,Cord Hand-Over Haul,Thorn Bindfall,F2,True God L1 Low,B
+MV-ELI-BOL-011-05,Oath Marked Wrap,Hobblevalor,F4,True God L1 Low,B
+MV-ELI-BOL-011-06,Horizon Drop Throw,Wrapup Devastation,F3,True God L1 Low,B
+MV-ELI-BOL-011-07,Lee Side Fend,Murk Cordthree,F2,True God L1 Low,B
+MV-ELI-BOL-011-08,Horizon Sweep Cast,Granite Fetter,F2,True God L1 Low,B
+MV-ELI-BOL-011-09,Oath Line Across the Plain,Malignant Heavyball,F1,True God L1 Low,B
+MV-ELI-BOL-011-10,Horizon Oath Capture,Fastening Bindfall,F2,True God L1 Low,B
+MV-ELI-BOL-012-01,Long Bearing Stance,Torrent Hobble,F2,True God L5 Mid,B
+MV-ELI-BOL-012-02,Bearing Pace Count,Revitalizing Spindle,F1,True God L5 Mid,B
+MV-ELI-BOL-012-03,Long Bearing Weight Cast,Berserk Shackle,F1,True God L5 Mid,B
+MV-ELI-BOL-012-04,Held Bearing Fend,Chime Joinknot,F2,True God L5 Mid,B
+MV-ELI-BOL-012-05,Cord Lean Haul,Ponderous Tripcord,F2,True God L5 Mid,B
+MV-ELI-BOL-012-06,Plateau Crossing Snare,Orbmettle,F4,True God L5 Mid,B
+MV-ELI-BOL-012-07,Bearing Pursuit Step,Might Cordfork,F2,True God L5 Mid,B
+MV-ELI-BOL-012-08,Oath Tension Hold,Hoarfrost Wrapup,F2,True God L5 Mid,B
+MV-ELI-BOL-012-09,Cord Bearing Reversal Counter,Obdurate Knotcenter,F1,True God L5 Mid,B
+MV-ELI-BOL-012-10,Full Plateau Sweep,Daybreak Ballsling,F2,True God L5 Mid,B
+MV-ELI-BOL-012-11,Bearing Line Snare Field,Novastone,F5,True God L5 Mid,B
+MV-ELI-BOL-012-12,Long Bearing Binding,Enthralling Bindfall,F1,True God L5 Mid,B
+MV-ELI-BOL-009-04,Expanse Spindle,Acute Spindle,F2,Void God L1 Low,B

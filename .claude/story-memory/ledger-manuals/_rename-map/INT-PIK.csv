@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-PIK-001-01,Line-Brace Shoulder Lock,Stubborn Pikecollar,F1,Senior L5 Low,A
+MV-INT-PIK-001-02,Braced Line Short Jab,Wild Levelhold,F1,Senior L5 Low,A
+MV-INT-PIK-001-03,File-Closing Side Step,Fleet Couchout,F1,Senior L5 Low,A
+MV-INT-PIK-001-04,Neighbour-Shaft Press Reading,Shaftlinen,F4,Senior L5 Low,A
+MV-INT-PIK-001-05,Line-Shock Qi Surge,Lurching Bristle,F1,Senior L5 Low,A
+MV-INT-PIK-001-06,Press-Easing Shaft Give,Stalwart Pikehead,F1,Senior L5 Low,A
+MV-INT-PIK-002-01,Horse-Breast Aim Hold,Pikebarrier,F4,Senior L8 Low,A
+MV-INT-PIK-002-02,Rider-Seat Upward Thrust,Rude Brace,F1,Senior L8 Low,A
+MV-INT-PIK-002-03,Bridle-Arm Knock,Gripping Steelcap,F1,Senior L8 Low,A
+MV-INT-PIK-002-04,Stirrup-Side Quick Step,Lithe Footspike,F1,Senior L8 Low,A
+MV-INT-PIK-002-05,Lance-Shaft Slide Catch,Unmoving Pikeshaft,F1,Senior L8 Low,A
+MV-INT-PIK-002-06,Fallen-Horse Retreat Shuffle,Braceglide,F4,Senior L8 Low,A
+MV-INT-PIK-002-07,Gallop-Shock Ground Wedge,Stalwart Pikebands,F1,Senior L8 Low,A
+MV-INT-PIK-002-08,Foreleg Point Drop,Ashstaff Thwack,F3,Senior L8 Low,A
+MV-INT-PIK-003-01,Trailing Pike Low Carry,Veering Mastlength,F1,Senior L3 Mid,A
+MV-INT-PIK-003-02,Trail-to-Level Snap Lift,Shaftflog,F4,Senior L3 Mid,A
+MV-INT-PIK-003-03,Choke-Slide Close Preparation,Shaftcurl,F4,Senior L3 Mid,A
+MV-INT-PIK-003-04,Butt-Drag Line Retreat,Shaftswerve,F4,Senior L3 Mid,A
+MV-INT-PIK-003-05,Trailing Shaft Rising Ward,Pikeshoe Barrier,F3,Senior L3 Mid,A
+MV-INT-PIK-003-06,Short-Grip Triple Stabs,Pikeslap,F4,Senior L3 Mid,A
+MV-INT-PIK-003-07,Hidden-Point Rising Pierce,Lassoing Press,F1,Senior L3 Mid,A
+MV-INT-PIK-004-01,Hedge-Gap Poke,Draught Steelcap,F2,Warrior L1 Low,B
+MV-INT-PIK-004-02,Hedge-Cross Enemy Beat,Discord Levelhold,F2,Warrior L1 Low,B
+MV-INT-PIK-004-03,Rank-Behind Qi Lend,Sprout Pikeshaft,F2,Warrior L1 Low,B
+MV-INT-PIK-004-04,Hedge-Closing Shuffle,Veering Brace,F1,Warrior L1 Low,B
+MV-INT-PIK-004-05,Neighbour Shaft Cross-Guard,Hum Longpole,F2,Warrior L1 Low,B
+MV-INT-PIK-004-06,Second-Rank Shoulder Thrust,Stern Pikehead,F1,Warrior L1 Low,B
+MV-INT-PIK-004-07,Twin-Shaft Enemy Pin,Stamp Present,F2,Warrior L1 Low,B
+MV-INT-PIK-004-08,Hedge-Front Qi Rake,Pressscorer,F4,Warrior L1 Low,B
+MV-INT-PIK-004-09,Crossed-Shaft Qi Lattice,Sprig Mastlength,F2,Warrior L1 Low,B
+MV-INT-PIK-004-10,Same-Gap Relay Thrust,Shaftthwack,F4,Warrior L1 Low,B
+MV-INT-PIK-005-01,Crowd-Press Shaft Choke,Rooted Ashstaff,F1,Senior L6 Mid,A
+MV-INT-PIK-005-02,Tucked-Elbow Crowd Stab,Pikeshoe Thwack,F3,Senior L6 Mid,A
+MV-INT-PIK-005-03,Iron-Butt Face Smash,Press Hammerfall,F3,Senior L6 Mid,A
+MV-INT-PIK-005-04,Edge-On Press-Gap Slip,Prowling Pikebands,F1,Senior L6 Mid,A
+MV-INT-PIK-005-05,Crosswise Shaft Space-Maker,Burdening Couchout,F1,Senior L6 Mid,A
+MV-INT-PIK-005-06,Beneath-Arm Rib Stab,Harsh Longpole,F1,Senior L6 Mid,A
+MV-INT-PIK-005-07,Measured Qi Short-Drive,Hungry Footspike,F1,Senior L6 Mid,A
+MV-INT-PIK-005-08,Crowd-Weight Shaft Reading,Shaftcordial,F4,Senior L6 Mid,A
+MV-INT-PIK-005-09,Shortened Shaft Clearing Spin,Shaftprop,F4,Senior L6 Mid,A
+MV-INT-PIK-006-01,Stride-Fed Qi Thrust,Honedbrace,F5,Warrior L2 Mid,B
+MV-INT-PIK-006-02,Level-Carry Fast Advance,Clay Steelcap,F2,Warrior L2 Mid,B
+MV-INT-PIK-006-03,Backstep Qi Return,Hum Pikecollar,F2,Warrior L2 Mid,B
+MV-INT-PIK-006-04,Ground-Read Pace Marker,Pikebandage,F4,Warrior L2 Mid,B
+MV-INT-PIK-006-05,Double-Stride Pike Surge,Slinking Present,F1,Warrior L2 Mid,B
+MV-INT-PIK-006-06,Footfall-Fed Piercing Drive,Honedshaft,F5,Warrior L2 Mid,B
+MV-INT-PIK-007-01,Low-Point Thigh Stab,Dire Bristle,F1,Senior L2 Low,A
+MV-INT-PIK-007-02,Rising Butt Chin Strike,Dire Ashstaff,F1,Senior L2 Low,A
+MV-INT-PIK-007-03,Point-Drop Cross Guard,Rigid Footspike,F1,Senior L2 Low,A
+MV-INT-PIK-007-04,Butt-Up Reverse Ward,Pikebuckle,F4,Senior L2 Low,A
+MV-INT-PIK-007-05,Level-to-Low Pike Dip,Clutching Levelhold,F1,Senior L2 Low,A
+MV-INT-PIK-007-06,Low-Line Advance Step,Masthurdle,F4,Senior L2 Low,A
+MV-INT-PIK-007-07,Low-Point Qi Undercut,Rude Present,F1,Senior L2 Low,A
+MV-INT-PIK-007-08,Rising Butt Qi Hammer,Pikeswat,F4,Senior L2 Low,A
+MV-INT-PIK-008-01,Beat-and-Stab Counter,Brawn Bristle,F2,Warrior L5 Low,B
+MV-INT-PIK-008-02,Rear-Foot Brace Answer,Clay Longpole,F2,Warrior L5 Low,B
+MV-INT-PIK-008-03,Inward Counter-Step Slip,Clay Press,F2,Warrior L5 Low,B
+MV-INT-PIK-008-04,Meeting-Shaft Twist Turn,Humpress,F5,Warrior L5 Low,B
+MV-INT-PIK-008-05,Braced Recovery Draw,Guarding Pikeshaft,F1,Warrior L5 Low,B
+MV-INT-PIK-008-06,Matched-Thrust Qi Overreach,Fierce Pikebands,F1,Warrior L5 Low,B
+MV-INT-PIK-008-07,Brace-Held Counter Surge,Brass Pikecollar,F2,Warrior L5 Low,B

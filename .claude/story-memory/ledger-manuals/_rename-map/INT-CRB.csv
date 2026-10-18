@@ -1,0 +1,80 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-CRB-001-01,Cranequin Claw Hook,Alert Latch,F1,Senior-,A
+MV-INT-CRB-001-02,Geared Handle Half Turns,Latchlinen,F4,Senior-,A
+MV-INT-CRB-001-03,Claw Flick Unhook,Sound Tripbar,F1,Senior-,A
+MV-INT-CRB-001-04,Heavy Drop Lift Aim,Stockcordial,F4,Senior-,A
+MV-INT-CRB-001-05,Geared Bolt Punch,Trigger Hammerfall,F3,Senior-,A
+MV-INT-CRB-001-06,Standing Crank Reload,Cooling Bowprod,F1,Senior-,A
+MV-INT-CRB-002-01,Rank Beat Count,Latchcordial,F4,Senior-,A
+MV-INT-CRB-002-02,Front Rank Kneel,Fleet Stirrup,F1,Senior-,A
+MV-INT-CRB-002-03,Over Shoulder Hold,Alert Windlass,F1,Senior-,A
+MV-INT-CRB-002-04,Span Behind Line,Soothing Boltrail,F1,Senior-,A
+MV-INT-CRB-002-05,Passing Gap Step,Veering Setback,F1,Senior-,A
+MV-INT-CRB-002-06,Caller Word Listen,Latchtonic,F4,Senior-,A
+MV-INT-CRB-002-07,Staggered Rank Loose,Releaseclack Flog,F3,Senior-,A
+MV-INT-CRB-002-08,Hide Board Lift,Guarding Stock,F1,Senior-,A
+MV-INT-CRB-003-01,Bridle Cord Tighten,Brawnsear,F5,Warrior+,B
+MV-INT-CRB-003-02,String Wax Rub,Sure Sear,F1,Warrior+,B
+MV-INT-CRB-003-03,Serving Thread Check,Gap Trigger,F2,Warrior+,B
+MV-INT-CRB-003-04,Prod Tiller Test,Gap Sear,F2,Warrior+,B
+MV-INT-CRB-003-05,Limb Cool Rest,Searlinen,F4,Warrior+,B
+MV-INT-CRB-003-06,Stiff Prod Qi Span,Dawn Cranequin,F2,Warrior+,B
+MV-INT-CRB-003-07,Bridled Hard Loose,Honed Cranking,F2,Warrior+,B
+MV-INT-CRB-004-01,Board Plant Stand,Shelter Latch,F2,Warrior+,B
+MV-INT-CRB-004-02,Cover Span Crouch,Dawnsear,F5,Warrior+,B
+MV-INT-CRB-004-03,Peek Rise Loose,Emberlatch,F5,Warrior+,B
+MV-INT-CRB-004-04,Board Edge Sight,Recalllatch,F5,Warrior+,B
+MV-INT-CRB-004-05,Side Slip Behind Board,Spanzip,F4,Warrior+,B
+MV-INT-CRB-004-06,Bolt Rack Stack,Poiselatch,F5,Warrior+,B
+MV-INT-CRB-004-07,Board Edge Rest Shot,Keen Bowprod,F1,Warrior+,B
+MV-INT-CRB-004-08,Advancing Board Step,Draught Twang,F2,Warrior+,B
+MV-INT-CRB-004-09,Board Wedge Brace,Brasssear,F5,Warrior+,B
+MV-INT-CRB-005-01,Range Stone Pacing,Recall Stock,F2,Warrior+,B
+MV-INT-CRB-005-02,Marker Post Glance,Latchbandage,F4,Warrior+,B
+MV-INT-CRB-005-03,Call Pitch Hold,Knitting Windlass,F1,Warrior+,B
+MV-INT-CRB-005-04,Elevation Notch Set,Genial Boltrail,F1,Warrior+,B
+MV-INT-CRB-005-05,Fixed Range Loose,Ember Quarrel,F2,Warrior+,B
+MV-INT-CRB-005-06,Range Call Repeat,Gap Tripbar,F2,Warrior+,B
+MV-INT-CRB-005-07,Mark Cairn Count,Humsear,F5,Warrior+,B
+MV-INT-CRB-005-08,Far Notch Arc Loose,Draught Span,F2,Warrior+,B
+MV-INT-CRB-005-09,Hail Line Barrage,Quarrel Swat,F3,Warrior+,B
+MV-INT-CRB-005-10,Range Shift Reset,Seartonic,F4,Warrior+,B
+MV-INT-CRB-006-01,Stock Butt Strike,Ember Setback,F2,Warrior+,B
+MV-INT-CRB-006-02,Limb Flat Parry,Draught Stirrup,F2,Warrior+,B
+MV-INT-CRB-006-03,Close Slip Step,Brawn Twang,F2,Warrior+,B
+MV-INT-CRB-006-04,Club Turn Grip,Poise Sear,F2,Warrior+,B
+MV-INT-CRB-006-05,Point Blank Loose,Cruel Span,F1,Warrior+,B
+MV-INT-CRB-006-06,Stock Rake Rebound,Savage Cranking,F1,Warrior+,B
+MV-INT-CRB-006-07,Strike Then Loose,Honedstock,F5,Warrior+,B
+MV-INT-CRB-007-01,Bodkin Head Choose,Candor Boltrail,F2,Warrior+,B
+MV-INT-CRB-007-02,Narrow Point Seat,Brawn Cranequin,F2,Warrior+,B
+MV-INT-CRB-007-03,Plate Seam Sight,Patient Bowprod,F1,Warrior+,B
+MV-INT-CRB-007-04,Straight Drive Loose,Twangscorer,F4,Warrior+,B
+MV-INT-CRB-007-05,Shaft Weight Balance,Brawnstock,F5,Warrior+,B
+MV-INT-CRB-007-06,Head Edge Hone,Genial Latch,F1,Warrior+,B
+MV-INT-CRB-007-07,Seam Split Quarrel,Raw Trigger,F1,Warrior+,B
+MV-INT-CRB-007-08,Layered Cloth Pierce,Harsh Cranking,F1,Warrior+,B
+MV-INT-CRB-008-01,Hedge Dash Step,Draught Tripbar,F2,Warrior+,B
+MV-INT-CRB-008-02,Brief Halt Aim,Attentive Stock,F1,Warrior+,B
+MV-INT-CRB-008-03,Loose and Fall Back,Stockscorer,F4,Warrior+,B
+MV-INT-CRB-008-04,Rear Glance Check,Candor Stirrup,F2,Warrior+,B
+MV-INT-CRB-008-05,Running Reload Weave,Searcordial,F4,Warrior+,B
+MV-INT-CRB-008-06,Skirmish Snap Volley,Sleet Releaseclack,F2,Warrior+,B
+MV-INT-CRB-009-01,Bolt Cord Knot,Poise Windlass,F2,Warrior+,B
+MV-INT-CRB-009-02,Line Payout Check,Recall Boltrail,F2,Warrior+,B
+MV-INT-CRB-009-03,Low Leg Aim,Candorlatch,F5,Warrior+,B
+MV-INT-CRB-009-04,Shin Mark Loose,Raw Releaseclack,F1,Warrior+,B
+MV-INT-CRB-009-05,Calf Sight Drop,Gaplatch,F5,Warrior+,B
+MV-INT-CRB-009-06,Tangle Step Back,Prowling Twang,F1,Warrior+,B
+MV-INT-CRB-009-07,Hobble Cord Bolt,Twang Screen,F3,Warrior+,B
+MV-INT-CRB-009-08,Stumble Bolt Loose,Levering Span,F1,Warrior+,B
+MV-INT-CRB-009-09,Snared Reel Pull,Binding Setback,F1,Warrior+,B
+MV-INT-CRB-010-01,Heavy Draw Squat,Dawn Latch,F2,Warrior+,B
+MV-INT-CRB-010-02,Dual Stirrup Brace,Trigger Cordial,F3,Warrior+,B
+MV-INT-CRB-010-03,Lever Haul Count,Dawn Windlass,F2,Warrior+,B
+MV-INT-CRB-010-04,Prod Creak Listen,Humlatch,F5,Warrior+,B
+MV-INT-CRB-010-05,Long Rail Bolt Seat,Sound Cranequin,F1,Warrior+,B
+MV-INT-CRB-010-06,Sustained Hold Breath,Dawn Tripbar,F2,Warrior+,B
+MV-INT-CRB-010-07,Heavy Prod Slow Loose,Shard Stirrup,F2,Warrior+,B
+MV-INT-CRB-010-08,Stout Bolt Stagger,Brutal Releaseclack,F1,Warrior+,B
+MV-INT-CRB-004-01,Shelter Latch,Braced Latch,F2,Warrior+,B

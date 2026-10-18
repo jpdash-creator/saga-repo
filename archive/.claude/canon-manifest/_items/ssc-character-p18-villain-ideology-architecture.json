@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-character-p18-villain-ideology-architecture",
+ "part": 18,
+ "area": 2,
+ "sequence_in_part": 2,
+ "title": "Villain Ideology Architecture",
+ "domain": "character",
+ "source_file": "Part_18_Character_Villain_Law.md",
+ "start_line": 108,
+ "end_line": 149,
+ "line_count": 42,
+ "output_path": ".claude/skills/ssc-character-p18-villain-ideology-architecture/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-character-p16-foundational-principles-character",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Villain routing from Part 16 classification → Part 18 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Villain routing from Part 16 classification → Part 18 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-technology",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Villain routing from Part 16 classification → Part 18 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-military-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Villain routing from Part 16 classification → Part 18 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-academic-scholarly-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Villain routing from Part 16 classification → Part 18 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-governance-administrative-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Villain routing from Part 16 classification → Part 18 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-commerce-resource-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Villain routing from Part 16 classification → Part 18 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-criminal-underground-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Villain routing from Part 16 classification → Part 18 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-location-civilization-context",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Villain routing from Part 16 classification → Part 18 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-power-equivalence-cultivation-vs-technology",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Villain routing from Part 16 classification → Part 18 governance"
+  }
+ ]
+}

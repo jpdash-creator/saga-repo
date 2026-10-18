@@ -1,0 +1,126 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-EST-001-01,Armor Piercing Stance,Charter Hardtip,F2,Champion,B
+MV-ADV-EST-001-02,Seated Point Thrust,Harpooning Squaretip,F1,Champion,B
+MV-ADV-EST-001-03,Crouching Entry Step,Drillpounce,F4,Champion,B
+MV-ADV-EST-001-04,Wrist Locked Parry,Gust Rigidtang,F2,Champion,B
+MV-ADV-EST-001-05,Plate Face Reading,Heartening Bracespine,F1,Champion,B
+MV-ADV-EST-001-06,Layered Armor Bore,Tautassault,F4,Champion,B
+MV-ADV-EST-001-07,Seam Chasing Bind,Thorndrill,F5,Champion,B
+MV-ADV-EST-001-08,Breastplate Skid Thrust,Scything Impale,F1,Champion,B
+MV-ADV-EST-001-09,Plate Splitting Lunge,Rumble Pierce,F2,Champion,B
+MV-ADV-EST-001-10,Piercing Rain of Points,Hourstrait,F5,Champion,B
+MV-ADV-EST-002-01,Square Edge Alignment,Daybreak Trianglespine,F2,Champion,B
+MV-ADV-EST-002-02,Four Face Thrust,Raging Squarepoint,F1,Champion,B
+MV-ADV-EST-002-03,Squared Footing,Gustimpale,F5,Champion,B
+MV-ADV-EST-002-04,Stiff Blade Check,Murkslender,F5,Champion,B
+MV-ADV-EST-002-05,Qi Ridge Channeling,Rumble Thrustspine,F2,Champion,B
+MV-ADV-EST-002-06,Faceted Beat Away,Unbroken Stiffspine,F1,Champion,B
+MV-ADV-EST-002-07,Four Ridge Drilling Thrust,Iron Skewer,F2,Champion,B
+MV-ADV-EST-002-08,Unyielding Blade Shield,Adamant Iron Longtang,F6a,Champion,B
+MV-ADV-EST-003-01,Unbending Stance,Hoarfrost Stiffspine,F2,Demigod,B
+MV-ADV-EST-003-02,Rigid Line Thrust,Facet Thrustspine,F2,Demigod,B
+MV-ADV-EST-003-03,Firm Footed Advance,Might Stiffblade,F2,Demigod,B
+MV-ADV-EST-003-04,Hand Set Check,Stiffblade Linctus,F3,Demigod,B
+MV-ADV-EST-003-05,Swatting Parry,Equipoise Bracespine,F2,Demigod,B
+MV-ADV-EST-003-06,Distance Sensing Breath,Verity Trianglespine,F2,Demigod,B
+MV-ADV-EST-003-07,Rigid Qi Skewer,Rumble Rigidtang,F2,Demigod,B
+MV-ADV-EST-003-08,Unyielding Bind,Gouge Greave,F3,Demigod,B
+MV-ADV-EST-003-09,Stiff Wrist Whip,Scorching Gouge,F1,Demigod,B
+MV-ADV-EST-003-10,Unbending Piercing Charge,Hollow Squarepoint,F2,Demigod,B
+MV-ADV-EST-003-11,Line Holding Counter,Glint Longtang,F2,Demigod,B
+MV-ADV-EST-004-01,Seam Reading Gaze,Rejuvenating Hardtip,F1,Demigod,B
+MV-ADV-EST-004-02,Plate Seam Prod,Iron Drill,F2,Demigod,B
+MV-ADV-EST-004-03,Shuffle Past Guard,Granite Bore,F2,Demigod,B
+MV-ADV-EST-004-04,Plate Shield Cover,Iron Squaretip,F2,Demigod,B
+MV-ADV-EST-004-05,Seam Prying Twist,Mayhem Pierce,F2,Demigod,B
+MV-ADV-EST-004-06,Rivet Line Thrust,Lambasting Skewer,F1,Demigod,B
+MV-ADV-EST-004-07,Lining Tear Thrust,Facet Pierce,F2,Demigod,B
+MV-ADV-EST-004-08,Seam Splitting Drive,Unmaking Stiffblade,F1,Demigod,B
+MV-ADV-EST-004-09,Plate Rattling Beat,Rupturing Gouge,F1,Demigod,B
+MV-ADV-EST-005-01,Dual-Track Estoc Opening Guard,Thorn Bracespine,F2,Champion,B
+MV-ADV-EST-005-02,Paired Point Thrust,Tempered Drill,F2,Champion,B
+MV-ADV-EST-005-03,Twin Step Approach,Impalesprint,F4,Champion,B
+MV-ADV-EST-005-04,Track Switching Parry,Chime Squarepoint,F2,Champion,B
+MV-ADV-EST-005-05,Azure Line Reading,Waning Stiffspine,F2,Champion,B
+MV-ADV-EST-005-06,Dual Grip Setting,Equipoise Hardtip,F2,Champion,B
+MV-ADV-EST-005-07,Twin Thrust Cadence,Tempered Bore,F2,Champion,B
+MV-ADV-EST-005-08,Paired Bind and Slide,Hoarfrost Impale,F2,Champion,B
+MV-ADV-EST-005-09,River Flow Withdrawal,Hastening Squaretip,F1,Champion,B
+MV-ADV-EST-005-10,Second Track Feint,Drillplating,F4,Champion,B
+MV-ADV-EST-005-11,Dual-Track Piercing Chain,Impale Barrage,F3,Champion,B
+MV-ADV-EST-005-12,Paired Armor Breaker,Tempered Thrustspine,F2,Champion,B
+MV-ADV-EST-006-01,Hawk Perch Estoc Pose,Irontaut,F5,Champion,B
+MV-ADV-EST-006-02,Stoop Estoc Drop,Drillassault,F4,Champion,B
+MV-ADV-EST-006-03,Soaring Estoc Backstep,Bounding Longtang,F1,Champion,B
+MV-ADV-EST-006-04,Wing Brush Parry,Unshaken Trianglespine,F1,Champion,B
+MV-ADV-EST-006-05,Hawk Eye Gap Spot,Chimetaut,F5,Champion,B
+MV-ADV-EST-006-06,Diving Point Drop,Glint Trianglespine,F2,Champion,B
+MV-ADV-EST-006-07,Talon Bind Seize,Hamstringing Skewer,F1,Champion,B
+MV-ADV-EST-006-08,Hawk's Plunge Thrust,Glint Bore,F2,Champion,B
+MV-ADV-EST-006-09,Circling Stoop Flurry,Silt Drill,F2,Champion,B
+MV-ADV-EST-007-01,River Bank Stance,Slendercloak,F4,Demigod,B
+MV-ADV-EST-007-02,Current Following Thrust,Rumble Squaretip,F2,Demigod,B
+MV-ADV-EST-007-03,Stream Estoc Step,Surging Stiffblade,F1,Demigod,B
+MV-ADV-EST-007-04,Eddy Turn Estoc Parry,Gusttaut,F5,Demigod,B
+MV-ADV-EST-007-05,Paired Hand Rhythm,Intent Rigidtang,F2,Demigod,B
+MV-ADV-EST-007-06,River Bend Estoc Entry,Silt Stiffspine,F2,Demigod,B
+MV-ADV-EST-007-07,Confluence Bind,Fastening Bracespine,F2,Demigod,B
+MV-ADV-EST-007-08,Paired Stream Thrust,Facet Hardtip,F2,Demigod,B
+MV-ADV-EST-007-09,Flood Tide Point Line,Lancing Ponderous Rigidtang,F6a,Demigod,B
+MV-ADV-EST-007-10,Undertow Return,Waningslender,F5,Demigod,B
+MV-ADV-EST-008-01,Basin Rim Estoc Stand,Ironstrait,F5,Demigod,B
+MV-ADV-EST-008-02,Basin Floor Estoc Thrust,Facet Bore,F2,Demigod,B
+MV-ADV-EST-008-03,Rim Walking Step,Granite Skewer,F2,Demigod,B
+MV-ADV-EST-008-04,Shallow Dish Parry,Equipoise Thrustspine,F2,Demigod,B
+MV-ADV-EST-008-05,Azure Calm Breathing,Daybreak Longtang,F2,Demigod,B
+MV-ADV-EST-008-06,Basin Echo Sense,Verity Thrustspine,F2,Demigod,B
+MV-ADV-EST-008-07,Deep Basin Bore,Facet Squarepoint,F2,Demigod,B
+MV-ADV-EST-008-08,Rim Turning Bind,Crippling Gouge,F1,Demigod,B
+MV-ADV-EST-008-09,Basin Swirl Feint,Remnant Drill,F2,Demigod,B
+MV-ADV-EST-008-10,Azure Basin Drain Thrust,Piercetorment,F4,Demigod,B
+MV-ADV-EST-008-11,Hollowing Basin Press,Silencing Impale,F1,Demigod,B
+MV-ADV-EST-009-01,Wind-Sworn Estoc Stand,Iron Squarepoint,F2,Champion,B
+MV-ADV-EST-009-02,Breath Along the Point,Hollowskewer,F5,Champion,B
+MV-ADV-EST-009-03,Plateau Estoc Stride,Pierce Jaunt,F3,Champion,B
+MV-ADV-EST-009-04,Gust Beat Parry,Murkstrait,F5,Champion,B
+MV-ADV-EST-009-05,Oath Line Setting,Vitalslender,F5,Champion,B
+MV-ADV-EST-009-06,Wind Reading Stillness,Renewing Stiffspine,F1,Champion,B
+MV-ADV-EST-009-07,Swift Gale Thrust,Iron Pierce,F2,Champion,B
+MV-ADV-EST-009-08,Windbreaker Bind,Gyve Skewer,F2,Champion,B
+MV-ADV-EST-009-09,Plateau Estoc Slip,Gustgouge,F5,Champion,B
+MV-ADV-EST-009-10,Gale Driven Lunge,Rumble Gouge,F2,Champion,B
+MV-ADV-EST-009-11,Rising Wind Beat Thrust,Intentslender,F5,Champion,B
+MV-ADV-EST-010-01,Bearing Setting Stance,Granite Squaretip,F2,Champion,B
+MV-ADV-EST-010-02,Bearing Held Thrust,Bracespine Onslaught,F3,Champion,B
+MV-ADV-EST-010-03,Steady Bearing Walk,Soaring Bore,F1,Champion,B
+MV-ADV-EST-010-04,Bearing Check Estoc Parry,Hardtip Fastness,F3,Champion,B
+MV-ADV-EST-010-05,True Bearing Lunge,Hollowpierce,F5,Champion,B
+MV-ADV-EST-010-06,Bearing Lock Point Bind,Impalecloak,F4,Champion,B
+MV-ADV-EST-010-07,Unwavering Bearing Thrust,Glint Stiffblade,F2,Champion,B
+MV-ADV-EST-010-08,Bearing Kept Shield,Enduring Trianglespine,F1,Champion,B
+MV-ADV-EST-011-01,Plateau Edge Estoc Stand,Straitcuirass,F4,Demigod,B
+MV-ADV-EST-011-02,High Ground Estoc Drop,Hollow Impale,F2,Demigod,B
+MV-ADV-EST-011-03,Ridge Line Step,Might Rigidtang,F2,Demigod,B
+MV-ADV-EST-011-04,Cliff Face Parry,Resilient Longtang,F1,Demigod,B
+MV-ADV-EST-011-05,Thin Air Breath,Intent Bracespine,F2,Demigod,B
+MV-ADV-EST-011-06,Horizon Sensing,Squaretip Linctus,F3,Demigod,B
+MV-ADV-EST-011-07,Rim Tumbling Thrust,Severing Drill,F1,Demigod,B
+MV-ADV-EST-011-08,Plateau Crosswind Bind,Ponderous Squarepoint,F2,Demigod,B
+MV-ADV-EST-011-09,Edge Dancing Step,Mightgouge,F5,Demigod,B
+MV-ADV-EST-011-10,Open Ground Feint,Murk Longtang,F2,Demigod,B
+MV-ADV-EST-011-11,Plateau Splitting Thrust,Hollow Rigidtang,F2,Demigod,B
+MV-ADV-EST-011-12,Skyline Sequence,Doctrine Stiffblade,F2,Demigod,B
+MV-ADV-EST-012-01,Open Point Oath Stance,Aegisslender,F5,Demigod,B
+MV-ADV-EST-012-02,Oath Kept Thrust,Skinning Gouge,F1,Demigod,B
+MV-ADV-EST-012-03,Swift Reach Step,Drillsprint,F4,Demigod,B
+MV-ADV-EST-012-04,Sworn Estoc Parry,Murk Hardtip,F2,Demigod,B
+MV-ADV-EST-012-05,Oath Breath Steadying,Vitalstrait,F5,Demigod,B
+MV-ADV-EST-012-06,Open Blade Bind,Piercecuirass,F4,Demigod,B
+MV-ADV-EST-012-07,Vow Driven Thrust,Slendertorment,F4,Demigod,B
+MV-ADV-EST-012-08,Sworn Distance Hold,Charter Stiffspine,F2,Demigod,B
+MV-ADV-EST-012-09,Oath Piercing Charge,Hollow Thrustspine,F2,Demigod,B
+MV-ADV-EST-012-10,Unbroken Vow Guard,Thorn Squaretip,F2,Demigod,B
+MV-ADV-EST-003-10,Hollow Squarepoint,Steel Squarepoint,F2,Demigod,B
+MV-ADV-EST-011-02,Hollow Impale,Heavy Impale,F2,Demigod,B
+MV-ADV-EST-011-11,Hollow Rigidtang,Iron Rigidtang,F2,Demigod,B
+MV-ADV-EST-012-09,Hollow Thrustspine,Keen Thrustspine,F2,Demigod,B

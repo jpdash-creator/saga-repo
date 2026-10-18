@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-energy-p12-cross-part-interface-summary",
+ "part": 12,
+ "area": 15,
+ "sequence_in_part": 15,
+ "title": "Cross-Part Interface Summary",
+ "domain": "energy",
+ "source_file": "Part_12_Energy_Relics_Artifacts_Law.md",
+ "start_line": 905,
+ "end_line": 961,
+ "line_count": 57,
+ "output_path": ".claude/skills/ssc-energy-p12-cross-part-interface-summary/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-cultivation-p03-cultivation-ladder-realm-hierarchy",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Relic affinity type requires cultivation energy system definitions"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-lifespan-mechanics",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Relic affinity type requires cultivation energy system definitions"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-power-density",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Relic affinity type requires cultivation energy system definitions"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-realm-transition",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Relic affinity type requires cultivation energy system definitions"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-cultivation-talent",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Relic affinity type requires cultivation energy system definitions"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-growth-speed",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Relic affinity type requires cultivation energy system definitions"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-power-comparison",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Relic affinity type requires cultivation energy system definitions"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-damage-tolerance-recovery",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Relic affinity type requires cultivation energy system definitions"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-affinity-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Relic affinity type requires cultivation energy system definitions"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-heart-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Relic affinity type requires cultivation energy system definitions"
+  }
+ ]
+}

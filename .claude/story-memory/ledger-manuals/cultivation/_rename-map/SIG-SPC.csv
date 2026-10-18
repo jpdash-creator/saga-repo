@@ -1,0 +1,12 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-SPC-006-09,Tilt Wall,Tilt Guard,CHANNELED,Champion L1 Low,Advanced
+CMV-SIG-SPC-007-01,Hollow Stride,Emptied Stride,INSTANT,T1 Unawakened,Basic
+CMV-SIG-SPC-007-02,Hollow Strike,Emptied Strike,INSTANT,T1 Unawakened,Basic
+CMV-SIG-SPC-007-03,Hollow Sense,Emptied Sense,CHANNELED,T1 Unawakened,Basic
+CMV-SIG-SPC-007-04,Hollow Bind,Emptied Bind,INSTANT,Senior L1 Low,Intermediate
+CMV-SIG-SPC-007-05,Hollow Slice,Emptied Slice,INSTANT,Senior L1 Low,Intermediate
+CMV-SIG-SPC-007-06,Hollow Guard,Emptied Guard,INSTANT,Senior L1 Low,Intermediate
+CMV-SIG-SPC-007-07,Hollow Spear,Emptied Spear,INSTANT,Champion L1 Low,Advanced
+CMV-SIG-SPC-007-08,Hollow Shroud,Emptied Shroud,CHANNELED,Champion L1 Low,Advanced
+CMV-SIG-SPC-007-09,Hollow Rupture,Emptied Rupture,CAST,Demigod L1 Low,Elite
+CMV-SIG-SPC-007-10,Hollow Diadem,Emptied Diadem,CAST,Senior L1 Low,Signature

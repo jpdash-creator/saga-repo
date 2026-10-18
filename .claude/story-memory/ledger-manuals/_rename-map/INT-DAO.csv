@@ -1,0 +1,82 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-DAO-001-01,Two-Cut Link Chop,Dishthwack,F4,Senior L2 Low,A
+MV-INT-DAO-001-02,Cut-to-Guard Link,Rooted Dishguard,F1,Senior L2 Low,A
+MV-INT-DAO-001-03,Link Slip Step,Pirouetting Spineback,F1,Senior L2 Low,A
+MV-INT-DAO-001-04,Chained Draw Slice,Slicescorer,F4,Senior L2 Low,A
+MV-INT-DAO-001-05,Parry-to-Cut Link,Rooted Chopbelly,F1,Senior L2 Low,A
+MV-INT-DAO-001-06,Linked Waist Sweep,Bevelswat,F4,Senior L2 Low,A
+MV-INT-DAO-001-07,Three-Cut Chain Hew,Bold Tipbend,F1,Senior L2 Low,A
+MV-INT-DAO-001-08,Link Break Rap,Gripping Swathe,F1,Senior L2 Low,A
+MV-INT-DAO-002-01,Sabre Arm Warm Swing,Curvespine Swat,F3,Senior L1 Low,A
+MV-INT-DAO-002-02,Elbow Fold Guard,Rooted Rearedge,F1,Senior L1 Low,A
+MV-INT-DAO-002-03,Wrist Snap Cut,Lurching Flatside,F1,Senior L1 Low,A
+MV-INT-DAO-002-04,Shoulder Roll Step,Pirouetting Knucklebar,F1,Senior L1 Low,A
+MV-INT-DAO-002-05,Point Drive Lunge,Scrapethwack,F4,Senior L1 Low,A
+MV-INT-DAO-002-06,Arm Trap Hook,Scrapebarrier,F4,Senior L1 Low,A
+MV-INT-DAO-003-01,Hanging Guard Hold,Bellyblade Hasp,F3,Senior L5 Low,A
+MV-INT-DAO-003-02,Hanging Cut Release,Brushslap,F4,Senior L5 Low,A
+MV-INT-DAO-003-03,Drop Point Slide,Rooted Ringpommel,F1,Senior L5 Low,A
+MV-INT-DAO-003-04,Hang and Step Back,Veering Whisk,F1,Senior L5 Low,A
+MV-INT-DAO-003-05,Slanted Hang Catch,Flatside Hasp,F3,Senior L5 Low,A
+MV-INT-DAO-003-06,Hanging Draw,Dire Swathe,F1,Senior L5 Low,A
+MV-INT-DAO-003-07,Hung Blade Counter,Chophasp,F4,Senior L5 Low,A
+MV-INT-DAO-003-08,Hanging Guard Break,Gripping Tipbend,F1,Senior L5 Low,A
+MV-INT-DAO-003-09,Curtain Hang Cover,Dishprop,F4,Senior L5 Low,A
+MV-INT-DAO-004-01,Chasing Step Cut,Rushing Dragcut,F1,Senior L7 Low,A
+MV-INT-DAO-004-02,Following Slash,Brutal Brush,F1,Senior L7 Low,A
+MV-INT-DAO-004-03,Pursuit Pace,Dishglide,F4,Senior L7 Low,A
+MV-INT-DAO-004-04,Heel Chase Hew,Savage Scrape,F1,Senior L7 Low,A
+MV-INT-DAO-004-05,Closing Parry,Knucklebar Barrier,F3,Senior L7 Low,A
+MV-INT-DAO-004-06,Running Down Slash,Scrapeflog,F4,Senior L7 Low,A
+MV-INT-DAO-004-07,Cornering Step,Prowling Chopbelly,F1,Senior L7 Low,A
+MV-INT-DAO-005-01,Rolling Cut Opener,Fierce Slice,F1,Senior L9 Low,A
+MV-INT-DAO-005-02,Roll and Return Guard,Stubborn Rearedge,F1,Senior L9 Low,A
+MV-INT-DAO-005-03,Tumbling Wrist Slash,Bellyblade Flog,F3,Senior L9 Low,A
+MV-INT-DAO-005-04,Roll Aside Step,Ducking Scrape,F1,Senior L9 Low,A
+MV-INT-DAO-005-05,Rolled Spine Parry,Bevelbuckle,F4,Senior L9 Low,A
+MV-INT-DAO-005-06,Wheel Chop,Stern Curvespine,F1,Senior L9 Low,A
+MV-INT-DAO-005-07,Wheel Recovery,Sturdy Dishguard,F1,Senior L9 Low,A
+MV-INT-DAO-005-08,Double Wheel Rend,Bevelflog,F4,Senior L9 Low,A
+MV-INT-DAO-005-09,Wheel Break Parry,Resolute Spineback,F1,Senior L9 Low,A
+MV-INT-DAO-005-10,Whirling Sabre Press,Swift Brush,F1,Senior L9 Low,A
+MV-INT-DAO-006-01,Edge Meeting Press,Cruel Dragcut,F1,Warrior L1 Low,B
+MV-INT-DAO-006-02,Edge Slide Guard,Stalwart Spineback,F1,Warrior L1 Low,B
+MV-INT-DAO-006-03,Blade Bind Step,Gritbrush,F5,Warrior L1 Low,B
+MV-INT-DAO-006-04,Edge Cross Hew,Emberbevel,F5,Warrior L1 Low,B
+MV-INT-DAO-006-05,Edge Roll Parry,Shielding Knucklebar,F1,Warrior L1 Low,B
+MV-INT-DAO-006-06,Edge Shave Slice,Chopbelly Slap,F3,Warrior L1 Low,B
+MV-INT-DAO-006-07,Edge Lock Wrench,Sleet Whisk,F2,Warrior L1 Low,B
+MV-INT-DAO-006-08,Edge Shatter Beat,Bellyblade Barrier,F3,Warrior L1 Low,B
+MV-INT-DAO-007-01,Head Wrap Guard,Tipbend Barrier,F3,Senior L4 Mid,A
+MV-INT-DAO-007-02,Wrap Round Cut,Slice Slap,F3,Senior L4 Mid,A
+MV-INT-DAO-007-03,Shoulder Wrap Sweep,Swatheslap,F4,Senior L4 Mid,A
+MV-INT-DAO-007-04,Wrap Turn Step,Curvespine Swerve,F3,Senior L4 Mid,A
+MV-INT-DAO-007-05,Wrapped Back Slash,Rugged Dishguard,F1,Senior L4 Mid,A
+MV-INT-DAO-007-06,Double Wrap Shear,Raw Ringpommel,F1,Senior L4 Mid,A
+MV-INT-DAO-007-07,Wrap Tangle Snare,Cramping Dragcut,F1,Senior L4 Mid,A
+MV-INT-DAO-008-01,Overhead Circle Opener,Honed Scrape,F2,Warrior L2 Low,B
+MV-INT-DAO-008-02,Circle Cover Guard,Chopprop,F4,Warrior L2 Low,B
+MV-INT-DAO-008-03,Circle Drop Cut,Brawn Flatside,F2,Warrior L2 Low,B
+MV-INT-DAO-008-04,Circle Side Step,Gritchop,F5,Warrior L2 Low,B
+MV-INT-DAO-008-05,Half Circle Parry,Poise Rearedge,F2,Warrior L2 Low,B
+MV-INT-DAO-008-06,Circle Wrist Flick,Bold Ringpommel,F1,Warrior L2 Low,B
+MV-INT-DAO-008-07,Falling Circle Hew,Draught Brush,F2,Warrior L2 Low,B
+MV-INT-DAO-008-08,Circle Scatter Parry,Unmoving Bellyblade,F1,Warrior L2 Low,B
+MV-INT-DAO-008-09,Rising Circle Press,Moment Swathe,F2,Warrior L2 Low,B
+MV-INT-DAO-009-01,Edge-Out Forearm Hold,Brassbevel,F5,Warrior L4 Low,B
+MV-INT-DAO-009-02,Reversed Back Slash,Brawnbevel,F5,Warrior L4 Low,B
+MV-INT-DAO-009-03,Hidden Edge Draw,Brass Scrape,F2,Warrior L4 Low,B
+MV-INT-DAO-009-04,Reverse Forearm Guard,Sprigdish,F5,Warrior L4 Low,B
+MV-INT-DAO-009-05,Low Reverse Hew,Ember Slice,F2,Warrior L4 Low,B
+MV-INT-DAO-009-06,Reverse Pivot Step,Grit Rearedge,F2,Warrior L4 Low,B
+MV-INT-DAO-009-07,Grip Flip Chop,Brawn Dragcut,F2,Warrior L4 Low,B
+MV-INT-DAO-009-08,Reverse Hook Pull,Stamp Flatside,F2,Warrior L4 Low,B
+MV-INT-DAO-009-09,Reverse Thrust Under Arm,Honeddish,F5,Warrior L4 Low,B
+MV-INT-DAO-009-10,Grip Switch Counter,Padded Ringpommel,F1,Warrior L4 Low,B
+MV-INT-DAO-010-01,Seasoned Chop,Emberdish,F5,Warrior L7 Low,B
+MV-INT-DAO-010-02,Worn Edge Guard,Shelter Tipbend,F2,Warrior L7 Low,B
+MV-INT-DAO-010-03,Patient Step,Brawnswathe,F5,Warrior L7 Low,B
+MV-INT-DAO-010-04,Steady Slice,Rugged Whisk,F1,Warrior L7 Low,B
+MV-INT-DAO-010-05,Seasoned Break of Guard,Whiskscreen,F4,Warrior L7 Low,B
+MV-INT-DAO-010-06,Weathered Heavy Hew,Draught Dishguard,F2,Warrior L7 Low,B
+MV-INT-DAO-010-02,Shelter Tipbend,Seasoned Tipbend,F2,Warrior L7 Low,B

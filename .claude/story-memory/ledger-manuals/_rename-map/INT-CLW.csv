@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-CLW-001-01,Second Reading Guard Draw,Talonhasp,F4,Senior,A
+MV-INT-CLW-001-02,Qi-Fed Claw Pull,Clawbase Scorer,F3,Senior,A
+MV-INT-CLW-001-03,Closing Diagonal Claw Step,Pirouetting Palmstrap,F1,Senior,A
+MV-INT-CLW-001-04,Wrist Tine Check,Nailbarrier,F4,Senior,A
+MV-INT-CLW-001-05,Short Raking Return,Acrid Knucklespike,F1,Senior,A
+MV-INT-CLW-001-06,Qi Flare Along the Blade,Clawtip Slap,F3,Senior,A
+MV-INT-CLW-001-07,Hooked Wrench Turn,Lassoing Talon,F1,Senior,A
+MV-INT-CLW-002-01,Tine Set on the Elbow,Gripping Raze,F1,Senior,A
+MV-INT-CLW-002-02,Bound Wrist Lift,Pawlbuckle,F4,Senior,A
+MV-INT-CLW-002-03,Double Hook Sleeve Pin,Stalling Tinecurve,F1,Senior,A
+MV-INT-CLW-002-04,Pinned Forearm Rake,Brutal Wristband,F1,Senior,A
+MV-INT-CLW-002-05,Bind Release Sidestep,Nailstalk,F4,Senior,A
+MV-INT-CLW-002-06,Tine Cover over the Hook,Rooted Backplate,F1,Senior,A
+MV-INT-CLW-002-07,Qi-Locked Tine Hold,Ripscreen,F4,Senior,A
+MV-INT-CLW-002-08,Dragging Bind Wrench,Cramping Clawrake,F1,Senior,A
+MV-INT-CLW-003-01,Edge Set Rake,Flayflog,F4,Senior,A
+MV-INT-CLW-003-02,Rising Scoop Under the Guard,Rude Hookclaw,F1,Senior,A
+MV-INT-CLW-003-03,Slanted Blade Guard,Shielding Backplate,F1,Senior,A
+MV-INT-CLW-003-04,Sliding Rake Advance,Slinking Flay,F1,Senior,A
+MV-INT-CLW-003-05,Edge-Charged Long Rake,Vicious Raze,F1,Senior,A
+MV-INT-CLW-003-06,Qi-Pointed Tine Thrust,Brisk Scour,F1,Senior,A
+MV-INT-CLW-004-01,Hooked Guard Hold,Talonscreen,F4,Warrior,B
+MV-INT-CLW-004-02,Beat-Aside Rake,Humnail,F5,Warrior,B
+MV-INT-CLW-004-03,Counter Rake over the Arm,Claynail,F5,Warrior,B
+MV-INT-CLW-004-04,Dodging Back-Draw Step,Rillraze,F5,Warrior,B
+MV-INT-CLW-004-05,Slip and Score,Ember Fingerblade,F2,Warrior,B
+MV-INT-CLW-004-06,Guard-Break Hook Pull,Gall Rip,F2,Warrior,B
+MV-INT-CLW-004-07,Parry-Rake in One Motion,Haze Clawbase,F2,Warrior,B
+MV-INT-CLW-004-08,Counter Flare Slash,Shredslap,F4,Warrior,B
+MV-INT-CLW-004-09,Turning Hook Counter,Clawtip Buckle,F3,Warrior,B
+MV-INT-CLW-005-01,Gauntlet Fighter's Plain Stance,Guarding Tinecurve,F1,Warrior,B
+MV-INT-CLW-005-02,Gauntlet Backhand Swat,Clay Shred,F2,Warrior,B
+MV-INT-CLW-005-03,Blade-Back Rail Parry,Humtalon,F5,Warrior,B
+MV-INT-CLW-005-04,Forward Press Claw Lunge,Rill Knucklespike,F2,Warrior,B
+MV-INT-CLW-005-05,Dropped Gauntlet Hook,Stampflay,F5,Warrior,B
+MV-INT-CLW-005-06,Rolling Wrist Rake,Ember Clawrake,F2,Warrior,B
+MV-INT-CLW-005-07,Cover and Close Frame,Shard Talon,F2,Warrior,B
+MV-INT-CLW-005-08,Gauntlet Qi Bloom,Hookclaw Flog,F3,Warrior,B
+MV-INT-CLW-005-09,Seam-Seeking Tine Drive,Fierce Rip,F1,Warrior,B
+MV-INT-CLW-005-10,Gauntlet Lock and Wrench,Stalling Fingerblade,F1,Warrior,B
+MV-INT-CLW-006-01,Seam Line Reading Glance,Talonlinen,F4,Warrior,B
+MV-INT-CLW-006-02,Strap Edge Scratch,Flayslap,F4,Warrior,B
+MV-INT-CLW-006-03,Cloth Catch and Tear,Discord Flay,F2,Warrior,B
+MV-INT-CLW-006-04,Hide Layer Deflection,Hazenail,F5,Warrior,B
+MV-INT-CLW-006-05,Stitch-Following Step,Brawn Scour,F2,Warrior,B
+MV-INT-CLW-006-06,Buckle Hook Pull,Sleetpawl,F5,Warrior,B
+MV-INT-CLW-006-07,Qi Thread Through Leather,Comet Palmstrap,F2,Warrior,B
+MV-INT-CLW-006-08,Shearing Draw Across the Straps,Crimson Talon,F2,Warrior,B
+MV-INT-CLW-007-01,Running Rake Passing Cut,Keen Shred,F1,Senior,A
+MV-INT-CLW-007-02,Loping Claw Stride,Veering Shred,F1,Senior,A
+MV-INT-CLW-007-03,Run-Stop Hook Plant,Flaybuckle,F4,Senior,A
+MV-INT-CLW-007-04,Weaving Guard on the Run,Guarding Wristband,F1,Senior,A
+MV-INT-CLW-007-05,Leaping Rake Descent,Ruthless Knucklespike,F1,Senior,A
+MV-INT-CLW-007-06,Qi-Driven Sprint Raking,Fierce Wristband,F1,Senior,A
+MV-INT-CLW-007-07,Skidding Turn on Hooked Hold,Entangling Rip,F1,Senior,A
+MV-INT-CLW-008-01,Hooked Arm Drag Entry,Tinecurve Barrier,F3,Warrior,B
+MV-INT-CLW-008-02,Tine Neck Hold,Tethering Palmstrap,F1,Warrior,B
+MV-INT-CLW-008-03,Hooked Belt Hip Throw,Binding Scour,F1,Warrior,B
+MV-INT-CLW-008-04,Claw Sweep of the Ankle,Honed Raze,F2,Warrior,B
+MV-INT-CLW-008-05,Collar Hook Choke Guard,Claytalon,F5,Warrior,B
+MV-INT-CLW-008-06,Rolling Away from the Hold,Scudding Clawtip,F1,Warrior,B
+MV-INT-CLW-008-07,Qi-Bitten Grip Throw,Static Flay,F2,Warrior,B
+MV-INT-CLW-008-08,Hooked Joint Press,Sleet Clawbase,F2,Warrior,B
+MV-INT-CLW-008-09,Dragging Ground Rake,Rough Fingerblade,F1,Warrior,B

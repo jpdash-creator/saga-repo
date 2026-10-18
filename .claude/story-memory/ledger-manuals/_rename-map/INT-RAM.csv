@@ -1,0 +1,63 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-RAM-001-01,Hauled-Chain Draw,Alert Endknob,F1,Senior L3 Low,A
+MV-INT-RAM-001-02,Hung Ram Straight Release,Swift Beamdrive,F1,Senior L3 Low,A
+MV-INT-RAM-001-03,Swing-Line Sidestep,Ramzip,F4,Senior L3 Low,A
+MV-INT-RAM-001-04,Chain-Tension Read,Alert Ramcap,F1,Senior L3 Low,A
+MV-INT-RAM-001-05,Qi-Timed Pendulum Strike,Raw Shudder,F1,Senior L3 Low,A
+MV-INT-RAM-001-06,Rebound Chain Catch,Headcap Carapace,F3,Senior L3 Low,A
+MV-INT-RAM-002-01,Crew Pull Alignment,Genial Wheelbase,F1,Senior L6 Mid,A
+MV-INT-RAM-002-02,Rope-End Anchor Hold,Sturdy Carryhandle,F1,Senior L6 Mid,A
+MV-INT-RAM-002-03,Flat-Footed Drive,Rushing Beamdrive,F1,Senior L6 Mid,A
+MV-INT-RAM-002-04,Splinter-Cover Duck,Boughswerve,F4,Senior L6 Mid,A
+MV-INT-RAM-002-05,Backstep Reset,Fleet Hammerin,F1,Senior L6 Mid,A
+MV-INT-RAM-002-06,Crew Call Cadence,Alert Slingchain,F1,Senior L6 Mid,A
+MV-INT-RAM-002-07,Linked-Arm Brace Drive,Logscorer,F4,Senior L6 Mid,A
+MV-INT-RAM-002-08,Return-Haul Surge,Attentive Wheelbase,F1,Senior L6 Mid,A
+MV-INT-RAM-003-01,Pendulum Hang Count,Kindly Endknob,F1,Senior L9 Low,A
+MV-INT-RAM-003-02,Low-Point Door Blow,Rough Shudder,F1,Senior L9 Low,A
+MV-INT-RAM-003-03,Half-Swing Probe,Beamslap,F4,Senior L9 Low,A
+MV-INT-RAM-003-04,Anticipated Rebound Brace,Beamhead Buckle,F3,Senior L9 Low,A
+MV-INT-RAM-003-05,Late Release Step,Veering Hammerin,F1,Senior L9 Low,A
+MV-INT-RAM-003-06,Resonance Tap Chain,Ramcapflog,F4,Senior L9 Low,A
+MV-INT-RAM-003-07,Qi-Echo Return Swing,Doughty Pounddown,F1,Senior L9 Low,A
+MV-INT-RAM-004-01,Lead-Bearer Lift Order,Brawn Ramcap,F2,Warrior L1 Low,B
+MV-INT-RAM-004-02,Staggered File Advance,Loghurdle,F4,Warrior L1 Low,B
+MV-INT-RAM-004-03,Shared Weight Cradle,Shelter Ramtail,F2,Warrior L1 Low,B
+MV-INT-RAM-004-04,Joint Run-Up Release,Ember Ramhorn,F2,Warrior L1 Low,B
+MV-INT-RAM-004-05,Corner Man Check,Cooling Headcap,F1,Warrior L1 Low,B
+MV-INT-RAM-004-06,Dropped Beam Recovery,Dense Bandring,F1,Warrior L1 Low,B
+MV-INT-RAM-004-07,Bearer Swap Slide,Logglide,F4,Warrior L1 Low,B
+MV-INT-RAM-004-08,Wedge Formation Push,Momentbeam,F5,Warrior L1 Low,B
+MV-INT-RAM-004-09,Breath-Linked Heave,Sprout Carryhandle,F2,Warrior L1 Low,B
+MV-INT-RAM-004-10,Shoulder-Rolling Entry,Draught Pounddown,F2,Warrior L1 Low,B
+MV-INT-RAM-005-01,Frame Wheel Push,Lithe Beamdrive,F1,Warrior L2 Mid,B
+MV-INT-RAM-005-02,Roof Hide Stoop,Resolute Ramhorn,F1,Warrior L2 Mid,B
+MV-INT-RAM-005-03,Roof Peg Inspection,Hearty Bandring,F1,Warrior L2 Mid,B
+MV-INT-RAM-005-04,Hanging Ram Draw Count,Dawn Endknob,F2,Warrior L2 Mid,B
+MV-INT-RAM-005-05,Under-Roof Strike,Staticlog,F5,Warrior L2 Mid,B
+MV-INT-RAM-005-06,Wet Hide Douse,Stalwart Beamhead,F1,Warrior L2 Mid,B
+MV-INT-RAM-005-07,Qi-Hardened Roof Ridge,Ramcap Buckle,F3,Warrior L2 Mid,B
+MV-INT-RAM-005-08,Roofed Ram Tight Swing,Claybough,F5,Warrior L2 Mid,B
+MV-INT-RAM-005-09,Burning Barricade Charge,Gritbough,F5,Warrior L2 Mid,B
+MV-INT-RAM-006-01,Hinge-Pin Hammer,Swayswing Flog,F3,Senior L7 Low,A
+MV-INT-RAM-006-02,Short Haft Close Guard,Shielding Wheelbase,F1,Senior L7 Low,A
+MV-INT-RAM-006-03,Stile Edge Leverage,Gagging Swayswing,F1,Senior L7 Low,A
+MV-INT-RAM-006-04,Narrow Stair Climb,Pirouetting Smitedown,F1,Senior L7 Low,A
+MV-INT-RAM-006-05,Upper-and-Lower Hinge Chop,Bold Hammerin,F1,Senior L7 Low,A
+MV-INT-RAM-006-06,Pry-and-Slam Combination,Logprop,F4,Senior L7 Low,A
+MV-INT-RAM-007-01,Beam-Belly Hip Carry,Poise Ramhorn,F2,Warrior L4 Low,B
+MV-INT-RAM-007-02,Ground-Swell Walk,Clay Swayswing,F2,Warrior L4 Low,B
+MV-INT-RAM-007-03,Rope Sling Lift,Purpose Ramtail,F2,Warrior L4 Low,B
+MV-INT-RAM-007-04,Corner Pivot Turn,Brawnbeam,F5,Warrior L4 Low,B
+MV-INT-RAM-007-05,Carry-End Shove,Brassramcap,F5,Warrior L4 Low,B
+MV-INT-RAM-007-06,Sagging Beam Rail,Sprig Slingchain,F2,Warrior L4 Low,B
+MV-INT-RAM-007-07,Weight Transfer Roll,Coasting Shudder,F1,Warrior L4 Low,B
+MV-INT-RAM-007-08,Heavy Carry Ram-Charge,Shudder Swat,F3,Warrior L4 Low,B
+MV-INT-RAM-008-01,Bar-Height Estimate,Headcap Poultice,F3,Warrior L6 Mid,B
+MV-INT-RAM-008-02,Centre-Bar Hammer Strike,Ramscorer,F4,Warrior L6 Mid,B
+MV-INT-RAM-008-03,Cross-Bar Press-In,Claylog,F5,Warrior L6 Mid,B
+MV-INT-RAM-008-04,Defender Push-Back Brace,Padded Slingchain,F1,Warrior L6 Mid,B
+MV-INT-RAM-008-05,Bracket Strike Slip,Beamcurl,F4,Warrior L6 Mid,B
+MV-INT-RAM-008-06,Bar Snap Follow-Through,Emberramcap,F5,Warrior L6 Mid,B
+MV-INT-RAM-008-07,Double-Bar Alternating Blows,Lurching Pounddown,F1,Warrior L6 Mid,B
+MV-INT-RAM-004-03,Shelter Ramtail,Braced Ramtail,F2,Warrior L1 Low,B

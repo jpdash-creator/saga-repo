@@ -1,0 +1,71 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-JIA-001-01,Edge Qi Seating,Patient Pommeltuft,F1,Senior L2 Low,A
+MV-INT-JIA-001-02,Qi Laden Chop,Eddyslap,F4,Senior L2 Low,A
+MV-INT-JIA-001-03,Edge Loading Step,Flexglide,F4,Senior L2 Low,A
+MV-INT-JIA-001-04,Carried Edge Parry,Rooted Jianhilt,F1,Senior L2 Low,A
+MV-INT-JIA-001-05,Long Qi Draw Cut,Swirlflog,F4,Senior L2 Low,A
+MV-INT-JIA-001-06,Stored Edge Lance,Driftscorer,F4,Senior L2 Low,A
+MV-INT-JIA-002-01,Answering Flat Block,Sturdy Ridgecrest,F1,Senior L4 Mid,A
+MV-INT-JIA-002-02,Guard Rise Cut,Liltslap,F4,Senior L4 Mid,A
+MV-INT-JIA-002-03,Wrist Cover Turn,Padded Guardwing,F1,Senior L4 Mid,A
+MV-INT-JIA-002-04,Half Step Answer,Tasselzip,F4,Senior L4 Mid,A
+MV-INT-JIA-002-05,Sword Finger Check,Alert Knotcord,F1,Senior L4 Mid,A
+MV-INT-JIA-002-06,Qi Spread Shield Flat,Willowscreen,F4,Senior L4 Mid,A
+MV-INT-JIA-002-07,Parry Riposte Chain,Guarding Tassel,F1,Senior L4 Mid,A
+MV-INT-JIA-003-01,Cross Bind Contact,Gripping Twinspine,F1,Senior L8 Low,A
+MV-INT-JIA-003-02,Bind Slip Thrust,Cruel Springtip,F1,Senior L8 Low,A
+MV-INT-JIA-003-03,Under Bind Roll,Tasselprop,F4,Senior L8 Low,A
+MV-INT-JIA-003-04,Over Bind Press,Swirlswat,F4,Senior L8 Low,A
+MV-INT-JIA-003-05,Bind Release Step,Lilthurdle,F4,Senior L8 Low,A
+MV-INT-JIA-003-06,Gripping Flat Hold,Dense Waistbend,F1,Senior L8 Low,A
+MV-INT-JIA-003-07,Qi Lock Bind,Clutching Knotcord,F1,Senior L8 Low,A
+MV-INT-JIA-003-08,Bind Break Spiral,Entangling Swirl,F1,Senior L8 Low,A
+MV-INT-JIA-004-01,Stored Wave Cut,Rippleslap,F4,Warrior L1 Low,B
+MV-INT-JIA-004-02,Wave Cutting Stance,Brawn Waistbend,F2,Warrior L1 Low,B
+MV-INT-JIA-004-03,Wave Cut Recovery,Ducking Drift,F1,Warrior L1 Low,B
+MV-INT-JIA-004-04,Wave Line Sight,Candor Knotcord,F2,Warrior L1 Low,B
+MV-INT-JIA-004-05,Thin Sword Wave,Gleamripple,F5,Warrior L1 Low,B
+MV-INT-JIA-004-06,Rising Wave Slash,Static Swirl,F2,Warrior L1 Low,B
+MV-INT-JIA-005-01,Course Opening Thrust,Bold Springtip,F1,Warrior L1 Low,B
+MV-INT-JIA-005-02,Course Cross Cut,Eddyswat,F4,Warrior L1 Low,B
+MV-INT-JIA-005-03,Course High Parry,Stalwart Twinspine,F1,Warrior L1 Low,B
+MV-INT-JIA-005-04,Course Low Parry,Resolute Jianhilt,F1,Warrior L1 Low,B
+MV-INT-JIA-005-05,Course Advance Pace,Veering Flitter,F1,Warrior L1 Low,B
+MV-INT-JIA-005-06,Course Retreat Pace,Slinking Eddy,F1,Warrior L1 Low,B
+MV-INT-JIA-005-07,Course Linked Thrust and Cut,Brass Flexspine,F2,Warrior L1 Low,B
+MV-INT-JIA-005-08,Course Binding Slide,Binding Pommeltuft,F1,Warrior L1 Low,B
+MV-INT-JIA-005-09,Course Closing Flourish,Harsh Eddy,F1,Warrior L1 Low,B
+MV-INT-JIA-006-01,Thread Needle Thrust,Grim Springtip,F1,Warrior L2 Mid,B
+MV-INT-JIA-006-02,Spiral Wrist Roll,Layered Flexspine,F1,Warrior L2 Mid,B
+MV-INT-JIA-006-03,Thread Pull Back,Driftswat,F4,Warrior L2 Mid,B
+MV-INT-JIA-006-04,Spiral Step In,Springing Knotcord,F1,Warrior L2 Mid,B
+MV-INT-JIA-006-05,Thread Sense Touch,Attentive Tassel,F1,Warrior L2 Mid,B
+MV-INT-JIA-006-06,Spiral Qi Lance,Shard Swirl,F2,Warrior L2 Mid,B
+MV-INT-JIA-006-07,Thread Weave Guard,Buttressed Waistbend,F1,Warrior L2 Mid,B
+MV-INT-JIA-007-01,Coil Draw Back,Sure Waistbend,F1,Senior L9 Peak,A
+MV-INT-JIA-007-02,Coil Release Thrust,Raw Springtip,F1,Senior L9 Peak,A
+MV-INT-JIA-007-03,Coil Under Cut,Flexflog,F4,Senior L9 Peak,A
+MV-INT-JIA-007-04,Coil Step Aside,Rippleswerve,F4,Senior L9 Peak,A
+MV-INT-JIA-007-05,Double Coil Lance,Doughty Flitter,F1,Senior L9 Peak,A
+MV-INT-JIA-007-06,Coil Hook Disarm,Levering Jianhilt,F1,Senior L9 Peak,A
+MV-INT-JIA-008-01,Reach Measure Tap,Gap Pommeltuft,F2,Warrior L4 Low,B
+MV-INT-JIA-008-02,Outside Reach Poke,Acrid Springtip,F1,Warrior L4 Low,B
+MV-INT-JIA-008-03,Inside Reach Cut,Tasselslap,F4,Warrior L4 Low,B
+MV-INT-JIA-008-04,Timing Break Step,Prowling Lilt,F1,Warrior L4 Low,B
+MV-INT-JIA-008-05,Distance Hold Guard,Armored Guardwing,F1,Warrior L4 Low,B
+MV-INT-JIA-008-06,Rhythm Skip Cut,Liltscorer,F4,Warrior L4 Low,B
+MV-INT-JIA-008-07,Qi Timed Counter,Stubborn Knotcord,F1,Warrior L4 Low,B
+MV-INT-JIA-008-08,Reach Collapse Lunge,Rushing Flitter,F1,Warrior L4 Low,B
+MV-INT-JIA-009-01,Shoulder Tell Watch,Recall Flexspine,F2,Warrior L6 Mid,B
+MV-INT-JIA-009-02,Blade Shadow Read,Sound Guardwing,F1,Warrior L6 Mid,B
+MV-INT-JIA-009-03,Early Parry Rise,Unmoving Springtip,F1,Warrior L6 Mid,B
+MV-INT-JIA-009-04,Tell Answer Cut,Driftflog,F4,Warrior L6 Mid,B
+MV-INT-JIA-009-05,False Opening Step,Scudding Tassel,F1,Warrior L6 Mid,B
+MV-INT-JIA-009-06,Qi Pulse Read,Lunar Twinspine,F2,Warrior L6 Mid,B
+MV-INT-JIA-009-07,Counter Seeking Point,Vicious Lilt,F1,Warrior L6 Mid,B
+MV-INT-JIA-010-01,Tassel Whip Flick,Stalling Pommeltuft,F1,Warrior L8 High,B
+MV-INT-JIA-010-02,Tassel Cover Cut,Flexswat,F4,Warrior L8 High,B
+MV-INT-JIA-010-03,Tassel Lead Step,Pirouetting Springtip,F1,Warrior L8 High,B
+MV-INT-JIA-010-04,Tassel Hand Pass,Mirage Jianhilt,F2,Warrior L8 High,B
+MV-INT-JIA-010-05,Flying Tassel Veil,Haze Waistbend,F2,Warrior L8 High,B
+MV-INT-JIA-010-06,Tassel Led Thrust,Swift Knotcord,F1,Warrior L8 High,B

@@ -1,0 +1,103 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-CLW-001-01,Advanced Claw Guard Seat,Thorn Clawtip,F2,Champion,B
+MV-ADV-CLW-001-02,Pulse-Timed Rake Draw,Rumble Shred,F2,Champion,B
+MV-ADV-CLW-001-03,Flowing Step Inside the Reach,Flaysprint,F4,Champion,B
+MV-ADV-CLW-001-04,Tine Brush Parry,Gust Backplate,F2,Champion,B
+MV-ADV-CLW-001-05,Steady Qi Tine Hold,Hoarfrost Clawrake,F2,Champion,B
+MV-ADV-CLW-001-06,Edge Wave Rake,Sanguine Raze,F2,Champion,B
+MV-ADV-CLW-001-07,Hooked Guard Breaker,Mayhem Knucklespike,F2,Champion,B
+MV-ADV-CLW-001-08,Sundering Qi Rake,Gust Wristband,F2,Champion,B
+MV-ADV-CLW-001-09,Reeling Hook Sequence,Lot Hookclaw,F2,Champion,B
+MV-ADV-CLW-002-01,Field Edge Stance Setting,Fingerblade Plating,F3,Demigod,B
+MV-ADV-CLW-002-02,Reach-Beyond Rake Draw,Blaze Palmstrap,F2,Demigod,B
+MV-ADV-CLW-002-03,Field Brush Advance,Granite Flay,F2,Demigod,B
+MV-ADV-CLW-002-04,Blade Aura Cover,Murkpawl,F5,Demigod,B
+MV-ADV-CLW-002-05,Field Tine Prick,Splitting Tinecurve,F1,Demigod,B
+MV-ADV-CLW-002-06,Claw-Field Sense Pass,Waningnail,F5,Demigod,B
+MV-ADV-CLW-002-07,Extended Hook Pull,Talon Cuirass,F3,Demigod,B
+MV-ADV-CLW-002-08,Reaching Rake over the Guard,Ripbarrage,F4,Demigod,B
+MV-ADV-CLW-002-09,Field Wrench on the Wrist,Rip Fastness,F3,Demigod,B
+MV-ADV-CLW-002-10,Long Field Sunder,Blazerip,F5,Demigod,B
+MV-ADV-CLW-002-11,Field Pinning Press,Charter Knucklespike,F2,Demigod,B
+MV-ADV-CLW-003-01,Cloth Hook Setting,Ponderous Backplate,F2,Champion,B
+MV-ADV-CLW-003-02,Hide Hook Pull,Suppressing Hookclaw,F1,Champion,B
+MV-ADV-CLW-003-03,Joint Seam Rake,Granite Clawbase,F2,Champion,B
+MV-ADV-CLW-003-04,Hook-Away Step,Careening Clawbase,F1,Champion,B
+MV-ADV-CLW-003-05,Strap Tearing Pull,Might Scour,F2,Champion,B
+MV-ADV-CLW-003-06,Joint Hook Wrench,Crippling Talon,F1,Champion,B
+MV-ADV-CLW-003-07,Hide-Splitting Tear,Gustnail,F5,Champion,B
+MV-ADV-CLW-003-08,Hook Tear and Release Chain,Lot Rip,F2,Champion,B
+MV-ADV-CLW-004-01,Wide Field Ready Posture,Thorn Fingerblade,F2,Demigod,B
+MV-ADV-CLW-004-02,Hand's Breadth Beyond Cut,Iron Scour,F2,Demigod,B
+MV-ADV-CLW-004-03,Field Slip Advance,Silt Shred,F2,Demigod,B
+MV-ADV-CLW-004-04,Reach Check Parry,Unshaken Palmstrap,F1,Demigod,B
+MV-ADV-CLW-004-05,Near-Field Reading,Remnant Wristband,F2,Demigod,B
+MV-ADV-CLW-004-06,Field Tine Brush,Sanguine Clawtip,F2,Demigod,B
+MV-ADV-CLW-004-07,Shaped Reach Rake,Blazenail,F5,Demigod,B
+MV-ADV-CLW-004-08,Long Hook Catch,Ponderous Clawrake,F2,Demigod,B
+MV-ADV-CLW-004-09,Field Needle Thrust,Hollow Raze,F2,Demigod,B
+MV-ADV-CLW-004-10,Reach Break on the Guard,Rumble Clawtip,F2,Demigod,B
+MV-ADV-CLW-004-11,Sweeping Long Claw Arc,Ravaging Rumble Rip,F6a,Demigod,B
+MV-ADV-CLW-004-12,Reach Pinning Hold,Shredgreave,F4,Demigod,B
+MV-ADV-CLW-005-01,Basin Hawk Perch Claw Stance,Charter Hookclaw,F2,Champion,B
+MV-ADV-CLW-005-02,Twin Talon Falling Rake,Fingerblade Torment,F3,Champion,B
+MV-ADV-CLW-005-03,Paired Wing Step,Talonsprint,F4,Champion,B
+MV-ADV-CLW-005-04,Hawk Wrist Parry,Talon Cloak,F3,Champion,B
+MV-ADV-CLW-005-05,Left Hand Holds the Line,Gyve Flay,F2,Champion,B
+MV-ADV-CLW-005-06,Right Talon Strike Track,Shredthrash,F4,Champion,B
+MV-ADV-CLW-005-07,River Bend Hook Pull,Rumble Backplate,F2,Champion,B
+MV-ADV-CLW-005-08,Paired Hold and Rake,Sanguine Clawbase,F2,Champion,B
+MV-ADV-CLW-005-09,Hawk Stoop Double Rake,Lancing Tinecurve,F1,Champion,B
+MV-ADV-CLW-005-10,Twin Talon Seizure,Dominating Clawrake,F1,Champion,B
+MV-ADV-CLW-006-01,Twin Stream Ready Stance,Hoarfrost Tinecurve,F2,Demigod,B
+MV-ADV-CLW-006-02,Azure Channel Rake,Gustflay,F5,Demigod,B
+MV-ADV-CLW-006-03,Crossing Current Step,Silt Scour,F2,Demigod,B
+MV-ADV-CLW-006-04,Parting Stream Parry,Unyielding Wristband,F1,Demigod,B
+MV-ADV-CLW-006-05,Left Stream Binding Hook,Fastening Raze,F2,Demigod,B
+MV-ADV-CLW-006-06,River Fork Rake,Ironnail,F5,Demigod,B
+MV-ADV-CLW-006-07,Confluence Wrist Turn,Paralyzing Clawbase,F1,Demigod,B
+MV-ADV-CLW-006-08,Twin Current Sundering,Ripassault,F4,Demigod,B
+MV-ADV-CLW-006-09,Flood Pressing Claws,Paralyzing Palmstrap Fastness,F6b,Demigod,B
+MV-ADV-CLW-007-01,Guarding Track Stance,Pawlcloak,F4,Demigod,B
+MV-ADV-CLW-007-02,Striking Track Draw Cut,Gustshred,F5,Demigod,B
+MV-ADV-CLW-007-03,Hawk Shoulder Step,Torrent Knucklespike,F2,Demigod,B
+MV-ADV-CLW-007-04,Crossed Claw Track Parry,Chimetalon,F5,Demigod,B
+MV-ADV-CLW-007-05,Hawk Claw Eye Reading,Veritytalon,F5,Demigod,B
+MV-ADV-CLW-007-06,Paired Hand Raking,Iron Flay,F2,Demigod,B
+MV-ADV-CLW-007-07,Track Switch Hook,Toxin Wristband,F2,Demigod,B
+MV-ADV-CLW-007-08,Hawk Hand Piercing Tines,Novascour,F5,Demigod,B
+MV-ADV-CLW-007-09,Guard-Track Binding Hold,Fastening Hookclaw,F2,Demigod,B
+MV-ADV-CLW-007-10,Strike-Track Flurry,Tearing Shred,F1,Demigod,B
+MV-ADV-CLW-007-11,Dual-Track Rending Rake,Talontorment,F4,Demigod,B
+MV-ADV-CLW-007-12,Two-Track Hawk Chain,Knucklespike Maelstrom,F3,Demigod,B
+MV-ADV-CLW-008-01,Oath Stance in the Wind,Unshaken Tinecurve,F1,Champion,B
+MV-ADV-CLW-008-02,Wind-Sworn Raking Draw,Nailbarrage,F4,Champion,B
+MV-ADV-CLW-008-03,Gale Lean Claw Step,Gust Fingerblade,F2,Champion,B
+MV-ADV-CLW-008-04,Wind Brush Parry,Enduring Backplate,F1,Champion,B
+MV-ADV-CLW-008-05,Oath Claw Hook Hold,Thornpawl,F5,Champion,B
+MV-ADV-CLW-008-06,Gale Wrist Wrench,Toxin Clawrake,F2,Champion,B
+MV-ADV-CLW-008-07,Gale Sundering Rake,Flaytorment,F4,Champion,B
+MV-ADV-CLW-008-08,Oath-Held Pinning Claws,Scour Hauberk,F3,Champion,B
+MV-ADV-CLW-009-01,Plateau Edge Claw Stance,Granite Clawtip,F2,Demigod,B
+MV-ADV-CLW-009-02,Claw Bearing-Taking Glance,Fortifying Palmstrap,F1,Demigod,B
+MV-ADV-CLW-009-03,Held-Bearing Rake Draw,Harpooning Flay,F1,Demigod,B
+MV-ADV-CLW-009-04,Crosswind Claw Step,Torrent Raze,F2,Demigod,B
+MV-ADV-CLW-009-05,Plateau Wind Claw Parry,Unshaken Clawbase,F1,Demigod,B
+MV-ADV-CLW-009-06,Held-Bearing Hook Pull,Subduing Shred,F1,Demigod,B
+MV-ADV-CLW-009-07,Long Wind Rake,Tempered Rip,F2,Demigod,B
+MV-ADV-CLW-009-08,Wind-Needle Tine Thrust,Hollow Palmstrap,F2,Demigod,B
+MV-ADV-CLW-009-09,Plateau Gale Rending Arc,Iron Talon,F2,Demigod,B
+MV-ADV-CLW-009-10,Bearing-Locked Pressing Hold,Shade Knucklespike,F2,Demigod,B
+MV-ADV-CLW-010-01,Open Wind Ready Stance,Talonplating,F4,Champion,B
+MV-ADV-CLW-010-02,Backed-by-Wind Rake,Furrowing Talon,F1,Champion,B
+MV-ADV-CLW-010-03,No-Retreat Forward Step,Mightrip,F5,Champion,B
+MV-ADV-CLW-010-04,Gale Sweep Claw Parry,Gust Hookclaw,F2,Champion,B
+MV-ADV-CLW-010-05,Wind Hook Snag,Stifling Clawrake,F1,Champion,B
+MV-ADV-CLW-010-06,Open Plateau Slash,Flayassault,F4,Champion,B
+MV-ADV-CLW-010-07,Gust-Driven Raking Pass,Blaze Wristband,F2,Champion,B
+MV-ADV-CLW-010-08,Windward Hook Wrench,Suppressing Rip,F1,Champion,B
+MV-ADV-CLW-010-09,Oath-Fast Hooked Grip,Gyve Clawtip,F2,Champion,B
+MV-ADV-CLW-010-10,Gale Hook Rending Pull,Tempered Tinecurve,F2,Champion,B
+MV-ADV-CLW-010-11,Open Wind Hook Chain,Alternating Fingerblade,F1,Champion,B
+MV-ADV-CLW-004-09,Hollow Raze,Gouging Raze,F2,Demigod,B
+MV-ADV-CLW-009-08,Hollow Palmstrap,Boring Palmstrap,F2,Demigod,B

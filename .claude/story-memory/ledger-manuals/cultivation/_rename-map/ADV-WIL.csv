@@ -1,0 +1,13 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-WIL-002-01,Field Palm,Willed Palm,INSTANT,,Advanced
+CMV-ADV-WIL-002-02,Field Veil,Drawn Veil,INSTANT,,Advanced
+CMV-ADV-WIL-002-03,Field Drift,Willed Drift,INSTANT,,Advanced
+CMV-ADV-WIL-002-04,Field Touch,Mind Touch,CHANNELED,,Advanced
+CMV-ADV-WIL-002-05,Field Lend,Lent Steadiness,CHANNELED,,Advanced
+CMV-ADV-WIL-002-06,Pressing Field,Pressing Will,CHANNELED,,Advanced
+CMV-ADV-WIL-002-07,Field Shove,Will Shove,INSTANT,,Advanced
+CMV-ADV-WIL-002-08,Field Cleansing,Fear Cleansing,CHANNELED,,Advanced
+CMV-ADV-WIL-002-09,Field Crush,Gathered Crush,CAST,,Advanced
+CMV-ADV-WIL-002-10,Warded Field,Standing Ward,CHANNELED,,Advanced
+CMV-ADV-WIL-007-07,Gale Ward,Sliding Ward,CHANNELED,,Advanced
+CMV-ADV-WIL-008-02,Plain Guard,Bare Stance,INSTANT,,Advanced

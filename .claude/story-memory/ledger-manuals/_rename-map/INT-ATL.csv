@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-ATL-001-01,Whip-Arm Coiling,Cupendtonic,F4,Senior,A
+MV-INT-ATL-001-02,Lashing Crack Cast,Cruel Whipover,F1,Senior,A
+MV-INT-ATL-001-03,Spine-Turn Evasion,Spurglide,F4,Senior,A
+MV-INT-ATL-001-04,Dart Hum Listening,Attentive Dartshaft,F1,Senior,A
+MV-INT-ATL-001-05,Backswing Reseat,Quickening Spurhook,F1,Senior,A
+MV-INT-ATL-001-06,Three-Crack Volley,Extendthwack,F4,Senior,A
+MV-INT-ATL-001-07,Stiffened Board Flick,Rigid Throwstick,F1,Senior,A
+MV-INT-ATL-002-01,Empty Air Marking,Alert Weightstone,F1,Senior,A
+MV-INT-ATL-002-02,Hair-Thread Spur Seat,Hearty Cupend,F1,Senior,A
+MV-INT-ATL-002-03,Exhale-Bottom Cast,Keen Overarm,F1,Senior,A
+MV-INT-ATL-002-04,Crossing-Step Dart,Rough Leverage,F1,Senior,A
+MV-INT-ATL-002-05,Side-On Reload Turn,Cuphasp,F4,Senior,A
+MV-INT-ATL-002-06,Pace Matching Walk,Coasting Flexshaft,F1,Senior,A
+MV-INT-ATL-002-07,Sprinter's Lead Dart,Spurswat,F4,Senior,A
+MV-INT-ATL-002-08,Dodge-Guess Double,Brisk Throwlever,F1,Senior,A
+MV-INT-ATL-002-09,Lead Correction Pulse,Sound Fingerhooks,F1,Senior,A
+MV-INT-ATL-003-01,Full Arm Reach,Brawn Throwstick,F2,Warrior,B
+MV-INT-ATL-003-02,Rear Leg Drive,Poisespur,F5,Warrior,B
+MV-INT-ATL-003-03,Distant Mark Holding,Gap Flexshaft,F2,Warrior,B
+MV-INT-ATL-003-04,High Plume Cast,Comet Throwlever,F2,Warrior,B
+MV-INT-ATL-003-05,Far-Dropping Heavy Dart,Brutal Overarm,F1,Warrior,B
+MV-INT-ATL-003-06,Through-the-Finish Step,Spurswerve,F4,Warrior,B
+MV-INT-ATL-004-01,Pinning Dart Weighing,Sure Dartshaft,F1,Senior,A
+MV-INT-ATL-004-02,Foreshaft Barb Check,Spurcordial,F4,Senior,A
+MV-INT-ATL-004-03,Hem-Aimed Cast,Wild Gripbinding,F1,Senior,A
+MV-INT-ATL-004-04,Low Stance Advance,Lithe Handgrip,F1,Senior,A
+MV-INT-ATL-004-05,Rooted Release Breath,Kindly Throwstick,F1,Senior,A
+MV-INT-ATL-004-06,Squinting Mark Narrowing,Genial Fingerhooks,F1,Senior,A
+MV-INT-ATL-004-07,Knee-High Skip Dart,Propelslap,F4,Senior,A
+MV-INT-ATL-004-08,Boot-Pinning Throw,Binding Spurhook,F1,Senior,A
+MV-INT-ATL-004-09,Sleeve-Nailing Cast,Clutching Weightstone,F1,Senior,A
+MV-INT-ATL-004-10,Butt-End Closing Strike,Grim Cupend,F1,Senior,A
+MV-INT-ATL-005-01,Running Board Carry,Rallying Spurhook,F1,Warrior,B
+MV-INT-ATL-005-02,Stride-Bound Release,Staticspur,F5,Warrior,B
+MV-INT-ATL-005-03,Footfall Timing,Hum Handgrip,F2,Warrior,B
+MV-INT-ATL-005-04,Drag-Step Halt,Fleet Throwstick,F1,Warrior,B
+MV-INT-ATL-005-05,Dust-Kick Wheel,Grit Dartshaft,F2,Warrior,B
+MV-INT-ATL-005-06,Moving Spur Check,Fingerhooks Cordial,F3,Warrior,B
+MV-INT-ATL-005-07,Sprint-Cast Chain,Ember Whipover,F2,Warrior,B
+MV-INT-ATL-005-08,Backward Pursuer Cast,Propelswat,F4,Warrior,B
+MV-INT-ATL-006-01,Arm-and-Half Interval,Lunar Gripbinding,F2,Warrior,B
+MV-INT-ATL-006-02,Neighbor-Beat Count,Sprout Flexshaft,F2,Warrior,B
+MV-INT-ATL-006-03,Line Fall-Back Step,Rillcup,F5,Warrior,B
+MV-INT-ATL-006-04,Shared Mark Fixing,Candor Dartshaft,F2,Warrior,B
+MV-INT-ATL-006-05,Overhead Cover Raise,Shelter Spurhook,F2,Warrior,B
+MV-INT-ATL-006-06,Rolling Line Volley,Extendscorer,F4,Warrior,B
+MV-INT-ATL-006-07,Gap-Closing Slip,Slinking Cupend,F1,Warrior,B
+MV-INT-ATL-007-01,Silent Beat Opening,Humcup,F5,Warrior,B
+MV-INT-ATL-007-02,Rear Rank Cast Rise,Overarm Slap,F3,Warrior,B
+MV-INT-ATL-007-03,Fall-Time Reckoning,Recall Spurhook,F2,Warrior,B
+MV-INT-ATL-007-04,Echo Release,Gleam Whipover,F2,Warrior,B
+MV-INT-ATL-007-05,Off-Beat Quiet Reload,Quickening Dartshaft,F1,Warrior,B
+MV-INT-ATL-007-06,Count-Break Sidestep,Propelcurl,F4,Warrior,B
+MV-INT-ATL-007-07,Landing-Together Volley,Cupendslap,F4,Warrior,B
+MV-INT-ATL-007-08,Drumming Patch Fall,Weighty Throwlever,F2,Warrior,B
+MV-INT-ATL-007-09,Lone Thrower's Many Hands,Shard Propel,F2,Warrior,B
+MV-INT-ATL-008-01,Heavy Dart Bearing,Purpose Handgrip,F2,Warrior,B
+MV-INT-ATL-008-02,Wounded Gait Reading,Gapspur,F5,Warrior,B
+MV-INT-ATL-008-03,Neck-Line Aim,Harsh Throwstick,F1,Warrior,B
+MV-INT-ATL-008-04,Standing Ground Breath,Stalwart Handgrip,F1,Warrior,B
+MV-INT-ATL-008-05,Tree-Side Slip,Rill Gripbinding,F2,Warrior,B
+MV-INT-ATL-008-06,Charge-Veering Board Edge,Haze Dartshaft,F2,Warrior,B
+MV-INT-ATL-008-07,Open-Chest Patient Dart,Bold Extend,F1,Warrior,B
+MV-INT-ATL-008-08,Hind-Leg Slowing Cast,Cupscorer,F4,Warrior,B
+MV-INT-ATL-006-05,Shelter Spurhook,Sturdy Spurhook,F2,Warrior,B

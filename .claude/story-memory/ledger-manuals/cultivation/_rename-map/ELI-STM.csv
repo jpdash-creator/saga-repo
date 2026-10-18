@@ -1,0 +1,10 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ELI-STM-007-01,Moor Fist,Stonefast Fist,INSTANT,,Elite
+CMV-ELI-STM-008-02,Shelter Guard,Stillair Guard,CHANNELED,,Elite
+CMV-ELI-STM-009-09,Bearing Field,Bearing Sweep,CHANNELED,,Elite
+CMV-ELI-STM-010-05,Vow Sense,Sworn Weight,INSTANT,,Elite
+CMV-ELI-STM-001-08,Twin Summit,Twin Thunderheads,CAST,,Advanced
+CMV-ELI-STM-003-01,Basin Fist,Thunder Fist,INSTANT,,Basic
+CMV-ELI-STM-003-02,Basinful Guard,Brimful Ward,CHANNELED,,Basic
+CMV-ELI-STM-003-05,Basin Reading,Ripple Gauge,INSTANT,,Basic
+CMV-ELI-STM-003-10,Basin Mantle,Thunder Mantle,CHANNELED,,Advanced

@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-technology-p32-vehicle-construction-prerequisites",
+ "part": 32,
+ "area": 9,
+ "sequence_in_part": 9,
+ "title": "Vehicle Construction Prerequisites",
+ "domain": "technology",
+ "source_file": "Part_32_Technology_Vehicle_Law.md",
+ "start_line": 600,
+ "end_line": 635,
+ "line_count": 36,
+ "output_path": ".claude/skills/ssc-technology-p32-vehicle-construction-prerequisites/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-synergy-p31-foundational-principles",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Vehicle CS%/TS% governance (Area 21.12)"
+  },
+  {
+   "skill_id": "ssc-synergy-p31-three-pillars-synergy-capacity",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Vehicle CS%/TS% governance (Area 21.12)"
+  },
+  {
+   "skill_id": "ssc-synergy-p31-cultivation-supporting-enhancing-technology",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Vehicle CS%/TS% governance (Area 21.12)"
+  },
+  {
+   "skill_id": "ssc-synergy-p31-technology-supporting-enhancing-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Vehicle CS%/TS% governance (Area 21.12)"
+  },
+  {
+   "skill_id": "ssc-synergy-p31-integration-models-depth-bidirectional-enhancement-each",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Vehicle CS%/TS% governance (Area 21.12)"
+  },
+  {
+   "skill_id": "ssc-synergy-p31-non-combat-synergy-applications",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Vehicle CS%/TS% governance (Area 21.12)"
+  },
+  {
+   "skill_id": "ssc-synergy-p31-combat-synergy-applications",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Vehicle CS%/TS% governance (Area 21.12)"
+  },
+  {
+   "skill_id": "ssc-synergy-p31-civilization-tier-synergy-access-table",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Vehicle CS%/TS% governance (Area 21.12)"
+  },
+  {
+   "skill_id": "ssc-synergy-p31-energy-dependent-synergy-reference",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Vehicle CS%/TS% governance (Area 21.12)"
+  },
+  {
+   "skill_id": "ssc-synergy-p31-location-dependent-synergies",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Vehicle CS%/TS% governance (Area 21.12)"
+  }
+ ]
+}

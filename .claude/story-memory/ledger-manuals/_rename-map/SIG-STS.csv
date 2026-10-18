@@ -1,0 +1,143 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-STS-001-01,Azure Court Salute Cut,Beatcrown,F4,Warrior L1 Low,B
+MV-SIG-STS-001-02,Court Pair Guard,Prism Leaf,F2,Warrior L1 Low,B
+MV-SIG-STS-001-03,Hawk-Eye Step,Vigor Fuller,F2,Warrior L1 Low,B
+MV-SIG-STS-001-04,Court Paired Parry,Deluge Midrib,F2,Warrior L1 Low,B
+MV-SIG-STS-001-05,Twin Edge Draw Cut,Foible Triumph,F3,Warrior L1 Low,B
+MV-SIG-STS-001-06,Court Bind Press,Millstone Crossbar,F2,Warrior L1 Low,B
+MV-SIG-STS-001-07,Azure Court Edge Sweep,Solar Quillon,F2,Champion L1 Low,B
+MV-SIG-STS-001-08,Paired Court Reflect,Radiance Forte,F2,Champion L1 Low,B
+MV-SIG-STS-001-09,Court Hawk Flash Cut,Radiance Beat,F2,Demigod L1 Low,B
+MV-SIG-STS-001-10,Azure Court Closing Stroke,Fearless Riposte,F1,Warrior L1 Low,B
+MV-SIG-STS-002-01,Basin Paired Cut,Bedrock Pommel,F2,Warrior L5 Mid,B
+MV-SIG-STS-002-02,Low Basin Guard,Prismmidrib,F5,Warrior L5 Mid,B
+MV-SIG-STS-002-03,Open Side Thrust Run,Sovereign Ricasso,F1,Warrior L5 Mid,B
+MV-SIG-STS-002-04,River Bank Step,Bedrock Feint,F2,Warrior L5 Mid,B
+MV-SIG-STS-002-05,Pair Return Parry,Parity Tang,F2,Warrior L5 Mid,B
+MV-SIG-STS-002-06,Basin Pour Edge,Vigormidrib,F5,Warrior L5 Mid,B
+MV-SIG-STS-002-07,Basin Pair Bind,Envelop Seal,F3,Warrior L5 Mid,B
+MV-SIG-STS-002-08,Pooled Beat Aside,Peal Cutover,F2,Warrior L5 Mid,B
+MV-SIG-STS-002-09,Basin Edge Surge,Magma Crossbar,F2,Champion L1 Low,B
+MV-SIG-STS-002-10,Basin Reflect Rim,Inviolate Pommel,F1,Champion L1 Low,B
+MV-SIG-STS-002-11,Basin Edge Flash,Interstice Cutover,F2,Demigod L1 Low,B
+MV-SIG-STS-002-12,Paired Basin Overflow,Quenched Forte,F2,Warrior L5 Mid,B
+MV-SIG-STS-003-01,River Court Cut,Thunderclap Ricasso,F2,Champion L3 High,B
+MV-SIG-STS-003-02,Flowing Guard Stance,Sanctum Midrib,F2,Champion L3 High,B
+MV-SIG-STS-003-03,Current Point Thrust,Steelforte,F5,Champion L3 High,B
+MV-SIG-STS-003-04,Ford Step,Evanescent Feint,F1,Champion L3 High,B
+MV-SIG-STS-003-05,River Turn Cut,Paramount Envelop,F1,Champion L3 High,B
+MV-SIG-STS-003-06,Court Twist Bind,Ruling Beat,F1,Champion L3 High,B
+MV-SIG-STS-003-07,Stream Beat,Thunderclap Foible,F2,Champion L3 High,B
+MV-SIG-STS-003-08,Court Chain Run,Vigor Leaf,F2,Champion L3 High,B
+MV-SIG-STS-003-09,River Court Surge,Fullercrown,F4,Champion L3 High,B
+MV-SIG-STS-003-10,Court Flow Reflect,Prismforte,F5,Champion L3 High,B
+MV-SIG-STS-003-11,River Court Phase Step,Vacuum Quillon,F2,Demigod L1 Low,B
+MV-SIG-STS-003-12,River Court Return Cut,Pommelvow,F4,Champion L3 High,B
+MV-SIG-STS-004-01,Hawk Court Cut,Exalted Pommel,F1,Ruler L1 Mid,B
+MV-SIG-STS-004-02,Perch Hold Guard,Bedrock Fuller,F2,Ruler L1 Mid,B
+MV-SIG-STS-004-03,Stoop Point Thrust,Magnificent Glissade,F1,Ruler L1 Mid,B
+MV-SIG-STS-004-04,Hawk Court Rising Parry,Fuller Vow,F3,Ruler L1 Mid,B
+MV-SIG-STS-004-05,Hawk Wing Cut Chain,Steel Tang,F2,Ruler L1 Mid,B
+MV-SIG-STS-004-06,Talon Press Bind,Thrallpommel,F5,Ruler L1 Mid,B
+MV-SIG-STS-004-07,Hawk Court Edge Wave,Inferno Riposte,F2,Ruler L1 Mid,B
+MV-SIG-STS-004-08,Perch Reflect Cover,Prism Crossbar,F2,Ruler L1 Mid,B
+MV-SIG-STS-004-09,Hawk Court Flash Drop,Fullervoyage,F4,Demigod L1 Low,B
+MV-SIG-STS-004-10,Hawk Court Falling Stroke,Imperial Radiance Ricasso,F6a,Ruler L1 Mid,B
+MV-SIG-STS-005-01,Azure Sky Cut,Thunderclap Glissade,F2,Demigod L4 Low,B
+MV-SIG-STS-005-02,Sky Field Guard,Forte Troth,F3,Demigod L4 Low,B
+MV-SIG-STS-005-03,Far Hawk Thrust,Radiance Foible,F2,Demigod L4 Low,B
+MV-SIG-STS-005-04,Basin Settling Step,Dune Midrib,F2,Demigod L4 Low,B
+MV-SIG-STS-005-05,Sky Wing Parry,Pall Tang,F2,Demigod L4 Low,B
+MV-SIG-STS-005-06,Azure Field Bind,Sigilbeat,F5,Demigod L4 Low,B
+MV-SIG-STS-005-07,Hawk Beat Down,Ruling Envelop,F1,Demigod L4 Low,B
+MV-SIG-STS-005-08,Sky Chain Edge,Valiant Quillon,F1,Demigod L4 Low,B
+MV-SIG-STS-005-09,Azure Sky Sweep,Bedrock Glissade,F2,Demigod L4 Low,B
+MV-SIG-STS-005-10,Open Sky Reflect,Radiance Pommel,F2,Demigod L4 Low,B
+MV-SIG-STS-005-11,Azure Sky Phase Cut,Fullergrace,F4,Demigod L4 Low,B
+MV-SIG-STS-005-12,Azure Sky Sundering Stroke,Fearless Destiny Beat,F6a,Demigod L4 Low,B
+MV-SIG-STS-006-01,Core Court Cut,Quenched Leaf,F2,Core Formation L1 Low,B
+MV-SIG-STS-006-02,Core Basin Guard,Prismfoible,F5,Core Formation L1 Low,B
+MV-SIG-STS-006-03,Twin Core Thrust,Radiance Fuller,F2,Core Formation L1 Low,B
+MV-SIG-STS-006-04,Core River Step,Wraithlike Quillon,F1,Core Formation L1 Low,B
+MV-SIG-STS-006-05,Core Paired Parry,Undefiled Leaf,F1,Core Formation L1 Low,B
+MV-SIG-STS-006-06,Twin Track Bind,Tangtroth,F4,Core Formation L1 Low,B
+MV-SIG-STS-006-07,Core Beat Aside,Peal Beat,F2,Core Formation L1 Low,B
+MV-SIG-STS-006-08,Court Core Chain,Bedrock Midrib,F2,Core Formation L1 Low,B
+MV-SIG-STS-006-09,Core Court Sweep,Dunebeat,F5,Core Formation L1 Low,B
+MV-SIG-STS-006-10,Core Reflect Guard,Leafseal,F4,Core Formation L1 Low,B
+MV-SIG-STS-006-11,Core Hawk Flash,Ethereal Crossbar,F1,Core Formation L1 Low,B
+MV-SIG-STS-006-12,Azure Core Twinned Stroke,Steel Cutover,F2,Core Formation L1 Low,B
+MV-SIG-STS-007-01,Sworn Sheath Draw Cut,Riposte Crown,F3,Warrior L2 Low,B
+MV-SIG-STS-007-02,Open Oath Guard,Prismfuller,F5,Warrior L2 Low,B
+MV-SIG-STS-007-03,Wind-Sworn Thrust,Paramount Foible,F1,Warrior L2 Low,B
+MV-SIG-STS-007-04,Plateau Step,Wraithlike Ricasso,F1,Warrior L2 Low,B
+MV-SIG-STS-007-05,Windward Yield Parry,Pommelseal,F4,Warrior L2 Low,B
+MV-SIG-STS-007-06,Sworn Edge Beat,Feintpledge,F4,Warrior L2 Low,B
+MV-SIG-STS-007-07,Sworn Cut Chain,Feintcrown,F4,Warrior L2 Low,B
+MV-SIG-STS-007-08,Wind Bind Hold,Glacier Cutover,F2,Warrior L2 Low,B
+MV-SIG-STS-007-09,Wind-Sworn Edge Sweep,Magma Envelop,F2,Champion L1 Low,B
+MV-SIG-STS-007-10,Sworn Reflect Guard,Radiance Tang,F2,Champion L1 Low,B
+MV-SIG-STS-007-11,Sworn Wind Flash,Pulsar Forte,F2,Demigod L1 Low,B
+MV-SIG-STS-007-12,Wind-Sworn Oath Stroke,Heroic Feint Triumph,F6b,Warrior L2 Low,B
+MV-SIG-STS-008-01,Rim Edge Cut,Cutover Crown,F3,Warrior L7 Mid,B
+MV-SIG-STS-008-02,Plateau Hold Guard,Sainted Quillon,F1,Warrior L7 Mid,B
+MV-SIG-STS-008-03,Long Rim Thrust,Noble Glissade,F1,Warrior L7 Mid,B
+MV-SIG-STS-008-04,Skyline Pace,Feint Grace,F3,Warrior L7 Mid,B
+MV-SIG-STS-008-05,Rim Check Parry,Midribtroth,F4,Warrior L7 Mid,B
+MV-SIG-STS-008-06,Gale Bind Press,Unbending Envelop,F1,Warrior L7 Mid,B
+MV-SIG-STS-008-07,Rim Ground Cut Chain,Vigorbeat,F5,Warrior L7 Mid,B
+MV-SIG-STS-008-08,Plateau Rim Sweep,Magmaleaf,F5,Champion L1 Low,B
+MV-SIG-STS-008-09,Rim Wind Reflect,Inviolate Forte,F1,Champion L1 Low,B
+MV-SIG-STS-008-10,Rim Gale Flash,Crossbar Solace,F3,Demigod L1 Low,B
+MV-SIG-STS-008-11,Plateau Rim Breaking Cut,Heroic Quenched Tang,F6a,Warrior L7 Mid,B
+MV-SIG-STS-009-01,Open Plateau Cut,Haemal Leaf,F2,Champion L1 Mid,B
+MV-SIG-STS-009-02,Oath Line Guard,Sanctum Foible,F2,Champion L1 Mid,B
+MV-SIG-STS-009-03,Plateau Sworn Thrust,Foibledecree,F4,Champion L1 Mid,B
+MV-SIG-STS-009-04,Wide Stride Step,Twilit Fuller,F1,Champion L1 Mid,B
+MV-SIG-STS-009-05,Oath Parry Return,Tangpledge,F4,Champion L1 Mid,B
+MV-SIG-STS-009-06,Bearing Beat Aside,Peal Ricasso,F2,Champion L1 Mid,B
+MV-SIG-STS-009-07,Plateau Bind Hold,Sigil Feint,F2,Champion L1 Mid,B
+MV-SIG-STS-009-08,Oath Edge Chain,Squalltang,F5,Champion L1 Mid,B
+MV-SIG-STS-009-09,Open Plateau Wave,Thunderclap Beat,F2,Champion L1 Mid,B
+MV-SIG-STS-009-10,Sworn Plateau Sweep,Pommel Verdict,F3,Champion L1 Mid,B
+MV-SIG-STS-009-11,Open Plateau Phase,Silken Fuller,F1,Demigod L1 Low,B
+MV-SIG-STS-009-12,Open Plateau Oath Cut,Valiant Riposte,F1,Champion L1 Mid,B
+MV-SIG-STS-010-01,Gale Bearing Cut,Noble Midrib,F1,Ruler L1 Low,B
+MV-SIG-STS-010-02,Bearing Stay Guard,Steel Crossbar,F2,Ruler L1 Low,B
+MV-SIG-STS-010-03,Gale Bearing Thrust,Pommel Edict,F3,Ruler L1 Low,B
+MV-SIG-STS-010-04,Bearing Stop Parry,Undaunted Leaf,F1,Ruler L1 Low,B
+MV-SIG-STS-010-05,Gale Slice,Midribedict,F4,Ruler L1 Low,B
+MV-SIG-STS-010-06,Bearing Bind Press,Sigilforte,F5,Ruler L1 Low,B
+MV-SIG-STS-010-07,Gusting Beat,Authoritative Glissade,F1,Ruler L1 Low,B
+MV-SIG-STS-010-08,Gale Bearing Crescent,Noble Riposte,F1,Ruler L1 Low,B
+MV-SIG-STS-010-09,Bearing Sweep Hold,Statute Cutover,F2,Ruler L1 Low,B
+MV-SIG-STS-010-10,Gale Bearing Phase,Pallforte,F5,Demigod L1 Low,B
+MV-SIG-STS-010-11,Gale Bearing Held Stroke,Triumphant Vigor Forte,F6a,Ruler L1 Low,B
+MV-SIG-STS-011-01,Open Wind Cut,Exalted Quillon,F1,Demigod L6 High,B
+MV-SIG-STS-011-02,No Wall Field Guard,Foibleseal,F4,Demigod L6 High,B
+MV-SIG-STS-011-03,Windward Point Thrust,Ricasso Crown,F3,Demigod L6 High,B
+MV-SIG-STS-011-04,Open Field Parry,Undaunted Tang,F1,Demigod L6 High,B
+MV-SIG-STS-011-05,Wind Field Bind,Imperious Beat,F1,Demigod L6 High,B
+MV-SIG-STS-011-06,Gale Beat Down,Pealfoible,F5,Demigod L6 High,B
+MV-SIG-STS-011-07,Open Chain Edge,Haemal Foible,F2,Demigod L6 High,B
+MV-SIG-STS-011-08,Wind Field Sweep,Royal Feint,F1,Demigod L6 High,B
+MV-SIG-STS-011-09,Open Guard Wind Reflect,Prismpommel,F5,Demigod L6 High,B
+MV-SIG-STS-011-10,Windless Edge Phase,Fortesolace,F4,Demigod L6 High,B
+MV-SIG-STS-011-11,Wind Without Walls Stroke,Anima Glissade,F2,Demigod L6 High,B
+MV-SIG-STS-012-01,Core Oath Cut,Famed Midrib,F1,Core Formation L3 Mid,B
+MV-SIG-STS-012-02,Core Open Guard,Sanctum Tang,F2,Core Formation L3 Mid,B
+MV-SIG-STS-012-03,Core Sworn Thrust,Radiance Midrib,F2,Core Formation L3 Mid,B
+MV-SIG-STS-012-04,Core Plateau Step,Deluge Pommel,F2,Core Formation L3 Mid,B
+MV-SIG-STS-012-05,Core Windward Parry,Parity Foible,F2,Core Formation L3 Mid,B
+MV-SIG-STS-012-06,Core Bearing Bind,Millstone Riposte,F2,Core Formation L3 Mid,B
+MV-SIG-STS-012-07,Core Sworn Beat,Tyrannous Fuller,F1,Core Formation L3 Mid,B
+MV-SIG-STS-012-08,Oath Core Chain,Inferno Crossbar,F2,Core Formation L3 Mid,B
+MV-SIG-STS-012-09,Core Oath Sweep,Beat Triumph,F3,Core Formation L3 Mid,B
+MV-SIG-STS-012-10,Core Oath Reflect,Pommeltroth,F4,Core Formation L3 Mid,B
+MV-SIG-STS-012-11,Core Gale Flash,Pulsarbeat,F5,Core Formation L3 Mid,B
+MV-SIG-STS-012-12,Core Oath Final Stroke,Paramount Prism Glissade,F6a,Core Formation L3 Mid,B
+MV-SIG-STS-003-02,Sanctum Midrib,Sovereign Midrib,F2,Champion L3 High,B
+MV-SIG-STS-005-04,Dune Midrib,Titan Midrib,F2,Demigod L4 Low,B
+MV-SIG-STS-007-08,Glacier Cutover,Thunderous Cutover,F2,Warrior L2 Low,B
+MV-SIG-STS-009-02,Sanctum Foible,Peerless Foible,F2,Champion L1 Mid,B
+MV-SIG-STS-012-02,Sanctum Tang,Colossal Tang,F2,Core Formation L3 Mid,B

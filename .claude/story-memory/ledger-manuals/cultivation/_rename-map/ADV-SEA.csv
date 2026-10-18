@@ -1,0 +1,3 @@
+move_id,old_name,new_name,function
+CMV-ADV-SEA-003-07,Shut Field,Shut Palm,Control:Suppress
+CMV-ADV-SEA-003-11,Closed Field,Locked Draw,Control:Seal

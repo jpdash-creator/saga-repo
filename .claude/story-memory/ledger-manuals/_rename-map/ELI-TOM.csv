@@ -1,0 +1,130 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-TOM-001-01,Court Flight Posture,Adamantine Thumbnotch,F1,Demigod L2 Mid,B
+MV-ELI-TOM-001-02,Azure Belt-to-Throat Throw,Pitiless Chuck,F1,Demigod L2 Mid,B
+MV-ELI-TOM-001-03,Hip-Ready Hook Parting,Overbearing Tailknob,F1,Demigod L2 Mid,B
+MV-ELI-TOM-001-04,Hawk-Wheel Weaving Step,Might Hurl,F2,Demigod L2 Mid,B
+MV-ELI-TOM-001-05,Same-Breath Paired Release,Pitiless Lightbit,F1,Demigod L2 Mid,B
+MV-ELI-TOM-001-06,Court Leg-Crossing Sweep,Fastening Balancepoint,F2,Demigod L2 Mid,B
+MV-ELI-TOM-001-07,Two-Pace Lead Marking,Chimeflint,F5,Demigod L2 Mid,B
+MV-ELI-TOM-001-08,Dual-Track Pressing Volley,Downpour Pitch,F2,Demigod L2 Mid,B
+MV-ELI-TOM-001-09,Throw-and-Reclaim Rush,Doctrine Toss,F2,Demigod L2 Mid,B
+MV-ELI-TOM-001-10,Hawk's Unseen Stoop,Torrential Nova Fling,F6a,Demigod L2 Mid,B
+MV-ELI-TOM-002-01,Basin-Settled Low Stance,Unbudging Birchhelve,F1,Demigod L5 Low,B
+MV-ELI-TOM-002-02,Echoing Double Chop,Wrathful Throwhelve,F1,Demigod L5 Low,B
+MV-ELI-TOM-002-03,River-Stone Haft Roll,Equipoise Spikepoll,F2,Demigod L5 Low,B
+MV-ELI-TOM-002-04,Held-Twin Single Throw,Novapitch,F5,Demigod L5 Low,B
+MV-ELI-TOM-002-05,Court-Measure Slip Step,Tomahead Glare,F3,Demigod L5 Low,B
+MV-ELI-TOM-002-06,Gathered Basin Release,Chime Lob,F2,Demigod L5 Low,B
+MV-ELI-TOM-002-07,Rebounding Twin-Haft Catch,Headvalor,F4,Demigod L5 Low,B
+MV-ELI-TOM-002-08,Bankside Rapid Chops,Might Throwhelve,F2,Demigod L5 Low,B
+MV-ELI-TOM-002-09,Sleeve-Pinning Twin Throw,Gyvehurl,F5,Demigod L5 Low,B
+MV-ELI-TOM-002-10,Heartbeat Echo Throws,Lot Tailknob,F2,Demigod L5 Low,B
+MV-ELI-TOM-002-11,Basin Drain Volley,Berserk Balancepoint,F1,Demigod L5 Low,B
+MV-ELI-TOM-002-12,Unseen Axe Under the Echo,Corroding Birchhelve,F1,Demigod L5 Low,B
+MV-ELI-TOM-003-01,Hawk Pair Release Stance,Thorn Quickbit,F2,Demigod L7 High,B
+MV-ELI-TOM-003-02,Hawk-Wing Lift Block,Torrent Edgecurve,F2,Demigod L7 High,B
+MV-ELI-TOM-003-03,Hawk-Dive Double-Bit Chop,Iron Spikepoll,F2,Demigod L7 High,B
+MV-ELI-TOM-003-04,Choice-Forcing Twin Throw,Rumble Fling,F2,Demigod L7 High,B
+MV-ELI-TOM-003-05,Wheeling Rear-Quarter Step,Ghosting Pitch,F1,Demigod L7 High,B
+MV-ELI-TOM-003-06,Twin-Beard Guard Lock,Gyve Thumbnotch,F2,Demigod L7 High,B
+MV-ELI-TOM-003-07,High-and-Low Plunge Sequence,Intent Toss,F2,Demigod L7 High,B
+MV-ELI-TOM-003-08,Paired Hawk Rain,Silthead,F5,Demigod L7 High,B
+MV-ELI-TOM-003-09,Hawk-Eye Gap Strike,Flingwrath,F4,Demigod L7 High,B
+MV-ELI-TOM-004-01,Courtesy Bow Draw,Lobruin,F4,Demigod L4 Low,B
+MV-ELI-TOM-004-02,Beard-Covered Off-Hand Guard,Thornhead,F5,Demigod L4 Low,B
+MV-ELI-TOM-004-03,Shoulder-Opening Beard Pull,Chuckvalor,F4,Demigod L4 Low,B
+MV-ELI-TOM-004-04,Narrow Court-Line Step,Lob Rocketry,F3,Demigod L4 Low,B
+MV-ELI-TOM-004-05,Centre-Line Court Throw,Grievous Chuck,F1,Demigod L4 Low,B
+MV-ELI-TOM-004-06,Hook-Then-Fall Combined Cut,Gnashing Quickbit,F1,Demigod L4 Low,B
+MV-ELI-TOM-004-07,Hook-and-Haft Arm Press,Overbearing Lightbit,F1,Demigod L4 Low,B
+MV-ELI-TOM-004-08,Flat-Handed Missile Turn,Edgecurve Nerve,F3,Demigod L4 Low,B
+MV-ELI-TOM-004-09,Pull-Into-Throw Court Sequence,Lottoss,F5,Demigod L4 Low,B
+MV-ELI-TOM-004-10,Footing-Breaking Low Volley,Tossscourge,F4,Demigod L4 Low,B
+MV-ELI-TOM-004-11,Court's Single Verdict Cut,Corroding Tomahead,F1,Demigod L4 Low,B
+MV-ELI-TOM-005-01,Crossing Storm Draw,Blaze Hurl,F2,Demigod L9 Peak,B
+MV-ELI-TOM-005-02,Lead-and-Trail Axe Stance,Thornflint,F5,Demigod L9 Peak,B
+MV-ELI-TOM-005-03,Shield-Circling Pivot Throw,Blaze Quickbit,F2,Demigod L9 Peak,B
+MV-ELI-TOM-005-04,Trail-Haft Slap,Equipoise Lightbit,F2,Demigod L9 Peak,B
+MV-ELI-TOM-005-05,Stormline Straight Step,Silt Edgecurve,F2,Demigod L9 Peak,B
+MV-ELI-TOM-005-06,Storm Crossing Cut,Gust Birchhelve,F2,Demigod L9 Peak,B
+MV-ELI-TOM-005-07,Face-and-Knee Split Throw,Nova Throwhelve,F2,Demigod L9 Peak,B
+MV-ELI-TOM-005-08,Caught-Axe Flat Return,Waning Tailknob,F2,Demigod L9 Peak,B
+MV-ELI-TOM-005-09,Belt-Hooked Storm Drag,Enthralling Spikepoll,F1,Demigod L9 Peak,B
+MV-ELI-TOM-005-10,Twin-Track Storm Sequence,Confluent Balancepoint,F1,Demigod L9 Peak,B
+MV-ELI-TOM-005-11,Hailfront Volley,Flintruin,F4,Demigod L9 Peak,B
+MV-ELI-TOM-005-12,Switching-Line Storm Rush,Birchblink,F4,Demigod L9 Peak,B
+MV-ELI-TOM-005-13,Tempest of the Two Tracks,Mayhem Lob,F2,Demigod L9 Peak,B
+MV-ELI-TOM-006-01,Net-Flow Settled Stance,Flintlike Birchhelve,F1,Monarch L3 Low,B
+MV-ELI-TOM-006-02,Meridian Pulse Chop,Might Fling,F2,Monarch L3 Low,B
+MV-ELI-TOM-006-03,Paired Channel Throw,Flinghavoc,F4,Monarch L3 Low,B
+MV-ELI-TOM-006-04,River-Net Spreading Deflection,Murkbirch,F5,Monarch L3 Low,B
+MV-ELI-TOM-006-05,Channel Jerk Hook,Chime Tomahead,F2,Monarch L3 Low,B
+MV-ELI-TOM-006-06,Tributary Bounding Step,Lightning Pitch,F1,Monarch L3 Low,B
+MV-ELI-TOM-006-07,Network-Driven Spread Volley,Daybreak Quickbit,F2,Monarch L3 Low,B
+MV-ELI-TOM-006-08,Confluent Pursuit Pair,Hour Thumbnotch,F2,Monarch L3 Low,B
+MV-ELI-TOM-006-09,Whole-Network Breaking Cut,Headruin,F4,Demigod L1 Low,B
+MV-ELI-TOM-007-01,Wind-Sworn Side-On Stance,Aegis Thumbnotch,F2,Demigod L1 Mid,B
+MV-ELI-TOM-007-02,Windsplit Down-Chop,Hurlhavoc,F4,Demigod L1 Mid,B
+MV-ELI-TOM-007-03,Eyes-Up Bearing Lob,Chime Tailknob,F2,Demigod L1 Mid,B
+MV-ELI-TOM-007-04,Fixed-Distance Oath Step,Granite Pitch,F2,Demigod L1 Mid,B
+MV-ELI-TOM-007-05,Gust-Turn Slant Parry,Evergreen Throwhelve,F1,Demigod L1 Mid,B
+MV-ELI-TOM-007-06,Rimline Pinning Throw,Rumble Spikepoll,F2,Demigod L1 Mid,B
+MV-ELI-TOM-007-07,Billowing Cloak Hook,Fling Durance,F3,Demigod L1 Mid,B
+MV-ELI-TOM-007-08,Unsheltered Straight Dash,Torrential Balancepoint,F1,Demigod L1 Mid,B
+MV-ELI-TOM-007-09,Windsworn Sweeping Volley,Granite Hurl,F2,Demigod L1 Mid,B
+MV-ELI-TOM-007-10,Oath-Linked Throw Dash and Cut,Lotchuck,F5,Demigod L1 Mid,B
+MV-ELI-TOM-007-11,Gale-Ridden Blink Chop,Hour Hurl,F2,Demigod L1 Mid,B
+MV-ELI-TOM-008-01,Plateau Oath Haft-Out Stance,Granite Tomahead,F2,Demigod L6 Low,B
+MV-ELI-TOM-008-02,Ground-Hugging Shin Chop,Sanguine Toss,F2,Demigod L6 Low,B
+MV-ELI-TOM-008-03,Skyline-Hidden Throw,Nova Edgecurve,F2,Demigod L6 Low,B
+MV-ELI-TOM-008-04,Landmark Bearing Step,Flintvortex,F4,Demigod L6 Low,B
+MV-ELI-TOM-008-05,Post-Pinning Oath Throw,Fastening Lightbit,F2,Demigod L6 Low,B
+MV-ELI-TOM-008-06,Oath-Driven Poll Shove,Blazetoss,F5,Demigod L6 Low,B
+MV-ELI-TOM-008-07,Gust-Aided Missile Turn,Birchmettle,F4,Demigod L6 Low,B
+MV-ELI-TOM-008-08,Plateau Rim Volley,Pitchwrath,F4,Demigod L6 Low,B
+MV-ELI-TOM-008-09,Oath Reclaim Rush,Intent Chuck,F2,Demigod L6 Low,B
+MV-ELI-TOM-008-10,Sworn Ground Single Cut,Merciless Iron Chuck,F6a,Demigod L6 Low,B
+MV-ELI-TOM-009-01,Bearing-Taking Open Stance,Flintlike Tomahead,F1,Demigod L8 High,B
+MV-ELI-TOM-009-02,Gale Pull Chop,Brutalizing Toss,F1,Demigod L8 High,B
+MV-ELI-TOM-009-03,Bearing-Line Straight Throw,Glint Birchhelve,F2,Demigod L8 High,B
+MV-ELI-TOM-009-04,Tell-Tale Cloth Glance,Flintinsight,F4,Demigod L8 High,B
+MV-ELI-TOM-009-05,Side-Slip Along the Wind,Flingblink,F4,Demigod L8 High,B
+MV-ELI-TOM-009-06,Gale-Tail Long Throw,Rumblehurl,F5,Demigod L8 High,B
+MV-ELI-TOM-009-07,Wind-Blind Feint,Remnant Fling,F2,Demigod L8 High,B
+MV-ELI-TOM-009-08,Bearing-Hold Brace,Thorn Balancepoint,F2,Demigod L8 High,B
+MV-ELI-TOM-009-09,Turning Gale Beard Hook,Immobilizing Chuck,F1,Demigod L8 High,B
+MV-ELI-TOM-009-10,Gale-Thrown Cascade,Blazehead,F5,Demigod L8 High,B
+MV-ELI-TOM-009-11,Bearing Pursuit Chain,Lot Thumbnotch,F2,Demigod L8 High,B
+MV-ELI-TOM-009-12,Hatchet in the Roar of the Gale,Rampaging Tempered Toss,F6a,Demigod L8 High,B
+MV-ELI-TOM-010-01,Unsheltered Open Guard,Obdurate Throwhelve,F1,Demigod L4 Mid,B
+MV-ELI-TOM-010-02,Naked-Ground Hock Chop,Gust Edgecurve,F2,Demigod L4 Mid,B
+MV-ELI-TOM-010-03,Open-Air Overhand Throw,Rumble Lob,F2,Demigod L4 Mid,B
+MV-ELI-TOM-010-04,Hunter's Crouch Advance,Blinding Pitch,F1,Demigod L4 Mid,B
+MV-ELI-TOM-010-05,Against-the-Gust Held Throw,Gust Spikepoll,F2,Demigod L4 Mid,B
+MV-ELI-TOM-010-06,Windward Haft Knock,Immobilizing Lightbit,F1,Demigod L4 Mid,B
+MV-ELI-TOM-010-07,Unsheltered Volley,Dismantling Spikepoll,F2,Demigod L4 Mid,B
+MV-ELI-TOM-010-08,Open Plateau Hunt Sequence,Quickbit Havoc,F3,Demigod L4 Mid,B
+MV-ELI-TOM-010-09,Open-Sky Hatchet Throw,Lob Scourge,F3,Demigod L4 Mid,B
+MV-ELI-TOM-011-01,Many-Axe Carry Stance,Charter Tailknob,F2,Demigod L9 Mid,B
+MV-ELI-TOM-011-02,Swept-Grass Throw,Lightbit Havoc,F3,Demigod L9 Mid,B
+MV-ELI-TOM-011-03,Between-Gust Breath Count,Waning Tomahead,F2,Demigod L9 Mid,B
+MV-ELI-TOM-011-04,Hip-Driven Gale Chop,Iron Tailknob,F2,Demigod L9 Mid,B
+MV-ELI-TOM-011-05,Wind-at-Back Step,Might Chuck,F2,Demigod L9 Mid,B
+MV-ELI-TOM-011-06,Three-on-One Gale Throw,Chimepitch,F5,Demigod L9 Mid,B
+MV-ELI-TOM-011-07,Hooked-Wind Pull,Mastering Lob,F1,Demigod L9 Mid,B
+MV-ELI-TOM-011-08,Wind-Brace Slant Deflect,Torrent Quickbit,F2,Demigod L9 Mid,B
+MV-ELI-TOM-011-09,Sworn Lone Stand Against Several,Charter Edgecurve,F2,Demigod L9 Mid,B
+MV-ELI-TOM-011-10,Gale of Axes Over the Slope,Devastating Fling,F1,Demigod L9 Mid,B
+MV-ELI-TOM-011-11,Gust-Hold Pursuit,Escalating Pitch,F1,Demigod L9 Mid,B
+MV-ELI-TOM-011-12,Wind-Shifting Feint Volley,Mayhemflint,F5,Demigod L9 Mid,B
+MV-ELI-TOM-011-13,Squall of Every Axe,Titanic Balancepoint,F1,Demigod L9 Mid,B
+MV-ELI-TOM-012-01,Wind-Net Open Stance,Throwhelve Obduracy,F3,Monarch L5 Mid,B
+MV-ELI-TOM-012-02,Net-Borne Downchop,Chuckhavoc,F4,Monarch L5 Mid,B
+MV-ELI-TOM-012-03,Net-Fed Release Throw,Novahead,F5,Monarch L5 Mid,B
+MV-ELI-TOM-012-04,Network Gust Step,Meteoric Thumbnotch,F1,Monarch L5 Mid,B
+MV-ELI-TOM-012-05,Network Wind Deflect,Evergreen Quickbit,F1,Monarch L5 Mid,B
+MV-ELI-TOM-012-06,Oath Qi Hook,Lightbit Spine,F3,Monarch L5 Mid,B
+MV-ELI-TOM-012-07,Plateau Pulse Throw,Facet Toss,F2,Monarch L5 Mid,B
+MV-ELI-TOM-012-08,Wind-Net Volley,Balancepoint Reckoning,F3,Monarch L5 Mid,B
+MV-ELI-TOM-012-09,Net-Linked Pursuit Chain,Hourfling,F5,Monarch L5 Mid,B
+MV-ELI-TOM-012-10,Wind-Net Sworn Cut,Iron Edgecurve,F2,Demigod L1 Low,B

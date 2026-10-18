@@ -1,0 +1,143 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-SHU-001-01,High Track Star Release,Squall Spray,F2,Warrior L1 Low,B
+MV-SIG-SHU-001-02,Low Track Star Release,Peal Hail,F2,Warrior L1 Low,B
+MV-SIG-SHU-001-03,Track Switching Footwork,Windborne Thinplate,F1,Warrior L1 Low,B
+MV-SIG-SHU-001-04,Two Hands Alternating Fan,Seasonhub,F5,Warrior L1 Low,B
+MV-SIG-SHU-001-05,Track Crossing Spoke Slash,Spoketriumph,F4,Warrior L1 Low,B
+MV-SIG-SHU-001-06,Azure Rail Parry,Squall Spoke,F2,Warrior L1 Low,B
+MV-SIG-SHU-001-07,Low Track Knee Pin,Millstone Peppering,F2,Warrior L1 Low,B
+MV-SIG-SHU-001-08,Both Tracks Struck at Once,Radiance Flatpoint,F2,Champion L1 Low,B
+MV-SIG-SHU-001-09,Track Lattice of Stars,Toothseal,F4,Champion L1 Low,B
+MV-SIG-SHU-001-10,Dual-Track Judgment Strike,Prismspoke,F5,Demigod L1 Low,B
+MV-SIG-SHU-001-11,Two Tracks Under One Sky,Resonant Tenet Hub,F6a,Warrior L1 Low,B
+MV-SIG-SHU-002-01,High Watch Hold,Tranquil Rimpoint,F1,Warrior L6 Low,B
+MV-SIG-SHU-002-02,Hawk Wing Spread Throw,Fearless Sprinkle,F1,Warrior L6 Low,B
+MV-SIG-SHU-002-03,Talon Grip Spoke Stab,Pulsarhub,F5,Warrior L6 Low,B
+MV-SIG-SHU-002-04,First Stoop Light Drop,Valiant Tippoint,F1,Warrior L6 Low,B
+MV-SIG-SHU-002-05,Second Stoop Hard Drop,Sovereign Centerhole,F1,Warrior L6 Low,B
+MV-SIG-SHU-002-06,Wheeling Climb Step,Squall Bladeface,F2,Warrior L6 Low,B
+MV-SIG-SHU-002-07,Hawk Eye Seam Pierce,Lordly Centerhole,F1,Champion L1 Low,B
+MV-SIG-SHU-002-08,Soaring Cast over the Ridge,Inferno Whiz,F2,Champion L1 Low,B
+MV-SIG-SHU-002-09,Hawk Shadow Falls Across the Foe,Hailvow,F4,Demigod L1 Low,B
+MV-SIG-SHU-002-10,Third Stoop of the Hawk,Quenched Edgeface,F2,Warrior L6 Low,B
+MV-SIG-SHU-003-01,Source Spring Short Throw,Thunderclap Bladeface,F2,Champion L3 Low,B
+MV-SIG-SHU-003-02,Riverbank Stone Step,Wraithlike Tippoint,F1,Champion L3 Low,B
+MV-SIG-SHU-003-03,Current Reading Gaze,Pealtooth,F5,Champion L3 Low,B
+MV-SIG-SHU-003-04,Mud Flat Spoke Rake,Scatter Banner,F3,Champion L3 Low,B
+MV-SIG-SHU-003-05,Confluence Cross Throw,Inferno Rimpoint,F2,Champion L3 Low,B
+MV-SIG-SHU-003-06,Sandbar Guard Block,Prismtooth,F5,Champion L3 Low,B
+MV-SIG-SHU-003-07,Shallows Skip Throw,Prism Cornerpoint,F2,Champion L3 Low,B
+MV-SIG-SHU-003-08,Ford Splash Blinding Flick,Sprayseal,F4,Champion L3 Low,B
+MV-SIG-SHU-003-09,Spring Flood Star Surge,Sovereign Edgeface,F1,Champion L3 Low,B
+MV-SIG-SHU-003-10,Weir Line of Stars,Guileful Hub,F1,Champion L3 Low,B
+MV-SIG-SHU-003-11,Dam Break Star Rush,Bedrock Peppering,F2,Champion L3 Low,B
+MV-SIG-SHU-003-12,River Law of the Falling Basin,Inferno Sprinkle,F2,Champion L3 Low,B
+MV-SIG-SHU-004-01,Right Hand Plea Throw,Toothverdict,F4,Ruler L1 Low,B
+MV-SIG-SHU-004-02,Left Hand Answer Throw,Pulsar Cornerpoint,F2,Ruler L1 Low,B
+MV-SIG-SHU-004-03,Gavel Beat Pace Count,Flatpoint Mercy,F3,Ruler L1 Low,B
+MV-SIG-SHU-004-04,Probing Spoke Poke,Haemalwhiz,F5,Ruler L1 Low,B
+MV-SIG-SHU-004-05,Appeal Parry,Deluge Edgeface,F2,Ruler L1 Low,B
+MV-SIG-SHU-004-06,Binding Writ Star Throw,Scatter Troth,F3,Ruler L1 Low,B
+MV-SIG-SHU-004-07,Stay of Advance Volley,Gloomspray,F5,Ruler L1 Low,B
+MV-SIG-SHU-004-08,Sentence Passed in Flight,Unrivaled Spoke,F1,Ruler L1 Low,B
+MV-SIG-SHU-004-09,Seat of Judgment Star Ring,Hubtroth,F4,Ruler L1 Low,B
+MV-SIG-SHU-004-10,Final Appeal Strike,Pulsar Thinplate,F2,Ruler L1 Low,B
+MV-SIG-SHU-004-11,Verdict of the Paired Court Stars,Toothcrown,F4,Ruler L1 Low,B
+MV-SIG-SHU-005-01,North Star Fixed Throw,Glacier Whiz,F2,Demigod L1 Low,B
+MV-SIG-SHU-005-02,Night Chart Sighting,Reminiscence Thinplate,F2,Demigod L1 Low,B
+MV-SIG-SHU-005-03,Star Point Wrist Cut,Haemal Spray,F2,Demigod L1 Low,B
+MV-SIG-SHU-005-04,Orbit Step,Vigorspoke,F5,Demigod L1 Low,B
+MV-SIG-SHU-005-05,Orbiting Pair Throw,Pulsar Sprinkle,F2,Demigod L1 Low,B
+MV-SIG-SHU-005-06,Meteor Parry,Devout Bladeface,F1,Demigod L1 Low,B
+MV-SIG-SHU-005-07,Comet Tail Skim,Pealhub,F5,Demigod L1 Low,B
+MV-SIG-SHU-005-08,Zenith Drop Throw,Prism Whiz,F2,Demigod L1 Low,B
+MV-SIG-SHU-005-09,Constellation Net Overhead,Subtle Spoke,F1,Demigod L1 Low,B
+MV-SIG-SHU-005-10,Meteor Shower Throw,Demolition Hail,F2,Demigod L1 Low,B
+MV-SIG-SHU-005-11,Eclipse of the Foe's Guard,Venomspoke,F5,Demigod L1 Low,B
+MV-SIG-SHU-005-12,Constellation Unbound Over the Basin,Splendid Inferno Hail,F6a,Demigod L1 Low,B
+MV-SIG-SHU-006-01,Hollow Sky Opening Throw,Inferno Hub,F2,Core Formation L1 Low,B
+MV-SIG-SHU-006-02,Core Breath Level Sighting,Peal Rimpoint,F2,Core Formation L1 Low,B
+MV-SIG-SHU-006-03,Hollow Step Slide,Delugespoke,F5,Core Formation L1 Low,B
+MV-SIG-SHU-006-04,Core-Fed Star Flight,Squallhail,F5,Core Formation L1 Low,B
+MV-SIG-SHU-006-05,Hollow Guard Spin,Spokeseal,F4,Core Formation L1 Low,B
+MV-SIG-SHU-006-06,Core Pulse Pinning Throw,Commanding Spray,F1,Core Formation L1 Low,B
+MV-SIG-SHU-006-07,Core-Hardened Point Drive,Dauntless Cornerpoint,F1,Core Formation L1 Low,B
+MV-SIG-SHU-006-08,Hollow Net Cast,Parity Tippoint,F2,Core Formation L1 Low,B
+MV-SIG-SHU-006-09,Core Burst Star Fan,Dunewhiz,F5,Core Formation L1 Low,B
+MV-SIG-SHU-006-10,Basin of Falling Stars,Demolition Centerhole,F2,Core Formation L1 Low,B
+MV-SIG-SHU-007-01,First Oath Level Throw,Spokeedict,F4,Warrior L1 Low,B
+MV-SIG-SHU-007-02,Wind Taste Sighting,Revelation Flatpoint,F2,Warrior L1 Low,B
+MV-SIG-SHU-007-03,Gust Heel Step,Scatter Voyage,F3,Warrior L1 Low,B
+MV-SIG-SHU-007-04,Oath Kept Straight Skim,Prism Rimpoint,F2,Warrior L1 Low,B
+MV-SIG-SHU-007-05,Plateau Spoke Hook,Noble Peppering,F1,Warrior L1 Low,B
+MV-SIG-SHU-007-06,Sworn Parry Turn,Squall Edgeface,F2,Warrior L1 Low,B
+MV-SIG-SHU-007-07,Wind Lane Pierce,Spokeverdict,F4,Champion L1 Low,B
+MV-SIG-SHU-007-08,Gust Line Snare,Hornbeam Thinplate,F2,Champion L1 Low,B
+MV-SIG-SHU-007-09,Stored Gust Star Release,Whizedict,F4,Demigod L1 Low,B
+MV-SIG-SHU-007-10,Oath of the First Gust,Lordly Peal Scatter,F6a,Warrior L1 Low,B
+MV-SIG-SHU-008-01,Hard Ground Flat Skim,Dauntless Whiz,F1,Warrior L4 Mid,B
+MV-SIG-SHU-008-02,Open Horizon Sighting,Reminiscence Cornerpoint,F2,Warrior L4 Mid,B
+MV-SIG-SHU-008-03,Rock Scrape Spoke Slash,Haemal Centerhole,F2,Warrior L4 Mid,B
+MV-SIG-SHU-008-04,Long Stride Reach Step,Soundless Hail,F1,Warrior L4 Mid,B
+MV-SIG-SHU-008-05,Grass Hiss Low Skim,Pulsar Tippoint,F2,Warrior L4 Mid,B
+MV-SIG-SHU-008-06,Horizon Edge Throw,Inferno Peppering,F2,Warrior L4 Mid,B
+MV-SIG-SHU-008-07,Sworn Side Parry,Sacrosanct Bladeface,F1,Warrior L4 Mid,B
+MV-SIG-SHU-008-08,Banner Staff Pin Throw,Thrall Hub,F2,Warrior L4 Mid,B
+MV-SIG-SHU-008-09,High Ground Dropping Volley,Bedrock Spray,F2,Champion L1 Low,B
+MV-SIG-SHU-008-10,Flat Ground Star Scatter,Hub Reliquary,F3,Champion L1 Low,B
+MV-SIG-SHU-008-11,Open Horizon Flash Throw,Evanescent Sprinkle,F1,Demigod L1 Low,B
+MV-SIG-SHU-008-12,Plateau Oath Volley,Heroic Bedrock Centerhole,F6a,Warrior L4 Mid,B
+MV-SIG-SHU-009-01,Held Line Level Throw,Valiant Sprinkle,F1,Champion L1 Low,B
+MV-SIG-SHU-009-02,Steady Bearing Breath,Spokemercy,F4,Champion L1 Low,B
+MV-SIG-SHU-009-03,Sidelong Line Step,Whizvoyage,F4,Champion L1 Low,B
+MV-SIG-SHU-009-04,Line Corrected Skim,Thunderclap Cornerpoint,F2,Champion L1 Low,B
+MV-SIG-SHU-009-05,Bearing Spoke Hook,Bedrock Bladeface,F2,Champion L1 Low,B
+MV-SIG-SHU-009-06,Line Guard Parry,Squall Flatpoint,F2,Champion L1 Low,B
+MV-SIG-SHU-009-07,Crossed Bearings Pin,Hailpledge,F4,Champion L1 Low,B
+MV-SIG-SHU-009-08,Line Through the Gap,Steel Edgeface,F2,Champion L1 Low,B
+MV-SIG-SHU-009-09,Bearing Line Snare of Stars,Sigil Spoke,F2,Champion L1 Low,B
+MV-SIG-SHU-009-10,Unerring Line Flash,Radiance Hail,F2,Champion L1 Low,B
+MV-SIG-SHU-009-11,True Bearing Strike,Paramount Thunderclap Spoke,F6a,Champion L1 Low,B
+MV-SIG-SHU-010-01,Open Wind Flat Throw,Magnificent Scatter,F1,Ruler L1 Mid,B
+MV-SIG-SHU-010-02,Gale Lull Counting,Reminiscence Rimpoint,F2,Ruler L1 Mid,B
+MV-SIG-SHU-010-03,Open Footing Slide,Silken Spray,F1,Ruler L1 Mid,B
+MV-SIG-SHU-010-04,Wind Rope Curving Throw,Prism Tippoint,F2,Ruler L1 Mid,B
+MV-SIG-SHU-010-05,Open Guard Palm Turn,Consecrated Flatpoint,F1,Ruler L1 Mid,B
+MV-SIG-SHU-010-06,Gust Driven Volley,Bedrock Thinplate,F2,Ruler L1 Mid,B
+MV-SIG-SHU-010-07,Gale Spear Star Throw,Steelspoke,F5,Ruler L1 Mid,B
+MV-SIG-SHU-010-08,Roofless Star Shower,Entropy Peppering,F2,Ruler L1 Mid,B
+MV-SIG-SHU-010-09,Rider of the Gale Star,Radiance Cornerpoint,F2,Ruler L1 Mid,B
+MV-SIG-SHU-010-10,Gale With No Walls,Matchless Bladeface,F1,Ruler L1 Mid,B
+MV-SIG-SHU-011-01,Thunderhead First Throw,Prism Sprinkle,F2,Demigod L2 Low,B
+MV-SIG-SHU-011-02,Pressure Drop Sighting,Spokebenison,F4,Demigod L2 Low,B
+MV-SIG-SHU-011-03,Storm Cloak Spoke Slash,Quenched Rimpoint,F2,Demigod L2 Low,B
+MV-SIG-SHU-011-04,Rain Run Step,Sprayboon,F4,Demigod L2 Low,B
+MV-SIG-SHU-011-05,Forked Skim Throw,Peerless Tippoint,F1,Demigod L2 Low,B
+MV-SIG-SHU-011-06,Squall Brace Star Turn,Faithful Hub,F1,Demigod L2 Low,B
+MV-SIG-SHU-011-07,Hail Edge Suppression Fan,Seasonhail,F5,Demigod L2 Low,B
+MV-SIG-SHU-011-08,Squall Pinned Sleeve Throw,Authoritative Thinplate,F1,Demigod L2 Low,B
+MV-SIG-SHU-011-09,Storm Front Star Line,Dune Centerhole,F2,Demigod L2 Low,B
+MV-SIG-SHU-011-10,Thunder Seeded Snare,Subtle Flatpoint,F1,Demigod L2 Low,B
+MV-SIG-SHU-011-11,Eye of the Storm Strike,Pulsarspoke,F5,Demigod L2 Low,B
+MV-SIG-SHU-011-12,Storm Sworn to the Star,Fearless Whiz Crown,F6b,Demigod L2 Low,B
+MV-SIG-SHU-012-01,Far Reach Sighted Throw,Thunderclap Edgeface,F2,Core Formation L3 Low,B
+MV-SIG-SHU-012-02,Distant Peak Breath,Peal Spoke,F2,Core Formation L3 Low,B
+MV-SIG-SHU-012-03,Reach Step Along the Cliff,Vigorhub,F5,Core Formation L3 Low,B
+MV-SIG-SHU-012-04,Core Wind Curved Throw,Splendid Scatter,F1,Core Formation L3 Low,B
+MV-SIG-SHU-012-05,Far Guard Deflecting Spin,Venerable Tippoint,F1,Core Formation L3 Low,B
+MV-SIG-SHU-012-06,Reach Pinning Star,Glacier Spray,F2,Core Formation L3 Low,B
+MV-SIG-SHU-012-07,Sworn Reach Skim Volley,Gloom Hail,F2,Core Formation L3 Low,B
+MV-SIG-SHU-012-08,Core Gale Piercing Flight,Exalted Thinplate,F1,Core Formation L3 Low,B
+MV-SIG-SHU-012-09,Far Lane Star Snare,Guileful Flatpoint,F1,Core Formation L3 Low,B
+MV-SIG-SHU-012-10,Far Reach Flash Strike,Pulsar Rimpoint,F2,Core Formation L3 Low,B
+MV-SIG-SHU-012-11,Wind Oath Beyond the Edge,Tenet Whiz,F2,Core Formation L3 Low,B
+MV-SIG-SHU-001-11,Resonant Tenet Hub,Resonant Hub,F6a,Warrior L1 Low,B
+MV-SIG-SHU-005-01,Glacier Whiz,Peerless Whiz,F2,Demigod L1 Low,B
+MV-SIG-SHU-005-12,Splendid Inferno Hail,Splendid Hail,F6a,Demigod L1 Low,B
+MV-SIG-SHU-007-08,Hornbeam Thinplate,Snaring Thinplate,F2,Champion L1 Low,B
+MV-SIG-SHU-007-10,Lordly Peal Scatter,Lordly Scatter,F6a,Warrior L1 Low,B
+MV-SIG-SHU-008-12,Heroic Bedrock Centerhole,Heroic Centerhole,F6a,Warrior L4 Mid,B
+MV-SIG-SHU-009-11,Paramount Thunderclap Spoke,Paramount Spoke,F6a,Champion L1 Low,B
+MV-SIG-SHU-011-09,Dune Centerhole,Thunderous Centerhole,F2,Demigod L2 Low,B
+MV-SIG-SHU-011-12,Fearless Whiz Crown,Fearless Whiz,F6b,Demigod L2 Low,B
+MV-SIG-SHU-012-06,Glacier Spray,Fettering Spray,F2,Core Formation L3 Low,B

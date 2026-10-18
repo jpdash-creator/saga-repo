@@ -1,0 +1,70 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-PST-001-01,Hawk Opening Stance,Squall Hammer,F2,Warrior L1 Low,B
+MV-SIG-PST-001-02,First Shot Level Draw,Pulsar Frizzen,F2,Warrior L1 Low,B
+MV-SIG-PST-001-03,Wing Cover Barrel Turn,Squall Cylinder,F2,Warrior L1 Low,B
+MV-SIG-PST-001-04,Hover Then Strike Step,Deluge Muzzle,F2,Warrior L1 Low,B
+MV-SIG-PST-001-05,Opening Shot Qi Thread,Triumphant Foresight,F1,Warrior L1 Low,B
+MV-SIG-PST-001-06,Feather Light Pan Spark,Lordly Hipshot,F1,Warrior L1 Low,B
+MV-SIG-PST-001-07,Hawk Cry Distraction Shot,Muzzleseal,F4,Warrior L1 Low,B
+MV-SIG-PST-001-08,Talon Lowered Piercing Shot,Pistolgrip Edict,F3,Champion L1 Low,B
+MV-SIG-PST-001-09,Wing Shadow Retreating Fire,Lanyardring Triumph,F3,Champion L1 Low,B
+MV-SIG-PST-001-10,Hawk Strikes Once,Vacuum Barrel,F2,Demigod L1 Low,B
+MV-SIG-PST-001-11,Opening Shot of the Azure Hawk,Triumphant Peal Triggerbar,F6a,Warrior L1 Low,B
+MV-SIG-PST-002-01,Basin Road Steady Walk,Feather Snapfire,F1,Warrior L5 Low,B
+MV-SIG-PST-002-02,Waystone Rest Shot,Quickdraw Banner,F3,Warrior L5 Low,B
+MV-SIG-PST-002-03,Dust Veiled Guard Turn,Immaculate Triggerbar,F1,Warrior L5 Low,B
+MV-SIG-PST-002-04,Road Bend Ambush Check,Revelation Flashpan,F2,Warrior L5 Low,B
+MV-SIG-PST-002-05,Cart Rut Footing,Delugebarrel,F5,Warrior L5 Low,B
+MV-SIG-PST-002-06,Roadside Rail Rest Shot,Radiance Report,F2,Warrior L5 Low,B
+MV-SIG-PST-002-07,Dust Plume Powder Blind,Thumbback Vow,F3,Champion L1 Low,B
+MV-SIG-PST-002-08,Long Road Pursuit Fire,Bedrock Pointblank,F2,Champion L1 Low,B
+MV-SIG-PST-002-09,Road's End Reckoning,Thunderclap Quickdraw,F2,Demigod L1 Low,B
+MV-SIG-PST-002-10,Discipline of the Basin Road,Destiny Barrel,F2,Warrior L5 Low,B
+MV-SIG-PST-003-01,Paired Cadence Count,Hammergift,F4,Champion L2 Low,B
+MV-SIG-PST-003-02,Azure Line Draw Hand,Peal Hipshot,F2,Champion L2 Low,B
+MV-SIG-PST-003-03,Cadence Step Guard,Pistolgrip Vow,F3,Champion L2 Low,B
+MV-SIG-PST-003-04,Left Hand Cadence Lift,Squall Snapfire,F2,Champion L2 Low,B
+MV-SIG-PST-003-05,Beat Doubled Hip Report,Pulsarmuzzle,F5,Champion L2 Low,B
+MV-SIG-PST-003-06,Off Beat Muzzle Feint,Entropy Hammer,F2,Champion L2 Low,B
+MV-SIG-PST-003-07,Cadence Cover Stride,Skyborne Thumbback,F1,Champion L2 Low,B
+MV-SIG-PST-003-08,Line Held Reload Rhythm,Prismpistol,F5,Champion L2 Low,B
+MV-SIG-PST-003-09,Doubled Beat Piercing Pair,Prismhammer,F5,Champion L2 Low,B
+MV-SIG-PST-003-10,Cadence Broken Closing Fan,Gloom Report,F2,Champion L2 Low,B
+MV-SIG-PST-003-11,Azure Line Held Fire,Unrivaled Lanyardring,F1,Demigod L1 Low,B
+MV-SIG-PST-003-12,Paired Cadence of the Azure Line,Harmonious Muzzle,F1,Champion L2 Low,B
+MV-SIG-PST-004-01,Twin Bank Footing,Hammerboon,F4,Ruler L1 Mid,B
+MV-SIG-PST-004-02,River Pebble Pistol Rest,Pealreport,F5,Ruler L1 Mid,B
+MV-SIG-PST-004-03,Twin Barrel Eddy Guard,Parity Cylinder,F2,Ruler L1 Mid,B
+MV-SIG-PST-004-04,Meeting Waters Cross Draw,Noble Frizzen,F1,Ruler L1 Mid,B
+MV-SIG-PST-004-05,Two Streams Muzzle Sweep,Gloomhammer,F5,Ruler L1 Mid,B
+MV-SIG-PST-004-06,Mist Rise Cover Step,Silken Muzzle,F1,Ruler L1 Mid,B
+MV-SIG-PST-004-07,Rapids Quick Reload,Inferno Pointblank,F2,Ruler L1 Mid,B
+MV-SIG-PST-004-08,Waterfall Paired Plunge,Hammertriumph,F4,Ruler L1 Mid,B
+MV-SIG-PST-004-09,Backwater Return Shot,Lanyardring Verdict,F3,Ruler L1 Mid,B
+MV-SIG-PST-004-10,Twin Rivers Joined,Season Flashpan,F2,Demigod L1 Low,B
+MV-SIG-PST-004-11,River Twin Doctrine,Peerless Snapfire Decree,F6b,Ruler L1 Mid,B
+MV-SIG-PST-005-01,Hawk Full Spread Stance,Pistolboon,F4,Demigod L1 Mid,B
+MV-SIG-PST-005-02,Soaring Sight Line,Sovereign Pointblank,F1,Demigod L1 Mid,B
+MV-SIG-PST-005-03,Updraft Barrel Lift,Enshrined Pistolgrip,F1,Demigod L1 Mid,B
+MV-SIG-PST-005-04,High Circling Watch,Pealbarrel,F5,Demigod L1 Mid,B
+MV-SIG-PST-005-05,Wing Folded Dive Step,Vigor Flashpan,F2,Demigod L1 Mid,B
+MV-SIG-PST-005-06,Pinion Edge Shot,Paramount Report,F1,Demigod L1 Mid,B
+MV-SIG-PST-005-07,Stoop and Rake,Destiny Cylinder,F2,Demigod L1 Mid,B
+MV-SIG-PST-005-08,Hawk Shadow Fan Shot,Volition Thumbback,F2,Demigod L1 Mid,B
+MV-SIG-PST-005-09,Sky Held Pistol Stare,Barreledict,F4,Demigod L1 Mid,B
+MV-SIG-PST-005-10,The Full Doctrine of the Hawk,Sovereign Inferno Quickdraw,F6a,Demigod L1 Mid,B
+MV-SIG-PST-006-01,Core Breath Draw,Reportdecree,F4,Core Formation L1 Low,B
+MV-SIG-PST-006-02,Dual Track Hammer Hold,Triggerbar Banner,F3,Core Formation L1 Low,B
+MV-SIG-PST-006-03,Core Settled Stance,Deluge Foresight,F2,Core Formation L1 Low,B
+MV-SIG-PST-006-04,Dual Track Barrel Turn,Hammerpledge,F4,Core Formation L1 Low,B
+MV-SIG-PST-006-05,Core Pulse Powder Seed,Prism Frizzen,F2,Core Formation L1 Low,B
+MV-SIG-PST-006-06,Track Linked Hammer Pair,Peal Hammer,F2,Core Formation L1 Low,B
+MV-SIG-PST-006-07,Core Calm Muzzle Orbit,Barrel Reliquary,F3,Core Formation L1 Low,B
+MV-SIG-PST-006-08,Dual Track Retreat Weave,Vigor Foresight,F2,Core Formation L1 Low,B
+MV-SIG-PST-006-09,Core Driven Piercing Track,Vacuum Quickdraw,F2,Core Formation L1 Low,B
+MV-SIG-PST-006-10,Twin Pulse Cast Volley,Statute Lanyardring,F2,Core Formation L1 Low,B
+MV-SIG-PST-006-11,Core and Powder Aligned Shot,Reportbanner,F4,Core Formation L1 Low,B
+MV-SIG-PST-006-12,Dual Track Core Shot,Steel Barrel,F2,Core Formation L1 Low,B
+MV-SIG-PST-001-11,Triumphant Peal Triggerbar,Triumphant Triggerbar,F6a,Warrior L1 Low,B
+MV-SIG-PST-004-11,Peerless Snapfire Decree,Peerless Snapfire,F6b,Ruler L1 Mid,B
+MV-SIG-PST-005-10,Sovereign Inferno Quickdraw,Sovereign Quickdraw,F6a,Demigod L1 Mid,B

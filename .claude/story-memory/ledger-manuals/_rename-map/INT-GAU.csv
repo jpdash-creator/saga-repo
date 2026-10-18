@@ -1,0 +1,60 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-GAU-001-01,Steel Fist Lunge Jab,Rugged Thumbplate,F1,Senior L1 Low,A
+MV-INT-GAU-001-02,Middle Plate Elbow Cover,Sturdy Fingerplate,F1,Senior L1 Low,A
+MV-INT-GAU-001-03,Gauntlet Withdrawing Step,Springing Knucklecap,F1,Senior L1 Low,A
+MV-INT-GAU-001-04,Steel Palm Edge Chop,Brisk Wristcuff,F1,Senior L1 Low,A
+MV-INT-GAU-001-05,Qi Seated Plate Crush,Fierce Grasp,F1,Senior L1 Low,A
+MV-INT-GAU-001-06,Rebounding Cuff Return,Dense Elbowcop,F1,Senior L1 Low,A
+MV-INT-GAU-002-01,Guard Splitting Wedge Jab,Grim Vambrace,F1,Senior L4 Mid,A
+MV-INT-GAU-002-02,Plate Rap on the Wrist,Wring Flog,F3,Senior L4 Mid,A
+MV-INT-GAU-002-03,Hammer Down the Cover,Harsh Gauntcuff,F1,Senior L4 Mid,A
+MV-INT-GAU-002-04,Low Cuff Press Down,Seizeup Screen,F3,Senior L4 Mid,A
+MV-INT-GAU-002-05,Opening Cross Slide,Veering Backhandplate,F1,Senior L4 Mid,A
+MV-INT-GAU-002-06,Guard Shattering Pulse,Brutal Cuffplate,F1,Senior L4 Mid,A
+MV-INT-GAU-002-07,Pinned Arm Steel Drive,Brisk Palmguard,F1,Senior L4 Mid,A
+MV-INT-GAU-003-01,Cuff Edge Block,Glovehasp,F4,Senior L7 Low,A
+MV-INT-GAU-003-02,Cuff Hammer Backswing,Cruel Crushgrip,F1,Senior L7 Low,A
+MV-INT-GAU-003-03,Angled Cuff Skid,Glovescreen,F4,Senior L7 Low,A
+MV-INT-GAU-003-04,Cuff Lift Lunge,Lurching Crushgrip,F1,Senior L7 Low,A
+MV-INT-GAU-003-05,Squared Shoulder Advance,Prowling Wristcuff,F1,Senior L7 Low,A
+MV-INT-GAU-003-06,Cuff Roll Retreat,Pirouetting Clench,F1,Senior L7 Low,A
+MV-INT-GAU-003-07,Qi Hardened Cuff Cover,Resolute Vambrace,F1,Senior L7 Low,A
+MV-INT-GAU-003-08,Hammer and Shield Switch,Mittscorer,F4,Senior L7 Low,A
+MV-INT-GAU-004-01,Steel Palm Grab Entry,Grasphasp,F4,Warrior L1 Mid,B
+MV-INT-GAU-004-02,Collar Hook Drag,Honedmitt,F5,Warrior L1 Mid,B
+MV-INT-GAU-004-03,Thumb Side Grab Break,Thumbplate Barrier,F3,Warrior L1 Mid,B
+MV-INT-GAU-004-04,Gripped Arm Turning Step,Clay Wring,F2,Warrior L1 Mid,B
+MV-INT-GAU-004-05,Qi Locked Finger Clamp,Viselike Fingerplate,F1,Warrior L1 Mid,B
+MV-INT-GAU-004-06,Seized Limb Wrench,Duskclench,F5,Warrior L1 Mid,B
+MV-INT-GAU-005-01,Rank Line Mail Jab,Stern Knucklecap,F1,Warrior L3 Low,B
+MV-INT-GAU-005-02,Buckler Arm Cover,Gauntcuff Prop,F3,Warrior L3 Low,B
+MV-INT-GAU-005-03,Closing Mailed Shove,Clayvamb,F5,Warrior L3 Low,B
+MV-INT-GAU-005-04,Marching Glove Step,Ducking Clamp,F1,Warrior L3 Low,B
+MV-INT-GAU-005-05,Dropped Weapon Snatch,Levering Palmguard,F1,Warrior L3 Low,B
+MV-INT-GAU-005-06,Crowd Elbow Sweep,Brawnclamp,F5,Warrior L3 Low,B
+MV-INT-GAU-005-07,Qi Mailed Press Strike,Vambslap,F4,Warrior L3 Low,B
+MV-INT-GAU-005-08,Shed Cut Mail Spin,Cuffplate Prop,F3,Warrior L3 Low,B
+MV-INT-GAU-005-09,Comrade Covering Guard,Guarding Elbowcop,F1,Warrior L3 Low,B
+MV-INT-GAU-006-01,Heavy Fist Count Drop,Honed Clamp,F2,Warrior L5 Mid,B
+MV-INT-GAU-006-02,Two Beat Plate Pair,Seizeup Flog,F3,Warrior L5 Mid,B
+MV-INT-GAU-006-03,Pause Break Cuff Guard,Shard Cuffplate,F2,Warrior L5 Mid,B
+MV-INT-GAU-006-04,Rhythm Shift Slide,Graspstalk,F4,Warrior L5 Mid,B
+MV-INT-GAU-006-05,Off Beat Plate Slap,Graspbuckle,F4,Warrior L5 Mid,B
+MV-INT-GAU-006-06,Pulse Timed Steel Hammer,Brassglove,F5,Warrior L5 Mid,B
+MV-INT-GAU-006-07,Beat Stealing Cuff Rap,Vambscreen,F4,Warrior L5 Mid,B
+MV-INT-GAU-007-01,Extended Plate Reach Jab,Wild Grasp,F1,Warrior L7 High,B
+MV-INT-GAU-007-02,Forearm Length Parry,Hazeglove,F5,Warrior L7 High,B
+MV-INT-GAU-007-03,Shoulder Line Hammer Drop,Clay Clench,F2,Warrior L7 High,B
+MV-INT-GAU-007-04,Reach Closing Lunge,Gauntcuff Zip,F3,Warrior L7 High,B
+MV-INT-GAU-007-05,Folded Elbow Guard,Rigid Fingerplate,F1,Warrior L7 High,B
+MV-INT-GAU-007-06,Reaching Cross Return,Draught Thumbplate,F2,Warrior L7 High,B
+MV-INT-GAU-007-07,Withdrawing Reach Slide,Clenchhurdle,F4,Warrior L7 High,B
+MV-INT-GAU-007-08,Qi Extended Plate Thrust,Clayclamp,F5,Warrior L7 High,B
+MV-INT-GAU-007-09,Long Arm Cuff Sweep,Entangling Backhandplate,F1,Warrior L7 High,B
+MV-INT-GAU-007-10,Reach Holding Pivot Guard,Sprig Vambrace,F2,Warrior L7 High,B
+MV-INT-GAU-008-01,Slip and Plate Counter,Brawn Crushgrip,F2,Warrior L9 Low,B
+MV-INT-GAU-008-02,Catch Cuff Reply,Glovebarrier,F4,Warrior L9 Low,B
+MV-INT-GAU-008-03,Dodge Back Plate Cross,Grim Palmguard,F1,Warrior L9 Low,B
+MV-INT-GAU-008-04,Withdraw Step Counter,Clenchcurl,F4,Warrior L9 Low,B
+MV-INT-GAU-008-05,Qi Reply After Parry,Draught Seizeup,F2,Warrior L9 Low,B
+MV-INT-GAU-008-06,Turning Steel Counter Hammer,Brawn Grasp,F2,Warrior L9 Low,B

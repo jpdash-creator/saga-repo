@@ -1,0 +1,142 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-BOS-001-01,Basin-Rim Bo Opening Stance,Venerable Staffcentre,F1,Warrior,B
+MV-SIG-BOS-001-02,Bo Pour-and-Return Jab,Roundstaff Decree,F3,Warrior,B
+MV-SIG-BOS-001-03,Azure Bo Shallow-Water Parry,Sacrosanct Balancenode,F1,Warrior,B
+MV-SIG-BOS-001-04,Basin Bo Level-Settling Step,Vigor Sweepstep,F2,Warrior,B
+MV-SIG-BOS-001-05,Bo Rising-Level Strike,Tipcapverdict,F4,Warrior,B
+MV-SIG-BOS-001-06,Bo Overflow Bind,Hornbeam Leftgrip,F2,Warrior,B
+MV-SIG-BOS-001-07,Basin Bo Full-Draught Thrust,Whitewood Edict,F3,Champion,B
+MV-SIG-BOS-001-08,Bo Basin-Sweeping Wave,Dune Bostip,F2,Champion,B
+MV-SIG-BOS-001-09,Bo Still Waters Break,Radiance Rightgrip,F2,Demigod,B
+MV-SIG-BOS-001-10,The Basin Pours Its Weight,Noble Volition Tipjab,F6a,Warrior,B
+MV-SIG-BOS-002-01,Hawk-Watch Bo Standing Guard,Glacier Tipcap,F2,Warrior,B
+MV-SIG-BOS-002-02,Bo River-Bank Jab,Quenched Block,F2,Warrior,B
+MV-SIG-BOS-002-03,Hawk-Wing Bo Cover Parry,Palltipcap,F5,Warrior,B
+MV-SIG-BOS-002-04,Meandering Bo Walk,Dune Spinbreak,F2,Warrior,B
+MV-SIG-BOS-002-05,Hawk-Eye Bo Gap Read,Reminiscence Rightgrip,F2,Warrior,B
+MV-SIG-BOS-002-06,Bo Bend-and-Strike,Squallblock,F5,Warrior,B
+MV-SIG-BOS-002-07,Bo Current-Seized Weapon,Thrall Roundstaff,F2,Warrior,B
+MV-SIG-BOS-002-08,Hawk Falls on the Bend,Bogripbanner,F4,Champion,B
+MV-SIG-BOS-002-09,Bo Twin-Bank Closing Sweep,Tenet Bogrip,F2,Champion,B
+MV-SIG-BOS-002-10,Hawk's Shadow Over the River,Commanding Tipcap,F1,Demigod,B
+MV-SIG-BOS-002-11,The Hawk Stoops and the River Turns,Vacuum Roll,F2,Warrior,B
+MV-SIG-BOS-003-01,Court-Paired Bo Standing Stance,Sanctum Bogrip,F2,Champion,B
+MV-SIG-BOS-003-02,Court Bo Left-Right Jabs,Steelpivot,F5,Champion,B
+MV-SIG-BOS-003-03,Bo Court Matching Block,Unwavering Staffcentre,F1,Champion,B
+MV-SIG-BOS-003-04,Twin Bo Court Pivot,Squall Balancenode,F2,Champion,B
+MV-SIG-BOS-003-05,Bo Courtyard Door Swing,Faithful Whitewood,F1,Champion,B
+MV-SIG-BOS-003-06,Bo Court Answering Strike,Illustrious Block,F1,Champion,B
+MV-SIG-BOS-003-07,Both-Courts Bo Bind,Taperend Reliquary,F3,Champion,B
+MV-SIG-BOS-003-08,Bo Twin-Court Chain Strike,Volition Pivot,F2,Champion,B
+MV-SIG-BOS-003-09,Court Bo Matched Pressure,Bedrock Leftgrip,F2,Champion,B
+MV-SIG-BOS-003-10,Bo Courts Divided Guard,Pealroll,F5,Champion,B
+MV-SIG-BOS-003-11,Bo Court Pair Meets in the Middle,Imperial Roll,F1,Demigod,B
+MV-SIG-BOS-003-12,Two Courts Speak One Verdict,Pulsar Tipjab,F2,Champion,B
+MV-SIG-BOS-004-01,Dual-Track Bo Ruler's Stance,Tipcappledge,F4,Ruler,B
+MV-SIG-BOS-004-02,Strike-Track Bo Lunge,Vacuum Spinbreak,F2,Ruler,B
+MV-SIG-BOS-004-03,Guard-Track Bo Swing Block,Pall Taperend,F2,Ruler,B
+MV-SIG-BOS-004-04,Bo Track-Change Step,Vigor Bostip,F2,Ruler,B
+MV-SIG-BOS-004-05,Bo Two-Lane Cut,Squall Roll,F2,Ruler,B
+MV-SIG-BOS-004-06,Bo Parallel Pin,Tipcapvow,F4,Ruler,B
+MV-SIG-BOS-004-07,Dual-Track Bo Rush,Statute Bostip,F2,Ruler,B
+MV-SIG-BOS-004-08,Bo Tracks Reversed Counter,Inviolate Balancenode,F1,Ruler,B
+MV-SIG-BOS-004-09,Bo Confluence of Two Lanes,Tipcapedict,F4,Demigod,B
+MV-SIG-BOS-004-10,The Two Tracks Become One Road,Paramount Quenched Staffcentre,F6a,Ruler,B
+MV-SIG-BOS-005-01,Paired-Field Bo Ready Stance,Prismtipcap,F5,Demigod,B
+MV-SIG-BOS-005-02,Near-Field Bo Rap,Haemalblock,F5,Demigod,B
+MV-SIG-BOS-005-03,Far-Field Bo Reaching Parry,Roundstaff Reliquary,F3,Demigod,B
+MV-SIG-BOS-005-04,Bo Field-Linking Slide,Deluge Tipcap,F2,Demigod,B
+MV-SIG-BOS-005-05,Bo Field Pinching Cut,Paramount Sweepstep,F1,Demigod,B
+MV-SIG-BOS-005-06,Bo Two-Field Hold,Bostipvow,F4,Demigod,B
+MV-SIG-BOS-005-07,Bo Field-Bridging Thrust,Vacuumblock,F5,Demigod,B
+MV-SIG-BOS-005-08,Paired-Field Bo Sweep,Unrivaled Bogrip,F1,Demigod,B
+MV-SIG-BOS-005-09,Bo Fields Reverse Their Pull,Venombogrip,F5,Demigod,B
+MV-SIG-BOS-005-10,Fields Meet and the Guard Falls,Prism Sweepstep,F2,Demigod,B
+MV-SIG-BOS-005-11,The Two Fields Speak as One Voice,Famed Radiance Block,F6a,Demigod,B
+MV-SIG-BOS-006-01,Core-Seated Bo Stance,Tipcapseal,F4,Core Formation,B
+MV-SIG-BOS-006-02,Bo Core-Fed Jab,Steel Whitewood,F2,Core Formation,B
+MV-SIG-BOS-006-03,Bo Hawk-Feather Parry,Paritybostip,F5,Core Formation,B
+MV-SIG-BOS-006-04,Bo Core-Driven Stoop Step,Squallpivot,F5,Core Formation,B
+MV-SIG-BOS-006-05,Bo Circling Hawk Watch,Nurturing Rightgrip,F1,Core Formation,B
+MV-SIG-BOS-006-06,Hawk-Talon Bo Cut,Bedrock Pivot,F2,Core Formation,B
+MV-SIG-BOS-006-07,Bo Azure-Sky Pressing Hold,Pivot Banner,F3,Core Formation,B
+MV-SIG-BOS-006-08,Bo Core-Pulse Bind,Millstone Taperend,F2,Core Formation,B
+MV-SIG-BOS-006-09,Hawk-Stoop Bo Core Plunge,Vaunted Sweepstep,F1,Core Formation,B
+MV-SIG-BOS-006-10,Bo Azure Core-Wide Sweep,Entropy Leftgrip,F2,Core Formation,B
+MV-SIG-BOS-006-11,Bo Hawk Leaves the Ground,Pulsar Block,F2,Core Formation,B
+MV-SIG-BOS-006-12,The Azure Hawk Stoops Through the Core,Famed Tipjab,F1,Core Formation,B
+MV-SIG-BOS-007-01,Sworn Bo First Oath Stance,Prismbogrip,F5,Warrior,B
+MV-SIG-BOS-007-02,Bo Oath-Lifting Jab,Haemal Roundstaff,F2,Warrior,B
+MV-SIG-BOS-007-03,Bo Wind-Facing Parry,Peal Staffcentre,F2,Warrior,B
+MV-SIG-BOS-007-04,Open-Plain Bo Stride,Vigorroll,F5,Warrior,B
+MV-SIG-BOS-007-05,Oath-Held Bo Cross Block,Bogrip Reliquary,F3,Warrior,B
+MV-SIG-BOS-007-06,Bearing-Cut Bo Stroke,Pivotcrown,F4,Warrior,B
+MV-SIG-BOS-007-07,Bo Oath-Bound Weapon Hold,Sigil Spinbreak,F2,Warrior,B
+MV-SIG-BOS-007-08,Windward Bo Pressing Walk,Bedrock Whitewood,F2,Champion,B
+MV-SIG-BOS-007-09,Gust-Turned Bo Reversal,Pall Rightgrip,F2,Champion,B
+MV-SIG-BOS-007-10,Bo Oath Beneath the Open Sky,Sigil Taperend,F2,Demigod,B
+MV-SIG-BOS-007-11,The Oath Is Spoken in the Stroke,Intrepid Bostip Triumph,F6b,Warrior,B
+MV-SIG-BOS-008-01,Bearing-Taking Bo Stance,Steel Tipcap,F2,Warrior,B
+MV-SIG-BOS-008-02,Bo Bearing-Line Jab,Tipjabtriumph,F4,Warrior,B
+MV-SIG-BOS-008-03,Plateau Bo Off-Bearing Parry,Deluge Bostip,F2,Warrior,B
+MV-SIG-BOS-008-04,Mark-Circling Bo Stride,Squall Leftgrip,F2,Warrior,B
+MV-SIG-BOS-008-05,Plateau Bo Mark-Fixed Cut,Triumphant Balancenode,F1,Warrior,B
+MV-SIG-BOS-008-06,Bo Held-Line Press,Bostippledge,F4,Warrior,B
+MV-SIG-BOS-008-07,Plateau Bo Straight Drive,Thunderclap Roll,F2,Champion,B
+MV-SIG-BOS-008-08,Bo Bearing-Switch Counter,Masterful Pivot,F1,Champion,B
+MV-SIG-BOS-008-09,Bo Bearing Beneath the Blow,Phantasm Bogrip,F2,Demigod,B
+MV-SIG-BOS-008-10,The Bearing Holds and the Plateau Answers,Prismtipjab,F5,Warrior,B
+MV-SIG-BOS-009-01,Open-Wind Bo Roving Guard,Hornbeam Whitewood,F2,Champion,B
+MV-SIG-BOS-009-02,Bo Windborne Jab,Steel Spinbreak,F2,Champion,B
+MV-SIG-BOS-009-03,Bo Slipping-Gale Parry,Peal Roundstaff,F2,Champion,B
+MV-SIG-BOS-009-04,Bo Free-Ranging Step,Ethereal Pivot,F1,Champion,B
+MV-SIG-BOS-009-05,Open-Air Bo Feint and Return,Entropy Rightgrip,F2,Champion,B
+MV-SIG-BOS-009-06,Bo Gale-Chasing Taps,Illustrious Balancenode,F1,Champion,B
+MV-SIG-BOS-009-07,Wind-Drifted Bo Sweep,Squalltipjab,F5,Champion,B
+MV-SIG-BOS-009-08,Bo Loose-Circle Hold,Tipjab Pledge,F3,Champion,B
+MV-SIG-BOS-009-09,Bo Never-Resting Circuit,Millstone Block,F2,Champion,B
+MV-SIG-BOS-009-10,Bo Open-Wind Unseating Cut,Unbending Leftgrip,F1,Champion,B
+MV-SIG-BOS-009-11,Bo Wind Without Edges,Spinbreak Solace,F3,Demigod,B
+MV-SIG-BOS-009-12,The Open Wind Gives No Footing,Solar Sweepstep,F2,Champion,B
+MV-SIG-BOS-010-01,Sworn-Student Bo Readiness,Undaunted Taperend,F1,Ruler,B
+MV-SIG-BOS-010-02,Bo Sworn-Line Thrust,Prism Staffcentre,F2,Ruler,B
+MV-SIG-BOS-010-03,Gale Bo Shoulder Parry,Peal Leftgrip,F2,Ruler,B
+MV-SIG-BOS-010-04,Bo Windward Shifting Step,Feather Tipjab,F1,Ruler,B
+MV-SIG-BOS-010-05,Bo Gale-Weighted Drop,Rolltriumph,F4,Ruler,B
+MV-SIG-BOS-010-06,Bo Sworn-Hold Bind,Commanding Whitewood,F1,Ruler,B
+MV-SIG-BOS-010-07,Bo Gale-Pressed Guard,Volition Rightgrip,F2,Ruler,B
+MV-SIG-BOS-010-08,Bo Wind-Parting Thrust,Bostipdecree,F4,Ruler,B
+MV-SIG-BOS-010-09,Bo Oath-Broken Counter,Rollvow,F4,Ruler,B
+MV-SIG-BOS-010-10,Bo Gale Within the Oath,Demolition Tipcap,F2,Demigod,B
+MV-SIG-BOS-010-11,The Great Gale Kept by Oath,Vaunted Taperend Crown,F6b,Ruler,B
+MV-SIG-BOS-011-01,Xiantian Bo Bearing Stance,Sanctum Staffcentre,F2,Void God,B
+MV-SIG-BOS-011-02,Bo Field-Edge Jab,Pivottriumph,F4,Void God,B
+MV-SIG-BOS-011-03,Bearing-True Bo Parry,Sainted Tipcap,F1,Void God,B
+MV-SIG-BOS-011-04,Bo Field-Guided Step,Evanescent Bostip,F1,Void God,B
+MV-SIG-BOS-011-05,Bo Held-Bearing Strike,Steel Roll,F2,Void God,B
+MV-SIG-BOS-011-06,Bo Field-Pressed Bind,Thralltipjab,F5,Void God,B
+MV-SIG-BOS-011-07,Bo Bearing-Piercing Drive,Quenched Sweepstep,F2,Void God,B
+MV-SIG-BOS-011-08,Bo Field-Shifting Sequence,Destiny Tipjab,F2,Void God,B
+MV-SIG-BOS-011-09,Bo Bearing Beyond the Tip,Bogripseal,F4,Void God,B
+MV-SIG-BOS-011-10,The Held Bearing Is Never Broken,Unwavering Bedrock Bogrip,F6a,Void God,B
+MV-SIG-BOS-012-01,Core-Gathered Bo Stance,Hornbeam Roundstaff,F2,Core Formation,B
+MV-SIG-BOS-012-02,Bo Core-Pulsed Jab,Roll Banner,F3,Core Formation,B
+MV-SIG-BOS-012-03,Bo Gale-Stalled Parry,Pallbostip,F5,Core Formation,B
+MV-SIG-BOS-012-04,Bo Tailwind Core Step,Dune Whitewood,F2,Core Formation,B
+MV-SIG-BOS-012-05,Bo Gale-Laden Press,Volition Spinbreak,F2,Core Formation,B
+MV-SIG-BOS-012-06,Bo Whistling-Gale Cut,Balancenode Edict,F3,Core Formation,B
+MV-SIG-BOS-012-07,Bo Gale-Wound Hold,Subjugating Leftgrip,F1,Core Formation,B
+MV-SIG-BOS-012-08,Bo Core-Pulse Gust Step,Rollsolace,F4,Core Formation,B
+MV-SIG-BOS-012-09,Bo Core-Wide Gale Sweep,Splendid Bostip,F1,Core Formation,B
+MV-SIG-BOS-012-10,Bo Core-Driven Overhead Fall,Blockbanner,F4,Core Formation,B
+MV-SIG-BOS-012-11,Bo Gale Beyond the Plateau,Season Bogrip,F2,Core Formation,B
+MV-SIG-BOS-012-12,The Whole Gale Falls Down the Staff,Imperial Staffcentre,F1,Core Formation,B
+MV-SIG-BOS-001-06,Hornbeam Leftgrip,Clamping Leftgrip,F2,Warrior,B
+MV-SIG-BOS-001-08,Dune Bostip,Thunderous Bostip,F2,Champion,B
+MV-SIG-BOS-002-01,Glacier Tipcap,Unyielding Tipcap,F2,Warrior,B
+MV-SIG-BOS-002-04,Dune Spinbreak,Gliding Spinbreak,F2,Warrior,B
+MV-SIG-BOS-003-01,Sanctum Bogrip,Warding Bogrip,F2,Champion,B
+MV-SIG-BOS-009-01,Hornbeam Whitewood,Staunch Whitewood,F2,Champion,B
+MV-SIG-BOS-011-01,Sanctum Staffcentre,Steadfast Staffcentre,F2,Void God,B
+MV-SIG-BOS-012-01,Hornbeam Roundstaff,Resolute Roundstaff,F2,Core Formation,B
+MV-SIG-BOS-012-04,Dune Whitewood,Surging Whitewood,F2,Core Formation,B

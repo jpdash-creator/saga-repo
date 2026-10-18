@@ -1,0 +1,132 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-BAL-001-01,Azure Stance at the Stock,Hornbeam Bolthead,F2,Warrior L1 Low,B
+MV-SIG-BAL-001-02,Paired Breath Winding,Magnanimous Aimframe,F1,Warrior L1 Low,B
+MV-SIG-BAL-001-03,Pin to Pin Sighting,Peal Springarm,F2,Warrior L1 Low,B
+MV-SIG-BAL-001-04,Basin Rim Flat Throw,Splendid Impalement,F1,Warrior L1 Low,B
+MV-SIG-BAL-001-05,Azure Quick Reseat,Vigor Windlassdrum,F2,Warrior L1 Low,B
+MV-SIG-BAL-001-06,Hawk Turn Behind the Stock,Soundless Skewerbolt,F1,Warrior L1 Low,B
+MV-SIG-BAL-001-07,Azure Charged Arm Throw,Thunderclap Stakedrive,F2,Champion L1 Low,B
+MV-SIG-BAL-001-08,Basin Lock Hold,Unwavering Bowarms,F1,Champion L1 Low,B
+MV-SIG-BAL-001-09,Rim to Floor Drop Bolt,Steelslider,F5,Demigod L1 Low,B
+MV-SIG-BAL-001-10,Azure Basin Bolt,Quenched Boltflight,F2,Warrior L1 Low,B
+MV-SIG-BAL-002-01,Pair Post Calling,Eclipse Aimframe,F2,Warrior L6 Mid,B
+MV-SIG-BAL-002-02,Matched Stride Carriage Move,Skyborne Impalement,F1,Warrior L6 Mid,B
+MV-SIG-BAL-002-03,Rack Shared Between Pair,Vigor Stockbed,F2,Warrior L6 Mid,B
+MV-SIG-BAL-002-04,Pair Loose in Turn,Stakecrown,F4,Warrior L6 Mid,B
+MV-SIG-BAL-002-05,Twin Aim Convergence,Noble Bolthead,F1,Warrior L6 Mid,B
+MV-SIG-BAL-002-06,Garrison Gate Holding Fire,Millstone Sinewcord,F2,Warrior L6 Mid,B
+MV-SIG-BAL-002-07,Reserve Pair Relief,Dust Skewerbolt,F2,Warrior L6 Mid,B
+MV-SIG-BAL-002-08,Basin Pair Cross Strike,Pulsar Boltflight,F2,Champion L1 Low,B
+MV-SIG-BAL-002-09,Garrison Held Line,Immaculate Trackbed,F1,Champion L1 Low,B
+MV-SIG-BAL-002-10,Matched Breath Double Release,Pulsarstreak,F5,Demigod L1 Low,B
+MV-SIG-BAL-002-11,Garrison Pair Doctrine Bolt,Pulsar Stakedrive,F2,Warrior L6 Mid,B
+MV-SIG-BAL-003-01,Hawk Crouch at the Great Stock,Enshrined Springarm,F1,Champion L4 Low,B
+MV-SIG-BAL-003-02,Sight Horizon Marking,Bolthead Largesse,F3,Champion L4 Low,B
+MV-SIG-BAL-003-03,Down Feather Wind Test,Lifegiving Sinewcord,F1,Champion L4 Low,B
+MV-SIG-BAL-003-04,Great String Heel Seating,Vigor Aimframe,F2,Champion L4 Low,B
+MV-SIG-BAL-003-05,Hawk Glide Shot,Radiance Windlassdrum,F2,Champion L4 Low,B
+MV-SIG-BAL-003-06,Soaring Lift Aim,Serene Springarm,F1,Champion L4 Low,B
+MV-SIG-BAL-003-07,Plume Marked Officer Pick,Sovereign Stakedrive,F1,Champion L4 Low,B
+MV-SIG-BAL-003-08,Sudden Turn Across the Front,Hurtleboon,F4,Champion L4 Low,B
+MV-SIG-BAL-003-09,Great Engine Talon Strike,Prismstake,F5,Champion L4 Low,B
+MV-SIG-BAL-003-10,Watching Overhead Hold,Thunderclap Boltflight,F2,Champion L4 Low,B
+MV-SIG-BAL-003-11,Great Hawk Falling,Prism Impalement,F2,Demigod L1 Low,B
+MV-SIG-BAL-003-12,Hawk Sight Great Bolt,Famed Thunderclap Trackbed,F6a,Champion L4 Low,B
+MV-SIG-BAL-004-01,Flat Stone Wheel Bedding,Custody Stockbed,F2,Ruler L1 Mid,B
+MV-SIG-BAL-004-02,Running Water Sight Rest,Tranquil Trackbed,F1,Ruler L1 Mid,B
+MV-SIG-BAL-004-03,Reed Rope Bolt Sling,Compassionate Bowarms,F1,Ruler L1 Mid,B
+MV-SIG-BAL-004-04,Bank to Bank Cast,Skewerbolt Crown,F3,Ruler L1 Mid,B
+MV-SIG-BAL-004-05,Current Leading Shot,Peal Bowarms,F2,Ruler L1 Mid,B
+MV-SIG-BAL-004-06,Strake Flooding Bolt,Exalted Impalement,F1,Ruler L1 Mid,B
+MV-SIG-BAL-004-07,Over the Raised Shields Lob,Clawbanner,F4,Ruler L1 Mid,B
+MV-SIG-BAL-004-08,Choked Channel Volley,Masterful Trackbed,F1,Ruler L1 Mid,B
+MV-SIG-BAL-004-09,Laden Barge Piercing Throw,Sliderverdict,F4,Demigod L1 Low,B
+MV-SIG-BAL-004-10,River Court Ballista Bolt,Streakdecree,F4,Ruler L1 Mid,B
+MV-SIG-BAL-005-01,Twin Rail Siege Brace,Glacier Springarm,F2,Demigod L2 Low,B
+MV-SIG-BAL-005-02,Field Reaching Winch Turn,Luminous Bolthead,F1,Demigod L2 Low,B
+MV-SIG-BAL-005-03,Rail Aligned Sighting,Peal Sinewcord,F2,Demigod L2 Low,B
+MV-SIG-BAL-005-04,Heaviest Shaft Flat Throw,Hurtletriumph,F4,Demigod L2 Low,B
+MV-SIG-BAL-005-05,Slider Run Back Reload,Volition Windlassdrum,F2,Demigod L2 Low,B
+MV-SIG-BAL-005-06,Carriage Width Rail Slide,Deluge Boltflight,F2,Demigod L2 Low,B
+MV-SIG-BAL-005-07,Gate Centre Splitting Bolt,Pulsarslider,F5,Demigod L2 Low,B
+MV-SIG-BAL-005-08,Frame Held Shield Cover,Custody Aimframe,F2,Demigod L2 Low,B
+MV-SIG-BAL-005-09,Overwhelming Rail Bolt,Triumphant Stockbed,F1,Demigod L2 Low,B
+MV-SIG-BAL-005-10,Dual Track Siege Bolt,Imperial Steel Bowarms,F6a,Demigod L2 Low,B
+MV-SIG-BAL-006-01,Core Seated Post Posture,Stockbed Troth,F3,Core Formation L1 Low,B
+MV-SIG-BAL-006-02,Core Warm Winding,Clement Bolthead,F1,Core Formation L1 Low,B
+MV-SIG-BAL-006-03,Clear Sky Distance Reading,Reminiscence Bowarms,F2,Core Formation L1 Low,B
+MV-SIG-BAL-006-04,Core Charged Release,Storied Stakedrive,F1,Core Formation L1 Low,B
+MV-SIG-BAL-006-05,Long Core Lift Throw,Illustrious Skewerbolt,F1,Core Formation L1 Low,B
+MV-SIG-BAL-006-06,Core Rooted Recoil Take,Sacrosanct Trackbed,F1,Core Formation L1 Low,B
+MV-SIG-BAL-006-07,Core Eyes Mark Holding,Revelation Windlassdrum,F2,Core Formation L1 Low,B
+MV-SIG-BAL-006-08,Reed Screen Shield Piercing,Magnificent Impalement,F1,Core Formation L1 Low,B
+MV-SIG-BAL-006-09,Azure Long Hold Release,Thunderclap Skewerbolt,F2,Core Formation L1 Low,B
+MV-SIG-BAL-006-10,Singing Frame Gate Breaker,Pulsarhurtle,F5,Core Formation L1 Low,B
+MV-SIG-BAL-006-11,Core of the Azure Siege Bolt,Paramount Stockbed Verdict,F6b,Core Formation L1 Low,B
+MV-SIG-BAL-007-01,Sworn Watch Stock Stance,Custody Springarm,F2,Warrior L2 Low,B
+MV-SIG-BAL-007-02,Oath Counted Winding,Vigor Sinewcord,F2,Warrior L2 Low,B
+MV-SIG-BAL-007-03,Landmark Bearing Glance,Bountiful Aimframe,F1,Warrior L2 Low,B
+MV-SIG-BAL-007-04,Plateau Flat Loose,Peal Boltflight,F2,Warrior L2 Low,B
+MV-SIG-BAL-007-05,Between Gusts Quick Loose,Stakedecree,F4,Warrior L2 Low,B
+MV-SIG-BAL-007-06,Wind Shifting Quarter Turn,Clawsolace,F4,Warrior L2 Low,B
+MV-SIG-BAL-007-07,Wind Sworn Charged Throw,Streaktriumph,F4,Champion L1 Low,B
+MV-SIG-BAL-007-08,Oath Held Under Gale,Revered Aimframe,F1,Champion L1 Low,B
+MV-SIG-BAL-007-09,Strongest Push Piercing Bolt,Vacuum Stakedrive,F2,Demigod L1 Low,B
+MV-SIG-BAL-007-10,Wind-Sworn Engine Oath Bolt,Matchless Sinewcord Banner,F6b,Warrior L2 Low,B
+MV-SIG-BAL-008-01,Plateau Crew Oath Roll,Interstice Stockbed,F2,Warrior L8 Mid,B
+MV-SIG-BAL-008-02,Windbreak Stone Piling,Bedrock Sinewcord,F2,Warrior L8 Mid,B
+MV-SIG-BAL-008-03,Hand Sign Bearing Calls,Reminiscence Bolthead,F2,Warrior L8 Mid,B
+MV-SIG-BAL-008-04,Sung Count Rope Haul,Delugestake,F5,Warrior L8 Mid,B
+MV-SIG-BAL-008-05,Sworn Line Holding Fire,Millstone Springarm,F2,Warrior L8 Mid,B
+MV-SIG-BAL-008-06,Windward Crew Stagger,Deluge Stakedrive,F2,Warrior L8 Mid,B
+MV-SIG-BAL-008-07,Oath Crossfire Between Engines,Heroic Skewerbolt,F1,Warrior L8 Mid,B
+MV-SIG-BAL-008-08,Whistling Sentinel Warning Bolt,Dauntless Boltflight,F1,Warrior L8 Mid,B
+MV-SIG-BAL-008-09,Cadenced Crew Volley,Sliderbanner,F4,Champion L1 Low,B
+MV-SIG-BAL-008-10,Plateau Rush Holding Oath,Custody Bowarms,F2,Champion L1 Low,B
+MV-SIG-BAL-008-11,Sworn Crew Great Release,Clawcrown,F4,Demigod L1 Low,B
+MV-SIG-BAL-008-12,Plateau Crew Oath Bolt,Fearless Thunderclap Windlassdrum,F6a,Warrior L8 Mid,B
+MV-SIG-BAL-009-01,Deck Seam Bearing Stance,Devout Windlassdrum,F1,Champion L2 Mid,B
+MV-SIG-BAL-009-02,Rail Pin Sighting,Eclipse Trackbed,F2,Champion L2 Mid,B
+MV-SIG-BAL-009-03,Swell Timed Winding,Vigor Bolthead,F2,Champion L2 Mid,B
+MV-SIG-BAL-009-04,Spray Curtain Loose,Hurtlebanner,F4,Champion L2 Mid,B
+MV-SIG-BAL-009-05,Rail Slide Aim Change,Streakgrace,F4,Champion L2 Mid,B
+MV-SIG-BAL-009-06,Beam Meeting Lead Shot,Lordly Impalement,F1,Champion L2 Mid,B
+MV-SIG-BAL-009-07,Three Swell Bearing Hold,Royal Bowarms,F1,Champion L2 Mid,B
+MV-SIG-BAL-009-08,Roll Timed Hull Tearing Bolt,Vacuumstake,F5,Champion L2 Mid,B
+MV-SIG-BAL-009-09,Mast Splitting Bearing Bolt,Hurtlecrown,F4,Demigod L1 Low,B
+MV-SIG-BAL-009-10,Deck Bearing Ballista Bolt,Vaunted Quenched Claw,F6a,Champion L2 Mid,B
+MV-SIG-BAL-010-01,Long Stride Edge Standing,Steel Stockbed,F2,Ruler L1 Low,B
+MV-SIG-BAL-010-02,Valley Smoke Wind Reading,Revelation Sinewcord,F2,Ruler L1 Low,B
+MV-SIG-BAL-010-03,Slope Mark Distance Cutting,Reminiscence Trackbed,F2,Ruler L1 Low,B
+MV-SIG-BAL-010-04,Slope Face Dropping Shot,Streakedict,F4,Ruler L1 Low,B
+MV-SIG-BAL-010-05,Edge Anchor Quick Reset,Nurturing Claw,F1,Ruler L1 Low,B
+MV-SIG-BAL-010-06,Switchback Raking Fire,Seasonclaw,F5,Ruler L1 Low,B
+MV-SIG-BAL-010-07,Loose Rock Rope Cutting Bolt,Slidercrown,F4,Ruler L1 Low,B
+MV-SIG-BAL-010-08,Lip Taken Climber Drop,Hurtleverdict,F4,Ruler L1 Low,B
+MV-SIG-BAL-010-09,Open Edge Long Volley,Millstone Aimframe,F2,Ruler L1 Low,B
+MV-SIG-BAL-010-10,Open Edge Last Bolt,Steel Boltflight,F2,Demigod L1 Low,B
+MV-SIG-BAL-010-11,Open Edge Engine Oath Bolt,Radiance Stakedrive,F2,Ruler L1 Low,B
+MV-SIG-BAL-011-01,Gale Push Rooted Brace,Statute Springarm,F2,Demigod L4 Mid,B
+MV-SIG-BAL-011-02,Field Touch Wind Reading,Gracious Windlassdrum,F1,Demigod L4 Mid,B
+MV-SIG-BAL-011-03,Damp Warp Shaft Check,Wise Bowarms,F1,Demigod L4 Mid,B
+MV-SIG-BAL-011-04,Upwind Nose Long Release,Slidertriumph,F4,Demigod L4 Mid,B
+MV-SIG-BAL-011-05,Field Aided Wind Correction,Stockbed Benison,F3,Demigod L4 Mid,B
+MV-SIG-BAL-011-06,Gust Storm Lull Seizing,Stakeverdict,F4,Demigod L4 Mid,B
+MV-SIG-BAL-011-07,Gale Piercing Long Bolt,Clawdecree,F4,Demigod L4 Mid,B
+MV-SIG-BAL-011-08,Oath Steadied Distant Shot,Peal Skewerbolt,F2,Demigod L4 Mid,B
+MV-SIG-BAL-011-09,Long Bolt of the Sworn Wind,Unrivaled Hurtle,F1,Demigod L4 Mid,B
+MV-SIG-BAL-011-10,Gale Oath Long Bolt,Streakverdict,F4,Demigod L4 Mid,B
+MV-SIG-BAL-012-01,Core Rooted Engine Stance,Prism Sinewcord,F2,Core Formation L3 Low,B
+MV-SIG-BAL-012-02,Core Wind Breath Winding,Benevolent Claw,F1,Core Formation L3 Low,B
+MV-SIG-BAL-012-03,Plateau Horizon Reading,Hospitable Aimframe,F1,Core Formation L3 Low,B
+MV-SIG-BAL-012-04,Oath Stone Touching,Merciful Bolthead,F1,Core Formation L3 Low,B
+MV-SIG-BAL-012-05,Core Wind Charged Loose,Intrepid Impalement,F1,Core Formation L3 Low,B
+MV-SIG-BAL-012-06,Held Bearing Core Steady,Reminiscence Springarm,F2,Core Formation L3 Low,B
+MV-SIG-BAL-012-07,Core Fed Rolling Volley,Bedrock Streak,F2,Core Formation L3 Low,B
+MV-SIG-BAL-012-08,Wind Shift Counter Turn,Slidergrace,F4,Core Formation L3 Low,B
+MV-SIG-BAL-012-09,Core Held Gale Piercing,Gallant Skewerbolt,F1,Core Formation L3 Low,B
+MV-SIG-BAL-012-10,Core Strength Overdraw,Vacuum Slider,F2,Core Formation L3 Low,B
+MV-SIG-BAL-012-11,Core Sworn Great Bolt,Streakcrown,F4,Core Formation L3 Low,B
+MV-SIG-BAL-012-12,Core of the Wind-Sworn Engine,Staketriumph,F4,Core Formation L3 Low,B
+MV-SIG-BAL-001-01,Hornbeam Bolthead,Immovable Bolthead,F2,Warrior L1 Low,B
+MV-SIG-BAL-005-01,Glacier Springarm,Immovable Springarm,F2,Demigod L2 Low,B

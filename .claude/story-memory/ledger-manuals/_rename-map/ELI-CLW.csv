@@ -1,0 +1,131 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-CLW-001-01,Court Pair Opening Guard,Knucklespike Valor,F3,Demigod,B
+MV-ELI-CLW-001-02,Twin Claw Parallel Rake,Punishing Fingerblade,F1,Demigod,B
+MV-ELI-CLW-001-03,Hawk-Court Gliding Step,Talonflash,F4,Demigod,B
+MV-ELI-CLW-001-04,Twin Wrist Cross Parry,Gust Clawbase,F2,Demigod,B
+MV-ELI-CLW-001-05,Paired Tine Hook Lift,Gyvenail,F5,Demigod,B
+MV-ELI-CLW-001-06,Left Beats and Right Rakes,Gust Raze,F2,Demigod,B
+MV-ELI-CLW-001-07,Twin Hook Guard Pry,Toxin Clawtip,F2,Demigod,B
+MV-ELI-CLW-001-08,Hawk-Court Double Sunder,Mightnail,F5,Demigod,B
+MV-ELI-CLW-001-09,Court Pair Pinning Lock,Mastering Rip,F1,Demigod,B
+MV-ELI-CLW-001-10,Twin Flash Rake Crossing,Dazzling Expanse Tinecurve,F6a,Demigod,B
+MV-ELI-CLW-002-01,Riverbank Guard Posture,Talon Obduracy,F3,Demigod,B
+MV-ELI-CLW-002-02,Paired Current Rake,Clawrake Reckoning,F3,Demigod,B
+MV-ELI-CLW-002-03,River Stone Hopping Step,Mightpawl,F5,Demigod,B
+MV-ELI-CLW-002-04,Eddy Turn Claw Parry,Impenetrable Palmstrap,F1,Demigod,B
+MV-ELI-CLW-002-05,Water Reading Claw Glance,Wristband Vitality,F3,Demigod,B
+MV-ELI-CLW-002-06,Ford Crossing Hook,Ponderous Hookclaw,F2,Demigod,B
+MV-ELI-CLW-002-07,Downstream Raking Pull,Blaze Shred,F2,Demigod,B
+MV-ELI-CLW-002-08,Eddy Wrist Wrench,Mayhem Flay,F2,Demigod,B
+MV-ELI-CLW-002-09,Rapids Tine Thrust,Ripscourge,F4,Demigod,B
+MV-ELI-CLW-002-10,River Mouth Sundering Pair,Tinecurve Havoc,F3,Demigod,B
+MV-ELI-CLW-002-11,Floodwater Claw Press,Ponderous Raze,F2,Demigod,B
+MV-ELI-CLW-002-12,Riverbed Scouring Rake,Hollowshred,F5,Demigod,B
+MV-ELI-CLW-003-01,Stoop Guard Reset,Thorn Wristband,F2,Demigod,B
+MV-ELI-CLW-003-02,Hold-and-Strike Opening,Sanguine Knucklespike,F2,Demigod,B
+MV-ELI-CLW-003-03,Hawk Pivot Slide,Ghosting Shred,F1,Demigod,B
+MV-ELI-CLW-003-04,Perch Break Hook,Suffocating Scour,F1,Demigod,B
+MV-ELI-CLW-003-05,Twin Hold Wrist Tie,Hoarfrost Backplate,F2,Demigod,B
+MV-ELI-CLW-003-06,Stooping Tine Stab,Hellish Scour,F1,Demigod,B
+MV-ELI-CLW-003-07,Hawk Stoop Seizing Rake,Granite Clawrake,F2,Demigod,B
+MV-ELI-CLW-003-08,Twin Hold Pressing Bind,Shade Hookclaw,F2,Demigod,B
+MV-ELI-CLW-003-09,Talon Return Turning,Adamantine Backplate,F1,Demigod,B
+MV-ELI-CLW-004-01,Twin-Court Standing Ward,Unbudging Clawtip,F1,Demigod,B
+MV-ELI-CLW-004-02,Basin Talon Rake,Flayscourge,F4,Demigod,B
+MV-ELI-CLW-004-03,Court Edge Glide,Gusttalon,F5,Demigod,B
+MV-ELI-CLW-004-04,Basin Rim Deflection,Unrelenting Talon,F1,Demigod,B
+MV-ELI-CLW-004-05,Paired Reading of the Hand,Veritynail,F5,Demigod,B
+MV-ELI-CLW-004-06,Court Pair Entangling Hook,Maiming Rip,F1,Demigod,B
+MV-ELI-CLW-004-07,Quick Court Slashes,Gustpawl,F5,Demigod,B
+MV-ELI-CLW-004-08,Twin-Court Guard Spreader,Mastering Fingerblade,F1,Demigod,B
+MV-ELI-CLW-004-09,Basin Needle Pierce,Clawtip Wrath,F3,Demigod,B
+MV-ELI-CLW-004-10,Court Rending Cross,Rumble Clawbase,F2,Demigod,B
+MV-ELI-CLW-004-11,Court Pair Pinning Press,Shadepawl,F5,Demigod,B
+MV-ELI-CLW-004-12,Court Hold and Rake Chain,Confluent Scour,F1,Demigod,B
+MV-ELI-CLW-004-13,Basin Talon Vanishing Pass,Dazzling Rumble Flay,F6a,Demigod,B
+MV-ELI-CLW-005-01,Two-River Standing Guard,Facet Palmstrap,F2,Demigod,B
+MV-ELI-CLW-005-02,Single Claw Long Rake,Merciless Shred,F1,Demigod,B
+MV-ELI-CLW-005-03,Meeting Waters Step,Torrent Clawbase,F2,Demigod,B
+MV-ELI-CLW-005-04,Spillover Parry,Flintlike Wristband,F1,Demigod,B
+MV-ELI-CLW-005-05,Far Bank Reading,Taloninsight,F4,Demigod,B
+MV-ELI-CLW-005-06,Joined Waters Hook Lift,Talonspine,F4,Demigod,B
+MV-ELI-CLW-005-07,Parting Waters Rake,Punishing Tinecurve,F1,Demigod,B
+MV-ELI-CLW-005-08,Whirlpool Wrist Draw,Chime Clawrake,F2,Demigod,B
+MV-ELI-CLW-005-09,Two-River Torrent Rake,Wrathful Hookclaw,F1,Demigod,B
+MV-ELI-CLW-005-10,Tide Pinning Hold,Charter Fingerblade,F2,Demigod,B
+MV-ELI-CLW-005-11,Where Rivers Meet Tear,Psyche Talon,F2,Demigod,B
+MV-ELI-CLW-006-01,Rending Hand Ready Seat,Unbudging Palmstrap,F1,Demigod,B
+MV-ELI-CLW-006-02,Track Parallel Slash,Gnashing Rip,F1,Demigod,B
+MV-ELI-CLW-006-03,Hawk-Wing Slide Step,Granite Rip,F2,Demigod,B
+MV-ELI-CLW-006-04,Cross Track Cover Parry,Unbudging Knucklespike,F1,Demigod,B
+MV-ELI-CLW-006-05,Track Fold Hook Pull,Thornrip,F5,Demigod,B
+MV-ELI-CLW-006-06,Rending Pair of Short Cuts,Blaze Knucklespike,F2,Demigod,B
+MV-ELI-CLW-006-07,Guard Track Thrust Pierce,Lacerating Backplate,F1,Demigod,B
+MV-ELI-CLW-006-08,Dual-Track Armor Rending,Might Flay,F2,Demigod,B
+MV-ELI-CLW-006-09,Both Tracks Binding Lock,Ripdurance,F4,Demigod,B
+MV-ELI-CLW-006-10,Track-Fed Rending Rake,Wristband Insight,F3,Demigod,B
+MV-ELI-CLW-007-01,Long Oath Ground Stance,Facet Talon,F2,Demigod,B
+MV-ELI-CLW-007-02,Sworn Raking Stroke,Sanguine Backplate,F2,Demigod,B
+MV-ELI-CLW-007-03,Wind Slide Advance,Siltraze,F5,Demigod,B
+MV-ELI-CLW-007-04,Oath Turn Claw Parry,Palmstrap Nerve,F3,Demigod,B
+MV-ELI-CLW-007-05,Wind Reading Claw Pause,Pawlrespite,F4,Demigod,B
+MV-ELI-CLW-007-06,Sworn Hook and Draw,Hoarfrost Scour,F2,Demigod,B
+MV-ELI-CLW-007-07,Windbreak Rake,Pawlwrath,F4,Demigod,B
+MV-ELI-CLW-007-08,Oath Wrench of the Wrist,Chime Clawtip,F2,Demigod,B
+MV-ELI-CLW-007-09,Long Oath Rending,Hellish Raze,F1,Demigod,B
+MV-ELI-CLW-007-10,Oath Binding Claw Press,Charter Clawbase,F2,Demigod,B
+MV-ELI-CLW-007-11,Oath Unbroken Return,Impervious Fingerblade,F1,Demigod,B
+MV-ELI-CLW-008-01,Edge Bearing Stance,Pawlmettle,F4,Demigod,B
+MV-ELI-CLW-008-02,Bearing Line Rake,Rumble Clawrake,F2,Demigod,B
+MV-ELI-CLW-008-03,Edge Sidestep Slip,Silt Flay,F2,Demigod,B
+MV-ELI-CLW-008-04,Bearing Hold Hook,Ponderous Shred,F2,Demigod,B
+MV-ELI-CLW-008-05,Edge Cutting Slash,Tempered Wristband,F2,Demigod,B
+MV-ELI-CLW-008-06,Edge Parry and Draw,Equipoise Tinecurve,F2,Demigod,B
+MV-ELI-CLW-008-07,Plateau Edge Falling Rake,Scourhavoc,F4,Demigod,B
+MV-ELI-CLW-008-08,Held Bearing Suppressing Claw,Maiming Knucklespike,F1,Demigod,B
+MV-ELI-CLW-008-09,Bearing Flash Pass,Dazzling Scour Slipstream,F6b,Demigod,B
+MV-ELI-CLW-009-01,Sworn Hand Gale Stance,Iron Hookclaw,F2,Demigod,B
+MV-ELI-CLW-009-02,Gale Hook Draw,Mangling Clawrake,F1,Demigod,B
+MV-ELI-CLW-009-03,Sworn Step Through Wind,Vanishing Rip,F1,Demigod,B
+MV-ELI-CLW-009-04,Gust Claw Parry Turn,Torrent Clawtip,F2,Demigod,B
+MV-ELI-CLW-009-05,Gale Sense Reading,Hookclaw Vigil,F3,Demigod,B
+MV-ELI-CLW-009-06,Gale Claw Hook Haul,Maiming Flay,F1,Demigod,B
+MV-ELI-CLW-009-07,Gust Rake of Three,Might Raze,F2,Demigod,B
+MV-ELI-CLW-009-08,Hook-Fast Wrist Spin,Fingerblade Durance,F3,Demigod,B
+MV-ELI-CLW-009-09,Wind Needle Probe,Hollownail,F5,Demigod,B
+MV-ELI-CLW-009-10,Gale Hook Tearing Haul,Talonscourge,F4,Demigod,B
+MV-ELI-CLW-009-11,Sworn Hand Pinning Gale,Charter Raze,F2,Demigod,B
+MV-ELI-CLW-009-12,Gale-Fed Rake,Talonvigil,F4,Demigod,B
+MV-ELI-CLW-010-01,Open Wind Oath Guard,Aegistalon,F5,Demigod,B
+MV-ELI-CLW-010-02,Oath Rake Falling,Might Shred,F2,Demigod,B
+MV-ELI-CLW-010-03,Wind-at-Back Advance,Granite Tinecurve,F2,Demigod,B
+MV-ELI-CLW-010-04,Lean-Away Parry,Murknail,F5,Demigod,B
+MV-ELI-CLW-010-05,Oath Claw Hook Drag,Backplate Valor,F3,Demigod,B
+MV-ELI-CLW-010-06,Sworn Slash Pair,Tempered Palmstrap,F2,Demigod,B
+MV-ELI-CLW-010-07,Open Wind Wrist Press,Webbing Wristband,F1,Demigod,B
+MV-ELI-CLW-010-08,Oath Open Wind Sundering,Sanguine Palmstrap,F2,Demigod,B
+MV-ELI-CLW-010-09,Oath-Fast Pinning Grip,Shade Talon,F2,Demigod,B
+MV-ELI-CLW-010-10,Sworn Gale Piercing Rake,Dismantling Knucklespike,F2,Demigod,B
+MV-ELI-CLW-011-01,Bearing Ready Claw Stance,Obdurate Clawbase,F1,Demigod,B
+MV-ELI-CLW-011-02,Rake on the Bearing,Rumblepawl,F5,Demigod,B
+MV-ELI-CLW-011-03,Slip Along the Bearing,Unseen Shred,F1,Demigod,B
+MV-ELI-CLW-011-04,Bearing Deflection Sweep,Talonvalor,F4,Demigod,B
+MV-ELI-CLW-011-05,Bearing Sense at Contact,Chimepawl,F5,Demigod,B
+MV-ELI-CLW-011-06,Bearing Claw Hook Drag,Ponderous Tinecurve,F2,Demigod,B
+MV-ELI-CLW-011-07,Short Bearing Slashes,Might Clawtip,F2,Demigod,B
+MV-ELI-CLW-011-08,Bearing Guard Wrench,Toxin Clawbase,F2,Demigod,B
+MV-ELI-CLW-011-09,Bearing Needle Thrust,Novatalon,F5,Demigod,B
+MV-ELI-CLW-011-10,Bearing Tearing Rake,Blazeflay,F5,Demigod,B
+MV-ELI-CLW-011-11,Bearing Pinning Press,Enthralling Talon,F1,Demigod,B
+MV-ELI-CLW-011-12,Bearing Hook and Rake Chain,Multiplying Clawrake,F1,Demigod,B
+MV-ELI-CLW-011-13,Bearing Unbroken Flash,Shredvortex,F4,Demigod,B
+MV-ELI-CLW-012-01,Veteran Plateau Stance,Talonnerve,F4,Demigod,B
+MV-ELI-CLW-012-02,Veteran's Wind Rake Draw,Raze Wrath,F3,Demigod,B
+MV-ELI-CLW-012-03,Plateau Gust Sidestep,Torrent Flay,F2,Demigod,B
+MV-ELI-CLW-012-04,Veteran Hook Haul,Strangling Hookclaw,F1,Demigod,B
+MV-ELI-CLW-012-05,Plateau Raking Pair,Gnashing Backplate,F1,Demigod,B
+MV-ELI-CLW-012-06,Plateau Guard Opener,Mayhem Rip,F2,Demigod,B
+MV-ELI-CLW-012-07,Plateau Wind Rending,Gnashing Scour,F1,Demigod,B
+MV-ELI-CLW-012-08,Veteran Pinning Claws,Mastering Raze,F1,Demigod,B
+MV-ELI-CLW-012-09,Plateau Wind Claw Storm,Eviscerating Fingerblade,F1,Demigod,B
+MV-ELI-CLW-001-10,Dazzling Expanse Tinecurve,Dazzling Tinecurve,F6a,Demigod,B

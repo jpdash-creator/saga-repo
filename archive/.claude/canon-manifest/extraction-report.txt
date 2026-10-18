@@ -1,0 +1,63 @@
+TOTAL AREAS EXTRACTED: 614
+PARTS COVERED: 35
+
+Part | Areas | Domain
+   2 |    10 | narration
+   3 |    21 | cultivation
+   4 |     3 | cultivation
+   5 |    15 | cultivation
+   6 |    12 | cultivation
+   7 |    14 | cultivation
+   8 |    39 | technology
+   9 |    16 | technology
+  10 |    16 | technology
+  11 |    14 | energy
+  12 |    17 | energy
+  13 |    26 | worlds
+  14 |    17 | worlds
+  15 |    20 | worlds
+  16 |    19 | character
+  17 |    15 | character
+  18 |    15 | character
+  19 |    15 | character
+  20 |    13 | character
+  21 |    22 | society
+  22 |    30 | society
+  23 |    28 | society
+  24 |    26 | society
+  25 |    28 | society
+  26 |    20 | character
+  27 |    19 | character
+  28 |    19 | narration
+  29 |    17 | narration
+  30 |     2 | narration
+  31 |    21 | synergy
+  32 |    17 | technology
+  33 |    18 | technology
+  35 |     7 | narration
+  36 |    16 | narration
+  37 |     7 | ledger
+
+Largest areas by line count:
+    704 lines - ssc-narration-p02-book-creation-law-chapter-document (Part_2_SSC_Canon_Novel_Book_Structure_Law.md L598-1301)
+    690 lines - ssc-ledger-p37-schema-templates (Part_37_SSC_Canon_Ledger_Schema_Law.md L70-759)
+    521 lines - ssc-synergy-p31-cultivation-synergy-percentage-technology-synergy-percentage (Part_31_Cultivation_Technology_Synergy_Law.md L1439-1959)
+    441 lines - ssc-cultivation-p04-affinity-system (Part_4_Cultivation_Affinity_Heart_Soul_Law.md L35-475)
+    422 lines - ssc-technology-p08-technology-type-classification-system (Part_8_Technology_Scale_Law.md L99-520)
+    404 lines - ssc-narration-p30-phase-1-narrative-arc-map (Part_30_Narrative_Theme_Novel_Macro_Story_Law.md L376-779)
+    356 lines - ssc-narration-p30-founding-principles-novel-macro-story-law (Part_30_Narrative_Theme_Novel_Macro_Story_Law.md L20-375)
+    315 lines - ssc-narration-p29-relational-address-respect-law (Part_29_Narration_Theme_Dialogue_Social_Interaction_Law.md L530-844)
+    306 lines - ssc-technology-p08-20-tier-civilization-technology-scale (Part_8_Technology_Scale_Law.md L521-826)
+    302 lines - ssc-narration-p02-book-creation-law-chapter-markdown-file (Part_2_SSC_Canon_Novel_Book_Structure_Law.md L1302-1603)
+
+Smallest areas by line count:
+     10 lines - ssc-worlds-p13-primordium-absolute-chaos (Part_13_World_Systems_Location_Law.md L652-661)
+     11 lines - ssc-ledger-p37-part-37-amendment-protocol (Part_37_SSC_Canon_Ledger_Schema_Law.md L820-830)
+     12 lines - ssc-character-p19-side-character-information-architecture (Part_19_Character_Side_Character_Law.md L320-331)
+     12 lines - ssc-character-p27-consequence-governance-non-cultivator-characters (Part_27_Character_Consequence_Law.md L790-801)
+     12 lines - ssc-ledger-p37-schema-field-classification (Part_37_SSC_Canon_Ledger_Schema_Law.md L808-819)
+     13 lines - ssc-worlds-p13-galaxy-cluster-galaxy-supercluster-universe-multiverse (Part_13_World_Systems_Location_Law.md L639-651)
+     13 lines - ssc-character-p26-authoring-notes-governance-footer (Part_26_Character_Psychological_Law.md L960-972)
+     14 lines - ssc-character-p18-villain-information-architecture (Part_18_Character_Villain_Law.md L513-526)
+     14 lines - ssc-character-p19-side-character-consequence-architecture (Part_19_Character_Side_Character_Law.md L138-151)
+     14 lines - ssc-character-p19-side-character-combat (Part_19_Character_Side_Character_Law.md L248-261)

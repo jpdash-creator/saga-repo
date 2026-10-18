@@ -1,0 +1,78 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-GRN-001-01,Azure Dawn Palm Warming,Concussion Scourge,F3,Demigod L1 Low,B
+MV-ELI-GRN-001-02,Skyline Sighting,Facet Cap,F2,Demigod L1 Low,B
+MV-ELI-GRN-001-03,Silent Flick Release,Gust Shockwave,F2,Demigod L1 Low,B
+MV-ELI-GRN-001-04,Low Basin Crouch,Casingdurance,F4,Demigod L1 Low,B
+MV-ELI-GRN-001-05,Glare Hidden Sky Cast,Downpour Fuse,F2,Demigod L1 Low,B
+MV-ELI-GRN-001-06,Blue-Grey Veil Burst,Murkcap,F5,Demigod L1 Low,B
+MV-ELI-GRN-001-07,Glove-Back Catch and Flick,Indomitable Lever,F1,Demigod L1 Low,B
+MV-ELI-GRN-001-08,Sky-Filling Barrage,Mayhem Detonate,F2,Demigod L1 Low,B
+MV-ELI-GRN-001-09,Pale Casing Over the Squad,Inexorable Shrapnel,F1,Demigod L1 Low,B
+MV-ELI-GRN-001-10,Azure Wheel of Falling Shells,Granite Kaboom,F2,Demigod L1 Low,B
+MV-ELI-GRN-002-01,Twin Bank Footwork,Ghosting Fragmentation,F1,Demigod L3 Mid,B
+MV-ELI-GRN-002-02,Matched Fuse Cutting,Expanse Pinring,F2,Demigod L3 Mid,B
+MV-ELI-GRN-002-03,Mirrored Lob Pair,Ferocious Spoon,F1,Demigod L3 Mid,B
+MV-ELI-GRN-002-04,Shoulder Tap Count,Casinginsight,F4,Demigod L3 Mid,B
+MV-ELI-GRN-002-05,Vacated Cover Dive,Granite Firecap,F2,Demigod L3 Mid,B
+MV-ELI-GRN-002-06,Banked Bursts Along the Lane,Punishing Casing,F1,Demigod L3 Mid,B
+MV-ELI-GRN-002-07,Single Match Joint Lighting,Kaboomscourge,F4,Demigod L3 Mid,B
+MV-ELI-GRN-002-08,Twin Bank Back-Cast Retreat,Silt Powderchamber,F2,Demigod L3 Mid,B
+MV-ELI-GRN-002-09,Crossing Veil of Bursts,Kaboommettle,F4,Demigod L3 Mid,B
+MV-ELI-GRN-002-10,Linked Fuse Order Lock,Equipoise Powderchamber,F2,Demigod L3 Mid,B
+MV-ELI-GRN-002-11,Woven Fall from Both Banks,Corroding Sizzle Wrath,F6b,Demigod L3 Mid,B
+MV-ELI-GRN-003-01,Ridge Run-Up Plant,Kaboomvortex,F4,Demigod L2 Low,B
+MV-ELI-GRN-003-02,Wingspread Sweep Throw,Gust Fragment,F2,Demigod L2 Low,B
+MV-ELI-GRN-003-03,Single Far Mark Fixing,Remnant Firecap,F2,Demigod L2 Low,B
+MV-ELI-GRN-003-04,Qi Wave Long Pitch,Rumble Shockwave,F2,Demigod L2 Low,B
+MV-ELI-GRN-003-05,Crest Skip Pitch,Decimating Shrapnel,F1,Demigod L2 Low,B
+MV-ELI-GRN-003-06,Cliff Updraught Reading,Prescient Fuse,F1,Demigod L2 Low,B
+MV-ELI-GRN-003-07,Ridge Interval Barrage,Charter Cap,F2,Demigod L2 Low,B
+MV-ELI-GRN-003-08,Far Window Needle Throw,Glint Spoon,F2,Demigod L2 Low,B
+MV-ELI-GRN-003-09,Cliff-Top Single Fall,Brutalizing Detonate,F1,Demigod L2 Low,B
+MV-ELI-GRN-004-01,Running Water Breath,Verityspoon,F5,Demigod L4 Low,B
+MV-ELI-GRN-004-02,Muddy Bank Slide Landing,Charter Lever,F2,Demigod L4 Low,B
+MV-ELI-GRN-004-03,Still Water Skimming Toss,Glint Pinring,F2,Demigod L4 Low,B
+MV-ELI-GRN-004-04,Reedbed Hiding Crouch,Fragment Tenacity,F3,Demigod L4 Low,B
+MV-ELI-GRN-004-05,Upstream Foot Ford Throw,Glintlever,F5,Demigod L4 Low,B
+MV-ELI-GRN-004-06,Eddy Turn Lob,Gustsizzle,F5,Demigod L4 Low,B
+MV-ELI-GRN-004-07,Rapids Throat Burst,Silt Fragmentation,F2,Demigod L4 Low,B
+MV-ELI-GRN-004-08,Wade-Back Bank Cast,Might Casing,F2,Demigod L4 Low,B
+MV-ELI-GRN-004-09,Spray-Clear Dry Hand,Elevating Shrapnel,F1,Demigod L4 Low,B
+MV-ELI-GRN-004-10,Swelling Flood Barrage,Blaze Fuse,F2,Demigod L4 Low,B
+MV-ELI-GRN-004-11,River Mist Smoke Cloak,Mayhem Casing,F2,Demigod L4 Low,B
+MV-ELI-GRN-004-12,Torrent Shell Sweep,Intentfuse,F5,Demigod L4 Low,B
+MV-ELI-GRN-005-01,Two-File Door Approach,Might Kaboom,F2,Demigod L6 Mid,B
+MV-ELI-GRN-005-02,Fist-Thump Door Count,Fragment Respite,F3,Demigod L6 Mid,B
+MV-ELI-GRN-005-03,Beam Brace Stand,Aegisspoon,F5,Demigod L6 Mid,B
+MV-ELI-GRN-005-04,Hinge Side Lob,Unsparing Detonate,F1,Demigod L6 Mid,B
+MV-ELI-GRN-005-05,Planted Feet Back Lean,Vanishing Firecap,F1,Demigod L6 Mid,B
+MV-ELI-GRN-005-06,Paired Doors Same Beat,Siltsizzle,F5,Demigod L6 Mid,B
+MV-ELI-GRN-005-07,Throw-Through and Rush-In,Silt Concussion,F2,Demigod L6 Mid,B
+MV-ELI-GRN-005-08,Two-Ended Corridor Smoke,Murkfuse,F5,Demigod L6 Mid,B
+MV-ELI-GRN-005-09,Door Leaf Splinter Sweep,Torrent Powderchamber,F2,Demigod L6 Mid,B
+MV-ELI-GRN-005-10,Barricade Front and Back Burst,Eviscerating Shockwave,F1,Demigod L6 Mid,B
+MV-ELI-GRN-005-11,Ring of Shells Breach Seal,Deedspoon,F5,Demigod L6 Mid,B
+MV-ELI-GRN-005-12,Room by Room Clearing Chain,Leverhavoc,F4,Demigod L6 Mid,B
+MV-ELI-GRN-005-13,Twin-Track Hall Breaking,Nova Kaboom,F2,Demigod L6 Mid,B
+MV-ELI-GRN-006-01,Two-Height Perch Pair,Iron Spoon,F2,Demigod L5 Low,B
+MV-ELI-GRN-006-02,Cry and Answer Signal,Lever Insight,F3,Demigod L5 Low,B
+MV-ELI-GRN-006-03,Joint Stoop Throws,Rumble Cap,F2,Demigod L5 Low,B
+MV-ELI-GRN-006-04,Wing-Tip Rolling Dodge,Gustlever,F5,Demigod L5 Low,B
+MV-ELI-GRN-006-05,Crossing Stoop Paths,Ruinous Fragmentation,F1,Demigod L5 Low,B
+MV-ELI-GRN-006-06,Pursuit Drop and Rise,Pinring Flash,F3,Demigod L5 Low,B
+MV-ELI-GRN-006-07,Mantling Cloak Spread,Obdurate Lever,F1,Demigod L5 Low,B
+MV-ELI-GRN-006-08,Double Dive Barrage,Fuse Ruin,F3,Demigod L5 Low,B
+MV-ELI-GRN-006-09,Watched Lane Cutoff,Capmettle,F4,Demigod L5 Low,B
+MV-ELI-GRN-006-10,Twin Strike Falling Burst,Rumble Concussion,F2,Demigod L5 Low,B
+MV-ELI-GRN-007-01,Hollow Floor Rim Survey,Shrapnel Premonition,F3,Demigod L7 Mid,B
+MV-ELI-GRN-007-02,Rim Walk Pacing,Sizzleblink,F4,Demigod L7 Mid,B
+MV-ELI-GRN-007-03,Downhill Bounding Release,Hoarfrost Firecap,F2,Demigod L7 Mid,B
+MV-ELI-GRN-007-04,Rim Ledge Lie Flat,Indomitable Spoon,F1,Demigod L7 Mid,B
+MV-ELI-GRN-007-05,Echo Bowl Listening,Waning Casing,F2,Demigod L7 Mid,B
+MV-ELI-GRN-007-06,Basin Heart Burst,Eviscerating Fragmentation,F1,Demigod L7 Mid,B
+MV-ELI-GRN-007-07,Rim Ring Casting,Blazesizzle,F5,Demigod L7 Mid,B
+MV-ELI-GRN-007-08,Slope Roll Closing,Shockwave Devastation,F3,Demigod L7 Mid,B
+MV-ELI-GRN-007-09,Lip Sealing Barrage,Intent Powderchamber,F2,Demigod L7 Mid,B
+MV-ELI-GRN-007-10,Low Point Gathering Trap,Remorseless Cap,F1,Demigod L7 Mid,B
+MV-ELI-GRN-007-11,One-Instant Basin Strike,Corroding Blaze Kaboom,F6a,Demigod L7 Mid,B
+MV-ELI-GRN-002-02,Expanse Pinring,Wary Pinring,F2,Demigod L3 Mid,B

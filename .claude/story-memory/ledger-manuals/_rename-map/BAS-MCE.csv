@@ -1,0 +1,77 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-MCE-001-01,Overhead Knob Drop,Pulpblow,F4,T1 Unawakened,A
+MV-BAS-MCE-001-02,Forehand Haft Swing,Poundbump,F4,T1 Unawakened,A
+MV-BAS-MCE-001-03,Short Haft Parry,Ready Wristloop,F1,T1 Unawakened,A
+MV-BAS-MCE-001-04,Planted Stance Step,Backward Pearhead,F1,T1 Unawakened,A
+MV-BAS-MCE-001-05,Knob Jab to Gut,Ironknob Hit,F3,T1 Unawakened,A
+MV-BAS-MCE-002-01,Flange Edge Rake,Peardash,F4,T1 Skin,A
+MV-BAS-MCE-002-02,Drop and Return Swing,Crush Bump,F3,T1 Skin,A
+MV-BAS-MCE-002-03,Two-Hand Haft Block,Haftring Stay,F3,T1 Skin,A
+MV-BAS-MCE-002-04,Haft Heel Pivot,Quiet Maceball,F1,T1 Skin,A
+MV-BAS-MCE-002-05,Haft Butt Thrust,Short Ribhead,F1,T1 Skin,A
+MV-BAS-MCE-002-06,Steadying Wrist Roll,Crushwedge,F4,T1 Skin,A
+MV-BAS-MCE-003-01,Slow Overhead Lift,Short Studhead,F1,T1 Muscle,A
+MV-BAS-MCE-003-02,Rooted Low Swing,Leaden Flangerib,F1,T1 Muscle,A
+MV-BAS-MCE-003-03,Shoulder-Rest Advance,Stepping Pulp,F1,T1 Muscle,A
+MV-BAS-MCE-003-04,Cross-Body Haft Guard,Snug Maceneck,F1,T1 Muscle,A
+MV-BAS-MCE-003-05,Grounded Knob Press,Catching Dent,F1,T1 Muscle,A
+MV-BAS-MCE-003-06,Breath-Timed Swing Chain,Pound Hit,F3,T1 Muscle,A
+MV-BAS-MCE-003-07,Dead-Weight Settle,Angled Maceneck,F1,T1 Muscle,A
+MV-BAS-MCE-004-01,Lead-Hand Feint Swing,Fouling Flangerib,F1,T1 Tendon,A
+MV-BAS-MCE-004-02,Haft-Length Measuring Step,Quiet Pound,F1,T1 Tendon,A
+MV-BAS-MCE-004-03,Elbow Seeking Rap,Upward Pearhead,F1,T1 Tendon,A
+MV-BAS-MCE-004-04,Rising Counter-Lift,Macelid,F4,T1 Tendon,A
+MV-BAS-MCE-004-05,Rim-Catch Hook,Tripping Bellhead,F1,T1 Tendon,A
+MV-BAS-MCE-004-06,Collarbone Drop Strike,Firm Studhead,F1,T1 Tendon,A
+MV-BAS-MCE-005-01,Heavy Head Overswing,Plain Batter,F1,T1 Bone,A
+MV-BAS-MCE-005-02,Knuckle-Guard Parry,Ribpause,F4,T1 Bone,A
+MV-BAS-MCE-005-03,Braced Planting Stance,Pearstay,F4,T1 Bone,A
+MV-BAS-MCE-005-04,Crushing Knee Sweep,Pearblow,F4,T1 Bone,A
+MV-BAS-MCE-005-05,Pommel Hook Pull,Dentstay,F4,T1 Bone,A
+MV-BAS-MCE-005-06,Reverse Haft Catch,Batterpause,F4,T1 Bone,A
+MV-BAS-MCE-005-07,Halting Short Knock,Descending Ironknob,F1,T1 Bone,A
+MV-BAS-MCE-006-01,Short Haft Wrist Flick,Sudden Haftring,F1,T1 Muscle,A
+MV-BAS-MCE-006-02,Belt-Draw Opening Strike,Pulphit,F4,T1 Muscle,A
+MV-BAS-MCE-006-03,Close Quarter Knob Strike,Denthit,F4,T1 Muscle,A
+MV-BAS-MCE-006-04,Wrist Loop Recovery,Ribhead Lid,F3,T1 Muscle,A
+MV-BAS-MCE-006-05,Slip and Rap Footwork,Pulp Hop,F3,T1 Muscle,A
+MV-BAS-MCE-006-06,Forearm Haft Block,Pearwedge,F4,T1 Muscle,A
+MV-BAS-MCE-007-01,Qi-Weighted Overhead Drop,Narrow Smash,F1,Senior L1 Low,A
+MV-BAS-MCE-007-02,Circulating Haft Guard,Planted Bellhead,F1,Senior L1 Low,A
+MV-BAS-MCE-007-03,Flange Spark Rap,Gnawing Smash,F1,Senior L1 Low,A
+MV-BAS-MCE-007-04,Breath-Led Advance Step,Backward Batter,F1,Senior L1 Low,A
+MV-BAS-MCE-007-05,Qi-Seated Grip Lock,Crushcowl,F4,Senior L1 Low,A
+MV-BAS-MCE-007-06,Knob Knock Opening,Straight Dent,F1,Senior L1 Low,A
+MV-BAS-MCE-008-01,Mail Seam Knock,Quick Crush,F1,Senior L2 Low,A
+MV-BAS-MCE-008-02,Padded Coat Thump,Single Wristloop,F1,Senior L2 Low,A
+MV-BAS-MCE-008-03,Plate Rim Strike,Single Pulp,F1,Senior L2 Low,A
+MV-BAS-MCE-008-04,Helm Ring Tap,Open Smash,F1,Senior L2 Low,A
+MV-BAS-MCE-008-05,Rolling Blade Parry,Macepause,F4,Senior L2 Low,A
+MV-BAS-MCE-008-06,Gauntlet Cuff Pin,Denthusk,F4,Senior L2 Low,A
+MV-BAS-MCE-008-07,Front-Foot Settle,Backward Maceball,F1,Senior L2 Low,A
+MV-BAS-MCE-009-01,Quick Rim Strike,Leaden Maceneck,F1,Senior L3 Low,A
+MV-BAS-MCE-009-02,Whip-Turn Return,Maceball Dash,F3,Senior L3 Low,A
+MV-BAS-MCE-009-03,Skip-Back Guard,Folded Flangerib,F1,Senior L3 Low,A
+MV-BAS-MCE-009-04,Low Sidestep Reset,Easing Dent,F1,Senior L3 Low,A
+MV-BAS-MCE-009-05,Knob Poke Check,Pulpwedge,F4,Senior L3 Low,A
+MV-BAS-MCE-010-01,High Haft Guard,Solid Ribhead,F1,Senior L4 Mid,A
+MV-BAS-MCE-010-02,Low Head Guard,Wristloop Cowl,F3,Senior L4 Mid,A
+MV-BAS-MCE-010-03,Beat and Return Counter,Sharp Haftring,F1,Senior L4 Mid,A
+MV-BAS-MCE-010-04,Under-Swing Slip,Studhead Hop,F3,Senior L4 Mid,A
+MV-BAS-MCE-010-05,Locking Haft Cross,Batterlid,F4,Senior L4 Mid,A
+MV-BAS-MCE-010-06,Counter-Knob Strike,Batterdrop,F4,Senior L4 Mid,A
+MV-BAS-MCE-011-01,Doorway Haft Block,Snug Ironknob,F1,Senior L5 Low,A
+MV-BAS-MCE-011-02,Crowd Shoulder Check,Pearlid,F4,Senior L5 Low,A
+MV-BAS-MCE-011-03,Short Arc Rap,Wide Crush,F1,Senior L5 Low,A
+MV-BAS-MCE-011-04,Hands-Close Knob Strike,Blunt Bellhead,F1,Senior L5 Low,A
+MV-BAS-MCE-011-05,Cart-Side Pivot,Swaying Flangerib,F1,Senior L5 Low,A
+MV-BAS-MCE-011-06,Haft-End Jab,Straight Pound,F1,Senior L5 Low,A
+MV-BAS-MCE-011-07,Staying Step Retreat,Batter Amble,F3,Senior L5 Low,A
+MV-BAS-MCE-011-08,Ringing Warning Beat,Nabbing Batter,F1,Senior L5 Low,A
+MV-BAS-MCE-012-01,Flange Line Hold,Pearhead Lid,F3,Senior L1 Mid,A
+MV-BAS-MCE-012-02,Wrist-Steady Swing,Macehit,F4,Senior L1 Mid,A
+MV-BAS-MCE-012-03,Rebound Catch,Pearcowl,F4,Senior L1 Mid,A
+MV-BAS-MCE-012-04,Breath-Settled Haft Guard,Solid Haftring,F1,Senior L1 Mid,A
+MV-BAS-MCE-012-05,Flange Rake Down,Forward Pound,F1,Senior L1 Mid,A
+MV-BAS-MCE-012-06,Mace Creep Advance,Sideways Crush,F1,Senior L1 Mid,A
+MV-BAS-MCE-005-01,Plain Batter,Sturdy Batter,F1,T1 Bone,A

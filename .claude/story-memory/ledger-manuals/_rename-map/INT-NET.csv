@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-NET-001-01,Open-Mouth Wrist Cast,Billowswat,F4,Senior,A
+MV-INT-NET-001-02,Rim Weight Swing,Rough Spread,F1,Senior,A
+MV-INT-NET-001-03,Loft-and-Fall Watch,Meshlinen,F4,Senior,A
+MV-INT-NET-001-04,Two-Pace Close,Slinking Enmesh,F1,Senior,A
+MV-INT-NET-001-05,Mesh-Spread Hold,Knotwork Barrier,F3,Senior,A
+MV-INT-NET-001-06,Rim Flare Counter,Weavehasp,F4,Senior,A
+MV-INT-NET-002-01,Tangle-Start Toss,Mesh Scorer,F3,Senior,A
+MV-INT-NET-002-02,Cord Hand-Haul Draw,Burdening Billow,F1,Senior,A
+MV-INT-NET-002-03,Dragged-Hem Scrape,Fierce Drawcord,F1,Senior,A
+MV-INT-NET-002-04,Net-Arm Brace,Padded Leadedge,F1,Senior,A
+MV-INT-NET-002-05,Slack-Take Backstep,Haulin Stalk,F3,Senior,A
+MV-INT-NET-002-06,Foot-Sweep Mesh Pull,Smother Barrier,F3,Senior,A
+MV-INT-NET-002-07,Hauling Qi Anchor,Binding Meshgrid,F1,Senior,A
+MV-INT-NET-002-08,Tangle Snarl Reversal,Weave Carapace,F3,Senior,A
+MV-INT-NET-003-01,Seine-Length Sizing,Rallying Floatrope,F1,Senior,A
+MV-INT-NET-003-02,Sweeping Arc Cast,Meshswat,F4,Senior,A
+MV-INT-NET-003-03,Lead-Line Drag Cut,Enmeshslap,F4,Senior,A
+MV-INT-NET-003-04,Wading Shuffle Advance,Coasting Smother,F1,Senior,A
+MV-INT-NET-003-05,Drawn Seine Tightening,Billowhasp,F4,Senior,A
+MV-INT-NET-003-06,Seine Curtain Qi-Lift,Shielding Loopmesh,F1,Senior,A
+MV-INT-NET-003-07,Long-Cast Lead Surge,Rough Leadedge,F1,Senior,A
+MV-INT-NET-004-01,Lead-Eye Aim Reading,Meshbandage,F4,Warrior,B
+MV-INT-NET-004-02,Running Lead Cast,Meshflog,F4,Warrior,B
+MV-INT-NET-004-03,Pursuit Hem Flick,Clay Billow,F2,Warrior,B
+MV-INT-NET-004-04,Stride-Break Cord Trip,Gallhaulin,F5,Warrior,B
+MV-INT-NET-004-05,Weave-Through Dodge Step,Coasting Drawcord,F1,Warrior,B
+MV-INT-NET-004-06,Rolling Bundle Block,Brass Hemcord,F2,Warrior,B
+MV-INT-NET-004-07,Ahead-of-Stride Cast,Enmesh Flog,F3,Warrior,B
+MV-INT-NET-004-08,Quarry-Turning Drag,Clutching Spread,F1,Warrior,B
+MV-INT-NET-004-09,Fleeing-Leap Catch,Weighty Sinker,F2,Warrior,B
+MV-INT-NET-005-01,Callus-Hand Cord Feel,Alert Floatrope,F1,Warrior,B
+MV-INT-NET-005-02,Underarm Skim Cast,Drapethwack,F4,Warrior,B
+MV-INT-NET-005-03,Cord-Whip Crack,Honed Drape,F2,Warrior,B
+MV-INT-NET-005-04,Slip-Knot Draw,Splicespread,F5,Warrior,B
+MV-INT-NET-005-05,Cinch Circle Block,Armored Meshgrid,F1,Warrior,B
+MV-INT-NET-005-06,Edge-Foot Slide,Grit Weave,F2,Warrior,B
+MV-INT-NET-005-07,Hem-Whirl Parry,Meshhasp,F4,Warrior,B
+MV-INT-NET-005-08,Clamp-Mouth Qi Cinch,Stampdrape,F5,Warrior,B
+MV-INT-NET-005-09,Cord-Biting Counter Pull,Gallsinker,F5,Warrior,B
+MV-INT-NET-005-10,Slip-Knot Release Leap,Rillmesh,F5,Warrior,B
+MV-INT-NET-006-01,Gill-Mesh Threading,Kindly Sinker,F1,Warrior,B
+MV-INT-NET-006-02,Narrow-Throat Cast,Lurching Haulin,F1,Warrior,B
+MV-INT-NET-006-03,Barb-Knot Rake,Honed Loopmesh,F2,Warrior,B
+MV-INT-NET-006-04,Snagging Mesh Drag,Sleet Mesh,F2,Warrior,B
+MV-INT-NET-006-05,Hedge-Line Sidestep,Rill Drape,F2,Warrior,B
+MV-INT-NET-006-06,Gill-Catch Thread Draw,Stamp Knotwork,F2,Warrior,B
+MV-INT-NET-006-07,Fine-Mesh Veil Flick,Levering Drawcord,F1,Warrior,B
+MV-INT-NET-007-01,Staff-Net Grip Split,Gap Meshgrid,F2,Warrior,B
+MV-INT-NET-007-02,Pole-Lofted Net Reach,Weaveslap,F4,Warrior,B
+MV-INT-NET-007-03,Staff-Butt Net Jab,Ember Enmesh,F2,Warrior,B
+MV-INT-NET-007-04,Net-Hooked Staff Pull,Haulinscreen,F4,Warrior,B
+MV-INT-NET-007-05,Staff-Planted Guard,Brasssinker,F5,Warrior,B
+MV-INT-NET-007-06,Staff-Vault Hop,Brawn Mesh,F2,Warrior,B
+MV-INT-NET-007-07,Staff-Net Pin Press,Purpose Drape,F2,Warrior,B
+MV-INT-NET-007-08,Staff-Whirl Mesh Sweep,Rill Loopmesh,F2,Warrior,B
+MV-INT-NET-008-01,Folded-Stack Pickup,Lunar Knotwork,F2,Warrior,B
+MV-INT-NET-008-02,Pleated Fold Throw,Floatrope Flog,F3,Warrior,B
+MV-INT-NET-008-03,Stack-Corner Flick,Ember Haulin,F2,Warrior,B
+MV-INT-NET-008-04,Folded-Net Fend,Draught Leadedge,F2,Warrior,B
+MV-INT-NET-008-05,Unfolding Mid-Air Bloom,Tethering Hemcord,F1,Warrior,B
+MV-INT-NET-008-06,Pleat-Snap Backstep,Draught Spread,F2,Warrior,B

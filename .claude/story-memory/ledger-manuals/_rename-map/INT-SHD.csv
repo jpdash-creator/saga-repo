@@ -1,0 +1,81 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-SHD-001-01,Qi-Lined Board Hold,Backboard Hasp,F3,Senior L1 Mid,A
+MV-INT-SHD-001-02,Lined Face Cut Catch,Stubborn Shieldarm,F1,Senior L1 Mid,A
+MV-INT-SHD-001-03,Lined Rim Rap,Wardflog,F4,Senior L1 Mid,A
+MV-INT-SHD-001-04,Lined Forearm Lock,Padded Bossrim,F1,Senior L1 Mid,A
+MV-INT-SHD-001-05,Lined Gliding Step,Facehurdle,F4,Senior L1 Mid,A
+MV-INT-SHD-001-06,Lined Edge Hook Pull,Gripping Cover,F1,Senior L1 Mid,A
+MV-INT-SHD-001-07,Sheathed Board Stand,Edgeband Prop,F3,Senior L1 Mid,A
+MV-INT-SHD-001-08,Rebounding Lining Shove,Ward Thwack,F3,Senior L1 Mid,A
+MV-INT-SHD-002-01,Boss Rise to the Chin,Strapslap,F4,Senior L3 Low,A
+MV-INT-SHD-002-02,Rim Saw across the Hand,Dire Buffet,F1,Senior L3 Low,A
+MV-INT-SHD-002-03,Boss Slide Forward Step,Enarmeglide,F4,Senior L3 Low,A
+MV-INT-SHD-002-04,Boss Parry Rotation,Stubborn Enarme,F1,Senior L3 Low,A
+MV-INT-SHD-002-05,Rim-Shoulder Chain Strike,Faceslap,F4,Senior L3 Low,A
+MV-INT-SHD-002-06,Boss Hammer Drive,Enarmeflog,F4,Senior L3 Low,A
+MV-INT-SHD-002-07,Rim Cascade Beat,Enarmeslap,F4,Senior L3 Low,A
+MV-INT-SHD-003-01,Angled Face Glance,Guarding Face,F1,Senior L5 Mid,A
+MV-INT-SHD-003-02,Turn-and-Hold Posture,Layered Enarme,F1,Senior L5 Mid,A
+MV-INT-SHD-003-03,Wrist Roll Sweep,Dense Backboard,F1,Senior L5 Mid,A
+MV-INT-SHD-003-04,Qi Thread along the Arm,Tenderhearted Face,F1,Senior L5 Mid,A
+MV-INT-SHD-003-05,Turned Edge Counter,Buffetscorer,F4,Senior L5 Mid,A
+MV-INT-SHD-003-06,Pivoting Board Cover,Enarmezip,F4,Senior L5 Mid,A
+MV-INT-SHD-003-07,Spiral Turn Parry,Layered Bossrim,F1,Senior L5 Mid,A
+MV-INT-SHD-003-08,Controlled Turn Lock,Shovebuckle,F4,Senior L5 Mid,A
+MV-INT-SHD-003-09,Turn-Through Bash,Raw Shoulderset,F1,Senior L5 Mid,A
+MV-INT-SHD-004-01,Shoulder-to-Shoulder Set,Layered Rim,F1,Warrior L1 Low,B
+MV-INT-SHD-004-02,Line Step in Time,Bossglide,F4,Warrior L1 Low,B
+MV-INT-SHD-004-03,Line Hold against a Charge,Unmoving Backbrace,F1,Warrior L1 Low,B
+MV-INT-SHD-004-04,Gap Fill Slide,Rim Swerve,F3,Warrior L1 Low,B
+MV-INT-SHD-004-05,Line Rim Jab Volley,Fierce Edgeband,F1,Warrior L1 Low,B
+MV-INT-SHD-004-06,Line Wheel on the Flank,Pirouetting Boss,F1,Warrior L1 Low,B
+MV-INT-SHD-004-07,Overlapped Cover Raise,Facescreen,F4,Warrior L1 Low,B
+MV-INT-SHD-004-08,Qi-Linked Line Brace,Pulse Strap,F2,Warrior L1 Low,B
+MV-INT-SHD-004-09,Pressing Line Advance,Weighty Shove,F2,Warrior L1 Low,B
+MV-INT-SHD-004-10,Line Shock Release,Staticbash,F5,Warrior L1 Low,B
+MV-INT-SHD-005-01,Answering Bash after the Block,Rude Shove,F1,Senior L2 Mid,A
+MV-INT-SHD-005-02,Bash Timing on the Rebound,Cooling Strap,F1,Senior L2 Mid,A
+MV-INT-SHD-005-03,Shoulder Counter Drive,Rushing Boss,F1,Senior L2 Mid,A
+MV-INT-SHD-005-04,Square Step Answer,Buffet Stalk,F3,Senior L2 Mid,A
+MV-INT-SHD-005-05,Reply Bash with Qi Pulse,Rimscorer,F4,Senior L2 Mid,A
+MV-INT-SHD-005-06,Stagger Bash Chain,Clutching Backbrace,F1,Senior L2 Mid,A
+MV-INT-SHD-006-01,Tower Facing Plant,Rooted Shieldarm,F1,Senior L7 Low,A
+MV-INT-SHD-006-02,Tower Lean Brace,Layered Backbrace,F1,Senior L7 Low,A
+MV-INT-SHD-006-03,Tower Tilt and Slide,Lithe Bash,F1,Senior L7 Low,A
+MV-INT-SHD-006-04,Tower Overhead Shed,Guarding Rim,F1,Senior L7 Low,A
+MV-INT-SHD-006-05,Tower Foot Crush Drop,Bossslap,F4,Senior L7 Low,A
+MV-INT-SHD-006-06,Tower Edge Step Turn,Wardstalk,F4,Senior L7 Low,A
+MV-INT-SHD-006-07,Full-Body Qi Anchor,Buttressed Boss,F1,Senior L7 Low,A
+MV-INT-SHD-006-08,Tower Fall Slam,Swift Bash,F1,Senior L7 Low,A
+MV-INT-SHD-007-01,Roundshield Spin Guard,Shielding Strap,F1,Senior L4 High,A
+MV-INT-SHD-007-02,Quick Circle Cover,Bossrim Buckle,F3,Senior L4 High,A
+MV-INT-SHD-007-03,Round Rim Flick,Bossflog,F4,Senior L4 High,A
+MV-INT-SHD-007-04,Spinning Side Step,Shove Hurdle,F3,Senior L4 High,A
+MV-INT-SHD-007-05,Hand-Swap Round Grip,Clutching Bash,F1,Senior L4 High,A
+MV-INT-SHD-007-06,Whirling Round Parry,Sturdy Shieldarm,F1,Senior L4 High,A
+MV-INT-SHD-007-07,Round Edge Slash Pass,Acrid Ward,F1,Senior L4 High,A
+MV-INT-SHD-008-01,Cover Then Stab Rhythm,Staticbuffet,F5,Warrior L2 Low,B
+MV-INT-SHD-008-02,Short Sword Low Thrust,Staticward,F5,Warrior L2 Low,B
+MV-INT-SHD-008-03,Board Edge Sword Guide,Sleet Face,F2,Warrior L2 Low,B
+MV-INT-SHD-008-04,Sword Slip Past the Boss,Brawn Backboard,F2,Warrior L2 Low,B
+MV-INT-SHD-008-05,Close Pair Step,Rimhurdle,F4,Warrior L2 Low,B
+MV-INT-SHD-008-06,Sword-Hand Wrist Check,Discord Buffet,F2,Warrior L2 Low,B
+MV-INT-SHD-008-07,Board-Screened Qi Thrust,Crimson Shoulderset,F2,Warrior L2 Low,B
+MV-INT-SHD-008-08,Sword Hilt Pinning Press,Weighty Enarme,F2,Warrior L2 Low,B
+MV-INT-SHD-008-09,Double Beat Entry,Honed Buffet,F2,Warrior L2 Low,B
+MV-INT-SHD-009-01,Arrow Slant Cover,Buttressed Edgeband,F1,Senior L9 Low,A
+MV-INT-SHD-009-02,Bolt Cover Crouch,Guarding Strap,F1,Senior L9 Low,A
+MV-INT-SHD-009-03,Thrown Spear Turn,Guarding Shieldarm,F1,Senior L9 Low,A
+MV-INT-SHD-009-04,Rising Volley Sight,Rallying Bossrim,F1,Senior L9 Low,A
+MV-INT-SHD-009-05,Sidelong Dart Block,Armored Enarme,F1,Senior L9 Low,A
+MV-INT-SHD-009-06,Cover Walk under Fire,Strapglide,F4,Senior L9 Low,A
+MV-INT-SHD-009-07,Missile Stack Release,Rude Edgeband,F1,Senior L9 Low,A
+MV-INT-SHD-009-08,Qi-Hardened Missile Shed,Layered Backboard,F1,Senior L9 Low,A
+MV-INT-SHD-009-09,Return Spear Cast Cover,Rim Carapace,F3,Senior L9 Low,A
+MV-INT-SHD-009-10,Volley Break Charge,Coasting Bash,F1,Senior L9 Low,A
+MV-INT-SHD-010-01,Pushing Guard Set,Clay Backbrace,F2,Warrior L5 Mid,B
+MV-INT-SHD-010-02,Heel-Driven Press Step,Strapzip,F4,Warrior L5 Mid,B
+MV-INT-SHD-010-03,Board Grind to the Ribs,Brawnbash,F5,Warrior L5 Mid,B
+MV-INT-SHD-010-04,Pushback Recovery Brace,Clay Bossrim,F2,Warrior L5 Mid,B
+MV-INT-SHD-010-05,Continuous Qi Press,Clayshove,F5,Warrior L5 Mid,B
+MV-INT-SHD-010-06,Ground-Giving Shove,Lassoing Boss,F1,Warrior L5 Mid,B

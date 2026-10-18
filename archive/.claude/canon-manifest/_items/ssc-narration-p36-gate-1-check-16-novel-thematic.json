@@ -1,0 +1,15 @@
+{
+ "skill_id": "ssc-narration-p36-gate-1-check-16-novel-thematic",
+ "part": 36,
+ "area": 16,
+ "sequence_in_part": 16,
+ "title": "Gate 1 Check #16 — Novel Thematic Compliance Audit",
+ "domain": "narration",
+ "source_file": "Part_36_Narration_Novel_Thematic_Law.md",
+ "start_line": 529,
+ "end_line": 624,
+ "line_count": 96,
+ "output_path": ".claude/skills/ssc-narration-p36-gate-1-check-16-novel-thematic/SKILL.md",
+ "has_stale_python_block": false,
+ "related": []
+}

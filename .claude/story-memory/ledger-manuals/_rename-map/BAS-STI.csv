@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-STI-001-01,Pencil Grip Set,Rodtipnote,F4,Unawakened,A
+MV-BAS-STI-001-02,Straight Needle Thrust,Rodbase Strike,F3,Unawakened,A
+MV-BAS-STI-001-03,Half-Step Lunge Prick,Stitchhit,F4,Unawakened,A
+MV-BAS-STI-001-04,Wrist Flick Withdraw,Backward Thread,F1,Unawakened,A
+MV-BAS-STI-001-05,Palm-Side Beat Aside,Resting Waxgrip,F1,Unawakened,A
+MV-BAS-STI-001-06,Low Guard Needle Rest,Awlstay,F4,Unawakened,A
+MV-BAS-STI-002-01,Narrow Blade Side-On Stance,Folded Rodtip,F1,Skin,A
+MV-BAS-STI-002-02,Eyeline Jab,Rodtipwedge,F4,Skin,A
+MV-BAS-STI-002-03,Gap Seeking Poke,Firm Hairpoint,F1,Skin,A
+MV-BAS-STI-002-04,Rear Foot Needle Slide Reset,Reedhop,F4,Skin,A
+MV-BAS-STI-002-05,Rising Wrist Parry,Raised Tinyquill,F1,Skin,A
+MV-BAS-STI-003-01,Count One Stab,Probe Blow,F3,Muscle,A
+MV-BAS-STI-003-02,Hip Drive Stab,Level Boltpoint,F1,Muscle,A
+MV-BAS-STI-003-03,Rib Slot Stab,Square Slimshaft,F1,Muscle,A
+MV-BAS-STI-003-04,Forearm Pin Jab,Fixing Darn,F1,Muscle,A
+MV-BAS-STI-003-05,Twin Tap Step,Darnamble,F4,Muscle,A
+MV-BAS-STI-003-06,Cross-Body Brush Guard,Lowered Spikeguard,F1,Muscle,A
+MV-BAS-STI-003-07,Held Point Wait,Snug Triprism,F1,Muscle,A
+MV-BAS-STI-004-01,Wrist Ring Warm-Up,Awlgauge,F4,Tendon,A
+MV-BAS-STI-004-02,Ring-Draw Thrust,Short Pin,F1,Tendon,A
+MV-BAS-STI-004-03,Inside Wrist Hook Prick,Firm Rodbase,F1,Tendon,A
+MV-BAS-STI-004-04,Slim Point Feint Pair,Fixing Slimshaft,F1,Tendon,A
+MV-BAS-STI-004-05,Tendon Line Slip,Pin Dodge,F3,Tendon,A
+MV-BAS-STI-004-06,Thumb-Side Bar Block,Reedlid,F4,Tendon,A
+MV-BAS-STI-005-01,Guard-Finger Hook Grip,Rodtipcount,F4,Bone,A
+MV-BAS-STI-005-02,Forearm Lay Reverse Hold,Ready Triprism,F1,Bone,A
+MV-BAS-STI-005-03,Reverse Grip Drop Stab,Rodtipstrike,F4,Bone,A
+MV-BAS-STI-005-04,Finger Roll Forward Swap,Rodtipdash,F4,Bone,A
+MV-BAS-STI-005-05,Palm Roll Grip Change,Smooth Needlerod,F1,Bone,A
+MV-BAS-STI-005-06,Chest Press Upward Stab,Hairpoint Drop,F3,Bone,A
+MV-BAS-STI-005-07,Wrist Twist Grip Break,Pushing Boltpoint,F1,Bone,A
+MV-BAS-STI-005-08,Heel Turn Retire,Shifting Spikeguard,F1,Bone,A
+MV-BAS-STI-006-01,Breath Along The Blade,Kind Rodtip,F1,Senior,A
+MV-BAS-STI-006-02,Qi-Threaded Straight Prick,Sudden Seam,F1,Senior,A
+MV-BAS-STI-006-03,Inhale Withdraw Reset,Swaying Stitch,F1,Senior,A
+MV-BAS-STI-006-04,Thin Qi Parry,Awlcowl,F4,Senior,A
+MV-BAS-STI-006-05,Pulse-Count Triple Prick,Reedblow,F4,Senior,A
+MV-BAS-STI-006-06,Arm Tingle Reading,Mild Tinyquill,F1,Senior,A
+MV-BAS-STI-006-07,Slack Knee Wide Step,Swaying Darn,F1,Senior,A
+MV-BAS-STI-007-01,Narrow Lane Advance,Skipping Stitch,F1,Senior,A
+MV-BAS-STI-007-02,Lane Cut-Off Step,Light Thread,F1,Senior,A
+MV-BAS-STI-007-03,Qi-Pushed Heel Lunge,Probe Strike,F3,Senior,A
+MV-BAS-STI-007-04,Crescent Entry Prick,Stitchdash,F4,Senior,A
+MV-BAS-STI-007-05,Backstep Point Guard,Holding Waxgrip,F1,Senior,A
+MV-BAS-STI-007-06,Toe Tap Footing Check,Rodtipreview,F4,Senior,A
+MV-BAS-STI-008-01,Seam Hunting Drag,Needlerod Count,F3,Senior,A
+MV-BAS-STI-008-02,Armour Join Prick,Narrow Darn,F1,Senior,A
+MV-BAS-STI-008-03,Buckle Strap Flick,Forward Rodtip,F1,Senior,A
+MV-BAS-STI-008-04,Shoulder Hide Turn,Snug Needlerod,F1,Senior,A
+MV-BAS-STI-008-05,Close Stride Arm Pin,Stitchpause,F4,Senior,A
+MV-BAS-STI-009-01,Closed Fist Awl Hold,Waxgrip Note,F3,Senior,A
+MV-BAS-STI-009-02,Hidden Awl Thrust,Descending Probe,F1,Senior,A
+MV-BAS-STI-009-03,Sleeve Draw Prick,Tinyquill Hit,F3,Senior,A
+MV-BAS-STI-009-04,Fist Bar Block,Slimshaft Cowl,F3,Senior,A
+MV-BAS-STI-009-05,Awl Wrist Slip,Pushing Hairpoint,F1,Senior,A
+MV-BAS-STI-009-06,Quilted Jerkin Boring Press,Stitchdrop,F4,Senior,A
+MV-BAS-STI-009-07,Sleeve Return Retreat,Backward Seam,F1,Senior,A
+MV-BAS-STI-009-08,Open Palm Bait,Nabbing Stitch,F1,Senior,A
+MV-BAS-STI-010-01,Single Bead Gathering,Smooth Rodbase,F1,Senior,A
+MV-BAS-STI-010-02,Bead Release Thrust,Low Thread,F1,Senior,A
+MV-BAS-STI-010-03,Dot Fixing Count,Even Triprism,F1,Senior,A
+MV-BAS-STI-010-04,Dot Repeat Prick,Threaddash,F4,Senior,A
+MV-BAS-STI-010-05,Fine Qi Sheet Block,Reedwedge,F4,Senior,A
+MV-BAS-STI-010-06,Bead Hold Retreat,Sideways Spikeguard,F1,Senior,A

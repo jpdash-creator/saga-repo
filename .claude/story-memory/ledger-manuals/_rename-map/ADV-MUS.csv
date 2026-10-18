@@ -1,0 +1,79 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-MUS-001-01,Platoon Firing Count,Perceptive Lockplate,F1,Champion,B
+MV-ADV-MUS-001-02,Shoulder-Dressed Rank Shuffle,Silt Barrelband,F2,Champion,B
+MV-ADV-MUS-001-03,Front-Rank Steady Fire,Facetsalvo,F5,Champion,B
+MV-ADV-MUS-001-04,Second-Rank Gap Shot,Gustaim,F5,Champion,B
+MV-ADV-MUS-001-05,Kneeling Rank Reload,Discerning Touchpan,F1,Champion,B
+MV-ADV-MUS-001-06,Qi-Linked File Fire,Ponderous Aim,F2,Champion,B
+MV-ADV-MUS-001-07,Held Volley on the Word,Intentsmoke,F5,Champion,B
+MV-ADV-MUS-001-08,Rank-Closing Surge,Surging Prime,F1,Champion,B
+MV-ADV-MUS-001-09,Sheet of Backed Shot,Scorching Mayhem Smoke,F6a,Champion,B
+MV-ADV-MUS-001-10,Woven Screen Line Advance,Serpent Cloak,F3,Champion,B
+MV-ADV-MUS-002-01,Qi-Rolled Ball Seating,Vital Bayonetlug,F2,Demigod,B
+MV-ADV-MUS-002-02,Powder-Qi Pairing Breath,Flintcock Elixir,F3,Demigod,B
+MV-ADV-MUS-002-03,Field-Reach Sighting,Verity Wheellock,F2,Demigod,B
+MV-ADV-MUS-002-04,Field-Steadied Level Shot,Tearing Stockbutt,F1,Demigod,B
+MV-ADV-MUS-002-05,Spiral Qi Ball Release,Blaze Pan,F2,Demigod,B
+MV-ADV-MUS-002-06,Qi-Lined Bore Scouring,Rousing Ramrod,F1,Demigod,B
+MV-ADV-MUS-002-07,Hammered Ball Close Shot,Hollow Salvo,F2,Demigod,B
+MV-ADV-MUS-002-08,Armour-Splitting Qi Ball,Aimbarrage,F4,Demigod,B
+MV-ADV-MUS-002-09,Field-Led Aimed Round,Facetload,F5,Demigod,B
+MV-ADV-MUS-003-01,Close-Quarters Guard Step,Torrent Load,F2,Champion,B
+MV-ADV-MUS-003-02,Musket Point Beat and Reset,Enduring Wheellock,F1,Champion,B
+MV-ADV-MUS-003-03,Butt Strike to the Gut,Gust Load,F2,Champion,B
+MV-ADV-MUS-003-04,Shoved Point Away,Rumblesalvo,F5,Champion,B
+MV-ADV-MUS-003-05,Locked-Barrel Pry,Manacling Stockbutt,F1,Champion,B
+MV-ADV-MUS-003-06,Point-Then-Butt Combination,Rumbleramrod,F5,Champion,B
+MV-ADV-MUS-003-07,Staggering Bayonet Drive,Harrowing Barrelband,F1,Champion,B
+MV-ADV-MUS-003-08,Hilt-Hold Parry and Riposte,Murkfuze,F5,Champion,B
+MV-ADV-MUS-004-01,Field-Measured Range Taking,Fuzeelixir,F4,Demigod,B
+MV-ADV-MUS-004-02,Dry-Powder Keeping,Facetpan,F5,Demigod,B
+MV-ADV-MUS-004-03,Measured Horn Charge,Vitalpan,F5,Demigod,B
+MV-ADV-MUS-004-04,High-Angle Lob Shot,Touchpan Barrage,F3,Demigod,B
+MV-ADV-MUS-004-05,Long-Walk Breath,Flintcock Linctus,F3,Demigod,B
+MV-ADV-MUS-004-06,Slow Reload Under Fire,Bayonetlug Remedy,F3,Demigod,B
+MV-ADV-MUS-004-07,Reach-Stretching Qi Push,Loadassault,F4,Demigod,B
+MV-ADV-MUS-004-08,Smoke-Parting Sight Line,Pan Elixir,F3,Demigod,B
+MV-ADV-MUS-004-09,Dropping-Ball Qi Lift,Harrowing Powder,F1,Demigod,B
+MV-ADV-MUS-004-10,Distant Mark Pinning Round,Hour Ramrod,F2,Demigod,B
+MV-ADV-MUS-004-11,Reach-Edge Killing Shot,Hoarfrost Salvo,F2,Demigod,B
+MV-ADV-MUS-005-01,Twin-Rank Pace,Silt Smoke,F2,Champion,B
+MV-ADV-MUS-005-02,Paired Loader Handoff,Vigorous Lockplate,F1,Champion,B
+MV-ADV-MUS-005-03,Front-Track Level Shot,Furrowing Aim,F1,Champion,B
+MV-ADV-MUS-005-04,Rear-Track Over-Gap Shot,Rumblepowder,F5,Champion,B
+MV-ADV-MUS-005-05,Paired Bayonet Guard,Gust Stockbutt,F2,Champion,B
+MV-ADV-MUS-005-06,Twin Shoulder Lock,Hoarfrost Lockplate,F2,Champion,B
+MV-ADV-MUS-005-07,Alternating Twin-Rank Fire,Fuzetorment,F4,Champion,B
+MV-ADV-MUS-005-08,Dual-Track Qi Pulse,Aimtorment,F4,Champion,B
+MV-ADV-MUS-005-09,Paired Barrel Cross Ward,Thornfuze,F5,Champion,B
+MV-ADV-MUS-005-10,Track-Swapping Step,Siltpowder,F5,Champion,B
+MV-ADV-MUS-005-11,Twin-Court Cross Volley,Daybreak Prime,F2,Champion,B
+MV-ADV-MUS-005-12,Azure Answering Sequence,Doctrine Pan,F2,Champion,B
+MV-ADV-MUS-006-01,Hawk Stoop Sighting,Chime Serpent,F2,Demigod,B
+MV-ADV-MUS-006-02,Azure Sky Range Estimate,Remnant Wheellock,F2,Demigod,B
+MV-ADV-MUS-006-03,Still-Hawk Hold,Chimesmoke,F5,Demigod,B
+MV-ADV-MUS-006-04,Perch Rest Shot,Nova Powder,F2,Demigod,B
+MV-ADV-MUS-006-05,Hawk-Eye Mark Fix,Nursing Touchpan,F1,Demigod,B
+MV-ADV-MUS-006-06,Falling-Talon Ball,Tempered Barrelband,F2,Demigod,B
+MV-ADV-MUS-006-07,Wing-Beat Reload,Equipoise Ramrod,F2,Demigod,B
+MV-ADV-MUS-006-08,Hawk's Height Strike,Raging Powder,F1,Demigod,B
+MV-ADV-MUS-006-09,Hawk Ridge Barrel Sweep,Hour Salvo,F2,Demigod,B
+MV-ADV-MUS-007-01,Basin-Rim Firing Line,Soaring Aim,F1,Ruler,B
+MV-ADV-MUS-007-02,River-Flow Reload Cycle,Nursing Flintcock,F1,Ruler,B
+MV-ADV-MUS-007-03,Ford Wading Carry,Gust Serpent,F2,Ruler,B
+MV-ADV-MUS-007-04,Bank-Rest Shot,Nova Smoke,F2,Ruler,B
+MV-ADV-MUS-007-05,River-Mist Sighting,Waning Bayonetlug,F2,Ruler,B
+MV-ADV-MUS-007-06,Current-Steadied Volley,Hour Flintcock,F2,Ruler,B
+MV-ADV-MUS-007-07,Rain-Dry Qi Seal,Hardened Barrelband,F1,Ruler,B
+MV-ADV-MUS-007-08,Eddy Wheel on One Foot,Silt Stockbutt,F2,Ruler,B
+MV-ADV-MUS-007-09,Basin Funnel Volley,Slagload,F5,Ruler,B
+MV-ADV-MUS-007-10,Wading Line Cover Fire,Ponderous Load,F2,Ruler,B
+MV-ADV-MUS-008-01,Paired-Shot Cadence,Remnant Lockplate,F2,Demigod,B
+MV-ADV-MUS-008-02,Twin Charge Loading,Discerning Bayonetlug,F1,Demigod,B
+MV-ADV-MUS-008-03,Azure First Shot,Rumble Prime,F2,Demigod,B
+MV-ADV-MUS-008-04,Second-Piece Follow Shot,Chime Ramrod,F2,Demigod,B
+MV-ADV-MUS-008-05,Two-Musket Switch,Fortifying Serpent,F1,Demigod,B
+MV-ADV-MUS-008-06,Qi-Linked Twin Shot,Pan Assault,F3,Demigod,B
+MV-ADV-MUS-008-07,Following-Ball Breach,Splitting Salvo,F1,Demigod,B
+MV-ADV-MUS-008-08,Dual-Track Cover and Fire,Funneling Load,F1,Demigod,B
+MV-ADV-MUS-002-07,Hollow Salvo,Tempered Salvo,F2,Demigod,B

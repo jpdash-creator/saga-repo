@@ -1,0 +1,103 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-BAT-001-01,Sealing Guard Hold,Granite Shortstick,F2,Champion,B
+MV-ADV-BAT-001-02,Rod Line Thrust,Scorching Crackdown,F1,Champion,B
+MV-ADV-BAT-001-03,Cut Step Angle,Siltcuff,F5,Champion,B
+MV-ADV-BAT-001-04,Collar Rap Return,Harrowing Switch,F1,Champion,B
+MV-ADV-BAT-001-05,Pulse Point Rap,Rapidrap Cuirass,F3,Champion,B
+MV-ADV-BAT-001-06,Short Hook Takedown,Hoarfrost Gripwrap,F2,Champion,B
+MV-ADV-BAT-001-07,Elbow Qi Seal,Lot Weightend,F2,Champion,B
+MV-ADV-BAT-001-08,Seal into Collar Strike,Funneling Lanyardloop,F1,Champion,B
+MV-ADV-BAT-002-01,Weight Reading Hold,Facet Balanceknob,F2,Champion,B
+MV-ADV-BAT-002-02,Rod Tip Weight Probe,Iron Capend,F2,Champion,B
+MV-ADV-BAT-002-03,Counter Sway Step,Might Cuff,F2,Champion,B
+MV-ADV-BAT-002-04,Flat Rod Slap Aside,Equipoise Batongrip,F2,Champion,B
+MV-ADV-BAT-002-05,Heel Weight Tap,Gust Tick,F2,Champion,B
+MV-ADV-BAT-002-06,Shifting Foot Trip,Mayhem Stun,F2,Champion,B
+MV-ADV-BAT-002-07,Elbow Pin on the Shift,Dominating Truncheon,F1,Champion,B
+MV-ADV-BAT-002-08,Weighted Rod Pull Over,Suppressing Hardwood,F1,Champion,B
+MV-ADV-BAT-002-09,Timed Shoulder Break,Tickassault,F4,Champion,B
+MV-ADV-BAT-002-10,Weight Turned to Pin,Gyve Sidebar,F2,Champion,B
+MV-ADV-BAT-003-01,Field Hold Ready,Hoarfrost Lanyardloop,F2,Demigod,B
+MV-ADV-BAT-003-02,Pace-Reach Thrust,Tempered Tick,F2,Demigod,B
+MV-ADV-BAT-003-03,Gliding Entry Step,Batoncanter,F4,Demigod,B
+MV-ADV-BAT-003-04,Baton Side Turn,Steadfast Balanceknob,F1,Demigod,B
+MV-ADV-BAT-003-05,Shaft Field Shove,Rumble Shortstick,F2,Demigod,B
+MV-ADV-BAT-003-06,Field Hook Pull,Ponderous Weightend,F2,Demigod,B
+MV-ADV-BAT-003-07,Field Press on the Chest,Shadeswitch,F5,Demigod,B
+MV-ADV-BAT-003-08,Extended Shaft Bind,Fastening Switch,F2,Demigod,B
+MV-ADV-BAT-003-09,Field Shove Through the Guard,Hollowcuff,F5,Demigod,B
+MV-ADV-BAT-004-01,Field Stage Ready Hold,Hardwood Plating,F3,Demigod,B
+MV-ADV-BAT-004-02,Long Stride Rod Cut,Rumblecuff,F5,Demigod,B
+MV-ADV-BAT-004-03,Pivot in the Field,Silt Capend,F2,Demigod,B
+MV-ADV-BAT-004-04,Shaft Slip Parry,Hardened Sidebar,F1,Demigod,B
+MV-ADV-BAT-004-05,Short Chop to the Neck Muscle,Might Batongrip,F2,Demigod,B
+MV-ADV-BAT-004-06,Wide Rising Block,Murk Truncheon,F2,Demigod,B
+MV-ADV-BAT-004-07,Field Anchor Press,Suppressing Stun,F1,Demigod,B
+MV-ADV-BAT-004-08,Qi Wrap on the Forearm,Subduing Rapidrap,F1,Demigod,B
+MV-ADV-BAT-004-09,Counter Surge Jolt,Crippling Crackdown,F1,Demigod,B
+MV-ADV-BAT-004-10,Hook into a Throw,Chimestun,F5,Demigod,B
+MV-ADV-BAT-004-11,Field Clamp on the Arm,Deed Switch,F2,Demigod,B
+MV-ADV-BAT-004-12,Twelve-Part Closing Run,Doctrine Balanceknob,F2,Demigod,B
+MV-ADV-BAT-005-01,Guard Hand and Strike Hand,Staunch Gripwrap,F1,Champion,B
+MV-ADV-BAT-005-02,Matched Foot and Hand Advance,Lanyardloop Jaunt,F3,Champion,B
+MV-ADV-BAT-005-03,Twin Rap Left and Right,Stunbarrage,F4,Champion,B
+MV-ADV-BAT-005-04,Switch Hand Parry,Batonplating,F4,Champion,B
+MV-ADV-BAT-005-05,Track Exchange Hook,Gyvebaton,F5,Champion,B
+MV-ADV-BAT-005-06,Strike Track Wrist Jam,Mayhembaton,F5,Champion,B
+MV-ADV-BAT-005-07,Dual Press to the Joint,Stifling Hardwood,F1,Champion,B
+MV-ADV-BAT-005-08,Hands Reversed Seal,Suppressing Lot Sidebar,F6a,Champion,B
+MV-ADV-BAT-005-09,Two-Track Cascade,Intent Cuff,F2,Champion,B
+MV-ADV-BAT-006-01,Folded Wing Rod Guard,Iron Batongrip,F2,Demigod,B
+MV-ADV-BAT-006-02,Meander Walk Approach,Granite Rapidrap,F2,Demigod,B
+MV-ADV-BAT-006-03,Stooping Hawk Rap,Rumblebilly,F5,Demigod,B
+MV-ADV-BAT-006-04,Basin Rim Block,Chimebaton,F5,Demigod,B
+MV-ADV-BAT-006-05,Reed in Current Sway,Silt Crackdown,F2,Demigod,B
+MV-ADV-BAT-006-06,Talon Tip Jab,Batonbarrage,F4,Demigod,B
+MV-ADV-BAT-006-07,Streamline Arm Hitch,Ponderous Truncheon,F2,Demigod,B
+MV-ADV-BAT-006-08,Eddy Turn Jolt,Mayhemcapend,F5,Demigod,B
+MV-ADV-BAT-006-09,Hawk Grip on the Wrist,Shade Tick,F2,Demigod,B
+MV-ADV-BAT-006-10,Bend of the River Break,Lambasting Shortstick,F1,Demigod,B
+MV-ADV-BAT-006-11,Stoop and Seal,Charter Weightend,F2,Demigod,B
+MV-ADV-BAT-007-01,Twin Line Ready Hold,Billycuirass,F4,Demigod,B
+MV-ADV-BAT-007-02,Azure Rim Forearm Rap,Lancing Gripwrap,F1,Demigod,B
+MV-ADV-BAT-007-03,Paired Glide Slip,Might Capend,F2,Demigod,B
+MV-ADV-BAT-007-04,Dual Lane Parry,Equipoise Shortstick,F2,Demigod,B
+MV-ADV-BAT-007-05,Shaft Hum Tap,Rumble Stun,F2,Demigod,B
+MV-ADV-BAT-007-06,Left Line Hook,Ponderous Gripwrap,F2,Demigod,B
+MV-ADV-BAT-007-07,Right Line Press,Intenttick,F5,Demigod,B
+MV-ADV-BAT-007-08,Twin Current Jam,Switch Plating,F3,Demigod,B
+MV-ADV-BAT-007-09,Two Lines Down the Shaft,Hollowbaton,F5,Demigod,B
+MV-ADV-BAT-007-10,Paired Seal Chain,Doctrine Hardwood,F2,Demigod,B
+MV-ADV-BAT-008-01,Bearing Taken Hold,Granite Sidebar,F2,Champion,B
+MV-ADV-BAT-008-02,Plateau Stance Step,Vaulting Tick,F1,Champion,B
+MV-ADV-BAT-008-03,Upwind Forearm Knock,Tempered Weightend,F2,Champion,B
+MV-ADV-BAT-008-04,Sidewind Baton Sweep Away,Lanyardloop Plating,F3,Champion,B
+MV-ADV-BAT-008-05,Bearing-Line Arm Pull,Gyve Batongrip,F2,Champion,B
+MV-ADV-BAT-008-06,Gust Tap to the Joint,Mayhem Balanceknob,F2,Champion,B
+MV-ADV-BAT-008-07,Sealing Rap on the Wind Side,Stifling Capend,F1,Champion,B
+MV-ADV-BAT-008-08,Oath Bearing Cascade,Intent Crackdown,F2,Champion,B
+MV-ADV-BAT-009-01,Oath Rod Ready Hold,Resilient Lanyardloop,F1,Ruler,B
+MV-ADV-BAT-009-02,Reach-Edge Holding Pace,Batonsprint,F4,Ruler,B
+MV-ADV-BAT-009-03,Restraint First Rap,Cuffbarrage,F4,Ruler,B
+MV-ADV-BAT-009-04,Low Wind Guard Block,Unyielding Truncheon,F1,Ruler,B
+MV-ADV-BAT-009-05,Held Breath Jab,Gust Batongrip,F2,Ruler,B
+MV-ADV-BAT-009-06,Side Wind Slip,Gust Sidebar,F2,Ruler,B
+MV-ADV-BAT-009-07,Oath Hook Hold,Cuffcloak,F4,Ruler,B
+MV-ADV-BAT-009-08,Edge of the Plateau Shove,Mayhemtick,F5,Ruler,B
+MV-ADV-BAT-009-09,Wind Pin on the Arm,Crippling Cuff,F1,Ruler,B
+MV-ADV-BAT-009-10,Sworn Pulse Tap,Toxin Gripwrap,F2,Ruler,B
+MV-ADV-BAT-009-11,Held Oath Strike,Scalding Granite Cuff,F6a,Ruler,B
+MV-ADV-BAT-009-12,Sworn Seal of the Arm,Intent Stun,F2,Ruler,B
+MV-ADV-BAT-010-01,Open Ground Ready Hold,Billycloak,F4,Void God,B
+MV-ADV-BAT-010-02,Flanking Gust Walk,Truncheon Sprint,F3,Void God,B
+MV-ADV-BAT-010-03,No Wall Rap,Might Hardwood,F2,Void God,B
+MV-ADV-BAT-010-04,Bearing Held Parry,Hardened Weightend,F1,Void God,B
+MV-ADV-BAT-010-05,Long Gust Chop,Ravaging Switch,F1,Void God,B
+MV-ADV-BAT-010-06,Reach Past the Body Jab,Rumble Tick,F2,Void God,B
+MV-ADV-BAT-010-07,Gale Hook Pull,Fastening Shortstick,F2,Void God,B
+MV-ADV-BAT-010-08,Open Hand Gale Jam,Toxin Stun,F2,Void God,B
+MV-ADV-BAT-010-09,Field Wind Press,Shadebilly,F5,Void God,B
+MV-ADV-BAT-010-10,Gale Reach Seal,Cuff Hauberk,F3,Void God,B
+MV-ADV-BAT-010-11,Bearing Through the Guard,Cuffthrash,F4,Void God,B
+MV-ADV-BAT-003-09,Hollowcuff,Spikecuff,F5,Demigod,B
+MV-ADV-BAT-007-09,Hollowbaton,Lancebaton,F5,Demigod,B

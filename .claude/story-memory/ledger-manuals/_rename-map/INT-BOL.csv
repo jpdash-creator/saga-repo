@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-BOL-001-01,Knotted Loop Release,Doughty Shackle,F1,Senior L2 Low,A
+MV-INT-BOL-001-02,Cord Tail Anchor Grip,Knotcenter Hasp,F3,Senior L2 Low,A
+MV-INT-BOL-001-03,Wrap Count Touch,Alert Heavyball,F1,Senior L2 Low,A
+MV-INT-BOL-001-04,Sidelong Snare Slip,Hobbleglide,F4,Senior L2 Low,A
+MV-INT-BOL-001-05,Choke-Up Short Swing,Dire Fetter,F1,Senior L2 Low,A
+MV-INT-BOL-001-06,Stiffened Cord Clamp,Clutching Spindle,F1,Senior L2 Low,A
+MV-INT-BOL-001-07,Double-Wrap Ankle Cinch,Hobblescreen,F4,Senior L2 Low,A
+MV-INT-BOL-002-01,Ring Cord Ward,Bolabarrier,F4,Senior L5 Mid,A
+MV-INT-BOL-002-02,Low Cord Sweep Guard,Buttressed Bolaweight,F1,Senior L5 Mid,A
+MV-INT-BOL-002-03,Shoulder Loop Carry,Fetterhurdle,F4,Senior L5 Mid,A
+MV-INT-BOL-002-04,Palm Catch Return,Stubborn Joinknot,F1,Senior L5 Mid,A
+MV-INT-BOL-002-05,Guard Opening Cast,Ruthless Wrapup,F1,Senior L5 Mid,A
+MV-INT-BOL-002-06,Rim Flick Parry,Ballsling Barrier,F3,Senior L5 Mid,A
+MV-INT-BOL-002-07,Weighted Ring Rebuff,Shielding Cordthree,F1,Senior L5 Mid,A
+MV-INT-BOL-002-08,Closing Ring Capture,Entangling Stonehead,F1,Senior L5 Mid,A
+MV-INT-BOL-003-01,Three-Cord Fan Grip,Fetterscorer,F4,Senior L8 High,A
+MV-INT-BOL-003-02,Joint Tangle Throw,Brutal Bindfall,F1,Senior L8 High,A
+MV-INT-BOL-003-03,Central Weight Drop,Orbflog,F4,Senior L8 High,A
+MV-INT-BOL-003-04,Free Cord Tally,Kindly Cordfork,F1,Senior L8 High,A
+MV-INT-BOL-003-05,Tangle Brace Stance,Tripcord Carapace,F3,Senior L8 High,A
+MV-INT-BOL-003-06,Spiral Gather Step,Lithe Wrapup,F1,Senior L8 High,A
+MV-INT-BOL-003-07,Knee-To-Hip Entangle,Wrapuphasp,F4,Senior L8 High,A
+MV-INT-BOL-003-08,Fouled Weapon Capture,Fetterprop,F4,Senior L8 High,A
+MV-INT-BOL-003-09,Persistent Tangle Drag,Hungry Stonehead,F1,Senior L8 High,A
+MV-INT-BOL-004-01,Saddle Seat Whirl,Ember Fetter,F2,Warrior L1 Low,B
+MV-INT-BOL-004-02,Gallop Lead Cast,Comet Shackle,F2,Warrior L1 Low,B
+MV-INT-BOL-004-03,Rein Hand Cord Hold,Sprig Ballsling,F2,Warrior L1 Low,B
+MV-INT-BOL-004-04,Heel Cue Turn,Draught Whirlcast,F2,Warrior L1 Low,B
+MV-INT-BOL-004-05,Stirrup Brace Parry,Hum Cordfork,F2,Warrior L1 Low,B
+MV-INT-BOL-004-06,Drag-Line Hobbling,Sleet Hobble,F2,Warrior L1 Low,B
+MV-INT-BOL-004-07,Riding Down Cast,Sleet Bolaweight,F2,Warrior L1 Low,B
+MV-INT-BOL-005-01,Game Trail Reading,Knotcenter Bandage,F3,Warrior L3 Mid,B
+MV-INT-BOL-005-02,Stalking Crouch Approach,Orbzip,F4,Warrior L3 Mid,B
+MV-INT-BOL-005-03,Lead Weight Underhand Toss,Wrapupslap,F4,Warrior L3 Mid,B
+MV-INT-BOL-005-04,Hare Cut-Off Throw,Shard Tripcord,F2,Warrior L3 Mid,B
+MV-INT-BOL-005-05,Snared Beast Tether Tie,Binding Bindfall,F1,Warrior L3 Mid,B
+MV-INT-BOL-005-06,Antler Block Parry,Rill Heavyball,F2,Warrior L3 Mid,B
+MV-INT-BOL-005-07,Charging Quarry Hobble,Splice Spindle,F2,Warrior L3 Mid,B
+MV-INT-BOL-005-08,Rough Ground Pursuit,Rill Joinknot,F2,Warrior L3 Mid,B
+MV-INT-BOL-006-01,Counter Cord Hold,Sturdy Cordthree,F1,Warrior L5 Mid,B
+MV-INT-BOL-006-02,Blade Wrap Catch,Fetterscreen,F4,Warrior L5 Mid,B
+MV-INT-BOL-006-03,Short Weight Jab,Draught Hobble,F2,Warrior L5 Mid,B
+MV-INT-BOL-006-04,Retreating Throw,Wrapupthwack,F4,Warrior L5 Mid,B
+MV-INT-BOL-006-05,Blade-Binding Counter Wrap,Sprig Fetter,F2,Warrior L5 Mid,B
+MV-INT-BOL-006-06,Cord Riposte Whip,Static Bolaweight,F2,Warrior L5 Mid,B
+MV-INT-BOL-007-01,Long Cord Pay-Out,Rough Bindfall,F1,Warrior L7 High,B
+MV-INT-BOL-007-02,Far Cast Stance,Brawn Tripcord,F2,Warrior L7 High,B
+MV-INT-BOL-007-03,Distance Pace Count,Hearty Joinknot,F1,Warrior L7 High,B
+MV-INT-BOL-007-04,Side Drift Allowance,Candorstone,F5,Warrior L7 High,B
+MV-INT-BOL-007-05,High Arc Drop Throw,Stonehead Thwack,F3,Warrior L7 High,B
+MV-INT-BOL-007-06,Extended Tail Whip,Draught Cordthree,F2,Warrior L7 High,B
+MV-INT-BOL-007-07,Recovery Reel Walk,Brawnstone,F5,Warrior L7 High,B
+MV-INT-BOL-007-08,Long-Reach Leg Wrap,Weighty Ballsling,F2,Warrior L7 High,B
+MV-INT-BOL-007-09,Weighted Reach Parry,Draught Heavyball,F2,Warrior L7 High,B
+MV-INT-BOL-007-10,Far Mark Entangle,Hobbleslap,F4,Warrior L7 High,B
+MV-INT-BOL-008-01,Foot Pin Cord Lock,Stampwrapup,F5,Warrior L9 Low,B
+MV-INT-BOL-008-02,Toe Hook Flick,Gall Spindle,F2,Warrior L9 Low,B
+MV-INT-BOL-008-03,Heel Plant Drag,Rillhobble,F5,Warrior L9 Low,B
+MV-INT-BOL-008-04,Crouch Cord Slip,Bolabuckle,F4,Warrior L9 Low,B
+MV-INT-BOL-008-05,Underfoot Snare Lay,Stamp Knotcenter,F2,Warrior L9 Low,B
+MV-INT-BOL-008-06,Rising Cord Whip,Static Cordfork,F2,Warrior L9 Low,B

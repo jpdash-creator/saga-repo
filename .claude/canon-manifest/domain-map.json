@@ -1,0 +1,266 @@
+[
+ {
+  "domain": "Canon Governance and Audit",
+  "authority_part": 1,
+  "authority_tier": 0,
+  "sub_domains": "Authority tiers, domain routing, conflict resolution, audit law, ledger law, commands law, CCIA"
+ },
+ {
+  "domain": "Meta-Canon Knowledge Graph + NSA",
+  "authority_part": 34,
+  "authority_tier": 0,
+  "sub_domains": "Inter-Part relationships, entity registry, CCIA run log, NSA framework"
+ },
+ {
+  "domain": "Novel Book Structure",
+  "authority_part": 2,
+  "authority_tier": 1,
+  "sub_domains": "Phase/Section/Novel-Part/Chapter/Area five-tier hierarchy; the Area as the written unit (a complete scene, or a scene continued over consecutive Areas) with its size targets of 1,600, 1,800 or 2,000 words and passing range of 1,280 to 2,400, and the Area-to-Area carry-over rule; Area depth mandate; closure rules; the date line that opens every Area is the one lawful mark under the Area Title Block, and it is not narration for the size and Area rules (the date line itself is owned by Part 41)"
+ },
+ {
+  "domain": "Cultivation Realm System",
+  "authority_part": 3,
+  "authority_tier": 1,
+  "sub_domains": "All cultivation realms, breakthrough conditions, realm classification, realm names"
+ },
+ {
+  "domain": "Affinity, Heart and Soul Law",
+  "authority_part": 4,
+  "authority_tier": 1,
+  "sub_domains": "Affinity Levels (Null through Origin Convergence) and Affinity Type Catalog; Soul Rungs (Soul Wisp through Eternal Soul), Soul Types and soul damage; the five Cultivation Heart Levels"
+ },
+ {
+  "domain": "Combat Law",
+  "authority_part": 5,
+  "authority_tier": 1,
+  "sub_domains": "All forms of combat resolution, weapon discharge rules, psych-state modifiers, rank authority"
+ },
+ {
+  "domain": "Move Taxonomy",
+  "authority_part": 6,
+  "authority_tier": 1,
+  "sub_domains": "Named Move classification, skill tiers, move registration; the one generic ledger register of every Named Move and its two-way pointers with the character-ledger Named Moves registries (Rule 6.5)"
+ },
+ {
+  "domain": "Fusion Law",
+  "authority_part": 7,
+  "authority_tier": 1,
+  "sub_domains": "Cultivation-Technology fusion mechanics, hybrid techniques"
+ },
+ {
+  "domain": "Technology Scale",
+  "authority_part": 8,
+  "authority_tier": 1,
+  "sub_domains": "Technology tier system (Tiers 1–20), Type 8 domain levels, weapon tier source"
+ },
+ {
+  "domain": "Technology Growth Law",
+  "authority_part": 9,
+  "authority_tier": 1,
+  "sub_domains": "Technology advancement mechanisms, advancement prerequisites and timelines, acceleration and deceleration, regression and re-advancement, CPM Growth Cycle"
+ },
+ {
+  "domain": "Technology and Science Law",
+  "authority_part": 10,
+  "authority_tier": 1,
+  "sub_domains": "Scientific prerequisites by technology tier, Four-Layer Knowledge Stack, FTL Physics Framework, AI Sentience Ontology (S1–S5, DC-1 through DC-3), Science-Cultivation Interface"
+ },
+ {
+  "domain": "Cultivation Energy Substance Law",
+  "authority_part": 11,
+  "authority_tier": 1,
+  "sub_domains": "CPM Grade 1–20, energy resource types, Heavenly Scale Grade 1–17"
+ },
+ {
+  "domain": "Energy Relics and Artifacts",
+  "authority_part": 12,
+  "authority_tier": 1,
+  "sub_domains": "Named relic governance, artifact tiers, formation arrays, Soul Bond rules; Named Relics, Artifacts, formation arrays and energy caches are named items set in italic and registered in ledger-named-items (Rule 2.2.3)"
+ },
+ {
+  "domain": "World Systems and Location",
+  "authority_part": 13,
+  "authority_tier": 1,
+  "sub_domains": "All location tiers (Village through Galaxy), Three Universal Axes, Sacred Ground, Void Zones, climate, weather and seasons (the in-world facts of the seasons, weather and climate stay here and are set by the first Area that shows them; the calendar itself, the year, the months and the week, belongs to Part 41)"
+ },
+ {
+  "domain": "Cosmic Measurement System",
+  "authority_part": 14,
+  "authority_tier": 1,
+  "sub_domains": "CMS real-world metric units, astronomical units, weapon range (authoritative)"
+ },
+ {
+  "domain": "Travel Law",
+  "authority_part": 15,
+  "authority_tier": 1,
+  "sub_domains": "All movement and travel mechanics across all scales"
+ },
+ {
+  "domain": "Character Classification",
+  "authority_part": 16,
+  "authority_tier": 1,
+  "sub_domains": "What constitutes a character, character tiers, Classification fields, Ledger routing"
+ },
+ {
+  "domain": "Hero Law",
+  "authority_part": 17,
+  "authority_tier": 1,
+  "sub_domains": "Main protagonist governance, hero arc structure, ledger-character-hero"
+ },
+ {
+  "domain": "Villain Law",
+  "authority_part": 18,
+  "authority_tier": 1,
+  "sub_domains": "Main antagonist governance, villain psychological archetypes, ledger-character-villain; the Villain Depth Spectrum Tier A to D, side villains at Tier C and D, Tier A and B reserved until the author maps them (Area 6.3)"
+ },
+ {
+  "domain": "Side Character Law",
+  "authority_part": 19,
+  "authority_tier": 1,
+  "sub_domains": "Side character tiers A/B/C, Mentor Death Law, ledger-character-side"
+ },
+ {
+  "domain": "Ideology Law",
+  "authority_part": 20,
+  "authority_tier": 1,
+  "sub_domains": "Ideology Instability State (IS-state), IE events, Ideology Ledger Section 4"
+ },
+ {
+  "domain": "Civilization Law",
+  "authority_part": 21,
+  "authority_tier": 1,
+  "sub_domains": "Civilization classification, CTD (Civilization Tier Designation) ladder (CCT-1 Subsistence through CCT-20 Absolute), civilization Ledger; EA axis authority"
+ },
+ {
+  "domain": "Faction Law",
+  "authority_part": 22,
+  "authority_tier": 1,
+  "sub_domains": "Faction classification, faction CS%/TS% reference ranges, SII"
+ },
+ {
+  "domain": "Affiliation Law",
+  "authority_part": 23,
+  "authority_tier": 1,
+  "sub_domains": "Character-to-faction/civilization bonds, affiliation mechanics"
+ },
+ {
+  "domain": "Information and Secrecy Law",
+  "authority_part": 24,
+  "authority_tier": 1,
+  "sub_domains": "Information tiers, secrecy doctrine, intelligence assets, Tier I Sovereign Secrets; the ledger-society-information folder stores all information, including a register row for every named document and every named agreement, treaty or accord"
+ },
+ {
+  "domain": "Culture and Social Law",
+  "authority_part": 25,
+  "authority_tier": 1,
+  "sub_domains": "Cultural expression, social hierarchy, cultural markers, everyday material culture (food, dress, music)"
+ },
+ {
+  "domain": "Psychological Law",
+  "authority_part": 26,
+  "authority_tier": 1,
+  "sub_domains": "PIS-state, psychological arc phases, combat psych modifiers"
+ },
+ {
+  "domain": "Consequence Law",
+  "authority_part": 27,
+  "authority_tier": 1,
+  "sub_domains": "CSS arcs, consequence magnitude scale, consequence evasion"
+ },
+ {
+  "domain": "Creative Flexibility Law",
+  "authority_part": 28,
+  "authority_tier": 0,
+  "sub_domains": "Negotiable vs. Locked Canon, Tier 1/Tier 2 flexibility, prose-to-Base-Info conversion; the Entity Naming Law (Area 20), including named items: their italic form, roman inside an italic passage, and their Gate 2 register (Rule 20.8): the Types of item, relics and artifacts as items, the article that is never part of a name, the emphasis guard, and named documents (italic) and agreements (roman) registered in ledger-society-information (Rules 20.8.1 to 20.8.7)"
+ },
+ {
+  "domain": "Dialogue and Social Interaction",
+  "authority_part": 29,
+  "authority_tier": 0,
+  "sub_domains": "Dialogue standards, social interaction mechanics, cross-language and species speech, idiom, oaths and proverbs"
+ },
+ {
+  "domain": "Novel Macro Story Law",
+  "authority_part": 30,
+  "authority_tier": 1,
+  "sub_domains": "Phase-level arc mandates, Section-level story structure, Phase 1 End-State Locked Canon, protagonist arc mandates, pacing laws (P30-3, P30-L5), the Phase 1 Forbidden Entity Law (P30-L8) and the Phase 1 Sentient-Monster Law (P30-L9), thematic pillar architecture, Narrative Motion Principle, the Phase epigraph line (printed on the title page of a Phase's first Area; reads unset until the author gives the text and is never written by an agent); the Phase Day count (365 Phase Days to an in-story year) and the Section durations, while the calendar, the date line and the dating check are owned by Part 41 (Check #11 element 11-2 reads the date line)"
+ },
+ {
+  "domain": "Cultivation-Technology Synergy",
+  "authority_part": 31,
+  "authority_tier": 1,
+  "sub_domains": "CS%/TS% system, 10-band definitions, interaction zones, all entity CS%/TS% governance"
+ },
+ {
+  "domain": "Vehicle Law",
+  "authority_part": 32,
+  "authority_tier": 1,
+  "sub_domains": "Vehicle classification, CHV Class, vehicle Ledger"
+ },
+ {
+  "domain": "Weapon Law",
+  "authority_part": 33,
+  "authority_tier": 1,
+  "sub_domains": "Weapon classification, WS Class, weapon discharge rules, weapon Ledger"
+ },
+ {
+  "domain": "Content Density Law",
+  "authority_part": 35,
+  "authority_tier": 1,
+  "sub_domains": "CDL-2 eleven independent content categories scored 0–100% (Emotions and Character Development named); four Universal Anchor Floors (Combat, Cultivation Growth, Dialogue & Social Interaction, Lore & World-Building); Area scoring protocol, word-count-weighted Section aggregates and four-level enforcement pyramid with Section Override Protocol; Phase 1 Section × Category Low–Anchor–High target table; Completeness Indicator formats (Area, Chapter, Section) and report order; governing laws CDL2-L1 through CDL2-L7 with the content floor and the Named-Move runs counted over Areas; supersession of the retired CDL-1 framework"
+ },
+ {
+  "domain": "Narration Novel Thematic Law",
+  "authority_part": 36,
+  "authority_tier": 0,
+  "sub_domains": "Novel Primacy Mandate, Living Scene Standard, Exposition Ceiling, narrative rhythm, breakthrough/combat/technology thematic overlays, character interiority, sensory palette, dual-track identity, world-building texture, tone register, DCG Thematic Preview, conflict-resolution protocol, sovereignty delineation, Gate 1 Check #16 (twelve dimensions, 16-A to 16-K and 16-DP, including Area Flow Review and Voice and Variety), the Area as the unit of the scene reading (Area 2.4), narrator voice, tone across an Area, scene shape and release, motif and recurrence (Areas 18-21), Prose Vitality Law (Area 17) defining Gate 1 Check #19, story-craft laws for mystery and open questions, foreshadowing and payoff, theme at scene level, tension and stakes, chapter and Area openings, closings, hooks and recaps, and special scene types including money scenes (Areas 22 to 27), the Novel Elements Lookup (Area 15.5)"
+ },
+ {
+  "domain": "Character Behavioral Synthesis",
+  "authority_part": 39,
+  "authority_tier": 0,
+  "sub_domains": "The 36 Behavioral Layers L01-L36 and their 291 dimensions; the Behavioral Signature registry in Character Ledger Sections 11-12; the B39-Lnn-DIM-nn option catalog; per-tier registration requirements; the Conditional Drift Map and behavioral evolution; collective behavior codes on faction, civilization and location ledgers; anti-mechanical enforcement; Gate 1 Checks #20 and #21"
+ },
+ {
+  "domain": "Ledger Schema Law",
+  "authority_part": 37,
+  "authority_tier": 1,
+  "sub_domains": "Schema templates for all ledger types; entity creation thresholds (C-1 through C-3, M-1 through M-3, L-1, L-2, F-1, V-1, D-1, O-1 through O-6; the monster thresholds M-1 to M-3 and the C-2 clause; the calendar threshold D-1); ledger folder registry (22 folders, the eighteenth being the named-item register of Area 3.8 and the nineteenth the Named-Move register of Area 3.9, the twentieth the monster ledger of Area 3.10, the twenty-first the calendar ledger of Area 3.11, and the twenty-second the Manual Ledger of Area 3.12; the three register folders are ledger-named-items, ledger-named-moves and ledger-society-information, the information ledger covering named documents and agreements); B vs L field classification rules; new type discovery protocol; schema amendment protocol"
+ },
+ {
+  "domain": "Story Specification Law",
+  "authority_part": 38,
+  "authority_tier": 1,
+  "sub_domains": "The spec chain (Section Spec, Novel-Part Spec, Chapter Spec; each depends on the one above it) in the phase-section-part-chapter-area-specs/ tree (section-N-spec.md, part-N-spec.md, chapter-NNN-spec.md); Master Rules 38.1-38.14 (the Spec Chain Mandate, Section Spec, Novel-Part Spec, Derivation/Precedence/Cascade, Clarity Mandate for All Spec Builds, and the Clean Spec Body with its Audit and Settlement Notes); the spec chain itself (Area 9: chain dependency and refusal, build timing and the built-against stamp, derivation, precedence and cascade, the rule that a spec body carries no inline tags and every settled item, open item, deferral, ruling, variance and audit note is collected in a final section Audit and Settlement Notes, writers, variance recorded as a light note on every spec above a departure, top-down, settling power downward and author deferrals, the three linked guide registers of setups, payoffs and threads, the clarity mandate and final sweep, completion as COMPLETED, retro-fit and the orphan rule, read sets and parallel orchestration); the Section Spec (Area 10: built by /section-spec from the whole of Part 30, citations only; Novel-Part plan with a high-level Chapter list; the Section's own Epigraph line, Section 1's included, with a Phase's first title page also printing the Phase epigraph held in Part 30 above it) and the Novel-Part Spec (Area 11: built by /part-spec, every Chapter listed in depth); spec authority model (Locked Canon > ledger > spec chain > session-log; ledger supersedes spec; specs never establish canon facts); Rich Chapter Spec schema (name-chain, per-Area blocks as the plan of one written Area, each with its size target and pacing, and the bible that connects the chapter (scene anchors, opening and closing types, carry-over, thread, viewpoint changes, time skips, story link, setups and payoffs, emotional line, world/setting/people, novel elements, tone/voice tag), Tier Scope Bracket backing store (Area rows only, no range stored above Chapter), standing exclusions, P30-L5 tracking); build/audit/[CONFIRM SPEC] lifecycle shared by all three kinds, with /section-spec, /part-spec and /chapter-spec amendment (adding, removing or reordering the Novel-Parts of a Section Spec is a substantial amendment) and the registry Coverage cells of Section and Novel-Part rows refreshed at that spec's confirm, at any completion write step and at a reset or rewind rollback, never at Gate 2; DCG Rule 19.4 settling power with OPEN/new-branch/clarity-reduction/Autonomous-Matter carve-outs; Gate 1 Check #18 Spec Conformance (the chain is in force: a missing, DRAFT or RETIRED link grades Critical, an AMENDED-PENDING-RECONFIRM link Major); Check #18 plan-versus-written list; Gate 2 as-built sync (Chapter Spec only); reset survivability of all three kinds (a COMPLETED spec returns to CONFIRMED when a written Area is removed) and redraft re-open"
+ },
+ {
+  "domain": "Monster Law",
+  "authority_part": 40,
+  "authority_tier": 1,
+  "sub_domains": "Monsters as tracked beings (a beast that holds its own qi from Senior Level 1 Low upward, or a body-refined beast below Senior that is dangerous from strength alone; ordinary animals are not monsters); the Kind entry and the Individual entry; the first list of ten monster classes; the one Part 3 ladder with no ladder of its own (a stage band for a Kind, an exact stage for an Individual) and growth by the ordinary breakthrough rules; monster abilities (species-innate S-3, qi-based S-1) entered in the single Named-Move register; the twelve behaviour traits reusing Part 39 dimensions; depth tiers A to D (depth of record, never power) and what brings a Tier C or D monster to the author; the Harvest line; monsters and people; the sentient monsters as a reserved class (floor Void God Level 1 Low, none in Phase 1 by Law P30-L9, where they may live OPEN-AUTHOR); the line between monster, villain and side villain; monster naming; ledger-character-monster"
+ },
+ {
+  "domain": "Calendar and Dating",
+  "authority_part": 41,
+  "authority_tier": 1,
+  "sub_domains": "The Nine Suns calendar and the time of the story: the epoch (the saga opens in Year 1247 and Phase Day 1 is Year 1247, Ilovany, Day 1, the first day of spring and the third weekday, Orvil: Day One falls on the third weekday, so Sanvil and Mavil fall just before it); the 365-day Saha year with no leap day, a day running from one dawn to the next; the twelve months, their names, lengths and the four seasons as quarters (plan words only: the in-world seasons, weather and climate stay with Part 13); the seven-day week running on through the year, the weekday names and the weekday formula; the Phase Day conversion and the Phase and Section windows (the Phase Day count and the Section durations stay with Part 30); the date line (its form, its place as the first line of every Area directly under the Area Title Block, ranges, flashback and dream, a day that rolls over, who states it, not narration) and the dating check read at Gate 1; the fixed days (the Twin Oath and the Gale Ascent, by month and day) and the four quarter-days; the birth years of the eight heroes; the calendar ledger ledger-worlds-calendar; and the boundaries with Parts 2, 13, 25, 30, 37 and 38"
+ },
+ {
+  "domain": "Manuals and Weapon Style",
+  "authority_part": 42,
+  "authority_tier": 1,
+  "sub_domains": "Manuals as the written or encoded transmission texts (Part 6 Method L-2) that hold 5 to 15 Named Moves for exactly one weapon type; the eight grades (Basic, Intermediate, Advanced, Elite, Signature, Fusion, Catastrophic, Mythic) with their fixed move-type composition, the rounding rule and the 8-grade by N=5..15 composition table; Known but Latent (each move in a held manual is Usable, Conditional or Latent for a character, computed from the unamended Part 6 Access Table) and the general Seal Rule (an effective-realm cap plus a blocked-type list, as the Olympus Suppression Seal binds Hercules and Bison); School Moves versus a personal Signature (the Part 6 identity binding amended in scope, purpose kept); the five realm bands M1, M2, XT, CF and DV and the per-grade distribution; the four requirement ladders (energy, cultivation, affinity, sovereignty) and their per-grade defaults; acquisition channels, institutions, access, copy-control and rarity; learning and mastery with manuals (Novice start, no skipping); the registry of the 79 weapon types and the relation of a style to the Part 33 technology weapon taxonomy (Tier 3 handling sheet in Phase 1); the Manual Ledger ledger-manuals (CSV files keyed by one ID scheme, exact headers, checks and the read-only manual_ledger_query.py); characters, kits and the eligibility rule for Tier C and Tier D characters; manual titles as plain-italic named items and manual moves as bold-italic Named Moves, the Azorion and Gale registers; narration standards N42-1 to N42-9; and the amendments required of Parts 6, 12, 17, 18, 19, 28, 33 and 37"
+ },
+ {
+  "domain": "Character Evolution Law",
+  "authority_part": 43,
+  "authority_tier": 1,
+  "sub_domains": "How every recorded character changes over the story: nothing recorded is permanently locked; who rules (the author for heroes and Tier A side characters, villains and monsters; the Gate 1 continuity-checker for Tier B, C and D with a recorded reason; the author always for an immutable; Gate 2 presents every evolution); what can evolve (the 36 Layers and 12 Signatures and the properties of Parts 16 to 20, 26, 27, 29, 40); the dated Evolution Entry (ADD, CHANGE, RETIRE) in character ledger Section 14, the base profile never overwritten, current profile = base plus entries; reset to a date the author names; a ruled evolution is not drift; no new command (detection inside Gate 1 Check #21 and Gate 2, send-back through /revise-area)"
+ },
+ {
+  "domain": "Battle Plausibility Law",
+  "authority_part": 44,
+  "authority_tier": 1,
+  "sub_domains": "Whether a whole engagement (skirmish, ambush, siege, battle, war, campaign) makes sense at the cultivation levels of both sides, checked above the one-pairing 3-Level Rule of Part 3 and beside the Part 5 law of who may fight: anchors (a side's strongest few), the gap in minor steps per pairing and its band (Open 0 to 2, Shut 3 or more, Barred across a Major Realm), no math for a group; the six lawful offsets (numbers and formation; ground, preparation, ambush, surprise and shielding; technology and weapons; exhaustion and cost; registered gifted fighters; limit break and striving, defined in Part 3 Area 7.5) each with a bound and a price; the story and spec kept apart (no gap arithmetic in prose); registered gifted fighters (rare named non-hero people, up to 3 minor steps, never across a Major Realm, tide but never win alone; registered in the ledger before the scene; heroes keep the Combat Level Advantage of Part 16); the seven-step checklist and the Engagement Ledger of the Chapter Spec Fight line; scales (aggregate forces, commanders as anchors, ambush and open field, retreat and pursuit); non-cultivators, tech-scale weapons, healing, wounded versus killed; the menu of lawful story shapes; Gate 1 Check #23 (23-1 to 23-5 and 23-7 block, 23-6 strain reported to the author); the Chapter 3 worked example"
+ }
+]

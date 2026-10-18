@@ -1,0 +1,132 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-BAT-001-01,Heart and Face Baton Guard,Granite Balanceknob,F2,Demigod,B
+MV-ELI-BAT-001-02,Paired Palm Thrust,Vengeful Crackdown,F1,Demigod,B
+MV-ELI-BAT-001-03,Court Step Entry,Gust Lanyardloop,F2,Demigod,B
+MV-ELI-BAT-001-04,Two-Court Wrist Hook,Gyve Stun,F2,Demigod,B
+MV-ELI-BAT-001-05,Court Guard Knock,Batondurance,F4,Demigod,B
+MV-ELI-BAT-001-06,Pressing Court Hold,Shade Sidebar,F2,Demigod,B
+MV-ELI-BAT-001-07,Twin Rap to Shoulder and Hip,Doctrine Shortstick,F2,Demigod,B
+MV-ELI-BAT-001-08,Court Seal on the Radial Nerve,Intentbilly,F5,Demigod,B
+MV-ELI-BAT-001-09,Twin Court Descent,Nova Rapidrap,F2,Demigod,B
+MV-ELI-BAT-002-01,Hawk Basin Waiting Hold,Flintlike Batongrip,F1,Demigod,B
+MV-ELI-BAT-002-02,Wing Fold Step,Phantom Gripwrap,F1,Demigod,B
+MV-ELI-BAT-002-03,Basin Edge Rap,Granite Weightend,F2,Demigod,B
+MV-ELI-BAT-002-04,Hawk Shadow Parry,Murk Hardwood,F2,Demigod,B
+MV-ELI-BAT-002-05,Dive Line Jab,Might Truncheon,F2,Demigod,B
+MV-ELI-BAT-002-06,Basin Floor Trip,Chimeswitch,F5,Demigod,B
+MV-ELI-BAT-002-07,Hawk Talon Hook,Capend Durance,F3,Demigod,B
+MV-ELI-BAT-002-08,Held Basin Press,Enthralling Tick,F1,Demigod,B
+MV-ELI-BAT-002-09,Outstretched Wings Baton Sweep,Grievous Cuff,F1,Demigod,B
+MV-ELI-BAT-002-10,Hawk Eye Seal,Cuff Durance,F3,Demigod,B
+MV-ELI-BAT-002-11,Hawk Strikes the Basin Floor,Glint Capend,F2,Demigod,B
+MV-ELI-BAT-003-01,Full Field Twin Hold,Charter Gripwrap,F2,Demigod,B
+MV-ELI-BAT-003-02,Two Lane Advance,Switchvortex,F4,Demigod,B
+MV-ELI-BAT-003-03,Field Track Rap,Blazestun,F5,Demigod,B
+MV-ELI-BAT-003-04,Track Parry Turn,Batongrip Durance,F3,Demigod,B
+MV-ELI-BAT-003-05,Field Hook on Both Lines,Overpowering Switch,F1,Demigod,B
+MV-ELI-BAT-003-06,Track Switch Jolt,Chime Balanceknob,F2,Demigod,B
+MV-ELI-BAT-003-07,Double Line Press,Batonnerve,F4,Demigod,B
+MV-ELI-BAT-003-08,Field Reach Clamp,Gyvecapend,F5,Demigod,B
+MV-ELI-BAT-003-09,Twin Track Breaking Strike,Tempered Truncheon,F2,Demigod,B
+MV-ELI-BAT-003-10,Dual-Track Field Release,Unbowed Shortstick,F1,Demigod,B
+MV-ELI-BAT-004-01,Baton and Palm Ready,Billyvalor,F4,Demigod,B
+MV-ELI-BAT-004-02,Open Hand Slip Step,Headlong Lanyardloop,F1,Demigod,B
+MV-ELI-BAT-004-03,Paired Hand Rap,Might Stun,F2,Demigod,B
+MV-ELI-BAT-004-04,Palm Guard Parry,Invincible Hardwood,F1,Demigod,B
+MV-ELI-BAT-004-05,Rod Rise Block,Murk Lanyardloop,F2,Demigod,B
+MV-ELI-BAT-004-06,Open Hand Wrist Catch,Ponderous Sidebar,F2,Demigod,B
+MV-ELI-BAT-004-07,Palm and Rod Pinch,Immobilizing Crackdown,F1,Demigod,B
+MV-ELI-BAT-004-08,Open Hand Shove Behind Rod,Chimebilly,F5,Demigod,B
+MV-ELI-BAT-004-09,Pair Pull Throw,Webbing Sidebar,F1,Demigod,B
+MV-ELI-BAT-004-10,Baton and Palm Seal,Deedcuff,F5,Demigod,B
+MV-ELI-BAT-004-11,Paired Sweeping Break,Merciless Hardwood,F1,Demigod,B
+MV-ELI-BAT-004-12,Discourse Closing Run,Escalating Switch,F1,Demigod,B
+MV-ELI-BAT-004-13,Open Hand Follows the Rod,Brutalizing Crackdown,F1,Demigod,B
+MV-ELI-BAT-005-01,Azure Line Ready Hold,Unconquered Truncheon,F1,Void God,B
+MV-ELI-BAT-005-02,Silt-Smooth Entering Step,Torrent Switch,F2,Void God,B
+MV-ELI-BAT-005-03,Current Rap,Punishing Weightend,F1,Void God,B
+MV-ELI-BAT-005-04,Bank Block,Capendmettle,F4,Void God,B
+MV-ELI-BAT-005-05,Stone Skip Tap,Blaze Rapidrap,F2,Void God,B
+MV-ELI-BAT-005-06,River Hook Drag,Thorn Tick,F2,Void God,B
+MV-ELI-BAT-005-07,Eddy Wrist Spin,Rumble Capend,F2,Void God,B
+MV-ELI-BAT-005-08,Undertow Press,Intent Rapidrap,F2,Void God,B
+MV-ELI-BAT-005-09,Ford Crossing Trip,Mayhem Batongrip,F2,Void God,B
+MV-ELI-BAT-005-10,Flood Strike Through the Guard,Hollow Weightend,F2,Void God,B
+MV-ELI-BAT-005-11,Azure Seal Along the Arm,Maiming Gripwrap,F1,Void God,B
+MV-ELI-BAT-005-12,River Flood Run,Lot Stun,F2,Void God,B
+MV-ELI-BAT-006-01,Court Perch Hold,Ironbaton,F5,Void God,B
+MV-ELI-BAT-006-02,Lifted Talon Ground Walk,Gust Rapidrap,F2,Void God,B
+MV-ELI-BAT-006-03,Beak Rap,Gust Truncheon,F2,Void God,B
+MV-ELI-BAT-006-04,Perch Hook Draw,Cuff Mettle,F3,Void God,B
+MV-ELI-BAT-006-05,Wing Check Jolt,Toxin Lanyardloop,F2,Void God,B
+MV-ELI-BAT-006-06,Court Hold Down,Enthralling Balanceknob,F1,Void God,B
+MV-ELI-BAT-006-07,Stoop Through the Court Guard,Hellish Stun,F1,Void God,B
+MV-ELI-BAT-006-08,Hawk Sealing Rap,Strangling Gripwrap,F1,Void God,B
+MV-ELI-BAT-006-09,Hawk Hovers Then Falls,Capendrespite,F4,Void God,B
+MV-ELI-BAT-007-01,Wind-Sworn Waiting Hold,Impenetrable Sidebar,F1,Demigod,B
+MV-ELI-BAT-007-02,Reach Step Out,Gustswitch,F5,Demigod,B
+MV-ELI-BAT-007-03,Sudden Gust Forearm Rap,Eviscerating Shortstick,F1,Demigod,B
+MV-ELI-BAT-007-04,Wind Cut Parry,Chimecapend,F5,Demigod,B
+MV-ELI-BAT-007-05,Wind Hook Draw,Gyvecuff,F5,Demigod,B
+MV-ELI-BAT-007-06,Sworn Wrist Jolt,Strangling Shortstick,F1,Demigod,B
+MV-ELI-BAT-007-07,Gale Lean Press,Suffocating Weightend,F1,Demigod,B
+MV-ELI-BAT-007-08,Full Reach Seal,Switch Nerve,F3,Demigod,B
+MV-ELI-BAT-007-09,Wind Chain Raps,Lot Crackdown,F2,Demigod,B
+MV-ELI-BAT-007-10,Plateau Gale Falling Stroke,Berserk Tempered Balanceknob,F6a,Demigod,B
+MV-ELI-BAT-008-01,Oath Baton Across the Thighs,Granite Batongrip,F2,Demigod,B
+MV-ELI-BAT-008-02,Broad Stance Shuffle,Silttick,F5,Demigod,B
+MV-ELI-BAT-008-03,Oath Rap to the Weapon Hand,Sanguine Hardwood,F2,Demigod,B
+MV-ELI-BAT-008-04,Edge Wind Block,Hardwood Fortitude,F3,Demigod,B
+MV-ELI-BAT-008-05,Gust Jab,Unsparing Capend,F1,Demigod,B
+MV-ELI-BAT-008-06,Oath Wrist Drag,Gyve Tick,F2,Demigod,B
+MV-ELI-BAT-008-07,Plateau Shove Jolt,Toxinswitch,F5,Demigod,B
+MV-ELI-BAT-008-08,Held Oath Press,Webbing Balanceknob,F1,Demigod,B
+MV-ELI-BAT-008-09,Wind-Swept Ankle Trip,Suffocating Rapidrap,F1,Demigod,B
+MV-ELI-BAT-008-10,Lineage Seal,Maiming Cuff,F1,Demigod,B
+MV-ELI-BAT-008-11,Oath Strike Run,Hour Capend,F2,Demigod,B
+MV-ELI-BAT-008-12,Oath Kept to the Last Bearing,Intent Weightend,F2,Demigod,B
+MV-ELI-BAT-009-01,Bearing Marker Hold,Aegiscapend,F5,Void God,B
+MV-ELI-BAT-009-02,Gale Stride,Silt Batongrip,F2,Void God,B
+MV-ELI-BAT-009-03,Rod Rap on Bearing,Sanguine Gripwrap,F2,Void God,B
+MV-ELI-BAT-009-04,Heading Hook on the Leading Arm,Ponderous Cuff,F2,Void God,B
+MV-ELI-BAT-009-05,Cross Bearing Jolt,Mayhem Shortstick,F2,Void God,B
+MV-ELI-BAT-009-06,Gale Lean Pin,Intentcapend,F5,Void God,B
+MV-ELI-BAT-009-07,Bearing Break Through,Truncheon Reckoning,F3,Void God,B
+MV-ELI-BAT-009-08,Heading Held Elbow Seal,Switch Valor,F3,Void God,B
+MV-ELI-BAT-009-09,Flash to the Bearing,Ghosting Tick,F1,Void God,B
+MV-ELI-BAT-010-01,Open Baton Ready Hold,Iron Lanyardloop,F2,Void God,B
+MV-ELI-BAT-010-02,Wide Ring Step,Ghosting Cuff,F1,Void God,B
+MV-ELI-BAT-010-03,Windless Rap,Batonwrath,F4,Void God,B
+MV-ELI-BAT-010-04,Reaching Block,Billydurance,F4,Void God,B
+MV-ELI-BAT-010-05,Open Cut,Capendhavoc,F4,Void God,B
+MV-ELI-BAT-010-06,Open Ring Hook,Thorn Lanyardloop,F2,Void God,B
+MV-ELI-BAT-010-07,Draft Jolt,Chimecuff,F5,Void God,B
+MV-ELI-BAT-010-08,Sky Weight Press,Stunspine,F4,Void God,B
+MV-ELI-BAT-010-09,Open Reach Seal,Lottick,F5,Void God,B
+MV-ELI-BAT-010-10,Ring Breaking Chain,Escalating Tick,F1,Void God,B
+MV-ELI-BAT-010-11,No Wall to Lean On,Unbowed Facet Truncheon,F6a,Void God,B
+MV-ELI-BAT-011-01,First Oath Hold,Aegis Sidebar,F2,True God,B
+MV-ELI-BAT-011-02,Second Oath Step,Gustcuff,F5,True God,B
+MV-ELI-BAT-011-03,Third Oath Rap,Blaze Switch,F2,True God,B
+MV-ELI-BAT-011-04,Fourth Oath Block,Torrent Shortstick,F2,True God,B
+MV-ELI-BAT-011-05,Fifth Oath Jab,Mightbaton,F5,True God,B
+MV-ELI-BAT-011-06,Sworn Elbow Hook Drag,Numbing Gripwrap,F1,True God,B
+MV-ELI-BAT-011-07,Oath Wrist Jolt,Mayhem Rapidrap,F2,True God,B
+MV-ELI-BAT-011-08,Oath Leaning Press,Charter Crackdown,F2,True God,B
+MV-ELI-BAT-011-09,Oath Ankle Sweep,Mayhemcuff,F5,True God,B
+MV-ELI-BAT-011-10,Oath Seal at the Elbow,Overpowering Sidebar,F1,True God,B
+MV-ELI-BAT-011-11,Oath Break Through the Guard,Hollowtick,F5,True God,B
+MV-ELI-BAT-011-12,Oath Chain of Three,Hardwood Wrath,F3,True God,B
+MV-ELI-BAT-011-13,Thirteenth Oath Fulfilled,Strangling Charter Capend,F6a,True God,B
+MV-ELI-BAT-012-01,Held Line Ready Hold,Balanceknob Obduracy,F3,Demigod,B
+MV-ELI-BAT-012-02,Bearing Drift Step,Cuffflash,F4,Demigod,B
+MV-ELI-BAT-012-03,Line Rap,Gust Crackdown,F2,Demigod,B
+MV-ELI-BAT-012-04,Held Line Parry,Unrelenting Weightend,F1,Demigod,B
+MV-ELI-BAT-012-05,Line Hook Drag,Thornswitch,F5,Demigod,B
+MV-ELI-BAT-012-06,Drift Jolt,Chime Batongrip,F2,Demigod,B
+MV-ELI-BAT-012-07,Steady Line Shoulder Press,Ponderous Stun,F2,Demigod,B
+MV-ELI-BAT-012-08,Held Line Seal,Mastering Hardwood,F1,Demigod,B
+MV-ELI-BAT-012-09,Line Breaking Strike,Iron Tick,F2,Demigod,B
+MV-ELI-BAT-012-10,Line Held Against the Gale,Impervious Capend,F1,Demigod,B
+MV-ELI-BAT-005-10,Hollow Weightend,Boring Weightend,F2,Void God,B
+MV-ELI-BAT-011-11,Hollowtick,Drilltick,F5,True God,B

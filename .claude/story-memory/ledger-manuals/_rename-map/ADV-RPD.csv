@@ -1,0 +1,103 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-RPD-001-01,Third-Book Return Flick,Tempered Ringend,F2,Champion,B
+MV-ADV-RPD-001-02,Coil Pivot Slide,Siltspool,F5,Champion,B
+MV-ADV-RPD-001-03,Wrist Anchor Brace,Implacable Cordlength,F1,Champion,B
+MV-ADV-RPD-001-04,Neck-Height Loop Cast,Thornthrum,F5,Champion,B
+MV-ADV-RPD-001-05,Qi-Whipped Dart Arc,Gust Reelin,F2,Champion,B
+MV-ADV-RPD-001-06,Spiral Cord Deflection,Equipoise Cordloop,F2,Champion,B
+MV-ADV-RPD-001-07,Trailing Loop Snatch,Chime Tailring,F2,Champion,B
+MV-ADV-RPD-001-08,Cord-Borne Qi Lance,Furrowing Dartblade,F1,Champion,B
+MV-ADV-RPD-001-09,Spiral Weave Entanglement,Hoarfrost Snapback,F2,Champion,B
+MV-ADV-RPD-002-01,Living Cord Straight Cast,Chimepluck,F5,Demigod,B
+MV-ADV-RPD-002-02,Field-Fed Coil Stance,Expanse Flickhand,F2,Demigod,B
+MV-ADV-RPD-002-03,Cord Brush Counter,Chimethrum,F5,Demigod,B
+MV-ADV-RPD-002-04,Dart Reach Slide Advance,Might Whipout,F2,Demigod,B
+MV-ADV-RPD-002-05,Loop Draw Snare,Fastening Spiralcast,F2,Demigod,B
+MV-ADV-RPD-002-06,Field-Extended Cord Strike,Harrowing Retrieve,F1,Demigod,B
+MV-ADV-RPD-002-07,Living Cord Parry Web,Charter Darttip,F2,Demigod,B
+MV-ADV-RPD-002-08,Field-Tugged Pull-In,Ponderous Dartneck,F2,Demigod,B
+MV-ADV-RPD-002-09,Cord Beyond the Cord,Glintpluck,F5,Demigod,B
+MV-ADV-RPD-002-10,Field Ring Snare Laid,Toxin Cordknot,F2,Demigod,B
+MV-ADV-RPD-003-01,Limb Wrap Opening Throw,Silencing Ringend,F1,Champion,B
+MV-ADV-RPD-003-02,Weapon Wrap Pull Aside,Pluckcuirass,F4,Champion,B
+MV-ADV-RPD-003-03,Wrapped-Hand Punch Guard,Staunch Cordwinder,F1,Champion,B
+MV-ADV-RPD-003-04,Wrap Circling Step,Surging Flickhand,F1,Champion,B
+MV-ADV-RPD-003-05,Qi-Cinched Wrist Wrap,Fastening Dartblade,F2,Champion,B
+MV-ADV-RPD-003-06,Weapon-Trapping Triple Turn,Cordloop Cuirass,F3,Champion,B
+MV-ADV-RPD-003-07,Whole-Limb Qi Lockdown,Hoarfrost Loopcast,F2,Champion,B
+MV-ADV-RPD-003-08,Wrapped Arm Hurl,Gustpluck,F5,Champion,B
+MV-ADV-RPD-004-01,Orbit Opening Swing,Scorching Dartneck,F1,Demigod,B
+MV-ADV-RPD-004-02,Outer Orbit Parry,Equipoise Cordlength,F2,Demigod,B
+MV-ADV-RPD-004-03,Inner Dart Ring Parry,Equipoise Darttip,F2,Demigod,B
+MV-ADV-RPD-004-04,Orbit-Entering Step,Silt Tailring,F2,Demigod,B
+MV-ADV-RPD-004-05,Orbit Interrupt Throw,Severing Snapback,F1,Demigod,B
+MV-ADV-RPD-004-06,Dart Ring Pulse Reading,Mindful Dartneck,F1,Demigod,B
+MV-ADV-RPD-004-07,Field-Held Orbit,Granite Cordwinder,F2,Demigod,B
+MV-ADV-RPD-004-08,Orbit Crash on the Guard,Blaze Spiralcast,F2,Demigod,B
+MV-ADV-RPD-004-09,Orbit Grapple Break,Rumble Cordknot,F2,Demigod,B
+MV-ADV-RPD-004-10,Stacked Orbit Crossing,Unmaking Tempered Loopcast,F6a,Demigod,B
+MV-ADV-RPD-004-11,Orbit Cage Closing,Thornpluck,F5,Demigod,B
+MV-ADV-RPD-005-01,Basin Rim Cast,Loopcast Thrash,F3,Champion,B
+MV-ADV-RPD-005-02,River-Bend Cord Swing,Iron Whipout,F2,Champion,B
+MV-ADV-RPD-005-03,Azure Cord Hold,Quelling Reelin,F1,Champion,B
+MV-ADV-RPD-005-04,Paired-Hand Cord Guard,Unflinching Dartblade,F1,Champion,B
+MV-ADV-RPD-005-05,Shallows Gliding Step,Torrent Spiralcast,F2,Champion,B
+MV-ADV-RPD-005-06,Basin Floor Reading,Verity Cordknot,F2,Champion,B
+MV-ADV-RPD-005-07,Dual-Track Cord Cast,Novareelin,F5,Champion,B
+MV-ADV-RPD-005-08,River Current Pull,Ponderous Cordloop,F2,Champion,B
+MV-ADV-RPD-005-09,Cord Rim-Turning Guard,Gust Cordwinder,F2,Champion,B
+MV-ADV-RPD-005-10,Hawk-Drop Dart,Glinttine,F5,Champion,B
+MV-ADV-RPD-005-11,Twin-Course Dart Pursuit,Skinning Tempered Darttip,F6a,Champion,B
+MV-ADV-RPD-005-12,Basin Wall Cord Net,Thorntine,F5,Champion,B
+MV-ADV-RPD-006-01,Twin-Track Opening Cast,Nova Retrieve,F2,Demigod,B
+MV-ADV-RPD-006-02,Paired Cord Wrap,Ponderous Reelin,F2,Demigod,B
+MV-ADV-RPD-006-03,Azure Cord Line Guard,Thorn Flickhand,F2,Demigod,B
+MV-ADV-RPD-006-04,Dual-Pace Step,Mighttine,F5,Demigod,B
+MV-ADV-RPD-006-05,Track-Split Dart Feint,Mayhem Snapback,F2,Demigod,B
+MV-ADV-RPD-006-06,Counter-Track Cord Bind,Hamstringing Tailring,F1,Demigod,B
+MV-ADV-RPD-006-07,Paired Orbit Shield,Thorn Cordlength,F2,Demigod,B
+MV-ADV-RPD-006-08,Two-Track Qi Crossing,Hollowreelin,F5,Demigod,B
+MV-ADV-RPD-006-09,Mirrored Cord Trap,Thrumhauberk,F4,Demigod,B
+MV-ADV-RPD-007-01,Hawk Stoop Cord Drop,Cleaving Dartneck,F1,Demigod,B
+MV-ADV-RPD-007-02,River Tether Hold,Hamstringing Snapback,F1,Demigod,B
+MV-ADV-RPD-007-03,Tether Reed Parry,Murkspool,F5,Demigod,B
+MV-ADV-RPD-007-04,Hawk Wing Cord Sidestep,Vaulting Retrieve,F1,Demigod,B
+MV-ADV-RPD-007-05,Water-Line Sighting,Cordwinder Tincture,F3,Demigod,B
+MV-ADV-RPD-007-06,Hawk Rising Cord Lift,Might Cordknot,F2,Demigod,B
+MV-ADV-RPD-007-07,River Undertow Pull,Hoarfrost Ringend,F2,Demigod,B
+MV-ADV-RPD-007-08,Tether Wall Guard,Iron Dartblade,F2,Demigod,B
+MV-ADV-RPD-007-09,Stooping Hawk Qi Dart,Glint Whipout,F2,Demigod,B
+MV-ADV-RPD-007-10,River Weir Cord Trap,Fastening Darttip,F2,Demigod,B
+MV-ADV-RPD-008-01,Wind-Sworn Cord Cast,Nova Whipout,F2,Champion,B
+MV-ADV-RPD-008-02,Dart Bearing-Taken Step,Granite Tailring,F2,Champion,B
+MV-ADV-RPD-008-03,Windward Cord Guard,Murk Flickhand,F2,Champion,B
+MV-ADV-RPD-008-04,Plateau Edge Loop,Gyve Ringend,F2,Champion,B
+MV-ADV-RPD-008-05,Gale-Lashed Cord Whip,Granite Cordlength,F2,Champion,B
+MV-ADV-RPD-008-06,Oath-Line Hold,Fastening Reelin,F2,Champion,B
+MV-ADV-RPD-008-07,Crosswind Dart Bend,Spooltorment,F4,Champion,B
+MV-ADV-RPD-008-08,Open-Plain Pegged Cord Snare,Deedthrum,F5,Champion,B
+MV-ADV-RPD-009-01,Plateau Edge Dart Cast,Facet Cordloop,F2,Demigod,B
+MV-ADV-RPD-009-02,Rim-Line Walking Step,Spoolsprint,F4,Demigod,B
+MV-ADV-RPD-009-03,Edge Wind Cord Parry,Hardened Flickhand,F1,Demigod,B
+MV-ADV-RPD-009-04,Tether Fall Loop,Ponderous Spiralcast,F2,Demigod,B
+MV-ADV-RPD-009-05,Anchor-Stone Hold,Aegis Dartneck,F2,Demigod,B
+MV-ADV-RPD-009-06,Cord Wind-Reading Pause,Verityspool,F5,Demigod,B
+MV-ADV-RPD-009-07,Edge-Pulled Drop Strike,Retrieve Torment,F3,Demigod,B
+MV-ADV-RPD-009-08,Rope-Brace Stand,Staunch Ringend,F1,Demigod,B
+MV-ADV-RPD-009-09,Updraft Cord Lift,Reelinsprint,F4,Demigod,B
+MV-ADV-RPD-009-10,Edge-Falling Dart Strike,Ironpluck,F5,Demigod,B
+MV-ADV-RPD-009-11,Plateau Tether Snare,Silttine,F5,Demigod,B
+MV-ADV-RPD-010-01,Long Bearing Dart Cast,Cleaving Loopcast,F1,Ruler,B
+MV-ADV-RPD-010-02,Oath Cord Loop,Subduing Cordknot,F1,Ruler,B
+MV-ADV-RPD-010-03,Bearing Steady Cord Guard,Aegis Dartblade,F2,Ruler,B
+MV-ADV-RPD-010-04,Steady-Heading Step,Mightthrum,F5,Ruler,B
+MV-ADV-RPD-010-05,Cord Bearing Check,Chime Cordloop,F2,Ruler,B
+MV-ADV-RPD-010-06,Windward Turn Parry,Pluckgreave,F4,Ruler,B
+MV-ADV-RPD-010-07,Held-Bearing Dart Run,Reelin Assault,F3,Ruler,B
+MV-ADV-RPD-010-08,Oath-Bound Loop Cinch,Crippling Spiralcast,F1,Ruler,B
+MV-ADV-RPD-010-09,Wind-Split Cord Guard,Resilient Cordlength,F1,Ruler,B
+MV-ADV-RPD-010-10,Tailwind Cord Surge Step,Hastening Darttip,F1,Ruler,B
+MV-ADV-RPD-010-11,Sworn Line Qi Throw,Glintthrum,F5,Ruler,B
+MV-ADV-RPD-010-12,Bearing-Lock Binding Pull,Hoarfrost Cordwinder,F2,Ruler,B
+MV-ADV-RPD-002-02,Expanse Flickhand,Keen Flickhand,F2,Demigod,B
+MV-ADV-RPD-006-08,Hollowreelin,Lancereelin,F5,Demigod,B

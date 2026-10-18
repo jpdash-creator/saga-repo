@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-technology-p08-summary-changes-from-12-tier-20",
+ "part": 8,
+ "area": 35,
+ "sequence_in_part": 35,
+ "title": "Summary of Changes from 12-Tier to 20-Tier Scale",
+ "domain": "technology",
+ "source_file": "Part_8_Technology_Scale_Law.md",
+ "start_line": 2682,
+ "end_line": 2776,
+ "line_count": 95,
+ "output_path": ".claude/skills/ssc-technology-p08-summary-changes-from-12-tier-20/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-cultivation-p05-foundational-principles-governing-mandate",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Technology-based combat requires Part 8 technology tier"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-governance-areas-overview",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Technology-based combat requires Part 8 technology tier"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-immutable-principles",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Technology-based combat requires Part 8 technology tier"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-combat-initiation-legitimacy",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Technology-based combat requires Part 8 technology tier"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-escalation-tier-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Technology-based combat requires Part 8 technology tier"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-engagement-recognition-mutuality-law",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Technology-based combat requires Part 8 technology tier"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-intensity-containment-boundaries",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Technology-based combat requires Part 8 technology tier"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-third-party-proxy-combat-rules",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Technology-based combat requires Part 8 technology tier"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-battlefield-spatial-cosmological-constraints",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Technology-based combat requires Part 8 technology tier"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-multi-faction-chaos-stabilization",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Technology-based combat requires Part 8 technology tier"
+  }
+ ]
+}

@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-CTP-001-01,Twist Weight Feeling,Soothing Throwarm,F1,Senior,A
+MV-INT-CTP-001-02,Skein Seat Rapping,Alert Frameside,F1,Senior,A
+MV-INT-CTP-001-03,Arm Rise Counting,Tenderhearted Torsion,F1,Senior,A
+MV-INT-CTP-001-04,Stop Beam Hide Wrapping,Resolute Axlepin,F1,Senior,A
+MV-INT-CTP-001-05,Torsion Surge Draw,Savage Armcup,F1,Senior,A
+MV-INT-CTP-001-06,Skein Peak Snap,Winchswat,F4,Senior,A
+MV-INT-CTP-002-01,Cup Return Catch,Armcupcordial,F4,Senior,A
+MV-INT-CTP-002-02,Pre-Staged Stone Roll,Ducking Arcflight,F1,Senior,A
+MV-INT-CTP-002-03,Heel Pawl Relatch,Stalwart Skein,F1,Senior,A
+MV-INT-CTP-002-04,Crank Handoff Swap,Rallying Winchdrum,F1,Senior,A
+MV-INT-CTP-002-05,Qi Loaded Cup Lift,Cooling Stoneload,F1,Senior,A
+MV-INT-CTP-002-06,Linked Winding Rhythm,Quickening Frameside,F1,Senior,A
+MV-INT-CTP-003-01,Heavy Shot Chest Lift,Armcuplinen,F4,Senior,A
+MV-INT-CTP-003-02,Greased Plank Loading,Quickening Basecradle,F1,Senior,A
+MV-INT-CTP-003-03,Parting Cup Strap,Armcuptonic,F4,Senior,A
+MV-INT-CTP-003-04,Low Arc Setting,Winchtonic,F4,Senior,A
+MV-INT-CTP-003-05,Frame Groan Listening,Quickening Releasepin,F1,Senior,A
+MV-INT-CTP-003-06,Weighted Cup Surge,Doughty Stonefall,F1,Senior,A
+MV-INT-CTP-003-07,Steep Heavy Fall,Acrid Winchdrum,F1,Senior,A
+MV-INT-CTP-004-01,Trail Rope Dragging,Draught Bombardment,F2,Warrior,B
+MV-INT-CTP-004-02,Pin and Wedge Locking,Sound Skein,F1,Warrior,B
+MV-INT-CTP-004-03,Frame Beam Crouch,Claywinch,F5,Warrior,B
+MV-INT-CTP-004-04,Crew Name Count,Knitting Axlepin,F1,Warrior,B
+MV-INT-CTP-004-05,Three Hand Turnabout,Grit Throwarm,F2,Warrior,B
+MV-INT-CTP-004-06,Qi Lightened Haul,Winchswerve,F4,Warrior,B
+MV-INT-CTP-004-07,Set and Loose Pairing,Sleetwinch,F5,Warrior,B
+MV-INT-CTP-005-01,Gravel Sack Filling,Skeincordial,F4,Warrior,B
+MV-INT-CTP-005-02,Seam Up Cup Seating,Releasepin Bandage,F3,Warrior,B
+MV-INT-CTP-005-03,Scatter Field Pegging,Candorwinch,F5,Warrior,B
+MV-INT-CTP-005-04,Loose Fist Stone Mix,Comet Ballistic,F2,Warrior,B
+MV-INT-CTP-005-05,Shallow Pocket Shaping,Purpose Stoneload,F2,Warrior,B
+MV-INT-CTP-005-06,Spread Fall Watching,Gap Armcup,F2,Warrior,B
+MV-INT-CTP-005-07,Qi Burst Scatter,Harsh Unwind,F1,Warrior,B
+MV-INT-CTP-005-08,Rattling Hail Pitch,Unwindslap,F4,Warrior,B
+MV-INT-CTP-006-01,Rod Chain Laying,Poise Torsion,F2,Warrior,B
+MV-INT-CTP-006-02,Link Count Reading,Humarmcup,F5,Warrior,B
+MV-INT-CTP-006-03,Knotted Range Cording,Sprout Stoneload,F2,Warrior,B
+MV-INT-CTP-006-04,Slope Correction Wedge,Basecradle Cordial,F3,Warrior,B
+MV-INT-CTP-006-05,Hung Plumb Sighting,Lunar Frameside,F2,Warrior,B
+MV-INT-CTP-006-06,Thud Mark Matching,Throwarm Cordial,F3,Warrior,B
+MV-INT-CTP-006-07,Qi Threaded Bearing,Gap Axlepin,F2,Warrior,B
+MV-INT-CTP-006-08,Chain Walking Volley,Draught Torque,F2,Warrior,B
+MV-INT-CTP-007-01,Flat Stone Pad Digging,Skeinlinen,F4,Warrior,B
+MV-INT-CTP-007-02,Wheel Pit Cutting,Sproutwinch,F5,Warrior,B
+MV-INT-CTP-007-03,Trail Spike Driving,Sprigarmcup,F5,Warrior,B
+MV-INT-CTP-007-04,Cross Lashing Haul,Purpose Winchdrum,F2,Warrior,B
+MV-INT-CTP-007-05,Empty Frame Shake Test,Skein Bandage,F3,Warrior,B
+MV-INT-CTP-007-06,Wet Hide Stretching,Armcup Hasp,F3,Warrior,B
+MV-INT-CTP-007-07,Qi Rooted Frame Set,Sprig Basecradle,F2,Warrior,B
+MV-INT-CTP-007-08,Carry Bar Heave,Patient Axlepin,F1,Warrior,B
+MV-INT-CTP-007-09,Seated Mount Throw,Shard Ballistic,F2,Warrior,B
+MV-INT-CTP-008-01,Arm Latch Dropping,Sproutarmcup,F5,Warrior,B
+MV-INT-CTP-008-02,Dry Hand Wiping,Sure Stoneload,F1,Warrior,B
+MV-INT-CTP-008-03,Long Sweep Rewind,Poiseskein,F5,Warrior,B
+MV-INT-CTP-008-04,Single Shake Cup Clearing,Torsion Poultice,F3,Warrior,B
+MV-INT-CTP-008-05,Counted Pawl Lifting,Dawnwinch,F5,Warrior,B
+MV-INT-CTP-008-06,Loader Two Pace Retreat,Grit Arcflight,F2,Warrior,B
+MV-INT-CTP-008-07,Shared Breath Pacing,Kindly Winchdrum,F1,Warrior,B
+MV-INT-CTP-008-08,Arm Cycle Surge,Acrid Arcflight,F1,Warrior,B
+MV-INT-CTP-008-09,Relay Qi Winding,Poise Basecradle,F2,Warrior,B
+MV-INT-CTP-008-10,Faltering Winder Relief,Brawn Unwind,F2,Warrior,B

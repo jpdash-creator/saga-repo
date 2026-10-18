@@ -1,0 +1,115 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-GUA-001-01,Line Breaking Stance,Fortifying Heavyblade,F1,Champion L1 Low,B
+MV-ADV-GUA-001-02,Blade Back Shove,Guanhook Plating,F3,Champion L1 Low,B
+MV-ADV-GUA-001-03,Line Splitting Chop,Mightcrest,F5,Champion L1 Low,B
+MV-ADV-GUA-001-04,Guard Stepping Pace,Might Longsweep,F2,Champion L1 Low,B
+MV-ADV-GUA-001-05,Rank Parting Sweep,Silt Rollcut,F2,Champion L1 Low,B
+MV-ADV-GUA-001-06,Haft Lever Throw,Chime Redtassel,F2,Champion L1 Low,B
+MV-ADV-GUA-001-07,Armor Seam Cleave,Harrowing Facet Guanpole,F6a,Champion L1 Low,B
+MV-ADV-GUA-001-08,Breaking Line Surge,Hourloom,F5,Champion L1 Low,B
+MV-ADV-GUA-002-01,Field Opening Stance,Counterspike Linctus,F3,Demigod L1 Low,B
+MV-ADV-GUA-002-02,Curved Blade Arc Cut,Gustcrest,F5,Demigod L1 Low,B
+MV-ADV-GUA-002-03,Pole Slide Guard,Thornloom,F5,Demigod L1 Low,B
+MV-ADV-GUA-002-04,Field Pacing Step,Might Crescentback,F2,Demigod L1 Low,B
+MV-ADV-GUA-002-05,Field Edge Extension,Lancing Slashdown,F1,Demigod L1 Low,B
+MV-ADV-GUA-002-06,Wide Wheel Parry,Equipoise Guantang,F2,Demigod L1 Low,B
+MV-ADV-GUA-002-07,Crescent Field Hook Drag,Toxin Bladewheel,F2,Demigod L1 Low,B
+MV-ADV-GUA-002-08,Ring of Edges,Dismantling Ironsweep,F2,Demigod L1 Low,B
+MV-ADV-GUA-002-09,Field Splitting Cleave,Guanbarrage,F4,Demigod L1 Low,B
+MV-ADV-GUA-003-01,Many Foes Ready Stance,Rejuvenating Polebelly,F1,Champion L6 Mid,B
+MV-ADV-GUA-003-02,Front Rank Sweep,Might Bladecollar,F2,Champion L6 Mid,B
+MV-ADV-GUA-003-03,Rear Guard Tail Jab,Hollow Tailspike,F2,Champion L6 Mid,B
+MV-ADV-GUA-003-04,Gap Reading Glance,Remnant Guanpole,F2,Champion L6 Mid,B
+MV-ADV-GUA-003-05,Shuffling Circle Step,Granite Longsweep,F2,Champion L6 Mid,B
+MV-ADV-GUA-003-06,Crowd Pushing Wheel,Raging Guantang,F1,Champion L6 Mid,B
+MV-ADV-GUA-003-07,Flank Switch Cut,Gustloom,F5,Champion L6 Mid,B
+MV-ADV-GUA-003-08,Pole Fence Hold,Heavyblade Hauberk,F3,Champion L6 Mid,B
+MV-ADV-GUA-003-09,Ring Breaking Charge,Hourcrest,F5,Champion L6 Mid,B
+MV-ADV-GUA-003-10,Many-Edge Reaping,Tuftassault,F4,Champion L6 Mid,B
+MV-ADV-GUA-004-01,Compiled Opening Guard,Implacable Redtassel,F1,Demigod L4 Low,B
+MV-ADV-GUA-004-02,Sloped Edge Slash,Raging Heavyswing,F1,Demigod L4 Low,B
+MV-ADV-GUA-004-03,Butt End Smash,Furrowing Slashdown,F1,Demigod L4 Low,B
+MV-ADV-GUA-004-04,Stride and Settle,Silt Tailspike,F2,Demigod L4 Low,B
+MV-ADV-GUA-004-05,Chain of Two Crescents,Ironhilt,F5,Demigod L4 Low,B
+MV-ADV-GUA-004-06,Counter Haft Turn,Crestcloak,F4,Demigod L4 Low,B
+MV-ADV-GUA-004-07,Heavy Pole Reaper,Cleaving Blaze Crescentback,F6a,Demigod L4 Low,B
+MV-ADV-GUA-004-08,Compiled Cut Cascade,Hour Bladecollar,F2,Demigod L4 Low,B
+MV-ADV-GUA-005-01,Twin River Stance,Crestremedy,F4,Ruler L1 Low,B
+MV-ADV-GUA-005-02,Paired Edge Cut,Granite Bladewheel,F2,Ruler L1 Low,B
+MV-ADV-GUA-005-03,Guandao River Bend Parry,Guangreave,F4,Ruler L1 Low,B
+MV-ADV-GUA-005-04,Guandao Basin Rim Pace,Guanhook Jaunt,F3,Ruler L1 Low,B
+MV-ADV-GUA-005-05,Hawk Sighting Along the Blade,Chime Counterspike,F2,Ruler L1 Low,B
+MV-ADV-GUA-005-06,Pole Fork Shove,Subduing Heavyswing,F1,Ruler L1 Low,B
+MV-ADV-GUA-005-07,Twin Tide Slash,Blazeguan,F5,Ruler L1 Low,B
+MV-ADV-GUA-005-08,Confluence Guard,Thorncrest,F5,Ruler L1 Low,B
+MV-ADV-GUA-005-09,Riverbank Sweep,Slagcrest,F5,Ruler L1 Low,B
+MV-ADV-GUA-005-10,Two Rivers Meeting Cleave,Lot Bladecollar,F2,Ruler L1 Low,B
+MV-ADV-GUA-005-11,Flood Edge Descent,Crestthrash,F4,Ruler L1 Low,B
+MV-ADV-GUA-006-01,Guandao Hawk Perch Stance,Daybreak Crescentback,F2,Demigod L2 Mid,B
+MV-ADV-GUA-006-02,Crescent Stooping Cut,Rumble Crescentback,F2,Demigod L2 Mid,B
+MV-ADV-GUA-006-03,Crescent Wingtip Parry,Torrent Guantang,F2,Demigod L2 Mid,B
+MV-ADV-GUA-006-04,Azure Circle Step,Torrent Bladewheel,F2,Demigod L2 Mid,B
+MV-ADV-GUA-006-05,Soaring Climb Cut,Iron Ironsweep,F2,Demigod L2 Mid,B
+MV-ADV-GUA-006-06,Talon Hook Snare,Hoarfrost Heavyswing,F2,Demigod L2 Mid,B
+MV-ADV-GUA-006-07,Pinion Guard,Enduring Heavyblade,F1,Demigod L2 Mid,B
+MV-ADV-GUA-006-08,Hawk Descent Cleave,Tempered Slashdown,F2,Demigod L2 Mid,B
+MV-ADV-GUA-006-09,Azure Sky Stoop,Silt Redtassel,F2,Demigod L2 Mid,B
+MV-ADV-GUA-007-01,Guandao Dual Track Stance,Intenttuft,F5,Champion L3 High,B
+MV-ADV-GUA-007-02,Left Track Cut,Sanguine Guanpole,F2,Champion L3 High,B
+MV-ADV-GUA-007-03,Right Track Cut,Counterspike Thrash,F3,Champion L3 High,B
+MV-ADV-GUA-007-04,Paired Pole Guard,Granite Guanhook,F2,Champion L3 High,B
+MV-ADV-GUA-007-05,Track Switching Step,Glancing Polebelly,F1,Champion L3 High,B
+MV-ADV-GUA-007-06,Twin Pace Advance,Might Tailspike,F2,Champion L3 High,B
+MV-ADV-GUA-007-07,Crossing Tracks Slash,Rumble Counterspike,F2,Champion L3 High,B
+MV-ADV-GUA-007-08,Double Hook Pull,Chime Bladecollar,F2,Champion L3 High,B
+MV-ADV-GUA-007-09,Track Binding Shaft,Hoarfrost Polebelly,F2,Champion L3 High,B
+MV-ADV-GUA-007-10,Pairing Counter,Tuftcuirass,F4,Champion L3 High,B
+MV-ADV-GUA-007-11,Two Track Closing Cut,Hour Slashdown,F2,Champion L3 High,B
+MV-ADV-GUA-007-12,Track Closing Sweep,Needling Guantang,F1,Champion L3 High,B
+MV-ADV-GUA-008-01,Crescent Basin Floor Stance,Heartening Counterspike,F1,Demigod L7 Low,B
+MV-ADV-GUA-008-02,Rim Cut,Granite Rollcut,F2,Demigod L7 Low,B
+MV-ADV-GUA-008-03,Basin Wall Guard,Hiltcloak,F4,Demigod L7 Low,B
+MV-ADV-GUA-008-04,Valley Descent Step,Heavyblade Canter,F3,Demigod L7 Low,B
+MV-ADV-GUA-008-05,Basin Wide Arc,Guanhook Assault,F3,Demigod L7 Low,B
+MV-ADV-GUA-008-06,Crescent Rim Hook Pull,Toxin Heavyblade,F2,Demigod L7 Low,B
+MV-ADV-GUA-008-07,Basin Filling Wheel,Silt Heavyswing,F2,Demigod L7 Low,B
+MV-ADV-GUA-008-08,Azure Basin Crescent Fall,Might Guantang,F2,Demigod L7 Low,B
+MV-ADV-GUA-009-01,Wind-Sworn Pole Blade Stance,Redtassel Remedy,F3,Demigod L3 Low,B
+MV-ADV-GUA-009-02,Bearing Taken Crescent Cut,Granite Crescentback,F2,Demigod L3 Low,B
+MV-ADV-GUA-009-03,Gale Parry,Chimeloom,F5,Demigod L3 Low,B
+MV-ADV-GUA-009-04,Crescent Plateau Edge Pace,Gustguan,F5,Demigod L3 Low,B
+MV-ADV-GUA-009-05,Wind Reading Sense,Invigorating Polebelly,F1,Demigod L3 Low,B
+MV-ADV-GUA-009-06,Crescent Crosswind Slash,Tempered Longsweep,F2,Demigod L3 Low,B
+MV-ADV-GUA-009-07,Oathline Guard,Enduring Redtassel,F1,Demigod L3 Low,B
+MV-ADV-GUA-009-08,Gale Breath Hook,Toxin Ironsweep,F2,Demigod L3 Low,B
+MV-ADV-GUA-009-09,Gale Edge Reaping,Guanassault,F4,Demigod L3 Low,B
+MV-ADV-GUA-009-10,Sworn Wind Cleave,Sanguine Bladecollar,F2,Demigod L3 Low,B
+MV-ADV-GUA-010-01,Open Ground Crescent Stance,Vital Crescentback,F2,Ruler L4 Low,B
+MV-ADV-GUA-010-02,Plateau Sweep,Blaze Longsweep,F2,Ruler L4 Low,B
+MV-ADV-GUA-010-03,Open Pole Guard,Thorntuft,F5,Ruler L4 Low,B
+MV-ADV-GUA-010-04,Crescent Bearing Held Pace,Silt Slashdown,F2,Ruler L4 Low,B
+MV-ADV-GUA-010-05,Oath Held Cut,Heavyswing Assault,F3,Ruler L4 Low,B
+MV-ADV-GUA-010-06,Wind Shoulder Throw,Chimetuft,F5,Ruler L4 Low,B
+MV-ADV-GUA-010-07,Cliff-Shed Guandao Turn,Counterspike Hauberk,F3,Ruler L4 Low,B
+MV-ADV-GUA-010-08,Crescent Plateau Rim Cleave,Scything Guanpole,F1,Ruler L4 Low,B
+MV-ADV-GUA-010-09,Open Plateau Reaping,Splitting Polebelly,F1,Ruler L4 Low,B
+MV-ADV-GUA-011-01,Bearing Fix Stance,Crestelixir,F4,Demigod L9 Low,B
+MV-ADV-GUA-011-02,Gale Line Cut,Rumbletuft,F5,Demigod L9 Low,B
+MV-ADV-GUA-011-03,Held Bearing Block,Immovable Heavyblade,F1,Demigod L9 Low,B
+MV-ADV-GUA-011-04,Leeward Step,Soaring Ironsweep,F1,Demigod L9 Low,B
+MV-ADV-GUA-011-05,Windward Pole Blade Thrust,Loomassault,F4,Demigod L9 Low,B
+MV-ADV-GUA-011-06,Tailwind Pole Spin,Equipoise Bladecollar,F2,Demigod L9 Low,B
+MV-ADV-GUA-011-07,Gale Turning Slash,Guanpole Maelstrom,F3,Demigod L9 Low,B
+MV-ADV-GUA-011-08,Crescent Bearing Lock Bind,Gyvehilt,F5,Demigod L9 Low,B
+MV-ADV-GUA-011-09,Pole Wind Break Guard,Redtassel Hauberk,F3,Demigod L9 Low,B
+MV-ADV-GUA-011-10,Gale Force Cleave,Severing Bladewheel,F1,Demigod L9 Low,B
+MV-ADV-GUA-011-11,Held Bearing Reaping Chain,Doctrine Guanhook,F2,Demigod L9 Low,B
+MV-ADV-GUA-012-01,Wind-Taken Poise,Vital Guanpole,F2,Champion L8 Low,B
+MV-ADV-GUA-012-02,Feather Edge Slash,Cleaving Tailspike,F1,Champion L8 Low,B
+MV-ADV-GUA-012-03,Wind Catch Parry,Chime Crescentback,F2,Champion L8 Low,B
+MV-ADV-GUA-012-04,Guandao Drift Pace,Glancing Rollcut,F1,Champion L8 Low,B
+MV-ADV-GUA-012-05,Gust Hook Pull,Chime Ironsweep,F2,Champion L8 Low,B
+MV-ADV-GUA-012-06,Rising Wind Cut,Blaze Heavyblade,F2,Champion L8 Low,B
+MV-ADV-GUA-012-07,Wind Cutting Cleave,Harrowing Heavyswing,F1,Champion L8 Low,B
+MV-ADV-GUA-012-08,Wind-Taken Pole Whirl,Granite Guantang,F2,Champion L8 Low,B
+MV-ADV-GUA-003-03,Hollow Tailspike,Lancing Tailspike,F2,Champion L6 Mid,B

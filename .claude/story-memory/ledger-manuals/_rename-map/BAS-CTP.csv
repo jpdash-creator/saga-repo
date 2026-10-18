@@ -1,0 +1,64 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-CTP-001-01,Arm Clearance Stance,Skeinskitter,F4,T1 Unawakened,A
+MV-BAS-CTP-001-02,Cup Seating Lift,Steady Releasepin,F1,T1 Unawakened,A
+MV-BAS-CTP-001-03,Pawl Catch Ear Check,Winchgauge,F4,T1 Unawakened,A
+MV-BAS-CTP-001-04,Side Lanyard Pull,Armcuphit,F4,T1 Unawakened,A
+MV-BAS-CTP-001-05,Wheel Wedge Drive,Measured Torsion,F1,T1 Unawakened,A
+MV-BAS-CTP-002-01,Crew Call Echo,Warm Winchdrum,F1,T1 Skin,A
+MV-BAS-CTP-002-02,Loader Step Count,Light Throwarm,F1,T1 Skin,A
+MV-BAS-CTP-002-03,Winder Pair Pace,Smooth Skein,F1,T1 Skin,A
+MV-BAS-CTP-002-04,Clear Shout Hold,Folded Armcup,F1,T1 Skin,A
+MV-BAS-CTP-002-05,Stone Pile Sorting,Judging Frameside,F1,T1 Skin,A
+MV-BAS-CTP-002-06,Rest Beat Rotation,Judging Axlepin,F1,T1 Skin,A
+MV-BAS-CTP-003-01,Crank Grip Set,Steady Basecradle,F1,T1 Muscle,A
+MV-BAS-CTP-003-02,Braced Foot Winding,Soft Axlepin,F1,T1 Muscle,A
+MV-BAS-CTP-003-03,Rope Coil Reading,Even Skein,F1,T1 Muscle,A
+MV-BAS-CTP-003-04,Half Turn Pause,Hooding Stoneload,F1,T1 Muscle,A
+MV-BAS-CTP-003-05,Tooth By Tooth Walk-Back,Smooth Stoneload,F1,T1 Muscle,A
+MV-BAS-CTP-003-06,Drum Axle Greasing,Armcupreview,F4,T1 Muscle,A
+MV-BAS-CTP-004-01,Stone Rounding Strike,Short Bombardment,F1,T1 Tendon,A
+MV-BAS-CTP-004-02,Twice Hefted Weighing,Smooth Frameside,F1,T1 Tendon,A
+MV-BAS-CTP-004-03,Hip Cradle Carry,Deep Armcup,F1,T1 Tendon,A
+MV-BAS-CTP-004-04,Two Step Cup Drop,Judging Basecradle,F1,T1 Tendon,A
+MV-BAS-CTP-004-05,Cup Rim Feeling,Gentle Winchdrum,F1,T1 Tendon,A
+MV-BAS-CTP-004-06,Plank Ramp Roll,Armcuphop,F4,T1 Tendon,A
+MV-BAS-CTP-004-07,Dry Stone Test Throw,Arcflight Blow,F3,T1 Tendon,A
+MV-BAS-CTP-005-01,Pawl Tooth Seating,Torsion Cowl,F3,T1 Bone,A
+MV-BAS-CTP-005-02,Worn Tooth Thumbnail Read,Watching Armcup,F1,T1 Bone,A
+MV-BAS-CTP-005-03,Aloud Unwinding Count,Kind Throwarm,F1,T1 Bone,A
+MV-BAS-CTP-005-04,Pawl Pin Hammering,Soft Skein,F1,T1 Bone,A
+MV-BAS-CTP-005-05,Held Arm Vigil,Skeincowl,F4,T1 Bone,A
+MV-BAS-CTP-006-01,Qi Eased Crank Draw,Throwarm Count,F3,Senior L1 Low,A
+MV-BAS-CTP-006-02,Breath Turn Matching,Armcupgauge,F4,Senior L1 Low,A
+MV-BAS-CTP-006-03,Winder Qi Letting-Go,Even Stoneload,F1,Senior L1 Low,A
+MV-BAS-CTP-006-04,Rope Creak Sensing,Skeinreview,F4,Senior L1 Low,A
+MV-BAS-CTP-006-05,Steadying Palm Press,Raised Frameside,F1,Senior L1 Low,A
+MV-BAS-CTP-006-06,Shot Weight Feeling,Even Torsion,F1,Senior L1 Low,A
+MV-BAS-CTP-007-01,Cup Lip Alignment,Skeinnote,F4,Senior L2 Mid,A
+MV-BAS-CTP-007-02,Pouch Thirds Folding,Winchdrum Note,F3,Senior L2 Mid,A
+MV-BAS-CTP-007-03,Early Slip Shift,Winchnote,F4,Senior L2 Mid,A
+MV-BAS-CTP-007-04,Late Lift Release,Firm Ballistic,F1,Senior L2 Mid,A
+MV-BAS-CTP-007-05,Qi Flicked Catch Snap,Sharp Stonefall,F1,Senior L2 Mid,A
+MV-BAS-CTP-007-06,Stop Beam Cushioning,Solid Axlepin,F1,Senior L2 Mid,A
+MV-BAS-CTP-007-07,Empty Cup Lowering,Armcupnote,F4,Senior L2 Mid,A
+MV-BAS-CTP-008-01,Stake Line Driving,Winchreview,F4,Senior L3 Low,A
+MV-BAS-CTP-008-02,Bearing Cord Stretch,Steady Armcup,F1,Senior L3 Low,A
+MV-BAS-CTP-008-03,Cloth Flag Reading,Winchcount,F4,Senior L3 Low,A
+MV-BAS-CTP-008-04,First Stone Proving,Firm Releasepin,F1,Senior L3 Low,A
+MV-BAS-CTP-008-05,Pawl Tooth Stepping,Deep Basecradle,F1,Senior L3 Low,A
+MV-BAS-CTP-008-06,Front Wedge Tilting,Skeincount,F4,Senior L3 Low,A
+MV-BAS-CTP-008-07,Impact Mark Sweep,Skeingauge,F4,Senior L3 Low,A
+MV-BAS-CTP-008-08,Three Stone Settling,Gnawing Unwind,F1,Senior L3 Low,A
+MV-BAS-CTP-009-01,Bed Plumb Reading,Deep Releasepin,F1,Senior L4 High,A
+MV-BAS-CTP-009-02,Sleeper Beam Packing,Soft Throwarm,F1,Senior L4 High,A
+MV-BAS-CTP-009-03,Rear Strut Wedging,Solid Frameside,F1,Senior L4 High,A
+MV-BAS-CTP-009-04,Frame Pin Tapping,Calm Releasepin,F1,Senior L4 High,A
+MV-BAS-CTP-009-05,Qi Warmed Joint Seating,Armcupcount,F4,Senior L4 High,A
+MV-BAS-CTP-009-06,Soft Ground Reading,Stoneload Review,F3,Senior L4 High,A
+MV-BAS-CTP-010-01,Skein Thumb Press,Smooth Winchdrum,F1,Senior L5 Mid,A
+MV-BAS-CTP-010-02,Twist Count Marking,Basecradle Review,F3,Senior L5 Mid,A
+MV-BAS-CTP-010-03,Fiber Oil Working,Calm Skein,F1,Senior L5 Mid,A
+MV-BAS-CTP-010-04,Peg Strike Sounding,Gentle Axlepin,F1,Senior L5 Mid,A
+MV-BAS-CTP-010-05,Even Pair Cranking,Gentle Basecradle,F1,Senior L5 Mid,A
+MV-BAS-CTP-010-06,Frayed Strand Cutting,Upward Torque,F1,Senior L5 Mid,A
+MV-BAS-CTP-010-07,Slack Side Halt,Axlepin Husk,F3,Senior L5 Mid,A

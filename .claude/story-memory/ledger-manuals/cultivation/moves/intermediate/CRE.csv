@@ -1,0 +1,27 @@
+move_id,manual_id,affinity_id,seq,name,move_type,function,form,cost_class,unlock_realm,description,status,first_area
+CMV-INT-CRE-001-01,CMAN-INT-CRE-001,CRE,01,Wrought Knuckle,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Hammer a knuckle of hard qi onto the fist and strike through the guard.,Active,Not yet established
+CMV-INT-CRE-001-02,CMAN-INT-CRE-001,CRE,02,Beaten Plate,Basic,Defense:Shield,INSTANT,MINIMAL,T1 Unawakened,Hammer a broad plate of qi out of the air before the chest.,Active,Not yet established
+CMV-INT-CRE-001-03,CMAN-INT-CRE-001,CRE,03,Rivet Stride,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Make a stud of qi in the ground and push off it into a quick pace.,Active,Not yet established
+CMV-INT-CRE-001-04,CMAN-INT-CRE-001,CRE,04,Temper Grip,Basic,Support:Empower,CHANNELED,MINIMAL,T1 Unawakened,Make the grip of the hand tough and sure so a weapon cannot be wrenched free.,Active,Not yet established
+CMV-INT-CRE-001-05,CMAN-INT-CRE-001,CRE,05,Wrought Slab,Intermediate,Defense:Shield,INSTANT,MODERATE,Senior L1 Low,Hammer a tall wall of qi from the ground to stop a charge of several foes.,Active,Not yet established
+CMV-INT-CRE-001-06,CMAN-INT-CRE-001,CRE,06,Wrought Hammer,Intermediate,Attack:Strike,INSTANT,MODERATE,Senior L1 Low,Make a heavy hammer of qi and bring it down in one smashing blow.,Active,Not yet established
+CMV-INT-CRE-002-01,CMAN-INT-CRE-002,CRE,01,Step Slab,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Make a flat slab of qi under the foot and ride it a pace across the ground.,Active,Not yet established
+CMV-INT-CRE-002-02,CMAN-INT-CRE-002,CRE,02,Slab Strike,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Make a slab beside the fist and swing the whole weight of it into the foe.,Active,Not yet established
+CMV-INT-CRE-002-03,CMAN-INT-CRE-002,CRE,03,Tread Brace,Basic,Defense:Shield,INSTANT,MINIMAL,T1 Unawakened,Make firm footing under both feet so a hard shove cannot unseat the stance.,Active,Not yet established
+CMV-INT-CRE-002-04,CMAN-INT-CRE-002,CRE,04,Footing Fix,Basic,Support:Empower,CHANNELED,MINIMAL,T1 Unawakened,Fix the ground beneath a fighter in place so their stance gains weight and poise.,Active,Not yet established
+CMV-INT-CRE-002-05,CMAN-INT-CRE-002,CRE,05,Furrow Snare,Basic,Control:Disrupt,INSTANT,LOW,T1 Unawakened,Make a shallow furrow across a running foe's path so the stride catches in it.,Active,Not yet established
+CMV-INT-CRE-002-06,CMAN-INT-CRE-002,CRE,06,Raised Barrier,Intermediate,Defense:Shield,INSTANT,MODERATE,Senior L1 Low,Raise a long low barrier of made stone that blocks a line of attackers.,Active,Not yet established
+CMV-INT-CRE-002-07,CMAN-INT-CRE-002,CRE,07,Sunken Floor,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,Unmake the footing under a foe so the ground drops half a pace beneath them.,Active,Not yet established
+CMV-INT-CRE-003-01,CMAN-INT-CRE-003,CRE,01,Kindle Palm,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Kindle a bright knot of new force in the palm and strike with it.,Active,Not yet established
+CMV-INT-CRE-003-02,CMAN-INT-CRE-003,CRE,02,Kindle Guard,Basic,Defense:Deflect,INSTANT,MINIMAL,T1 Unawakened,Kindle a flash of force at the forearm that pushes a blow off its line.,Active,Not yet established
+CMV-INT-CRE-003-03,CMAN-INT-CRE-003,CRE,03,Kindle Stride,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Kindle a push of force at the heel and cover a long pace.,Active,Not yet established
+CMV-INT-CRE-003-04,CMAN-INT-CRE-003,CRE,04,Kindle Mend,Basic,Support:Heal,CHANNELED,LOW,T1 Unawakened,Kindle warm new force in a hurt limb to close small cuts and ease the pain.,Active,Not yet established
+CMV-INT-CRE-003-05,CMAN-INT-CRE-003,CRE,05,Kindle Bolt,Intermediate,Attack:Projectile,INSTANT,MODERATE,Senior L1 Low,Kindle a bolt of force in the hand and throw it at a distant foe.,Active,Not yet established
+CMV-INT-CRE-003-06,CMAN-INT-CRE-003,CRE,06,Kindle Burst,Intermediate,Attack:Area,INSTANT,MODERATE,Senior L1 Low,Kindle a burst of new force that blows outward and flings those nearby back.,Active,Not yet established
+CMV-INT-CRE-004-01,CMAN-INT-CRE-004,CRE,01,Remake Skin,Basic,Support:Heal,CHANNELED,MINIMAL,T1 Unawakened,Make new skin over a torn patch of flesh on an ally or the user.,Active,Not yet established
+CMV-INT-CRE-004-02,CMAN-INT-CRE-004,CRE,02,Stanch Flow,Basic,Support:Heal,INSTANT,MINIMAL,T1 Unawakened,Make a plug of new flesh in a bleeding cut to hold the blood in the body.,Active,Not yet established
+CMV-INT-CRE-004-03,CMAN-INT-CRE-004,CRE,03,Quick Guard,Basic,Defense:Shield,INSTANT,MINIMAL,T1 Unawakened,Make a hard shell of qi across the back of the hand to take a stab.,Active,Not yet established
+CMV-INT-CRE-004-04,CMAN-INT-CRE-004,CRE,04,Rebuilt Fist,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Make the fist dense and whole as if newly built and strike with its fresh weight.,Active,Not yet established
+CMV-INT-CRE-004-05,CMAN-INT-CRE-004,CRE,05,Sure Stride,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Make the leg strong and light for one pace and lengthen the step.,Active,Not yet established
+CMV-INT-CRE-004-06,CMAN-INT-CRE-004,CRE,06,Purge Taint,Intermediate,Support:Cleanse,CHANNELED,LOW,Senior L1 Low,Make clean blood in the veins of an ally and drive poison or taint out through the skin.,Active,Not yet established
+CMV-INT-CRE-004-07,CMAN-INT-CRE-004,CRE,07,Remake Bone,Intermediate,Support:Heal,CHANNELED,MODERATE,Senior L1 Low,Make new bone about a clean break in an ally's limb and knit it whole.,Active,Not yet established

@@ -1,0 +1,137 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-STI-001-01,Twin Court Salute Guard,Facet Tinyquill,F2,Demigod,B
+MV-ELI-STI-001-02,Court Line Needle Jab,Hollow Probe,F2,Demigod,B
+MV-ELI-STI-001-03,Pair Count Sidestep,Granite Needlerod,F2,Demigod,B
+MV-ELI-STI-001-04,Mirrored Wrist Tap,Rumble Slimshaft,F2,Demigod,B
+MV-ELI-STI-001-05,Court Thrust and Return,Hollowrodtip,F5,Demigod,B
+MV-ELI-STI-001-06,Twin Hand Redirect,Murkrodtip,F5,Demigod,B
+MV-ELI-STI-001-07,Court Floor Circle,Gustseam,F5,Demigod,B
+MV-ELI-STI-001-08,Pair Arm Threading,Vengeful Spikeguard,F1,Demigod,B
+MV-ELI-STI-001-09,Court Echo Counter,Unbowed Hairpoint,F1,Demigod,B
+MV-ELI-STI-001-10,Silent Twin Court Needle,Facetthread,F5,Demigod,B
+MV-ELI-STI-002-01,Hawk Wing Fold Needle Guard,Ironreed,F5,Demigod,B
+MV-ELI-STI-002-02,Updraft Rise Jab,Hollow Rodbase,F2,Demigod,B
+MV-ELI-STI-002-03,Azure Sky Glance,Verity Waxgrip,F2,Demigod,B
+MV-ELI-STI-002-04,Plummet Needle Thrust,Reedruin,F4,Demigod,B
+MV-ELI-STI-002-05,Talon Close Pin,Mastering Stitch,F1,Demigod,B
+MV-ELI-STI-002-06,Wing Beat Needle Retreat,Torrential Pin,F1,Demigod,B
+MV-ELI-STI-002-07,Hawk Shadow Strike,Nova Thread,F2,Demigod,B
+MV-ELI-STI-002-08,Azure Dive Rebound,Silt Rodtip,F2,Demigod,B
+MV-ELI-STI-002-09,Hawk Fall Flash Strike,Phantom Nova Seam,F6a,Demigod,B
+MV-ELI-STI-003-01,Two Track Hollow Stance,Thorn Tinyquill,F2,Demigod,B
+MV-ELI-STI-003-02,Left Track Probe,Eviscerating Triprism,F1,Demigod,B
+MV-ELI-STI-003-03,Right Track Probe,Corroding Boltpoint,F1,Demigod,B
+MV-ELI-STI-003-04,Hollow Point Retire,Phantom Rodbase,F1,Demigod,B
+MV-ELI-STI-003-05,Track Switch Breath,Vitalreed,F5,Demigod,B
+MV-ELI-STI-003-06,Crossing Track Pierce,Iron Hairpoint,F2,Demigod,B
+MV-ELI-STI-003-07,Hollow Guard Slip,Torrent Rodtip,F2,Demigod,B
+MV-ELI-STI-003-08,Track Pull Draw,Ponderous Boltpoint,F2,Demigod,B
+MV-ELI-STI-003-09,Hollow Bored Pierce,Rumble Stitch,F2,Demigod,B
+MV-ELI-STI-003-10,Two Track Sealing Stab,Numbing Needlerod,F1,Demigod,B
+MV-ELI-STI-003-11,Confluence Needle Point,Spikeguard Devastation,F3,Demigod,B
+MV-ELI-STI-004-01,Basin Edge Needle Stance,Hoarfrost Waxgrip,F2,Demigod,B
+MV-ELI-STI-004-02,Water Level Needle Hold,Unbudging Slimshaft,F1,Demigod,B
+MV-ELI-STI-004-03,Shallow Basin Prick,Decimating Thread,F1,Demigod,B
+MV-ELI-STI-004-04,Overflow Sidestep,Might Probe,F2,Demigod,B
+MV-ELI-STI-004-05,Basin Floor Plant,Vitalrodtip,F5,Demigod,B
+MV-ELI-STI-004-06,Deepening Pressure Thrust,Facetdarn,F5,Demigod,B
+MV-ELI-STI-004-07,Basin Catch Needle Parry,Indomitable Triprism,F1,Demigod,B
+MV-ELI-STI-004-08,Drain Away Retreat,Granite Pin,F2,Demigod,B
+MV-ELI-STI-004-09,Still Pool Pin,Probe Fortitude,F3,Demigod,B
+MV-ELI-STI-004-10,Basin Swell Pierce,Hollow Pin,F2,Demigod,B
+MV-ELI-STI-004-11,Brimming Needle Flurry,Ponderous Needlerod,F2,Demigod,B
+MV-ELI-STI-004-12,Deep Basin Falling Point,Facetreed,F5,Demigod,B
+MV-ELI-STI-005-01,River Mouth Entry,Ghosting Seam,F1,Demigod,B
+MV-ELI-STI-005-02,Stream Line Thrust,Proberuin,F4,Demigod,B
+MV-ELI-STI-005-03,Bank Hold Needle Guard,Facet Rodbase,F2,Demigod,B
+MV-ELI-STI-005-04,Current Pace Pierce,Tempered Seam,F2,Demigod,B
+MV-ELI-STI-005-05,Eddy Turn Needle Parry,Gust Slimshaft,F2,Demigod,B
+MV-ELI-STI-005-06,Ford Crossing Needle Step,Lightning Spikeguard,F1,Demigod,B
+MV-ELI-STI-005-07,River Gap Threading,Darn Havoc,F3,Demigod,B
+MV-ELI-STI-005-08,Undertow Wrist Bind,Maiming Tinyquill,F1,Demigod,B
+MV-ELI-STI-005-09,River Run Needle,Expanse Darn,F2,Demigod,B
+MV-ELI-STI-006-01,Paired Guard Pose,Flintlike Hairpoint,F1,Demigod,B
+MV-ELI-STI-006-02,Pinprick Opening,Rumble Darn,F2,Demigod,B
+MV-ELI-STI-006-03,Free Hand Check,Waxgrip Mettle,F3,Demigod,B
+MV-ELI-STI-006-04,Pinprick Pair Advance,Granite Triprism,F2,Demigod,B
+MV-ELI-STI-006-05,Prick Return Step,Pinblink,F4,Demigod,B
+MV-ELI-STI-006-06,Guard Break Pinprick,Rumble Boltpoint,F2,Demigod,B
+MV-ELI-STI-006-07,Two Hand Cover Slip,Impenetrable Boltpoint,F1,Demigod,B
+MV-ELI-STI-006-08,Pair Circle Prick,Stitchhavoc,F4,Demigod,B
+MV-ELI-STI-006-09,Paired Sleeve Tug,Hoarfrost Rodtip,F2,Demigod,B
+MV-ELI-STI-006-10,Guard and Pierce at Once,Probewrath,F4,Demigod,B
+MV-ELI-STI-006-11,Hand Switch Pinprick Burst,Hollow Thread,F2,Demigod,B
+MV-ELI-STI-006-12,Pinprick Cascade,Hairpoint Wrath,F3,Demigod,B
+MV-ELI-STI-006-13,Twin Guard Sealing Pinprick,Deed Slimshaft,F2,Demigod,B
+MV-ELI-STI-007-01,Sworn Wind Needle Stance,Rodtipspine,F4,Demigod,B
+MV-ELI-STI-007-02,Wind Needle Jab,Facet Probe,F2,Demigod,B
+MV-ELI-STI-007-03,Bearing Step Aside,Pin Glimmer,F3,Demigod,B
+MV-ELI-STI-007-04,Oath Breath Needle Hold,Rodbase Premonition,F3,Demigod,B
+MV-ELI-STI-007-05,Oath Thread Pierce,Rodtipwrath,F4,Demigod,B
+MV-ELI-STI-007-06,Gale Needle Edge Parry,Evergreen Spikeguard,F1,Demigod,B
+MV-ELI-STI-007-07,Wind Shear Retreat,Threadblink,F4,Demigod,B
+MV-ELI-STI-007-08,Sworn Gust Pierce,Shattering Waxgrip,F1,Demigod,B
+MV-ELI-STI-007-09,Wind Knot Pin,Thornpin,F5,Demigod,B
+MV-ELI-STI-007-10,Narrow Wind Oath Thrust,Thread Reckoning,F3,Demigod,B
+MV-ELI-STI-008-01,Oath Bearing Square-Up,Triprism Durance,F3,Demigod,B
+MV-ELI-STI-008-02,Bearing Line Poke,Rodtiphavoc,F4,Demigod,B
+MV-ELI-STI-008-03,Held Line Sidestep,Silt Seam,F2,Demigod,B
+MV-ELI-STI-008-04,Oath Palm Press,Mayhem Tinyquill,F2,Demigod,B
+MV-ELI-STI-008-05,Steady Needle Bearing Breath,Might Slimshaft,F2,Demigod,B
+MV-ELI-STI-008-06,Bearing Chase Pierce,Iron Boltpoint,F2,Demigod,B
+MV-ELI-STI-008-07,Oath Needle Guard Turn,Inexorable Hairpoint,F1,Demigod,B
+MV-ELI-STI-008-08,Wind Drift Close,Ghosting Stitch,F1,Demigod,B
+MV-ELI-STI-008-09,Oath Line Threading,Nova Darn,F2,Demigod,B
+MV-ELI-STI-008-10,Bearing Break Flurry,Hourpin,F5,Demigod,B
+MV-ELI-STI-008-11,Unwavering Bearing Needle,Hollow Spikeguard,F2,Demigod,B
+MV-ELI-STI-009-01,Open Sky Needle Guard,Awlvalor,F4,Demigod,B
+MV-ELI-STI-009-02,Open Field Jab,Rumbleawl,F5,Demigod,B
+MV-ELI-STI-009-03,Wind Edge Needle Step,Gust Probe,F2,Demigod,B
+MV-ELI-STI-009-04,Open Ground Lunge,Darnruin,F4,Demigod,B
+MV-ELI-STI-009-05,Sky Line Parry,Gust Tinyquill,F2,Demigod,B
+MV-ELI-STI-009-06,Boundless Circle Step,Reedglare,F4,Demigod,B
+MV-ELI-STI-009-07,Open Run Needle,Hollow Seam,F2,Demigod,B
+MV-ELI-STI-009-08,Wide Sky Pin,Gyvethread,F5,Demigod,B
+MV-ELI-STI-009-09,No Walls Needle Stroke,Unseen Rumble Thread,F6a,Demigod,B
+MV-ELI-STI-010-01,Long Bearing Set,Awlspine,F4,Demigod,B
+MV-ELI-STI-010-02,Bearing Reach Jab,Needlerod Scourge,F3,Demigod,B
+MV-ELI-STI-010-03,Distance Hold Step,Stitch Whirlpool,F3,Demigod,B
+MV-ELI-STI-010-04,Point Return Guard,Iron Rodtip,F2,Demigod,B
+MV-ELI-STI-010-05,Needle Bearing Check Glance,Waning Triprism,F2,Demigod,B
+MV-ELI-STI-010-06,Far Bearing Thrust,Rumble Pin,F2,Demigod,B
+MV-ELI-STI-010-07,Needle Cross Bearing Parry,Chimereed,F5,Demigod,B
+MV-ELI-STI-010-08,Needle Bearing Shift Slide,Gust Needlerod,F2,Demigod,B
+MV-ELI-STI-010-09,Line Anchor Pin,Thorn Stitch,F2,Demigod,B
+MV-ELI-STI-010-10,Long Line Needle Pierce,Ironseam,F5,Demigod,B
+MV-ELI-STI-010-11,Bearing Rain Pricks,Intentrodtip,F5,Demigod,B
+MV-ELI-STI-010-12,Longest Reach Point,Tempered Hairpoint,F2,Demigod,B
+MV-ELI-STI-011-01,Plateau Edge Needle Stance,Thorn Waxgrip,F2,Demigod,B
+MV-ELI-STI-011-02,Pinpoint Wind Jab,Hellish Rodbase,F1,Demigod,B
+MV-ELI-STI-011-03,Ridge Side Step,Dazzling Rodtip,F1,Demigod,B
+MV-ELI-STI-011-04,Updraft Breath Steady,Needlerod Vigil,F3,Demigod,B
+MV-ELI-STI-011-05,Plateau Rush Prick,Rodtipscourge,F4,Demigod,B
+MV-ELI-STI-011-06,Ridge Wind Deflect,Chime Boltpoint,F2,Demigod,B
+MV-ELI-STI-011-07,Edge Fall Retreat,Vanishing Triprism,F1,Demigod,B
+MV-ELI-STI-011-08,Pinpoint Through Gale,Ironprobe,F5,Demigod,B
+MV-ELI-STI-011-09,Crosswind Entry Stab,Unseen Pin,F1,Demigod,B
+MV-ELI-STI-011-10,Plateau Pinpoint Stroke,Punishing Seam,F1,Demigod,B
+MV-ELI-STI-012-01,Wind-Sworn Salute Guard,Slimshaft Tenacity,F3,Demigod,B
+MV-ELI-STI-012-02,Sworn Point Jab,Tempered Waxgrip,F2,Demigod,B
+MV-ELI-STI-012-03,Oath Needle Step Forward,Might Spikeguard,F2,Demigod,B
+MV-ELI-STI-012-04,Wind Slack Withdraw,Might Darn,F2,Demigod,B
+MV-ELI-STI-012-05,Sworn Grip Settle,Daybreak Rodtip,F2,Demigod,B
+MV-ELI-STI-012-06,Gale Needle Thread Thrust,Tempered Tinyquill,F2,Demigod,B
+MV-ELI-STI-012-07,Oath Cover Turn,Equipoise Triprism,F2,Demigod,B
+MV-ELI-STI-012-08,Wind Drift Pin,Suffocating Thread,F1,Demigod,B
+MV-ELI-STI-012-09,Bearing Circle Slide,Siltprobe,F5,Demigod,B
+MV-ELI-STI-012-10,Sworn Wind Skewer,Rumble Probe,F2,Demigod,B
+MV-ELI-STI-012-11,Gale Oath Pair Pierce,Nova Spikeguard,F2,Demigod,B
+MV-ELI-STI-012-12,Storm of Sworn Pricks,Mangling Boltpoint,F1,Demigod,B
+MV-ELI-STI-012-13,Wind-Sworn Last Point,Booming Facet Needlerod,F6a,Demigod,B
+MV-ELI-STI-001-02,Hollow Probe,Honed Probe,F2,Demigod,B
+MV-ELI-STI-002-02,Hollow Rodbase,Forged Rodbase,F2,Demigod,B
+MV-ELI-STI-004-10,Hollow Pin,Tempered Pin,F2,Demigod,B
+MV-ELI-STI-005-09,Expanse Darn,Honed Darn,F2,Demigod,B
+MV-ELI-STI-006-11,Hollow Thread,Forged Thread,F2,Demigod,B
+MV-ELI-STI-008-11,Hollow Spikeguard,Grim Spikeguard,F2,Demigod,B
+MV-ELI-STI-009-07,Hollow Seam,Forged Seam,F2,Demigod,B

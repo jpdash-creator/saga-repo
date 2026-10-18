@@ -1,0 +1,69 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-CLB-001-01,Grip and Heft Stance,Burlcowl,F4,T1 Unawakened,A
+MV-BAS-CLB-001-02,Overhand Clout,Straight Belabor,F1,T1 Unawakened,A
+MV-BAS-CLB-001-03,Shin Rap,Single Bellyswell,F1,T1 Unawakened,A
+MV-BAS-CLB-001-04,Forearm Knock Parry,Solid Handholdgrip,F1,T1 Unawakened,A
+MV-BAS-CLB-001-05,Short Shuffle Advance,Swaying Roundhead,F1,T1 Unawakened,A
+MV-BAS-CLB-001-06,Back-Swing Thump,Wallopblow,F4,T1 Unawakened,A
+MV-BAS-CLB-002-01,Two-Hand Hold Ward,Raised Girth,F1,T1 Skin,A
+MV-BAS-CLB-002-02,Rib-Level Sweep,Hard Clout,F1,T1 Skin,A
+MV-BAS-CLB-002-03,Wrist Tap Disarm,Nabbing Thickend,F1,T1 Skin,A
+MV-BAS-CLB-002-04,Stone-Step Backpedal,Stepping Heartwood,F1,T1 Skin,A
+MV-BAS-CLB-002-05,Knee Bruise Drop,Level Thump,F1,T1 Skin,A
+MV-BAS-CLB-003-01,Knob-Forward Guard,Raised Bulge,F1,T1 Muscle,A
+MV-BAS-CLB-003-02,Knob Jab to the Sternum,Girthhit,F4,T1 Muscle,A
+MV-BAS-CLB-003-03,Hooked Knob Pull,Catching Cudgel,F1,T1 Muscle,A
+MV-BAS-CLB-003-04,Rising Underswing,Cudgelhit,F4,T1 Muscle,A
+MV-BAS-CLB-003-05,Knob-Edge Block,Stouthusk,F4,T1 Muscle,A
+MV-BAS-CLB-003-06,Sideways Slide Step,Swaying Burl,F1,T1 Muscle,A
+MV-BAS-CLB-003-07,Looping Knob Crack,Quick Wallop,F1,T1 Muscle,A
+MV-BAS-CLB-004-01,Doorway Ready Stance,Snug Knob,F1,T1 Tendon,A
+MV-BAS-CLB-004-02,Crowd-Pushing Press,Bulgehusk,F4,T1 Tendon,A
+MV-BAS-CLB-004-03,Thigh-Side Strike,Firm Bellyswell,F1,T1 Tendon,A
+MV-BAS-CLB-004-04,Warning Arc Swing,Knobwedge,F4,T1 Tendon,A
+MV-BAS-CLB-004-05,Elbow-Lock Deflection,Solid Burl,F1,T1 Tendon,A
+MV-BAS-CLB-004-06,Steady Patrol Step,Sideways Wallop,F1,T1 Tendon,A
+MV-BAS-CLB-005-01,Carried-Low Guard,Planted Stout,F1,T1 Bone,A
+MV-BAS-CLB-005-02,Hip-Draw Swing,Blunt Girth,F1,T1 Bone,A
+MV-BAS-CLB-005-03,Palm-Slide Catch,Knobhusk,F4,T1 Bone,A
+MV-BAS-CLB-005-04,Ankle Drop Rap,Short Bludgeon,F1,T1 Bone,A
+MV-BAS-CLB-005-05,Two-Pace Withdrawal,Belabor Skitter,F3,T1 Bone,A
+MV-BAS-CLB-006-01,Qi-Seated Grip,Settled Handholdgrip,F1,Senior L1 Low,A
+MV-BAS-CLB-006-02,Breath-Timed Thud,Upward Clout,F1,Senior L1 Low,A
+MV-BAS-CLB-006-03,Shoulder-Joint Hammer,Wallopbump,F4,Senior L1 Low,A
+MV-BAS-CLB-006-04,Short-Arc Crack,Short Thump,F1,Senior L1 Low,A
+MV-BAS-CLB-006-05,Off-Hand Collar Hook,Hitching Bulge,F1,Senior L1 Low,A
+MV-BAS-CLB-006-06,Rolling Haft Turnaway,Holding Stout,F1,Senior L1 Low,A
+MV-BAS-CLB-006-07,Sidestep and Rap,Shifting Knob,F1,Senior L1 Low,A
+MV-BAS-CLB-006-08,Wrist-Numbing Tap,Stiff Heartwood,F1,Senior L1 Low,A
+MV-BAS-CLB-007-01,Oak-Weight Guard,Thickend Lid,F3,Senior L2 Mid,A
+MV-BAS-CLB-007-02,Heartwood Drop Strike,Clouthit,F4,Senior L2 Mid,A
+MV-BAS-CLB-007-03,Collarbone Chime,Quick Roundhead,F1,Senior L2 Mid,A
+MV-BAS-CLB-007-04,Haft-Shove Counter,Stoutpause,F4,Senior L2 Mid,A
+MV-BAS-CLB-007-05,Grounded Glide Step,Light Burl,F1,Senior L2 Mid,A
+MV-BAS-CLB-007-06,Rebounding Cross Swing,Blunt Handholdgrip,F1,Senior L2 Mid,A
+MV-BAS-CLB-008-01,Ironwood Post Stance,Folded Bellyswell,F1,Senior L3 Mid,A
+MV-BAS-CLB-008-02,Drum-Beat Thump,Downward Clout,F1,Senior L3 Mid,A
+MV-BAS-CLB-008-03,Flank Pound,Downward Stout,F1,Senior L3 Mid,A
+MV-BAS-CLB-008-04,Sloped Haft Deflection,Raised Thickend,F1,Senior L3 Mid,A
+MV-BAS-CLB-008-05,Pace-Counted Entry,Burltrot,F4,Senior L3 Mid,A
+MV-BAS-CLB-008-06,Pinning Butt Press,Girthpause,F4,Senior L3 Mid,A
+MV-BAS-CLB-008-07,Two-Knock Rhythm Strike,Upward Cudgel,F1,Senior L3 Mid,A
+MV-BAS-CLB-009-01,Weight-Forward Guard,Planted Bulge,F1,Senior L4 High,A
+MV-BAS-CLB-009-02,Pendulum Swing Strike,Thumpbump,F4,Senior L4 High,A
+MV-BAS-CLB-009-03,Heel-Catching Hook,Hitching Wallop,F1,Senior L4 High,A
+MV-BAS-CLB-009-04,Leaning Haft Check,Bulgelid,F4,Senior L4 High,A
+MV-BAS-CLB-009-05,Slide-In Pommel Knock,Sharp Bludgeon,F1,Senior L4 High,A
+MV-BAS-CLB-010-01,Short-Reach Close Guard,Knobcowl,F4,Senior L1 Mid,A
+MV-BAS-CLB-010-02,Palm-Thrust Butt Jab,Knob Drop,F3,Senior L1 Mid,A
+MV-BAS-CLB-010-03,Back-of-Knee Tap,Fixing Cudgel,F1,Senior L1 Mid,A
+MV-BAS-CLB-010-04,Forearm Roll Block,Heartwood Lid,F3,Senior L1 Mid,A
+MV-BAS-CLB-010-05,Turning Heel Step,Cudgelpace,F4,Senior L1 Mid,A
+MV-BAS-CLB-010-06,Hammer-Grip Club Chop,Gnawing Girth,F1,Senior L1 Mid,A
+MV-BAS-CLB-011-01,Split-Hands Ready Stance,Raised Roundhead,F1,Senior L5 Low,A
+MV-BAS-CLB-011-02,Quarter-Turn Smite,Bulgehit,F4,Senior L5 Low,A
+MV-BAS-CLB-011-03,Stacked-Hands Thrust,Bulgeblow,F4,Senior L5 Low,A
+MV-BAS-CLB-011-04,Crosswise Bar Block,Resting Burl,F1,Senior L5 Low,A
+MV-BAS-CLB-011-05,Shoulder-Carried Step,Cloutamble,F4,Senior L5 Low,A
+MV-BAS-CLB-011-06,Hook-and-Haul Knock,Hitching Belabor,F1,Senior L5 Low,A
+MV-BAS-CLB-011-07,Falling Bough Stroke,Open Thump,F1,Senior L5 Low,A

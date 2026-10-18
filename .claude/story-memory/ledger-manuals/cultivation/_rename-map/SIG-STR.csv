@@ -1,0 +1,13 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-STR-001-10,Pillarfall,Felling Collapse,CAST,Senior L1 Low,Signature
+CMV-SIG-STR-003-01,Basin Sinewfist,Filled Sinewfist,INSTANT,,Basic
+CMV-SIG-STR-003-02,Basin Framebrace,Filled Framebrace,CHANNELED,,Basic
+CMV-SIG-STR-003-03,Basin Pace,Filled Pace,INSTANT,,Basic
+CMV-SIG-STR-003-04,Basin Brawndraw,Filled Brawndraw,CHANNELED,,Basic
+CMV-SIG-STR-003-05,Basin Hammer,Filled Hammer,INSTANT,,Intermediate
+CMV-SIG-STR-003-06,Basin Press,Filled Press,CHANNELED,,Intermediate
+CMV-SIG-STR-003-07,Basin Rouse,Filled Rouse,CHANNELED,,Intermediate
+CMV-SIG-STR-003-08,Basin Cleanse,Filled Cleanse,CHANNELED,,Intermediate
+CMV-SIG-STR-003-09,Basin Flood,Filled Flood,CAST,,Advanced
+CMV-SIG-STR-003-10,Basin Rebuke,Filled Rebuke,INSTANT,,Advanced
+CMV-SIG-STR-003-11,Basin Cascade,Filled Cascade,CAST,,Elite

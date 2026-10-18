@@ -1,0 +1,79 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-HTH-001-01,Straight Lead Punch,Chokehold Blow,F3,Unawakened,A
+MV-BAS-HTH-001-02,Rear Cross Drive,Fistdash,F4,Unawakened,A
+MV-BAS-HTH-001-03,Forearm Cover Guard,Snug Heelbone,F1,Unawakened,A
+MV-BAS-HTH-001-04,Slip Step Aside,Shifting Fist,F1,Unawakened,A
+MV-BAS-HTH-001-05,Low Round Kick,Descending Hip,F1,Unawakened,A
+MV-BAS-HTH-002-01,Collar and Elbow Tie-Up,Turning Shoulder,F1,Skin,A
+MV-BAS-HTH-002-02,Double Underhook Squeeze,Locking Pinfall,F1,Skin,A
+MV-BAS-HTH-002-03,Ankle Pick Dive,Pushing Sweep,F1,Skin,A
+MV-BAS-HTH-002-04,Sprawl and Spin Behind,Folded Ulna,F1,Skin,A
+MV-BAS-HTH-002-05,Half Nelson Turn,Throwstay,F4,Skin,A
+MV-BAS-HTH-002-06,Ground Hip Escape,Sideways Throw,F1,Skin,A
+MV-BAS-HTH-003-01,Heel of Palm Thrust,Gnawing Shin,F1,Muscle,A
+MV-BAS-HTH-003-02,Slapping Palm Check,Lowered Palm,F1,Muscle,A
+MV-BAS-HTH-003-03,Double Palm Push,Gnawing Grapple,F1,Muscle,A
+MV-BAS-HTH-003-04,Rising Palm Block,Folded Knuckle,F1,Muscle,A
+MV-BAS-HTH-003-05,Palm Edge Chop,Shindash,F4,Muscle,A
+MV-BAS-HTH-004-01,Front Push Kick,Ulnablow,F4,Tendon,A
+MV-BAS-HTH-004-02,Shin Roundhouse,Firm Palm,F1,Tendon,A
+MV-BAS-HTH-004-03,Rising Knee Strike,Elbowdash,F4,Tendon,A
+MV-BAS-HTH-004-04,Checking Shin Lift,Settled Knee,F1,Tendon,A
+MV-BAS-HTH-004-05,Back Step Retreat,Light Sweep,F1,Tendon,A
+MV-BAS-HTH-004-06,Heel Hook Sweep,Knee Cowl,F3,Tendon,A
+MV-BAS-HTH-004-07,Stamp on the Instep,Sharp Fist,F1,Tendon,A
+MV-BAS-HTH-005-01,Hip Pivot Throw,Pulling Chokehold,F1,Bone,A
+MV-BAS-HTH-005-02,Outer Reap Leg Throw,Clinchwedge,F4,Bone,A
+MV-BAS-HTH-005-03,Shoulder Carry Drop,Grapple Stay,F3,Bone,A
+MV-BAS-HTH-005-04,Grip Break Twist,Kept Elbow,F1,Bone,A
+MV-BAS-HTH-005-05,Wide Stance Brace,Tight Hip,F1,Bone,A
+MV-BAS-HTH-005-06,Pinning Follow-Through,Catching Elbow,F1,Bone,A
+MV-BAS-HTH-006-01,Back Fall Slap,Settled Shin,F1,Skin,A
+MV-BAS-HTH-006-02,Side Fall Roll,Resting Knuckle,F1,Skin,A
+MV-BAS-HTH-006-03,Forward Roll Recovery,Skipping Shoulder,F1,Skin,A
+MV-BAS-HTH-006-04,Kip Up Spring,Elbowtrot,F4,Skin,A
+MV-BAS-HTH-006-05,Shrimp Away,Sweepdodge,F4,Skin,A
+MV-BAS-HTH-006-06,Guard Cover from Below,Hooding Knee,F1,Skin,A
+MV-BAS-HTH-006-07,Roll to Knees,Throwskitter,F4,Skin,A
+MV-BAS-HTH-006-08,Sit Out Turn,Hippace,F4,Skin,A
+MV-BAS-HTH-007-01,Breath-Backed Straight Punch,Flat Grapple,F1,Senior,A
+MV-BAS-HTH-007-02,Held Breath Forearm Guard,Snug Ulna,F1,Senior,A
+MV-BAS-HTH-007-03,Double Beat Jab,Short Heelbone,F1,Senior,A
+MV-BAS-HTH-007-04,Rooted Stance Shift,Light Chokehold,F1,Senior,A
+MV-BAS-HTH-007-05,Fist Return Recoil,Hiphit,F4,Senior,A
+MV-BAS-HTH-007-06,Lung Rhythm Cadence,Backward Throw,F1,Senior,A
+MV-BAS-HTH-008-01,Horizontal Elbow Slice,Leaden Clinch,F1,Senior,A
+MV-BAS-HTH-008-02,Rising Elbow Spike,Clinch Bump,F3,Senior,A
+MV-BAS-HTH-008-03,Shoulder Bump Charge,Kneebump,F4,Senior,A
+MV-BAS-HTH-008-04,Downward Elbow Drop,Fiststrike,F4,Senior,A
+MV-BAS-HTH-008-05,Elbow Shield Cover,Solid Shoulder,F1,Senior,A
+MV-BAS-HTH-008-06,Pivot Out of Range,Fist Pace,F3,Senior,A
+MV-BAS-HTH-008-07,Backward Elbow Check,Blunt Sweep,F1,Senior,A
+MV-BAS-HTH-009-01,Neck Tie Pull Down,Fixing Pinfall,F1,Senior,A
+MV-BAS-HTH-009-02,Body Lock Lift,Ulnastay,F4,Senior,A
+MV-BAS-HTH-009-03,Clinch Knee Volley,Sweepstrike,F4,Senior,A
+MV-BAS-HTH-009-04,Arm Drag Past,Ulnaamble,F4,Senior,A
+MV-BAS-HTH-009-05,Frame and Push Off,Lowered Ulna,F1,Senior,A
+MV-BAS-HTH-010-01,Rolling Palm Deflection,Hooding Shin,F1,Senior,A
+MV-BAS-HTH-010-02,Heel Strike to the Ribs,Plain Hip,F1,Senior,A
+MV-BAS-HTH-010-03,Palm Press Off the Line,Tight Knuckle,F1,Senior,A
+MV-BAS-HTH-010-04,Two-Palm Stagger,Flat Elbow,F1,Senior,A
+MV-BAS-HTH-010-05,Open Hand Feint,Ulnalid,F4,Senior,A
+MV-BAS-HTH-010-06,Sliding Palm Entry,Palmhop,F4,Senior,A
+MV-BAS-HTH-011-01,High Cover Parry,Solid Palm,F1,Senior,A
+MV-BAS-HTH-011-02,Low Sweeping Parry,Lowered Elbow,F1,Senior,A
+MV-BAS-HTH-011-03,Catch and Return Strike,Quick Knee,F1,Senior,A
+MV-BAS-HTH-011-04,Duck Under and Hook,Sideways Clinch,F1,Senior,A
+MV-BAS-HTH-011-05,Retreating Shell Guard,Planted Hip,F1,Senior,A
+MV-BAS-HTH-011-06,Counter Kick to the Knee,Palmbump,F4,Senior,A
+MV-BAS-HTH-011-07,Distance Reset Hop,Shifting Shoulder,F1,Senior,A
+MV-BAS-HTH-011-08,Read the Shoulder Drill,Smooth Heelbone,F1,Senior,A
+MV-BAS-HTH-012-01,Level Change Shoot,Kneepause,F4,Senior,A
+MV-BAS-HTH-012-02,Single Leg Lift,Turning Shin,F1,Senior,A
+MV-BAS-HTH-012-03,Cross Face Press,Shinpause,F4,Senior,A
+MV-BAS-HTH-012-04,Side Control Weight,Throwlid,F4,Senior,A
+MV-BAS-HTH-012-05,Wrist Control Peel,Towing Ulna,F1,Senior,A
+MV-BAS-HTH-012-06,Mount Climb,Shindodge,F4,Senior,A
+MV-BAS-HTH-012-07,Bridge and Roll Escape,Planted Knuckle,F1,Senior,A
+MV-BAS-HTH-012-08,Posture Break Pull,Tripping Palm,F1,Senior,A
+MV-BAS-HTH-010-02,Plain Hip,Hard Hip,F1,Senior,A

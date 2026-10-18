@@ -1,0 +1,76 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-BAX-001-01,Opening Chain Chop,Cruel Hewdown,F1,Senior,A
+MV-INT-BAX-001-02,Link Turn Cleave,Brutal Warpoll,F1,Senior,A
+MV-INT-BAX-001-03,Chain Guard Catch,Rooted Warbeard,F1,Senior,A
+MV-INT-BAX-001-04,Even Chain Step,Coasting Haftcap,F1,Senior,A
+MV-INT-BAX-001-05,Chained Qi Cleave,Smiteswat,F4,Senior,A
+MV-INT-BAX-001-06,Chain Break Pull,Stalling Rive,F1,Senior,A
+MV-INT-BAX-002-01,Beard Snare Pull,Smitescreen,F4,Senior,A
+MV-INT-BAX-002-02,Haft Lock Press,Viselike Brunt,F1,Senior,A
+MV-INT-BAX-002-03,Hook and Turn Disarm,Entangling Warcleave,F1,Senior,A
+MV-INT-BAX-002-04,Beard-Held Guard,Warbitprop,F4,Senior,A
+MV-INT-BAX-002-05,Qi-Locked Hook,Bruntprop,F4,Senior,A
+MV-INT-BAX-002-06,Lock Release Chop,Bruntflog,F4,Senior,A
+MV-INT-BAX-002-07,Step Through the Hook,Crescentbit Zip,F3,Senior,A
+MV-INT-BAX-003-01,Bit to Poll Turn,Honedwarbit,F5,Warrior,B
+MV-INT-BAX-003-02,Beard Roll Cut,Crimson Banded,F2,Warrior,B
+MV-INT-BAX-003-03,Quarter-Spin Guard,Wideeye Buckle,F3,Warrior,B
+MV-INT-BAX-003-04,Spin Recovery Step,Battleheel Swerve,F3,Warrior,B
+MV-INT-BAX-003-05,Full Rotation Hew,Honed Smite,F2,Warrior,B
+MV-INT-BAX-003-06,Rotation Qi Pulse,Poise Bitedge,F2,Warrior,B
+MV-INT-BAX-003-07,Rotating Disrupt Rap,Staticbrunt,F5,Warrior,B
+MV-INT-BAX-003-08,Off-Hand Rotation Cut,Static Battercut,F2,Warrior,B
+MV-INT-BAX-004-01,Pair Opening Hew,Wild Warhelve,F1,Senior,A
+MV-INT-BAX-004-02,Second Cut Cross,Raw Banded,F1,Senior,A
+MV-INT-BAX-004-03,Cover Between Cuts,Armored Warbit,F1,Senior,A
+MV-INT-BAX-004-04,Pair Step Close,Lithe Warbit,F1,Senior,A
+MV-INT-BAX-004-05,Stagger Cut Doubling,Acrid Warcleave,F1,Senior,A
+MV-INT-BAX-004-06,Cut Pair Disrupt,Bruntbuckle,F4,Senior,A
+MV-INT-BAX-005-01,Bit Edge Hew,Rushing Battleheel,F1,Warrior,B
+MV-INT-BAX-005-02,Beard Underhook Cut,Smiteflog,F4,Warrior,B
+MV-INT-BAX-005-03,Rim Shove,Rivebuckle,F4,Warrior,B
+MV-INT-BAX-005-04,Edge Rebound Guard,Haze Wideeye,F2,Warrior,B
+MV-INT-BAX-005-05,Beard Ankle Pull,Crescentbit Hasp,F3,Warrior,B
+MV-INT-BAX-005-06,Bit and Beard Pair,Brass Warhelve,F2,Warrior,B
+MV-INT-BAX-005-07,Qi Along the Edge,Bandedlinen,F4,Warrior,B
+MV-INT-BAX-005-08,Rim Step Cut,Bruntglide,F4,Warrior,B
+MV-INT-BAX-005-09,Three-Part Guard,Sturdy Haftcap,F1,Warrior,B
+MV-INT-BAX-005-10,Rotating Head Strike,Cruel Bitedge,F1,Warrior,B
+MV-INT-BAX-006-01,Shield Face Chop,Raw Hewdown,F1,Senior,A
+MV-INT-BAX-006-02,Edge-Bite Plank Hew,Ruthless Rive,F1,Senior,A
+MV-INT-BAX-006-03,Boss Strike Stagger,Warpoll Carapace,F3,Senior,A
+MV-INT-BAX-006-04,Splinter Guard,Rooted Bitedge,F1,Senior,A
+MV-INT-BAX-006-05,Wood-Seam Hew,Lurching Battercut,F1,Senior,A
+MV-INT-BAX-006-06,Plank Step In,Warbitstalk,F4,Senior,A
+MV-INT-BAX-006-07,Breaking Chop Rebound,Smitescorer,F4,Senior,A
+MV-INT-BAX-007-01,Wheel Cut,Brawnwarbit,F5,Warrior,B
+MV-INT-BAX-007-02,Orbit Chop,Clayrive,F5,Warrior,B
+MV-INT-BAX-007-03,Circling Haft Ward,Stubborn Battleheel,F1,Warrior,B
+MV-INT-BAX-007-04,Spin Step Slide,Warbeard Curl,F3,Warrior,B
+MV-INT-BAX-007-05,Drifting Orbit Cut,Rubblebanded,F5,Warrior,B
+MV-INT-BAX-007-06,Wheel Rebound Parry,Poisewarbit,F5,Warrior,B
+MV-INT-BAX-007-07,Whirl Qi Gather,Soothing Warbeard,F1,Warrior,B
+MV-INT-BAX-007-08,Whirl Break Pull,Hewdown Buckle,F3,Warrior,B
+MV-INT-BAX-007-09,Heavy Wheel Smash,Brawn Wideeye,F2,Warrior,B
+MV-INT-BAX-007-10,Counter-Whirl Reversal,Hum Brunt,F2,Warrior,B
+MV-INT-BAX-008-01,Weight-Lift Breath,Patient Haftcap,F1,Senior,A
+MV-INT-BAX-008-02,Heavy Drop Hew,Brunt Hammerfall,F3,Senior,A
+MV-INT-BAX-008-03,Shouldered Haft Guard,Buttressed Banded,F1,Senior,A
+MV-INT-BAX-008-04,Low Breath Step,Slinking Warhelve,F1,Senior,A
+MV-INT-BAX-008-05,Breath Hook Cut,Hungry Warcleave,F1,Senior,A
+MV-INT-BAX-008-06,Heavy Rebound Catch,Warpoll Prop,F3,Senior,A
+MV-INT-BAX-009-01,Rank Front Shove,Lassoing Smite,F1,Warrior,B
+MV-INT-BAX-009-02,Line Gap Chop,Bandedthwack,F4,Warrior,B
+MV-INT-BAX-009-03,Armour Seam Hew,Brass Battercut,F2,Warrior,B
+MV-INT-BAX-009-04,Double Hook Drag,Stalling Wideeye,F1,Warrior,B
+MV-INT-BAX-009-05,Shielded Advance Step,Brawn Smite,F2,Warrior,B
+MV-INT-BAX-009-06,Rank Crack Cleave,Brass Rive,F2,Warrior,B
+MV-INT-BAX-009-07,Haft Wall Ward,Sprig Crescentbit,F2,Warrior,B
+MV-INT-BAX-009-08,Rank Cut Sweep,Rugged Warbeard,F1,Warrior,B
+MV-INT-BAX-010-01,Catch and Chop,Honedbanded,F5,Warrior,B
+MV-INT-BAX-010-02,Inside Counter Cut,Ember Warhelve,F2,Warrior,B
+MV-INT-BAX-010-03,Counter Guard Reset,Brassbattle,F5,Warrior,B
+MV-INT-BAX-010-04,Slip and Return Cut,Prowling Warbit,F1,Warrior,B
+MV-INT-BAX-010-05,Qi Counter Rebound,Draught Crescentbit,F2,Warrior,B
+MV-INT-BAX-010-06,Counter Cut Disrupt,Hum Hewdown,F2,Warrior,B
+MV-INT-BAX-010-07,Recovery Chop Pair,Emberbanded,F5,Warrior,B

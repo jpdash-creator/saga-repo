@@ -1,0 +1,139 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-WHP-001-01,Court Ready Thongs,Plaitseal,F4,Warrior L3 Low,B
+MV-SIG-WHP-001-02,First Court Stroke,Lash Crown,F3,Warrior L3 Low,B
+MV-SIG-WHP-001-03,Court Threshold Step,Snapgrace,F4,Warrior L3 Low,B
+MV-SIG-WHP-001-04,Paired Court Snare,Sigilkeeper,F5,Warrior L3 Low,B
+MV-SIG-WHP-001-05,Court Echo Crack,Royal Lashcore,F1,Warrior L3 Low,B
+MV-SIG-WHP-001-06,Thong Fork Parry,Undefiled Whipstock,F1,Warrior L3 Low,B
+MV-SIG-WHP-001-07,Pair Cuts a Seam,Bedrock Fall,F2,Champion L1 Low,B
+MV-SIG-WHP-001-08,Paired Entry Sequence,Furlverdict,F4,Champion L1 Low,B
+MV-SIG-WHP-001-09,Twin Thongs Fix the Guard,Millstone Tether,F2,Demigod L1 Low,B
+MV-SIG-WHP-001-10,The Court Closes,Tenettether,F5,Warrior L3 Low,B
+MV-SIG-WHP-002-01,Paired Hand Ready Posture,Glacier Popper,F2,Champion L1 Low,B
+MV-SIG-WHP-002-02,Azure Opening Lash,Vigor Whipheel,F2,Champion L1 Low,B
+MV-SIG-WHP-002-03,Pair Step Along the Line,Bedrock Popcrack,F2,Champion L1 Low,B
+MV-SIG-WHP-002-04,Azure Hand Wrap,Thrall Whiptail,F2,Champion L1 Low,B
+MV-SIG-WHP-002-05,Left Hand Counter Crack,Volition Keeper,F2,Champion L1 Low,B
+MV-SIG-WHP-002-06,Right Hand Parry Turn,Keeperseal,F4,Champion L1 Low,B
+MV-SIG-WHP-002-07,Paired Hand Hook Pull,Peal Lashend,F2,Champion L1 Low,B
+MV-SIG-WHP-002-08,Azure Paired Hands Cut,Snap Crown,F3,Champion L1 Low,B
+MV-SIG-WHP-002-09,Hands Trade the Thong,Harmonious Furl,F1,Champion L1 Low,B
+MV-SIG-WHP-002-10,Azure Pair Overwhelming Cast,Storied Flick,F1,Demigod L1 Low,B
+MV-SIG-WHP-002-11,The Hands Become One Lash,Haemal Thong,F2,Champion L1 Low,B
+MV-SIG-WHP-003-01,Court Hawk Perch,Thongtroth,F4,Champion L6 Mid,B
+MV-SIG-WHP-003-02,Hawk Scan Over the Thong,Reminiscence Lashend,F2,Champion L6 Mid,B
+MV-SIG-WHP-003-03,Short Dive Lash,Furlbanner,F4,Champion L6 Mid,B
+MV-SIG-WHP-003-04,Toe-Beat Whip Slant,Delugeplait,F5,Champion L6 Mid,B
+MV-SIG-WHP-003-05,Hawk Court Talon Snare,Thongpledge,F4,Champion L6 Mid,B
+MV-SIG-WHP-003-06,Rising Wing Parry,Squall Whiptail,F2,Champion L6 Mid,B
+MV-SIG-WHP-003-07,Court Warning Crack,Fearless Whipstock,F1,Champion L6 Mid,B
+MV-SIG-WHP-003-08,Hover and Sting,Quenched Snap,F2,Champion L6 Mid,B
+MV-SIG-WHP-003-09,Court Hawk Long Dive,Radiance Popcrack,F2,Champion L6 Mid,B
+MV-SIG-WHP-003-10,Circling Above the Field,Gallant Plait,F1,Champion L6 Mid,B
+MV-SIG-WHP-003-11,Hawk Court Grasp from Above,Lashtroth,F4,Demigod L1 Low,B
+MV-SIG-WHP-003-12,The Hawk Takes the Court,Grand Volition Furl,F6a,Champion L6 Mid,B
+MV-SIG-WHP-004-01,Valley Crack Stance,Immaculate Fall,F1,Ruler L1 Mid,B
+MV-SIG-WHP-004-02,Riverside Crack,Heroic Keeper,F1,Ruler L1 Mid,B
+MV-SIG-WHP-004-03,Gravel Bar Step,Squall Flick,F2,Ruler L1 Mid,B
+MV-SIG-WHP-004-04,Echoing Cut,Inferno Whipheel,F2,Ruler L1 Mid,B
+MV-SIG-WHP-004-05,Current Wrap,Plait Reliquary,F3,Ruler L1 Mid,B
+MV-SIG-WHP-004-06,Thong Spray Parry,Popper Vow,F3,Ruler L1 Mid,B
+MV-SIG-WHP-004-07,Rolling Valley Crack,Millstone Lashcore,F2,Ruler L1 Mid,B
+MV-SIG-WHP-004-08,Crack and River Cut,Volition Lash,F2,Ruler L1 Mid,B
+MV-SIG-WHP-004-09,Cut of the Swollen River,Thunderclap Keeper,F2,Demigod L1 Low,B
+MV-SIG-WHP-004-10,The River Speaks,Furledict,F4,Ruler L1 Mid,B
+MV-SIG-WHP-005-01,Spring Source Stance,Sainted Lashend,F1,Demigod L1 Low,B
+MV-SIG-WHP-005-02,Rill Lash,Famed Whipheel,F1,Demigod L1 Low,B
+MV-SIG-WHP-005-03,Mountain Descent Step,Skyborne Popper,F1,Demigod L1 Low,B
+MV-SIG-WHP-005-04,Tributary Wrap,Tetherseal,F4,Demigod L1 Low,B
+MV-SIG-WHP-005-05,Rapids Cut,Steel Popcrack,F2,Demigod L1 Low,B
+MV-SIG-WHP-005-06,Thong Weir Parry,Thongseal,F4,Demigod L1 Low,B
+MV-SIG-WHP-005-07,Delta Spread,Royal Fall,F1,Demigod L1 Low,B
+MV-SIG-WHP-005-08,Long Course Lash,Bedrock Lash,F2,Demigod L1 Low,B
+MV-SIG-WHP-005-09,Basin Gathering,Volition Plait,F2,Demigod L1 Low,B
+MV-SIG-WHP-005-10,Floodplain Overflow,Peerless Tether,F1,Demigod L1 Low,B
+MV-SIG-WHP-005-11,From Spring to Basin,Orchestral Whiptail Edict,F6b,Demigod L1 Low,B
+MV-SIG-WHP-006-01,Highest Pair Stance,Popperpledge,F4,Core Formation L1 Low,B
+MV-SIG-WHP-006-02,Core Beat Lash,Illustrious Lashcore,F1,Core Formation L1 Low,B
+MV-SIG-WHP-006-03,Matched Sky Step,Deluge Thong,F2,Core Formation L1 Low,B
+MV-SIG-WHP-006-04,Pair Pulse Sensing,Interstice Thong,F2,Core Formation L1 Low,B
+MV-SIG-WHP-006-05,High Pair Snare,Millstone Snap,F2,Core Formation L1 Low,B
+MV-SIG-WHP-006-06,Paired Ring Parry,Undaunted Popper,F1,Core Formation L1 Low,B
+MV-SIG-WHP-006-07,Matched Cut,Peerless Furl,F1,Core Formation L1 Low,B
+MV-SIG-WHP-006-08,Pair Crack Overhead,Magnificent Tether,F1,Core Formation L1 Low,B
+MV-SIG-WHP-006-09,Core-Driven Pair Lash,Thunderclap Whipstock,F2,Core Formation L1 Low,B
+MV-SIG-WHP-006-10,Paired Orbit,Hornbeam Lashcore,F2,Core Formation L1 Low,B
+MV-SIG-WHP-006-11,Highest Pair Descent,Fearless Flick,F1,Core Formation L1 Low,B
+MV-SIG-WHP-006-12,Both Lashes One Will,Harmonious Lashend Crown,F6b,Core Formation L1 Low,B
+MV-SIG-WHP-007-01,Plateau Oath Ready Hold,Venerable Plait,F1,Warrior L2 Low,B
+MV-SIG-WHP-007-02,Sworn Lash Opening,Vigorplait,F5,Warrior L2 Low,B
+MV-SIG-WHP-007-03,Level Ground Lash Step,Silken Lash,F1,Warrior L2 Low,B
+MV-SIG-WHP-007-04,Pledge Wrap,Hornbeam Whipstock,F2,Warrior L2 Low,B
+MV-SIG-WHP-007-05,Oath Voice Crack,Statute Snap,F2,Warrior L2 Low,B
+MV-SIG-WHP-007-06,Kept Word Parry,Pealfall,F5,Warrior L2 Low,B
+MV-SIG-WHP-007-07,Wind Tested Cut,Sovereign Furl,F1,Warrior L2 Low,B
+MV-SIG-WHP-007-08,Oath Carried Far,Steel Whipheel,F2,Champion L1 Low,B
+MV-SIG-WHP-007-09,Plateau Hold Sequence,Tenetflick,F5,Champion L1 Low,B
+MV-SIG-WHP-007-10,Oath That Reaches the Sky,Storied Tether,F1,Demigod L1 Low,B
+MV-SIG-WHP-007-11,The Plateau Oath Kept,Quenched Keeper,F2,Warrior L2 Low,B
+MV-SIG-WHP-008-01,Sworn Wind Ready Stance,Plaitpledge,F4,Champion L2 Low,B
+MV-SIG-WHP-008-02,Gust Opening Lash,Thunderclap Thong,F2,Champion L2 Low,B
+MV-SIG-WHP-008-03,Leeward Slip,Ethereal Fall,F1,Champion L2 Low,B
+MV-SIG-WHP-008-04,Gust Snare,Glacier Popcrack,F2,Champion L2 Low,B
+MV-SIG-WHP-008-05,Sworn Wind Crack,Volition Whiptail,F2,Champion L2 Low,B
+MV-SIG-WHP-008-06,Wind Lifted Parry,Peal Lashcore,F2,Champion L2 Low,B
+MV-SIG-WHP-008-07,Cross Gust Cut,Inferno Keeper,F2,Champion L2 Low,B
+MV-SIG-WHP-008-08,Gale Wheel,Tether Verdict,F3,Champion L2 Low,B
+MV-SIG-WHP-008-09,Wind Sworn Reach,Noble Flick,F1,Demigod L1 Low,B
+MV-SIG-WHP-008-10,The Wind Answers the Whip,Matchless Whipstock Verdict,F6b,Champion L2 Low,B
+MV-SIG-WHP-009-01,Bearing Ready Stance,Hospitable Thong,F1,Champion L7 High,B
+MV-SIG-WHP-009-02,Held Bearing Lash,Flicktriumph,F4,Champion L7 High,B
+MV-SIG-WHP-009-03,Heading Keeping Step,Dune Fall,F2,Champion L7 High,B
+MV-SIG-WHP-009-04,Bearing Brace,Sainted Popper,F1,Champion L7 High,B
+MV-SIG-WHP-009-05,Bearing Wrap Along the Line,Hornbeam Lash,F2,Champion L7 High,B
+MV-SIG-WHP-009-06,Heading Report Crack,Bedrock Whipheel,F2,Champion L7 High,B
+MV-SIG-WHP-009-07,Bearing Kept Parry,Parity Lashend,F2,Champion L7 High,B
+MV-SIG-WHP-009-08,Hook Along the Heading,Snappledge,F4,Champion L7 High,B
+MV-SIG-WHP-009-09,Bearing Through the Gale,Squallfurl,F5,Champion L7 High,B
+MV-SIG-WHP-009-10,Heading Held Chain,Volition Popcrack,F2,Champion L7 High,B
+MV-SIG-WHP-009-11,Bearing That Cannot Be Turned,Steel Snap,F2,Demigod L1 Low,B
+MV-SIG-WHP-009-12,The Bearing Is Kept,Imperial Thunderclap Whiptail,F6a,Champion L7 High,B
+MV-SIG-WHP-010-01,Great Crack Stance,Steelpopper,F5,Ruler L1 Mid,B
+MV-SIG-WHP-010-02,Gust Rider Crack,Statute Plait,F2,Ruler L1 Mid,B
+MV-SIG-WHP-010-03,Pressing Wind Step,Vigorsnap,F5,Ruler L1 Mid,B
+MV-SIG-WHP-010-04,Crack and Sting,Thunderclap Tether,F2,Ruler L1 Mid,B
+MV-SIG-WHP-010-05,Gale Voice Wrap,Thongvow,F4,Ruler L1 Mid,B
+MV-SIG-WHP-010-06,Thunder Parry,Pall Lashcore,F2,Ruler L1 Mid,B
+MV-SIG-WHP-010-07,Plateau Echo Pin,Statute Flick,F2,Ruler L1 Mid,B
+MV-SIG-WHP-010-08,Crack Through the Wind,Pulsar Furl,F2,Ruler L1 Mid,B
+MV-SIG-WHP-010-09,Cracks Over the Plateau,Millstone Lash,F2,Ruler L1 Mid,B
+MV-SIG-WHP-010-10,Gale-Carried Thunder Lash,Entropy Lashend,F2,Demigod L1 Low,B
+MV-SIG-WHP-010-11,The Gale Cracks Once,Statute Whipheel,F2,Ruler L1 Mid,B
+MV-SIG-WHP-011-01,Long Lash Oath Stance,Prism Popper,F2,Demigod L2 Mid,B
+MV-SIG-WHP-011-02,Long Pledge Cast,Thunderclap Plait,F2,Demigod L2 Mid,B
+MV-SIG-WHP-011-03,Steady Plateau Pace,Plaitvoyage,F4,Demigod L2 Mid,B
+MV-SIG-WHP-011-04,Distant Oath Wrap,Thrall Snap,F2,Demigod L2 Mid,B
+MV-SIG-WHP-011-05,Far Oath Crack,Illustrious Whipstock,F1,Demigod L2 Mid,B
+MV-SIG-WHP-011-06,Long Word Parry,Enshrined Keeper,F1,Demigod L2 Mid,B
+MV-SIG-WHP-011-07,Oath Over the Rise,Intrepid Furl,F1,Demigod L2 Mid,B
+MV-SIG-WHP-011-08,Long Lash Hold on the Field,Ruling Thong,F1,Demigod L2 Mid,B
+MV-SIG-WHP-011-09,Oath Lash of the Far Edge,Intrepid Whiptail,F1,Demigod L2 Mid,B
+MV-SIG-WHP-011-10,The Long Oath Fulfilled,Choral Season Lashcore,F6a,Demigod L2 Mid,B
+MV-SIG-WHP-012-01,Final Wind Stance,Prismkeeper,F5,Core Formation L1 Mid,B
+MV-SIG-WHP-012-02,Last Gust Lash,Vigorfurl,F5,Core Formation L1 Mid,B
+MV-SIG-WHP-012-03,Drifting Step,Delugetether,F5,Core Formation L1 Mid,B
+MV-SIG-WHP-012-04,Core and Wind Reading,Serene Fall,F1,Core Formation L1 Mid,B
+MV-SIG-WHP-012-05,Wind Cast Loop,Thrallfall,F5,Core Formation L1 Mid,B
+MV-SIG-WHP-012-06,Veering Parry,Fallpledge,F4,Core Formation L1 Mid,B
+MV-SIG-WHP-012-07,Wind Voice Crack,Lashtriumph,F4,Core Formation L1 Mid,B
+MV-SIG-WHP-012-08,Gust Blade-Arm Hook Pull,Thunderclap Flick,F2,Core Formation L1 Mid,B
+MV-SIG-WHP-012-09,Core Wind Penetration,Pulsar Thong,F2,Core Formation L1 Mid,B
+MV-SIG-WHP-012-10,Gale Orbit of the Lash,Faithful Whiptail,F1,Core Formation L1 Mid,B
+MV-SIG-WHP-012-11,Last Wind Falling Stroke,Squall Fall,F2,Core Formation L1 Mid,B
+MV-SIG-WHP-012-12,The Lash and the Wind Are One,Flickbanner,F4,Core Formation L1 Mid,B
+MV-SIG-WHP-002-01,Glacier Popper,Steady Popper,F2,Champion L1 Low,B
+MV-SIG-WHP-006-10,Hornbeam Lashcore,Ironclad Lashcore,F2,Core Formation L1 Low,B
+MV-SIG-WHP-007-04,Hornbeam Whipstock,Tethering Whipstock,F2,Warrior L2 Low,B
+MV-SIG-WHP-008-04,Glacier Popcrack,Cording Popcrack,F2,Champion L2 Low,B
+MV-SIG-WHP-009-03,Dune Fall,Lithe Fall,F2,Champion L7 High,B
+MV-SIG-WHP-009-05,Hornbeam Lash,Cinching Lash,F2,Champion L7 High,B

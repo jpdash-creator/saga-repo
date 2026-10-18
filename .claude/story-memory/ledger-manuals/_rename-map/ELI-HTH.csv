@@ -1,0 +1,159 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-HTH-001-01,Azure Lead Fist Strike,Iron Heelbone,F2,Demigod,B
+MV-ELI-HTH-001-02,Court Pair Cross,Shinruin,F4,Demigod,B
+MV-ELI-HTH-001-03,Twin Cover Forearms,Invincible Hip,F1,Demigod,B
+MV-ELI-HTH-001-04,River Bend Entry,Gust Clinch,F2,Demigod,B
+MV-ELI-HTH-001-05,Basin Heavy Body Hook,Grievous Palm,F1,Demigod,B
+MV-ELI-HTH-001-06,Hawk Dive Jab,Unsparing Shin,F1,Demigod,B
+MV-ELI-HTH-001-07,Rising Pair Uppercut,Tempered Sweep,F2,Demigod,B
+MV-ELI-HTH-001-08,Paired Fist Breaker,Hollow Elbow,F2,Demigod,B
+MV-ELI-HTH-001-09,Twin Court Fist Reversal,Confluent Throw,F1,Demigod,B
+MV-ELI-HTH-001-10,Azure Court Sundering Fist,Nova Knuckle,F2,Demigod,B
+MV-ELI-HTH-002-01,Basin Frame Hold,Gyvesweep,F5,Demigod,B
+MV-ELI-HTH-002-02,River Slide Entry,Unseen Shoulder,F1,Demigod,B
+MV-ELI-HTH-002-03,Paired Arm Drag,Rumble Knuckle,F2,Demigod,B
+MV-ELI-HTH-002-04,Silt Settle Pin,Gyve Fist,F2,Demigod,B
+MV-ELI-HTH-002-05,Twin Lock Elbow,Thorn Hip,F2,Demigod,B
+MV-ELI-HTH-002-06,Current Turn Throw,Toxin Chokehold,F2,Demigod,B
+MV-ELI-HTH-002-07,Hawk Perch Mount,Webbing Pinfall,F1,Demigod,B
+MV-ELI-HTH-002-08,Basin Pressure Squeeze,Palmspine,F4,Demigod,B
+MV-ELI-HTH-002-09,Delta Split Release,Unseen Pinfall,F1,Demigod,B
+MV-ELI-HTH-002-10,Basin River Twin Lock,Throwvalor,F4,Demigod,B
+MV-ELI-HTH-003-01,Hawk Stoop Elbow,Blaze Ulna,F2,Demigod,B
+MV-ELI-HTH-003-02,Hawk Wing Forearm Parry,Obdurate Shin,F1,Demigod,B
+MV-ELI-HTH-003-03,Talon Hand Strike,Punishing Grapple,F1,Demigod,B
+MV-ELI-HTH-003-04,Soar Out of Reach,Nimbuship,F5,Demigod,B
+MV-ELI-HTH-003-05,Pounce Knee Drive,Sweep Devastation,F3,Demigod,B
+MV-ELI-HTH-003-06,Hawk Eye Counter,Expanse Knee,F2,Demigod,B
+MV-ELI-HTH-003-07,Falling Heel Axe,Might Ulna,F2,Demigod,B
+MV-ELI-HTH-003-08,Wing Beat Cover Strike,Synchronized Knee,F1,Demigod,B
+MV-ELI-HTH-003-09,Descending Hawk Rending,Nimbus Palm,F2,Demigod,B
+MV-ELI-HTH-004-01,Twin Jab Opening,Hiphavoc,F4,Void God,B
+MV-ELI-HTH-004-02,Court Hook Pair,Blaze Elbow,F2,Void God,B
+MV-ELI-HTH-004-03,Mirror Guard Shift,Unrelenting Fist,F1,Void God,B
+MV-ELI-HTH-004-04,Paired Kick Break,Might Shoulder,F2,Void God,B
+MV-ELI-HTH-004-05,Court Weave Step,Aura Throw,F2,Void God,B
+MV-ELI-HTH-004-06,Double Entry Palm,Blaze Throw,F2,Void God,B
+MV-ELI-HTH-004-07,Twin Beat Cadence,Vengeful Clinch,F1,Void God,B
+MV-ELI-HTH-004-08,Roll of Four Fists,Multiplying Hip,F1,Void God,B
+MV-ELI-HTH-004-09,Paired Qi Surge Rolling,Devastating Fist,F1,Void God,B
+MV-ELI-HTH-004-10,Twin Court Closing Roll,Hoursweep,F5,Void God,B
+MV-ELI-HTH-005-01,Flowing Jab Chain,Nimbus Chokehold,F2,Demigod,B
+MV-ELI-HTH-005-02,River Stone Guard,Charter Shoulder,F2,Demigod,B
+MV-ELI-HTH-005-03,Undertow Step Back,Nimbussweep,F5,Demigod,B
+MV-ELI-HTH-005-04,Backwater Elbow,Decimating Palm,F1,Demigod,B
+MV-ELI-HTH-005-05,Spillway Cross,Iron Knuckle,F2,Demigod,B
+MV-ELI-HTH-005-06,River Bank Break,Aura Elbow,F2,Demigod,B
+MV-ELI-HTH-005-07,Pool Gathering Breath,Flintlike Ulna,F1,Demigod,B
+MV-ELI-HTH-005-08,Whirlpool Paired Strikes,Escalating Grapple,F1,Demigod,B
+MV-ELI-HTH-005-09,Confluence Fist,Glint Heelbone,F2,Demigod,B
+MV-ELI-HTH-006-01,Dual Joint Lock,Nimbuselbow,F5,Demigod,B
+MV-ELI-HTH-006-02,Track Shift Grip,Fistmettle,F4,Demigod,B
+MV-ELI-HTH-006-03,Basin Wrist Twist,Thornknee,F5,Demigod,B
+MV-ELI-HTH-006-04,Twin Pivot Step,Elbowflash,F4,Demigod,B
+MV-ELI-HTH-006-05,Azure Hip Check,Impenetrable Ulna,F1,Demigod,B
+MV-ELI-HTH-006-06,Paired Knee Pin,Grapple Nerve,F3,Demigod,B
+MV-ELI-HTH-006-07,Hawk Release Strike,Blaze Knee,F2,Demigod,B
+MV-ELI-HTH-006-08,Track Reversal Counter,Rumble Pinfall,F2,Demigod,B
+MV-ELI-HTH-006-09,Double Lock Break,Nimbus Knuckle,F2,Demigod,B
+MV-ELI-HTH-006-10,Twin Seal Hold,Nimbusulna,F5,Demigod,B
+MV-ELI-HTH-006-11,Locks Surrender,Shinmettle,F4,Demigod,B
+MV-ELI-HTH-007-01,Azure Pull Entry,Granite Shin,F2,Void God,B
+MV-ELI-HTH-007-02,Sky High Hip Throw,Toxin Knee,F2,Void God,B
+MV-ELI-HTH-007-03,Falling Cloud Sweep,Sweep Nerve,F3,Void God,B
+MV-ELI-HTH-007-04,Twin Grip Shoulder Drop,Maiming Chokehold,F1,Void God,B
+MV-ELI-HTH-007-05,Bird Landing Guard,Unconquered Hip,F1,Void God,B
+MV-ELI-HTH-007-06,Basin Press Down,Immobilizing Heelbone,F1,Void God,B
+MV-ELI-HTH-007-07,Sky Fall Vortex Throw,Aura Sweep,F2,Void God,B
+MV-ELI-HTH-007-08,Windless Reversal,Facet Heelbone,F2,Void God,B
+MV-ELI-HTH-007-09,Azure Zenith Throw,Tempered Shin,F2,Void God,B
+MV-ELI-HTH-008-01,Hawk Grip Opening,Hogtying Palm,F1,Demigod,B
+MV-ELI-HTH-008-02,Twin Palm Strike Pair,Punishing Pinfall,F1,Demigod,B
+MV-ELI-HTH-008-03,Basin Hand Cup Guard,Heelbone Mettle,F3,Demigod,B
+MV-ELI-HTH-008-04,River Palm Parry,Evergreen Hip,F1,Demigod,B
+MV-ELI-HTH-008-05,Azure Fist Slide Step,Ghosting Chokehold,F1,Demigod,B
+MV-ELI-HTH-008-06,Talon Pull Palm Strike,Shinscourge,F4,Demigod,B
+MV-ELI-HTH-008-07,Twin Hand Qi Pour,Ulnawrath,F4,Demigod,B
+MV-ELI-HTH-008-08,Hawk and Palm Chain,Lothip,F5,Demigod,B
+MV-ELI-HTH-008-09,Hawk Palm Reversal,Obdurate Elbow,F1,Demigod,B
+MV-ELI-HTH-008-10,Twin Hawk Burst,Ghosting Grapple,F1,Demigod,B
+MV-ELI-HTH-009-01,Oath Taking Fist Stance,Granite Shoulder,F2,Demigod,B
+MV-ELI-HTH-009-02,Bearing Straight Fist,Gustelbow,F5,Demigod,B
+MV-ELI-HTH-009-03,Wind Slip Forearm Parry,Gust Knee,F2,Demigod,B
+MV-ELI-HTH-009-04,Edge Step Forward,Gust Palm,F2,Demigod,B
+MV-ELI-HTH-009-05,Sworn Elbow Strike,Pitiless Throw,F1,Demigod,B
+MV-ELI-HTH-009-06,Plateau Rooted Hold,Gyvethrow,F5,Demigod,B
+MV-ELI-HTH-009-07,Gale Cross Counter,Might Knuckle,F2,Demigod,B
+MV-ELI-HTH-009-08,Oath Fist Through the Guard,Berserk Shoulder,F1,Demigod,B
+MV-ELI-HTH-009-09,Wind Kept Sequence,Intent Ulna,F2,Demigod,B
+MV-ELI-HTH-009-10,Oath Breaking Fist,Shinhavoc,F4,Demigod,B
+MV-ELI-HTH-010-01,Gust Lead Punch,Unsparing Elbow,F1,Demigod,B
+MV-ELI-HTH-010-02,Driving Wind Cross,Devastating Throw,F1,Demigod,B
+MV-ELI-HTH-010-03,Bearing Forearm Cover Guard,Unassailable Fist,F1,Demigod,B
+MV-ELI-HTH-010-04,Plateau Flat Footed Run,Kneevortex,F4,Demigod,B
+MV-ELI-HTH-010-05,Gale Hook to the Ribs,Fist Devastation,F3,Demigod,B
+MV-ELI-HTH-010-06,Roaring Wind Uppercut,Aura Grapple,F2,Demigod,B
+MV-ELI-HTH-010-07,Long Gust Barrage,Grievous Throw,F1,Demigod,B
+MV-ELI-HTH-010-08,Gale Cut Through Guard,Novaknee,F5,Demigod,B
+MV-ELI-HTH-010-09,Wind Tide Combination,Aura Chokehold,F2,Demigod,B
+MV-ELI-HTH-010-10,Great Gale Fist,Rampaging Iron Pinfall,F6a,Demigod,B
+MV-ELI-HTH-011-01,Edge Footing Stance,Obdurate Knuckle,F1,Void God,B
+MV-ELI-HTH-011-02,Bearing Grip on the Sleeve,Hoarfrost Elbow,F2,Void God,B
+MV-ELI-HTH-011-03,Plateau Pull Down,Harnessing Shin,F1,Void God,B
+MV-ELI-HTH-011-04,Wind Cut Reap,Mayhempalm,F5,Void God,B
+MV-ELI-HTH-011-05,Hold the Line Pin,Enthralling Pinfall,F1,Void God,B
+MV-ELI-HTH-011-06,Gale Roll Out,Torrent Ulna,F2,Void God,B
+MV-ELI-HTH-011-07,Edge Fall Throw,Sweep Tenacity,F3,Void God,B
+MV-ELI-HTH-011-08,Oath of Weight,Shadeelbow,F5,Void God,B
+MV-ELI-HTH-011-09,Plateau Wind Bar,Hoarfrost Clinch,F2,Void God,B
+MV-ELI-HTH-011-10,Edge Lock Collapse,Enthralling Clinch,F1,Void God,B
+MV-ELI-HTH-012-01,Breath Count Opening,Iron Shin,F2,Demigod,B
+MV-ELI-HTH-012-02,Bearing Check Step,Lightning Shoulder,F1,Demigod,B
+MV-ELI-HTH-012-03,Slow Wind Palm,Hip Devastation,F3,Demigod,B
+MV-ELI-HTH-012-04,Held Breath Block,Indomitable Heelbone,F1,Demigod,B
+MV-ELI-HTH-012-05,Steady Fist Return,Blaze Knuckle,F2,Demigod,B
+MV-ELI-HTH-012-06,Breathing Space Opening,Meteoric Fist,F1,Demigod,B
+MV-ELI-HTH-012-07,Long Breath Reserve,Granite Elbow,F2,Demigod,B
+MV-ELI-HTH-012-08,Bearing Line Strike,Gnashing Hip,F1,Demigod,B
+MV-ELI-HTH-012-09,Twin Breath Sequence,Intent Grapple,F2,Demigod,B
+MV-ELI-HTH-012-10,Gale Bearing Return,Glamour Fist,F2,Demigod,B
+MV-ELI-HTH-013-01,Wind Sworn Sleeve Draw,Aurashin,F5,Void God,B
+MV-ELI-HTH-013-02,Gale Hip Throw,Mayhemshin,F5,Void God,B
+MV-ELI-HTH-013-03,Plateau Leg Reap,Nimbus Pinfall,F2,Void God,B
+MV-ELI-HTH-013-04,Gust Shoulder Throw,Enthralling Heelbone,F1,Void God,B
+MV-ELI-HTH-013-05,Oath Landing Cover,Adamantine Shin,F1,Void God,B
+MV-ELI-HTH-013-06,Wind Carry Step,Throwblink,F4,Void God,B
+MV-ELI-HTH-013-07,Bearing Held Throw,Toxinclinch,F5,Void God,B
+MV-ELI-HTH-013-08,Gale Spin Slam,Kneewrath,F4,Void God,B
+MV-ELI-HTH-013-09,Wind Sworn Reversal,Aura Palm,F2,Void God,B
+MV-ELI-HTH-013-10,Given to the Wind Throw,Immobilizing Toxin Shoulder,F6a,Void God,B
+MV-ELI-HTH-014-01,Open Field Pivot,Elbowvortex,F4,Demigod,B
+MV-ELI-HTH-014-02,Gale Circling Step,Hipglare,F4,Demigod,B
+MV-ELI-HTH-014-03,Wind Shadow Slide,Ghosting Palm,F1,Demigod,B
+MV-ELI-HTH-014-04,Edge Distance Jab,Mightpalm,F5,Demigod,B
+MV-ELI-HTH-014-05,Bearing Held Arm Counter,Indomitable Ulna,F1,Demigod,B
+MV-ELI-HTH-014-06,Wide Plateau Retreat,Nimbus Grapple,F2,Demigod,B
+MV-ELI-HTH-014-07,Gust Entry Kick,Blaze Clinch,F2,Demigod,B
+MV-ELI-HTH-014-08,Gale Run Down,Sweepruin,F4,Demigod,B
+MV-ELI-HTH-014-09,Wind Blink Entry,Unseen Chokehold Whirlpool,F6b,Demigod,B
+MV-ELI-HTH-015-01,Sworn Distance Stance,Inexorable Shoulder,F1,Void God,B
+MV-ELI-HTH-015-02,Oath Palm to the Chest,Clinch Scourge,F3,Void God,B
+MV-ELI-HTH-015-03,Wind Break Cover,Chime Knee,F2,Void God,B
+MV-ELI-HTH-015-04,Forward Plateau Step,Silt Elbow,F2,Void God,B
+MV-ELI-HTH-015-05,Bearing Kept Elbow,Decimating Throw,F1,Void God,B
+MV-ELI-HTH-015-06,Gale Hook Counter,Hipscourge,F4,Void God,B
+MV-ELI-HTH-015-07,Oath Cast Hold,Throw Mettle,F3,Void God,B
+MV-ELI-HTH-015-08,Plateau Wind Rush,Confluent Grapple,F1,Void God,B
+MV-ELI-HTH-015-09,Open Ground Verdict,Vengeful Knee,F1,Void God,B
+MV-ELI-HTH-015-10,Oath Upheld Strike,Psychepalm,F5,Void God,B
+MV-ELI-HTH-016-01,Bearing Take Glance,Hip Insight,F3,Void God,B
+MV-ELI-HTH-016-02,Wind Parry Return,Torrent Fist,F2,Void God,B
+MV-ELI-HTH-016-03,Gale Slip Counter,Mightthrow,F5,Void God,B
+MV-ELI-HTH-016-04,Plateau Block Shove,Unconquered Ulna,F1,Void God,B
+MV-ELI-HTH-016-05,Gust Catch Throw,Toxinelbow,F5,Void God,B
+MV-ELI-HTH-016-06,Reversed Bearing Strike,Auraknee,F5,Void God,B
+MV-ELI-HTH-016-07,Counter Gale Cross,Blaze Pinfall,F2,Void God,B
+MV-ELI-HTH-016-08,Bearing Turned Penetration,Clinchhavoc,F4,Void God,B
+MV-ELI-HTH-016-09,Returning Gale Reflection,Unconquered Verity Shin,F6a,Void God,B
+MV-ELI-HTH-001-08,Hollow Elbow,Massive Elbow,F2,Demigod,B
+MV-ELI-HTH-003-06,Expanse Knee,Sharp Knee,F2,Demigod,B

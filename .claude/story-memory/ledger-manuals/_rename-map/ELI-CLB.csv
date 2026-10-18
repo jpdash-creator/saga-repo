@@ -1,0 +1,155 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-CLB-001-01,Twin-Court Opening Salute,Granite Roundhead,F2,Demigod L1 Low,B
+MV-ELI-CLB-001-02,Court-Left Rap,Irongirth,F5,Demigod L1 Low,B
+MV-ELI-CLB-001-03,Second Seat Knock,Blaze Bludgeon,F2,Demigod L1 Low,B
+MV-ELI-CLB-001-04,Court Pace Cudgel Exchange,Cloutvortex,F4,Demigod L1 Low,B
+MV-ELI-CLB-001-05,Mirrored Bench Parry,Adamantine Handholdgrip,F1,Demigod L1 Low,B
+MV-ELI-CLB-001-06,Paired Summons Hook,Mayhemknob,F5,Demigod L1 Low,B
+MV-ELI-CLB-001-07,Dual Verdict Blow,Wallop Scourge,F3,Demigod L1 Low,B
+MV-ELI-CLB-001-08,Court-in-Session Barrage,Lot Cudgel,F2,Demigod L1 Low,B
+MV-ELI-CLB-001-09,Pair-Bound Judgment,Thorn Bellyswell,F2,Demigod L1 Low,B
+MV-ELI-CLB-001-10,Twin-Court Final Ruling,Blistering Rumble Bulge,F6a,Demigod L1 Low,B
+MV-ELI-CLB-002-01,Hover-Over-Water Stance,Ironbulge,F5,Demigod L2 Mid,B
+MV-ELI-CLB-002-02,Surface-Skim Rap,Mightcudgel,F5,Demigod L2 Mid,B
+MV-ELI-CLB-002-03,Hawk-Light Cudgel Pivot,Gust Clout,F2,Demigod L2 Mid,B
+MV-ELI-CLB-002-04,Talon-Clasp Knock,Bulgewrath,F4,Demigod L2 Mid,B
+MV-ELI-CLB-002-05,Hawk-Eye Measuring Step,Vanishing Thump,F1,Demigod L2 Mid,B
+MV-ELI-CLB-002-06,Dive-and-Pull Hook,Burl Tenacity,F3,Demigod L2 Mid,B
+MV-ELI-CLB-002-07,Azure Updraft Lift,Energizing Heartwood,F1,Demigod L2 Mid,B
+MV-ELI-CLB-002-08,Skimming Cross Strike,Wrathful Thickend,F1,Demigod L2 Mid,B
+MV-ELI-CLB-002-09,Water-Shedding Parry,Murk Girth,F2,Demigod L2 Mid,B
+MV-ELI-CLB-002-10,Reed-Breaking Stoop,Mangling Belabor,F1,Demigod L2 Mid,B
+MV-ELI-CLB-002-11,Wheel and Descend,Stoutwrath,F4,Demigod L2 Mid,B
+MV-ELI-CLB-002-12,Sky-Cleaving Talon Fall,Brutalizing Handholdgrip,F1,Demigod L2 Mid,B
+MV-ELI-CLB-003-01,Riverbed Footing Stance,Impenetrable Stout,F1,Demigod L3 High,B
+MV-ELI-CLB-003-02,Silt-Stirring Sweep,Thumpwrath,F4,Demigod L3 High,B
+MV-ELI-CLB-003-03,Ford-Crossing Club Pace,Torrent Wallop,F2,Demigod L3 High,B
+MV-ELI-CLB-003-04,Current-Reading Probe,Unerring Girth,F1,Demigod L3 High,B
+MV-ELI-CLB-003-05,Bank-Breaking Hammer,Berserk Heartwood,F1,Demigod L3 High,B
+MV-ELI-CLB-003-06,Eddy-Trapping Hook,Thornknob,F5,Demigod L3 High,B
+MV-ELI-CLB-003-07,Tributary Gathering Charge,Vitalbulge,F5,Demigod L3 High,B
+MV-ELI-CLB-003-08,Flood-Stage Crush,Cudgelruin,F4,Demigod L3 High,B
+MV-ELI-CLB-003-09,Basin Overflows Its Banks,Granite Thickend,F2,Demigod L3 High,B
+MV-ELI-CLB-004-01,Heavy-Club Dual Grip,Knobvalor,F4,Demigod L4 Low,B
+MV-ELI-CLB-004-02,Track-One Pound,Thumphavoc,F4,Demigod L4 Low,B
+MV-ELI-CLB-004-03,Track-Two Pound,Knobscourge,F4,Demigod L4 Low,B
+MV-ELI-CLB-004-04,Heavy Pivot-and-Plant,Blinding Knob,F1,Demigod L4 Low,B
+MV-ELI-CLB-004-05,Rail-Sliding Advance,Torrential Cudgel,F1,Demigod L4 Low,B
+MV-ELI-CLB-004-06,Track-Switch Cudgel Feint,Overbearing Belabor,F1,Demigod L4 Low,B
+MV-ELI-CLB-004-07,Weighted Shoulder Check,Toxinstout,F5,Demigod L4 Low,B
+MV-ELI-CLB-004-08,Dual-Rail Brace,Aegis Knob,F2,Demigod L4 Low,B
+MV-ELI-CLB-004-09,Counter-Track Sweep,Thump Ruin,F3,Demigod L4 Low,B
+MV-ELI-CLB-004-10,Pounding Pair of Rails,Clout Devastation,F3,Demigod L4 Low,B
+MV-ELI-CLB-004-11,Rail-Breaking Hammer,Sanguine Roundhead,F2,Demigod L4 Low,B
+MV-ELI-CLB-004-12,Twin-Rail Hurling Fling,Hogtying Bulge,F1,Demigod L4 Low,B
+MV-ELI-CLB-004-13,Both Rails Meet at the Head,Ferocious Bellyswell,F1,Demigod L4 Low,B
+MV-ELI-CLB-005-01,Two-Hawk Watch Stance,Aegis Thickend,F2,Demigod L5 Mid,B
+MV-ELI-CLB-005-02,Pair-Rap Dive,Iron Belabor,F2,Demigod L5 Mid,B
+MV-ELI-CLB-005-03,Hunting Circle Cudgel Step,Gust Bludgeon,F2,Demigod L5 Mid,B
+MV-ELI-CLB-005-04,Wingtip Parry,Unconquered Heartwood,F1,Demigod L5 Mid,B
+MV-ELI-CLB-005-05,Shared-Shadow Knock,Hellish Knob,F1,Demigod L5 Mid,B
+MV-ELI-CLB-005-06,Lead Hawk Lure,Mayhem Handholdgrip,F2,Demigod L5 Mid,B
+MV-ELI-CLB-005-07,Follow Hawk Strike,Unsparing Bludgeon,F1,Demigod L5 Mid,B
+MV-ELI-CLB-005-08,Crossing Flight Guard,Invincible Stout,F1,Demigod L5 Mid,B
+MV-ELI-CLB-005-09,Hawks Strike From Both Wings,Devastating Girth,F1,Demigod L5 Mid,B
+MV-ELI-CLB-005-10,Wing-Pinning Press,Burlnerve,F4,Demigod L5 Mid,B
+MV-ELI-CLB-005-11,Stooping Pair,Shattering Hollow Burl,F6a,Demigod L5 Mid,B
+MV-ELI-CLB-006-01,Azure-Sky Shoulder Stance,Charter Bulge,F2,Demigod L6 Low,B
+MV-ELI-CLB-006-02,Clear-Day Clout,Wrathful Wallop,F1,Demigod L6 Low,B
+MV-ELI-CLB-006-03,Cloudless Pace,Torrent Stout,F2,Demigod L6 Low,B
+MV-ELI-CLB-006-04,Blue Bruise Knock,Eviscerating Bellyswell,F1,Demigod L6 Low,B
+MV-ELI-CLB-006-05,Deep-Blue Sinking Blow,Sanguine Clout,F2,Demigod L6 Low,B
+MV-ELI-CLB-006-06,Horizon Sweep,Blistering Thump,F1,Demigod L6 Low,B
+MV-ELI-CLB-006-07,Skyward Brace,Indomitable Roundhead,F1,Demigod L6 Low,B
+MV-ELI-CLB-006-08,Zenith Hammer,Girthscourge,F4,Demigod L6 Low,B
+MV-ELI-CLB-006-09,Dome of Falling Blows,Shadecudgel,F5,Demigod L6 Low,B
+MV-ELI-CLB-006-10,Blue Heaven Presses Down,Bludgeon Wrath,F3,Demigod L6 Low,B
+MV-ELI-CLB-007-01,Basin-Mouth Narrow Stance,Aegisbulge,F5,Demigod L7 Mid,B
+MV-ELI-CLB-007-02,Funnel Thrust,Blazeknob,F5,Demigod L7 Mid,B
+MV-ELI-CLB-007-03,Choke-Point Rap,Cudgel Havoc,F3,Demigod L7 Mid,B
+MV-ELI-CLB-007-04,Outflow Step,Torrential Burl,F1,Demigod L7 Mid,B
+MV-ELI-CLB-007-05,Lip Catch,Rumbleknob,F5,Demigod L7 Mid,B
+MV-ELI-CLB-007-06,Narrowing Funnel Press,Charter Heartwood,F2,Demigod L7 Mid,B
+MV-ELI-CLB-007-07,Spill-Over Shoulder Blow,Sanguine Belabor,F2,Demigod L7 Mid,B
+MV-ELI-CLB-007-08,Downstream Hook,Toxin Girth,F2,Demigod L7 Mid,B
+MV-ELI-CLB-007-09,Sluice Parry,Equipoise Bellyswell,F2,Demigod L7 Mid,B
+MV-ELI-CLB-007-10,Mouth Opens on the Plain,Blazecudgel,F5,Demigod L7 Mid,B
+MV-ELI-CLB-007-11,Plunging Spout Smash,Gust Thickend,F2,Demigod L7 Mid,B
+MV-ELI-CLB-007-12,The Whole Basin Pours Through,Ferocious Bulge,F1,Demigod L7 Mid,B
+MV-ELI-CLB-008-01,Sworn Wind Cudgel Footing,Hoarfrost Handholdgrip,F2,Demigod L1 Mid,B
+MV-ELI-CLB-008-02,Gale-Brush Rap,Blaze Burl,F2,Demigod L1 Mid,B
+MV-ELI-CLB-008-03,Draft-Skimming Step,Vanishing Wallop,F1,Demigod L1 Mid,B
+MV-ELI-CLB-008-04,Lull-and-Strike Swing,Cudgel Reckoning,F3,Demigod L1 Mid,B
+MV-ELI-CLB-008-05,Breath-of-the-Plateau Parry,Equipoise Knob,F2,Demigod L1 Mid,B
+MV-ELI-CLB-008-06,Swearing Breath Hammer,Devastating Stout,F1,Demigod L1 Mid,B
+MV-ELI-CLB-008-07,Wind-Tugged Hook,Mayhem Burl,F2,Demigod L1 Mid,B
+MV-ELI-CLB-008-08,Open-Ground Cudgel Brace,Heartwood Spine,F3,Demigod L1 Mid,B
+MV-ELI-CLB-008-09,Sworn Gale Breaker,Blaze Belabor,F2,Demigod L1 Mid,B
+MV-ELI-CLB-008-10,Updraft Launcher,Wallophavoc,F4,Demigod L1 Mid,B
+MV-ELI-CLB-008-11,Wind Keeps Its Word,Titanic Wallop Reckoning,F6b,Demigod L1 Mid,B
+MV-ELI-CLB-009-01,Plateau Open-Ground Stance,Hoarfrost Stout,F2,Demigod L2 Low,B
+MV-ELI-CLB-009-02,Longwind Swing,Eviscerating Clout,F1,Demigod L2 Low,B
+MV-ELI-CLB-009-03,Scrub-Grass Step,Stoutflash,F4,Demigod L2 Low,B
+MV-ELI-CLB-009-04,Dust-Raising Sweep,Murkcudgel,F5,Demigod L2 Low,B
+MV-ELI-CLB-009-05,Wind-Shear Bash,Gust Bellyswell,F2,Demigod L2 Low,B
+MV-ELI-CLB-009-06,Plateau Brace,Thorn Handholdgrip,F2,Demigod L2 Low,B
+MV-ELI-CLB-009-07,High Plateau Hammer,Grievous Knob,F1,Demigod L2 Low,B
+MV-ELI-CLB-009-08,Leveling Wind Press,Thump Valor,F3,Demigod L2 Low,B
+MV-ELI-CLB-009-09,Plateau Wind Falls Upon Him,Dismantling Cudgel,F2,Demigod L2 Low,B
+MV-ELI-CLB-010-01,Bearing-Held Stance,Knobmettle,F4,Demigod L3 Mid,B
+MV-ELI-CLB-010-02,Needle-Line Thrust,Gustthump,F5,Demigod L3 Mid,B
+MV-ELI-CLB-010-03,Bearing Cudgel Pace,Siltclout,F5,Demigod L3 Mid,B
+MV-ELI-CLB-010-04,Oath-Line Rap,Hellish Thickend,F1,Demigod L3 Mid,B
+MV-ELI-CLB-010-05,Bearing Club Parry,Chime Roundhead,F2,Demigod L3 Mid,B
+MV-ELI-CLB-010-06,Oath-Mark Pursuit,Silt Thump,F2,Demigod L3 Mid,B
+MV-ELI-CLB-010-07,True-Line Blow,Granite Girth,F2,Demigod L3 Mid,B
+MV-ELI-CLB-010-08,Slipped Bearing Bind,Gyve Roundhead,F2,Demigod L3 Mid,B
+MV-ELI-CLB-010-09,Hold-the-Line Brace,Invincible Roundhead,F1,Demigod L3 Mid,B
+MV-ELI-CLB-010-10,Oath Bearing Smash,Brutalizing Bulge,F1,Demigod L3 Mid,B
+MV-ELI-CLB-010-11,Bearing Through the Storm,Thump Scourge,F3,Demigod L3 Mid,B
+MV-ELI-CLB-010-12,The Bearing Never Bends,Pitiless Hollow Knob,F6a,Demigod L3 Mid,B
+MV-ELI-CLB-011-01,Cudgel Open-Sky Stance,Iron Handholdgrip,F2,Demigod L5 Low,B
+MV-ELI-CLB-011-02,Horizon Rap,Rumble Belabor,F2,Demigod L5 Low,B
+MV-ELI-CLB-011-03,Dry-Grass Cudgel Step,Granite Bludgeon,F2,Demigod L5 Low,B
+MV-ELI-CLB-011-04,Far-Reach Poke,Bellyswell Wrath,F3,Demigod L5 Low,B
+MV-ELI-CLB-011-05,Long-View Sweep,Granite Cudgel,F2,Demigod L5 Low,B
+MV-ELI-CLB-011-06,Wide-Plain Brace,Obdurate Bulge,F1,Demigod L5 Low,B
+MV-ELI-CLB-011-07,Skylined Hook,Mayhem Girth,F2,Demigod L5 Low,B
+MV-ELI-CLB-011-08,Plateau-Crossing Charge,Dazzling Stout,F1,Demigod L5 Low,B
+MV-ELI-CLB-011-09,Open-Ground Hammer,Stoutruin,F4,Demigod L5 Low,B
+MV-ELI-CLB-011-10,Nothing Stands on the Plateau,Girthwrath,F4,Demigod L5 Low,B
+MV-ELI-CLB-012-01,Gale-Breaker Setting,Unbudging Heartwood,F1,Demigod L6 High,B
+MV-ELI-CLB-012-02,Wind-Splitting Rap,Pitiless Thickend,F1,Demigod L6 High,B
+MV-ELI-CLB-012-03,Storm-Cloud Footwork,Might Clout,F2,Demigod L6 High,B
+MV-ELI-CLB-012-04,Rain-Slant Parry,Unconquered Burl,F1,Demigod L6 High,B
+MV-ELI-CLB-012-05,Hail-Tap Knock,Brutalizing Stout,F1,Demigod L6 High,B
+MV-ELI-CLB-012-06,Squall-Breaking Blow,Wallopwrath,F4,Demigod L6 High,B
+MV-ELI-CLB-012-07,Gust-Catching Hook,Toxin Wallop,F2,Demigod L6 High,B
+MV-ELI-CLB-012-08,Storm-Braced Shield,Adamantine Bellyswell,F1,Demigod L6 High,B
+MV-ELI-CLB-012-09,Flashing Rebound Strike,Knobwrath,F4,Demigod L6 High,B
+MV-ELI-CLB-012-10,Breaking the Gale,Titanic Girth,F1,Demigod L6 High,B
+MV-ELI-CLB-012-11,Windbreak Hammer,Corroding Bludgeon,F1,Demigod L6 High,B
+MV-ELI-CLB-012-12,Tempest Crossing Charge,Unseen Burl,F1,Demigod L6 High,B
+MV-ELI-CLB-012-13,Gale-Breaker's Last Gale,Ruinous Bulge,F1,Demigod L6 High,B
+MV-ELI-CLB-013-01,Bearing-and-Blow Stance,Iron Knob,F2,Demigod L8 Mid,B
+MV-ELI-CLB-013-02,Blow Along the Bearing,Ironclout,F5,Demigod L8 Mid,B
+MV-ELI-CLB-013-03,Return-Bearing Step,Torrent Clout,F2,Demigod L8 Mid,B
+MV-ELI-CLB-013-04,Sighted-Blow Pursuit,Granite Heartwood,F2,Demigod L8 Mid,B
+MV-ELI-CLB-013-05,Bearing-Locked Press,Ponderous Bludgeon,F2,Demigod L8 Mid,B
+MV-ELI-CLB-013-06,Blow-Turning Guard,Torrent Roundhead,F2,Demigod L8 Mid,B
+MV-ELI-CLB-013-07,Bearing Struck Home,Rumblegirth,F5,Demigod L8 Mid,B
+MV-ELI-CLB-013-08,Fixed-Bearing Drive,Blistering Belabor,F1,Demigod L8 Mid,B
+MV-ELI-CLB-013-09,Blow and Bearing Are One,Thickend Wrath,F3,Demigod L8 Mid,B
+MV-ELI-CLB-014-01,Long-Wind Breath Stance,Handholdgrip Tenacity,F3,Demigod L9 Peak,B
+MV-ELI-CLB-014-02,Leeward Rap,Bellyswell Ruin,F3,Demigod L9 Peak,B
+MV-ELI-CLB-014-03,Trailing Gust Step,Headlong Handholdgrip,F1,Demigod L9 Peak,B
+MV-ELI-CLB-014-04,Far-Wind Swing,Granite Knob,F2,Demigod L9 Peak,B
+MV-ELI-CLB-014-05,Hillside Parry,Chimeburl,F5,Demigod L9 Peak,B
+MV-ELI-CLB-014-06,Long-Breath Overhead,Bulgescourge,F4,Demigod L9 Peak,B
+MV-ELI-CLB-014-07,Wind-Runner Hook,Mayhem Thump,F2,Demigod L9 Peak,B
+MV-ELI-CLB-014-08,Streaming Guard,Facet Stout,F2,Demigod L9 Peak,B
+MV-ELI-CLB-014-09,Long Wind Hammerfall,Girthruin,F4,Demigod L9 Peak,B
+MV-ELI-CLB-014-10,Gale-Lasting Barrage,Granite Wallop,F2,Demigod L9 Peak,B
+MV-ELI-CLB-014-11,The Wind That Does Not Stop,Slagwallop,F5,Demigod L9 Peak,B
+MV-ELI-CLB-005-11,Shattering Hollow Burl,Shattering Burl,F6a,Demigod L5 Mid,B
+MV-ELI-CLB-010-12,Pitiless Hollow Knob,Pitiless Knob,F6a,Demigod L3 Mid,B

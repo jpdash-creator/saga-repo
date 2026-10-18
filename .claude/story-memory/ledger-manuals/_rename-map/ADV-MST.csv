@@ -1,0 +1,99 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-MST-001-01,Plate Seam Probe,Needling Topspike,F1,Champion L1 Low,B
+MV-ADV-MST-001-02,Mail Rake Pull,Pummelthrash,F4,Champion L1 Low,B
+MV-ADV-MST-001-03,Dented Guard Cover,Unyielding Shaftcollar,F1,Champion L1 Low,B
+MV-ADV-MST-001-04,Armored Foe Pace,Ballleap,F4,Champion L1 Low,B
+MV-ADV-MST-001-05,Spike Piercing Bore,Harpooning Headspike,F1,Champion L1 Low,B
+MV-ADV-MST-001-06,Rattling Helm Blow,Crunchassault,F4,Champion L1 Low,B
+MV-ADV-MST-001-07,Plate Splitting Fall,Rupturing Spikebase Onslaught,F6b,Champion L1 Low,B
+MV-ADV-MST-001-08,Through Mail Twist,Ballbarrage,F4,Champion L1 Low,B
+MV-ADV-MST-002-01,Crown Crush Lift,Splitting Spikering,F1,Demigod L1 Low,B
+MV-ADV-MST-002-02,Crown Crush Fall,Maulthrash,F4,Demigod L1 Low,B
+MV-ADV-MST-002-03,Crown Haft Shield,Steadfast Spikebase,F1,Demigod L1 Low,B
+MV-ADV-MST-002-04,Crown Side Pace,Burrpounce,F4,Demigod L1 Low,B
+MV-ADV-MST-002-05,Field Weighted Fall,Aura Studcrush,F2,Demigod L1 Low,B
+MV-ADV-MST-002-06,Skull Echo Blow,Burrtorment,F4,Demigod L1 Low,B
+MV-ADV-MST-002-07,Crown Reverse Return,Thistleassault,F4,Demigod L1 Low,B
+MV-ADV-MST-002-08,Cracked Guard Collapse,Crippling Headspike,F1,Demigod L1 Low,B
+MV-ADV-MST-002-09,Crown Breaker Descent,Ravaging Studcrush,F1,Demigod L1 Low,B
+MV-ADV-MST-002-10,Three Crown Hammering,Interlocking Pummel,F1,Demigod L1 Low,B
+MV-ADV-MST-003-01,Rim Probe Tap,Trouncing Ballsocket,F1,Champion L5 Mid,B
+MV-ADV-MST-003-02,Boss Strike Knock,Crunchtorment,F4,Champion L5 Mid,B
+MV-ADV-MST-003-03,Splinter Haft Guard,Hardened Ballsocket,F1,Champion L5 Mid,B
+MV-ADV-MST-003-04,Shield Edge Slide,Thistlecanter,F4,Champion L5 Mid,B
+MV-ADV-MST-003-05,Board Hook Drag,Manacling Spikering,F1,Champion L5 Mid,B
+MV-ADV-MST-003-06,Rim Biting Strike,Maulassault,F4,Champion L5 Mid,B
+MV-ADV-MST-003-07,Bracing Arm Smash,Scorching Headspike,F1,Champion L5 Mid,B
+MV-ADV-MST-003-08,Shield Wall Rattle,Stifling Thornball,F1,Champion L5 Mid,B
+MV-ADV-MST-003-09,Pinned Board Haul,Subduing Prickball,F1,Champion L5 Mid,B
+MV-ADV-MST-003-10,Shield Boss Shatter,Thistlethrash,F4,Champion L5 Mid,B
+MV-ADV-MST-003-11,Cover Collapse Drive,Raging Spikedrop,F1,Champion L5 Mid,B
+MV-ADV-MST-004-01,Landing Spot Fix,Ballthrash,F4,Demigod L4 Low,B
+MV-ADV-MST-004-02,Landing Thread Pull,Immovable Headspike,F1,Demigod L4 Low,B
+MV-ADV-MST-004-03,Landing Pace Shift,Pummelspurt,F4,Demigod L4 Low,B
+MV-ADV-MST-004-04,Single Spike Dab,Nimbus Topspike,F2,Demigod L4 Low,B
+MV-ADV-MST-004-05,Gathered Field Point,Facet Prickball,F2,Demigod L4 Low,B
+MV-ADV-MST-004-06,Narrow Wound Strike,Lancing Spikeball,F1,Demigod L4 Low,B
+MV-ADV-MST-004-07,Deep Landing Recovery,Enduring Ballsocket,F1,Demigod L4 Low,B
+MV-ADV-MST-004-08,Spike Seat Hold,Quelling Shaftcollar,F1,Demigod L4 Low,B
+MV-ADV-MST-004-09,Needle Point Fall,Needling Spikering,F1,Demigod L4 Low,B
+MV-ADV-MST-005-01,Paired Lift Stance,Resilient Spikering,F1,Champion L9 Peak,B
+MV-ADV-MST-005-02,River Bend Orb Swing,Thistlebarrage,F4,Champion L9 Peak,B
+MV-ADV-MST-005-03,Twin Hand Slide,Crunchjaunt,F4,Champion L9 Peak,B
+MV-ADV-MST-005-04,Basin Drop Stroke,Granite Topspike,F2,Champion L9 Peak,B
+MV-ADV-MST-005-05,Second Track Parry,Unshaken Shaftcollar,F1,Champion L9 Peak,B
+MV-ADV-MST-005-06,Twin Swing Lock,Dominating Spikeball,F1,Champion L9 Peak,B
+MV-ADV-MST-005-07,Dual-Track Hammer,Maulbarrage,F4,Champion L9 Peak,B
+MV-ADV-MST-005-08,Paired Echo Strike,Pummeltorment,F4,Champion L9 Peak,B
+MV-ADV-MST-005-09,River Mouth Orb Sweep,Siltcrunch,F5,Champion L9 Peak,B
+MV-ADV-MST-005-10,Twin Court Guard Drop,Annealed Ballsocket,F1,Champion L9 Peak,B
+MV-ADV-MST-006-01,Hawk Stoop Lift,Harrowing Prickball,F1,Demigod L2 Low,B
+MV-ADV-MST-006-02,Hawk Stoop Fall,Crunchbarrage,F4,Demigod L2 Low,B
+MV-ADV-MST-006-03,Low Hawk Skim,Burrassault,F4,Demigod L2 Low,B
+MV-ADV-MST-006-04,Paired Wing Cover,Staunch Thornball,F1,Demigod L2 Low,B
+MV-ADV-MST-006-05,Azure Glide Orb Step,Gustmaul,F5,Demigod L2 Low,B
+MV-ADV-MST-006-06,Talon Spike Catch,Silencing Topspike,F1,Demigod L2 Low,B
+MV-ADV-MST-006-07,High Low Hawk Pair,Compounding Spikering,F1,Demigod L2 Low,B
+MV-ADV-MST-006-08,Hawk Pinion Guard,Unflinching Headspike,F1,Demigod L2 Low,B
+MV-ADV-MST-006-09,Stooping Qi Drop,Lambasting Studcrush,F1,Demigod L2 Low,B
+MV-ADV-MST-006-10,Azure Talon Rake,Nimbus Spikedrop,F2,Demigod L2 Low,B
+MV-ADV-MST-006-11,Double Hawk Descent,Successive Pummel,F1,Demigod L2 Low,B
+MV-ADV-MST-006-12,Hawk Pair Pinning Strike,Iron Prickball,F2,Demigod L2 Low,B
+MV-ADV-MST-007-01,Basin Edge Orb Stance,Mantled Spikering,F1,Demigod L6 Low,B
+MV-ADV-MST-007-02,River Flow Swing,Ravaging Headspike,F1,Demigod L6 Low,B
+MV-ADV-MST-007-03,Azure Pace Cut,Ballsprint,F4,Demigod L6 Low,B
+MV-ADV-MST-007-04,Twin Spike Tap,Transfixing Topspike,F1,Demigod L6 Low,B
+MV-ADV-MST-007-05,Two Stream Guard,Hardened Spikebase,F1,Demigod L6 Low,B
+MV-ADV-MST-007-06,Linked Track Strike,Maultorment,F4,Demigod L6 Low,B
+MV-ADV-MST-007-07,Basin Fill Drive,Drubbing Studball,F1,Demigod L6 Low,B
+MV-ADV-MST-007-08,River Cut Return,Tiered Crunch,F1,Demigod L6 Low,B
+MV-ADV-MST-008-01,Plateau Edge Shaft Stance,Adamant Shaftcollar,F1,Ruler L2 Low,B
+MV-ADV-MST-008-02,Wind-Sworn Overhand,Thistletorment,F4,Ruler L2 Low,B
+MV-ADV-MST-008-03,Long Stride Cut,Crunchspurt,F4,Ruler L2 Low,B
+MV-ADV-MST-008-04,Open Ground Hook,Hamstringing Spikedrop,F1,Ruler L2 Low,B
+MV-ADV-MST-008-05,Gust Swing Return,Skinning Ballsocket,F1,Ruler L2 Low,B
+MV-ADV-MST-008-06,Reach Spike Press,Lancing Studball,F1,Ruler L2 Low,B
+MV-ADV-MST-008-07,Plateau Gale Guard,Immovable Prickball,F1,Ruler L2 Low,B
+MV-ADV-MST-008-08,Wind Sweep Broad,Blazemaul,F5,Ruler L2 Low,B
+MV-ADV-MST-008-09,Open Field Pursuit,Alternating Pummel,F1,Ruler L2 Low,B
+MV-ADV-MST-009-01,Bearing Sighting Line,Unbroken Headspike,F1,Champion L6 Mid,B
+MV-ADV-MST-009-02,Bearing Held Swing,Furrowing Thornball,F1,Champion L6 Mid,B
+MV-ADV-MST-009-03,Bearing Pivot Turn,Thistlejaunt,F4,Champion L6 Mid,B
+MV-ADV-MST-009-04,Bearing Spike Check,Harpooning Spikebase,F1,Champion L6 Mid,B
+MV-ADV-MST-009-05,Bearing Slip Counter,Staunch Topspike,F1,Champion L6 Mid,B
+MV-ADV-MST-009-06,Bearing Return Blow,Grinding Prickball,F1,Champion L6 Mid,B
+MV-ADV-MST-009-07,Held Line Drop,Cleaving Spikering,F1,Champion L6 Mid,B
+MV-ADV-MST-009-08,Bearing Lock Press,Compressing Shaftcollar,F1,Champion L6 Mid,B
+MV-ADV-MST-009-09,Cross Bearing Step,Surging Thornbite,F1,Champion L6 Mid,B
+MV-ADV-MST-009-10,Spike True Landing,Tempered Topspike,F2,Champion L6 Mid,B
+MV-ADV-MST-009-11,Bearing Chain Strike,Funneling Studcrush,F1,Champion L6 Mid,B
+MV-ADV-MST-010-01,Oath Struck Opening,Rupturing Prickball,F1,Demigod L8 Low,B
+MV-ADV-MST-010-02,Gale Edge Brace,Enduring Shaftcollar,F1,Demigod L8 Low,B
+MV-ADV-MST-010-03,Wind Reach Step,Maulleap,F4,Demigod L8 Low,B
+MV-ADV-MST-010-04,Oath Rake Return,Wrecking Ballsocket,F1,Demigod L8 Low,B
+MV-ADV-MST-010-05,Gale Breath Swing,Trouncing Headspike,F1,Demigod L8 Low,B
+MV-ADV-MST-010-06,Oath Weight Drop,Unmaking Spikebase,F1,Demigod L8 Low,B
+MV-ADV-MST-010-07,Long Reach Hook Pull,Staggering Topspike,F1,Demigod L8 Low,B
+MV-ADV-MST-010-08,Gale Edge Haft Parry,Resilient Thornball,F1,Demigod L8 Low,B
+MV-ADV-MST-010-09,Edge of the Plateau Crash,Raging Slag Thornbite,F6a,Demigod L8 Low,B
+MV-ADV-MST-010-10,Sworn Wind Round,Downpour Spikering,F2,Demigod L8 Low,B

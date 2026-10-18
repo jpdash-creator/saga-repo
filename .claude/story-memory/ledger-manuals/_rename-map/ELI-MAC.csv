@@ -1,0 +1,133 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-MAC-001-01,Azure Pair Machete Draw,Tempered Brushcut,F2,Demigod L1 Low,B
+MV-ELI-MAC-001-02,Hawk-Eye Footing,Phantom Hacksweep,F1,Demigod L1 Low,B
+MV-ELI-MAC-001-03,Pair Guard Cross,Aegisvine,F5,Demigod L1 Low,B
+MV-ELI-MAC-001-04,Twin Rap Release,Mowspine,F4,Demigod L1 Low,B
+MV-ELI-MAC-001-05,Paired Qi Edge Run,Scrubwrath,F4,Demigod L1 Low,B
+MV-ELI-MAC-001-06,Mirror Parry Turn,Thickbelly Fortitude,F3,Demigod L1 Low,B
+MV-ELI-MAC-001-07,Second Track Hook,Bushspine,F4,Demigod L1 Low,B
+MV-ELI-MAC-001-08,Dual-Track Felling Rush,Vinescourge,F4,Demigod L1 Low,B
+MV-ELI-MAC-001-09,Azure Field Cover,Granite Bluntspine,F2,Demigod L1 Low,B
+MV-ELI-MAC-001-10,Twin Edge Pierce Through,Facet Brushedge,F2,Demigod L1 Low,B
+MV-ELI-MAC-002-01,Delta Channel Draw,Blaze Wideback,F2,Demigod L4 Low,B
+MV-ELI-MAC-002-02,Silt Footing Shuffle,Siltbush,F5,Demigod L4 Low,B
+MV-ELI-MAC-002-03,Sandbar Guard,Facetvine,F5,Demigod L4 Low,B
+MV-ELI-MAC-002-04,Many-Mouth Slash,Decimating Machhilt,F1,Demigod L4 Low,B
+MV-ELI-MAC-002-05,Current Split Parry,Chime Widetip,F2,Demigod L4 Low,B
+MV-ELI-MAC-002-06,Silt Drag Hook,Mow Fortitude,F3,Demigod L4 Low,B
+MV-ELI-MAC-002-07,River Mouth Brush Sweep,Vinewrath,F4,Demigod L4 Low,B
+MV-ELI-MAC-002-08,Flood Plain Pressing,Wrathful Cutback,F1,Demigod L4 Low,B
+MV-ELI-MAC-002-09,Delta Rush Flash,Unseen Clearcut,F1,Demigod L4 Low,B
+MV-ELI-MAC-003-01,First Stoop Cut,Tempered Rivetgrip,F2,Demigod L7 Low,B
+MV-ELI-MAC-003-02,Hawk Wing Cross Guard,Scrubdurance,F4,Demigod L7 Low,B
+MV-ELI-MAC-003-03,Pinion Slide Step,Might Heavytang,F2,Demigod L7 Low,B
+MV-ELI-MAC-003-04,Hover Gaze Reading,Waning Widetip,F2,Demigod L7 Low,B
+MV-ELI-MAC-003-05,Talon Rake,Rumble Weightedge,F2,Demigod L7 Low,B
+MV-ELI-MAC-003-06,Second Stoop Chain,Gustweed,F5,Demigod L7 Low,B
+MV-ELI-MAC-003-07,Updraft Wing Parry,Weeddurance,F4,Demigod L7 Low,B
+MV-ELI-MAC-003-08,Quarry Hook Hold,Harnessing Bluntspine,F1,Demigod L7 Low,B
+MV-ELI-MAC-003-09,Plunging Hawk Felling,Thickbelly Ruin,F3,Demigod L7 Low,B
+MV-ELI-MAC-003-10,Hawk Cry Daze,Hogtying Weightedge,F1,Demigod L7 Low,B
+MV-ELI-MAC-003-11,Twofold Stoop Break,Facet Chopedge,F2,Demigod L7 Low,B
+MV-ELI-MAC-004-01,Basin Floor Brush Cut,Gust Brushcut,F2,Void God L1 Low,B
+MV-ELI-MAC-004-02,Low Ground Gather Step,Vanishing Heavytang,F1,Void God L1 Low,B
+MV-ELI-MAC-004-03,Rim Guard,Thorn Rivetgrip,F2,Void God L1 Low,B
+MV-ELI-MAC-004-04,Terraced Brace,Iron Chopedge,F2,Void God L1 Low,B
+MV-ELI-MAC-004-05,Wide Basin Sweep,Gust Brushedge,F2,Void God L1 Low,B
+MV-ELI-MAC-004-06,Rainfall Qi Cut,Hellish Hacksweep,F1,Void God L1 Low,B
+MV-ELI-MAC-004-07,Basin Lip Spine Parry,Machhilt Spine,F3,Void God L1 Low,B
+MV-ELI-MAC-004-08,Silt Weight Spine Press,Intentweed,F5,Void God L1 Low,B
+MV-ELI-MAC-004-09,Basin Funnel Pull,Hoarfrost Clearcut,F2,Void God L1 Low,B
+MV-ELI-MAC-004-10,Basin Gathering Brush Sweep,Silt Cutback,F2,Void God L1 Low,B
+MV-ELI-MAC-004-11,Downslope Rush,Might Lashdown,F2,Void God L1 Low,B
+MV-ELI-MAC-004-12,Floodwater Crash Cut,Brutalizing Mow,F1,Void God L1 Low,B
+MV-ELI-MAC-005-01,Court Left Cut,Ferocious Brushedge,F1,Void God L4 Low,B
+MV-ELI-MAC-005-02,Court Right Cut,Might Rivetgrip,F2,Void God L4 Low,B
+MV-ELI-MAC-005-03,Courtyard Pivot Step,Torrent Lashdown,F2,Void God L4 Low,B
+MV-ELI-MAC-005-04,Two-Hand Press Guard,Granite Weightedge,F2,Void God L4 Low,B
+MV-ELI-MAC-005-05,Clearing Pair Slash,Gustvine,F5,Void God L4 Low,B
+MV-ELI-MAC-005-06,Twin-Court Interlock,Thorn Wideback,F2,Void God L4 Low,B
+MV-ELI-MAC-005-07,Felling Prelude Check,Rumble Hacksweep,F2,Void God L4 Low,B
+MV-ELI-MAC-005-08,Twin-Court Felling Stroke,Granite Machhilt,F2,Void God L4 Low,B
+MV-ELI-MAC-005-09,Clearing Pair Sweep,Decimating Clearcut,F1,Void God L4 Low,B
+MV-ELI-MAC-005-10,Verdict of Two Edges,Decimating Mow,F1,Void God L4 Low,B
+MV-ELI-MAC-006-01,Horizon Line Draw,Brutalizing Thickbelly,F1,True God L1 Low,B
+MV-ELI-MAC-006-02,Field Pair Guard,Chopedge Valor,F3,True God L1 Low,B
+MV-ELI-MAC-006-03,Long Horizon Step,Siltweed,F5,True God L1 Low,B
+MV-ELI-MAC-006-04,Even Breath Reading,Verity Widetip,F2,True God L1 Low,B
+MV-ELI-MAC-006-05,Horizon Spine Rap,Cutback Obduracy,F3,True God L1 Low,B
+MV-ELI-MAC-006-06,Paired Field Slash,Scrubscourge,F4,True God L1 Low,B
+MV-ELI-MAC-006-07,Horizon Fold Parry,Unconquered Bluntspine,F1,True God L1 Low,B
+MV-ELI-MAC-006-08,Twin Reach Hook,Maiming Lashdown,F1,True God L1 Low,B
+MV-ELI-MAC-006-09,Distance Pair Check,Toxinscrub,F5,True God L1 Low,B
+MV-ELI-MAC-006-10,Field Pair Sweep,Mayhemweed,F5,True God L1 Low,B
+MV-ELI-MAC-006-11,Horizon Piercing Pair,Nova Brushcut,F2,True God L1 Low,B
+MV-ELI-MAC-006-12,Paired Cover Hold,Hoarfrost Heavytang,F2,True God L1 Low,B
+MV-ELI-MAC-006-13,Paired Horizon Flash,Glint Machhilt,F2,True God L1 Low,B
+MV-ELI-MAC-007-01,Open Edge Draw,Blistering Hacksweep,F1,Demigod L2 Low,B
+MV-ELI-MAC-007-02,Oath Stance Brace,Granite Rivetgrip,F2,Demigod L2 Low,B
+MV-ELI-MAC-007-03,Gust Side Step,Gust Wideback,F2,Demigod L2 Low,B
+MV-ELI-MAC-007-04,Oath Carried Slash,Rampaging Wideback,F1,Demigod L2 Low,B
+MV-ELI-MAC-007-05,Edge Held Flat Parry,Murkweed,F5,Demigod L2 Low,B
+MV-ELI-MAC-007-06,Sworn Line Bind,Webbing Lashdown,F1,Demigod L2 Low,B
+MV-ELI-MAC-007-07,Open Plateau Felling,Brushedge Scourge,F3,Demigod L2 Low,B
+MV-ELI-MAC-007-08,Oath Held Cover,Inexorable Weightedge,F1,Demigod L2 Low,B
+MV-ELI-MAC-007-09,Unspoken Oath Cut,Mangling Hollow Cutback,F6a,Demigod L2 Low,B
+MV-ELI-MAC-008-01,Plateau Slope Draw,Ironvine,F5,Demigod L5 Low,B
+MV-ELI-MAC-008-02,Windsworn Guard,Thorn Widetip,F2,Demigod L5 Low,B
+MV-ELI-MAC-008-03,Rising Wind Step,Might Thickbelly,F2,Demigod L5 Low,B
+MV-ELI-MAC-008-04,Wind Reading,Weedvigil,F4,Demigod L5 Low,B
+MV-ELI-MAC-008-05,Gale Hand Slash,Mowhavoc,F4,Demigod L5 Low,B
+MV-ELI-MAC-008-06,Crosswind Bind,Ponderous Chopedge,F2,Demigod L5 Low,B
+MV-ELI-MAC-008-07,Sworn Wind Counter,Inexorable Rivetgrip,F1,Demigod L5 Low,B
+MV-ELI-MAC-008-08,Plateau Gust Brush Sweep,Booming Mow,F1,Demigod L5 Low,B
+MV-ELI-MAC-008-09,Wind-Sworn Drive,Unsparing Hacksweep,F1,Demigod L5 Low,B
+MV-ELI-MAC-008-10,Plateau Wind Flash,Weedglimmer,F4,Demigod L5 Low,B
+MV-ELI-MAC-009-01,Bearing Line Brush Cut,Might Brushcut,F2,Demigod L8 Low,B
+MV-ELI-MAC-009-02,Bearing Hold Blade Guard,Charter Chopedge,F2,Demigod L8 Low,B
+MV-ELI-MAC-009-03,Heading Shift Step,Granite Brushedge,F2,Demigod L8 Low,B
+MV-ELI-MAC-009-04,Sky Bearing Reading,Chimescrub,F5,Demigod L8 Low,B
+MV-ELI-MAC-009-05,Heading Edge Rap,Toxinweed,F5,Demigod L8 Low,B
+MV-ELI-MAC-009-06,Bearing Edge Slash,Vineruin,F4,Demigod L8 Low,B
+MV-ELI-MAC-009-07,Gale Face Parry,Murk Machhilt,F2,Demigod L8 Low,B
+MV-ELI-MAC-009-08,Heading Lock Bind,Webbing Brushcut,F1,Demigod L8 Low,B
+MV-ELI-MAC-009-09,Wind Shift Check,Maiming Thickbelly,F1,Demigod L8 Low,B
+MV-ELI-MAC-009-10,Gale Heading Brush Sweep,Siltmow,F5,Demigod L8 Low,B
+MV-ELI-MAC-009-11,Bearing Piercing Run,Hollow Heavytang,F2,Demigod L8 Low,B
+MV-ELI-MAC-009-12,Held Heading Break,Devastating Widetip Scourge,F6b,Demigod L8 Low,B
+MV-ELI-MAC-010-01,Long Wind Machete Draw,Shattering Heavytang,F1,Void God L2 Low,B
+MV-ELI-MAC-010-02,Clearing Back Cut,Merciless Clearcut,F1,Void God L2 Low,B
+MV-ELI-MAC-010-03,Wind Pace Blade Step,Dazzling Bluntspine,F1,Void God L2 Low,B
+MV-ELI-MAC-010-04,Open Palm Guard,Facetbush,F5,Void God L2 Low,B
+MV-ELI-MAC-010-05,Windpath Reading,Wideback Vigil,F3,Void God L2 Low,B
+MV-ELI-MAC-010-06,Long Wind Slash,Granite Cutback,F2,Void God L2 Low,B
+MV-ELI-MAC-010-07,Stride Check,Chime Mow,F2,Void God L2 Low,B
+MV-ELI-MAC-010-08,Gale Edge Belly Hook,Gyve Hacksweep,F2,Void God L2 Low,B
+MV-ELI-MAC-010-09,Long Wind Clearing,Bushwrath,F4,Void God L2 Low,B
+MV-ELI-MAC-010-10,Windpath Piercing,Corroding Clearcut,F1,Void God L2 Low,B
+MV-ELI-MAC-010-11,Long Wind Taking,Unassailable Weightedge,F1,Void God L2 Low,B
+MV-ELI-MAC-011-01,Bare Ground Draw,Berserk Rivetgrip,F1,Void God L5 Low,B
+MV-ELI-MAC-011-02,Open Cut Return,Rumblemow,F5,Void God L5 Low,B
+MV-ELI-MAC-011-03,Bare Ground Slide,Mightweed,F5,Void God L5 Low,B
+MV-ELI-MAC-011-04,Open Field Blade Guard,Thickbelly Spine,F3,Void God L5 Low,B
+MV-ELI-MAC-011-05,Wide Sky Reading,Galvanizing Bluntspine,F1,Void God L5 Low,B
+MV-ELI-MAC-011-06,Bare Ground Slash,Mightmow,F5,Void God L5 Low,B
+MV-ELI-MAC-011-07,Unbarred Parry,Inexorable Widetip,F1,Void God L5 Low,B
+MV-ELI-MAC-011-08,Open Edge Belly Bind,Ponderous Brushedge,F2,Void God L5 Low,B
+MV-ELI-MAC-011-09,Open Hand Disruption,Chime Lashdown,F2,Void God L5 Low,B
+MV-ELI-MAC-011-10,Unbound Sweep,Blaze Clearcut,F2,Void God L5 Low,B
+MV-ELI-MAC-011-11,Open Field Piercing,Glintweed,F5,Void God L5 Low,B
+MV-ELI-MAC-011-12,Wide Sky Cover,Iron Bluntspine,F2,Void God L5 Low,B
+MV-ELI-MAC-011-13,Open Sky Heavy Fall,Hellish Weightedge,F1,Void God L5 Low,B
+MV-ELI-MAC-012-01,Brush Hand Draw,Granite Wideback,F2,True God L2 Low,B
+MV-ELI-MAC-012-02,Sworn Gale Guard,Aegis Machhilt,F2,True God L2 Low,B
+MV-ELI-MAC-012-03,Oath Footfall,Heavytang Flash,F3,True God L2 Low,B
+MV-ELI-MAC-012-04,Brushwind Rap,Rumble Brushcut,F2,True God L2 Low,B
+MV-ELI-MAC-012-05,Gale Hand Chain,Merciless Chopedge,F1,True God L2 Low,B
+MV-ELI-MAC-012-06,Sworn Hand Parry,Murk Thickbelly,F2,True God L2 Low,B
+MV-ELI-MAC-012-07,Oath Hook,Rivetgrip Tenacity,F3,True God L2 Low,B
+MV-ELI-MAC-012-08,Oath Gale Brush Sweep,Slag Cutback,F2,True God L2 Low,B
+MV-ELI-MAC-012-09,Sworn Gale Machete Fall,Wrathful Lashdown,F1,True God L2 Low,B
+MV-ELI-MAC-012-10,Oath Gale Reckoning,Ferocious Psyche Lashdown,F6a,True God L2 Low,B
+MV-ELI-MAC-007-09,Mangling Hollow Cutback,Brutal Cutback,F6a,Demigod L2 Low,B
+MV-ELI-MAC-009-11,Hollow Heavytang,Brutal Heavytang,F2,Demigod L8 Low,B

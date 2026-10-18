@@ -1,0 +1,120 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-GLV-001-01,Heavy Crescent Ready,Guardlug Remedy,F3,Champion L1 Low,B
+MV-ADV-GLV-001-02,Falling Crescent Chop,Granite Windrake,F2,Champion L1 Low,B
+MV-ADV-GLV-001-03,Weight-Shifting Step,Siltreave,F5,Champion L1 Low,B
+MV-ADV-GLV-001-04,Thick-Back Block Turn,Resilient Bladespine,F1,Champion L1 Low,B
+MV-ADV-GLV-001-05,Belly-Loaded Cleave,Ironcrook,F5,Champion L1 Low,B
+MV-ADV-GLV-001-06,Crescent Drop Pin,Gyve Glaiveblade,F2,Champion L1 Low,B
+MV-ADV-GLV-001-07,Weight-Dragged Flat Sweep,Cutbelly Onslaught,F3,Champion L1 Low,B
+MV-ADV-GLV-001-08,Mountain-Splitting Crescent Fall,Might Longedge,F2,Champion L1 Low,B
+MV-ADV-GLV-001-09,Crescent Weight Chain,Lot Ferrulecap,F2,Champion L1 Low,B
+MV-ADV-GLV-002-01,Pike-Hedge Gap Reading,Waning Curvetip,F2,Champion L6 Mid,B
+MV-ADV-GLV-002-02,Pike Shaft Chop,Slicefall Assault,F3,Champion L6 Mid,B
+MV-ADV-GLV-002-03,Between-the-Points Slip,Granite Glavesocket,F2,Champion L6 Mid,B
+MV-ADV-GLV-002-04,Point-Bundle Sweep Aside,Chimebend,F5,Champion L6 Mid,B
+MV-ADV-GLV-002-05,Shaft-Severing Qi Cut,Severing Longcut,F1,Champion L6 Mid,B
+MV-ADV-GLV-002-06,Front-Rank Opening Drive,Rumble Reave,F2,Champion L6 Mid,B
+MV-ADV-GLV-002-07,Hedge-Cutting Sweep,Unmaking Tangheel,F1,Champion L6 Mid,B
+MV-ADV-GLV-002-08,Sever-Pin-Drive Sequence,Doctrine Slicefall,F2,Champion L6 Mid,B
+MV-ADV-GLV-003-01,Sheath Breadth Awareness,Spineedge Tincture,F3,Demigod L1 Low,B
+MV-ADV-GLV-003-02,Sheath-First Slash,Scalding Ferrulecap,F1,Demigod L1 Low,B
+MV-ADV-GLV-003-03,Sheath-Needle Thrust,Facet Edgeswing,F2,Demigod L1 Low,B
+MV-ADV-GLV-003-04,Sheath Graze Turn,Murk Bladespine,F2,Demigod L1 Low,B
+MV-ADV-GLV-003-05,Rim-of-Sheath Pace,Bendleap,F4,Demigod L1 Low,B
+MV-ADV-GLV-003-06,Sheath Extension Crescent,Bendthrash,F4,Demigod L1 Low,B
+MV-ADV-GLV-003-07,Sheath-Caught Weapon,Hoarfrost Tangheel,F2,Demigod L1 Low,B
+MV-ADV-GLV-003-08,Sheath Snap Disruption,Toxin Spineedge,F2,Demigod L1 Low,B
+MV-ADV-GLV-003-09,Long Crescent Reach Cut,Blaze Reave,F2,Demigod L1 Low,B
+MV-ADV-GLV-003-10,Needle Reach Pierce,Drubbing Glavesocket,F1,Demigod L1 Low,B
+MV-ADV-GLV-004-01,Duelist's Distance Salute,Fortifying Glaiveblade,F1,Demigod L3 Mid,B
+MV-ADV-GLV-004-02,Circle-Edge Cut,Reavebarrage,F4,Demigod L3 Mid,B
+MV-ADV-GLV-004-03,Lead-Foot Pivot Orbit,Torrent Cutbelly,F2,Demigod L3 Mid,B
+MV-ADV-GLV-004-04,Edge-on-Edge Roll-Off,Unyielding Longedge,F1,Demigod L3 Mid,B
+MV-ADV-GLV-004-05,Knee-Dip Lure,Mayhem Windrake,F2,Demigod L3 Mid,B
+MV-ADV-GLV-004-06,Closing Heel Cut,Glaiveassault,F4,Demigod L3 Mid,B
+MV-ADV-GLV-004-07,Qi-Read Counter Slash,Ironreave,F5,Demigod L3 Mid,B
+MV-ADV-GLV-004-08,Throat-Pointed Pressing Walk,Shadebend,F5,Demigod L3 Mid,B
+MV-ADV-GLV-004-09,Parry-Binding Roll,Guardlug Plating,F3,Demigod L3 Mid,B
+MV-ADV-GLV-004-10,Circle-Closing Stroke Chain,Intertwined Intent Longcut,F6a,Demigod L3 Mid,B
+MV-ADV-GLV-004-11,Decisive Crescent Draw,Blaze Curvetip,F2,Demigod L3 Mid,B
+MV-ADV-GLV-005-01,Twin-Court Opening Pair,Waning Glaiveblade,F2,Ruler L1 Low,B
+MV-ADV-GLV-005-02,Paired Cut and Butt,Crookthrash,F4,Ruler L1 Low,B
+MV-ADV-GLV-005-03,Twin Guard Crossing,Thorn Bladespine,F2,Ruler L1 Low,B
+MV-ADV-GLV-005-04,Azure Two-Pace Step,Careening Longedge,F1,Ruler L1 Low,B
+MV-ADV-GLV-005-05,Dual-Line Thrust,Facet Tangheel,F2,Ruler L1 Low,B
+MV-ADV-GLV-005-06,Dual-Track Qi Cut,Cutbelly Torment,F3,Ruler L1 Low,B
+MV-ADV-GLV-005-07,Paired Ends Sweep,Downpour Edgeswing,F2,Ruler L1 Low,B
+MV-ADV-GLV-005-08,Twin-Court Shaft Bind,Gyvecutter,F5,Ruler L1 Low,B
+MV-ADV-GLV-005-09,Court of Two Edges Sequence,Intentcutter,F5,Ruler L1 Low,B
+MV-ADV-GLV-005-10,Azure Pair Crescent Cleave,Windrake Thrash,F3,Ruler L1 Low,B
+MV-ADV-GLV-006-01,River Current Reading,Bendremedy,F4,Demigod L2 Low,B
+MV-ADV-GLV-006-02,Bend-Following Cut,Granite Edgeswing,F2,Demigod L2 Low,B
+MV-ADV-GLV-006-03,Eddy Turn Guard,Guardlug Fastness,F3,Demigod L2 Low,B
+MV-ADV-GLV-006-04,Shallow-Ford Step,Glaivepounce,F4,Demigod L2 Low,B
+MV-ADV-GLV-006-05,Flood-Rising Slash,Sanguine Reave,F2,Demigod L2 Low,B
+MV-ADV-GLV-006-06,Basin-Rim Cutting Circle,Mayhemcutter,F5,Demigod L2 Low,B
+MV-ADV-GLV-006-07,River Drag Bind,Gyve Glavesocket,F2,Demigod L2 Low,B
+MV-ADV-GLV-006-08,Confluence Cut Sequence,Slicefall Torment,F3,Demigod L2 Low,B
+MV-ADV-GLV-006-09,Breaking Bank Slash,Cleaving Spineedge,F1,Demigod L2 Low,B
+MV-ADV-GLV-007-01,Hawk Perch Glaive Stance,Fortifying Glavesocket,F1,Champion L9 Low,B
+MV-ADV-GLV-007-02,Stooping Edge Cut,Crookassault,F4,Champion L9 Low,B
+MV-ADV-GLV-007-03,Rising Talon Prod,Glint Curvetip,F2,Champion L9 Low,B
+MV-ADV-GLV-007-04,Wing-Beat Shaft Parry,Equipoise Longedge,F2,Champion L9 Low,B
+MV-ADV-GLV-007-05,Hawk Dive Hew,Blazeglaive,F5,Champion L9 Low,B
+MV-ADV-GLV-007-06,Talon Rake Disruption,Toxin Ferrulecap,F2,Champion L9 Low,B
+MV-ADV-GLV-007-07,Stoop-Rise-Stoop Sequence,Hourcutter,F5,Champion L9 Low,B
+MV-ADV-GLV-007-08,Azure Height Cleave,Lancing Longcut,F1,Champion L9 Low,B
+MV-ADV-GLV-008-01,Basin Floor Glaive Stance,Aegis Guardlug,F2,Demigod L5 High,B
+MV-ADV-GLV-008-02,Rim-Climbing Cut,Ironcutter,F5,Demigod L5 High,B
+MV-ADV-GLV-008-03,Down-Slope Slide,Glaivejaunt,F4,Demigod L5 High,B
+MV-ADV-GLV-008-04,Basin Echo Beat,Mayhem Longcut,F2,Demigod L5 High,B
+MV-ADV-GLV-008-05,Crossing Stone Steps,Granite Reave,F2,Demigod L5 High,B
+MV-ADV-GLV-008-06,Slope-Turned Thrust,Nova Curvecut,F2,Demigod L5 High,B
+MV-ADV-GLV-008-07,Basin-Wide Crescent Sweep,Spineedge Thrash,F3,Demigod L5 High,B
+MV-ADV-GLV-008-08,River-Stone Hammer Cut,Might Curvecut,F2,Demigod L5 High,B
+MV-ADV-GLV-008-09,Dual-Track Crossing Parry,Murk Glaiveblade,F2,Demigod L5 High,B
+MV-ADV-GLV-008-10,Eddy Pull Disruption,Mayhem Curvetip,F2,Demigod L5 High,B
+MV-ADV-GLV-008-11,Basin Closing Cut Sequence,Doctrine Tangheel,F2,Demigod L5 High,B
+MV-ADV-GLV-008-12,Whole-River Fall Cleave,Curvecut Maelstrom,F3,Demigod L5 High,B
+MV-ADV-GLV-009-01,Glaive Bearing-Taking Stance,Discerning Ferrulecap,F1,Ruler L3 Mid,B
+MV-ADV-GLV-009-02,Wind-Along Cut,Tempered Curvecut,F2,Ruler L3 Mid,B
+MV-ADV-GLV-009-03,Against-the-Wind Thrust,Novareave,F5,Ruler L3 Mid,B
+MV-ADV-GLV-009-04,Bearing-Held Step,Torrent Windrake,F2,Ruler L3 Mid,B
+MV-ADV-GLV-009-05,Wind-Sworn Edge Draw,Might Edgeswing,F2,Ruler L3 Mid,B
+MV-ADV-GLV-009-06,Gust Parry Return,Chime Longedge,F2,Ruler L3 Mid,B
+MV-ADV-GLV-009-07,Steady Bearing Press,Charter Bladespine,F2,Ruler L3 Mid,B
+MV-ADV-GLV-009-08,Oath-Held Blade Line,Lotcrook,F5,Ruler L3 Mid,B
+MV-ADV-GLV-009-09,Wind-Cutting Crescent,Glaivetorment,F4,Ruler L3 Mid,B
+MV-ADV-GLV-010-01,Rim-Edge Footing,Annealed Cutbelly,F1,Demigod L1 Mid,B
+MV-ADV-GLV-010-02,Open-Ground Crescent Cut,Tearing Slicefall,F1,Demigod L1 Mid,B
+MV-ADV-GLV-010-03,Ledge Drop Step,Gust Curvetip,F2,Demigod L1 Mid,B
+MV-ADV-GLV-010-04,Plateau Wind Glaive Reading,Rejuvenating Spineedge,F1,Demigod L1 Mid,B
+MV-ADV-GLV-010-05,Long Reach Rim Thrust,Rumble Glavesocket,F2,Demigod L1 Mid,B
+MV-ADV-GLV-010-06,Rimward Shaft Shove,Rumblecrook,F5,Demigod L1 Mid,B
+MV-ADV-GLV-010-07,Plateau-Edge Qi Hew,Mightreave,F5,Demigod L1 Mid,B
+MV-ADV-GLV-010-08,Open-Sky Crescent Sweep,Slag Ferrulecap,F2,Demigod L1 Mid,B
+MV-ADV-GLV-010-09,Cliff-Line Bearing Hold,Suppressing Cutbelly,F1,Demigod L1 Mid,B
+MV-ADV-GLV-010-10,Edge-Fall Sequence,Intentreave,F5,Demigod L1 Mid,B
+MV-ADV-GLV-010-11,Plateau-Splitting Cut,Splitting Longcut Thrash,F6b,Demigod L1 Mid,B
+MV-ADV-GLV-011-01,Gale Breath Reading,Glaiveblade Linctus,F3,Demigod L7 Low,B
+MV-ADV-GLV-011-02,Gale-Pace Cut,Rumblecutter,F5,Demigod L7 Low,B
+MV-ADV-GLV-011-03,Sworn-Line Glaive Thrust,Curvecut Torment,F3,Demigod L7 Low,B
+MV-ADV-GLV-011-04,Squall Turn Guard,Murk Tangheel,F2,Demigod L7 Low,B
+MV-ADV-GLV-011-05,Gale Lean Step,Might Slicefall,F2,Demigod L7 Low,B
+MV-ADV-GLV-011-06,Gale Edge Layering,Sanguine Bladespine,F2,Demigod L7 Low,B
+MV-ADV-GLV-011-07,Oath-Pressure Advance,Compressing Glaiveblade,F1,Demigod L7 Low,B
+MV-ADV-GLV-011-08,Wind-Torn Guard Rip,Chime Windrake,F2,Demigod L7 Low,B
+MV-ADV-GLV-011-09,Gale Chain of Edges,Hourbend,F5,Demigod L7 Low,B
+MV-ADV-GLV-011-10,Full-Gale Crescent Reap,Slagbend,F5,Demigod L7 Low,B
+MV-ADV-GLV-012-01,Open-Country Footing Test,Nursing Guardlug,F1,Champion L4 Low,B
+MV-ADV-GLV-012-02,Long Grass Cut,Furrowing Edgeswing,F1,Champion L4 Low,B
+MV-ADV-GLV-012-03,Oath Stand Shaft Guard,Unbroken Ferrulecap,F1,Champion L4 Low,B
+MV-ADV-GLV-012-04,Bearing-Cross Step,Might Bladespine,F2,Champion L4 Low,B
+MV-ADV-GLV-012-05,Full-Length Lunge Thrust,Nova Curvetip,F2,Champion L4 Low,B
+MV-ADV-GLV-012-06,Wind-Plain Beat,Quelling Curvecut,F1,Champion L4 Low,B
+MV-ADV-GLV-012-07,Oath-Edged Cut,Sanguine Guardlug,F2,Champion L4 Low,B
+MV-ADV-GLV-012-08,Open-Ground Glaive Sweep,Granite Spineedge,F2,Champion L4 Low,B
+MV-ADV-GLV-012-09,Plain-Crossing Guard,Cuttergreave,F4,Champion L4 Low,B
+MV-ADV-GLV-012-10,Wind-Marked Pin,Hoarfrost Cutbelly,F2,Champion L4 Low,B
+MV-ADV-GLV-012-11,Oath-Keeping Sequence,Lot Slicefall,F2,Champion L4 Low,B
+MV-ADV-GLV-012-12,Open-Country Crescent Fall,Tempered Tangheel,F2,Champion L4 Low,B

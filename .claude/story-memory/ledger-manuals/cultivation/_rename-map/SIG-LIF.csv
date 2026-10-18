@@ -1,0 +1,6 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-LIF-004-02,Field Salve,Knitting Salve,CHANNELED,Warrior L1 Low,Basic
+CMV-SIG-LIF-004-05,Field Scouring,Scouring Pulse,CHANNELED,Warrior L1 Low,Intermediate
+CMV-SIG-LIF-006-01,Plain Warmth,Staunch Warmth,INSTANT,Warrior L1 Low,Basic
+CMV-SIG-LIF-008-03,Plain Aegis,Steady Aegis,INSTANT,Warrior L1 Low,Basic
+CMV-SIG-LIF-009-09,Bursting Field,Bursting Ring,INSTANT,Champion L1 Low,Advanced

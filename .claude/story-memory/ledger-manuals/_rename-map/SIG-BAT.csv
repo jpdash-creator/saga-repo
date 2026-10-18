@@ -1,0 +1,143 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-BAT-001-01,Dual-Track Waiting Guard,Prismbaton,F5,Warrior,B
+MV-SIG-BAT-001-02,Left Right Pacing Step,Vigor Rapidrap,F2,Warrior,B
+MV-SIG-BAT-001-03,Strike Track Rap,Bedrock Sidebar,F2,Warrior,B
+MV-SIG-BAT-001-04,Guard Track Wrist Catch,Stun Reliquary,F3,Warrior,B
+MV-SIG-BAT-001-05,Track Crossing Jolt,Billytroth,F4,Warrior,B
+MV-SIG-BAT-001-06,Twin Hand Shoulder Lean,Gloomcapend,F5,Warrior,B
+MV-SIG-BAT-001-07,Dual-Track Sealing Cut,Retribution Lanyardloop,F2,Champion,B
+MV-SIG-BAT-001-08,Exchange of Tracks Run,Tenetbaton,F5,Champion,B
+MV-SIG-BAT-001-09,Track Mirrored Return,Eclipse Batongrip,F2,Demigod,B
+MV-SIG-BAT-001-10,Twin Tracks One Blow,Unrivaled Vacuum Shortstick,F6a,Warrior,B
+MV-SIG-BAT-002-01,Basin Ring Stance,Weightend Troth,F3,Warrior,B
+MV-SIG-BAT-002-02,Court Pair Step,Skyborne Hardwood,F1,Warrior,B
+MV-SIG-BAT-002-03,Rim Tap,Quenched Gripwrap,F2,Warrior,B
+MV-SIG-BAT-002-04,Court Pair Slap Parry,Squallbilly,F5,Warrior,B
+MV-SIG-BAT-002-05,Basin Weight Drag,Venombaton,F5,Warrior,B
+MV-SIG-BAT-002-06,Paired Wrist Wring,Switchvow,F4,Warrior,B
+MV-SIG-BAT-002-07,Ring Press Down,Authoritative Truncheon,F1,Warrior,B
+MV-SIG-BAT-002-08,Basin Collapse Cut,Vacuumtick,F5,Champion,B
+MV-SIG-BAT-002-09,Paired Court Seal,Sigilcuff,F5,Champion,B
+MV-SIG-BAT-002-10,Overflowing Basin Run,Tick Verdict,F3,Demigod,B
+MV-SIG-BAT-002-11,Court Pair Closes the Basin,Sigilbilly,F5,Warrior,B
+MV-SIG-BAT-003-01,River Hawk Waiting Hold,Steelbilly,F5,Champion,B
+MV-SIG-BAT-003-02,Low Gliding Approach,Spectral Switch,F1,Champion,B
+MV-SIG-BAT-003-03,Hawk Shadow Rap,Quenched Balanceknob,F2,Champion,B
+MV-SIG-BAT-003-04,Reed Sway Cudgel Cover,Inviolate Weightend,F1,Champion,B
+MV-SIG-BAT-003-05,Talon Wrist Hitch,Glacier Cuff,F2,Champion,B
+MV-SIG-BAT-003-06,River Bend Drag,Peal Rapidrap,F2,Champion,B
+MV-SIG-BAT-003-07,Hover Press,Millstone Gripwrap,F2,Champion,B
+MV-SIG-BAT-003-08,Wing Beat Jolt,Entropy Crackdown,F2,Champion,B
+MV-SIG-BAT-003-09,Falling Stoop Break,Shortstick Banner,F3,Champion,B
+MV-SIG-BAT-003-10,Hawk Seal on the Shoulder,Tyrannous Stun,F1,Champion,B
+MV-SIG-BAT-003-11,Hawk Rides the Current,Pulsar Crackdown,F2,Champion,B
+MV-SIG-BAT-003-12,Where Hawk Meets River,Triumphant Sidebar Verdict,F6b,Champion,B
+MV-SIG-BAT-004-01,Twin Court Discipline Hold,Steelcapend,F5,Ruler,B
+MV-SIG-BAT-004-02,Measured Pace Forward,Ethereal Capend,F1,Ruler,B
+MV-SIG-BAT-004-03,Court Rap,Sovereign Batongrip,F1,Ruler,B
+MV-SIG-BAT-004-04,Court Wrist Lever,Batonpledge,F4,Ruler,B
+MV-SIG-BAT-004-05,Twin Pressure Jolt,Peal Cuff,F2,Ruler,B
+MV-SIG-BAT-004-06,Held Court Pin,Imperious Lanyardloop,F1,Ruler,B
+MV-SIG-BAT-004-07,Court Order Break,Thunderclap Truncheon,F2,Ruler,B
+MV-SIG-BAT-004-08,Court of Two Nerve Seal,Volition Balanceknob,F2,Ruler,B
+MV-SIG-BAT-004-09,Court Returns the Blow,Consecrated Gripwrap,F1,Ruler,B
+MV-SIG-BAT-004-10,Twin Court Closing Judgement,Despotic Tick Troth,F6b,Ruler,B
+MV-SIG-BAT-005-01,Azure Field Ready Hold,Batongrip Troth,F3,Demigod,B
+MV-SIG-BAT-005-02,Field Glide Entry,Bedrock Hardwood,F2,Demigod,B
+MV-SIG-BAT-005-03,Azure Edge Tap,Haemal Truncheon,F2,Demigod,B
+MV-SIG-BAT-005-04,Field Slip Parry,Deluge Shortstick,F2,Demigod,B
+MV-SIG-BAT-005-05,Field Wrist Hook,Hornbeam Rapidrap,F2,Demigod,B
+MV-SIG-BAT-005-06,Azure Jolt,Venom Sidebar,F2,Demigod,B
+MV-SIG-BAT-005-07,Field Weight Press,Volition Weightend,F2,Demigod,B
+MV-SIG-BAT-005-08,Field Pull Down,Entropy Balanceknob,F2,Demigod,B
+MV-SIG-BAT-005-09,Azure Field Break,Vacuum Cuff,F2,Demigod,B
+MV-SIG-BAT-005-10,Azure Field Seal,Sigiltick,F5,Demigod,B
+MV-SIG-BAT-005-11,Azure Field Flash Strike,Pulsarcapend,F5,Demigod,B
+MV-SIG-BAT-005-12,Sky Falls on the Basin,Vaunted Prism Stun,F6a,Demigod,B
+MV-SIG-BAT-006-01,Core Rest Hold,Billyvow,F4,Core Formation,B
+MV-SIG-BAT-006-02,River Glide Under the Guard,Dune Switch,F2,Core Formation,B
+MV-SIG-BAT-006-03,Pulse-Timed Rap,Fearless Capend,F1,Core Formation,B
+MV-SIG-BAT-006-04,Core Wrist Catch,Authoritative Capend,F1,Core Formation,B
+MV-SIG-BAT-006-05,Heartbeat Jolt,Peremptory Switch,F1,Core Formation,B
+MV-SIG-BAT-006-06,Deep Water Press,Statute Crackdown,F2,Core Formation,B
+MV-SIG-BAT-006-07,Core Tide Drag,Authoritative Hardwood,F1,Core Formation,B
+MV-SIG-BAT-006-08,Flood Line Thrust,Cufftriumph,F4,Core Formation,B
+MV-SIG-BAT-006-09,Core Gate Seal,Volition Lanyardloop,F2,Core Formation,B
+MV-SIG-BAT-006-10,Banks Burst Strike,Quenched Switch,F2,Core Formation,B
+MV-SIG-BAT-006-11,Heart of the River Baton,Cuff Banner,F3,Core Formation,B
+MV-SIG-BAT-007-01,Wind-Sworn Starting Hold,Glacier Weightend,F2,Warrior,B
+MV-SIG-BAT-007-02,Facing the Wind Pace,Dune Shortstick,F2,Warrior,B
+MV-SIG-BAT-007-03,Oath Rap,Squallswitch,F5,Warrior,B
+MV-SIG-BAT-007-04,Sworn Wrist Hitch,Hornbeam Hardwood,F2,Warrior,B
+MV-SIG-BAT-007-05,Gust Jolt to the Elbow,Venomswitch,F5,Warrior,B
+MV-SIG-BAT-007-06,Wind Pin to the Ground,Gloomstun,F5,Warrior,B
+MV-SIG-BAT-007-07,Bearing Cross Parry,Stately Sidebar,F1,Warrior,B
+MV-SIG-BAT-007-08,Gale Seal on the Arm,Destiny Tick,F2,Champion,B
+MV-SIG-BAT-007-09,Wind-Sworn Run,Tenet Balanceknob,F2,Champion,B
+MV-SIG-BAT-007-10,Sworn Wind Returns,Revered Capend,F1,Demigod,B
+MV-SIG-BAT-007-11,Oath Spoken Through the Baton,Statute Gripwrap,F2,Warrior,B
+MV-SIG-BAT-008-01,Broad Ground Oath Posture,Prism Truncheon,F2,Warrior,B
+MV-SIG-BAT-008-02,Edge Walk,Deluge Rapidrap,F2,Warrior,B
+MV-SIG-BAT-008-03,Heading Line Forearm Rap,Sovereign Lanyardloop,F1,Warrior,B
+MV-SIG-BAT-008-04,Bearing Wrist Drag,Thrallcuff,F5,Warrior,B
+MV-SIG-BAT-008-05,Oath Jolt,Ruling Batongrip,F1,Warrior,B
+MV-SIG-BAT-008-06,Plateau Pin,Stun Seal,F3,Warrior,B
+MV-SIG-BAT-008-07,Oath Seal at the Wrist,Statute Stun,F2,Champion,B
+MV-SIG-BAT-008-08,Bearing Break,Royal Tick,F1,Champion,B
+MV-SIG-BAT-008-09,Held Bearing Flash,Weightend Heraldry,F3,Demigod,B
+MV-SIG-BAT-008-10,The Plateau's Last Bearing,Quenched Crackdown,F2,Warrior,B
+MV-SIG-BAT-009-01,Keeper's Rest Hold,Hornbeam Truncheon,F2,Champion,B
+MV-SIG-BAT-009-02,Keeper's Pace,Vigor Switch,F2,Champion,B
+MV-SIG-BAT-009-03,Calm Rap,Bedrock Shortstick,F2,Champion,B
+MV-SIG-BAT-009-04,Unhurried Block,Parity Capend,F2,Champion,B
+MV-SIG-BAT-009-05,Keeper's Hook,Thrall Batongrip,F2,Champion,B
+MV-SIG-BAT-009-06,Keeper's Jolt,Authoritative Rapidrap,F1,Champion,B
+MV-SIG-BAT-009-07,Sworn Press,Gloom Lanyardloop,F2,Champion,B
+MV-SIG-BAT-009-08,Keeper's Trip,Tickpledge,F4,Champion,B
+MV-SIG-BAT-009-09,Keeper's Seal,Sigil Gripwrap,F2,Champion,B
+MV-SIG-BAT-009-10,Keeper's Chain,Symphonic Cuff,F1,Champion,B
+MV-SIG-BAT-009-11,Keeper's Reply,Prismbilly,F5,Champion,B
+MV-SIG-BAT-009-12,The Keeper Holds the Line,Unbending Hardwood,F1,Champion,B
+MV-SIG-BAT-010-01,Open Sky Hold,Capendtroth,F4,Ruler,B
+MV-SIG-BAT-010-02,Wide Gale Step,Deluge Tick,F2,Ruler,B
+MV-SIG-BAT-010-03,Windstrike Knuckle Tap,Haemalbaton,F5,Ruler,B
+MV-SIG-BAT-010-04,Meadow Turn Hook,Glacier Capend,F2,Ruler,B
+MV-SIG-BAT-010-05,Plateau Jolt,Sidebar Troth,F3,Ruler,B
+MV-SIG-BAT-010-06,Gust Weight Bearing Down,Statute Hardwood,F2,Ruler,B
+MV-SIG-BAT-010-07,Windfall Trip,Thunderclap Crackdown,F2,Ruler,B
+MV-SIG-BAT-010-08,Open Reach Break,Pulsar Sidebar,F2,Ruler,B
+MV-SIG-BAT-010-09,Gale Sealing Cut,Masterful Balanceknob,F1,Ruler,B
+MV-SIG-BAT-010-10,Wind Carries the Step,Pulsar Stun,F2,Ruler,B
+MV-SIG-BAT-010-11,Gust Over Open Ground,Famed Switch Decree,F6b,Ruler,B
+MV-SIG-BAT-011-01,Field Wind Hold,Prism Gripwrap,F2,Void God,B
+MV-SIG-BAT-011-02,Wind Glide,Tickodyssey,F4,Void God,B
+MV-SIG-BAT-011-03,Field Rap,Squall Balanceknob,F2,Void God,B
+MV-SIG-BAT-011-04,Wind Field Hook,Cuffvow,F4,Void God,B
+MV-SIG-BAT-011-05,Wind Field Jolt,Peal Batongrip,F2,Void God,B
+MV-SIG-BAT-011-06,Wind Field Pin,Statute Shortstick,F2,Void God,B
+MV-SIG-BAT-011-07,Wind Field Break,Steel Tick,F2,Void God,B
+MV-SIG-BAT-011-08,Wind Field Seal,Capendpledge,F4,Void God,B
+MV-SIG-BAT-011-09,Wind Field Return,Eclipse Truncheon,F2,Void God,B
+MV-SIG-BAT-011-10,Field of the Standing Wind,Volition Rapidrap,F2,Void God,B
+MV-SIG-BAT-012-01,Plateau Wind Resting Hold,Hornbeam Lanyardloop,F2,Core Formation,B
+MV-SIG-BAT-012-02,Core-Weighted Stride,Squallcapend,F5,Core Formation,B
+MV-SIG-BAT-012-03,Held Breath Cut,Batonverdict,F4,Core Formation,B
+MV-SIG-BAT-012-04,Wind Side Parry,Deluge Lanyardloop,F2,Core Formation,B
+MV-SIG-BAT-012-05,Core-Driven Heading Hook,Thrallstun,F5,Core Formation,B
+MV-SIG-BAT-012-06,Core Surge Jolt,Entropy Truncheon,F2,Core Formation,B
+MV-SIG-BAT-012-07,Heavy Wind Press,Gloom Cuff,F2,Core Formation,B
+MV-SIG-BAT-012-08,Plateau Edge Trip,Switchtroth,F4,Core Formation,B
+MV-SIG-BAT-012-09,Core Wind Break,Sovereign Weightend,F1,Core Formation,B
+MV-SIG-BAT-012-10,Core Held Seal,Statute Capend,F2,Core Formation,B
+MV-SIG-BAT-012-11,Gale Turned on Itself,Batonvow,F4,Core Formation,B
+MV-SIG-BAT-012-12,The Unmoved Plateau,Venerable Hornbeam Gripwrap,F6a,Core Formation,B
+MV-SIG-BAT-003-05,Glacier Cuff,Hampering Cuff,F2,Champion,B
+MV-SIG-BAT-005-05,Hornbeam Rapidrap,Cording Rapidrap,F2,Demigod,B
+MV-SIG-BAT-006-02,Dune Switch,Agile Switch,F2,Core Formation,B
+MV-SIG-BAT-007-01,Glacier Weightend,Solid Weightend,F2,Warrior,B
+MV-SIG-BAT-007-02,Dune Shortstick,Lithe Shortstick,F2,Warrior,B
+MV-SIG-BAT-007-04,Hornbeam Hardwood,Fettering Hardwood,F2,Warrior,B
+MV-SIG-BAT-009-01,Hornbeam Truncheon,Firm Truncheon,F2,Champion,B
+MV-SIG-BAT-010-04,Glacier Capend,Hobbling Capend,F2,Ruler,B
+MV-SIG-BAT-012-01,Hornbeam Lanyardloop,Solid Lanyardloop,F2,Core Formation,B
+MV-SIG-BAT-012-12,Venerable Hornbeam Gripwrap,Venerable Gripwrap,F6a,Core Formation,B

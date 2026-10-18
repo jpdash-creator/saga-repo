@@ -1,0 +1,5 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ELI-GRV-001-02,Gathering Wall,Gathering Bulwark,CHANNELED,Warrior L1 Low,Basic
+CMV-ELI-GRV-001-07,Hollow Shell,Storing Shell,INSTANT,Warrior L1 Low,Intermediate
+CMV-ELI-GRV-005-07,Inversion Field,Inversion Pull,CHANNELED,Champion L1 Low,Advanced
+CMV-ELI-GRV-008-07,Ground Slam,Dragging Slam,INSTANT,,Intermediate

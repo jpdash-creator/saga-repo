@@ -1,0 +1,75 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-EST-001-01,Qi Seated Guard,Straitscreen,F4,Senior,A
+MV-INT-EST-001-02,Rising Point Thrust,Bold Hardtip,F1,Senior,A
+MV-INT-EST-001-03,Hop Back Estoc Reset,Impaleswerve,F4,Senior,A
+MV-INT-EST-001-04,Wrist Cord Tightening,Sure Squarepoint,F1,Senior,A
+MV-INT-EST-001-05,Lifting Edge Beat,Stalwart Rigidtang,F1,Senior,A
+MV-INT-EST-001-06,Hardened Tip Thrust,Drillslap,F4,Senior,A
+MV-INT-EST-001-07,Tracking Bind Slide,Entangling Impale,F1,Senior,A
+MV-INT-EST-002-01,Bind Entry Step,Ducking Stiffspine,F1,Senior,A
+MV-INT-EST-002-02,Strong Over Weak Crossing,Gagging Pierce,F1,Senior,A
+MV-INT-EST-002-03,Underarm Point Insertion,Keen Bracespine,F1,Senior,A
+MV-INT-EST-002-04,Qi Steadied Parry,Longtang Barrier,F3,Senior,A
+MV-INT-EST-002-05,Pommel Under Chin,Drillthwack,F4,Senior,A
+MV-INT-EST-002-06,Tension Reading Pause,Straitlinen,F4,Senior,A
+MV-INT-EST-002-07,Bound Blade Release Thrust,Brutal Bore,F1,Senior,A
+MV-INT-EST-002-08,Crossguard Lever Wrench,Stalling Drill,F1,Senior,A
+MV-INT-EST-003-01,Qi Along the Blade Spine,Attentive Stiffblade,F1,Senior,A
+MV-INT-EST-003-02,Sustained Qi Thrust,Boreflog,F4,Senior,A
+MV-INT-EST-003-03,Crossing Glide Footwork,Skewerzip,F4,Senior,A
+MV-INT-EST-003-04,Pointed Run-On Guard,Slenderprop,F4,Senior,A
+MV-INT-EST-003-05,Flat Slap to the Forearm,Ruthless Squaretip,F1,Senior,A
+MV-INT-EST-003-06,Tip Circle Feint,Gagging Gouge,F1,Senior,A
+MV-INT-EST-003-07,Hollow Qi Pierce,Brisk Rigidtang,F1,Senior,A
+MV-INT-EST-003-08,Ebb and Surge Thrust,Swift Hardtip,F1,Senior,A
+MV-INT-EST-003-09,Qi Pressure Bind,Gagging Skewer,F1,Senior,A
+MV-INT-EST-004-01,Gloved Half Grip,Genial Bracespine,F1,Senior,A
+MV-INT-EST-004-02,Short Drive Thrust,Brutal Trianglespine,F1,Senior,A
+MV-INT-EST-004-03,Narrow Quarter Step,Veering Thrustspine,F1,Senior,A
+MV-INT-EST-004-04,Close Cover Parry,Squaretip Hasp,F3,Senior,A
+MV-INT-EST-004-05,Throat Hollow Hold,Binding Thrustspine,F1,Senior,A
+MV-INT-EST-004-06,Levered Half Sword Thrust,Fierce Impale,F1,Senior,A
+MV-INT-EST-005-01,Reach Keeping Guard,Brassslender,F5,Warrior,B
+MV-INT-EST-005-02,Extending Step Thrust,Keen Stiffspine,F1,Warrior,B
+MV-INT-EST-005-03,Lead Foot Edge Step,Rill Skewer,F2,Warrior,B
+MV-INT-EST-005-04,Point Tracking Circle,Levering Pierce,F1,Warrior,B
+MV-INT-EST-005-05,Distance Reading Hold,Straitcordial,F4,Warrior,B
+MV-INT-EST-005-06,Outreach Parry,Rillstrait,F5,Warrior,B
+MV-INT-EST-005-07,Withdrawing Stab,Gleam Trianglespine,F2,Warrior,B
+MV-INT-EST-005-08,Beyond the Tip Reach,Brassgouge,F5,Warrior,B
+MV-INT-EST-005-09,Keep-Off Press,Dusk Squarepoint,F2,Warrior,B
+MV-INT-EST-005-10,Reach Closing Beat,Padded Longtang,F1,Warrior,B
+MV-INT-EST-006-01,Visor Level Stance,Regimen Trianglespine,F2,Warrior,B
+MV-INT-EST-006-02,Visor Slit Thrust,Brass Drill,F2,Warrior,B
+MV-INT-EST-006-03,Elbow Bend Reading,Lunar Longtang,F2,Warrior,B
+MV-INT-EST-006-04,Knee Hollow Thrust,Shard Gouge,F2,Warrior,B
+MV-INT-EST-006-05,Weaving Approach,Gritslender,F5,Warrior,B
+MV-INT-EST-006-06,Crossguard Check Parry,Hum Bracespine,F2,Warrior,B
+MV-INT-EST-006-07,Helm Brow Jam,Static Thrustspine,F2,Warrior,B
+MV-INT-EST-006-08,Hinge Seeking Thrust,Honedimpale,F5,Warrior,B
+MV-INT-EST-007-01,Measured Lunge Line,Straitscorer,F4,Warrior,B
+MV-INT-EST-007-02,Chalk Mark Distance,Slenderbandage,F4,Warrior,B
+MV-INT-EST-007-03,Recovery Spring,Rill Bore,F2,Warrior,B
+MV-INT-EST-007-04,Lunge Cover Stance,Buttressed Stiffspine,F1,Warrior,B
+MV-INT-EST-007-05,Rear Arm Counterweight,Sprout Squaretip,F2,Warrior,B
+MV-INT-EST-007-06,Dropping Slip Parry,Slenderbarrier,F4,Warrior,B
+MV-INT-EST-007-07,Passing Lunge,Cometpierce,F5,Warrior,B
+MV-INT-EST-007-08,Halted Lunge Threat,Dusk Pierce,F2,Warrior,B
+MV-INT-EST-007-09,Counter-Time Estoc Lunge,Comet Stiffblade,F2,Warrior,B
+MV-INT-EST-008-01,Gap Seeking Stare,Stiffblade Cordial,F3,Warrior,B
+MV-INT-EST-008-02,Narrow Gap Thrust,Brass Rigidtang,F2,Warrior,B
+MV-INT-EST-008-03,Tiptoe Approach,Grit Bore,F2,Warrior,B
+MV-INT-EST-008-04,Gap Cover Stance,Claytaut,F5,Warrior,B
+MV-INT-EST-008-05,Slight Parry Beat,Haze Hardtip,F2,Warrior,B
+MV-INT-EST-008-06,Shrinking Gap Entry,Static Gouge,F2,Warrior,B
+MV-INT-EST-008-07,Gap Widening Wrench,Static Pierce,F2,Warrior,B
+MV-INT-EST-009-01,Pressing Stance,Clayslender,F5,Warrior,B
+MV-INT-EST-009-02,Pressed Point Thrust,Keen Squaretip,F1,Warrior,B
+MV-INT-EST-009-03,Leaning Step,Grit Thrustspine,F2,Warrior,B
+MV-INT-EST-009-04,Pushing Hand Brace,Poise Squarepoint,F2,Warrior,B
+MV-INT-EST-009-05,Downward Slide Parry,Humstrait,F5,Warrior,B
+MV-INT-EST-009-06,Point Press Drill,Honed Stiffblade,F2,Warrior,B
+MV-INT-EST-009-07,Close Quarter Shove,Static Impale,F2,Warrior,B
+MV-INT-EST-009-08,Relentless Press Advance,Skewerhasp,F4,Warrior,B
+MV-INT-EST-009-09,Crushing Point Drive,Gleam Bore,F2,Warrior,B
+MV-INT-EST-009-10,Press Through Bind,Sleet Hardtip,F2,Warrior,B

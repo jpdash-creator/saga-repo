@@ -1,0 +1,128 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-MAU-001-01,Twin-Court Maul Opening Guard,Facetdolly,F5,Monarch,B
+MV-ELI-MAU-001-02,Court-Pair Maul Overstroke,Granite Sledgeface,F2,Monarch,B
+MV-ELI-MAU-001-03,Paired Haft Shove,Immobilizing Gripbulge,F1,Monarch,B
+MV-ELI-MAU-001-04,Court-Floor Glide Step,Silt Pulverize,F2,Monarch,B
+MV-ELI-MAU-001-05,Dual Head-and-Haft Strikes,Sanguine Squash,F2,Monarch,B
+MV-ELI-MAU-001-06,Court Cross-Cut Parry,Dollynerve,F4,Monarch,B
+MV-ELI-MAU-001-07,Pair-Breaking Hammer Tap,Chime Sledge,F2,Monarch,B
+MV-ELI-MAU-001-08,Twin-Court Maul Descent,Ironquake,F5,Monarch,B
+MV-ELI-MAU-001-09,Court-Pillar Splintering Blow,Heavyhelve Havoc,F3,Monarch,B
+MV-ELI-MAU-001-10,Monarch-Weight Pair Crush,Tempered Mallethead,F2,Demigod,B
+MV-ELI-MAU-002-01,Hawk-Shadow Maul Guard,Endcap Nerve,F3,Demigod,B
+MV-ELI-MAU-002-02,Basin-Rim Drop Strike,Iron Flatten,F2,Demigod,B
+MV-ELI-MAU-002-03,Hawk-Pivot Footwork,Squashvortex,F4,Demigod,B
+MV-ELI-MAU-002-04,Basin-Filling Strike Chain,Thudruin,F4,Demigod,B
+MV-ELI-MAU-002-05,Hawk-Claw Haft Snare,Mayhem Thud,F2,Demigod,B
+MV-ELI-MAU-002-06,Wide-Wing Haft Parry,Unconquered Pommelweight,F1,Demigod,B
+MV-ELI-MAU-002-07,Hawk-From-Above Crush,Might Maulhead,F2,Demigod,B
+MV-ELI-MAU-002-08,Basin-Sinking Tremor,Silt Quake,F2,Demigod,B
+MV-ELI-MAU-002-09,Hawk and Basin Final Fall,Blaze Sledge,F2,Demigod,B
+MV-ELI-MAU-003-01,River-Bed Haft Guard,Dollyvalor,F4,Demigod,B
+MV-ELI-MAU-003-02,Rapids-Pounding Overstroke,Brutalizing Sledgeface,F1,Demigod,B
+MV-ELI-MAU-003-03,Pair of Stones Haft Knocks,Overbearing Pommelweight,F1,Demigod,B
+MV-ELI-MAU-003-04,Shoal-Hopping Step,Granite Pulverize,F2,Demigod,B
+MV-ELI-MAU-003-05,Ford-Mouth Low Sweep,Granite Wedgeface,F2,Demigod,B
+MV-ELI-MAU-003-06,Torrent Maul Chain,Squashscourge,F4,Demigod,B
+MV-ELI-MAU-003-07,Whirlpool Haft Turn,Adamantine Ironband,F1,Demigod,B
+MV-ELI-MAU-003-08,Dam-Breaking Wedge Strike,Nova Gripbulge,F2,Demigod,B
+MV-ELI-MAU-003-09,River-Split Maul Descent,Squash Wrath,F3,Demigod,B
+MV-ELI-MAU-003-10,Flood-Tide Ground Slam,Mayhem Mallethead,F2,Demigod,B
+MV-ELI-MAU-003-11,River-Breaking Paired Crush,Might Wedgeface,F2,Demigod,B
+MV-ELI-MAU-004-01,Azure Court Raised Haft Guard,Aegisendcap,F5,Demigod,B
+MV-ELI-MAU-004-02,Falling-Maul First Drop,Tempered Maulhead,F2,Demigod,B
+MV-ELI-MAU-004-03,Court-Turn Pivot Step,Blinding Flatten,F1,Demigod,B
+MV-ELI-MAU-004-04,Twin Shoulder Haft Rams,Endcapdurance,F4,Demigod,B
+MV-ELI-MAU-004-05,Azure Greave Sweep,Sanguine Quake,F2,Demigod,B
+MV-ELI-MAU-004-06,Falling Chain of Court Blows,Gnashing Thud,F1,Demigod,B
+MV-ELI-MAU-004-07,Counter-Court Deflecting Turn,Murkmallet,F5,Demigod,B
+MV-ELI-MAU-004-08,Paired Knee Hammerings,Vengeful Maulbutt,F1,Demigod,B
+MV-ELI-MAU-004-09,Crowding Haft Press,Enthralling Heavyhelve,F1,Demigod,B
+MV-ELI-MAU-004-10,Falling Maul Double Crush,Endcap Havoc,F3,Demigod,B
+MV-ELI-MAU-004-11,Court-Stone Quake,Squashhavoc,F4,Demigod,B
+MV-ELI-MAU-004-12,Azure Court Great Fall,Mangling Squash,F1,Demigod,B
+MV-ELI-MAU-005-01,Hawk-Wing Haft Cover,Endcap Tenacity,F3,Demigod,B
+MV-ELI-MAU-005-02,Basin-Stone Hammer Fall,Blazemallet,F5,Demigod,B
+MV-ELI-MAU-005-03,Twin Heel Skip,Headlong Quake,F1,Demigod,B
+MV-ELI-MAU-005-04,Wing-Tip Haft Jab,Nova Sledge,F2,Demigod,B
+MV-ELI-MAU-005-05,Stone-Then-Wing Combination,Granite Ironband,F2,Demigod,B
+MV-ELI-MAU-005-06,Basin-Edge Haft Deflection,Chime Ironband,F2,Demigod,B
+MV-ELI-MAU-005-07,Paired Stone Weapon-Smash,Squashdurance,F4,Demigod,B
+MV-ELI-MAU-005-08,Hawk-Wing Sweeping Fall,Rumble Pulverize,F2,Demigod,B
+MV-ELI-MAU-005-09,Basin-Stone Shockwave,Dismantling Wedgeface,F2,Demigod,B
+MV-ELI-MAU-005-10,Stone and Wing Sundering Blow,Gust Flatten,F2,Demigod,B
+MV-ELI-MAU-006-01,Thunder-Maul Ready Guard,Maulbutt Nerve,F3,True God,B
+MV-ELI-MAU-006-02,Dual-Track Overfall,Lacerating Maulhead,F1,True God,B
+MV-ELI-MAU-006-03,Rolling Thunder Sweep,Hellish Thud,F1,True God,B
+MV-ELI-MAU-006-04,Tracked Footfall,Quakeglare,F4,True God,B
+MV-ELI-MAU-006-05,Pair-Pole Shove,Chimebeetle,F5,True God,B
+MV-ELI-MAU-006-06,Thunderclap Strike Chain,Sanguine Sledgeface,F2,True God,B
+MV-ELI-MAU-006-07,Twin-Track Maul Haft Parry,Torrent Gripbulge,F2,True God,B
+MV-ELI-MAU-006-08,Echoing Hammer Beat,Thudscourge,F4,True God,B
+MV-ELI-MAU-006-09,Thunder-Step Entry,Lightning Maulbutt,F1,True God,B
+MV-ELI-MAU-006-10,Paired Thunder Descent,Might Pommelweight,F2,True God,B
+MV-ELI-MAU-006-11,Dual-Track Ground Splitting,Mayhem Maulbutt,F2,True God,B
+MV-ELI-MAU-006-12,Thunderhead Maul Charge,Corroding Heavyhelve,F1,True God,B
+MV-ELI-MAU-006-13,Mastery of the Two Thunders,Gust Ironband,F2,True God,B
+MV-ELI-MAU-007-01,Monarch-Oath Haft Guard,Iron Sledgeface,F2,Monarch,B
+MV-ELI-MAU-007-02,Sworn Bearing Overstroke,Gust Gripbulge,F2,Monarch,B
+MV-ELI-MAU-007-03,Plateau-Tread Step,Torrent Flatten,F2,Monarch,B
+MV-ELI-MAU-007-04,Bearing-Chain Hammerings,Gust Thud,F2,Monarch,B
+MV-ELI-MAU-007-05,Oath-Pressed Haft Shove,Sledgenerve,F4,Monarch,B
+MV-ELI-MAU-007-06,Wind-Turned Maul Haft Parry,Torrent Mallethead,F2,Monarch,B
+MV-ELI-MAU-007-07,Weighted Oath Maul Fall,Decimating Squash,F1,Monarch,B
+MV-ELI-MAU-007-08,Oath-Shock Ground Blow,Siltendcap,F5,Monarch,B
+MV-ELI-MAU-007-09,Monarch Oath Fall,Eviscerating Pulverize,F1,Demigod,B
+MV-ELI-MAU-008-01,Plateau-Breaker Stance,Endcap Fortitude,F3,Demigod,B
+MV-ELI-MAU-008-02,Edge-of-Plateau Drop,Ironmallet,F5,Demigod,B
+MV-ELI-MAU-008-03,Gale-Shouldered Rush,Dazzling Sledge,F1,Demigod,B
+MV-ELI-MAU-008-04,Rock-Splitting Haft Rap,Overpowering Quake,F1,Demigod,B
+MV-ELI-MAU-008-05,Breaking Wind Barrage,Mallethead Ruin,F3,Demigod,B
+MV-ELI-MAU-008-06,Plateau Wind Maul Parry,Equipoise Heavyhelve,F2,Demigod,B
+MV-ELI-MAU-008-07,Crosswind Weapon Knock,Harnessing Pommelweight,F1,Demigod,B
+MV-ELI-MAU-008-08,Plateau-Breaker Descent,Granite Maulbutt,F2,Demigod,B
+MV-ELI-MAU-008-09,Cliff-Edge Quake,Slag Maulhead,F2,Demigod,B
+MV-ELI-MAU-008-10,Gale Maul Breaker's Fall,Ruinous Quake,F1,Demigod,B
+MV-ELI-MAU-009-01,Bearing-Taken Haft Guard,Iron Wedgeface,F2,Demigod,B
+MV-ELI-MAU-009-02,Kept-Bearing Overstroke,Gustsledge,F5,Demigod,B
+MV-ELI-MAU-009-03,Needle-Line Haft Thrust,Hollowsledge,F5,Demigod,B
+MV-ELI-MAU-009-04,Bearing-Walk Maul Step,Pommelweight Glimmer,F3,Demigod,B
+MV-ELI-MAU-009-05,Wind-Reading Poll Tap,Healing Heavyhelve,F1,Demigod,B
+MV-ELI-MAU-009-06,Held-Line Strike Chain,Blaze Pulverize,F2,Demigod,B
+MV-ELI-MAU-009-07,Bearing Cross Haft Parry,Beetlespine,F4,Demigod,B
+MV-ELI-MAU-009-08,Line-Breaking Haft Wrench,Mayhemmallet,F5,Demigod,B
+MV-ELI-MAU-009-09,Kept-Bearing Maul Fall,Rumblebeetle,F5,Demigod,B
+MV-ELI-MAU-009-10,Straight-Line Shock Slam,Siltbeetle,F5,Demigod,B
+MV-ELI-MAU-009-11,Bearing Kept to the End,Tempered Wedgeface,F2,Demigod,B
+MV-ELI-MAU-010-01,Open-Plateau Haft Guard,Facetmallet,F5,Demigod,B
+MV-ELI-MAU-010-02,Oath-Held Overstroke,Tempered Endcap,F2,Demigod,B
+MV-ELI-MAU-010-03,Sworn-Stone Low Sweep,Iron Ironband,F2,Demigod,B
+MV-ELI-MAU-010-04,Edge-Step Shuffle,Ghosting Mallethead,F1,Demigod,B
+MV-ELI-MAU-010-05,Wind-Cut Haft Rap,Rumble Maulhead,F2,Demigod,B
+MV-ELI-MAU-010-06,Sworn Hammer Chain Along the Edge,Irondolly,F5,Demigod,B
+MV-ELI-MAU-010-07,Plateau-Open Deflection,Murk Gripbulge,F2,Demigod,B
+MV-ELI-MAU-010-08,Gale-Backed Counterfall,Might Sledgeface,F2,Demigod,B
+MV-ELI-MAU-010-09,Oath-Bound Weapon Pin,Mastering Squash,F1,Demigod,B
+MV-ELI-MAU-010-10,Open-Plateau Oath Descent,Quakewrath,F4,Demigod,B
+MV-ELI-MAU-010-11,Oath-Stone Ground Shatter,Brutalizing Wedgeface,F1,Demigod,B
+MV-ELI-MAU-010-12,Oath Maul Unbroken Fall,Berserk Endcap Scourge,F6b,Demigod,B
+MV-ELI-MAU-011-01,Sworn-Head Haft Cover,Iron Maulbutt,F2,Demigod,B
+MV-ELI-MAU-011-02,Rite-First Drop,Dollyhavoc,F4,Demigod,B
+MV-ELI-MAU-011-03,Gale-Rite Footwork,Meteoric Sledge,F1,Demigod,B
+MV-ELI-MAU-011-04,Rite-Cycle Hammer Chain,Iron Thud,F2,Demigod,B
+MV-ELI-MAU-011-05,Gale-Held Weapon Wrench,Hogtying Pulverize,F1,Demigod,B
+MV-ELI-MAU-011-06,Sworn-Head Parry,Torrent Sledgeface,F2,Demigod,B
+MV-ELI-MAU-011-07,Gale Rite Descent,Sanguine Maulhead,F2,Demigod,B
+MV-ELI-MAU-011-08,Wind-Rite Ground Quake,Thudwrath,F4,Demigod,B
+MV-ELI-MAU-011-09,Final Rite of the Sworn Head,Merciless Blaze Mallethead,F6a,Demigod,B
+MV-ELI-MAU-012-01,No-Walls Open Maul Guard,Aegis Gripbulge,F2,True God,B
+MV-ELI-MAU-012-02,Open-Ground Overstroke,Rumblemallet,F5,True God,B
+MV-ELI-MAU-012-03,Unsheltered Step,Silt Flatten,F2,True God,B
+MV-ELI-MAU-012-04,Roaming Haft Jab,Hollow Squash,F2,True God,B
+MV-ELI-MAU-012-05,Unwalled Hammer Rush,Quakehavoc,F4,True God,B
+MV-ELI-MAU-012-06,Wind-Through Parry,Pommelweight Hardihood,F3,True God,B
+MV-ELI-MAU-012-07,Open-Sky Haft Shove,Maiming Sledge,F1,True God,B
+MV-ELI-MAU-012-08,Maul Without Shelter Descent,Iron Heavyhelve,F2,True God,B
+MV-ELI-MAU-012-09,Open-Country Ground Break,Daybreak Ironband,F2,True God,B
+MV-ELI-MAU-012-10,No-Walls Great Fall,Hellish Rumble Wedgeface,F6a,True God,B
+MV-ELI-MAU-012-04,Hollow Squash,Ruinous Squash,F2,True God,B

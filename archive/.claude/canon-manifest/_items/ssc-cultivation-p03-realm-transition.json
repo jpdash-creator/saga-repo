@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-cultivation-p03-realm-transition",
+ "part": 3,
+ "area": 4,
+ "sequence_in_part": 4,
+ "title": "Realm Transition",
+ "domain": "cultivation",
+ "source_file": "Part_3_SSC_Canon_Cultivation_Power_Lifespan_Law.md",
+ "start_line": 660,
+ "end_line": 764,
+ "line_count": 105,
+ "output_path": ".claude/skills/ssc-cultivation-p03-realm-transition/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-narration-p02-six-tier-narrative-hierarchy",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Prose depth requires cultivation realm reference for accurate scene-setting"
+  },
+  {
+   "skill_id": "ssc-narration-p02-conversation-rules",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Prose depth requires cultivation realm reference for accurate scene-setting"
+  },
+  {
+   "skill_id": "ssc-narration-p02-combat-move-rules",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Prose depth requires cultivation realm reference for accurate scene-setting"
+  },
+  {
+   "skill_id": "ssc-narration-p02-point-view-governance",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Prose depth requires cultivation realm reference for accurate scene-setting"
+  },
+  {
+   "skill_id": "ssc-narration-p02-novel-output-file-structure-law",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Prose depth requires cultivation realm reference for accurate scene-setting"
+  },
+  {
+   "skill_id": "ssc-narration-p02-book-creation-law-chapter-document",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Prose depth requires cultivation realm reference for accurate scene-setting"
+  },
+  {
+   "skill_id": "ssc-narration-p02-book-creation-law-chapter-markdown-file",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Prose depth requires cultivation realm reference for accurate scene-setting"
+  },
+  {
+   "skill_id": "ssc-narration-p02-post-prose-audit-completeness-indicator-law",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Prose depth requires cultivation realm reference for accurate scene-setting"
+  },
+  {
+   "skill_id": "ssc-narration-p02-scope-visibility-protocol",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Prose depth requires cultivation realm reference for accurate scene-setting"
+  },
+  {
+   "skill_id": "ssc-narration-p02-chapter-export-format-specification",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Prose depth requires cultivation realm reference for accurate scene-setting"
+  }
+ ]
+}

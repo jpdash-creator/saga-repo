@@ -1,0 +1,103 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-MET-001-01,Endless Orbit Entry,Granite Slingshot,F2,Champion,B
+MV-ADV-MET-001-02,Orbit Handoff Switch,Silencing Orbitband,F1,Champion,B
+MV-ADV-MET-001-03,Held Orbit Sidestep,Weighttip Pounce,F3,Champion,B
+MV-ADV-MET-001-04,Orbit Screen Hold,Whorlgreave,F4,Champion,B
+MV-ADV-MET-001-05,Rim Clip Hammer Tap,Rumble Weightneck,F2,Champion,B
+MV-ADV-MET-001-06,Slingshot Orbit Release,Iron Meteorhead,F2,Champion,B
+MV-ADV-MET-001-07,Continuous Qi Orbit Drive,Downpour Cordsplice,F2,Champion,B
+MV-ADV-MET-001-08,Orbit Break Counter-Curl,Whorlhauberk,F4,Champion,B
+MV-ADV-MET-001-09,Unbroken Comet Spiral,Facet Tailstone,F2,Champion,B
+MV-ADV-MET-001-10,Orbit-Locked Armor Crush,Rumble Plummet,F2,Champion,B
+MV-ADV-MET-002-01,Field Wake Swing,Gyre Maelstrom,F3,Demigod,B
+MV-ADV-MET-002-02,Field Cord Parry,Murkwhorl,F5,Demigod,B
+MV-ADV-MET-002-03,Wide Field Pivot,Granite Reelback,F2,Demigod,B
+MV-ADV-MET-002-04,Cord-in-Field Feel,Verity Ropehead,F2,Demigod,B
+MV-ADV-MET-002-05,Weight Tide Draw,Plumbhauberk,F4,Demigod,B
+MV-ADV-MET-002-06,Field-Flung Meteor,Chime Spinout,F2,Demigod,B
+MV-ADV-MET-002-07,Cord Flare Disruption,Gyrecuirass,F4,Demigod,B
+MV-ADV-MET-002-08,Meteor Fall Field Pressure,Pondererbarrage,F4,Demigod,B
+MV-ADV-MET-002-09,Hammer Heart Compression Cut,Needling Gyre,F1,Demigod,B
+MV-ADV-MET-003-01,Wrapping Opening Throw,Gyvewhorl,F5,Champion,B
+MV-ADV-MET-003-02,Snare Check Tug,Chime Meteorhead,F2,Champion,B
+MV-ADV-MET-003-03,Twin Turn Wrist Lock,Thornwhorl,F5,Champion,B
+MV-ADV-MET-003-04,Snag-Aside Footwork,Silt Loopend,F2,Champion,B
+MV-ADV-MET-003-05,Cord-Guard Blade Wrap,Gust Dropweight,F2,Champion,B
+MV-ADV-MET-003-06,Loose Knot Feint,Reverie Revolve,F2,Champion,B
+MV-ADV-MET-003-07,Qi-Tightened Lasso Snap,Hoarfrost Weighttip,F2,Champion,B
+MV-ADV-MET-003-08,Cocoon Wind-Up,Fastening Longrope,F2,Champion,B
+MV-ADV-MET-003-09,Dragging Wrap Throw,Sanguine Slingshot,F2,Champion,B
+MV-ADV-MET-003-10,Tightening Cord Ring,Deed Ropehead,F2,Champion,B
+MV-ADV-MET-003-11,Cord-Bound Crushing Heave,Unmaking Tailstone,F1,Champion,B
+MV-ADV-MET-004-01,Rising Star Toss,Revolve Torment,F3,Demigod,B
+MV-ADV-MET-004-02,Star-Watch Sidestep,Mightwhorl,F5,Demigod,B
+MV-ADV-MET-004-03,Apex Catch,Ironponderer,F5,Demigod,B
+MV-ADV-MET-004-04,Tether Check Pull,Toxinplumb,F5,Demigod,B
+MV-ADV-MET-004-05,Meteor Dive Drop,Rumbleponderer,F5,Demigod,B
+MV-ADV-MET-004-06,Skyfall Rebound Chain,Loopend Barrage,F3,Demigod,B
+MV-ADV-MET-004-07,Falling Star Pillar Strike,Hollowwhorl,F5,Demigod,B
+MV-ADV-MET-004-08,Sky-Crushing Plummet,Silt Longrope,F2,Demigod,B
+MV-ADV-MET-005-01,Twin Cord Opening Pair,Sanguine Orbitband,F2,Champion,B
+MV-ADV-MET-005-02,Paired Hand Cord Cross,Chime Cordsplice,F2,Champion,B
+MV-ADV-MET-005-03,Azure Pace Pair-Step,Granite Weightneck,F2,Champion,B
+MV-ADV-MET-005-04,Dual-Track Rope Feint,Subduing Spinout,F1,Champion,B
+MV-ADV-MET-005-05,Twin Strand Snap,Rumble Reelback,F2,Champion,B
+MV-ADV-MET-005-06,Hawk-Eye Weight Sight,Verityponderer,F5,Champion,B
+MV-ADV-MET-005-07,Basin Ring Drive,Dropweight Maelstrom,F3,Champion,B
+MV-ADV-MET-005-08,River Turn Catch,Torrent Weightneck,F2,Champion,B
+MV-ADV-MET-005-09,Paired Cord Hawk Dive,Granite Gyre,F2,Champion,B
+MV-ADV-MET-005-10,Twin Wake Return,Iron Weighttip,F2,Champion,B
+MV-ADV-MET-005-11,Dual-Track Meteor Pincer,Plummet Barrage,F3,Champion,B
+MV-ADV-MET-005-12,Azure Basin Crush Cast,Transfixing Plummet,F1,Champion,B
+MV-ADV-MET-006-01,Hawk Hover Weight Raise,Remnant Revolve,F2,Demigod,B
+MV-ADV-MET-006-02,Stoop Line Step,Racing Orbitband,F1,Demigod,B
+MV-ADV-MET-006-03,Talon Cord Rake,Needling Tailstone,F1,Demigod,B
+MV-ADV-MET-006-04,Wing-Spread Cord Guard,Granite Longrope,F2,Demigod,B
+MV-ADV-MET-006-05,Twin Hawk Return Haul,Mantled Cordsplice,F1,Demigod,B
+MV-ADV-MET-006-06,Azure Sky Plummet Hook,Raging Dropweight,F1,Demigod,B
+MV-ADV-MET-006-07,Paired Talon Wrap,Hoarfrost Meteorhead,F2,Demigod,B
+MV-ADV-MET-006-08,Hawk Cry Cord Crack,Gyrehauberk,F4,Demigod,B
+MV-ADV-MET-006-09,Falling Hawk Weight Stoop,Rupturing Loopend,F1,Demigod,B
+MV-ADV-MET-006-10,Hawk and Quarry Chase,Lambasting Reelback Barrage,F6b,Demigod,B
+MV-ADV-MET-007-01,Bending River Weight Swing,Sanguine Ropehead,F2,Champion,B
+MV-ADV-MET-007-02,Stone-in-Stream Cord Guard,Aegiscable,F5,Champion,B
+MV-ADV-MET-007-03,Reed Bank Sidestep,Silt Slingshot,F2,Champion,B
+MV-ADV-MET-007-04,Current Draw Tug,Gyve Tailstone,F2,Champion,B
+MV-ADV-MET-007-05,Whirlpool Spin Disarm,Mayhem Meteorhead,F2,Champion,B
+MV-ADV-MET-007-06,Paired Bank Crash,Mightcable,F5,Champion,B
+MV-ADV-MET-007-07,River Ford Counter,Torrent Loopend,F2,Champion,B
+MV-ADV-MET-007-08,Floodwater Weight Surge,Dismantling Revolve,F2,Champion,B
+MV-ADV-MET-007-09,River-Cut Valley Strike,Tempered Dropweight,F2,Champion,B
+MV-ADV-MET-008-01,Windward Weight Cast,Splintering Ropehead,F1,Demigod,B
+MV-ADV-MET-008-02,Bearing Taken Pivot,Siltcable,F5,Demigod,B
+MV-ADV-MET-008-03,Oath-Taut Cord Parry,Chime Weighttip,F2,Demigod,B
+MV-ADV-MET-008-04,Plateau Edge Backstep,Ponderersprint,F4,Demigod,B
+MV-ADV-MET-008-05,Gale-Line Cord Sweep,Lancing Reelback,F1,Demigod,B
+MV-ADV-MET-008-06,Open Sky Orbit Guard,Charter Longrope,F2,Demigod,B
+MV-ADV-MET-008-07,Wind-Sworn Cord Hook,Cablehauberk,F4,Demigod,B
+MV-ADV-MET-008-08,Crosswind Qi Release,Glint Gyre,F2,Demigod,B
+MV-ADV-MET-008-09,Headwind Recovery Pull,Unyielding Weightneck,F1,Demigod,B
+MV-ADV-MET-008-10,Gale Hammer Descent,Glintcable,F5,Demigod,B
+MV-ADV-MET-008-11,Oath-Bound Storm Orbit,Wrecking Daybreak Cordsplice,F6a,Demigod,B
+MV-ADV-MET-009-01,Edge Walk Cord Swing,Gustponderer,F5,Ruler,B
+MV-ADV-MET-009-02,Cliff-Lip Weight Drop,Slingshot Torment,F3,Ruler,B
+MV-ADV-MET-009-03,Rising Gust Cord Lift,Toxin Slingshot,F2,Ruler,B
+MV-ADV-MET-009-04,Bearing-Line Tether Pull,Hoarfrost Cordsplice,F2,Ruler,B
+MV-ADV-MET-009-05,Plateau Wind Ring,Toxin Spinout,F2,Ruler,B
+MV-ADV-MET-009-06,Edge-Fall Hammer,Sanguine Reelback,F2,Ruler,B
+MV-ADV-MET-009-07,Over-the-Edge Haul,Iron Dropweight,F2,Ruler,B
+MV-ADV-MET-009-08,Bearing Held Weight Barrage,Orbitband Assault,F3,Ruler,B
+MV-ADV-MET-010-01,Oathsworn First Swing,Grinding Revolve,F1,Ruler,B
+MV-ADV-MET-010-02,Bearing Check Weight Tap,Expanse Meteorhead,F2,Ruler,B
+MV-ADV-MET-010-03,Gust-Facing Shoulder Turn,Gyrejaunt,F4,Ruler,B
+MV-ADV-MET-010-04,Cord Brace Against the Gale,Cableplating,F4,Ruler,B
+MV-ADV-MET-010-05,Sworn Line Flick,Subduing Weighttip,F1,Ruler,B
+MV-ADV-MET-010-06,Plateau Stance Haul,Gyveplumb,F5,Ruler,B
+MV-ADV-MET-010-07,Oath-Sworn Cord Pin,Fastening Tailstone,F2,Ruler,B
+MV-ADV-MET-010-08,Windcut Orbit Strike,Trouncing Longrope,F1,Ruler,B
+MV-ADV-MET-010-09,Gale Rope Entangle,Crippling Weightneck,F1,Ruler,B
+MV-ADV-MET-010-10,Bearing Reversal Strike,Blaze Plummet,F2,Ruler,B
+MV-ADV-MET-010-11,Vow-Heavy Iron Fall,Iron Ropehead,F2,Ruler,B
+MV-ADV-MET-010-12,Sworn Orbit Screen,Hoarfrost Orbitband,F2,Ruler,B
+MV-ADV-MET-010-02,Expanse Meteorhead,Tuned Meteorhead,F2,Ruler,B
+MV-ADV-MET-004-07,Hollowwhorl,Spikewhorl,F5,Demigod,B

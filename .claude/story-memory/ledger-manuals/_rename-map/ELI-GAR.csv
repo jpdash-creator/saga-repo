@@ -1,0 +1,118 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-GAR-001-01,Hawk Brow Watch,Charter Cordhandle,F2,Demigod,B
+MV-ELI-GAR-001-02,High and Low Paired Cast,Hoarfrost Gripdowel,F2,Demigod,B
+MV-ELI-GAR-001-03,Quarry Circle Step,Silt Constrict,F2,Demigod,B
+MV-ELI-GAR-001-04,Talon Cord Hook,Wirescourge,F4,Demigod,B
+MV-ELI-GAR-001-05,Twin Pull Cadence,Slipknot Wrath,F3,Demigod,B
+MV-ELI-GAR-001-06,Slack and Taut Pairing,Equipoise Noosering,F2,Demigod,B
+MV-ELI-GAR-001-07,Reckoning Drop Choke,Gyve Barbedwire,F2,Demigod,B
+MV-ELI-GAR-001-08,Opposing Ring Guard,Flintlike Wirebraid,F1,Demigod,B
+MV-ELI-GAR-001-09,Stoop Beyond Sight,Nova Cinch,F2,Demigod,B
+MV-ELI-GAR-002-01,Court Bow Opening,Charter Toggle,F2,Demigod,B
+MV-ELI-GAR-002-02,River Curve Throw,Gyvecinch,F5,Demigod,B
+MV-ELI-GAR-002-03,Bank-Side Step,Lightning Handlebar,F1,Demigod,B
+MV-ELI-GAR-002-04,Inner Wrist Press,Cordbraid Tenacity,F3,Demigod,B
+MV-ELI-GAR-002-05,Slow River Squeeze,Shade Tighten,F2,Demigod,B
+MV-ELI-GAR-002-06,Pooled Qi Anchor,Hoarfrost Slipnoose,F2,Demigod,B
+MV-ELI-GAR-002-07,Current-Turn Cord Parry,Noosevalor,F4,Demigod,B
+MV-ELI-GAR-002-08,Cord Weir Snare,Deedtoggle,F5,Demigod,B
+MV-ELI-GAR-002-09,Court Fixed Sequence,Doctrine Throttle,F2,Demigod,B
+MV-ELI-GAR-002-10,Drowning Current Pull,Ferocious Noosering,F1,Demigod,B
+MV-ELI-GAR-003-01,Feigned Throat Tap,Gust Cordhandle,F2,Demigod,B
+MV-ELI-GAR-003-02,Pale Sky Hold,Unbudging Barbedwire,F1,Demigod,B
+MV-ELI-GAR-003-03,Shadow Edge Glide,Wirecore Vortex,F3,Demigod,B
+MV-ELI-GAR-003-04,Throat Line Lock,Webbing Garrote,F1,Demigod,B
+MV-ELI-GAR-003-05,Azure Pulse Read,Expanse Cordbraid,F2,Demigod,B
+MV-ELI-GAR-003-06,Half-Draw Feint,Noosemettle,F4,Demigod,B
+MV-ELI-GAR-003-07,Hair-Thin Qi Line,Titanic Garrote,F1,Demigod,B
+MV-ELI-GAR-003-08,Sky-Held Breath Lock,Deed Slipnoose,F2,Demigod,B
+MV-ELI-GAR-003-09,Azure Line Stop,Psyche Gripdowel,F2,Demigod,B
+MV-ELI-GAR-004-01,Dual Track Breath,Irontoggle,F5,Demigod,B
+MV-ELI-GAR-004-02,Twin Foot Hush,Gust Constrict,F2,Demigod,B
+MV-ELI-GAR-004-03,Collar-Soft Cast,Toggle Durance,F3,Demigod,B
+MV-ELI-GAR-004-04,Mute Backward Drag,Fastening Wirecore,F2,Demigod,B
+MV-ELI-GAR-004-05,Mouth Cover Press,Sanguine Slipknot,F2,Demigod,B
+MV-ELI-GAR-004-06,Second Track Damper,Ponderous Handlebar,F2,Demigod,B
+MV-ELI-GAR-004-07,Paired Silence Veil,Strangling Throttle,F1,Demigod,B
+MV-ELI-GAR-004-08,Body Track Slip,Gripdowel Mettle,F3,Demigod,B
+MV-ELI-GAR-004-09,Hushed Double Draw,Wrathful Wirebraid,F1,Demigod,B
+MV-ELI-GAR-004-10,Doorway Double Cord Snare,Remorseless Noosering,F1,Demigod,B
+MV-ELI-GAR-004-11,Last Track Quiet,Hogtying Barbedwire Nerve,F6b,Demigod,B
+MV-ELI-GAR-005-01,Night Cloak Hold,Granite Cordhandle,F2,Void God,B
+MV-ELI-GAR-005-02,Lamplight Dodge Step,Silttoggle,F5,Void God,B
+MV-ELI-GAR-005-03,Cloak Edge Drop,Harnessing Throttle,F1,Void God,B
+MV-ELI-GAR-005-04,Post Corner Draw,Suffocating Wirebraid,F1,Void God,B
+MV-ELI-GAR-005-05,Dulled Qi Cord,Cinchwrath,F4,Void God,B
+MV-ELI-GAR-005-06,Turning Shoulder Slip,Torrent Toggle,F2,Void God,B
+MV-ELI-GAR-005-07,Hollow Ring Dragnet,Cordbraid Obduracy,F3,Void God,B
+MV-ELI-GAR-005-08,Moonless Pair Draw,Grievous Wirecore,F1,Void God,B
+MV-ELI-GAR-005-09,Unseen Step Behind,Toggleblink,F4,Void God,B
+MV-ELI-GAR-006-01,Twin Cord Stream Stance,Facet Handlebar,F2,Demigod,B
+MV-ELI-GAR-006-02,Low-High Closing Cast,Fastening Tighten,F2,Demigod,B
+MV-ELI-GAR-006-03,Stream Merge Step,Siltnoose,F5,Demigod,B
+MV-ELI-GAR-006-04,Loop Closer Flick,Granite Slipnoose,F2,Demigod,B
+MV-ELI-GAR-006-05,Left Stream Pull,Hour Slipknot,F2,Demigod,B
+MV-ELI-GAR-006-06,Right Stream Counter,Equipoise Wirebraid,F2,Demigod,B
+MV-ELI-GAR-006-07,Streams Rejoin Knot,Hoarfrost Garrote,F2,Demigod,B
+MV-ELI-GAR-006-08,Merging Current Choke,Strangling Tighten,F1,Demigod,B
+MV-ELI-GAR-006-09,Eddy Sweep Snare,Septic Toggle,F1,Demigod,B
+MV-ELI-GAR-006-10,Twin Torrent Draw,Hellish Handlebar,F1,Demigod,B
+MV-ELI-GAR-007-01,Unwalled Stance,Impervious Slipknot,F1,Demigod,B
+MV-ELI-GAR-007-02,Wind-Swung Loop,Gripdowel Durance,F3,Demigod,B
+MV-ELI-GAR-007-03,Open Ground Run,Torrent Cinch,F2,Demigod,B
+MV-ELI-GAR-007-04,Sworn Oath Tap,Strandwrath,F4,Demigod,B
+MV-ELI-GAR-007-05,Gale Cord Hold,Maiming Cordhandle,F1,Demigod,B
+MV-ELI-GAR-007-06,Held Target Glide,Toggleglare,F4,Demigod,B
+MV-ELI-GAR-007-07,Slack Loop Catch,Guststrand,F5,Demigod,B
+MV-ELI-GAR-007-08,Open Sky Oath Knot,Cinch Hardihood,F3,Demigod,B
+MV-ELI-GAR-007-09,Gale-Driven Strangle,Ponderous Noosering,F2,Demigod,B
+MV-ELI-GAR-007-10,Open Grass Passing,Hour Throttle,F2,Demigod,B
+MV-ELI-GAR-008-01,Loop Oath Stance,Aegiswire,F5,Demigod,B
+MV-ELI-GAR-008-02,Rising Wind Approach,Silt Slipnoose,F2,Demigod,B
+MV-ELI-GAR-008-03,Single Throw Return,Gyve Wirecore,F2,Demigod,B
+MV-ELI-GAR-008-04,Sworn Bearing Cast,Numbing Constrict,F1,Demigod,B
+MV-ELI-GAR-008-05,Cliff-Leaning Tension,Hourtoggle,F5,Demigod,B
+MV-ELI-GAR-008-06,Draft-Cut Cord Parry,Strandspine,F4,Demigod,B
+MV-ELI-GAR-008-07,Oath Loop Cascade,Doctrine Garrote,F2,Demigod,B
+MV-ELI-GAR-008-08,Trailside Sentry Snare,Togglevalor,F4,Demigod,B
+MV-ELI-GAR-008-09,Sworn Gale Breaking,Immobilizing Cinch,F1,Demigod,B
+MV-ELI-GAR-009-01,Neck Bearing Take Stance,Barbedwire Valor,F3,Demigod,B
+MV-ELI-GAR-009-02,Straight Heading Lunge,Wireglimmer,F4,Demigod,B
+MV-ELI-GAR-009-03,Full Hip Throw,Harnessing Constrict,F1,Demigod,B
+MV-ELI-GAR-009-04,Weapon Wrist Snap,Togglewrath,F4,Demigod,B
+MV-ELI-GAR-009-05,Held Bearing Pull,Wirebraid Reckoning,F3,Demigod,B
+MV-ELI-GAR-009-06,Bearing Slip Cord Counter,Murk Cordbraid,F2,Demigod,B
+MV-ELI-GAR-009-07,Dark Heading Thread,Waning Slipknot,F2,Demigod,B
+MV-ELI-GAR-009-08,Final Heading Draw,Facetnoose,F5,Demigod,B
+MV-ELI-GAR-009-09,Bearing Relay Strangle,Strandruin,F4,Demigod,B
+MV-ELI-GAR-009-10,Last Draw Beyond Guard,Punishing Constrict Havoc,F6b,Demigod,B
+MV-ELI-GAR-010-01,Long Coil Shoulder Hold,Facetwire,F5,Void God,B
+MV-ELI-GAR-010-02,Wetted Finger Reading,Veritytoggle,F5,Void God,B
+MV-ELI-GAR-010-03,Windborne Loop Fling,Thorn Slipnoose,F2,Void God,B
+MV-ELI-GAR-010-04,Ridge Line Run,Torrent Cordbraid,F2,Void God,B
+MV-ELI-GAR-010-05,Wind-Carried Qi Line,Mastering Tighten,F1,Void God,B
+MV-ELI-GAR-010-06,Long Cord Whistle,Immobilizing Tighten,F1,Void God,B
+MV-ELI-GAR-010-07,Gale Rein Strangle,Grievous Throttle,F1,Void God,B
+MV-ELI-GAR-010-08,Ridge Stone Snare,Cordhandle Mettle,F3,Void God,B
+MV-ELI-GAR-010-09,Wind-Following Seizure,Thornnoose,F5,Void God,B
+MV-ELI-GAR-011-01,Open Palm Stance,Ironwire,F5,Demigod,B
+MV-ELI-GAR-011-02,Underhand Gale Cast,Maiming Toggle,F1,Demigod,B
+MV-ELI-GAR-011-03,Gust Pace Close,Nooseglare,F4,Demigod,B
+MV-ELI-GAR-011-04,Elbow Wind Break,Obdurate Barbedwire,F1,Demigod,B
+MV-ELI-GAR-011-05,Rein-In Draw,Mighttoggle,F5,Demigod,B
+MV-ELI-GAR-011-06,Open Gale Spiral,Charter Wirecore,F2,Demigod,B
+MV-ELI-GAR-011-07,Wind Shear Release,Overbearing Gripdowel,F1,Demigod,B
+MV-ELI-GAR-011-08,Gale Loop Drift,Enthralling Noosering,F1,Demigod,B
+MV-ELI-GAR-011-09,Gust Anchored Choke,Cinchspine,F4,Demigod,B
+MV-ELI-GAR-011-10,Open Gale Sequence,Escalating Cinch,F1,Demigod,B
+MV-ELI-GAR-011-11,Cord of the Rising Wind,Titanic Wirebraid Wrath,F6b,Demigod,B
+MV-ELI-GAR-012-01,Throat-Taker Crouch,Granite Cordbraid,F2,Demigod,B
+MV-ELI-GAR-012-02,Gust-Timed Step,Torrential Cinch,F1,Demigod,B
+MV-ELI-GAR-012-03,Sudden Gale Throw,Slipnoose Valor,F3,Demigod,B
+MV-ELI-GAR-012-04,Draft Slip Parry,Unbowed Gripdowel,F1,Demigod,B
+MV-ELI-GAR-012-05,First Gust Draw,Gnashing Slipknot,F1,Demigod,B
+MV-ELI-GAR-012-06,Held Gust Pull,Garrote Reckoning,F3,Demigod,B
+MV-ELI-GAR-012-07,Twin Wrist Cinch,Cinchmettle,F4,Demigod,B
+MV-ELI-GAR-012-08,Nape Seal Draw,Harnessing Wirecore,F1,Demigod,B
+MV-ELI-GAR-012-09,Taken in One Gust,Dismantling Barbedwire,F2,Demigod,B
+MV-ELI-GAR-003-05,Expanse Cordbraid,Probing Cordbraid,F2,Demigod,B

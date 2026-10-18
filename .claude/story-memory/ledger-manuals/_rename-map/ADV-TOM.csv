@@ -1,0 +1,99 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-TOM-001-01,Stirrup-Side Guard Stance,Thorn Tomahead,F2,Champion L2 Mid,B
+MV-ADV-TOM-001-02,Boot Hook Heave,Manacling Edgecurve,F1,Champion L2 Mid,B
+MV-ADV-TOM-001-03,Rein Severing Chop,Rumble Birchhelve,F2,Champion L2 Mid,B
+MV-ADV-TOM-001-04,Last-Stride Charge Dodge,Torrent Chuck,F2,Champion L2 Mid,B
+MV-ADV-TOM-001-05,Girth-Cutting Pass,Lobassault,F4,Champion L2 Mid,B
+MV-ADV-TOM-001-06,High Rider Chest Throw,Drubbing Lightbit,F1,Champion L2 Mid,B
+MV-ADV-TOM-001-07,Stirrup Strap Snare,Lob Greave,F3,Champion L2 Mid,B
+MV-ADV-TOM-001-08,Swing-and-Unhorse Haft Pull,Gyve Fling,F2,Champion L2 Mid,B
+MV-ADV-TOM-001-09,Charge-Breaking Axe Fan,Slagflint,F5,Champion L2 Mid,B
+MV-ADV-TOM-002-01,Light-Arm Belt Draw,Intent Quickbit,F2,Demigod L2 Low,B
+MV-ADV-TOM-002-02,Balanced Breath Grip,Facethead,F5,Demigod L2 Low,B
+MV-ADV-TOM-002-03,Flight-Path Qi Trace,Waning Spikepoll,F2,Demigod L2 Low,B
+MV-ADV-TOM-002-04,Arc-Free Straight Throw,Ravaging Hurl,F1,Demigod L2 Low,B
+MV-ADV-TOM-002-05,Rear-Foot Drive Advance,Might Toss,F2,Demigod L2 Low,B
+MV-ADV-TOM-002-06,Qi-Nudged Curving Throw,Novahurl,F5,Demigod L2 Low,B
+MV-ADV-TOM-002-07,Missile-Knocking Haft Tap,Murk Thumbnotch,F2,Demigod L2 Low,B
+MV-ADV-TOM-002-08,Landed-Axe Deepening Pulse,Lancing Throwhelve,F1,Demigod L2 Low,B
+MV-ADV-TOM-002-09,Three-Curve Trailing Volley,Splitting Glint Lob,F6a,Demigod L2 Low,B
+MV-ADV-TOM-002-10,Missed-Axe Second Pass,Toss Barrage,F3,Demigod L2 Low,B
+MV-ADV-TOM-003-01,Seam and Strap Reading Glance,Chime Balancepoint,F2,Champion L7 High,B
+MV-ADV-TOM-003-02,Rivet-Line Chop,Unmaking Thumbnotch,F1,Champion L7 High,B
+MV-ADV-TOM-003-03,Visor-Rattling Poll Knock,Rumblepitch,F5,Champion L7 High,B
+MV-ADV-TOM-003-04,Slow-Foe Circling Step,Gust Fling,F2,Champion L7 High,B
+MV-ADV-TOM-003-05,Elbow Plate Spike Drive,Novachuck,F5,Champion L7 High,B
+MV-ADV-TOM-003-06,Plate Edge Beard Peel,Chime Lightbit,F2,Champion L7 High,B
+MV-ADV-TOM-003-07,Plate-Shaking Poll Cascade,Harpooning Tailknob,F1,Champion L7 High,B
+MV-ADV-TOM-003-08,Gorget Gap Throw,Wrecking Birchhelve,F1,Champion L7 High,B
+MV-ADV-TOM-004-01,Strapped-Brace Carry Stance,Balancepoint Fastness,F3,Demigod L5 Mid,B
+MV-ADV-TOM-004-02,Bundle-Sweep Quick Throw,Pitchthrash,F4,Demigod L5 Mid,B
+MV-ADV-TOM-004-03,Remaining-Axe Count Habit,Edgecurve Remedy,F3,Demigod L5 Mid,B
+MV-ADV-TOM-004-04,Hand-Over-Hand Release Rhythm,Hoarfrost Tomahead,F2,Demigod L5 Mid,B
+MV-ADV-TOM-004-05,Crouched Cover Reload,Gustchuck,F5,Demigod L5 Mid,B
+MV-ADV-TOM-004-06,Mid-Volley Haft Parry,Unbroken Quickbit,F1,Demigod L5 Mid,B
+MV-ADV-TOM-004-07,Rising Three-Arc Ladder Throw,Glint Chuck,F2,Demigod L5 Mid,B
+MV-ADV-TOM-004-08,Line-Holding Quick Fan,Granite Throwhelve,F2,Demigod L5 Mid,B
+MV-ADV-TOM-004-09,Guarded Overshoulder Throw,Flintcloak,F4,Demigod L5 Mid,B
+MV-ADV-TOM-004-10,Hail of Hatchets Across the Ground,Mayhem Spikepoll,F2,Demigod L5 Mid,B
+MV-ADV-TOM-004-11,Throw-Step-Throw Pursuit Chain,Tailknob Assault,F3,Demigod L5 Mid,B
+MV-ADV-TOM-005-01,Twin-Hand Court Draw,Rupturing Tomahead,F1,Ruler L2 Low,B
+MV-ADV-TOM-005-02,Paired High-Low Court Guard,Ironhead,F5,Ruler L2 Low,B
+MV-ADV-TOM-005-03,Azure Pivot and Chop,Granite Balancepoint,F2,Ruler L2 Low,B
+MV-ADV-TOM-005-04,Twin Shin Toss,Ravaging Lob,F1,Ruler L2 Low,B
+MV-ADV-TOM-005-05,Basin Slide Sidestep,Careening Hurl,F1,Ruler L2 Low,B
+MV-ADV-TOM-005-06,Paired Beard Parting Pull,Rumble Thumbnotch,F2,Ruler L2 Low,B
+MV-ADV-TOM-005-07,Twin-Court Crossing Throw,Furrowing Tailknob,F1,Ruler L2 Low,B
+MV-ADV-TOM-005-08,River-Fold Double Deflect,Murk Edgecurve,F2,Ruler L2 Low,B
+MV-ADV-TOM-005-09,Dual-Track Cut and Throw,Hour Spikepoll,F2,Ruler L2 Low,B
+MV-ADV-TOM-005-10,Twin Beard Pincer Lock,Paralyzing Throwhelve,F1,Ruler L2 Low,B
+MV-ADV-TOM-006-01,Hawk-Perch Hatchet Stance,Quickbit Hauberk,F3,Demigod L8 Mid,B
+MV-ADV-TOM-006-02,Hawk-Claw Beard Snatch,Toxinchuck,F5,Demigod L8 Mid,B
+MV-ADV-TOM-006-03,Hawk Stoop Falling Cut,Blaze Chuck,F2,Demigod L8 Mid,B
+MV-ADV-TOM-006-04,Azure Low-Line Throw,Blaze Lightbit,F2,Demigod L8 Mid,B
+MV-ADV-TOM-006-05,Wing-Flare Retreat Step,Fling Spurt,F3,Demigod L8 Mid,B
+MV-ADV-TOM-006-06,Pinion Flick Parry,Headcloak,F4,Demigod L8 Mid,B
+MV-ADV-TOM-006-07,Leaping Stoop Throw,Gust Pitch,F2,Demigod L8 Mid,B
+MV-ADV-TOM-006-08,Beard-and-Spike Talon Strike,Skinning Toss,F1,Demigod L8 Mid,B
+MV-ADV-TOM-006-09,Updraft Stair-Climb Step,Hurlleap,F4,Demigod L8 Mid,B
+MV-ADV-TOM-006-10,Hawk-Eye Range Reading,Birchremedy,F4,Demigod L8 Mid,B
+MV-ADV-TOM-006-11,Stoop Throw and Landing Cut,Intent Hurl,F2,Demigod L8 Mid,B
+MV-ADV-TOM-006-12,Azure Talon Rain,Slagfling,F5,Demigod L8 Mid,B
+MV-ADV-TOM-007-01,Hatchet River-Bend Circling Step,Birchhelve Canter,F3,Champion L4 Low,B
+MV-ADV-TOM-007-02,Twin-Stream Chop,Edgecurve Assault,F3,Champion L4 Low,B
+MV-ADV-TOM-007-03,Ford-Stone Low Guard,Ironflint,F5,Champion L4 Low,B
+MV-ADV-TOM-007-04,Current-Sweep Draw Throw,Scything Birchhelve,F1,Champion L4 Low,B
+MV-ADV-TOM-007-05,Basin Circle Catch,Flinthauberk,F4,Champion L4 Low,B
+MV-ADV-TOM-007-06,Double-Bit Convergent Fall,Sanguine Pitch,F2,Champion L4 Low,B
+MV-ADV-TOM-007-07,Rapids Release Chain,Hoarfrost Lob,F2,Champion L4 Low,B
+MV-ADV-TOM-007-08,Confluence Twin-Axe Cross-Cut,Doctrine Fling,F2,Champion L4 Low,B
+MV-ADV-TOM-007-09,River-Mouth Fan Volley,Throwhelve Maelstrom,F3,Champion L4 Low,B
+MV-ADV-TOM-008-01,Open-Field Wind Stance,Staunch Balancepoint,F1,Demigod L3 Mid,B
+MV-ADV-TOM-008-02,Crosswind Bit Chop,Wrecking Thumbnotch,F1,Demigod L3 Mid,B
+MV-ADV-TOM-008-03,Held-Bearing Hatchet Throw,Glinttoss,F5,Demigod L3 Mid,B
+MV-ADV-TOM-008-04,Ridge-Line Edge Step,Gusthead,F5,Demigod L3 Mid,B
+MV-ADV-TOM-008-05,Gust-Borne Haft Parry,Implacable Tomahead,F1,Demigod L3 Mid,B
+MV-ADV-TOM-008-06,Tailwind Far Throw,Blazebirch,F5,Demigod L3 Mid,B
+MV-ADV-TOM-008-07,Windward Shield Tear,Suppressing Quickbit,F1,Demigod L3 Mid,B
+MV-ADV-TOM-008-08,Oath-Held Unmoving Guard,Aegisflint,F5,Demigod L3 Mid,B
+MV-ADV-TOM-008-09,Open-Slope Gale Volley,Skinning Spikepoll,F1,Demigod L3 Mid,B
+MV-ADV-TOM-008-10,"Bearing, Throw and Close Chop",Hour Toss,F2,Demigod L3 Mid,B
+MV-ADV-TOM-009-01,Sworn Bare-Ground Stance,Adamant Lightbit,F1,Demigod L9 Low,B
+MV-ADV-TOM-009-02,Single-Oath Chop,Throwhelve Assault,F3,Demigod L9 Low,B
+MV-ADV-TOM-009-03,Rim-Skimming Flank Throw,Drubbing Pitch,F1,Demigod L9 Low,B
+MV-ADV-TOM-009-04,Grass-and-Cloth Wind Reading,Perceptive Tailknob,F1,Demigod L9 Low,B
+MV-ADV-TOM-009-05,Bearing-Shifting Long Stride,Gust Hurl,F2,Demigod L9 Low,B
+MV-ADV-TOM-009-06,Wind-Turned Haft Guard,Murk Lightbit,F2,Demigod L9 Low,B
+MV-ADV-TOM-009-07,Hide-Shield Breaking Throw,Flingbarrage,F4,Demigod L9 Low,B
+MV-ADV-TOM-009-08,Same-Line Second Oath Throw,Glint Balancepoint,F2,Demigod L9 Low,B
+MV-ADV-TOM-009-09,Downwind Gap Charge,Bounding Chuck,F1,Demigod L9 Low,B
+MV-ADV-TOM-009-10,Held-Bearing Axe Barrage,Harpooning Fling,F1,Demigod L9 Low,B
+MV-ADV-TOM-009-11,"Throw, Gust-Step and Chop",Intent Pitch,F2,Demigod L9 Low,B
+MV-ADV-TOM-010-01,Approach-Facing Fixed Stance,Staunch Quickbit,F1,Champion L5 Low,B
+MV-ADV-TOM-010-02,Line-of-Travel Cut,Sanguine Edgecurve,F2,Champion L5 Low,B
+MV-ADV-TOM-010-03,Gale-Quick Draw Throw,Birchtorment,F4,Champion L5 Low,B
+MV-ADV-TOM-010-04,Hillside Slope Step,Granite Thumbnotch,F2,Champion L5 Low,B
+MV-ADV-TOM-010-05,Sworn Two-Hand Haft Brace,Thorn Birchhelve,F2,Champion L5 Low,B
+MV-ADV-TOM-010-06,Windfall Surprise Throw,Lambasting Pitch,F1,Champion L5 Low,B
+MV-ADV-TOM-010-07,Same-Bearing Step and Chop Chain,Tossassault,F4,Champion L5 Low,B
+MV-ADV-TOM-010-08,Ridge-Top Scatter Volley,Cleaving Chuck,F1,Champion L5 Low,B

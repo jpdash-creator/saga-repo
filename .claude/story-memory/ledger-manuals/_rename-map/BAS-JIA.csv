@@ -1,0 +1,71 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-JIA-001-01,Plain Point Thrust,Short Springtip,F1,T1 Unawakened,A
+MV-BAS-JIA-001-02,Level Edge Cut,Level Twinspine,F1,T1 Unawakened,A
+MV-BAS-JIA-001-03,Rising Edge Lift,Driftdrop,F4,T1 Unawakened,A
+MV-BAS-JIA-001-04,Falling Edge Chop,Descending Ripple,F1,T1 Unawakened,A
+MV-BAS-JIA-001-05,Back Pace Point Retreat,Eddypace,F4,T1 Unawakened,A
+MV-BAS-JIA-001-06,Flat Wrist Turn,Angled Guardwing,F1,T1 Unawakened,A
+MV-BAS-JIA-002-01,Wrist Snap Flick,Quick Flitter,F1,T1 Skin,A
+MV-BAS-JIA-002-02,Brow Cover Raise,Raised Ridgecrest,F1,T1 Skin,A
+MV-BAS-JIA-002-03,Point Line Probe,Watching Knotcord,F1,T1 Skin,A
+MV-BAS-JIA-002-04,Quarter Circle Pace,Sideways Lilt,F1,T1 Skin,A
+MV-BAS-JIA-002-05,Flat Press Down,Tasselwedge,F4,T1 Skin,A
+MV-BAS-JIA-003-01,Low Stance Hold,Steady Waistbend,F1,T1 Muscle,A
+MV-BAS-JIA-003-02,Outer Edge Slice,Sharp Flexspine,F1,T1 Muscle,A
+MV-BAS-JIA-003-03,Inner Edge Draw,Swirlhit,F4,T1 Muscle,A
+MV-BAS-JIA-003-04,Double Point Prick,Narrow Springtip,F1,T1 Muscle,A
+MV-BAS-JIA-003-05,Side Slip Pace,Skipping Drift,F1,T1 Muscle,A
+MV-BAS-JIA-003-06,Sword Arm Cover,Solid Guardwing,F1,T1 Muscle,A
+MV-BAS-JIA-003-07,Rear Hand Balance Lift,Calm Pommeltuft,F1,T1 Muscle,A
+MV-BAS-JIA-004-01,Sword Finger Aim,Judging Tassel,F1,T1 Tendon,A
+MV-BAS-JIA-004-02,Finger Led Thrust,Straight Flitter,F1,T1 Tendon,A
+MV-BAS-JIA-004-03,Hooked Point Pull,Gnawing Knotcord,F1,T1 Tendon,A
+MV-BAS-JIA-004-04,Open Palm Brush,Settled Jianhilt,F1,T1 Tendon,A
+MV-BAS-JIA-004-05,Twin Short Steps,Ripplehop,F4,T1 Tendon,A
+MV-BAS-JIA-005-01,Double Edge Alternate Cut,Wide Twinspine,F1,T1 Tendon,A
+MV-BAS-JIA-005-02,Spine Side Check,Tight Twinspine,F1,T1 Tendon,A
+MV-BAS-JIA-005-03,Hip Turn Backcut,Ripplestrike,F4,T1 Tendon,A
+MV-BAS-JIA-005-04,Edge Line Slide,Stepping Lilt,F1,T1 Tendon,A
+MV-BAS-JIA-005-05,Ear Height Guard Hold,Willowstay,F4,T1 Tendon,A
+MV-BAS-JIA-005-06,Chin Level Poke,Swirlbump,F4,T1 Tendon,A
+MV-BAS-JIA-006-01,Tassel Swing Cue,Swirlhusk,F4,T1 Bone,A
+MV-BAS-JIA-006-02,Sleeve Cover Draw,Fouling Jianhilt,F1,T1 Bone,A
+MV-BAS-JIA-006-03,Sleeve Flick Cut,Lilthit,F4,T1 Bone,A
+MV-BAS-JIA-006-04,Pommel Tap Strike,Hard Pommeltuft,F1,T1 Bone,A
+MV-BAS-JIA-006-05,Slow Step Entry,Lilttrot,F4,T1 Bone,A
+MV-BAS-JIA-007-01,Qi Thread Edge Cut,Rippleblow,F4,Senior L1 Low,A
+MV-BAS-JIA-007-02,Qi Flat Turn,Ready Flexspine,F1,Senior L1 Low,A
+MV-BAS-JIA-007-03,Flowing Point Chain,Single Swirl,F1,Senior L1 Low,A
+MV-BAS-JIA-007-04,Breath Linked Pace,Tasselskitter,F4,Senior L1 Low,A
+MV-BAS-JIA-007-05,Flow Return Cut,Downward Eddy,F1,Senior L1 Low,A
+MV-BAS-JIA-007-06,Even Breath Hold,Even Waistbend,F1,Senior L1 Low,A
+MV-BAS-JIA-008-01,Inhale Draw Cut,Plain Ridgecrest,F1,Senior L1 Low,A
+MV-BAS-JIA-008-02,Exhale Thrust,Leaden Swirl,F1,Senior L1 Low,A
+MV-BAS-JIA-008-03,Held Breath Guard,Holding Jianhilt,F1,Senior L1 Low,A
+MV-BAS-JIA-008-04,Breath Window Step,Swaying Tassel,F1,Senior L1 Low,A
+MV-BAS-JIA-008-05,Wrist Qi Pulse,Deep Flexspine,F1,Senior L1 Low,A
+MV-BAS-JIA-008-06,Breath Sense Reach,Measured Knotcord,F1,Senior L1 Low,A
+MV-BAS-JIA-008-07,Twin Breath Sweep,Eddyblow,F4,Senior L1 Low,A
+MV-BAS-JIA-009-01,Willow Crown Cut,Willowblow,F4,Senior L2 Low,A
+MV-BAS-JIA-009-02,Reed Neck Slant,Flexblow,F4,Senior L2 Low,A
+MV-BAS-JIA-009-03,Willow Rib Slant,Flexdash,F4,Senior L2 Low,A
+MV-BAS-JIA-009-04,Reed Knee Cut,Firm Tassel,F1,Senior L2 Low,A
+MV-BAS-JIA-009-05,Willow Wrist Lift,Willowdash,F4,Senior L2 Low,A
+MV-BAS-JIA-010-01,Four Corner Pivot,Swirlpace,F4,Senior L3 Low,A
+MV-BAS-JIA-010-02,Heel Brush Advance,Easing Flitter,F1,Senior L3 Low,A
+MV-BAS-JIA-010-03,Crescent Sidestep,Skipping Eddy,F1,Senior L3 Low,A
+MV-BAS-JIA-010-04,Stalking Point Advance,Flitter Dash,F3,Senior L3 Low,A
+MV-BAS-JIA-010-05,Stepping Thrust Return,Eddy Hit,F3,Senior L3 Low,A
+MV-BAS-JIA-010-06,Landing Guard Settle,Lowered Guardwing,F1,Senior L3 Low,A
+MV-BAS-JIA-011-01,Bent Blade Whip Cut,Open Waistbend,F1,Senior L5 Mid,A
+MV-BAS-JIA-011-02,Spring Flat Parry,Kept Flexspine,F1,Senior L5 Mid,A
+MV-BAS-JIA-011-03,Tip Quiver Probe,Mild Springtip,F1,Senior L5 Mid,A
+MV-BAS-JIA-011-04,Return Flick Point,Driftstrike,F4,Senior L5 Mid,A
+MV-BAS-JIA-011-05,Flex Slide Escape,Flexskitter,F4,Senior L5 Mid,A
+MV-BAS-JIA-012-01,Morning Line Cut,Sharp Lilt,F1,Senior L7 High,A
+MV-BAS-JIA-012-02,Noon Line Thrust,Straight Ripple,F1,Senior L7 High,A
+MV-BAS-JIA-012-03,Dusk Line Parry,Resting Pommeltuft,F1,Senior L7 High,A
+MV-BAS-JIA-012-04,Drill Pace Shuffle,Driftamble,F4,Senior L7 High,A
+MV-BAS-JIA-012-05,Count of Three Lunge,Flat Drift,F1,Senior L7 High,A
+MV-BAS-JIA-012-06,Scabbard Return Settle,Tasselnote,F4,Senior L7 High,A
+MV-BAS-JIA-008-01,Plain Ridgecrest,Keen Crestedge,F1,Senior L1 Low,A

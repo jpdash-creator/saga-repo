@@ -1,0 +1,131 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-KUS-001-01,Twin-Court Reaping Posture,Sickleblade Hardihood,F3,Demigod L1 Low,B
+MV-ELI-KUS-001-02,Court-Edge Draw Cut,Snarescourge,F4,Demigod L1 Low,B
+MV-ELI-KUS-001-03,Straight-Line Weight Lunge,Blaze Entwine,F2,Demigod L1 Low,B
+MV-ELI-KUS-001-04,Mirrored Hand Exchange,Chime Chainloop,F2,Demigod L1 Low,B
+MV-ELI-KUS-001-05,Bell-Toll Weight Block,Tangknob Durance,F3,Demigod L1 Low,B
+MV-ELI-KUS-001-06,Cut and Cast Pairing,Brutalizing Chainlength,F1,Demigod L1 Low,B
+MV-ELI-KUS-001-07,Crossed Chain-and-Blade Lock,Fastening Chainkey,F2,Demigod L1 Low,B
+MV-ELI-KUS-001-08,Twin Arc Reaping,Granite Rodhandle,F2,Demigod L1 Low,B
+MV-ELI-KUS-001-09,Twin-Court Severing Return,Wrathful Tangle Scourge,F6b,Demigod L1 Low,B
+MV-ELI-KUS-002-01,Azure Stoop Posture,Thorn Ballbind,F2,Demigod L3 Mid,B
+MV-ELI-KUS-002-02,Hawk Feather Flick,Sanguine Weightball,F2,Demigod L3 Mid,B
+MV-ELI-KUS-002-03,Sky-Line Weight Cast,Weightswing Scourge,F3,Demigod L3 Mid,B
+MV-ELI-KUS-002-04,Circling Hawk Chain Pace,Torrent Snare,F2,Demigod L3 Mid,B
+MV-ELI-KUS-002-05,Wing-Fold Chain Parry,Chime Sicklehook,F2,Demigod L3 Mid,B
+MV-ELI-KUS-002-06,Hawk-Eye Range Lock,Kamarespite,F4,Demigod L3 Mid,B
+MV-ELI-KUS-002-07,Talon Weight Hammer,Kusariscourge,F4,Demigod L3 Mid,B
+MV-ELI-KUS-002-08,Quarry Pinning Cast,Gyve Pommelring,F2,Demigod L3 Mid,B
+MV-ELI-KUS-002-09,Flanking Hawk Dive,Gust Rodhandle,F2,Demigod L3 Mid,B
+MV-ELI-KUS-002-10,Roost-Lane Chain Lattice,Predatory Sicklehook,F1,Demigod L3 Mid,B
+MV-ELI-KUS-002-11,Skyfall Hawk Reap,Headlong Rumble Sicklepull,F6a,Demigod L3 Mid,B
+MV-ELI-KUS-003-01,Confluence Stance,Thornkusari,F5,Demigod L6 Low,B
+MV-ELI-KUS-003-02,Meeting-Waters Hook Cut,Tangleruin,F4,Demigod L6 Low,B
+MV-ELI-KUS-003-03,Eddy-Edge Weight Fling,Kusariwrath,F4,Demigod L6 Low,B
+MV-ELI-KUS-003-04,Pooling Step,Phantom Tangle,F1,Demigod L6 Low,B
+MV-ELI-KUS-003-05,Streambed Chain Drag,Hoarfrost Tangknob,F2,Demigod L6 Low,B
+MV-ELI-KUS-003-06,Two-Current Reaping,Ruinous Chainkey,F1,Demigod L6 Low,B
+MV-ELI-KUS-003-07,Silt-Clouding Feint,Murkkama,F5,Demigod L6 Low,B
+MV-ELI-KUS-003-08,River-Mouth Spreading Cast,Daybreak Weightball,F2,Demigod L6 Low,B
+MV-ELI-KUS-003-09,Undertow Chain Pull,Sicklenerve,F4,Demigod L6 Low,B
+MV-ELI-KUS-003-10,Confluence Flood Sweep,Ruinous Silt Chainlength,F6a,Demigod L6 Low,B
+MV-ELI-KUS-004-01,Sky-Facing Kama Guard,Hoarfrost Ballbind,F2,Void God L1 Low,B
+MV-ELI-KUS-004-02,Master Draw Slash,Wrathful Sicklepull,F1,Void God L1 Low,B
+MV-ELI-KUS-004-03,Overcast Throw,Lacerating Chainloop,F1,Void God L1 Low,B
+MV-ELI-KUS-004-04,Low Cloud Sidestep,Gust Weightswing,F2,Void God L1 Low,B
+MV-ELI-KUS-004-05,High Hook Parry,Gust Chainloop,F2,Void God L1 Low,B
+MV-ELI-KUS-004-06,Sky-Span Chain Bind,Gyve Sickleblade,F2,Void God L1 Low,B
+MV-ELI-KUS-004-07,Azure Return Cut,Iron Entwine,F2,Void God L1 Low,B
+MV-ELI-KUS-004-08,Rising Weight Lift,Gust Pommelring,F2,Void God L1 Low,B
+MV-ELI-KUS-004-09,Court Whisper Probe,Waning Chainlength,F2,Void God L1 Low,B
+MV-ELI-KUS-004-10,Ten-Direction Chain Screen,Obdurate Sickleblade,F1,Void God L1 Low,B
+MV-ELI-KUS-004-11,Sky-Hook Piercing Throw,Tempered Lashcut,F2,Void God L1 Low,B
+MV-ELI-KUS-004-12,Azure Weight-and-Hook Run,Doctrine Tangknob,F2,Void God L1 Low,B
+MV-ELI-KUS-004-13,Cloud-Cleaving Chain Flash,Kamavortex,F4,Void God L1 Low,B
+MV-ELI-KUS-005-01,Paired Perch Guard,Kusarinerve,F4,Demigod L4 High,B
+MV-ELI-KUS-005-02,Hawk Pair Slash,Snareruin,F4,Demigod L4 High,B
+MV-ELI-KUS-005-03,Weight-Beside-Hook Cast,Gusttangle,F5,Demigod L4 High,B
+MV-ELI-KUS-005-04,Pair-Turn Pivot,Headlong Lashcut,F1,Demigod L4 High,B
+MV-ELI-KUS-005-05,Feather-Light Backstep,Blinding Rodhandle,F1,Demigod L4 High,B
+MV-ELI-KUS-005-06,Mated Hawk Binding,Numbing Ballbind,F1,Demigod L4 High,B
+MV-ELI-KUS-005-07,Second Hawk Return,Booming Weightball,F1,Demigod L4 High,B
+MV-ELI-KUS-005-08,Pair Signal Feint,Pommelring Nerve,F3,Demigod L4 High,B
+MV-ELI-KUS-005-09,Paired Weight Hammer,Rumble Chainkey,F2,Demigod L4 High,B
+MV-ELI-KUS-005-10,Hawk Pair Cutting Cross,Decimating Weightswing,F1,Demigod L4 High,B
+MV-ELI-KUS-005-11,Mate-Call Sequence,Overlapping Tangle,F1,Demigod L4 High,B
+MV-ELI-KUS-005-12,Paired Stoop Through Armour,Facet Sicklehook,F2,Demigod L4 High,B
+MV-ELI-KUS-006-01,Basin Court Guard,Charter Rodhandle,F2,Void God L4 Low,B
+MV-ELI-KUS-006-02,Low Basin Reap,Sanguine Sicklepull,F2,Void God L4 Low,B
+MV-ELI-KUS-006-03,Cupped Palm Cast,Rampaging Chainloop,F1,Void God L4 Low,B
+MV-ELI-KUS-006-04,Basin Lip Chain Ring,Torrent Chainkey,F2,Void God L4 Low,B
+MV-ELI-KUS-006-05,Spillover Weight Strike,Sanguine Entwine,F2,Void God L4 Low,B
+MV-ELI-KUS-006-06,Settling Silt Bind,Tanglespine,F4,Void God L4 Low,B
+MV-ELI-KUS-006-07,Basin Overflow Reaping,Unsparing Chainlength,F1,Void God L4 Low,B
+MV-ELI-KUS-006-08,Court-Yard Closing Snare,Weightball Spine,F3,Void God L4 Low,B
+MV-ELI-KUS-006-09,Basin-Court Sealing Wrap,Kamamettle,F4,Void God L4 Low,B
+MV-ELI-KUS-007-01,Open-Chain Sworn Stance,Ironkusari,F5,Demigod L2 Low,B
+MV-ELI-KUS-007-02,Crosswind Hook Cut,Might Lashcut,F2,Demigod L2 Low,B
+MV-ELI-KUS-007-03,Gale-Edge Weight Throw,Entwine Scourge,F3,Demigod L2 Low,B
+MV-ELI-KUS-007-04,Lee-Side Footwork,Blinding Snare,F1,Demigod L2 Low,B
+MV-ELI-KUS-007-05,Wind-Parted Chain Bind,Hogtying Tangle,F1,Demigod L2 Low,B
+MV-ELI-KUS-007-06,Oath-Bound Return Weight,Granite Weightswing,F2,Demigod L2 Low,B
+MV-ELI-KUS-007-07,Gusting Feint,Suffocating Sickleblade,F1,Demigod L2 Low,B
+MV-ELI-KUS-007-08,Gale Weight Fan,Sicklehook Wrath,F3,Demigod L2 Low,B
+MV-ELI-KUS-007-09,Sworn Line Suppression,Charter Pommelring,F2,Demigod L2 Low,B
+MV-ELI-KUS-007-10,Open Sky Gale Severing,Nova Lashcut,F2,Demigod L2 Low,B
+MV-ELI-KUS-008-01,Oath-Kept Stance,Hoarfrost Chainloop,F2,Demigod L5 Mid,B
+MV-ELI-KUS-008-02,Steady Bearing Cut,Gust Sicklepull,F2,Demigod L5 Mid,B
+MV-ELI-KUS-008-03,Straight-Wind Cast,Shattering Tangknob,F1,Demigod L5 Mid,B
+MV-ELI-KUS-008-04,Bearing-Check Chain Step,Torrential Ballbind,F1,Demigod L5 Mid,B
+MV-ELI-KUS-008-05,Oath Parry on the Bearing,Impervious Weightball,F1,Demigod L5 Mid,B
+MV-ELI-KUS-008-06,Sworn Weight Pin,Gyvekama,F5,Demigod L5 Mid,B
+MV-ELI-KUS-008-07,Oath Return Reap,Blaze Tangle,F2,Demigod L5 Mid,B
+MV-ELI-KUS-008-08,Held-Bearing Chain Pull,Rumblesickle,F5,Demigod L5 Mid,B
+MV-ELI-KUS-008-09,Oath-Keeper's Wheel,Devastating Snare,F1,Demigod L5 Mid,B
+MV-ELI-KUS-008-10,Unbroken Oath Sequence,Synchronized Snare,F1,Demigod L5 Mid,B
+MV-ELI-KUS-008-11,Oath Fulfilled Chain Flash,Kusarivortex,F4,Demigod L5 Mid,B
+MV-ELI-KUS-009-01,High Plateau Kama Stance,Facet Pommelring,F2,Demigod L8 Low,B
+MV-ELI-KUS-009-02,Level Ground Reap,Punishing Tangknob,F1,Demigod L8 Low,B
+MV-ELI-KUS-009-03,Far Horizon Cast,Nova Chainkey,F2,Demigod L8 Low,B
+MV-ELI-KUS-009-04,Plateau Wind Stride,Kamablink,F4,Demigod L8 Low,B
+MV-ELI-KUS-009-05,Open-Hand Chain Catch,Rodhandle Obduracy,F3,Demigod L8 Low,B
+MV-ELI-KUS-009-06,Cliff-Face Hook Haul,Gyvesickle,F5,Demigod L8 Low,B
+MV-ELI-KUS-009-07,Skyline Weight Hammer,Granite Sicklepull,F2,Demigod L8 Low,B
+MV-ELI-KUS-009-08,Horizon Feint,Enthralling Snare,F1,Demigod L8 Low,B
+MV-ELI-KUS-009-09,Thin-Air Bearing Read,Waning Sicklehook,F2,Demigod L8 Low,B
+MV-ELI-KUS-009-10,Far-Bearing Piercing Cast,Hollow Lashcut,F2,Demigod L8 Low,B
+MV-ELI-KUS-009-11,Rim-Run Chain Sequence,Lotkama,F5,Demigod L8 Low,B
+MV-ELI-KUS-009-12,Plateau Bearing Flash Reap,Glint Weightswing,F2,Demigod L8 Low,B
+MV-ELI-KUS-010-01,Open-Field Hook Stance,Sicklemettle,F4,Void God L2 Low,B
+MV-ELI-KUS-010-02,Roofless Reaping Cut,Blistering Ballbind,F1,Void God L2 Low,B
+MV-ELI-KUS-010-03,Unfenced Weight Cast,Hoarfrost Entwine,F2,Void God L2 Low,B
+MV-ELI-KUS-010-04,Fenceless Chain Wrap,Gyve Chainlength,F2,Void God L2 Low,B
+MV-ELI-KUS-010-05,Free-Ranging Weight Return,Kusarihavoc,F4,Void God L2 Low,B
+MV-ELI-KUS-010-06,Wide-Sky Feint,Reverie Lashcut,F2,Void God L2 Low,B
+MV-ELI-KUS-010-07,Open Horizon Reaping Wheel,Blazekama,F5,Void God L2 Low,B
+MV-ELI-KUS-010-08,Fenceless Chain Lattice,Wicked Sickleblade,F1,Void God L2 Low,B
+MV-ELI-KUS-010-09,No-Walls Chain Sunder,Glint Snare,F2,Void God L2 Low,B
+MV-ELI-KUS-011-01,Long Reap Oath Stance,Sicklevalor,F4,True God L1 Low,B
+MV-ELI-KUS-011-02,Sworn Bearing Draw,Vengeful Pommelring,F1,True God L1 Low,B
+MV-ELI-KUS-011-03,Long Cast on the Wind,Kamahavoc,F4,True God L1 Low,B
+MV-ELI-KUS-011-04,Heel-and-Toe Bearing Step,Entwine Flash,F3,True God L1 Low,B
+MV-ELI-KUS-011-05,Slack-Wind Parry,Gustkama,F5,True God L1 Low,B
+MV-ELI-KUS-011-06,Long Chain Oath Bind,Ponderous Tangknob,F2,True God L1 Low,B
+MV-ELI-KUS-011-07,Returning Gale Reap,Might Chainloop,F2,True God L1 Low,B
+MV-ELI-KUS-011-08,Windward Pull-In,Overbearing Weightswing,F1,True God L1 Low,B
+MV-ELI-KUS-011-09,Wind Flag Reading,Verity Chainlength,F2,True God L1 Low,B
+MV-ELI-KUS-011-10,Long Reap Suppressing Fan,Intentkusari,F5,True God L1 Low,B
+MV-ELI-KUS-011-11,Sworn Bearing Chain Screen,Thornsickle,F5,True God L1 Low,B
+MV-ELI-KUS-011-12,Longest Throw Piercing Cast,Glint Chainkey,F2,True God L1 Low,B
+MV-ELI-KUS-011-13,Long Reap Wind-Step Flash,Tangleflash,F4,True God L1 Low,B
+MV-ELI-KUS-012-01,Elder's Windward Stance,Facet Ballbind,F2,Void God L6 Peak,B
+MV-ELI-KUS-012-02,Weathered Hook Cut,Sanguine Rodhandle,F2,Void God L6 Peak,B
+MV-ELI-KUS-012-03,Slow Gale Weight Cast,Mangling Tangle,F1,Void God L6 Peak,B
+MV-ELI-KUS-012-04,Patient Bearing Step,Snare Glare,F3,Void God L6 Peak,B
+MV-ELI-KUS-012-05,Old Oath Chain Wrap,Sickledurance,F4,Void God L6 Peak,B
+MV-ELI-KUS-012-06,Elder Return Hammer,Titanic Sicklehook,F1,Void God L6 Peak,B
+MV-ELI-KUS-012-07,Calm-Before-Gust Feint,Murktangle,F5,Void God L6 Peak,B
+MV-ELI-KUS-012-08,Elder's Wide Reap,Slag Weightball,F2,Void God L6 Peak,B
+MV-ELI-KUS-012-09,Wind-Sworn Chain Lock,Sickleblade Spine,F3,Void God L6 Peak,B
+MV-ELI-KUS-012-10,Elder Gale Ending Reap,Brutalizing Weightswing,F1,Void God L6 Peak,B
+MV-ELI-KUS-009-10,Hollow Lashcut,Spiking Lashcut,F2,Demigod L8 Low,B

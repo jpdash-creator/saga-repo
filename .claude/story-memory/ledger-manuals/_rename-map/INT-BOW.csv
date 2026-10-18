@@ -1,0 +1,73 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-BOW-001-01,Pin Line Sighting,Attentive Vanes,F1,Senior L3 Mid,A
+MV-INT-BOW-001-02,Short Pace Nock,Limbswerve,F4,Senior L3 Mid,A
+MV-INT-BOW-001-03,Needle Draw Release,Vanesthwack,F4,Senior L3 Mid,A
+MV-INT-BOW-001-04,Shaft Angle Check,Vanestonic,F4,Senior L3 Mid,A
+MV-INT-BOW-001-05,Sleeve Pin Arrow,Gagging Release,F1,Senior L3 Mid,A
+MV-INT-BOW-001-06,Boot Pin Shot,Clutching Nock,F1,Senior L3 Mid,A
+MV-INT-BOW-002-01,Volley Count Calling,Sure Bowstring,F1,Senior L5 Low,A
+MV-INT-BOW-002-02,Draw Cycle Pulse,Nockslap,F4,Senior L5 Low,A
+MV-INT-BOW-002-03,Quiver Roll Pull,Vicious Volley,F1,Senior L5 Low,A
+MV-INT-BOW-002-04,Shoulder Turn Loose,Fleet Serving,F1,Senior L5 Low,A
+MV-INT-BOW-002-05,Arc Rest Shot,Drawswat,F4,Senior L5 Low,A
+MV-INT-BOW-002-06,Rolling Arc Rain,Brisk Limb,F1,Senior L5 Low,A
+MV-INT-BOW-002-07,Staggered Quiver Barrage,Bold Arrowrest,F1,Senior L5 Low,A
+MV-INT-BOW-003-01,Bodkin Head Fitting,Patient Bowgrip,F1,Warrior L1 Low,B
+MV-INT-BOW-003-02,Point Blank Pierce Loose,Cometanchor,F5,Warrior L1 Low,B
+MV-INT-BOW-003-03,Hide Seam Seeking,Knitting Riser,F1,Warrior L1 Low,B
+MV-INT-BOW-003-04,Stave Shield Brace,Nockbarrier,F4,Warrior L1 Low,B
+MV-INT-BOW-003-05,Seam Seeking Arrow,Grim Limbtip,F1,Warrior L1 Low,B
+MV-INT-BOW-003-06,Bodkin Rift Shot,Swift Anchor,F1,Warrior L1 Low,B
+MV-INT-BOW-004-01,Saddle Seat Settle,Pirouetting Riser,F1,Senior L6 Mid,A
+MV-INT-BOW-004-02,Stirrup Brace Draw,Stern Draw,F1,Senior L6 Mid,A
+MV-INT-BOW-004-03,Reins In Teeth Shot,Quiver Flog,F3,Senior L6 Mid,A
+MV-INT-BOW-004-04,Gallop Beat Release,Dire Loose,F1,Senior L6 Mid,A
+MV-INT-BOW-004-05,Mount Neck Hide,Vaneshasp,F4,Senior L6 Mid,A
+MV-INT-BOW-004-06,Back Quiver Slide,Kindly Nock,F1,Senior L6 Mid,A
+MV-INT-BOW-004-07,Rear Saddle Release,Swift Bowgrip,F1,Senior L6 Mid,A
+MV-INT-BOW-004-08,Circling Mount Volley,Rugged Bowstring,F1,Senior L6 Mid,A
+MV-INT-BOW-005-01,Mark To Horizon Pacing,Hearty Quiver,F1,Warrior L1 Mid,B
+MV-INT-BOW-005-02,High Anchor Draw,Comet Snapshot,F2,Warrior L1 Mid,B
+MV-INT-BOW-005-03,Fall Of Shot Reading,Vanes Linen,F3,Warrior L1 Mid,B
+MV-INT-BOW-005-04,Long Arc Loose,Gleam Anchor,F2,Warrior L1 Mid,B
+MV-INT-BOW-005-05,Cross Air Judging,Lunar Limb,F2,Warrior L1 Mid,B
+MV-INT-BOW-005-06,Far Mark Qi Arrow,Comet Limbtip,F2,Warrior L1 Mid,B
+MV-INT-BOW-005-07,Horizon Reach Arrow,Honed Volley,F2,Warrior L1 Mid,B
+MV-INT-BOW-006-01,Ridge Footing Test,Vanescordial,F4,Senior L7 Low,A
+MV-INT-BOW-006-02,Downward Aim Offset,Loose Thwack,F3,Senior L7 Low,A
+MV-INT-BOW-006-03,Perch Crouch Settle,Release Zip,F3,Senior L7 Low,A
+MV-INT-BOW-006-04,Vault Down Step,Veering Snapshot,F1,Senior L7 Low,A
+MV-INT-BOW-006-05,Roof Edge Rain Shot,Anchorthwack,F4,Senior L7 Low,A
+MV-INT-BOW-006-06,Branch Lean Counter Loose,Savage Snapshot,F1,Senior L7 Low,A
+MV-INT-BOW-007-01,Cord Tie Check,Attentive Bowgrip,F1,Warrior L2 Low,B
+MV-INT-BOW-007-02,Short Reel Pull,Draught Arrowrest,F2,Warrior L2 Low,B
+MV-INT-BOW-007-03,Weighted Head Fitting,Emberanchor,F5,Warrior L2 Low,B
+MV-INT-BOW-007-04,Blunt Head Stagger Shot,Emberloose,F5,Warrior L2 Low,B
+MV-INT-BOW-007-05,Cord Whip Lash,Humvolley,F5,Warrior L2 Low,B
+MV-INT-BOW-007-06,Net Fold Pack,Recallriser,F5,Warrior L2 Low,B
+MV-INT-BOW-007-07,Weighted Cord Arrow,Spliceloose,F5,Warrior L2 Low,B
+MV-INT-BOW-007-08,Net Burst Arrow,Sleet Riser,F2,Warrior L2 Low,B
+MV-INT-BOW-007-09,Hook Head Haul,Splice Draw,F2,Warrior L2 Low,B
+MV-INT-BOW-008-01,Thick Limb Warm Draw,Riserlinen,F4,Warrior L3 Low,B
+MV-INT-BOW-008-02,Hip Drive Draw,Doughty Bowstring,F1,Warrior L3 Low,B
+MV-INT-BOW-008-03,Wide Stance Bow Brace,Draught Release,F2,Warrior L3 Low,B
+MV-INT-BOW-008-04,Heavy Stave Parry,Hazelimb,F5,Warrior L3 Low,B
+MV-INT-BOW-008-05,Flat Arrow Loose,Wild Vanes,F1,Warrior L3 Low,B
+MV-INT-BOW-008-06,Iron Limb Draw Shot,Sleetanchor,F5,Warrior L3 Low,B
+MV-INT-BOW-008-07,Stout Shaft Thrower,Brassquiver,F5,Warrior L3 Low,B
+MV-INT-BOW-009-01,Bow Hand Choke Up,Rallying Serving,F1,Senior L9 Low,A
+MV-INT-BOW-009-02,Limb Cross Block,Buttressed Nock,F1,Senior L9 Low,A
+MV-INT-BOW-009-03,String Loop Trap,Viselike Limbtip,F1,Senior L9 Low,A
+MV-INT-BOW-009-04,Short Back Step,Scudding Quiver,F1,Senior L9 Low,A
+MV-INT-BOW-009-05,Grip Strike Turn,Acrid Draw,F1,Senior L9 Low,A
+MV-INT-BOW-009-06,Ribs Stave Drive,Rushing Serving,F1,Senior L9 Low,A
+MV-INT-BOW-009-07,Limb Circle Deflect,Guarding Limb,F1,Senior L9 Low,A
+MV-INT-BOW-009-08,Guard Then Loose,Twofold Loose,F1,Senior L9 Low,A
+MV-INT-BOW-010-01,Wet String Wax Rub,Candor Arrowrest,F2,Warrior L4 Mid,B
+MV-INT-BOW-010-02,Fog Line Pacing,Volleyglide,F4,Warrior L4 Mid,B
+MV-INT-BOW-010-03,Dusk Shaft Gleam,Gap Serving,F2,Warrior L4 Mid,B
+MV-INT-BOW-010-04,Heat Haze Offset,Shard Anchor,F2,Warrior L4 Mid,B
+MV-INT-BOW-010-05,Rain Glove Grip,Sleetnock,F5,Warrior L4 Mid,B
+MV-INT-BOW-010-06,Mist Cut Shaft,Staticanchor,F5,Warrior L4 Mid,B
+MV-INT-BOW-010-07,Rain Hardened Head Shot,Fierce Limbtip,F1,Warrior L4 Mid,B
+MV-INT-BOW-010-08,Dusk Flight Trace,Brisk Volley,F1,Warrior L4 Mid,B

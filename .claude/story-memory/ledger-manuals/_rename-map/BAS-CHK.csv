@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-CHK-001-01,Pinch-and-Hang Grip,Kind Hoopedge,F1,Unawakened,A
+MV-BAS-CHK-001-02,Flat Sidearm Skim,Hoopblow,F4,Unawakened,A
+MV-BAS-CHK-001-03,Spin-Giving Wrist Snap,Diskdash,F4,Unawakened,A
+MV-BAS-CHK-001-04,Open-Palm Ring Slap,Folded Spinrim,F1,Unawakened,A
+MV-BAS-CHK-001-05,Shuffle Back Half-Pace,Backward Bladering,F1,Unawakened,A
+MV-BAS-CHK-001-06,Thumb Rim Inspection,Warm Disk,F1,Unawakened,A
+MV-BAS-CHK-002-01,Forefinger Cradle Spin,Measured Outerblade,F1,Skin,A
+MV-BAS-CHK-002-02,Slow Orbit Count,Calm Holeedge,F1,Skin,A
+MV-BAS-CHK-002-03,Fingertip Fling,Roundhit,F4,Skin,A
+MV-BAS-CHK-002-04,Dropped Ring Scoop,Caromdodge,F4,Skin,A
+MV-BAS-CHK-002-05,Wrist Roll Warm-Up,Mild Outerblade,F1,Skin,A
+MV-BAS-CHK-003-01,Chest-Height Hoop Stance,Kind Innergrip,F1,Muscle,A
+MV-BAS-CHK-003-02,Marked Post Pitch,Gyratedash,F4,Muscle,A
+MV-BAS-CHK-003-03,Overhand Hoop Lob,Sudden Carom,F1,Muscle,A
+MV-BAS-CHK-003-04,Packed-Earth Bounce,Bouncedrop,F4,Muscle,A
+MV-BAS-CHK-003-05,Padded Forearm Block,Resting Innergrip,F1,Muscle,A
+MV-BAS-CHK-003-06,Duck and Sidestep,Backward Ricochet,F1,Muscle,A
+MV-BAS-CHK-003-07,Twin Post Alternation,Square Fingerhole,F1,Muscle,A
+MV-BAS-CHK-004-01,Open-Finger Release Point,Mild Ringface,F1,Tendon,A
+MV-BAS-CHK-004-02,Blunt Quoit Toss,Carombump,F4,Tendon,A
+MV-BAS-CHK-004-03,Inner-Rim Slash,Low Bladering,F1,Tendon,A
+MV-BAS-CHK-004-04,Hooked Wrist Tug,Towing Bounce,F1,Tendon,A
+MV-BAS-CHK-004-05,Ball-of-Foot Quarter Pivot,Diskskitter,F4,Tendon,A
+MV-BAS-CHK-004-06,Straw Mark Reading,Gentle Holeedge,F1,Tendon,A
+MV-BAS-CHK-005-01,Two-Finger Pinch Catch,Lowered Fingerhole,F1,Bone,A
+MV-BAS-CHK-005-02,Forearm Run Receive,Tight Roundedge,F1,Bone,A
+MV-BAS-CHK-005-03,Whirl Hook Catch,Ready Disk,F1,Bone,A
+MV-BAS-CHK-005-04,Back-Step Catch Reach,Gyratehop,F4,Bone,A
+MV-BAS-CHK-005-05,Cuff Rebound Throw,Open Ringface,F1,Bone,A
+MV-BAS-CHK-005-06,Eyes-Closed Whir Catch,Smooth Spinrim,F1,Bone,A
+MV-BAS-CHK-005-07,Paired Ring Juggle,Smooth Innergrip,F1,Bone,A
+MV-BAS-CHK-005-08,Numbed-Hand Grip Test,Calm Roundedge,F1,Bone,A
+MV-BAS-CHK-006-01,Qi-Warmed Rim,Ringface Count,F3,Senior,A
+MV-BAS-CHK-006-02,Edge-First Throw,Grazeblow,F4,Senior,A
+MV-BAS-CHK-006-03,Palm-Held Spin Feed,Kind Outerblade,F1,Senior,A
+MV-BAS-CHK-006-04,Rim Parry Slap,Kept Bladering,F1,Senior,A
+MV-BAS-CHK-006-05,Ball-of-Foot Glide,Swaying Ricochet,F1,Senior,A
+MV-BAS-CHK-006-06,Spin Remainder Sense,Deep Spinrim,F1,Senior,A
+MV-BAS-CHK-007-01,Cross-Body Draw Throw,Diskdrop,F4,Senior,A
+MV-BAS-CHK-007-02,Qi-Lent Long Flight,Rounddash,F4,Senior,A
+MV-BAS-CHK-007-03,Overarm Falling Rim,Gyratedrop,F4,Senior,A
+MV-BAS-CHK-007-04,Reverse-Grip Backhand Cut,Bouncestrike,F4,Senior,A
+MV-BAS-CHK-007-05,Forearm Turn Guard,Fingerhole Cowl,F3,Senior,A
+MV-BAS-CHK-007-06,Pivot Off the Line,Rounddodge,F4,Senior,A
+MV-BAS-CHK-007-07,Throwing Distance Glance,Steady Holeedge,F1,Senior,A
+MV-BAS-CHK-008-01,Ground-Hugging Skim,Open Graze,F1,Senior,A
+MV-BAS-CHK-008-02,Tilted Plane Rise,Hard Disk,F1,Senior,A
+MV-BAS-CHK-008-03,Edge Tap Guard,Settled Bladering,F1,Senior,A
+MV-BAS-CHK-008-04,Back-Foot Skate,Bouncetrot,F4,Senior,A
+MV-BAS-CHK-008-05,Dust and Cloth Drift Read,Soft Roundedge,F1,Senior,A
+MV-BAS-CHK-009-01,Dawn Wrist Circuit,Deep Innergrip,F1,Senior,A
+MV-BAS-CHK-009-02,Count-of-Ten Volley,Sharp Gyrate,F1,Senior,A
+MV-BAS-CHK-009-03,Swinging Mark Lead,Firm Carom,F1,Senior,A
+MV-BAS-CHK-009-04,Hanging Cord Stroke,Level Bounce,F1,Senior,A
+MV-BAS-CHK-009-05,Fallen Ring Recovery,Bouncehop,F4,Senior,A
+MV-BAS-CHK-009-06,Palm Qi Pulse,Calm Disk,F1,Senior,A
+MV-BAS-CHK-009-07,Cloth-Wrapped Forearm Twist,Settled Hoopedge,F1,Senior,A
+MV-BAS-CHK-009-08,Evening Slow-Spin Cooldown,Watching Ringface,F1,Senior,A
+MV-BAS-CHK-010-01,Forearm Stack Carry,Soft Fingerhole,F1,Senior,A
+MV-BAS-CHK-010-02,Top-of-Stack Draw Throw,Gnawing Graze,F1,Senior,A
+MV-BAS-CHK-010-03,Second Ring Follow,Roundblow,F4,Senior,A
+MV-BAS-CHK-010-04,Belt Draw and Dodge,Grazetrot,F4,Senior,A
+MV-BAS-CHK-010-05,Cord-Wrapped Hush,Judging Roundedge,F1,Senior,A
+MV-BAS-CHK-010-06,Spare Ring Knock-Away,Resting Bladering,F1,Senior,A

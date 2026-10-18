@@ -1,0 +1,140 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-NET-001-01,Azure Pair Weight Feel,Compassionate Drawcord,F1,Warrior,B
+MV-SIG-NET-001-02,Paired Wrist Throw,Radiance Mesh,F2,Warrior,B
+MV-SIG-NET-001-03,Azure-Edge Rim Flick,Vigor Billow,F2,Warrior,B
+MV-SIG-NET-001-04,Pair-Net Scissor Haul,Commanding Sinker,F1,Warrior,B
+MV-SIG-NET-001-05,Twin-Cord Block Cross,Consecrated Weave,F1,Warrior,B
+MV-SIG-NET-001-06,Pair Sidestep Slip,Haulinboon,F4,Warrior,B
+MV-SIG-NET-001-07,Paired Snare Lay,Beguiling Hemcord,F1,Champion,B
+MV-SIG-NET-001-08,Twin Net Gathering Sequence,Destiny Meshgrid,F2,Champion,B
+MV-SIG-NET-001-09,Azure Pair Sealing Draw,Statute Leadedge,F2,Demigod,B
+MV-SIG-NET-001-10,Twin Azure Net Descent,Storied Solar Loopmesh,F6a,Warrior,B
+MV-SIG-NET-002-01,Basin Footing Lead Weigh,Magnanimous Knotwork,F1,Warrior,B
+MV-SIG-NET-002-02,Two-Track Cast,Thunderclap Smother,F2,Warrior,B
+MV-SIG-NET-002-03,Basin-Edge Hem Rap,Bedrock Haulin,F2,Warrior,B
+MV-SIG-NET-002-04,Track-Crossing Mesh Parry,Delugeweave,F5,Warrior,B
+MV-SIG-NET-002-05,Basin Haul Pull,Sigildrape,F5,Warrior,B
+MV-SIG-NET-002-06,Basin Rim Net Curl,Masterful Enmesh,F1,Warrior,B
+MV-SIG-NET-002-07,Two-Track Slide Recall,Floatrope Odyssey,F3,Warrior,B
+MV-SIG-NET-002-08,Basin Floor Mesh Spread,Floatrope Reliquary,F3,Champion,B
+MV-SIG-NET-002-09,Two-Track Net Relay,Season Knotwork,F2,Champion,B
+MV-SIG-NET-002-10,Basin Sealing Press,Volition Spread,F2,Demigod,B
+MV-SIG-NET-002-11,Basin of Two Tracks Net Closing,Masterful Leadedge,F1,Warrior,B
+MV-SIG-NET-003-01,Hawk-Wing Fold Check,Sinkermercy,F4,Champion,B
+MV-SIG-NET-003-02,Pinion Spread Cast,Exalted Haulin,F1,Champion,B
+MV-SIG-NET-003-03,Wing-Tip Weight Strike,Quenched Loopmesh,F2,Champion,B
+MV-SIG-NET-003-04,Hawk-Flap Retreat Step,Squall Enmesh,F2,Champion,B
+MV-SIG-NET-003-05,Wing-Beat Mesh Block,Meshtroth,F4,Champion,B
+MV-SIG-NET-003-06,Hawk Dive Haul,Billow Covenant,F3,Champion,B
+MV-SIG-NET-003-07,Pinion Cord Snatch,Entropy Mesh,F2,Champion,B
+MV-SIG-NET-003-08,Updraft Mesh Rise,Thunderclap Weave,F2,Champion,B
+MV-SIG-NET-003-09,Hawk-Roost Net Trap,Dune Drawcord,F2,Champion,B
+MV-SIG-NET-003-10,Wingspan Cast Sequence,Harmonious Drape,F1,Champion,B
+MV-SIG-NET-003-11,Talon-Through-Mesh Pierce,Spreadtriumph,F4,Demigod,B
+MV-SIG-NET-003-12,Hawk Wing Eclipse Net,Gallant Sinker Edict,F6b,Champion,B
+MV-SIG-NET-004-01,Court-River Rope Feel,Eclipse Meshgrid,F2,Ruler,B
+MV-SIG-NET-004-02,Flowing Cord Cast,Royal Knotwork,F1,Ruler,B
+MV-SIG-NET-004-03,Reed-Edge Hem Slap,Unrivaled Drape,F1,Ruler,B
+MV-SIG-NET-004-04,Court Eddy Net Turn,Meshseal,F4,Ruler,B
+MV-SIG-NET-004-05,Current Haul Press,Subjugating Smother,F1,Ruler,B
+MV-SIG-NET-004-06,Ford Step Weave,Bedrock Leadedge,F2,Ruler,B
+MV-SIG-NET-004-07,River-Court Ensnaring Lay,Guileful Drawcord,F1,Ruler,B
+MV-SIG-NET-004-08,Rolling Current Chain,Season Loopmesh,F2,Ruler,B
+MV-SIG-NET-004-09,Current-Slip Net Flash,Season Floatrope,F2,Demigod,B
+MV-SIG-NET-004-10,River Court Closing Net,Tyrannous Billow,F1,Ruler,B
+MV-SIG-NET-005-01,Paired Field Reading,Pealweave,F5,Demigod,B
+MV-SIG-NET-005-02,Twin-Field Spread Throw,Squall Weave,F2,Demigod,B
+MV-SIG-NET-005-03,Field-Lash Hem Strike,Steel Drape,F2,Demigod,B
+MV-SIG-NET-005-04,Dual Field Net Orbit,Glacier Meshgrid,F2,Demigod,B
+MV-SIG-NET-005-05,Paired Cord Field Haul,Peremptory Smother,F1,Demigod,B
+MV-SIG-NET-005-06,Field-Thread Parry,Weavevow,F4,Demigod,B
+MV-SIG-NET-005-07,Twin Field Step,Windborne Enmesh,F1,Demigod,B
+MV-SIG-NET-005-08,Paired Field Snare Net,Beguiling Mesh,F1,Demigod,B
+MV-SIG-NET-005-09,Field Relay Sequence,Enmeshcrown,F4,Demigod,B
+MV-SIG-NET-005-10,Paired Field Sealing Net,Volition Haulin,F2,Demigod,B
+MV-SIG-NET-005-11,Dual-Track Field Entrapment,Peremptory Retribution Billow,F6a,Demigod,B
+MV-SIG-NET-006-01,Core-Warmed Cord Feel,Hemcord Blessing,F3,Core Formation,B
+MV-SIG-NET-006-02,Core-Thrown Net Fan,Pulsar Spread,F2,Core Formation,B
+MV-SIG-NET-006-03,Core-Weight Rim Strike,Vigor Sinker,F2,Core Formation,B
+MV-SIG-NET-006-04,Basin Core Net Step,Vigor Meshgrid,F2,Core Formation,B
+MV-SIG-NET-006-05,Core Thread Net Bind,Glacier Enmesh,F2,Core Formation,B
+MV-SIG-NET-006-06,Core Orbit Screen,Stately Drawcord,F1,Core Formation,B
+MV-SIG-NET-006-07,Hawk Core Dive Haul,Statute Mesh,F2,Core Formation,B
+MV-SIG-NET-006-08,Core Pulse Cord Snap,Pealsinker,F5,Core Formation,B
+MV-SIG-NET-006-09,Core-Fed Net Lay,Sinkervow,F4,Core Formation,B
+MV-SIG-NET-006-10,Core Cast Chain,Destiny Sinker,F2,Core Formation,B
+MV-SIG-NET-006-11,Core-Driven Piercing Mesh,Radiance Spread,F2,Core Formation,B
+MV-SIG-NET-006-12,Azure Core Net Canopy,Illustrious Dune Knotwork,F6a,Core Formation,B
+MV-SIG-NET-007-01,Sworn Breath Net Weighing,Pealmesh,F5,Warrior,B
+MV-SIG-NET-007-02,Wind-Mouth Net Cast,Majestic Floatrope,F1,Warrior,B
+MV-SIG-NET-007-03,Oath-Hem Cross Strike,Squall Hemcord,F2,Warrior,B
+MV-SIG-NET-007-04,Gale-Foot Backstep,Squall Loopmesh,F2,Warrior,B
+MV-SIG-NET-007-05,Oath Cord Tightening Pull,Masterful Smother,F1,Warrior,B
+MV-SIG-NET-007-06,Wind Shear Mesh Parry,Parityweave,F5,Warrior,B
+MV-SIG-NET-007-07,Gust-Rider Snare Haul,Statute Hemcord,F2,Warrior,B
+MV-SIG-NET-007-08,Gale Foot Net Slide,Vigorspread,F5,Warrior,B
+MV-SIG-NET-007-09,Wind Peg Net Setting,Venommesh,F5,Champion,B
+MV-SIG-NET-007-10,Gale Oath Net Chain,Orchestral Weave,F1,Champion,B
+MV-SIG-NET-007-11,Oath-Edge Cutting Mesh,Radiance Haulin,F2,Demigod,B
+MV-SIG-NET-007-12,Oath of the Open Wind Net,Thrall Floatrope,F2,Warrior,B
+MV-SIG-NET-008-01,Plateau Weight Take,Nurturing Leadedge,F1,Warrior,B
+MV-SIG-NET-008-02,Bearing Plain Cast,Thunderclap Spread,F2,Warrior,B
+MV-SIG-NET-008-03,Plateau Rock Hem Hit,Spreaddecree,F4,Warrior,B
+MV-SIG-NET-008-04,Bearing Net Brace,Venerable Mesh,F1,Warrior,B
+MV-SIG-NET-008-05,Plateau Haul Draw,Spreadseal,F4,Warrior,B
+MV-SIG-NET-008-06,Wind-Step Pivot,Feather Sinker,F1,Warrior,B
+MV-SIG-NET-008-07,Plateau Bearing Snare,Duneweave,F5,Champion,B
+MV-SIG-NET-008-08,Bearing Chain Cast,Destiny Weave,F2,Champion,B
+MV-SIG-NET-008-09,Plateau Bearing Seal Draw,Destiny Haulin,F2,Demigod,B
+MV-SIG-NET-008-10,Plateau Edge Net Fall,Haulinbanner,F4,Warrior,B
+MV-SIG-NET-009-01,Gale Sworn Grip Test,Meshmercy,F4,Champion,B
+MV-SIG-NET-009-02,Sworn Spread Cast,Haulinverdict,F4,Champion,B
+MV-SIG-NET-009-03,Gale-Edge Weight Whip,Bedrock Loopmesh,F2,Champion,B
+MV-SIG-NET-009-04,Gale Cord Spin Parry,Delugesinker,F5,Champion,B
+MV-SIG-NET-009-05,Sworn Hauling Heave,Peremptory Spread,F1,Champion,B
+MV-SIG-NET-009-06,Gale Net Curl Throw,Authoritative Drape,F1,Champion,B
+MV-SIG-NET-009-07,Sworn Gale Step,Soundless Drape,F1,Champion,B
+MV-SIG-NET-009-08,Gale Peg Net Field,Parity Leadedge,F2,Champion,B
+MV-SIG-NET-009-09,Sworn Gale Sequence,Volition Billow,F2,Champion,B
+MV-SIG-NET-009-10,Gale-Sworn Pursuit Flash,Pulsar Knotwork,F2,Demigod,B
+MV-SIG-NET-009-11,Sworn Gale Net Binding,Authoritative Drawcord Reliquary,F6b,Champion,B
+MV-SIG-NET-010-01,Open-Plateau Cord Feel,Wise Mesh,F1,Ruler,B
+MV-SIG-NET-010-02,Wide Oath Throw,Radiance Hemcord,F2,Ruler,B
+MV-SIG-NET-010-03,Open-Rim Weight Swing,Squallhaulin,F5,Ruler,B
+MV-SIG-NET-010-04,Plateau Stride Shift,Deluge Billow,F2,Ruler,B
+MV-SIG-NET-010-05,Oath-Held Net Brace,Sanctum Knotwork,F2,Ruler,B
+MV-SIG-NET-010-06,Open Ground Haul Press,Millstone Enmesh,F2,Ruler,B
+MV-SIG-NET-010-07,Plateau Gust Mesh Flick,Venom Drawcord,F2,Ruler,B
+MV-SIG-NET-010-08,Oath-Line Retreat,Dune Hemcord,F2,Ruler,B
+MV-SIG-NET-010-09,Open Plateau Net Ambush,Sinkertroth,F4,Ruler,B
+MV-SIG-NET-010-10,Oath Net Relay,Volition Smother,F2,Ruler,B
+MV-SIG-NET-010-11,Oath-Rooted Net Press,Gloommesh,F5,Demigod,B
+MV-SIG-NET-010-12,Open Plateau Net Oath,Splendid Bedrock Sinker,F6a,Ruler,B
+MV-SIG-NET-011-01,Xiantian Gale Field Taste,Nurturing Meshgrid,F1,Demigod,B
+MV-SIG-NET-011-02,Field-Caught Net Cast,Radiance Loopmesh,F2,Demigod,B
+MV-SIG-NET-011-03,Field Rim Lash,Heroic Enmesh,F1,Demigod,B
+MV-SIG-NET-011-04,Field Gale Net Orbit,Sinkerseal,F4,Demigod,B
+MV-SIG-NET-011-05,Sworn Field Haul,Sigilspread,F5,Demigod,B
+MV-SIG-NET-011-06,Field Bearing Step,Drapeboon,F4,Demigod,B
+MV-SIG-NET-011-07,Field Peg Gale Trap,Sigilweave,F5,Demigod,B
+MV-SIG-NET-011-08,Field Gale Relay,Choral Drape,F1,Demigod,B
+MV-SIG-NET-011-09,Field Gale Net Seal,Ruling Smother,F1,Demigod,B
+MV-SIG-NET-011-10,Gale Field Net Closing,Unbending Floatrope,F1,Demigod,B
+MV-SIG-NET-012-01,Core Bearing Weight Read,Serene Leadedge,F1,Core Formation,B
+MV-SIG-NET-012-02,Core-Thrown Gale Cast,Squalldrape,F5,Core Formation,B
+MV-SIG-NET-012-03,Core Gale Rim Rap,Quenched Spread,F2,Core Formation,B
+MV-SIG-NET-012-04,Sworn Core Cord Pull,Haulinpledge,F4,Core Formation,B
+MV-SIG-NET-012-05,Core Wind Mesh Parry,Pall Weave,F2,Core Formation,B
+MV-SIG-NET-012-06,Core Bearing Haul,Volition Meshgrid,F2,Core Formation,B
+MV-SIG-NET-012-07,Core Gust Step,Ethereal Enmesh,F1,Core Formation,B
+MV-SIG-NET-012-08,Core Bearing Net Trap,Sigilsinker,F5,Core Formation,B
+MV-SIG-NET-012-09,Core Sworn Chain,Tenet Spread,F2,Core Formation,B
+MV-SIG-NET-012-10,Core Gale Piercing Net,Sinker Banner,F3,Core Formation,B
+MV-SIG-NET-012-11,Sworn Bearing Gale-Fall Net,Vaunted Mesh,F1,Core Formation,B
+MV-SIG-NET-003-09,Dune Drawcord,Hooking Drawcord,F2,Champion,B
+MV-SIG-NET-005-04,Glacier Meshgrid,Stalwart Meshgrid,F2,Demigod,B
+MV-SIG-NET-006-05,Glacier Enmesh,Clinging Enmesh,F2,Core Formation,B
+MV-SIG-NET-006-12,Illustrious Dune Knotwork,Imperious Knotwork,F6a,Core Formation,B
+MV-SIG-NET-010-05,Sanctum Knotwork,Staunch Knotwork,F2,Ruler,B
+MV-SIG-NET-010-08,Dune Hemcord,Veering Hemcord,F2,Ruler,B
+MV-SIG-NET-008-07,Duneweave,Latchweave,F5,Champion,B

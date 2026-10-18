@@ -1,0 +1,129 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-SAB-001-01,Pair Hawk Drop Cut,Vigorbasket,F5,Warrior L1 Low,B
+MV-SIG-SAB-001-02,Pair Wing Parry,Peal Backedge,F2,Warrior L1 Low,B
+MV-SIG-SAB-001-03,Hawk Pair Saber Step,Swipesolace,F4,Warrior L1 Low,B
+MV-SIG-SAB-001-04,Hawk Pair Saber Sweep,Yelmandecree,F4,Warrior L1 Low,B
+MV-SIG-SAB-001-05,Paired Hawk Counter,Parity Pipeback,F2,Warrior L1 Low,B
+MV-SIG-SAB-001-06,Hawk Pair Bind,Swellcrown,F4,Warrior L1 Low,B
+MV-SIG-SAB-001-07,Hawk Pair Chain,Symphonic Swipe,F1,Champion L1 Low,B
+MV-SIG-SAB-001-08,Paired Hawk Guard Dive,Prism Falsedge,F2,Champion L1 Low,B
+MV-SIG-SAB-001-09,Hawk Pair Strike Down,Gallant Skimmer,F1,Demigod L1 Low,B
+MV-SIG-SAB-001-10,Paired Hawk Descent,Exalted Haemal Swell,F6a,Warrior L1 Low,B
+MV-SIG-SAB-002-01,Court Azure Draw,Haemalgallop,F5,Warrior L6 Mid,B
+MV-SIG-SAB-002-02,Azure Court Parry,Deluge Yelman,F2,Warrior L6 Mid,B
+MV-SIG-SAB-002-03,Court Azure Step,Vigoryelman,F5,Warrior L6 Mid,B
+MV-SIG-SAB-002-04,Azure Court Slash,Thunderclap Pipeback,F2,Warrior L6 Mid,B
+MV-SIG-SAB-002-05,Court Azure Rebuke,Squall Belly,F2,Warrior L6 Mid,B
+MV-SIG-SAB-002-06,Azure Court Hook,Steelyelman,F5,Warrior L6 Mid,B
+MV-SIG-SAB-002-07,Court Azure Turn Cut,Basketcrown,F4,Warrior L6 Mid,B
+MV-SIG-SAB-002-08,Azure Court Chain,Orchestral Knucklebow,F1,Champion L1 Low,B
+MV-SIG-SAB-002-09,Azure Court Veil,Hornbeam Basket,F2,Champion L1 Low,B
+MV-SIG-SAB-002-10,Azure Court Edict Cut,Quenched Backedge,F2,Demigod L1 Low,B
+MV-SIG-SAB-002-11,Azure Court Judgement Stroke,Royal Steel Counterguard,F6a,Warrior L6 Mid,B
+MV-SIG-SAB-003-01,Twin River Cut,Flourish Crown,F3,Champion L3 Low,B
+MV-SIG-SAB-003-02,Twin River Guard,Spinecurve Pledge,F3,Champion L3 Low,B
+MV-SIG-SAB-003-03,Two Bank Saber Step,Evanescent Slantcut,F1,Champion L3 Low,B
+MV-SIG-SAB-003-04,Twin River Slash,Vigor Slantcut,F2,Champion L3 Low,B
+MV-SIG-SAB-003-05,Joined Water Parry,Sacrosanct Falsedge,F1,Champion L3 Low,B
+MV-SIG-SAB-003-06,Twin River Bind,Exalted Belly,F1,Champion L3 Low,B
+MV-SIG-SAB-003-07,Twin River Chain,Tenet Slantcut,F2,Champion L3 Low,B
+MV-SIG-SAB-003-08,Twin River Veil,Immaculate Knucklebow,F1,Champion L3 Low,B
+MV-SIG-SAB-003-09,Twin River Flood Cut,Yelmanverdict,F4,Demigod L1 Low,B
+MV-SIG-SAB-003-10,Twin River Meeting Stroke,Vigorbelly,F5,Champion L3 Low,B
+MV-SIG-SAB-004-01,Dive Basin Opening Cut,Inferno Skimmer,F2,Ruler L1 Low,B
+MV-SIG-SAB-004-02,Basin Dive Parry,Enshrined Pipeback,F1,Ruler L1 Low,B
+MV-SIG-SAB-004-03,Hawk Basin Thrust,Vacuum Swipe,F2,Ruler L1 Low,B
+MV-SIG-SAB-004-04,Dive Basin Step,Twilit Gallop,F1,Ruler L1 Low,B
+MV-SIG-SAB-004-05,Hawk Dive Basin Slash,Bedrock Basket,F2,Ruler L1 Low,B
+MV-SIG-SAB-004-06,Basin Guard Rebuke,Revered Counterguard,F1,Ruler L1 Low,B
+MV-SIG-SAB-004-07,Hawk Basin Hook,Steelswipe,F5,Ruler L1 Low,B
+MV-SIG-SAB-004-08,Dive And Settle Cut,Vigorgallop,F5,Ruler L1 Low,B
+MV-SIG-SAB-004-09,Hawk Dive Chain,Bellyedict,F4,Ruler L1 Low,B
+MV-SIG-SAB-004-10,Basin Guard Veil,Swell Vow,F3,Ruler L1 Low,B
+MV-SIG-SAB-004-11,Hawk Dive Basin Verdict,Slantcut Edict,F3,Demigod L1 Low,B
+MV-SIG-SAB-004-12,Hawk Dive Basin Descent,Splendid Steel Backedge,F6a,Ruler L1 Low,B
+MV-SIG-SAB-005-01,Sky Track Draw,Squallswipe,F5,Demigod L1 Low,B
+MV-SIG-SAB-005-02,Sky Track Parry,Devout Swell,F1,Demigod L1 Low,B
+MV-SIG-SAB-005-03,Two Track Thrust,Pulsar Yelman,F2,Demigod L1 Low,B
+MV-SIG-SAB-005-04,Sky Track Slash,Paramount Gallop,F1,Demigod L1 Low,B
+MV-SIG-SAB-005-05,Track Sky Rebuke,Inviolate Spinecurve,F1,Demigod L1 Low,B
+MV-SIG-SAB-005-06,Sky Track Hook,Vigor Swipe,F2,Demigod L1 Low,B
+MV-SIG-SAB-005-07,Azure Sky Track Chain,Destiny Whirl,F2,Demigod L1 Low,B
+MV-SIG-SAB-005-08,Azure Sky Track Veil,Statute Backedge,F2,Demigod L1 Low,B
+MV-SIG-SAB-005-09,Azure Sky Track Verdict,Radiance Slantcut,F2,Demigod L1 Low,B
+MV-SIG-SAB-005-10,Azure Sky Two Track Stroke,Inferno Flourish,F2,Demigod L1 Low,B
+MV-SIG-SAB-006-01,Highest Stoop Draw,Spinecurve Triumph,F3,Core Formation L1 Low,B
+MV-SIG-SAB-006-02,Highest Wing Guard,Consecrated Basket,F1,Core Formation L1 Low,B
+MV-SIG-SAB-006-03,Stoop Peak Step,Skyborne Falsedge,F1,Core Formation L1 Low,B
+MV-SIG-SAB-006-04,Highest Stoop Slash,Gallopbanner,F4,Core Formation L1 Low,B
+MV-SIG-SAB-006-05,Peak Stoop Parry,Pall Yelman,F2,Core Formation L1 Low,B
+MV-SIG-SAB-006-06,Highest Talon Hook,Bellytriumph,F4,Core Formation L1 Low,B
+MV-SIG-SAB-006-07,Stoop From Height Cut,Squallswell,F5,Core Formation L1 Low,B
+MV-SIG-SAB-006-08,Highest Stoop Chain,Bellydecree,F4,Core Formation L1 Low,B
+MV-SIG-SAB-006-09,Highest Wing Veil,Counterguard Troth,F3,Core Formation L1 Low,B
+MV-SIG-SAB-006-10,Highest Stoop Piercing Cut,Steelgallop,F5,Core Formation L1 Low,B
+MV-SIG-SAB-006-11,Highest Stoop of the Hawk,Famed Gallop,F1,Core Formation L1 Low,B
+MV-SIG-SAB-007-01,Sworn Wind Belly Cut,Dauntless Whirl,F1,Warrior L2 Low,B
+MV-SIG-SAB-007-02,Sworn Wind Forte Guard,Immaculate Belly,F1,Warrior L2 Low,B
+MV-SIG-SAB-007-03,Sworn Wind Step,Knucklebow Odyssey,F3,Warrior L2 Low,B
+MV-SIG-SAB-007-04,Sworn Wind Slash,Haemal Whirl,F2,Warrior L2 Low,B
+MV-SIG-SAB-007-05,Sworn Wind Parry,Squall Knucklebow,F2,Warrior L2 Low,B
+MV-SIG-SAB-007-06,Sworn Wind Hook,Swelledict,F4,Warrior L2 Low,B
+MV-SIG-SAB-007-07,Sworn Wind Chain,Volition Gallop,F2,Champion L1 Low,B
+MV-SIG-SAB-007-08,Sworn Wind Veil,Venerable Spinecurve,F1,Champion L1 Low,B
+MV-SIG-SAB-007-09,Sworn Wind Piercing Cut,Peerless Backedge,F1,Demigod L1 Low,B
+MV-SIG-SAB-007-10,Wind-Sworn Closing Stroke,Squallbasket,F5,Warrior L2 Low,B
+MV-SIG-SAB-008-01,Plateau Oath Draw,Bellyverdict,F4,Warrior L8 Low,B
+MV-SIG-SAB-008-02,Plateau Oath Guard,Undaunted Counterguard,F1,Warrior L8 Low,B
+MV-SIG-SAB-008-03,Plateau Oath Step,Silken Pipeback,F1,Warrior L8 Low,B
+MV-SIG-SAB-008-04,Plateau Oath Slash,Magnificent Falsedge,F1,Warrior L8 Low,B
+MV-SIG-SAB-008-05,Plateau Oath Spine Parry,Immaculate Yelman,F1,Warrior L8 Low,B
+MV-SIG-SAB-008-06,Plateau Oath Hook,Swelldecree,F4,Warrior L8 Low,B
+MV-SIG-SAB-008-07,Plateau Oath Chain,Tenetbasket,F5,Champion L1 Low,B
+MV-SIG-SAB-008-08,Plateau Oath Veil,Swell Pledge,F3,Champion L1 Low,B
+MV-SIG-SAB-008-09,Plateau Oath Verdict Cut,Bedrock Pipeback,F2,Demigod L1 Low,B
+MV-SIG-SAB-008-10,Plateau Oath Stroke,Illustrious Thunderclap Belly,F6a,Warrior L8 Low,B
+MV-SIG-SAB-009-01,Gale Bearing Draw,Quenched Gallop,F2,Champion L5 Mid,B
+MV-SIG-SAB-009-02,Gale Bearing Parry,Venerable Basket,F1,Champion L5 Mid,B
+MV-SIG-SAB-009-03,Gale Bearing Pace,Twilit Swipe,F1,Champion L5 Mid,B
+MV-SIG-SAB-009-04,Gale Bearing Slash,Dauntless Slantcut,F1,Champion L5 Mid,B
+MV-SIG-SAB-009-05,Gale Bearing Rebuke,Devout Yelman,F1,Champion L5 Mid,B
+MV-SIG-SAB-009-06,Gale Bearing Hook,Galloptriumph,F4,Champion L5 Mid,B
+MV-SIG-SAB-009-07,Gale Bearing Turn Cut,Bellycrown,F4,Champion L5 Mid,B
+MV-SIG-SAB-009-08,Gale Bearing Chain Strike,Season Skimmer,F2,Champion L5 Mid,B
+MV-SIG-SAB-009-09,Gale Bearing Veil,Venerable Falsedge,F1,Champion L5 Mid,B
+MV-SIG-SAB-009-10,Gale Bearing Rending Cut,Famed Basket,F1,Demigod L1 Low,B
+MV-SIG-SAB-009-11,Gale Bearing Closing Stroke,Triumphant Knucklebow Crown,F6b,Champion L5 Mid,B
+MV-SIG-SAB-010-01,Sky Edge Draw,Triumphant Flourish,F1,Ruler L1 Mid,B
+MV-SIG-SAB-010-02,Sky Edge Parry,Sacrosanct Belly,F1,Ruler L1 Mid,B
+MV-SIG-SAB-010-03,Sky Edge Step,Delugebelly,F5,Ruler L1 Mid,B
+MV-SIG-SAB-010-04,Sky Edge Slash,Thunderclap Flourish,F2,Ruler L1 Mid,B
+MV-SIG-SAB-010-05,Sky Edge Rebuke,Consecrated Pipeback,F1,Ruler L1 Mid,B
+MV-SIG-SAB-010-06,Open Edge Wide Hook,Bedrock Spinecurve,F2,Ruler L1 Mid,B
+MV-SIG-SAB-010-07,Sky Edge Chain,Seasonbasket,F5,Ruler L1 Mid,B
+MV-SIG-SAB-010-08,Sky Edge Veil,Backedge Reliquary,F3,Ruler L1 Mid,B
+MV-SIG-SAB-010-09,Sky Edge Verdict Cut,Squallgallop,F5,Demigod L1 Low,B
+MV-SIG-SAB-010-10,Open Sky Edge Stroke,Valiant Whirl,F1,Ruler L1 Mid,B
+MV-SIG-SAB-011-01,Great Draw Opening,Haemalbelly,F5,Demigod L2 Low,B
+MV-SIG-SAB-011-02,Great Draw Guard,Unwavering Counterguard,F1,Demigod L2 Low,B
+MV-SIG-SAB-011-03,Great Draw Thrust,Prism Slantcut,F2,Demigod L2 Low,B
+MV-SIG-SAB-011-04,Great Draw Step,Feather Skimmer,F1,Demigod L2 Low,B
+MV-SIG-SAB-011-05,Great Draw Slash,Haemal Swipe,F2,Demigod L2 Low,B
+MV-SIG-SAB-011-06,Great Draw Parry,Faithful Basket,F1,Demigod L2 Low,B
+MV-SIG-SAB-011-07,Great Draw Hook,Gallopverdict,F4,Demigod L2 Low,B
+MV-SIG-SAB-011-08,Great Draw Turn Cut,Whirl Crown,F3,Demigod L2 Low,B
+MV-SIG-SAB-011-09,Great Draw Chain,Destiny Swell,F2,Demigod L2 Low,B
+MV-SIG-SAB-011-10,Great Draw Veil,Faithful Pipeback,F1,Demigod L2 Low,B
+MV-SIG-SAB-011-11,Great Draw Rending Cut,Magnificent Skimmer,F1,Demigod L2 Low,B
+MV-SIG-SAB-011-12,Hundred Wind Draw Stroke,Royal Inferno Spinecurve,F6a,Demigod L2 Low,B
+MV-SIG-SAB-012-01,Unbroken Oath Draw,Gallant Flourish,F1,Core Formation L2 Low,B
+MV-SIG-SAB-012-02,Unbroken Oath Guard,Consecrated Belly,F1,Core Formation L2 Low,B
+MV-SIG-SAB-012-03,Oath Wind Pace,Gallopodyssey,F4,Core Formation L2 Low,B
+MV-SIG-SAB-012-04,Unbroken Oath Slash,Quenched Yelman,F2,Core Formation L2 Low,B
+MV-SIG-SAB-012-05,Oath Unbroken Parry,Pall Knucklebow,F2,Core Formation L2 Low,B
+MV-SIG-SAB-012-06,Unbroken Oath Hook,Peerless Whirl,F1,Core Formation L2 Low,B
+MV-SIG-SAB-012-07,Unbroken Oath Chain,Falsedge Decree,F3,Core Formation L2 Low,B
+MV-SIG-SAB-012-08,Unbroken Oath Veil,Counterguard Covenant,F3,Core Formation L2 Low,B
+MV-SIG-SAB-012-09,Unbroken Oath Piercing Cut,Valiant Backedge,F1,Core Formation L2 Low,B
+MV-SIG-SAB-012-10,Oath Beyond Wind Stroke,Vaunted Gallop,F1,Core Formation L2 Low,B
+MV-SIG-SAB-002-09,Hornbeam Basket,Colossal Basket,F2,Champion L1 Low,B

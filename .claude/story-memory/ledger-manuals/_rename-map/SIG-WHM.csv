@@ -1,0 +1,137 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-WHM-001-01,Twin Headed Ready Guard,Sanctum Hammerneck,F2,Warrior L1 Low,B
+MV-SIG-WHM-001-02,Cycle First Rap,Inferno Anvilfall,F2,Warrior L1 Low,B
+MV-SIG-WHM-001-03,Turning Cycle Step,Tampvoyage,F4,Warrior L1 Low,B
+MV-SIG-WHM-001-04,Head to Head Crush,Tamp Crown,F3,Warrior L1 Low,B
+MV-SIG-WHM-001-05,Second Head Rising Parry,Deluge Faceplate,F2,Warrior L1 Low,B
+MV-SIG-WHM-001-06,Cycle Hook Catch,Authoritative Hammerface,F1,Warrior L1 Low,B
+MV-SIG-WHM-001-07,Cycle Double Descent,Peenverdict,F4,Champion L1 Low,B
+MV-SIG-WHM-001-08,Cycle Pinning Weight,Sigil Forge,F2,Champion L1 Low,B
+MV-SIG-WHM-001-09,Twin Headed Sundering Fall,Fearless Peenside,F1,Demigod L1 Low,B
+MV-SIG-WHM-001-10,Twin Headed Cycle Close,Resonant Tenet Anvilback,F6a,Warrior L1 Low,B
+MV-SIG-WHM-002-01,Azure Opening Guard,Unwavering Clawside,F1,Warrior L6 Mid,B
+MV-SIG-WHM-002-02,Blue Hour Rap,Smithverdict,F4,Warrior L6 Mid,B
+MV-SIG-WHM-002-03,Sky Level Pace,Dune Cheekplate,F2,Warrior L6 Mid,B
+MV-SIG-WHM-002-04,Azure Falling Strike,Inferno Beakpick,F2,Warrior L6 Mid,B
+MV-SIG-WHM-002-05,Azure Turned Parry,Smithtroth,F4,Warrior L6 Mid,B
+MV-SIG-WHM-002-06,Azure Beak Hook,Entropy Peenbite,F2,Warrior L6 Mid,B
+MV-SIG-WHM-002-07,Azure Crown Crush,Majestic Faceplate,F1,Warrior L6 Mid,B
+MV-SIG-WHM-002-08,Azure Hammer Descent,Steel Hammerblow,F2,Champion L1 Low,B
+MV-SIG-WHM-002-09,Azure Pressing Hold,Gloom Spikeback,F2,Champion L1 Low,B
+MV-SIG-WHM-002-10,Azure Shatter Form,Drivehome Verdict,F3,Demigod L1 Low,B
+MV-SIG-WHM-002-11,Eleventh Azure Form,Vigoranvil,F5,Warrior L6 Mid,B
+MV-SIG-WHM-003-01,Basin Course Guard,Eyehole Pledge,F3,Champion L4 High,B
+MV-SIG-WHM-003-02,Course Rim Rap,Noble Peenside,F1,Champion L4 High,B
+MV-SIG-WHM-003-03,Course Scoop Hook,Peal Hammerneck,F2,Champion L4 High,B
+MV-SIG-WHM-003-04,Course Step Down,Soundless Anvilback,F1,Champion L4 High,B
+MV-SIG-WHM-003-05,Course Deepening Crush,Haemalanvil,F5,Champion L4 High,B
+MV-SIG-WHM-003-06,Course Overflow Parry,Sainted Beakpick,F1,Champion L4 High,B
+MV-SIG-WHM-003-07,Course Pour Strike,Vigor Forge,F2,Champion L4 High,B
+MV-SIG-WHM-003-08,Course Eddy Hook,Drivehome Vow,F3,Champion L4 High,B
+MV-SIG-WHM-003-09,Course Flood Hammer,Magma Tamp,F2,Champion L4 High,B
+MV-SIG-WHM-003-10,Course Settling Press,Gloom Hammerblow,F2,Champion L4 High,B
+MV-SIG-WHM-003-11,Full Basin Breaking Blow,Pulsar Cheekplate,F2,Demigod L1 Low,B
+MV-SIG-WHM-003-12,Full Basin Release,Duneforge,F5,Champion L4 High,B
+MV-SIG-WHM-004-01,Hawk Basin Guard,Clawside Troth,F3,Ruler L1 Low,B
+MV-SIG-WHM-004-02,Basin Wing Rap,Bedrock Hammerface,F2,Ruler L1 Low,B
+MV-SIG-WHM-004-03,Hawk Walk Step,Spectral Hammerface,F1,Ruler L1 Low,B
+MV-SIG-WHM-004-04,Wing Hammer Crush,Eyehole Banner,F3,Ruler L1 Low,B
+MV-SIG-WHM-004-05,Basin Wing Parry,Parity Spikeback,F2,Ruler L1 Low,B
+MV-SIG-WHM-004-06,Hawk Rim Hook,Thunderclap Peenbite,F2,Ruler L1 Low,B
+MV-SIG-WHM-004-07,Hawk Basin Descent,Steelpeen,F5,Ruler L1 Low,B
+MV-SIG-WHM-004-08,Wing Held Press,Gloomsmith,F5,Ruler L1 Low,B
+MV-SIG-WHM-004-09,Hawk Basin Shattering Stoop,Anviltriumph,F4,Demigod L1 Low,B
+MV-SIG-WHM-004-10,Hawk and Basin Closing Stoop,Resonant Season Cheekplate,F6a,Ruler L1 Low,B
+MV-SIG-WHM-005-01,Heavy Track Guard,Stately Beakpick,F1,Demigod L4 Low,B
+MV-SIG-WHM-005-02,Track Weight Rap,Smithbanner,F4,Demigod L4 Low,B
+MV-SIG-WHM-005-03,Two Track Pace,Smithgrace,F4,Demigod L4 Low,B
+MV-SIG-WHM-005-04,Heavy Track Crush,Heroic Forge,F1,Demigod L4 Low,B
+MV-SIG-WHM-005-05,Track Paired Parry,Pall Eyehole,F2,Demigod L4 Low,B
+MV-SIG-WHM-005-06,Track Cross Hook,Peal Anvilfall,F2,Demigod L4 Low,B
+MV-SIG-WHM-005-07,Heavy Track Hammerfall,Haemal Hammerblow,F2,Demigod L4 Low,B
+MV-SIG-WHM-005-08,Track Pinning Hold,Sigil Clawside,F2,Demigod L4 Low,B
+MV-SIG-WHM-005-09,Heavy Track Shattering Strike,Prism Peenbite,F2,Demigod L4 Low,B
+MV-SIG-WHM-005-10,Dual Track Final Weight,Majestic Spikeback Banner,F6b,Demigod L4 Low,B
+MV-SIG-WHM-006-01,Core Paired Guard,Glacier Peenside,F2,Core Formation L2 Low,B
+MV-SIG-WHM-006-02,Core Beat Rap,Exalted Anvilfall,F1,Core Formation L2 Low,B
+MV-SIG-WHM-006-03,Core Steady Step,Bedrock Faceplate,F2,Core Formation L2 Low,B
+MV-SIG-WHM-006-04,Core Paired Crush,Storied Tamp,F1,Core Formation L2 Low,B
+MV-SIG-WHM-006-05,Core Held Parry,Parity Peenside,F2,Core Formation L2 Low,B
+MV-SIG-WHM-006-06,Core Hook Wrench,Entropy Clawside,F2,Core Formation L2 Low,B
+MV-SIG-WHM-006-07,Core Pressed Beat,Bedrock Beakpick,F2,Core Formation L2 Low,B
+MV-SIG-WHM-006-08,Core Hammer Descent,Bedrock Anvilback,F2,Core Formation L2 Low,B
+MV-SIG-WHM-006-09,Core Weight Press,Triumphant Tamp,F1,Core Formation L2 Low,B
+MV-SIG-WHM-006-10,Core Paired Shattering Blow,Royal Cheekplate,F1,Core Formation L2 Low,B
+MV-SIG-WHM-006-11,Paired Core Release,Prism Faceplate,F2,Core Formation L2 Low,B
+MV-SIG-WHM-007-01,Sworn Cycle Guard,Smithpledge,F4,Warrior L2 Low,B
+MV-SIG-WHM-007-02,Cycle Wind Rap,Haemal Drivehome,F2,Warrior L2 Low,B
+MV-SIG-WHM-007-03,Cycle Gust Hook,Unbending Eyehole,F1,Warrior L2 Low,B
+MV-SIG-WHM-007-04,Cycle Wind Step,Evanescent Drivehome,F1,Warrior L2 Low,B
+MV-SIG-WHM-007-05,Cycle Gust Crush,Steel Hammerneck,F2,Warrior L2 Low,B
+MV-SIG-WHM-007-06,Cycle Wind Parry,Parityanvil,F5,Warrior L2 Low,B
+MV-SIG-WHM-007-07,Cycle Sworn Strike,Anvilfall Banner,F3,Warrior L2 Low,B
+MV-SIG-WHM-007-08,Cycle Wind Pull,Thunderclap Forge,F2,Warrior L2 Low,B
+MV-SIG-WHM-007-09,Cycle Gale Hammerfall,Splendid Peenbite,F1,Champion L1 Low,B
+MV-SIG-WHM-007-10,Cycle Wind Press,Season Hammerblow,F2,Champion L1 Low,B
+MV-SIG-WHM-007-11,Cycle Sworn Breaking Fall,Vacuumforge,F5,Demigod L1 Low,B
+MV-SIG-WHM-007-12,Wind Sworn Cycle Close,Season Spikeback,F2,Warrior L2 Low,B
+MV-SIG-WHM-008-01,Plateau Form Guard,Hornbeam Hammerneck,F2,Warrior L8 High,B
+MV-SIG-WHM-008-02,Form Oath Rap,Steel Anvilback,F2,Warrior L8 High,B
+MV-SIG-WHM-008-03,Form Edge Step,Silken Hammerface,F1,Warrior L8 High,B
+MV-SIG-WHM-008-04,Form Oath Crush,Matchless Cheekplate,F1,Warrior L8 High,B
+MV-SIG-WHM-008-05,Form Edge Parry,Pall Hammerface,F2,Warrior L8 High,B
+MV-SIG-WHM-008-06,Form Oath Hook,Pealsmith,F5,Warrior L8 High,B
+MV-SIG-WHM-008-07,Form Oath Descent,Steel Forge,F2,Champion L1 Low,B
+MV-SIG-WHM-008-08,Form Held Suppression,Sovereign Hammerblow,F1,Champion L1 Low,B
+MV-SIG-WHM-008-09,Form Plateau Breaking Blow,Peentriumph,F4,Demigod L1 Low,B
+MV-SIG-WHM-008-10,Plateau Oath Closing Blow,Valiant Spikeback,F1,Warrior L8 High,B
+MV-SIG-WHM-009-01,Bearing Gale Guard,Steelsmith,F5,Champion L6 Low,B
+MV-SIG-WHM-009-02,Gale Bearing Rap,Haemaltamp,F5,Champion L6 Low,B
+MV-SIG-WHM-009-03,Gale Bearing Step,Dune Drivehome,F2,Champion L6 Low,B
+MV-SIG-WHM-009-04,Gale Bearing Crush,Squallsmith,F5,Champion L6 Low,B
+MV-SIG-WHM-009-05,Gale Bearing Haft Parry,Hammerneck Troth,F3,Champion L6 Low,B
+MV-SIG-WHM-009-06,Gale Bearing Beak Hook,Ruling Peenbite,F1,Champion L6 Low,B
+MV-SIG-WHM-009-07,Gale Bearing Strike,Intrepid Anvilback,F1,Champion L6 Low,B
+MV-SIG-WHM-009-08,Gale Bearing Hammerfall,Vigor Peenside,F2,Champion L6 Low,B
+MV-SIG-WHM-009-09,Gale Bearing Hold,Hornbeam Clawside,F2,Champion L6 Low,B
+MV-SIG-WHM-009-10,Gale Bearing Shattering Fall,Peencrown,F4,Demigod L1 Low,B
+MV-SIG-WHM-009-11,Heavy Gale Bearing Release,Heroic Haemal Faceplate,F6a,Champion L6 Low,B
+MV-SIG-WHM-010-01,Open Plateau Hammer Guard,Undefiled Peenside,F1,Ruler L1 Mid,B
+MV-SIG-WHM-010-02,Plateau Course Rap,Thunderclap Beakpick,F2,Ruler L1 Mid,B
+MV-SIG-WHM-010-03,Plateau Course Step,Squallanvil,F5,Ruler L1 Mid,B
+MV-SIG-WHM-010-04,Plateau Course Crush,Thunderclap Anvilfall,F2,Ruler L1 Mid,B
+MV-SIG-WHM-010-05,Plateau Course Parry,Deluge Eyehole,F2,Ruler L1 Mid,B
+MV-SIG-WHM-010-06,Plateau Course Hook,Venomforge,F5,Ruler L1 Mid,B
+MV-SIG-WHM-010-07,Plateau Course Descent,Triumphant Clawside,F1,Ruler L1 Mid,B
+MV-SIG-WHM-010-08,Plateau Course Press,Illustrious Eyehole,F1,Ruler L1 Mid,B
+MV-SIG-WHM-010-09,Plateau Course Shattering Blow,Prism Anvilfall,F2,Demigod L1 Low,B
+MV-SIG-WHM-010-10,Open Plateau Final Wind,Famed Hammerblow Crown,F6b,Ruler L1 Mid,B
+MV-SIG-WHM-011-01,Gale Head Guard,Smithseal,F4,Demigod L7 Mid,B
+MV-SIG-WHM-011-02,Breaking Head Rap,Inferno Hammerneck,F2,Demigod L7 Mid,B
+MV-SIG-WHM-011-03,Gale Head Hook,Venomtamp,F5,Demigod L7 Mid,B
+MV-SIG-WHM-011-04,Head Wind Step,Dune Spikeback,F2,Demigod L7 Mid,B
+MV-SIG-WHM-011-05,Breaking Head Crush,Majestic Forge,F1,Demigod L7 Mid,B
+MV-SIG-WHM-011-06,Gale Head Parry,Undefiled Cheekplate,F1,Demigod L7 Mid,B
+MV-SIG-WHM-011-07,Breaking Head Pull,Commanding Peenbite,F1,Demigod L7 Mid,B
+MV-SIG-WHM-011-08,Gale Head Strike,Squall Hammerface,F2,Demigod L7 Mid,B
+MV-SIG-WHM-011-09,Breaking Head Hammerfall,Majestic Anvilback,F1,Demigod L7 Mid,B
+MV-SIG-WHM-011-10,Gale Head Hold,Thrallanvil,F5,Demigod L7 Mid,B
+MV-SIG-WHM-011-11,Breaking Head Shattering Fall,Pulsartamp,F5,Demigod L7 Mid,B
+MV-SIG-WHM-011-12,Gale and Breaking Head Release,Squalltamp,F5,Demigod L7 Mid,B
+MV-SIG-WHM-012-01,Core Oath Hammer Guard,Prismsmith,F5,Core Formation L5 Mid,B
+MV-SIG-WHM-012-02,Core Wind Head Rap,Faceplate Triumph,F3,Core Formation L5 Mid,B
+MV-SIG-WHM-012-03,Core Oath Step,Anvilvoyage,F4,Core Formation L5 Mid,B
+MV-SIG-WHM-012-04,Core Oath Crush,Thunderclap Anvilback,F2,Core Formation L5 Mid,B
+MV-SIG-WHM-012-05,Core Wind Haft Parry,Parity Faceplate,F2,Core Formation L5 Mid,B
+MV-SIG-WHM-012-06,Core Oath Hook,Entropy Drivehome,F2,Core Formation L5 Mid,B
+MV-SIG-WHM-012-07,Core Wind Hammerfall,Tampdecree,F4,Core Formation L5 Mid,B
+MV-SIG-WHM-012-08,Core Oath Press,Anvilbanner,F4,Core Formation L5 Mid,B
+MV-SIG-WHM-012-09,Core Oath Shattering Blow,Exalted Hammerneck,F1,Core Formation L5 Mid,B
+MV-SIG-WHM-012-10,Core Wind Oath Release,Noble Cheekplate Triumph,F6b,Core Formation L5 Mid,B
+MV-SIG-WHM-001-01,Sanctum Hammerneck,Warding Hammerneck,F2,Warrior L1 Low,B
+MV-SIG-WHM-002-03,Dune Cheekplate,Gliding Cheekplate,F2,Warrior L6 Mid,B
+MV-SIG-WHM-006-01,Glacier Peenside,Unyielding Peenside,F2,Core Formation L2 Low,B
+MV-SIG-WHM-008-01,Hornbeam Hammerneck,Steadfast Hammerneck,F2,Warrior L8 High,B
+MV-SIG-WHM-009-03,Dune Drivehome,Fleet Drivehome,F2,Champion L6 Low,B
+MV-SIG-WHM-009-09,Hornbeam Clawside,Clamping Clawside,F2,Champion L6 Low,B
+MV-SIG-WHM-011-04,Dune Spikeback,Nimble Spikeback,F2,Demigod L7 Mid,B

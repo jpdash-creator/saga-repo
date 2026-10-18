@@ -1,0 +1,136 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-HAL-001-01,Heavy Axe Ready Stance,Vital Spike,F2,Champion L1 Low,B
+MV-ADV-HAL-001-02,Weighty Axe Fall,Tempered Langet,F2,Champion L1 Low,B
+MV-ADV-HAL-001-03,Weighted Spike Thrust,Ironhaft,F5,Champion L1 Low,B
+MV-ADV-HAL-001-04,Heavy Haft Turn-Aside,Beak Cuirass,F3,Champion L1 Low,B
+MV-ADV-HAL-001-05,Armor-Splitting Chop,Might Snatch,F2,Champion L1 Low,B
+MV-ADV-HAL-001-06,Heavy Head Pendulum Swing,Slaglanget,F5,Champion L1 Low,B
+MV-ADV-HAL-001-07,Skull-Cleaving Weight Drop,Gust Axefall,F2,Champion L1 Low,B
+MV-ADV-HAL-001-08,Anchored Axe Guard,Hoarfrost Tailstop,F2,Champion L1 Low,B
+MV-ADV-HAL-002-01,Shield-Breaker Hold,Fortifying Langet,F1,Champion L5 Mid,B
+MV-ADV-HAL-002-02,Shield Rim Axe Chop,Raging Spikefall,F1,Champion L5 Mid,B
+MV-ADV-HAL-002-03,Under-Rim Spike Poke,Tempered Axeheel,F2,Champion L5 Mid,B
+MV-ADV-HAL-002-04,Shield Edge Beak Latch,Hoarfrost Socketring,F2,Champion L5 Mid,B
+MV-ADV-HAL-002-05,Shield Hook Rip,Rumble Heave,F2,Champion L5 Mid,B
+MV-ADV-HAL-002-06,Rim Split Cleave,Axefall Torment,F3,Champion L5 Mid,B
+MV-ADV-HAL-002-07,Guard Gap Spike Drive,Beakbarrage,F4,Champion L5 Mid,B
+MV-ADV-HAL-002-08,Shield Line Rending Sweep,Downpour Spike,F2,Champion L5 Mid,B
+MV-ADV-HAL-002-09,Shield Peel and Cleave Sequence,Langetbarrage,F4,Champion L5 Mid,B
+MV-ADV-HAL-003-01,Field Extension Stance,Renewing Socketring,F1,Demigod L1 Low,B
+MV-ADV-HAL-003-02,Haft-Lengthened Cut,Drag Barrage,F3,Demigod L1 Low,B
+MV-ADV-HAL-003-03,Haft-Lengthened Thrust,Rumble Spikefall,F2,Demigod L1 Low,B
+MV-ADV-HAL-003-04,Field Brush Parry,Unshaken Axeheel,F1,Demigod L1 Low,B
+MV-ADV-HAL-003-05,Field Rim Halberd Step,Glancing Hookback,F1,Demigod L1 Low,B
+MV-ADV-HAL-003-06,Qi Field Axe Reach,Iron Snatch,F2,Demigod L1 Low,B
+MV-ADV-HAL-003-07,Field Beak Snare,Hamstringing Beak,F1,Demigod L1 Low,B
+MV-ADV-HAL-003-08,Reach Pulse Spike,Heaveassault,F4,Demigod L1 Low,B
+MV-ADV-HAL-003-09,Field-Wide Cleave Arc,Scalding Granite Drag,F6a,Demigod L1 Low,B
+MV-ADV-HAL-003-10,Beyond-Haft Spike Strike,Heavebarrage,F4,Demigod L1 Low,B
+MV-ADV-HAL-004-01,Hooked Cleave Stance,Crownspike Tincture,F3,Demigod L4 Low,B
+MV-ADV-HAL-004-02,Hook Seat Pull,Dragplating,F4,Demigod L4 Low,B
+MV-ADV-HAL-004-03,Cleave After Hook,Dragassault,F4,Demigod L4 Low,B
+MV-ADV-HAL-004-04,Reply Haft Brace,Aegis Axeblade,F2,Demigod L4 Low,B
+MV-ADV-HAL-004-05,Reply Beak Peel,Rumble Haft,F2,Demigod L4 Low,B
+MV-ADV-HAL-004-06,Hook Return Step,Langetcanter,F4,Demigod L4 Low,B
+MV-ADV-HAL-004-07,Hook Drag Cleave,Blazeheave,F5,Demigod L4 Low,B
+MV-ADV-HAL-004-08,Reply Spike Lance,Glint Tailstop,F2,Demigod L4 Low,B
+MV-ADV-HAL-004-09,Hook Anchor Lock,Hoarfrost Drag,F2,Demigod L4 Low,B
+MV-ADV-HAL-004-10,Hook-Lock Splitting Descent,Ironspike,F5,Demigod L4 Low,B
+MV-ADV-HAL-004-11,Answer Cleave Counter Flow,Gust Beak,F2,Demigod L4 Low,B
+MV-ADV-HAL-005-01,Compendium Ready Pose,Equipoise Langet,F2,Ruler L1 Low,B
+MV-ADV-HAL-005-02,Opening Stroke Chop,Mighthaft,F5,Ruler L1 Low,B
+MV-ADV-HAL-005-03,Opening Stroke Thrust,Tempered Hookpull,F2,Ruler L1 Low,B
+MV-ADV-HAL-005-04,Opening Stroke Catch,Steadfast Axeblade,F1,Ruler L1 Low,B
+MV-ADV-HAL-005-05,Opening Stroke Hook,Chimeheave,F5,Ruler L1 Low,B
+MV-ADV-HAL-005-06,Opening Stroke Retreat,Silt Spike,F2,Ruler L1 Low,B
+MV-ADV-HAL-005-07,Second Stroke Cleaving Chain,Harrowing Axefall,F1,Ruler L1 Low,B
+MV-ADV-HAL-005-08,Second Stroke Piercing Run,Iron Tailstop,F2,Ruler L1 Low,B
+MV-ADV-HAL-005-09,Second Stroke Ring Guard,Axeheel Cuirass,F3,Ruler L1 Low,B
+MV-ADV-HAL-005-10,Second Stroke Sweeping Hook,Rumble Socketring,F2,Ruler L1 Low,B
+MV-ADV-HAL-005-11,Grand Stroke Splitting Cleave,Granite Hookback,F2,Ruler L1 Low,B
+MV-ADV-HAL-005-12,Grand Stroke Skewering Lunge,Splintering Snatch,F1,Ruler L1 Low,B
+MV-ADV-HAL-006-01,Twin-Track Hawk Stance,Vital Axeblade,F2,Demigod L2 Low,B
+MV-ADV-HAL-006-02,Hawk Talon Chop,Langetthrash,F4,Demigod L2 Low,B
+MV-ADV-HAL-006-03,Hawk Beak Prick,Rumbledrag,F5,Demigod L2 Low,B
+MV-ADV-HAL-006-04,Paired Haft Parry,Resilient Beak,F1,Demigod L2 Low,B
+MV-ADV-HAL-006-05,Twin Cut Descent,Blaze Crownspike,F2,Demigod L2 Low,B
+MV-ADV-HAL-006-06,Paired Hook and Spike,Glint Spikefall,F2,Demigod L2 Low,B
+MV-ADV-HAL-006-07,Azure Reach Glide,Silt Snatch,F2,Demigod L2 Low,B
+MV-ADV-HAL-006-08,Hawk Dive Axe Stoop,Rumble Langet,F2,Demigod L2 Low,B
+MV-ADV-HAL-006-09,Dual-Track Cleave and Thrust,Doctrine Heave,F2,Demigod L2 Low,B
+MV-ADV-HAL-007-01,Basin Ready Stance,Perceptive Haft,F1,Champion L8 Low,B
+MV-ADV-HAL-007-02,River Bend Axe Cut,Iron Heave,F2,Champion L8 Low,B
+MV-ADV-HAL-007-03,River Run Spike Thrust,Drubbing Socketring,F1,Champion L8 Low,B
+MV-ADV-HAL-007-04,Basin Rim Haft Guard,Aegis Hookback,F2,Champion L8 Low,B
+MV-ADV-HAL-007-05,Shallow Ford Haft Pace,Gust Drag,F2,Champion L8 Low,B
+MV-ADV-HAL-007-06,Current Drag Hook,Tailstop Cuirass,F3,Champion L8 Low,B
+MV-ADV-HAL-007-07,Flood Surge Cleave,Silt Hookpull,F2,Champion L8 Low,B
+MV-ADV-HAL-007-08,Basin Eddy Haft Turn,Equipoise Crownspike,F2,Champion L8 Low,B
+MV-ADV-HAL-007-09,Twin Rivers Merging Cut,Iron Spikefall,F2,Champion L8 Low,B
+MV-ADV-HAL-007-10,Basin Pool Haft Snare,Silencing Axeheel,F1,Champion L8 Low,B
+MV-ADV-HAL-008-01,Paired Wing Stance,Rousing Langet,F1,Demigod L7 Low,B
+MV-ADV-HAL-008-02,Left Wing Axe Cut,Severing Hookpull,F1,Demigod L7 Low,B
+MV-ADV-HAL-008-03,Right Wing Spike Dart,Facethaft,F5,Demigod L7 Low,B
+MV-ADV-HAL-008-04,Wings Drawn In Haft Guard,Enduring Crownspike,F1,Demigod L7 Low,B
+MV-ADV-HAL-008-05,Wing Beat Step,Granite Spike,F2,Demigod L7 Low,B
+MV-ADV-HAL-008-06,Wingtip Hook Catch,Heave Cloak,F3,Demigod L7 Low,B
+MV-ADV-HAL-008-07,Pinion Pair Sweep,Snatchtorment,F4,Demigod L7 Low,B
+MV-ADV-HAL-008-08,Wing Shadow Spike Drive,Rumble Hookpull,F2,Demigod L7 Low,B
+MV-ADV-HAL-008-09,Both Wings Closing Cleave,Grinding Axefall,F1,Demigod L7 Low,B
+MV-ADV-HAL-008-10,Wing Lock Beak Press,Gyvebeak,F5,Demigod L7 Low,B
+MV-ADV-HAL-009-01,Basin Court Ready Hold,Might Beak,F2,Champion L3 Mid,B
+MV-ADV-HAL-009-02,Court Floor Axe Chop,Dragtorment,F4,Champion L3 Mid,B
+MV-ADV-HAL-009-03,Court Floor Spike Jab,Axeblade Torment,F3,Champion L3 Mid,B
+MV-ADV-HAL-009-04,Court Edge Haft Parry,Adamant Haft,F1,Champion L3 Mid,B
+MV-ADV-HAL-009-05,Court Hook Drag Down,Mayhem Snatch,F2,Champion L3 Mid,B
+MV-ADV-HAL-009-06,Court Circuit Sweep,Blaze Spikefall,F2,Champion L3 Mid,B
+MV-ADV-HAL-009-07,Court Answer Thrust,Trouncing Tailstop,F1,Champion L3 Mid,B
+MV-ADV-HAL-009-08,Court Verdict Cleave,Splintering Drag,F1,Champion L3 Mid,B
+MV-ADV-HAL-009-09,Court Guard Haft Wheel,Granite Socketring,F2,Champion L3 Mid,B
+MV-ADV-HAL-010-01,Wind-Sworn Bearing Stance,Daybreak Spike,F2,Ruler L2 Low,B
+MV-ADV-HAL-010-02,Crosswind Axe Cut,Snatchthrash,F4,Ruler L2 Low,B
+MV-ADV-HAL-010-03,Headwind Spike Thrust,Iron Axeheel,F2,Ruler L2 Low,B
+MV-ADV-HAL-010-04,Lee-Side Haft Parry,Equipoise Spike,F2,Ruler L2 Low,B
+MV-ADV-HAL-010-05,Gust-Timed Beak Pull,Rumblesnatch,F5,Ruler L2 Low,B
+MV-ADV-HAL-010-06,Bearing-Held Sweep,Daybreak Axeblade,F2,Ruler L2 Low,B
+MV-ADV-HAL-010-07,Gale-Driven Cleaving Stroke,Axefall Onslaught,F3,Ruler L2 Low,B
+MV-ADV-HAL-010-08,Oathbound Haft Screen,Thorn Axeheel,F2,Ruler L2 Low,B
+MV-ADV-HAL-011-01,Rim Heel Halberd Stance,Intent Crownspike,F2,Demigod L6 Low,B
+MV-ADV-HAL-011-02,Edge-Held Axe Chop,Harpooning Langet,F1,Demigod L6 Low,B
+MV-ADV-HAL-011-03,Edge-Held Spike Thrust,Iron Beak,F2,Demigod L6 Low,B
+MV-ADV-HAL-011-04,Windbreak Haft Guard,Thorn Haft,F2,Demigod L6 Low,B
+MV-ADV-HAL-011-05,Cliffside Beak Snatch,Crippling Hookback,F1,Demigod L6 Low,B
+MV-ADV-HAL-011-06,Plateau Pace Retreat,Silt Socketring,F2,Demigod L6 Low,B
+MV-ADV-HAL-011-07,Oath-Kept Cleaving Chain,Needling Snatch,F1,Demigod L6 Low,B
+MV-ADV-HAL-011-08,Updraft Spike Lift,Glint Heave,F2,Demigod L6 Low,B
+MV-ADV-HAL-011-09,Edge Fall Hook Haul,Ponderous Axefall,F2,Demigod L6 Low,B
+MV-ADV-HAL-011-10,Plateau Wind Splitting Fall,Hookpull Barrage,F3,Demigod L6 Low,B
+MV-ADV-HAL-011-11,Open Sky Oath Sweep,Slagbeak,F5,Demigod L6 Low,B
+MV-ADV-HAL-012-01,Far Gale Stance,Might Hookback,F2,Demigod L8 Low,B
+MV-ADV-HAL-012-02,Far Gale Axe Hew,Haftassault,F4,Demigod L8 Low,B
+MV-ADV-HAL-012-03,Far Gale Spike Thrust,Heavetorment,F4,Demigod L8 Low,B
+MV-ADV-HAL-012-04,Far Gale Haft Turn,Implacable Socketring,F1,Demigod L8 Low,B
+MV-ADV-HAL-012-05,Far Gale Beak Tap,Rumblebeak,F5,Demigod L8 Low,B
+MV-ADV-HAL-012-06,Far Gale Pace Back,Tailstop Pounce,F3,Demigod L8 Low,B
+MV-ADV-HAL-012-07,Gale Reach Hook Wrench,Toxinspike,F5,Demigod L8 Low,B
+MV-ADV-HAL-012-08,Gale Reach Wide Sweep,Daybreak Hookpull,F2,Demigod L8 Low,B
+MV-ADV-HAL-012-09,Gale Reach Spike Run,Glintlanget,F5,Demigod L8 Low,B
+MV-ADV-HAL-012-10,Gale Reach Ring Guard,Mantled Spike,F1,Demigod L8 Low,B
+MV-ADV-HAL-012-11,Far Gale Falling Cleave,Gustlanget,F5,Demigod L8 Low,B
+MV-ADV-HAL-012-12,Far Gale Skewering Rush,Nova Axeheel,F2,Demigod L8 Low,B
+MV-ADV-HAL-013-01,Open Edge Halberd Stance,Mindful Beak,F1,Ruler L4 Low,B
+MV-ADV-HAL-013-02,Open Edge Axe Chop,Beaktorment,F4,Ruler L4 Low,B
+MV-ADV-HAL-013-03,Open Edge Spike Poke,Novaheave,F5,Ruler L4 Low,B
+MV-ADV-HAL-013-04,Open Edge Haft Slip,Annealed Haft,F1,Ruler L4 Low,B
+MV-ADV-HAL-013-05,Edge Gust Beak Rake,Blazesnatch,F5,Ruler L4 Low,B
+MV-ADV-HAL-013-06,Edge Pace Glide,Blurring Axefall,F1,Ruler L4 Low,B
+MV-ADV-HAL-013-07,Open Edge Splitting Rush,Rumblespike,F5,Ruler L4 Low,B
+MV-ADV-HAL-013-08,Open Edge Oath Guard,Annealed Facet Hookback,F6a,Ruler L4 Low,B
+MV-ADV-HAL-014-01,Raised Head Rally Stance,Rousing Crownspike,F1,Champion L1 Low,B
+MV-ADV-HAL-014-02,Squad Front Spike Thrust,Glintspike,F5,Champion L1 Low,B
+MV-ADV-HAL-014-03,Wagon Corner Haft Brace,Staunch Haft,F1,Champion L1 Low,B
+MV-ADV-HAL-014-04,Called Pace Beak Advance,Beaksprint,F4,Champion L1 Low,B
+MV-ADV-HAL-014-05,Box Seat Beak Heave,Staggering Heave,F1,Champion L1 Low,B
+MV-ADV-HAL-014-06,Squad Weight Haft Shove,Ponderous Haft,F2,Champion L1 Low,B
+MV-ADV-HAL-014-07,Banded Strongbox Hew,Splitting Axeblade,F1,Champion L1 Low,B
+MV-ADV-HAL-014-08,Blade Fast to the Rail,Manacling Hookback,F1,Champion L1 Low,B

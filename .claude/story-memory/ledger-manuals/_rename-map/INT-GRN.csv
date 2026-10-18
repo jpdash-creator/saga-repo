@@ -1,0 +1,72 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-GRN-001-01,Qi-Set Shell Grip,Fierce Shockwave,F1,Senior L6 Mid,A
+MV-INT-GRN-001-02,Heel Pivot Flank Fling,Fusescorer,F4,Senior L6 Mid,A
+MV-INT-GRN-001-03,Shoulder-Watch Fuse Count,Spoon Linen,F3,Senior L6 Mid,A
+MV-INT-GRN-001-04,Three-Stride Shelter Dash,Spoonzip,F4,Senior L6 Mid,A
+MV-INT-GRN-001-05,Fuse Hiss Pitch Reading,Rallying Fragment,F1,Senior L6 Mid,A
+MV-INT-GRN-001-06,Twin Shell Spread Cast,Hungry Sizzle,F1,Senior L6 Mid,A
+MV-INT-GRN-001-07,Rush on the Burst Heels,Ducking Detonate,F1,Senior L6 Mid,A
+MV-INT-GRN-002-01,Forearm Fuse Trim,Sound Firecap,F1,Senior L8 Low,A
+MV-INT-GRN-002-02,Arm and Tally Rhythm,Doughty Fuse,F1,Senior L8 Low,A
+MV-INT-GRN-002-03,Overhead Timed Loft,Swift Lever,F1,Senior L8 Low,A
+MV-INT-GRN-002-04,Short Fuse Snap Throw,Fierce Cap,F1,Senior L8 Low,A
+MV-INT-GRN-002-05,Long Fuse Patience Hold,Caphasp,F4,Senior L8 Low,A
+MV-INT-GRN-002-06,Blast Sound Marking,Sure Casing,F1,Senior L8 Low,A
+MV-INT-GRN-002-07,Uneven Fuse Burst Series,Rushing Shrapnel,F1,Senior L8 Low,A
+MV-INT-GRN-002-08,Late Burst Lure,Levering Pinring,F1,Senior L8 Low,A
+MV-INT-GRN-003-01,Bent-Over Trench Run,Lithe Fragmentation,F1,Senior L9 Mid,A
+MV-INT-GRN-003-02,Parapet Peek Lob,Kaboomthwack,F4,Senior L9 Mid,A
+MV-INT-GRN-003-03,Dugout Corner Wedge,Lever Screen,F3,Senior L9 Mid,A
+MV-INT-GRN-003-04,Oilcloth Fuse Keeping,Casingcordial,F4,Senior L9 Mid,A
+MV-INT-GRN-003-05,Round-the-Bend Throw,Ruthless Concussion,F1,Senior L9 Mid,A
+MV-INT-GRN-003-06,Timber Face Bank Shot,Bold Powderchamber,F1,Senior L9 Mid,A
+MV-INT-GRN-004-01,Steep Climb Release,Bold Fuse,F1,Warrior L1 Low,B
+MV-INT-GRN-004-02,Fall Point Aiming,Hum Shrapnel,F2,Warrior L1 Low,B
+MV-INT-GRN-004-03,Back-Lean Bank Throw,Ruthless Detonate,F1,Warrior L1 Low,B
+MV-INT-GRN-004-04,Crossed Forearm Turn,Rilllever,F5,Warrior L1 Low,B
+MV-INT-GRN-004-05,Sidelong Shuffle Under Arc,Casingzip,F4,Warrior L1 Low,B
+MV-INT-GRN-004-06,Drop-in-the-Angle Toss,Humlever,F5,Warrior L1 Low,B
+MV-INT-GRN-004-07,Plunging Pair Volley,Dawncap,F5,Warrior L1 Low,B
+MV-INT-GRN-004-08,Tiled Roof Burst,Swift Concussion,F1,Warrior L1 Low,B
+MV-INT-GRN-004-09,Falling Shell Backhand Swat,Rill Firecap,F2,Warrior L1 Low,B
+MV-INT-GRN-005-01,Qi Cushion in the Palm,Ember Kaboom,F2,Warrior L2 Mid,B
+MV-INT-GRN-005-02,Spiral Wrist Twist,Sleet Powderchamber,F2,Warrior L2 Mid,B
+MV-INT-GRN-005-03,Full Extension Reach Lob,Shard Kaboom,F2,Warrior L2 Mid,B
+MV-INT-GRN-005-04,Back-Turned Splinter Take,Clay Fragment,F2,Warrior L2 Mid,B
+MV-INT-GRN-005-05,Held-Breath Freeze Throw,Gleam Pinring,F2,Warrior L2 Mid,B
+MV-INT-GRN-005-06,Lead Foot Mark Plant,Clay Cap,F2,Warrior L2 Mid,B
+MV-INT-GRN-005-07,Fuse Spark Colour Check,Quickening Fuse,F1,Warrior L2 Mid,B
+MV-INT-GRN-005-08,Whirling Arm Line of Bursts,Showercap,F5,Warrior L2 Mid,B
+MV-INT-GRN-005-09,Blast Push Lean,Poise Casing,F2,Warrior L2 Mid,B
+MV-INT-GRN-005-10,Qi-Hardened Fuse Snuff,Fragment Barrier,F3,Warrior L2 Mid,B
+MV-INT-GRN-006-01,Floor Skim Throw,Gleam Fragmentation,F2,Warrior L3 Low,B
+MV-INT-GRN-006-02,Downslope Set-Rolling,Shardspoon,F5,Warrior L3 Low,B
+MV-INT-GRN-006-03,Angle of Reflection Reading,Casing Bandage,F3,Warrior L3 Low,B
+MV-INT-GRN-006-04,Boot Sole Shell Stop,Poise Pinring,F2,Warrior L3 Low,B
+MV-INT-GRN-006-05,Shelf Edge Dive,Brawnspoon,F5,Warrior L3 Low,B
+MV-INT-GRN-006-06,Two-Surface Rebound Cast,Casingthwack,F4,Warrior L3 Low,B
+MV-INT-GRN-006-07,Street Gutter Roll Strike,Shockwave Thwack,F3,Warrior L3 Low,B
+MV-INT-GRN-007-01,Steady-Handed Fuse Splice,Candor Spoon,F2,Warrior L5 Mid,B
+MV-INT-GRN-007-02,Deep Seated Fuse Press,Brisk Sizzle,F1,Warrior L5 Mid,B
+MV-INT-GRN-007-03,Weave Feel Fuse Choice,Candor Powderchamber,F2,Warrior L5 Mid,B
+MV-INT-GRN-007-04,Cupped Hand Rain Guard,Sleetcap,F5,Warrior L5 Mid,B
+MV-INT-GRN-007-05,Rushed Light and Throw,Capswat,F4,Warrior L5 Mid,B
+MV-INT-GRN-007-06,Backpedal Fling,Claykaboom,F5,Warrior L5 Mid,B
+MV-INT-GRN-007-07,Corded Bundle Heave,Gritkaboom,F5,Warrior L5 Mid,B
+MV-INT-GRN-007-08,Fast and Slow Shell Pairing,Static Sizzle,F2,Warrior L5 Mid,B
+MV-INT-GRN-008-01,Broken Gap Lob,Staticlever,F5,Warrior L7 Low,B
+MV-INT-GRN-008-02,Rubble Heap Crouch,Shelter Spoon,F2,Warrior L7 Low,B
+MV-INT-GRN-008-03,Doorframe Edge Swing,Casingflog,F4,Warrior L7 Low,B
+MV-INT-GRN-008-04,Ladder Rung Hang Toss,Vicious Firecap,F1,Warrior L7 Low,B
+MV-INT-GRN-008-05,Hard Rope Test Pull,Draught Shrapnel,F2,Warrior L7 Low,B
+MV-INT-GRN-008-06,Powder Dust Cloak Raise,Shielding Powderchamber,F1,Warrior L7 Low,B
+MV-INT-GRN-008-07,Doorfoot Burst Placement,Discord Lever,F2,Warrior L7 Low,B
+MV-INT-GRN-008-08,Passage Prone Room Sweep,Ruthless Fragmentation,F1,Warrior L7 Low,B
+MV-INT-GRN-008-09,Breach Rush in the Smoke,Claycasing,F5,Warrior L7 Low,B
+MV-INT-GRN-009-01,Hop Between Bursts,Grit Shockwave,F2,Warrior L8 Mid,B
+MV-INT-GRN-009-02,Knee-High Target Glance,Recalllever,F5,Warrior L8 Mid,B
+MV-INT-GRN-009-03,Dark Side of the Post,Shard Firecap,F2,Warrior L8 Mid,B
+MV-INT-GRN-009-04,Foe Loading Time Count,Candor Pinring,F2,Warrior L8 Mid,B
+MV-INT-GRN-009-05,Cover Switch Pitch,Bold Cap,F1,Warrior L8 Mid,B
+MV-INT-GRN-009-06,Rolling Shelter Re-Throw,Regimen Casing,F2,Warrior L8 Mid,B
+MV-INT-GRN-008-02,Shelter Spoon,Stout Spoon,F2,Warrior L7 Low,B

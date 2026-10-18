@@ -1,0 +1,171 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-HAL-001-01,Azure Hawk Stance,Radiant Hookback,F1,Demigod L1 Low,B
+MV-ELI-HAL-001-02,Hawk Pinion Cut,Heaveruin,F4,Demigod L1 Low,B
+MV-ELI-HAL-001-03,Hawk Claw Thrust,Berserk Tailstop,F1,Demigod L1 Low,B
+MV-ELI-HAL-001-04,Soaring Hook Haul,Strangling Crownspike,F1,Demigod L1 Low,B
+MV-ELI-HAL-001-05,Pinion Fan Sweep,Blazehaft,F5,Demigod L1 Low,B
+MV-ELI-HAL-001-06,Hawk Wing Parry,Murk Haft,F2,Demigod L1 Low,B
+MV-ELI-HAL-001-07,Stooping Hawk Splitter,Ferocious Langet,F1,Demigod L1 Low,B
+MV-ELI-HAL-001-08,Azure Updraft Leap Strike,Snatchglare,F4,Demigod L1 Low,B
+MV-ELI-HAL-001-09,Hawk Takes the Sky Cleave,Granite Axefall,F2,Demigod L1 Low,B
+MV-ELI-HAL-002-01,Paired Court Stance,Vital Socketring,F2,Demigod L5 Low,B
+MV-ELI-HAL-002-02,Court Left Chop,Eviscerating Spike,F1,Demigod L5 Low,B
+MV-ELI-HAL-002-03,Court Right Thrust,Axeblade Ruin,F3,Demigod L5 Low,B
+MV-ELI-HAL-002-04,Court Haft Parry,Axeheel Hardihood,F3,Demigod L5 Low,B
+MV-ELI-HAL-002-05,Twin Court Hook and Cut,Spikefall Nerve,F3,Demigod L5 Low,B
+MV-ELI-HAL-002-06,Court Answering Spike,Tempered Drag,F2,Demigod L5 Low,B
+MV-ELI-HAL-002-07,Court Sidestep Weave,Spikeglare,F4,Demigod L5 Low,B
+MV-ELI-HAL-002-08,Two Courts One Axe Sweep,Lacerating Snatch,F1,Demigod L5 Low,B
+MV-ELI-HAL-002-09,Doubled Haft Court Guard,Beak Durance,F3,Demigod L5 Low,B
+MV-ELI-HAL-002-10,Twin Court Final Stroke,Mightheave,F5,Demigod L5 Low,B
+MV-ELI-HAL-003-01,Basin Span Stance,Beak Respite,F3,Void God L1 Low,B
+MV-ELI-HAL-003-02,Span Rim Chop,Granite Axeblade,F2,Void God L1 Low,B
+MV-ELI-HAL-003-03,Span Rim Thrust,Novalanget,F5,Void God L1 Low,B
+MV-ELI-HAL-003-04,Span Haft Guard,Inexorable Socketring,F1,Void God L1 Low,B
+MV-ELI-HAL-003-05,Basin Cross Step,Mightdrag,F5,Void God L1 Low,B
+MV-ELI-HAL-003-06,Wide Basin Hook,Enthralling Drag,F1,Void God L1 Low,B
+MV-ELI-HAL-003-07,Basin Floor Sweep,Slaghaft,F5,Void God L1 Low,B
+MV-ELI-HAL-003-08,Rim Reply Spike,Glint Hookback,F2,Void God L1 Low,B
+MV-ELI-HAL-003-09,Basin Overflow Cleave,Sanguine Heave,F2,Void God L1 Low,B
+MV-ELI-HAL-003-10,Spanning Beak Snare,Heave Valor,F3,Void God L1 Low,B
+MV-ELI-HAL-003-11,Whole Basin Reach Stroke,Ferocious Tailstop,F1,Void God L1 Low,B
+MV-ELI-HAL-004-01,Twin Current Stance,Daybreak Crownspike,F2,Void God L5 Mid,B
+MV-ELI-HAL-004-02,Upstream Axe Cut,Ironlanget,F5,Void God L5 Mid,B
+MV-ELI-HAL-004-03,Downstream Spike Thrust,Iron Axefall,F2,Void God L5 Mid,B
+MV-ELI-HAL-004-04,Eddy Haft Slip,Murk Axeheel,F2,Void God L5 Mid,B
+MV-ELI-HAL-004-05,Current Step Shift,Silt Langet,F2,Void God L5 Mid,B
+MV-ELI-HAL-004-06,Undertow Hook Pull,Chime Hookpull,F2,Void God L5 Mid,B
+MV-ELI-HAL-004-07,Crosscurrent Chop,Granite Spikefall,F2,Void God L5 Mid,B
+MV-ELI-HAL-004-08,Divided Current Haft Parry,Indomitable Haft,F1,Void God L5 Mid,B
+MV-ELI-HAL-004-09,Rapids Piercing Run,Nova Hookpull,F2,Void God L5 Mid,B
+MV-ELI-HAL-004-10,Waterfall Descent Axe,Tempered Spike,F2,Void God L5 Mid,B
+MV-ELI-HAL-004-11,Confluence Beak Lock,Hoarfrost Spike,F2,Void God L5 Mid,B
+MV-ELI-HAL-004-12,Twin Currents Breaking Stroke,Merciless Crownspike Havoc,F6b,Void God L5 Mid,B
+MV-ELI-HAL-005-01,Stoop Climb Stance,Axeblade Vitality,F3,Demigod L3 Low,B
+MV-ELI-HAL-005-02,Climbing Axe Cut,Unsparing Snatch,F1,Demigod L3 Low,B
+MV-ELI-HAL-005-03,Stooping Spike Thrust,Tempered Haft,F2,Demigod L3 Low,B
+MV-ELI-HAL-005-04,Climb Turn Haft Parry,Equipoise Hookback,F2,Demigod L3 Low,B
+MV-ELI-HAL-005-05,Stoop Beak Seize,Thorn Axefall,F2,Demigod L3 Low,B
+MV-ELI-HAL-005-06,Rising Pinion Sweep,Silt Axeheel,F2,Demigod L3 Low,B
+MV-ELI-HAL-005-07,Climbing Hook Lift,Haftmettle,F4,Demigod L3 Low,B
+MV-ELI-HAL-005-08,Climb and Fall Cleave,Booming Spikefall,F1,Demigod L3 Low,B
+MV-ELI-HAL-005-09,Stoop Line Skewer,Tempered Snatch,F2,Demigod L3 Low,B
+MV-ELI-HAL-005-10,Climb Above the Guard Stroke,Beakhavoc,F4,Demigod L3 Low,B
+MV-ELI-HAL-006-01,Two-Court Sky Stance,Beak Vigil,F3,Demigod L8 Mid,B
+MV-ELI-HAL-006-02,Sky Court Axe Fall,Blistering Langet,F1,Demigod L8 Mid,B
+MV-ELI-HAL-006-03,Sky Court Spike Dart,Decimating Tailstop,F1,Demigod L8 Mid,B
+MV-ELI-HAL-006-04,Court Pair Hook Pull,Toxin Langet,F2,Demigod L8 Mid,B
+MV-ELI-HAL-006-05,Sky Court Ring Sweep,Heave Reckoning,F3,Demigod L8 Mid,B
+MV-ELI-HAL-006-06,Court Answer Haft Slip,Equipoise Socketring,F2,Demigod L8 Mid,B
+MV-ELI-HAL-006-07,Two Sky Courts Cleave,Granite Hookpull,F2,Demigod L8 Mid,B
+MV-ELI-HAL-006-08,Court Overhead Guard Wheel,Tailstop Valor,F3,Demigod L8 Mid,B
+MV-ELI-HAL-006-09,Both Courts Open the Sky Stroke,Grievous Snatch,F1,Demigod L8 Mid,B
+MV-ELI-HAL-007-01,Flood Season Stance,Axeblade Respite,F3,Void God L3 Low,B
+MV-ELI-HAL-007-02,Rising Water Axe Cut,Might Socketring,F2,Void God L3 Low,B
+MV-ELI-HAL-007-03,Swollen River Spike Thrust,Haftruin,F4,Void God L3 Low,B
+MV-ELI-HAL-007-04,Levee Haft Guard,Unassailable Crownspike,F1,Void God L3 Low,B
+MV-ELI-HAL-007-05,Floodplain Step Shift,Haftflash,F4,Void God L3 Low,B
+MV-ELI-HAL-007-06,Washout Hook Drag,Gyve Hookback,F2,Void God L3 Low,B
+MV-ELI-HAL-007-07,Silt Cloud Sweep,Blaze Drag,F2,Void God L3 Low,B
+MV-ELI-HAL-007-08,Spillway Parry,Gust Axeheel,F2,Void God L3 Low,B
+MV-ELI-HAL-007-09,Crest Wave Cleaver,Might Axefall,F2,Void God L3 Low,B
+MV-ELI-HAL-007-10,Torrent Beak Lock,Fastening Spikefall,F2,Void God L3 Low,B
+MV-ELI-HAL-007-11,Flood Takes the Basin Stroke,Irondrag,F5,Void God L3 Low,B
+MV-ELI-HAL-008-01,Hawk Over River Stance,Illuminating Spike,F1,Void God L8 Low,B
+MV-ELI-HAL-008-02,River Glint Axe Cut,Granite Beak,F2,Void God L8 Low,B
+MV-ELI-HAL-008-03,Hawk Shadow Spike Dart,Lacerating Hookpull,F1,Void God L8 Low,B
+MV-ELI-HAL-008-04,Riverside Haft Turn,Flintlike Beak,F1,Void God L8 Low,B
+MV-ELI-HAL-008-05,Hawk Skim Low Step,Gustspike,F5,Void God L8 Low,B
+MV-ELI-HAL-008-06,Fish-Taking Hook Snatch,Mayhemheave,F5,Void God L8 Low,B
+MV-ELI-HAL-008-07,Widening River Axe Sweep,Vengeful Heave,F1,Void God L8 Low,B
+MV-ELI-HAL-008-08,Hawk Pass Parry,Equipoise Tailstop,F2,Void God L8 Low,B
+MV-ELI-HAL-008-09,Upstream Climb Thrust,Haft Reckoning,F3,Void God L8 Low,B
+MV-ELI-HAL-008-10,Hawk Strikes the Current,Decimating Socketring,F1,Void God L8 Low,B
+MV-ELI-HAL-008-11,River Hawk Beak Anchor,Snatchmettle,F4,Void God L8 Low,B
+MV-ELI-HAL-008-12,Hawk Seizes the River Stroke,Devastating Hookback,F1,Void God L8 Low,B
+MV-ELI-HAL-009-01,Open Ground Halberd Stance,Prescient Crownspike,F1,Demigod L2 Low,B
+MV-ELI-HAL-009-02,Plateau Axe Hew,Unsparing Drag,F1,Demigod L2 Low,B
+MV-ELI-HAL-009-03,Plateau Spike Run,Hellish Spikefall,F1,Demigod L2 Low,B
+MV-ELI-HAL-009-04,Plateau Haft Turn,Spike Valor,F3,Demigod L2 Low,B
+MV-ELI-HAL-009-05,Plateau Long Pace,Spikeblink,F4,Demigod L2 Low,B
+MV-ELI-HAL-009-06,Edge Wind Hook,Chime Axeblade,F2,Demigod L2 Low,B
+MV-ELI-HAL-009-07,Bare Ground Axe Sweep,Merciless Axeheel,F1,Demigod L2 Low,B
+MV-ELI-HAL-009-08,Bearing Parry Slide,Unconquered Spike,F1,Demigod L2 Low,B
+MV-ELI-HAL-009-09,Wind-Borne Thrust,Glint Drag,F2,Demigod L2 Low,B
+MV-ELI-HAL-009-10,Plateau Gust Cleave,Langetruin,F4,Demigod L2 Low,B
+MV-ELI-HAL-009-11,Gale Line Skewer,Novaspike,F5,Demigod L2 Low,B
+MV-ELI-HAL-009-12,Upwind Haft Guard,Flintlike Tailstop,F1,Demigod L2 Low,B
+MV-ELI-HAL-009-13,Plateau Open Sky Stroke,Merciless Hookpull Reckoning,F6b,Demigod L2 Low,B
+MV-ELI-HAL-010-01,Sworn Line Halberd Stance,Intent Haft,F2,Demigod L7 Mid,B
+MV-ELI-HAL-010-02,Line Held Axe Chop,Snatchwrath,F4,Demigod L7 Mid,B
+MV-ELI-HAL-010-03,Line Held Spike Thrust,Spikewrath,F4,Demigod L7 Mid,B
+MV-ELI-HAL-010-04,Sworn Line Haft Hold,Iron Hookback,F2,Demigod L7 Mid,B
+MV-ELI-HAL-010-05,Gale Axe Hook Pull,Rumble Axefall,F2,Demigod L7 Mid,B
+MV-ELI-HAL-010-06,Bearing Shift Sweep,Silt Haft,F2,Demigod L7 Mid,B
+MV-ELI-HAL-010-07,Sworn Step Glide,Gust Heave,F2,Demigod L7 Mid,B
+MV-ELI-HAL-010-08,Gale Axe Falling Stroke,Devastating Hookpull,F1,Demigod L7 Mid,B
+MV-ELI-HAL-010-09,Oath Haft Gale Screen,Thorn Langet,F2,Demigod L7 Mid,B
+MV-ELI-HAL-010-10,Sworn Bearing Gale Reaping,Titanic Snatch Havoc,F6b,Demigod L7 Mid,B
+MV-ELI-HAL-011-01,Coverless Halberd Stance,Crownspike Premonition,F3,Void God L2 Low,B
+MV-ELI-HAL-011-02,Open Field Axe Chop,Spikehavoc,F4,Void God L2 Low,B
+MV-ELI-HAL-011-03,Open Field Spike Thrust,Axeheel Ruin,F3,Void God L2 Low,B
+MV-ELI-HAL-011-04,Oathkeeper Hook Drag,Thornspike,F5,Void God L2 Low,B
+MV-ELI-HAL-011-05,Wide Wind Sweep,Slagspike,F5,Void God L2 Low,B
+MV-ELI-HAL-011-06,Open Ground Parry Turn,Evergreen Socketring,F1,Void God L2 Low,B
+MV-ELI-HAL-011-07,Sworn Wind Cleaving Fall,Blaze Axefall,F2,Void God L2 Low,B
+MV-ELI-HAL-011-08,Wind Oath Piercing Rush,Drag Havoc,F3,Void God L2 Low,B
+MV-ELI-HAL-011-09,Open Field Wind Reaping Stroke,Novasnatch,F5,Void God L2 Low,B
+MV-ELI-HAL-012-01,Oath-Wind Stance,Energizing Beak,F1,True God L1 Low,B
+MV-ELI-HAL-012-02,Windsworn Axe Drop,Might Axeblade,F2,True God L1 Low,B
+MV-ELI-HAL-012-03,Windsworn Spike Dart,Snatchruin,F4,True God L1 Low,B
+MV-ELI-HAL-012-04,Oath Haft Catch,Chime Beak,F2,True God L1 Low,B
+MV-ELI-HAL-012-05,Oath Bearing Step,Gustsnatch,F5,True God L1 Low,B
+MV-ELI-HAL-012-06,Wind Hook Wrench,Heave Nerve,F3,True God L1 Low,B
+MV-ELI-HAL-012-07,Oath Arc Sweep,Dismantling Spikefall,F2,True God L1 Low,B
+MV-ELI-HAL-012-08,Sworn Beak Press,Fastening Snatch,F2,True God L1 Low,B
+MV-ELI-HAL-012-09,Gale Oath Splitting Stroke,Langetwrath,F4,True God L1 Low,B
+MV-ELI-HAL-012-10,Unbroken Bearing Lance,Tempered Axeblade,F2,True God L1 Low,B
+MV-ELI-HAL-012-11,Oath-Wind Sky Cleaver,Beakwrath,F4,True God L1 Low,B
+MV-ELI-HAL-013-01,Taken Bearing Stance,Vital Axeheel,F2,Demigod L4 Low,B
+MV-ELI-HAL-013-02,Bearing Cut Axe Fall,Dragwrath,F4,Demigod L4 Low,B
+MV-ELI-HAL-013-03,Bearing Cut Spike Dart,Dragruin,F4,Demigod L4 Low,B
+MV-ELI-HAL-013-04,Bearing Break Hook,Heavemettle,F4,Demigod L4 Low,B
+MV-ELI-HAL-013-05,Taken Line Sweep,Mayhemhaft,F5,Demigod L4 Low,B
+MV-ELI-HAL-013-06,Line Holding Parry,Murk Crownspike,F2,Demigod L4 Low,B
+MV-ELI-HAL-013-07,Bearing Splitting Fall,Haft Wrath,F3,Demigod L4 Low,B
+MV-ELI-HAL-013-08,Bearing Haft Windguard,Aegis Spike,F2,Demigod L4 Low,B
+MV-ELI-HAL-013-09,Bearing Taken From the Gale Stroke,Haftscourge,F4,Demigod L4 Low,B
+MV-ELI-HAL-014-01,Side-On Crosswind Halberd Stance,Healing Tailstop,F1,Demigod L9 Low,B
+MV-ELI-HAL-014-02,Crosswind Axe Hew,Heavehavoc,F4,Demigod L9 Low,B
+MV-ELI-HAL-014-03,Crosswind Spike Thrust,Snatchscourge,F4,Demigod L9 Low,B
+MV-ELI-HAL-014-04,Crosswind Haft Slide,Impervious Langet,F1,Demigod L9 Low,B
+MV-ELI-HAL-014-05,Crosswind Hook Fling,Toxin Spikefall,F2,Demigod L9 Low,B
+MV-ELI-HAL-014-06,Side Gale Sweep,Slag Socketring,F2,Demigod L9 Low,B
+MV-ELI-HAL-014-07,Crosswind Step Slip,Silt Axefall,F2,Demigod L9 Low,B
+MV-ELI-HAL-014-08,Crosswind Splitting Stroke,Mightspike,F5,Demigod L9 Low,B
+MV-ELI-HAL-014-09,Crosswind Piercing Rush,Eviscerating Langet,F1,Demigod L9 Low,B
+MV-ELI-HAL-014-10,Crosswind Turns the Blade Stroke,Eviscerating Granite Snatch,F6a,Demigod L9 Low,B
+MV-ELI-HAL-015-01,Long Plateau Stance,Energizing Axeheel,F1,Void God L4 Low,B
+MV-ELI-HAL-015-02,Plateau Run Axe Hew,Gusthaft,F5,Void God L4 Low,B
+MV-ELI-HAL-015-03,Plateau Run Spike Dart,Rumble Axeblade,F2,Void God L4 Low,B
+MV-ELI-HAL-015-04,Far Plateau Haft Guard,Impervious Hookback,F1,Void God L4 Low,B
+MV-ELI-HAL-015-05,Far Plateau Pace,Dazzling Drag,F1,Void God L4 Low,B
+MV-ELI-HAL-015-06,Far Reaching Hook Wrench,Maiming Axefall,F1,Void God L4 Low,B
+MV-ELI-HAL-015-07,Long Wind Arc Sweep,Mayhem Spikefall,F2,Void God L4 Low,B
+MV-ELI-HAL-015-08,Far Parry Slide,Invincible Spike,F1,Void God L4 Low,B
+MV-ELI-HAL-015-09,Plateau Run Lance,Beakscourge,F4,Void God L4 Low,B
+MV-ELI-HAL-015-10,Long Plateau Gale Cleaver,Decimating Heave,F1,Void God L4 Low,B
+MV-ELI-HAL-015-11,Long Plateau Skewer Drive,Ruinous Hookpull,F1,Void God L4 Low,B
+MV-ELI-HAL-015-12,Long Plateau Beak Bind,Ponderous Snatch,F2,Void God L4 Low,B
+MV-ELI-HAL-015-13,Whole Plateau in One Stroke,Tailstop Ruin,F3,Void God L4 Low,B
+MV-ELI-HAL-016-01,Wide Sky Stance,Daybreak Beak,F2,True God L2 Low,B
+MV-ELI-HAL-016-02,Wide Sky Axe Drop,Grievous Haft,F1,True God L2 Low,B
+MV-ELI-HAL-016-03,Wide Sky Spike Dart,Hookpull Ruin,F3,True God L2 Low,B
+MV-ELI-HAL-016-04,Open Sky Haft Turn,Socketring Spine,F3,True God L2 Low,B
+MV-ELI-HAL-016-05,Wide Sky Pace,Gust Hookback,F2,True God L2 Low,B
+MV-ELI-HAL-016-06,Cloud-Catching Hook,Hoarfrost Crownspike,F2,True God L2 Low,B
+MV-ELI-HAL-016-07,Wide Sky Fan Sweep,Spikeruin,F4,True God L2 Low,B
+MV-ELI-HAL-016-08,Sky Held Parry,Impervious Spike,F1,True God L2 Low,B
+MV-ELI-HAL-016-09,Wide Sky Falling Cleaver,Hafthavoc,F4,True God L2 Low,B
+MV-ELI-HAL-016-10,Wide Sky Lance Fall,Devastating Socketring,F1,True God L2 Low,B
+MV-ELI-HAL-016-11,Under the Wide Sky Reaping,Berserk Iron Axeblade,F6a,True God L2 Low,B

@@ -1,0 +1,128 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-GAX-001-01,Azure Basin Chop,Bedrock Riven,F2,Warrior L1 Low,B
+MV-SIG-GAX-001-02,Basin Wall Pivot,Spectral Haftbell,F1,Warrior L1 Low,B
+MV-SIG-GAX-001-03,Azure Gaze Reading,Revelation Doubleedge,F2,Warrior L1 Low,B
+MV-SIG-GAX-001-04,Basin Edge Hew,Longhelve Banner,F3,Warrior L1 Low,B
+MV-SIG-GAX-001-05,Wall Turn Guard,Deluge Haftrope,F2,Warrior L1 Low,B
+MV-SIG-GAX-001-06,Hawk Shadow Press,Volition Poleshoe,F2,Warrior L1 Low,B
+MV-SIG-GAX-001-07,Azure Basin Great Cleave,Sovereign Wideswell,F1,Champion L1 Low,B
+MV-SIG-GAX-001-08,Rimfall Crushing Blow,Inferno Greatbit,F2,Champion L1 Low,B
+MV-SIG-GAX-001-09,Azure Basin Rending Fall,Rendverdict,F4,Demigod L1 Low,B
+MV-SIG-GAX-001-10,Sky Pours Into the Basin,Exalted Bedrock Greatpoll,F6a,Warrior L1 Low,B
+MV-SIG-GAX-002-01,Dual Track Overhead,Haemalaxe,F5,Warrior L6 Mid,B
+MV-SIG-GAX-002-02,Track Cross Pace,Deluge Hewfall,F2,Warrior L6 Mid,B
+MV-SIG-GAX-002-03,Two Line Reading,Magnanimous Greatbeard,F1,Warrior L6 Mid,B
+MV-SIG-GAX-002-04,Dual Track Hew Chain,Haemal Rend,F2,Warrior L6 Mid,B
+MV-SIG-GAX-002-05,Cross-Track Parry,Delugeaxe,F5,Warrior L6 Mid,B
+MV-SIG-GAX-002-06,Track Hook Drag,Pealsunder,F5,Warrior L6 Mid,B
+MV-SIG-GAX-002-07,Track Press Hold,Gloomsunder,F5,Warrior L6 Mid,B
+MV-SIG-GAX-002-08,Dual-Track Great Hewing,Storied Sunder,F1,Champion L1 Low,B
+MV-SIG-GAX-002-09,Crossing Tracks Fall,Haemalriven,F5,Champion L1 Low,B
+MV-SIG-GAX-002-10,Twin Stream Axe Rend,Vacuum Longhelve,F2,Demigod L1 Low,B
+MV-SIG-GAX-002-11,Both Tracks One Edge,Storied Squall Splitmass,F6a,Warrior L6 Mid,B
+MV-SIG-GAX-003-01,River Cut Chop,Vigorsunder,F5,Champion L3 Low,B
+MV-SIG-GAX-003-02,Silt Bank Step,Silken Greatbit,F1,Champion L3 Low,B
+MV-SIG-GAX-003-03,Flow Edge Reading,Revelation Haftbell,F2,Champion L3 Low,B
+MV-SIG-GAX-003-04,River-Cut Hew,Splitmass Banner,F3,Champion L3 Low,B
+MV-SIG-GAX-003-05,Current Turn Deflect,Axeseal,F4,Champion L3 Low,B
+MV-SIG-GAX-003-06,Weir Press Down,Season Sunder,F2,Champion L3 Low,B
+MV-SIG-GAX-003-07,River-Cut Great Hewing,Sunderdecree,F4,Champion L3 Low,B
+MV-SIG-GAX-003-08,Spate Crushing Fall,Thunderclap Heavyeye,F2,Champion L3 Low,B
+MV-SIG-GAX-003-09,River Parting Stroke,Sunderverdict,F4,Demigod L1 Low,B
+MV-SIG-GAX-003-10,The River Cuts Its Own Bed,Hewfall Crown,F3,Champion L3 Low,B
+MV-SIG-GAX-004-01,Azure Court Chop,Squall Greatbeard,F2,Ruler L1 Mid,B
+MV-SIG-GAX-004-02,Court Floor Step,Bedrock Wideswell,F2,Ruler L1 Mid,B
+MV-SIG-GAX-004-03,Court Edge Guard,Prismgreat,F5,Ruler L1 Mid,B
+MV-SIG-GAX-004-04,Court Mark Reading,Nurturing Haftrope,F1,Ruler L1 Mid,B
+MV-SIG-GAX-004-05,Court Hew Pair,Inferno Overhew,F2,Ruler L1 Mid,B
+MV-SIG-GAX-004-06,Court Disarm Hook,Entropy Greatpoll,F2,Ruler L1 Mid,B
+MV-SIG-GAX-004-07,Court Answer Press,Gloom Doubleedge,F2,Ruler L1 Mid,B
+MV-SIG-GAX-004-08,Azure Court Counter,Axetroth,F4,Ruler L1 Mid,B
+MV-SIG-GAX-004-09,Azure Court Great Cleave,Steeltimber,F5,Ruler L1 Mid,B
+MV-SIG-GAX-004-10,Court Pillar Fall,Thunderclap Poleshoe,F2,Ruler L1 Mid,B
+MV-SIG-GAX-004-11,Azure Court Rending Edge,Renddecree,F4,Demigod L1 Low,B
+MV-SIG-GAX-004-12,Two Axes One Court,Intrepid Thunderclap Splitmass,F6a,Ruler L1 Mid,B
+MV-SIG-GAX-005-01,Hawk and Basin Chop,Wideswell Edict,F3,Demigod L2 Mid,B
+MV-SIG-GAX-005-02,Perch to Floor Step,Deluge Heavyeye,F2,Demigod L2 Mid,B
+MV-SIG-GAX-005-03,High Eye Reading,Pealaxe,F5,Demigod L2 Mid,B
+MV-SIG-GAX-005-04,Hawk Basin Hew,Bedrock Overhew,F2,Demigod L2 Mid,B
+MV-SIG-GAX-005-05,Stoop Floor Press,Gloomgreat,F5,Demigod L2 Mid,B
+MV-SIG-GAX-005-06,Basin Wing Deflect,Devout Longhelve,F1,Demigod L2 Mid,B
+MV-SIG-GAX-005-07,Hawk-Basin Great Fall,Steel Rend,F2,Demigod L2 Mid,B
+MV-SIG-GAX-005-08,Plunge to Floor Cleave,Timberverdict,F4,Demigod L2 Mid,B
+MV-SIG-GAX-005-09,Hawk Basin Sundering Stroke,Bedrock Rend,F2,Demigod L2 Mid,B
+MV-SIG-GAX-005-10,Hawk Falls Basin Answers,Vaunted Riven Edict,F6b,Demigod L2 Mid,B
+MV-SIG-GAX-006-01,Unbroken Descent Chop,Majestic Haftrope,F1,Core Formation L1 Low,B
+MV-SIG-GAX-006-02,Azure Slope Step,Squallriven,F5,Core Formation L1 Low,B
+MV-SIG-GAX-006-03,Descent Line Reading,Tranquil Greatbeard,F1,Core Formation L1 Low,B
+MV-SIG-GAX-006-04,Great Descent Hew,Heavyeye Triumph,F3,Core Formation L1 Low,B
+MV-SIG-GAX-006-05,Slope Guard Deflect,Sainted Greatpoll,F1,Core Formation L1 Low,B
+MV-SIG-GAX-006-06,Slope Press Hold,Valiant Riven,F1,Core Formation L1 Low,B
+MV-SIG-GAX-006-07,Azure Descent Great Cleave,Haemal Doubleedge,F2,Core Formation L1 Low,B
+MV-SIG-GAX-006-08,Unbroken Fall Crushing Blow,Steel Poleshoe,F2,Core Formation L1 Low,B
+MV-SIG-GAX-006-09,Azure Descent Rending Cleave,Haftbell Verdict,F3,Core Formation L1 Low,B
+MV-SIG-GAX-006-10,The Descent That Does Not End,Gallant Thunderclap Overhew,F6a,Core Formation L1 Low,B
+MV-SIG-GAX-007-01,Plateau Oath Great Chop,Haemal Hewfall,F2,Warrior L1 Low,B
+MV-SIG-GAX-007-02,Oath Pace Step,Wraithlike Sunder,F1,Warrior L1 Low,B
+MV-SIG-GAX-007-03,Upland Draught Sensing,Reminiscence Haftrope,F2,Warrior L1 Low,B
+MV-SIG-GAX-007-04,Oath Hew,Bedrock Longhelve,F2,Warrior L1 Low,B
+MV-SIG-GAX-007-05,Plateau Edge Deflect,Timbervow,F4,Warrior L1 Low,B
+MV-SIG-GAX-007-06,Sworn Hook Drag,Peal Greatpoll,F2,Warrior L1 Low,B
+MV-SIG-GAX-007-07,Plateau Oath Great Hew,Steel Heavyeye,F2,Champion L1 Low,B
+MV-SIG-GAX-007-08,Oath Crushing Weight,Steelgreat,F5,Champion L1 Low,B
+MV-SIG-GAX-007-09,Plateau Oath Rending Stroke,Prism Splitmass,F2,Demigod L1 Low,B
+MV-SIG-GAX-007-10,Oath Sworn to the Plateau Wind,Vaunted Greatbit,F1,Warrior L1 Low,B
+MV-SIG-GAX-008-01,Held Bearing Great Chop,Exalted Doubleedge,F1,Warrior L4 High,B
+MV-SIG-GAX-008-02,Bearing Wind Step,Delugerend,F5,Warrior L4 High,B
+MV-SIG-GAX-008-03,Bearing Check Reading,Greatbit Largesse,F3,Warrior L4 High,B
+MV-SIG-GAX-008-04,Held Bearing Hew,Thunderclap Rend,F2,Warrior L4 High,B
+MV-SIG-GAX-008-05,Bearing Cut Parry,Squall Haftbell,F2,Warrior L4 High,B
+MV-SIG-GAX-008-06,Bearing Hook Drag,Peal Riven,F2,Warrior L4 High,B
+MV-SIG-GAX-008-07,Bearing Weight Press,Gloom Hewfall,F2,Warrior L4 High,B
+MV-SIG-GAX-008-08,Held Bearing Great Hew,Vigor Greatbeard,F2,Champion L1 Low,B
+MV-SIG-GAX-008-09,Bearing Fall Crushing Blow,Vigor Poleshoe,F2,Champion L1 Low,B
+MV-SIG-GAX-008-10,Held Bearing Rending Stroke,Royal Riven,F1,Demigod L1 Low,B
+MV-SIG-GAX-008-11,Bearing Held Until the Wind Turns,Haemalsunder,F5,Warrior L4 High,B
+MV-SIG-GAX-009-01,Wind Carried Chop,Triumphant Greatpoll,F1,Champion L1 Mid,B
+MV-SIG-GAX-009-02,Windward Step,Haftbell Voyage,F3,Champion L1 Mid,B
+MV-SIG-GAX-009-03,Wind Edge Feel,Serene Wideswell,F1,Champion L1 Mid,B
+MV-SIG-GAX-009-04,Wind Carry Hew,Fearless Sunder,F1,Champion L1 Mid,B
+MV-SIG-GAX-009-05,Carried Parry Turn,Deluge Longhelve,F2,Champion L1 Mid,B
+MV-SIG-GAX-009-06,Windward Great Bit Press,Seasonriven,F5,Champion L1 Mid,B
+MV-SIG-GAX-009-07,Wind-Carried Great Cleave,Bedrock Sunder,F2,Champion L1 Mid,B
+MV-SIG-GAX-009-08,Windfall Crushing Fall,Illustrious Splitmass,F1,Champion L1 Mid,B
+MV-SIG-GAX-009-09,Wind-Carried Rending Fall,Fearless Wideswell,F1,Demigod L1 Low,B
+MV-SIG-GAX-009-10,The Wind Carries the Weight,Vigor Greatbit,F2,Champion L1 Mid,B
+MV-SIG-GAX-010-01,Open Edge Oath Chop,Squall Doubleedge,F2,Ruler L1 Low,B
+MV-SIG-GAX-010-02,Edge Oath Step,Deluge Overhew,F2,Ruler L1 Low,B
+MV-SIG-GAX-010-03,Open Guard Cross,Glacier Greatbeard,F2,Ruler L1 Low,B
+MV-SIG-GAX-010-04,Oath Gap Reading,Pealtimber,F5,Ruler L1 Low,B
+MV-SIG-GAX-010-05,Open Edge Hew,Axeverdict,F4,Ruler L1 Low,B
+MV-SIG-GAX-010-06,Oath Flank Parry,Stately Heavyeye,F1,Ruler L1 Low,B
+MV-SIG-GAX-010-07,Open Hook Drag,Entropy Poleshoe,F2,Ruler L1 Low,B
+MV-SIG-GAX-010-08,Open Oath Pressing Weight,Timbercrown,F4,Ruler L1 Low,B
+MV-SIG-GAX-010-09,Open Edge Great Hew,Vaunted Greatbeard,F1,Ruler L1 Low,B
+MV-SIG-GAX-010-10,Oath Open Crushing Fall,Squall Haftrope,F2,Ruler L1 Low,B
+MV-SIG-GAX-010-11,Oath Edge Rending Stroke,Sundercrown,F4,Demigod L1 Low,B
+MV-SIG-GAX-010-12,The Oath Needs No Wall,Gallant Wideswell Crown,F6b,Ruler L1 Low,B
+MV-SIG-GAX-011-01,Gale Sworn Chop,Vigor Hewfall,F2,Demigod L1 Low,B
+MV-SIG-GAX-011-02,Gale Oath Step,Dunesunder,F5,Demigod L1 Low,B
+MV-SIG-GAX-011-03,Gale Sworn Reading,Greatgift,F4,Demigod L1 Low,B
+MV-SIG-GAX-011-04,Gale Sworn Hew,Triumphant Haftbell,F1,Demigod L1 Low,B
+MV-SIG-GAX-011-05,Sworn Gale Deflect,Parity Longhelve,F2,Demigod L1 Low,B
+MV-SIG-GAX-011-06,Gale Oath Press,Millstone Splitmass,F2,Demigod L1 Low,B
+MV-SIG-GAX-011-07,Gale-Sworn Great Cleave,Paramount Hewfall,F1,Demigod L1 Low,B
+MV-SIG-GAX-011-08,Gale-Sworn Crushing Fall,Quenched Rend,F2,Demigod L1 Low,B
+MV-SIG-GAX-011-09,Gale-Sworn Rending Stroke,Pulsar Greatbit,F2,Demigod L1 Low,B
+MV-SIG-GAX-011-10,The Gale Keeps the Oath,Quenched Haftrope,F2,Demigod L1 Low,B
+MV-SIG-GAX-012-01,Unwalled Chop,Quenched Doubleedge,F2,Core Formation L2 Low,B
+MV-SIG-GAX-012-02,Plateau Great Pace Step,Soundless Sunder,F1,Core Formation L2 Low,B
+MV-SIG-GAX-012-03,Far Horizon Reading,Pealgreat,F5,Core Formation L2 Low,B
+MV-SIG-GAX-012-04,Unwalled Hew,Haemalgreat,F5,Core Formation L2 Low,B
+MV-SIG-GAX-012-05,Plateau Flank Deflect,Enshrined Poleshoe,F1,Core Formation L2 Low,B
+MV-SIG-GAX-012-06,Unwalled Pressing Hold,Noble Greatpoll,F1,Core Formation L2 Low,B
+MV-SIG-GAX-012-07,Unwalled Plateau Great Cleave,Squall Overhew,F2,Core Formation L2 Low,B
+MV-SIG-GAX-012-08,Plateau Floor Crushing Blow,Steel Splitmass,F2,Core Formation L2 Low,B
+MV-SIG-GAX-012-09,Unwalled Plateau Rending Stroke,Overhew Crown,F3,Core Formation L2 Low,B
+MV-SIG-GAX-012-10,Where No Wall Stands the Axe Stands,Squallrend,F5,Core Formation L2 Low,B
+MV-SIG-GAX-010-03,Glacier Greatbeard,Ironclad Greatbeard,F2,Ruler L1 Low,B

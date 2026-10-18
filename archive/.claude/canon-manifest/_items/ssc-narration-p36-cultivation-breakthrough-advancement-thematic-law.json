@@ -1,0 +1,15 @@
+{
+ "skill_id": "ssc-narration-p36-cultivation-breakthrough-advancement-thematic-law",
+ "part": 36,
+ "area": 5,
+ "sequence_in_part": 5,
+ "title": "Cultivation Breakthrough and Advancement Thematic Law",
+ "domain": "narration",
+ "source_file": "Part_36_Narration_Novel_Thematic_Law.md",
+ "start_line": 194,
+ "end_line": 227,
+ "line_count": 34,
+ "output_path": ".claude/skills/ssc-narration-p36-cultivation-breakthrough-advancement-thematic-law/SKILL.md",
+ "has_stale_python_block": false,
+ "related": []
+}

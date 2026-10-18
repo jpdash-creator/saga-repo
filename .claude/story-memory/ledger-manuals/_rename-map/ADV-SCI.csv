@@ -1,0 +1,120 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-SCI-001-01,Canon Hollow-Back Guard,Iron Saddleguard,F2,Champion L1 Low,B
+MV-ADV-SCI-001-02,Shoulder-Rooted Downcut,Iron Flaretip,F2,Champion L1 Low,B
+MV-ADV-SCI-001-03,Hip-Turn Crescent Return,Ironrake,F5,Champion L1 Low,B
+MV-ADV-SCI-001-04,Open-Meridian Side Step,Torrent Swellback,F2,Champion L1 Low,B
+MV-ADV-SCI-001-05,Pressured Edge Turning,Mantled Flowedge,F1,Champion L1 Low,B
+MV-ADV-SCI-001-06,Scissor Cut Through the Cover,Raketorment,F4,Champion L1 Low,B
+MV-ADV-SCI-001-07,Qi-Thick Wrist Cut,Rumble Talwar,F2,Champion L1 Low,B
+MV-ADV-SCI-001-08,Thrown Crescent of Qi,Splintering Rake,F1,Champion L1 Low,B
+MV-ADV-SCI-001-09,Rolling Edge Barrier,Irontalwar,F5,Champion L1 Low,B
+MV-ADV-SCI-002-01,Field-Wide Ready Stance,Charter Deepbelly,F2,Demigod L1 Low,B
+MV-ADV-SCI-002-02,Field-Led Forehand,Rumble Carve,F2,Demigod L1 Low,B
+MV-ADV-SCI-002-03,Field-Led Backhand,Gustcarve,F5,Demigod L1 Low,B
+MV-ADV-SCI-002-04,Living-Field Footfall,Silt Scimhilt,F2,Demigod L1 Low,B
+MV-ADV-SCI-002-05,Field-Brushed Edge Check,Waning Crescent,F2,Demigod L1 Low,B
+MV-ADV-SCI-002-06,Edge Glide Along the Field,Rumble Broadcurve,F2,Demigod L1 Low,B
+MV-ADV-SCI-002-07,Parry Through the Press,Gustlip,F5,Demigod L1 Low,B
+MV-ADV-SCI-002-08,Dragged Cut Through Two Guards,Might Whipcut,F2,Demigod L1 Low,B
+MV-ADV-SCI-002-09,Belly of the Open Field,Lancing Lop,F1,Demigod L1 Low,B
+MV-ADV-SCI-002-10,Settled Field Barrier,Cantle Fastness,F3,Demigod L1 Low,B
+MV-ADV-SCI-003-01,Open-Channel Guard,Facetcantle,F5,Champion L5 Low,B
+MV-ADV-SCI-003-02,Meridian-Driven Arc,Rumble Arcwheel,F2,Champion L5 Low,B
+MV-ADV-SCI-003-03,Spiral Stepping Away,Crescent Leap,F3,Champion L5 Low,B
+MV-ADV-SCI-003-04,Wrist-Lock Disarm Pull,Suppressing Lop,F1,Champion L5 Low,B
+MV-ADV-SCI-003-05,Sustained Qi Draw,Might Broadcurve,F2,Champion L5 Low,B
+MV-ADV-SCI-003-06,Counter-Cut Against Armour Seam,Scooptorment,F4,Champion L5 Low,B
+MV-ADV-SCI-003-07,Unbroken Meridian Whirl,Ironlip,F5,Champion L5 Low,B
+MV-ADV-SCI-003-08,Seam-Splitting Hook Thrust,Facetscoop,F5,Champion L5 Low,B
+MV-ADV-SCI-004-01,Compendium Grounding Stance,Annealed Swellback,F1,Demigod L2 Mid,B
+MV-ADV-SCI-004-02,Long Curve Overhand,Granite Flowedge,F2,Demigod L2 Mid,B
+MV-ADV-SCI-004-03,Low Hook at the Ankle,Might Scimhilt,F2,Demigod L2 Mid,B
+MV-ADV-SCI-004-04,Slip-Between Footwork,Might Deepbelly,F2,Demigod L2 Mid,B
+MV-ADV-SCI-004-05,Draw-and-Return Guard,Talwarcloak,F4,Demigod L2 Mid,B
+MV-ADV-SCI-004-06,Closing the Gap Lunge,Blazetalwar,F5,Demigod L2 Mid,B
+MV-ADV-SCI-004-07,Compendium Wave Cut,Liptorment,F4,Demigod L2 Mid,B
+MV-ADV-SCI-004-08,Pinning Spine Counter,Ponderous Scoop,F2,Demigod L2 Mid,B
+MV-ADV-SCI-004-09,Rising Curve Under the Chin,Tempered Carve,F2,Demigod L2 Mid,B
+MV-ADV-SCI-004-10,Circling Edge Parry,Chime Cantle,F2,Demigod L2 Mid,B
+MV-ADV-SCI-004-11,Sweep Past the Reach,Glint Rake,F2,Demigod L2 Mid,B
+MV-ADV-SCI-004-12,Wheel of Field and Steel,Alternating Saddleguard,F1,Demigod L2 Mid,B
+MV-ADV-SCI-005-01,Twin-Track Opening Guard,Aegistalwar,F5,Champion L3 Mid,B
+MV-ADV-SCI-005-02,Paired Hip Cut,Flaretip Onslaught,F3,Champion L3 Mid,B
+MV-ADV-SCI-005-03,Mirrored Step Pair,Whipping Talwar,F1,Champion L3 Mid,B
+MV-ADV-SCI-005-04,Azure Rising Draw,Gust Cantle,F2,Champion L3 Mid,B
+MV-ADV-SCI-005-05,Twin Guard Meeting the Pair,Adamant Talwar,F1,Champion L3 Mid,B
+MV-ADV-SCI-005-06,Second Track Slip,Surging Saddleguard,F1,Champion L3 Mid,B
+MV-ADV-SCI-005-07,Paired Crescent Pull,Sanguine Scoop,F2,Champion L3 Mid,B
+MV-ADV-SCI-005-08,Dual-Track Counter Press,Scoopcuirass,F4,Champion L3 Mid,B
+MV-ADV-SCI-005-09,Cross-Weight Edge Turn,Staunch Deepbelly,F1,Champion L3 Mid,B
+MV-ADV-SCI-005-10,Twin-Court Crescent,Siltscoop,F5,Champion L3 Mid,B
+MV-ADV-SCI-005-11,Matched Ring of Edges,Hardened Crescent,F1,Champion L3 Mid,B
+MV-ADV-SCI-006-01,Hawk Perch Scimitar Stance,Resilient Broadcurve,F1,Demigod L1 High,B
+MV-ADV-SCI-006-02,Stoop Cut from Above,Scalding Scimhilt,F1,Demigod L1 High,B
+MV-ADV-SCI-006-03,Wing-Spread Evasion,Whipping Whipcut,F1,Demigod L1 High,B
+MV-ADV-SCI-006-04,Talon Hook at the Wrist,Carve Hauberk,F3,Demigod L1 High,B
+MV-ADV-SCI-006-05,Pinion Parry Sweep,Equipoise Flowedge,F2,Demigod L1 High,B
+MV-ADV-SCI-006-06,Rising Wing Counter,Blaze Scoop,F2,Demigod L1 High,B
+MV-ADV-SCI-006-07,Circling Hawk Downstroke,Trouncing Whipcut,F1,Demigod L1 High,B
+MV-ADV-SCI-006-08,Stooping Strike Through the Guard,Glint Flaretip,F2,Demigod L1 High,B
+MV-ADV-SCI-006-09,Updraft Parrying Wheel,Torrent Broadcurve,F2,Demigod L1 High,B
+MV-ADV-SCI-007-01,Scimitar River Bank Guard,Unflinching Flowedge,F1,Ruler L1 Low,B
+MV-ADV-SCI-007-02,Scimitar Basin Floor Cut,Furrowing Rake,F1,Ruler L1 Low,B
+MV-ADV-SCI-007-03,Scimitar Current Step,Granite Arcwheel,F2,Ruler L1 Low,B
+MV-ADV-SCI-007-04,Scimitar Eddy Turn Parry,Hardened Scimhilt,F1,Ruler L1 Low,B
+MV-ADV-SCI-007-05,Paired Ripple Cut,Rumble Swellback,F2,Ruler L1 Low,B
+MV-ADV-SCI-007-06,Flood-Tide Draw,Tempered Scoop,F2,Ruler L1 Low,B
+MV-ADV-SCI-007-07,Pairing Under the Weir,Dominating Rake,F1,Ruler L1 Low,B
+MV-ADV-SCI-007-08,Return Current Counter,Raging Flaretip,F1,Ruler L1 Low,B
+MV-ADV-SCI-007-09,Basin-Filling Pair of Cuts,Blaze Cantle,F2,Ruler L1 Low,B
+MV-ADV-SCI-007-10,Riverbed Pulling Hook,Fastening Saddleguard,F2,Ruler L1 Low,B
+MV-ADV-SCI-008-01,Azure-Clear Guard,Aegis Deepbelly,F2,Demigod L4 Low,B
+MV-ADV-SCI-008-02,First Line Cut,Lop Maelstrom,F3,Demigod L4 Low,B
+MV-ADV-SCI-008-03,Second Line Cut,Mightlip,F5,Demigod L4 Low,B
+MV-ADV-SCI-008-04,Linked Pivot Retreat,Gust Talwar,F2,Demigod L4 Low,B
+MV-ADV-SCI-008-05,Twin-Line Press Through,Carvetorment,F4,Demigod L4 Low,B
+MV-ADV-SCI-008-06,Held Line Scimitar Parry,Lipcloak,F4,Demigod L4 Low,B
+MV-ADV-SCI-008-07,Court of the Two Curved Edges,Rupturing Nova Carve,F6a,Demigod L4 Low,B
+MV-ADV-SCI-008-08,Cleared-Sky Pairing Wall,Aegis Flaretip,F2,Demigod L4 Low,B
+MV-ADV-SCI-009-01,Wind-Sworn Opening Guard,Iron Swellback,F2,Champion L2 Low,B
+MV-ADV-SCI-009-02,Taken Bearing Scimitar Cut,Might Lop,F2,Champion L2 Low,B
+MV-ADV-SCI-009-03,Scimitar Crosswind Sidestep,Silttalwar,F5,Champion L2 Low,B
+MV-ADV-SCI-009-04,Plateau-Edge Parry,Murkcantle,F5,Champion L2 Low,B
+MV-ADV-SCI-009-05,Oath-Held Backhand,Gustrake,F5,Champion L2 Low,B
+MV-ADV-SCI-009-06,Shallow Breath Advance,Hastening Arcwheel,F1,Champion L2 Low,B
+MV-ADV-SCI-009-07,Long Bearing Draw,Crescent Maelstrom,F3,Champion L2 Low,B
+MV-ADV-SCI-009-08,Windbreak Guard Turn,Liphauberk,F4,Champion L2 Low,B
+MV-ADV-SCI-009-09,Gust-Hooked Disarm,Cantlecloak,F4,Champion L2 Low,B
+MV-ADV-SCI-009-10,Counter-Bearing Cut,Harrowing Flowedge,F1,Champion L2 Low,B
+MV-ADV-SCI-009-11,Gale Along the Edge,Cleaving Arcwheel,F1,Champion L2 Low,B
+MV-ADV-SCI-009-12,Unwalled Ring of Wind,Unyielding Hoarfrost Saddleguard,F6a,Champion L2 Low,B
+MV-ADV-SCI-010-01,Plateau Standing Guard,Granite Crescent,F2,Demigod L2 Low,B
+MV-ADV-SCI-010-02,Bearing-Held Overcut,Sanguine Broadcurve,F2,Demigod L2 Low,B
+MV-ADV-SCI-010-03,Cliff-Edge Sidestep,Gust Whipcut,F2,Demigod L2 Low,B
+MV-ADV-SCI-010-04,Low Wind Hook Cut,Iron Cantle,F2,Demigod L2 Low,B
+MV-ADV-SCI-010-05,Beaten Bearing Parry,Immovable Swellback,F1,Demigod L2 Low,B
+MV-ADV-SCI-010-06,Fielded Edge Pull,Tempered Scimhilt,F2,Demigod L2 Low,B
+MV-ADV-SCI-010-07,Bearing-Set Hook Throw,Manacling Talwar,F1,Demigod L2 Low,B
+MV-ADV-SCI-010-08,Open Plateau Sweeping Cut,Transfixing Rake,F1,Demigod L2 Low,B
+MV-ADV-SCI-010-09,Long Bearing Guard,Hoarfrost Swellback,F2,Demigod L2 Low,B
+MV-ADV-SCI-011-01,Wall-Free Ready Stance,Cantleplating,F4,Champion L6 Mid,B
+MV-ADV-SCI-011-02,Oath of the Opening Cut,Blazelip,F5,Champion L6 Mid,B
+MV-ADV-SCI-011-03,Open-Ground Pivot,Torrent Lop,F2,Champion L6 Mid,B
+MV-ADV-SCI-011-04,Wind-Side Parry Slide,Hardened Flaretip,F1,Champion L6 Mid,B
+MV-ADV-SCI-011-05,Backhand Held to the Oath,Rupturing Deepbelly,F1,Champion L6 Mid,B
+MV-ADV-SCI-011-06,Unsheltered Counter Slash,Sanguine Whipcut,F2,Champion L6 Mid,B
+MV-ADV-SCI-011-07,Oath-Line Long Cut,Ironcarve,F5,Champion L6 Mid,B
+MV-ADV-SCI-011-08,Standing-Wind Catch,Thorn Crescent,F2,Champion L6 Mid,B
+MV-ADV-SCI-011-09,Rolling Hook of the Plateau,Thorncantle,F5,Champion L6 Mid,B
+MV-ADV-SCI-011-10,Cut That Needs No Wall,Rumble Cantle,F2,Champion L6 Mid,B
+MV-ADV-SCI-011-11,Open Edge Standing Guard,Unflinching Deepbelly,F1,Champion L6 Mid,B
+MV-ADV-SCI-012-01,Gale-Line Opening Guard,Annealed Flowedge,F1,Demigod L3 High,B
+MV-ADV-SCI-012-02,Gale-Assisted Overcut,Saddleguard Assault,F3,Demigod L3 High,B
+MV-ADV-SCI-012-03,Headwind Shortened Step,Carvepounce,F4,Demigod L3 High,B
+MV-ADV-SCI-012-04,Gale-Side Edge Check,Mayhemcarve,F5,Demigod L3 High,B
+MV-ADV-SCI-012-05,Tailwind Slash Through,Scoop Barrage,F3,Demigod L3 High,B
+MV-ADV-SCI-012-06,Gale-Tempered Parry,Gust Scimhilt,F2,Demigod L3 High,B
+MV-ADV-SCI-012-07,Bearing Hook Through the Squall,Thornrake,F5,Demigod L3 High,B
+MV-ADV-SCI-012-08,Gale-Line Draw Cut,Drubbing Broadcurve,F1,Demigod L3 High,B
+MV-ADV-SCI-012-09,Gale Held in the Curve,Granite Talwar,F2,Demigod L3 High,B
+MV-ADV-SCI-012-10,Sovereign Bearing Guard,Thorn Flowedge,F2,Demigod L3 High,B

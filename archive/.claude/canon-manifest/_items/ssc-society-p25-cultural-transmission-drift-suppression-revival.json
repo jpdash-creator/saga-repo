@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-society-p25-cultural-transmission-drift-suppression-revival",
+ "part": 25,
+ "area": 17,
+ "sequence_in_part": 17,
+ "title": "Cultural Transmission, Drift, Suppression, and Revival",
+ "domain": "society",
+ "source_file": "Part_25_People_Society_Culture_Social_Law.md",
+ "start_line": 785,
+ "end_line": 834,
+ "line_count": 50,
+ "output_path": ".claude/skills/ssc-society-p25-cultural-transmission-drift-suppression-revival/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-society-p21-foundational-principles",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultural law operates within civilization context"
+  },
+  {
+   "skill_id": "ssc-society-p21-five-civilization-axes",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultural law operates within civilization context"
+  },
+  {
+   "skill_id": "ssc-society-p21-composite-civilization-tier-civilization-tier-designations",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultural law operates within civilization context"
+  },
+  {
+   "skill_id": "ssc-society-p21-cct-synthesis-formula",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultural law operates within civilization context"
+  },
+  {
+   "skill_id": "ssc-society-p21-ctd-minimum-axis-thresholds",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultural law operates within civilization context"
+  },
+  {
+   "skill_id": "ssc-society-p21-civilization-type-taxonomy",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultural law operates within civilization context"
+  },
+  {
+   "skill_id": "ssc-society-p21-civilization-types-special-classifications",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultural law operates within civilization context"
+  },
+  {
+   "skill_id": "ssc-society-p21-ctd-ctd-civilizational-profiles",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultural law operates within civilization context"
+  },
+  {
+   "skill_id": "ssc-society-p21-civilization-advancement-mechanics",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultural law operates within civilization context"
+  },
+  {
+   "skill_id": "ssc-society-p21-civilization-interaction-laws",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultural law operates within civilization context"
+  }
+ ]
+}

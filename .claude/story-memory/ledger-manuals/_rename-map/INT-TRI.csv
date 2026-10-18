@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-TRI-001-01,Triple-Point Flurry Opening,Seizescorer,F4,Senior L3 Low,A
+MV-INT-TRI-001-02,Guard-Line Fork Withdrawal,Fleet Tridentshaft,F1,Senior L3 Low,A
+MV-INT-TRI-001-03,Haft Slip Block,Padded Forktine,F1,Senior L3 Low,A
+MV-INT-TRI-001-04,Neck-Grip Slide Thrust,Wild Sidetine,F1,Senior L3 Low,A
+MV-INT-TRI-001-05,Shifting Tine Cascade,Rugged Gaff,F1,Senior L1 Low,A
+MV-INT-TRI-001-06,Moving Fork Screen,Triplebarrier,F4,Senior L1 Low,A
+MV-INT-TRI-002-01,Counter-Thrust on the Draw,Forkscorer,F4,Senior L6 Mid,A
+MV-INT-TRI-002-02,Tine Bar Parry,Triplehasp,F4,Senior L6 Mid,A
+MV-INT-TRI-002-03,Backward Skip Reset,Slinking Gig,F1,Senior L6 Mid,A
+MV-INT-TRI-002-04,Haft Rap on the Wrist,Clutching Hookbarb,F1,Senior L6 Mid,A
+MV-INT-TRI-002-05,Low Fork Feint and Rise,Acrid Prongdrive,F1,Senior L6 Mid,A
+MV-INT-TRI-002-06,Fork-Lock Counter Turn,Burdening Seize,F1,Senior L1 Low,A
+MV-INT-TRI-002-07,Barbed Reply Under the Arm,Pinch Thwack,F3,Senior L1 Low,A
+MV-INT-TRI-003-01,Fisher's Dart Thrust,Bold Triplehead,F1,Senior L9 Low,A
+MV-INT-TRI-003-02,Fighter's Press Forward,Pinchcurl,F4,Senior L9 Low,A
+MV-INT-TRI-003-03,Waist-Level Float Guard,Stalwart Midtine,F1,Senior L9 Low,A
+MV-INT-TRI-003-04,Armor-Seam Prong Drive,Triplescorer,F4,Senior L9 Low,A
+MV-INT-TRI-003-05,Buckle-Strap Tine Flip,Clutching Triprong,F1,Senior L9 Low,A
+MV-INT-TRI-003-06,Rear-Foot Fork Circle,Triplehurdle,F4,Senior L9 Low,A
+MV-INT-TRI-003-07,Hauled-Fish Fling,Lurching Gig,F1,Senior L1 Low,A
+MV-INT-TRI-003-08,Shoulder-to-Shoulder Guard Switch,Trioscreen,F4,Senior L1 Low,A
+MV-INT-TRI-004-01,Barb Hitch Draw,Levering Forktine,F1,Warrior L1 Low,B
+MV-INT-TRI-004-02,Haft Whip Crack,Rude Prongroot,F1,Warrior L1 Low,B
+MV-INT-TRI-004-03,Grounded Butt Check,Rill Socketbase,F2,Warrior L1 Low,B
+MV-INT-TRI-004-04,Forearm Barb Rake,Rough Gaff,F1,Warrior L1 Low,B
+MV-INT-TRI-004-05,Haft-Slip Half Step,Pirouetting Fork,F1,Warrior L1 Low,B
+MV-INT-TRI-004-06,Edge-Hold Barb Guard,Guarding Triprong,F1,Warrior L1 Low,B
+MV-INT-TRI-004-07,Hip-Braced Hook Yank,Pinch Barrier,F3,Warrior L1 Low,B
+MV-INT-TRI-004-08,Double-Barb Shoulder Chop,Trioslap,F4,Warrior L1 Low,B
+MV-INT-TRI-004-09,Full-Circle Barb Sweep,Grim Barbtine,F1,Warrior L1 Low,B
+MV-INT-TRI-005-01,Fork Lock Setup,Splice Hookbarb,F2,Warrior L3 Mid,B
+MV-INT-TRI-005-02,Bound Weapon Drag,Viselike Fork,F1,Warrior L3 Mid,B
+MV-INT-TRI-005-03,Toe-Pin Jab,Splice Prongroot,F2,Warrior L3 Mid,B
+MV-INT-TRI-005-04,Cord Cut Snap,Brawn Tridentshaft,F2,Warrior L3 Mid,B
+MV-INT-TRI-005-05,Throat-Guard Fork Lean,Binding Socketbase,F1,Warrior L3 Mid,B
+MV-INT-TRI-005-06,Bound-Weapon Half Pivot,Brawnpinch,F5,Warrior L3 Mid,B
+MV-INT-TRI-005-07,Stretched-Arm Joint Jab,Ember Prongdrive,F2,Warrior L3 Mid,B
+MV-INT-TRI-005-08,Wrap-Hold-and-Throw,Entangling Sidetine,F1,Warrior L3 Mid,B
+MV-INT-TRI-005-09,Fallen-Cloth Tine Staking,Stampseize,F5,Warrior L3 Mid,B
+MV-INT-TRI-005-10,Reeled Weapon Snap,Humtrio,F5,Warrior L3 Mid,B
+MV-INT-TRI-006-01,Full-Extension Thrust,Claypinch,F5,Warrior L5 Low,B
+MV-INT-TRI-006-02,Recovery Slide Back,Grit Barbtine,F2,Warrior L5 Low,B
+MV-INT-TRI-006-03,Short Whip Parry,Draught Triplehead,F2,Warrior L5 Low,B
+MV-INT-TRI-006-04,Reach-Gauge Bait Step,Brawngaff,F5,Warrior L5 Low,B
+MV-INT-TRI-006-05,Pole-Length Clearing Sweep,Resolute Sidetine,F1,Warrior L5 Low,B
+MV-INT-TRI-006-06,Extended Backhand Stab,Comet Gig,F2,Warrior L5 Low,B
+MV-INT-TRI-006-07,One-Beat Guard Rebuild,Armored Forktine,F1,Warrior L5 Low,B
+MV-INT-TRI-007-01,Collar-Hook Draw-In,Clutching Midtine,F1,Warrior L7 High,B
+MV-INT-TRI-007-02,Shield-Rim Barb Pull,Static Tridentshaft,F2,Warrior L7 High,B
+MV-INT-TRI-007-03,Barbed Tine Ankle Hook,Rushing Triplehead,F1,Warrior L7 High,B
+MV-INT-TRI-007-04,Crook-Step Approach,Rill Seize,F2,Warrior L7 High,B
+MV-INT-TRI-007-05,Hook-Brace Haft Parry,Barbtine Carapace,F3,Warrior L7 High,B
+MV-INT-TRI-007-06,Barb Rip on the Withdraw,Emberpinch,F5,Warrior L7 High,B
+MV-INT-TRI-007-07,Guard-Hook Weapon Wrench,Gaffhasp,F4,Warrior L7 High,B
+MV-INT-TRI-007-08,Post-Anchored Haul,Splice Socketbase,F2,Warrior L7 High,B
+MV-INT-TRI-008-01,Midpoint Hold,Claytrident,F5,Warrior L9 Peak,B
+MV-INT-TRI-008-02,Elbow-Level Fork Swing,Honed Fork,F2,Warrior L9 Peak,B
+MV-INT-TRI-008-03,Midpoint Pivot Step,Ducking Pinch,F1,Warrior L9 Peak,B
+MV-INT-TRI-008-04,Double-End Jab Reversal,Cruel Seize,F1,Warrior L9 Peak,B
+MV-INT-TRI-008-05,Whirling Midpoint Screen,Rill Triprong,F2,Warrior L9 Peak,B
+MV-INT-TRI-008-06,Hand-Over-Hand Reach Shift,Blankgig,F5,Warrior L9 Peak,B

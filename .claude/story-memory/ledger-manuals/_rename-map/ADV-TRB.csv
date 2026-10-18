@@ -1,0 +1,100 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-TRB-001-01,Arm Reach Cord Measure,Verity Ballast,F2,Champion L1 Low,B
+MV-ADV-TRB-001-02,Axle Tallow Spin Test,Vitaltackle,F5,Champion L1 Low,B
+MV-ADV-TRB-001-03,Hung Sling Balance Weighing,Remnant Shortarm,F2,Champion L1 Low,B
+MV-ADV-TRB-001-04,Front to Back Ballast Packing,Restoring Hangcradle,F1,Champion L1 Low,B
+MV-ADV-TRB-001-05,Whole-Body Winch Surge,Intent Releasehook,F2,Champion L1 Low,B
+MV-ADV-TRB-001-06,Crest Peak Pin Release,Splitting Whiplash,F1,Champion L1 Low,B
+MV-ADV-TRB-001-07,Full Extension Throw,Slingpouch Maelstrom,F3,Champion L1 Low,B
+MV-ADV-TRB-001-08,Qi Lent Arm Whip,Counterswing Barrage,F3,Champion L1 Low,B
+MV-ADV-TRB-001-09,Far Reach Scatter Cast,Slag Tackle,F2,Champion L1 Low,B
+MV-ADV-TRB-002-01,Barrage Crew Relay Roster,Mightpulley,F5,Demigod L1 Low,B
+MV-ADV-TRB-002-02,Forward Shot Staging,Perceptive Pullrope,F1,Demigod L1 Low,B
+MV-ADV-TRB-002-03,Spare Pin Single Motion Swap,Fulcrum Linctus,F3,Demigod L1 Low,B
+MV-ADV-TRB-002-04,Hot Cable Palm Check,Waningarm,F5,Demigod L1 Low,B
+MV-ADV-TRB-002-05,Winch Beat Breath Matching,Mighttackle,F5,Demigod L1 Low,B
+MV-ADV-TRB-002-06,Rolling Reload Haul,Discerning Rigging,F1,Demigod L1 Low,B
+MV-ADV-TRB-002-07,Single Notch Range Carry,Waning Pullrope,F2,Demigod L1 Low,B
+MV-ADV-TRB-002-08,Pace Held Release,Swing Maelstrom,F3,Demigod L1 Low,B
+MV-ADV-TRB-002-09,Unbroken Stone Cascade,Transfixing Shortarm,F1,Demigod L1 Low,B
+MV-ADV-TRB-002-10,Hammering the Same Seam,Nova Heaveoff,F2,Demigod L1 Low,B
+MV-ADV-TRB-003-01,Rampart Foot Surveying,Waning Tackle,F2,Champion L4 Mid,B
+MV-ADV-TRB-003-02,Winning Notch Marking,Sustaining Longarm,F1,Champion L4 Mid,B
+MV-ADV-TRB-003-03,Heaviest Bearable Shot Choosing,Daybreak Releasehook,F2,Champion L4 Mid,B
+MV-ADV-TRB-003-04,Impact Plume Reading,Remnant Rigging,F2,Champion L4 Mid,B
+MV-ADV-TRB-003-05,Same Course Hammering,Ballast Onslaught,F3,Champion L4 Mid,B
+MV-ADV-TRB-003-06,Parapet Crown Raking,Intent Fulcrum,F2,Champion L4 Mid,B
+MV-ADV-TRB-003-07,Cracked Joint Qi Wedge,Hollow Letgo,F2,Champion L4 Mid,B
+MV-ADV-TRB-003-08,Ward Cracking Stone Fall,Splitting Overthrow,F1,Champion L4 Mid,B
+MV-ADV-TRB-004-01,Battery Line Spacing,Vital Longarm,F2,Demigod L2 Mid,B
+MV-ADV-TRB-004-02,Painted Pole Center Marking,Hangcradle Tincture,F3,Demigod L2 Mid,B
+MV-ADV-TRB-004-03,Engine Number Calling,Daybreak Slingpouch,F2,Demigod L2 Mid,B
+MV-ADV-TRB-004-04,Chalked Range Board,Waningpulley,F5,Demigod L2 Mid,B
+MV-ADV-TRB-004-05,Spare Sling Racking,Equipoise Tackle,F2,Demigod L2 Mid,B
+MV-ADV-TRB-004-06,Neighbour Fall Watching,Waning Rigging,F2,Demigod L2 Mid,B
+MV-ADV-TRB-004-07,Alternating Engine Release,Swingbarrage,F4,Demigod L2 Mid,B
+MV-ADV-TRB-004-08,Shared Patch Correction,Perceptive Hangcradle,F1,Demigod L2 Mid,B
+MV-ADV-TRB-004-09,Misfire Relay Cover,Vital Fulcrum,F2,Demigod L2 Mid,B
+MV-ADV-TRB-004-10,Battery Hammer Chorus,Mayhemswing,F5,Demigod L2 Mid,B
+MV-ADV-TRB-004-11,Fall Line Walking Barrage,Furrowing Counterswing,F1,Demigod L2 Mid,B
+MV-ADV-TRB-005-01,Twin Engine Sighting Stake,Chimearm,F5,Champion L2 Low,B
+MV-ADV-TRB-005-02,Paired Sill Rake Matching,Vital Slingpouch,F2,Champion L2 Low,B
+MV-ADV-TRB-005-03,Dual Track Shared Count,Might Pullrope,F2,Champion L2 Low,B
+MV-ADV-TRB-005-04,Sister Engine Hand Sign,Heartening Ballast,F1,Champion L2 Low,B
+MV-ADV-TRB-005-05,Azure Cloth Range Flag,Chime Slingpouch,F2,Champion L2 Low,B
+MV-ADV-TRB-005-06,Twin Fall Reading,Chimepulley,F5,Champion L2 Low,B
+MV-ADV-TRB-005-07,Paired Release Echo,Tearing Swing,F1,Champion L2 Low,B
+MV-ADV-TRB-005-08,Mirror Arc Crossing,Gust Whiplash,F2,Champion L2 Low,B
+MV-ADV-TRB-005-09,Twin Stone Pincer,Shortarm Maelstrom,F3,Champion L2 Low,B
+MV-ADV-TRB-005-10,Sister Engine Cover Fire,Raging Longarm,F1,Champion L2 Low,B
+MV-ADV-TRB-006-01,Hawk Sight Cord Marking,Verity Rigging,F2,Demigod L4 Low,B
+MV-ADV-TRB-006-02,Azure Vault Sky Reading,Perceptive Shortarm,F1,Demigod L4 Low,B
+MV-ADV-TRB-006-03,Fall Line Plumb Setting,Heartening Tackle,F1,Demigod L4 Low,B
+MV-ADV-TRB-006-04,High Notch Winding,Pulleyelixir,F4,Demigod L4 Low,B
+MV-ADV-TRB-006-05,Steep Ballast Trimming,Invigorating Pullrope,F1,Demigod L4 Low,B
+MV-ADV-TRB-006-06,Basin Echo Listening,Veritypulley,F5,Demigod L4 Low,B
+MV-ADV-TRB-006-07,Plunging Stone Release,Gust Counterswing,F2,Demigod L4 Low,B
+MV-ADV-TRB-006-08,Hawk Stoop Drop,Rumble Letgo,F2,Demigod L4 Low,B
+MV-ADV-TRB-006-09,Dual Track Stone Pairing,Rumble Rigging,F2,Demigod L4 Low,B
+MV-ADV-TRB-006-10,River Mist Landing Read,Fulcrum Elixir,F3,Demigod L4 Low,B
+MV-ADV-TRB-006-11,Azure Fall Pinning Stone,Hollowswing,F5,Demigod L4 Low,B
+MV-ADV-TRB-006-12,Ring of Falling Stone,Quelling Shortarm,F1,Demigod L4 Low,B
+MV-ADV-TRB-007-01,Basin Shore Engine Siting,Might Longarm,F2,Champion L6 Mid,B
+MV-ADV-TRB-007-02,River Bed Distance Sighting,Tacklelinctus,F4,Champion L6 Mid,B
+MV-ADV-TRB-007-03,Dual Track Flag Beat,Fortifying Hangcradle,F1,Champion L6 Mid,B
+MV-ADV-TRB-007-04,Shore Mud Plank Laying,Perceptive Fulcrum,F1,Champion L6 Mid,B
+MV-ADV-TRB-007-05,Ranked Engine Volley,Nova Counterswing,F2,Champion L6 Mid,B
+MV-ADV-TRB-007-06,Cross River Shot Lifting,Ballast Assault,F3,Champion L6 Mid,B
+MV-ADV-TRB-007-07,Paired Rank Fall Walking,Ponderous Heaveoff,F2,Champion L6 Mid,B
+MV-ADV-TRB-007-08,River Bend Stone Sweep,Siltpulley,F5,Champion L6 Mid,B
+MV-ADV-TRB-007-09,Basin Wide Pincer Fall,Swingthrash,F4,Champion L6 Mid,B
+MV-ADV-TRB-008-01,Oath Word Crew Binding,Armelixir,F4,Demigod L3 Mid,B
+MV-ADV-TRB-008-02,Wind Banner Bearing Take,Chime Ballast,F2,Demigod L3 Mid,B
+MV-ADV-TRB-008-03,Gale Reading Palm,Tackleremedy,F4,Demigod L3 Mid,B
+MV-ADV-TRB-008-04,Plateau Rock Footing,Mindful Hangcradle,F1,Demigod L3 Mid,B
+MV-ADV-TRB-008-05,Wind-Sworn Sling Trim,Vital Pullrope,F2,Demigod L3 Mid,B
+MV-ADV-TRB-008-06,Horizon Line Eye Fix,Vigorous Releasehook,F1,Demigod L3 Mid,B
+MV-ADV-TRB-008-07,Oath Word Release,Blaze Overthrow,F2,Demigod L3 Mid,B
+MV-ADV-TRB-008-08,Gust Crossed Bearing Throw,Ravaging Whiplash,F1,Demigod L3 Mid,B
+MV-ADV-TRB-008-09,Gale Leaning Lob,Hoarfrost Heaveoff,F2,Demigod L3 Mid,B
+MV-ADV-TRB-008-10,Wind-Sworn Gale Barrage,Grinding Whiplash,F1,Demigod L3 Mid,B
+MV-ADV-TRB-008-11,Stone Riding the Gust,Iron Swing,F2,Demigod L3 Mid,B
+MV-ADV-TRB-009-01,Plateau Edge Siting,Mightarm,F5,Champion L5 Low,B
+MV-ADV-TRB-009-02,Open Ground Bearing Marks,Perceptive Tackle,F1,Champion L5 Low,B
+MV-ADV-TRB-009-03,Rock Pin Sill Anchoring,Ballast Elixir,F3,Champion L5 Low,B
+MV-ADV-TRB-009-04,Edge Wind Shear Reading,Remnant Longarm,F2,Champion L5 Low,B
+MV-ADV-TRB-009-05,Open Sky Crew Spacing,Armremedy,F4,Champion L5 Low,B
+MV-ADV-TRB-009-06,Edge Dropping Throw,Facet Hangcradle,F2,Champion L5 Low,B
+MV-ADV-TRB-009-07,Bearing Shifted Second Stone,Hoarfrost Releasehook,F2,Champion L5 Low,B
+MV-ADV-TRB-009-08,Slope Rolling Cast,Unmaking Counterswing,F1,Champion L5 Low,B
+MV-ADV-TRB-009-09,Edge Crossing Stone Rain,Lambasting Whiplash Onslaught,F6b,Champion L5 Low,B
+MV-ADV-TRB-009-10,Lone Engine Bearing Hold,Ponderous Overthrow,F2,Champion L5 Low,B
+MV-ADV-TRB-010-01,Oath Count Haul Rope,Vitalarm,F5,Demigod L5 Low,B
+MV-ADV-TRB-010-02,Gale Braced Heel Stance,Tackleelixir,F4,Demigod L5 Low,B
+MV-ADV-TRB-010-03,Rope Bearing Line Check,Remnant Slingpouch,F2,Demigod L5 Low,B
+MV-ADV-TRB-010-04,Gust Paused Team Rest,Intenttackle,F5,Demigod L5 Low,B
+MV-ADV-TRB-010-05,Long Pull Oath Release,Rumblepulley,F5,Demigod L5 Low,B
+MV-ADV-TRB-010-06,Gale Back Rope Hold,Discerning Releasehook,F1,Demigod L5 Low,B
+MV-ADV-TRB-010-07,Whole-Team Pull Throw,Swingassault,F4,Demigod L5 Low,B
+MV-ADV-TRB-010-08,Oath Held Beam Brace,Implacable Slingpouch,F1,Demigod L5 Low,B
+MV-ADV-TRB-003-07,Hollow Letgo,Heavy Letgo,F2,Champion L4 Mid,B

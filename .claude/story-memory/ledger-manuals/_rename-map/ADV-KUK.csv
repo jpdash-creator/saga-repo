@@ -1,0 +1,99 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-KUK-001-01,Helm Crown Chop,Inwardcurve Onslaught,F3,Champion,B
+MV-ADV-KUK-001-02,Gorget Gap Hack,Needling Gash,F1,Champion,B
+MV-ADV-KUK-001-03,Plate Edge Slide Guard,Chime Kinkspine,F2,Champion,B
+MV-ADV-KUK-001-04,Weight Forward Shuffle,Might Forwardbelly,F2,Champion,B
+MV-ADV-KUK-001-05,Rivet Line Reading,Waistlinctus,F4,Champion,B
+MV-ADV-KUK-001-06,Seam-Splitting Heel Chop,Gashtorment,F4,Champion,B
+MV-ADV-KUK-001-07,Dented Shell Follow-Up,Scalding Heavytip,F1,Champion,B
+MV-ADV-KUK-001-08,Armored Elbow Hook Drag,Cho Greave,F3,Champion,B
+MV-ADV-KUK-001-09,Breastplate Splitting Hew,Rumble Bulgeedge,F2,Champion,B
+MV-ADV-KUK-001-10,Shell-Peeling Cross Cut,Ironkink,F5,Champion,B
+MV-ADV-KUK-002-01,Field-Edge Pendulum Hew,Rumble Pommelcap,F2,Demigod,B
+MV-ADV-KUK-002-02,Field-Held Spine Guard,Chohauberk,F4,Demigod,B
+MV-ADV-KUK-002-03,Field-Skimming Advance,Gust Notch,F2,Demigod,B
+MV-ADV-KUK-002-04,Field Belly Reading,Hookbelly Remedy,F3,Demigod,B
+MV-ADV-KUK-002-05,Run-On Hacking Rhythm,Sanguine Horntang,F2,Demigod,B
+MV-ADV-KUK-002-06,Field Recoil Backcut,Iron Chip,F2,Demigod,B
+MV-ADV-KUK-002-07,Long-Pour Pressure Cut,Cleaving Chopmass,F1,Demigod,B
+MV-ADV-KUK-002-08,Fed Edge Bursting Chop,Rumble Horntang,F2,Demigod,B
+MV-ADV-KUK-002-09,Surround Field Hewing Wheel,Mayhemwhump,F5,Demigod,B
+MV-ADV-KUK-003-01,Notch Seat Counter Chop,Rumblenotch,F5,Champion,B
+MV-ADV-KUK-003-02,Notch Lift Parry,Gust Heavytip,F2,Champion,B
+MV-ADV-KUK-003-03,Counter Pivot Slip,Gashpounce,F4,Champion,B
+MV-ADV-KUK-003-04,Handle Wedge Jam,Toxinwaist,F5,Champion,B
+MV-ADV-KUK-003-05,Caught Blade Tremor Sense,Waningwaist,F5,Champion,B
+MV-ADV-KUK-003-06,Notch Return of Force,Chocloak,F4,Champion,B
+MV-ADV-KUK-003-07,Bite-and-Hold Notch Seal,Staggering Lopstroke,F1,Champion,B
+MV-ADV-KUK-003-08,Notch Wrench Throw,Waistcuirass,F4,Champion,B
+MV-ADV-KUK-003-09,Counter Edge Bite Cut,Might Whump,F2,Champion,B
+MV-ADV-KUK-003-10,Great Blade Notch Break,Facet Chip,F2,Champion,B
+MV-ADV-KUK-003-11,Reverse Hold Redirect Chop,Annealed Kinkspine,F1,Champion,B
+MV-ADV-KUK-004-01,Heavy Curve Wide Swing,Might Chopmass,F2,Demigod,B
+MV-ADV-KUK-004-02,Overhead Arc Cover,Hoarfrost Bulgeedge,F2,Demigod,B
+MV-ADV-KUK-004-03,Circling Foot Arc,Torrent Inwardcurve,F2,Demigod,B
+MV-ADV-KUK-004-04,Curve Tip Sensing,Veritywaist,F5,Demigod,B
+MV-ADV-KUK-004-05,Bent Arc Around the Guard,Gust Pommelcap,F2,Demigod,B
+MV-ADV-KUK-004-06,Hooking Wide Counter Arc,Mayhem Hookbelly,F2,Demigod,B
+MV-ADV-KUK-004-07,Full Curve Reaping Sweep,Gash Assault,F3,Demigod,B
+MV-ADV-KUK-004-08,Arc-Within-Arc Closing Cut,Sanguine Slash,F2,Demigod,B
+MV-ADV-KUK-005-01,Paired Belly Scissor,Rumblechip,F5,Champion,B
+MV-ADV-KUK-005-02,Twin Spine Cross Guard,Charter Bulgeedge,F2,Champion,B
+MV-ADV-KUK-005-03,Matched Stride Advance,Cho Canter,F3,Champion,B
+MV-ADV-KUK-005-04,Mirror Wrist Roll,Iron Notch,F2,Champion,B
+MV-ADV-KUK-005-05,Off-Hand Hook Cover,Thornwaist,F5,Champion,B
+MV-ADV-KUK-005-06,Dual Blade Distance Sense,Verity Forwardbelly,F2,Champion,B
+MV-ADV-KUK-005-07,Basin Track Double Chop,Gust Slash,F2,Champion,B
+MV-ADV-KUK-005-08,Twin-Pincer Wrist Catch,Hoarfrost Horntang,F2,Champion,B
+MV-ADV-KUK-005-09,Alternating River Cut,Lancing Whump,F1,Champion,B
+MV-ADV-KUK-005-10,Paired Counter Wing,Murk Inwardcurve,F2,Champion,B
+MV-ADV-KUK-005-11,Twin Arc Closing Hew,Skinning Gash,F1,Champion,B
+MV-ADV-KUK-005-12,Dual-Track Crossing Sweep,Blaze Kinkspine,F2,Champion,B
+MV-ADV-KUK-006-01,Stooping Hawk Drop,Granite Chip,F2,Demigod,B
+MV-ADV-KUK-006-02,Wing-Flare Cover,Chime Forwardbelly,F2,Demigod,B
+MV-ADV-KUK-006-03,Rising Talon Hook,Blaze Lopstroke,F2,Demigod,B
+MV-ADV-KUK-006-04,Perch and Pounce Step,Hastening Cho,F1,Demigod,B
+MV-ADV-KUK-006-05,High Perch Watching,Remnant Pommelcap,F2,Demigod,B
+MV-ADV-KUK-006-06,Dive Line Qi Drop,Tearing Notch,F1,Demigod,B
+MV-ADV-KUK-006-07,Talon Snatch Pull,Gyve Chopmass,F2,Demigod,B
+MV-ADV-KUK-006-08,Updraft Escape Hop,Gust Whump,F2,Demigod,B
+MV-ADV-KUK-006-09,Skyfall Hawk Chop,Cleaving Hookbelly,F1,Demigod,B
+MV-ADV-KUK-006-10,Circling Hawk Pressure,Grinding Horntang,F1,Demigod,B
+MV-ADV-KUK-007-01,River-Bend Belly Swing,Might Lopstroke,F2,Demigod,B
+MV-ADV-KUK-007-02,Eddy Spine Turn,Kinkplating,F4,Demigod,B
+MV-ADV-KUK-007-03,Stream-Bank Step,Slash Sprint,F3,Demigod,B
+MV-ADV-KUK-007-04,Current Reading,Forwardbelly Remedy,F3,Demigod,B
+MV-ADV-KUK-007-05,Winding Channel Cut,Rumblewaist,F5,Demigod,B
+MV-ADV-KUK-007-06,Undercurrent Hook Drag,Rumble Heavytip,F2,Demigod,B
+MV-ADV-KUK-007-07,Whirlpool Closing Draw,Gyve Bulgeedge,F2,Demigod,B
+MV-ADV-KUK-007-08,Flood Surge Chop,Rumblecho,F5,Demigod,B
+MV-ADV-KUK-007-09,Delta Spreading Cuts,Dismantling Chopmass,F2,Demigod,B
+MV-ADV-KUK-008-01,Plateau Downward Hew,Sanguine Notch,F2,Champion,B
+MV-ADV-KUK-008-02,Open Ground Heel Chop,Granite Hookbelly,F2,Champion,B
+MV-ADV-KUK-008-03,Sworn Belly Stance Brace,Thornkink,F5,Champion,B
+MV-ADV-KUK-008-04,Wind-Facing Step,Silt Heavytip,F2,Champion,B
+MV-ADV-KUK-008-05,Hard Handle Shoulder Shove,Rumble Gash,F2,Champion,B
+MV-ADV-KUK-008-06,Wind Direction Reading,Choremedy,F4,Champion,B
+MV-ADV-KUK-008-07,Sworn Weight Bearing Chop,Iron Cho,F2,Champion,B
+MV-ADV-KUK-008-08,Gale Edge Backhand,Harpooning Slash,F1,Champion,B
+MV-ADV-KUK-008-09,Unmoved Oath Guard,Facetkink,F5,Champion,B
+MV-ADV-KUK-008-10,Plateau Crushing Hew,Unmaking Pommelcap,F1,Champion,B
+MV-ADV-KUK-008-11,Sweeping Horizon Cut,Blaze Inwardcurve,F2,Champion,B
+MV-ADV-KUK-009-01,Fixed Bearing Chop,Skinning Whump,F1,Demigod,B
+MV-ADV-KUK-009-02,Bearing Turn Backcut,Kinktorment,F4,Demigod,B
+MV-ADV-KUK-009-03,Compass Step Shift,Vaulting Lopstroke,F1,Demigod,B
+MV-ADV-KUK-009-04,Held Line Guard,Unshaken Pommelcap,F1,Demigod,B
+MV-ADV-KUK-009-05,Wind Mark Sensing,Verity Kinkspine,F2,Demigod,B
+MV-ADV-KUK-009-06,Bearing-Locked Hew,Granite Slash,F2,Demigod,B
+MV-ADV-KUK-009-07,Cross-Bearing Double Cut,Blazegash,F5,Demigod,B
+MV-ADV-KUK-009-08,Course-Correcting Slip,Kinkcanter,F4,Demigod,B
+MV-ADV-KUK-009-09,Longest Bearing Strike,Splitting Chip,F1,Demigod,B
+MV-ADV-KUK-009-10,Bearing Net Pressure,Mayhem Heavytip,F2,Demigod,B
+MV-ADV-KUK-010-01,Breath Draw Slash,Trouncing Notch,F1,Ruler,B
+MV-ADV-KUK-010-02,Open Sheath Parry,Murk Horntang,F2,Ruler,B
+MV-ADV-KUK-010-03,Gust Entry Step,Blurring Whump,F1,Ruler,B
+MV-ADV-KUK-010-04,Draw Hand Reading,Remnant Cho,F2,Ruler,B
+MV-ADV-KUK-010-05,Breath-Borne Second Cut,Slashtorment,F4,Ruler,B
+MV-ADV-KUK-010-06,Wind-Cleared Path Step,Hastening Bulgeedge,F1,Ruler,B
+MV-ADV-KUK-010-07,Wind-Sworn Flash Draw,Harrowing Granite Gash,F6a,Ruler,B
+MV-ADV-KUK-010-08,Back-to-Sheath Closing Chop,Transfixing Chip,F1,Ruler,B

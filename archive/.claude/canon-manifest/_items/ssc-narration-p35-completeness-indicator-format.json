@@ -1,0 +1,15 @@
+{
+ "skill_id": "ssc-narration-p35-completeness-indicator-format",
+ "part": 35,
+ "area": 4,
+ "sequence_in_part": 4,
+ "title": "Completeness Indicator Format",
+ "domain": "narration",
+ "source_file": "Part_35_Content_Density_Law_CDL2.md",
+ "start_line": 325,
+ "end_line": 441,
+ "line_count": 117,
+ "output_path": ".claude/skills/ssc-narration-p35-completeness-indicator-format/SKILL.md",
+ "has_stale_python_block": false,
+ "related": []
+}

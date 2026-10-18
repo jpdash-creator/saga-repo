@@ -1,0 +1,75 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-HAL-001-01,Carrying Haft Stance,Haft Review,F3,T1 Unawakened,A
+MV-BAS-HAL-001-02,Shoulder Axe Drop,Leaden Axefall,F1,T1 Unawakened,A
+MV-BAS-HAL-001-03,Spike Line Thrust,Drag Bump,F3,T1 Unawakened,A
+MV-BAS-HAL-001-04,Crossed Haft Catch,Holding Axeblade,F1,T1 Unawakened,A
+MV-BAS-HAL-001-05,Backstep Haft Reset,Backward Socketring,F1,T1 Unawakened,A
+MV-BAS-HAL-001-06,Low Beak Ankle Hook,Langetlid,F4,T1 Unawakened,A
+MV-BAS-HAL-002-01,Two-Hand Halberd Grip,Tailstop Note,F3,T1 Skin,A
+MV-BAS-HAL-002-02,Rising Axe Cut,Gnawing Hookpull,F1,T1 Skin,A
+MV-BAS-HAL-002-03,Short Spike Jab,Descending Spikefall,F1,T1 Skin,A
+MV-BAS-HAL-002-04,Heel Spike Rap,Beakstrike,F4,T1 Skin,A
+MV-BAS-HAL-002-05,Sidestep Haft Turn,Snatchskitter,F4,T1 Skin,A
+MV-BAS-HAL-003-01,Wide Base Haft Hold,Warm Hookback,F1,T1 Muscle,A
+MV-BAS-HAL-003-02,Gliding Pace Advance,Easing Beak,F1,T1 Muscle,A
+MV-BAS-HAL-003-03,Pivoting Axe Sweep,Langetdrop,F4,T1 Muscle,A
+MV-BAS-HAL-003-04,Cornering Spike Lunge,Haftbump,F4,T1 Muscle,A
+MV-BAS-HAL-003-05,Hooked Beak Pull,Hitching Heave,F1,T1 Muscle,A
+MV-BAS-HAL-003-06,Retreating Haft Parry,Ready Spike,F1,T1 Muscle,A
+MV-BAS-HAL-003-07,Circling Pole Pace,Sideways Axeheel,F1,T1 Muscle,A
+MV-BAS-HAL-004-01,Rear-Hand Slide Grip,Gentle Langet,F1,T1 Tendon,A
+MV-BAS-HAL-004-02,Choked Halberd Hold,Kind Spike,F1,T1 Tendon,A
+MV-BAS-HAL-004-03,Downward Cleave Drill,Quick Crownspike,F1,T1 Tendon,A
+MV-BAS-HAL-004-04,Diagonal Axe Slice,Beakdrop,F4,T1 Tendon,A
+MV-BAS-HAL-004-05,Straight Thrust Drill,Straight Snatch,F1,T1 Tendon,A
+MV-BAS-HAL-004-06,Beak Wrist Drag,Fouling Hookback,F1,T1 Tendon,A
+MV-BAS-HAL-004-07,Haft Rise Block,Axeblade Wedge,F3,T1 Tendon,A
+MV-BAS-HAL-004-08,Heel Plant Withdrawal,Sideways Haft,F1,T1 Tendon,A
+MV-BAS-HAL-005-01,Long Reach Halberd Guard,Kept Crownspike,F1,T1 Bone,A
+MV-BAS-HAL-005-02,Blade Arc Cut,Snatchdash,F4,T1 Bone,A
+MV-BAS-HAL-005-03,Far Spike Stab,Gnawing Drag,F1,T1 Bone,A
+MV-BAS-HAL-005-04,Hook-Back Shin Tap,Draghusk,F4,T1 Bone,A
+MV-BAS-HAL-005-05,Shaft Spin Parry,Beak Wedge,F3,T1 Bone,A
+MV-BAS-HAL-006-01,Pole Carry Posture,Socketring Count,F3,T1 Skin,A
+MV-BAS-HAL-006-02,Spike Point Poke,Leaden Spikefall,F1,T1 Skin,A
+MV-BAS-HAL-006-03,Wide Axe Hack,Beakhit,F4,T1 Skin,A
+MV-BAS-HAL-006-04,Haft Shove Push,Low Tailstop,F1,T1 Skin,A
+MV-BAS-HAL-006-05,Long Pole Guard,Planted Axeheel,F1,T1 Skin,A
+MV-BAS-HAL-006-06,Quick Withdraw Slide,Heavetrot,F4,T1 Skin,A
+MV-BAS-HAL-007-01,Breath-Set Haft Stance,Mild Tailstop,F1,Senior L1 Low,A
+MV-BAS-HAL-007-02,Breath-Timed Beak Tug,Tripping Langet,F1,Senior L1 Low,A
+MV-BAS-HAL-007-03,Breathing Axe Cleave,Level Axefall,F1,Senior L1 Low,A
+MV-BAS-HAL-007-04,Steady Spike Thrust,Gnawing Snatch,F1,Senior L1 Low,A
+MV-BAS-HAL-007-05,Beak Catch Parry,Resting Beak,F1,Senior L1 Low,A
+MV-BAS-HAL-007-06,Light Heel Hop,Easing Hookpull,F1,Senior L1 Low,A
+MV-BAS-HAL-007-07,Qi-Edged Axe Draw,Descending Axefall,F1,Senior L1 Low,A
+MV-BAS-HAL-008-01,Shaft Alignment Hold,Warm Langet,F1,Senior L2 Low,A
+MV-BAS-HAL-008-02,Level Haft Strike,Heavestrike,F4,Senior L2 Low,A
+MV-BAS-HAL-008-03,Haft Spear Prick,Downward Spike,F1,Senior L2 Low,A
+MV-BAS-HAL-008-04,Haft Screen Guard,Settled Haft,F1,Senior L2 Low,A
+MV-BAS-HAL-008-05,Sidestep Axe Cut,Descending Drag,F1,Senior L2 Low,A
+MV-BAS-HAL-009-01,High Halberd Guard,Lowered Socketring,F1,Senior L1 Mid,A
+MV-BAS-HAL-009-02,Low Halberd Guard,Axeblade Husk,F3,Senior L1 Mid,A
+MV-BAS-HAL-009-03,Return Axe Slash,Haftblow,F4,Senior L1 Mid,A
+MV-BAS-HAL-009-04,Return Spike Stab,Heavedrop,F4,Senior L1 Mid,A
+MV-BAS-HAL-009-05,Parry Turn Beak Snag,Tripping Axeheel,F1,Senior L1 Mid,A
+MV-BAS-HAL-009-06,Guard-Step Retreat,Dragskitter,F4,Senior L1 Mid,A
+MV-BAS-HAL-010-01,Quickened Haft Grip,Measured Crownspike,F1,Senior L3 Low,A
+MV-BAS-HAL-010-02,Snap Axe Chop,Langetblow,F4,Senior L3 Low,A
+MV-BAS-HAL-010-03,Snap Spike Jab,Snatchdrop,F4,Senior L3 Low,A
+MV-BAS-HAL-010-04,Quick Beak Flick,Snatchlid,F4,Senior L3 Low,A
+MV-BAS-HAL-010-05,Rolling Haft Deflection,Kept Hookback,F1,Senior L3 Low,A
+MV-BAS-HAL-010-06,Hurried Pole Sidestep,Light Hookpull,F1,Senior L3 Low,A
+MV-BAS-HAL-010-07,Rapid Double Jab,Straight Spikefall,F1,Senior L3 Low,A
+MV-BAS-HAL-010-08,Quick Haft Sweep,Langetdash,F4,Senior L3 Low,A
+MV-BAS-HAL-011-01,Hook-and-Spike Hold,Crownspike Count,F3,Senior L1 Peak,A
+MV-BAS-HAL-011-02,Hook Pull Trip,Heavelid,F4,Senior L1 Peak,A
+MV-BAS-HAL-011-03,Spike After Hook Thrust,Heaveblow,F4,Senior L1 Peak,A
+MV-BAS-HAL-011-04,Beak Rim Catch,Turning Socketring,F1,Senior L1 Peak,A
+MV-BAS-HAL-011-05,Hooked Haft Guard,Angled Axeblade,F1,Senior L1 Peak,A
+MV-BAS-HAL-011-06,Beak Release Backstep,Quiet Heave,F1,Senior L1 Peak,A
+MV-BAS-HAL-012-01,Measured Reach Hold,Beak Note,F3,Senior L4 Low,A
+MV-BAS-HAL-012-02,Rhythmic Axe Fall,Beakbump,F4,Senior L4 Low,A
+MV-BAS-HAL-012-03,Rhythm Spike Pair,Sharp Snatch,F1,Senior L4 Low,A
+MV-BAS-HAL-012-04,Rhythm Haft Slip Guard,Solid Langet,F1,Senior L4 Low,A
+MV-BAS-HAL-012-05,Reach Break Step,Langetskitter,F4,Senior L4 Low,A

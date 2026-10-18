@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-SLG-001-01,Loop-Over-Finger Set,Warm Leadshot,F1,T1 Unawakened,A
+MV-BAS-SLG-001-02,Slow Overhead Whirl,Square Wristhitch,F1,T1 Unawakened,A
+MV-BAS-SLG-001-03,Open-Fingers Release,Cradlebump,F4,T1 Unawakened,A
+MV-BAS-SLG-001-04,Low Underhand Toss,Slingdash,F4,T1 Unawakened,A
+MV-BAS-SLG-001-05,Cord-Crack Startle,Fixing Slung,F1,T1 Unawakened,A
+MV-BAS-SLG-001-06,Back-Foot Step Clear,Peltpace,F4,T1 Unawakened,A
+MV-BAS-SLG-002-01,Shoulder-Width Stance Settling,Warm Slingstone,F1,T1 Skin,A
+MV-BAS-SLG-002-02,Waist-High Flat Whirl,Gnawing Orbit,F1,T1 Skin,A
+MV-BAS-SLG-002-03,Release-Beat Counting Drill,Warm Cordleft,F1,T1 Skin,A
+MV-BAS-SLG-002-04,Palm-Weighed Stone Choosing,Pouch Count,F3,T1 Skin,A
+MV-BAS-SLG-002-05,Cup-Deep Pouch Cradle,Tending Slingtether,F1,T1 Skin,A
+MV-BAS-SLG-002-06,Half-Turn Flick Strike,Stiff Cordright,F1,T1 Skin,A
+MV-BAS-SLG-002-07,Stretched-Cord Forearm Fend,Tight Fingerhitch,F1,T1 Skin,A
+MV-BAS-SLG-003-01,Wrist-Loop Anchor Hitch,Measured Cradle,F1,T1 Muscle,A
+MV-BAS-SLG-003-02,Single-Spot Eye Fixing,Mild Releasecord,F1,T1 Muscle,A
+MV-BAS-SLG-003-03,Rolling Overarm Fling,Stonepelt Hit,F3,T1 Muscle,A
+MV-BAS-SLG-003-04,Hard-Clod Spray Toss,Short Singing,F1,T1 Muscle,A
+MV-BAS-SLG-003-05,Belt-Pouch Hand Swap,Kind Slingstone,F1,T1 Muscle,A
+MV-BAS-SLG-004-01,Arm-Span Cord Measure,Cradlecount,F4,T1 Tendon,A
+MV-BAS-SLG-004-02,Turning-Hip Lead Whirl,Orbitbump,F4,T1 Tendon,A
+MV-BAS-SLG-004-03,Empty-Pouch Rhythm Spin,Smooth Pouch,F1,T1 Tendon,A
+MV-BAS-SLG-004-04,Early-Late Release Trim,Upward Slingtether,F1,T1 Tendon,A
+MV-BAS-SLG-004-05,Behind-Shoulder Cover Loose,Straight Orbit,F1,T1 Tendon,A
+MV-BAS-SLG-004-06,Rail-Rest Distance Gauge,Slingnote,F4,T1 Tendon,A
+MV-BAS-SLG-004-07,Pebble-Pair Double Seat,Slingdrop,F4,T1 Tendon,A
+MV-BAS-SLG-004-08,Left-Side Tumble Away,Swaying Flingaway,F1,T1 Tendon,A
+MV-BAS-SLG-005-01,Heavy-Stone Haul Lift,Slingreview,F4,T1 Bone,A
+MV-BAS-SLG-005-02,Three-Turn Far Hurl,Sudden Slung,F1,T1 Bone,A
+MV-BAS-SLG-005-03,Knuckle-Wrap Cord Guard,Raised Cordleft,F1,T1 Bone,A
+MV-BAS-SLG-005-04,Wild-Dog Muzzle Whip,Pelthusk,F4,T1 Bone,A
+MV-BAS-SLG-005-05,Wrist-Seeking Flint Snap,Slingbump,F4,T1 Bone,A
+MV-BAS-SLG-005-06,Damp-Cord Stretch Feel,Even Wristhitch,F1,T1 Bone,A
+MV-BAS-SLG-006-01,Qi-Thread Cord Warm,Releasecord Note,F3,Senior L1 Low,A
+MV-BAS-SLG-006-02,Thumb-Width Ranging Look,Cradlereview,F4,Senior L1 Low,A
+MV-BAS-SLG-006-03,Level Qi-Pulse Release,Single Leadshot,F1,Senior L1 Low,A
+MV-BAS-SLG-006-04,Exhale-Timed Still Throw,Downward Fingerhitch,F1,Senior L1 Low,A
+MV-BAS-SLG-006-05,Pebble-Pair Spread Shot,Pouchbump,F4,Senior L1 Low,A
+MV-BAS-SLG-006-06,Elbow-Tuck Cover Guard,Folded Wristhitch,F1,Senior L1 Low,A
+MV-BAS-SLG-006-07,Rear-Step Range Slide,Pouchskitter,F4,Senior L1 Low,A
+MV-BAS-SLG-007-01,Awakened-Cord Charge,Mild Cordright,F1,Senior L2 Low,A
+MV-BAS-SLG-007-02,Lead-Bullet Seat Press,Calm Slingstone,F1,Senior L2 Low,A
+MV-BAS-SLG-007-03,Pulse-Speed Whirl,Orbithit,F4,Senior L2 Low,A
+MV-BAS-SLG-007-04,Crack-Tip Qi Snap,Level Stonepelt,F1,Senior L2 Low,A
+MV-BAS-SLG-007-05,Cord-Wrap Forearm Fend,Ready Leadshot,F1,Senior L2 Low,A
+MV-BAS-SLG-008-01,Braid-Tight Cord Tune,Even Cordleft,F1,Senior L3 Mid,A
+MV-BAS-SLG-008-02,Knot-End Release Sense,Even Pouch,F1,Senior L3 Mid,A
+MV-BAS-SLG-008-03,Clean-Letgo Flat Shot,Cradledrop,F4,Senior L3 Mid,A
+MV-BAS-SLG-008-04,Frayed-Cord Wary Throw,Level Cradle,F1,Senior L3 Mid,A
+MV-BAS-SLG-008-05,Pouch-Swing Foot Slip,Singing Skitter,F3,Senior L3 Mid,A
+MV-BAS-SLG-008-06,Reaching-Hand Cord Snare,Pouchlid,F4,Senior L3 Mid,A
+MV-BAS-SLG-009-01,Lead-Bullet Seat Check,Steady Cradle,F1,Senior L5 Low,A
+MV-BAS-SLG-009-02,Clay-Pellet Quick Run,Slungdrop,F4,Senior L5 Low,A
+MV-BAS-SLG-009-03,Acorn-Shot Short Lob,Descending Pelt,F1,Senior L5 Low,A
+MV-BAS-SLG-009-04,Half-Whirl Crowd Spray,Cradleblow,F4,Senior L5 Low,A
+MV-BAS-SLG-009-05,Glancing Skip Throw,Narrow Slingtether,F1,Senior L5 Low,A
+MV-BAS-SLG-009-06,Open-Pouch Chest Block,Angled Fingerhitch,F1,Senior L5 Low,A
+MV-BAS-SLG-009-07,Qi-Flush Loose Hand,Pouchnote,F4,Senior L5 Low,A
+MV-BAS-SLG-009-08,Bullet-Drop Backstep,Pelt Hop,F3,Senior L5 Low,A
+MV-BAS-SLG-010-01,Drift-Reading Cord Lift,Releasecord Review,F3,Senior L7 High,A
+MV-BAS-SLG-010-02,Open-Field Long Hurl,Slungblow,F4,Senior L7 High,A
+MV-BAS-SLG-010-03,Downhill Angle Throw,Hard Pelt,F1,Senior L7 High,A
+MV-BAS-SLG-010-04,Skirmish-Lane Pebble Rain,Gnawing Cordright,F1,Senior L7 High,A
+MV-BAS-SLG-010-05,Rise-and-Drop Lob Arc,Low Orbit,F1,Senior L7 High,A
+MV-BAS-SLG-010-06,Stone-Pocket Belt Draw,Even Cordright,F1,Senior L7 High,A
+MV-BAS-SLG-010-07,Dodge-and-Reload Sidestep,Skipping Slingstone,F1,Senior L7 High,A

@@ -1,0 +1,89 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-TON-001-01,Forearm Seat Guard,Hoarfrost Sidehandle,F2,Warrior+,B
+MV-ADV-TON-001-02,Cross Step Elbow Chop,Transfixing Rearend,F1,Warrior+,B
+MV-ADV-TON-001-03,Handle Hook Wrist Tug,Chime Jolt,F2,Warrior+,B
+MV-ADV-TON-001-04,Breaking Range Slide,Torrent Spinpeg,F2,Warrior+,B
+MV-ADV-TON-001-05,Qi Shaken Elbow Joint,Sanguine Elbowside,F2,Warrior+,B
+MV-ADV-TON-001-06,Lever Rail Bend Press,Fastening Tap,F2,Warrior+,B
+MV-ADV-TON-001-07,Armbreaker Rail Snap,Harpooning Gripbar,F1,Warrior+,B
+MV-ADV-TON-001-08,Outside Wedge Spin Release,Lambasting Forearm,F1,Warrior+,B
+MV-ADV-TON-002-01,Wheel Start Hold,Granite Shortshaft,F2,Warrior+,B
+MV-ADV-TON-002-02,Wheel Edge Rap,Handlepeg Assault,F3,Warrior+,B
+MV-ADV-TON-002-03,Wheel Rising Parry,Gusttonfa,F5,Warrior+,B
+MV-ADV-TON-002-04,Wheel Walk Step,Silttonfa,F5,Warrior+,B
+MV-ADV-TON-002-05,Qi Fed Wheel Block,Granite Tonfashaft,F2,Warrior+,B
+MV-ADV-TON-002-06,Wheel Release Backhand,Ironhandle,F5,Warrior+,B
+MV-ADV-TON-002-07,Binding Spoke Catch,Knock Cuirass,F3,Warrior+,B
+MV-ADV-TON-002-08,Unbroken Wheel Barrier,Tonfacloak,F4,Warrior+,B
+MV-ADV-TON-002-09,Wheel Burst Flurry,Rapthrash,F4,Warrior+,B
+MV-ADV-TON-003-01,Field Measure Stance,Facet Forearmside,F2,Warrior+,B
+MV-ADV-TON-003-02,Rail Tip Prod,Sanguine Rap,F2,Warrior+,B
+MV-ADV-TON-003-03,Long Arm Sidestep Cover,Equipoise Roundend,F2,Warrior+,B
+MV-ADV-TON-003-04,Handle Turn Strike,Tempered Spinflip,F2,Warrior+,B
+MV-ADV-TON-003-05,Reach Check Retreat,Surging Knock,F1,Warrior+,B
+MV-ADV-TON-003-06,Field Edged Rail Rap,Might Handlepeg,F2,Warrior+,B
+MV-ADV-TON-003-07,Reaching Qi Stub Jab,Facetrap,F5,Warrior+,B
+MV-ADV-TON-003-08,Field Deflection Spin,Equipoise Rearend,F2,Warrior+,B
+MV-ADV-TON-003-09,Rail Field Cutting Stroke,Might Spinflip,F2,Warrior+,B
+MV-ADV-TON-003-10,Reach Field Pin Hold,Charter Shortshaft,F2,Warrior+,B
+MV-ADV-TON-004-01,Short End Alignment Hold,Aegis Tonfashaft,F2,Warrior+,B
+MV-ADV-TON-004-02,Pushing Stub Stroke,Granite Spinpeg,F2,Warrior+,B
+MV-ADV-TON-004-03,Corner Cover Turn,Equipoise Gripbar,F2,Warrior+,B
+MV-ADV-TON-004-04,Passing Step Hook,Silt Roundend,F2,Warrior+,B
+MV-ADV-TON-004-05,Stub Carried Pulse Jab,Blaze Tap,F2,Warrior+,B
+MV-ADV-TON-004-06,Pass Through Guard Spike,Lancing Sidehandle,F1,Warrior+,B
+MV-ADV-TON-004-07,Beyond Stub Piercing Thrust,Knocktorment,F4,Warrior+,B
+MV-ADV-TON-004-08,Qi Tail Whip Sweep,Harpooning Gust Jolt,F6a,Warrior+,B
+MV-ADV-TON-005-01,Dual Track Guard Stance,Mantled Elbowside,F1,Warrior+,B
+MV-ADV-TON-005-02,Paired Rail Jab,Tempered Forearm,F2,Warrior+,B
+MV-ADV-TON-005-03,River Crossing Parry,Handlegreave,F4,Warrior+,B
+MV-ADV-TON-005-04,Basin Edge Rail Step,Knock Sprint,F3,Warrior+,B
+MV-ADV-TON-005-05,Dual Track Qi Rapping,Blaze Shortshaft,F2,Warrior+,B
+MV-ADV-TON-005-06,Azure Cross Block,Charter Forearmside,F2,Warrior+,B
+MV-ADV-TON-005-07,Paired Rail Hook Pull,Mayhem Forearmside,F2,Warrior+,B
+MV-ADV-TON-005-08,Twin Current Rail Combo,Successive Spinpeg,F1,Warrior+,B
+MV-ADV-TON-005-09,River Turned Elbow Crush,Iron Gripbar,F2,Warrior+,B
+MV-ADV-TON-006-01,Hawk Wing Rail Spread,Facet Roundend,F2,Warrior+,B
+MV-ADV-TON-006-02,Hawk Talon Stub Rake,Rumble Rap,F2,Warrior+,B
+MV-ADV-TON-006-03,Stooping Rail Drop,Lancing Rearend,F1,Warrior+,B
+MV-ADV-TON-006-04,Azure Glide Rail Step,Surging Elbowside,F1,Warrior+,B
+MV-ADV-TON-006-05,Hawk Wing Qi Slap,Sidehandle Thrash,F3,Warrior+,B
+MV-ADV-TON-006-06,Talon Grip Wrist Tear,Suppressing Rap,F1,Warrior+,B
+MV-ADV-TON-006-07,Hawk Dive Spinning Smash,Jolttorment,F4,Warrior+,B
+MV-ADV-TON-006-08,Azure Wing Fan Guard,Aegistonfa,F5,Warrior+,B
+MV-ADV-TON-007-01,River Bank Rail Guard,Steadfast Forearmside,F1,Warrior+,B
+MV-ADV-TON-007-02,Eddy Handle Rap,Might Forearm,F2,Warrior+,B
+MV-ADV-TON-007-03,Current Cut Parry,Chimehandle,F5,Warrior+,B
+MV-ADV-TON-007-04,River Stone Step,Gust Spinflip,F2,Warrior+,B
+MV-ADV-TON-007-05,Basin Floor Press,Chime Spinflip,F2,Warrior+,B
+MV-ADV-TON-007-06,Eddy Spin Cut,Sanguine Jolt,F2,Warrior+,B
+MV-ADV-TON-007-07,Undertow Rail Pull,Toxin Handlepeg,F2,Warrior+,B
+MV-ADV-TON-007-08,River Mouth Jab Pair,Glint Tap,F2,Warrior+,B
+MV-ADV-TON-007-09,Basin Flood Rail Sweep,Gust Tonfashaft,F2,Warrior+,B
+MV-ADV-TON-007-10,Riverbend Lock Turn,Thornjolt,F5,Warrior+,B
+MV-ADV-TON-008-01,Wind Sworn Guard Stance,Unyielding Gripbar,F1,Warrior+,B
+MV-ADV-TON-008-02,Crosswind Rail Rap,Mightrap,F5,Warrior+,B
+MV-ADV-TON-008-03,Rail Gust Turning Parry,Rearend Fastness,F3,Warrior+,B
+MV-ADV-TON-008-04,Bearing Shift Rail Step,Rapcanter,F4,Warrior+,B
+MV-ADV-TON-008-05,Sworn Gust Handle Hit,Grinding Rap,F1,Warrior+,B
+MV-ADV-TON-008-06,Crosswind Hook Drag,Rumble Handlepeg,F2,Warrior+,B
+MV-ADV-TON-008-07,Windward Rail Shove,Granite Roundend,F2,Warrior+,B
+MV-ADV-TON-008-08,Wind Oath Whirl Cut,Shortshaft Torment,F3,Warrior+,B
+MV-ADV-TON-008-09,Open Plateau Wheel Guard,Charter Spinpeg,F2,Warrior+,B
+MV-ADV-TON-009-01,Plateau Footing Guard,Aegis Elbowside,F2,Warrior+,B
+MV-ADV-TON-009-02,Held Bearing Jab,Drubbing Sidehandle,F1,Warrior+,B
+MV-ADV-TON-009-03,Edge Line Parry,Barcloak,F4,Warrior+,B
+MV-ADV-TON-009-04,Bearing Step Along Edge,Silt Jolt,F2,Warrior+,B
+MV-ADV-TON-009-05,Plateau Edge Rail Strike,Tempered Knock,F2,Warrior+,B
+MV-ADV-TON-009-06,Bearing Hold Lock,Sidehandle Cloak,F3,Warrior+,B
+MV-ADV-TON-009-07,Steady Bearing Rail Break,Rapassault,F4,Warrior+,B
+MV-ADV-TON-009-08,Edge Wind Counter Spin,Might Forearmside,F2,Warrior+,B
+MV-ADV-TON-010-01,Oath Posture Guard,Annealed Tonfashaft,F1,Warrior+,B
+MV-ADV-TON-010-02,Gale Stub Poke,Gust Tap,F2,Warrior+,B
+MV-ADV-TON-010-03,Gale Roll Deflect,Bargreave,F4,Warrior+,B
+MV-ADV-TON-010-04,Updraft Rail Step,Rappounce,F4,Warrior+,B
+MV-ADV-TON-010-05,Oath Bound Rail Strike,Handleassault,F4,Warrior+,B
+MV-ADV-TON-010-06,Gale Wrap Wrist Bind,Joltgreave,F4,Warrior+,B
+MV-ADV-TON-010-07,Squall Spin Block,Facetbar,F5,Warrior+,B
+MV-ADV-TON-010-08,Gale Oath Whirlwind Flurry,Raptorment,F4,Warrior+,B
+MV-ADV-TON-010-09,Plateau Gale Reach Thrust,Tempered Tonfashaft,F2,Warrior+,B

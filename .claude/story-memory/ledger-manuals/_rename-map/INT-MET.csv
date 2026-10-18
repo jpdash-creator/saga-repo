@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-MET-001-01,Swung Weight Opening Arc,Ruthless Dropweight,F1,Senior,A
+MV-INT-MET-001-02,Second-Course Cord Catch,Unmoving Weightneck,F1,Senior,A
+MV-INT-MET-001-03,Wide Shuffle Cut-In,Veering Weighttip,F1,Senior,A
+MV-INT-MET-001-04,Hammer Hook Over the Guard,Cableslap,F4,Senior,A
+MV-INT-MET-001-05,Taut Cord Neck Press,Pondererscreen,F4,Senior,A
+MV-INT-MET-001-06,Rising Cord Swat,Binding Slingshot,F1,Senior,A
+MV-INT-MET-001-07,Thunderhead Orbit Sweep,Cablescorer,F4,Senior,A
+MV-INT-MET-001-08,Chain-Step Counter Swing,Cableswat,F4,Senior,A
+MV-INT-MET-002-01,Guarding Whirl Opening,Unmoving Tailstone,F1,Senior,A
+MV-INT-MET-002-02,Forearm Wrap Pull,Ropehead Carapace,F3,Senior,A
+MV-INT-MET-002-03,Counter-Whirl Back Cut,Whorlslap,F4,Senior,A
+MV-INT-MET-002-04,Hilt-Seeking Cord Flick,Gyrebarrier,F4,Senior,A
+MV-INT-MET-002-05,Spinning Door Sidestep,Lithe Meteorhead,F1,Senior,A
+MV-INT-MET-002-06,Whirl-Bound Blade Seizure,Gagging Cordsplice,F1,Senior,A
+MV-INT-MET-002-07,Winding Cord Pin,Entangling Spinout,F1,Senior,A
+MV-INT-MET-003-01,Full-Length Reach Cast,Pondererslap,F4,Warrior,B
+MV-INT-MET-003-02,Long Coil Gather,Brassponderer,F5,Warrior,B
+MV-INT-MET-003-03,Wide Skirt Sweep,Clay Revolve,F2,Warrior,B
+MV-INT-MET-003-04,Twin-Pace Rope Pay-Out,Brawn Plummet,F2,Warrior,B
+MV-INT-MET-003-05,Boundary Line Warning Snap,Mirage Longrope,F2,Warrior,B
+MV-INT-MET-003-06,Far Hitch Haul,Levering Reelback,F1,Warrior,B
+MV-INT-MET-003-07,Crowd-Parting Long Orbit,Ember Loopend,F2,Warrior,B
+MV-INT-MET-003-08,Falling Star Haul-Down,Brassgyre,F5,Warrior,B
+MV-INT-MET-003-09,Pressure Line Suppression,Momentplumb,F5,Warrior,B
+MV-INT-MET-004-01,Choked-Rope Elbow Jab,Whorlflog,F4,Senior,A
+MV-INT-MET-004-02,Inside Cord Block,Stalwart Loopend,F1,Senior,A
+MV-INT-MET-004-03,Knuckle Wrapped Hammer Fist,Ruthless Plummet,F1,Senior,A
+MV-INT-MET-004-04,Clinch Cord Garrote,Gyre Hasp,F3,Senior,A
+MV-INT-MET-004-05,Qi-Packed Knuckle Pulse,Wild Weightneck,F1,Senior,A
+MV-INT-MET-004-06,Pocket Weight Shield Turn,Plumbhasp,F4,Senior,A
+MV-INT-MET-005-01,Slow Beat Opening Swing,Brawn Dropweight,F2,Warrior,B
+MV-INT-MET-005-02,Sudden Quick Beat Crack,Honed Cordsplice,F2,Warrior,B
+MV-INT-MET-005-03,Half-Length Hold Pause,Haze Gyre,F2,Warrior,B
+MV-INT-MET-005-04,Metronome Arm Sway,Armored Meteorhead,F1,Warrior,B
+MV-INT-MET-005-05,Double-Time Reel In,Revolve Zip,F3,Warrior,B
+MV-INT-MET-005-06,Dropped Beat Ankle Snare,Spriggyre,F5,Warrior,B
+MV-INT-MET-005-07,Reach Shift Parry Cord,Draught Orbitband,F2,Warrior,B
+MV-INT-MET-005-08,Staggered Tempo Hammer Run,Clay Ropehead,F2,Warrior,B
+MV-INT-MET-005-09,Reach-Breaking Qi Snap,Slingshot Slap,F3,Warrior,B
+MV-INT-MET-005-10,Count-Spoiling Cord Whip,Gallwhorl,F5,Warrior,B
+MV-INT-MET-006-01,Floor-Skimming Pull,Fierce Spinout,F1,Senior,A
+MV-INT-MET-006-02,Wall-Scraping Drag Up,Raw Reelback,F1,Senior,A
+MV-INT-MET-006-03,Cloak Snag Haul,Viselike Orbitband,F1,Senior,A
+MV-INT-MET-006-04,Trailing Weight Backstep,Cablestalk,F4,Senior,A
+MV-INT-MET-006-05,Ground Skid Block,Whorlprop,F4,Senior,A
+MV-INT-MET-006-06,Rope Burn Wrist Drag,Gripping Weighttip,F1,Senior,A
+MV-INT-MET-006-07,Furrow-Cutting Weight Rise,Longrope Slap,F3,Senior,A
+MV-INT-MET-006-08,Dust-Raising Cord Sweep,Entangling Meteorhead,F1,Senior,A
+MV-INT-MET-007-01,Ankle Hook Catch,Lassoing Weighttip,F1,Warrior,B
+MV-INT-MET-007-02,Spear Shaft Lasso,Lassoing Weightneck,F1,Warrior,B
+MV-INT-MET-007-03,Overarm Catch Return,Poise Tailstone,F2,Warrior,B
+MV-INT-MET-007-04,Looping Elbow Hook,Gallgyre,F5,Warrior,B
+MV-INT-MET-007-05,Quick Release Unhook,Lithe Revolve,F1,Warrior,B
+MV-INT-MET-007-06,Catch and Fling,Keen Dropweight,F1,Warrior,B
+MV-INT-MET-007-07,Shuddering Hook Wrench,Splice Cordsplice,F2,Warrior,B
+MV-INT-MET-007-08,Fishing Pull Disarm,Viselike Longrope,F1,Warrior,B
+MV-INT-MET-007-09,Twin-Hook Weight Reversal,Acrid Slingshot,F1,Warrior,B
+MV-INT-MET-008-01,Cord Tension Check,Genial Ropehead,F1,Warrior,B
+MV-INT-MET-008-02,Wrist Cradle Return,Regimen Loopend,F2,Warrior,B
+MV-INT-MET-008-03,Straight Line Snap Throw,Whorlscorer,F4,Warrior,B
+MV-INT-MET-008-04,Slack Mend Twist,Orbitband Buckle,F3,Warrior,B
+MV-INT-MET-008-05,Lesson-Ground Sidestep,Whorlswerve,F4,Warrior,B
+MV-INT-MET-008-06,Qi-Steadied Orbit Return,Shelter Tailstone,F2,Warrior,B
+MV-INT-MET-008-07,Taut Cord Spiral Strike,Fierce Reelback,F1,Warrior,B
+MV-INT-MET-008-06,Shelter Tailstone,Buffering Tailstone,F2,Warrior,B

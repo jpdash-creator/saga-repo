@@ -1,0 +1,136 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-ATL-001-01,Double-Spur Board Fitting,Revitalizing Handgrip,F1,Demigod,B
+MV-ELI-ATL-001-02,Side-by-Side Seating,Spurrespite,F4,Demigod,B
+MV-ELI-ATL-001-03,Matched Pair Choosing,Chime Dartshaft,F2,Demigod,B
+MV-ELI-ATL-001-04,Twin Level Cast,Booming Whipover,F1,Demigod,B
+MV-ELI-ATL-001-05,Diverging Pair Cast,Rumblespur,F5,Demigod,B
+MV-ELI-ATL-001-06,Heartbeat-Apart Release,Cupendwrath,F4,Demigod,B
+MV-ELI-ATL-001-07,Crossed Shaft Parry,Unbowed Throwstick,F1,Demigod,B
+MV-ELI-ATL-001-08,Locked Pair Penetration,Facet Throwlever,F2,Demigod,B
+MV-ELI-ATL-001-09,Twin Cuff Pinning,Webbing Cupend,F1,Demigod,B
+MV-ELI-ATL-001-10,Double-Spur Hawk Stroke,Eviscerating Glint Spurhook,F6a,Demigod,B
+MV-ELI-ATL-002-01,Basin Floor Surveying,Vigilant Weightstone,F1,Demigod,B
+MV-ELI-ATL-002-02,Armful Dart Gathering,Vital Gripbinding,F2,Demigod,B
+MV-ELI-ATL-002-03,High Lobbing Stance,Cupvigil,F4,Demigod,B
+MV-ELI-ATL-002-04,Steep Lob Cast,Spurwrath,F4,Demigod,B
+MV-ELI-ATL-002-05,Rim-Walk Repositioning,Cupflash,F4,Demigod,B
+MV-ELI-ATL-002-06,Ladder-Range Casting,Glint Extend,F2,Demigod,B
+MV-ELI-ATL-002-07,Cover-Seeking Drop,Unsparing Leverage,F1,Demigod,B
+MV-ELI-ATL-002-08,Rain Cadence Counting,Galvanizing Fingerhooks,F1,Demigod,B
+MV-ELI-ATL-002-09,Rim Crouch Cover,Obdurate Weightstone,F1,Demigod,B
+MV-ELI-ATL-002-10,Basin-Wide Dart Fall,Mayhem Whipover,F2,Demigod,B
+MV-ELI-ATL-002-11,Fall-Line Fencing,Grievous Overarm,F1,Demigod,B
+MV-ELI-ATL-002-12,Unbroken Azure Downpour,Extendhavoc,F4,Demigod,B
+MV-ELI-ATL-003-01,Closed Wing Stance,Energizing Dartshaft,F1,Demigod,B
+MV-ELI-ATL-003-02,Stillness Before Strike,Remnant Spurhook,F2,Demigod,B
+MV-ELI-ATL-003-03,Sudden Wing Cast,Lacerating Throwstick,F1,Demigod,B
+MV-ELI-ATL-003-04,Hidden Arm Feint,Murk Whipover,F2,Demigod,B
+MV-ELI-ATL-003-05,Hawk-Eye Gap Dart,Mangling Atlshaft,F1,Demigod,B
+MV-ELI-ATL-003-06,Quiet Perch Withdrawal,Vanishing Flexshaft,F1,Demigod,B
+MV-ELI-ATL-003-07,Unseen Talon Cast,Nova Throwstick,F2,Demigod,B
+MV-ELI-ATL-003-08,Hawk's Second Pass,Escalating Overarm,F1,Demigod,B
+MV-ELI-ATL-003-09,Closed-Wing Killing Dive,Propelscourge,F4,Demigod,B
+MV-ELI-ATL-004-01,Bank-Run Breathing,Resurgent Gripbinding,F1,Demigod,B
+MV-ELI-ATL-004-02,Quarry Wake Reading,Prescient Dartshaft,F1,Demigod,B
+MV-ELI-ATL-004-03,Shallows Footing,Torrent Atlshaft,F2,Demigod,B
+MV-ELI-ATL-004-04,Running Cast Over Water,Wrathful Extend,F1,Demigod,B
+MV-ELI-ATL-004-05,Wet Dart Wiping,Cupinsight,F4,Demigod,B
+MV-ELI-ATL-004-06,Heel-Closing Pursuit Dart,Ruinous Whipover,F1,Demigod,B
+MV-ELI-ATL-004-07,Opposite-Bank Pace,Propelblink,F4,Demigod,B
+MV-ELI-ATL-004-08,Current-Lead Cast,Gust Throwlever,F2,Demigod,B
+MV-ELI-ATL-004-09,Cloak-Anchoring Pair,Strangling Handgrip,F1,Demigod,B
+MV-ELI-ATL-004-10,Ford-Blocking Beats,Leverage Reckoning,F3,Demigod,B
+MV-ELI-ATL-004-11,River-Run Hunting Dart,Novaspur,F5,Demigod,B
+MV-ELI-ATL-005-01,Shared Count Calling,Buoying Atlshaft,F1,Void God,B
+MV-ELI-ATL-005-02,Back-to-Back Standing,Impervious Handgrip,F1,Void God,B
+MV-ELI-ATL-005-03,Blind Dart Handing,Intent Cupend,F2,Void God,B
+MV-ELI-ATL-005-04,Matched Arc Cast,Extendruin,F4,Void God,B
+MV-ELI-ATL-005-05,Court Step Exchange,Headlong Overarm,F1,Void God,B
+MV-ELI-ATL-005-06,Crossfire Cast,Spurhavoc,F4,Void God,B
+MV-ELI-ATL-005-07,Offbeat Volley,Gnashing Throwlever,F1,Void God,B
+MV-ELI-ATL-005-08,Partner-Shielding Dart,Murk Gripbinding,F2,Void God,B
+MV-ELI-ATL-005-09,Court Cohesion Sensing,Verityspur,F5,Void God,B
+MV-ELI-ATL-005-10,Twin-Court Converging Fire,Brutalizing Whipover,F1,Void God,B
+MV-ELI-ATL-005-11,Interlocked Volley Chain,Synchronized Weightstone,F1,Void God,B
+MV-ELI-ATL-005-12,Board-Touch Qi Pass,Aura Throwstick,F2,Void God,B
+MV-ELI-ATL-005-13,Court-of-Two Great Volley,Titanic Whipover Havoc,F6b,Void God,B
+MV-ELI-ATL-006-01,Mirror Pair Checking,Unerring Fingerhooks,F1,Void God,B
+MV-ELI-ATL-006-02,Lead and Follow Loading,Elevating Spurhook,F1,Void God,B
+MV-ELI-ATL-006-03,Counter-Curving Release,Cupendruin,F4,Void God,B
+MV-ELI-ATL-006-04,Mirror Footwork,Dazzling Gripbinding,F1,Void God,B
+MV-ELI-ATL-006-05,Bait Dart and Follower,Propelhavoc,F4,Void God,B
+MV-ELI-ATL-006-06,Opposite-Side Reply,Chime Overarm,F2,Void God,B
+MV-ELI-ATL-006-07,Twin-Flight Sensing,Illuminating Dartshaft,F1,Void God,B
+MV-ELI-ATL-006-08,Double-Sided Cloak Pinning,Gyve Cupend,F2,Void God,B
+MV-ELI-ATL-006-09,Opened Guard Follow-Up,Confluent Throwlever,F1,Void God,B
+MV-ELI-ATL-006-10,Mirrored Flight Stroke,Cupscourge,F4,Void God,B
+MV-ELI-ATL-007-01,Plateau Oath Whisper,Might Weightstone,F2,Demigod,B
+MV-ELI-ATL-007-02,Bearing Line Staking,Radiant Handgrip,F1,Demigod,B
+MV-ELI-ATL-007-03,Windward Foot Planting,Aegis Spurhook,F2,Demigod,B
+MV-ELI-ATL-007-04,Vow-Held Cast,Cupruin,F4,Demigod,B
+MV-ELI-ATL-007-05,Oath-Pace Retreat,Cupglimmer,F4,Demigod,B
+MV-ELI-ATL-007-06,Unswerving Flight,Shattering Extend,F1,Demigod,B
+MV-ELI-ATL-007-07,Oath-Called Second Dart,Ferocious Whipover,F1,Demigod,B
+MV-ELI-ATL-007-08,Plateau Stride Cast,Ghosting Handgrip,F1,Demigod,B
+MV-ELI-ATL-007-09,Bearing-Pinned Foe,Gyve Throwlever,F2,Demigod,B
+MV-ELI-ATL-007-10,Sworn Dart Through Gale,Blistering Propel,F1,Demigod,B
+MV-ELI-ATL-007-11,Plateau Vow Stroke,Ironspur,F5,Demigod,B
+MV-ELI-ATL-008-01,Storm Front Reading,Waning Fingerhooks,F2,Demigod,B
+MV-ELI-ATL-008-02,Low Braced Stance,Flintlike Cupend,F1,Demigod,B
+MV-ELI-ATL-008-03,Gust-Surge Cast,Titanic Throwstick,F1,Demigod,B
+MV-ELI-ATL-008-04,Squall-Lashed Aim,Rampaging Leverage,F1,Demigod,B
+MV-ELI-ATL-008-05,Spray-Blind Marking,Spurinsight,F4,Demigod,B
+MV-ELI-ATL-008-06,Storm-Run Sidestep,Silt Dartshaft,F2,Demigod,B
+MV-ELI-ATL-008-07,Storm-Borne Long Dart,Rumble Whipover,F2,Demigod,B
+MV-ELI-ATL-008-08,Rain-Veiled Volley,Merciless Extend,F1,Demigod,B
+MV-ELI-ATL-008-09,Gale-Lashed Dart Squall,Propelwrath,F4,Demigod,B
+MV-ELI-ATL-009-01,Nothing-Behind Stance,Unconquered Weightstone,F1,Demigod,B
+MV-ELI-ATL-009-02,Wide-Eyed Horizon Watch,Clairvoyant Flexshaft,F1,Demigod,B
+MV-ELI-ATL-009-03,Bare-Hand Loading,Gripbinding Vigil,F3,Demigod,B
+MV-ELI-ATL-009-04,Plain Open Cast,Pitiless Propel,F1,Demigod,B
+MV-ELI-ATL-009-05,Wind-Push Slide,Gust Atlshaft,F2,Demigod,B
+MV-ELI-ATL-009-06,Foes-on-All-Sides Turn,Lightning Dartshaft,F1,Demigod,B
+MV-ELI-ATL-009-07,Open-Ground Dart Fan,Punishing Leverage,F1,Demigod,B
+MV-ELI-ATL-009-08,Skyline Glare Cast,Glamour Throwstick,F2,Demigod,B
+MV-ELI-ATL-009-09,Kicked-Up Dust Veil,Evergreen Handgrip,F1,Demigod,B
+MV-ELI-ATL-009-10,Unwalled Wide Sweep,Silt Overarm,F2,Demigod,B
+MV-ELI-ATL-009-11,Open-Sky Guarding Cast,Murkcup,F5,Demigod,B
+MV-ELI-ATL-009-12,Bare Plateau Reckoning,Cupendscourge,F4,Demigod,B
+MV-ELI-ATL-010-01,Rim Toe Testing,Vigilant Spurhook,F1,Void God,B
+MV-ELI-ATL-010-02,Edge Updraft Feeling,Expanse Dartshaft,F2,Void God,B
+MV-ELI-ATL-010-03,Hand-on-Rock Crouch,Adamantine Throwstick,F1,Void God,B
+MV-ELI-ATL-010-04,Lift-Aided Cast,Booming Leverage,F1,Void God,B
+MV-ELI-ATL-010-05,Back-Step Safe Release,Extendblink,F4,Void God,B
+MV-ELI-ATL-010-06,Cliff-Face Downcast,Cupwrath,F4,Void God,B
+MV-ELI-ATL-010-07,Edge Crosswind Sweep,Glint Overarm,F2,Void God,B
+MV-ELI-ATL-010-08,Rim-Held Fall Line,Charter Throwlever,F2,Void God,B
+MV-ELI-ATL-010-09,Gust-Timed Penetration,Lacerating Extend,F1,Void God,B
+MV-ELI-ATL-010-10,Edge-of-the-Wind Dart,Facetpropel,F5,Void God,B
+MV-ELI-ATL-011-01,Bearing Shift Counting,Healing Gripbinding,F1,Void God,B
+MV-ELI-ATL-011-02,Wrist-Turn Re-Aiming,Spurvigil,F4,Void God,B
+MV-ELI-ATL-011-03,Slow Pivot Walk,Torrential Cupend,F1,Void God,B
+MV-ELI-ATL-011-04,Unguarded Bearing Cast,Ruinous Throwstick,F1,Void God,B
+MV-ELI-ATL-011-05,Wind-Shift Noting,Vigilant Fingerhooks,F1,Void God,B
+MV-ELI-ATL-011-06,Fan-Bearing Casting,Punishing Whipover,F1,Void God,B
+MV-ELI-ATL-011-07,Pivot Spiral Volley,Rampaging Overarm,F1,Void God,B
+MV-ELI-ATL-011-08,Bearing Feint Dart,Reverie Atlshaft,F2,Void God,B
+MV-ELI-ATL-011-09,Hundred-Line Memory,Clairvoyant Gripbinding,F1,Void God,B
+MV-ELI-ATL-011-10,Shifting Bearing Barrage,Spurruin,F4,Void God,B
+MV-ELI-ATL-011-11,Wind-Swept Bearing Net,Immobilizing Handgrip,F1,Void God,B
+MV-ELI-ATL-011-12,Compass-Round Cast,Slagcup,F5,Void God,B
+MV-ELI-ATL-011-13,Hundred-Bearing Finish,Unsparing Nova Overarm,F6a,Void God,B
+MV-ELI-ATL-012-01,Oath Stance Setting,Invincible Spurhook,F1,True God,B
+MV-ELI-ATL-012-02,Far Mark Naming,Remnant Gripbinding,F2,True God,B
+MV-ELI-ATL-012-03,Unmoved Breathing,Elevating Dartshaft,F1,True God,B
+MV-ELI-ATL-012-04,Standing Far Cast,Gnashing Propel,F1,True God,B
+MV-ELI-ATL-012-05,Oath-Held Reload,Cupendrespite,F4,True God,B
+MV-ELI-ATL-012-06,Dart-Storm Standing,Inexorable Handgrip,F1,True God,B
+MV-ELI-ATL-012-07,Distance Ladder Cast,Shattering Throwlever,F1,True God,B
+MV-ELI-ATL-012-08,Standing Counter Cast,Merciless Whipover,F1,True God,B
+MV-ELI-ATL-012-09,Unmoved Long Pierce,Extendscourge,F4,True God,B
+MV-ELI-ATL-012-10,Oath-Bound Rain,Pitiless Overarm,F1,True God,B
+MV-ELI-ATL-012-11,Far Thrower's Sworn Dart,Tempered Extend,F2,True God,B
+MV-ELI-ATL-001-10,Eviscerating Glint Spurhook,Eviscerating Spurhook,F6a,Demigod,B
+MV-ELI-ATL-005-13,Titanic Whipover Havoc,Titanic Whipover,F6b,Void God,B
+MV-ELI-ATL-010-02,Expanse Dartshaft,Discerning Dartshaft,F2,Void God,B
+MV-ELI-ATL-011-13,Unsparing Nova Overarm,Unsparing Overarm,F6a,Void God,B

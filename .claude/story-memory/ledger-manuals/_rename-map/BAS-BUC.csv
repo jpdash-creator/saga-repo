@@ -1,0 +1,74 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-BUC-001-01,Fist-Grip Ready Hold,Peltastay,F4,Unawakened,A
+MV-BAS-BUC-001-02,Plate-Face Blow Catch,Snug Centergrip,F1,Unawakened,A
+MV-BAS-BUC-001-03,Quarter Wrist Rap,Raised Knucklegrip,F1,Unawakened,A
+MV-BAS-BUC-001-04,Boss Jab,Sudden Bucklerredge,F1,Unawakened,A
+MV-BAS-BUC-001-05,Covered Pace Forward,Nimble Dab,F1,Unawakened,A
+MV-BAS-BUC-001-06,Rim Chop Down,Armstrap Dash,F3,Unawakened,A
+MV-BAS-BUC-002-01,Knuckle Lock Hold,Umbolid,F4,Skin,A
+MV-BAS-BUC-002-02,Elbow Tuck Cover,Snug Edgeplate,F1,Skin,A
+MV-BAS-BUC-002-03,Outward Flick Parry,Umbocowl,F4,Skin,A
+MV-BAS-BUC-002-04,Rising Rim Rap,Open Smallface,F1,Skin,A
+MV-BAS-BUC-002-05,Descending Blow Glance,Punchboss Wedge,F3,Skin,A
+MV-BAS-BUC-002-06,Weapon Hand Pin,Tuckinwedge,F4,Skin,A
+MV-BAS-BUC-002-07,Shuffle Close Step,Light Nudge,F1,Skin,A
+MV-BAS-BUC-003-01,High Line Cover,Ready Roundface,F1,Muscle,A
+MV-BAS-BUC-003-02,Low Line Cover,Resting Lightrim,F1,Muscle,A
+MV-BAS-BUC-003-03,Sideways Hammer Swing,Square Snapblock,F1,Muscle,A
+MV-BAS-BUC-003-04,Curved Face Skid,Ready Umbo,F1,Muscle,A
+MV-BAS-BUC-003-05,Cut and Cover Pace,Nudgepace,F4,Muscle,A
+MV-BAS-BUC-004-01,Boss-First Punch,Gnawing Punchblock,F1,Tendon,A
+MV-BAS-BUC-004-02,Outer Rim Slash,Descending Armstrap,F1,Tendon,A
+MV-BAS-BUC-004-03,Underhand Rim Lift,Smallface Bump,F3,Tendon,A
+MV-BAS-BUC-004-04,Dome Block Hold,Ready Punchboss,F1,Tendon,A
+MV-BAS-BUC-004-05,Rim Beat Aside,Bucklerredge Wedge,F3,Tendon,A
+MV-BAS-BUC-004-06,Short Retreat Pivot,Swaying Lightrim,F1,Tendon,A
+MV-BAS-BUC-004-07,Dome Press Shove,Peltahusk,F4,Tendon,A
+MV-BAS-BUC-004-08,Double Rap Count,Straight Tuckin,F1,Tendon,A
+MV-BAS-BUC-005-01,Slip-Side Cover Step,Quiet Nudge,F1,Bone,A
+MV-BAS-BUC-005-02,Canted Plate Guard,Kept Roundface,F1,Bone,A
+MV-BAS-BUC-005-03,Crossing Hand Rap,Tight Knucklegrip,F1,Bone,A
+MV-BAS-BUC-005-04,Rear Heel Drag,Shifting Punchblock,F1,Bone,A
+MV-BAS-BUC-005-05,Edge-On Shoulder Check,Gnawing Edgeplate,F1,Bone,A
+MV-BAS-BUC-005-06,Stagger Step Return,Sharp Umbo,F1,Bone,A
+MV-BAS-BUC-006-01,Open Palm Plate Parry,Lowered Centergrip,F1,Skin,A
+MV-BAS-BUC-006-02,Wrist Cock Parry,Holding Smallface,F1,Skin,A
+MV-BAS-BUC-006-03,Raised Plate Brush,Peltacowl,F4,Skin,A
+MV-BAS-BUC-006-04,Duck-Under Cover,Angled Edgeplate,F1,Skin,A
+MV-BAS-BUC-006-05,Plate Face Smack,Blunt Parry,F1,Skin,A
+MV-BAS-BUC-006-06,Shoulder and Hip Glance,Peltanote,F4,Skin,A
+MV-BAS-BUC-006-07,Closing Parry Pace,Parry Pace,F3,Skin,A
+MV-BAS-BUC-007-01,Qi Seat in the Grip,Snug Punchboss,F1,Senior,A
+MV-BAS-BUC-007-02,Plate Skin Hardening,Tight Centergrip,F1,Senior,A
+MV-BAS-BUC-007-03,Backed Dome Punch,Tuckinblow,F4,Senior,A
+MV-BAS-BUC-007-04,Stiff-Wrist Rim Rap,Targehusk,F4,Senior,A
+MV-BAS-BUC-007-05,Threaded Leg Pace,Shifting Umbo,F1,Senior,A
+MV-BAS-BUC-007-06,Settled Shield Shove,Parrystay,F4,Senior,A
+MV-BAS-BUC-008-01,Wrist-Lock Cover,Peltapause,F4,Senior,A
+MV-BAS-BUC-008-02,Pivot Wrist Turn,Snug Knucklegrip,F1,Senior,A
+MV-BAS-BUC-008-03,Breath-Timed Rap,Umbostrike,F4,Senior,A
+MV-BAS-BUC-008-04,Loose Wrist Catch,Roundface Wedge,F3,Senior,A
+MV-BAS-BUC-008-05,Spring Wrist Return,Armstrap Cowl,F3,Senior,A
+MV-BAS-BUC-008-06,Wrist Circle Bind,Peltalid,F4,Senior,A
+MV-BAS-BUC-008-07,Slow Breath Pace,Swaying Dab,F1,Senior,A
+MV-BAS-BUC-009-01,Chest-Close Cover,Snug Lightrim,F1,Senior,A
+MV-BAS-BUC-009-02,Inside Line Rap,Planted Bucklerredge,F1,Senior,A
+MV-BAS-BUC-009-03,Shoulder Roll Cover,Targewedge,F4,Senior,A
+MV-BAS-BUC-009-04,Close Dome Hammer,Leaden Dab,F1,Senior,A
+MV-BAS-BUC-009-05,Hip-Level Rim Chop,Nudgedrop,F4,Senior,A
+MV-BAS-BUC-009-06,Crowding Step,Peltadodge,F4,Senior,A
+MV-BAS-BUC-009-07,Sword Elbow Wedge,Locking Punchblock,F1,Senior,A
+MV-BAS-BUC-009-08,Sheltered Back Pace,Backward Punchblock,F1,Senior,A
+MV-BAS-BUC-010-01,Held Breath Brace,Folded Armstrap,F1,Senior,A
+MV-BAS-BUC-010-02,Exhale Rim Strike,Parrydrop,F4,Senior,A
+MV-BAS-BUC-010-03,Slow Draw Guard,Knucklegrip Stay,F3,Senior,A
+MV-BAS-BUC-010-04,Quick Pulse Parry,Umbowedge,F4,Senior,A
+MV-BAS-BUC-010-05,Settling Breath Pace,Easing Smallface,F1,Senior,A
+MV-BAS-BUC-010-06,Plate Ring Sense,Peltagauge,F4,Senior,A
+MV-BAS-BUC-010-07,Closing Exhale Shove,Tuckincowl,F4,Senior,A
+MV-BAS-BUC-011-01,Fast Plate Flick,Ready Centergrip,F1,Senior,A
+MV-BAS-BUC-011-02,Rim Tap Beat,Punchboss Stay,F3,Senior,A
+MV-BAS-BUC-011-03,Snap Knuckle Rap,Dabhit,F4,Senior,A
+MV-BAS-BUC-011-04,Rap and Return Guard,Edgeplate Pause,F3,Senior,A
+MV-BAS-BUC-011-05,Light Foot Slide,Stepping Bucklerredge,F1,Senior,A
+MV-BAS-BUC-011-06,Rapid Dome Poke,Quick Umbo,F1,Senior,A

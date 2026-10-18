@@ -1,0 +1,139 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-BMR-001-01,Court Pair Stance,Gustbark,F5,Demigod L2 Low,B
+MV-ELI-BMR-001-02,Azure Draw of Two,Blaze Returnarc,F2,Demigod L2 Low,B
+MV-ELI-BMR-001-03,Twin Count Breathing,Barkinsight,F4,Demigod L2 Low,B
+MV-ELI-BMR-001-04,Court Handoff Catch,Waninggrain,F5,Demigod L2 Low,B
+MV-ELI-BMR-001-05,Twin Court Return Cast,Facet Woodgrain,F2,Demigod L2 Low,B
+MV-ELI-BMR-001-06,Court Breaking Cross,Chime Loopback,F2,Demigod L2 Low,B
+MV-ELI-BMR-001-07,Azure Arc Mirror,Chime Arc,F2,Demigod L2 Low,B
+MV-ELI-BMR-001-08,Twin Court Wing Verdict,Berserk Crookend,F1,Demigod L2 Low,B
+MV-ELI-BMR-001-09,Azure Return Ring,Doctrine Trailingedge,F2,Demigod L2 Low,B
+MV-ELI-BMR-001-10,Followed Breach Return,Nova Sweptwing,F2,Demigod L2 Low,B
+MV-ELI-BMR-002-01,Hawk Ridge Footing,Granite Hover,F2,Demigod L5 Low,B
+MV-ELI-BMR-002-02,River Drift Reading,Waning Tipwing,F2,Demigod L5 Low,B
+MV-ELI-BMR-002-03,Hawk Wing Pinch Release,Novawood,F5,Demigod L5 Low,B
+MV-ELI-BMR-002-04,Shore Palm Catch,Veritygrain,F5,Demigod L5 Low,B
+MV-ELI-BMR-002-05,Stick River Stone Guard,Impenetrable Wingarm,F1,Demigod L5 Low,B
+MV-ELI-BMR-002-06,Hawk Return Cast,Chime Cycle,F2,Demigod L5 Low,B
+MV-ELI-BMR-002-07,River Bend Hold,Thorn Curveback,F2,Demigod L5 Low,B
+MV-ELI-BMR-002-08,Shoreline Rebound Cast,Devastating Return,F1,Demigod L5 Low,B
+MV-ELI-BMR-002-09,River Hawk Strike,Woodwrath,F4,Demigod L5 Low,B
+MV-ELI-BMR-002-10,Current Taking Sweep,Circling Scourge,F3,Demigod L5 Low,B
+MV-ELI-BMR-002-11,Hawk Over Water Flash,Vanishing Rumble Leadingedge,F6a,Demigod L5 Low,B
+MV-ELI-BMR-003-01,Dual Track Pacing,Might Crookend,F2,Demigod L8 Low,B
+MV-ELI-BMR-003-02,Sky Stick Grip,Hoverscourge,F4,Demigod L8 Low,B
+MV-ELI-BMR-003-03,Track Crossing Sense,Verity Leadingedge,F2,Demigod L8 Low,B
+MV-ELI-BMR-003-04,Dual Track Cast,Woodscourge,F4,Demigod L8 Low,B
+MV-ELI-BMR-003-05,Parallel Flight Pin,Mastering Hover,F1,Demigod L8 Low,B
+MV-ELI-BMR-003-06,Track Switch Return,Blaze Elbowbend,F2,Demigod L8 Low,B
+MV-ELI-BMR-003-07,Twin Rail Volley,Novagrain,F5,Demigod L8 Low,B
+MV-ELI-BMR-003-08,Rail Crossing Trap,Grainvalor,F4,Demigod L8 Low,B
+MV-ELI-BMR-003-09,Parallel Tracks Meeting,Corroding Lot Curveback,F6a,Demigod L8 Low,B
+MV-ELI-BMR-004-01,Basin Court Posture,Returnflash,F4,Void God L1 Low,B
+MV-ELI-BMR-004-02,Paired Stick Weighing,Prescient Trailingedge,F1,Void God L1 Low,B
+MV-ELI-BMR-004-03,Bowl Edge Pivot,Gust Arc,F2,Void God L1 Low,B
+MV-ELI-BMR-004-04,Dish Rim Release,Brutalizing Woodgrain,F1,Void God L1 Low,B
+MV-ELI-BMR-004-05,Basin Palm Catch,Beneficent Elbowbend,F1,Void God L1 Low,B
+MV-ELI-BMR-004-06,Basin Court Cast,Gust Wingarm,F2,Void God L1 Low,B
+MV-ELI-BMR-004-07,Paired Return Shear,Iron Loopback,F2,Void God L1 Low,B
+MV-ELI-BMR-004-08,Dish Floor Skip,Brutalizing Tipwing,F1,Void God L1 Low,B
+MV-ELI-BMR-004-09,Court Guard Drop,Flintlike Returnarc,F1,Void God L1 Low,B
+MV-ELI-BMR-004-10,Basin Pair Clamp,Arcspine,F4,Void God L1 Low,B
+MV-ELI-BMR-004-11,Bowl Closing Return,Slag Sweptwing,F2,Void God L1 Low,B
+MV-ELI-BMR-004-12,Pair Sealing Return,Overpowering Return Tenacity,F6b,Void God L1 Low,B
+MV-ELI-BMR-005-01,Azure Wing Ready Hold,Cycleruin,F4,Void God L4 Low,B
+MV-ELI-BMR-005-02,Wingspan Measuring,Curverespite,F4,Void God L4 Low,B
+MV-ELI-BMR-005-03,Sky Hop Sidestep,Gust Cycle,F2,Void God L4 Low,B
+MV-ELI-BMR-005-04,Overlapped Wrist Throw,Glintgrain,F5,Void God L4 Low,B
+MV-ELI-BMR-005-05,Pinion Cuff Parry,Impervious Woodgrain,F1,Void God L4 Low,B
+MV-ELI-BMR-005-06,Azure Many Cast,Blaze Arc,F2,Void God L4 Low,B
+MV-ELI-BMR-005-07,Soaring Wing Cover,Invincible Elbowbend,F1,Void God L4 Low,B
+MV-ELI-BMR-005-08,Pinion Catch and Counter,Berserk Hover,F1,Void God L4 Low,B
+MV-ELI-BMR-005-09,Wing Beat Thicket,Ponderous Cycle,F2,Void God L4 Low,B
+MV-ELI-BMR-005-10,Azure Wing Lattice,Equipoise Wingarm,F2,Void God L4 Low,B
+MV-ELI-BMR-005-11,Wing Pair Eclipse,Glintreturn,F5,Void God L4 Low,B
+MV-ELI-BMR-005-12,Winding Return Rope,Hour Circling,F2,Void God L4 Low,B
+MV-ELI-BMR-005-13,Many Wings Over the Court,Slagcycle,F5,Void God L4 Low,B
+MV-ELI-BMR-006-01,Unmoving Eye Rest,Expanse Trailingedge,F2,Void God L7 Low,B
+MV-ELI-BMR-006-02,Twin Arc Plotting,Veritybark,F5,Void God L7 Low,B
+MV-ELI-BMR-006-03,Hawk Pace Advance,Might Leadingedge,F2,Void God L7 Low,B
+MV-ELI-BMR-006-04,Feathered Release Pair,Pitiless Tipwing,F1,Void God L7 Low,B
+MV-ELI-BMR-006-05,Eye Guided Arc,Ferocious Curveback,F1,Void God L7 Low,B
+MV-ELI-BMR-006-06,Recalled Apart Cast,Webbing Circling,F1,Void God L7 Low,B
+MV-ELI-BMR-006-07,Hawk Stare Pin,Murkreturn,F5,Void God L7 Low,B
+MV-ELI-BMR-006-08,Twin Returning Arcs,Arcruin,F4,Void God L7 Low,B
+MV-ELI-BMR-006-09,Hawkeye Marking Cast,Unerring Crookend,F1,Void God L7 Low,B
+MV-ELI-BMR-006-10,Unblinking Pair Flight,Glinthover,F5,Void God L7 Low,B
+MV-ELI-BMR-007-01,Long Bearing Breath,Woodrespite,F4,Demigod L3 Low,B
+MV-ELI-BMR-007-02,Open Plateau Footing,Granite Sweptwing,F2,Demigod L3 Low,B
+MV-ELI-BMR-007-03,Windward Pinch,Brutalizing Returnarc,F1,Demigod L3 Low,B
+MV-ELI-BMR-007-04,Sworn Stride Release,Nova Loopback,F2,Demigod L3 Low,B
+MV-ELI-BMR-007-05,Far Horizon Turn Sight,Expanse Tipwing,F2,Demigod L3 Low,B
+MV-ELI-BMR-007-06,Long Bearing Stick Cast,Nova Return,F2,Demigod L3 Low,B
+MV-ELI-BMR-007-07,Wind Parting Throw,Woodgrain Reckoning,F3,Demigod L3 Low,B
+MV-ELI-BMR-007-08,Edge of the Plateau Hook,Trailingedge Nerve,F3,Demigod L3 Low,B
+MV-ELI-BMR-007-09,Sworn Distance Return,Gustgrain,F5,Demigod L3 Low,B
+MV-ELI-BMR-007-10,Unwalled Reach Sweep,Decimating Returnarc,F1,Demigod L3 Low,B
+MV-ELI-BMR-007-11,Long Bearing Unbroken,Eviscerating Hover,F1,Demigod L3 Low,B
+MV-ELI-BMR-008-01,Gale Reading Stance,Buoying Crookend,F1,Demigod L6 Low,B
+MV-ELI-BMR-008-02,Gust Timing Release,Brutalizing Curveback,F1,Demigod L6 Low,B
+MV-ELI-BMR-008-03,Bent Knee Brace,Might Cycle,F2,Demigod L6 Low,B
+MV-ELI-BMR-008-04,Gale Fed Cast,Shattering Circling,F1,Demigod L6 Low,B
+MV-ELI-BMR-008-05,Turning Wind Snare,Fastening Sweptwing,F2,Demigod L6 Low,B
+MV-ELI-BMR-008-06,Gale Guard Breaker,Returnhavoc,F4,Demigod L6 Low,B
+MV-ELI-BMR-008-07,Gale Returning Wood,Glint Loopback,F2,Demigod L6 Low,B
+MV-ELI-BMR-008-08,Storm Pitch Trap,Toxinwood,F5,Demigod L6 Low,B
+MV-ELI-BMR-008-09,Full Gale Return Cutting,Devastating Leadingedge,F1,Demigod L6 Low,B
+MV-ELI-BMR-009-01,Wind Oath Recital,Verity Wingarm,F2,Demigod L9 Low,B
+MV-ELI-BMR-009-02,Bearing Line Draw,Chimewood,F5,Demigod L9 Low,B
+MV-ELI-BMR-009-03,Oath Straight Cast,Lacerating Cycle,F1,Demigod L9 Low,B
+MV-ELI-BMR-009-04,Oathbound Step Back,Ghosting Return,F1,Demigod L9 Low,B
+MV-ELI-BMR-009-05,Wing Held Line Parry,Elbowbend Mettle,F3,Demigod L9 Low,B
+MV-ELI-BMR-009-06,Sworn Arc Throw,Pitiless Hover,F1,Demigod L9 Low,B
+MV-ELI-BMR-009-07,Oath Weighted Return,Booming Crookend,F1,Demigod L9 Low,B
+MV-ELI-BMR-009-08,Pledge Hold Snare,Overpowering Sweptwing,F1,Demigod L9 Low,B
+MV-ELI-BMR-009-09,Wind Sworn Pass Through,Impervious Elbowbend,F1,Demigod L9 Low,B
+MV-ELI-BMR-009-10,Sworn Line Interdiction,Hour Woodgrain,F2,Demigod L9 Low,B
+MV-ELI-BMR-009-11,Oath Cutting Return,Merciless Wingarm,F1,Demigod L9 Low,B
+MV-ELI-BMR-009-12,Oath Fulfilled Flight,Lotwood,F5,Demigod L9 Low,B
+MV-ELI-BMR-010-01,Rim Edge Standing,Barkglare,F4,Void God L2 Low,B
+MV-ELI-BMR-010-02,Open Sky Scan,Expanse Returnarc,F2,Void God L2 Low,B
+MV-ELI-BMR-010-03,Sky Pitch Release,Curvescourge,F4,Void God L2 Low,B
+MV-ELI-BMR-010-04,Rim Return Snatch,Chime Trailingedge,F2,Void God L2 Low,B
+MV-ELI-BMR-010-05,Over the Drop Cast,Glint Tipwing,F2,Void God L2 Low,B
+MV-ELI-BMR-010-06,Skyline Hook Pull,Cyclespine,F4,Void God L2 Low,B
+MV-ELI-BMR-010-07,Cloud Shadow Feint,Remnant Return,F2,Void God L2 Low,B
+MV-ELI-BMR-010-08,Open Sky Return,Eviscerating Circling,F1,Void God L2 Low,B
+MV-ELI-BMR-010-09,Rimline Sweeping Arc,Blaze Curveback,F2,Void God L2 Low,B
+MV-ELI-BMR-010-10,Sky Crossing Flash,Nova Returnarc,F2,Void God L2 Low,B
+MV-ELI-BMR-011-01,No Cover Wing Stance,Meteoric Leadingedge,F1,Void God L5 Low,B
+MV-ELI-BMR-011-02,Held Bearing Sight,Illuminating Trailingedge,F1,Void God L5 Low,B
+MV-ELI-BMR-011-03,Plainsman Overarm,Wrathful Loopback,F1,Void God L5 Low,B
+MV-ELI-BMR-011-04,Open Ground Dodge,Gustcurve,F5,Void God L5 Low,B
+MV-ELI-BMR-011-05,Unhidden Parry,Adamantine Curveback,F1,Void God L5 Low,B
+MV-ELI-BMR-011-06,Unwalled Throw,Decimating Arc,F1,Void God L5 Low,B
+MV-ELI-BMR-011-07,Cover Stripping Cast,Ponderous Elbowbend,F2,Void God L5 Low,B
+MV-ELI-BMR-011-08,Bearing Held Snare,Fastening Arc,F2,Void God L5 Low,B
+MV-ELI-BMR-011-09,Plateau Wide Volley,Gust Loopback,F2,Void God L5 Low,B
+MV-ELI-BMR-011-10,Sky Open Ring,Doctrine Crookend,F2,Void God L5 Low,B
+MV-ELI-BMR-011-11,Bearing Pair Return,Tipwing Wrath,F3,Void God L5 Low,B
+MV-ELI-BMR-011-12,Wind Following Rope,Grainruin,F4,Void God L5 Low,B
+MV-ELI-BMR-011-13,Unwalled Plateau Reckoning,Wingarm Wrath,F3,Void God L5 Low,B
+MV-ELI-BMR-012-01,Gap Reading Squint,Remnant Sweptwing,F2,Void God L8 Low,B
+MV-ELI-BMR-012-02,Breaker Pinch Grip,Hoarfrost Leadingedge,F2,Void God L8 Low,B
+MV-ELI-BMR-012-03,Plunge Forward Step,Cycleblink,F4,Void God L8 Low,B
+MV-ELI-BMR-012-04,Sworn Stick Draw,Shattering Hover,F1,Void God L8 Low,B
+MV-ELI-BMR-012-05,Gap Held Guard,Obdurate Sweptwing,F1,Void God L8 Low,B
+MV-ELI-BMR-012-06,Wind Parting Return,Rumble Circling,F2,Void God L8 Low,B
+MV-ELI-BMR-012-07,Gap Fighting Hook,Hogtying Arc,F1,Void God L8 Low,B
+MV-ELI-BMR-012-08,Pressure Edge Cast,Hollow Woodgrain,F2,Void God L8 Low,B
+MV-ELI-BMR-012-09,Wind Breaking Edge,Rumble Crookend,F2,Void God L8 Low,B
+MV-ELI-BMR-012-10,Gap Sealing Throw,Poisoned Curveback,F1,Void God L8 Low,B
+MV-ELI-BMR-012-11,Sworn Stick Parting,Grave Returnarc,F2,Void God L8 Low,B
+MV-ELI-BMR-002-11,Vanishing Rumble Leadingedge,Vanishing Leadingedge,F6a,Demigod L5 Low,B
+MV-ELI-BMR-003-09,Corroding Lot Curveback,Corroding Curveback,F6a,Demigod L8 Low,B
+MV-ELI-BMR-004-12,Overpowering Return Tenacity,Overpowering Return,F6b,Void God L1 Low,B
+MV-ELI-BMR-006-01,Expanse Trailingedge,Perceptive Trailingedge,F2,Void God L7 Low,B
+MV-ELI-BMR-007-05,Expanse Tipwing,Discerning Tipwing,F2,Demigod L3 Low,B
+MV-ELI-BMR-010-02,Expanse Returnarc,Farseeing Returnarc,F2,Void God L2 Low,B
+MV-ELI-BMR-012-08,Hollow Woodgrain,Wedging Woodgrain,F2,Void God L8 Low,B

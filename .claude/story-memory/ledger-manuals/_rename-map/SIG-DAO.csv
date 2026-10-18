@@ -1,0 +1,137 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-DAO-001-01,Azure Form Opening Chop,Steelchop,F5,Warrior L1 Low,B
+MV-SIG-DAO-001-02,Azure Form Guard,Curvespine Troth,F3,Warrior L1 Low,B
+MV-SIG-DAO-001-03,Azure Form Pace,Dune Rearedge,F2,Warrior L1 Low,B
+MV-SIG-DAO-001-04,Azure Form Hew,Illustrious Chopbelly,F1,Warrior L1 Low,B
+MV-SIG-DAO-001-05,Azure Form Snare,Millstone Scrape,F2,Warrior L1 Low,B
+MV-SIG-DAO-001-06,Azure Form Break,Dishguard Pledge,F3,Warrior L1 Low,B
+MV-SIG-DAO-001-07,Azure Form Cleave,Inferno Bellyblade,F2,Champion L1 Low,B
+MV-SIG-DAO-001-08,Azure Form Sequence,Resonant Knucklebar,F1,Champion L1 Low,B
+MV-SIG-DAO-001-09,Azure Form Piercing Cut,Whisk Banner,F3,Demigod L1 Low,B
+MV-SIG-DAO-001-10,Azure Descent of the Sabre,Triumphant Swathe,F1,Warrior L1 Low,B
+MV-SIG-DAO-002-01,Confluence Chop,Matchless Slice,F1,Warrior L6 Low,B
+MV-SIG-DAO-002-02,Bank Guard Stand,Stately Spineback,F1,Warrior L6 Low,B
+MV-SIG-DAO-002-03,Silt Walk Step,Squall Tipbend,F2,Warrior L6 Low,B
+MV-SIG-DAO-002-04,Meeting Waters Hew,Inferno Dragcut,F2,Warrior L6 Low,B
+MV-SIG-DAO-002-05,Backwater Snare,Masterful Brush,F1,Warrior L6 Low,B
+MV-SIG-DAO-002-06,Whirlpool Beat,Venombevel,F5,Warrior L6 Low,B
+MV-SIG-DAO-002-07,Swollen River Press,Seasondish,F5,Warrior L6 Low,B
+MV-SIG-DAO-002-08,Delta Fan Sweep,Magmascrape,F5,Champion L1 Low,B
+MV-SIG-DAO-002-09,Confluence Counter,Squall Flatside,F2,Champion L1 Low,B
+MV-SIG-DAO-002-10,Basin River Seal Cut,Sigil Dishguard,F2,Demigod L1 Low,B
+MV-SIG-DAO-002-11,Confluence of Two Waters,Inferno Scrape,F2,Warrior L6 Low,B
+MV-SIG-DAO-003-01,Highsky Chop,Valiant Ringpommel,F1,Champion L3 Low,B
+MV-SIG-DAO-003-02,Wind-Riding Guard,Prism Ringpommel,F2,Champion L3 Low,B
+MV-SIG-DAO-003-03,Thermal Climb Step,Squall Rearedge,F2,Champion L3 Low,B
+MV-SIG-DAO-003-04,Hawk Wing Slice,Thunderclap Flatside,F2,Champion L3 Low,B
+MV-SIG-DAO-003-05,Skyward Hew,Bedrock Whisk,F2,Champion L3 Low,B
+MV-SIG-DAO-003-06,Hawk Pinion Snare,Hornbeam Chopbelly,F2,Champion L3 Low,B
+MV-SIG-DAO-003-07,Crosswing Beat,Subjugating Knucklebar,F1,Champion L3 Low,B
+MV-SIG-DAO-003-08,Hovering Dread Press,Bedrock Slice,F2,Champion L3 Low,B
+MV-SIG-DAO-003-09,Highsky Stoop Cleave,Dishtriumph,F4,Champion L3 Low,B
+MV-SIG-DAO-003-10,Pinion Counter,Squall Bellyblade,F2,Champion L3 Low,B
+MV-SIG-DAO-003-11,Hawk Sky Piercing Flash,Skyborne Spineback,F1,Demigod L1 Low,B
+MV-SIG-DAO-003-12,Hawk of the High Azure,Gallant Dragcut Decree,F6b,Champion L3 Low,B
+MV-SIG-DAO-004-01,Paired Court Chop,Scrapeedict,F4,Ruler L1 Mid,B
+MV-SIG-DAO-004-02,Court Posture Guard,Undaunted Ringpommel,F1,Ruler L1 Mid,B
+MV-SIG-DAO-004-03,Court Walk Step,Bevelsolace,F4,Ruler L1 Mid,B
+MV-SIG-DAO-004-04,Court Verdict Hew,Illustrious Brush,F1,Ruler L1 Mid,B
+MV-SIG-DAO-004-05,Court Hook Snare,Swathe Reliquary,F3,Ruler L1 Mid,B
+MV-SIG-DAO-004-06,Court Silence Beat,Authoritative Dishguard,F1,Ruler L1 Mid,B
+MV-SIG-DAO-004-07,Court Judgment Cleave,Thunderclap Knucklebar,F2,Ruler L1 Mid,B
+MV-SIG-DAO-004-08,Court Pairing Sequence,Season Chopbelly,F2,Ruler L1 Mid,B
+MV-SIG-DAO-004-09,Paired Court Nullifier,Dishvow,F4,Demigod L1 Low,B
+MV-SIG-DAO-004-10,Judgment of the Paired Courts,Steel Whisk,F2,Ruler L1 Mid,B
+MV-SIG-DAO-005-01,Descent Opening Chop,Haemal Swathe,F2,Demigod L1 Low,B
+MV-SIG-DAO-005-02,Descent Guard Fold,Prismchop,F5,Demigod L1 Low,B
+MV-SIG-DAO-005-03,Descent Approach Step,Squall Dragcut,F2,Demigod L1 Low,B
+MV-SIG-DAO-005-04,Descent Draw Slice,Haemalwhisk,F5,Demigod L1 Low,B
+MV-SIG-DAO-005-05,Descent Hew,Matchless Spineback,F1,Demigod L1 Low,B
+MV-SIG-DAO-005-06,Descent Hook Snare,Millstone Slice,F2,Demigod L1 Low,B
+MV-SIG-DAO-005-07,Descent Cover Press,Seasonswathe,F5,Demigod L1 Low,B
+MV-SIG-DAO-005-08,Descent Break Beat,Venom Flatside,F2,Demigod L1 Low,B
+MV-SIG-DAO-005-09,Descent Cleave Strike,Quenched Rearedge,F2,Demigod L1 Low,B
+MV-SIG-DAO-005-10,Descent Wing Sweep,Tempestuous Bellyblade,F2,Demigod L1 Low,B
+MV-SIG-DAO-005-11,Descent Piercing Flash,Radiance Scrape,F2,Demigod L1 Low,B
+MV-SIG-DAO-005-12,Seventh Descent of Azure,Slicecrown,F4,Demigod L1 Low,B
+MV-SIG-DAO-006-01,Beyond Body Chop,Gallant Bellyblade,F1,Core Formation L1 Low,B
+MV-SIG-DAO-006-02,Edge Aura Guard,Inviolate Spineback,F1,Core Formation L1 Low,B
+MV-SIG-DAO-006-03,Core Light Step,Bedrock Tipbend,F2,Core Formation L1 Low,B
+MV-SIG-DAO-006-04,Core-Fed Hew,Vigor Rearedge,F2,Core Formation L1 Low,B
+MV-SIG-DAO-006-05,Aura Snare,Sigil Scrape,F2,Core Formation L1 Low,B
+MV-SIG-DAO-006-06,Core Pulse Beat,Entropy Brush,F2,Core Formation L1 Low,B
+MV-SIG-DAO-006-07,Edge Aura Press,Millstone Whisk,F2,Core Formation L1 Low,B
+MV-SIG-DAO-006-08,Core Edge Cleave,Steel Chopbelly,F2,Core Formation L1 Low,B
+MV-SIG-DAO-006-09,Aura Counter Sweep,Dune Tipbend,F2,Core Formation L1 Low,B
+MV-SIG-DAO-006-10,Core Edge Sealing Cut,Volition Ringpommel,F2,Core Formation L1 Low,B
+MV-SIG-DAO-006-11,Sabre Beyond the Body,Prism Brush,F2,Core Formation L1 Low,B
+MV-SIG-DAO-007-01,Vowed Breath Chop,Steelswathe,F5,Warrior L1 Mid,B
+MV-SIG-DAO-007-02,Vowed Guard Stand,Steel Tipbend,F2,Warrior L1 Mid,B
+MV-SIG-DAO-007-03,Vowed Pace,Squallbevel,F5,Warrior L1 Mid,B
+MV-SIG-DAO-007-04,Windbound Hew,Haemal Flatside,F2,Warrior L1 Mid,B
+MV-SIG-DAO-007-05,Windbound Snare,Hornbeam Dragcut,F2,Warrior L1 Mid,B
+MV-SIG-DAO-007-06,Windbound Beat,Imperious Swathe,F1,Warrior L1 Mid,B
+MV-SIG-DAO-007-07,Windbound Press,Season Tipbend,F2,Warrior L1 Mid,B
+MV-SIG-DAO-007-08,Windbound Cleave,Swathebanner,F4,Champion L1 Low,B
+MV-SIG-DAO-007-09,Windbound Sweep,Solar Knucklebar,F2,Champion L1 Low,B
+MV-SIG-DAO-007-10,Windbound Sealing Cut,Statute Dishguard,F2,Demigod L1 Low,B
+MV-SIG-DAO-007-11,Vow of the Wind-Sworn Edge,Gallant Thunderclap Whisk,F6a,Warrior L1 Mid,B
+MV-SIG-DAO-008-01,Plateau Oath Chop,Valiant Slice,F1,Warrior L8 Low,B
+MV-SIG-DAO-008-02,Oath Stone Guard,Choppledge,F4,Warrior L8 Low,B
+MV-SIG-DAO-008-03,Oath March Step,Dunescrape,F5,Warrior L8 Low,B
+MV-SIG-DAO-008-04,Oathstone Hew,Haemalbrush,F5,Warrior L8 Low,B
+MV-SIG-DAO-008-05,Oathstone Snare,Dragcut Covenant,F3,Warrior L8 Low,B
+MV-SIG-DAO-008-06,Oathstone Break Beat,Venombrush,F5,Warrior L8 Low,B
+MV-SIG-DAO-008-07,Oathstone Cleave,Vaunted Spineback,F1,Champion L1 Low,B
+MV-SIG-DAO-008-08,Oath March Sequence,Scrapebanner,F4,Champion L1 Low,B
+MV-SIG-DAO-008-09,Plateau Oath Nullifier,Vacuum Chopbelly,F2,Demigod L1 Low,B
+MV-SIG-DAO-008-10,Oath of the Plateau Edge,Peerless Steel Flatside,F6a,Warrior L8 Low,B
+MV-SIG-DAO-009-01,Starbearing Chop,Intrepid Knucklebar,F1,Champion L5 Low,B
+MV-SIG-DAO-009-02,Fixed Star Guard,Prismdish,F5,Champion L5 Low,B
+MV-SIG-DAO-009-03,Night Heading Step,Slicegrace,F4,Champion L5 Low,B
+MV-SIG-DAO-009-04,Starline Slice,Squallwhisk,F5,Champion L5 Low,B
+MV-SIG-DAO-009-05,Star-Held Hew,Swathe Edict,F3,Champion L5 Low,B
+MV-SIG-DAO-009-06,Heading Snare,Scrapevow,F4,Champion L5 Low,B
+MV-SIG-DAO-009-07,Long Night Press,Vaunted Scrape,F1,Champion L5 Low,B
+MV-SIG-DAO-009-08,Star Fall Beat,Entropy Bellyblade,F2,Champion L5 Low,B
+MV-SIG-DAO-009-09,Skybreak Cleave,Inferno Ringpommel,F2,Champion L5 Low,B
+MV-SIG-DAO-009-10,Constellation Sweep,Inferno Rearedge,F2,Champion L5 Low,B
+MV-SIG-DAO-009-11,Starbearing Flash Cut,Thunderclap Dishguard,F2,Demigod L1 Low,B
+MV-SIG-DAO-009-12,The Bearing Never Lost,Inferno Spineback,F2,Champion L5 Low,B
+MV-SIG-DAO-010-01,Unfenced Chop,Haemal Slice,F2,Ruler L1 Low,B
+MV-SIG-DAO-010-02,Bared Flank Dao Guard,Curvespine Vow,F3,Ruler L1 Low,B
+MV-SIG-DAO-010-03,Roving Step,Windborne Whisk,F1,Ruler L1 Low,B
+MV-SIG-DAO-010-04,Roving Hew,Squall Ringpommel,F2,Ruler L1 Low,B
+MV-SIG-DAO-010-05,Roving Snare,Curvespine Reliquary,F3,Ruler L1 Low,B
+MV-SIG-DAO-010-06,Wideland Beat,Commanding Brush,F1,Ruler L1 Low,B
+MV-SIG-DAO-010-07,Wideland Press,Curvespine Decree,F3,Ruler L1 Low,B
+MV-SIG-DAO-010-08,Wideland Cleave,Beveledict,F4,Ruler L1 Low,B
+MV-SIG-DAO-010-09,Wideland Sweep,Sliceverdict,F4,Ruler L1 Low,B
+MV-SIG-DAO-010-10,Unfenced Sealing Cut,Slicevow,F4,Demigod L1 Low,B
+MV-SIG-DAO-010-11,Sabre of No Walls,Illustrious Thunderclap Slice,F6a,Ruler L1 Low,B
+MV-SIG-DAO-011-01,Gale-Held Chop,Vigorbevel,F5,Demigod L3 Low,B
+MV-SIG-DAO-011-02,Crosswind Guard Hold,Prismbevel,F5,Demigod L3 Low,B
+MV-SIG-DAO-011-03,Windrun Step,Bedrock Bellyblade,F2,Demigod L3 Low,B
+MV-SIG-DAO-011-04,Torn Cloud Slice,Haemalbevel,F5,Demigod L3 Low,B
+MV-SIG-DAO-011-05,Gale Bearing Hew,Chopbanner,F4,Demigod L3 Low,B
+MV-SIG-DAO-011-06,Windcatch Snare,Sigil Flatside,F2,Demigod L3 Low,B
+MV-SIG-DAO-011-07,Bearing Gale Press,Millstone Swathe,F2,Demigod L3 Low,B
+MV-SIG-DAO-011-08,Cloudsplit Beat,Thunderclap Rearedge,F2,Demigod L3 Low,B
+MV-SIG-DAO-011-09,Gale Sundering Cleave,Dauntless Curvespine,F1,Demigod L3 Low,B
+MV-SIG-DAO-011-10,Squall Ring Sweep,Knucklebar Crown,F3,Demigod L3 Low,B
+MV-SIG-DAO-011-11,Windblown Flash Cut,Season Dragcut,F2,Demigod L3 Low,B
+MV-SIG-DAO-011-12,Seventh Gale Bearing,Triumphant Quenched Chopbelly,F6a,Demigod L3 Low,B
+MV-SIG-DAO-012-01,Beyond Edge Chop,Inferno Brush,F2,Core Formation L2 Low,B
+MV-SIG-DAO-012-02,Plateau Core Guard,Unwavering Tipbend,F1,Core Formation L2 Low,B
+MV-SIG-DAO-012-03,Far Horizon Step,Dunechop,F5,Core Formation L2 Low,B
+MV-SIG-DAO-012-04,Core Gale Hew,Storied Curvespine,F1,Core Formation L2 Low,B
+MV-SIG-DAO-012-05,Horizon Snare,Millstone Dishguard,F2,Core Formation L2 Low,B
+MV-SIG-DAO-012-06,Core Wind Beat,Authoritative Scrape,F1,Core Formation L2 Low,B
+MV-SIG-DAO-012-07,Far Plateau Cleave,Scrapecrown,F4,Core Formation L2 Low,B
+MV-SIG-DAO-012-08,Core Gale Sweep,Famed Scrape,F1,Core Formation L2 Low,B
+MV-SIG-DAO-012-09,Core Horizon Sealing Cut,Commanding Dragcut,F1,Core Formation L2 Low,B
+MV-SIG-DAO-012-10,Edge Beyond the Plateau,Magnificent Dishguard Triumph,F6b,Core Formation L2 Low,B
+MV-SIG-DAO-001-03,Dune Rearedge,Mighty Rearedge,F2,Warrior L1 Low,B
+MV-SIG-DAO-003-06,Hornbeam Chopbelly,Titan Chopbelly,F2,Champion L3 Low,B
+MV-SIG-DAO-006-09,Dune Tipbend,Colossal Tipbend,F2,Core Formation L1 Low,B
+MV-SIG-DAO-007-05,Hornbeam Dragcut,Thunderous Dragcut,F2,Warrior L1 Mid,B

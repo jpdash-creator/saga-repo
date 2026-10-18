@@ -1,0 +1,76 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-SPR-006-01,Close-Quarter Short Stab,Short Thrust,F1,T1 Bone,A
+MV-BAS-SPR-006-02,Butt-Spike Corner Jab,Sudden Heelspike,F1,T1 Bone,A
+MV-BAS-SPR-006-03,Narrow-Lane Hold Stance,Socketstay,F4,T1 Bone,A
+MV-BAS-SPR-006-04,Haft-Press Door Hold,Locking Slideshaft,F1,T1 Bone,A
+MV-BAS-SPR-006-05,Short-Reach Hook Pull,Catching Leafhead,F1,T1 Bone,A
+MV-BAS-SPR-006-06,Quick-Reverse Tip Flick,Pointdash,F4,T1 Bone,A
+MV-BAS-SPR-001-01,Fore-Grip Straight Jab,Thruststrike,F4,T1 Unawakened,A
+MV-BAS-SPR-001-02,Rear-Hand Drive Push,Level Ferrule,F1,T1 Unawakened,A
+MV-BAS-SPR-001-03,Ash Haft Guard Raise,Bindcord Lid,F3,T1 Unawakened,A
+MV-BAS-SPR-001-04,Spear-Foot Creep,Sideways Beatback,F1,T1 Unawakened,A
+MV-BAS-SPR-001-05,Butt-Cap Short Strike,Sharp Slideshaft,F1,T1 Unawakened,A
+MV-BAS-SPR-001-06,Low Haft Shin Block,Longshaft Husk,F3,T1 Unawakened,A
+MV-BAS-SPR-002-01,Leaf-Blade Draw Cut,Spearpoint Strike,F3,T1 Skin,A
+MV-BAS-SPR-002-02,Point-Line Hold Step,Buttshoe Trot,F3,T1 Skin,A
+MV-BAS-SPR-002-03,Cross-Haft Wrist Beat,Nabbing Collarband,F1,T1 Skin,A
+MV-BAS-SPR-002-04,Lead-Hand Slide Reach,Downward Pushthrough,F1,T1 Skin,A
+MV-BAS-SPR-002-05,Wood-Spin Guard Cover,Angled Leafhead,F1,T1 Skin,A
+MV-BAS-SPR-003-01,Heel-Set Brace Stance,Raised Heelspike,F1,T1 Muscle,A
+MV-BAS-SPR-003-02,Boar-Rush Stop Thrust,Socketdash,F4,T1 Muscle,A
+MV-BAS-SPR-003-03,Flank Shift Counter Jab,Single Stretch,F1,T1 Muscle,A
+MV-BAS-SPR-003-04,Shaft-Cross Hold Off,Spearstay,F4,T1 Muscle,A
+MV-BAS-SPR-003-05,Rear-Foot Kick Off,Twirlamble,F4,T1 Muscle,A
+MV-BAS-SPR-003-06,Throat-Line Aim Jab,Pointdrop,F4,T1 Muscle,A
+MV-BAS-SPR-003-07,Long Grip Slip Thrust,Wide Bladewings,F1,T1 Muscle,A
+MV-BAS-SPR-004-01,Hip-Turn Straight Thrust,Pointbump,F4,T1 Tendon,A
+MV-BAS-SPR-004-02,Rising Belly Jab,Flat Bindcord,F1,T1 Tendon,A
+MV-BAS-SPR-004-03,Dipping Thigh Prick,Thrusthit,F4,T1 Tendon,A
+MV-BAS-SPR-004-04,Inside-Line Shaft Parry,Solid Collarband,F1,T1 Tendon,A
+MV-BAS-SPR-004-05,Outside-Line Shaft Parry,Bladewings Husk,F3,T1 Tendon,A
+MV-BAS-SPR-005-01,Triangle Step Thrust,Low Spearpoint,F1,T1 Bone,A
+MV-BAS-SPR-005-02,Drag-Step Retreat Guard,Swaying Buttshoe,F1,T1 Bone,A
+MV-BAS-SPR-005-03,Pivot-Turn Haft Sweep,Spearbump,F4,T1 Bone,A
+MV-BAS-SPR-005-04,Ground-Grip Low Guard,Kept Ferrule,F1,T1 Bone,A
+MV-BAS-SPR-005-05,Counter-Step Slip Jab,Short Longshaft,F1,T1 Bone,A
+MV-BAS-SPR-005-06,Edge-of-Reach Hold Line,Socketlid,F4,T1 Bone,A
+MV-BAS-SPR-007-01,Qi-Lent Straight Thrust,Twirlbump,F4,Senior L1 Low,A
+MV-BAS-SPR-007-02,Haft-Warm Guard Turn,Hooding Leafhead,F1,Senior L1 Low,A
+MV-BAS-SPR-007-03,Breath-Step Gap Close,Backward Beatback,F1,Senior L1 Low,A
+MV-BAS-SPR-007-04,Hip-Drive Qi Jab,Thrustdash,F4,Senior L1 Low,A
+MV-BAS-SPR-007-05,Point-Steady Qi Hold,Judging Heelspike,F1,Senior L1 Low,A
+MV-BAS-SPR-007-06,Withdraw-and-Reset Flow,Nimble Stretch,F1,Senior L1 Low,A
+MV-BAS-SPR-008-01,Full-Reach Lunge Thrust,Descending Pushthrough,F1,Senior L2 Mid,A
+MV-BAS-SPR-008-02,Instant Recovery Draw,Ready Ferrule,F1,Senior L2 Mid,A
+MV-BAS-SPR-008-03,Reach-Test Probing Jab,Slideshaft Blow,F3,Senior L2 Mid,A
+MV-BAS-SPR-008-04,Qi-Backed Haft Beat,Spearlid,F4,Senior L2 Mid,A
+MV-BAS-SPR-008-05,Return-Line Parry Set,Heelspike Husk,F3,Senior L2 Mid,A
+MV-BAS-SPR-008-06,Retreating Point Screen,Holding Collarband,F1,Senior L2 Mid,A
+MV-BAS-SPR-008-07,Pivot Reach Extension,Pointstrike,F4,Senior L2 Mid,A
+MV-BAS-SPR-009-01,Haft-Length Qi Run,Even Longshaft,F1,Senior L3 Mid,A
+MV-BAS-SPR-009-02,Exhale Spear Pierce,Socketblow,F4,Senior L3 Mid,A
+MV-BAS-SPR-009-03,Inhale Draw Guard,Settled Spearpoint,F1,Senior L3 Mid,A
+MV-BAS-SPR-009-04,Steady-Tip Aim Press,Twirlblow,F4,Senior L3 Mid,A
+MV-BAS-SPR-009-05,Wood-Binding Qi Grip,Pulling Bindcord,F1,Senior L3 Mid,A
+MV-BAS-SPR-010-01,Long-Grip Pole Thrust,Speardrop,F4,Senior L4 High,A
+MV-BAS-SPR-010-02,Short-Grip Close Thrust,Leaden Buttshoe,F1,Senior L4 High,A
+MV-BAS-SPR-010-03,Mid-Strike Grip Change,Thrustdodge,F4,Senior L4 High,A
+MV-BAS-SPR-010-04,Pole-Slide Parry Reset,Bladewings Wedge,F3,Senior L4 High,A
+MV-BAS-SPR-010-05,Shaft-Rap Close Beat,Pushing Pushthrough,F1,Senior L4 High,A
+MV-BAS-SPR-010-06,Rear-Reach Surprise Jab,Stiff Slideshaft,F1,Senior L4 High,A
+MV-BAS-SPR-010-07,Choke-Up Collar Press,Fouling Beatback,F1,Senior L4 High,A
+MV-BAS-SPR-010-08,Slide-Out Final Lunge,Sockethit,F4,Senior L4 High,A
+MV-BAS-SPR-011-01,Eight-Line Thrust Fan,Forward Leafhead,F1,Senior L5 Peak,A
+MV-BAS-SPR-011-02,Crossing Haft Slide Guard,Resting Bindcord,F1,Senior L5 Peak,A
+MV-BAS-SPR-011-03,Qi-Pulse Jab Step,Open Stretch,F1,Senior L5 Peak,A
+MV-BAS-SPR-011-04,Edge-Turn Cutting Draw,Gnawing Ferrule,F1,Senior L5 Peak,A
+MV-BAS-SPR-011-05,Lead-Foot Hook Sweep,Pointwedge,F4,Senior L5 Peak,A
+MV-BAS-SPR-011-06,Held-Line Rear Slip,Stepping Stretch,F1,Senior L5 Peak,A
+MV-BAS-SPR-012-01,Haft-Whip Sidelong Strike,Straight Heelspike,F1,Senior L8 High,A
+MV-BAS-SPR-012-02,Butt-Drive Chest Poke,Firm Spearpoint,F1,Senior L8 High,A
+MV-BAS-SPR-012-03,Qi-Hardened Haft Block,Tight Leafhead,F1,Senior L8 High,A
+MV-BAS-SPR-012-04,Rear-Hand Twirl Cover,Bladewings Cowl,F3,Senior L8 High,A
+MV-BAS-SPR-012-05,Low Sweep Ankle Trip,Twirlwedge,F4,Senior L8 High,A
+MV-BAS-SPR-012-06,Upward Butt Chin Rise,Socketstrike,F4,Senior L8 High,A
+MV-BAS-SPR-012-07,Haft-Hook Pull Down,Thruststay,F4,Senior L8 High,A
+MV-BAS-SPR-012-08,Crush-Down Shaft Strike,Blunt Buttshoe,F1,Senior L8 High,A

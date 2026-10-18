@@ -1,0 +1,70 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-HAX-001-01,Chin-High Hatchet Guard,Cheekcowl,F4,T1 Unawakened,A
+MV-BAS-HAX-001-02,Straight Hatchet Drop,Bitblow,F4,T1 Unawakened,A
+MV-BAS-HAX-001-03,Forearm-Level Side Chop,Kerfblow,F4,T1 Unawakened,A
+MV-BAS-HAX-001-04,Poll Rap to the Knuckles,Fouling Chock,F1,T1 Unawakened,A
+MV-BAS-HAX-001-05,Slanted Helve Turn,Angled Helve,F1,T1 Unawakened,A
+MV-BAS-HAX-001-06,Hip-Pivot Retreat,Toehop,F4,T1 Unawakened,A
+MV-BAS-HAX-002-01,Cordwood Mark Chop,Hard Billet,F1,T1 Skin,A
+MV-BAS-HAX-002-02,Kindling Quick Split,Kerfdash,F4,T1 Skin,A
+MV-BAS-HAX-002-03,Billet Brace Stance,Planted Poll,F1,T1 Skin,A
+MV-BAS-HAX-002-04,Chip-Off Hook,Beardhusk,F4,T1 Skin,A
+MV-BAS-HAX-002-05,Stack-Side Shuffle,Light Fell,F1,T1 Skin,A
+MV-BAS-HAX-003-01,One-Hand Shoulder Chop,Chockdrop,F4,T1 Muscle,A
+MV-BAS-HAX-003-02,Rising Backhand Chop,Upward Axehew,F1,T1 Muscle,A
+MV-BAS-HAX-003-03,Elbow-Tucked Short Chop,Bitbump,F4,T1 Muscle,A
+MV-BAS-HAX-003-04,Offhand Wrist Catch,Catching Beard,F1,T1 Muscle,A
+MV-BAS-HAX-003-05,Cross-Body Hatchet Parry,Raised Cheek,F1,T1 Muscle,A
+MV-BAS-HAX-003-06,Planted Chopper's Guard,Solid Eye,F1,T1 Muscle,A
+MV-BAS-HAX-003-07,Skip-Through Advance,Heeldodge,F4,T1 Muscle,A
+MV-BAS-HAX-004-01,Belt-Loop Draw Cut,Narrow Billet,F1,T1 Unawakened,A
+MV-BAS-HAX-004-02,Travel-Pack Swing,Fellhit,F4,T1 Unawakened,A
+MV-BAS-HAX-004-03,Rope-Cutter's Drag Cut,Leaden Poll,F1,T1 Unawakened,A
+MV-BAS-HAX-004-04,Roadside Elbow Check,Hitching Helve,F1,T1 Unawakened,A
+MV-BAS-HAX-004-05,Pack-Strap Block,Tight Haftswell,F1,T1 Unawakened,A
+MV-BAS-HAX-004-06,Lantern-Hand Backstep,Skipping Kerf,F1,T1 Unawakened,A
+MV-BAS-HAX-005-01,Wrist Roll Chop,Descending Chock,F1,T1 Tendon,A
+MV-BAS-HAX-005-02,Helve Slide Reach,Straight Handlenub,F1,T1 Tendon,A
+MV-BAS-HAX-005-03,Choked-Up Short Chop,Eyedash,F4,T1 Tendon,A
+MV-BAS-HAX-005-04,Forearm Lash Cut,Firm Fell,F1,T1 Tendon,A
+MV-BAS-HAX-005-05,Thumb-Rest Guard,Snug Handlenub,F1,T1 Tendon,A
+MV-BAS-HAX-005-06,Helve Catch and Twist,Pulling Toe,F1,T1 Tendon,A
+MV-BAS-HAX-005-07,Tendon-Spring Dodge,Cheekpace,F4,T1 Tendon,A
+MV-BAS-HAX-005-08,Reverse-Grip Belt Yank,Pushing Kerf,F1,T1 Tendon,A
+MV-BAS-HAX-006-01,Qi-Warmed Hatchet Chop,Cheekhit,F4,Senior L1 Low,A
+MV-BAS-HAX-006-02,Breath-Timed Guard,Ready Beard,F1,Senior L1 Low,A
+MV-BAS-HAX-006-03,Qi-Pulse Poll Knock,Turning Poll,F1,Senior L1 Low,A
+MV-BAS-HAX-006-04,Light-Foot Sidestep,Stepping Billet,F1,Senior L1 Low,A
+MV-BAS-HAX-006-05,Edge-Wake Draw Cut,Single Axehew,F1,Senior L1 Low,A
+MV-BAS-HAX-007-01,Short-Haft Cross Guard,Kept Heel,F1,Senior L2 Low,A
+MV-BAS-HAX-007-02,Head-Turned Parry,Settled Poll,F1,Senior L2 Low,A
+MV-BAS-HAX-007-03,Hook-Catch Guard,Resting Bit,F1,Senior L2 Low,A
+MV-BAS-HAX-007-04,Qi-Braced Forearm Block,Toe Cowl,F3,Senior L2 Low,A
+MV-BAS-HAX-007-05,Parry-Answer Chop,Downward Helve,F1,Senior L2 Low,A
+MV-BAS-HAX-007-06,Retreating Guard Step,Backward Eye,F1,Senior L2 Low,A
+MV-BAS-HAX-008-01,Brush-Sweep Chop,Beardstrike,F4,Senior L3 Mid,A
+MV-BAS-HAX-008-02,Bramble Hook Pull,Towing Handlenub,F1,Senior L3 Mid,A
+MV-BAS-HAX-008-03,Stem-Slice Backhand,Chockbump,F4,Senior L3 Mid,A
+MV-BAS-HAX-008-04,Underbrush Low Cut,Blunt Splinter,F1,Senior L3 Mid,A
+MV-BAS-HAX-008-05,Thicket Edge Guard,Hooding Bit,F1,Senior L3 Mid,A
+MV-BAS-HAX-008-06,Path-Clearing Shoulder Drive,Billetwedge,F4,Senior L3 Mid,A
+MV-BAS-HAX-008-07,Cleared-Path Retreat,Sideways Axehew,F1,Senior L3 Mid,A
+MV-BAS-HAX-009-01,Arm's-Length Hatchet Cut,Fell Drop,F3,Senior L1 Mid,A
+MV-BAS-HAX-009-02,Clinch-Breaking Elbow Shove,Nabbing Cheek,F1,Senior L1 Mid,A
+MV-BAS-HAX-009-03,Cramped Hook-and-Drag,Eyestay,F4,Senior L1 Mid,A
+MV-BAS-HAX-009-04,Inside Guard Tuck,Lowered Beard,F1,Senior L1 Mid,A
+MV-BAS-HAX-009-05,Tight-Space Pivot,Swaying Toe,F1,Senior L1 Mid,A
+MV-BAS-HAX-009-06,Wrist-Flick Close Cut,Billetdrop,F4,Senior L1 Mid,A
+MV-BAS-HAX-010-01,Hook-First Chop,Wide Haftswell,F1,Senior L4 Low,A
+MV-BAS-HAX-010-02,Chop-Then-Hook Return,Axehew Bump,F3,Senior L4 Low,A
+MV-BAS-HAX-010-03,Beard Snag at the Knee,Tripping Axehew,F1,Senior L4 Low,A
+MV-BAS-HAX-010-04,Hooked Arm Draw,Helvestay,F4,Senior L4 Low,A
+MV-BAS-HAX-010-05,Twin-Tap Chop,Chockstrike,F4,Senior L4 Low,A
+MV-BAS-HAX-010-06,Hook Guard Catch,Heel Wedge,F3,Senior L4 Low,A
+MV-BAS-HAX-010-07,Held Hook Shield,Holding Heel,F1,Senior L4 Low,A
+MV-BAS-HAX-010-08,Hook-Pull Step-In,Nimble Poll,F1,Senior L4 Low,A
+MV-BAS-HAX-011-01,Plain Hatchet Drop,Low Handlenub,F1,Senior L2 Mid,A
+MV-BAS-HAX-011-02,Plain Hatchet Sweep,Eyehit,F4,Senior L2 Mid,A
+MV-BAS-HAX-011-03,Plain Hatchet Ward,Solid Cheek,F1,Senior L2 Mid,A
+MV-BAS-HAX-011-04,Plain Hatchet Poll Shove,Stopping Billet,F1,Senior L2 Mid,A
+MV-BAS-HAX-011-05,Plain Hatchet Slide Step,Beardtrot,F4,Senior L2 Mid,A

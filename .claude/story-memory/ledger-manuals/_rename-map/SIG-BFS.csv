@@ -1,0 +1,136 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-BFS-001-01,Court Bow of Both Blades,Hornbeam Wristside,F2,Warrior,B
+MV-SIG-BFS-001-02,Twin Thread Thrust,Steelscute,F5,Warrior,B
+MV-SIG-BFS-001-03,Matched Court Pace,Vigor Fliptang,F2,Warrior,B
+MV-SIG-BFS-001-04,Paired Salute Cut,Steel Doublehilt,F2,Warrior,B
+MV-SIG-BFS-001-05,Court Sleeve Feint,Entropy Swingguard,F2,Warrior,B
+MV-SIG-BFS-001-06,Seat Holding Guard,Parity Platepoint,F2,Warrior,B
+MV-SIG-BFS-001-07,Azure Pair Reckoning,Flurrydecree,F4,Champion,B
+MV-SIG-BFS-001-08,Court Counter Ward,Wingvow,F4,Champion,B
+MV-SIG-BFS-001-09,Edict of the Paired Edge,Crossing Crown,F3,Demigod,B
+MV-SIG-BFS-001-10,Twin Courts Paired Edge,Vaunted Shearedge,F1,Warrior,B
+MV-SIG-BFS-002-01,Basin First Guard,Wingseal,F4,Warrior,B
+MV-SIG-BFS-002-02,Basin Lip Cut,Quenched Scissor,F2,Warrior,B
+MV-SIG-BFS-002-03,Settling Pair Step,Twilit Shearing,F1,Warrior,B
+MV-SIG-BFS-002-04,Rising Water Wing Parry,Pallscute,F5,Warrior,B
+MV-SIG-BFS-002-05,Pooled Edge Cut,Mothcrown,F4,Warrior,B
+MV-SIG-BFS-002-06,Basin Clinging Bind,Unbending Shortedge,F1,Warrior,B
+MV-SIG-BFS-002-07,Draining Step Aside,Dunewing,F5,Warrior,B
+MV-SIG-BFS-002-08,Basin Fill Ward,Bedrock Hiltfold,F2,Champion,B
+MV-SIG-BFS-002-09,Overbrim Double Cut,Squall Clipper,F2,Champion,B
+MV-SIG-BFS-002-10,Flood of the Basin Floor,Flurryedict,F4,Demigod,B
+MV-SIG-BFS-002-11,Spill of the Basin Pair School,Storied Cheekhilt Edict,F6b,Warrior,B
+MV-SIG-BFS-003-01,Perched Hawk Pair Stance,Hiltfold Vow,F3,Champion,B
+MV-SIG-BFS-003-02,Talon Snatch Cut,Unrivaled Edgepair,F1,Champion,B
+MV-SIG-BFS-003-03,Banking Pair Step,Edgepair Grace,F3,Champion,B
+MV-SIG-BFS-003-04,Hawk Gaze Feint,Entropy Flurry,F2,Champion,B
+MV-SIG-BFS-003-05,Raking Hook Pull,Venom Shortedge,F2,Champion,B
+MV-SIG-BFS-003-06,Soaring Guard Lift,Squall Shearedge,F2,Champion,B
+MV-SIG-BFS-003-07,Talon Close Seizure,Scuteseal,F4,Champion,B
+MV-SIG-BFS-003-08,Hawk Drop Thrust,Doublehilt Banner,F3,Champion,B
+MV-SIG-BFS-003-09,Dive Without Echo,Seasonwing,F5,Demigod,B
+MV-SIG-BFS-003-10,Hawk School Closing Stoop,Radiance Platepoint,F2,Champion,B
+MV-SIG-BFS-004-01,River Source Stance,Hornbeam Cheekhilt,F2,Ruler,B
+MV-SIG-BFS-004-02,Narrow Channel Thrust,Pulsar Swingguard,F2,Ruler,B
+MV-SIG-BFS-004-03,Meander Parry,Peal Fliptang,F2,Ruler,B
+MV-SIG-BFS-004-04,Flank Hugging Pair Step,Delugepleat,F5,Ruler,B
+MV-SIG-BFS-004-05,Tributary Mate Cut,Matchless Flurry,F1,Ruler,B
+MV-SIG-BFS-004-06,Undertow Wrist Drag,Commanding Crossing,F1,Ruler,B
+MV-SIG-BFS-004-07,Ford Crossing Guard,Steelwing,F5,Ruler,B
+MV-SIG-BFS-004-08,Rapids Run Step,Squallpleat,F5,Ruler,B
+MV-SIG-BFS-004-09,Confluence Strike,Bedrock Snapcut,F2,Ruler,B
+MV-SIG-BFS-004-10,Floodplain Spread Ward,Statute Wristside,F2,Ruler,B
+MV-SIG-BFS-004-11,Delta Division of Force,Bloomwing,F5,Demigod,B
+MV-SIG-BFS-004-12,Great River of the Pair,Harmonious Clipper Triumph,F6b,Ruler,B
+MV-SIG-BFS-005-01,Azure Mated Open Stance,Stately Swingguard,F1,Demigod,B
+MV-SIG-BFS-005-02,Cloud Edge Cut,Haemal Flurry,F2,Demigod,B
+MV-SIG-BFS-005-03,Pair Reach Glide,Edgepair Heraldry,F3,Demigod,B
+MV-SIG-BFS-005-04,Field Drawn Parry,Delugescute,F5,Demigod,B
+MV-SIG-BFS-005-05,Sky Line Cut,Haemal Scissor,F2,Demigod,B
+MV-SIG-BFS-005-06,Horizon Reading,Hospitable Cheekhilt,F1,Demigod,B
+MV-SIG-BFS-005-07,Twin Cloud Bind,Doublehilt Troth,F3,Demigod,B
+MV-SIG-BFS-005-08,Wide Sky Ward,Inviolate Wristside,F1,Demigod,B
+MV-SIG-BFS-005-09,Azure Sweep of the Pair,Entropy Shearedge,F2,Demigod,B
+MV-SIG-BFS-005-10,Field Born Crossing,Wingodyssey,F4,Demigod,B
+MV-SIG-BFS-005-11,Open Sky of the Pair,Heroic Tempestuous Hiltfold,F6a,Demigod,B
+MV-SIG-BFS-006-01,Mated Blade Rest,Hornbeam Platepoint,F2,Core Formation,B
+MV-SIG-BFS-006-02,Core Warmed Cut,Inferno Snapcut,F2,Core Formation,B
+MV-SIG-BFS-006-03,Level Sky Step,Vigor Shortedge,F2,Core Formation,B
+MV-SIG-BFS-006-04,Core Thread Parry,Deluge Fliptang,F2,Core Formation,B
+MV-SIG-BFS-006-05,Mate Echo Thrust,Mothverdict,F4,Core Formation,B
+MV-SIG-BFS-006-06,Quiet Core Bind,Sigil Shearing,F2,Core Formation,B
+MV-SIG-BFS-006-07,Core Anchored Ward,Undaunted Doublehilt,F1,Core Formation,B
+MV-SIG-BFS-006-08,Mated Edge Convergence Cut,Scutedecree,F4,Core Formation,B
+MV-SIG-BFS-006-09,Beneath the Azure Sky Cut,Vacuum Clipper,F2,Core Formation,B
+MV-SIG-BFS-006-10,Mate of the Azure Core,Bedrock Scissor,F2,Core Formation,B
+MV-SIG-BFS-007-01,First Step of the Course,Vigor Crossing,F2,Warrior,B
+MV-SIG-BFS-007-02,Gust Cover Draw,Devout Shearedge,F1,Warrior,B
+MV-SIG-BFS-007-03,Wind Needle Mate Jab,Vaunted Snapcut,F1,Warrior,B
+MV-SIG-BFS-007-04,Bearing Taking Pace,Bedrock Shearing,F2,Warrior,B
+MV-SIG-BFS-007-05,Breeze Edge Cut,Steelpleat,F5,Warrior,B
+MV-SIG-BFS-007-06,Oath Held Pair Guard,Steel Cheekhilt,F2,Warrior,B
+MV-SIG-BFS-007-07,Crosswind Hook,Platepoint Pledge,F3,Warrior,B
+MV-SIG-BFS-007-08,Wind Sworn Reply,Squall Shearing,F2,Champion,B
+MV-SIG-BFS-007-09,Gust Shedding Ward,Revelation Shortedge,F2,Champion,B
+MV-SIG-BFS-007-10,Oath Spoken Rush,Seasonmoth,F5,Demigod,B
+MV-SIG-BFS-007-11,Signature Step to Oath,Resonant Tenet Swingguard,F6a,Warrior,B
+MV-SIG-BFS-008-01,Plateau Plain Stance,Glacier Wristside,F2,Warrior,B
+MV-SIG-BFS-008-02,Level Ground Cut,Haemalmoth,F5,Warrior,B
+MV-SIG-BFS-008-03,Dry Grass Step,Bedrock Flurry,F2,Warrior,B
+MV-SIG-BFS-008-04,Edge Wind Deflection,Squall Hiltfold,F2,Warrior,B
+MV-SIG-BFS-008-05,Short Paired Chop,Storied Fliptang,F1,Warrior,B
+MV-SIG-BFS-008-06,Oath Distance Hold,Commanding Scissor,F1,Warrior,B
+MV-SIG-BFS-008-07,Rim Turning Cut,Vigorscute,F5,Champion,B
+MV-SIG-BFS-008-08,Open Ground Ward,Prismpleat,F5,Champion,B
+MV-SIG-BFS-008-09,Plateau Edge Absorption,Scutepledge,F4,Demigod,B
+MV-SIG-BFS-008-10,Short Edge of the Plateau,Dauntless Clipper,F1,Warrior,B
+MV-SIG-BFS-009-01,Oath Pledge Draw,Imperial Crossing,F1,Champion,B
+MV-SIG-BFS-009-02,Gale Pressed Guard,Sanctum Shortedge,F2,Champion,B
+MV-SIG-BFS-009-03,Wind Lance Thrust,Noble Snapcut,F1,Champion,B
+MV-SIG-BFS-009-04,Gust Hop Pair Pace,Hiltfold Boon,F3,Champion,B
+MV-SIG-BFS-009-05,Sworn Wind Wing Parry,Parity Doublehilt,F2,Champion,B
+MV-SIG-BFS-009-06,Gale Tearing Cut,Intrepid Shearedge,F1,Champion,B
+MV-SIG-BFS-009-07,Oath Breath Steady,Vigormoth,F5,Champion,B
+MV-SIG-BFS-009-08,Windlock Bind,Masterful Cheekhilt,F1,Champion,B
+MV-SIG-BFS-009-09,Oath Gale Chain Rush,Season Edgepair,F2,Champion,B
+MV-SIG-BFS-009-10,Sworn Gale Ward,Vacuumwing,F5,Champion,B
+MV-SIG-BFS-009-11,Single Voice Gale Flash,Interstice Flurry,F2,Demigod,B
+MV-SIG-BFS-009-12,Gale Oath of Two Blades,Vaunted Thunderclap Snapcut,F6a,Champion,B
+MV-SIG-BFS-010-01,Chosen Bearing Stance,Bedrock Edgepair,F2,Ruler,B
+MV-SIG-BFS-010-02,Bearing Line Paired Cut,Bedrock Clipper,F2,Ruler,B
+MV-SIG-BFS-010-03,Back to Bearing Step,Delugeflurry,F5,Ruler,B
+MV-SIG-BFS-010-04,Wind Bent Guard,Deluge Platepoint,F2,Ruler,B
+MV-SIG-BFS-010-05,Sworn Line Mate Thrust,Lordly Crossing,F1,Ruler,B
+MV-SIG-BFS-010-06,Bearing Feeling Reach,Gracious Fliptang,F1,Ruler,B
+MV-SIG-BFS-010-07,Held Bearing Ward,Glacier Fliptang,F2,Ruler,B
+MV-SIG-BFS-010-08,Bearing Breaking Counter,Squallmoth,F5,Ruler,B
+MV-SIG-BFS-010-09,Unturned Sworn Bearing,Dune Swingguard,F2,Demigod,B
+MV-SIG-BFS-010-10,Bearing of the Sworn Pair,Sacrosanct Wristside,F1,Ruler,B
+MV-SIG-BFS-011-01,Crosswind Ready Stance,Steel Swingguard,F2,Demigod,B
+MV-SIG-BFS-011-02,Side Wind Slash,Doublehilt Triumph,F3,Demigod,B
+MV-SIG-BFS-011-03,Oath Field Pace,Windborne Shearing,F1,Demigod,B
+MV-SIG-BFS-011-04,Crosswind Field Parry,Shortedge Pledge,F3,Demigod,B
+MV-SIG-BFS-011-05,Sworn Edge Lengthen,Matchless Snapcut,F1,Demigod,B
+MV-SIG-BFS-011-06,Oath Distance Feeling,Peal Platepoint,F2,Demigod,B
+MV-SIG-BFS-011-07,Crosswind Pinion Bind,Sigil Cheekhilt,F2,Demigod,B
+MV-SIG-BFS-011-08,Wind Spanning Ward,Prism Wristside,F2,Demigod,B
+MV-SIG-BFS-011-09,Oath Wheel Sweep,Magmaflurry,F5,Demigod,B
+MV-SIG-BFS-011-10,Phase Through the Crosswind,Nightmare Shearedge,F2,Demigod,B
+MV-SIG-BFS-011-11,Crosswind of the Oath Pair,Fearless Steel Scissor,F6a,Demigod,B
+MV-SIG-BFS-012-01,Sworn Blade Rest,Consecrated Edgepair,F1,Core Formation,B
+MV-SIG-BFS-012-02,Core Wind Wrist Cut,Triumphant Clipper,F1,Core Formation,B
+MV-SIG-BFS-012-03,Gale Even Step,Vigor Shearing,F2,Core Formation,B
+MV-SIG-BFS-012-04,Core Gale Guard Turn,Pallwing,F5,Core Formation,B
+MV-SIG-BFS-012-05,Sworn Mate Thrust,Thunderclap Flurry,F2,Core Formation,B
+MV-SIG-BFS-012-06,Core Held Bind,Scissor Seal,F3,Core Formation,B
+MV-SIG-BFS-012-07,Gale Anchored Ward,Paritywing,F5,Core Formation,B
+MV-SIG-BFS-012-08,Sworn Pair Convergence,Steel Hiltfold,F2,Core Formation,B
+MV-SIG-BFS-012-09,Wind Beyond Armor,Retribution Edgepair,F2,Core Formation,B
+MV-SIG-BFS-012-10,Core Gale of the Sworn,Vigorpleat,F5,Core Formation,B
+MV-SIG-BFS-001-01,Hornbeam Wristside,Unyielding Wristside,F2,Warrior,B
+MV-SIG-BFS-004-01,Hornbeam Cheekhilt,Unyielding Cheekhilt,F2,Ruler,B
+MV-SIG-BFS-006-01,Hornbeam Platepoint,Ironclad Platepoint,F2,Core Formation,B
+MV-SIG-BFS-008-01,Glacier Wristside,Adamant Wristside,F2,Warrior,B
+MV-SIG-BFS-009-02,Sanctum Shortedge,Stalwart Shortedge,F2,Champion,B
+MV-SIG-BFS-010-07,Glacier Fliptang,Ironclad Fliptang,F2,Ruler,B
+MV-SIG-BFS-010-09,Dune Swingguard,Quelling Swingguard,F2,Demigod,B

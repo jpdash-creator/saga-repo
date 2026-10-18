@@ -1,0 +1,143 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-SCI-001-01,Twin-Track Ready Footing,Sainted Swellback,F1,Warrior L1 Low,B
+MV-SIG-SCI-001-02,Left Track Belly Cut,Gallant Carve,F1,Warrior L1 Low,B
+MV-SIG-SCI-001-03,Right Track Return,Cantlebanner,F4,Warrior L1 Low,B
+MV-SIG-SCI-001-04,Track-Swapping Parry,Palllip,F5,Warrior L1 Low,B
+MV-SIG-SCI-001-05,Paired Drawing Slash,Squall Deepbelly,F2,Warrior L1 Low,B
+MV-SIG-SCI-001-06,Hooked Cross-Track Pull,Hornbeam Flowedge,F2,Warrior L1 Low,B
+MV-SIG-SCI-001-07,Matched Pressure Cut,Inferno Flaretip,F2,Warrior L1 Low,B
+MV-SIG-SCI-001-08,Twin Crescent Fling,Paramount Whipcut,F1,Champion L1 Low,B
+MV-SIG-SCI-001-09,Tracks Walled by Qi,Statute Scimhilt,F2,Champion L1 Low,B
+MV-SIG-SCI-001-10,Tracks Folded in One Stroke,Radiance Lop,F2,Demigod L1 Low,B
+MV-SIG-SCI-001-11,Court of the Two Tracks,Volition Talwar,F2,Warrior L1 Low,B
+MV-SIG-SCI-002-01,Hawk-Perch Ready Guard,Bedrock Crescent,F2,Warrior L5 Low,B
+MV-SIG-SCI-002-02,Wing-Folded Step Back,Deluge Scoop,F2,Warrior L5 Low,B
+MV-SIG-SCI-002-03,Dive Cut from the Shoulder,Thunderclap Cantle,F2,Warrior L5 Low,B
+MV-SIG-SCI-002-04,Pinion Beat Aside,Revered Broadcurve,F1,Warrior L5 Low,B
+MV-SIG-SCI-002-05,Hook-Talon Strike,Carveedict,F4,Warrior L5 Low,B
+MV-SIG-SCI-002-06,Updraft Rising Guard,Statute Saddleguard,F2,Warrior L5 Low,B
+MV-SIG-SCI-002-07,Stoop with a Sweeping Tail,Lordly Swellback,F1,Champion L1 Low,B
+MV-SIG-SCI-002-08,Gliding Counter-Wing,Squall Talwar,F2,Champion L1 Low,B
+MV-SIG-SCI-002-09,Hawk Drops from the Sky,Seasoncantle,F5,Demigod L1 Low,B
+MV-SIG-SCI-002-10,The Hawk's Curved Stoop,Fearless Rake Crown,F6b,Warrior L5 Low,B
+MV-SIG-SCI-003-01,Basin Court Ready Stance,Sanctum Flowedge,F2,Champion L2 Low,B
+MV-SIG-SCI-003-02,Brimming Overcut,Carvetriumph,F4,Champion L2 Low,B
+MV-SIG-SCI-003-03,Shallow Water Pace,Deluge Arcwheel,F2,Champion L2 Low,B
+MV-SIG-SCI-003-04,Scimitar Spillway Parry,Faithful Scimhilt,F1,Champion L2 Low,B
+MV-SIG-SCI-003-05,Dammed Edge Press,Talwarpledge,F4,Champion L2 Low,B
+MV-SIG-SCI-003-06,Rising Water Draw,Vigor Lop,F2,Champion L2 Low,B
+MV-SIG-SCI-003-07,Counter-Flood Return,Deepbelly Triumph,F3,Champion L2 Low,B
+MV-SIG-SCI-003-08,Court-Spanning Hook,Carveseal,F4,Champion L2 Low,B
+MV-SIG-SCI-003-09,Basin Filled to the Rim,Broadcurve Banner,F3,Champion L2 Low,B
+MV-SIG-SCI-003-10,Standing Pool Ward,Bedrock Saddleguard,F2,Champion L2 Low,B
+MV-SIG-SCI-003-11,Overflow Beyond the Rim,Unbending Carve,F1,Demigod L1 Low,B
+MV-SIG-SCI-003-12,Court of the Brimming Basin,Unrivaled Crescent Banner,F6b,Champion L2 Low,B
+MV-SIG-SCI-004-01,Twin-Court Standing Guard,Immaculate Swellback,F1,Ruler L1 Mid,B
+MV-SIG-SCI-004-02,First-Court Cut,Vigortalwar,F5,Ruler L1 Mid,B
+MV-SIG-SCI-004-03,Second-Court Cut,Noble Whipcut,F1,Ruler L1 Mid,B
+MV-SIG-SCI-004-04,Linked Court Parry,Deluge Flaretip,F2,Ruler L1 Mid,B
+MV-SIG-SCI-004-05,Dual Pulse of Qi Cut,Inferno Cantle,F2,Ruler L1 Mid,B
+MV-SIG-SCI-004-06,Court-Mate Hook Pull,Scoop Covenant,F3,Ruler L1 Mid,B
+MV-SIG-SCI-004-07,Doubled Step Reversal,Saddleguard Heraldry,F3,Ruler L1 Mid,B
+MV-SIG-SCI-004-08,Twin Edge Piercing Stroke,Flaretip Triumph,F3,Ruler L1 Mid,B
+MV-SIG-SCI-004-09,Interlaced Qi Barrier,Prism Flowedge,F2,Ruler L1 Mid,B
+MV-SIG-SCI-004-10,Courts Meeting in the Gap,Famed Talwar,F1,Demigod L1 Low,B
+MV-SIG-SCI-004-11,Twin-Court Closing Curve,Volition Scoop,F2,Ruler L1 Mid,B
+MV-SIG-SCI-005-01,River Court Standing Guard,Deepbelly Troth,F3,Demigod L2 Low,B
+MV-SIG-SCI-005-02,Long Current Cut,Haemalscoop,F5,Demigod L2 Low,B
+MV-SIG-SCI-005-03,Bank-Skirting Step,Lop Heraldry,F3,Demigod L2 Low,B
+MV-SIG-SCI-005-04,Eddy Field Parry,Lipvow,F4,Demigod L2 Low,B
+MV-SIG-SCI-005-05,Rising River Draw,Loptriumph,F4,Demigod L2 Low,B
+MV-SIG-SCI-005-06,Scimitar Undertow Hook Drag,Millstone Arcwheel,F2,Demigod L2 Low,B
+MV-SIG-SCI-005-07,Spreading Current of Edges,Fearless Arcwheel,F1,Demigod L2 Low,B
+MV-SIG-SCI-005-08,River-Wide Ward,Steellip,F5,Demigod L2 Low,B
+MV-SIG-SCI-005-09,Current That Outruns the Eye,Spectral Rake,F1,Demigod L2 Low,B
+MV-SIG-SCI-005-10,The River Court Long Curve,Dauntless Radiance Broadcurve,F6a,Demigod L2 Low,B
+MV-SIG-SCI-006-01,Horizon Ready Stance,Statute Crescent,F2,Core Formation L1 Low,B
+MV-SIG-SCI-006-02,Core-Lit Forehand,Vigor Rake,F2,Core Formation L1 Low,B
+MV-SIG-SCI-006-03,Far-Edge Step,Squalllip,F5,Core Formation L1 Low,B
+MV-SIG-SCI-006-04,Core-Turned Backhand,Whipcut Verdict,F3,Core Formation L1 Low,B
+MV-SIG-SCI-006-05,Horizon Parry,Deluge Scimhilt,F2,Core Formation L1 Low,B
+MV-SIG-SCI-006-06,Long Azure Scimitar Draw,Inferno Scimhilt,F2,Core Formation L1 Low,B
+MV-SIG-SCI-006-07,Hook of Two Heights,Sigil Lop,F2,Core Formation L1 Low,B
+MV-SIG-SCI-006-08,Standing Horizon Line,Steel Flaretip,F2,Core Formation L1 Low,B
+MV-SIG-SCI-006-09,Core-Sent Crescent,Peerless Crescent,F1,Core Formation L1 Low,B
+MV-SIG-SCI-006-10,Dual Horizon Wall,Talwarvow,F4,Core Formation L1 Low,B
+MV-SIG-SCI-006-11,Horizon Folded to a Point,Retribution Saddleguard,F2,Core Formation L1 Low,B
+MV-SIG-SCI-006-12,Azure Horizon Closing Cut,Matchless Dune Cantle,F6a,Core Formation L1 Low,B
+MV-SIG-SCI-007-01,Oath-Sworn Facing Stance,Prismcantle,F5,Warrior L3 Low,B
+MV-SIG-SCI-007-02,Sworn Line Overcut,Vigorcantle,F5,Warrior L3 Low,B
+MV-SIG-SCI-007-03,Scimitar Plateau Stride,Dune Carve,F2,Warrior L3 Low,B
+MV-SIG-SCI-007-04,Windward Flat Parry,Inviolate Flowedge,F1,Warrior L3 Low,B
+MV-SIG-SCI-007-05,Oath Held Through the Parry,Squall Swellback,F2,Warrior L3 Low,B
+MV-SIG-SCI-007-06,Gust-Lifted Rising Cut,Bedrock Carve,F2,Warrior L3 Low,B
+MV-SIG-SCI-007-07,Hook Sworn to the Wrist,Glacier Scoop,F2,Warrior L3 Low,B
+MV-SIG-SCI-007-08,Open-Edge Counter Draw,Cantle Triumph,F3,Warrior L3 Low,B
+MV-SIG-SCI-007-09,Wind-Sworn Sweeping Arc,Bedrock Arcwheel,F2,Champion L1 Low,B
+MV-SIG-SCI-007-10,Standing Gale Guard,Steel Deepbelly,F2,Champion L1 Low,B
+MV-SIG-SCI-007-11,Oath Carried Past the Guard,Vacuumtalwar,F5,Demigod L1 Low,B
+MV-SIG-SCI-007-12,The Oath-Sworn Curved Cut,Lopverdict,F4,Warrior L3 Low,B
+MV-SIG-SCI-008-01,Scimitar Bearing-Taking Stance,Interstice Broadcurve,F2,Warrior L8 Mid,B
+MV-SIG-SCI-008-02,Bearing-Held Forehand,Talwaredict,F4,Warrior L8 Mid,B
+MV-SIG-SCI-008-03,Edge-of-Stance Retreat,Dunerake,F5,Warrior L8 Mid,B
+MV-SIG-SCI-008-04,Scimitar Bearing Shift Parry,Paritycantle,F5,Warrior L8 Mid,B
+MV-SIG-SCI-008-05,Plateau Draw on the Bearing,Steel Whipcut,F2,Warrior L8 Mid,B
+MV-SIG-SCI-008-06,Hook Held to the Line,Millstone Talwar,F2,Warrior L8 Mid,B
+MV-SIG-SCI-008-07,Cut Under the Foe's Bearing,Inferno Rake,F2,Warrior L8 Mid,B
+MV-SIG-SCI-008-08,Bearing Thrown Ahead,Radiance Rake,F2,Champion L1 Low,B
+MV-SIG-SCI-008-09,Plateau Floor Guard,Steeltalwar,F5,Champion L1 Low,B
+MV-SIG-SCI-008-10,Bearing Beyond the Guard,Interstice Carve,F2,Demigod L1 Low,B
+MV-SIG-SCI-008-11,The Plateau Bearing Stroke,Vigor Whipcut,F2,Warrior L8 Mid,B
+MV-SIG-SCI-009-01,Wind-Sworn Curve Opening,Steel Cantle,F2,Champion L4 Low,B
+MV-SIG-SCI-009-02,Curve Rolled Over the Wrist,Thunderclap Talwar,F2,Champion L4 Low,B
+MV-SIG-SCI-009-03,Slant-Wind Step,Swellback Boon,F3,Champion L4 Low,B
+MV-SIG-SCI-009-04,Curve Turning Back the Cut,Deluge Flowedge,F2,Champion L4 Low,B
+MV-SIG-SCI-009-05,Wind-Sworn Pull Cut,Inferno Crescent,F2,Champion L4 Low,B
+MV-SIG-SCI-009-06,Gust-Hooked Sleeve Tear,Entropy Lop,F2,Champion L4 Low,B
+MV-SIG-SCI-009-07,Curve of the Rising Gale,Lopedict,F4,Champion L4 Low,B
+MV-SIG-SCI-009-08,Sworn Curve Wind Ward,Glacier Deepbelly,F2,Champion L4 Low,B
+MV-SIG-SCI-009-09,Wind Passing Through the Curve,Prism Scimhilt,F2,Demigod L1 Low,B
+MV-SIG-SCI-009-10,The Wind-Sworn Closing Curve,Choral Broadcurve Verdict,F6b,Champion L4 Low,B
+MV-SIG-SCI-010-01,Gale-Line Facing Guard,Prism Flaretip,F2,Ruler L1 Mid,B
+MV-SIG-SCI-010-02,Down-the-Line Cut,Steel Arcwheel,F2,Ruler L1 Mid,B
+MV-SIG-SCI-010-03,Line-Holding Footwork,Dune Saddleguard,F2,Ruler L1 Mid,B
+MV-SIG-SCI-010-04,Gale-Breaking Parry,Pall Broadcurve,F2,Ruler L1 Mid,B
+MV-SIG-SCI-010-05,Gale-Line Draw,Splendid Saddleguard,F1,Ruler L1 Mid,B
+MV-SIG-SCI-010-06,Cross-Gale Counter,Squallcarve,F5,Ruler L1 Mid,B
+MV-SIG-SCI-010-07,Hooking Along the Line,Swellback Seal,F3,Ruler L1 Mid,B
+MV-SIG-SCI-010-08,Edge Turned Into the Wind,Glacier Flaretip,F2,Ruler L1 Mid,B
+MV-SIG-SCI-010-09,Gale Line Thrown Forward,Pealcantle,F5,Ruler L1 Mid,B
+MV-SIG-SCI-010-10,Unbroken Gale Barrier,Statute Flowedge,F2,Ruler L1 Mid,B
+MV-SIG-SCI-010-11,Line Outrunning the Cut,Arcwheel Solace,F3,Demigod L1 Low,B
+MV-SIG-SCI-010-12,The Gale-Line Master Cut,Scooptriumph,F4,Ruler L1 Mid,B
+MV-SIG-SCI-011-01,Unwalled Oath Opening,Glacier Crescent,F2,Demigod L1 Mid,B
+MV-SIG-SCI-011-02,Oath Cut at the Neck Line,Haemaltalwar,F5,Demigod L1 Mid,B
+MV-SIG-SCI-011-03,Low Scimitar Glide,Dune Lop,F2,Demigod L1 Mid,B
+MV-SIG-SCI-011-04,Scimitar Field-Held Parry,Parity Talwar,F2,Demigod L1 Mid,B
+MV-SIG-SCI-011-05,Oath Draw Across the Open,Squallscoop,F5,Demigod L1 Mid,B
+MV-SIG-SCI-011-06,Sworn Hook Against the Retreat,Cantle Vow,F3,Demigod L1 Mid,B
+MV-SIG-SCI-011-07,Counter-Draw on the Charge,Steel Scimhilt,F2,Demigod L1 Mid,B
+MV-SIG-SCI-011-08,Oath-Wide Cut,Tempestuous Scoop,F2,Demigod L1 Mid,B
+MV-SIG-SCI-011-09,Standing Without Cover,Talwartroth,F4,Demigod L1 Mid,B
+MV-SIG-SCI-011-10,Oath Passing the Guard,Rakeboon,F4,Demigod L1 Mid,B
+MV-SIG-SCI-011-11,The Unwalled Oath-Curve,Demolition Whipcut,F2,Demigod L1 Mid,B
+MV-SIG-SCI-012-01,Far-Bearing Stance,Undaunted Scimhilt,F1,Core Formation L2 Low,B
+MV-SIG-SCI-012-02,Core-Sworn Overcut,Talwartriumph,F4,Core Formation L2 Low,B
+MV-SIG-SCI-012-03,Long Reach Stride,Squall Rake,F2,Core Formation L2 Low,B
+MV-SIG-SCI-012-04,Beyond-Reach Parry,Sainted Broadcurve,F1,Core Formation L2 Low,B
+MV-SIG-SCI-012-05,Core-Fed Long Draw,Quenched Lop,F2,Core Formation L2 Low,B
+MV-SIG-SCI-012-06,Distant Hook Pull,Lipseal,F4,Core Formation L2 Low,B
+MV-SIG-SCI-012-07,Core Line Across the Plateau,Valiant Scoop,F1,Core Formation L2 Low,B
+MV-SIG-SCI-012-08,Held Bearing Barrier,Cantleseal,F4,Core Formation L2 Low,B
+MV-SIG-SCI-012-09,Bearing Folded Into a Point,Anima Carve,F2,Core Formation L2 Low,B
+MV-SIG-SCI-012-10,The Far-Bearing Closing Cut,Gallant Radiance Whipcut,F6a,Core Formation L2 Low,B
+MV-SIG-SCI-001-06,Hornbeam Flowedge,Titan Flowedge,F2,Warrior L1 Low,B
+MV-SIG-SCI-003-01,Sanctum Flowedge,Sovereign Flowedge,F2,Champion L2 Low,B
+MV-SIG-SCI-006-12,Matchless Dune Cantle,Matchless Cantle,F6a,Core Formation L1 Low,B
+MV-SIG-SCI-007-03,Dune Carve,Mighty Carve,F2,Warrior L3 Low,B
+MV-SIG-SCI-007-07,Glacier Scoop,Colossal Scoop,F2,Warrior L3 Low,B
+MV-SIG-SCI-009-08,Glacier Deepbelly,Thunderous Deepbelly,F2,Champion L4 Low,B
+MV-SIG-SCI-010-03,Dune Saddleguard,Titan Saddleguard,F2,Ruler L1 Mid,B
+MV-SIG-SCI-010-08,Glacier Flaretip,Peerless Flaretip,F2,Ruler L1 Mid,B
+MV-SIG-SCI-011-01,Glacier Crescent,Sovereign Crescent,F2,Demigod L1 Mid,B
+MV-SIG-SCI-011-03,Dune Lop,Colossal Lop,F2,Demigod L1 Mid,B

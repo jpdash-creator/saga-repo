@@ -1,0 +1,138 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-CLW-001-01,Basin Hawk Resting Guard,Knucklespike Vow,F3,Warrior,B
+MV-SIG-CLW-001-02,Pair Claw First Rake,Triumphant Clawrake,F1,Warrior,B
+MV-SIG-CLW-001-03,Hawk Foot Quick Step,Squall Clawbase,F2,Warrior,B
+MV-SIG-CLW-001-04,Perch Hook and Pull,Millstone Hookclaw,F2,Warrior,B
+MV-SIG-CLW-001-05,Basin Edge Slash,Heroic Scour,F1,Warrior,B
+MV-SIG-CLW-001-06,Wing Brush Wrist Turn,Venomflay,F5,Warrior,B
+MV-SIG-CLW-001-07,Paired Tine Shallow Stab,Radiance Backplate,F2,Warrior,B
+MV-SIG-CLW-001-08,Hawk Basin Rending Fall,Haemaltalon,F5,Champion,B
+MV-SIG-CLW-001-09,Pair Claw Clinging Press,Flay Vow,F3,Champion,B
+MV-SIG-CLW-001-10,Hawk Rise from the Basin,Seasonraze,F5,Demigod,B
+MV-SIG-CLW-001-11,Basin Hawk Twin Stoop,Haemal Palmstrap,F2,Warrior,B
+MV-SIG-CLW-002-01,River Track Guard Line,Bedrock Talon,F2,Warrior,B
+MV-SIG-CLW-002-02,Azure Edge Raking Pull,Vigorshred,F5,Warrior,B
+MV-SIG-CLW-002-03,Stream Step Left and Right,Squall Fingerblade,F2,Warrior,B
+MV-SIG-CLW-002-04,Azure Hook Along the Bank,Masterful Clawtip,F1,Warrior,B
+MV-SIG-CLW-002-05,Second Track Slash,Intrepid Shred,F1,Warrior,B
+MV-SIG-CLW-002-06,Bend Deflection Rake,Talontroth,F4,Warrior,B
+MV-SIG-CLW-002-07,Two Track River Sunder,Thunderclap Tinecurve,F2,Champion,B
+MV-SIG-CLW-002-08,Azure Binding Current,Shredvow,F4,Champion,B
+MV-SIG-CLW-002-09,River Return Parry,Prismnail,F5,Demigod,B
+MV-SIG-CLW-002-10,Two Tracks One River Rake,Noble Quenched Wristband,F6a,Warrior,B
+MV-SIG-CLW-003-01,Paired Reach Standing Ward,Prism Knucklespike,F2,Champion,B
+MV-SIG-CLW-003-02,Azure Hawk Claw Draw,Talonbanner,F4,Champion,B
+MV-SIG-CLW-003-03,Paired Reach Claw Slide,Spectral Shred,F1,Champion,B
+MV-SIG-CLW-003-04,Paired Reach Wrist Check,Pealnail,F5,Champion,B
+MV-SIG-CLW-003-05,Hawk Reach Hook Lift,Subjugating Rip,F1,Champion,B
+MV-SIG-CLW-003-06,Reaching Pair of Slashes,Shredbanner,F4,Champion,B
+MV-SIG-CLW-003-07,Azure Sky Guard Opener,Entropy Raze,F2,Champion,B
+MV-SIG-CLW-003-08,Hawk Thrust Between Plates,Steel Clawbase,F2,Champion,B
+MV-SIG-CLW-003-09,Paired Reach Rend,Imperial Hookclaw,F1,Champion,B
+MV-SIG-CLW-003-10,Azure Reach Pinning Hold,Gloomraze,F5,Champion,B
+MV-SIG-CLW-003-11,Hawk Reach Empowered Rake,Bloom Talon,F2,Demigod,B
+MV-SIG-CLW-003-12,Azure Hawk Reaching Pair,Thunderclap Palmstrap,F2,Champion,B
+MV-SIG-CLW-004-01,Crossing Guard Ready,Enshrined Wristband,F1,Ruler,B
+MV-SIG-CLW-004-02,Court Raking Pass,Inferno Raze,F2,Ruler,B
+MV-SIG-CLW-004-03,Ford Step Forward,Dune Tinecurve,F2,Ruler,B
+MV-SIG-CLW-004-04,Mid-River Hook Pull,Scour Covenant,F3,Ruler,B
+MV-SIG-CLW-004-05,Court Alternating Slashes,Inferno Clawtip,F2,Ruler,B
+MV-SIG-CLW-004-06,Current Break Wrench,Pealtalon,F5,Ruler,B
+MV-SIG-CLW-004-07,River Crossing Rending,Vaunted Flay,F1,Ruler,B
+MV-SIG-CLW-004-08,Two-Court Hold Fast,Nailseal,F4,Ruler,B
+MV-SIG-CLW-004-09,Two-Bank Vanishing Rake,Wraithlike Rip,F1,Demigod,B
+MV-SIG-CLW-004-10,Twin Courts Crossing Claw,Symphonic Fingerblade Crown,F6b,Ruler,B
+MV-SIG-CLW-005-01,Xiantian Field Guard Seat,Prism Clawbase,F2,Demigod,B
+MV-SIG-CLW-005-02,Dual Track Field Rake,Quenched Clawrake,F2,Demigod,B
+MV-SIG-CLW-005-03,Track Glide Step,Squall Palmstrap,F2,Demigod,B
+MV-SIG-CLW-005-04,Field Track Hook Pull,Authoritative Backplate,F1,Demigod,B
+MV-SIG-CLW-005-05,Dual Slash Through the Field,Haemal Hookclaw,F2,Demigod,B
+MV-SIG-CLW-005-06,Track Wrench of the Guard,Venom Raze,F2,Demigod,B
+MV-SIG-CLW-005-07,Field Needle Tines,Sovereign Flay,F1,Demigod,B
+MV-SIG-CLW-005-08,Dual Field Sunder,Vigorraze,F5,Demigod,B
+MV-SIG-CLW-005-09,Track Lock Suppression,Volition Backplate,F2,Demigod,B
+MV-SIG-CLW-005-10,Dual Track Truth Rake,Destiny Knucklespike,F2,Demigod,B
+MV-SIG-CLW-005-11,Dual-Track Field Claw,Splendid Talon,F1,Demigod,B
+MV-SIG-CLW-006-01,Core-Set Ready Stance,Steel Clawtip,F2,Core Formation,B
+MV-SIG-CLW-006-02,Twin Azure Talon Rake,Steel Tinecurve,F2,Core Formation,B
+MV-SIG-CLW-006-03,Core Pivot Claw Step,Vigor Wristband,F2,Core Formation,B
+MV-SIG-CLW-006-04,Talon Brush Parry,Deluge Wristband,F2,Core Formation,B
+MV-SIG-CLW-006-05,Core Hook Lift,Ruling Clawrake,F1,Core Formation,B
+MV-SIG-CLW-006-06,Talon Raking Pair,Shred Crown,F3,Core Formation,B
+MV-SIG-CLW-006-07,Core Surge Wrist Wrench,Entropy Palmstrap,F2,Core Formation,B
+MV-SIG-CLW-006-08,Azure Needle Stab,Talonverdict,F4,Core Formation,B
+MV-SIG-CLW-006-09,Core Talon Rend,Magnificent Hookclaw,F1,Core Formation,B
+MV-SIG-CLW-006-10,Core Binding Pair,Hornbeam Clawrake,F2,Core Formation,B
+MV-SIG-CLW-006-11,Core Talon Flash Pass,Pulsarpawl,F5,Core Formation,B
+MV-SIG-CLW-006-12,Core Twin Azure Talons,Famed Steel Fingerblade,F6a,Core Formation,B
+MV-SIG-CLW-007-01,Plateau Ready Ground Stance,Sacrosanct Talon,F1,Warrior,B
+MV-SIG-CLW-007-02,Wind-Sworn Draw Rake,Magnificent Raze,F1,Warrior,B
+MV-SIG-CLW-007-03,Wind Skim Step,Soundless Shred,F1,Warrior,B
+MV-SIG-CLW-007-04,Sworn Hook Haul,Glacier Knucklespike,F2,Warrior,B
+MV-SIG-CLW-007-05,Plateau Wind Slash,Squallscour,F5,Warrior,B
+MV-SIG-CLW-007-06,Gale Wrench Twist,Entropy Scour,F2,Warrior,B
+MV-SIG-CLW-007-07,Plateau Sundering Rake,Paramount Backplate,F1,Champion,B
+MV-SIG-CLW-007-08,Sworn Pinning Claws,Gloom Tinecurve,F2,Champion,B
+MV-SIG-CLW-007-09,Sworn Wind Claw Return,Radiance Clawtip,F2,Demigod,B
+MV-SIG-CLW-007-10,Wind-Sworn Plateau Claw,Peerless Bedrock Flay,F6a,Warrior,B
+MV-SIG-CLW-008-01,Oath Gale Guard Seat,Nailpledge,F4,Warrior,B
+MV-SIG-CLW-008-02,Gale Raking Draw Down,Gallant Rip,F1,Warrior,B
+MV-SIG-CLW-008-03,Oath Step in the Gust,Dune Clawtip,F2,Warrior,B
+MV-SIG-CLW-008-04,Gale Sweep Cover,Parity Backplate,F2,Warrior,B
+MV-SIG-CLW-008-05,Oath Hook Tug,Sigil Clawrake,F2,Warrior,B
+MV-SIG-CLW-008-06,Gale Slash Pair,Vigorscour,F5,Warrior,B
+MV-SIG-CLW-008-07,Oath Wrench of the Joint,Ruling Rip,F1,Warrior,B
+MV-SIG-CLW-008-08,Gale Needle Tines,Famed Clawbase,F1,Warrior,B
+MV-SIG-CLW-008-09,Oath Gale Rending,Flaytriumph,F4,Champion,B
+MV-SIG-CLW-008-10,Oath Gale Binding Press,Commanding Shred,F1,Champion,B
+MV-SIG-CLW-008-11,Gale Oath Piercing Rake,Dauntless Fingerblade,F1,Demigod,B
+MV-SIG-CLW-008-12,Oath and Gale Claw,Steel Hookclaw,F2,Warrior,B
+MV-SIG-CLW-009-01,Steady Hand Gale Guard,Sanctum Talon,F2,Champion,B
+MV-SIG-CLW-009-02,Steady Rake Along the Wind,Steelscour,F5,Champion,B
+MV-SIG-CLW-009-03,Braced Gust Step,Bedrock Wristband,F2,Champion,B
+MV-SIG-CLW-009-04,Steady Claw Hook Pull,Scourseal,F4,Champion,B
+MV-SIG-CLW-009-05,Gale Short Slashes,Thunderclap Rip,F2,Champion,B
+MV-SIG-CLW-009-06,Steady Wrist Press,Talonseal,F4,Champion,B
+MV-SIG-CLW-009-07,Wind Splitting Tine Thrust,Gallant Clawbase,F1,Champion,B
+MV-SIG-CLW-009-08,Steady Gale Rend,Vaunted Scour,F1,Champion,B
+MV-SIG-CLW-009-09,Steady Hand Pin,Gloom Scour,F2,Champion,B
+MV-SIG-CLW-009-10,Gale-Steadied Empowered Rake,Hospitable Fingerblade,F1,Demigod,B
+MV-SIG-CLW-009-11,Steady Claw in the Gale,Sigil Knucklespike,F2,Champion,B
+MV-SIG-CLW-010-01,Raker's Sworn Guard,Steelnail,F5,Ruler,B
+MV-SIG-CLW-010-02,Sworn Plateau Rake,Quenched Shred,F2,Ruler,B
+MV-SIG-CLW-010-03,Raker Skim Step,Evanescent Tinecurve,F1,Ruler,B
+MV-SIG-CLW-010-04,Raker Hook Drag,Sigilscour,F5,Ruler,B
+MV-SIG-CLW-010-05,Sworn Slash Cross,Bedrock Scour,F2,Ruler,B
+MV-SIG-CLW-010-06,Raker Guard Pry,Despotic Flay,F1,Ruler,B
+MV-SIG-CLW-010-07,Plateau Raker Rend,Lordly Clawtip,F1,Ruler,B
+MV-SIG-CLW-010-08,Sworn Raker Pinning Hold,Raze Seal,F3,Ruler,B
+MV-SIG-CLW-010-09,Raker Edge Flash Pass,Radiance Palmstrap,F2,Demigod,B
+MV-SIG-CLW-010-10,Plateau Raker's Oath Rake,Triumphant Haemal Flay,F6a,Ruler,B
+MV-SIG-CLW-011-01,Xiantian Gale Guard Seat,Pawlvow,F4,Demigod,B
+MV-SIG-CLW-011-02,Field Gale Raking Draw,Thunderclap Knucklespike,F2,Demigod,B
+MV-SIG-CLW-011-03,Gale Field Glide,Fingerblade Boon,F3,Demigod,B
+MV-SIG-CLW-011-04,Gale Field Cover Parry,Squall Wristband,F2,Demigod,B
+MV-SIG-CLW-011-05,Field Gale Hook Haul,Thrallflay,F5,Demigod,B
+MV-SIG-CLW-011-06,Gale Field Slashes,Exalted Tinecurve,F1,Demigod,B
+MV-SIG-CLW-011-07,Field Gale Wrist Wrench,Venompawl,F5,Demigod,B
+MV-SIG-CLW-011-08,Gale Field Needle,Exalted Clawrake,F1,Demigod,B
+MV-SIG-CLW-011-09,Field Gale Sunder,Inferno Clawbase,F2,Demigod,B
+MV-SIG-CLW-011-10,Field Gale Pinning Press,Gloom Talon,F2,Demigod,B
+MV-SIG-CLW-011-11,Gale Field Rake Storm,Lordly Raze,F1,Demigod,B
+MV-SIG-CLW-011-12,Xiantian Gale Claw,Illustrious Squall Backplate,F6a,Demigod,B
+MV-SIG-CLW-012-01,Core Bearing Ready Seat,Steelpawl,F5,Core Formation,B
+MV-SIG-CLW-012-02,Wind Bearing Rake Draw,Steelraze,F5,Core Formation,B
+MV-SIG-CLW-012-03,Core Wind Claw Step,Feather Knucklespike,F1,Core Formation,B
+MV-SIG-CLW-012-04,Core Bearing Claw Hook,Thralltalon,F5,Core Formation,B
+MV-SIG-CLW-012-05,Wind Bearing Slashes,Quenched Clawbase,F2,Core Formation,B
+MV-SIG-CLW-012-06,Core Oath Wrench,Shredtroth,F4,Core Formation,B
+MV-SIG-CLW-012-07,Bearing Wind Needle,Flay Banner,F3,Core Formation,B
+MV-SIG-CLW-012-08,Core Wind Rending,Bedrock Palmstrap,F2,Core Formation,B
+MV-SIG-CLW-012-09,Core Oath Pinning,Volition Rip,F2,Core Formation,B
+MV-SIG-CLW-012-10,Core Bearing Return,Pawlpledge,F4,Core Formation,B
+MV-SIG-CLW-012-11,Core Oath Bearing Claw,Quenched Clawtip,F2,Core Formation,B
+MV-SIG-CLW-004-03,Dune Tinecurve,Surging Tinecurve,F2,Ruler,B
+MV-SIG-CLW-006-10,Hornbeam Clawrake,Crushing Clawrake,F2,Core Formation,B
+MV-SIG-CLW-007-04,Glacier Knucklespike,Vising Knucklespike,F2,Warrior,B
+MV-SIG-CLW-008-03,Dune Clawtip,Surging Clawtip,F2,Warrior,B
+MV-SIG-CLW-009-01,Sanctum Talon,Adamant Talon,F2,Champion,B

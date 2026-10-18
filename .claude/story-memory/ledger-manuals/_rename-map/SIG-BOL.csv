@@ -1,0 +1,145 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-BOL-001-01,Twin Hawk Weights Perch,Deluge Heavyball,F2,Warrior L1 Low,B
+MV-SIG-BOL-001-02,Fixed Hawk Gaze,Eclipse Cordthree,F2,Warrior L1 Low,B
+MV-SIG-BOL-001-03,Pinion Flick,Peal Bolaweight,F2,Warrior L1 Low,B
+MV-SIG-BOL-001-04,Hawk Pair Binding Wrap,Thrall Joinknot,F2,Warrior L1 Low,B
+MV-SIG-BOL-001-05,Spread Cord Hawk Mantle,Prismstone,F5,Warrior L1 Low,B
+MV-SIG-BOL-001-06,Rising Hawk Retreat,Dune Ballsling,F2,Warrior L1 Low,B
+MV-SIG-BOL-001-07,Twin Hawk Pincer Dive,Prismorb,F5,Champion L1 Low,B
+MV-SIG-BOL-001-08,Hawk Nest Cord Trap,Retribution Tripcord,F2,Champion L1 Low,B
+MV-SIG-BOL-001-09,Twin Hawk Soaring Cross,Thunderclap Wrapup,F2,Demigod L1 Low,B
+MV-SIG-BOL-001-10,Twin Hawk Judgement Descent,Peerless Thunderclap Stonehead,F6a,Warrior L1 Low,B
+MV-SIG-BOL-002-01,Court Bow Ready Stance,Hobble Boon,F3,Warrior L5 Mid,B
+MV-SIG-BOL-002-02,Court Draw Cast,Squallbola,F5,Warrior L5 Mid,B
+MV-SIG-BOL-002-03,Court Sleeve Guard,Undaunted Spindle,F1,Warrior L5 Mid,B
+MV-SIG-BOL-002-04,Azure Rebuke Wrap,Whirlcast Vow,F3,Warrior L5 Mid,B
+MV-SIG-BOL-002-05,Court Silence Hold,Commanding Bindfall,F1,Warrior L5 Mid,B
+MV-SIG-BOL-002-06,Measured Court Pace,Skyborne Cordfork,F1,Warrior L5 Mid,B
+MV-SIG-BOL-002-07,Court Verdict Reading,Peal Tripcord,F2,Warrior L5 Mid,B
+MV-SIG-BOL-002-08,Summoning Cord Ring,Inferno Ballsling,F2,Champion L1 Low,B
+MV-SIG-BOL-002-09,Azure Court Tripline,Bolavow,F4,Champion L1 Low,B
+MV-SIG-BOL-002-10,Court Sentence Binding,Peremptory Shackle,F1,Demigod L1 Low,B
+MV-SIG-BOL-002-11,Azure Court Final Judgement,Destiny Fetter,F2,Warrior L5 Mid,B
+MV-SIG-BOL-003-01,Basin Pair Readiness,Evanescent Whirlcast,F1,Champion L2 Low,B
+MV-SIG-BOL-003-02,Basin Rim Skim Throw,Peal Heavyball,F2,Champion L2 Low,B
+MV-SIG-BOL-003-03,Pair Hand Catch,Sanctum Cordfork,F2,Champion L2 Low,B
+MV-SIG-BOL-003-04,Basin Current Wrap,Stonehead Covenant,F3,Champion L2 Low,B
+MV-SIG-BOL-003-05,Basin Spill Haul,Subjugating Fetter,F1,Champion L2 Low,B
+MV-SIG-BOL-003-06,Paired Basin Parry,Faithful Knotcenter,F1,Champion L2 Low,B
+MV-SIG-BOL-003-07,Basin Flood Entangle,Magma Wrapup,F2,Champion L2 Low,B
+MV-SIG-BOL-003-08,Sluice Cord Field,Parityorb,F5,Champion L2 Low,B
+MV-SIG-BOL-003-09,Basin Brim Vanishing Step,Pulsar Spindle,F2,Demigod L1 Low,B
+MV-SIG-BOL-003-10,Paired Basin Overflow Capture,Glacier Bindfall,F2,Champion L2 Low,B
+MV-SIG-BOL-004-01,River Verdict Stance,Dunefetter,F5,Ruler L1 Low,B
+MV-SIG-BOL-004-02,Twin Channel Cast,Thunderclap Joinknot,F2,Ruler L1 Low,B
+MV-SIG-BOL-004-03,Bank Brace Hold,Thrall Bolaweight,F2,Ruler L1 Low,B
+MV-SIG-BOL-004-04,Stream Rap,Haemalbola,F5,Ruler L1 Low,B
+MV-SIG-BOL-004-05,Verdict Cord Wrap,Imperious Wrapup,F1,Ruler L1 Low,B
+MV-SIG-BOL-004-06,Channel Switch Step,Cordthree Odyssey,F3,Ruler L1 Low,B
+MV-SIG-BOL-004-07,Cord Current Glance,Pealbola,F5,Ruler L1 Low,B
+MV-SIG-BOL-004-08,Twin Stream Fend,Heavyball Reliquary,F3,Ruler L1 Low,B
+MV-SIG-BOL-004-09,River Verdict Sweep,Bedrock Joinknot,F2,Ruler L1 Low,B
+MV-SIG-BOL-004-10,Joining Channels Sequence,Symphonic Spindle,F1,Ruler L1 Low,B
+MV-SIG-BOL-004-11,Twin Waters Binding,Millstone Shackle,F2,Demigod L1 Low,B
+MV-SIG-BOL-004-12,River Verdict Closing Stroke,Prism Whirlcast,F2,Ruler L1 Low,B
+MV-SIG-BOL-005-01,Dual-Track Breath Stance,Vigorbola,F5,Demigod L4 Low,B
+MV-SIG-BOL-005-02,Track Cast Pair,Radiance Shackle,F2,Demigod L4 Low,B
+MV-SIG-BOL-005-03,Azure Track Cord Check,Millstone Cordfork,F2,Demigod L4 Low,B
+MV-SIG-BOL-005-04,Dual-Track Haul Wrap,Hornbeam Ballsling,F2,Demigod L4 Low,B
+MV-SIG-BOL-005-05,Interlocked Cord Track Parry,Pall Knotcenter,F2,Demigod L4 Low,B
+MV-SIG-BOL-005-06,Twin Track Pace,Vigorfetter,F5,Demigod L4 Low,B
+MV-SIG-BOL-005-07,Track Weight Reading,Stonebenison,F4,Demigod L4 Low,B
+MV-SIG-BOL-005-08,Dual-Track Orbit Sweep,Magmaorb,F5,Demigod L4 Low,B
+MV-SIG-BOL-005-09,Staked Track Lattice,Wily Knotcenter,F1,Demigod L4 Low,B
+MV-SIG-BOL-005-10,Dual-Track Crossing Dash,Interstice Stonehead,F2,Demigod L4 Low,B
+MV-SIG-BOL-005-11,Dual-Track Closing Capture,Commanding Hornbeam Fetter,F6a,Demigod L4 Low,B
+MV-SIG-BOL-006-01,High Court Posture,Deluge Bolaweight,F2,Core Formation L1 Low,B
+MV-SIG-BOL-006-02,Court Salute Cast,Prism Bindfall,F2,Core Formation L1 Low,B
+MV-SIG-BOL-006-03,Azure Grip Drill,Steelbola,F5,Core Formation L1 Low,B
+MV-SIG-BOL-006-04,Core Steadied Wrap,Ruling Wrapup,F1,Core Formation L1 Low,B
+MV-SIG-BOL-006-05,High Court Parry Orbit,Unwavering Cordthree,F1,Core Formation L1 Low,B
+MV-SIG-BOL-006-06,Court Distance Reading,Revelation Tripcord,F2,Core Formation L1 Low,B
+MV-SIG-BOL-006-07,Court Decree Sweep,Demolition Heavyball,F2,Core Formation L1 Low,B
+MV-SIG-BOL-006-08,High Court Cord Formation,Guileful Ballsling,F1,Core Formation L1 Low,B
+MV-SIG-BOL-006-09,Court Edict Seizure,Statute Joinknot,F2,Core Formation L1 Low,B
+MV-SIG-BOL-006-10,High Court Azure Verdict,Volition Tripcord,F2,Core Formation L1 Low,B
+MV-SIG-BOL-007-01,Oath Facing Stance,Windborne Fetter,F1,Warrior L2 Low,B
+MV-SIG-BOL-007-02,Wind-Sworn Weight Draw,Wrapupedict,F4,Warrior L2 Low,B
+MV-SIG-BOL-007-03,Gust Turned Guard,Parity Stonehead,F2,Warrior L2 Low,B
+MV-SIG-BOL-007-04,Sworn Cord Oath Wrap,Sigil Bindfall,F2,Warrior L2 Low,B
+MV-SIG-BOL-007-05,Gale Lean Cord Step,Dunewrapup,F5,Warrior L2 Low,B
+MV-SIG-BOL-007-06,Wind Tell Reading,Peal Knotcenter,F2,Warrior L2 Low,B
+MV-SIG-BOL-007-07,Held Oath Drag,Statute Shackle,F2,Warrior L2 Low,B
+MV-SIG-BOL-007-08,Wide Gale Orbit,Exalted Hobble,F1,Champion L1 Low,B
+MV-SIG-BOL-007-09,Oath Peg Tripline,Sigilstone,F5,Champion L1 Low,B
+MV-SIG-BOL-007-10,Wind Carried Vanishing Reach,Season Bolaweight,F2,Demigod L1 Low,B
+MV-SIG-BOL-007-11,Wind-Borne Cord Oath,Sigilorb,F5,Warrior L2 Low,B
+MV-SIG-BOL-008-01,Standing Bearing Posture,Squallfetter,F5,Warrior L7 High,B
+MV-SIG-BOL-008-02,Bearing Axis Cast,Unrivaled Cordfork,F1,Warrior L7 High,B
+MV-SIG-BOL-008-03,Fixed Foot Cord Haul,Thrallstone,F5,Warrior L7 High,B
+MV-SIG-BOL-008-04,Bearing Pinned Wrap,Tripcord Reliquary,F3,Warrior L7 High,B
+MV-SIG-BOL-008-05,Waist Turn Parry,Revered Cordthree,F1,Warrior L7 High,B
+MV-SIG-BOL-008-06,Standing Bearing Cord Glance,Pealstone,F5,Warrior L7 High,B
+MV-SIG-BOL-008-07,Axis Sweeping Cast,Dune Stonehead,F2,Champion L1 Low,B
+MV-SIG-BOL-008-08,Bearing Marker Cords,Tenetstone,F5,Champion L1 Low,B
+MV-SIG-BOL-008-09,Bearing Slide Dash,Season Fetter,F2,Demigod L1 Low,B
+MV-SIG-BOL-008-10,Held Bearing Capture,Sigil Wrapup,F2,Warrior L7 High,B
+MV-SIG-BOL-009-01,Sworn Weight Stance,Vigor Hobble,F2,Champion L4 Mid,B
+MV-SIG-BOL-009-02,Oath Aimed Cast,Paramount Hobble,F1,Champion L4 Mid,B
+MV-SIG-BOL-009-03,Open Plain Cord Reading,Pealorb,F5,Champion L4 Mid,B
+MV-SIG-BOL-009-04,Oath Tail Snap,Masterful Bindfall,F1,Champion L4 Mid,B
+MV-SIG-BOL-009-05,Sworn Leg Cinch,Imperious Whirlcast,F1,Champion L4 Mid,B
+MV-SIG-BOL-009-06,Wind Break Orbit,Orbpledge,F4,Champion L4 Mid,B
+MV-SIG-BOL-009-07,Plateau Pace Chase,Windborne Cordthree,F1,Champion L4 Mid,B
+MV-SIG-BOL-009-08,Oath Held Strain,Millstone Spindle,F2,Champion L4 Mid,B
+MV-SIG-BOL-009-09,Open Ground Sweeping Orbit,Lordly Spindle,F1,Champion L4 Mid,B
+MV-SIG-BOL-009-10,Sworn Line Field,Orbtroth,F4,Champion L4 Mid,B
+MV-SIG-BOL-009-11,Wind Anchored Pull,Silken Shackle,F1,Demigod L1 Low,B
+MV-SIG-BOL-009-12,Sworn Not to Loose Capture,Masterful Thrall Whirlcast,F6a,Champion L4 Mid,B
+MV-SIG-BOL-010-01,Edge Walker Stance,Evanescent Bolaweight,F1,Ruler L1 Mid,B
+MV-SIG-BOL-010-02,Lip Skim Cast,Ballsling Crown,F3,Ruler L1 Mid,B
+MV-SIG-BOL-010-03,Heel Sense Footing,Interstice Knotcenter,F2,Ruler L1 Mid,B
+MV-SIG-BOL-010-04,Edge Ankle Hook,Thrallhobble,F5,Ruler L1 Mid,B
+MV-SIG-BOL-010-05,Narrow Ledge Guard,Hornbeam Heavyball,F2,Ruler L1 Mid,B
+MV-SIG-BOL-010-06,Ridge Cord Run Step,Dunestone,F5,Ruler L1 Mid,B
+MV-SIG-BOL-010-07,Cliff Foot Snare Field,Wily Joinknot,F1,Ruler L1 Mid,B
+MV-SIG-BOL-010-08,Edge Swinging Sweep,Orbedict,F4,Ruler L1 Mid,B
+MV-SIG-BOL-010-09,Chasm Crossing Pull,Season Cordfork,F2,Demigod L1 Low,B
+MV-SIG-BOL-010-10,Edge Walker Snare,Tyrannous Millstone Wrapup,F6a,Ruler L1 Mid,B
+MV-SIG-BOL-011-01,Open Sky Weight Stance,Dune Tripcord,F2,Demigod L6 Mid,B
+MV-SIG-BOL-011-02,Gust Oath Cast,Squall Stonehead,F2,Demigod L6 Mid,B
+MV-SIG-BOL-011-03,Cloud Shadow Cord Reading,Eclipse Spindle,F2,Demigod L6 Mid,B
+MV-SIG-BOL-011-04,Wind-Oath Wrap,Glacier Hobble,F2,Demigod L6 Mid,B
+MV-SIG-BOL-011-05,Gale-Turned Cord Parry,Ballsling Vow,F3,Demigod L6 Mid,B
+MV-SIG-BOL-011-06,Sky Run Step,Bedrock Hobble,F2,Demigod L6 Mid,B
+MV-SIG-BOL-011-07,Gust Tell Sensing,Interstice Cordthree,F2,Demigod L6 Mid,B
+MV-SIG-BOL-011-08,Open Sky Whirl Ring,Magma Knotcenter,F2,Demigod L6 Mid,B
+MV-SIG-BOL-011-09,Sky Pegged Tripline,Dunebola,F5,Demigod L6 Mid,B
+MV-SIG-BOL-011-10,Gust Anchored Streak,Radiance Cordfork,F2,Demigod L6 Mid,B
+MV-SIG-BOL-011-11,Oath-Cast of the Open Sky,Peremptory Hornbeam Shackle,F6a,Demigod L6 Mid,B
+MV-SIG-BOL-012-01,Great Bearing Posture,Stonevoyage,F4,Core Formation L3 Mid,B
+MV-SIG-BOL-012-02,Bearing Pace Reckoning,Stonegift,F4,Core Formation L3 Mid,B
+MV-SIG-BOL-012-03,Great Bearing Throw,Inferno Joinknot,F2,Core Formation L3 Mid,B
+MV-SIG-BOL-012-04,Held Line Check,Thrallorb,F5,Core Formation L3 Mid,B
+MV-SIG-BOL-012-05,Core Bound Wrap,Unbending Bindfall,F1,Core Formation L3 Mid,B
+MV-SIG-BOL-012-06,Bearing-Turned Cord Parry,Stately Bolaweight,F1,Core Formation L3 Mid,B
+MV-SIG-BOL-012-07,Plateau Long Cord Stride,Hobbleodyssey,F4,Core Formation L3 Mid,B
+MV-SIG-BOL-012-08,Far Bearing Sensing,Serene Heavyball,F1,Core Formation L3 Mid,B
+MV-SIG-BOL-012-09,Full Bearing Weighted Sweep,Entropy Whirlcast,F2,Core Formation L3 Mid,B
+MV-SIG-BOL-012-10,Bearing Long Cord Field,Tenet Stonehead,F2,Core Formation L3 Mid,B
+MV-SIG-BOL-012-11,Bearing Riding Pull,Twilit Heavyball,F1,Core Formation L3 Mid,B
+MV-SIG-BOL-012-12,Great Bearing Capture,Ruling Hobble Covenant,F6b,Core Formation L3 Mid,B
+MV-SIG-BOL-001-06,Dune Ballsling,Springing Ballsling,F2,Warrior L1 Low,B
+MV-SIG-BOL-003-03,Sanctum Cordfork,Tight Cordfork,F2,Champion L2 Low,B
+MV-SIG-BOL-003-10,Glacier Bindfall,Venerable Bindfall,F2,Champion L2 Low,B
+MV-SIG-BOL-005-04,Hornbeam Ballsling,Hampering Ballsling,F2,Demigod L4 Low,B
+MV-SIG-BOL-005-11,Commanding Hornbeam Fetter,Ascendant Fetter,F6a,Demigod L4 Low,B
+MV-SIG-BOL-008-07,Dune Stonehead,Reaping Stonehead,F2,Champion L1 Low,B
+MV-SIG-BOL-010-05,Hornbeam Heavyball,Warding Heavyball,F2,Ruler L1 Mid,B
+MV-SIG-BOL-011-01,Dune Tripcord,Deft Tripcord,F2,Demigod L6 Mid,B
+MV-SIG-BOL-011-04,Glacier Hobble,Cinching Hobble,F2,Demigod L6 Mid,B
+MV-SIG-BOL-011-11,Peremptory Hornbeam Shackle,Ascendant Shackle,F6a,Demigod L6 Mid,B
+MV-SIG-BOL-004-01,Dunefetter,Nimblefetter,F5,Ruler L1 Low,B
+MV-SIG-BOL-007-05,Dunewrapup,Skipwrapup,F5,Warrior L2 Low,B
+MV-SIG-BOL-010-06,Dunestone,Glidestone,F5,Ruler L1 Mid,B
+MV-SIG-BOL-011-09,Dunebola,Latchbola,F5,Demigod L6 Mid,B

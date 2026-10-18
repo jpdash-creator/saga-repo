@@ -1,0 +1,15 @@
+{
+ "skill_id": "ssc-narration-p35-phase-1-section-category-content-density",
+ "part": 35,
+ "area": 3,
+ "sequence_in_part": 3,
+ "title": "Phase 1 Section × Category Content Density Target Table",
+ "domain": "narration",
+ "source_file": "Part_35_Content_Density_Law_CDL2.md",
+ "start_line": 233,
+ "end_line": 324,
+ "line_count": 92,
+ "output_path": ".claude/skills/ssc-narration-p35-phase-1-section-category-content-density/SKILL.md",
+ "has_stale_python_block": false,
+ "related": []
+}

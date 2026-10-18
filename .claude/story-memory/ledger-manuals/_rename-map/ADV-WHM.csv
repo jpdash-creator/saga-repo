@@ -1,0 +1,122 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-WHM-001-01,Weight Gather Stance,Charter Spikeback,F2,Champion L1 Mid,B
+MV-ADV-WHM-001-02,Overshoulder Fall,Lambasting Eyehole,F1,Champion L1 Mid,B
+MV-ADV-WHM-001-03,Heavy Heel Plant,Might Hammerface,F2,Champion L1 Mid,B
+MV-ADV-WHM-001-04,Falling Hook Pull,Toxin Forge,F2,Champion L1 Mid,B
+MV-ADV-WHM-001-05,Sinking Weight Hammer,Peenside Assault,F3,Champion L1 Mid,B
+MV-ADV-WHM-001-06,Brace Breaking Descent,Facetpeen,F5,Champion L1 Mid,B
+MV-ADV-WHM-001-07,Collapsing Weight Fall,Peenbarrage,F4,Champion L1 Mid,B
+MV-ADV-WHM-001-08,Pinning Hammer Press,Gyve Faceplate,F2,Champion L1 Mid,B
+MV-ADV-WHM-002-01,Plate Hunter Stance,Thorn Anvilback,F2,Champion L5 Low,B
+MV-ADV-WHM-002-02,Seam Finding Tap,Mightforge,F5,Champion L5 Low,B
+MV-ADV-WHM-002-03,Plate Shoulder Hook,Tampcuirass,F4,Champion L5 Low,B
+MV-ADV-WHM-002-04,Sundering Pace,Torrent Clawside,F2,Champion L5 Low,B
+MV-ADV-WHM-002-05,Sunder Face Blow,Ravaging Cheekplate,F1,Champion L5 Low,B
+MV-ADV-WHM-002-06,Cuirass Fault Line Strike,Facet Anvilfall,F2,Champion L5 Low,B
+MV-ADV-WHM-002-07,Plate Peeling Tear,Tampgreave,F4,Champion L5 Low,B
+MV-ADV-WHM-002-08,Armor Unmaking Hammer,Skinning Peenbite,F1,Champion L5 Low,B
+MV-ADV-WHM-002-09,Plate Bursting Heave,Rumble Drivehome,F2,Champion L5 Low,B
+MV-ADV-WHM-003-01,Press Line Hold,Resilient Hammerneck,F1,Ruler L2 Low,B
+MV-ADV-WHM-003-02,Shoulder Lock Rap,Splintering Beakpick,F1,Ruler L2 Low,B
+MV-ADV-WHM-003-03,Elbow Haft Shove,Paralyzing Hammerneck,F1,Ruler L2 Low,B
+MV-ADV-WHM-003-04,Crowded Pace Step,Soaring Hammerblow,F1,Ruler L2 Low,B
+MV-ADV-WHM-003-05,Low Haft Parry,Anvilcloak,F4,Ruler L2 Low,B
+MV-ADV-WHM-003-06,Crowd Clearing Swing,Splitting Cheekplate,F1,Ruler L2 Low,B
+MV-ADV-WHM-003-07,Pinned Arm Hammer,Gyveforge,F5,Ruler L2 Low,B
+MV-ADV-WHM-003-08,Close Battle Crush,Granite Tamp,F2,Ruler L2 Low,B
+MV-ADV-WHM-003-09,Packed Press Overwhelm,Needling Spikeback,F1,Ruler L2 Low,B
+MV-ADV-WHM-003-10,Cleared Space Burst,Mayhemanvil,F5,Ruler L2 Low,B
+MV-ADV-WHM-004-01,Living Haft Grip,Aegisanvil,F5,Demigod L2 Low,B
+MV-ADV-WHM-004-02,Haft Whisper Tap,Furrowing Hammerblow,F1,Demigod L2 Low,B
+MV-ADV-WHM-004-03,Bent Haft Hook,Chime Peenside,F2,Demigod L2 Low,B
+MV-ADV-WHM-004-04,Reach Pace Step,Torrent Anvilfall,F2,Demigod L2 Low,B
+MV-ADV-WHM-004-05,Stretching Haft Strike,Mightsmith,F5,Demigod L2 Low,B
+MV-ADV-WHM-004-06,Yielding Haft Turn,Beakpick Cuirass,F3,Demigod L2 Low,B
+MV-ADV-WHM-004-07,Living Haft Rebound,Peenthrash,F4,Demigod L2 Low,B
+MV-ADV-WHM-004-08,Haft Bending Counter,Unflinching Hammerface,F1,Demigod L2 Low,B
+MV-ADV-WHM-005-01,Head Ring Stance,Facetanvil,F5,Demigod L6 Mid,B
+MV-ADV-WHM-005-02,Sounding Tap,Iron Faceplate,F2,Demigod L6 Mid,B
+MV-ADV-WHM-005-03,Pitch Finding Rap,Drubbing Clawside,F1,Demigod L6 Mid,B
+MV-ADV-WHM-005-04,Low Note Knock,Anvilthrash,F4,Demigod L6 Mid,B
+MV-ADV-WHM-005-05,Muffling Haft Grip,Chimeanvil,F5,Demigod L6 Mid,B
+MV-ADV-WHM-005-06,Ringing Pace Step,Soaring Anvilback,F1,Demigod L6 Mid,B
+MV-ADV-WHM-005-07,Rising Pitch Beat,Gustforge,F5,Demigod L6 Mid,B
+MV-ADV-WHM-005-08,Sound Cracking Blow,Forge Torment,F3,Demigod L6 Mid,B
+MV-ADV-WHM-005-09,Echo Shiver Strike,Smithgreave,F4,Demigod L6 Mid,B
+MV-ADV-WHM-005-10,Bell Field Hammer,Downpour Eyehole,F2,Demigod L6 Mid,B
+MV-ADV-WHM-005-11,Shattering Note Drop,Hollow Peenbite,F2,Demigod L6 Mid,B
+MV-ADV-WHM-006-01,Twin Face Stance,Aegis Hammerface,F2,Champion L3 Low,B
+MV-ADV-WHM-006-02,Paired Head Tap,Iron Drivehome,F2,Champion L3 Low,B
+MV-ADV-WHM-006-03,Second Face Turn,Chimepeen,F5,Champion L3 Low,B
+MV-ADV-WHM-006-04,Twin Head Pace Step,Whipping Hammerblow,F1,Champion L3 Low,B
+MV-ADV-WHM-006-05,Paired Beat Crush,Grinding Tamp,F1,Champion L3 Low,B
+MV-ADV-WHM-006-06,Twin Head Turning Pair,Torrent Faceplate,F2,Champion L3 Low,B
+MV-ADV-WHM-006-07,Twin Fall Hammer,Tempered Peenside,F2,Champion L3 Low,B
+MV-ADV-WHM-006-08,Paired Head Break Open,Anvilfall Barrage,F3,Champion L3 Low,B
+MV-ADV-WHM-007-01,Ford Footing Stance,Charter Hammerneck,F2,Ruler L1 Low,B
+MV-ADV-WHM-007-02,Current Buckler Shove,Anvilcuirass,F4,Ruler L1 Low,B
+MV-ADV-WHM-007-03,Ford Cross Tap,Rumble Eyehole,F2,Ruler L1 Low,B
+MV-ADV-WHM-007-04,Bank Step Pace,Might Clawside,F2,Ruler L1 Low,B
+MV-ADV-WHM-007-05,River Stone Hammer Drop,Rumbletamp,F5,Ruler L1 Low,B
+MV-ADV-WHM-007-06,Eddy Turning Parry,Murkanvil,F5,Ruler L1 Low,B
+MV-ADV-WHM-007-07,Current Pull Hook,Paralyzing Spikeback,F1,Ruler L1 Low,B
+MV-ADV-WHM-007-08,Ford Holding Press,Splintering Cheekplate,F1,Ruler L1 Low,B
+MV-ADV-WHM-007-09,Flood Break Hammer,Forge Thrash,F3,Ruler L1 Low,B
+MV-ADV-WHM-008-01,Hawk Perch Hammer Guard,Charter Beakpick,F2,Demigod L3 Mid,B
+MV-ADV-WHM-008-02,Talon Beak Jab,Iron Tamp,F2,Demigod L3 Mid,B
+MV-ADV-WHM-008-03,High Wheel Entry,Torrent Hammerface,F2,Demigod L3 Mid,B
+MV-ADV-WHM-008-04,Stoop Reading Pause,Fortifying Hammerneck,F1,Demigod L3 Mid,B
+MV-ADV-WHM-008-05,Feather Light Tap,Wrecking Cheekplate,F1,Demigod L3 Mid,B
+MV-ADV-WHM-008-06,Hover Haft Parry,Murkpeen,F5,Demigod L3 Mid,B
+MV-ADV-WHM-008-07,Stoop Fall Blow,Rupturing Peenbite,F1,Demigod L3 Mid,B
+MV-ADV-WHM-008-08,Talon Beak Hook Pull,Toxin Anvilback,F2,Demigod L3 Mid,B
+MV-ADV-WHM-008-09,Azure Dive Strike,Facet Faceplate,F2,Demigod L3 Mid,B
+MV-ADV-WHM-008-10,Wing Beat Sweep,Silt Drivehome,F2,Demigod L3 Mid,B
+MV-ADV-WHM-008-11,Hawk Stoop Hammerfall,Granite Eyehole,F2,Demigod L3 Mid,B
+MV-ADV-WHM-008-12,Sky Piercing Beak,Grinding Nova Peenbite,F6a,Demigod L3 Mid,B
+MV-ADV-WHM-009-01,Dual Track Stance,Annealed Peenside,F1,Demigod L8 High,B
+MV-ADV-WHM-009-02,Body Track Tap,Harrowing Anvilback,F1,Demigod L8 High,B
+MV-ADV-WHM-009-03,Qi Track Rap,Smithtorment,F4,Demigod L8 High,B
+MV-ADV-WHM-009-04,Basin Fill Step,Soaring Spikeback,F1,Demigod L8 High,B
+MV-ADV-WHM-009-05,Twin Track Blow,Iron Hammerblow,F2,Demigod L8 High,B
+MV-ADV-WHM-009-06,Basin Filling Press,Splitting Drivehome,F1,Demigod L8 High,B
+MV-ADV-WHM-009-07,Basin Brimming Release,Tempered Anvilfall,F2,Demigod L8 High,B
+MV-ADV-WHM-009-08,Two River Confluence Blow,Glint Clawside,F2,Demigod L8 High,B
+MV-ADV-WHM-010-01,Bearing Taking Stance,Granite Hammerface,F2,Champion L7 High,B
+MV-ADV-WHM-010-02,Oath Line Strike,Peentorment,F4,Champion L7 High,B
+MV-ADV-WHM-010-03,Held Bearing Hook,Chime Forge,F2,Champion L7 High,B
+MV-ADV-WHM-010-04,Wind Edge Pace,Torrent Eyehole,F2,Champion L7 High,B
+MV-ADV-WHM-010-05,Bearing Cover Guard,Staunch Beakpick,F1,Champion L7 High,B
+MV-ADV-WHM-010-06,Sworn Bearing Hammer,Severing Hammerneck,F1,Champion L7 High,B
+MV-ADV-WHM-010-07,Oath Kept Deflection,Enduring Clawside,F1,Champion L7 High,B
+MV-ADV-WHM-010-08,Bearing Locked Crush,Gust Cheekplate,F2,Champion L7 High,B
+MV-ADV-WHM-010-09,Oath Bound Hammerfall,Gust Drivehome,F2,Champion L7 High,B
+MV-ADV-WHM-010-10,Held Bearing Binding Press,Paralyzing Gyve Beakpick,F6a,Champion L7 High,B
+MV-ADV-WHM-011-01,Open Plateau Stance,Granite Spikeback,F2,Demigod L1 High,B
+MV-ADV-WHM-011-02,Wind Pushed Swing,Rumble Anvilback,F2,Demigod L1 High,B
+MV-ADV-WHM-011-03,Edge Gust Hook,Chime Anvilfall,F2,Demigod L1 High,B
+MV-ADV-WHM-011-04,Updraft Step,Blurring Peenside,F1,Demigod L1 High,B
+MV-ADV-WHM-011-05,Gust Carried Blow,Blaze Forge,F2,Demigod L1 High,B
+MV-ADV-WHM-011-06,Wind Riding Parry,Chime Faceplate,F2,Demigod L1 High,B
+MV-ADV-WHM-011-07,Plateau Wind Crush,Mightanvil,F5,Demigod L1 High,B
+MV-ADV-WHM-011-08,Plateau Gale Descent,Lancing Hammerblow,F1,Demigod L1 High,B
+MV-ADV-WHM-011-09,Wind Sheared Head,Hollowforge,F5,Demigod L1 High,B
+MV-ADV-WHM-012-01,Gale Line Grip,Aegis Beakpick,F2,Demigod L5 Low,B
+MV-ADV-WHM-012-02,Line Swing Tap,Ironsmith,F5,Demigod L5 Low,B
+MV-ADV-WHM-012-03,Haft Along Wind Turn,Compressing Peenside,F1,Demigod L5 Low,B
+MV-ADV-WHM-012-04,Gale Haft Pace Step,Gust Anvilback,F2,Demigod L5 Low,B
+MV-ADV-WHM-012-05,Along the Line Strike,Granite Forge,F2,Demigod L5 Low,B
+MV-ADV-WHM-012-06,Wind Held Haft Guard,Facet Clawside,F2,Demigod L5 Low,B
+MV-ADV-WHM-012-07,Gale Line Hammer Sweep,Eyehole Barrage,F3,Demigod L5 Low,B
+MV-ADV-WHM-012-08,Wind Wrapped Haft Counter,Glamour Hammerneck,F2,Demigod L5 Low,B
+MV-ADV-WHM-013-01,Crosswind Stance,Hoarfrost Faceplate,F2,Void God L2 Mid,B
+MV-ADV-WHM-013-02,Gust Reading Hammer Pause,Fortifying Cheekplate,F1,Void God L2 Mid,B
+MV-ADV-WHM-013-03,Bend Swing Tap,Lambasting Hammerface,F1,Void God L2 Mid,B
+MV-ADV-WHM-013-04,Lee Side Step,Might Drivehome,F2,Void God L2 Mid,B
+MV-ADV-WHM-013-05,Crosswind Parry,Chimesmith,F5,Void God L2 Mid,B
+MV-ADV-WHM-013-06,Gust Bent Hammer Arc,Blazepeen,F5,Void God L2 Mid,B
+MV-ADV-WHM-013-07,Lee Hook Pull,Toxintamp,F5,Void God L2 Mid,B
+MV-ADV-WHM-013-08,Squall Pressed Blow,Ravaging Tamp,F1,Void God L2 Mid,B
+MV-ADV-WHM-013-09,Shifting Gale Pound,Spikeback Assault,F3,Void God L2 Mid,B
+MV-ADV-WHM-013-10,Headwind Breaker Drop,Rumbleanvil,F5,Void God L2 Mid,B
+MV-ADV-WHM-005-11,Hollow Peenbite,Cleaving Peenbite,F2,Demigod L6 Mid,B

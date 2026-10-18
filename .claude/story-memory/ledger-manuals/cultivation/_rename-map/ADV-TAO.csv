@@ -1,0 +1,10 @@
+move_id,old_name,new_name,function
+CMV-ADV-TAO-002-01,Path Palm,Smooth Palm,Attack:Strike
+CMV-ADV-TAO-002-02,Path Guard,Easing Guard,Defense:Shield
+CMV-ADV-TAO-002-03,Path Step,Smooth Step,Mobility:Step
+CMV-ADV-TAO-002-04,Path Sense,Smooth Sense,Support:Sense
+CMV-ADV-TAO-002-05,Path Breath,Smooth Breath,Support:Empower
+CMV-ADV-TAO-002-07,Path Counter,Smooth Counter,Defense:Deflect
+CMV-ADV-TAO-002-10,Least Path,Yielding Thrust,Attack:Penetrating
+CMV-ADV-TAO-004-11,Calming Field,Calming Wave,Control:Suppress
+CMV-ADV-TAO-004-08,Quiet Basin,Quiet Store,CHANNELED,,Intermediate

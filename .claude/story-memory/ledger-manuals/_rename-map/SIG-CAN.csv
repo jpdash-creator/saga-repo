@@ -1,0 +1,69 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-CAN-001-01,Falling Hawk Mark Eye,Hospitable Quoin,F1,Warrior L1 Mid,B
+MV-SIG-CAN-001-02,Steep Breech Quoin Stack,Solarshot,F5,Warrior L1 Mid,B
+MV-SIG-CAN-001-03,Crew Back Pace,Twilit Broadside,F1,Warrior L1 Mid,B
+MV-SIG-CAN-001-04,Over The Rise Lob,Squall Wheelhub,F2,Warrior L1 Mid,B
+MV-SIG-CAN-001-05,Plunging Qi Weight,Parity Cascabel,F2,Warrior L1 Mid,B
+MV-SIG-CAN-001-06,High Arc Crest Wind Hold,Pealcannon,F5,Warrior L1 Mid,B
+MV-SIG-CAN-001-07,Shelter Roof Hawk Drop,Prism Muzzleswell,F2,Champion L1 Low,B
+MV-SIG-CAN-001-08,Cliff Lip Plunge,Pulsarrecoil,F5,Champion L1 Low,B
+MV-SIG-CAN-001-09,Stooping Pair Ball Fall,Radiance Gunbore,F2,Demigod L1 Low,B
+MV-SIG-CAN-001-10,Falling Hawk Salvo,Triumphant Carriage Banner,F6b,Warrior L1 Mid,B
+MV-SIG-CAN-002-01,Twin Report Count Pair,Quoinmercy,F4,Warrior L6 Low,B
+MV-SIG-CAN-002-02,Gun Pair Gap Pace,Evanescent Trunnion,F1,Warrior L6 Low,B
+MV-SIG-CAN-002-03,Trail Cord Line Run,Wise Breechrope,F1,Warrior L6 Low,B
+MV-SIG-CAN-002-04,Shared Bucket Swap,Parity Muzzleswell,F2,Warrior L6 Low,B
+MV-SIG-CAN-002-05,Matched Report Crash,Prism Roar,F2,Warrior L6 Low,B
+MV-SIG-CAN-002-06,Echo Offset Second Gun,Squall Bombard,F2,Warrior L6 Low,B
+MV-SIG-CAN-002-07,Joined Smoke Bank,Linstock Troth,F3,Warrior L6 Low,B
+MV-SIG-CAN-002-08,Paired Step Withdrawal,Deluge Cannonade,F2,Warrior L6 Low,B
+MV-SIG-CAN-002-09,Alternating Beat Fire Weave,Choral Broadside,F1,Champion L1 Low,B
+MV-SIG-CAN-002-10,Report Line Scourge,Millstone Ballshot,F2,Champion L1 Low,B
+MV-SIG-CAN-002-11,Paired Heavy Report Strike,Prism Touchhole,F2,Demigod L1 Low,B
+MV-SIG-CAN-002-12,Twin Report Line Charge,Magmacannon,F5,Warrior L6 Low,B
+MV-SIG-CAN-003-01,Dry Bed Heel Test,Hospitable Trunnion,F1,Champion L3 Low,B
+MV-SIG-CAN-003-02,Gravel Wheel Lock,Venerable Breechrope,F1,Champion L3 Low,B
+MV-SIG-CAN-003-03,Bed Curve Pace Out,Roarsolace,F4,Champion L3 Low,B
+MV-SIG-CAN-003-04,Hard Bed Channel Skip,Recoil Crown,F3,Champion L3 Low,B
+MV-SIG-CAN-003-05,Flood Line Mark Read,Revelation Cascabel,F2,Champion L3 Low,B
+MV-SIG-CAN-003-06,Channel Wall Echo Count,Reminiscence Gunbore,F2,Champion L3 Low,B
+MV-SIG-CAN-003-07,Bank Tuck Step,Vigor Wheelhub,F2,Champion L3 Low,B
+MV-SIG-CAN-003-08,Funnel Channel Barrage,Lordly Ballshot,F1,Champion L3 Low,B
+MV-SIG-CAN-003-09,Bed Stone Splinter Burst,Bedrock Quoin,F2,Champion L3 Low,B
+MV-SIG-CAN-003-10,Bed Sweep Heavy Round,Steelroar,F5,Demigod L1 Low,B
+MV-SIG-CAN-003-11,River Bed Closing Barrage,Inferno Cannonade,F2,Champion L3 Low,B
+MV-SIG-CAN-004-01,Blue Banner Dip,Quoinbenison,F4,Ruler L1 Mid,B
+MV-SIG-CAN-004-02,Salvo Order Bellow,Hospitable Touchhole,F1,Ruler L1 Mid,B
+MV-SIG-CAN-004-03,Linstock Row Light,Hospitable Muzzleswell,F1,Ruler L1 Mid,B
+MV-SIG-CAN-004-04,Fixed Order Hawk Fire,Gloomshot,F5,Ruler L1 Mid,B
+MV-SIG-CAN-004-05,Salvo Crew Rotation,Paritycannon,F5,Ruler L1 Mid,B
+MV-SIG-CAN-004-06,Drift Bank Smoke Use,Cannontroth,F4,Ruler L1 Mid,B
+MV-SIG-CAN-004-07,Hawk Flight Chain Salvo,Orchestral Recoil,F1,Ruler L1 Mid,B
+MV-SIG-CAN-004-08,Blue Wing Spread Fire,Imperial Recoil,F1,Ruler L1 Mid,B
+MV-SIG-CAN-004-09,Wing Fold Concentration,Linstock Decree,F3,Demigod L1 Low,B
+MV-SIG-CAN-004-10,Blue Hawk Salvo,Imperial Roar Crown,F6b,Ruler L1 Mid,B
+MV-SIG-CAN-005-01,Two Chalk Line Footing,Statute Wheelhub,F2,Demigod L2 Low,B
+MV-SIG-CAN-005-02,Gunner Loader Breath Match,Parityshot,F5,Demigod L2 Low,B
+MV-SIG-CAN-005-03,Block Gap Stake Mark,Peal Touchhole,F2,Demigod L2 Low,B
+MV-SIG-CAN-005-04,Charge Tray Caking Check,Pealquoin,F5,Demigod L2 Low,B
+MV-SIG-CAN-005-05,Both Hand Qi Seat,Solar Carriage,F2,Demigod L2 Low,B
+MV-SIG-CAN-005-06,Weak Joint Hunting Lay,Cannonbenison,F4,Demigod L2 Low,B
+MV-SIG-CAN-005-07,Splinter Shedding Ring,Hornbeam Gunbore,F2,Demigod L2 Low,B
+MV-SIG-CAN-005-08,Two Short Move Reposition,Evanescent Broadside,F1,Demigod L2 Low,B
+MV-SIG-CAN-005-09,Joint Splitting Round,Quenched Linstock,F2,Demigod L2 Low,B
+MV-SIG-CAN-005-10,Seam Follow Up Shot,Orchestral Ballshot,F1,Demigod L2 Low,B
+MV-SIG-CAN-005-11,Line Breaker Heavy Round,Vacuum Quoin,F2,Demigod L2 Low,B
+MV-SIG-CAN-005-12,Shattered Line Strike,Sovereign Prism Carriage,F6a,Demigod L2 Low,B
+MV-SIG-CAN-006-01,Basin Rim Mount Haul,Vigor Roar,F2,Core Formation L2 Low,B
+MV-SIG-CAN-006-02,Rim Spade Deep Footing,Quointroth,F4,Core Formation L2 Low,B
+MV-SIG-CAN-006-03,Basin Floor Eye Walk,Trunnion Mercy,F3,Core Formation L2 Low,B
+MV-SIG-CAN-006-04,Core Heat Draw,Vigor Breechrope,F2,Core Formation L2 Low,B
+MV-SIG-CAN-006-05,Floor Shadow Lay,Benevolent Touchhole,F1,Core Formation L2 Low,B
+MV-SIG-CAN-006-06,Rim Spill Wind Hold,Lifegiving Wheelhub,F1,Core Formation L2 Low,B
+MV-SIG-CAN-006-07,Recoil Core Anchor,Prism Trunnion,F2,Core Formation L2 Low,B
+MV-SIG-CAN-006-08,Basin Floor Ring Cage,Hornbeam Cascabel,F2,Core Formation L2 Low,B
+MV-SIG-CAN-006-09,Rim Stone Crack Round,Cannonade Banner,F3,Core Formation L2 Low,B
+MV-SIG-CAN-006-10,Sundering Plunge Shot,Shotcrown,F4,Core Formation L2 Low,B
+MV-SIG-CAN-006-11,Basin Sundering Gun,Imperial Breechrope,F1,Core Formation L2 Low,B
+MV-SIG-CAN-005-07,Hornbeam Gunbore,Unyielding Gunbore,F2,Demigod L2 Low,B
+MV-SIG-CAN-006-08,Hornbeam Cascabel,Ruinous Cascabel,F2,Core Formation L2 Low,B

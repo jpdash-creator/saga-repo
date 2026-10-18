@@ -1,0 +1,6 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-STM-002-02,Crosswind Guard,Crosswind Ward,CHANNELED,,Advanced
+CMV-ADV-STM-002-05,Shear Line,Needle Slice,INSTANT,,Advanced
+CMV-ADV-STM-006-11,Counterflow Field,Reverse Current,CHANNELED,,Advanced
+CMV-ADV-STM-008-03,True Line Step,Tether Step,INSTANT,,Advanced
+CMV-ADV-STM-006-02,Basin Guard,Bowl Shield,CHANNELED,,Basic

@@ -1,0 +1,2 @@
+manual_id,grade,affinity_id,origin,title,realm_band,min_realm,energy_req,cultivation_req,affinity_req,sovereignty_req,move_count,composition,tradition,summary,status,first_area,notes
+CMAN-CAT-SOB-001,CAT,SOB,Common,The Canon of Ruinous Fetters,XT,Absolute God L1 Low,QI-EXT,XT-FIELD+LINK-PRIOR+LINK-STEP,SR4,SOV-C,13,I4 A4 E3 S1 C1,ruinous fetter school,A canon that draws every fetter of the bound soul into one closing ruin that holds and crushes all the souls of a field.,Active,Not yet established,"moves renamed 2026-10-16, old names in _rename-map"

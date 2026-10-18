@@ -1,0 +1,142 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-BLW-001-01,Roost Settling Breath,Parity Mouthend,F2,Warrior,B
+MV-SIG-BLW-001-02,Perch Eye Fixing,Wise Mouthpiece,F1,Warrior,B
+MV-SIG-BLW-001-03,Roost Hand Load,Magnanimous Reedtube,F1,Warrior,B
+MV-SIG-BLW-001-04,Folded Pinion Step,Dune Tube,F2,Warrior,B
+MV-SIG-BLW-001-05,Hawk Flank Blow,Fearless Plug,F1,Warrior,B
+MV-SIG-BLW-001-06,Roost Cover Ward,Sanctum Cane,F2,Warrior,B
+MV-SIG-BLW-001-07,Dive From Roost,Huff Verdict,F3,Champion,B
+MV-SIG-BLW-001-08,Roost Cord Volley,Millstone Exhale,F2,Champion,B
+MV-SIG-BLW-001-09,High Hawk Plunge,Hissdecree,F4,Demigod,B
+MV-SIG-BLW-001-10,Ten Feather Rain,Huffedict,F4,Warrior,B
+MV-SIG-BLW-002-01,Twin Breath Pairing,Serene Padhead,F1,Warrior,B
+MV-SIG-BLW-002-02,Chin Hollow Seal,Dartneedle Gift,F3,Warrior,B
+MV-SIG-BLW-002-03,Reed Hum Testing,Tranquil Airbore,F1,Warrior,B
+MV-SIG-BLW-002-04,Echo Breath Split,Pulsarburst,F5,Warrior,B
+MV-SIG-BLW-002-05,Basin Slope Slide,Puff Voyage,F3,Warrior,B
+MV-SIG-BLW-002-06,Twin Rise Ward,Squall Mouthend,F2,Warrior,B
+MV-SIG-BLW-002-07,Breath Debt Repayment,Canemercy,F4,Warrior,B
+MV-SIG-BLW-002-08,Double Beat Pierce,Pulsar Tube,F2,Champion,B
+MV-SIG-BLW-002-09,Reed Court Suppression,Burst Triumph,F3,Champion,B
+MV-SIG-BLW-002-10,Basin Echo Strike,Prismtube,F5,Demigod,B
+MV-SIG-BLW-002-11,Twin Breath Reed Dance,Symphonic Destiny Exhale,F6a,Warrior,B
+MV-SIG-BLW-003-01,Hunter Pair Signalling,Eclipse Padhead,F2,Champion,B
+MV-SIG-BLW-003-02,Reedbed Wading Step,Vigor Airbore,F2,Champion,B
+MV-SIG-BLW-003-03,Mud Bank Seating,Bloom Dartfletch,F2,Champion,B
+MV-SIG-BLW-003-04,Pair Lead Crossing,Squall Mouthpiece,F2,Champion,B
+MV-SIG-BLW-003-05,Cutwater Retreat,Twilit Huff,F1,Champion,B
+MV-SIG-BLW-003-06,River Fog Shot,Famed Needlepuff,F1,Champion,B
+MV-SIG-BLW-003-07,Two Bank Crossfire,Splendid Reedtube,F1,Champion,B
+MV-SIG-BLW-003-08,Hunter Pair Snare,Wily Cane,F1,Champion,B
+MV-SIG-BLW-003-09,Paired Hunters Closing,Choral Hiss,F1,Demigod,B
+MV-SIG-BLW-003-10,River Pair Needle Weave,Plugdecree,F4,Champion,B
+MV-SIG-BLW-004-01,Two Track Standing,Vigor Dartneedle,F2,Ruler,B
+MV-SIG-BLW-004-02,Azure Bore Inspection,Peal Plug,F2,Ruler,B
+MV-SIG-BLW-004-03,Dual Dart Palming,Paritycane,F5,Ruler,B
+MV-SIG-BLW-004-04,Basin Breath Settling,Merciful Tube,F1,Ruler,B
+MV-SIG-BLW-004-05,Right Left Alternation,Inferno Burst,F2,Ruler,B
+MV-SIG-BLW-004-06,Twin Line Feint,Canevow,F4,Ruler,B
+MV-SIG-BLW-004-07,Lane Change Step,Huffboon,F4,Ruler,B
+MV-SIG-BLW-004-08,Twin Lane Reed Guard,Squall Cane,F2,Ruler,B
+MV-SIG-BLW-004-09,Azure Bore Spike,Prism Dartfletch,F2,Ruler,B
+MV-SIG-BLW-004-10,Track Fork Volley,Plugcrown,F4,Ruler,B
+MV-SIG-BLW-004-11,Dual Track Kill Line,Pulsar Puff,F2,Demigod,B
+MV-SIG-BLW-004-12,Azure Bore Dual Mastery,Choral Tenet Needlepuff,F6a,Ruler,B
+MV-SIG-BLW-005-01,Field Breath Seating,Vigorcane,F5,Demigod,B
+MV-SIG-BLW-005-02,Hawk Pair Counting,Revelation Plug,F2,Demigod,B
+MV-SIG-BLW-005-03,Field Edge Probing,Revelation Mouthend,F2,Demigod,B
+MV-SIG-BLW-005-04,Paired Field Dart,Paramount Burst,F1,Demigod,B
+MV-SIG-BLW-005-05,Hawk Wing Brace,Plugvow,F4,Demigod,B
+MV-SIG-BLW-005-06,Field Stoop Step,Pluggrace,F4,Demigod,B
+MV-SIG-BLW-005-07,Field Pair Piercing,Vacuum Hiss,F2,Demigod,B
+MV-SIG-BLW-005-08,Hawk Pair Chase,Glacier Reedtube,F2,Demigod,B
+MV-SIG-BLW-005-09,Pair Field Sundering,Vacuumhuff,F5,Demigod,B
+MV-SIG-BLW-005-10,Hawk Pair Field Descent,Famed Magma Dartfletch,F6a,Demigod,B
+MV-SIG-BLW-006-01,Core Breath Seating,Solar Dartneedle,F2,Core Formation,B
+MV-SIG-BLW-006-02,Twin Bore Core Sensing,Canebenison,F4,Core Formation,B
+MV-SIG-BLW-006-03,Azure Dart Anointing,Parity Mouthpiece,F2,Core Formation,B
+MV-SIG-BLW-006-04,Core Surge Blow,Majestic Needlepuff,F1,Core Formation,B
+MV-SIG-BLW-006-05,Twin Core Weave,Prism Padhead,F2,Core Formation,B
+MV-SIG-BLW-006-06,Core Veil Step,Bedrock Exhale,F2,Core Formation,B
+MV-SIG-BLW-006-07,Bore Wrap Guard,Glacier Airbore,F2,Core Formation,B
+MV-SIG-BLW-006-08,Core Needle Break,Fearless Hiss,F1,Core Formation,B
+MV-SIG-BLW-006-09,Azure Core Volley,Plugedict,F4,Core Formation,B
+MV-SIG-BLW-006-10,Twin Core Lance,Heroic Plug,F1,Core Formation,B
+MV-SIG-BLW-006-11,Azure Twin Bore Zenith,Sovereign Puff,F1,Core Formation,B
+MV-SIG-BLW-007-01,Plateau Breath Taking,Reedtube Gift,F3,Warrior,B
+MV-SIG-BLW-007-02,Sworn Dart Sorting,Serene Mouthpiece,F1,Warrior,B
+MV-SIG-BLW-007-03,Gust Lean Stance,Burstgrace,F4,Warrior,B
+MV-SIG-BLW-007-04,Wind Carry Blow,Storied Huff,F1,Warrior,B
+MV-SIG-BLW-007-05,Oath Crouch Shift,Dunepuff,F5,Warrior,B
+MV-SIG-BLW-007-06,Gust Cloak Ward,Pall Cane,F2,Warrior,B
+MV-SIG-BLW-007-07,Plateau Lull Pierce,Vacuumplug,F5,Champion,B
+MV-SIG-BLW-007-08,Open Sky Volley,Canetriumph,F4,Champion,B
+MV-SIG-BLW-007-09,Wind-Sworn Reed Strike,Radiance Airbore,F2,Demigod,B
+MV-SIG-BLW-007-10,Open Plateau Sworn Volley,Bedrock Burst,F2,Warrior,B
+MV-SIG-BLW-008-01,Quiet Reed Wrapping,Parity Dartfletch,F2,Warrior,B
+MV-SIG-BLW-008-02,Oath Bearing Chalk,Pealcane,F5,Warrior,B
+MV-SIG-BLW-008-03,Hushed Footfall Roll,Dune Padhead,F2,Warrior,B
+MV-SIG-BLW-008-04,Bearing Lock Hush,Exhaleverdict,F4,Warrior,B
+MV-SIG-BLW-008-05,Quiet Draw Reload,Solarcane,F5,Warrior,B
+MV-SIG-BLW-008-06,Reed Wrap Parry,Devout Mouthend,F1,Warrior,B
+MV-SIG-BLW-008-07,Silent Bearing Shift,Feather Dartneedle,F1,Warrior,B
+MV-SIG-BLW-008-08,Quiet Reed Needle,Valiant Tube,F1,Champion,B
+MV-SIG-BLW-008-09,Oath Hush Barrage,Statute Puff,F2,Champion,B
+MV-SIG-BLW-008-10,Bearing Sworn Kill,Quenched Hiss,F2,Demigod,B
+MV-SIG-BLW-008-11,Quiet Reed Oath Set,Tenetburst,F5,Warrior,B
+MV-SIG-BLW-009-01,Gale Breath Swearing,Merciful Plug,F1,Champion,B
+MV-SIG-BLW-009-02,Plateau Stone Gripping,Bedrock Reedtube,F2,Champion,B
+MV-SIG-BLW-009-03,Windward Muzzle Dip,Revelation Padhead,F2,Champion,B
+MV-SIG-BLW-009-04,Gale Cloak Binding,Parity Airbore,F2,Champion,B
+MV-SIG-BLW-009-05,Swell Timed Blow,Squalltube,F5,Champion,B
+MV-SIG-BLW-009-06,Sworn Breath Pivot,Deluge Burst,F2,Champion,B
+MV-SIG-BLW-009-07,Gale Side Slip,Vigor Exhale,F2,Champion,B
+MV-SIG-BLW-009-08,Plateau Gust Guard,Statute Dartneedle,F2,Champion,B
+MV-SIG-BLW-009-09,Gale Drive Pierce,Steel Cane,F2,Champion,B
+MV-SIG-BLW-009-10,Sworn Gale Suppression,Exhaleedict,F4,Champion,B
+MV-SIG-BLW-009-11,Plateau Gale Spear,Vacuumtube,F5,Demigod,B
+MV-SIG-BLW-009-12,Sworn Breath Gale Set,Magma Huff,F2,Champion,B
+MV-SIG-BLW-010-01,Long Reed Bearing Pick,Benevolent Dartfletch,F1,Ruler,B
+MV-SIG-BLW-010-02,Wind Reed Balance,Tube Largesse,F3,Ruler,B
+MV-SIG-BLW-010-03,Ridge Line Walk,Vigor Puff,F2,Ruler,B
+MV-SIG-BLW-010-04,Long Wind Blow,Tubebanner,F4,Ruler,B
+MV-SIG-BLW-010-05,Bearing Hold Wait,Canegift,F4,Ruler,B
+MV-SIG-BLW-010-06,Reed Prone Ward,Sacrosanct Mouthpiece,F1,Ruler,B
+MV-SIG-BLW-010-07,Long Reed Skewer,Quenched Needlepuff,F2,Ruler,B
+MV-SIG-BLW-010-08,Wind Reed Hail,Valiant Exhale,F1,Ruler,B
+MV-SIG-BLW-010-09,Long Wind Bearing Strike,Quenched Mouthend,F2,Demigod,B
+MV-SIG-BLW-010-10,Long Wind Reed Mastery,Splendid Puff Crown,F6b,Ruler,B
+MV-SIG-BLW-011-01,Field Oath Seating,Tubebenison,F4,Demigod,B
+MV-SIG-BLW-011-02,Gale Field Testing,Luminous Reedtube,F1,Demigod,B
+MV-SIG-BLW-011-03,Oath Dart Anointing,Volition Mouthpiece,F2,Demigod,B
+MV-SIG-BLW-011-04,Field Wind Blow,Pulsar Huff,F2,Demigod,B
+MV-SIG-BLW-011-05,Oath Field Step,Vigor Hiss,F2,Demigod,B
+MV-SIG-BLW-011-06,Field Gust Ward,Revered Tube,F1,Demigod,B
+MV-SIG-BLW-011-07,Oath Field Reload,Volition Dartneedle,F2,Demigod,B
+MV-SIG-BLW-011-08,Field Dart Piercing,Vacuum Dartfletch,F2,Demigod,B
+MV-SIG-BLW-011-09,Wind Field Barrage,Lordly Hiss,F1,Demigod,B
+MV-SIG-BLW-011-10,Oath Field Strike,Steelplug,F5,Demigod,B
+MV-SIG-BLW-011-11,Wind Oath Field Set,Grand Volition Cane,F6a,Demigod,B
+MV-SIG-BLW-012-01,Core Gale Breathing,Parity Padhead,F2,Core Formation,B
+MV-SIG-BLW-012-02,Unwalled Ground Reading,Eclipse Mouthend,F2,Core Formation,B
+MV-SIG-BLW-012-03,Core Footing Root,Deluge Plug,F2,Core Formation,B
+MV-SIG-BLW-012-04,Reed Core Warming,Parity Tube,F2,Core Formation,B
+MV-SIG-BLW-012-05,Core Gale Blow,Squallpuff,F5,Core Formation,B
+MV-SIG-BLW-012-06,Open Edge Core Step,Bedrock Huff,F2,Core Formation,B
+MV-SIG-BLW-012-07,Core Gust Counter,Peal Mouthend,F2,Core Formation,B
+MV-SIG-BLW-012-08,Unwalled Core Flurry,Lordly Exhale,F1,Core Formation,B
+MV-SIG-BLW-012-09,Core Gale Needle,Steel Needlepuff,F2,Core Formation,B
+MV-SIG-BLW-012-10,Open Sky Core Barrage,Storied Mouthpiece,F1,Core Formation,B
+MV-SIG-BLW-012-11,Unwalled Core Lance,Storied Plug,F1,Core Formation,B
+MV-SIG-BLW-012-12,Unwalled Reed Gale Set,Intrepid Demolition Needlepuff,F6a,Core Formation,B
+MV-SIG-BLW-001-04,Dune Tube,Nimble Tube,F2,Warrior,B
+MV-SIG-BLW-001-06,Sanctum Cane,Unyielding Cane,F2,Warrior,B
+MV-SIG-BLW-002-11,Symphonic Destiny Exhale,Symphonic Exhale,F6a,Warrior,B
+MV-SIG-BLW-004-12,Choral Tenet Needlepuff,Choral Needlepuff,F6a,Ruler,B
+MV-SIG-BLW-005-08,Glacier Reedtube,Magnificent Reedtube,F2,Demigod,B
+MV-SIG-BLW-005-10,Famed Magma Dartfletch,Famed Dartfletch,F6a,Demigod,B
+MV-SIG-BLW-006-07,Glacier Airbore,Adamant Airbore,F2,Core Formation,B
+MV-SIG-BLW-008-03,Dune Padhead,Lightfoot Padhead,F2,Warrior,B
+MV-SIG-BLW-010-10,Splendid Puff Crown,Splendid Puff,F6b,Ruler,B
+MV-SIG-BLW-011-11,Grand Volition Cane,Grand Cane,F6a,Demigod,B
+MV-SIG-BLW-012-12,Intrepid Demolition Needlepuff,Intrepid Needlepuff,F6a,Core Formation,B

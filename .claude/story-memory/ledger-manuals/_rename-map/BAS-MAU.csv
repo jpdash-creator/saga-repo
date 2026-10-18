@@ -1,0 +1,61 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-MAU-001-01,Plain Maul Drop,Quakebump,F4,Unawakened,A
+MV-BAS-MAU-001-02,Maul-Haft Shove,Malletwedge,F4,Unawakened,A
+MV-BAS-MAU-001-03,Low Maul Sweep,Quake Drop,F3,Unawakened,A
+MV-BAS-MAU-001-04,Choked Maul Chop,Sledgeblow,F4,Unawakened,A
+MV-BAS-MAU-001-05,Crosswise Haft Hold,Solid Endcap,F1,Unawakened,A
+MV-BAS-MAU-001-06,Weight-Turn Sidestep,Skipping Sledgeface,F1,Unawakened,A
+MV-BAS-MAU-002-01,Two-Hand Pendulum Swing,Beetledrop,F4,Skin,A
+MV-BAS-MAU-002-02,Rising Maul Lift,Dollybump,F4,Skin,A
+MV-BAS-MAU-002-03,Wide-Grip Maul Block,Resting Gripbulge,F1,Skin,A
+MV-BAS-MAU-002-04,Halting Drop-Step,Thudpace,F4,Skin,A
+MV-BAS-MAU-002-05,Butt-Cap Jab,Downward Pommelweight,F1,Skin,A
+MV-BAS-MAU-003-01,Maul-Head Hammer Blow,Single Wedgeface,F1,Muscle,A
+MV-BAS-MAU-003-02,Haft-End Thrust,Malletstrike,F4,Muscle,A
+MV-BAS-MAU-003-03,Shaft Rap to the Wrists,Squash Husk,F3,Muscle,A
+MV-BAS-MAU-003-04,Head-Over-Haft Reversal,Sledgebump,F4,Muscle,A
+MV-BAS-MAU-003-05,Hip-Braced Maul Guard,Angled Maulbutt,F1,Muscle,A
+MV-BAS-MAU-003-06,Slide-Grip Shift,Quiet Flatten,F1,Muscle,A
+MV-BAS-MAU-003-07,Poll Tap Probe,Beetlenote,F4,Muscle,A
+MV-BAS-MAU-004-01,Stone-Splitting Overstroke,Dollyhit,F4,Tendon,A
+MV-BAS-MAU-004-02,Quarry Crouch Swing,Upward Heavyhelve,F1,Tendon,A
+MV-BAS-MAU-004-03,Rubble Shield Stance,Dollylid,F4,Tendon,A
+MV-BAS-MAU-004-04,Anvil-Strike Return,Descending Ironband,F1,Tendon,A
+MV-BAS-MAU-004-05,Dust-Kick Disrupt,Stopping Mallethead,F1,Tendon,A
+MV-BAS-MAU-004-06,Heavy Backstep Recovery,Shifting Thud,F1,Tendon,A
+MV-BAS-MAU-005-01,Straight Overhead Fall,Flat Pulverize,F1,Bone,A
+MV-BAS-MAU-005-02,Leaning Overhead Arc,Open Quake,F1,Bone,A
+MV-BAS-MAU-005-03,Hip-Snap Maul Finish,Maulhead Dash,F3,Bone,A
+MV-BAS-MAU-005-04,Raised-Haft Parry,Resting Sledgeface,F1,Bone,A
+MV-BAS-MAU-005-05,Back-Arch Recoil Step,Flatten Dodge,F3,Bone,A
+MV-BAS-MAU-006-01,Qi-Driven Maul Fall,Sharp Heavyhelve,F1,Senior,A
+MV-BAS-MAU-006-02,Pile-Driver Stroke,Gnawing Maulbutt,F1,Senior,A
+MV-BAS-MAU-006-03,Haft-Ring Block,Angled Wedgeface,F1,Senior,A
+MV-BAS-MAU-006-04,Stagger-Push Maul,Hitching Pommelweight,F1,Senior,A
+MV-BAS-MAU-006-05,Ground-Sink Anchor Step,Maulhead Pace,F3,Senior,A
+MV-BAS-MAU-006-06,Low Dragging Maul Cut,Beetleblow,F4,Senior,A
+MV-BAS-MAU-006-07,Qi-Thumped Poll Echo,Ironband Review,F3,Senior,A
+MV-BAS-MAU-007-01,Breaking-Blow Lowering,Sledgedash,F4,Senior,A
+MV-BAS-MAU-007-02,Shoulder-Qi Carry,Warm Endcap,F1,Senior,A
+MV-BAS-MAU-007-03,Haft-Slip Counter Strike,Descending Squash,F1,Senior,A
+MV-BAS-MAU-007-04,Heavy Parry Swing,Settled Endcap,F1,Senior,A
+MV-BAS-MAU-007-05,Double-Step Maul Approach,Pulverize Pace,F3,Senior,A
+MV-BAS-MAU-007-06,Wrist-Cracking Rap,Quakecowl,F4,Senior,A
+MV-BAS-MAU-008-01,Wide-Stance Maul Ground,Planted Mallethead,F1,Senior,A
+MV-BAS-MAU-008-02,Pivoting Maul Circle,Sideways Thud,F1,Senior,A
+MV-BAS-MAU-008-03,Footfall Maul Strike,Firm Sledge,F1,Senior,A
+MV-BAS-MAU-008-04,Weight-Shift Feint,Turning Quake,F1,Senior,A
+MV-BAS-MAU-008-05,Slow-Ground Retreat,Mallethead Amble,F3,Senior,A
+MV-BAS-MAU-009-01,Carried-Weight Lunge,Malletdrop,F4,Senior,A
+MV-BAS-MAU-009-02,Recovery Lift Between Blows,Judging Maulhead,F1,Senior,A
+MV-BAS-MAU-009-03,Cradle-Carry Guard,Endcapwedge,F4,Senior,A
+MV-BAS-MAU-009-04,Sack-Heave Overstroke,Narrow Pulverize,F1,Senior,A
+MV-BAS-MAU-009-05,Staggered Bearing Walk,Sideways Squash,F1,Senior,A
+MV-BAS-MAU-009-06,Dropped-Head Anchor,Pushing Maulbutt,F1,Senior,A
+MV-BAS-MAU-010-01,Narrow-Face Wedge Strike,Leaden Sledge,F1,Senior,A
+MV-BAS-MAU-010-02,Flat-Poll Slap,Short Sledge,F1,Senior,A
+MV-BAS-MAU-010-03,Wedge-Seam Probe,Calm Gripbulge,F1,Senior,A
+MV-BAS-MAU-010-04,Poll-Edge Block,Resting Ironband,F1,Senior,A
+MV-BAS-MAU-010-05,Face-Switch Hammer Cut,Beetledash,F4,Senior,A
+MV-BAS-MAU-010-06,Short Poll Shuffle,Quakeskitter,F4,Senior,A
+MV-BAS-MAU-010-07,Wedge-and-Poll Combination,Wide Thud,F1,Senior,A

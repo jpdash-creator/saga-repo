@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-SAI-001-01,Shaft-First Jab,Prongstrike,F4,Senior,A
+MV-BAS-SAI-001-02,Forearm Rest Guard,Holding Handknob,F1,Senior,A
+MV-BAS-SAI-001-03,Butt-Knob Rap,Short Handknob,F1,Senior,A
+MV-BAS-SAI-001-04,Plant and Slide Step,Stepping Tineleft,F1,Senior,A
+MV-BAS-SAI-001-05,Crossbar Cradle,Angled Crossprong,F1,Senior,A
+MV-BAS-SAI-001-06,Low Tine Pin,Locking Tineleft,F1,Senior,A
+MV-BAS-SAI-002-01,Fork Parry High,Raised Sidehook,F1,Senior,A
+MV-BAS-SAI-002-02,Stick Trap Turn,Pinioncowl,F4,Senior,A
+MV-BAS-SAI-002-03,Butt Hammer Drop,Wristblow,F4,Senior,A
+MV-BAS-SAI-002-04,Quarter Turn Shuffle,Veedodge,F4,Senior,A
+MV-BAS-SAI-002-05,Knuckle Shelter Lift,Prongcowl,F4,Senior,A
+MV-BAS-SAI-003-01,Point Prong Poke,Sharp Centerprong,F1,Senior,A
+MV-BAS-SAI-003-02,Side Tine Hook Pull,Hitching Sidehook,F1,Senior,A
+MV-BAS-SAI-003-03,Grip Roll Sweep,Resting Hiltpoint,F1,Senior,A
+MV-BAS-SAI-003-04,Three-Point Triangle Drill,Single Twist,F1,Senior,A
+MV-BAS-SAI-003-05,Heel Brace Crossbar,Planted Tinecrook,F1,Senior,A
+MV-BAS-SAI-003-06,Short Hip Thrust,Firm Hiltpoint,F1,Senior,A
+MV-BAS-SAI-003-07,Tine Touch Reading,Watching Tineright,F1,Senior,A
+MV-BAS-SAI-004-01,Tine Edge Catch,Fixing Tinecrook,F1,Senior,A
+MV-BAS-SAI-004-02,Twist Away Wrench,Wrestwedge,F4,Senior,A
+MV-BAS-SAI-004-03,Elbow-Line Cross Block,Solid Sanguard,F1,Senior,A
+MV-BAS-SAI-004-04,Catch and Knuckle Rap,Veehit,F4,Senior,A
+MV-BAS-SAI-004-05,Shin-Side Drop Guard,Lowered Tineleft,F1,Senior,A
+MV-BAS-SAI-004-06,Shoulder Fork Press,Pushing Handknob,F1,Senior,A
+MV-BAS-SAI-005-01,Lead and Rear Jab Pair,Quick Snag,F1,Senior,A
+MV-BAS-SAI-005-02,Crossed Sai Shelter,Hooding Tineright,F1,Senior,A
+MV-BAS-SAI-005-03,Trade the Guard,Ready Centerprong,F1,Senior,A
+MV-BAS-SAI-005-04,Rear Hook Over Guard,Hard Sidehook,F1,Senior,A
+MV-BAS-SAI-005-05,Alternating Knob Run,Piniondash,F4,Senior,A
+MV-BAS-SAI-005-06,Scissor Tine Clamp,Pulling Pinion,F1,Senior,A
+MV-BAS-SAI-005-07,Backstep Cover,Backward Hiltpoint,F1,Senior,A
+MV-BAS-SAI-005-08,Even Stance Reading,Even Hiltpoint,F1,Senior,A
+MV-BAS-SAI-006-01,Qi-Light Tine Block,Wristlid,F4,Senior,A
+MV-BAS-SAI-006-02,Stiffened Shaft Jab,Stiff Prongbase,F1,Senior,A
+MV-BAS-SAI-006-03,Circling Wrist Bind,Turning Wrest,F1,Senior,A
+MV-BAS-SAI-006-04,Yoke First Lunge,Prongpace,F4,Senior,A
+MV-BAS-SAI-006-05,Shaft Slide Parry,Snug Prongbase,F1,Senior,A
+MV-BAS-SAI-006-06,Short Butt Crack,Clasphit,F4,Senior,A
+MV-BAS-SAI-007-01,Seated First Guard,Tight Handknob,F1,Senior,A
+MV-BAS-SAI-007-02,Rising Tine Guard,Raised Crossprong,F1,Senior,A
+MV-BAS-SAI-007-03,Low Fork Lap Guard,Folded Sanguard,F1,Senior,A
+MV-BAS-SAI-007-04,Guard Reach Thrust,Narrow Wrest,F1,Senior,A
+MV-BAS-SAI-007-05,Flat Arm Press,Stopping Prongbase,F1,Senior,A
+MV-BAS-SAI-007-06,Guarded Half Retreat,Wristhop,F4,Senior,A
+MV-BAS-SAI-007-07,Posture Pause Sense,Veenote,F4,Senior,A
+MV-BAS-SAI-008-01,Sash Draw Jab,Sudden Tineleft,F1,Senior,A
+MV-BAS-SAI-008-02,Carry Stance Lunge,Light Twist,F1,Senior,A
+MV-BAS-SAI-008-03,Sleeve Drop Catch,Kept Hiltpoint,F1,Senior,A
+MV-BAS-SAI-008-04,Belt Hook Tug,Towing Hiltpoint,F1,Senior,A
+MV-BAS-SAI-008-05,Breath-Ready Hold,Warm Handknob,F1,Senior,A
+MV-BAS-SAI-009-01,Forearm Line Block,Veestay,F4,Senior,A
+MV-BAS-SAI-009-02,Reverse Sweep Block,Settled Tineleft,F1,Senior,A
+MV-BAS-SAI-009-03,Elbow-Driven Butt Jab,Level Ensnare,F1,Senior,A
+MV-BAS-SAI-009-04,Fist and Knob Hammer,Wriststrike,F4,Senior,A
+MV-BAS-SAI-009-05,Reverse Spin Release,Swaying Wrest,F1,Senior,A
+MV-BAS-SAI-009-06,Tine Rake Down the Arm,Gnawing Tinecrook,F1,Senior,A
+MV-BAS-SAI-009-07,Overhead Grip Flip,Angled Sidehook,F1,Senior,A
+MV-BAS-SAI-009-08,Behind-Wrist Press,Fouling Centerprong,F1,Senior,A
+MV-BAS-SAI-010-01,Tine Catch Snap,Clasplid,F4,Senior,A
+MV-BAS-SAI-010-02,Half-Turn Blade Lever,Snaghusk,F4,Senior,A
+MV-BAS-SAI-010-03,Outer Tine Slip,Resting Tinecrook,F1,Senior,A
+MV-BAS-SAI-010-04,Lock and Lift,Tripping Tineright,F1,Senior,A
+MV-BAS-SAI-010-05,Freed Turn Rap,Blunt Crossprong,F1,Senior,A
+MV-BAS-SAI-010-06,Catch Reading Pause,Judging Centerprong,F1,Senior,A

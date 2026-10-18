@@ -1,0 +1,7 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-SND-003-01,Field Grain,Grain Cast,INSTANT,T1 Unawakened,Basic
+CMV-ADV-SND-007-07,Sandbound Line,Sandbound Pin,CHANNELED,Senior L1 Low,Intermediate
+CMV-ADV-SND-004-01,Basin Grain,Layered Grain,INSTANT,,Basic
+CMV-ADV-SND-004-03,Basin Slide,Silted Slide,INSTANT,,Basic
+CMV-ADV-SND-004-08,Basin Fall,Sediment Fall,INSTANT,,Intermediate
+CMV-ADV-SND-004-10,Basin Weight,Sediment Weight,CHANNELED,,Advanced

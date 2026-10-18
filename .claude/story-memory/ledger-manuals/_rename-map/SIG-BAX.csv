@@ -1,0 +1,144 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-BAX-001-01,Court Stance,Statute Warbeard,F2,Warrior,B
+MV-SIG-BAX-001-02,Azure Bit Chop,Inferno Warcleave,F2,Warrior,B
+MV-SIG-BAX-001-03,Court Entry Glide,Deluge Warpoll,F2,Warrior,B
+MV-SIG-BAX-001-04,Paired Edge Rap,Despotic Warhelve,F1,Warrior,B
+MV-SIG-BAX-001-05,Twin Beard Draw,Hornbeam Bitedge,F2,Warrior,B
+MV-SIG-BAX-001-06,Court Parry Turn,Consecrated Banded,F1,Warrior,B
+MV-SIG-BAX-001-07,Azure Pair Cut,Squallbattle,F5,Warrior,B
+MV-SIG-BAX-001-08,Court Qi Edge,Solar Battleheel,F2,Champion,B
+MV-SIG-BAX-001-09,Azure Court Lock,Sigil Haftcap,F2,Champion,B
+MV-SIG-BAX-001-10,Hawk-Court Bit Pierce,Steel Battercut,F2,Demigod,B
+MV-SIG-BAX-001-11,Azure Court Great Axe Cleave,Paramount Crescentbit,F1,Warrior,B
+MV-SIG-BAX-002-01,Hawk Perch Axe Stance,Undaunted Warbit,F1,Warrior,B
+MV-SIG-BAX-002-02,Stoop Chop,Squall Brunt,F2,Warrior,B
+MV-SIG-BAX-002-03,Wing Step,Deluge Smite,F2,Warrior,B
+MV-SIG-BAX-002-04,Talon Pull,Sigil Hewdown,F2,Warrior,B
+MV-SIG-BAX-002-05,Wing Beat Block,Peal Wideeye,F2,Warrior,B
+MV-SIG-BAX-002-06,Twin Stoop Pair,Quenched Haftcap,F2,Warrior,B
+MV-SIG-BAX-002-07,Hawk Feint Rap,Venom Warbit,F2,Warrior,B
+MV-SIG-BAX-002-08,Perch Eye Reading,Crescentbit Benison,F3,Warrior,B
+MV-SIG-BAX-002-09,Stoop Seam Pierce,Quenched Warcleave,F2,Champion,B
+MV-SIG-BAX-002-10,Azure Wing Ward,Prism Bitedge,F2,Champion,B
+MV-SIG-BAX-002-11,Paired Hawk-Cleave,Pulsar Wideeye,F2,Demigod,B
+MV-SIG-BAX-002-12,Hawk Release Cut,Royal Bedrock Battleheel,F6a,Warrior,B
+MV-SIG-BAX-003-01,Basin Stance Hold,Battlepledge,F4,Champion,B
+MV-SIG-BAX-003-02,Tide Chop,Haemalbanded,F5,Champion,B
+MV-SIG-BAX-003-03,Rising Tide Step,Vigor Rive,F2,Champion,B
+MV-SIG-BAX-003-04,Low Tide Hook,Thrallbanded,F5,Champion,B
+MV-SIG-BAX-003-05,Swell Cut Pair,Vigor Warpoll,F2,Champion,B
+MV-SIG-BAX-003-06,Basin Parry Wheel,Delugewarbit,F5,Champion,B
+MV-SIG-BAX-003-07,River Mouth Rap,Commanding Battercut,F1,Champion,B
+MV-SIG-BAX-003-08,Tide Qi Gather,Warhelve Blessing,F3,Champion,B
+MV-SIG-BAX-003-09,Tide Pull Seal,Sigilsmite,F5,Champion,B
+MV-SIG-BAX-003-10,Tide Flood Pierce,Steelbanded,F5,Champion,B
+MV-SIG-BAX-003-11,Ebb Tide Ward,Revelation Warbeard,F2,Demigod,B
+MV-SIG-BAX-003-12,Great Tide Sweep,Matchless Inferno Smite,F6a,Champion,B
+MV-SIG-BAX-004-01,Twin Track Guard,Enshrined Banded,F1,Ruler,B
+MV-SIG-BAX-004-02,Track Chop,Lordly Warbeard,F1,Ruler,B
+MV-SIG-BAX-004-03,Twin Step,Feather Brunt,F1,Ruler,B
+MV-SIG-BAX-004-04,Steel Track Rap,Authoritative Battleheel,F1,Ruler,B
+MV-SIG-BAX-004-05,Qi Track Hook,Imperious Brunt,F1,Ruler,B
+MV-SIG-BAX-004-06,Track Parry Switch,Squall Banded,F2,Ruler,B
+MV-SIG-BAX-004-07,Twin Track Cut Pair,Squall Crescentbit,F2,Ruler,B
+MV-SIG-BAX-004-08,Twin Qi Edge,Solarbattle,F5,Ruler,B
+MV-SIG-BAX-004-09,Paired Track Pierce,Warbitcrown,F4,Ruler,B
+MV-SIG-BAX-004-10,Track Reflection Ward,Eclipse Warbit,F2,Demigod,B
+MV-SIG-BAX-004-11,Twin Tracks Great Cleave,Majestic Hewdown,F1,Ruler,B
+MV-SIG-BAX-005-01,Hawk Court Stance,Steelbattle,F5,Void God,B
+MV-SIG-BAX-005-02,Court Dive Cut,Quenched Rive,F2,Void God,B
+MV-SIG-BAX-005-03,Azure Slip Step,Vigor Wideeye,F2,Void God,B
+MV-SIG-BAX-005-04,Talon Court Hook,Thrall Smite,F2,Void God,B
+MV-SIG-BAX-005-05,Wing Court Parry,Warbitvow,F4,Void God,B
+MV-SIG-BAX-005-06,Court Rap Feint,Peal Haftcap,F2,Void God,B
+MV-SIG-BAX-005-07,Court Eye Reading,Peal Warhelve,F2,Void God,B
+MV-SIG-BAX-005-08,Court Pierce Dive,Dauntless Battercut,F1,Void God,B
+MV-SIG-BAX-005-09,Court Reflect Ward,Prismbanded,F5,Void God,B
+MV-SIG-BAX-005-10,Hawk Court Descent,Pulsarrive,F5,Void God,B
+MV-SIG-BAX-005-11,Court Edge Surge,Vigorbrunt,F5,Void God,B
+MV-SIG-BAX-005-12,Hawk-Court Great Cleave,Dauntless Haemal Hewdown,F6a,Void God,B
+MV-SIG-BAX-006-01,Sky Stance,Consecrated Warpoll,F1,Core Formation,B
+MV-SIG-BAX-006-02,Azure Chop,Bedrock Warbeard,F2,Core Formation,B
+MV-SIG-BAX-006-03,Sky Glide,Skyborne Bitedge,F1,Core Formation,B
+MV-SIG-BAX-006-04,Core Poll Rap,Authoritative Warpoll,F1,Core Formation,B
+MV-SIG-BAX-006-05,Core Twin Hook,Sigilbrunt,F5,Core Formation,B
+MV-SIG-BAX-006-06,Sky Parry,Bandedseal,F4,Core Formation,B
+MV-SIG-BAX-006-07,Core Edge Pair,Splendid Warcleave,F1,Core Formation,B
+MV-SIG-BAX-006-08,Core Qi Gather,Serene Warbit,F1,Core Formation,B
+MV-SIG-BAX-006-09,Azure Pierce,Vacuum Rive,F2,Core Formation,B
+MV-SIG-BAX-006-10,Core Reflect Ward,Eclipse Battleheel,F2,Core Formation,B
+MV-SIG-BAX-006-11,Sky Rift Surge,Bruntgrace,F4,Core Formation,B
+MV-SIG-BAX-006-12,Azure Sky Great Cleave,Battercut Edict,F3,Core Formation,B
+MV-SIG-BAX-007-01,Open Plateau Axe Stance,Bandedpledge,F4,Warrior,B
+MV-SIG-BAX-007-02,Headwind Plateau Chop,Wideeye Banner,F3,Warrior,B
+MV-SIG-BAX-007-03,Sworn Plateau Run,Bandedboon,F4,Warrior,B
+MV-SIG-BAX-007-04,Wind Rap,Peal Bitedge,F2,Warrior,B
+MV-SIG-BAX-007-05,Bearing Hook,Brunt Reliquary,F3,Warrior,B
+MV-SIG-BAX-007-06,Wind Haft Parry Turn,Sacrosanct Warhelve,F1,Warrior,B
+MV-SIG-BAX-007-07,Oath Cut,Bedrock Crescentbit,F2,Warrior,B
+MV-SIG-BAX-007-08,Gale Qi Gather,Volition Warbeard,F2,Champion,B
+MV-SIG-BAX-007-09,Oath Poll Press,Despotic Hewdown,F1,Champion,B
+MV-SIG-BAX-007-10,Wind-Sworn Pierce,Magnificent Rive,F1,Demigod,B
+MV-SIG-BAX-007-11,Wind-Sworn Great Axe Cleave,Quenched Wideeye,F2,Warrior,B
+MV-SIG-BAX-008-01,Bearing Axe Stance,Warbit Pledge,F3,Warrior,B
+MV-SIG-BAX-008-02,Oath Axe Chop,Warcleave Triumph,F3,Warrior,B
+MV-SIG-BAX-008-03,Oath Bearing Haft Step,Warbitboon,F4,Warrior,B
+MV-SIG-BAX-008-04,Gale Hook Catch,Smiteseal,F4,Warrior,B
+MV-SIG-BAX-008-05,Oath Axe Haft Parry,Pall Haftcap,F2,Warrior,B
+MV-SIG-BAX-008-06,Gale Rap,Rivepledge,F4,Warrior,B
+MV-SIG-BAX-008-07,Sworn Weight Gather,Solar Banded,F2,Champion,B
+MV-SIG-BAX-008-08,Bearing Pierce,Steelrive,F5,Champion,B
+MV-SIG-BAX-008-09,Oath Reflect Ward,Prismwarbit,F5,Demigod,B
+MV-SIG-BAX-008-10,Oath-Axe Great Cleave,Heroic Quenched Battercut,F6a,Warrior,B
+MV-SIG-BAX-009-01,Held Bearing Haft Guard,Warbitseal,F4,Champion,B
+MV-SIG-BAX-009-02,Bearing Held Axe Chop,Smite Crown,F3,Champion,B
+MV-SIG-BAX-009-03,Held Step,Bandedsolace,F4,Champion,B
+MV-SIG-BAX-009-04,Held Beard Pull,Thrallbrunt,F5,Champion,B
+MV-SIG-BAX-009-05,Steady Rap,Riveseal,F4,Champion,B
+MV-SIG-BAX-009-06,Bearing Parry Hold,Deluge Haftcap,F2,Champion,B
+MV-SIG-BAX-009-07,Held Cut Pair,Riveverdict,F4,Champion,B
+MV-SIG-BAX-009-08,Held Weight Gather,Merciful Bitedge,F1,Champion,B
+MV-SIG-BAX-009-09,Held Bearing Pierce,Storied Hewdown,F1,Champion,B
+MV-SIG-BAX-009-10,Held Bearing Seal,Tyrannous Warcleave,F1,Champion,B
+MV-SIG-BAX-009-11,Oath Wind Reflect,Banded Troth,F3,Demigod,B
+MV-SIG-BAX-009-12,Bearing-Held Great Cleave,Unrivaled Thunderclap Smite,F6a,Champion,B
+MV-SIG-BAX-010-01,Oath Guard,Steelwarbit,F5,Ruler,B
+MV-SIG-BAX-010-02,Hewing Chop,Quenched Warhelve,F2,Ruler,B
+MV-SIG-BAX-010-03,Plateau Rim Step,Bedrock Rive,F2,Ruler,B
+MV-SIG-BAX-010-04,Gale Oath Hook,Battleheel Reliquary,F3,Ruler,B
+MV-SIG-BAX-010-05,Oath Rap Disrupt,Peal Brunt,F2,Ruler,B
+MV-SIG-BAX-010-06,Wind Parry Hold,Paritybanded,F5,Ruler,B
+MV-SIG-BAX-010-07,Oath Pair Cut,Warbitdecree,F4,Ruler,B
+MV-SIG-BAX-010-08,Hewing Qi Gather,Vigor Warbeard,F2,Ruler,B
+MV-SIG-BAX-010-09,Oath Line Seal,Sigil Warhelve,F2,Ruler,B
+MV-SIG-BAX-010-10,Hewing Oath Pierce,Steel Crescentbit,F2,Ruler,B
+MV-SIG-BAX-010-11,Gale Reflect Ward,Revelation Battleheel,F2,Demigod,B
+MV-SIG-BAX-010-12,Hewing Oath Great Cleave,Bedrock Brunt,F2,Ruler,B
+MV-SIG-BAX-011-01,Gale Stance,Glacier Bitedge,F2,Void God,B
+MV-SIG-BAX-011-02,Gale Chop,Vigor Smite,F2,Void God,B
+MV-SIG-BAX-011-03,Unbound Step,Bedrock Battercut,F2,Void God,B
+MV-SIG-BAX-011-04,Unbound Beard Hook,Glacier Warcleave,F2,Void God,B
+MV-SIG-BAX-011-05,Crosswind Rap Strike,Imperious Hewdown,F1,Void God,B
+MV-SIG-BAX-011-06,Gale Haft Parry Turn,Squall Warbit,F2,Void God,B
+MV-SIG-BAX-011-07,Gust Pair Cut,Inferno Warpoll,F2,Void God,B
+MV-SIG-BAX-011-08,Unbound Qi Gather,Nurturing Warpoll,F1,Void God,B
+MV-SIG-BAX-011-09,Gale Pierce,Royal Wideeye,F1,Void God,B
+MV-SIG-BAX-011-10,Unbound Reflect Ward,Stately Banded,F1,Void God,B
+MV-SIG-BAX-011-11,Unbound Surge Step,Squall Warhelve,F2,Void God,B
+MV-SIG-BAX-011-12,Unbound Gale Great Cleave,Entropy Wideeye,F2,Void God,B
+MV-SIG-BAX-012-01,Far Wind Stance,Battleseal,F4,Core Formation,B
+MV-SIG-BAX-012-02,Far Chop,Haemalbattle,F5,Core Formation,B
+MV-SIG-BAX-012-03,Plateau Axe Stride,Bedrock Haftcap,F2,Core Formation,B
+MV-SIG-BAX-012-04,Core Wind Rap,Peal Battercut,F2,Core Formation,B
+MV-SIG-BAX-012-05,Beard Limb Draw,Hornbeam Battleheel,F2,Core Formation,B
+MV-SIG-BAX-012-06,Far Wind Parry,Warbittroth,F4,Core Formation,B
+MV-SIG-BAX-012-07,Core Gale Pair,Thunderclap Banded,F2,Core Formation,B
+MV-SIG-BAX-012-08,Core Wind Gather,Clement Haftcap,F1,Core Formation,B
+MV-SIG-BAX-012-09,Far Wind Pierce,Paramount Warbeard,F1,Core Formation,B
+MV-SIG-BAX-012-10,Core Oath Ward,Consecrated Bitedge,F1,Core Formation,B
+MV-SIG-BAX-012-11,Far Wind Surge,Soundless Rive,F1,Core Formation,B
+MV-SIG-BAX-012-12,Far-Wind Great Cleave,Valiant Warpoll Triumph,F6b,Core Formation,B
+MV-SIG-BAX-001-05,Hornbeam Bitedge,Rending Bitedge,F2,Warrior,B
+MV-SIG-BAX-011-01,Glacier Bitedge,Crushing Bitedge,F2,Void God,B
+MV-SIG-BAX-011-04,Glacier Warcleave,Titan Warcleave,F2,Void God,B
+MV-SIG-BAX-012-05,Hornbeam Battleheel,Savage Battleheel,F2,Core Formation,B

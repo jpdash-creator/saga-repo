@@ -1,0 +1,81 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-SHD-001-01,Forearm Carry Settle,Holding Bossrim,F1,T1 Unawakened,A
+MV-BAS-SHD-001-02,Square Board Plant,Solid Shieldarm,F1,T1 Unawakened,A
+MV-BAS-SHD-001-03,Slant Board Slide,Hooding Rim,F1,T1 Unawakened,A
+MV-BAS-SHD-001-04,Shoulder-Set Shove Check,Angled Boss,F1,T1 Unawakened,A
+MV-BAS-SHD-001-05,Short Step Behind Cover,Rimamble,F4,T1 Unawakened,A
+MV-BAS-SHD-001-06,Low Rim Jab,Cover Strike,F3,T1 Unawakened,A
+MV-BAS-SHD-002-01,Boss Drive from the Shoulder,Bashbump,F4,Senior L1 Low,A
+MV-BAS-SHD-002-02,Boss Knock at the Wrist,Wardblow,F4,Senior L1 Low,A
+MV-BAS-SHD-002-03,Boss Turn Against a Thrust,Holding Enarme,F1,Senior L1 Low,A
+MV-BAS-SHD-002-04,Boss-First Advance,Facedodge,F4,Senior L1 Low,A
+MV-BAS-SHD-002-05,Boss Pin on the Blade,Fouling Backbrace,F1,Senior L1 Low,A
+MV-BAS-SHD-003-01,Rim Chop to the Collar,Bossstrike,F4,T1 Skin,A
+MV-BAS-SHD-003-02,Flat Board Block,Folded Strap,F1,T1 Skin,A
+MV-BAS-SHD-003-03,Board Turn to the Open Side,Backboard Husk,F3,T1 Skin,A
+MV-BAS-SHD-003-04,Board Rim Overarm Drag,Covercowl,F4,T1 Skin,A
+MV-BAS-SHD-003-05,Edge Scrape Down the Shaft,Facehit,F4,T1 Skin,A
+MV-BAS-SHD-003-06,Quarter Step Behind the Board,Quiet Ward,F1,T1 Skin,A
+MV-BAS-SHD-003-07,Rim-Height Eye Check,Warm Edgeband,F1,T1 Skin,A
+MV-BAS-SHD-004-01,Raised Guard Hold,Folded Face,F1,Senior L2 Low,A
+MV-BAS-SHD-004-02,High Cover Lunge Step,Cover Dodge,F3,Senior L2 Low,A
+MV-BAS-SHD-004-03,Overhead Cut Catch,Raised Backboard,F1,Senior L2 Low,A
+MV-BAS-SHD-004-04,Lowering Rim Drop,Straight Shoulderset,F1,Senior L2 Low,A
+MV-BAS-SHD-004-05,Guard-High Pivot,Bashdodge,F4,Senior L2 Low,A
+MV-BAS-SHD-004-06,Raised Board Shed,Hooding Edgeband,F1,Senior L2 Low,A
+MV-BAS-SHD-004-07,Undercut Rim Rise,Shovedash,F4,Senior L2 Low,A
+MV-BAS-SHD-004-08,Held-High Rest Breathing,Soft Backbrace,F1,Senior L2 Low,A
+MV-BAS-SHD-005-01,Strap Length Fitting,Raised Face,F1,T1 Muscle,A
+MV-BAS-SHD-005-02,Handgrip Clench Hold,Snug Shieldarm,F1,T1 Muscle,A
+MV-BAS-SHD-005-03,Strap-Bound Impact Take,Enarme Cowl,F3,T1 Muscle,A
+MV-BAS-SHD-005-04,Grip Flick Turn,Raised Rim,F1,T1 Muscle,A
+MV-BAS-SHD-005-05,Strap Swing Rim Strike,Single Ward,F1,T1 Muscle,A
+MV-BAS-SHD-005-06,Tightened Strap Recovery,Towing Bash,F1,T1 Muscle,A
+MV-BAS-SHD-006-01,Board-Facing Shuffle,Easing Boss,F1,Senior L3 Mid,A
+MV-BAS-SHD-006-02,Back-Foot Brace Retreat,Bossskitter,F4,Senior L3 Mid,A
+MV-BAS-SHD-006-03,Pivot Behind the Rim,Shovetrot,F4,Senior L3 Mid,A
+MV-BAS-SHD-006-04,Cross-Step Board Shield,Solid Edgeband,F1,Senior L3 Mid,A
+MV-BAS-SHD-006-05,Shield-Led Gap Close,Buffetamble,F4,Senior L3 Mid,A
+MV-BAS-SHD-006-06,Heel-Drag Sidestep,Bossrim Lid,F3,Senior L3 Mid,A
+MV-BAS-SHD-006-07,Footwork Circle on the Board,Bossstay,F4,Senior L3 Mid,A
+MV-BAS-SHD-007-01,Planted Charge Take,Resting Backbrace,F1,T1 Tendon,A
+MV-BAS-SHD-007-02,Low Root Stance,Resting Strap,F1,T1 Tendon,A
+MV-BAS-SHD-007-03,Rear Foot Dig Brace,Kept Shieldarm,F1,T1 Tendon,A
+MV-BAS-SHD-007-04,Rising Board Heave,Buffetbump,F4,T1 Tendon,A
+MV-BAS-SHD-007-05,Stance Break Sidestep,Nimble Bossrim,F1,T1 Tendon,A
+MV-BAS-SHD-008-01,High Board Cut Turn,Raised Boss,F1,Senior L1 Mid,A
+MV-BAS-SHD-008-02,Mid Board Thrust Catch,Solid Enarme,F1,Senior L1 Mid,A
+MV-BAS-SHD-008-03,Low Board Sweep Parry,Hooding Strap,F1,Senior L1 Mid,A
+MV-BAS-SHD-008-04,Edge-Taken Blow Roll,Holding Face,F1,Senior L1 Mid,A
+MV-BAS-SHD-008-05,Board Corner Check,Holding Backboard,F1,Senior L1 Mid,A
+MV-BAS-SHD-008-06,Qi-Backed Impact Soak,Strap Wedge,F3,Senior L1 Mid,A
+MV-BAS-SHD-008-07,Counter-Tap After the Turn,Rimstrike,F4,Senior L1 Mid,A
+MV-BAS-SHD-008-08,Blow Reading by Board Echo,Tending Rim,F1,Senior L1 Mid,A
+MV-BAS-SHD-009-01,Crouch Cover Drop,Solid Rim,F1,T1 Bone,A
+MV-BAS-SHD-009-02,Knee-Down Missile Cover,Folded Backbrace,F1,T1 Bone,A
+MV-BAS-SHD-009-03,Low Cover Leg Guard,Raised Enarme,F1,T1 Bone,A
+MV-BAS-SHD-009-04,Crouching Shield Crawl,Shifting Shove,F1,T1 Bone,A
+MV-BAS-SHD-009-05,Rising from Low Cover,Shovedrop,F4,T1 Bone,A
+MV-BAS-SHD-009-06,Shin-Level Rim Hook,Catching Shove,F1,T1 Bone,A
+MV-BAS-SHD-009-07,Over-the-Rim Glance,Warm Shieldarm,F1,T1 Bone,A
+MV-BAS-SHD-010-01,Whole-Face Shove,Enarmedash,F4,Senior L4 Low,A
+MV-BAS-SHD-010-02,Off-Balance Board Lift,Facepause,F4,Senior L4 Low,A
+MV-BAS-SHD-010-03,Shoulder-Driven Push Walk,Bossdrop,F4,Senior L4 Low,A
+MV-BAS-SHD-010-04,Shield Wedge Entry,Buffettrot,F4,Senior L4 Low,A
+MV-BAS-SHD-010-05,Push Recovery Plant,Kept Boss,F1,Senior L4 Low,A
+MV-BAS-SHD-010-06,Rim-Down Floor Pin,Enarmelid,F4,Senior L4 Low,A
+MV-BAS-SHD-011-01,Heavy Facing Lift Drill,Holding Edgeband,F1,T1 Muscle,A
+MV-BAS-SHD-011-02,Shoulder Roll Board Swing,Kept Face,F1,T1 Muscle,A
+MV-BAS-SHD-011-03,Weighted Guard Hold,Hooding Face,F1,T1 Muscle,A
+MV-BAS-SHD-011-04,Full-Turn Facing Swing,Solid Backboard,F1,T1 Muscle,A
+MV-BAS-SHD-011-05,Heavy Facing Forward Heave,Gnawing Bash,F1,T1 Muscle,A
+MV-BAS-SHD-011-06,Shield Drag Step,Buffethop,F4,T1 Muscle,A
+MV-BAS-SHD-011-07,Low-to-High Guard Change,Settled Bossrim,F1,T1 Muscle,A
+MV-BAS-SHD-011-08,Tired-Arm Brace Reset,Backbrace Gauge,F3,T1 Muscle,A
+MV-BAS-SHD-012-01,Cudgel-Over-Rim Cut,Flat Shove,F1,Senior L5 Low,A
+MV-BAS-SHD-012-02,Shield-Side Cudgel Guard,Ready Bossrim,F1,Senior L5 Low,A
+MV-BAS-SHD-012-03,Board-Then-Cudgel Beat,Gnawing Cover,F1,Senior L5 Low,A
+MV-BAS-SHD-012-04,Cudgel Hook Behind the Board,Bosscowl,F4,Senior L5 Low,A
+MV-BAS-SHD-012-05,Cudgel Pin on the Board's Edge,Facehusk,F4,Senior L5 Low,A
+MV-BAS-SHD-012-06,Cudgel-Hand Weight Shift,Light Shoulderset,F1,Senior L5 Low,A
+MV-BAS-SHD-012-07,Cudgel Tip Probe,Kind Strap,F1,Senior L5 Low,A

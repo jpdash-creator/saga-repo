@@ -1,0 +1,16 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-BND-003-01,Field Thread,Spun Thread,INSTANT,,Basic
+CMV-ADV-BND-003-02,Field Knot,Yielding Knot,CHANNELED,,Basic
+CMV-ADV-BND-003-03,Reach Line,Tether Stride,INSTANT,,Basic
+CMV-ADV-BND-003-04,Field Gauge,Bond Gauge,INSTANT,,Basic
+CMV-ADV-BND-003-06,Bound Field,Dragging Weave,CHANNELED,,Intermediate
+CMV-ADV-BND-003-08,Field Seizure,Mass Seizure,CAST,,Advanced
+CMV-ADV-BND-004-03,Pair Step,Hopping Tether,INSTANT,,Basic
+CMV-ADV-BND-005-04,Swoop Line,Swoop Tether,INSTANT,,Basic
+CMV-ADV-BND-006-02,River Line,Flowing Tether,INSTANT,,Basic
+CMV-ADV-BND-006-08,River Binding,Sweeping Binding,CAST,,Advanced
+CMV-ADV-BND-007-06,Reckoning Line,Steady Tie,CHANNELED,,Intermediate
+CMV-ADV-BND-008-03,Plain Pledge,Calm Pledge,INSTANT,,Basic
+CMV-ADV-BND-009-01,Edge Line,Tilting Cord,INSTANT,,Basic
+CMV-ADV-BND-006-01,Basin Knot,Cupped Knot,INSTANT,,Basic
+CMV-ADV-BND-006-07,Basin Hold,Cupped Hold,CHANNELED,,Advanced

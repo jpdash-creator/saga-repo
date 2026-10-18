@@ -1,0 +1,17 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-QIP-002-01,Field Brush,Qi Brush,INSTANT,,Basic
+CMV-ADV-QIP-002-02,Field Push,Qi Push,INSTANT,,Basic
+CMV-ADV-QIP-002-03,Field Cover,Qi Cover,CHANNELED,,Basic
+CMV-ADV-QIP-002-04,Field Glide,Qi Glide,INSTANT,,Basic
+CMV-ADV-QIP-002-05,Field Lash,Qi Lash,INSTANT,,Intermediate
+CMV-ADV-QIP-002-06,Field Mooring,Qi Mooring,CHANNELED,,Intermediate
+CMV-ADV-QIP-002-07,Unfurled Field,Unfurled Wave,CAST,,Advanced
+CMV-ADV-QIP-004-08,Field Renewal,Qi Renewal,CHANNELED,,Advanced
+CMV-ADV-QIP-004-09,Field Wash,Qi Wash,CHANNELED,,Advanced
+CMV-ADV-QIP-007-01,Inner Field,Inner Drive,CHANNELED,,Basic
+CMV-ADV-QIP-007-02,Outer Field,Outer Shell,CHANNELED,,Basic
+CMV-ADV-QIP-007-05,Field Meeting,Meeting Strike,INSTANT,,Intermediate
+CMV-ADV-QIP-007-07,Paired Fields,Paired Swell,CAST,,Advanced
+CMV-ADV-QIP-007-08,Field Exchange,Qi Exchange,CHANNELED,,Advanced
+CMV-ADV-QIP-009-03,Bearing Coast,Bearing Slide,INSTANT,,Basic
+CMV-ADV-QIP-010-08,Sworn Healing Field,Sworn Healing,CHANNELED,,Advanced

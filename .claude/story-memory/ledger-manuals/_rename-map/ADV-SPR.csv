@@ -1,0 +1,127 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-SPR-001-01,Plate-Seam Seeker Thrust,Socketbarrage,F4,Champion L2 Mid,B
+MV-ADV-SPR-001-02,Padded-Cloth Punch Jab,Ironthrust,F5,Champion L2 Mid,B
+MV-ADV-SPR-001-03,Hide-Tough Set Brace,Unflinching Collarband,F1,Champion L2 Mid,B
+MV-ADV-SPR-001-04,Armour-Edge Hook Pull,Mayhem Beatback,F2,Champion L2 Mid,B
+MV-ADV-SPR-001-05,Gorget-Gap Needle Thrust,Nova Longshaft,F2,Champion L2 Mid,B
+MV-ADV-SPR-001-06,Rivet-Line Breaking Drive,Spearbarrage,F4,Champion L2 Mid,B
+MV-ADV-SPR-001-07,Plate-Slip Disengage Step,Surging Leafhead,F1,Champion L2 Mid,B
+MV-ADV-SPR-001-08,Bodkin Qi Piercing Lance,Pointbarrage,F4,Champion L2 Mid,B
+MV-ADV-SPR-001-09,Layered-Guard Breaking Combination,Twirlthrash,F4,Champion L2 Mid,B
+MV-ADV-SPR-002-01,Circle-Watch Pivot Stance,Torrent Spearpoint,F2,Champion L6 Low,B
+MV-ADV-SPR-002-02,Edge-of-Ring Prick,Splitting Stretch,F1,Champion L6 Low,B
+MV-ADV-SPR-002-03,Breath-Between Shoulder Check,Equipoise Heelspike,F2,Champion L6 Low,B
+MV-ADV-SPR-002-04,Bundle-Away Retreat Step,Racing Ferrule,F1,Champion L6 Low,B
+MV-ADV-SPR-002-05,Short-Haft Press Through,Chimespear,F5,Champion L6 Low,B
+MV-ADV-SPR-002-06,Spoke-Turn Haft Sweep,Raging Slideshaft,F1,Champion L6 Low,B
+MV-ADV-SPR-002-07,Gap-Choosing Lunge Series,Intentsocket,F5,Champion L6 Low,B
+MV-ADV-SPR-002-08,Rear-Haft Backward Jab,Bladewings Thrash,F3,Champion L6 Low,B
+MV-ADV-SPR-002-09,Ring-Clearing Sweeping Cut,Dismantling Buttshoe,F2,Champion L6 Low,B
+MV-ADV-SPR-002-10,Shifting Point Screen,Shadethrust,F5,Champion L6 Low,B
+MV-ADV-SPR-003-01,Out-and-Home Haft Whirl,Skinning Slideshaft,F1,Ruler L2 Mid,B
+MV-ADV-SPR-003-02,Butt-First Turning Strike,Twirlassault,F4,Ruler L2 Mid,B
+MV-ADV-SPR-003-03,Wrist-Loose Spinning Cover,Bladewings Cloak,F3,Ruler L2 Mid,B
+MV-ADV-SPR-003-04,Spiral-Foot Turning Step,Buttshoe Leap,F3,Ruler L2 Mid,B
+MV-ADV-SPR-003-05,Returning-Haft Double Strike,Ironpoint,F5,Ruler L2 Mid,B
+MV-ADV-SPR-003-06,Whirl-Caught Blade Draw,Stifling Collarband,F1,Ruler L2 Mid,B
+MV-ADV-SPR-003-07,Unbroken-Circle Crashing Sequence,Lotpoint,F5,Ruler L2 Mid,B
+MV-ADV-SPR-003-08,Whirling Edge Cutting Wheel,Ferrule Barrage,F3,Ruler L2 Mid,B
+MV-ADV-SPR-004-01,Qi-Field Haft Thrust,Rumble Leafhead,F2,Demigod L1 Low,B
+MV-ADV-SPR-004-02,Field-Reading Tip Touch,Renewing Bindcord,F1,Demigod L1 Low,B
+MV-ADV-SPR-004-03,Field-Anchored Guard Line,Longshaft Greave,F3,Demigod L1 Low,B
+MV-ADV-SPR-004-04,Aura-Shed Stepping Glide,Granite Spearpoint,F2,Demigod L1 Low,B
+MV-ADV-SPR-004-05,Tip-Stream Needle Jab,Rupturing Stretch,F1,Demigod L1 Low,B
+MV-ADV-SPR-004-06,Wide-Field Hand Press,Crippling Pushthrough,F1,Demigod L1 Low,B
+MV-ADV-SPR-004-07,Field-Guided Thrust Chain,Tiered Beatback,F1,Demigod L1 Low,B
+MV-ADV-SPR-004-08,Haft-Loaded Release Strike,Nova Heelspike,F2,Demigod L1 Low,B
+MV-ADV-SPR-004-09,Field-Edge Shove Parry,Granite Buttshoe,F2,Demigod L1 Low,B
+MV-ADV-SPR-004-10,Field-Flooded Piercing Line,Scything Nova Pushthrough,F6a,Demigod L1 Low,B
+MV-ADV-SPR-004-11,Sphere-of-Reach Spear Dome,Thorn Ferrule,F2,Demigod L1 Low,B
+MV-ADV-SPR-005-01,Extended-Point Straight Jab,Rumble Spearpoint,F2,Demigod L5 Mid,B
+MV-ADV-SPR-005-02,Qi-Tip Edge Tracing,Might Heelspike,F2,Demigod L5 Mid,B
+MV-ADV-SPR-005-03,Long-Reach Close Parry,Unbroken Bindcord,F1,Demigod L5 Mid,B
+MV-ADV-SPR-005-04,Extension-Pulled Back Step,Spearspurt,F4,Demigod L5 Mid,B
+MV-ADV-SPR-005-05,Qi-Tip Lengthening Thrust,Rumble Pushthrough,F2,Demigod L5 Mid,B
+MV-ADV-SPR-005-06,Extended-Point Hook Drag,Suppressing Longshaft,F1,Demigod L5 Mid,B
+MV-ADV-SPR-005-07,Reach-Probing Spirit Jab,Fortifying Leafhead,F1,Demigod L5 Mid,B
+MV-ADV-SPR-005-08,Beyond-the-Point Skewer,Twirltorment,F4,Demigod L5 Mid,B
+MV-ADV-SPR-005-09,Reach-Shifted Double Strike,Intertwined Beatback,F1,Demigod L5 Mid,B
+MV-ADV-SPR-006-01,Twin-Track Opening Thrust,Granite Slideshaft,F2,Champion L4 Mid,B
+MV-ADV-SPR-006-02,Reed-Whip Flicking Jab,Granite Bladewings,F2,Champion L4 Mid,B
+MV-ADV-SPR-006-03,Paired-Step Retreating Line,Siltsocket,F5,Champion L4 Mid,B
+MV-ADV-SPR-006-04,Dual-Hand Slide Guard,Annealed Collarband,F1,Champion L4 Mid,B
+MV-ADV-SPR-006-05,Basin-Rim Circling Parry,Murk Collarband,F2,Champion L4 Mid,B
+MV-ADV-SPR-006-06,Reed-Pair Linked Thrust,Thrustassault,F4,Champion L4 Mid,B
+MV-ADV-SPR-006-07,River-Current Haft Guide,Manacling Stretch,F1,Champion L4 Mid,B
+MV-ADV-SPR-006-08,Twin-Line Shoulder Prick,Gust Bindcord,F2,Champion L4 Mid,B
+MV-ADV-SPR-006-09,Paired Reed Wave Barrage,Thrustbarrage,F4,Champion L4 Mid,B
+MV-ADV-SPR-006-10,Azure Basin Counter Return,Pushthrough Thrash,F3,Champion L4 Mid,B
+MV-ADV-SPR-007-01,Hawk-Perch High Stance,Chime Longshaft,F2,Ruler L1 Low,B
+MV-ADV-SPR-007-02,Stoop-Fall Descending Jab,Granite Heelspike,F2,Ruler L1 Low,B
+MV-ADV-SPR-007-03,Climbing-Step Rising Line,Glancing Beatback,F1,Ruler L1 Low,B
+MV-ADV-SPR-007-04,Wing-Spread Haft Guard,Torrent Leafhead,F2,Ruler L1 Low,B
+MV-ADV-SPR-007-05,Talon-Hook Blade Catch,Thorn Bladewings,F2,Ruler L1 Low,B
+MV-ADV-SPR-007-06,Hawk-Eye Distance Read,Verity Ferrule,F2,Ruler L1 Low,B
+MV-ADV-SPR-007-07,Rising-Hawk Counter Thrust,Spearpoint Barrage,F3,Ruler L1 Low,B
+MV-ADV-SPR-007-08,Stoop-and-Swerve Spear Cut,Furrowing Stretch,F1,Ruler L1 Low,B
+MV-ADV-SPR-007-09,Two-Pass Hawk Harry,Alternating Buttshoe,F1,Ruler L1 Low,B
+MV-ADV-SPR-007-10,Updraft Haft Lift,Subduing Slideshaft,F1,Ruler L1 Low,B
+MV-ADV-SPR-007-11,Hawk's Plunging Spear Strike,Beatback Onslaught,F3,Ruler L1 Low,B
+MV-ADV-SPR-007-12,Descent-Screen Aerial Guard,Aegis Heelspike,F2,Ruler L1 Low,B
+MV-ADV-SPR-008-01,Straight-and-Turning Dual Thrust,Spearthrash,F4,Demigod L2 Mid,B
+MV-ADV-SPR-008-02,Riverbed Low Stance,Adamant Bladewings,F1,Demigod L2 Mid,B
+MV-ADV-SPR-008-03,Bend-Seeking Haft Curl,Socketcuirass,F4,Demigod L2 Mid,B
+MV-ADV-SPR-008-04,Azure Eddy Pivot Step,Pointleap,F4,Demigod L2 Mid,B
+MV-ADV-SPR-008-05,Mid-Current Cross Parry,Immovable Bindcord,F1,Demigod L2 Mid,B
+MV-ADV-SPR-008-06,Double-Bank Guiding Thrust,Scalding Buttshoe,F1,Demigod L2 Mid,B
+MV-ADV-SPR-008-07,Basin-Fill Pressing Chain,Doctrine Slideshaft,F2,Demigod L2 Mid,B
+MV-ADV-SPR-008-08,River-Bend Piercing Arc,Glinttwirl,F5,Demigod L2 Mid,B
+MV-ADV-SPR-008-09,Dual-Track Surge Barrage,Pointassault,F4,Demigod L2 Mid,B
+MV-ADV-SPR-009-01,Hard-Current Straight Thrust,Blaze Stretch,F2,Demigod L7 High,B
+MV-ADV-SPR-009-02,Yielding-Current Parry Guide,Murk Ferrule,F2,Demigod L7 High,B
+MV-ADV-SPR-009-03,Twin-Court Switching Grip,Torrent Pushthrough,F2,Demigod L7 High,B
+MV-ADV-SPR-009-04,Court-Pair Distance Read,Expanse Leafhead,F2,Demigod L7 High,B
+MV-ADV-SPR-009-05,Current-Crossed Lancing Thrust,Ravaging Longshaft,F1,Demigod L7 High,B
+MV-ADV-SPR-009-06,Court-Pair Counter Weave,Implacable Spearpoint,F1,Demigod L7 High,B
+MV-ADV-SPR-009-07,Two-Current Splitting Spear,Chime Collarband,F2,Demigod L7 High,B
+MV-ADV-SPR-009-08,Twin-Court Closing Sequence,Successive Leafhead,F1,Demigod L7 High,B
+MV-ADV-SPR-010-01,Open-Ground Bearing Stance,Hardened Buttshoe,F1,Champion L3 Low,B
+MV-ADV-SPR-010-02,Crosswind Slant Thrust,Socketassault,F4,Champion L3 Low,B
+MV-ADV-SPR-010-03,Gust-Step Forward Slip,Longshaft Leap,F3,Champion L3 Low,B
+MV-ADV-SPR-010-04,Windward Haft Check,Torrent Heelspike,F2,Champion L3 Low,B
+MV-ADV-SPR-010-05,Gale-Lean Pressing Lunge,Trouncing Collarband,F1,Champion L3 Low,B
+MV-ADV-SPR-010-06,Wind-Shear Haft Beat,Rumble Slideshaft,F2,Champion L3 Low,B
+MV-ADV-SPR-010-07,Bearing-Held Probing Jab,Thrusttorment,F4,Champion L3 Low,B
+MV-ADV-SPR-010-08,Plateau-Edge Standing Guard,Staunch Charter Bindcord,F6a,Champion L3 Low,B
+MV-ADV-SPR-010-09,Wind-Sworn Ranged Combination,Doctrine Bladewings,F2,Champion L3 Low,B
+MV-ADV-SPR-011-01,Oath-Line Held Thrust,Tearing Beatback,F1,Ruler L3 Low,B
+MV-ADV-SPR-011-02,Plateau-Run Long Stride,Silt Ferrule,F2,Ruler L3 Low,B
+MV-ADV-SPR-011-03,Oath-Sworn Standing Parry,Equipoise Bindcord,F2,Ruler L3 Low,B
+MV-ADV-SPR-011-04,Wind-Edge Cutting Pull,Granite Stretch,F2,Ruler L3 Low,B
+MV-ADV-SPR-011-05,Bearing-Check Slow Advance,Silt Spearpoint,F2,Ruler L3 Low,B
+MV-ADV-SPR-011-06,Edge-Watch Pivoting Point,Gust Bladewings,F2,Ruler L3 Low,B
+MV-ADV-SPR-011-07,Sworn-Thrust Counter Press,Spearassault,F4,Ruler L3 Low,B
+MV-ADV-SPR-011-08,Gale-Weight Falling Haft,Hour Pushthrough,F2,Ruler L3 Low,B
+MV-ADV-SPR-011-09,Plateau-Stand Wedge Step,Chime Buttshoe,F2,Ruler L3 Low,B
+MV-ADV-SPR-011-10,Oath-Kept Rising Recovery,Aegis Longshaft,F2,Ruler L3 Low,B
+MV-ADV-SPR-011-11,Edge-of-the-Oath Piercing Drive,Facettwirl,F5,Ruler L3 Low,B
+MV-ADV-SPR-011-12,Wind-and-Oath Double Line,Speartorment,F4,Ruler L3 Low,B
+MV-ADV-SPR-012-01,Gale-Line Field Thrust,Pointtorment,F4,Demigod L3 Low,B
+MV-ADV-SPR-012-02,Wind-Field Reading Touch,Verity Collarband,F2,Demigod L3 Low,B
+MV-ADV-SPR-012-03,Bearing-Hold Field Brace,Gust Heelspike,F2,Demigod L3 Low,B
+MV-ADV-SPR-012-04,Crosswind Glide Step,Gust Spearpoint,F2,Demigod L3 Low,B
+MV-ADV-SPR-012-05,Gale-Stream Needle Thrust,Stretch Onslaught,F3,Demigod L3 Low,B
+MV-ADV-SPR-012-06,Open-Air Lashing Haft,Bindcord Cloak,F3,Demigod L3 Low,B
+MV-ADV-SPR-012-07,Gale-Cleaving Lance Line,Facet Leafhead,F2,Demigod L3 Low,B
+MV-ADV-SPR-012-08,Wind-Scatter Sweeping Arc,Drubbing Slideshaft,F1,Demigod L3 Low,B
+MV-ADV-SPR-013-01,Oath-Bound Bearing Thrust,Sockettorment,F4,Demigod L8 Mid,B
+MV-ADV-SPR-013-02,High-Plain Wind Step,Torrent Ferrule,F2,Demigod L8 Mid,B
+MV-ADV-SPR-013-03,Bearing-Fixed Guard Line,Mantled Socket,F1,Demigod L8 Mid,B
+MV-ADV-SPR-013-04,Oathkeeper's Field Anchor,Buttshoe Tincture,F3,Demigod L8 Mid,B
+MV-ADV-SPR-013-05,Wind-Fall Haft Hammer,Wrecking Thrust,F1,Demigod L8 Mid,B
+MV-ADV-SPR-013-06,Sworn-Field Piercing Chain,Twirlbarrage,F4,Demigod L8 Mid,B
+MV-ADV-SPR-013-07,Plateau-Gust Bind and Cast,Gyve Pushthrough,F2,Demigod L8 Mid,B
+MV-ADV-SPR-013-08,Windbreak Shaft Screen,Enduring Bindcord,F1,Demigod L8 Mid,B
+MV-ADV-SPR-013-09,Oath-Strike Standing Drive,Thrustthrash,F4,Demigod L8 Mid,B
+MV-ADV-SPR-013-10,Bearing-Lost Opponent's Reversal,Toxintwirl,F5,Demigod L8 Mid,B
+MV-ADV-SPR-009-04,Expanse Leafhead,Keen Leafhead,F2,Demigod L7 High,B

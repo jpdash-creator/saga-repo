@@ -1,0 +1,8 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-MST-002-04,Border Feel,Contour Feel,CHANNELED,,Advanced
+CMV-ADV-MST-004-02,River Haze,Drawing Haze,INSTANT,,Advanced
+CMV-ADV-MST-004-06,Bank Drift,Mist Drift,INSTANT,,Advanced
+CMV-ADV-MST-004-01,Basin Rise,Fog Rise,CHANNELED,,Basic
+CMV-ADV-MST-004-03,Basin Cover,Sunk Veil,CHANNELED,,Basic
+CMV-ADV-MST-004-07,Basin Dew,Gathered Dew,INSTANT,,Intermediate
+CMV-ADV-MST-004-09,Rivermouth Pall,Mist Pall,CHANNELED,,Advanced

@@ -1,0 +1,5 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-DST-001-01,Basin Crack,Store Crack,INSTANT,,Basic
+CMV-SIG-DST-001-06,Basin Dissolve,Store Dissolve,INSTANT,,Intermediate
+CMV-SIG-DST-001-09,Basin Annulment,Store Annulment,CHANNELED,,Advanced
+CMV-SIG-DST-001-11,Basin Broken,Store Broken,CAST,,Signature

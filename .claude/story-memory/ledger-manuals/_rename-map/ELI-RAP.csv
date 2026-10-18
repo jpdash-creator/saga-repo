@@ -1,0 +1,145 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-RAP-001-01,Hawk Reach Stance,Foilmettle,F4,Demigod,B
+MV-ELI-RAP-001-02,Pinion Step,Gustswept,F5,Demigod,B
+MV-ELI-RAP-001-03,Far Hawk Gaze,Remnant Cupedge,F2,Demigod,B
+MV-ELI-RAP-001-04,Reaching Stoop Thrust,Tempered Volte,F2,Demigod,B
+MV-ELI-RAP-001-05,Pinion Parry Return,Evergreen Tipwhip,F1,Demigod,B
+MV-ELI-RAP-001-06,Hawk Glare Shadow Feint,Lungespine,F4,Demigod,B
+MV-ELI-RAP-001-07,Reach of the Circling Hawk,Rumble Counterpoise,F2,Demigod,B
+MV-ELI-RAP-001-08,Azure Pinion Beat,Maiming Pasguard,F1,Demigod,B
+MV-ELI-RAP-001-09,Hawk Seizes the Distance,Nova Whipblade,F2,Demigod,B
+MV-ELI-RAP-002-01,Brow Salute Guard,Facetpas,F5,Demigod,B
+MV-ELI-RAP-002-02,Turn-Taking Rapier Pace,Mightpas,F5,Demigod,B
+MV-ELI-RAP-002-03,Paired Eye Watch,Waning Slimtang,F2,Demigod,B
+MV-ELI-RAP-002-04,Court Point Thrust,Cuphilt Reckoning,F3,Demigod,B
+MV-ELI-RAP-002-05,Echo Thrust,Devastating Passata,F1,Demigod,B
+MV-ELI-RAP-002-06,Court Parry Sweep,Pasdurance,F4,Demigod,B
+MV-ELI-RAP-002-07,Twin Pressure Bind,Gyve Needlepoint,F2,Demigod,B
+MV-ELI-RAP-002-08,Second Point of the Court,Ironlunge,F5,Demigod,B
+MV-ELI-RAP-002-09,Paired Field Counter,Equipoise Sweephilt,F2,Demigod,B
+MV-ELI-RAP-002-10,Lunge of the Twinned Point,Wrathful Tempered Remise,F6a,Demigod,B
+MV-ELI-RAP-003-01,Loose Arc Guard Stance,Pasnerve,F4,Demigod,B
+MV-ELI-RAP-003-02,Stream Back-Step,Remisevortex,F4,Demigod,B
+MV-ELI-RAP-003-03,Basin Water Reading,Chimeswept,F5,Demigod,B
+MV-ELI-RAP-003-04,Ripple Thrust,Lacerating Fleche,F1,Demigod,B
+MV-ELI-RAP-003-05,Flowing Riposte,Flintlike Needlepoint,F1,Demigod,B
+MV-ELI-RAP-003-06,Whirlpool Spiral Bind,Webbing Cuphilt,F1,Demigod,B
+MV-ELI-RAP-003-07,Undertow Lunge,Voltescourge,F4,Demigod,B
+MV-ELI-RAP-003-08,River Answers the Stone,Flintlike Counterpoise,F1,Demigod,B
+MV-ELI-RAP-003-09,Tide Draw and Release,Pitiless Stoccata,F1,Demigod,B
+MV-ELI-RAP-003-10,Flood Breaks the Basin,Lacerating Passata,F1,Demigod,B
+MV-ELI-RAP-004-01,Matched Hands Guard,Hoarfrost Tipwhip,F2,Demigod,B
+MV-ELI-RAP-004-02,Field-Led Step,Granite Fleche,F2,Demigod,B
+MV-ELI-RAP-004-03,Blade-and-Field Sensing,Buoying Sweephilt,F1,Demigod,B
+MV-ELI-RAP-004-04,Steel-First Thrust,Hollow Remise,F2,Demigod,B
+MV-ELI-RAP-004-05,Field-First Brush,Obdurate Slimtang,F1,Demigod,B
+MV-ELI-RAP-004-06,Steel Parry Field Answer,Murk Pasguard,F2,Demigod,B
+MV-ELI-RAP-004-07,Field Pin Steel Cut,Fastening Volte,F2,Demigod,B
+MV-ELI-RAP-004-08,Matched Pace Lunge,Tempered Stoccata,F2,Demigod,B
+MV-ELI-RAP-004-09,Hands Joined Thrust,Rumble Cupedge,F2,Demigod,B
+MV-ELI-RAP-004-10,Field Weights the Parry,Gustpas,F5,Demigod,B
+MV-ELI-RAP-004-11,Both Hands Close the Line,Novapas,F5,Demigod,B
+MV-ELI-RAP-005-01,Two-Track Waiting Stance,Unrelenting Whipblade,F1,Demigod,B
+MV-ELI-RAP-005-02,Two-Pace Advance,Volte Vortex,F3,Demigod,B
+MV-ELI-RAP-005-03,Track Watching,Verityfoil,F5,Demigod,B
+MV-ELI-RAP-005-04,First-Track Thrust,Nova Lunge,F2,Demigod,B
+MV-ELI-RAP-005-05,Open-Side Blade Catch,Needlepoint Valor,F3,Demigod,B
+MV-ELI-RAP-005-06,Track Switch Disengage,Remnant Fleche,F2,Demigod,B
+MV-ELI-RAP-005-07,Track Overlap Bind,Gyve Pasguard,F2,Demigod,B
+MV-ELI-RAP-005-08,Double Track Pressure,Granite Sweephilt,F2,Demigod,B
+MV-ELI-RAP-005-09,Track Exchange Riposte,Murk Whipblade,F2,Demigod,B
+MV-ELI-RAP-005-10,Two Tracks One Fall,Hourvolte,F5,Demigod,B
+MV-ELI-RAP-005-11,Quiet Track Nullify,Charter Bellguard,F2,Demigod,B
+MV-ELI-RAP-005-12,Track of the Farthest Reach,Glintpas,F5,Demigod,B
+MV-ELI-RAP-006-01,High Azure Perch,Unbudging Bellguard,F1,Void God,B
+MV-ELI-RAP-006-02,Dropping Step,Might Remise,F2,Void God,B
+MV-ELI-RAP-006-03,Sky Watch of the Hawk,Verity Bellguard,F2,Void God,B
+MV-ELI-RAP-006-04,Plummet Lunge,Corroding Tipwhip,F1,Void God,B
+MV-ELI-RAP-006-05,Folded Pinion Parry,Unrelenting Counterpoise,F1,Void God,B
+MV-ELI-RAP-006-06,Skyward Feint,Reverie Passata,F2,Void God,B
+MV-ELI-RAP-006-07,Stoop From the Zenith,Cuphilt Wrath,F3,Void God,B
+MV-ELI-RAP-006-08,Hawk Strikes and Rises,Nova Slimtang,F2,Void God,B
+MV-ELI-RAP-006-09,Azure Plunge Beyond the Guard,Facet Tipwhip,F2,Void God,B
+MV-ELI-RAP-007-01,Court Long Guard,Iron Cupedge,F2,Monarch,B
+MV-ELI-RAP-007-02,Held-Breath Pace,Pasblink,F4,Monarch,B
+MV-ELI-RAP-007-03,Guard Gap Reading,Revitalizing Slimtang,F1,Monarch,B
+MV-ELI-RAP-007-04,Long Guard Riposte,Foilvalor,F4,Monarch,B
+MV-ELI-RAP-007-05,Paired Blade Beat,Mayhem Needlepoint,F2,Monarch,B
+MV-ELI-RAP-007-06,Sweeping Guard Shift,Foilnerve,F4,Monarch,B
+MV-ELI-RAP-007-07,Two Blades Where One Stands,Aegisswept,F5,Monarch,B
+MV-ELI-RAP-007-08,Guard Falls Into Thrust,Unbudging Cuphilt,F1,Monarch,B
+MV-ELI-RAP-007-09,Guard That Answers Itself,Unbowed Glamour Pasguard,F6a,Demigod,B
+MV-ELI-RAP-008-01,Oath Holding Stance,Unassailable Sweephilt,F1,Demigod,B
+MV-ELI-RAP-008-02,Plateau Walk,Mightswept,F5,Demigod,B
+MV-ELI-RAP-008-03,Horizon Sight,Clairvoyant Whipblade,F1,Demigod,B
+MV-ELI-RAP-008-04,Held Oath Thrust,Nova Remise,F2,Demigod,B
+MV-ELI-RAP-008-05,Grass-Brush Wind Parry,Flintlike Cupedge,F1,Demigod,B
+MV-ELI-RAP-008-06,Oath Pressure Step,Hellish Stoccata,F1,Demigod,B
+MV-ELI-RAP-008-07,Sworn Point Never Leaves,Intent Stoccata,F2,Demigod,B
+MV-ELI-RAP-008-08,Plateau Wind Lunge,Voltewrath,F4,Demigod,B
+MV-ELI-RAP-008-09,Oath of the Last Thrust,Glint Lunge,F2,Demigod,B
+MV-ELI-RAP-009-01,Windward Lean Stance,Ironswept,F5,Demigod,B
+MV-ELI-RAP-009-02,Headwind Pace,Volteglare,F4,Demigod,B
+MV-ELI-RAP-009-03,Wind Weight Reading,Energizing Bellguard,F1,Demigod,B
+MV-ELI-RAP-009-04,Gust-Front Thrust,Nova Volte,F2,Demigod,B
+MV-ELI-RAP-009-05,Lunge Into the Wind,Rumble Passata,F2,Demigod,B
+MV-ELI-RAP-009-06,Cutting Draft Parry,Invincible Counterpoise,F1,Demigod,B
+MV-ELI-RAP-009-07,Windward Beat,Mayhem Volte,F2,Demigod,B
+MV-ELI-RAP-009-08,Gale Builds Behind the Point,Corroding Needlepoint,F1,Demigod,B
+MV-ELI-RAP-009-09,Lee Slip Counter-Lunge,Granite Stoccata,F2,Demigod,B
+MV-ELI-RAP-009-10,Whole Gale Lunge,Shattering Cuphilt,F1,Demigod,B
+MV-ELI-RAP-010-01,Bearing Sworn Upon the Foe,Aegis Tipwhip,F2,Demigod,B
+MV-ELI-RAP-010-02,Compass Turn Step,Lunge Rocketry,F3,Demigod,B
+MV-ELI-RAP-010-03,Ridge and Star Check,Verity Counterpoise,F2,Demigod,B
+MV-ELI-RAP-010-04,Exact Bearing Chest Thrust,Nova Passata,F2,Demigod,B
+MV-ELI-RAP-010-05,Bearing Keeping Parry,Chimepas,F5,Demigod,B
+MV-ELI-RAP-010-06,Bearing Through the Turn,Pasruin,F4,Demigod,B
+MV-ELI-RAP-010-07,Crossing Point Rapier Bind,Numbing Slimtang,F1,Demigod,B
+MV-ELI-RAP-010-08,Bearing Pressure Walk,Hourremise,F5,Demigod,B
+MV-ELI-RAP-010-09,Foe's Bearing Broken,Immobilizing Sweephilt,F1,Demigod,B
+MV-ELI-RAP-010-10,Unturning Bearing Lunge,Iron Pasguard,F2,Demigod,B
+MV-ELI-RAP-010-11,Bearing That Pierces,Shattering Bellguard,F1,Demigod,B
+MV-ELI-RAP-011-01,Thin Cloak Guard,Aegis Whipblade,F2,Demigod,B
+MV-ELI-RAP-011-02,Passing Gale Step,Dazzling Cuphilt,F1,Demigod,B
+MV-ELI-RAP-011-03,Draft Through the Guard,Energizing Cupedge,F1,Demigod,B
+MV-ELI-RAP-011-04,Cloak-Rend Prick,Iron Remise,F2,Demigod,B
+MV-ELI-RAP-011-05,Needle-Narrow Gale Thrust,Facet Counterpoise,F2,Demigod,B
+MV-ELI-RAP-011-06,Rolling Wind Parry,Murk Needlepoint,F2,Demigod,B
+MV-ELI-RAP-011-07,Guard Opening Beat,Maiming Remise,F1,Demigod,B
+MV-ELI-RAP-011-08,Gale Passes the Cloak,Glint Bellguard,F2,Demigod,B
+MV-ELI-RAP-011-09,Wind Lifts the Guard,Toxin Sweephilt,F2,Demigod,B
+MV-ELI-RAP-011-10,Guard Pierced Without Touch,Eviscerating Facet Cupedge,F6a,Demigod,B
+MV-ELI-RAP-012-01,Masters' Resting Guard,Thornswept,F5,Void God,B
+MV-ELI-RAP-012-02,Oath-Breath Measured Pace,Pasglare,F4,Void God,B
+MV-ELI-RAP-012-03,Far Plateau Listening,Expanse Pasguard,F2,Void God,B
+MV-ELI-RAP-012-04,Master's Short Thrust,Voltehavoc,F4,Void God,B
+MV-ELI-RAP-012-05,Master's Round Parry,Gust Whipblade,F2,Void God,B
+MV-ELI-RAP-012-06,Oath-Bearing Lunge,Facet Slimtang,F2,Void God,B
+MV-ELI-RAP-012-07,Wind Knot Bind,Ponderous Passata,F2,Void God,B
+MV-ELI-RAP-012-08,Sworn Feint at the Eyes,Glamour Stoccata,F2,Void God,B
+MV-ELI-RAP-012-09,Plateau Breath Riposte,Flintlike Pasguard,F1,Void God,B
+MV-ELI-RAP-012-10,Masters' Long Oath Thrust,Flechehavoc,F4,Void God,B
+MV-ELI-RAP-012-11,Quiet Gale Nullify,Indomitable Tipwhip,F1,Void God,B
+MV-ELI-RAP-012-12,Oath Fulfilled in One Thrust,Remise Reckoning,F3,Void God,B
+MV-ELI-RAP-013-01,Wide Plain Stance,Counterpoise Valor,F3,Demigod,B
+MV-ELI-RAP-013-02,Wide Stride Run,Headlong Fleche,F1,Demigod,B
+MV-ELI-RAP-013-03,Beyond-Foe Distance Mark,Cuphilt Insight,F3,Demigod,B
+MV-ELI-RAP-013-04,Running Point Thrust,Sweephilt Wrath,F3,Demigod,B
+MV-ELI-RAP-013-05,Open Country Parry,Indomitable Bellguard,F1,Demigod,B
+MV-ELI-RAP-013-06,Distance Feint,Foilspine,F4,Demigod,B
+MV-ELI-RAP-013-07,Thrust Across the Open,Volte Devastation,F3,Demigod,B
+MV-ELI-RAP-013-08,Wind Behind the Runner,Flecheglare,F4,Demigod,B
+MV-ELI-RAP-013-09,Horizon Lunge,Torrential Expanse Tipwhip,F6a,Demigod,B
+MV-ELI-RAP-014-01,Unroofed Sky Guard,Aegisfoil,F5,Monarch,B
+MV-ELI-RAP-014-02,Free Step Bearing,Whipblade Whirlpool,F3,Monarch,B
+MV-ELI-RAP-014-03,Wind Mark Reading,Verity Slimtang,F2,Monarch,B
+MV-ELI-RAP-014-04,Unsheltered Thrust,Foilwrath,F4,Monarch,B
+MV-ELI-RAP-014-05,Unwalled Riposte,Chime Cupedge,F2,Monarch,B
+MV-ELI-RAP-014-06,Turning Bearing Parry,Pasguard Nerve,F3,Monarch,B
+MV-ELI-RAP-014-07,Hold the Open Line,Granite Lunge,F2,Monarch,B
+MV-ELI-RAP-014-08,No Shelter Needed,Aegis Needlepoint,F2,Monarch,B
+MV-ELI-RAP-014-09,Bearing Driven Home,Ruinous Volte,F1,Monarch,B
+MV-ELI-RAP-014-10,Bearing Kept and Returned,Impervious Sweephilt,F1,Demigod,B
+MV-ELI-RAP-004-04,Hollow Remise,Forged Remise,F2,Demigod,B
+MV-ELI-RAP-012-03,Expanse Pasguard,Tempered Pasguard,F2,Void God,B
+MV-ELI-RAP-013-09,Torrential Expanse Tipwhip,Torrential Tipwhip,F6a,Demigod,B

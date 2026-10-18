@@ -1,0 +1,120 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-RAP-001-01,Long Lunge Set Stance,Pasguard Cuirass,F3,Champion,B
+MV-ADV-RAP-001-02,Rear Thigh Spring,Mightfleche,F5,Champion,B
+MV-ADV-RAP-001-03,Shoulder Drop Reach Thrust,Unmaking Volte,F1,Champion,B
+MV-ADV-RAP-001-04,Long Recovery Haul,Torrent Cupedge,F2,Champion,B
+MV-ADV-RAP-001-05,Running Lunge Entry,Sweptbarrage,F4,Champion,B
+MV-ADV-RAP-001-06,Deep Lunge Beneath the Parry,Ravaging Cuphilt,F1,Champion,B
+MV-ADV-RAP-001-07,Locked Arm at Full Reach,Unmaking Remise,F1,Champion,B
+MV-ADV-RAP-001-08,Lunge of the Unclosed Gap,Hollowfleche,F5,Champion,B
+MV-ADV-RAP-001-09,Falling Lunge Upon the Guard,Foilassault,F4,Champion,B
+MV-ADV-RAP-002-01,Hovering Point Wait,Ponderous Stoccata,F2,Champion,B
+MV-ADV-RAP-002-02,Half-Beat Slip Aside,Voltespurt,F4,Champion,B
+MV-ADV-RAP-002-03,Counter-Time Eye Watch,Waning Sweephilt,F2,Champion,B
+MV-ADV-RAP-002-04,Shoulder Lead Thrust,Glint Whipblade,F2,Champion,B
+MV-ADV-RAP-002-05,Time-Meeting Lunge,Scalding Lunge,F1,Champion,B
+MV-ADV-RAP-002-06,Slipped Parry Counter,Unflinching Counterpoise,F1,Champion,B
+MV-ADV-RAP-002-07,Bait Line Beat and Strike,Rumble Slimtang,F2,Champion,B
+MV-ADV-RAP-002-08,Rhythm Breaking Press,Hamstringing Needlepoint,F1,Champion,B
+MV-ADV-RAP-003-01,Field Reach to the Point,Chime Cuphilt,F2,Demigod,B
+MV-ADV-RAP-003-02,Finger-Length Extension Thrust,Glint Fleche,F2,Demigod,B
+MV-ADV-RAP-003-03,Field Parry Brush,Equipoise Counterpoise,F2,Demigod,B
+MV-ADV-RAP-003-04,Tip Steadying Hold,Tipwhip Tincture,F3,Demigod,B
+MV-ADV-RAP-003-05,Field Recovery Draw,Might Volte,F2,Demigod,B
+MV-ADV-RAP-003-06,Piercing Field Lunge,Rumblefoil,F5,Demigod,B
+MV-ADV-RAP-003-07,Field Guard Veil,Mantled Needlepoint,F1,Demigod,B
+MV-ADV-RAP-003-08,Tip-Pulse Disruption,Toxinvolte,F5,Demigod,B
+MV-ADV-RAP-003-09,Thrust Beyond the Blade,Volteassault,F4,Demigod,B
+MV-ADV-RAP-003-10,Field-Wrapped Point Bind,Paralyzing Remise,F1,Demigod,B
+MV-ADV-RAP-004-01,Unbroken Line Posture,Hoarfrost Bellguard,F2,Demigod,B
+MV-ADV-RAP-004-02,Line Pulse Step,Torrent Stoccata,F2,Demigod,B
+MV-ADV-RAP-004-03,Field Line Sighting,Verityswept,F5,Demigod,B
+MV-ADV-RAP-004-04,Line Hold Thrust,Novafleche,F5,Demigod,B
+MV-ADV-RAP-004-05,Line Parry Slide,Gust Slimtang,F2,Demigod,B
+MV-ADV-RAP-004-06,Line Rest Recovery,Torrent Bellguard,F2,Demigod,B
+MV-ADV-RAP-004-07,Line Follow Lunge,Tipwhip Onslaught,F3,Demigod,B
+MV-ADV-RAP-004-08,Qi Press on the Line,Hour Passata,F2,Demigod,B
+MV-ADV-RAP-004-09,Line Sever Beat,Remisehauberk,F4,Demigod,B
+MV-ADV-RAP-004-10,Chain Along the Line,Tiered Passata,F1,Demigod,B
+MV-ADV-RAP-004-11,Line Closing Barrage,Trouncing Pasguard,F1,Demigod,B
+MV-ADV-RAP-005-01,Paired Guard Stance,Hoarfrost Whipblade,F2,Champion,B
+MV-ADV-RAP-005-02,Azure Line Step,Careening Sweephilt,F1,Champion,B
+MV-ADV-RAP-005-03,Dual-Track Sight,Veritypas,F5,Champion,B
+MV-ADV-RAP-005-04,Hawk-Eye Thrust,Facet Lunge,F2,Champion,B
+MV-ADV-RAP-005-05,Basin Edge Retreat,Blurring Bellguard,F1,Champion,B
+MV-ADV-RAP-005-06,Paired Parry and Return,Murk Sweephilt,F2,Champion,B
+MV-ADV-RAP-005-07,Twin Beat Disengage,Mayhemswept,F5,Champion,B
+MV-ADV-RAP-005-08,River-Turn Circle Parry,Unflinching Pasguard,F1,Champion,B
+MV-ADV-RAP-005-09,Dual-Track Riposte,Remisetorment,F4,Champion,B
+MV-ADV-RAP-005-10,Azure Court Counter-Cut,Remise Barrage,F3,Champion,B
+MV-ADV-RAP-006-01,Perched Hawk Point Guard,Thorn Counterpoise,F2,Ruler,B
+MV-ADV-RAP-006-02,Stoop Lean Step,Torrent Passata,F2,Ruler,B
+MV-ADV-RAP-006-03,Hawk Gaze Down the Blade,Sweptlinctus,F4,Ruler,B
+MV-ADV-RAP-006-04,Talon-Dive Point Thrust,Severing Fleche,F1,Ruler,B
+MV-ADV-RAP-006-05,Wing Sweep Parry,Equipoise Cupedge,F2,Ruler,B
+MV-ADV-RAP-006-06,Basin Rim Retreat,Might Stoccata,F2,Ruler,B
+MV-ADV-RAP-006-07,Stoop Lunge Entry,Whipblade Thrash,F3,Ruler,B
+MV-ADV-RAP-006-08,Dive Beneath the Guard,Facet Needlepoint,F2,Ruler,B
+MV-ADV-RAP-006-09,Hover and Strike,Charter Volte,F2,Ruler,B
+MV-ADV-RAP-006-10,Wingbeat Feint,Reverie Slimtang,F2,Ruler,B
+MV-ADV-RAP-006-11,Hawk Stoop Lunge,Cuphilt Onslaught,F3,Ruler,B
+MV-ADV-RAP-006-12,Talon Pin of the Basin,Foilcuirass,F4,Ruler,B
+MV-ADV-RAP-007-01,Twin-Track Field Sight,Remnant Slimtang,F2,Demigod,B
+MV-ADV-RAP-007-02,Paired Field Brush,Unshaken Tipwhip,F1,Demigod,B
+MV-ADV-RAP-007-03,River Current Step,Gust Lunge,F2,Demigod,B
+MV-ADV-RAP-007-04,Court Thrust Line,Trouncing Cupedge,F1,Demigod,B
+MV-ADV-RAP-007-05,Twin-Court Parry Thrust,Torrent Sweephilt,F2,Demigod,B
+MV-ADV-RAP-007-06,Two-Track Feint,Lunge Fastness,F3,Demigod,B
+MV-ADV-RAP-007-07,Basin Bowl Field Veil,Enduring Cuphilt,F1,Demigod,B
+MV-ADV-RAP-007-08,Paired Point Lunge,Facet Stoccata,F2,Demigod,B
+MV-ADV-RAP-007-09,Twin-Track Seal of the Line,Silencing Fastening Needlepoint,F6a,Demigod,B
+MV-ADV-RAP-008-01,Riverbed Guard Stance,Swepthauberk,F4,Demigod,B
+MV-ADV-RAP-008-02,Current Slip Step,Fleche Leap,F3,Demigod,B
+MV-ADV-RAP-008-03,Basin Echo of the Foe's Step,Remnant Bellguard,F2,Demigod,B
+MV-ADV-RAP-008-04,Eddy Turn of the Point,Whipblade Fastness,F3,Demigod,B
+MV-ADV-RAP-008-05,Downstream Thrust,Cupedge Barrage,F3,Demigod,B
+MV-ADV-RAP-008-06,Upstream Retreat Pace,Pasguard Spurt,F3,Demigod,B
+MV-ADV-RAP-008-07,Confluence Riposte,Pashauberk,F4,Demigod,B
+MV-ADV-RAP-008-08,Eddy Circle Bind,Lungecuirass,F4,Demigod,B
+MV-ADV-RAP-008-09,Flood Press Thrust,Wrecking Passata,F1,Demigod,B
+MV-ADV-RAP-008-10,Cycle of the Turning River,Doctrine Counterpoise,F2,Demigod,B
+MV-ADV-RAP-008-11,Riverbreak Lunge,Sweptthrash,F4,Demigod,B
+MV-ADV-RAP-009-01,Bearing Taken Stance,Aegispas,F5,Champion,B
+MV-ADV-RAP-009-02,Wind-Heel Step,Flechepounce,F4,Champion,B
+MV-ADV-RAP-009-03,Plateau Edge Sight,Waning Tipwhip,F2,Champion,B
+MV-ADV-RAP-009-04,Bearing-Taken Point Thrust,Facet Remise,F2,Champion,B
+MV-ADV-RAP-009-05,Bearing-Held Forte Parry,Needlepoint Greave,F3,Champion,B
+MV-ADV-RAP-009-06,Oath Lunge,Foilbarrage,F4,Champion,B
+MV-ADV-RAP-009-07,Sworn Line Lunge,Scalding Fleche,F1,Champion,B
+MV-ADV-RAP-009-08,Crosswind Parry-Cut,Steadfast Equipoise Cuphilt,F6a,Champion,B
+MV-ADV-RAP-010-01,Crosswind Slip Guard,Facetswept,F5,Champion,B
+MV-ADV-RAP-010-02,Gust Skip Step,Gust Volte,F2,Champion,B
+MV-ADV-RAP-010-03,Draft Reading Watch,Verity Tipwhip,F2,Champion,B
+MV-ADV-RAP-010-04,Leaf Flick Feint,Pascloak,F4,Champion,B
+MV-ADV-RAP-010-05,Light Thrust on the Draft,Nova Stoccata,F2,Champion,B
+MV-ADV-RAP-010-06,Gale Disengage Lunge,Reverie Pasguard,F2,Champion,B
+MV-ADV-RAP-010-07,Veering Point Parry,Staunch Sweephilt,F1,Champion,B
+MV-ADV-RAP-010-08,Drifting Beat,Rumble Lunge,F2,Champion,B
+MV-ADV-RAP-010-09,Crosswind Disengage Strike,Mayhem Fleche,F2,Champion,B
+MV-ADV-RAP-010-10,Turning Gale Riposte,Foilgreave,F4,Champion,B
+MV-ADV-RAP-011-01,Sworn Point Guard,Granite Whipblade,F2,Demigod,B
+MV-ADV-RAP-011-02,Updraft Rising Pace,Gust Cupedge,F2,Demigod,B
+MV-ADV-RAP-011-03,Far Wind Sensing,Bellguard Elixir,F3,Demigod,B
+MV-ADV-RAP-011-04,Windward Point Drive,Scalding Passata,F1,Demigod,B
+MV-ADV-RAP-011-05,Lee-Side Parry,Equipoise Slimtang,F2,Demigod,B
+MV-ADV-RAP-011-06,Tailwind Recovery,Gustfoil,F5,Demigod,B
+MV-ADV-RAP-011-07,Gale-Backed Lunge,Tempered Counterpoise,F2,Demigod,B
+MV-ADV-RAP-011-08,Bearing Point Press,Intentpas,F5,Demigod,B
+MV-ADV-RAP-011-09,Oathbound Forte Bind,Remise Fastness,F3,Demigod,B
+MV-ADV-RAP-011-10,Gust Beat,Rumble Volte,F2,Demigod,B
+MV-ADV-RAP-011-11,Wind-Sworn Lance Thrust,Drubbing Fleche,F1,Demigod,B
+MV-ADV-RAP-011-12,Oath Gale Parry-Break,Gust Needlepoint,F2,Demigod,B
+MV-ADV-RAP-012-01,Held Bearing Posture,Immovable Tipwhip,F1,Demigod,B
+MV-ADV-RAP-012-02,Gale-Step Slide,Silt Bellguard,F2,Demigod,B
+MV-ADV-RAP-012-03,Bearing Check Sight,Discerning Pasguard,F1,Demigod,B
+MV-ADV-RAP-012-04,Steady Wind Thrust,Glint Volte,F2,Demigod,B
+MV-ADV-RAP-012-05,Gale-Step Lunge,Splitting Cupedge,F1,Demigod,B
+MV-ADV-RAP-012-06,Bearing-Post Pivot Parry,Sweephilt Cuirass,F3,Demigod,B
+MV-ADV-RAP-012-07,Wind Walk Feint,Mayhemremise,F5,Demigod,B
+MV-ADV-RAP-012-08,Edge of the Plateau Lunge,Scything Lunge,F1,Demigod,B
+MV-ADV-RAP-012-09,Bearing Shattering Beat,Flechecloak,F4,Demigod,B

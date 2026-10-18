@@ -1,0 +1,72 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-RIF-001-01,Loose-Order Spacing Step,Boltglide,F4,Senior,A
+MV-INT-RIF-001-02,Tree-Trunk Lean Shot,Sightflog,F4,Senior,A
+MV-INT-RIF-001-03,Dropping Skirmish Shot,Keen Reticle,F1,Senior,A
+MV-INT-RIF-001-04,Brush-Cover Slither,Slinking Chamber,F1,Senior,A
+MV-INT-RIF-001-05,Alternate-Pair Reload Cover,Hungry Longshot,F1,Senior,A
+MV-INT-RIF-001-06,Rolling Qi Fire Ladder,Zeroscorer,F4,Senior,A
+MV-INT-RIF-001-07,Cover-to-Cover Qi Dash,Scopestalk,F4,Senior,A
+MV-INT-RIF-002-01,Qi-Primed Powder Pour,Rude Magazine,F1,Senior,A
+MV-INT-RIF-002-02,Charge-Level Tamp Count,Breathslap,F4,Senior,A
+MV-INT-RIF-002-03,Patch-Greasing Pinch,Bold Rifling,F1,Senior,A
+MV-INT-RIF-002-04,Pan-Cover Thumb Flick,Brisk Cheekrest,F1,Senior,A
+MV-INT-RIF-002-05,Lock-Spark Timing Hold,Zerothwack,F4,Senior,A
+MV-INT-RIF-002-06,Loaded-Rifle Hip Carry,Prowling Buttpad,F1,Senior,A
+MV-INT-RIF-002-07,Qi-Seated Ball Charge,Savage Squeeze,F1,Senior,A
+MV-INT-RIF-002-08,Lock-and-Bore Qi Pass,Attentive Rearsight,F1,Senior,A
+MV-INT-RIF-003-01,Socket-Fix Under Fire,Sightcurl,F4,Senior,A
+MV-INT-RIF-003-02,Short-Gripped Bayonet Thrust,Fierce Muzzlebrake,F1,Senior,A
+MV-INT-RIF-003-03,Bayonet Beat and Return,Armored Bolt,F1,Senior,A
+MV-INT-RIF-003-04,Rush-Meeting Barrel Plant,Scopescreen,F4,Senior,A
+MV-INT-RIF-003-05,Qi-Weighted Bayonet Lunge,Wild Longshot,F1,Senior,A
+MV-INT-RIF-003-06,Spear-Shaft Bind and Butt Smash,Clutching Scopemount,F1,Senior,A
+MV-INT-RIF-004-01,Rail-Crossing Slide,Draught Chamber,F2,Warrior,B
+MV-INT-RIF-004-02,Ditch-Edge Rest Shot,Brass Zero,F2,Warrior,B
+MV-INT-RIF-004-03,Rubble-Pile Peek Fire,Gleam Sight,F2,Warrior,B
+MV-INT-RIF-004-04,Doorframe Corner Hold,Shelter Rearsight,F2,Warrior,B
+MV-INT-RIF-004-05,Fallen-Log Vault Step,Gritbolt,F5,Warrior,B
+MV-INT-RIF-004-06,Low-Roof Ridge Shot,Dire Reticle,F1,Warrior,B
+MV-INT-RIF-004-07,Qi-Hardened Cover Brace,Clay Magazine,F2,Warrior,B
+MV-INT-RIF-004-08,Leapfrog Advance Under Fire,Breathhurdle,F4,Warrior,B
+MV-INT-RIF-004-09,Cover-Lip Pin Shot,Doughty Rifling,F1,Warrior,B
+MV-INT-RIF-005-01,Mark-and-Hold Long Aim,Comet Reticle,F2,Warrior,B
+MV-INT-RIF-005-02,Distance-Fall Hold-Over,Hum Chamber,F2,Warrior,B
+MV-INT-RIF-005-03,Rear-Leaf Ladder Setting,Candor Rearsight,F2,Warrior,B
+MV-INT-RIF-005-04,Fence-Post Judging Walk,Lunar Magazine,F2,Warrior,B
+MV-INT-RIF-005-05,Splash-Reading Correction,Recall Bolt,F2,Warrior,B
+MV-INT-RIF-005-06,Knapsack Rest Press,Shardzero,F5,Warrior,B
+MV-INT-RIF-005-07,Cheek-Weld Anchor,Stern Cheekrest,F1,Warrior,B
+MV-INT-RIF-005-08,Far-Mark Qi Narrowing,Gap Bipod,F2,Warrior,B
+MV-INT-RIF-005-09,Long-Flight Qi Seating,Honed Longshot,F2,Warrior,B
+MV-INT-RIF-005-10,Brush-Veil Withdrawal,Mirage Buttpad,F2,Warrior,B
+MV-INT-RIF-006-01,Rail-Rest Shot Hold,Boltthwack,F4,Warrior,B
+MV-INT-RIF-006-02,Stone-Slot Muzzle Rest,Sleet Breath,F2,Warrior,B
+MV-INT-RIF-006-03,Window-Ledge Fire,Raw Sight,F1,Warrior,B
+MV-INT-RIF-006-04,Sandbag Settle Press,Dense Muzzlebrake,F1,Warrior,B
+MV-INT-RIF-006-05,Pivoting Corner Duck,Veering Buttpad,F1,Warrior,B
+MV-INT-RIF-006-06,Wall-Gap Pinning Fire,Weighty Rifling,F2,Warrior,B
+MV-INT-RIF-006-07,Rubble-Slip Retreat Dash,Cinderscope,F5,Warrior,B
+MV-INT-RIF-007-01,Bore-Scrape Sound Check,Hum Rifling,F2,Warrior,B
+MV-INT-RIF-007-02,Spit-Patch Quick Wipe,Sightswat,F4,Warrior,B
+MV-INT-RIF-007-03,Heel-of-Hand Ball Seat,Ruthless Bolt,F1,Warrior,B
+MV-INT-RIF-007-04,Pan Re-Prime After Flash,Static Bipod,F2,Warrior,B
+MV-INT-RIF-007-05,Hangfire Stillness,Ember Squeeze,F2,Warrior,B
+MV-INT-RIF-007-06,Hot-Barrel Handguard Drop,Bolthasp,F4,Warrior,B
+MV-INT-RIF-007-07,Qi-Scoured Bore Pass,Shower Zero,F2,Warrior,B
+MV-INT-RIF-007-08,Ground-Rap Ball Release,Brawn Buttpad,F2,Warrior,B
+MV-INT-RIF-008-01,Zigzag Dash Count,Zeroswerve,F4,Warrior,B
+MV-INT-RIF-008-02,Pivot-Foot Aim Reset,Gleam Magazine,F2,Warrior,B
+MV-INT-RIF-008-03,Drop-and-Roll Dive,Sighthurdle,F4,Warrior,B
+MV-INT-RIF-008-04,Heel-Toe Silent Advance,Rill Cheekrest,F2,Warrior,B
+MV-INT-RIF-008-05,Shoulder-Charge Barrel Shove,Brawn Bolt,F2,Warrior,B
+MV-INT-RIF-008-06,Retreating Snap Shot,Lurching Chamber,F1,Warrior,B
+MV-INT-RIF-008-07,Qi-Burst Sprint Halt,Static Rifling,F2,Warrior,B
+MV-INT-RIF-008-08,Moving-Shot Compensation,Brawnsight,F5,Warrior,B
+MV-INT-RIF-008-09,Duck-Under Butt Rise,Poise Muzzlebrake,F2,Warrior,B
+MV-INT-RIF-009-01,Cartridge Rip and Pour,Breathflog,F4,Senior,A
+MV-INT-RIF-009-02,Ball-Start Thumb Press,Rugged Scopemount,F1,Senior,A
+MV-INT-RIF-009-03,Ramrod Short-Draw,Cruel Rearsight,F1,Senior,A
+MV-INT-RIF-009-04,Pan-Prime Tap Count,Zeroslap,F4,Senior,A
+MV-INT-RIF-009-05,Qi-Quickened Seven-Motion Load,Vicious Magazine,F1,Senior,A
+MV-INT-RIF-009-06,Reload-in-Retreat Weave,Fleet Bipod,F1,Senior,A
+MV-INT-RIF-004-04,Shelter Rearsight,Stout Rearsight,F2,Warrior,B

@@ -1,0 +1,171 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-SHD-001-01,Bulwark Court Stance,Granite Shieldarm,F2,Demigod L1 Low,B
+MV-ELI-SHD-001-02,Partner Cover Exchange,Adamantine Edgeband,F1,Demigod L1 Low,B
+MV-ELI-SHD-001-03,Bulwark Rim Rap,Wardwrath,F4,Demigod L1 Low,B
+MV-ELI-SHD-001-04,Pair-Count Breath,Prescient Bossrim,F1,Demigod L1 Low,B
+MV-ELI-SHD-001-05,Court Threshold Pivot,Mightface,F5,Demigod L1 Low,B
+MV-ELI-SHD-001-06,Joined Field Brace,Thorn Backbrace,F2,Demigod L1 Low,B
+MV-ELI-SHD-001-07,Cross-Cover Swap Shove,Sanguine Enarme,F2,Demigod L1 Low,B
+MV-ELI-SHD-001-08,Bulwark Pinning Lean,Thorn Buffet,F2,Demigod L1 Low,B
+MV-ELI-SHD-001-09,Twin Field Overlap Ward,Septic Rim,F1,Demigod L1 Low,B
+MV-ELI-SHD-001-10,Court Reply Smash,Faceruin,F4,Demigod L1 Low,B
+MV-ELI-SHD-001-11,Unbroken Twin Bulwark,Strap Hardihood,F3,Demigod L1 Low,B
+MV-ELI-SHD-002-01,Azure Wing Unfurl,Unconquered Face,F1,Demigod L2 Mid,B
+MV-ELI-SHD-002-02,Wing-Root Brace,Unbudging Strap,F1,Demigod L2 Mid,B
+MV-ELI-SHD-002-03,Feather Rim Flick,Wardruin,F4,Demigod L2 Mid,B
+MV-ELI-SHD-002-04,Wing-Span Reading Step,Silt Backboard,F2,Demigod L2 Mid,B
+MV-ELI-SHD-002-05,Sheltering Wing Cast,Unassailable Boss,F1,Demigod L2 Mid,B
+MV-ELI-SHD-002-06,Wing Fold Pinch,Thorn Cover,F2,Demigod L2 Mid,B
+MV-ELI-SHD-002-07,Azure Wing Field Ward,Wicked Rim,F1,Demigod L2 Mid,B
+MV-ELI-SHD-002-08,Wingbeat Reflection,Unassailable Bossrim,F1,Demigod L2 Mid,B
+MV-ELI-SHD-002-09,Azure Sky-Wide Warding,Backbrace Respite,F3,Demigod L2 Mid,B
+MV-ELI-SHD-003-01,Breaker Track Opening Step,Blinding Shoulderset,F1,Demigod L4 Low,B
+MV-ELI-SHD-003-02,Second-Track Cover Hold,Evergreen Boss,F1,Demigod L4 Low,B
+MV-ELI-SHD-003-03,Alternating Rim Jab,Strapwrath,F4,Demigod L4 Low,B
+MV-ELI-SHD-003-04,Track Switch Pivot,Bossblink,F4,Demigod L4 Low,B
+MV-ELI-SHD-003-05,Line-Reading Glance,Remnant Edgeband,F2,Demigod L4 Low,B
+MV-ELI-SHD-003-06,Track-Locked Advance,Hourface,F5,Demigod L4 Low,B
+MV-ELI-SHD-003-07,Split-Line Wedge Drive,Enarmewrath,F4,Demigod L4 Low,B
+MV-ELI-SHD-003-08,Alternate Guard Disruption,Mayhem Ward,F2,Demigod L4 Low,B
+MV-ELI-SHD-003-09,Dual-Track Ram Surge,Bashhavoc,F4,Demigod L4 Low,B
+MV-ELI-SHD-003-10,Breaker Field Convergence,Rimscourge,F4,Demigod L4 Low,B
+MV-ELI-SHD-003-11,Line-Breaking Shield Wedge,Strapruin,F4,Demigod L4 Low,B
+MV-ELI-SHD-003-12,Dual-Track Rending Break,Buffetmettle,F4,Demigod L4 Low,B
+MV-ELI-SHD-004-01,Hawk Perch Shield Stance,Unbudging Face,F1,Demigod L3 High,B
+MV-ELI-SHD-004-02,Dive Line Lunge,Siltbuffet,F5,Demigod L3 High,B
+MV-ELI-SHD-004-03,Talon-Rim Hook,Mayhem Shieldarm,F2,Demigod L3 High,B
+MV-ELI-SHD-004-04,Hawk-Eyed Board Fixing,Elevating Face,F1,Demigod L3 High,B
+MV-ELI-SHD-004-05,Falling Board Strike,Buffetruin,F4,Demigod L3 High,B
+MV-ELI-SHD-004-06,Hawk-Rise Recovery,Strapvortex,F4,Demigod L3 High,B
+MV-ELI-SHD-004-07,Strike-from-Above Catch,Murk Boss,F2,Demigod L3 High,B
+MV-ELI-SHD-004-08,Hawk Plunge Impact,Nova Bash,F2,Demigod L3 High,B
+MV-ELI-SHD-004-09,Rooftop Hawk Cover,Unrelenting Backboard,F1,Demigod L3 High,B
+MV-ELI-SHD-004-10,Apex Hawk Descent,Facetward,F5,Demigod L3 High,B
+MV-ELI-SHD-005-01,Guard Basin Settle,Unconquered Enarme,F1,Demigod L6 Low,B
+MV-ELI-SHD-005-02,River Current Lean,Inexorable Shieldarm,F1,Demigod L6 Low,B
+MV-ELI-SHD-005-03,Basin Lip Rim Chop,Tempered Bash,F2,Demigod L6 Low,B
+MV-ELI-SHD-005-04,Basin Silt Settling Breath,Clairvoyant Backboard,F1,Demigod L6 Low,B
+MV-ELI-SHD-005-05,Stream-Side Step,Enarmeglimmer,F4,Demigod L6 Low,B
+MV-ELI-SHD-005-06,Basin Blow Gathering Funnel,Adamantine Strap,F1,Demigod L6 Low,B
+MV-ELI-SHD-005-07,Basin Floor Anchor,Invincible Enarme,F1,Demigod L6 Low,B
+MV-ELI-SHD-005-08,Whirling Eddy Bash,Overpowering Ward,F1,Demigod L6 Low,B
+MV-ELI-SHD-005-09,Impregnable Basin Field,Evergreen Edgeband,F1,Demigod L6 Low,B
+MV-ELI-SHD-005-10,Basin Outflow Reflection,Evergreen Backbrace,F1,Demigod L6 Low,B
+MV-ELI-SHD-005-11,River Bend Nullifier,Fastening Bossrim,F2,Demigod L6 Low,B
+MV-ELI-SHD-005-12,Basin Surge Barrier,Poisoned Shieldarm,F1,Demigod L6 Low,B
+MV-ELI-SHD-005-13,Impregnable River Return,Glamour Backboard,F2,Demigod L6 Low,B
+MV-ELI-SHD-006-01,Bearer Pair Mirror Stance,Impervious Rim,F1,Demigod L5 Mid,B
+MV-ELI-SHD-006-02,Pair Pace Match,Enarmeblink,F4,Demigod L5 Mid,B
+MV-ELI-SHD-006-03,Pair Rim Echo,Facewrath,F4,Demigod L5 Mid,B
+MV-ELI-SHD-006-04,Overlap Field Hold,Rim Fortitude,F3,Demigod L5 Mid,B
+MV-ELI-SHD-006-05,Answering Pair Counter,Shoulderset Scourge,F3,Demigod L5 Mid,B
+MV-ELI-SHD-006-06,Pair Pinch Bind,Facespine,F4,Demigod L5 Mid,B
+MV-ELI-SHD-006-07,Paired Field Rebound,Enarme Durance,F3,Demigod L5 Mid,B
+MV-ELI-SHD-006-08,Two-Bearer Surge,Daybreak Buffet,F2,Demigod L5 Mid,B
+MV-ELI-SHD-006-09,Mirrored Bearer Ward,Backbrace Durance,F3,Demigod L5 Mid,B
+MV-ELI-SHD-007-01,Court Compendium Opening Guard,Iron Bossrim,F2,Monarch L3 Low,B
+MV-ELI-SHD-007-02,River-Court Footfall,Torrential Shove,F1,Monarch L3 Low,B
+MV-ELI-SHD-007-03,Court Rim Knock,Rimruin,F4,Monarch L3 Low,B
+MV-ELI-SHD-007-04,Mortal-Peak Breath,Waning Edgeband,F2,Monarch L3 Low,B
+MV-ELI-SHD-007-05,Court Pivot Turn,Unbowed Boss,F1,Monarch L3 Low,B
+MV-ELI-SHD-007-06,Meridian-Net Brace,Granite Strap,F2,Monarch L3 Low,B
+MV-ELI-SHD-007-07,Court Return Bash,Sanguine Buffet,F2,Monarch L3 Low,B
+MV-ELI-SHD-007-08,Court Pin Press,Harnessing Shoulderset,F1,Monarch L3 Low,B
+MV-ELI-SHD-007-09,River-Court Breaking Shove,Hourstrap,F5,Monarch L3 Low,B
+MV-ELI-SHD-007-10,Court Reflection Turn,Face Mettle,F3,Monarch L3 Low,B
+MV-ELI-SHD-007-11,Monarch Court Closing,Indomitable Boss,F1,Demigod L1 Low,B
+MV-ELI-SHD-008-01,Rebuke Posture of Hawk and River,Backboard Hardihood,F3,Demigod L8 Low,B
+MV-ELI-SHD-008-02,River-Flow Rim Slip,Evergreen Strap,F1,Demigod L8 Low,B
+MV-ELI-SHD-008-03,Hawk-Dip Rim Strike,Bossruin,F4,Demigod L8 Low,B
+MV-ELI-SHD-008-04,Rebuke Reading,Remnant Shieldarm,F2,Demigod L8 Low,B
+MV-ELI-SHD-008-05,Hawk Wing River Step,Siltface,F5,Demigod L8 Low,B
+MV-ELI-SHD-008-06,River-Turn Counter Strike,Shovescourge,F4,Demigod L8 Low,B
+MV-ELI-SHD-008-07,Hawk-Dive Disruption,Shovespine,F4,Demigod L8 Low,B
+MV-ELI-SHD-008-08,Rebuke of the Returning Force,Unassailable Rim,F1,Demigod L8 Low,B
+MV-ELI-SHD-008-09,Hawk-River Suppressing Press,Titanic Buffet,F1,Demigod L8 Low,B
+MV-ELI-SHD-008-10,Hawk and River Final Rebuke,Glamour Edgeband,F2,Demigod L8 Low,B
+MV-ELI-SHD-009-01,Sworn Wind Guard Raise,Obdurate Backbrace,F1,Demigod L1 Mid,B
+MV-ELI-SHD-009-02,Wind-Leaning Heel Set,Enarme Fortitude,F3,Demigod L1 Mid,B
+MV-ELI-SHD-009-03,Windward Rim Strike,Blaze Shoulderset,F2,Demigod L1 Mid,B
+MV-ELI-SHD-009-04,Gust-Taking Glance,Face Respite,F3,Demigod L1 Mid,B
+MV-ELI-SHD-009-05,Wind-Sworn Field Brace,Unbowed Backboard,F1,Demigod L1 Mid,B
+MV-ELI-SHD-009-06,Veering Gust Parry,Gust Shieldarm,F2,Demigod L1 Mid,B
+MV-ELI-SHD-009-07,Sworn Push-Back,Brutalizing Shove,F1,Demigod L1 Mid,B
+MV-ELI-SHD-009-08,Windbreak Nullifying Beat,Equipoise Edgeband,F2,Demigod L1 Mid,B
+MV-ELI-SHD-009-09,Gale-Sworn Surge,Mayhem Shove,F2,Demigod L1 Mid,B
+MV-ELI-SHD-009-10,Wind-Sworn Standing Guard,Inexorable Verity Bossrim,F6a,Demigod L1 Mid,B
+MV-ELI-SHD-010-01,Plateau Oath Plant,Evergreen Rim,F1,Demigod L3 Low,B
+MV-ELI-SHD-010-02,Oath-Sworn Shoulder Lock,Obdurate Enarme,F1,Demigod L3 Low,B
+MV-ELI-SHD-010-03,Sworn Ground Rim Chop,Wardscourge,F4,Demigod L3 Low,B
+MV-ELI-SHD-010-04,Plateau Shield Stride,Faceblink,F4,Demigod L3 Low,B
+MV-ELI-SHD-010-05,Oath-Count Breath,Clairvoyant Backbrace,F1,Demigod L3 Low,B
+MV-ELI-SHD-010-06,Oath Field Anchor,Adamantine Bossrim,F1,Demigod L3 Low,B
+MV-ELI-SHD-010-07,Edge-Turning Slant,Obdurate Boss,F1,Demigod L3 Low,B
+MV-ELI-SHD-010-08,Sworn Hook Pull,Enarmevalor,F4,Demigod L3 Low,B
+MV-ELI-SHD-010-09,Oath-Pressed Shove,Devastating Cover,F1,Demigod L3 Low,B
+MV-ELI-SHD-010-10,Plateau Oath Field,Remorseless Strap,F1,Demigod L3 Low,B
+MV-ELI-SHD-010-11,Oath-Broken Reflection,Inexorable Edgeband,F1,Demigod L3 Low,B
+MV-ELI-SHD-010-12,Plateau Oath Keeping,Shadestrap,F5,Demigod L3 Low,B
+MV-ELI-SHD-011-01,True Bearing Set,Rim Nerve,F3,Demigod L2 High,B
+MV-ELI-SHD-011-02,Bearing-Held Lean,Obdurate Shieldarm,F1,Demigod L2 High,B
+MV-ELI-SHD-011-03,Bearing-Return Pivot,Torrential Ward,F1,Demigod L2 High,B
+MV-ELI-SHD-011-04,Bearing-Check Field,Beneficent Face,F1,Demigod L2 High,B
+MV-ELI-SHD-011-05,Held Bearing Shoulder Press,Gnashing Bash,F1,Demigod L2 High,B
+MV-ELI-SHD-011-06,Bearing-Locked Edge Turn,Gust Backbrace,F2,Demigod L2 High,B
+MV-ELI-SHD-011-07,Heavy Blow Bearing Hold,Unbowed Enarme,F1,Demigod L2 High,B
+MV-ELI-SHD-011-08,Bearing Rebound Strike,Glamour Bossrim,F2,Demigod L2 High,B
+MV-ELI-SHD-011-09,Unmoved Bearing,Flintlike Backboard Tenacity,F6b,Demigod L2 High,B
+MV-ELI-SHD-012-01,Gale-Breaker Rock Stance,Impenetrable Face,F1,Demigod L5 Low,B
+MV-ELI-SHD-012-02,Charge-Splitting Slant,Impervious Boss,F1,Demigod L5 Low,B
+MV-ELI-SHD-012-03,Breaker Rim Hammer,Enarmehavoc,F4,Demigod L5 Low,B
+MV-ELI-SHD-012-04,Gust Count Glance,Prescient Strap,F1,Demigod L5 Low,B
+MV-ELI-SHD-012-05,Breaker Shuffle Back,Silt Shoulderset,F2,Demigod L5 Low,B
+MV-ELI-SHD-012-06,Host-Meeting Brace,Indomitable Bossrim,F1,Demigod L5 Low,B
+MV-ELI-SHD-012-07,Charge Reversal Shove,Blazestrap,F5,Demigod L5 Low,B
+MV-ELI-SHD-012-08,Rank-Scattering Beat,Chime Buffet,F2,Demigod L5 Low,B
+MV-ELI-SHD-012-09,Gale-Breaking Field,Backboard Durance,F3,Demigod L5 Low,B
+MV-ELI-SHD-012-10,Host-Shattering Surge,Daybreak Shoulderset,F2,Demigod L5 Low,B
+MV-ELI-SHD-012-11,Rock Beyond the Gale,Evergreen Glint Face,F6a,Demigod L5 Low,B
+MV-ELI-SHD-013-01,Unbreaking Oath Stance,Inexorable Boss,F1,Demigod L7 Low,B
+MV-ELI-SHD-013-02,Oath-Held Wounded Guard,Inexorable Rim,F1,Demigod L7 Low,B
+MV-ELI-SHD-013-03,Last-Strength Rim Rap,Decimating Ward,F1,Demigod L7 Low,B
+MV-ELI-SHD-013-04,Fallen-Neighbour Cover,Shieldarm Tenacity,F3,Demigod L7 Low,B
+MV-ELI-SHD-013-05,Oath Recall Breath,Healing Strap,F1,Demigod L7 Low,B
+MV-ELI-SHD-013-06,Cracked Board Reinforcement,Charter Enarme,F2,Demigod L7 Low,B
+MV-ELI-SHD-013-07,Collapse-Edge Counter,Blaze Cover,F2,Demigod L7 Low,B
+MV-ELI-SHD-013-08,Oath Pinning Anchor,Bashspine,F4,Demigod L7 Low,B
+MV-ELI-SHD-013-09,Hold-at-All-Cost Brace,Unrelenting Edgeband,F1,Demigod L7 Low,B
+MV-ELI-SHD-013-10,Oath-Line Field Revival,Revitalizing Backboard,F1,Demigod L7 Low,B
+MV-ELI-SHD-013-11,Oath-Broken Nullifier,Charter Backbrace,F2,Demigod L7 Low,B
+MV-ELI-SHD-013-12,Last Oath Surge,Hellish Buffet,F1,Demigod L7 Low,B
+MV-ELI-SHD-013-13,Last-Breath Oath Hold,Indomitable Enarme,F1,Demigod L7 Low,B
+MV-ELI-SHD-014-01,Edge Teaching First Stance,Facet Backbrace,F2,Monarch L2 Mid,B
+MV-ELI-SHD-014-02,Cliff-Side Board Step,Enarmeflash,F4,Monarch L2 Mid,B
+MV-ELI-SHD-014-03,Edge-Turning Rim Flick,Tempered Buffet,F2,Monarch L2 Mid,B
+MV-ELI-SHD-014-04,Edge Updraft Reading over Board,Illuminating Boss,F1,Monarch L2 Mid,B
+MV-ELI-SHD-014-05,Meridian-Network Anchor,Inexorable Bossrim,F1,Monarch L2 Mid,B
+MV-ELI-SHD-014-06,Edge-Pushing Bash,Bashruin,F4,Monarch L2 Mid,B
+MV-ELI-SHD-014-07,Wind-Cut Edge Parry,Inexorable Strap,F1,Monarch L2 Mid,B
+MV-ELI-SHD-014-08,Plateau Edge Grinding Press,Intentrim,F5,Monarch L2 Mid,B
+MV-ELI-SHD-014-09,Edge Stand Reflection,Flintlike Face,F1,Monarch L2 Mid,B
+MV-ELI-SHD-014-10,Edge Teachings Last Stand,Unassailable Verity Edgeband,F6a,Demigod L1 Low,B
+MV-ELI-SHD-015-01,Standing Wind Posture,Unbudging Shieldarm,F1,Demigod L4 Mid,B
+MV-ELI-SHD-015-02,Wind-Rise Waiting Breath,Shieldarm Insight,F3,Demigod L4 Mid,B
+MV-ELI-SHD-015-03,Standing Rim Tap,Ironbash,F5,Demigod L4 Mid,B
+MV-ELI-SHD-015-04,Sudden Board Rise,Backbrace Nerve,F3,Demigod L4 Mid,B
+MV-ELI-SHD-015-05,Wind-Matching Counter,Bosswrath,F4,Demigod L4 Mid,B
+MV-ELI-SHD-015-06,Still-Foot Disruption,Strapmettle,F4,Demigod L4 Mid,B
+MV-ELI-SHD-015-07,Unmoved Field Swell,Thorn Edgeband,F2,Demigod L4 Mid,B
+MV-ELI-SHD-015-08,Rising Wind Return,Unassailable Enarme,F1,Demigod L4 Mid,B
+MV-ELI-SHD-015-09,Standing Wind Answer,Iron Cover,F2,Demigod L4 Mid,B
+MV-ELI-SHD-016-01,Last Guard Setting,Unconquered Rim,F1,Demigod L9 Low,B
+MV-ELI-SHD-016-02,Lone Bearer Grip,Thorn Bossrim,F2,Demigod L9 Low,B
+MV-ELI-SHD-016-03,Fallen Line Sidestep,Wardflash,F4,Demigod L9 Low,B
+MV-ELI-SHD-016-04,Empty-Line Rim Strike,Bosshavoc,F4,Demigod L9 Low,B
+MV-ELI-SHD-016-05,Remembrance Breath,Illuminating Strap,F1,Demigod L9 Low,B
+MV-ELI-SHD-016-06,All-Sides Turn,Obdurate Face,F1,Demigod L9 Low,B
+MV-ELI-SHD-016-07,Last Reserve Bash,Coverscourge,F4,Demigod L9 Low,B
+MV-ELI-SHD-016-08,Oath-Pledged Binding Press,Thorn Ward,F2,Demigod L9 Low,B
+MV-ELI-SHD-016-09,Lone Field Standing,Granite Boss,F2,Demigod L9 Low,B
+MV-ELI-SHD-016-10,Last-Guard Reflection,Glamour Rim,F2,Demigod L9 Low,B
+MV-ELI-SHD-016-11,Last Standing Oath Nullifier,Invincible Strap Fortitude,F6b,Demigod L9 Low,B

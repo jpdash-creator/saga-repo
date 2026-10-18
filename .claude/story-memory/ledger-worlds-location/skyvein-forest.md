@@ -1,0 +1,209 @@
+# SKYVEIN FOREST — Location Ledger
+
+**Governing Canon Parts:** Parts 13, 14, 15, 28 (Areas 17, 20), 40
+**Location Tier (Part 13 Area 2.1):** Sub-World Region — forest (ancient, tall-growth, dense-canopy). A landform not listed in Part 13 Area 2.6 is recorded as a Sub-World Region and names its kind (Part 13 Area 2.6). Region and placement were left open by the author until the author's ruling of 2026-10-18 (map consultation), which places the forest (Section 1 Immediate Parent; §5.1).
+**Part 13 Classification:** OPEN-AREA — a forest has no class table; its kind is named here and in the registry. **MAJOR entity per Part 28 Area 20.4(e)** — author-given name and author-authored description, `consulted` 2026-10-06
+**First Area Appearance:** Chapter 002 — The Well at First Light (Ref: 1.1.1.002)
+**Last Updated:** 2026-10-18
+**Ledger Version:** v1.0
+
+> **Depth standard.** The author's own description of 2026-10-06 is adopted as this place's canon description and is carried word for word in Section 1 and in §5.1 to §5.8 and §5.12; it replaces the compact Settled summary in Chapter Spec 1.1.1.002 (the ledger governs from here). The author's status line stands: **named and described only; not yet placed on any map, and no Area has been written in it.** Chapter 002 (Ref: 1.1.1.002) shows only its edge, seen from the village and from the field beside the hedge and the ditch, and never entered (§5.9); three of the author's fifteen trees are written in it (§5.5). An earlier by-area build of the same Chapter was archived on 2026-10-07 and is not canon: the first-use facts it had written into this file were replaced from the Chapter text at this Gate 2, and no line of the author's own description was touched. Every axis that neither the author nor the written Chapter has set is recorded as not established rather than filled. **Nothing here is inferred.** Chapter 003 (Ref: 1.1.1.003) shows a second stretch of the edge, along the lower road on a winter evening in a flashback (§5.14); the facts it wrote are added below, and no line of the author's own description was touched. **Update, 2026-10-18 (`[ASKED]` Author ruling, 2026-10-18 (map consultation)):** the forest is now placed (Section 1 Immediate Parent; §5.1); the author's status line above is kept as written, and no line of the author's own description was touched.
+
+---
+
+## Section 1 — Identity and Classification (B)
+
+**Full Name:** Skyvein Forest
+**Common Name / Aliases:** Skyvein. The name is what outsiders call it; the Chapter gives it as the travellers' name on the cart road (Ref: 1.1.1.002). Whoever lives in or near it may carry an older name (the author); no older name is set (OPEN-AUTHOR). Naming checks (Part 28 Area 20.3): author-given and consulted 2026-10-06; the scan found no collision for "Skyvein"; the name comes from the pale lines that climb the trunks; originality is not cleared against every published work and stays flagged to the author for information (Chapter Spec 1.1.1.002, Names).
+**Location Tier (Part 13 Area 2.1):** Sub-World Region — forest
+**Part 13 Class Code:** Not yet established (OPEN-AREA)
+**Part 13 Character:** Not established as a class value. The author makes it a forest that looks alive, connected and aware, whose sap-lines have a meaning left open (a natural qi channel, a living network between trees, or something tied to a larger source such as a World Tree); no cultivation character is set (§5.3).
+**Sacred Ground Status (Part 13 Area 9):** Not established
+**Special Zone Status (Part 13 Area 2.5):** Not established
+**Historical Depth (Part 13):** Not established
+**Immediate Parent (file name):** azure-sky-kingdom.md, by the author's ruling of 2026-10-18 (map consultation), `[ASKED]`: the forest lies on Azure Sky ground, on the slopes below the Windward Range's western end, in the hill and timber country of the kingdom's north-western frontier (`azure-sky-kingdom.md` §5.1). Until that ruling the field read OPEN-AUTHOR, and the author's words were: "Region / Placement: Left open. To be set by the Section Spec that first needs it." Chapter 002 shows one edge of it, behind Greenhollow Cross, at the border of the Azure Sky Kingdom (cross-ref: greenhollow-cross.md); that fixed the one edge seen and nothing of the rest. Chapter 003 (Ref: 1.1.1.003) shows the first trees of the forest along the lower road, with a ditch between the road and the trees (§5.14; `lower-road.md`); that fixes a second edge seen and nothing of the rest, and the page does not say whether the two edges are one stretch. Until the ruling the forest was not placed on any map; the ruling places it as above and does not say whether the two edges are one stretch.
+**Containing World:** Saha (cross-ref: saha.md)
+**Containing Star System:** Sol Star System (cross-ref: sol-star-system.md)
+
+**Physical Description (author-authored, pre-prose, 2026-10-06 — immutable, Part 28 Area 3.4 / Area 17.5):**
+**Kind:** Forest (ancient, tall-growth, dense-canopy)
+**One-Line Identity:** A forest of towering trees whose trunks and roots carry visible lines of pale sap-light up into the canopy, like veins. It looks alive, connected and aware.
+**The Name:** *Skyvein* comes from the pale lines of light that run up each trunk and branch toward the sky. Travelers see them from far off as threads of glow climbing the treeline. The name is what outsiders call it. Whoever lives in or near it may carry an older name.
+**Canopy and Light:** The giants rise far above everything else, and their crowns interlock into a high, unbroken roof. Daylight reaches the floor only as a dim green haze. At night the sap-lines are the main light, and the forest glows faintly in soft, shifting threads.
+The rest of the author's description is carried in §5.3 to §5.8.
+
+**Cultural Association (Part 25):** Not established. Whether the forest is inhabited or claimed, and by whom, is an open question for the author (§5.12).
+
+---
+
+## Section 2 — Spatial Data (B/L)
+
+**Distance from Key Reference Points (Part 14 CMS):** Not established; no figure. One edge lies behind Greenhollow Cross (Ref: 1.1.1.002); the forest's extent, depth and distance from any other place are not set. The ruling of 2026-10-18 places the forest below the Windward Range's western end and sets no figure.
+**Travel Time from Key Points (Part 15):** Not yet established; no figure
+**Ambient Energy Class (Part 13 Area 2.3):** Not yet established (OPEN-AREA); no class is inferred from the sap-lines, whose meaning is open (§5.3)
+**Dominant Affinity Presence (Part 4):** Not yet established
+**Cultivation Synergy % (CS%) (Part 31 Area 21):** Not yet established
+**Technology Synergy % (TS%) (Part 31 Area 21):** Not yet established
+**Flora and Fauna:** The fifteen named trees of §5.5 (*Veinwood*, *Skyveil*, *Rootlace*, *Gloamfir*, *Whisperash*, *Lanternbough*, *Ironhush*, *Mistcrown*, *Thornweft*, *Emberleaf*, *Hollowheart*, *Sapphire Larch*, *Wraithbirch*, *Deepdrinker*, *Eldergrain*); moss and roots on the floor (§5.4). The village's pigs forage for acorns under its first trees, and its hunters and trappers bring in game and pelts (cross-ref: greenhollow-cross.md §5.2 and §5.3). Which beasts live here is open (§5.6). Shown in Chapter 002 (Ref: 1.1.1.002) at the forest's edge: *Skyveil*, *Ironhush* and *Thornweft* (§5.5), moss on the wind, and pigs rooting for acorns under the first trees, one sow in plain sight across the ditch. Shown in Chapter 003 (Ref: 1.1.1.003) at the lower road's edge: *Skyveil* with its leaves hanging in winter, white with frost, and small birds that should roost in the first trees on a winter evening (§5.14).
+**Monster Kinds Present (Part 40):** none established. Whether any beast here is a monster in the Part 40 sense is left to the monster registry (the author, 2026-10-06); no Kind is entered, and a World Tree is not a monster (§5.7).
+**Soul-Sense Effects (Part 14 Area 4.2):** Chapter 003 (Ref: 1.1.1.003): at the lower road's edge, on a hard-frost winter evening, the frost and the hanging *Skyveil* leaves dulled a Warrior's soul sense as a thick glove dulls a hand (§5.14). The Part 14 Area 4.2 modifier table has no row for it and no percentage is set; whether it holds in other seasons or elsewhere in the forest is not established (OPEN-AREA).
+
+*[L — CS%/TS% updated if the forest is ever separately classified; Flora and Fauna gains an entry whenever a scene names a species; Monster Kinds Present gains a pointer whenever a Kind is shown to live here]*
+
+---
+
+## Section 3 — Faction/Civilization Control (B/L)
+
+**Controlling Faction(s):** Not established. Whether the forest is inhabited or claimed, and by whom, is open (§5.12, question 3).
+**Contested Status:** Not established
+**Known Characters Present:** Uthno Nancarrow (Tier D, a forester), who comes out of the trees with a pot of red paint to the plank over the ditch and the gap in the hedge on 1247.1.3 / PD 3 and comes no farther (Ref: 1.1.1.002). Hercules's sense finds a faint trace of qi in him (***Senior Level 1 Low***), and the quiet of his boots owes nothing to it (that is a forester's craft); the sense is turned on the man and never on the forest (text revised in place 2026-10-17). Hercules and Bison are on the village's side of the hedge and the ditch throughout: they look at the forest wall from the Hedge Well on 1247.1.1 / PD 1, and work the field beside the hedge and the ditch on 1247.1.3 / PD 3. No named character is shown going in. On 1246.12.8 / PD -19 (a flashback date; Chapter 003, Ref: 1.1.1.003) the Redhaft Vanguard's company of about twenty (`ledger-people-society-faction/redhaft-vanguard.md`) waited among the first trees on the forest side of the lower road, with Hadric Stoll, Wulfric Rask, Venn Orrick, Brenn Stannard, Alwin Lorne, Dunstan Calder and Leofwin Pellam named in the text, and came out through the screen of *Skyveil* leaves on a sign; Ansel Roke's guard stood on the road, Jessa Lowe on the forest side a spear's length in from the first trunks. Nobody named is shown going deeper than the first trees (§5.14).
+
+*[L — Updated at every control change, character arrival/departure, or battle event]*
+
+---
+
+## Section 4 — Events Log (L)
+
+| Area Reference | Event Summary | Parts Triggered | Sections Updated |
+|---|---|---|---|
+| 1.1.1.002 — The Well at First Light (1247.1.1 / PD 1) | First sight of the forest, from the Hedge Well at the village's back at first light on the first morning. Past the hedge and the ditch the forest begins, trunk beside trunk, so tall that the dark has kept the lower half of them; the sun reaches the treetops and nothing below them, and the light on the trees is white with no gold in it, white as a peeled rod. It comes down the trunks unevenly, quick along the smooth bark and slow along the rough, and where it lies on the ridges the pale lines show, forking and joining as they climb, then go faint when the sun lies full on the grass and the well. Travellers on the cart road call it Skyvein Forest, for the pale lines that climb the bark. Seen only and never entered; Hercules gives the lines as long as it takes to make one loop of rope and then gives his eyes back to the rope, and the lines are given no meaning, sound or pulse. | Parts 13, 28, 40 | Header; Sections 1 to 5 |
+| 1.1.1.002 — The Well at First Light (1247.1.3 / PD 3) | The forest's edge, seen by day from the field beside the hedge and the ditch. The first trunks are brown and deeply ridged and go up out of sight; the wind comes steady out of them smelling of moss; the nearest trees are *Skyveil*, whose hanging leaves close the gaps between the great trunks into a green screen; pigs root under the first trees and an axe rings among the trunks from no side a man could name; Hercules twice feels watched and finds only the hedge, the ditch, the trunks and a sow. A forester, Uthno Nancarrow, comes out of the trees with a pot of red paint: a fresh red ring marks the nearest trunk (older rings, faded to rust, go on down the edge), and a thick-barked *Ironhush* beside it, scratched across in a dozen places, bears none; the forester says it stays, because the axe only skates off it, and Hercules's sense finds a faint trace of qi in the forester himself (Ref: 1.1.1.002, text revised in place 2026-10-17). Farther along, the log slide and the timber track come down out of the trees; past the slide, where the last cleared path ends in rotting leaves, three red posts stand in a row before a *Thornweft* woven between two trunks into a brown curtain of barbs. By day the pale lines are faint, thin threads in the ridges of the bark. Seen only and never entered. | Parts 13, 28, 40 | Sections 1 to 5 |
+| 1.1.1.003 — The Lone Banner (1246.12.8 / PD -19, a flashback date) | The forest's edge along the lower road at the last light of a winter evening, seen from the road and not entered. The road runs down a slope with a ditch on the left of the man walking down it and the first trees of the forest on his right, and narrows ahead to a width where two carts cannot pass. The frost has come down early and settled hard. Pale lines show in the ridges of the trunks as the light fails, and the hanging leaves of the *Skyveil* that close the gaps between the trunks stand white with frost and do not stir. The small birds that should be loud going in to roost in the first trees come over the ditch in threes and fours, pass above the first trees and do not go in; Ansel Roke, who commands the mine's guard, counts fourteen. He sends his soul sense into the trees to its full reach, and the frost and the hanging leaves dull it as a thick glove dulls a hand, so that it finds nothing there but cold (a first-use fact, §5.14). The first thing that moves is the frost, which comes off the hanging leaves along the first wagon in a single fall; then the screen of leaves parts and five men step out side by side in one stride, with a sixth bursting from the trees ahead of them. Behind the screen the rest of a company of about twenty waits with its qi drawn in (the Redhaft Vanguard, `ledger-people-society-faction/redhaft-vanguard.md`), and when the raid ends it goes back among the trees with the two head chests and its fallen, the broken screen swinging once behind the last man. Seen only from the road; nothing deeper than the first trees is shown. | Parts 13, 14, 28, 41 | Header; Sections 1 to 5 |
+| Author ruling, 2026-10-18 (map consultation) | The forest is placed: on Azure Sky ground, on the slopes below the Windward Range's western end, in the hill and timber country of the kingdom's north-western frontier, with Greenhollow Cross at its edge and the lower road and Bluecleft Mine in the hills (`[ASKED]`). The author's open question 1 (§5.12) is answered; the author's own description and status line are untouched. Whether the two edges seen are one stretch is not settled. | Parts 13, 28 | Header; Sections 1, 2 and 4; §5.1; §5.12 |
+
+---
+
+## Section 5 — Lore (Part 28 Area 17)
+
+**Schema:** Part 28 Area 17.2 — Location Domain (Sub-World Region, forest)
+**Depth Standard:** Breadth-and-Depth per Part 28 Area 17.3 — a recurring, Section-scale setting and a MAJOR entity, reusable across different Sections (§5.8). The author's description populates the identity, sensory, flora and ecology axes; Chapter 002 (Ref: 1.1.1.002) adds the first sight (§5.9), the three trees shown (§5.5) and the climate and hazard axes in part; the placement, history, ruling, culture, cultivation, technology, diplomatic and population axes are open (§5.12).
+**Audit Hook:** ALCA dimension AL-10 (`guardrails/audit/guardrail-alca.md`)
+
+### 5.1 — Function and Identity
+
+**Status (author):** Named and described only. Not yet placed on any map, and no Area has been written in it.
+**Kind:** Forest (ancient, tall-growth, dense-canopy).
+**Region / Placement (author):** Left open. To be set by the Section Spec that first needs it.
+**Ruling, 2026-10-18 (`[ASKED]` Author ruling, 2026-10-18 (map consultation)):** placed in the north-west frontier cluster, in the author's words: "Hill and timber country north-west of the Sapphire Basin, beyond Ashford's cold-river crossing: Skyvein Forest on the slopes below the Range's western end, Greenhollow Cross at its edge, the lower road and Bluecleft Mine in the hills, and Brackenhold the kingdom across the ford to the north-west, where Azure Sky, Brackenhold and the Ember Reach polities meet." The author's status line above stays as written. The ruling sets no distance and does not say whether the two edges seen in Chapters 002 and 003 are one stretch.
+**Identity:** see the One-Line Identity and The Name in Section 1.
+
+### 5.2 — Canopy and Light (author-authored, 2026-10-06)
+
+The giants rise far above everything else, and their crowns interlock into a high, unbroken roof. Daylight reaches the floor only as a dim green haze. At night the sap-lines are the main light, and the forest glows faintly in soft, shifting threads.
+
+### 5.3 — The Sap-Lines, the central feature (author-authored, 2026-10-06)
+
+- The pale lines run through living wood and are visible on trunk, branch and root.
+- They flow upward and sometimes pulse together across many trees at once, as though the forest shared one slow breath.
+- Their meaning is deliberately left open: a natural qi channel, a living network between trees, or something tied to a larger source such as a World Tree. The author rules on this when a Section first needs it.
+- Anything drawn from the lines (sap, bark, glowing wood) is a possible harvest. Its nature is left open for later spec.
+
+### 5.4 — Atmosphere (author-authored, 2026-10-06; axis 12)
+
+Quiet, vertical and watched. Sound carries oddly under the canopy. Footsteps are muffled by moss and root, and distant calls arrive without a clear direction. A traveler feels small beneath the trees and has trouble judging where they are, because the upward glow lines pull the eye away from the ground.
+
+### 5.5 — Trees of Skyvein Forest (author-authored, 2026-10-06)
+
+The mix of tall giants, slender companions and tangled understory gives the forest its variety. No two stretches look the same. The tree names are set in plain italics, the named-item form, and never in bold italic (the author's fix of 2026-10-06). Three of the fifteen are written in Chapter 002 (Ref: 1.1.1.002): *Skyveil* (item 2), *Ironhush* (item 7) and *Thornweft* (item 9), each entered in `ledger-named-items` at its Gate 2; the other twelve are not written yet, and each enters `ledger-named-items` only at the Gate 2 of the Chapter or Area that first writes it. *Skyveil* is written again in Chapter 003 (Ref: 1.1.1.003), at the lower road's edge in winter (§5.14); its register row is unchanged.
+
+1. *Veinwood*: Dark-grey giant with a pale sap-line running from root to crown, the forest's namesake.
+2. *Skyveil*: Slender companion tree whose hanging leaves close the lower canopy into a green screen.
+3. *Rootlace*: Low understory tree whose roots rise above ground and bridge between trunks.
+4. *Gloamfir*: Tall, narrow conifer that holds the darkest shade and lets almost no light fall beneath it.
+5. *Whisperash*: Pale-barked tree whose leaves rattle softly even in still air.
+6. *Lanternbough*: Broad-limbed tree whose branches carry pods that glow faintly after dusk.
+7. *Ironhush*: Dense, heavy-grained tree with bark so thick that axes glance off it.
+8. *Mistcrown*: Giant whose crown sits permanently in cloud, so its top is never seen from the ground.
+9. *Thornweft*: Barbed climbing tree that weaves between trunks into near-impassable curtains.
+10. *Emberleaf*: Tree with red-gold leaves that warm to the touch and drop like small coals in autumn.
+11. *Hollowheart*: Ancient tree with a wide, empty trunk that creatures and travelers shelter inside.
+12. *Sapphire Larch*: Blue-needled conifer that shimmers in the glow of the sap-lines and grows in quiet groves. (The author's own flag: the first word is shared with the Sapphire Basin and with an author-removed concept named in the Standing Exclusions of Chapter Spec 1.1.1.002; the name is renamed if a checker objects; it is kept as the author gave it and is not used in any Area so far. The checker's ruling is reserved for the Gate 1 of the Area that first writes it.)
+13. *Wraithbirch*: Ghost-white, flaking tree that looks like a standing figure in low light.
+14. *Deepdrinker*: Thirsty giant with a vast root-spread that pulls water from a long way off and leaves the ground around it dry.
+15. *Eldergrain*: Oldest and widest tree, with bark in rings of pale and dark, and the strongest sap-light of any tree in the forest.
+
+### 5.6 — Life and Ecology (author-authored, 2026-10-06; open for later spec)
+
+- Canopy dwellers and ground dwellers live on separate levels, with the roots as a middle layer.
+- Beasts here may be drawn to the sap-light. Whether any are monsters in the Part 40 sense is left to the monster registry.
+- The forest may hold a gatherer's economy built on harvests from the sap-lines.
+
+### 5.7 — Possible Encounter: A World Tree (author-authored, 2026-10-06)
+
+**Status:** Possible only. Nothing here commits a World Tree to this forest. The author rules on whether, when and which one.
+
+- The sap-lines are the hint. If a World Tree stands in or beneath the forest, the lines would be its reach: every *Veinwood* a distant limb of one living center.
+- A World Tree is a being of its own kind and is not a monster, a person or a species. It is handled under its own canon rules and not under the monster registry.
+- *Eldergrain* is the tree that could point toward it, as the oldest and brightest in the forest.
+- Signs a traveler might notice first: the lines all bending toward one direction, a pulse that quickens and slows together, trees growing larger and quieter toward the center, and beasts that avoid or circle one place.
+- Approach should be earned over several scenes. The forest itself would warn, resist or guide before anything is seen.
+- If it is ever chosen, what the tree wants (rest, protection, a request, silence) is a story decision for the Section Spec and is left open.
+
+### 5.8 — Story Use (author-authored, 2026-10-06)
+
+This forest is meant to be reusable across different Sections:
+- as a place where travelers lose their way
+- as a hidden or guarded region
+- as a source of rare harvest and the conflict that follows it
+- as a place tied to cultivation, affinity or a larger living network, if the author rules so
+
+### 5.9 — First Sight from the Village and from the Field (Chapter 002; axis 12)
+
+Seen from the Hedge Well at the village's back at first light on 1247.1.1 / PD 1, and from the field beside the hedge and the ditch on 1247.1.3 / PD 3, and never entered (Ref: 1.1.1.002). **At first light:** past the hedge and the ditch the forest begins, trunk beside trunk, so tall that the dark has kept the lower half of them. The sun reaches the treetops and nothing below them; the light on the trees is white and has no gold in it, white as a peeled rod. As the sun climbs, the white comes down the trunks unevenly, the way a thaw runs down a slope, quick along the smooth bark and slow along the rough; where it lies on the ridges the pale lines show, forking and joining as they climb. From the well, at this hour, the lines are a few faint scratches on the nearest trunks and then nothing at all, and by the time the sun lies full on the grass and the well they have gone faint in the bark. The travellers on the cart road name it Skyvein Forest, for the pale lines that climb the bark. In the Chapter the lines are given no meaning, sound or pulse, no villager explains them, and Hercules gives them only as long as it takes to make one loop of rope (Chapter Spec 1.1.1.002, Audit). **From the field, by day:** the first trunks are brown and deeply ridged and go up out of sight; the pale lines on the nearest trunks are faint, thin threads in the ridges of the bark, forking as they climb out of sight; the wind comes steady out of the trunks and smells of moss; pigs root for acorns under the first trees, most of them a good way off; an axe rings somewhere among the trunks from no side Hercules could name, and a sow's grunt from across the ditch reaches him from behind, out of the field; twice while he works the outer edge of the field Hercules feels watched, looks up, and finds only the hedge, the ditch, the trunks, the sow and nothing else. The nearest trees are *Skyveil*, slender, with leaves that hang down from the lower branches and close the gaps between the great trunks into a green screen; Hercules follows the nearest pale line up the bark as far as the screen lets him and no farther. **The forester's marks:** a fresh red ring marks the nearest trunk, and older rings, faded to rust, go on down the edge; the forester says the marked tree comes down in autumn. Beside it stands an *Ironhush*, thick-barked and scratched across in a dozen places, which bears no ring; the forester says it stays, because the axe only skates off it. Farther along the edge the log slide and the timber track come down out of the trees; past the slide, where the last cleared path ends in rotting leaves, three red posts stand in a row, and behind them a *Thornweft* has woven itself between two trunks into a brown curtain of barbs.
+
+### 5.10 — Climate and Seasonal Texture (axis 13; Part 13 Area 27)
+
+**Established:** at first light on the first morning of the year (1247.1.1 / PD 1; a spring morning with frost on the well rope, cross-ref: greenhollow-cross.md §5.10), the treetops catch the light first and the light comes down the trunks slowly, over a time a man standing at the well can watch (§5.9). On 1247.1.3 / PD 3 the wind comes steady out of the first trees and smells of moss, and the forester says the marked tree comes down in autumn (Ref: 1.1.1.002). The author's tree list gives one seasonal fact: *Emberleaf* leaves drop like small coals in autumn (§5.5).
+**Established at Chapter 003 (Ref: 1.1.1.003):** the evening of 1246.12.8 / PD -19 (Ulenor, Day 8) is called a winter evening on the page. The frost had come down early and settled hard; the ruts rang under the iron on the wheels, the breath of each team stood over the road in a cloud the evening did not move, and at the forest's edge the hanging *Skyveil* leaves stood white with frost and did not stir; the small birds did not go in to roost in the first trees (§5.14).
+**Not established, and not inferred:** the forest's climate and seasons, the weather under the canopy, and the sap-lines' behaviour by day or season (the author's description gives their night glow and their pulse, §5.2 and §5.3) (OPEN-AREA; Part 13 Area 27.2 reads not yet established, author).
+
+### 5.11 — Hazards and Dangers to a Visitor (axis 14)
+
+**Established by the author:** a traveler feels small beneath the trees and has trouble judging where they are (§5.4); *Thornweft* weaves between trunks into near-impassable curtains and *Ironhush* bark turns an axe (§5.5); the forest is meant to be a place where travelers lose their way (§5.8). The forest edge is the nearby village's boundary: everyone there knows where the safe paths end and the deep woods begin (cross-ref: greenhollow-cross.md §5.7).
+**Shown at Chapter 003 (Ref: 1.1.1.003):** the first trees along the lower road hid a company of about twenty Warriors who kept their qi drawn in, and the frost and the hanging *Skyveil* leaves dulled a Warrior's soul sense there, so that the sense of the man who commands the mine's guard, at its full reach, found nothing; the one warning was the birds that did not roost (§5.14). The danger shown is the company that used the forest's edge as cover; no beast, harvest conflict or sap-light effect is shown.
+**Not established:** any beast, harvest conflict, claim or patrol; whether the sap-light draws dangerous beasts; the danger of the deep forest by day or by night (OPEN-AREA). Nothing of the forest's danger is shown in Chapter 002 (Ref: 1.1.1.002) beyond the edge itself: three red posts stand before a *Thornweft* curtain of barbs where the last cleared path ends, Hercules twice feels watched at the field's edge and finds nothing, and the village's hedge and ditch stand between the field and the first trees.
+
+### 5.12 — Open Questions for the Author (author-authored, 2026-10-06; flag, do not invent)
+
+1. Where does the forest sit (region, kingdom or border)? (Chapter 002 places its edge behind Greenhollow Cross, on the Azure Sky border; Chapter 003 shows a second edge along the lower road, which the kingdom's patrol holds, and does not place the two against each other.) **Answered, 2026-10-18 (`[ASKED]` Author ruling, 2026-10-18 (map consultation)):** on Azure Sky ground, on the slopes below the Windward Range's western end, in the hill and timber country of the kingdom's north-western frontier (§5.1). Whether the two edges are one stretch is not settled.
+2. What are the sap-lines really: qi channel, living network, World Tree link, or something else?
+3. Is it inhabited or claimed, and by whom?
+4. Which Section first calls for it? (Chapter 002 of Section 1 shows only its edge, seen, never entered.)
+5. Does a World Tree stand here, and if so, when does it appear?
+
+*If a scene needs one of these, a small fact may be established by the prose under Part 28 Area 17, logged in this file and offered to the author as a draft value at the next Section close; the first three are the author's to rule. A name or a major entity (Part 28 Area 20.4) goes to the author first, at the Decision Consultation Gate. The markers are explained in the legend in `_index.md`.*
+
+### 5.13 — Naming Notes (author-authored, 2026-10-06)
+
+Candidate names for its inhabitants, paths and sites can be added here later. This entry holds only the forest itself.
+
+**Narrative summary (as of Chapter 002).** Skyvein Forest is an ancient, tall-growth, dense-canopy forest of towering trees whose trunks and roots carry pale lines of sap-light up toward the canopy, like veins, so that it looks alive, connected and aware; the name is what outsiders call it, from the lines travellers see climbing the treeline. Its region and placement were left open as of that Chapter (the author's ruling of 2026-10-18 places it, §5.1), and it is named and described only. In Chapter 002 its edge is seen from the Hedge Well at the back of Greenhollow Cross at first light on 1247.1.1 / PD 1: a hedge and a ditch, then trunk beside trunk so tall that the dark keeps the lower half of them, with a white light with no gold in it coming down the trunks unevenly and the pale lines showing faintly in the ridges of the bark. It is seen again by day on 1247.1.3 / PD 3 from the field beside the hedge and the ditch, where the wind smells of moss, pigs root under the first trees, a forester marks a trunk with a red ring beside a thick-barked *Ironhush*, the leaves of *Skyveil* close the gaps between the great trunks into a green screen, and three red posts stand before a *Thornweft* curtain beyond the end of the last cleared path. Nobody enters it and nobody reads it (Ref: 1.1.1.002).
+
+### 5.14 — The Road-Side Edge and the Dulled Sense (Chapter 003; axis 12)
+
+Seen on the evening of 1246.12.8 / PD -19 (a flashback date: Year 1246, Ulenor, Nuvil, Day 8) from the lower road, and not entered by any named person (Ref: 1.1.1.003). Every item is a first-use fact and an instance, never a custom. The page's own plain words are given.
+
+- **Where it lies against the road.** The lower road runs down a slope with a ditch on the left of a man walking down it and the first trees of the forest on his right, pale between the two; ahead it narrows to a width where two carts could not have passed (`lower-road.md`). The guards were set in the ditch-side and forest-side places, the forest-side guard a spear's length in from the first trunks.
+- **The trunks.** Pale lines show in the ridges of the trunks as the light fails.
+- **The *Skyveil* screen.** The hanging leaves of the *Skyveil* close the gaps between the trunks. At dusk in winter they stand white with frost and do not stir. When a body moves behind them the frost comes off the leaves in a single fall, the way it comes off a bough when something heavy goes through; the screen parts to let men step out in one stride, and swings once and is still when it closes behind a man going back in.
+- **The birds.** On a winter evening the trees along a road should be loud with small birds going in to roost. That evening they came over the ditch in threes and fours, passed above the first trees and did not go in; fourteen were counted. A guard sent back along the trees said that nothing moved in the trees on his side and nothing roosted in them either.
+- **The soul sense dulled: a new world fact.** The frost and the hanging leaves dulled a Warrior's soul sense "as a thick glove dulls a hand". Ansel Roke (Warrior Level 1 Mid), whose soul sense runs fifty paces (Part 14 Area 4.1), sent it into the trees to its full reach and it found nothing there but cold. The Part 14 Area 4.2 modifier table has no row for this and no percentage is set. It does not touch the open question of the sap-lines (§5.3) or the Ambient Energy Class (Section 2), both still open. The page gives a second, separate cause for the same blank: the company that waited there kept its qi drawn in tight, and a Warrior's sense finds nothing in a man who does that. The two are not run together.
+- **What waited there.** A company of about twenty Warriors in plain coats, qi drawn in, stood among the first trees and came out through the leaves on a sign. When the raid ended they went back through the trees, two men to each of the two head chests and two more with an arm under each of their own fallen, and the broken screen swung once and was still. Where they went beyond the first trees is not shown.
+
+**Not established:** how deep a *Skyveil* screen runs along the road, whether the dulling belongs to the *Skyveil*, to the frost or to both together, whether it holds in other seasons or elsewhere in the forest, the forest's other edges, and whether this edge and the one Chapter 002 shows from the village are one stretch (OPEN-AREA; the dulling is the page's own plain words and no mechanism is inferred).
+
+**Narrative summary (as of Chapter 003).** In Chapter 003 the forest's first trees are met along the lower road, on the right of a man walking down the slope, with a ditch between the road and the trees. On a hard-frost winter evening (1246.12.8 / PD -19) pale lines show in the ridges of the trunks as the light fails, the hanging *Skyveil* leaves close the gaps between the trunks in a screen white with frost, the small birds that should roost pass over and do not go in, and the frost and the hanging leaves dull a Warrior's soul sense so that its full reach finds nothing but cold. A company of about twenty waits among the trees with its qi drawn in, comes out through the screen on a sign, and goes back in with its spoil. Nobody named is shown going deeper than the first trees (Ref: 1.1.1.003).
+
+---
+
+## Collective Behavior Code (Part 39 Layer L19) (B/L)
+
+**Code Status:** Not yet registered
+
+In Chapter 003 (Ref: 1.1.1.003) a scene places named characters among the first trees of the forest for the first time: the Redhaft Vanguard's company, with Hadric Stoll, Wulfric Rask and others named, waits at the lower road's edge before the raid (§5.14). Whether the forest needs a block of its own is OPEN-AUTHOR and is flagged to the author for that reason (Part 37 Area 2.4 addendum); the stub stays until the author rules. No conduct imposed by the forest has been shown: the company's silence and held-in qi are its own code's (`redhaft-vanguard.md`), and the dulling of a Warrior's soul sense there (§5.14) is an effect on perception and not a conduct the place imposes.
+
+---
+
+**Changelog:** Updated 2026-10-17: Sections 1 to 5 and the Collective Behavior Code note extended at the Gate 2 of the whole-built Chapter 003 (Ref: 1.1.1.003): the lower road's edge (§5.14), the dulling of a Warrior's soul sense by frost and the hanging *Skyveil* leaves, and the Redhaft company waiting among the first trees; no Baseline field changed and no line of the author's description touched.
+
+**Changelog:** Updated 2026-10-18 at the author's ruling (map consultation): the header, Section 1 Immediate Parent, Section 2, Section 4, §5.1 and §5.12 question 1, from the author's words only; no Baseline line of the author's description was touched, and whether the two edges are one stretch stays open.

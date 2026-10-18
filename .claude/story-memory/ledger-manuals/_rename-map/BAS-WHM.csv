@@ -1,0 +1,80 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-WHM-001-01,Overhead Face Drop,Stiff Anvilback,F1,T1 Unawakened,A
+MV-BAS-WHM-001-02,Rising Haft Lift,Smithstrike,F4,T1 Unawakened,A
+MV-BAS-WHM-001-03,Hip Level Knock,Forgebump,F4,T1 Unawakened,A
+MV-BAS-WHM-001-04,Haft Cross Hold,Resting Spikeback,F1,T1 Unawakened,A
+MV-BAS-WHM-001-05,Slide Step Close,Shifting Peenside,F1,T1 Unawakened,A
+MV-BAS-WHM-002-01,Cheek Crack Swing,Sharp Clawside,F1,T1 Skin,A
+MV-BAS-WHM-002-02,Knee Break Chop,Forgehit,F4,T1 Skin,A
+MV-BAS-WHM-002-03,Poll Rap Under Arm,Anvilbump,F4,T1 Skin,A
+MV-BAS-WHM-002-04,Rim Catch Parry,Cheekplate Lid,F3,T1 Skin,A
+MV-BAS-WHM-002-05,Two-Hand Brace Block,Peenlid,F4,T1 Skin,A
+MV-BAS-WHM-002-06,Heel Pivot Return,Anvilfall Trot,F3,T1 Skin,A
+MV-BAS-WHM-003-01,Crown Dent Blow,Single Drivehome,F1,T1 Muscle,A
+MV-BAS-WHM-003-02,Pauldron Smash Swing,Upward Forge,F1,T1 Muscle,A
+MV-BAS-WHM-003-03,Breastplate Rattle Strike,Sudden Tamp,F1,T1 Muscle,A
+MV-BAS-WHM-003-04,Collar Plate Hook Pull,Peenpause,F4,T1 Muscle,A
+MV-BAS-WHM-003-05,Visor Slit Jab,Straight Hammerface,F1,T1 Muscle,A
+MV-BAS-WHM-003-06,Plate Seam Pry,Eyehole Lid,F3,T1 Muscle,A
+MV-BAS-WHM-003-07,Armored Brace Retreat,Shifting Hammerneck,F1,T1 Muscle,A
+MV-BAS-WHM-004-01,Wrist Snap Tap,Tampdrop,F4,T1 Tendon,A
+MV-BAS-WHM-004-02,Elbow Hinge Strike,Wide Hammerblow,F1,T1 Tendon,A
+MV-BAS-WHM-004-03,Buckler Edge Shove,Tripping Cheekplate,F1,T1 Tendon,A
+MV-BAS-WHM-004-04,Rim Slip Parry,Raised Faceplate,F1,T1 Tendon,A
+MV-BAS-WHM-004-05,Cover and Crack,Plain Eyehole,F1,T1 Tendon,A
+MV-BAS-WHM-004-06,Half Step Retreat,Anviltrot,F4,T1 Tendon,A
+MV-BAS-WHM-005-01,Saddle Drop Blow,Blunt Forge,F1,T1 Bone,A
+MV-BAS-WHM-005-02,Passing Poll Crack,Peenstrike,F4,T1 Bone,A
+MV-BAS-WHM-005-03,Stirrup Brace Swing,Sudden Peenbite,F1,T1 Bone,A
+MV-BAS-WHM-005-04,Reined Hammer Check,Planted Beakpick,F1,T1 Bone,A
+MV-BAS-WHM-005-05,Curved Wheel Away,Anvilpace,F4,T1 Bone,A
+MV-BAS-WHM-006-01,Long Haft Overswing,Wide Drivehome,F1,T1 Tendon,A
+MV-BAS-WHM-006-02,Butt Cap Thrust,Smithbump,F4,T1 Tendon,A
+MV-BAS-WHM-006-03,Hand Slide Reach,Low Hammerblow,F1,T1 Tendon,A
+MV-BAS-WHM-006-04,Beak Hook Drag,Spikeback Pause,F3,T1 Tendon,A
+MV-BAS-WHM-006-05,Mid Haft Block,Beakpick Cowl,F3,T1 Tendon,A
+MV-BAS-WHM-006-06,Haft Whirl Guard,Smithpause,F4,T1 Tendon,A
+MV-BAS-WHM-006-07,Swing Through Step,Smithhop,F4,T1 Tendon,A
+MV-BAS-WHM-006-08,Fallen Blade Pin,Forgepause,F4,T1 Tendon,A
+MV-BAS-WHM-007-01,Qi Weighted Drop,Level Hammerface,F1,Senior L1 Low,A
+MV-BAS-WHM-007-02,Breath Timed Swing,Open Peenside,F1,Senior L1 Low,A
+MV-BAS-WHM-007-03,Haft Shock Return,Snug Faceplate,F1,Senior L1 Low,A
+MV-BAS-WHM-007-04,Grip Release Beat,Upward Clawside,F1,Senior L1 Low,A
+MV-BAS-WHM-007-05,Root Stamp Stance,Angled Anvilback,F1,Senior L1 Low,A
+MV-BAS-WHM-007-06,Quick Fed Step,Easing Tamp,F1,Senior L1 Low,A
+MV-BAS-WHM-008-01,Hip Over Heel Drive,Anvilhit,F4,Senior L2 Mid,A
+MV-BAS-WHM-008-02,Back Foot Load Swing,Sharp Anvilfall,F1,Senior L2 Mid,A
+MV-BAS-WHM-008-03,Counterweight Poll Turn,Hammerface Hit,F3,Senior L2 Mid,A
+MV-BAS-WHM-008-04,Shift and Hold Guard,Ready Hammerneck,F1,Senior L2 Mid,A
+MV-BAS-WHM-008-05,Slip Weight Away,Hooding Faceplate,F1,Senior L2 Mid,A
+MV-BAS-WHM-008-06,Two Beat Advance,Anvilamble,F4,Senior L2 Mid,A
+MV-BAS-WHM-008-07,Weight Settle Pause,Smooth Eyehole,F1,Senior L2 Mid,A
+MV-BAS-WHM-009-01,Flat Face Press,Gnawing Peenbite,F1,Senior L3 High,A
+MV-BAS-WHM-009-02,Beak Point Tap,Short Anvilfall,F1,Senior L3 High,A
+MV-BAS-WHM-009-03,Face Beak Turn,Plain Spikeback,F1,Senior L3 High,A
+MV-BAS-WHM-009-04,Beak Catch Guard,Hammerneck Pause,F3,Senior L3 High,A
+MV-BAS-WHM-009-05,Single Pace Entry,Nimble Anvilback,F1,Senior L3 High,A
+MV-BAS-WHM-010-01,Haft Rise Guard,Resting Cheekplate,F1,Senior L4 Low,A
+MV-BAS-WHM-010-02,Head Drop Guard,Lowered Clawside,F1,Senior L4 Low,A
+MV-BAS-WHM-010-03,Cross Rim Turn,Lowered Spikeback,F1,Senior L4 Low,A
+MV-BAS-WHM-010-04,Circle Haft Redirect,Resting Beakpick,F1,Senior L4 Low,A
+MV-BAS-WHM-010-05,Guard Strike Return,Forgeblow,F4,Senior L4 Low,A
+MV-BAS-WHM-010-06,Counter Poll Drive,Hammerblow Strike,F3,Senior L4 Low,A
+MV-BAS-WHM-010-07,Answer Beak Hook,Forgecowl,F4,Senior L4 Low,A
+MV-BAS-WHM-010-08,Back Step Reset,Tamptrot,F4,Senior L4 Low,A
+MV-BAS-WHM-011-01,Shock Face Strike,Flat Peenside,F1,Senior L5 Mid,A
+MV-BAS-WHM-011-02,Through Plate Jolt,Anvildash,F4,Senior L5 Mid,A
+MV-BAS-WHM-011-03,Hand Width Snap,Forward Drivehome,F1,Senior L5 Mid,A
+MV-BAS-WHM-011-04,Echo Tap Pair,Tampbump,F4,Senior L5 Mid,A
+MV-BAS-WHM-011-05,Rebound Rim Guard,Raised Clawside,F1,Senior L5 Mid,A
+MV-BAS-WHM-011-06,Footing Set Stamp,Kept Faceplate,F1,Senior L5 Mid,A
+MV-BAS-WHM-012-01,Triangle Step Entry,Skipping Drivehome,F1,Senior L7 High,A
+MV-BAS-WHM-012-02,Side Slide Pass,Nimble Peenbite,F1,Senior L7 High,A
+MV-BAS-WHM-012-03,Circle Pace Drive,Anvilblow,F4,Senior L7 High,A
+MV-BAS-WHM-012-04,Back Heel Spring,Stepping Forge,F1,Senior L7 High,A
+MV-BAS-WHM-012-05,Cross Pace Swing,Stiff Hammerblow,F1,Senior L7 High,A
+MV-BAS-WHM-012-06,Pivot Poll Drop,Low Anvilback,F1,Senior L7 High,A
+MV-BAS-WHM-012-07,Footwork Hook Trip,Turning Beakpick,F1,Senior L7 High,A
+MV-BAS-WHM-012-08,Rooted Pace Guard,Anvillid,F4,Senior L7 High,A
+MV-BAS-WHM-004-05,Plain Eyehole,Keen Eyehole,F1,T1 Tendon,A
+MV-BAS-WHM-009-03,Plain Spikeback,Brisk Spikeback,F1,Senior L3 High,A

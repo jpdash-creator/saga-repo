@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-SAI-001-01,Walking Crossbar Carry,Prongscreen,F4,Senior,A
+MV-INT-SAI-001-02,Pivot Jab Return,Keen Handknob,F1,Senior,A
+MV-INT-SAI-001-03,Side Slip Knee Hook,Fleet Sidehook,F1,Senior,A
+MV-INT-SAI-001-04,Circle Step Fork Block,Sturdy Crossprong,F1,Senior,A
+MV-INT-SAI-001-05,Rear Foot Drag Cover,Dense Tineleft,F1,Senior,A
+MV-INT-SAI-001-06,Rolling Tine Entry,Pinionglide,F4,Senior,A
+MV-INT-SAI-001-07,Moving Shaft Drive,Wristflog,F4,Senior,A
+MV-INT-SAI-002-01,Wrist-Set Tine Catch,Clutching Hiltpoint,F1,Senior,A
+MV-INT-SAI-002-02,Flat of the Fork Press,Gripping Tinecrook,F1,Senior,A
+MV-INT-SAI-002-03,Hook and Draw Away,Wrestbuckle,F4,Senior,A
+MV-INT-SAI-002-04,Trap Release Rap,Grim Twist,F1,Senior,A
+MV-INT-SAI-002-05,Cover the Free Hand,Rooted Sanguard,F1,Senior,A
+MV-INT-SAI-002-06,Held Edge Reading,Attentive Tineright,F1,Senior,A
+MV-INT-SAI-002-07,Double Tine Lock Turn,Binding Centerprong,F1,Senior,A
+MV-INT-SAI-002-08,Trapped Blade Wrench,Twisthasp,F4,Senior,A
+MV-INT-SAI-003-01,Crowded Wrist Roll,Handknob Screen,F3,Senior,A
+MV-INT-SAI-003-02,Shoulder Bump Gap,Snagthwack,F4,Senior,A
+MV-INT-SAI-003-03,Pressed Grip Change,Padded Sidehook,F1,Senior,A
+MV-INT-SAI-003-04,Heel Pivot Escape,Clasphurdle,F4,Senior,A
+MV-INT-SAI-003-05,Under-Pressure Tine Spin,Resolute Tineright,F1,Senior,A
+MV-INT-SAI-003-06,Squeezed Fork Counter,Prongslap,F4,Senior,A
+MV-INT-SAI-004-01,Prong Wedge Entry,Entangling Wrest,F1,Senior,A
+MV-INT-SAI-004-02,Guard Hook Peel,Clasphasp,F4,Senior,A
+MV-INT-SAI-004-03,Wrist Cover Block,Stubborn Tineleft,F1,Senior,A
+MV-INT-SAI-004-04,Staff Catch Twist,Lassoing Clasp,F1,Senior,A
+MV-INT-SAI-004-05,Spare Hand Strip,Stalling Snag,F1,Senior,A
+MV-INT-SAI-004-06,Stripped Weapon Toss,Wild Hiltpoint,F1,Senior,A
+MV-INT-SAI-004-07,Triple Point Disarm,Cramping Crossprong,F1,Senior,A
+MV-INT-SAI-004-08,Spinning Yoke Strip,Levering Handknob,F1,Senior,A
+MV-INT-SAI-004-09,Taken Edge Reversal,Veeswat,F4,Senior,A
+MV-INT-SAI-005-01,Contact Pulse Block,Shelter Handknob,F2,Warrior,B
+MV-INT-SAI-005-02,Hammer Cut Stop,Armored Sanguard,F1,Warrior,B
+MV-INT-SAI-005-03,Sliding Tine Check,Draught Hiltpoint,F2,Warrior,B
+MV-INT-SAI-005-04,Low Rising Block,Layered Crossprong,F1,Warrior,B
+MV-INT-SAI-005-05,Blocked Edge Rebound,Brasstwist,F5,Warrior,B
+MV-INT-SAI-005-06,Shoulder-Width Brace,Clayprong,F5,Warrior,B
+MV-INT-SAI-005-07,Guard Sense Beat,Candor Tineleft,F2,Warrior,B
+MV-INT-SAI-005-08,Metered Qi Guard Climb,Veebarrier,F4,Warrior,B
+MV-INT-SAI-005-09,Absorbing Fork Catch,Hum Tinecrook,F2,Warrior,B
+MV-INT-SAI-005-10,Block Into Thrust,Shard Prongbase,F2,Warrior,B
+MV-INT-SAI-006-01,Yoke Under Chin,Ember Sidehook,F2,Warrior,B
+MV-INT-SAI-006-02,Inside Knob Hammer,Wristswat,F4,Warrior,B
+MV-INT-SAI-006-03,Clinch Arm Hook,Splice Tineleft,F2,Warrior,B
+MV-INT-SAI-006-04,Hip Check Slip,Grit Handknob,F2,Warrior,B
+MV-INT-SAI-006-05,Collar Fork Drag,Discord Clasp,F2,Warrior,B
+MV-INT-SAI-006-06,Short Rail Guard,Wristbuckle,F4,Warrior,B
+MV-INT-SAI-006-07,Grapple Breaking Twist,Burdening Wrest,F1,Warrior,B
+MV-INT-SAI-006-08,Close Range Triple Rap,Staticsnag,F5,Warrior,B
+MV-INT-SAI-007-01,Overhand Sai Hurl,Rushing Snag,F1,Warrior,B
+MV-INT-SAI-007-02,Underhand Lob Throw,Gleam Pinion,F2,Warrior,B
+MV-INT-SAI-007-03,Spare Sai Draw,Rill Prongbase,F2,Warrior,B
+MV-INT-SAI-007-04,Throwing Stance Plant,Clay Hiltpoint,F2,Warrior,B
+MV-INT-SAI-007-05,Weight Reading Distance,Gapwrist,F5,Warrior,B
+MV-INT-SAI-007-06,Qi-Tethered Recall,Poise Sanguard,F2,Warrior,B
+MV-INT-SAI-007-07,Spinning Flight Hurl,Twistthwack,F4,Warrior,B
+MV-INT-SAI-008-01,Lead Parry Rear Jab,Harsh Tineleft,F1,Warrior,B
+MV-INT-SAI-008-02,Cross Draw Cut Cover,Sleet Crossprong,F2,Warrior,B
+MV-INT-SAI-008-03,Left Right Hook Chain,Gagging Centerprong,F1,Warrior,B
+MV-INT-SAI-008-04,Outer Edge Double Block,Unmoving Handknob,F1,Warrior,B
+MV-INT-SAI-008-05,Alternate Foot Advance,Brawn Sidehook,F2,Warrior,B
+MV-INT-SAI-008-06,Passing Hand Handoff Strike,Prongscorer,F4,Warrior,B
+MV-INT-SAI-008-07,Weave Bind and Strike,Woven Hiltpoint,F1,Warrior,B
+MV-INT-SAI-008-08,Pincer Catch and Jab,Stamp Prongbase,F2,Warrior,B
+MV-INT-SAI-008-09,Falling Alternate Rap,Honedclasp,F5,Warrior,B
+MV-INT-SAI-005-01,Shelter Handknob,Firm Handknob,F2,Warrior,B

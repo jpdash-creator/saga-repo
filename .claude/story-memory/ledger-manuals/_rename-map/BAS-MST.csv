@@ -1,0 +1,67 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-MST-001-01,Spiked Head Overhead Drop,Short Spikedrop,F1,T1 Unawakened,A
+MV-BAS-MST-001-02,Two-Hand Haft Bar,Holding Shaftcollar,F1,T1 Unawakened,A
+MV-BAS-MST-001-03,Low Stud Rake,Low Studcrush,F1,T1 Unawakened,A
+MV-BAS-MST-001-04,Ball Weight Settle,Ballpace,F4,T1 Unawakened,A
+MV-BAS-MST-001-05,Haft Slant Slide,Angled Shaftcollar,F1,T1 Unawakened,A
+MV-BAS-MST-001-06,Top Spike Jab,Straight Topspike,F1,T1 Unawakened,A
+MV-BAS-MST-002-01,Ball Hoist Stance,Raised Spikeball,F1,T1 Skin,A
+MV-BAS-MST-002-02,Crown Knock Swing,Crunchblow,F4,T1 Skin,A
+MV-BAS-MST-002-03,Capped Butt Jab,Burrdrop,F4,T1 Skin,A
+MV-BAS-MST-002-04,Forearm Burr Scrape,Catching Thornbite,F1,T1 Skin,A
+MV-BAS-MST-002-05,Step Behind the Ball,Sideways Crunch,F1,T1 Skin,A
+MV-BAS-MST-003-01,Thorn Shaft Shoulder Carry,Resting Headspike,F1,T1 Muscle,A
+MV-BAS-MST-003-02,Pendulum Ball Lift,Upward Maul,F1,T1 Muscle,A
+MV-BAS-MST-003-03,Forward Muscle Drive,Pummelhit,F4,T1 Muscle,A
+MV-BAS-MST-003-04,Ribcage Thorn Hook,Ballblow,F4,T1 Muscle,A
+MV-BAS-MST-003-05,Flat Haft Sweep Block,Solid Shaftcollar,F1,T1 Muscle,A
+MV-BAS-MST-003-06,Spin and Knuckle Rap,Crunchstrike,F4,T1 Muscle,A
+MV-BAS-MST-003-07,Rebound and Retire,Nimble Spikedrop,F1,T1 Muscle,A
+MV-BAS-MST-004-01,Wrist Roll Whirl,Maulblow,F4,T1 Tendon,A
+MV-BAS-MST-004-02,Tendon Snap Crack,Thistlehit,F4,T1 Tendon,A
+MV-BAS-MST-004-03,Counterweight Pull Back,Kept Spikering,F1,T1 Tendon,A
+MV-BAS-MST-004-04,Sleeve Spike Catch,Hitching Spikebase,F1,T1 Tendon,A
+MV-BAS-MST-004-05,Half-Step Haft Slide,Maulpace,F4,T1 Tendon,A
+MV-BAS-MST-004-06,Head and Cap Cross,Plain Prickball,F1,T1 Tendon,A
+MV-BAS-MST-005-01,Bone Anvil Stance,Planted Spikebase,F1,T1 Bone,A
+MV-BAS-MST-005-02,Long Arc Spike Hammer,Burrbump,F4,T1 Bone,A
+MV-BAS-MST-005-03,Collarbone Burr Strike,Burrstrike,F4,T1 Bone,A
+MV-BAS-MST-005-04,Haft Hilt Press,Locking Topspike,F1,T1 Bone,A
+MV-BAS-MST-005-05,Backswing Stud Return,Square Thornbite,F1,T1 Bone,A
+MV-BAS-MST-005-06,Ox Shoulder Haft Barge,Blunt Studball,F1,T1 Bone,A
+MV-BAS-MST-005-07,Knee Thorn Chop,Mauldrop,F4,T1 Bone,A
+MV-BAS-MST-005-08,Plain Guard Return,Ready Spikering,F1,T1 Bone,A
+MV-BAS-MST-006-01,Orb Breath Swing,Open Thornball,F1,Senior L1 Low,A
+MV-BAS-MST-006-02,Circling Orb Rake,Level Prickball,F1,Senior L1 Low,A
+MV-BAS-MST-006-03,Haft Parry and Return,Settled Headspike,F1,Senior L1 Low,A
+MV-BAS-MST-006-04,Spike Landing Thrust,Single Topspike,F1,Senior L1 Low,A
+MV-BAS-MST-006-05,Orb Drop Guard,Lowered Ballsocket,F1,Senior L1 Low,A
+MV-BAS-MST-006-06,Breath-Step Advance,Stepping Pummel,F1,Senior L1 Low,A
+MV-BAS-MST-006-07,Cap Knuckle Rap,Balldash,F4,Senior L1 Low,A
+MV-BAS-MST-007-01,Burr Head Plain Drop,Hard Thornbite,F1,Senior L2 Low,A
+MV-BAS-MST-007-02,Burr Head Side Whip,Pummelstrike,F4,Senior L2 Low,A
+MV-BAS-MST-007-03,Shaft Cross Catch,Tight Shaftcollar,F1,Senior L2 Low,A
+MV-BAS-MST-007-04,Burr Pull Drag,Burrwedge,F4,Senior L2 Low,A
+MV-BAS-MST-007-05,Pivot Behind the Haft,Swaying Maul,F1,Senior L2 Low,A
+MV-BAS-MST-008-01,Thistle Head Lob,Descending Prickball,F1,Senior L4 Mid,A
+MV-BAS-MST-008-02,Weight-Led Swing,Thistledash,F4,Senior L4 Mid,A
+MV-BAS-MST-008-03,Thistle Haft Block,Snug Ballsocket,F1,Senior L4 Mid,A
+MV-BAS-MST-008-04,Backhand Thistle Flick,Sudden Spikering,F1,Senior L4 Mid,A
+MV-BAS-MST-008-05,Haft Slide Close,Thistletrot,F4,Senior L4 Mid,A
+MV-BAS-MST-008-06,Hook Spike Tug,Fixing Spikebase,F1,Senior L4 Mid,A
+MV-BAS-MST-009-01,Hedgehog Overhead Crash,Crunchdrop,F4,Senior L6 Low,A
+MV-BAS-MST-009-02,Hedgehog Roll Guard,Folded Spikebase,F1,Senior L6 Low,A
+MV-BAS-MST-009-03,Quill Thrust,Narrow Topspike,F1,Senior L6 Low,A
+MV-BAS-MST-009-04,Curled Head Hook,Thistlebump,F4,Senior L6 Low,A
+MV-BAS-MST-009-05,Nine Spike Tap,Pummeldash,F4,Senior L6 Low,A
+MV-BAS-MST-009-06,Shaft Turn Deflection,Snug Shaftcollar,F1,Senior L6 Low,A
+MV-BAS-MST-009-07,Sidestep and Drop,Skipping Crunch,F1,Senior L6 Low,A
+MV-BAS-MST-009-08,Hedgehog Settle,Hooding Ballsocket,F1,Senior L6 Low,A
+MV-BAS-MST-010-01,Haft Turn Forward Landing,Firm Spikedrop,F1,Senior L8 Mid,A
+MV-BAS-MST-010-02,Reverse Haft Turn Landing,Mauldash,F4,Senior L8 Mid,A
+MV-BAS-MST-010-03,Mark and Spike Drill,Thistleblow,F4,Senior L8 Mid,A
+MV-BAS-MST-010-04,Hand Change Guard,Raised Prickball,F1,Senior L8 Mid,A
+MV-BAS-MST-010-05,Spike Landing Pivot,Shifting Thornbite,F1,Senior L8 Mid,A
+MV-BAS-MST-010-06,Low Haft Trap Hold,Turning Studball,F1,Senior L8 Mid,A
+MV-BAS-MST-010-07,Landing Recovery,Kept Headspike,F1,Senior L8 Mid,A
+MV-BAS-MST-004-06,Plain Prickball,Brisk Prickball,F1,T1 Tendon,A

@@ -1,0 +1,144 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-TKN-001-01,Court Bow and Draw Salute,Eclipse Balanceblade,F2,Warrior,B
+MV-SIG-TKN-001-02,Formal Court Plumb Cast,Stickcrown,F4,Warrior,B
+MV-SIG-TKN-001-03,Court Hall Slide Step,Deluge Stick,F2,Warrior,B
+MV-SIG-TKN-001-04,Court Sleeve Spring Throw,Thunderclap Spinetip,F2,Warrior,B
+MV-SIG-TKN-001-05,Hall Pillar Rebound Cast,Peal Throwgrip,F2,Warrior,B
+MV-SIG-TKN-001-06,Court Edge Deflect Turn,Peal Pointguard,F2,Warrior,B
+MV-SIG-TKN-001-07,Azure Line Double Cast,Fearless Spineweight,F1,Champion,B
+MV-SIG-TKN-001-08,Court Pinning Lattice Throw,Tenet Edgeflat,F2,Champion,B
+MV-SIG-TKN-001-09,Court Chamber Final Volley,Season Thunk,F2,Demigod,B
+MV-SIG-TKN-001-10,Azure Court Closing Cast,Intrepid Thunderclap Weighttang,F6a,Warrior,B
+MV-SIG-TKN-002-01,Basin Shallow Stance Hold,Squalllodge,F5,Warrior,B
+MV-SIG-TKN-002-02,Basin Rim Skimming Throw,Unrivaled Flickthrow,F1,Warrior,B
+MV-SIG-TKN-002-03,Slow Water Sight Draw,Reminiscence Bladeflat,F2,Warrior,B
+MV-SIG-TKN-002-04,Spreading Ripple Throw Series,Thunderclap Flight,F2,Warrior,B
+MV-SIG-TKN-002-05,Basin Edge Flowing Parry,Parity Weighttang,F2,Warrior,B
+MV-SIG-TKN-002-06,Low Water Ankle Pin,Despotic Spinthrow,F1,Warrior,B
+MV-SIG-TKN-002-07,Gathering Pool Return Cast,Solarlean,F5,Warrior,B
+MV-SIG-TKN-002-08,Flood Front Blade Wave,Bedrock Lodge,F2,Champion,B
+MV-SIG-TKN-002-09,Basin Pointed Blade Snare,Shivpledge,F4,Champion,B
+MV-SIG-TKN-002-10,Basin Rising Flood Throw,Inferno Bladeflat,F2,Demigod,B
+MV-SIG-TKN-002-11,Basin Floods the Floor,Splendid Entropy Hiltweight,F6a,Warrior,B
+MV-SIG-TKN-003-01,Hawk Sight Narrowing Gaze,Eclipse Throwtang,F2,Champion,B
+MV-SIG-TKN-003-02,Mark Chalk Precision Toss,Inferno Throwtang,F2,Champion,B
+MV-SIG-TKN-003-03,Steady Wing Shoulder Brace,Solar Balanceblade,F2,Champion,B
+MV-SIG-TKN-003-04,Marked Hand Quiet Throw,Pealshiv,F5,Champion,B
+MV-SIG-TKN-003-05,Marked Joint Eye Cast,Prismflight,F5,Champion,B
+MV-SIG-TKN-003-06,Hunting Circle Slow Walk,Squall Edgeflat,F2,Champion,B
+MV-SIG-TKN-003-07,Heel Marking Pin Throw,Thrall Flight,F2,Champion,B
+MV-SIG-TKN-003-08,Hawk Feint Eye Cast,Flightseal,F4,Champion,B
+MV-SIG-TKN-003-09,Marked Quarry Tracking Cast,Prism Thunk,F2,Champion,B
+MV-SIG-TKN-003-10,Perched Watch Trap Cast,Hornbeam Pointguard,F2,Champion,B
+MV-SIG-TKN-003-11,Hawk Eye Marked Quarry Strike,Splendid Spinetip,F1,Demigod,B
+MV-SIG-TKN-003-12,Silent Hawk Stoop of One Blade,Paramount Hiltweight Crown,F6b,Champion,B
+MV-SIG-TKN-004-01,Twin River Left Bank Toss,Squall Stick,F2,Ruler,B
+MV-SIG-TKN-004-02,Twin River Right Bank Toss,Lordly Flickthrow,F1,Ruler,B
+MV-SIG-TKN-004-03,Joined Wrist Meeting Step,Dune Throwgrip,F2,Ruler,B
+MV-SIG-TKN-004-04,Dual Current Cross Cast,Spinetip Verdict,F3,Ruler,B
+MV-SIG-TKN-004-05,River Fork Parry Return,Prism Hiltweight,F2,Ruler,B
+MV-SIG-TKN-004-06,Twin Course Pinning Throw,Masterful Spineweight,F1,Ruler,B
+MV-SIG-TKN-004-07,Confluence Hand Volley,Millstone Spinthrow,F2,Ruler,B
+MV-SIG-TKN-004-08,River Weave Cord Spread,Thrallslim,F5,Ruler,B
+MV-SIG-TKN-004-09,Twin Rivers Joined Flood,Flighttriumph,F4,Demigod,B
+MV-SIG-TKN-004-10,Two Rivers Join in One Cast,Sovereign Weighttang,F1,Ruler,B
+MV-SIG-TKN-005-01,Track One Line Throw,Royal Bladeflat,F1,Demigod,B
+MV-SIG-TKN-005-02,Track Two Curved Throw,Balanceblade Edict,F3,Demigod,B
+MV-SIG-TKN-005-03,Paired Flight Hand Reset,Vigor Throwgrip,F2,Demigod,B
+MV-SIG-TKN-005-04,Dual Track Retreat Slide,Vigorthunk,F5,Demigod,B
+MV-SIG-TKN-005-05,Parallel Field Sweeping Cast,Seasonlodge,F5,Demigod,B
+MV-SIG-TKN-005-06,Offset Flight Feint,Pallstick,F5,Demigod,B
+MV-SIG-TKN-005-07,Flight Clasp Binding Throw,Unbending Pointguard,F1,Demigod,B
+MV-SIG-TKN-005-08,Parallel Rail Formation Cast,Statute Throwtang,F2,Demigod,B
+MV-SIG-TKN-005-09,Dual Track Chained Barrage,Season Spinthrow,F2,Demigod,B
+MV-SIG-TKN-005-10,Dual Track Highest Flight,Slimbanner,F4,Demigod,B
+MV-SIG-TKN-005-11,Two Tracks Drawn into One,Thunk Decree,F3,Demigod,B
+MV-SIG-TKN-006-01,Zenith Standing Reach,Interstice Pointguard,F2,Core Formation,B
+MV-SIG-TKN-006-02,High Arc Core Throw,Leanedict,F4,Core Formation,B
+MV-SIG-TKN-006-03,Core Pulse Wrist Loose,Bladeflat Largesse,F3,Core Formation,B
+MV-SIG-TKN-006-04,Azure Height Drop Cast,Squall Flickthrow,F2,Core Formation,B
+MV-SIG-TKN-006-05,Zenith Rising Step,Shivboon,F4,Core Formation,B
+MV-SIG-TKN-006-06,Core Edge Sky Parry,Edgeflat Covenant,F3,Core Formation,B
+MV-SIG-TKN-006-07,Blue Reach Pinning Cast,Thrall Lodge,F2,Core Formation,B
+MV-SIG-TKN-006-08,Sky Hold Drop Volley,Flightbanner,F4,Core Formation,B
+MV-SIG-TKN-006-09,Zenith Downpour Cast,Dunethunk,F5,Core Formation,B
+MV-SIG-TKN-006-10,Core Held Blade Lattice,Prismlean,F5,Core Formation,B
+MV-SIG-TKN-006-11,Azure Zenith Highest Edge,Vacuumlean,F5,Core Formation,B
+MV-SIG-TKN-006-12,Zenith of the Azure Sky Cast,Solarshiv,F5,Core Formation,B
+MV-SIG-TKN-007-01,Wind-Sworn Plain Stance Settle,Duneslim,F5,Warrior,B
+MV-SIG-TKN-007-02,Open Wind First Cast,Dauntless Thunk,F1,Warrior,B
+MV-SIG-TKN-007-03,Oath Whisper Draw Throw,Glacier Edgeflat,F2,Warrior,B
+MV-SIG-TKN-007-04,Gust Lean Sidestep Cast,Slimverdict,F4,Warrior,B
+MV-SIG-TKN-007-05,Plain Stance Wind Parry,Devout Spineweight,F1,Warrior,B
+MV-SIG-TKN-007-06,Wind Drift Curved Throw,Peerless Lodge,F1,Warrior,B
+MV-SIG-TKN-007-07,Wind Breaking Cord Cast,Entropy Spinthrow,F2,Warrior,B
+MV-SIG-TKN-007-08,Open Wind Scattering Cast,Spinetip Decree,F3,Champion,B
+MV-SIG-TKN-007-09,Wind Line Standing Trap,Dune Throwtang,F2,Champion,B
+MV-SIG-TKN-007-10,Wind-Sworn Flight Beyond Guard,Throwgrip Decree,F3,Demigod,B
+MV-SIG-TKN-007-11,Edge of the Open Wind,Magnificent Hiltweight,F1,Warrior,B
+MV-SIG-TKN-008-01,Plateau Footing Test Step,Squall Weighttang,F2,Warrior,B
+MV-SIG-TKN-008-02,Sworn Line Straight Throw,Heroic Spineweight,F1,Warrior,B
+MV-SIG-TKN-008-03,Rim Stone Lean Throw,Valiant Flickthrow,F1,Warrior,B
+MV-SIG-TKN-008-04,Plateau Cross Step Cast,Prismshiv,F5,Warrior,B
+MV-SIG-TKN-008-05,Oath Taken Edge Parry,Peal Spinetip,F2,Warrior,B
+MV-SIG-TKN-008-06,Sworn Hem Pin Cast,Thrall Stick,F2,Warrior,B
+MV-SIG-TKN-008-07,Plateau Reach Oath Volley,Magnificent Stick,F1,Champion,B
+MV-SIG-TKN-008-08,Held Oath Anchor Pin,Thrall Balanceblade,F2,Champion,B
+MV-SIG-TKN-008-09,Plateau Oath Cast of the Last Breath,Balanceblade Triumph,F3,Demigod,B
+MV-SIG-TKN-008-10,Throw Taken on Oath,Triumphant Quenched Flickthrow,F6a,Warrior,B
+MV-SIG-TKN-009-01,Bearing Stake Foot Setting,Squall Flight,F2,Champion,B
+MV-SIG-TKN-009-02,Oath Spoken Straight Cast,Inferno Pointguard,F2,Champion,B
+MV-SIG-TKN-009-03,Bearing Held Eye Throw,Hospitable Edgeflat,F1,Champion,B
+MV-SIG-TKN-009-04,Strain Steadied Edge Cast,Noble Lodge,F1,Champion,B
+MV-SIG-TKN-009-05,Pledge Bound Knife Hold,Parity Throwgrip,F2,Champion,B
+MV-SIG-TKN-009-06,Bearing Turn Guard Throw,Revered Weighttang,F1,Champion,B
+MV-SIG-TKN-009-07,Oath Fastened Sleeve Throw,Hornbeam Thunk,F2,Champion,B
+MV-SIG-TKN-009-08,Chain of Two Bearings,Bedrock Stick,F2,Champion,B
+MV-SIG-TKN-009-09,Bearing Corridor Standing Cast,Guileful Throwtang,F1,Champion,B
+MV-SIG-TKN-009-10,Oath Unyielding Piercing Cast,Illustrious Spinthrow,F1,Champion,B
+MV-SIG-TKN-009-11,Oath Bearing Final Release,Lodge Edict,F3,Demigod,B
+MV-SIG-TKN-009-12,Cast That Cannot Be Turned,Slimtriumph,F4,Champion,B
+MV-SIG-TKN-010-01,Open Ground Stand Without Cover,Deluge Flight,F2,Ruler,B
+MV-SIG-TKN-010-02,Long Pace Far Throw,Pulsar Spinthrow,F2,Ruler,B
+MV-SIG-TKN-010-03,Open Reach Measured Cast,Pulsarslim,F5,Ruler,B
+MV-SIG-TKN-010-04,Skyline Hold Distance Step,Squallslim,F5,Ruler,B
+MV-SIG-TKN-010-05,Reach Counter Lunge Cast,Parity Hiltweight,F2,Ruler,B
+MV-SIG-TKN-010-06,Open Plain Pressure Throw,Volition Flight,F2,Ruler,B
+MV-SIG-TKN-010-07,Far Edge Pin Cast,Imperious Flight,F1,Ruler,B
+MV-SIG-TKN-010-08,No Cover Blade Scatter,Tempestuous Spinetip,F2,Ruler,B
+MV-SIG-TKN-010-09,Standing Edge Line Trap,Leantroth,F4,Ruler,B
+MV-SIG-TKN-010-10,Open Reach Absolute Hold,Vaunted Balanceblade,F1,Demigod,B
+MV-SIG-TKN-010-11,Held by Reach Alone,Triumphant Volition Edgeflat,F6a,Ruler,B
+MV-SIG-TKN-011-01,Open Sky Upward Glance,Compassionate Spineweight,F1,Demigod,B
+MV-SIG-TKN-011-02,Sky Arc Straight Hurl,Thunderclap Throwgrip,F2,Demigod,B
+MV-SIG-TKN-011-03,Field Edge Wind Step,Bedrock Weighttang,F2,Demigod,B
+MV-SIG-TKN-011-04,Gale Lane Carry Cast,Sticktriumph,F4,Demigod,B
+MV-SIG-TKN-011-05,Edge Return Updraft Catch,Clement Pointguard,F1,Demigod,B
+MV-SIG-TKN-011-06,Open Sky Parry Cast,Parity Spineweight,F2,Demigod,B
+MV-SIG-TKN-011-07,Gale Carried Area Rain,Sovereign Hiltweight,F1,Demigod,B
+MV-SIG-TKN-011-08,Gale Lane Corridor Trap,Beguiling Bladeflat,F1,Demigod,B
+MV-SIG-TKN-011-09,Open Sky Finest Cast,Vacuumstick,F5,Demigod,B
+MV-SIG-TKN-011-10,Edge the Gale Carries Home,Imperial Steel Thunk,F6a,Demigod,B
+MV-SIG-TKN-012-01,High Bearing Alignment Stance,Peal Bladeflat,F2,Core Formation,B
+MV-SIG-TKN-012-02,Core Loose Release Throw,Prism Stick,F2,Core Formation,B
+MV-SIG-TKN-012-03,Held Bearing Soft Step,Twilit Throwgrip,F1,Core Formation,B
+MV-SIG-TKN-012-04,Wind Held High Cast,Vaunted Thunk,F1,Core Formation,B
+MV-SIG-TKN-012-05,Core Bearing Qi Throw,Gallant Pointguard,F1,Core Formation,B
+MV-SIG-TKN-012-06,Bearing Swept Parry Return,Phantasm Throwtang,F2,Core Formation,B
+MV-SIG-TKN-012-07,High Edge Pinning Cast,Thralllean,F5,Core Formation,B
+MV-SIG-TKN-012-08,Bearing Link Chain Cast,Magnificent Spinetip,F1,Core Formation,B
+MV-SIG-TKN-012-09,High Bearing Rain Cast,Inferno Flickthrow,F2,Core Formation,B
+MV-SIG-TKN-012-10,Core Held Bearing Lattice,Shivtroth,F4,Core Formation,B
+MV-SIG-TKN-012-11,Wind Bearing Peak Cast,Flightdecree,F4,Core Formation,B
+MV-SIG-TKN-012-12,Highest Release on One Bearing,Shivdecree,F4,Core Formation,B
+MV-SIG-TKN-001-10,Intrepid Thunderclap Weighttang,Intrepid Weighttang,F6a,Warrior,B
+MV-SIG-TKN-002-11,Splendid Entropy Hiltweight,Splendid Hiltweight,F6a,Warrior,B
+MV-SIG-TKN-003-10,Hornbeam Pointguard,Cunning Pointguard,F2,Champion,B
+MV-SIG-TKN-003-12,Paramount Hiltweight Crown,Paramount Hiltweight,F6b,Champion,B
+MV-SIG-TKN-004-03,Dune Throwgrip,Swift Throwgrip,F2,Ruler,B
+MV-SIG-TKN-007-03,Glacier Edgeflat,Dauntless Edgeflat,F2,Warrior,B
+MV-SIG-TKN-007-09,Dune Throwtang,Snaring Throwtang,F2,Champion,B
+MV-SIG-TKN-008-10,Triumphant Quenched Flickthrow,Triumphant Flickthrow,F6a,Warrior,B
+MV-SIG-TKN-009-07,Hornbeam Thunk,Fettering Thunk,F2,Champion,B
+MV-SIG-TKN-010-11,Triumphant Volition Edgeflat,Triumphant Edgeflat,F6a,Ruler,B
+MV-SIG-TKN-011-10,Imperial Steel Thunk,Imperial Thunk,F6a,Demigod,B

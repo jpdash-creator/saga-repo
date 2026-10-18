@@ -1,0 +1,86 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-SPR-001-01,Contact-Hold Pressing Thrust,Bold Heelspike,F1,Senior L3 Low,A
+MV-INT-SPR-001-02,Armpit Seeker Jab,Fierce Leafhead,F1,Senior L3 Low,A
+MV-INT-SPR-001-03,Elbow-Crook Hook Press,Levering Stretch,F1,Senior L3 Low,A
+MV-INT-SPR-001-04,Heel-Drag Closing Step,Twirlcurl,F4,Senior L3 Low,A
+MV-INT-SPR-001-05,Hip-Line Shield Turn,Stalwart Spearpoint,F1,Senior L3 Low,A
+MV-INT-SPR-001-06,Qi-Fed Pressing Drive,Slideshaft Flog,F3,Senior L3 Low,A
+MV-INT-SPR-001-07,Rolling Wrist Disengage Thrust,Brisk Bladewings,F1,Senior L3 Low,A
+MV-INT-SPR-002-01,Overhand Cycle Starter Thrust,Thrustflog,F4,Senior L5 Mid,A
+MV-INT-SPR-002-02,Underhand Cycle Starter Jab,Keen Collarband,F1,Senior L5 Mid,A
+MV-INT-SPR-002-03,Mirror-Side Parry Cycle,Sturdy Longshaft,F1,Senior L5 Mid,A
+MV-INT-SPR-002-04,Cycle-Break Shuffle Step,Beatback Stalk,F3,Senior L5 Mid,A
+MV-INT-SPR-002-05,Haft-Turn Quick Cover,Buttressed Buttshoe,F1,Senior L5 Mid,A
+MV-INT-SPR-002-06,Wood-Sliding Hand Switch,Entangling Bindcord,F1,Senior L5 Mid,A
+MV-INT-SPR-002-07,Four-Beat Cycling Attack,Vicious Ferrule,F1,Senior L5 Mid,A
+MV-INT-SPR-002-08,Counter-Cycle Haft Sweep,Buttshoe Barrier,F3,Senior L5 Mid,A
+MV-INT-SPR-002-09,Qi-Wheel Spear Screen,Dense Ferrule,F1,Senior L5 Mid,A
+MV-INT-SPR-003-01,Two-Step Chasing Thrust,Socketswat,F4,Senior L7 Low,A
+MV-INT-SPR-003-02,Slide-and-Settle Jab,Ruthless Pushthrough,F1,Senior L7 Low,A
+MV-INT-SPR-003-03,Hop-Back Point Cover,Scudding Bindcord,F1,Senior L7 Low,A
+MV-INT-SPR-003-04,Side-Skip Flank Prick,Raw Beatback,F1,Senior L7 Low,A
+MV-INT-SPR-003-05,Cross-Over Rear Step,Prowling Heelspike,F1,Senior L7 Low,A
+MV-INT-SPR-003-06,Pause-Step Rhythm Break,Cramping Spearpoint,F1,Senior L7 Low,A
+MV-INT-SPR-003-07,Triple-Step Spear Ladder,Twofold Slideshaft,F1,Senior L7 Low,A
+MV-INT-SPR-003-08,Stagger-Step Lunge Combination,Rugged Longshaft,F1,Senior L7 Low,A
+MV-INT-SPR-004-01,Shaft-Contact Pressure Bind,Binding Leafhead,F1,Senior L9 Low,A
+MV-INT-SPR-004-02,Sliding Haft Catch,Viselike Pushthrough,F1,Senior L9 Low,A
+MV-INT-SPR-004-03,Under-Haft Lever Lift,Collarband Hasp,F3,Senior L9 Low,A
+MV-INT-SPR-004-04,Pressing Throat Pin,Clutching Bladewings,F1,Senior L9 Low,A
+MV-INT-SPR-004-05,Bound-Shaft Retreat Draw,Stubborn Ferrule,F1,Senior L9 Low,A
+MV-INT-SPR-004-06,Haft-Weight Leaning Press,Burdening Stretch,F1,Senior L9 Low,A
+MV-INT-SPR-004-07,Binding Circle Release Thrust,Spearscorer,F4,Senior L9 Low,A
+MV-INT-SPR-004-08,Haft-Lock Spiral Steer,Tethering Bladewings,F1,Senior L9 Low,A
+MV-INT-SPR-004-09,Qi-Anchored Bind Hold,Pointbarrier,F4,Senior L9 Low,A
+MV-INT-SPR-005-01,Guarding-Lunge Thrust,Spearslap,F4,Warrior L1 Low,B
+MV-INT-SPR-005-02,Lunge-Recovery Guard Hold,Unmoving Longshaft,F1,Warrior L1 Low,B
+MV-INT-SPR-005-03,Rear-Leg Spring Lunge,Gritsocket,F5,Warrior L1 Low,B
+MV-INT-SPR-005-04,Knee-Level Stop Jab,Pointswat,F4,Warrior L1 Low,B
+MV-INT-SPR-005-05,Haft-Raised Lunge Cover,Rill Spearpoint,F2,Warrior L1 Low,B
+MV-INT-SPR-005-06,Back-Foot Pull Reset,Rillthrust,F5,Warrior L1 Low,B
+MV-INT-SPR-005-07,Lunge-and-Slip Counter Thrust,Comettwirl,F5,Warrior L1 Low,B
+MV-INT-SPR-005-08,Qi-Set Lunge Brace,Shielding Heelspike,F1,Warrior L1 Low,B
+MV-INT-SPR-006-01,Hanging-Point Guard Stance,Armored Leafhead,F1,Warrior L2 Mid,B
+MV-INT-SPR-006-02,Drop-Tip Piercing Strike,Lurching Collarband,F1,Warrior L2 Mid,B
+MV-INT-SPR-006-03,Slanting Haft Slide Away,Poise Buttshoe,F2,Warrior L2 Mid,B
+MV-INT-SPR-006-04,Rear-Hand High Hold,Kindly Bindcord,F1,Warrior L2 Mid,B
+MV-INT-SPR-006-05,Qi-Hung Overhead Cover,Padded Bindcord,F1,Warrior L2 Mid,B
+MV-INT-SPR-006-06,High-to-Low Switch Thrust,Twirlflog,F4,Warrior L2 Mid,B
+MV-INT-SPR-006-07,Guard-Breaking Haft Hammer,Duskthrust,F5,Warrior L2 Mid,B
+MV-INT-SPR-007-01,Wide Haft Arc Sweep,Pointslap,F4,Warrior L4 Low,B
+MV-INT-SPR-007-02,Low Arc Calf Sweep,Wild Beatback,F1,Warrior L4 Low,B
+MV-INT-SPR-007-03,Overhead Ring Strike,Harsh Slideshaft,F1,Warrior L4 Low,B
+MV-INT-SPR-007-04,Arc-Closing Step In,Gritspear,F5,Warrior L4 Low,B
+MV-INT-SPR-007-05,Sweep-Return Guard,Guarding Heelspike,F1,Warrior L4 Low,B
+MV-INT-SPR-007-06,Outer-Edge Clearing Beat,Gall Pushthrough,F2,Warrior L4 Low,B
+MV-INT-SPR-007-07,Sweep-to-Thrust Turn,Principle Stretch,F2,Warrior L4 Low,B
+MV-INT-SPR-007-08,Two-Arc Crossing Sweep,Acrid Bladewings,F1,Warrior L4 Low,B
+MV-INT-SPR-007-09,Qi-Edged Sweeping Strike,Momentsocket,F5,Warrior L4 Low,B
+MV-INT-SPR-008-01,Ranked-Line Count Thrust,Collarband Flog,F3,Warrior L6 Mid,B
+MV-INT-SPR-008-02,Close-Ranks Shoulder Shift,Thrustcurl,F4,Warrior L6 Mid,B
+MV-INT-SPR-008-03,Braced-Heel Line Hold,Rill Leafhead,F2,Warrior L6 Mid,B
+MV-INT-SPR-008-04,Over-Shield Reach Jab,Spearthwack,F4,Warrior L6 Mid,B
+MV-INT-SPR-008-05,Drill-Count Reset Step,Springing Buttshoe,F1,Warrior L6 Mid,B
+MV-INT-SPR-008-06,Marching Haft Carry,Genial Spearpoint,F1,Warrior L6 Mid,B
+MV-INT-SPR-008-07,Lowered-Point Wall Thrust,Twirlthwack,F4,Warrior L6 Mid,B
+MV-INT-SPR-008-08,Qi-Shared Line Brace,Sleet Longshaft,F2,Warrior L6 Mid,B
+MV-INT-SPR-008-09,Pull-and-Strike Rank Rotation,Omen Beatback,F2,Warrior L6 Mid,B
+MV-INT-SPR-009-01,False-Point High Feint,Stalling Stretch,F1,Warrior L8 High,B
+MV-INT-SPR-009-02,Committed Belly Thrust,Honed Ferrule,F2,Warrior L8 High,B
+MV-INT-SPR-009-03,Shoulder-Dip False Lunge,Miragesocket,F5,Warrior L8 High,B
+MV-INT-SPR-009-04,Reading Eye Hold,Recall Longshaft,F2,Warrior L8 High,B
+MV-INT-SPR-009-05,Delay-Beat Thrust,Staticpoint,F5,Warrior L8 High,B
+MV-INT-SPR-009-06,Feint-Recovery Step Out,Brawnspear,F5,Warrior L8 High,B
+MV-INT-SPR-009-07,Double-Layer Feint Thrust,Purpose Slideshaft,F2,Warrior L8 High,B
+MV-INT-SPR-009-08,Cutting-Away Disengage Jab,Swift Pushthrough,F1,Warrior L8 High,B
+MV-INT-SPR-009-09,Qi-Quickened Point Change,Thrustslap,F4,Warrior L8 High,B
+MV-INT-SPR-010-01,Meeting Thrust at Full Reach,Socketslap,F4,Warrior L9 Peak,B
+MV-INT-SPR-010-02,Parry-Thrust in One Beat,Haze Collarband,F2,Warrior L9 Peak,B
+MV-INT-SPR-010-03,Slip-and-Return Prick,Twirlslap,F4,Warrior L9 Peak,B
+MV-INT-SPR-010-04,Return-Step Gap Keeper,Lithe Beatback,F1,Warrior L9 Peak,B
+MV-INT-SPR-010-05,Sidelong Shaft Check,Draught Leafhead,F2,Warrior L9 Peak,B
+MV-INT-SPR-010-06,Over-Reach Lure Step,Pointscreen,F4,Warrior L9 Peak,B
+MV-INT-SPR-010-07,Haft-Slide Counter Turn,Poise Bindcord,F2,Warrior L9 Peak,B
+MV-INT-SPR-010-08,Parry-Driven Counter Series,Plied Bladewings,F1,Warrior L9 Peak,B
+MV-INT-SPR-010-09,Return-Step Piercing Counter,Thrustswat,F4,Warrior L9 Peak,B
+MV-INT-SPR-010-10,Qi-Backed Counter Beat,Gagging Pushthrough,F1,Warrior L9 Peak,B

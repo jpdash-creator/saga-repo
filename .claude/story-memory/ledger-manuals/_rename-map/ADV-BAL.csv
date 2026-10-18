@@ -1,0 +1,92 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-BAL-001-01,Great Bolt Shoulder Carry,Daybreak Trackbed,F2,Champion L1 Low,B
+MV-ADV-BAL-001-02,Double Pawl Safe Hold,Charter Bowarms,F2,Champion L1 Low,B
+MV-ADV-BAL-001-03,Skein Heat Soak Check,Sustaining Bolthead,F1,Champion L1 Low,B
+MV-ADV-BAL-001-04,Shaft Straightness Roll,Expanse Springarm,F2,Champion L1 Low,B
+MV-ADV-BAL-001-05,Great Bolt Full Draw,Streaktorment,F4,Champion L1 Low,B
+MV-ADV-BAL-001-06,Locked Shield Ripper,Glint Skewerbolt,F2,Champion L1 Low,B
+MV-ADV-BAL-001-07,Palisade Splitter Bolt,Raging Sinewcord,F1,Champion L1 Low,B
+MV-ADV-BAL-001-08,Gathered Arms Charger Stopper,Cleaving Boltflight,F1,Champion L1 Low,B
+MV-ADV-BAL-002-01,Stride Spaced Engine Line,Windlassdrum Elixir,F3,Champion L6 Mid,B
+MV-ADV-BAL-002-02,Shared Drum Count,Remnant Aimframe,F2,Champion L6 Mid,B
+MV-ADV-BAL-002-03,Neighbour Bolt Handing,Renewing Aimframe,F1,Champion L6 Mid,B
+MV-ADV-BAL-002-04,Dust Cloud Aim Holding,Verity Windlassdrum,F2,Champion L6 Mid,B
+MV-ADV-BAL-002-05,Rippling Line Release,Granite Impalement,F2,Champion L6 Mid,B
+MV-ADV-BAL-002-06,Cross Aimed Neighbours,Splitting Stakedrive,F1,Champion L6 Mid,B
+MV-ADV-BAL-002-07,Fallen Neighbour Gap Slide,Racing Sinewcord,F1,Champion L6 Mid,B
+MV-ADV-BAL-002-08,Massed Line Hammer,Shadeslider,F5,Champion L6 Mid,B
+MV-ADV-BAL-002-09,Concerted Reply to a Charge,Lot Trackbed,F2,Champion L6 Mid,B
+MV-ADV-BAL-003-01,Tenth Heartbeat Breathing,Might Bolthead,F2,Demigod L1 Low,B
+MV-ADV-BAL-003-02,Eye Narrowing Qi Focus,Vigorous Stockbed,F1,Demigod L1 Low,B
+MV-ADV-BAL-003-03,Morning and Noon Skein Test,Waning Bowarms,F2,Demigod L1 Low,B
+MV-ADV-BAL-003-04,Far Mark Notch Walk,Fortifying Springarm,F1,Demigod L1 Low,B
+MV-ADV-BAL-003-05,Forearm Rail Rest,Might Aimframe,F2,Demigod L1 Low,B
+MV-ADV-BAL-003-06,Last Mark Lift,Staketorment,F4,Demigod L1 Low,B
+MV-ADV-BAL-003-07,Far Courier Stopping Bolt,Glintclaw,F5,Demigod L1 Low,B
+MV-ADV-BAL-003-08,Bending Grass Correction,Anointing Trackbed,F1,Demigod L1 Low,B
+MV-ADV-BAL-003-09,Horizon Piercing Bolt,Ironhurtle,F5,Demigod L1 Low,B
+MV-ADV-BAL-003-10,Held Breath Perfect Bolt,Streakassault,F4,Demigod L1 Low,B
+MV-ADV-BAL-004-01,Slope Foothold Chopping,Hoarfrost Stockbed,F2,Demigod L3 Mid,B
+MV-ADV-BAL-004-02,Long String Resin Coat,Windlassdrum Remedy,F3,Demigod L3 Mid,B
+MV-ADV-BAL-004-03,Winch Bar Hand Spacing,Daybreak Springarm,F2,Demigod L3 Mid,B
+MV-ADV-BAL-004-04,Extended Rail Finger Check,Restoring Sinewcord,F1,Demigod L3 Mid,B
+MV-ADV-BAL-004-05,Two Stage Winding,Equipoise Bolthead,F2,Demigod L3 Mid,B
+MV-ADV-BAL-004-06,Camp Beyond the Ridge Hurl,Hurtletorment,F4,Demigod L3 Mid,B
+MV-ADV-BAL-004-07,Farthest Notch Throw,Needling Skewerbolt,F1,Demigod L3 Mid,B
+MV-ADV-BAL-004-08,Humming Arms Gathered Heave,Rumblestake,F5,Demigod L3 Mid,B
+MV-ADV-BAL-005-01,Paired Crew Breath,Verity Bowarms,F2,Champion L3 Low,B
+MV-ADV-BAL-005-02,Basin Rim Sight Setting,Sinewcord Linctus,F3,Champion L3 Low,B
+MV-ADV-BAL-005-03,Twin Cord Wind,Equipoise Trackbed,F2,Champion L3 Low,B
+MV-ADV-BAL-005-04,River Bank Firm Footing,Granite Windlassdrum,F2,Champion L3 Low,B
+MV-ADV-BAL-005-05,Twin Bolt Crossing,Gustslider,F5,Champion L3 Low,B
+MV-ADV-BAL-005-06,Azure Alternating Beat,Tearing Impalement,F1,Champion L3 Low,B
+MV-ADV-BAL-005-07,Hawk Dive Elevation,Rumbleclaw,F5,Champion L3 Low,B
+MV-ADV-BAL-005-08,Dual Track Pair Volley,Successive Intent Stockbed,F6a,Champion L3 Low,B
+MV-ADV-BAL-005-09,Basin Crossfire Closing,Granite Boltflight,F2,Champion L3 Low,B
+MV-ADV-BAL-006-01,Hawk Eye Sight Opening,Waning Aimframe,F2,Demigod L2 Low,B
+MV-ADV-BAL-006-02,Twin Pin Alignment,Stockbed Remedy,F3,Demigod L2 Low,B
+MV-ADV-BAL-006-03,Sky Glare Brim Tilt,Remnant Springarm,F2,Demigod L2 Low,B
+MV-ADV-BAL-006-04,Pin Wipe at the Wrist,Daybreak Bowarms,F2,Demigod L2 Low,B
+MV-ADV-BAL-006-05,River Mist Leaning Vapour,Rousing Bolthead,F1,Demigod L2 Low,B
+MV-ADV-BAL-006-06,Second Aimer Half Step,Blurring Stakedrive,F1,Demigod L2 Low,B
+MV-ADV-BAL-006-07,Double Pin Snap Shot,Rumble Stakedrive,F2,Demigod L2 Low,B
+MV-ADV-BAL-006-08,Hawk's Single Choice,Hollowhurtle,F5,Demigod L2 Low,B
+MV-ADV-BAL-006-09,Basin Wide Scan Hold,Mindful Trackbed,F1,Demigod L2 Low,B
+MV-ADV-BAL-006-10,Stoop of the Twin Sight,Facet Boltflight,F2,Demigod L2 Low,B
+MV-ADV-BAL-006-11,Eye of the Azure Basin,Blazestake,F5,Demigod L2 Low,B
+MV-ADV-BAL-007-01,Gravel Bar Tail Spike,Mantled Bowarms,F1,Demigod L5 Low,B
+MV-ADV-BAL-007-02,Ford Marking Posts,Remnant Sinewcord,F2,Demigod L5 Low,B
+MV-ADV-BAL-007-03,Oiled Cloth Skein Wrapping,Heartening Aimframe,F1,Demigod L5 Low,B
+MV-ADV-BAL-007-04,Reed Screen Raising,Charter Stockbed,F2,Demigod L5 Low,B
+MV-ADV-BAL-007-05,Shallows Halting Bolts,Clawbarrage,F4,Demigod L5 Low,B
+MV-ADV-BAL-007-06,Waterline Plank Tearing,Iron Impalement,F2,Demigod L5 Low,B
+MV-ADV-BAL-007-07,Ford Closing Volley,Skewerbolt Cloak,F3,Demigod L5 Low,B
+MV-ADV-BAL-007-08,Current Timed Bend Battery,Boltflight Barrage,F3,Demigod L5 Low,B
+MV-ADV-BAL-008-01,Planked Deck Stance,Charter Springarm,F2,Ruler L1 Low,B
+MV-ADV-BAL-008-02,Lashing Salt Rot Check,Waning Bolthead,F2,Ruler L1 Low,B
+MV-ADV-BAL-008-03,Tarred Cloth Skein Wrap,Vital Windlassdrum,F2,Ruler L1 Low,B
+MV-ADV-BAL-008-04,Swell Length Counting,Nursing Bowarms,F1,Ruler L1 Low,B
+MV-ADV-BAL-008-05,Wind Oath Winding Chant,Equipoise Stockbed,F2,Ruler L1 Low,B
+MV-ADV-BAL-008-06,Crest Rising Loose,Nova Stakedrive,F2,Ruler L1 Low,B
+MV-ADV-BAL-008-07,Gunwale Raking Bolt,Intentslider,F5,Ruler L1 Low,B
+MV-ADV-BAL-008-08,Oar Bank Snapping Bolt,Lancing Impalement,F1,Ruler L1 Low,B
+MV-ADV-BAL-008-09,Mast Foot Cracking Bolt,Streakbarrage,F4,Ruler L1 Low,B
+MV-ADV-BAL-008-10,Oath of the Steady Bearing,Nova Skewerbolt,F2,Ruler L1 Low,B
+MV-ADV-BAL-009-01,Plateau Edge Back Stride,Thorn Slider,F2,Demigod L1 Mid,B
+MV-ADV-BAL-009-02,Open Wind Reading,Verity Aimframe,F2,Demigod L1 Mid,B
+MV-ADV-BAL-009-03,Cairn Stone Range Marks,Bolthead Elixir,F3,Demigod L1 Mid,B
+MV-ADV-BAL-009-04,Cold Skein Palm Warming,Intent Sinewcord,F2,Demigod L1 Mid,B
+MV-ADV-BAL-009-05,Down Slope Gaining Throw,Transfixing Skewerbolt,F1,Demigod L1 Mid,B
+MV-ADV-BAL-009-06,Gust Lull Correcting Bolt,Facet Streak,F2,Demigod L1 Mid,B
+MV-ADV-BAL-009-07,Climbing Rider Checking Shot,Stakeassault,F4,Demigod L1 Mid,B
+MV-ADV-BAL-009-08,Bearing Held Across the Gale,Sliderassault,F4,Demigod L1 Mid,B
+MV-ADV-BAL-009-09,Plateau Oath Bolt,Hurtlethrash,F4,Demigod L1 Mid,B
+MV-ADV-BAL-010-01,Cliff Lip Chocking,Unbroken Windlassdrum,F1,Champion L8 Mid,B
+MV-ADV-BAL-010-02,Gust Gap Timing,Waning Claw,F2,Champion L8 Mid,B
+MV-ADV-BAL-010-03,Bearing Stake Driving,Might Springarm,F2,Champion L8 Mid,B
+MV-ADV-BAL-010-04,Corded Spare Bolt Rail,Perceptive Trackbed,F1,Champion L8 Mid,B
+MV-ADV-BAL-010-05,Climber Dislodging Bolt,Clawthrash,F4,Champion L8 Mid,B
+MV-ADV-BAL-010-06,Lip Skimming Low Shot,Streakthrash,F4,Champion L8 Mid,B
+MV-ADV-BAL-010-07,Drop Edge Hurl,Sliderbarrage,F4,Champion L8 Mid,B
+MV-ADV-BAL-010-08,Held Bearing Ledge Volley,Clawassault,F4,Champion L8 Mid,B
+MV-ADV-BAL-001-04,Expanse Springarm,Clear Springarm,F2,Champion L1 Low,B

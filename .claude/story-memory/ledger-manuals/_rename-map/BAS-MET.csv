@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-MET-001-01,Plain Overhead Drop,Cablestrike,F4,Unawakened,A
+MV-BAS-MET-001-02,Short Rope Jab,Stiff Slingshot,F1,Unawakened,A
+MV-BAS-MET-001-03,Waist Wheel Swing,Pondererbump,F4,Unawakened,A
+MV-BAS-MET-001-04,Cord Catch Parry,Holding Weighttip,F1,Unawakened,A
+MV-BAS-MET-001-05,Backstep Rope Pull,Whorlhop,F4,Unawakened,A
+MV-BAS-MET-001-06,Shoulder Loop Guard,Dropweight Pause,F3,Unawakened,A
+MV-BAS-MET-002-01,Lazy Pendulum Bob,Sudden Orbitband,F1,Skin,A
+MV-BAS-MET-002-02,Slack Rope Flick,Fixing Cordsplice,F1,Skin,A
+MV-BAS-MET-002-03,Two-Hand Haul Parry,Cablepause,F4,Skin,A
+MV-BAS-MET-002-04,Stone-Footed Sidestep,Light Meteorhead,F1,Skin,A
+MV-BAS-MET-002-05,Knee-Level Dragging Swing,Low Longrope,F1,Skin,A
+MV-BAS-MET-003-01,Roadside Overhand Crack,Gyrehit,F4,Muscle,A
+MV-BAS-MET-003-02,Staff Wrap and Tug,Plummet Lid,F3,Muscle,A
+MV-BAS-MET-003-03,Wrist Spin Release,Gyreblow,F4,Muscle,A
+MV-BAS-MET-003-04,Elbow-Braced Cord Block,Plumbwedge,F4,Muscle,A
+MV-BAS-MET-003-05,Two-Pace Retreat Whirl,Cabletrot,F4,Muscle,A
+MV-BAS-MET-003-06,Ankle Loop Trip,Pushing Revolve,F1,Muscle,A
+MV-BAS-MET-003-07,Cartwheel Hammer Drop,Hard Gyre,F1,Muscle,A
+MV-BAS-MET-004-01,Steady Ring Guard,Plumblid,F4,Tendon,A
+MV-BAS-MET-004-02,Ring Break Outward,Firm Loopend,F1,Tendon,A
+MV-BAS-MET-004-03,Ring Draw Inward,Hitching Tailstone,F1,Tendon,A
+MV-BAS-MET-004-04,Backhand Cord Hook,Nabbing Slingshot,F1,Tendon,A
+MV-BAS-MET-004-05,Ring Switch Footwork,Weightneck Amble,F3,Tendon,A
+MV-BAS-MET-004-06,Rim Tap Strike,Gyre Bump,F3,Tendon,A
+MV-BAS-MET-005-01,Cord Walk Advance,Reelback Hop,F3,Bone,A
+MV-BAS-MET-005-02,Cord Walk Retreat,Backward Reelback,F1,Bone,A
+MV-BAS-MET-005-03,Forward Cord Lunge,Flat Plummet,F1,Bone,A
+MV-BAS-MET-005-04,Hip-Turn Slinging Blow,Hard Weightneck,F1,Bone,A
+MV-BAS-MET-005-05,Over-Shoulder Cord Parry,Plumbstay,F4,Bone,A
+MV-BAS-MET-005-06,Pivot Ring Swat,Cordsplice Cowl,F3,Bone,A
+MV-BAS-MET-005-07,Planted-Foot Cord Drag,Fouling Loopend,F1,Bone,A
+MV-BAS-MET-005-08,Cord Length Probe,Gentle Longrope,F1,Bone,A
+MV-BAS-MET-006-01,Thread-Fed Overhead Drop,Straight Dropweight,F1,Senior,A
+MV-BAS-MET-006-02,Breath-Taut Flank Wheel,Quick Ropehead,F1,Senior,A
+MV-BAS-MET-006-03,Steel Cord Blade Catch,Planted Weighttip,F1,Senior,A
+MV-BAS-MET-006-04,Cinching Loop Snare,Pondererlid,F4,Senior,A
+MV-BAS-MET-006-05,Three-Step Orbiting Retreat,Orbitband Dodge,F3,Senior,A
+MV-BAS-MET-006-06,Single-Pull Recovery Screen,Holding Meteorhead,F1,Senior,A
+MV-BAS-MET-007-01,Qi-Led Pendulum Lift,Slingshot Hit,F3,Senior,A
+MV-BAS-MET-007-02,Hammer Head Crash,Cablehit,F4,Senior,A
+MV-BAS-MET-007-03,Winding Cord Parry,Settled Loopend,F1,Senior,A
+MV-BAS-MET-007-04,Shoulder-Wrap Snag,Gyrelid,F4,Senior,A
+MV-BAS-MET-007-05,Drifting Weight Feint,Tailstone Pause,F3,Senior,A
+MV-BAS-MET-007-06,Skipping Step Whirl,Easing Meteorhead,F1,Senior,A
+MV-BAS-MET-007-07,Anchor-Hand Cord Brace,Whorlpause,F4,Senior,A
+MV-BAS-MET-008-01,Falling Weight Catch,Resting Weighttip,F1,Senior,A
+MV-BAS-MET-008-02,Bounce-Back Recovery,Gyre Drop,F3,Senior,A
+MV-BAS-MET-008-03,Hand-to-Hand Weight Pass,Gyrepause,F4,Senior,A
+MV-BAS-MET-008-04,Slipped Loop Release,Skipping Ropehead,F1,Senior,A
+MV-BAS-MET-008-05,Cord Whip Rebound,Stopping Reelback,F1,Senior,A
+MV-BAS-MET-009-01,Open Loop Lasso Cast,Plumbhusk,F4,Senior,A
+MV-BAS-MET-009-02,Figure-Eight Wrist Wind,Tripping Tailstone,F1,Senior,A
+MV-BAS-MET-009-03,Loop-Swing Skull Rap,Blunt Spinout,F1,Senior,A
+MV-BAS-MET-009-04,Overhead Loop Ring,Hooding Longrope,F1,Senior,A
+MV-BAS-MET-009-05,Slip Knot Disarm,Whorllid,F4,Senior,A
+MV-BAS-MET-009-06,Ground Loop Snag Step,Plumbamble,F4,Senior,A
+MV-BAS-MET-009-07,Tow-Line Floor Drag,Pulling Ropehead,F1,Senior,A
+MV-BAS-MET-009-08,Hanging Loop Chin Hook,Low Revolve,F1,Senior,A
+MV-BAS-MET-010-01,Rope Curtain Spin,Resting Cordsplice,F1,Senior,A
+MV-BAS-MET-010-02,Brow-High Cord Hang,Folded Dropweight,F1,Senior,A
+MV-BAS-MET-010-03,Low Rope Sweep Block,Longrope Stay,F3,Senior,A
+MV-BAS-MET-010-04,Weighted Rib Guard Turn,Weightneck Stay,F3,Senior,A
+MV-BAS-MET-010-05,Counter-Wheel Hand Swat,Hard Meteorhead,F1,Senior,A
+MV-BAS-MET-010-06,Clinch-Breaking Backstep,Pondererdodge,F4,Senior,A

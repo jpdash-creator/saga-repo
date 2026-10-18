@@ -1,0 +1,171 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-JIA-001-01,Court Pair Salute Cut,Tasselwrath,F4,Demigod L1 Low,B
+MV-ELI-JIA-001-02,Twin Seat Pace,Eddyflash,F4,Demigod L1 Low,B
+MV-ELI-JIA-001-03,Court Twin Guard,Impenetrable Guardwing,F1,Demigod L1 Low,B
+MV-ELI-JIA-001-04,Mirrored Point Thrust,Decimating Springtip,F1,Demigod L1 Low,B
+MV-ELI-JIA-001-05,Twin Turn Parry,Unbowed Jianhilt,F1,Demigod L1 Low,B
+MV-ELI-JIA-001-06,Paired Blade Bind,Overbearing Twinspine,F1,Demigod L1 Low,B
+MV-ELI-JIA-001-07,Court Double Lance,Eviscerating Flitter,F1,Demigod L1 Low,B
+MV-ELI-JIA-001-08,Twin Arc Reversal,Obdurate Pommeltuft,F1,Demigod L1 Low,B
+MV-ELI-JIA-001-09,Twin Court Verdict Cut,Shattering Tempered Twinspine,F6a,Demigod L1 Low,B
+MV-ELI-JIA-002-01,Basin Rim Hawk Guard,Invincible Ridgecrest,F1,Demigod L3 Mid,B
+MV-ELI-JIA-002-02,High Circling Step,Liltglimmer,F4,Demigod L3 Mid,B
+MV-ELI-JIA-002-03,Hawk Shadow Cut,Tasselruin,F4,Demigod L3 Mid,B
+MV-ELI-JIA-002-04,Basin Floor Sense,Clairvoyant Knotcord,F1,Demigod L3 Mid,B
+MV-ELI-JIA-002-05,Hawk Dive Poke,Berserk Flitter,F1,Demigod L3 Mid,B
+MV-ELI-JIA-002-06,Updraft Rising Slash,Lilthavoc,F4,Demigod L3 Mid,B
+MV-ELI-JIA-002-07,Hawk Basin Parry,Impervious Waistbend,F1,Demigod L3 Mid,B
+MV-ELI-JIA-002-08,Circling Hawk Disrupt,Strangling Flexspine,F1,Demigod L3 Mid,B
+MV-ELI-JIA-002-09,Basin Hawk Plunge,Ferocious Springtip,F1,Demigod L3 Mid,B
+MV-ELI-JIA-002-10,Wide Wing Sweep,Mayhem Ridgecrest,F2,Demigod L3 Mid,B
+MV-ELI-JIA-002-11,Hawk Above the Basin Strike,Glintswirl,F5,Demigod L3 Mid,B
+MV-ELI-JIA-003-01,Paired Breath Draw Cut,Grievous Twinspine,F1,Demigod L5 Low,B
+MV-ELI-JIA-003-02,Heart Rhythm Step,Driftglare,F4,Demigod L5 Low,B
+MV-ELI-JIA-003-03,Blade Breath Guard,Unassailable Springtip,F1,Demigod L5 Low,B
+MV-ELI-JIA-003-04,Heart Beat Sense,Prescient Knotcord,F1,Demigod L5 Low,B
+MV-ELI-JIA-003-05,Paired Breath Thrust,Pitiless Flitter,F1,Demigod L5 Low,B
+MV-ELI-JIA-003-06,Breath Heart Parry,Flintlike Guardwing,F1,Demigod L5 Low,B
+MV-ELI-JIA-003-07,Twin Pulse Surge,Galvanizing Pommeltuft,F1,Demigod L5 Low,B
+MV-ELI-JIA-003-08,Breath Chain Slash,Rampaging Swirl,F1,Demigod L5 Low,B
+MV-ELI-JIA-003-09,Heart Lock Bind,Hogtying Ridgecrest,F1,Demigod L5 Low,B
+MV-ELI-JIA-003-10,Heart Blade Unison Cut,Devastating Sanguine Ridgecrest,F6a,Demigod L5 Low,B
+MV-ELI-JIA-004-01,Springhead Flick Cut,Booming Waistbend,F1,Demigod L7 High,B
+MV-ELI-JIA-004-02,Rill Step,Rippleflash,F4,Demigod L7 High,B
+MV-ELI-JIA-004-03,Brook Guard,Evergreen Guardwing,F1,Demigod L7 High,B
+MV-ELI-JIA-004-04,Gravel Bed Sense,Unerring Tassel,F1,Demigod L7 High,B
+MV-ELI-JIA-004-05,Pebble Point Jab,Driftwrath,F4,Demigod L7 High,B
+MV-ELI-JIA-004-06,Tributary Cut,Rippleruin,F4,Demigod L7 High,B
+MV-ELI-JIA-004-07,Eddy Turn Parry,Obdurate Jianhilt,F1,Demigod L7 High,B
+MV-ELI-JIA-004-08,Millrace Thrust,Brutalizing Swirl,F1,Demigod L7 High,B
+MV-ELI-JIA-004-09,Delta Fan Bind,Webbing Springtip,F1,Demigod L7 High,B
+MV-ELI-JIA-004-10,Lowland Reach Slash,Mangling Lilt,F1,Demigod L7 High,B
+MV-ELI-JIA-004-11,Estuary Surge,Siltswirl,F5,Demigod L7 High,B
+MV-ELI-JIA-004-12,Source to Sea Cut,Vengeful Tassel,F1,Demigod L7 High,B
+MV-ELI-JIA-005-01,Horizon Line Cut,Eddyruin,F4,Void God L2 Mid,B
+MV-ELI-JIA-005-02,Dawn Light Step,Flexblink,F4,Void God L2 Mid,B
+MV-ELI-JIA-005-03,Far Sky Guard,Indomitable Twinspine,F1,Void God L2 Mid,B
+MV-ELI-JIA-005-04,Horizon Thrust Return,Punishing Springtip,F1,Void God L2 Mid,B
+MV-ELI-JIA-005-05,Cirrus Edge Parry,Adamantine Knotcord,F1,Void God L2 Mid,B
+MV-ELI-JIA-005-06,Haze Veil Feint,Reverie Pommeltuft,F2,Void God L2 Mid,B
+MV-ELI-JIA-005-07,Zenith Descent Cut,Corroding Flexspine,F1,Void God L2 Mid,B
+MV-ELI-JIA-005-08,Wide Horizon Sweep,Blistering Swirl,F1,Void God L2 Mid,B
+MV-ELI-JIA-005-09,Horizon Sundering Cut,Unsparing Tassel,F1,Void God L2 Mid,B
+MV-ELI-JIA-006-01,Hunting Pair Cut,Willowhavoc,F4,Void God L5 Low,B
+MV-ELI-JIA-006-02,Prey Mark Sense,Vigilant Ridgecrest,F1,Void God L5 Low,B
+MV-ELI-JIA-006-03,Wing Mate Step,Willowblink,F4,Void God L5 Low,B
+MV-ELI-JIA-006-04,Shared Perch Guard,Unconquered Guardwing,F1,Void God L5 Low,B
+MV-ELI-JIA-006-05,Pair Stoop Thrust,Titanic Flitter,F1,Void God L5 Low,B
+MV-ELI-JIA-006-06,Mate Cover Parry,Impenetrable Waistbend,F1,Void God L5 Low,B
+MV-ELI-JIA-006-07,Prey Turn Slash,Liltscourge,F4,Void God L5 Low,B
+MV-ELI-JIA-006-08,Crossing Talons Cut,Decimating Eddy,F1,Void God L5 Low,B
+MV-ELI-JIA-006-09,Herding Blade Bind,Harnessing Knotcord,F1,Void God L5 Low,B
+MV-ELI-JIA-006-10,Twin Hawk Kill Dive,Ferocious Ripple,F1,Void God L5 Low,B
+MV-ELI-JIA-007-01,Basin Floor Cut,Pitiless Waistbend,F1,True God L1 Low,B
+MV-ELI-JIA-007-02,Terrace Step,Tasselvortex,F4,True God L1 Low,B
+MV-ELI-JIA-007-03,Rim Ring Guard,Impervious Ridgecrest,F1,True God L1 Low,B
+MV-ELI-JIA-007-04,Catchment Sense,Radiant Knotcord,F1,True God L1 Low,B
+MV-ELI-JIA-007-05,Low Basin Thrust,Driftscourge,F4,True God L1 Low,B
+MV-ELI-JIA-007-06,Spillway Slash,Swirlruin,F4,True God L1 Low,B
+MV-ELI-JIA-007-07,Silt Bind,Immobilizing Guardwing,F1,True God L1 Low,B
+MV-ELI-JIA-007-08,Basin Bowl Parry,Unrelenting Twinspine,F1,True God L1 Low,B
+MV-ELI-JIA-007-09,Reservoir Draw Cut,Ripplewrath,F4,True God L1 Low,B
+MV-ELI-JIA-007-10,Flood Plain Slash,Mangling Springtip,F1,True God L1 Low,B
+MV-ELI-JIA-007-11,Basin Gathering Lance,Rampaging Flitter,F1,True God L1 Low,B
+MV-ELI-JIA-007-12,Rim to Floor Rending,Lacerating Swirl,F1,True God L1 Low,B
+MV-ELI-JIA-007-13,Whole Basin Cut,Titanic Slag Waistbend,F6a,True God L1 Low,B
+MV-ELI-JIA-008-01,Fallen Leaf Cut,Swirlwrath,F4,Monarch L1 Low,B
+MV-ELI-JIA-008-02,Dry Reed Step,Tasselglare,F4,Monarch L1 Low,B
+MV-ELI-JIA-008-03,Frost Edge Guard,Unbudging Guardwing,F1,Monarch L1 Low,B
+MV-ELI-JIA-008-04,Cool Air Sense,Illuminating Pommeltuft,F1,Monarch L1 Low,B
+MV-ELI-JIA-008-05,Harvest Point Thrust,Vengeful Springtip,F1,Monarch L1 Low,B
+MV-ELI-JIA-008-06,Autumn Dual Parry,Evergreen Jianhilt,F1,Monarch L1 Low,B
+MV-ELI-JIA-008-07,Leaf Fall Slash,Flexwrath,F4,Monarch L1 Low,B
+MV-ELI-JIA-008-08,Twin Season Bind,Overpowering Knotcord,F1,Monarch L1 Low,B
+MV-ELI-JIA-008-09,Last Leaf Lance,Merciless Lilt,F1,Monarch L1 Low,B
+MV-ELI-JIA-008-10,Late Frost Sweep,Punishing Swirl,F1,Monarch L1 Low,B
+MV-ELI-JIA-008-11,Dual Track Harvest Cut,Berserk Eddy,F1,Demigod L1 Low,B
+MV-ELI-JIA-009-01,Oath Voice Cut,Willowscourge,F4,Demigod L2 Low,B
+MV-ELI-JIA-009-02,Sworn Stand Step,Flexflash,F4,Demigod L2 Low,B
+MV-ELI-JIA-009-03,Oath Cover Blade Guard,Obdurate Ridgecrest,F1,Demigod L2 Low,B
+MV-ELI-JIA-009-04,Vow Bearing Sense,Vigilant Twinspine,F1,Demigod L2 Low,B
+MV-ELI-JIA-009-05,Oath Bound Thrust,Swirlhavoc,F4,Demigod L2 Low,B
+MV-ELI-JIA-009-06,Wind Witness Parry,Unbowed Knotcord,F1,Demigod L2 Low,B
+MV-ELI-JIA-009-07,Oath Held Bind,Maiming Guardwing,F1,Demigod L2 Low,B
+MV-ELI-JIA-009-08,Oath Weight Slash,Wrathful Lilt,F1,Demigod L2 Low,B
+MV-ELI-JIA-009-09,Unbroken Oath Lance,Unsparing Springtip,F1,Demigod L2 Low,B
+MV-ELI-JIA-009-10,Oath Beneath the Wind Cut,Hellish Tassel,F1,Demigod L2 Low,B
+MV-ELI-JIA-010-01,Gale Rim Cut,Gust Waistbend,F2,Demigod L4 High,B
+MV-ELI-JIA-010-02,Plateau Run Step,Driftvortex,F4,Demigod L4 High,B
+MV-ELI-JIA-010-03,Gale Brace Guard,Impenetrable Flexspine,F1,Demigod L4 High,B
+MV-ELI-JIA-010-04,Rim Gust Thrust,Eddyscourge,F4,Demigod L4 High,B
+MV-ELI-JIA-010-05,Gale Break Parry,Inexorable Pommeltuft,F1,Demigod L4 High,B
+MV-ELI-JIA-010-06,Plateau Dust Veil,Murk Guardwing,F2,Demigod L4 High,B
+MV-ELI-JIA-010-07,Gale Charge Lance,Berserk Springtip,F1,Demigod L4 High,B
+MV-ELI-JIA-010-08,Plateau Gust Blade Sweep,Blazelilt,F5,Demigod L4 High,B
+MV-ELI-JIA-010-09,Plateau Gale Rending,Titanic Eddy,F1,Demigod L4 High,B
+MV-ELI-JIA-011-01,Outbound Bearing Cut,Brutalizing Twinspine,F1,Demigod L8 Mid,B
+MV-ELI-JIA-011-02,Return Course Step,Swirlglimmer,F4,Demigod L8 Mid,B
+MV-ELI-JIA-011-03,Landmark Sense,Unerring Guardwing,F1,Demigod L8 Mid,B
+MV-ELI-JIA-011-04,Bearing Set Blade Guard,Flintlike Springtip,F1,Demigod L8 Mid,B
+MV-ELI-JIA-011-05,Homeward Thrust,Ripplescourge,F4,Demigod L8 Mid,B
+MV-ELI-JIA-011-06,Crosswind Correction Cut,Flexscourge,F4,Demigod L8 Mid,B
+MV-ELI-JIA-011-07,Return Leg Parry,Unassailable Pommeltuft,F1,Demigod L8 Mid,B
+MV-ELI-JIA-011-08,Bearing Reverse Slash,Flexruin,F4,Demigod L8 Mid,B
+MV-ELI-JIA-011-09,Course Hold Bind,Suffocating Jianhilt,F1,Demigod L8 Mid,B
+MV-ELI-JIA-011-10,Long Return Lance,Corroding Springtip,F1,Demigod L8 Mid,B
+MV-ELI-JIA-011-11,Bearing Reversal Sweep,Rampaging Ripple,F1,Demigod L8 Mid,B
+MV-ELI-JIA-011-12,Out and Back Cut,Merciless Eddy,F1,Demigod L8 Mid,B
+MV-ELI-JIA-012-01,Unwalled Plain Cut,Pitiless Twinspine,F1,Void God L1 Mid,B
+MV-ELI-JIA-012-02,Skyline Blade Step,Flexglare,F4,Void God L1 Mid,B
+MV-ELI-JIA-012-03,Open Cover Guard,Indomitable Waistbend,F1,Void God L1 Mid,B
+MV-ELI-JIA-012-04,Far Grass Sense,Clairvoyant Tassel,F1,Void God L1 Mid,B
+MV-ELI-JIA-012-05,Plain Thrust,Titanic Swirl,F1,Void God L1 Mid,B
+MV-ELI-JIA-012-06,Plateau Reach Slash,Liltruin,F4,Void God L1 Mid,B
+MV-ELI-JIA-012-07,Open Plain Parry,Adamantine Guardwing,F1,Void God L1 Mid,B
+MV-ELI-JIA-012-08,Wide Field Bind,Strangling Jianhilt,F1,Void God L1 Mid,B
+MV-ELI-JIA-012-09,Unwalled Lance,Mangling Flitter,F1,Void God L1 Mid,B
+MV-ELI-JIA-012-10,Plateau Rolling Sweep,Mayhem Pommeltuft,F2,Void God L1 Mid,B
+MV-ELI-JIA-012-11,Unwalled Plateau Strike,Ferocious Gust Springtip,F6a,Void God L1 Mid,B
+MV-ELI-JIA-013-01,Gale Mount Cut,Booming Ridgecrest,F1,Void God L4 Low,B
+MV-ELI-JIA-013-02,Updraft Sword Step,Eddyvortex,F4,Void God L4 Low,B
+MV-ELI-JIA-013-03,Riding Guard,Unconquered Waistbend,F1,Void God L4 Low,B
+MV-ELI-JIA-013-04,Gale Lean Sense,Prescient Pommeltuft,F1,Void God L4 Low,B
+MV-ELI-JIA-013-05,Tailwind Thrust,Liltwrath,F4,Void God L4 Low,B
+MV-ELI-JIA-013-06,Headwind Flat Parry,Unrelenting Guardwing,F1,Void God L4 Low,B
+MV-ELI-JIA-013-07,Crosswind Slash,Shattering Flexspine,F1,Void God L4 Low,B
+MV-ELI-JIA-013-08,Gale Surge Lance,Vengeful Flitter,F1,Void God L4 Low,B
+MV-ELI-JIA-013-09,Whirling Gale Pass,Rampaging Tassel,F1,Void God L4 Low,B
+MV-ELI-JIA-013-10,Riding the Gale Cut,Punishing Ripple,F1,Void God L4 Low,B
+MV-ELI-JIA-014-01,Wind Answer Cut,Wrathful Springtip,F1,Void God L8 High,B
+MV-ELI-JIA-014-02,Oath Echo Step,Flexglimmer,F4,Void God L8 High,B
+MV-ELI-JIA-014-03,Answer Guard,Evergreen Twinspine,F1,Void God L8 High,B
+MV-ELI-JIA-014-04,Sworn Reply Thrust,Ripplehavoc,F4,Void God L8 High,B
+MV-ELI-JIA-014-05,Wind Return Parry,Impervious Jianhilt,F1,Void God L8 High,B
+MV-ELI-JIA-014-06,Oath Kept Bind,Overbearing Knotcord,F1,Void God L8 High,B
+MV-ELI-JIA-014-07,Wind Answered Lance,Gnashing Swirl,F1,Void God L8 High,B
+MV-ELI-JIA-014-08,Reply in Kind Slash,Eviscerating Tassel,F1,Void God L8 High,B
+MV-ELI-JIA-014-09,Answer of the Oath Wind,Ruinous Eddy,F1,Void God L8 High,B
+MV-ELI-JIA-015-01,Drop Step Cut,Eddyhavoc,F4,True God L2 Low,B
+MV-ELI-JIA-015-02,Rising Foot Step,Driftblink,F4,True God L2 Low,B
+MV-ELI-JIA-015-03,Ledge Hold Guard,Unbudging Springtip,F1,True God L2 Low,B
+MV-ELI-JIA-015-04,Fall Line Sense,Unerring Knotcord,F1,True God L2 Low,B
+MV-ELI-JIA-015-05,Climbing Thrust,Corroding Flitter,F1,True God L2 Low,B
+MV-ELI-JIA-015-06,Ledge Spring Slash,Swirlscourge,F4,True God L2 Low,B
+MV-ELI-JIA-015-07,Falling Parry,Obdurate Twinspine,F1,True God L2 Low,B
+MV-ELI-JIA-015-08,Rise and Fall Bind,Enthralling Waistbend,F1,True God L2 Low,B
+MV-ELI-JIA-015-09,Cliff Climb Lance,Grievous Lilt,F1,True God L2 Low,B
+MV-ELI-JIA-015-10,Plunging Edge Chop,Brutalizing Ripple,F1,True God L2 Low,B
+MV-ELI-JIA-015-11,Fall and Rise Cut,Booming Eddy,F1,True God L2 Low,B
+MV-ELI-JIA-016-01,Weighted Oath Cut,Punishing Tassel,F1,Monarch L3 Mid,B
+MV-ELI-JIA-016-02,Heavy Stance Step,Willowflash,F4,Monarch L3 Mid,B
+MV-ELI-JIA-016-03,Oath Brace Guard,Impenetrable Pommeltuft,F1,Monarch L3 Mid,B
+MV-ELI-JIA-016-04,Held Weight Sense,Radiant Tassel,F1,Monarch L3 Mid,B
+MV-ELI-JIA-016-05,Sworn Load Thrust,Ferocious Flitter,F1,Monarch L3 Mid,B
+MV-ELI-JIA-016-06,Burden Turn Parry,Inexorable Ridgecrest,F1,Monarch L3 Mid,B
+MV-ELI-JIA-016-07,Oath Press Bind,Numbing Knotcord,F1,Monarch L3 Mid,B
+MV-ELI-JIA-016-08,Weight Shift Slash,Willowwrath,F4,Monarch L3 Mid,B
+MV-ELI-JIA-016-09,Carry Lift Cut,Lacerating Eddy,F1,Monarch L3 Mid,B
+MV-ELI-JIA-016-10,Heavy Oath Lance,Berserk Swirl,F1,Monarch L3 Mid,B
+MV-ELI-JIA-016-11,Weight of Word Slash,Merciless Ripple,F1,Monarch L3 Mid,B
+MV-ELI-JIA-016-12,Oath Sweep,Silt Flexspine,F2,Monarch L3 Mid,B
+MV-ELI-JIA-016-13,Oath Weight Judgment Cut,Grievous Might Knotcord,F6a,Demigod L1 Low,B

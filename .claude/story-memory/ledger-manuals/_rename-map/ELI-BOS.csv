@@ -1,0 +1,152 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-BOS-001-01,Twin Hawk Bo Perch Stance,Tipcapnerve,F4,Demigod,B
+MV-ELI-BOS-001-02,Court Bo Matched Jab,Sweepstep Wrath,F3,Demigod,B
+MV-ELI-BOS-001-03,Hawk-Feather Bo Brush Parry,Obdurate Whitewood,F1,Demigod,B
+MV-ELI-BOS-001-04,Twin-Track Bo Shift,Bostipglimmer,F4,Demigod,B
+MV-ELI-BOS-001-05,Azure Bo Pincer Strike,Blistering Spinbreak,F1,Demigod,B
+MV-ELI-BOS-001-06,Bo Court Pause Bind,Gyve Rightgrip,F2,Demigod,B
+MV-ELI-BOS-001-07,Hawk-Wing Bo Closing Cut,Glint Staffcentre,F2,Demigod,B
+MV-ELI-BOS-001-08,Twin Azure Bo Doubled Wheel,Blockhavoc,F4,Demigod,B
+MV-ELI-BOS-001-09,Twin Hawks Strike as One,Nova Roll,F2,Demigod,B
+MV-ELI-BOS-002-01,Basin-Mouth Bo Open Guard,Unbudging Leftgrip,F1,Demigod,B
+MV-ELI-BOS-002-02,Bo Riverhead Jab,Blaze Roundstaff,F2,Demigod,B
+MV-ELI-BOS-002-03,Stream-Turn Bo Parry,Bogrip Tenacity,F3,Demigod,B
+MV-ELI-BOS-002-04,Silt-Settling Bo Pace,Mightpivot,F5,Demigod,B
+MV-ELI-BOS-002-05,Bo Eddy-Rap Strike,Pivotwrath,F4,Demigod,B
+MV-ELI-BOS-002-06,Bo Shoal-Catching Grip,Gyve Balancenode,F2,Demigod,B
+MV-ELI-BOS-002-07,Bo Rising-Water Press,Charter Block,F2,Demigod,B
+MV-ELI-BOS-002-08,Bo Meander Line Cut,Mighttipcap,F5,Demigod,B
+MV-ELI-BOS-002-09,Bo Flood-Tide Rush,Rollscourge,F4,Demigod,B
+MV-ELI-BOS-002-10,Bo Silting Ground Trap,Septic Bostip,F1,Demigod,B
+MV-ELI-BOS-002-11,River Runs Through the Basin,Hellish Nova Pivot,F6a,Demigod,B
+MV-ELI-BOS-003-01,Paired-Court Bo Readiness,Aegistipcap,F5,Demigod,B
+MV-ELI-BOS-003-02,Left-Track Bo Jab,Vengeful Bogrip,F1,Demigod,B
+MV-ELI-BOS-003-03,Right-Track Bo Block,Taperend Tenacity,F3,Demigod,B
+MV-ELI-BOS-003-04,Track-Crossing Bo Pass,Sweepstep Blink,F3,Demigod,B
+MV-ELI-BOS-003-05,Bo Courtyard Gate Parry,Torrent Bostip,F2,Demigod,B
+MV-ELI-BOS-003-06,Bo Paired Pivot Strike,Blazeroll,F5,Demigod,B
+MV-ELI-BOS-003-07,Both-Tracks Bo Hold,Fastening Block,F2,Demigod,B
+MV-ELI-BOS-003-08,Bo Dual-Track Advance,Intent Staffcentre,F2,Demigod,B
+MV-ELI-BOS-003-09,Bo Track-Exchange Break,Pivotvalor,F4,Demigod,B
+MV-ELI-BOS-003-10,Two Courts One Verdict,Corroding Rightgrip,F1,Demigod,B
+MV-ELI-BOS-004-01,Bo High-Perch Observation Stance,Adamantine Whitewood,F1,Void God,B
+MV-ELI-BOS-004-02,Bo Pre-Stoop Jab,Granite Tipcap,F2,Void God,B
+MV-ELI-BOS-004-03,Sovereign Bo Sky Parry,Bostipspine,F4,Void God,B
+MV-ELI-BOS-004-04,Bo Dropping-Heel Step,Granite Roll,F2,Void God,B
+MV-ELI-BOS-004-05,Bo Ledge-Command Press,Might Roundstaff,F2,Void God,B
+MV-ELI-BOS-004-06,Hawk-Gaze Bo Fixing,Verity Tipcap,F2,Void God,B
+MV-ELI-BOS-004-07,Falling-Wing Bo Cut,Mighttipjab,F5,Void God,B
+MV-ELI-BOS-004-08,Bo Talon-Press Bind,Bostipmettle,F4,Void God,B
+MV-ELI-BOS-004-09,Bo Sky-Held Suppression,Shade Balancenode,F2,Void God,B
+MV-ELI-BOS-004-10,Basin-Descent Bo Plunge,Devastating Taperend,F1,Void God,B
+MV-ELI-BOS-004-11,Hawk-Circle Bo Ground Hold,Fastening Staffcentre,F2,Void God,B
+MV-ELI-BOS-004-12,Bo Sovereign Ground Claim,Facet Leftgrip,F2,Void God,B
+MV-ELI-BOS-004-13,Hawk Stoops and the Ground Obeys,Gnashing Pivot,F1,Void God,B
+MV-ELI-BOS-005-01,Folded-Wing Bo Stance,Thornbogrip,F5,Demigod,B
+MV-ELI-BOS-005-02,Left-Wing Bo Jab,Rumble Tipjab,F2,Demigod,B
+MV-ELI-BOS-005-03,Right-Wing Bo Cut,Granite Block,F2,Demigod,B
+MV-ELI-BOS-005-04,Wing-Beat Bo Step,Torrential Spinbreak,F1,Demigod,B
+MV-ELI-BOS-005-05,Bo Wing-Shielded Guard,Whitewood Valor,F3,Demigod,B
+MV-ELI-BOS-005-06,Azure Wing-Tip Flick,Merciless Rightgrip,F1,Demigod,B
+MV-ELI-BOS-005-07,Bo Wings Open Parry,Evergreen Balancenode,F1,Demigod,B
+MV-ELI-BOS-005-08,Wing-Locked Bo Bind,Spinbreak Fortitude,F3,Demigod,B
+MV-ELI-BOS-005-09,Wing-Swept Bo Tumble,Tipcaphavoc,F4,Demigod,B
+MV-ELI-BOS-005-10,Twin-Wing Bo Descent,Tipjab Reckoning,F3,Demigod,B
+MV-ELI-BOS-005-11,Bo Wing-Sheared Guard Break,Wrathful Tipjab,F1,Demigod,B
+MV-ELI-BOS-005-12,Both Wings Beat the Sky,Dazzling Rumble Sweepstep,F6a,Demigod,B
+MV-ELI-BOS-006-01,Two-Current Bo Standing Hold,Unrelenting Taperend,F1,Demigod,B
+MV-ELI-BOS-006-02,Upstream Bo Jab,Gnashing Bogrip,F1,Demigod,B
+MV-ELI-BOS-006-03,Downstream Bo Guard Slip,Unconquered Tipcap,F1,Demigod,B
+MV-ELI-BOS-006-04,Bo Currents Meet Block,Granite Bostip,F2,Demigod,B
+MV-ELI-BOS-006-05,Bo Twin-Stream Sweep,Tipjabhavoc,F4,Demigod,B
+MV-ELI-BOS-006-06,Bo Whirlpool Bind,Ponderous Block,F2,Demigod,B
+MV-ELI-BOS-006-07,Rolling Bo Confluence Cut,Eviscerating Roll,F1,Demigod,B
+MV-ELI-BOS-006-08,Bo Tidal-Bore Surge,Ponderous Pivot,F2,Demigod,B
+MV-ELI-BOS-006-09,Paired Rivers Meet at the Sea,Unsparing Roundstaff,F1,Demigod,B
+MV-ELI-BOS-007-01,Near-Reach Bo Close Guard,Granite Rightgrip,F2,True God,B
+MV-ELI-BOS-007-02,Far-Reach Bo Gauge Jab,Bogrip Wrath,F3,True God,B
+MV-ELI-BOS-007-03,Bo Reach-Changing Slide,Gust Roll,F2,True God,B
+MV-ELI-BOS-007-04,Close-Reach Bo Elbow Check,Torrent Balancenode,F2,True God,B
+MV-ELI-BOS-007-05,Court Bo Near-Strike Rap,Gust Tipjab,F2,True God,B
+MV-ELI-BOS-007-06,Court Bo Distant-Strike Cut,Rumblebogrip,F5,True God,B
+MV-ELI-BOS-007-07,Reach-Trading Bo Lock,Gyve Leftgrip,F2,True God,B
+MV-ELI-BOS-007-08,Two-Reach Bo Switching Strike,Hourbogrip,F5,True God,B
+MV-ELI-BOS-007-09,Bo Court Distance Denial,Sweepstep Reckoning,F3,True God,B
+MV-ELI-BOS-007-10,The Court Closes Both Reaches,Tipcapdurance,F4,True God,B
+MV-ELI-BOS-008-01,Sworn Bo Bearing Stance,Facetbogrip,F5,Demigod,B
+MV-ELI-BOS-008-02,Bo Oath-Straight Jab,Rampaging Pivot,F1,Demigod,B
+MV-ELI-BOS-008-03,Bo Wind-Shouldering Parry,Bogripmettle,F4,Demigod,B
+MV-ELI-BOS-008-04,Bo Bearing-Keeping Stride,Gust Leftgrip,F2,Demigod,B
+MV-ELI-BOS-008-05,Wind-Sworn Bo Cross Check,Thorn Bostip,F2,Demigod,B
+MV-ELI-BOS-008-06,Oath-Pressed Bo Binding,Gyve Whitewood,F2,Demigod,B
+MV-ELI-BOS-008-07,Gust-Edge Bo Sweep,Might Taperend,F2,Demigod,B
+MV-ELI-BOS-008-08,Sworn Bo Wind-Held Advance,Spinbreak Ruin,F3,Demigod,B
+MV-ELI-BOS-008-09,Bo Bearing-Broken Counter,Mayhem Tipjab,F2,Demigod,B
+MV-ELI-BOS-008-10,Oath Sworn on the Wind,Irontipcap,F5,Demigod,B
+MV-ELI-BOS-009-01,Plateau-Standing Bo Guard,Adamantine Roundstaff,F1,Demigod,B
+MV-ELI-BOS-009-02,Bo Edge-Facing Jab,Tipcap Scourge,F3,Demigod,B
+MV-ELI-BOS-009-03,Plateau-Wind Bo Parry,Roundstaff Mettle,F3,Demigod,B
+MV-ELI-BOS-009-04,Bo Windswept-Ground Step,Silt Taperend,F2,Demigod,B
+MV-ELI-BOS-009-05,Bo Bearing-Shift Rap,Ironblock,F5,Demigod,B
+MV-ELI-BOS-009-06,Bo Edge-Sensing Reach,Rightgrip Premonition,F3,Demigod,B
+MV-ELI-BOS-009-07,Plateau Bo Edge-Crowding Press,Intent Leftgrip,F2,Demigod,B
+MV-ELI-BOS-009-08,Bo Drop-Hook Sweep,Tempered Block,F2,Demigod,B
+MV-ELI-BOS-009-09,Bo Gale-Sheet Cover,Bogripdurance,F4,Demigod,B
+MV-ELI-BOS-009-10,Plateau-Edge Bo Driving Cut,Bogripscourge,F4,Demigod,B
+MV-ELI-BOS-009-11,Bo Windward Over-the-Lip Throw,Pivot Fortitude,F3,Demigod,B
+MV-ELI-BOS-009-12,The Plateau Takes the Fall,Daybreak Roll,F2,Demigod,B
+MV-ELI-BOS-010-01,Open-Air Bo Drifting Guard,Bogripspine,F4,Demigod,B
+MV-ELI-BOS-010-02,Bo Lightfoot Jab,Sanguine Whitewood,F2,Demigod,B
+MV-ELI-BOS-010-03,Bo Passing-Wind Parry,Equipoise Staffcentre,F2,Demigod,B
+MV-ELI-BOS-010-04,Wall-Free Bo Roving Step,Vanishing Bostip,F1,Demigod,B
+MV-ELI-BOS-010-05,Wind-Tossed Bo Feint,Reverie Tipcap,F2,Demigod,B
+MV-ELI-BOS-010-06,Bo Gale-Chased Rap,Blazebogrip,F5,Demigod,B
+MV-ELI-BOS-010-07,Never-Still Bo Circuit,Bogrip Ruin,F3,Demigod,B
+MV-ELI-BOS-010-08,Bo Open-Country Unseating,Mayhemroll,F5,Demigod,B
+MV-ELI-BOS-010-09,Bo Where the Bearing Stood Empty,Unseen Expanse Spinbreak,F6a,Demigod,B
+MV-ELI-BOS-011-01,Windward Bo Oath Posture,Hoarfrost Staffcentre,F2,Void God,B
+MV-ELI-BOS-011-02,Oath-Spoken Bo Jab,Lacerating Spinbreak,F1,Void God,B
+MV-ELI-BOS-011-03,Windward Bo Cross-Parry,Gust Roundstaff,F2,Void God,B
+MV-ELI-BOS-011-04,Leeward Bo Falling Step,Granite Balancenode,F2,Void God,B
+MV-ELI-BOS-011-05,Bo Oath-Weight Drop,Might Bostip,F2,Void God,B
+MV-ELI-BOS-011-06,Windward Bo Oath-Kept Block,Aegis Bogrip,F2,Void God,B
+MV-ELI-BOS-011-07,Bo Sworn-Line Pin,Hoarfrost Whitewood,F2,Void God,B
+MV-ELI-BOS-011-08,Bo Wind-Breaking Strike,Glint Leftgrip,F2,Void God,B
+MV-ELI-BOS-011-09,Sworn Windward Bo Advance,Charter Pivot,F2,Void God,B
+MV-ELI-BOS-011-10,Oath-Turned Bo Reversal,Chime Taperend,F2,Void God,B
+MV-ELI-BOS-011-11,The Oath Is Kept in Wind,Evergreen Charter Rightgrip,F6a,Void God,B
+MV-ELI-BOS-012-01,Edge-Guarding Bo Stance,Granite Staffcentre,F2,Demigod,B
+MV-ELI-BOS-012-02,Bo Drop-Side Jab,Roll Reckoning,F3,Demigod,B
+MV-ELI-BOS-012-03,Plateau-Rim Bo Parry,Chime Tipcap,F2,Demigod,B
+MV-ELI-BOS-012-04,Bo Rimwalking Step,Siltbogrip,F5,Demigod,B
+MV-ELI-BOS-012-05,Bo Gusting-Updraft Cut,Block Ruin,F3,Demigod,B
+MV-ELI-BOS-012-06,Bo Cliff-Feel Reach,Waning Whitewood,F2,Demigod,B
+MV-ELI-BOS-012-07,Edge-Pinning Bo Press,Bostip Tenacity,F3,Demigod,B
+MV-ELI-BOS-012-08,Bo Drop-Facing Sweep,Iron Taperend,F2,Demigod,B
+MV-ELI-BOS-012-09,Bo Rim-Held Suppression,Hour Spinbreak,F2,Demigod,B
+MV-ELI-BOS-012-10,Wind-Sworn Bo Edge Shove,Hellish Tipjab,F1,Demigod,B
+MV-ELI-BOS-012-11,Bo Rim-Turn Reversal,Maiming Block,F1,Demigod,B
+MV-ELI-BOS-012-12,Bo Plateau Gale Surge,Slagroll,F5,Demigod,B
+MV-ELI-BOS-012-13,The Edge Belongs to the Wind-Sworn,Tipjabdurance,F4,Demigod,B
+MV-ELI-BOS-013-01,Held-Bearing Bo Anchor Stance,Tipcapspine,F4,Void God,B
+MV-ELI-BOS-013-02,Bo Unmoved Jab,Ruinous Roundstaff,F1,Void God,B
+MV-ELI-BOS-013-03,Gale-Turned Bo Parry,Gust Staffcentre,F2,Void God,B
+MV-ELI-BOS-013-04,Bo Bearing-Return Step,Phantom Rightgrip,F1,Void God,B
+MV-ELI-BOS-013-05,Field-Shifting Bo Guard,Tipcapmettle,F4,Void God,B
+MV-ELI-BOS-013-06,Bo Mark-Fixed Strike,Devastating Roll,F1,Void God,B
+MV-ELI-BOS-013-07,Unwavering Bo Line Bind,Balancenode Spine,F3,Void God,B
+MV-ELI-BOS-013-08,Gale-Sworn Bo Straight Drive,Tipjabwrath,F4,Void God,B
+MV-ELI-BOS-013-09,Bo Shape-Shifting Gale Field,Confluent Tipjab,F1,Void God,B
+MV-ELI-BOS-013-10,One Bearing Beneath Any Gale,Impervious Bogrip,F1,Void God,B
+MV-ELI-BOS-014-01,Great-Wind Bo Gathering Stance,Granite Leftgrip,F2,True God,B
+MV-ELI-BOS-014-02,Bo Gust-Opening Jab,Balancenode Scourge,F3,True God,B
+MV-ELI-BOS-014-03,Bo Wind-Stalled Parry,Unconquered Whitewood,F1,True God,B
+MV-ELI-BOS-014-04,Bo Tailwind Charge Step,Lightning Bogrip,F1,True God,B
+MV-ELI-BOS-014-05,Bo Gust-Caught Cut,Sanguine Tipcap,F2,True God,B
+MV-ELI-BOS-014-06,Gale-Weighted Bo Press,Hourroll,F5,True God,B
+MV-ELI-BOS-014-07,Bo Whistling-Edge Cut,Tempered Sweepstep,F2,True God,B
+MV-ELI-BOS-014-08,Great Bo Wind-Wrapped Bind,Pivotnerve,F4,True God,B
+MV-ELI-BOS-014-09,Bo Plateau-Wide Sweep,Mayhemtipcap,F5,True God,B
+MV-ELI-BOS-014-10,Gale-Driven Bo Overhead Fall,Tipjabruin,F4,True God,B
+MV-ELI-BOS-014-11,The Plateau Whole Wind in One Stroke,Merciless Pivot,F1,True God,B
+MV-ELI-BOS-010-09,Unseen Expanse Spinbreak,Unseen Spinbreak,F6a,Demigod,B

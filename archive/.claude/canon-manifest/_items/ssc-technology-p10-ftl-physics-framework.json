@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-technology-p10-ftl-physics-framework",
+ "part": 10,
+ "area": 5,
+ "sequence_in_part": 5,
+ "title": "FTL Physics Framework (Governed by Part 10)",
+ "domain": "technology",
+ "source_file": "Part_10_Technology_Science_Law.md",
+ "start_line": 396,
+ "end_line": 450,
+ "line_count": 55,
+ "output_path": ".claude/skills/ssc-technology-p10-ftl-physics-framework/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-cultivation-p03-cultivation-ladder-realm-hierarchy",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-lifespan-mechanics",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-power-density",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-realm-transition",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-cultivation-talent",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-growth-speed",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-power-comparison",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-damage-tolerance-recovery",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-affinity-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-heart-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Realm progression interacts with body cultivation tiers"
+  }
+ ]
+}

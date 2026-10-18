@@ -1,0 +1,7 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-STR-003-02,Field Brace,Outer Brace,CHANNELED,T1 Unawakened,Basic
+CMV-ADV-STR-003-08,Field Compression,Squeezing Press,CAST,Champion L1 Low,Advanced
+CMV-ADV-STR-008-05,Oath Grip,Sworn Clamp,INSTANT,T1 Unawakened,Basic
+CMV-ADV-STR-006-01,Basin Grip,Sinking Grip,INSTANT,,Basic
+CMV-ADV-STR-006-02,Basin Stand,Drawing Stand,CHANNELED,,Basic
+CMV-ADV-STR-006-08,Basin Surge,Stored Surge,CHANNELED,,Intermediate

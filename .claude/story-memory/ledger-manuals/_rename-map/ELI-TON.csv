@@ -1,0 +1,121 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-TON-001-01,Court Stance Rail Guard,Facethandle,F5,Warrior+,B
+MV-ELI-TON-001-02,Left Court Jab,Granite Forearm,F2,Warrior+,B
+MV-ELI-TON-001-03,Right Court Cross Parry,Murk Gripbar,F2,Warrior+,B
+MV-ELI-TON-001-04,Twin Court Qi Rap,Decimating Forearmside,F1,Warrior+,B
+MV-ELI-TON-001-05,Court Pivot Wrist Seize,Toxin Spinflip,F2,Warrior+,B
+MV-ELI-TON-001-06,Court Mirror Step,Gustrap,F5,Warrior+,B
+MV-ELI-TON-001-07,Crossed Court Rail Break,Wrathful Knock,F1,Warrior+,B
+MV-ELI-TON-001-08,Paired Court Guard Lattice,Handledurance,F4,Warrior+,B
+MV-ELI-TON-001-09,Court Verdict Spin Strike,Ferocious Shortshaft,F1,Warrior+,B
+MV-ELI-TON-002-01,Talon Ready Stance,Granite Rearend,F2,Warrior+,B
+MV-ELI-TON-002-02,Hawk Beak Stub Peck,Rap Wrath,F3,Warrior+,B
+MV-ELI-TON-002-03,Azure Rail Sweep Guard,Chime Tonfashaft,F2,Warrior+,B
+MV-ELI-TON-002-04,Hover Pace Step,Tonfaglimmer,F4,Warrior+,B
+MV-ELI-TON-002-05,Talon Closing Rail Grip,Tapnerve,F4,Warrior+,B
+MV-ELI-TON-002-06,Beak Peck Pair,Rumble Tap,F2,Warrior+,B
+MV-ELI-TON-002-07,Azure Slip Parry,Chimebar,F5,Warrior+,B
+MV-ELI-TON-002-08,Hawk Seizing Descent,Rumblebar,F5,Warrior+,B
+MV-ELI-TON-002-09,Azure Rail Swoop Sweep,Rampaging Spinpeg,F1,Warrior+,B
+MV-ELI-TON-002-10,Talon and Rail Rending Dive,Merciless Iron Jolt,F6a,Warrior+,B
+MV-ELI-TON-003-01,Basin Rim Rail Guard,Thorn Elbowside,F2,Warrior+,B
+MV-ELI-TON-003-02,Spring Source Jab,Rumble Rearend,F2,Warrior+,B
+MV-ELI-TON-003-03,Cutting Current Parry,Unconquered Sidehandle,F1,Warrior+,B
+MV-ELI-TON-003-04,Basin Fill Pressing Rail,Hogtying Tonfashaft,F1,Warrior+,B
+MV-ELI-TON-003-05,Runoff Slide Step,Mightknock,F5,Warrior+,B
+MV-ELI-TON-003-06,Rapids Rail Chain Rap,Wrathful Jolt,F1,Warrior+,B
+MV-ELI-TON-003-07,Whirlpool Drawing Spin,Toxin Knock,F2,Warrior+,B
+MV-ELI-TON-003-08,Flood Season Rail Burst,Intenthandle,F5,Warrior+,B
+MV-ELI-TON-003-09,Basin Overflow Rail Barrage,Eviscerating Roundend,F1,Warrior+,B
+MV-ELI-TON-004-01,River Wheel Hold,Aegis Gripbar,F2,Warrior+,B
+MV-ELI-TON-004-02,Left Wheel Tap,Gust Sidehandle,F2,Warrior+,B
+MV-ELI-TON-004-03,Right Wheel Catch,Tapvalor,F4,Warrior+,B
+MV-ELI-TON-004-04,Wheel Shoal Step,Gust Elbowside,F2,Warrior+,B
+MV-ELI-TON-004-05,Wheel Rim Drag,Tap Spine,F3,Warrior+,B
+MV-ELI-TON-004-06,Paired Wheel Qi Shear,Tempered Roundend,F2,Warrior+,B
+MV-ELI-TON-004-07,Counter Turning Wheel Guard,Aegis Shortshaft,F2,Warrior+,B
+MV-ELI-TON-004-08,Mill Race Rail Strike,Sanguine Spinflip,F2,Warrior+,B
+MV-ELI-TON-004-09,Interlocked River Wheel Grind,Rumble Spinpeg,F2,Warrior+,B
+MV-ELI-TON-004-10,Wheel Against Wheel Chain,Handlewrath,F4,Warrior+,B
+MV-ELI-TON-004-11,Great Paired Wheel Break,Joltscourge,F4,Warrior+,B
+MV-ELI-TON-005-01,Horizon Line Hold,Tonfadurance,F4,Warrior+,B
+MV-ELI-TON-005-02,High Azure Overhead Rap,Berserk Rap,F1,Warrior+,B
+MV-ELI-TON-005-03,Distant Hawk Eye Parry,Gust Handlepeg,F2,Warrior+,B
+MV-ELI-TON-005-04,Clear Sky Retreat Step,Silt Sidehandle,F2,Warrior+,B
+MV-ELI-TON-005-05,Azure Sweep Qi Rail,Jolthavoc,F4,Warrior+,B
+MV-ELI-TON-005-06,Sky Reach Hook Pull,Rapspine,F4,Warrior+,B
+MV-ELI-TON-005-07,Horizon Turn Shield,Thorn Tonfashaft,F2,Warrior+,B
+MV-ELI-TON-005-08,Skyfall Rail Hammer,Berserk Forearmside,F1,Warrior+,B
+MV-ELI-TON-005-09,Open Azure Reach Thrust,Nova Handlepeg,F2,Warrior+,B
+MV-ELI-TON-005-10,Azure Zenith Rail Strike,Facet Forearm,F2,Warrior+,B
+MV-ELI-TON-006-01,Monarch Court Posture,Inexorable Forearmside,F1,Warrior+,B
+MV-ELI-TON-006-02,Steady Paired Rap,Unsparing Spinpeg,F1,Warrior+,B
+MV-ELI-TON-006-03,Level Rail Check,Mayhem Spinflip,F2,Warrior+,B
+MV-ELI-TON-006-04,Monarch Rail Binding Cross,Overpowering Knock,F1,Warrior+,B
+MV-ELI-TON-006-05,Weighted Twin Strike,Gnashing Tap,F1,Warrior+,B
+MV-ELI-TON-006-06,Rooted Rail Parry,Chime Elbowside,F2,Warrior+,B
+MV-ELI-TON-006-07,Heavy Paired Rail Slam,Raphavoc,F4,Warrior+,B
+MV-ELI-TON-006-08,Paired Rail Chain Breaker,Intent Rearend,F2,Warrior+,B
+MV-ELI-TON-006-09,Court Elder Rail Descent,Gripbar Ruin,F3,Warrior+,B
+MV-ELI-TON-007-01,Oath Rail Stance,Aegis Handlepeg,F2,Warrior+,B
+MV-ELI-TON-007-02,Sworn Short Jab,Sanguine Shortshaft,F2,Warrior+,B
+MV-ELI-TON-007-03,Vow Line Parry,Equipoise Tonfashaft,F2,Warrior+,B
+MV-ELI-TON-007-04,Oath Pace Forward,Blinding Rap,F1,Warrior+,B
+MV-ELI-TON-007-05,Oath Pressed Rail Shove,Grievous Forearm,F1,Warrior+,B
+MV-ELI-TON-007-06,Binding Vow Hook,Ponderous Rap,F2,Warrior+,B
+MV-ELI-TON-007-07,Wind Sworn Block Return,Tonfamettle,F4,Warrior+,B
+MV-ELI-TON-007-08,Oath Kept Rail Hammer,Knockhavoc,F4,Warrior+,B
+MV-ELI-TON-007-09,Sworn Gale Wheel,Thornbar,F5,Warrior+,B
+MV-ELI-TON-007-10,Unbroken Oath Strike,Handlepeg Devastation,F3,Warrior+,B
+MV-ELI-TON-008-01,Bearing Hold Stance,Aegis Forearmside,F2,Warrior+,B
+MV-ELI-TON-008-02,Head Wind Rail Poke,Gustknock,F5,Warrior+,B
+MV-ELI-TON-008-03,Tail Wind Parry Turn,Barmettle,F4,Warrior+,B
+MV-ELI-TON-008-04,Bearing Corrected Strike,Granite Sidehandle,F2,Warrior+,B
+MV-ELI-TON-008-05,Crosswind Parry Return,Spinpeg Spine,F3,Warrior+,B
+MV-ELI-TON-008-06,Lee Side Slip Step,Vanishing Rearend,F1,Warrior+,B
+MV-ELI-TON-008-07,Fixed Bearing Piercing Thrust,Hollow Tap,F2,Warrior+,B
+MV-ELI-TON-008-08,Wind Shift Rail Counter,Might Jolt,F2,Warrior+,B
+MV-ELI-TON-008-09,True Bearing Gale Smash,Shattering Jolt,F1,Warrior+,B
+MV-ELI-TON-009-01,Edge Stance Rail Hold,Obdurate Gripbar,F1,Warrior+,B
+MV-ELI-TON-009-02,Rim Rail Poke,Corroding Forearm,F1,Warrior+,B
+MV-ELI-TON-009-03,Drop Edge Parry,Barnerve,F4,Warrior+,B
+MV-ELI-TON-009-04,Scree Slip Step,Lightning Knock,F1,Warrior+,B
+MV-ELI-TON-009-05,Cliff Line Press,Rumble Shortshaft,F2,Warrior+,B
+MV-ELI-TON-009-06,Edge Pressed Rail Shove,Ironbar,F5,Warrior+,B
+MV-ELI-TON-009-07,Rimline Wrist Hook,Rumble Elbowside,F2,Warrior+,B
+MV-ELI-TON-009-08,Plateau Wind Rap,Blazejolt,F5,Warrior+,B
+MV-ELI-TON-009-09,Edge Guard Roll,Unbowed Handlepeg,F1,Warrior+,B
+MV-ELI-TON-009-10,Over the Rim Rail Throw,Shadetap,F5,Warrior+,B
+MV-ELI-TON-009-11,Plateau Pinning Wheel,Gyverap,F5,Warrior+,B
+MV-ELI-TON-009-12,Last Edge Rail Drive,Spinflip Reckoning,F3,Warrior+,B
+MV-ELI-TON-010-01,Crosswind Lean Guard,Aegis Roundend,F2,Warrior+,B
+MV-ELI-TON-010-02,Long Gust Handle Rap,Tempered Spinpeg,F2,Warrior+,B
+MV-ELI-TON-010-03,Gust Break Rail Parry,Roundend Tenacity,F3,Warrior+,B
+MV-ELI-TON-010-04,Drifting Sidestep,Silt Shortshaft,F2,Warrior+,B
+MV-ELI-TON-010-05,Crosswind Raking Sweep,Tonfaruin,F4,Warrior+,B
+MV-ELI-TON-010-06,Reeling Gust Hook,Rumble Knock,F2,Warrior+,B
+MV-ELI-TON-010-07,Spun Sail Shield,Charter Sidehandle,F2,Warrior+,B
+MV-ELI-TON-010-08,Long Crosswind Thrust,Hellish Rearend,F1,Warrior+,B
+MV-ELI-TON-010-09,Crosswind Wheel Strike Chain,Tonfawrath,F4,Warrior+,B
+MV-ELI-TON-010-10,Unending Crosswind Barrage,Booming Hour Spinflip,F6a,Warrior+,B
+MV-ELI-TON-011-01,Open Ground Rail Guard,Granite Gripbar,F2,Warrior+,B
+MV-ELI-TON-011-02,Unsheltered Rail Jab,Iron Forearmside,F2,Warrior+,B
+MV-ELI-TON-011-03,Bare Plain Parry,Torrent Roundend,F2,Warrior+,B
+MV-ELI-TON-011-04,Open Field Spin Block,Impervious Tonfashaft,F1,Warrior+,B
+MV-ELI-TON-011-05,Exposed Flank Rail Rap,Mighthandle,F5,Warrior+,B
+MV-ELI-TON-011-06,No Cover Step,Silt Tap,F2,Warrior+,B
+MV-ELI-TON-011-07,Boundless Rail Guard,Hoarfrost Elbowside,F2,Warrior+,B
+MV-ELI-TON-011-08,Wide Open Counter Strike,Tempered Jolt,F2,Warrior+,B
+MV-ELI-TON-011-09,Skyward Open Rail Stroke,Vengeful Roundend Havoc,F6b,Warrior+,B
+MV-ELI-TON-012-01,Gale Reader Opening Guard,Hoarfrost Handlepeg,F2,Warrior+,B
+MV-ELI-TON-012-02,Monarch Weight Jab,Sanguine Forearm,F2,Warrior+,B
+MV-ELI-TON-012-03,Bearing Cross Rail Parry,Handlemettle,F4,Warrior+,B
+MV-ELI-TON-012-04,Long Draft Step,Torrent Rearend,F2,Warrior+,B
+MV-ELI-TON-012-05,Wind Rail Check,Chime Forearmside,F2,Warrior+,B
+MV-ELI-TON-012-06,Open Gale Shoving Rail,Blistering Jolt,F1,Warrior+,B
+MV-ELI-TON-012-07,Monarch Gale Lock,Ponderous Tonfashaft,F2,Warrior+,B
+MV-ELI-TON-012-08,Drafted Rail Counter,Torrent Shortshaft,F2,Warrior+,B
+MV-ELI-TON-012-09,Monarch Gale Rail Slam,Lacerating Sidehandle,F1,Warrior+,B
+MV-ELI-TON-012-10,Heavy Gale Flurry Cover,Unbudging Gripbar,F1,Warrior+,B
+MV-ELI-TON-012-11,Wide Gale Rail Reckoning,Blaze Knock,F2,Warrior+,B
+MV-ELI-TON-008-07,Hollow Tap,Piercing Tap,F2,Warrior+,B

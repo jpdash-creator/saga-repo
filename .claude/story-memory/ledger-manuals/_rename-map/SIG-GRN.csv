@@ -1,0 +1,72 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-GRN-001-01,Court Greeting Shell Pass,Interstice Pinring,F2,Warrior L1 Low,B
+MV-SIG-GRN-001-02,Courtyard Pacing Lob,Thunderclap Fragmentation,F2,Warrior L1 Low,B
+MV-SIG-GRN-001-03,Colonnade Pillar Turning,Steellever,F5,Warrior L1 Low,B
+MV-SIG-GRN-001-04,Lantern-Lit Fuse Check,Reminiscence Fragment,F2,Warrior L1 Low,B
+MV-SIG-GRN-001-05,Partner-Screened Lob,Thunderclap Spoon,F2,Warrior L1 Low,B
+MV-SIG-GRN-001-06,Gallery Rail Drop,Dunespoon,F5,Warrior L1 Low,B
+MV-SIG-GRN-001-07,Cross-Court Tripcord Net,Dune Lever,F2,Champion L1 Low,B
+MV-SIG-GRN-001-08,Marble Ricochet Barrage,Solarcasing,F5,Champion L1 Low,B
+MV-SIG-GRN-001-09,Hall-Wide Mirror Burst,Magma Concussion,F2,Demigod L1 Low,B
+MV-SIG-GRN-001-10,Azure Court Shell Dance,Famed Cap,F1,Warrior L1 Low,B
+MV-SIG-GRN-002-01,Hawk Shoulder Shrug Throw,Pulsar Sizzle,F2,Warrior L5 Mid,B
+MV-SIG-GRN-002-02,Basin Cupped Hands Steady,Pealkaboom,F5,Warrior L5 Mid,B
+MV-SIG-GRN-002-03,Stoop-Rise Cover Hop,Kaboomgrace,F4,Warrior L5 Mid,B
+MV-SIG-GRN-002-04,Distant Fuse Smoke Reading,Lifegiving Firecap,F1,Warrior L5 Mid,B
+MV-SIG-GRN-002-05,Basin Lip Resting Lob,Gallant Fuse,F1,Warrior L5 Mid,B
+MV-SIG-GRN-002-06,Plunge and Rise Pitch,Glacier Shrapnel,F2,Warrior L5 Mid,B
+MV-SIG-GRN-002-07,Blast Lift Shoulder Lean,Fuse Vow,F3,Warrior L5 Mid,B
+MV-SIG-GRN-002-08,Basin Fill Volley,Illustrious Casing,F1,Champion L1 Low,B
+MV-SIG-GRN-002-09,Marked Roof Dive Throw,Vacuum Detonate,F2,Champion L1 Low,B
+MV-SIG-GRN-002-10,Middle Height Crossing Burst,Dune Shockwave,F2,Demigod L1 Low,B
+MV-SIG-GRN-002-11,Hawk-and-Basin Closing Doctrine,Triumphant Casing Crown,F6b,Warrior L5 Mid,B
+MV-SIG-GRN-003-01,Twin Current Footwork,Squall Shockwave,F2,Champion L3 Low,B
+MV-SIG-GRN-003-02,Confluence Mark Sighting,Reminiscence Lever,F2,Champion L3 Low,B
+MV-SIG-GRN-003-03,Tributary Count Chant,Casinggift,F4,Champion L3 Low,B
+MV-SIG-GRN-003-04,Wet Bank Heel Anchoring,Sanctum Powderchamber,F2,Champion L3 Low,B
+MV-SIG-GRN-003-05,Confluence Lob,Squall Spoon,F2,Champion L3 Low,B
+MV-SIG-GRN-003-06,Split Channel Cast,Dunekaboom,F5,Champion L3 Low,B
+MV-SIG-GRN-003-07,Backwater Hollow Drop,Inviolate Fragment,F1,Champion L3 Low,B
+MV-SIG-GRN-003-08,Drift Log Shell Launch,Prismcasing,F5,Champion L3 Low,B
+MV-SIG-GRN-003-09,Two-Stream Shell Barrage,Tempestuous Powderchamber,F2,Champion L3 Low,B
+MV-SIG-GRN-003-10,Weir Wading Trap Line,Leverpledge,F4,Champion L3 Low,B
+MV-SIG-GRN-003-11,Meeting of Waters Burst,Royal Kaboom,F1,Demigod L1 Low,B
+MV-SIG-GRN-003-12,Twin River Fuse Rite,Concussion Decree,F3,Champion L3 Low,B
+MV-SIG-GRN-004-01,Court of Two Opening Bow,Revelation Firecap,F2,Ruler L1 Mid,B
+MV-SIG-GRN-004-02,Echoing Half-Beat Step,Dune Sizzle,F2,Ruler L1 Mid,B
+MV-SIG-GRN-004-03,Hiding Partner Crouch,Undaunted Cap,F1,Ruler L1 Mid,B
+MV-SIG-GRN-004-04,Answering Throw,Famed Detonate,F1,Ruler L1 Mid,B
+MV-SIG-GRN-004-05,Over-the-Shoulder Handoff,Radiance Shrapnel,F2,Ruler L1 Mid,B
+MV-SIG-GRN-004-06,Split Lines Rejoining,Casingvoyage,F4,Ruler L1 Mid,B
+MV-SIG-GRN-004-07,Doubled Fall Volley,Inferno Fragmentation,F2,Ruler L1 Mid,B
+MV-SIG-GRN-004-08,Two-Sided Yard Closing,Artful Shrapnel,F1,Ruler L1 Mid,B
+MV-SIG-GRN-004-09,Two-Throwers Lock Strike,Imperial Sizzle,F1,Demigod L1 Low,B
+MV-SIG-GRN-004-10,Court of Two Throwers Rite,Triumphant Magma Cap,F6a,Ruler L1 Mid,B
+MV-SIG-GRN-005-01,Wide Field Scanning,Luminous Casing,F1,Demigod L4 Low,B
+MV-SIG-GRN-005-02,Low-Weight Perch Settling,Statute Spoon,F2,Demigod L4 Low,B
+MV-SIG-GRN-005-03,Held Shell Patience,Prismcap,F5,Demigod L4 Low,B
+MV-SIG-GRN-005-04,Pinpoint Gap Drop,Paramount Concussion,F1,Demigod L4 Low,B
+MV-SIG-GRN-005-05,Field-Felt Fuse Count,Revelation Lever,F2,Demigod L4 Low,B
+MV-SIG-GRN-005-06,Shifting Perch Relocation,Sizzlesolace,F4,Demigod L4 Low,B
+MV-SIG-GRN-005-07,Hawk Cry Distraction Lob,Reminiscence Fuse,F2,Demigod L4 Low,B
+MV-SIG-GRN-005-08,Far Mark Steady Rain,Magmasizzle,F5,Demigod L4 Low,B
+MV-SIG-GRN-005-09,Needle Through the Gap,Exalted Shockwave,F1,Demigod L4 Low,B
+MV-SIG-GRN-005-10,Hawk-Eyed Single Strike,Quenched Fragment,F2,Demigod L4 Low,B
+MV-SIG-GRN-005-11,Hawk-Eyed Grenadier Doctrine,Vaunted Season Pinring,F6a,Demigod L4 Low,B
+MV-SIG-GRN-006-01,Core Steadied Palm,Peal Pinring,F2,Core Formation L2 Mid,B
+MV-SIG-GRN-006-02,Sky and Weather Reading,Pealcasing,F5,Core Formation L2 Mid,B
+MV-SIG-GRN-006-03,Basin-Shaped Footing,Unwavering Powderchamber,F1,Core Formation L2 Mid,B
+MV-SIG-GRN-006-04,Deep River Pace Walking,Bedrock Firecap,F2,Core Formation L2 Mid,B
+MV-SIG-GRN-006-05,Core-Driven Long Lob,Pulsarcasing,F5,Core Formation L2 Mid,B
+MV-SIG-GRN-006-06,Basin Rim Rolling Strike,Sovereign Sizzle,F1,Core Formation L2 Mid,B
+MV-SIG-GRN-006-07,River Dive Withdrawal,Wraithlike Detonate,F1,Core Formation L2 Mid,B
+MV-SIG-GRN-006-08,High Smoke Veil Cast,Despotic Firecap,F1,Core Formation L2 Mid,B
+MV-SIG-GRN-006-09,River-Fed Basin Barrage,Demolition Detonate,F2,Core Formation L2 Mid,B
+MV-SIG-GRN-006-10,Held Weight Burst Snare,Sigil Powderchamber,F2,Core Formation L2 Mid,B
+MV-SIG-GRN-006-11,Sky Basin River Convergence,Vaunted Kaboom,F1,Core Formation L2 Mid,B
+MV-SIG-GRN-006-12,Basin Sky and River Fire Rite,Casingedict,F4,Core Formation L2 Mid,B
+MV-SIG-GRN-001-07,Dune Lever,Tangling Lever,F2,Champion L1 Low,B
+MV-SIG-GRN-002-06,Glacier Shrapnel,Thunderous Shrapnel,F2,Warrior L5 Mid,B
+MV-SIG-GRN-002-10,Dune Shockwave,Thunderous Shockwave,F2,Demigod L1 Low,B
+MV-SIG-GRN-003-04,Sanctum Powderchamber,Unyielding Powderchamber,F2,Champion L3 Low,B
+MV-SIG-GRN-004-02,Dune Sizzle,Gliding Sizzle,F2,Ruler L1 Mid,B

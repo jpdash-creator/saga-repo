@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-NET-001-01,Shoulder-Loop Gather,Sinker Count,F3,Unawakened,A
+MV-BAS-NET-001-02,Hip-Low Fan Throw,Flat Knotwork,F1,Unawakened,A
+MV-BAS-NET-001-03,Hem-Drag Ankle Snare,Nabbing Meshgrid,F1,Unawakened,A
+MV-BAS-NET-001-04,Corner-Held Sidestep,Drawcord Amble,F3,Unawakened,A
+MV-BAS-NET-001-05,Folded-Mesh Forearm Parry,Sinkerhusk,F4,Unawakened,A
+MV-BAS-NET-002-01,Knuckle-Pinch Mesh Grip,Meshcount,F4,Skin,A
+MV-BAS-NET-002-02,Over-Arm Spread Cast,Straight Billow,F1,Skin,A
+MV-BAS-NET-002-03,Lead-Weight Whip Lash,Short Spread,F1,Skin,A
+MV-BAS-NET-002-04,Slack-Line Retreat Step,Backward Weave,F1,Skin,A
+MV-BAS-NET-002-05,Tangle-Shoulder Pull,Drapelid,F4,Skin,A
+MV-BAS-NET-002-06,Mesh Curtain Sweep,Weavewedge,F4,Skin,A
+MV-BAS-NET-003-01,Hem-Count Check,Weavegauge,F4,Muscle,A
+MV-BAS-NET-003-02,Two-Hand Loft Throw,Narrow Floatrope,F1,Muscle,A
+MV-BAS-NET-003-03,Dragging Hem Hobble,Tripping Loopmesh,F1,Muscle,A
+MV-BAS-NET-003-04,Pivot-Foot Net Whirl,Angled Mesh,F1,Muscle,A
+MV-BAS-NET-003-05,Knot-Eye Poke,Drape Blow,F3,Muscle,A
+MV-BAS-NET-003-06,Sagging Mesh Block,Weavehusk,F4,Muscle,A
+MV-BAS-NET-003-07,Cord-Slip Release,Billowcowl,F4,Muscle,A
+MV-BAS-NET-004-01,Wide-Mouth Feeling Pull,Even Weave,F1,Tendon,A
+MV-BAS-NET-004-02,Tether-Hand Fling,Stiff Hemcord,F1,Tendon,A
+MV-BAS-NET-004-03,Tether Snap Haul,Tripping Smother,F1,Tendon,A
+MV-BAS-NET-004-04,Mesh-Behind-Back Feint,Spreadlid,F4,Tendon,A
+MV-BAS-NET-004-05,Short-Leash Wrap Turn,Billow Lid,F3,Tendon,A
+MV-BAS-NET-004-06,Bankside Slide Step,Haulinamble,F4,Tendon,A
+MV-BAS-NET-004-07,Overlap Fold Shield,Meshgrid Pause,F3,Tendon,A
+MV-BAS-NET-004-08,Weight-Knock Rap,Hemcord Drop,F3,Tendon,A
+MV-BAS-NET-005-01,Hoop-Rim Grip Hold,Measured Leadedge,F1,Bone,A
+MV-BAS-NET-005-02,Hoop Scoop Lift,Hitching Smother,F1,Bone,A
+MV-BAS-NET-005-03,Bag-Mouth Slam,Square Spread,F1,Bone,A
+MV-BAS-NET-005-04,Hoop-Edge Deflect,Settled Drawcord,F1,Bone,A
+MV-BAS-NET-005-05,Short Hoop Hop,Easing Enmesh,F1,Bone,A
+MV-BAS-NET-005-06,Catch-Pole Pin,Haulinhusk,F4,Bone,A
+MV-BAS-NET-006-01,Qi-Thread Mesh Warming,Gentle Knotwork,F1,Senior,A
+MV-BAS-NET-006-02,Breath-Timed Net Throw,Spreadstrike,F4,Senior,A
+MV-BAS-NET-006-03,Cord Pulse Cinch,Spreadwedge,F4,Senior,A
+MV-BAS-NET-006-04,Mesh Glide Step,Weavepace,F4,Senior,A
+MV-BAS-NET-006-05,Qi-Lined Hem Parry,Meshstay,F4,Senior,A
+MV-BAS-NET-007-01,Lead-Line Measure,Mesh Gauge,F3,Senior,A
+MV-BAS-NET-007-02,Rising Spread Throw,Haulindash,F4,Senior,A
+MV-BAS-NET-007-03,Sinker Lash,Loopmesh Strike,F3,Senior,A
+MV-BAS-NET-007-04,Low Gather Turn,Stepping Drape,F1,Senior,A
+MV-BAS-NET-007-05,Breath-Held Line Snap,Sinker Wedge,F3,Senior,A
+MV-BAS-NET-007-06,Draped-Mesh Slip,Leadedge Husk,F3,Senior,A
+MV-BAS-NET-007-07,Fall-Line Reel,Locking Enmesh,F1,Senior,A
+MV-BAS-NET-008-01,Falling-Ring Reading,Loopmesh Count,F3,Senior,A
+MV-BAS-NET-008-02,Cast-Ring Opening,Knotwork Strike,F3,Senior,A
+MV-BAS-NET-008-03,Ring-Edge Rap,Quick Sinker,F1,Senior,A
+MV-BAS-NET-008-04,Settle-and-Cinch,Fouling Floatrope,F1,Senior,A
+MV-BAS-NET-008-05,Skirt Fan Block,Tight Leadedge,F1,Senior,A
+MV-BAS-NET-008-06,Drift Foot Shift,Drapepace,F4,Senior,A
+MV-BAS-NET-009-01,Closing-Cord Check,Calm Hemcord,F1,Senior,A
+MV-BAS-NET-009-02,Purse-String Throw,Leaden Floatrope,F1,Senior,A
+MV-BAS-NET-009-03,Purse Draw Cinch,Spreadpause,F4,Senior,A
+MV-BAS-NET-009-04,Cord-End Flick,Sudden Haulin,F1,Senior,A
+MV-BAS-NET-009-05,Loose-Purse Bluff,Pulling Haulin,F1,Senior,A
+MV-BAS-NET-009-06,Cord-Wrap Parry,Ready Drawcord,F1,Senior,A
+MV-BAS-NET-009-07,Sidelong Cord Step,Easing Meshgrid,F1,Senior,A
+MV-BAS-NET-009-08,Net-Over-Head Cover,Raised Weave,F1,Senior,A
+MV-BAS-NET-010-01,Double-Net Carry,Sinkergauge,F4,Senior,A
+MV-BAS-NET-010-02,Near-Net Far-Net Throw,Firm Mesh,F1,Senior,A
+MV-BAS-NET-010-03,Second-Net Snare,Pulling Enmesh,F1,Senior,A
+MV-BAS-NET-010-04,Cord-Between Trip,Pushing Spread,F1,Senior,A
+MV-BAS-NET-010-05,Off-Hand Net Parry,Weavestay,F4,Senior,A
+MV-BAS-NET-010-06,Cross-Step Gather,Backward Haulin,F1,Senior,A

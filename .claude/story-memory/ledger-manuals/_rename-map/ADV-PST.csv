@@ -1,0 +1,79 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-PST-001-01,Spent Piece Club Hold,Barrelhauberk,F4,Champion L1 Low,B
+MV-ADV-PST-001-02,Second Pistol Belt Lift,Barrel Maelstrom,F3,Champion L1 Low,B
+MV-ADV-PST-001-03,Fire Then Drop Step,Might Pistolgrip,F2,Champion L1 Low,B
+MV-ADV-PST-001-04,Smoke Hidden Reload Crouch,Cleaving Cylinder,F1,Champion L1 Low,B
+MV-ADV-PST-001-05,Qi Cocked Second Report,Glint Hammer,F2,Champion L1 Low,B
+MV-ADV-PST-001-06,Foe Flinch Reading Pause,Chimebarrel,F5,Champion L1 Low,B
+MV-ADV-PST-001-07,Overarm Spent Pistol Throw,Dominating Quickdraw,F1,Champion L1 Low,B
+MV-ADV-PST-001-08,Double Ball Single Wound,Lanyardring Thrash,F3,Champion L1 Low,B
+MV-ADV-PST-001-09,Three Beat Closing Sequence,Lotpistol,F5,Champion L1 Low,B
+MV-ADV-PST-002-01,Field Breath Barrel Draw,Chimehammer,F5,Demigod L1 Low,B
+MV-ADV-PST-002-02,Powder Qi Seeding,Unmaking Pointblank,F1,Demigod L1 Low,B
+MV-ADV-PST-002-03,Ramrod Qi Pulse Seat,Rupturing Triggerbar,F1,Demigod L1 Low,B
+MV-ADV-PST-002-04,Palm Smoke Clearing Wave,Hoarfrost Frizzen,F2,Demigod L1 Low,B
+MV-ADV-PST-002-05,Grip Field Tremor Read,Pistolelixir,F4,Demigod L1 Low,B
+MV-ADV-PST-002-06,Film Wrapped Ball,Grinding Flashpan,F1,Demigod L1 Low,B
+MV-ADV-PST-002-07,Bore Thread Long Arc,Muzzleassault,F4,Demigod L1 Low,B
+MV-ADV-PST-002-08,Hammer Ring Guard Jar,Hipshot Hauberk,F3,Demigod L1 Low,B
+MV-ADV-PST-002-09,Spiral Bound Ball Bite,Nova Thumbback,F2,Demigod L1 Low,B
+MV-ADV-PST-002-10,Gathered Field Pistol Fan,Lambasting Foresight,F1,Demigod L1 Low,B
+MV-ADV-PST-003-01,Threshold Pause Muzzle Lead,Glintreport,F5,Champion L3 Mid,B
+MV-ADV-PST-003-02,Corner Dark Barrel Sweep,Waning Frizzen,F2,Champion L3 Mid,B
+MV-ADV-PST-003-03,Shoulder Door Slam Entry,Rumble Snapfire,F2,Champion L3 Mid,B
+MV-ADV-PST-003-04,Low Bench Vault Landing,Muzzle Sprint,F3,Champion L3 Mid,B
+MV-ADV-PST-003-05,Doorway Looking Foe Pick,Hammer Onslaught,F3,Champion L3 Mid,B
+MV-ADV-PST-003-06,Window Pool Shade Hug,Torrent Report,F2,Champion L3 Mid,B
+MV-ADV-PST-003-07,Doorway Closed by Report,Stifling Pointblank,F1,Champion L3 Mid,B
+MV-ADV-PST-003-08,Room Circuit Falling Shots,Muzzletorment,F4,Champion L3 Mid,B
+MV-ADV-PST-004-01,Stance to Shot Full Drill,Tearing Cylinder,F1,Demigod L2 Low,B
+MV-ADV-PST-004-02,Grip Reset Barrel Check,Chime Foresight,F2,Demigod L2 Low,B
+MV-ADV-PST-004-03,Lowered Muzzle Retreat Walk,Granite Triggerbar,F2,Demigod L2 Low,B
+MV-ADV-PST-004-04,Barrel Up Guard Turn,Gustbarrel,F5,Demigod L2 Low,B
+MV-ADV-PST-004-05,Heavy Butt Short Strike,Needling Quickdraw,F1,Demigod L2 Low,B
+MV-ADV-PST-004-06,Blind Pan Priming,Rumble Lanyardring,F2,Demigod L2 Low,B
+MV-ADV-PST-004-07,Qi Lined Bore Aim,Rumblebarrel,F5,Demigod L2 Low,B
+MV-ADV-PST-004-08,Reload Stride Rhythm,Hastening Hipshot,F1,Demigod L2 Low,B
+MV-ADV-PST-004-09,Shot Hand Switch Shot,Transfixing Thumbback,F1,Demigod L2 Low,B
+MV-ADV-PST-004-10,Smoke Wall Blind Drift,Snapfire Cloak,F3,Demigod L2 Low,B
+MV-ADV-PST-004-11,Master's Measured Return,Compounding Barrel,F1,Demigod L2 Low,B
+MV-ADV-PST-004-12,Lock Spring Qi Tuning,Daybreak Pistolgrip,F2,Demigod L2 Low,B
+MV-ADV-PST-005-01,Hawk Wing Pistol Stance,Torrent Thumbback,F2,Champion L2 Mid,B
+MV-ADV-PST-005-02,Twin Belt Hawk Draw,Barrelassault,F4,Champion L2 Mid,B
+MV-ADV-PST-005-03,Hawk Eye Crossing Fire,Chime Cylinder,F2,Champion L2 Mid,B
+MV-ADV-PST-005-04,Paired Barrel Wing Guard,Hardened Hammer,F1,Champion L2 Mid,B
+MV-ADV-PST-005-05,Mirror Step Pistol Turn,Gust Frizzen,F2,Champion L2 Mid,B
+MV-ADV-PST-005-06,Twin Pan Matched Prime,Lancing Flashpan,F1,Champion L2 Mid,B
+MV-ADV-PST-005-07,Left Right Hawk Cadence,Blaze Flashpan,F2,Champion L2 Mid,B
+MV-ADV-PST-005-08,Twin Muzzle Scissor Cross,Foresight Hauberk,F3,Champion L2 Mid,B
+MV-ADV-PST-005-09,Dual Track Qi Handoff,Wrecking Report,F1,Champion L2 Mid,B
+MV-ADV-PST-005-10,Hawk Wing Volley Spread,Hour Muzzle,F2,Champion L2 Mid,B
+MV-ADV-PST-005-11,Hawk Stoop Paired Strike,Ravaging Report Onslaught,F6b,Champion L2 Mid,B
+MV-ADV-PST-006-01,Basin Rim Rest Shot,Scorching Hipshot,F1,Demigod L1 Mid,B
+MV-ADV-PST-006-02,River Bend Pistol Turn,Muzzleleap,F4,Demigod L1 Mid,B
+MV-ADV-PST-006-03,Azure Line Front Sight,Novareport,F5,Demigod L1 Mid,B
+MV-ADV-PST-006-04,Stone Ford Barrel Guard,Torrent Triggerbar,F2,Demigod L1 Mid,B
+MV-ADV-PST-006-05,Current Reading Lead,Glintmuzzle,F5,Demigod L1 Mid,B
+MV-ADV-PST-006-06,Eddy Sidestep Return,Surging Pistolgrip,F1,Demigod L1 Mid,B
+MV-ADV-PST-006-07,Silt Cloud Muzzle Smoke,Remnant Lanyardring,F2,Demigod L1 Mid,B
+MV-ADV-PST-006-08,Where the Water Runs,Pistolassault,F4,Demigod L1 Mid,B
+MV-ADV-PST-006-09,Flood Crest Shot Line,Drubbing Pointblank,F1,Demigod L1 Mid,B
+MV-ADV-PST-007-01,Dual Track Muzzle Lead,Hoarfrost Pistolgrip,F2,Champion L5 Mid,B
+MV-ADV-PST-007-02,Pistol Foot Same Beat,Glancing Barrel,F1,Champion L5 Mid,B
+MV-ADV-PST-007-03,Paired Rhythm Draw Stop,Blaze Muzzle,F2,Champion L5 Mid,B
+MV-ADV-PST-007-04,Foot Track Guard Turn,Facet Hammer,F2,Champion L5 Mid,B
+MV-ADV-PST-007-05,Hand Track Barrel Rap,Hammercloak,F4,Champion L5 Mid,B
+MV-ADV-PST-007-06,Twin Cadence Hip Fire,Hoarfrost Thumbback,F2,Champion L5 Mid,B
+MV-ADV-PST-007-07,Stride Matched Reload Pour,Glint Foresight,F2,Champion L5 Mid,B
+MV-ADV-PST-007-08,Track Switch Feint Step,Pistolhauberk,F4,Champion L5 Mid,B
+MV-ADV-PST-007-09,Never Pausing Pair,Lot Lanyardring,F2,Champion L5 Mid,B
+MV-ADV-PST-007-10,Foot Fired Pivot Burst,Raging Triggerbar,F1,Champion L5 Mid,B
+MV-ADV-PST-008-01,Twin Ball Powder Measure,Rumblepistol,F5,Demigod L3 Mid,B
+MV-ADV-PST-008-02,One Breath Level Aim,Hoarfrost Quickdraw,F2,Demigod L3 Mid,B
+MV-ADV-PST-008-03,Azure Hawk Sight Line,Discerning Muzzle,F1,Demigod L3 Mid,B
+MV-ADV-PST-008-04,Recoil Share Wrist Settle,Hipshot Thrash,F3,Demigod L3 Mid,B
+MV-ADV-PST-008-05,Twin Ball Rammed Seat,Blaze Report,F2,Demigod L3 Mid,B
+MV-ADV-PST-008-06,Paired Spark Pan Catch,Chime Flashpan,F2,Demigod L3 Mid,B
+MV-ADV-PST-008-07,Twin Ball Single Breath,Facetbarrel,F5,Demigod L3 Mid,B
+MV-ADV-PST-008-08,Twin Ball Split Arc,Cleaving Pointblank,F1,Demigod L3 Mid,B
+MV-ADV-PST-005-11,Ravaging Report Onslaught,Ravaging Report,F6b,Champion L2 Mid,B

@@ -1,0 +1,119 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-BUC-001-01,Outer Layer Hold,Peltagreave,F4,Champion,B
+MV-ADV-BUC-001-02,Staggered Cover Pace,Might Snapblock,F2,Champion,B
+MV-ADV-BUC-001-03,First Layer Rap,Chimepelta,F5,Champion,B
+MV-ADV-BUC-001-04,Bracing Elbow Press,Roundface Assault,F3,Champion,B
+MV-ADV-BUC-001-05,Qi Over Qi Sheath,Lightrim Fastness,F3,Champion,B
+MV-ADV-BUC-001-06,Rising Rap Chain,Murkpelta,F5,Champion,B
+MV-ADV-BUC-001-07,Three-Layer Screen,Hoarfrost Umbo,F2,Champion,B
+MV-ADV-BUC-001-08,Layer-Breaking Counter,Parry Torment,F3,Champion,B
+MV-ADV-BUC-002-01,Returning Angle Read,Restoring Edgeplate,F1,Champion,B
+MV-ADV-BUC-002-02,Flat Plate Receive,Thorn Smallface,F2,Champion,B
+MV-ADV-BUC-002-03,Edge Rebound Tap,Bucklerredge Cloak,F3,Champion,B
+MV-ADV-BUC-002-04,Rebound Step,Silt Tuckin,F2,Champion,B
+MV-ADV-BUC-002-05,Return Dome Rap,Dab Assault,F3,Champion,B
+MV-ADV-BUC-002-06,Reversing Plate Sweep,Murk Knucklegrip,F2,Champion,B
+MV-ADV-BUC-002-07,Qi Rebound Brace,Punchboss Cloak,F3,Champion,B
+MV-ADV-BUC-002-08,Echoed Strike,Blazeparry,F5,Champion,B
+MV-ADV-BUC-002-09,Full Cut Return,Verity Knucklegrip,F2,Champion,B
+MV-ADV-BUC-002-10,Reflected Thrust Turn,Enduring Waning Lightrim,F6a,Champion,B
+MV-ADV-BUC-003-01,Field Edge Hold,Charter Centergrip,F2,Demigod,B
+MV-ADV-BUC-003-02,Field Carry Step,Torrent Nudge,F2,Demigod,B
+MV-ADV-BUC-003-03,Plate and Field Rap,Equipoise Armstrap,F2,Demigod,B
+MV-ADV-BUC-003-04,Field Pulse Jab,Granite Bucklerredge,F2,Demigod,B
+MV-ADV-BUC-003-05,Thickened Field Cover,Targecloak,F4,Demigod,B
+MV-ADV-BUC-003-06,Field-Weighted Dome Knock,Gust Roundface,F2,Demigod,B
+MV-ADV-BUC-003-07,Disturbance Feel Spread,Restoring Centergrip,F1,Demigod,B
+MV-ADV-BUC-003-08,Pressing Field Screen,Edgeplate Cloak,F3,Demigod,B
+MV-ADV-BUC-003-09,Boss Burst Release,Daybreak Snapblock,F2,Demigod,B
+MV-ADV-BUC-004-01,Guard-Popping Rap,Tempered Umbo,F2,Demigod,B
+MV-ADV-BUC-004-02,Iron Rim Drop,Might Punchblock,F2,Demigod,B
+MV-ADV-BUC-004-03,Heavy Plate Bash,Punchblock Maelstrom,F3,Demigod,B
+MV-ADV-BUC-004-04,Full Extension Catch,Mantled Punchboss,F1,Demigod,B
+MV-ADV-BUC-004-05,Opening Gap Step,Dab Leap,F3,Demigod,B
+MV-ADV-BUC-004-06,Overhand Break Parry,Chimeumbo,F5,Demigod,B
+MV-ADV-BUC-004-07,Skull-Shaking Dome Strike,Granite Tuckin,F2,Demigod,B
+MV-ADV-BUC-004-08,Forced Opening Rap,Toxin Parry,F2,Demigod,B
+MV-ADV-BUC-004-09,Blade-Bending Press,Paralyzing Nudge,F1,Demigod,B
+MV-ADV-BUC-004-10,Guard Shattering Smash,Nudgebarrage,F4,Demigod,B
+MV-ADV-BUC-004-11,Breaking Wave Sweep,Mayhemtuckin,F5,Demigod,B
+MV-ADV-BUC-005-01,Paired Hand Ready Stance,Iron Smallface,F2,Champion,B
+MV-ADV-BUC-005-02,Twin Answer Parry,Gust Armstrap,F2,Champion,B
+MV-ADV-BUC-005-03,Plate-Led Feint,Sanguine Smallface,F2,Champion,B
+MV-ADV-BUC-005-04,Blade-Led Thrust Close,Edgeplate Maelstrom,F3,Champion,B
+MV-ADV-BUC-005-05,Mirrored Foot Step,Might Punchboss,F2,Champion,B
+MV-ADV-BUC-005-06,Rim and Edge Double Cut,Centergrip Assault,F3,Champion,B
+MV-ADV-BUC-005-07,Two Tracks Cover,Facettarge,F5,Champion,B
+MV-ADV-BUC-005-08,Paired Qi Beat,Dabbarrage,F4,Champion,B
+MV-ADV-BUC-005-09,Twin Bind and Cut,Roundface Fastness,F3,Champion,B
+MV-ADV-BUC-005-10,Paired Retreat Cover,Gustumbo,F5,Champion,B
+MV-ADV-BUC-005-11,Twin-Court Crossing Guard,Targeplating,F4,Champion,B
+MV-ADV-BUC-005-12,Dual-Track Answering Cut,Furrowing Snapblock,F1,Champion,B
+MV-ADV-BUC-006-01,Hawk Wing Spread,Aegis Lightrim,F2,Ruler,B
+MV-ADV-BUC-006-02,Stoop Drop Cover,Aegis Umbo,F2,Ruler,B
+MV-ADV-BUC-006-03,Talon Rim Rake,Gust Bucklerredge,F2,Ruler,B
+MV-ADV-BUC-006-04,Updraft Toe Step,Tuckin Pounce,F3,Ruler,B
+MV-ADV-BUC-006-05,Wingbeat Rap,Torrent Armstrap,F2,Ruler,B
+MV-ADV-BUC-006-06,Hawk Eye Read,Remnant Knucklegrip,F2,Ruler,B
+MV-ADV-BUC-006-07,Wing-Shadow Screen,Thorntarge,F5,Ruler,B
+MV-ADV-BUC-006-08,Falling Hawk Dome,Granite Nudge,F2,Ruler,B
+MV-ADV-BUC-007-01,Basin Rim Hold,Immovable Centergrip,F1,Demigod,B
+MV-ADV-BUC-007-02,Pooling Cover,Enduring Edgeplate,F1,Demigod,B
+MV-ADV-BUC-007-03,Low Water Step,Peltapounce,F4,Demigod,B
+MV-ADV-BUC-007-04,Azure Rim Skim,Granite Dab,F2,Demigod,B
+MV-ADV-BUC-007-05,Hollow Press Shove,Stifling Armstrap,F1,Demigod,B
+MV-ADV-BUC-007-06,Gathered Blow Release,Sanguine Tuckin,F2,Demigod,B
+MV-ADV-BUC-007-07,Deep Basin Cover,Implacable Umbo,F1,Demigod,B
+MV-ADV-BUC-007-08,Level Water Parry,Murkumbo,F5,Demigod,B
+MV-ADV-BUC-007-09,Overflowing Basin Counter,Waningumbo,F5,Demigod,B
+MV-ADV-BUC-007-10,Basin Drawing Field,Dominating Mayhem Smallface,F6a,Demigod,B
+MV-ADV-BUC-008-01,River Bend Cover,Charter Lightrim,F2,Demigod,B
+MV-ADV-BUC-008-02,Plate Current Step,Siltparry,F5,Demigod,B
+MV-ADV-BUC-008-03,Stone Bed Brace,Charter Punchboss,F2,Demigod,B
+MV-ADV-BUC-008-04,River Edge Rap,Scything Punchblock,F1,Demigod,B
+MV-ADV-BUC-008-05,Two Channels Guard,Peltaplating,F4,Demigod,B
+MV-ADV-BUC-008-06,Flowing Rim Hook,Suppressing Dab,F1,Demigod,B
+MV-ADV-BUC-008-07,Downstream Rap,Unbroken Roundface,F1,Demigod,B
+MV-ADV-BUC-008-08,Flood Turn Counter,Glintpelta,F5,Demigod,B
+MV-ADV-BUC-008-09,Confluence Press,Intent Parry,F2,Demigod,B
+MV-ADV-BUC-009-01,Wind-Sworn Stance,Implacable Bucklerredge,F1,Champion,B
+MV-ADV-BUC-009-02,Crosswind Plate Parry,Equipoise Knucklegrip,F2,Champion,B
+MV-ADV-BUC-009-03,Leaning Wind Step,Gust Parry,F2,Champion,B
+MV-ADV-BUC-009-04,Gust Rim Rap,Iron Nudge,F2,Champion,B
+MV-ADV-BUC-009-05,Turned Wind Cover,Thornpelta,F5,Champion,B
+MV-ADV-BUC-009-06,Light Hand Return,Murk Lightrim,F2,Champion,B
+MV-ADV-BUC-009-07,Sworn Qi Hold,Punchboss Fastness,F3,Champion,B
+MV-ADV-BUC-009-08,Wind-Bound Hook,Thorn Roundface,F2,Champion,B
+MV-ADV-BUC-009-09,Gathering Wind Strike,Cleaving Tuckin,F1,Champion,B
+MV-ADV-BUC-009-10,Gale Face Cover,Aegispelta,F5,Champion,B
+MV-ADV-BUC-009-11,Breaking Wind Smash,Granite Umbo,F2,Champion,B
+MV-ADV-BUC-010-01,Plateau Edge Stance,Umbohauberk,F4,Ruler,B
+MV-ADV-BUC-010-02,Rim Edge Rap,Gust Centergrip,F2,Ruler,B
+MV-ADV-BUC-010-03,Open Ground Plate Step,Tuckinjaunt,F4,Ruler,B
+MV-ADV-BUC-010-04,Cliff-Drop Cover,Edgeplate Hauberk,F3,Ruler,B
+MV-ADV-BUC-010-05,Edge Line Punch,Unmaking Dab,F1,Ruler,B
+MV-ADV-BUC-010-06,Bearing Hold Pace,Knucklegrip Sprint,F3,Ruler,B
+MV-ADV-BUC-010-07,Edge-Held Guard,Umbocuirass,F4,Ruler,B
+MV-ADV-BUC-010-08,Oath-Line Bind,Fastening Nudge,F2,Ruler,B
+MV-ADV-BUC-010-09,Rim Drop Rake,Tempered Parry,F2,Ruler,B
+MV-ADV-BUC-010-10,Plateau Wind Parry,Umbocloak,F4,Ruler,B
+MV-ADV-BUC-010-11,Unbroken Edge Screen,Aegis Armstrap,F2,Ruler,B
+MV-ADV-BUC-010-12,Plateau Fall Counter,Adamant Knucklegrip,F1,Ruler,B
+MV-ADV-BUC-011-01,Open Bearing Hold,Granite Roundface,F2,Demigod,B
+MV-ADV-BUC-011-02,Bearing Turn Plate Rap,Annealed Smallface,F1,Demigod,B
+MV-ADV-BUC-011-03,Plain Pace Forward,Gusttarge,F5,Demigod,B
+MV-ADV-BUC-011-04,Oath-Sworn Rim Chop,Blazepelta,F5,Demigod,B
+MV-ADV-BUC-011-05,Steadfast Qi Guard,Annealed Armstrap,F1,Demigod,B
+MV-ADV-BUC-011-06,Unhidden Dome Punch,Gust Nudge,F2,Demigod,B
+MV-ADV-BUC-011-07,Sworn Advance Screen,Thornumbo,F5,Demigod,B
+MV-ADV-BUC-011-08,Open Bearing Counter,Veritypelta,F5,Demigod,B
+MV-ADV-BUC-012-01,Gale Turn Stance,Granite Smallface,F2,Demigod,B
+MV-ADV-BUC-012-02,Whirling Parry,Gustpelta,F5,Demigod,B
+MV-ADV-BUC-012-03,Spinning Heel Step,Careening Umbo,F1,Demigod,B
+MV-ADV-BUC-012-04,Wind Rake Rim,Blaze Dab,F2,Demigod,B
+MV-ADV-BUC-012-05,Eddy Cover,Hoarfrost Lightrim,F2,Demigod,B
+MV-ADV-BUC-012-06,Gale Qi Spiral,Facet Punchboss,F2,Demigod,B
+MV-ADV-BUC-012-07,Turning Blow Return,Iron Parry,F2,Demigod,B
+MV-ADV-BUC-012-08,Whipping Rim Disarm,Chime Snapblock,F2,Demigod,B
+MV-ADV-BUC-012-09,Storm Turn Guard,Hoarfrost Edgeplate,F2,Demigod,B
+MV-ADV-BUC-012-10,Cyclone Sweep,Wrecking Bucklerredge,F1,Demigod,B

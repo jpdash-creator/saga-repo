@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-SHU-001-01,Qi Pulse Star Release,Rough Sprinkle,F1,Senior L5 Low,A
+MV-INT-SHU-001-02,Qi Eyed Range Reading,Toothbandage,F4,Senior L5 Low,A
+MV-INT-SHU-001-03,Palm Spoke Rake,Hubswat,F4,Senior L5 Low,A
+MV-INT-SHU-001-04,Slip Step Out of Reach,Springing Thinplate,F1,Senior L5 Low,A
+MV-INT-SHU-001-05,Qi-Driven Point Pierce,Doughty Scatter,F1,Senior L5 Low,A
+MV-INT-SHU-001-06,Double Star Qi Release,Brisk Hail,F1,Senior L5 Low,A
+MV-INT-SHU-002-01,Bent Wrist Curve Throw,Swift Edgeface,F1,Senior L8 Low,A
+MV-INT-SHU-002-02,Offset Grip Arc Release,Ruthless Whiz,F1,Senior L8 Low,A
+MV-INT-SHU-002-03,Qi Slick Curving Skim,Whizslap,F4,Senior L8 Low,A
+MV-INT-SHU-002-04,Held Spoke Cross Slash,Rude Flatpoint,F1,Senior L8 Low,A
+MV-INT-SHU-002-05,Edge-Turned Block of a Cut,Cornerpoint Buckle,F3,Senior L8 Low,A
+MV-INT-SHU-002-06,Circling Footwork Around a Post,Spoke Swerve,F3,Senior L8 Low,A
+MV-INT-SHU-002-07,Round-the-Shield Arc Throw,Hubflog,F4,Senior L8 Low,A
+MV-INT-SHU-002-08,Hooked Flight Behind the Guard,Rushing Spray,F1,Senior L8 Low,A
+MV-INT-SHU-003-01,Pouch Reach Quick Load,Draught Rimpoint,F2,Warrior L1 Low,B
+MV-INT-SHU-003-02,Belt Pouch Blind Draw,Hubslap,F4,Warrior L1 Low,B
+MV-INT-SHU-003-03,Pouch Strap Whip Strike,Brass Tippoint,F2,Warrior L1 Low,B
+MV-INT-SHU-003-04,Pouch Held Before the Chest Block,Brass Hub,F2,Warrior L1 Low,B
+MV-INT-SHU-003-05,Ball-of-Foot Star Pivot,Clay Cornerpoint,F2,Warrior L1 Low,B
+MV-INT-SHU-003-06,Pouch Burst of Five Stars,Clay Centerhole,F2,Warrior L1 Low,B
+MV-INT-SHU-003-07,Rolling Draw Through the Dodge,Rillhail,F5,Warrior L1 Low,B
+MV-INT-SHU-004-01,Instant Flick Release,Hum Spoke,F2,Warrior L2 Low,B
+MV-INT-SHU-004-02,Shoulder-Level Snap Throw,Ember Hail,F2,Warrior L2 Low,B
+MV-INT-SHU-004-03,Hip Whip Low Throw,Hum Bladeface,F2,Warrior L2 Low,B
+MV-INT-SHU-004-04,Walking Draw and Loose,Comet Whiz,F2,Warrior L2 Low,B
+MV-INT-SHU-004-05,Spoke Rake Along the Ribs,Draught Bladeface,F2,Warrior L2 Low,B
+MV-INT-SHU-004-06,Small Circle Star Parry,Rill Rimpoint,F2,Warrior L2 Low,B
+MV-INT-SHU-004-07,Edge Step Beside the Blow,Gritwhiz,F5,Warrior L2 Low,B
+MV-INT-SHU-004-08,Chain of Five Quick Releases,Threefold Peppering,F1,Warrior L2 Low,B
+MV-INT-SHU-004-09,Release Through the Guard,Grim Hub,F1,Warrior L2 Low,B
+MV-INT-SHU-004-10,Breath-Timed Volley,Momentwhiz,F5,Warrior L2 Low,B
+MV-INT-SHU-005-01,Spoke Hook Across the Wrist,Honedwhiz,F5,Warrior L3 Mid,B
+MV-INT-SHU-005-02,Spoke Point Tap at the Eye Line,Draught Thinplate,F2,Warrior L3 Mid,B
+MV-INT-SHU-005-03,Spoke Slide Down a Blade,Brass Scatter,F2,Warrior L3 Mid,B
+MV-INT-SHU-005-04,Spoke Turned Throw,Shard Flatpoint,F2,Warrior L3 Mid,B
+MV-INT-SHU-005-05,Spoke Guard Held Low,Guarding Centerhole,F1,Warrior L3 Mid,B
+MV-INT-SHU-005-06,Spoke Scoot Backstep,Grit Edgeface,F2,Warrior L3 Mid,B
+MV-INT-SHU-005-07,Spoke Snag on Sleeve and Pull,Stamptooth,F5,Warrior L3 Mid,B
+MV-INT-SHU-005-08,Spoke Cut Through a Cord,Honedtooth,F5,Warrior L3 Mid,B
+MV-INT-SHU-005-09,Spoke Flurry on a Closing Foe,Omen Sprinkle,F2,Warrior L3 Mid,B
+MV-INT-SHU-006-01,Throw Through the Stride,Gleam Peppering,F2,Warrior L4 Low,B
+MV-INT-SHU-006-02,Pivot Release Over the Shoulder,Tippoint Hammerfall,F3,Warrior L4 Low,B
+MV-INT-SHU-006-03,Backward Skip Flick,Gleam Whiz,F2,Warrior L4 Low,B
+MV-INT-SHU-006-04,Sidestep Level Snap,Sleet Flatpoint,F2,Warrior L4 Low,B
+MV-INT-SHU-006-05,Running Star Volley,Brutal Hail,F1,Warrior L4 Low,B
+MV-INT-SHU-006-06,Slide and Throw Under Fire,Grithail,F5,Warrior L4 Low,B
+MV-INT-SHU-007-01,Sleeve Pin Throw,Sprigtooth,F5,Warrior L6 Low,B
+MV-INT-SHU-007-02,Hem Pin Low Throw,Rimpoint Barrier,F3,Warrior L6 Low,B
+MV-INT-SHU-007-03,Cloak Pin to the Door Post,Whizscreen,F4,Warrior L6 Low,B
+MV-INT-SHU-007-04,Thumb Brace Aiming Rest,Hubtonic,F4,Warrior L6 Low,B
+MV-INT-SHU-007-05,Spoke Rake on a Seizing Hand,Staticspoke,F5,Warrior L6 Low,B
+MV-INT-SHU-007-06,Stepping Off the Pinned Line,Veering Spoke,F1,Warrior L6 Low,B
+MV-INT-SHU-007-07,Hand Pinning Star Throw,Gall Scatter,F2,Warrior L6 Low,B
+MV-INT-SHU-007-08,Boot Toe Pin Slowing Throw,Clutching Cornerpoint,F1,Warrior L6 Low,B
+MV-INT-SHU-008-01,Visor Slit Aim Throw,Rugged Centerhole,F1,Warrior L8 Low,B
+MV-INT-SHU-008-02,Strap Seam Targeting Flick,Ember Peppering,F2,Warrior L8 Low,B
+MV-INT-SHU-008-03,Heavy Point Hammer Throw,Hailswat,F4,Warrior L8 Low,B
+MV-INT-SHU-008-04,Spoke Prying Jab,Edgeface Scorer,F3,Warrior L8 Low,B
+MV-INT-SHU-008-05,Mailed Arm Slide Away,Toothhasp,F4,Warrior L8 Low,B
+MV-INT-SHU-008-06,Qi Hardened Point Through Mail,Thinplate Flog,F3,Warrior L8 Low,B
+MV-INT-SHU-008-07,Elbow Gap Seeking Throw,Keen Bladeface,F1,Warrior L8 Low,B

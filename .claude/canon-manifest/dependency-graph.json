@@ -1,0 +1,2207 @@
+[
+ {
+  "dependent_part": 2,
+  "authority_part": 3,
+  "topic": "Prose depth requires cultivation realm reference for accurate scene-setting",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 2,
+  "authority_part": 5,
+  "topic": "Combat prose structure requires Part 5 combat resolution rules",
+  "strength": "HARD",
+  "nsa_note": "High — structural dependency"
+ },
+ {
+  "dependent_part": 3,
+  "authority_part": 4,
+  "topic": "Realm definitions require CPM Grade mappings",
+  "strength": "HARD",
+  "nsa_note": "Critical — core cultivation graph root"
+ },
+ {
+  "dependent_part": 3,
+  "authority_part": 4,
+  "topic": "Cultivation realm progression requires soul system definitions",
+  "strength": "HARD",
+  "nsa_note": "High — parallel progression track"
+ },
+ {
+  "dependent_part": 4,
+  "authority_part": 11,
+  "topic": "CPM Grade (14 levels per state) maps to energy resource grades",
+  "strength": "HARD",
+  "nsa_note": "High — resource-to-practitioner link"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 3,
+  "topic": "Combat resolution requires current realm of combatants",
+  "strength": "HARD",
+  "nsa_note": "Critical — combat outcome driver"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 6,
+  "topic": "Named Moves deployed in combat governed by Part 5",
+  "strength": "HARD",
+  "nsa_note": "High — technique resolution chain"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 8,
+  "topic": "Technology-based combat requires Part 8 technology tier",
+  "strength": "HARD",
+  "nsa_note": "High — cross-system combat"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 14,
+  "topic": "Weapon ranges in combat use Part 14 CMS units",
+  "strength": "HARD",
+  "nsa_note": "Medium — measurement dependency"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 16,
+  "topic": "Combat command authority requires Part 16 character classification",
+  "strength": "HARD",
+  "nsa_note": "High — authority chain"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 26,
+  "topic": "Pre-combat psych state modifiers sourced from Part 26 PIS-state",
+  "strength": "HARD",
+  "nsa_note": "High — outcome modifier"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 33,
+  "topic": "Weapon discharge in combat triggers Part 33 Rule 33.11.1",
+  "strength": "HARD",
+  "nsa_note": "High — event trigger chain"
+ },
+ {
+  "dependent_part": 6,
+  "authority_part": 3,
+  "topic": "Move tier requires cultivation realm reference",
+  "strength": "HARD",
+  "nsa_note": "High — tier calibration"
+ },
+ {
+  "dependent_part": 6,
+  "authority_part": 8,
+  "topic": "Technology-enhanced Named Moves require Part 8 tech tier",
+  "strength": "SOFT",
+  "nsa_note": "Medium — hybrid move context"
+ },
+ {
+  "dependent_part": 7,
+  "authority_part": 3,
+  "topic": "Fusion techniques require cultivation realm thresholds",
+  "strength": "HARD",
+  "nsa_note": "Critical — fusion eligibility gate"
+ },
+ {
+  "dependent_part": 7,
+  "authority_part": 8,
+  "topic": "Fusion techniques require technology tier thresholds",
+  "strength": "HARD",
+  "nsa_note": "Critical — fusion eligibility gate"
+ },
+ {
+  "dependent_part": 7,
+  "authority_part": 31,
+  "topic": "Fusion techniques are a primary driver of CS%/TS% change",
+  "strength": "SOFT",
+  "nsa_note": "High — synergy state change trigger"
+ },
+ {
+  "dependent_part": 8,
+  "authority_part": 33,
+  "topic": "Type 8 domain levels are weapon tier source",
+  "strength": "HARD",
+  "nsa_note": "Critical — weapon classification root"
+ },
+ {
+  "dependent_part": 4,
+  "authority_part": 3,
+  "topic": "Soul system stages correspond to cultivation realm progression",
+  "strength": "HARD",
+  "nsa_note": "High — parallel soul-realm mapping"
+ },
+ {
+  "dependent_part": 11,
+  "authority_part": 4,
+  "topic": "Energy resource grades use CPM Grade framework",
+  "strength": "HARD",
+  "nsa_note": "High — resource measurement system"
+ },
+ {
+  "dependent_part": 12,
+  "authority_part": 3,
+  "topic": "Relic affinity type requires cultivation energy system definitions",
+  "strength": "HARD",
+  "nsa_note": "High — relic classification"
+ },
+ {
+  "dependent_part": 12,
+  "authority_part": 11,
+  "topic": "Relic energy function draws on Part 11 resource framework",
+  "strength": "SOFT",
+  "nsa_note": "Medium — energy interaction"
+ },
+ {
+  "dependent_part": 12,
+  "authority_part": 31,
+  "topic": "Relic CS%/TS% (Part 31 Area 21.10) governed by Soul Bond/Hybrid Class",
+  "strength": "HARD",
+  "nsa_note": "High — synergy state assignment"
+ },
+ {
+  "dependent_part": 13,
+  "authority_part": 3,
+  "topic": "Ambient Energy Class requires cultivation energy classification",
+  "strength": "HARD",
+  "nsa_note": "Critical — world energy root"
+ },
+ {
+  "dependent_part": 13,
+  "authority_part": 4,
+  "topic": "Energy Field rating maps to CPM Grade",
+  "strength": "HARD",
+  "nsa_note": "High — world-to-practitioner energy"
+ },
+ {
+  "dependent_part": 13,
+  "authority_part": 16,
+  "topic": "Location-Character Context table maps character tiers to location tiers",
+  "strength": "HARD",
+  "nsa_note": "High — compatibility constraint"
+ },
+ {
+  "dependent_part": 13,
+  "authority_part": 31,
+  "topic": "Location CS%/TS% reference ranges source from Part 13 World Classification",
+  "strength": "HARD",
+  "nsa_note": "High — world synergy root"
+ },
+ {
+  "dependent_part": 14,
+  "authority_part": 13,
+  "topic": "CMS measurement system applies to all Part 13 location tiers",
+  "strength": "SOFT",
+  "nsa_note": "Low — measurement mapping"
+ },
+ {
+  "dependent_part": 15,
+  "authority_part": 13,
+  "topic": "Travel mechanics govern movement between Part 13 location types",
+  "strength": "HARD",
+  "nsa_note": "High — movement constraint"
+ },
+ {
+  "dependent_part": 15,
+  "authority_part": 14,
+  "topic": "Travel distances use Part 14 CMS units",
+  "strength": "HARD",
+  "nsa_note": "Medium — measurement dependency"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 3,
+  "topic": "Character classification requires cultivation realm",
+  "strength": "HARD",
+  "nsa_note": "High — classification input"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 8,
+  "topic": "Character technology tier governed by Part 8 scale",
+  "strength": "HARD",
+  "nsa_note": "High — classification input"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 13,
+  "topic": "Character-location compatibility from Part 13 hierarchy",
+  "strength": "SOFT",
+  "nsa_note": "Medium — location context"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 17,
+  "topic": "Hero routing from Part 16 classification → Part 17 governance",
+  "strength": "HARD",
+  "nsa_note": "Critical — character type gate"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 18,
+  "topic": "Villain routing from Part 16 classification → Part 18 governance",
+  "strength": "HARD",
+  "nsa_note": "Critical — character type gate"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 19,
+  "topic": "Side character routing from Part 16 classification → Part 19 governance",
+  "strength": "HARD",
+  "nsa_note": "Critical — character type gate"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 31,
+  "topic": "Character CS%/TS% source from Part 16 character type",
+  "strength": "HARD",
+  "nsa_note": "High — synergy root"
+ },
+ {
+  "dependent_part": 17,
+  "authority_part": 16,
+  "topic": "Hero Ledger Classification (Section 2) uses Part 16 fields",
+  "strength": "HARD",
+  "nsa_note": "High — ledger population"
+ },
+ {
+  "dependent_part": 17,
+  "authority_part": 20,
+  "topic": "Hero ideology state governed by Part 20 IS-state",
+  "strength": "HARD",
+  "nsa_note": "High — arc integrity"
+ },
+ {
+  "dependent_part": 17,
+  "authority_part": 26,
+  "topic": "Hero psychological arc governed by Part 26 PIS-state",
+  "strength": "HARD",
+  "nsa_note": "High — arc integrity"
+ },
+ {
+  "dependent_part": 17,
+  "authority_part": 27,
+  "topic": "Hero consequence arcs governed by Part 27 CSS arcs",
+  "strength": "HARD",
+  "nsa_note": "High — narrative obligation"
+ },
+ {
+  "dependent_part": 17,
+  "authority_part": 31,
+  "topic": "Hero CS%/TS% stored in Ledger Section 2 per Part 31 Area 21.3",
+  "strength": "HARD",
+  "nsa_note": "High — ledger state"
+ },
+ {
+  "dependent_part": 18,
+  "authority_part": 16,
+  "topic": "Villain Ledger Classification uses Part 16 fields",
+  "strength": "HARD",
+  "nsa_note": "High — ledger population"
+ },
+ {
+  "dependent_part": 18,
+  "authority_part": 20,
+  "topic": "Villain ideology state governed by Part 20",
+  "strength": "HARD",
+  "nsa_note": "High — arc integrity"
+ },
+ {
+  "dependent_part": 18,
+  "authority_part": 26,
+  "topic": "Villain psychological archetypes governed by Part 26",
+  "strength": "HARD",
+  "nsa_note": "High — arc integrity"
+ },
+ {
+  "dependent_part": 18,
+  "authority_part": 31,
+  "topic": "Villain CS%/TS% stored in Ledger Section 2 per Part 31 Area 21.3",
+  "strength": "HARD",
+  "nsa_note": "High — ledger state"
+ },
+ {
+  "dependent_part": 19,
+  "authority_part": 16,
+  "topic": "Side character classification uses Part 16 fields",
+  "strength": "HARD",
+  "nsa_note": "High — ledger population"
+ },
+ {
+  "dependent_part": 19,
+  "authority_part": 31,
+  "topic": "Side character CS%/TS% per Part 31 Area 21.3",
+  "strength": "HARD",
+  "nsa_note": "High — ledger state"
+ },
+ {
+  "dependent_part": 20,
+  "authority_part": 17,
+  "topic": "Hero ideology arc phase triggers per Part 17 hero arc structure",
+  "strength": "SOFT",
+  "nsa_note": "Medium — arc interaction"
+ },
+ {
+  "dependent_part": 20,
+  "authority_part": 26,
+  "topic": "IE-4+ events trigger PIS interaction per Part 26",
+  "strength": "HARD",
+  "nsa_note": "High — state cascade"
+ },
+ {
+  "dependent_part": 21,
+  "authority_part": 13,
+  "topic": "Civilization spatial scope uses Part 13 location hierarchy",
+  "strength": "HARD",
+  "nsa_note": "High — spatial constraint"
+ },
+ {
+  "dependent_part": 21,
+  "authority_part": 22,
+  "topic": "Civilization contains/sponsors Factions per Part 22",
+  "strength": "SOFT",
+  "nsa_note": "Medium — structural relationship"
+ },
+ {
+  "dependent_part": 21,
+  "authority_part": 31,
+  "topic": "Civilization CS%/TS% reference ranges from CTD (Civilization Tier Designation)",
+  "strength": "HARD",
+  "nsa_note": "High — synergy constraint"
+ },
+ {
+  "dependent_part": 22,
+  "authority_part": 21,
+  "topic": "Faction parent civilization context from Part 21",
+  "strength": "SOFT",
+  "nsa_note": "Medium — structural relationship"
+ },
+ {
+  "dependent_part": 22,
+  "authority_part": 31,
+  "topic": "Faction CS%/TS% reference ranges from SII",
+  "strength": "HARD",
+  "nsa_note": "High — synergy constraint"
+ },
+ {
+  "dependent_part": 23,
+  "authority_part": 17,
+  "topic": "Affiliation bonds for heroes governed by Part 17 arc phase",
+  "strength": "SOFT",
+  "nsa_note": "Medium — arc context"
+ },
+ {
+  "dependent_part": 23,
+  "authority_part": 22,
+  "topic": "Faction-character affiliation governed by Part 22 faction structure",
+  "strength": "HARD",
+  "nsa_note": "High — affiliation gate"
+ },
+ {
+  "dependent_part": 24,
+  "authority_part": 22,
+  "topic": "Intelligence operations involve factions per Part 22",
+  "strength": "SOFT",
+  "nsa_note": "Medium — operational context"
+ },
+ {
+  "dependent_part": 24,
+  "authority_part": 31,
+  "topic": "Integration-model knowledge is synergy-sensitive (Part 31 Area 21.14)",
+  "strength": "HARD",
+  "nsa_note": "High — information exposure"
+ },
+ {
+  "dependent_part": 25,
+  "authority_part": 21,
+  "topic": "Cultural law operates within civilization context",
+  "strength": "HARD",
+  "nsa_note": "High — cultural frame"
+ },
+ {
+  "dependent_part": 26,
+  "authority_part": 5,
+  "topic": "PIS-state modifies combat outcomes per Part 5 combat law",
+  "strength": "HARD",
+  "nsa_note": "Critical — combat modifier"
+ },
+ {
+  "dependent_part": 26,
+  "authority_part": 20,
+  "topic": "PIS-7+ events trigger ideology audit per Part 20",
+  "strength": "HARD",
+  "nsa_note": "High — state cascade"
+ },
+ {
+  "dependent_part": 26,
+  "authority_part": 27,
+  "topic": "Psychological consequence arcs are a CSS sub-type per Part 27",
+  "strength": "SOFT",
+  "nsa_note": "Medium — arc classification"
+ },
+ {
+  "dependent_part": 27,
+  "authority_part": 17,
+  "topic": "Consequence arcs for heroes governed by Part 17 arc phase expectations",
+  "strength": "SOFT",
+  "nsa_note": "Medium — arc context"
+ },
+ {
+  "dependent_part": 27,
+  "authority_part": 26,
+  "topic": "CSS arc emotional content governed by Part 26 PIS-state",
+  "strength": "HARD",
+  "nsa_note": "High — arc content constraint"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 1,
+  "topic": "Locked Canon modifications require Part 1 audit authority",
+  "strength": "HARD",
+  "nsa_note": "Critical — governance gate"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 1,
+  "topic": "Part 28 elevated to Authority Tier 0 (craft layer); its Area 13 countable craft rules (Closer-Variety, Single-Statement) join the blocking Gate 1 Post-Draft Audit as the Part 28 half of Check #19 Prose Vitality (defined in Part 36 Area 17)",
+  "strength": "HARD",
+  "nsa_note": "Critical — gate integration (Check #19)"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 3,
+  "topic": "Cultivation realm names are Locked Canon under Part 28",
+  "strength": "HARD",
+  "nsa_note": "High — immutability constraint"
+ },
+ {
+  "dependent_part": 29,
+  "authority_part": 1,
+  "topic": "Part 29 elevated to Authority Tier 0 (craft layer); its Area 4 countable craft rules (Voice Signature, Epigram Budget, Friction Floor / Human Texture) join the blocking Gate 1 Post-Draft Audit as the Part 29 half of Check #19 Prose Vitality (defined in Part 36 Area 17)",
+  "strength": "HARD",
+  "nsa_note": "Critical — gate integration (Check #19)"
+ },
+ {
+  "dependent_part": 29,
+  "authority_part": 20,
+  "topic": "Dialogue may constitute IE events triggering Part 20 audit",
+  "strength": "SOFT",
+  "nsa_note": "Medium — event trigger"
+ },
+ {
+  "dependent_part": 29,
+  "authority_part": 26,
+  "topic": "Dialogue emotional expression governed by Part 26 PIS-state",
+  "strength": "SOFT",
+  "nsa_note": "Medium — emotional frame"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 3,
+  "topic": "CS% calibration references cultivation realm levels",
+  "strength": "HARD",
+  "nsa_note": "Critical — synergy calibration root"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 8,
+  "topic": "TS% calibration references technology tier scale",
+  "strength": "HARD",
+  "nsa_note": "Critical — synergy calibration root"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 12,
+  "topic": "Relic CS%/TS% governance (Area 21.10)",
+  "strength": "HARD",
+  "nsa_note": "High — relic synergy"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 13,
+  "topic": "World CS%/TS% reference ranges source from Part 13 classification",
+  "strength": "HARD",
+  "nsa_note": "High — world synergy"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 21,
+  "topic": "Civilization CS%/TS% from CTD (Part 21)",
+  "strength": "HARD",
+  "nsa_note": "High — civilization synergy"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 22,
+  "topic": "Faction CS%/TS% from SII (Part 22)",
+  "strength": "HARD",
+  "nsa_note": "High — faction synergy"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 32,
+  "topic": "Vehicle CS%/TS% governance (Area 21.12)",
+  "strength": "HARD",
+  "nsa_note": "High — vehicle synergy"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 33,
+  "topic": "Weapon CS%/TS% governance (Area 21.11)",
+  "strength": "HARD",
+  "nsa_note": "High — weapon synergy"
+ },
+ {
+  "dependent_part": 32,
+  "authority_part": 8,
+  "topic": "Vehicle technology classification uses Part 8 tech tier",
+  "strength": "HARD",
+  "nsa_note": "High — vehicle tier root"
+ },
+ {
+  "dependent_part": 32,
+  "authority_part": 14,
+  "topic": "Vehicle dimensions use Part 14 CMS units",
+  "strength": "HARD",
+  "nsa_note": "Medium — measurement"
+ },
+ {
+  "dependent_part": 33,
+  "authority_part": 5,
+  "topic": "Weapon discharge (Rule 33.11.1) is a Part 5 combat event",
+  "strength": "HARD",
+  "nsa_note": "Critical — combat chain"
+ },
+ {
+  "dependent_part": 33,
+  "authority_part": 8,
+  "topic": "Weapon tier source is Part 8 Type 8 domain levels",
+  "strength": "HARD",
+  "nsa_note": "Critical — weapon tier root"
+ },
+ {
+  "dependent_part": 33,
+  "authority_part": 14,
+  "topic": "Weapon range uses Part 14 CMS units (Area 5.3 authoritative)",
+  "strength": "HARD",
+  "nsa_note": "Medium — measurement"
+ },
+ {
+  "dependent_part": 34,
+  "authority_part": 1,
+  "topic": "Part 34 is mandated and governed by Part 1 Area 8",
+  "strength": "MUTUAL",
+  "nsa_note": "Critical — meta-canon mutual"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 1,
+  "topic": "Part 37 is governed by Part 1 audit authority; schema templates are canon-binding under Part 1 Area 5.4/5.5",
+  "strength": "HARD",
+  "nsa_note": "Critical — schema authority root"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 3,
+  "topic": "Character schema templates include Cultivation Realm field (Part 3 definitions)",
+  "strength": "HARD",
+  "nsa_note": "High — schema field dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 4,
+  "topic": "Character schema templates include Affinity Type, Meridian Root, Soul Talent, Heart Level fields (Part 4)",
+  "strength": "HARD",
+  "nsa_note": "High — schema field dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 8,
+  "topic": "Character and ledger schema templates include Technology Tier fields (Part 8 scale)",
+  "strength": "HARD",
+  "nsa_note": "High — schema field dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 11,
+  "topic": "Relic and kingdom-state schema templates include CPM Resource fields (Part 11)",
+  "strength": "SOFT",
+  "nsa_note": "Medium — resource field dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 12,
+  "topic": "Energy-Relics/Artifacts schema (Area 2.8) governs relic ledger template",
+  "strength": "HARD",
+  "nsa_note": "High — ledger template authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 13,
+  "topic": "Location and kingdom-state schema templates derive from Part 13 location classification",
+  "strength": "HARD",
+  "nsa_note": "High — location schema root"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 16,
+  "topic": "Character schema templates (Areas 2.1–2.3) use Part 16 Classification fields as their Section 2 basis",
+  "strength": "HARD",
+  "nsa_note": "Critical — character schema root"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 17,
+  "topic": "Hero schema template (Area 2.3) derives from Part 17 Hero Law",
+  "strength": "HARD",
+  "nsa_note": "High — hero schema authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 18,
+  "topic": "Villain schema template (Area 2.2) derives from Part 18 Villain Law",
+  "strength": "HARD",
+  "nsa_note": "High — villain schema authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 19,
+  "topic": "Side Character schema template (Area 2.1) derives from Part 19 Side Character Law",
+  "strength": "HARD",
+  "nsa_note": "High — side character schema authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 20,
+  "topic": "Character schemas include Ideology Profile section (Part 20 IS-state fields)",
+  "strength": "SOFT",
+  "nsa_note": "Medium — ideology section dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 21,
+  "topic": "Civilization schema (Area 2.7) derives from Part 21 Civilization Law",
+  "strength": "HARD",
+  "nsa_note": "High — civilization schema authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 22,
+  "topic": "Faction schema (Area 2.6) derives from Part 22 Faction Law",
+  "strength": "HARD",
+  "nsa_note": "High — faction schema authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 24,
+  "topic": "Information asset ledger type definition references Part 24 secrecy tiers",
+  "strength": "SOFT",
+  "nsa_note": "Medium — information field dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 26,
+  "topic": "Character schemas include Psychological Profile section (Part 26 PIS-state fields)",
+  "strength": "SOFT",
+  "nsa_note": "Medium — psychology section dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 27,
+  "topic": "Character schemas include Consequence Arc section (Part 27 CSS arc fields)",
+  "strength": "SOFT",
+  "nsa_note": "Medium — consequence section dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 28,
+  "topic": "B vs L field classification rules in Part 37 Area 5 align with Part 28 Locked/Negotiable Canon law",
+  "strength": "HARD",
+  "nsa_note": "High — field mutability authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 30,
+  "topic": "Hero/Villain schemas include Phase End-State fields governed by Part 30 Locked Canon",
+  "strength": "SOFT",
+  "nsa_note": "Medium — arc end-state field"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 31,
+  "topic": "All schema templates include CS%/TS% fields per Part 31 Area 21.3–21.12",
+  "strength": "HARD",
+  "nsa_note": "High — synergy field dependency"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 32,
+  "topic": "Vehicle schema (Area 2.10) derives from Part 32 Vehicle Law",
+  "strength": "HARD",
+  "nsa_note": "High — vehicle schema authority"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 33,
+  "topic": "Weapon schema (Area 2.9) derives from Part 33 Weapon Law",
+  "strength": "HARD",
+  "nsa_note": "High — weapon schema authority"
+ },
+ {
+  "dependent_part": 1,
+  "authority_part": 37,
+  "topic": "Part 1 Areas 5.4/5.5 cross-reference Part 37 as authoritative schema source; C-38 execution requires Part 37 schema templates",
+  "strength": "HARD",
+  "nsa_note": "Critical — command execution dependency"
+ },
+ {
+  "dependent_part": 2,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 3,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 4,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 6,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 7,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 8,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 9,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 10,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 11,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 12,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 13,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 14,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 15,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 17,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 18,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 19,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 20,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 21,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 22,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 23,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 24,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 25,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 26,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 27,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 29,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 30,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 31,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 32,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 33,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 34,
+  "authority_part": 1,
+  "topic": "Universal governance dependency (Part 1 Area 5.1): Validation authority (Area 1); Domain routing (Area 2); Conflict resolution (Area 3); Audit compliance (Area 4); Ledger system access (Areas 5 and 6); Command execution (Area 7); CCIA governance (Area 8)",
+  "strength": "HARD",
+  "nsa_note": "Universal - recorded once in source, applies to all Parts 2-34"
+ },
+ {
+  "dependent_part": 38,
+  "authority_part": 1,
+  "topic": "Part 38 is governed by Part 1 audit and command authority; Gate 1 Check #18 (Spec Conformance) joins the blocking Post-Draft Audit sequence and the Gate 2 as-built spec sync executes inside the Post-Write Ledger Update step (3-way pipeline preserved). `/section-spec` (C-40), `/part-spec` (C-41) and the C-3, C-7, C-8 and C-9 interactions execute under Part 1 command law, and the confirm token is a hard pause that Auto Mode never waives; Check #18(a) asks that the chain is in force and grades a missing, DRAFT or RETIRED link Critical and an AMENDED-PENDING-RECONFIRM link Major (Part 38 Rule 6.1.3)",
+  "strength": "HARD",
+  "nsa_note": "Critical — gate and command integration root"
+ },
+ {
+  "dependent_part": 38,
+  "authority_part": 2,
+  "topic": "Chapter-grain spec authority and the Tier Scope Bracket backing store were ceded by Part 2 Area 9 via the Rule 9.12.2 explicit-amendment doorway (Rule 9.13) and widened to the spec chain (Section Spec, Novel-Part Spec, Chapter Spec) through the same doorway (Rules 9.13.1 to 9.13.3), the cession of range storage still stopping at Chapter grain; Part 2 Area 9 advisory-in-force semantics (9.6.1, 9.6.2, 9.7, 9.8, 9.9) govern how spec-backed ranges behave in prose flow; spec tree mirrors Part 2 Area 5 path naming (the Section Spec and Novel-Part Spec folders and files included); the Area is the written unit, with the Area-to-Area carry-over rule, the viewpoint change and the brief time-skip mark planned in the Area block; the epigraph on a title page is the Epigraph line of the Section's own Section Spec, and a Phase's first Area also prints the Phase epigraph line of Part 30 above it, so that it prints two lines where the first Area of every other Section prints one (Part 2 Rules 6.3.1b and 7.2.1a; Part 38 Rule 10.3.1)",
+  "strength": "HARD",
+  "nsa_note": "Critical — structural authority doorway"
+ },
+ {
+  "dependent_part": 38,
+  "authority_part": 28,
+  "topic": "Spec-settled items are valid decision inputs under Part 28 Rule 19.4, and so are the settled items of a confirmed Section Spec or Novel-Part Spec, carried into the Chapter Spec and recorded with their source in its Audit and Settlement Notes (Rule 19.3 category 1 and the Rule 19.4 No-Asking list); Rule 19.4 persistent consultation until 100% clarity cross-refers Part 38 Rule 38.13, the one definition that governs the three spec builds; pacing and size are decided per Area in the Chapter Spec and carried at writing, never asked again; Establishment boundary per Rule 18.4.4 for structural names (proposed vs locked-at-Gate-1) and Area 20.3 for in-world names (proposed vs locked-at-Gate-2), with no Establishment tag stored in a Section Spec or Novel-Part Spec and Rules 18.4.1 to 18.4.3 applied to their working labels as advice only; MAJOR/MINOR name consultation split per Area 20.4; Rule 18.7 Position Header ranges draw through the spec-backed brackets; no pacing question is asked at writing time",
+  "strength": "HARD",
+  "nsa_note": "Critical — DCG, naming, and Establishment interface"
+ },
+ {
+  "dependent_part": 38,
+  "authority_part": 30,
+  "topic": "Chapter purpose cites Part 30 Section mandates by function name (never copied text); calendar window per Section 1.3.2a Time Allocation Map; P30-L5 crisis-density tracking row (at least 6 of any 10 chapters); P30-L8 forbidden entities and P30-L9 sentient monsters may never be planned into any spec. the Section Spec build reads the whole of Part 30 every time, cites it by function name only (Rules 10.3.2 and 10.4.2) and surfaces the OPEN-AUTHOR rows due in or planted by the Section (Rule 10.4.3); Part 30 is the Phase-level plan and no Phase Spec exists (Rule 9.1.4); the Section window (the anchor duration or a value inside the latitude of Section 1.3.2a) holds the Novel-Part window, which holds the Chapter window (Part 30 Check 11-2); the Section Spec names which Novel-Part carries each Major Narrative Function and the Chapter Specs cite them by name (Part 30 Check 11-4); the Phase epigraph is a line of Part 30 and no spec holds it, while the Section Spec of a Phase's first Section carries its own Epigraph line like every other Section Spec (Rule 10.3.1)",
+  "strength": "HARD",
+  "nsa_note": "High — macro-arc conformance of chapter plans"
+ },
+ {
+  "dependent_part": 38,
+  "authority_part": 35,
+  "topic": "Per-Area CDL-2 category emphasis targets in spec rows are planned against Part 35 Area 3 Section targets and Anchor Floors; scoring itself remains wholly Part 35's",
+  "strength": "SOFT",
+  "nsa_note": "Medium — density-emphasis planning interface"
+ },
+ {
+  "dependent_part": 38,
+  "authority_part": 36,
+  "topic": "Spec-build direction options carry Part 36 Area 13 thematic previews and exposition-risk flags; Part 36 Autonomous Matters (living-scene criteria and every matter without a tag) are never spec-fixed and never asked; the sensory, tone and voice tags are the only spec levers over Part 36 matters (Area 13.4); the Area block names its novel elements from the Part 36 Novel Elements Lookup (Area 15.5). the guide-post distance for how long a setup may wait (Rule 23.2.5) is set by the plan lines of the Section Spec and Novel-Part Spec with no figure, and the thread-return stretch (Rule 26.4.4) is a per-thread note in the Section Spec threads table, default unset",
+  "strength": "SOFT",
+  "nsa_note": "Medium — thematic-preview and autonomy interface"
+ },
+ {
+  "dependent_part": 38,
+  "authority_part": 37,
+  "topic": "NOT-a-ledger delineation: Part 37 does not govern the spec folder (absent from the Area 4 Ledger Folder Registry; C-38 skips it); specs reference ledger entries by name/ref and never restate their content; ledger supersedes spec",
+  "strength": "SOFT",
+  "nsa_note": "Medium — domain boundary with ledger law"
+ },
+ {
+  "dependent_part": 2,
+  "authority_part": 38,
+  "topic": "Part 2 Rule 9.13: where an active Chapter Spec exists, its chapter-level bracket table is the authoritative source for the Chapter-tier and Area-tier Tier Scope Bracket ranges within its scope (Areas in the Chapter) read by Rule 9.10.1 lines, the Area 8 Completeness Indicator, and (through the brackets) Part 28 Rule 18.7 Position Header ranges; no range is stored for the Section or Novel-Part tier, the Novel-Part list of the Section Spec and the Chapter list of the Novel-Part Spec are the guide and their length is read as information only (Part 2 Rules 9.3.1 and 9.13.2), and the Epigraph line of a Section's title page is read from the Section Spec for every Section, and a Phase's first title page also prints the Phase epigraph from Part 30 above Section 1's own line (Part 2 Rules 6.3.1b and 7.2.1a)",
+  "strength": "HARD",
+  "nsa_note": "High — bracket backing store read path"
+ },
+ {
+  "dependent_part": 30,
+  "authority_part": 38,
+  "topic": "Part 30 reads the spec chain for the detail it deliberately leaves to the author's confirmed plan: the starting detail of Hercules and Bison (P30-8) is set in the Section Spec, Novel-Part Spec and Chapter Specs, each at its own grain; the calendar windows of Check 11-2 are kept in the Section Spec, the Novel-Part Spec and the Chapter Spec (Part 38 Rules 10.3.1 and 11.3.1); Check 11-4 reads which Novel-Part the Section Spec names for each Major Narrative Function and the Chapter Purpose of the Chapter Specs; the three linked guide registers of setups, payoffs and threads sit beside the Part 30 Setups-table, whose OPEN-AUTHOR rows the Section Spec build puts to the author (Part 38 Rules 9.5.4 and 10.4.3); the precedence-over-counters sentence names the confirmed spec chain beside Part 30; the Part 30 Phase epigraph line points to the Epigraph line of Section 1's Section Spec, which a Phase's first title page prints below it, and every other Section's first title page prints its own Section Spec Epigraph line alone (Part 38 Rule 10.3.1). The reverse edge 38 on 30 is HARD",
+  "strength": "SOFT",
+  "nsa_note": "Medium — spec-chain read path of Part 30 checks and registers"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 28,
+  "topic": "Part 28 Area 6 owns behavioral authenticity as permission and prohibition; Part 39 is its executable registry and audit",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 29,
+  "topic": "Part 29 Area 4.4 owns the nine prosodic determinants exclusively; Part 39 Layer L10 owns non-prosodic speech conduct only",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 36,
+  "topic": "Checks #19 (prose) and #20/#21 (people) are complementary; neither absorbs the other",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 26,
+  "topic": "Part 26 grades the inner psychological event; Part 39 Layer L27 renders its observable form and never sets a PIS level",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 27,
+  "topic": "Part 27 grades consequence; Part 39 Layer L28 renders aftermath conduct and never sets a CSS grade",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 20,
+  "topic": "Part 20 owns ideology; Part 39 Layer L08 owns the pre-deliberative reflex beneath belief",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 16,
+  "topic": "Part 16 owns classification and young-character bands; Part 39 Layers L26/L30/L32 own the conduct expressing them",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 17,
+  "topic": "Hero behavioral registration and growth-phase conduct",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 18,
+  "topic": "Villain psychological archetypes constrain Part 39 Layers L03/L08/L27/L28 per Standard N39-12",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 19,
+  "topic": "The Part 19 Depth Spectrum drives Part 39 per-tier registration requirements",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 5,
+  "topic": "Part 5 constrains Layer L25 absolutely; a registered combat behavior breaching Part 5 is invalid on its face",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 6,
+  "topic": "Part 6 owns Named Moves; Part 39 owns deployment doctrine only",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 3,
+  "topic": "Part 3 owns realm capability and reserves; Part 39 Layers L24/L26 own practice habit and bearing",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 25,
+  "topic": "Part 25 owns cultural and ritual form; Part 39 Layer L20 owns conduct within it",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 30,
+  "topic": "Part 30's locked ages and end-state levels drive the mandatory age-band and power-tier drift entries",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 2,
+  "topic": "Part 2 owns POV governance and the four combat elements; Part 39 supplies their per-character content",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 24,
+  "topic": "Part 24 owns information and reputation as assets; Part 39 Layers L09/L33 own concealment mechanics and perception",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 4,
+  "topic": "Part 4 owns affinity, soul and Heart; Part 39 Layer L24 owns the conduct of practising them",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 39,
+  "topic": "Part 37 incorporates the Part 39 content model for Character Sections 11-12 and the Collective Behavior Code block; Part 37 governs on any schema disagreement",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 38,
+  "authority_part": 39,
+  "topic": "Part 38 incorporates the Part 39 Behavioral Plan block; Part 38 governs on any spec-structure disagreement",
+  "strength": "HARD",
+  "nsa_note": "High — binding constraint"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 2,
+  "topic": "Part 2 Tier 5 defines the Area as the written unit and the unit of count (Rules P2-Area-1 and P2-Area-1a) over which the scene-level counts and reviews of this Part run",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 29,
+  "authority_part": 2,
+  "topic": "Part 2 Tier 5 defines the Area as the written unit and the unit of count (Rules P2-Area-1 and P2-Area-1a) over which the scene-level counts and reviews of this Part run",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 36,
+  "authority_part": 2,
+  "topic": "Part 2 Tier 5 defines the Area as the written unit and the unit of count (Rules P2-Area-1 and P2-Area-1a) over which the scene-level counts and reviews of this Part run",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 35,
+  "authority_part": 2,
+  "topic": "The Area is the written unit: the Area score, the content floor of CDL2-P9 and the Named-Move runs of CDL2-L6 and CDL2-L7 count Areas (Rule P2-Area-1)",
+  "strength": "HARD",
+  "nsa_note": "High — unit of count for Area-level scoring"
+ },
+ {
+  "dependent_part": 35,
+  "authority_part": 38,
+  "topic": "The size target and pacing of the Area, the CDL-2 Emphasis column and the Area block's novel-elements line are read from the confirmed chapter spec; the spec informs the report and never the rubric",
+  "strength": "SOFT",
+  "nsa_note": "Medium — size, pacing and planned-emphasis interface"
+ },
+ {
+  "dependent_part": 35,
+  "authority_part": 36,
+  "topic": "Element names and the categories that test them come from the Novel Elements Lookup (Area 15.5); the report-only Voice and Variety block (dimension 16-K) sits beside the CDL-2 blocks and adds no category",
+  "strength": "SOFT",
+  "nsa_note": "Medium — element lookup and report-order interface"
+ },
+ {
+  "dependent_part": 35,
+  "authority_part": 28,
+  "topic": "CDL2-P10 cites Part 28 Area 4.2 for how the depth pillars are weighed (on the scene, the Area, not paragraph by paragraph; a Pillar not yet carried is reported open until the end of the Area) and Area 4.5 for the one definition of a quiet paragraph",
+  "strength": "SOFT",
+  "nsa_note": "Medium — depth-pillar weighing interface"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 38,
+  "topic": "Part 28 reads the chapter spec's tone and voice tags, the Area's size and pacing and the spec-settled cuts at the Decision Consultation Gate (Part 38 Rules 2.3.5a, 2.3.5b and 2.3.5d and section 2.4); it also reads the settled items of the confirmed Section Spec and Novel-Part Spec, carried into the Chapter Spec and recorded with their source in its Audit and Settlement Notes (Rule 19.3 category 1 and the Rule 19.4 No-Asking list; Part 38 Rule 9.5.1), and Rule 19.4 persistent consultation cross-refers Part 38 Rule 38.13; the reverse edge 38 on 28 is HARD",
+  "strength": "SOFT",
+  "nsa_note": "Medium — tags and Area size and pacing interface"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 36,
+  "topic": "Part 28 and Part 29 cite Part 36 Areas 2.4, 14.1, 14.3, 16.6, 17.5(b) and 18 for the Area window, the precedence of form over requirement (Part 36 chooses the form; nothing is waived) and the narrator voice",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 29,
+  "authority_part": 36,
+  "topic": "Part 28 and Part 29 cite Part 36 Areas 2.4, 14.1, 14.3, 16.6, 17.5(b) and 18 for the Area window, the precedence of form over requirement (Part 36 chooses the form; nothing is waived) and the narrator voice",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 36,
+  "authority_part": 38,
+  "topic": "Part 36 dimensions 16-A and 16-I, the Area flow review and Areas 2.4, 16.6, 19, 20, 21 and 22 to 27 read the spec's tags, size, pacing and Area-block fields (Part 38 Rules 2.3.5a, 2.3.5b and 2.3.5d and 2.4.2); Rule 23.2.5 (guide-post distance between plant and payoff) and Rule 26.4.4 (thread-return stretch) read the plan lines and the threads table of the Section Spec and Novel-Part Spec (Part 38 Rules 9.5.4 and 10.3.4), and the report of a motif planted but never paid off is made when the Chapter Spec is completed (Part 38 Rule 3.7.1)",
+  "strength": "SOFT",
+  "nsa_note": "Medium — spec tags and Area-block interface"
+ },
+ {
+  "dependent_part": 36,
+  "authority_part": 39,
+  "topic": "Part 36 Area 18 builds the narrator's perception and voice from Part 39 Layers L02, L07 and L03; Part 39 Rules 39.6.1.1 and 39.11.1.1 test each character against their own registration",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 36,
+  "authority_part": 24,
+  "topic": "Part 36 Area 22 renders what Part 24 makes secret; the Reader-Reveal Timing Law fixes when",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 36,
+  "authority_part": 28,
+  "topic": "Part 36 Area 23 extends Part 28 Area 9.2 (foreshadowing across prior scenes) and P28-10 (governed surprise)",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 36,
+  "authority_part": 30,
+  "topic": "Part 36 Area 24 applies the four pillars of Part 30 section 1.6; Area 25 reads P30-4, P30-6 and P30-L5",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 36,
+  "authority_part": 3,
+  "topic": "Part 36 Area 27 keeps memory, flashback, dream and vision scenes inside Part 3 Rules 1.7.1 and 1.7.2 (Rules 27.2.5 and 27.3.1)",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 36,
+  "authority_part": 11,
+  "topic": "Part 36 Area 27.6 renders scenes where money decides and reads Part 11 Areas 12 and 14",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 13,
+  "authority_part": 30,
+  "topic": "Part 13 Area 27 reads the Phase Day count of Part 30 section 1.3.2a (365 Phase Days to an in-story year); the calendar itself, the year, the months and the week, moved to Part 41 (see the Part 13 to Part 41 edge)",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 29,
+  "authority_part": 16,
+  "topic": "Part 29 Area 18 uses species languages and the rendering of species terms (Part 16 N16-14)",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 29,
+  "authority_part": 30,
+  "topic": "Part 29 Area 18 answers P30-8, the language barrier of the arrival arc",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 29,
+  "authority_part": 25,
+  "topic": "Part 29 Area 19 keeps a row for each culture of Part 25 Area 29.2",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 29,
+  "authority_part": 39,
+  "topic": "Part 29 Area 19 sends each person's oath style to Part 39 Layer L10, dimension L10-OATH",
+  "strength": "SOFT",
+  "nsa_note": "Low — informational reference"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 37,
+  "topic": "Part 37 owns the Tier D registry template; Part 39 supplies the Code cell content (Section 3.5)",
+  "strength": "SOFT",
+  "nsa_note": "Medium — Tier D registry template interface"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 37,
+  "topic": "Part 28 Area 20 Rule 20.8: a named item's name is set in italic and its Gate 2 register row is a Part 37 Area 3.8 schema entry under Threshold O-4 in ledger-named-items",
+  "strength": "SOFT",
+  "nsa_note": "Medium — named-item register interface"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 28,
+  "topic": "Part 37 Area 3.8 and Threshold O-4 read the definition of a named item, its form and its register duty from Part 28 Rule 20.8, which stands on any difference",
+  "strength": "SOFT",
+  "nsa_note": "Medium — named-item register interface"
+ },
+ {
+  "dependent_part": 6,
+  "authority_part": 37,
+  "topic": "Part 6 Rule 6.5: every Named Move is entered at Gate 2 in the generic register ledger-named-moves (Part 37 Area 3.9, Threshold O-5) and in each user's character-ledger Named Moves registry, each pointing at the other; the entry owns every value",
+  "strength": "SOFT",
+  "nsa_note": "Medium — Named-Move register interface"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 6,
+  "topic": "Part 37 Area 3.9, Threshold O-5 and the Register row line of the Area 2.1 Section 3 template and the Area 2.7 catalog entry read the register, its kinds and its creation rule from Part 6 Rule 6.5, which stands on any difference",
+  "strength": "SOFT",
+  "nsa_note": "Medium — Named-Move register interface"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 2,
+  "topic": "Part 28 Rule 20.8.2 sets the one lawful break in the italic span of speech (Part 2 Rule 2.2.2 and Part 29 Rule 29.2.1.1) and leaves the bold-italic form of Named Moves (Part 2 Rule 3.2.1) untouched",
+  "strength": "SOFT",
+  "nsa_note": "Low — formatting interface"
+ },
+ {
+  "dependent_part": 38,
+  "authority_part": 28,
+  "topic": "Part 38 Rule 9.6.4 (the shape of a question in all three spec builds) reads Part 28 Rule 20.9: naming is never offered as a cost, risk or downside of an option, and the named version is the recommended one; a name proposed in a spec stays a proposal (Rule 1.3.2)",
+  "strength": "SOFT",
+  "nsa_note": "Medium — consultation interface"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 3,
+  "topic": "Part 40 Area 3 puts monsters on the one Part 3 ladder (no ladder of their own; a stage band for a Kind, an exact stage for an Individual) and under the Part 3 breakthrough, comparison, Ambient Energy Class and footprint rules; Part 3 Rule 1.7.3 carries a clause that the Phase 1 narrative ceiling binds monsters",
+  "strength": "HARD",
+  "nsa_note": "High — monster stage and Phase 1 ceiling"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 5,
+  "topic": "Part 40 Area 10 reads Part 5: a monster is a non-person adversary, classified at E1 unless Part 5 Area 5 says otherwise",
+  "strength": "SOFT",
+  "nsa_note": "Medium — combat interface"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 6,
+  "topic": "Part 40 Area 4 reads Part 6: body-based monster abilities are species-innate S-3 and qi-based ones S-1, entered in the single Named-Move register with the Kind or Individual as user; Part 6 Rule 12.3.7 gives the monster reading of the codified-pattern test and Rule 6.5.2 counts a monster entry as a user entry",
+  "strength": "HARD",
+  "nsa_note": "High — monster Named Moves"
+ },
+ {
+  "dependent_part": 6,
+  "authority_part": 40,
+  "topic": "Part 6 Rule 12.3.7 and Rule 6.5.2 read the definition of a monster Kind and Individual from Part 40, which stands on any difference",
+  "strength": "SOFT",
+  "nsa_note": "Medium — monster Named Moves"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 11,
+  "topic": "Part 40 Rule 40.8.4.1 (the Harvest line) reads Part 11 Rules 11.1.1, 11.1.2 and Area 11.4 (Beast Cores, Essence Blood, Spirit Marrow) and Area 8.3 (Beast Attraction); nothing under Parts 11 and 12 comes from a monster below the levels they name",
+  "strength": "HARD",
+  "nsa_note": "High — monster Harvest"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 12,
+  "topic": "Part 40 Rule 40.8.4.1 reads Part 12 (the bone and organ of Core Realm and Divine Realm beasts as relic materials); Formation Spirits and Relic Intelligences are not monsters (Part 40 Area 1.2)",
+  "strength": "SOFT",
+  "nsa_note": "Medium — harvest and boundary"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 16,
+  "topic": "Part 40 Area 1 reads Part 16 Area 1.1 (non-sentient animals are not characters) and Area 12.2 (the Cultivated Beast (Awakened) is the sentient monster, with a floor of Void God Level 1 Low, Part 40 Rule 40.11.2.1); Areas 17 to 19 and the World Tree define what is not a monster",
+  "strength": "HARD",
+  "nsa_note": "High — monster boundary and sentience"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 40,
+  "topic": "Part 16 Area 1.1, Area 12.2, N16-17 and Area 15 carry pointers to Part 40 for monsters and the sentient monster",
+  "strength": "SOFT",
+  "nsa_note": "Medium — monster boundary"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 18,
+  "topic": "Part 40 Area 12 reads Part 18: a monster without a mind is never a villain, a sentient monster classified Villain moves to the villain ledger as one canonical file, and side villains are Tier C and D (Part 18 Area 6.3)",
+  "strength": "HARD",
+  "nsa_note": "High — monster and villain line"
+ },
+ {
+  "dependent_part": 18,
+  "authority_part": 40,
+  "topic": "Part 18 Area 6.3 (the Villain Depth Spectrum) and Rule 18.6.3.6 point at Part 40 for monsters; a non-sentient monster's hostility is not qualifying behavior for Threshold C-2",
+  "strength": "SOFT",
+  "nsa_note": "Medium — villain tiers"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 19,
+  "topic": "Part 40 Area 6 reuses the Part 19 Area 1.2 Depth Spectrum (Tier A to D) as depth of record and Rule 19.1.2.4 as the pattern for what comes to the author",
+  "strength": "HARD",
+  "nsa_note": "High — depth tiers"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 20,
+  "topic": "Part 40 Area 11: a sentient monster has a Part 20 Ideology Profile (Section 4 of its entry); a non-sentient monster has none",
+  "strength": "SOFT",
+  "nsa_note": "Medium — sentient monster ideology"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 22,
+  "topic": "Part 40 Area 9 reads Part 22 (the Monster Hunting Corps hunt monsters; the spirit or anomalous entities in its service line are a reserved class)",
+  "strength": "SOFT",
+  "nsa_note": "Low — hunting corps"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 24,
+  "topic": "Part 40 Area 9 reads Part 24 (the Beast Carrier is a tamed monster)",
+  "strength": "SOFT",
+  "nsa_note": "Low — tamed monsters"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 25,
+  "topic": "Part 40 Rule 40.13.2.2 reads Part 25: the local register names a wild beast; cultural views of a Kind are recorded as description",
+  "strength": "SOFT",
+  "nsa_note": "Low — naming register"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 26,
+  "topic": "Part 40 Area 11 and Rule 40.9.4.1: a sentient monster has a Part 26 psychology; a monster's killing and being killed carry weight for the people involved",
+  "strength": "SOFT",
+  "nsa_note": "Medium — psychology interface"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 27,
+  "topic": "Part 40 Rule 40.1.3.1 and Area 9: a monster's death and its harm to people are Part 27 consequence events; a sentient monster has a consequence arc",
+  "strength": "SOFT",
+  "nsa_note": "Medium — consequence interface"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 28,
+  "topic": "Part 40 Area 13 reads the Part 28 Entity Naming Law (Rule 20.3 sequence, Rule 20.4 MAJOR and MINOR, Rule 20.9 naming is not a cost); Part 28 Rules 20.3, 20.4(g), 20.7 and 20.8.1(a) carry the monster pointers",
+  "strength": "HARD",
+  "nsa_note": "Medium — monster names"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 29,
+  "topic": "Part 40 Rule 40.11.5.1 reads Part 29: a sentient monster speaks in human speech (Rule 29.2.1.1) and/or in mind-voice, which takes the soul-sense form of Rule 29.14.3.3",
+  "strength": "SOFT",
+  "nsa_note": "Medium — sentient monster speech"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 30,
+  "topic": "Part 40 Rules 40.7.5.1 and 40.11.3.1 read Part 30: the Phase 1 monster lines set the bands, and Law P30-L9 (Phase 1 Sentient-Monster Law) bars every sentient monster from Phase 1; Gate 1 Check #11 element 11-3 reads both P30-L8 and P30-L9",
+  "strength": "HARD",
+  "nsa_note": "Critical — Phase 1 forbidden-entity boundary"
+ },
+ {
+  "dependent_part": 30,
+  "authority_part": 40,
+  "topic": "Part 30 Law P30-L9 reads the definition of a sentient monster and its floor from Part 40 Area 11",
+  "strength": "SOFT",
+  "nsa_note": "Medium — Phase 1 sentient-monster boundary"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 31,
+  "topic": "Part 40 Area 15: a monster entry carries CS% and TS% in Section 2 (Part 31 Area 21.4); a wild monster with no technology contact sits at the low-technology end of the Part 31 table",
+  "strength": "SOFT",
+  "nsa_note": "Low — CS% and TS%"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 32,
+  "topic": "Part 40 Rule 40.1.1.2: Beastdray and Ridebeasts (Part 32 EBC-2 and EBC-3) are animals, not monsters",
+  "strength": "SOFT",
+  "nsa_note": "Low — boundary"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 37,
+  "topic": "Part 40 Area 7 reads Part 37: Area 3.10 is the monster schema, Thresholds M-1 to M-3 and the C-2 clause gate entry creation, the monster registries are in Area 2.11, and the monster ledger is the twentieth folder in Area 4",
+  "strength": "HARD",
+  "nsa_note": "High — monster ledger schema"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 40,
+  "topic": "Part 37 Area 3.10 and Thresholds M-1 to M-3 read the definition, the entry kinds, the tiers and the sentient reserve from Part 40, which stands on any difference",
+  "strength": "SOFT",
+  "nsa_note": "Medium — monster ledger interface"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 18,
+  "topic": "Part 37 Area 2.2, Area 2.11 and the Threshold C-2 tier clause read the Villain Depth Spectrum (Tier A and B full files, Tier C and D side villains) from Part 18 Area 6.3",
+  "strength": "HARD",
+  "nsa_note": "High — villain tier schema"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 38,
+  "topic": "Part 40 and Part 38: the template section 3 standing exclusion for sentient monsters (Law P30-L9), monsters in the Behavioral Plan by Kind and tier, and the Phase 1 Kind defined and named at its Chapter Spec as a proposed name (Part 38 Rule 1.3.2)",
+  "strength": "HARD",
+  "nsa_note": "High — spec planning"
+ },
+ {
+  "dependent_part": 40,
+  "authority_part": 39,
+  "topic": "Part 40 Area 5 reuses Part 39 dimensions in the twelve traits, Check #20 element 20-2 reads them in light form, and a sentient monster takes the full registration with L32-TYPE-06; Part 39 Area 4.1 and Area 41.3 carry the Tier C and D rows for side villains",
+  "strength": "HARD",
+  "nsa_note": "High — monster behaviour traits"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 40,
+  "topic": "Part 39 Area 4.1, Area 36, Area 41.3, Area 43 and Area 50 carry pointers to Part 40 for monsters and side villains",
+  "strength": "SOFT",
+  "nsa_note": "Medium — behaviour interface"
+ },
+ {
+  "dependent_part": 12,
+  "authority_part": 28,
+  "topic": "Part 12 Rule 2.2.3 sets Named Relics, Named Artifacts, named formation arrays and named energy caches in italic by Part 28 Rule 20.8.2 and registers each in ledger-named-items (Types relic or artifact, formation array, energy cache) with a pointer to its entry in ledger-energy-relics-artifacts, which stays the home of every descriptive fact",
+  "strength": "SOFT",
+  "nsa_note": "Medium — relic form and register interface"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 12,
+  "topic": "Part 28 Rule 20.8.1(c) and Rule 20.8.6 name Part 12 Rule 2.2.3 as the one rule in another Part that the Registers amendment changes (relic form from bold to italic; the Tiers, ceilings and every other rule of Part 12 are untouched)",
+  "strength": "SOFT",
+  "nsa_note": "Medium — relic form interface"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 24,
+  "topic": "Part 28 Rule 20.8.7: a named document (a map, letter, charter, decree, codex or record) is set in italic and an agreement, treaty or accord in roman, and each is registered as a row of ledger-society-information (Part 37 Area 3.4), not in ledger-named-items; the Part 24 cross-reference row records that the folder stores all information",
+  "strength": "SOFT",
+  "nsa_note": "Medium — information register interface"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 23,
+  "topic": "Part 37 Area 3.4 Information Records point an agreement's row in ledger-society-information at its agreement file in ledger-people-society-affiliation (Area 3.3, Part 23), which stays the only owner of the agreement's parties, terms and state",
+  "strength": "SOFT",
+  "nsa_note": "Medium — agreement home entry"
+ },
+ {
+  "dependent_part": 41,
+  "authority_part": 2,
+  "topic": "Part 41 Area 5 stands on Part 2: the Area file structure, the Area Title Block and the Area size stay Part 2's, and the date line is the first line of the Area text under the Area Title Block; Part 41 Area 10 states the scoped exception once",
+  "strength": "HARD",
+  "nsa_note": "High — date line placement"
+ },
+ {
+  "dependent_part": 41,
+  "authority_part": 13,
+  "topic": "Part 41 Areas 2 and 10 leave to Part 13 Area 27 the climate, the weather, the in-world season names and the length of daylight (left open until the first Area that shows them) and read Saha's 26-hour day from it; the season words of the month table are plan words only",
+  "strength": "SOFT",
+  "nsa_note": "Medium — seasons and Saha day"
+ },
+ {
+  "dependent_part": 41,
+  "authority_part": 14,
+  "topic": "Part 41 Area 2 counts the Saha day in the standard hour of Part 14, and Part 41 Area 10 answers for Saha Part 14's note that weeks, months and their names differ from planet to planet",
+  "strength": "SOFT",
+  "nsa_note": "Low — standard hour"
+ },
+ {
+  "dependent_part": 41,
+  "authority_part": 15,
+  "topic": "Part 41 Area 2 (Rule 41.2.4.3) and Area 10: a day of travel on foot, by road or by airship is a Saha day; no travel time is changed",
+  "strength": "SOFT",
+  "nsa_note": "Low — travel days"
+ },
+ {
+  "dependent_part": 41,
+  "authority_part": 16,
+  "topic": "Part 41 Area 8 reads Part 16 Rule 16.16.1.1 (age counted in a Saha calendar year) and derives the eight birth years and the age on a date from it",
+  "strength": "SOFT",
+  "nsa_note": "Medium — age and birth year"
+ },
+ {
+  "dependent_part": 41,
+  "authority_part": 21,
+  "topic": "Part 41 Area 10 (Rule 41.10.1.1): a civilization's 'Calendar System' entry points at the Nine Suns calendar here; a people's own reckoning, where one is recorded, stays that civilization's entry as description",
+  "strength": "SOFT",
+  "nsa_note": "Low — civilization calendar field"
+ },
+ {
+  "dependent_part": 41,
+  "authority_part": 25,
+  "topic": "Part 41 Area 7 fixes the Twin Oath and the Gale Ascent by month and day and Area 3 lets a market day or a rite name a weekday; what a festival or an observance is, requires, forbids and costs stays Part 25's",
+  "strength": "SOFT",
+  "nsa_note": "Medium — festival days"
+ },
+ {
+  "dependent_part": 41,
+  "authority_part": 28,
+  "topic": "Part 41 Areas 1, 2 and 3 take the twelve month names and the seven weekday names as MAJOR names chosen by the author and immutable (Part 28 Area 3.4 and Rule 20.4), Area 5 sets them in roman in text under Rule 20.8, and the Rule 20.3 naming results are recorded in the calendar ledger",
+  "strength": "HARD",
+  "nsa_note": "High — names of months and weekdays"
+ },
+ {
+  "dependent_part": 41,
+  "authority_part": 30,
+  "topic": "Part 41 Areas 2, 4 and 8 convert Part 30's Locked Canon (365 Phase Days to an in-story year, the Section windows, the end-state ages) to calendar dates and change none of it; Part 41 Area 6 reads the age column and Check #11 element 11-2",
+  "strength": "HARD",
+  "nsa_note": "Critical — Locked Canon conversion"
+ },
+ {
+  "dependent_part": 41,
+  "authority_part": 37,
+  "topic": "Part 41 Area 9 stands on Part 37: Threshold D-1, the Area 3.11 schema template of the calendar ledger, the twenty-first folder of Area 4 and the Baseline and Living classification of Area 5",
+  "strength": "HARD",
+  "nsa_note": "High — calendar ledger schema"
+ },
+ {
+  "dependent_part": 41,
+  "authority_part": 38,
+  "topic": "Part 41 Areas 4, 5 and 9 stand on Part 38: the windows of the spec chain are a date plus a Phase Day citing Part 41, a spec establishes no date (Rule 1.3.2), a ledger never cites spec content (Rule 1.4.2) and the as-built in-story time mirrors the ledger (Rule 3.6.1 item 2)",
+  "strength": "HARD",
+  "nsa_note": "High — spec windows and ledger ownership"
+ },
+ {
+  "dependent_part": 2,
+  "authority_part": 41,
+  "topic": "Part 2 Rule 10.3.5 carries a scoped exception for the date line, Rule P2-Area-1a and Principle P2-4 read it as not narration and not a structure label, and Rules 6.3.2b and 7.2.2b place it in the Word and Markdown files; Part 41 Area 5 owns the line",
+  "strength": "HARD",
+  "nsa_note": "High — date line exception"
+ },
+ {
+  "dependent_part": 13,
+  "authority_part": 41,
+  "topic": "Part 13 Area 27 (the Seasons and the Year and calendar rows, Rule 27.3.1 and Rule 27.5.1) points at Part 41: Part 41 owns the calendar and Part 30 the Section durations; the seasons stay open until the first Area that shows them where Part 41 does not fix them",
+  "strength": "HARD",
+  "nsa_note": "High — calendar ownership"
+ },
+ {
+  "dependent_part": 14,
+  "authority_part": 41,
+  "topic": "Part 14 Area 2 points at Part 41 Area 10: weeks and months are answered for Saha and a day of a journey is a Saha day",
+  "strength": "SOFT",
+  "nsa_note": "Low — pointer"
+ },
+ {
+  "dependent_part": 15,
+  "authority_part": 41,
+  "topic": "Part 15 Area 1 points at Part 41: a day of travel is a Saha day",
+  "strength": "SOFT",
+  "nsa_note": "Low — pointer"
+ },
+ {
+  "dependent_part": 16,
+  "authority_part": 41,
+  "topic": "Part 16 Rule 16.16.1.1 points at Part 41 Areas 2 and 8: a Saha calendar year is 365 Saha days",
+  "strength": "SOFT",
+  "nsa_note": "Medium — age by the Saha year"
+ },
+ {
+  "dependent_part": 21,
+  "authority_part": 41,
+  "topic": "Part 21 Area 20 (the civilization 'Calendar System' field) points at Part 41 for the Nine Suns calendar",
+  "strength": "SOFT",
+  "nsa_note": "Low — pointer"
+ },
+ {
+  "dependent_part": 25,
+  "authority_part": 41,
+  "topic": "Part 25 Area 10 (the planet's calendar) and Area 29 (the two festival rows) read the fixed days of Part 41 Area 7: an observance may carry a date once the calendar fixes it, and a festival scene falls on its day",
+  "strength": "HARD",
+  "nsa_note": "Medium — festival dates"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 41,
+  "topic": "Part 28 Area 3.4 and Area 20 name the month and weekday names as MAJOR names, and Area 17 lists 'Calendar system' among the civilization fields, with pointers to Part 41",
+  "strength": "SOFT",
+  "nsa_note": "Medium — names pointer"
+ },
+ {
+  "dependent_part": 29,
+  "authority_part": 41,
+  "topic": "Part 29 Rules 29.4.4.2 to 29.4.4.4 read the last paragraph of an Area; Part 41 Area 5 (Rule 41.5.6.1) sets the date line outside every such reading, carried through Part 2 Rule P2-Area-1a",
+  "strength": "SOFT",
+  "nsa_note": "Low — last-paragraph readings"
+ },
+ {
+  "dependent_part": 30,
+  "authority_part": 41,
+  "topic": "Part 30 section 1.3.2a (Cross-Reference Discipline) is read in scope for the date line and Check #11 element 11-2 reads the date line and the calendar ledger; Part 41 Areas 4 and 6 own the conversion and the dating rules, and Phase Day numbers, durations and ages are not touched",
+  "strength": "HARD",
+  "nsa_note": "High"
+ },
+ {
+  "dependent_part": 35,
+  "authority_part": 41,
+  "topic": "Part 35 CDL-2 scoring reads an Area with the date line set aside (Part 41 Area 5, Rule 41.5.6.1); the line adds no word to any category or aggregate",
+  "strength": "SOFT",
+  "nsa_note": "Low — not narration"
+ },
+ {
+  "dependent_part": 36,
+  "authority_part": 41,
+  "topic": "Part 36 (Check #16, Check #19 and Area 26, the openings and closings of an Area) points at Part 41 Area 5: the date line is not narration, and the opening of an Area is the first paragraph of narration below it",
+  "strength": "SOFT",
+  "nsa_note": "Medium — date line not narration"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 41,
+  "topic": "Part 37 Area 3.11 and Threshold D-1 read what the calendar ledger records and when it is written from Part 41 Area 9, which stands on any difference about the calendar",
+  "strength": "SOFT",
+  "nsa_note": "Medium — calendar ledger interface"
+ },
+ {
+  "dependent_part": 38,
+  "authority_part": 41,
+  "topic": "Part 38 (the three spec templates, Rules 2.4.10, 9.3.1 and 10.3.1, Rule 3.6.1 item 2 and Rule 1.4.2) writes every calendar window as a date plus a Phase Day citing Part 41 Area 4 and mirrors the ledger's recorded date",
+  "strength": "HARD",
+  "nsa_note": "High — spec windows"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 41,
+  "topic": "Part 39 Area 27 (Layer L23, B39-L23-ROUTINE-05, a weekly rhythm with one fixed day) may name a weekday of Part 41 Area 3",
+  "strength": "SOFT",
+  "nsa_note": "Low — weekly rhythm"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 2,
+  "topic": "Part 42 Areas 12 and 13 stand on Part 2 for the bold-italic form of a Named Move (Rule 3.2.1); manual titles are plain italic named items",
+  "strength": "SOFT",
+  "nsa_note": "Low — bold-italic form"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 3,
+  "topic": "Part 42 Areas 3, 5 and 6 stand on Part 3: the ladder and its positions for min_realm, the Move Access Ceiling (Area 16.2), Rule 16.2.1, the reserve architecture (Area 12) and the meridian states (Area 13) behind the energy and cultivation ladders, and Rule 1.7.3 for prose",
+  "strength": "HARD",
+  "nsa_note": "High — access ceiling and ladders"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 4,
+  "topic": "Part 42 Area 6 stands on Part 4: the nine Affinity Levels in their exact names, the realm milestones (Area 1.4) and the closed 50-type catalog behind the affinity and sovereignty ladders",
+  "strength": "HARD",
+  "nsa_note": "High — affinity and sovereignty ladders"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 6,
+  "topic": "Part 42 stands on Part 6: the Move Types and rates, the Functions, the Access Table 4.1 (not amended), the cost classes, the mastery grades, the naming patterns, the learning methods, Lineage Techniques and the generic register of Rule 6.5",
+  "strength": "HARD",
+  "nsa_note": "High — move taxonomy and access"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 7,
+  "topic": "Part 42 Rule 42.2.3.4 holds a Fusion-type move in a manual to the Fusion Move Protocol and the Part 7 success rates",
+  "strength": "SOFT",
+  "nsa_note": "Low — Fusion-type moves"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 12,
+  "topic": "Part 42 Rule 42.1.1.3: a manual is not a relic unless Part 12 registers it as one",
+  "strength": "SOFT",
+  "nsa_note": "Low — manual not a relic"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 17,
+  "topic": "Part 42 Area 11 links the eight heroes by ID through the kits file; Section 3 of the hero ledger carries the Manual Kit pointer line",
+  "strength": "HARD",
+  "nsa_note": "High — hero manual kits"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 18,
+  "topic": "Part 42 Area 11: Section 3 of a villain ledger carries the Manual Kit pointer line",
+  "strength": "SOFT",
+  "nsa_note": "Medium — villain manual kits"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 19,
+  "topic": "Part 42 Area 11 reads the Part 19 Depth Spectrum: Tier A and Tier B side characters get concrete manual IDs, Tier C and Tier D get the eligibility rule only; Rule 42.11.4.3 follows tier promotion",
+  "strength": "HARD",
+  "nsa_note": "High — side-character kits"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 22,
+  "topic": "Part 42 Area 7 names the institutions that Part 22 faction entries hold and does not coin new ones",
+  "strength": "SOFT",
+  "nsa_note": "Medium — institutions"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 23,
+  "topic": "Part 42 Areas 7 and 11 read membership, rank and permits (Part 23) behind the access codes and the eligibility test",
+  "strength": "SOFT",
+  "nsa_note": "Low — access codes"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 25,
+  "topic": "Part 42 Area 12 draws the Azorion and Gale naming registers on the Part 25 cultural registers of the two kingdoms",
+  "strength": "SOFT",
+  "nsa_note": "Medium — naming registers"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 28,
+  "topic": "Part 42 Area 12 stands on Part 28: the Rule 20.3 naming method, the Rule 20.8 named-item form and register for manual titles, name immutability and the MAJOR and MINOR split",
+  "strength": "HARD",
+  "nsa_note": "High — naming and named items"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 29,
+  "topic": "Part 42 Rule 42.13.1.4 reads Part 29 Area 12 and Rule 29.2.1.1d for realm vocabulary in narration",
+  "strength": "SOFT",
+  "nsa_note": "Low — realm vocabulary"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 30,
+  "topic": "Part 42 stands on Part 30: Law P30-L8 (the forbidden entity), Law P30-L1 (the one bounded Catastrophic use), the Phase 1 narrative ceiling and the seal end-states for Hercules and Bison",
+  "strength": "HARD",
+  "nsa_note": "High — Phase 1 ceiling and forbidden entity"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 33,
+  "topic": "Part 42 Area 9 stands on Part 33: the Shard-Thrower, Iron-Lance, Powder-Shot and Thunder-Charge classes, the Tier 3 Handling Sheet and weapon accessibility by civilization tier; a style never carries a weapon beyond Tier 3 in Phase 1",
+  "strength": "HARD",
+  "nsa_note": "High — weapon tiers and handling sheet"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 37,
+  "topic": "Part 42 Area 10 stands on Part 37: the folder registry (the twenty-second folder), the schema template, the creation threshold and the B/L classification",
+  "strength": "HARD",
+  "nsa_note": "High — Manual Ledger schema"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 38,
+  "topic": "Part 42 Rule 42.14.1.6: a spec establishes no manual fact (Part 38 Rule 1.3.2)",
+  "strength": "SOFT",
+  "nsa_note": "Low — specs establish nothing"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 39,
+  "topic": "Part 42 leaves a character's relation to a weapon style as a behavioral signature to Part 39 and records only the manuals",
+  "strength": "SOFT",
+  "nsa_note": "Low — behavioral signature"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 40,
+  "topic": "Part 42 Area 14 table: a monster's innate moves are S-3 species-innate moves and are not carried in manuals (Part 6 Area 12.7)",
+  "strength": "SOFT",
+  "nsa_note": "Low — S-3 non-transmission"
+ },
+ {
+  "dependent_part": 42,
+  "authority_part": 41,
+  "topic": "Part 42 Rule 42.10.4.1 reads the Area reference form of Part 41; no date is stored in the Manual Ledger",
+  "strength": "SOFT",
+  "nsa_note": "Low — Area reference"
+ },
+ {
+  "dependent_part": 3,
+  "authority_part": 42,
+  "topic": "Part 3 Area 16.2 carries a pointer to Part 42 Area 3: the per-character Usable, Conditional and Latent state of a move in a held manual and the Seal Rule; the table is unchanged",
+  "strength": "SOFT",
+  "nsa_note": "Low — pointer"
+ },
+ {
+  "dependent_part": 6,
+  "authority_part": 42,
+  "topic": "Part 6 Area 9.1 (identity binding, scope amended, purpose kept), Rules 6.5.1 to 6.5.5 (the register extension and the Manual Kit pointer), Area 7.1 Method L-2 and Area 4 carry the amendments of Part 42 Area 15; Part 42 is the owner of manuals and School Moves",
+  "strength": "HARD",
+  "nsa_note": "High — identity binding and register"
+ },
+ {
+  "dependent_part": 12,
+  "authority_part": 42,
+  "topic": "Part 12 Rule 2.2.3 carries a note that a manual is a named item and not a relic unless registered",
+  "strength": "SOFT",
+  "nsa_note": "Low — manual not a relic"
+ },
+ {
+  "dependent_part": 17,
+  "authority_part": 42,
+  "topic": "Part 17 hero ledger Section 3 carries the Manual Kit pointer line of Part 42 Area 15 (Amendment 4)",
+  "strength": "HARD",
+  "nsa_note": "High — Manual Kit pointer"
+ },
+ {
+  "dependent_part": 18,
+  "authority_part": 42,
+  "topic": "Part 18 villain ledger Section 3 carries the Manual Kit pointer line of Part 42 Area 15",
+  "strength": "SOFT",
+  "nsa_note": "Medium — Manual Kit pointer"
+ },
+ {
+  "dependent_part": 19,
+  "authority_part": 42,
+  "topic": "Part 19 side-character ledger Section 3 carries the Manual Kit pointer line of Part 42 Area 15",
+  "strength": "HARD",
+  "nsa_note": "High — Manual Kit pointer"
+ },
+ {
+  "dependent_part": 28,
+  "authority_part": 42,
+  "topic": "Part 28 Rules 20.8.1, 20.8.4 and 20.8.7 carry the manual title as a named item of Type other item registered by ID in the Manual Ledger with a pointer row; a manual is not a named document of Rule 20.8.7",
+  "strength": "HARD",
+  "nsa_note": "High — manual titles"
+ },
+ {
+  "dependent_part": 33,
+  "authority_part": 42,
+  "topic": "Part 33 Areas 18.2 and 2.9 carry a pointer to Part 42: a weapon type is a style discipline, the Part 33 class of each missile, powder and siege type is read from Part 42 Area 9",
+  "strength": "SOFT",
+  "nsa_note": "Medium — weapon-type pointer"
+ },
+ {
+  "dependent_part": 37,
+  "authority_part": 42,
+  "topic": "Part 37 Areas 1.5, 3, 4 and 7 carry the Manual Ledger: Threshold O-6, the Area 3.12 schema template, the twenty-second folder and the dependency row",
+  "strength": "HARD",
+  "nsa_note": "High — Manual Ledger schema"
+ },
+ {
+  "dependent_part": 43,
+  "authority_part": 39,
+  "topic": "Part 43 widens Gate 1 Check #21 (Part 39 Area 44) to detect evolution for every character and reads the 36 Layers, 12 Signatures, the Conditional Drift Map, the Drift Count and the immutable Signatures (L31-IMMUTABLE); the base profile in Sections 11 and 12 is never overwritten",
+  "strength": "HARD",
+  "nsa_note": "Critical — Check #21 and the base profile"
+ },
+ {
+  "dependent_part": 43,
+  "authority_part": 37,
+  "topic": "Part 43 adds Section 14, Evolution Entries, to the character ledger schema (Part 37 Area 2.1, appended, no renumbering) for hero, villain, side-character and monster ledgers; the ledger-update guardrail may write Evolution Entries into hero ledgers; the audit gate (Gate 1 detects and rules, Gate 2 writes and presents) governs the flow",
+  "strength": "HARD",
+  "nsa_note": "High — ledger section and gate flow"
+ },
+ {
+  "dependent_part": 43,
+  "authority_part": 16,
+  "topic": "Part 43 reads Part 16 for who counts as a character and for classification",
+  "strength": "SOFT",
+  "nsa_note": "Low — classification reference"
+ },
+ {
+  "dependent_part": 43,
+  "authority_part": 17,
+  "topic": "Part 43 reads Part 17: the author rules every hero evolution; hero protections other than the evolution-entry edit limit stay",
+  "strength": "HARD",
+  "nsa_note": "High — hero ruling and protections"
+ },
+ {
+  "dependent_part": 43,
+  "authority_part": 18,
+  "topic": "Part 43 reads Part 18: villain tiers A to D decide who rules an evolution",
+  "strength": "HARD",
+  "nsa_note": "Medium — villain tier rule"
+ },
+ {
+  "dependent_part": 43,
+  "authority_part": 19,
+  "topic": "Part 43 reads Part 19: side-character tiers A to D decide who rules an evolution",
+  "strength": "HARD",
+  "nsa_note": "Medium — side-character tier rule"
+ },
+ {
+  "dependent_part": 43,
+  "authority_part": 20,
+  "topic": "Part 43 reads Part 20: morality and ideology can evolve; Part 20 events still apply",
+  "strength": "SOFT",
+  "nsa_note": "Medium — ideology dimension"
+ },
+ {
+  "dependent_part": 43,
+  "authority_part": 26,
+  "topic": "Part 43 reads Part 26: psychology and coping can evolve",
+  "strength": "SOFT",
+  "nsa_note": "Medium — psychology dimension"
+ },
+ {
+  "dependent_part": 43,
+  "authority_part": 27,
+  "topic": "Part 43 reads Part 27: consequence conduct can evolve; consequence events stay with Part 27",
+  "strength": "SOFT",
+  "nsa_note": "Medium — consequence dimension"
+ },
+ {
+  "dependent_part": 43,
+  "authority_part": 29,
+  "topic": "Part 43 reads Part 29: speech and prosody can evolve under the Part 29 rules (the Varys case, medium sentences added to his working speech)",
+  "strength": "SOFT",
+  "nsa_note": "Medium — speech dimension"
+ },
+ {
+  "dependent_part": 43,
+  "authority_part": 40,
+  "topic": "Part 43 reads Part 40: monster depth tiers A to D decide who rules; monster behaviour traits can evolve",
+  "strength": "HARD",
+  "nsa_note": "Medium — monster tier rule"
+ },
+ {
+  "dependent_part": 39,
+  "authority_part": 43,
+  "topic": "Part 39 Area 44 Check #21 points to Part 43 for who rules an evolution, the dated Evolution Entry and the reset by date; a ruled evolution does not count as drift",
+  "strength": "SOFT",
+  "nsa_note": "Medium — Check #21 widening"
+ },
+ {
+  "dependent_part": 44,
+  "authority_part": 3,
+  "topic": "Part 44 reads Part 3: the minor step, the Relative Power Table, the 3-Level Rule and modifiers (Area 7.2), the Major Realm barrier (Area 17.3) and damage tolerance (Area 8.2); all unchanged",
+  "strength": "HARD",
+  "nsa_note": "Critical - whole-engagement plausibility rests on Part 3"
+ },
+ {
+  "dependent_part": 44,
+  "authority_part": 5,
+  "topic": "Part 44 reads Part 5: tiers E1 to E7, end classes, leader death, retreat and pursuit; Part 5 is unchanged",
+  "strength": "HARD",
+  "nsa_note": "High - fight governance"
+ },
+ {
+  "dependent_part": 44,
+  "authority_part": 16,
+  "topic": "Part 44 reads Part 16 Rule 16.16.4.2: a hero's Combat Level Advantage is unchanged; a registered gifted fighter is a separate allowance of up to 3 minor steps for a named non-hero",
+  "strength": "HARD",
+  "nsa_note": "High - advantage ceiling"
+ },
+ {
+  "dependent_part": 44,
+  "authority_part": 29,
+  "topic": "Part 44 follows Part 29 Rule 29.12.1.3 (Cultivation Visibility, Check #8 element 8-V): every combatant's level is made known, and Part 44 checks what the known levels allow",
+  "strength": "SOFT",
+  "nsa_note": "Medium - Check #8 and Check #23"
+ },
+ {
+  "dependent_part": 44,
+  "authority_part": 33,
+  "topic": "Part 44 reads Part 33 (with Parts 8, 31 and 32) for weapon and vehicle classes used as the technology offset",
+  "strength": "SOFT",
+  "nsa_note": "Medium - technology offset"
+ },
+ {
+  "dependent_part": 44,
+  "authority_part": 37,
+  "topic": "Part 44 writes no new ledger section: a registered gifted fighter is the Combat Level Advantage line of Section 2 (side-character and villain ledgers) with a reason line, or a registry-row note for Tier C and D",
+  "strength": "SOFT",
+  "nsa_note": "Medium - registration"
+ },
+ {
+  "dependent_part": 44,
+  "authority_part": 38,
+  "topic": "Part 44 adds the Engagement Ledger to the Fight line of the Chapter Spec (Rule 2.4.10) and a report-only item to the light continuity audit",
+  "strength": "HARD",
+  "nsa_note": "High - Chapter Spec and build plan"
+ },
+ {
+  "dependent_part": 3,
+  "authority_part": 44,
+  "topic": "Part 3 Area 7.2 points to Part 44 for whole-engagement plausibility; the 3-Level Rule is unchanged",
+  "strength": "SOFT",
+  "nsa_note": "Low - pointer"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 44,
+  "topic": "Part 5 Area 5.1 and Appendix A point to Part 44; Part 5 is unchanged",
+  "strength": "SOFT",
+  "nsa_note": "Low - pointer"
+ },
+ {
+  "dependent_part": 38,
+  "authority_part": 44,
+  "topic": "Part 38 Rule 2.4.10 (the Fight line) names the Engagement Ledger of Part 44",
+  "strength": "HARD",
+  "nsa_note": "High - Chapter Spec"
+ },
+ {
+  "dependent_part": 3,
+  "authority_part": 4,
+  "topic": "Part 3 Area 7.5 (limit break and striving) reads the nine affinity levels of Part 4 Area 1.2 to set the lift; Part 4 is unchanged and points to Part 3",
+  "strength": "HARD",
+  "nsa_note": "High - limit break reach"
+ },
+ {
+  "dependent_part": 5,
+  "authority_part": 3,
+  "topic": "Part 5 Area 7.8 shows a limit break in combat and reads Part 3 Area 7.5 as the single source; it restates no figure",
+  "strength": "HARD",
+  "nsa_note": "High - combat use of the limit break"
+ },
+ {
+  "dependent_part": 6,
+  "authority_part": 3,
+  "topic": "Part 6 Area 1.3 pointer: a limit-broken technique is still an ordinary Named Move; Part 3 Area 7.5 holds the rule",
+  "strength": "SOFT",
+  "nsa_note": "Low - pointer"
+ },
+ {
+  "dependent_part": 44,
+  "authority_part": 4,
+  "topic": "Part 44 reads Part 4 Area 1.2 only through Part 3 Area 7.5: affinity level sets a limit break's reach",
+  "strength": "SOFT",
+  "nsa_note": "Low - limit break reach"
+ },
+ {
+  "dependent_part": 44,
+  "authority_part": 6,
+  "topic": "Part 44 reads Part 6: a limit-broken technique is an ordinary Named Move; Revive and Cleanse (Area 3.7) are the healer's moves",
+  "strength": "SOFT",
+  "nsa_note": "Low - moves"
+ }
+]

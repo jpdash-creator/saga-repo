@@ -1,0 +1,5 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ELI-BND-002-01,Court Cord,Forked Cord,INSTANT,,Basic
+CMV-ELI-BND-002-10,Court Binding,Dual Binding,CAST,,Elite
+CMV-ELI-BND-006-07,Great Oath-Line,Sworn Hawser,CHANNELED,,Advanced
+CMV-ELI-BND-008-07,Level Line,Unsevered Cord,CHANNELED,,Advanced

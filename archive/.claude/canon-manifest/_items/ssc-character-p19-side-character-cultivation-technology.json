@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-character-p19-side-character-cultivation-technology",
+ "part": 19,
+ "area": 13,
+ "sequence_in_part": 13,
+ "title": "Side Character Cultivation and Technology",
+ "domain": "character",
+ "source_file": "Part_19_Character_Side_Character_Law.md",
+ "start_line": 332,
+ "end_line": 345,
+ "line_count": 14,
+ "output_path": ".claude/skills/ssc-character-p19-side-character-cultivation-technology/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-character-p16-foundational-principles-character",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-technology",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-military-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-academic-scholarly-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-governance-administrative-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-commerce-resource-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-criminal-underground-role",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-classification-location-civilization-context",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  },
+  {
+   "skill_id": "ssc-character-p16-character-power-equivalence-cultivation-vs-technology",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Side character routing from Part 16 classification → Part 19 governance"
+  }
+ ]
+}

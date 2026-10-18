@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-NUN-001-01,Hinge-Link Ready Cross,Dowelhasp,F4,Senior,A
+MV-INT-NUN-001-02,Two-Beat Hinge Combo,Brutal Roundstick,F1,Senior,A
+MV-INT-NUN-001-03,Link Pivot Slip,Ducking Stickend,F1,Senior,A
+MV-INT-NUN-001-04,Short Hook Parry,Guarding Capstick,F1,Senior,A
+MV-INT-NUN-001-05,Returning Wrist Rake,Savage Swingstick,F1,Senior,A
+MV-INT-NUN-001-06,Three-Beat Hinge Flurry,Keen Cascade,F1,Senior,A
+MV-INT-NUN-001-07,Link-Bound Counter Step,Ducking Tiedend,F1,Senior,A
+MV-INT-NUN-002-01,Eight-Pressure Guard,Rigid Octastick,F1,Senior,A
+MV-INT-NUN-002-02,Rising Eight Strike,Grim Sidespin,F1,Senior,A
+MV-INT-NUN-002-03,Falling Eight Strike,Grim Fliparound,F1,Senior,A
+MV-INT-NUN-002-04,Eight-Path Sidestep,Rodzip,F4,Senior,A
+MV-INT-NUN-002-05,Counter-Rotation Deflect,Whirrscreen,F4,Senior,A
+MV-INT-NUN-002-06,Eight-Tail Wrist Snap,Rushing Hardstick,F1,Senior,A
+MV-INT-NUN-002-07,Pressing Eight Advance,Doughty Gripstick,F1,Senior,A
+MV-INT-NUN-002-08,Eight-Weave Cord Snare,Dowelscreen,F4,Senior,A
+MV-INT-NUN-002-09,Reversing Eight Rake,Acrid Neckwrap,F1,Senior,A
+MV-INT-NUN-003-01,Dropped Rod Ready,Clackscreen,F4,Senior,A
+MV-INT-NUN-003-02,Full-Cord Whip Snap,Rough Hardstick,F1,Senior,A
+MV-INT-NUN-003-03,Snap-and-Recoil Step,Lithe Chainjoint,F1,Senior,A
+MV-INT-NUN-003-04,Forearm Cord Block,Padded Gripstick,F1,Senior,A
+MV-INT-NUN-003-05,Reaching Snap Past Guard,Rushing Backspin,F1,Senior,A
+MV-INT-NUN-003-06,Eye-Line Cord Flick,Clutching Shoulderroll,F1,Senior,A
+MV-INT-NUN-004-01,Looped Cord Ready Draw,Sleet Capstick,F2,Warrior,B
+MV-INT-NUN-004-02,Single Loop Wrist Catch,Stamp Octastick,F2,Warrior,B
+MV-INT-NUN-004-03,Loop Slide Release,Brasswhirr,F5,Warrior,B
+MV-INT-NUN-004-04,Loop-Step Entry,Draught Cordjoint,F2,Warrior,B
+MV-INT-NUN-004-05,Loop Parry Roll,Hazeclack,F5,Warrior,B
+MV-INT-NUN-004-06,Elbow-Loop Pull,Gagging Roundstick,F1,Warrior,B
+MV-INT-NUN-004-07,Looped Butt-End Strike,Clayrod,F5,Warrior,B
+MV-INT-NUN-004-08,Double Loop Arm Bind,Sleetstave,F5,Warrior,B
+MV-INT-NUN-004-09,Loop Drag Down,Viselike Stickend,F1,Warrior,B
+MV-INT-NUN-004-10,Looped Weapon Wrest,Galldowel,F5,Warrior,B
+MV-INT-NUN-005-01,Elbow-Rest Guard,Rodbuckle,F4,Warrior,B
+MV-INT-NUN-005-02,Rod-to-Elbow Strike,Ember Shoulderroll,F2,Warrior,B
+MV-INT-NUN-005-03,Elbow-Pass Switch,Emberstave,F5,Warrior,B
+MV-INT-NUN-005-04,Transition Slide Step,Rillstave,F5,Warrior,B
+MV-INT-NUN-005-05,Forearm Roll Deflect,Haze Cordjoint,F2,Warrior,B
+MV-INT-NUN-005-06,Spare Hand Rod Catch,Sleet Tiedend,F2,Warrior,B
+MV-INT-NUN-005-07,Elbow Wheel Combination,Cascade Scorer,F3,Warrior,B
+MV-INT-NUN-005-08,Shoulder-Elbow Pass Counter,Poise Chainjoint,F2,Warrior,B
+MV-INT-NUN-006-01,Rebound-Ready Hold,Sleetdowel,F5,Warrior,B
+MV-INT-NUN-006-02,Guard Rebound Cut,Claywhirr,F5,Warrior,B
+MV-INT-NUN-006-03,Deflect Rebound Rap,Haze Swingstick,F2,Warrior,B
+MV-INT-NUN-006-04,Rebound Retreat Step,Clackcurl,F4,Warrior,B
+MV-INT-NUN-006-05,Counter-Spring Block,Guarding Tiedend,F1,Warrior,B
+MV-INT-NUN-006-06,Double Rebound Return Strike,Rushing Sidespin,F1,Warrior,B
+MV-INT-NUN-006-07,Rebound Disarm Flick,Hum Neckwrap,F2,Warrior,B
+MV-INT-NUN-007-01,Cadence Drumming Guard,Sprig Chainjoint,F2,Warrior,B
+MV-INT-NUN-007-02,Left-Right Cadence Strike,Stern Backspin,F1,Warrior,B
+MV-INT-NUN-007-03,Alternating Rod Beat,Crimson Octastick,F2,Warrior,B
+MV-INT-NUN-007-04,Cadence Glide Footwork,Clay Roundstick,F2,Warrior,B
+MV-INT-NUN-007-05,Tempo-Break Parry,Unmoving Cordjoint,F1,Warrior,B
+MV-INT-NUN-007-06,Half-Beat Feint Tap,Recall Fliparound,F2,Warrior,B
+MV-INT-NUN-007-07,Rolling Cadence Barrage,Purpose Cascade,F2,Warrior,B
+MV-INT-NUN-007-08,Offbeat Wrist Crack,Grim Shoulderroll,F1,Warrior,B
+MV-INT-NUN-007-09,Cadence-Stealing Bind,Sidespin Barrier,F3,Warrior,B
+MV-INT-NUN-008-01,Tucked Rod Close Guard,Brass Swingstick,F2,Warrior,B
+MV-INT-NUN-008-02,Short Cord Punch,Crimson Fliparound,F2,Warrior,B
+MV-INT-NUN-008-03,Cord Elbow Pinch,Clackbuckle,F4,Warrior,B
+MV-INT-NUN-008-04,Inside Cut-In Step,Neckwrap Swerve,F3,Warrior,B
+MV-INT-NUN-008-05,Cord-Bar Shove Deflect,Rill Hardstick,F2,Warrior,B
+MV-INT-NUN-008-06,Hip-Level Cord Catch,Claystave,F5,Warrior,B
+MV-INT-NUN-008-07,Cord-Bar Lever,Rodscreen,F4,Warrior,B
+MV-INT-NUN-008-08,Inside Rod Spin Strike,Cruel Stickend,F1,Warrior,B

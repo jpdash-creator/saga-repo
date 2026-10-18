@@ -1,0 +1,4 @@
+move_id,old_name,new_name,function
+CMV-BAS-TRU-001-02,Plain Turn,True Turn,Defense:Deflect
+CMV-BAS-TRU-001-04,Plain Gaze,Steady Gaze,Support:Sense
+CMV-BAS-TRU-002-05,Plain Word,Spoken Word,Support:Empower

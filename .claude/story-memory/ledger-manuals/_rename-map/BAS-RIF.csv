@@ -1,0 +1,73 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-RIF-001-01,Shoulder Seat and Squeeze,Sightstrike,F4,Unawakened,A
+MV-BAS-RIF-001-02,Ramrod Seating Drive,Firm Rifling,F1,Unawakened,A
+MV-BAS-RIF-001-03,Barrel-Length Guard,Raised Muzzlebrake,F1,Unawakened,A
+MV-BAS-RIF-001-04,Butt-Plate Hammer,Hard Buttpad,F1,Unawakened,A
+MV-BAS-RIF-001-05,Quarter-Turn Retreat Step,Backward Chamber,F1,Unawakened,A
+MV-BAS-RIF-001-06,Fence-Post Rest Hold,Level Bipod,F1,Unawakened,A
+MV-BAS-RIF-002-01,Cartridge Tear and Pour,Quick Magazine,F1,Skin,A
+MV-BAS-RIF-002-02,Patch-Wrapped Ball Start,Scopedrop,F4,Skin,A
+MV-BAS-RIF-002-03,Lock-Cock Landing Step,Stepping Cheekrest,F1,Skin,A
+MV-BAS-RIF-002-04,Low-Wall Muzzle Crouch,Planted Rearsight,F1,Skin,A
+MV-BAS-RIF-002-05,Sling Forearm Cinch,Breathdash,F4,Skin,A
+MV-BAS-RIF-003-01,Kneeling Knee-Rest Shot,Boltbump,F4,Muscle,A
+MV-BAS-RIF-003-02,Hip-Pivot Snap Shot,Sudden Reticle,F1,Muscle,A
+MV-BAS-RIF-003-03,Stock-Swing Sweep,Wide Scopemount,F1,Muscle,A
+MV-BAS-RIF-003-04,Socket-Blade Lunge,Straight Muzzlebrake,F1,Muscle,A
+MV-BAS-RIF-003-05,Barrel Cross Parry,Angled Bolt,F1,Muscle,A
+MV-BAS-RIF-003-06,Low Crawl Advance,Bipodpace,F4,Muscle,A
+MV-BAS-RIF-003-07,Powder-Smoke Sidestep,Fouling Chamber,F1,Muscle,A
+MV-BAS-RIF-004-01,Bead-in-Notch Alignment,Sightdash,F4,Tendon,A
+MV-BAS-RIF-004-02,Held-Breath Squeeze,Breathhit,F4,Tendon,A
+MV-BAS-RIF-004-03,Leaf-Sight Range Flip,Judging Rearsight,F1,Tendon,A
+MV-BAS-RIF-004-04,Heel-Plant Recoil Brace,Stiff Cheekrest,F1,Tendon,A
+MV-BAS-RIF-004-05,Muzzle-Rise Catch,Zerobump,F4,Tendon,A
+MV-BAS-RIF-004-06,Pace-Count Advance,Scopetrot,F4,Tendon,A
+MV-BAS-RIF-005-01,Standing Offhand Shot,Level Magazine,F1,Bone,A
+MV-BAS-RIF-005-02,Elbow-Under-Barrel Cradle,Single Bipod,F1,Bone,A
+MV-BAS-RIF-005-03,Snap-to-Shoulder Draw,Zerostrike,F4,Bone,A
+MV-BAS-RIF-005-04,Reversed-Rifle Club Blow,Downward Rifling,F1,Bone,A
+MV-BAS-RIF-005-05,Barrel-Bind Twist,Hitching Bolt,F1,Bone,A
+MV-BAS-RIF-005-06,Beat-Aside Guard,Resting Chamber,F1,Bone,A
+MV-BAS-RIF-005-07,Backward Skip Reload,Boltdodge,F4,Bone,A
+MV-BAS-RIF-005-08,Wall-Edge Lean Shot,Boltdash,F4,Bone,A
+MV-BAS-RIF-006-01,Thread-Qi Steady Aim,Sightbump,F4,Senior,A
+MV-BAS-RIF-006-02,Qi-Eased Ramrod Stroke,Sharp Zero,F1,Senior,A
+MV-BAS-RIF-006-03,Wrist-Pulse Stock Guard,Tight Buttpad,F1,Senior,A
+MV-BAS-RIF-006-04,Short-Burst Stride,Skipping Longshot,F1,Senior,A
+MV-BAS-RIF-006-05,Muzzle-Flash Glare Turn,Turning Scopemount,F1,Senior,A
+MV-BAS-RIF-006-06,Iron-Heel Butt Stroke,Blunt Cheekrest,F1,Senior,A
+MV-BAS-RIF-007-01,Range-Stake Reading,Watching Bipod,F1,Senior,A
+MV-BAS-RIF-007-02,Rising-Leaf Climb Shot,Upward Rearsight,F1,Senior,A
+MV-BAS-RIF-007-03,Hat-Brim Sun Shade,Calm Muzzlebrake,F1,Senior,A
+MV-BAS-RIF-007-04,Qi-Pumped Loading Rhythm,Scopehit,F4,Senior,A
+MV-BAS-RIF-007-05,Low Gun-Butt Sweep,Low Buttpad,F1,Senior,A
+MV-BAS-RIF-007-06,Running Socket Fix,Nimble Magazine,F1,Senior,A
+MV-BAS-RIF-007-07,Smoke-Drift Lean Correction,Even Chamber,F1,Senior,A
+MV-BAS-RIF-008-01,Drift-Hold Aim,Zerodrop,F4,Senior,A
+MV-BAS-RIF-008-02,Side-Drift Offset Shot,Breathdrop,F4,Senior,A
+MV-BAS-RIF-008-03,Leaf-Notch Setting Check,Measured Scopemount,F1,Senior,A
+MV-BAS-RIF-008-04,Short Backstep Reset,Shifting Bipod,F1,Senior,A
+MV-BAS-RIF-008-05,Muzzle-Flick Warning Parry,Snug Rearsight,F1,Senior,A
+MV-BAS-RIF-009-01,Groove-Seated Ball Drive,Wide Rifling,F1,Senior,A
+MV-BAS-RIF-009-02,Clean-Bore Wipe Stroke,Boltstrike,F4,Senior,A
+MV-BAS-RIF-009-03,Fixed-Blade Quick Jab,Quick Chamber,F1,Senior,A
+MV-BAS-RIF-009-04,Bore-Aligned Cover Shot,Plain Cheekrest,F1,Senior,A
+MV-BAS-RIF-009-05,Barrel-Flat Block,Solid Muzzlebrake,F1,Senior,A
+MV-BAS-RIF-009-06,Gliding Flank Step,Swaying Zero,F1,Senior,A
+MV-BAS-RIF-009-07,Smoke-Veil Retreat,Catching Buttpad,F1,Senior,A
+MV-BAS-RIF-009-08,Twist-Drift Allowance Shot,Sharp Longshot,F1,Senior,A
+MV-BAS-RIF-010-01,Belly-Down Sling Brace Shot,Forward Buttpad,F1,Senior,A
+MV-BAS-RIF-010-02,Ground-Hugging Crawl Roll,Sightamble,F4,Senior,A
+MV-BAS-RIF-010-03,Pack-Rest Prone Shot,Sighthit,F4,Senior,A
+MV-BAS-RIF-010-04,Side-Roll Reload Turn,Bipodhit,F4,Senior,A
+MV-BAS-RIF-010-05,Dirt-Flick Cover Kick,Tripping Rifling,F1,Senior,A
+MV-BAS-RIF-010-06,Rise-from-Ground Guard,Lowered Chamber,F1,Senior,A
+MV-BAS-RIF-011-01,Counted Pace Shot,Square Zero,F1,Senior,A
+MV-BAS-RIF-011-02,Even-Rhythm Pinning Fire,Stiff Longshot,F1,Senior,A
+MV-BAS-RIF-011-03,Shoulder-Roll Load Break,Scopehop,F4,Senior,A
+MV-BAS-RIF-011-04,Qi-Stilled Trigger Press,Descending Reticle,F1,Senior,A
+MV-BAS-RIF-011-05,Standing Rest Barrel Guard,Hooding Magazine,F1,Senior,A
+MV-BAS-RIF-011-06,Pause-and-Fall-Back Step,Easing Squeeze,F1,Senior,A
+MV-BAS-RIF-011-07,Half-Cock Trail Carry,Light Bolt,F1,Senior,A
+MV-BAS-RIF-009-04,Plain Cheekrest,Stout Cheekrest,F1,Senior,A

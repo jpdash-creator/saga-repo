@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-BLW-001-01,Resin Pot Dip,Genial Dartfletch,F1,Senior,A
+MV-INT-BLW-001-02,Resin Cure Wait,Sound Mouthpiece,F1,Senior,A
+MV-INT-BLW-001-03,Hooked Tip Whittle,Hearty Airbore,F1,Senior,A
+MV-INT-BLW-001-04,Level Resin Shot,Rugged Exhale,F1,Senior,A
+MV-INT-BLW-001-05,Gum Cloth Handling,Hearty Dartneedle,F1,Senior,A
+MV-INT-BLW-001-06,Clinging Barb Strike,Fierce Needlepuff,F1,Senior,A
+MV-INT-BLW-001-07,Tacky Haze Spit,Levering Cane,F1,Senior,A
+MV-INT-BLW-002-01,Long Tube Shoulder Rest,Kindly Padhead,F1,Senior,A
+MV-INT-BLW-002-02,Brace Staff Plant,Cooling Reedtube,F1,Senior,A
+MV-INT-BLW-002-03,Tall Breath Draw,Tubetonic,F4,Senior,A
+MV-INT-BLW-002-04,Far Mark Reckoning,Canetonic,F4,Senior,A
+MV-INT-BLW-002-05,Long Bore Blow,Dire Huff,F1,Senior,A
+MV-INT-BLW-002-06,Staff Fork Replant,Exhaleglide,F4,Senior,A
+MV-INT-BLW-002-07,Reach Line Pierce,Puffswat,F4,Senior,A
+MV-INT-BLW-002-08,Bore Draft Bracketing,Rough Puff,F1,Senior,A
+MV-INT-BLW-003-01,Strolling Target Lead,Plugslap,F4,Senior,A
+MV-INT-BLW-003-02,Mark Gait Reading,Canebandage,F4,Senior,A
+MV-INT-BLW-003-03,Hip Swing Tracking,Puffswerve,F4,Senior,A
+MV-INT-BLW-003-04,Stopped Mark Snap,Swift Tube,F1,Senior,A
+MV-INT-BLW-003-05,Running Mark Overtake,Canescorer,F4,Senior,A
+MV-INT-BLW-003-06,Veering Path Cut-Off,Lassoing Burst,F1,Senior,A
+MV-INT-BLW-004-01,Four Count Lung Fill,Kindly Mouthend,F1,Warrior,B
+MV-INT-BLW-004-02,Cold Air Warming Breath,Purpose Dartfletch,F2,Warrior,B
+MV-INT-BLW-004-03,Rib Spread Stretch,Poisetube,F5,Warrior,B
+MV-INT-BLW-004-04,Heartbeat Gap Shot,Rugged Needlepuff,F1,Warrior,B
+MV-INT-BLW-004-05,Stalking Breath Pacing,Springing Puff,F1,Warrior,B
+MV-INT-BLW-004-06,Burnout Recovery Walk,Sprout Mouthend,F2,Warrior,B
+MV-INT-BLW-004-07,Deep Reserve Blow,Static Huff,F2,Warrior,B
+MV-INT-BLW-004-08,Breath Thread Volley,Huffscorer,F4,Warrior,B
+MV-INT-BLW-004-09,Winded Foe Bluff,Huffscreen,F4,Warrior,B
+MV-INT-BLW-005-01,Dart Fan Grip,Cooling Plug,F1,Warrior,B
+MV-INT-BLW-005-02,Wide Muzzle Swing,Prowling Hiss,F1,Warrior,B
+MV-INT-BLW-005-03,Cluster Mark Count,Lunar Dartneedle,F2,Warrior,B
+MV-INT-BLW-005-04,Triple Chaff Load,Plugtonic,F4,Warrior,B
+MV-INT-BLW-005-05,Thumb Flick Reload,Cooling Cane,F1,Warrior,B
+MV-INT-BLW-005-06,Pepper Dart Scatter,Rough Hiss,F1,Warrior,B
+MV-INT-BLW-005-07,Hail Dart Spread,Dawn Airbore,F2,Warrior,B
+MV-INT-BLW-005-08,Pinning Rain Flurry,Momenthuff,F5,Warrior,B
+MV-INT-BLW-006-01,Sleeve Tube Stowing,Dawntube,F5,Warrior,B
+MV-INT-BLW-006-02,Cane Sheath Disguise,Sproutcane,F5,Warrior,B
+MV-INT-BLW-006-03,Idle Hand Raise,Brawn Tube,F2,Warrior,B
+MV-INT-BLW-006-04,Crowd Gap Reading,Soothing Plug,F1,Warrior,B
+MV-INT-BLW-006-05,Cough Cover Blow,Exhale Scorer,F3,Warrior,B
+MV-INT-BLW-006-06,Unseen Needle Strike,Comet Reedtube,F2,Warrior,B
+MV-INT-BLW-006-07,Tube Palm Vanish,Lassoing Padhead,F1,Warrior,B
+MV-INT-BLW-007-01,Jog Breath Pairing,Purpose Mouthpiece,F2,Warrior,B
+MV-INT-BLW-007-02,Stride Stop Settle,Gritburst,F5,Warrior,B
+MV-INT-BLW-007-03,Hillside Lean Shot,Sleet Padhead,F2,Warrior,B
+MV-INT-BLW-007-04,Footfall Rhythm Hold,Hum Cane,F2,Warrior,B
+MV-INT-BLW-007-05,Backstep Breath Blow,Static Burst,F2,Warrior,B
+MV-INT-BLW-007-06,Skip Step Reload,Poise Reedtube,F2,Warrior,B
+MV-INT-BLW-007-07,Side Breeze Reading,Recall Mouthend,F2,Warrior,B
+MV-INT-BLW-007-08,Running Burst Blow,Draught Exhale,F2,Warrior,B
+MV-INT-BLW-007-09,Weave and Blow,Hum Dartfletch,F2,Warrior,B
+MV-INT-BLW-007-10,Breath Sprint Chain,Scudding Hiss,F1,Warrior,B
+MV-INT-BLW-008-01,Tube Cross Parry,Plugscreen,F4,Warrior,B
+MV-INT-BLW-008-02,Mouth Cap Shielding,Dartneedle Carapace,F3,Warrior,B
+MV-INT-BLW-008-03,Muzzle Rib Jab,Hungry Mouthpiece,F1,Warrior,B
+MV-INT-BLW-008-04,Pressed Muzzle Spit,Hum Needlepuff,F2,Warrior,B
+MV-INT-BLW-008-05,Hardened Tube Whip,Brasstube,F5,Warrior,B
+MV-INT-BLW-008-06,Grip Shake-Off Puff,Gagging Airbore,F1,Warrior,B

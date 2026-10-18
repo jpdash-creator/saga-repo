@@ -1,0 +1,75 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-HTH-001-01,Qi Jab Pulse,Lurching Throw,F1,Senior,A
+MV-INT-HTH-001-02,Fist Line Guard,Stubborn Fist,F1,Senior,A
+MV-INT-HTH-001-03,Dropping Step Cross,Dire Grapple,F1,Senior,A
+MV-INT-HTH-001-04,Short Reset Shuffle,Prowling Hip,F1,Senior,A
+MV-INT-HTH-001-05,Cored Straight Punch,Rude Ulna,F1,Senior,A
+MV-INT-HTH-001-06,Bell Ring Hook,Elbowslap,F4,Senior,A
+MV-INT-HTH-002-01,Wrist Turn Lock,Levering Knuckle,F1,Senior,A
+MV-INT-HTH-002-02,Straight Arm Bar,Ulnaprop,F4,Senior,A
+MV-INT-HTH-002-03,Shoulder Pin Twist,Tethering Elbow,F1,Senior,A
+MV-INT-HTH-002-04,Hand Break Away,Stubborn Heelbone,F1,Senior,A
+MV-INT-HTH-002-05,Elbow Trap Shoulder Roll,Viselike Knee,F1,Senior,A
+MV-INT-HTH-002-06,Qi Grip Clamp,Shoulder Hasp,F3,Senior,A
+MV-INT-HTH-002-07,Lock Chain Shift,Palm Prop,F3,Senior,A
+MV-INT-HTH-003-01,Heavy Load Squat Lift,Pulse Chokehold,F2,Warrior,B
+MV-INT-HTH-003-02,Leg Sweep Under Weight,Clinchhasp,F4,Warrior,B
+MV-INT-HTH-003-03,Belt Grab Pull,Viselike Sweep,F1,Warrior,B
+MV-INT-HTH-003-04,Bear Hug Break,Palm Screen,F3,Warrior,B
+MV-INT-HTH-003-05,Counterweight Lean,Shard Shoulder,F2,Warrior,B
+MV-INT-HTH-003-06,Qi-Rooted Hip Throw,Gall Clinch,F2,Warrior,B
+MV-INT-HTH-004-01,Knee and Elbow Pair,Pinfall Thwack,F3,Senior,A
+MV-INT-HTH-004-02,Clinch Pivot Knee,Palmflog,F4,Senior,A
+MV-INT-HTH-004-03,Elbow Slash Entry,Shinslap,F4,Senior,A
+MV-INT-HTH-004-04,Hand Trap Cover,Ulna Barrier,F3,Senior,A
+MV-INT-HTH-004-05,Knee Block Check,Shielding Knuckle,F1,Senior,A
+MV-INT-HTH-004-06,Close Range Slide Step,Heelbone Glide,F3,Senior,A
+MV-INT-HTH-004-07,Sequenced Knee Run,Fierce Throw,F1,Senior,A
+MV-INT-HTH-005-01,Fingertip Nerve Jab,Sweepswat,F4,Warrior,B
+MV-INT-HTH-005-02,Thigh Cleft Knuckle Press,Pulsesweep,F5,Warrior,B
+MV-INT-HTH-005-03,Wrist Tendon Pinch,Stalling Elbow,F1,Warrior,B
+MV-INT-HTH-005-04,Neck Side Chop,Harsh Clinch,F1,Warrior,B
+MV-INT-HTH-005-05,Feint to the Eye Line,Stalling Hip,F1,Warrior,B
+MV-INT-HTH-005-06,Hand Brush Away,Pulse Shin,F2,Warrior,B
+MV-INT-HTH-005-07,Covered Point Entry,Clayshin,F5,Warrior,B
+MV-INT-HTH-005-08,Numbing Echo Strike,Knee Prop,F3,Warrior,B
+MV-INT-HTH-006-01,Pressing Chest Weight,Sprigthrow,F5,Warrior,B
+MV-INT-HTH-006-02,Mat Drag Roll,Hum Shin,F2,Warrior,B
+MV-INT-HTH-006-03,Neck Crank Hold,Splice Chokehold,F2,Warrior,B
+MV-INT-HTH-006-04,Leg Ride Control,Sprigulna,F5,Warrior,B
+MV-INT-HTH-006-05,Hip Bridge Throw Off,Poise Heelbone,F2,Warrior,B
+MV-INT-HTH-006-06,Pinning Qi Settle,Sprigclinch,F5,Warrior,B
+MV-INT-HTH-007-01,Chain Front Kick Pair,Bold Grapple,F1,Senior,A
+MV-INT-HTH-007-02,Switch Leg Roundhouse,Bold Knee,F1,Senior,A
+MV-INT-HTH-007-03,Spinning Heel Hook,Shinswat,F4,Senior,A
+MV-INT-HTH-007-04,Low Kick Cut Down,Dire Sweep,F1,Senior,A
+MV-INT-HTH-007-05,Raised Knee Screen,Unmoving Shoulder,F1,Senior,A
+MV-INT-HTH-007-06,Leg Recovery Snap,Throwhurdle,F4,Senior,A
+MV-INT-HTH-007-07,Jump Back Kick Retreat,Hipthwack,F4,Senior,A
+MV-INT-HTH-007-08,Tempo Leg Chain,Grim Pinfall,F1,Senior,A
+MV-INT-HTH-007-09,Rooted Leg Anchor,Stalwart Knuckle,F1,Senior,A
+MV-INT-HTH-008-01,Catch and Turn Throw,Gripping Clinch,F1,Warrior,B
+MV-INT-HTH-008-02,Sidestep Trip,Staticclinch,F5,Warrior,B
+MV-INT-HTH-008-03,Kick Catch Dump,Viselike Palm,F1,Warrior,B
+MV-INT-HTH-008-04,Pull Past Entry,Palmstalk,F4,Warrior,B
+MV-INT-HTH-008-05,Brace and Redirect,Poise Shin,F2,Warrior,B
+MV-INT-HTH-008-06,Reversal Shoulder Roll,Rill Fist,F2,Warrior,B
+MV-INT-HTH-008-07,Timed Qi Breath,Shelter Fist,F2,Warrior,B
+MV-INT-HTH-008-08,Rising Heel Sweep,Fistbarrier,F4,Warrior,B
+MV-INT-HTH-009-01,Cover Slap Return,Poise Knee,F2,Warrior,B
+MV-INT-HTH-009-02,Hook Over Counter,Draught Ulna,F2,Warrior,B
+MV-INT-HTH-009-03,Palm Wedge Entry,Pulsefist,F5,Warrior,B
+MV-INT-HTH-009-04,Low Kick Scoop Parry,Hum Fist,F2,Warrior,B
+MV-INT-HTH-009-05,Step Behind Guard Shift,Prowling Pinfall,F1,Warrior,B
+MV-INT-HTH-009-06,Qi Wave Palm,Rushing Throw,F1,Warrior,B
+MV-INT-HTH-010-01,Strike to Clinch Entry,Fistcurl,F4,Warrior,B
+MV-INT-HTH-010-02,Clinch to Trip Switch,Elbowscreen,F4,Warrior,B
+MV-INT-HTH-010-03,Double Collar Choke Squeeze,Weighty Clinch,F2,Warrior,B
+MV-INT-HTH-010-04,Counter Grip Strike,Vaporhip,F5,Warrior,B
+MV-INT-HTH-010-05,Standing Back Take,Elbow Barrier,F3,Warrior,B
+MV-INT-HTH-010-06,Mat to Feet Rise,Throw Glide,F3,Warrior,B
+MV-INT-HTH-010-07,Form Drill Qi Cycle,Buttressed Shin,F1,Warrior,B
+MV-INT-HTH-010-08,Short Range Elbow Cut,Ember Chokehold,F2,Warrior,B
+MV-INT-HTH-010-09,Combined Lock and Throw,Pulse Elbow,F2,Warrior,B
+MV-INT-HTH-010-10,Elbow Break Throw Finish,Humknee,F5,Warrior,B
+MV-INT-HTH-008-07,Shelter Fist,Stout Fist,F2,Warrior,B

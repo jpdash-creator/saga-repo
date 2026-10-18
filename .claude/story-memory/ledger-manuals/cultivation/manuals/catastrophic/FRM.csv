@@ -1,0 +1,2 @@
+manual_id,grade,affinity_id,origin,title,realm_band,min_realm,energy_req,cultivation_req,affinity_req,sovereignty_req,move_count,composition,tradition,summary,status,first_area,notes
+CMAN-CAT-FRM-001,CAT,FRM,Common,The Canon of the Breaking Array,CF,Core Formation L4 Low,QI-EXT,CORE-ON+LINK-PRIOR+LINK-STEP,NONE,SOV-C,14,I4 A4 E3 S1 C2,breaking array school,A forbidden canon on turning a laid array against itself so that its whole stored charge tears loose at once.,Active,Not yet established,"moves renamed 2026-10-16, old names in _rename-map"

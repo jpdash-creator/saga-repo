@@ -1,0 +1,114 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-SAB-001-01,Companion Opening Cut,Splitting Skimmer,F1,Champion L1 Low,B
+MV-ADV-SAB-001-02,Companion Hanging Parry,Chimebasket,F5,Champion L1 Low,B
+MV-ADV-SAB-001-03,Companion Forward Thrust,Hollow Basket,F2,Champion L1 Low,B
+MV-ADV-SAB-001-04,Companion Heel Step,Gust Belly,F2,Champion L1 Low,B
+MV-ADV-SAB-001-05,Cut Through The Guard,Rumbleswipe,F5,Champion L1 Low,B
+MV-ADV-SAB-001-06,Slipped Line Counter,Gust Spinecurve,F2,Champion L1 Low,B
+MV-ADV-SAB-001-07,Masters Settled Cut,Cleaving Granite Swipe,F6a,Champion L1 Low,B
+MV-ADV-SAB-001-08,Lingering Edge Guard,Resilient Swell,F1,Champion L1 Low,B
+MV-ADV-SAB-002-01,Heavy Shoulder Chop,Blaze Pipeback,F2,Champion L4 Low,B
+MV-ADV-SAB-002-02,Braced Heel Block,Enduring Yelman,F1,Champion L4 Low,B
+MV-ADV-SAB-002-03,Short Step Press,Surging Gallop,F1,Champion L4 Low,B
+MV-ADV-SAB-002-04,Dropping Wrist Cut,Rumblebasket,F5,Champion L4 Low,B
+MV-ADV-SAB-002-05,Weight Behind Edge,Raging Falsedge,F1,Champion L4 Low,B
+MV-ADV-SAB-002-06,Cleaving Slant,Mightbasket,F5,Champion L4 Low,B
+MV-ADV-SAB-002-07,Heavy Cut Recover,Steadfast Knucklebow,F1,Champion L4 Low,B
+MV-ADV-SAB-002-08,Timber Splitting Chop,Swelltorment,F4,Champion L4 Low,B
+MV-ADV-SAB-002-09,Breaking Overhead Fall,Mightswell,F5,Champion L4 Low,B
+MV-ADV-SAB-003-01,Running Draw Cut,Might Slantcut,F2,Champion L7 Mid,B
+MV-ADV-SAB-003-02,Running Guard Slide,Annealed Yelman,F1,Champion L7 Mid,B
+MV-ADV-SAB-003-03,Sprint Thrust,Scalding Counterguard,F1,Champion L7 Mid,B
+MV-ADV-SAB-003-04,Hurdle Step,Galloppounce,F4,Champion L7 Mid,B
+MV-ADV-SAB-003-05,Passing Wake Cut,Whirlthrash,F4,Champion L7 Mid,B
+MV-ADV-SAB-003-06,Pursuit Edge Hook,Granite Backedge,F2,Champion L7 Mid,B
+MV-ADV-SAB-003-07,Running Cut Chain,Tiered Skimmer,F1,Champion L7 Mid,B
+MV-ADV-SAB-003-08,Overtaking Sweep,Daybreak Whirl,F2,Champion L7 Mid,B
+MV-ADV-SAB-004-01,Field Edge Opening Cut,Might Swipe,F2,Demigod L1 Low,B
+MV-ADV-SAB-004-02,Field Guard Turn,Unflinching Belly,F1,Demigod L1 Low,B
+MV-ADV-SAB-004-03,Reaching Point Thrust,Wrecking Flourish,F1,Demigod L1 Low,B
+MV-ADV-SAB-004-04,Field Sense Step,Knucklebow Leap,F3,Demigod L1 Low,B
+MV-ADV-SAB-004-05,Edge Tilt Check,Pipeback Hauberk,F3,Demigod L1 Low,B
+MV-ADV-SAB-004-06,Extended Edge Slash,Needling Slantcut,F1,Demigod L1 Low,B
+MV-ADV-SAB-004-07,Field Edge Parry,Enduring Basket,F1,Demigod L1 Low,B
+MV-ADV-SAB-004-08,Outreach Step Cut,Basketcanter,F4,Demigod L1 Low,B
+MV-ADV-SAB-004-09,Circulating Edge Veil,Backedge Plating,F3,Demigod L1 Low,B
+MV-ADV-SAB-004-10,Beyond The Blade Cut,Rumblewhirl,F5,Demigod L1 Low,B
+MV-ADV-SAB-005-01,Armor Seam Point,Nova Gallop,F2,Demigod L3 Mid,B
+MV-ADV-SAB-005-02,Plate Edge Glance,Chime Falsedge,F2,Demigod L3 Mid,B
+MV-ADV-SAB-005-03,Closing Armor Step,Glancing Flourish,F1,Demigod L3 Mid,B
+MV-ADV-SAB-005-04,Strap Cut Slash,Gustbasket,F5,Demigod L3 Mid,B
+MV-ADV-SAB-005-05,Armor Gap Slice,Skinning Counterguard,F1,Demigod L3 Mid,B
+MV-ADV-SAB-005-06,Shoulder Plate Wedge,Grinding Falsedge,F1,Demigod L3 Mid,B
+MV-ADV-SAB-005-07,Plate Splitting Draw,Blaze Spinecurve,F2,Demigod L3 Mid,B
+MV-ADV-SAB-005-08,Seam Opening Sequence,Intertwined Whirl,F1,Demigod L3 Mid,B
+MV-ADV-SAB-006-01,Twin Edge Opening Pair,Granite Flourish,F2,Champion L5 Low,B
+MV-ADV-SAB-006-02,Paired Spine Block,Gust Swell,F2,Champion L5 Low,B
+MV-ADV-SAB-006-03,Twin Track Lunge,Rumble Swell,F2,Champion L5 Low,B
+MV-ADV-SAB-006-04,Azure Heel Pivot,Gust Knucklebow,F2,Champion L5 Low,B
+MV-ADV-SAB-006-05,Paired Cut Echo,Belly Onslaught,F3,Champion L5 Low,B
+MV-ADV-SAB-006-06,Twin Edge Slip Parry,Equipoise Spinecurve,F2,Champion L5 Low,B
+MV-ADV-SAB-006-07,Dual Track Pressure,Chime Skimmer,F2,Champion L5 Low,B
+MV-ADV-SAB-006-08,Twin Court Cross Cut,Tempered Counterguard,F2,Champion L5 Low,B
+MV-ADV-SAB-006-09,Twin Edge Closing Fan,Transfixing Gallop Thrash,F6b,Champion L5 Low,B
+MV-ADV-SAB-007-01,Hawk Shadow Saber Cut,Swipe Thrash,F3,Ruler L1 Low,B
+MV-ADV-SAB-007-02,Stoop Guard Drop,Immovable Basket,F1,Ruler L1 Low,B
+MV-ADV-SAB-007-03,Talon Point Thrust,Ironyelman,F5,Ruler L1 Low,B
+MV-ADV-SAB-007-04,Perch Step Spring,Silt Whirl,F2,Ruler L1 Low,B
+MV-ADV-SAB-007-05,Hawk Dive Slash,Scorching Backedge,F1,Ruler L1 Low,B
+MV-ADV-SAB-007-06,Talon Hook Parry,Basket Cuirass,F3,Ruler L1 Low,B
+MV-ADV-SAB-007-07,Hawk's Stoop Fall,Skimmer Onslaught,F3,Ruler L1 Low,B
+MV-ADV-SAB-007-08,Wing Spread Guard,Equipoise Pipeback,F2,Ruler L1 Low,B
+MV-ADV-SAB-008-01,First Track Draw Cut,Gustgallop,F5,Demigod L1 Low,B
+MV-ADV-SAB-008-02,Second Track Return Cut,Iron Slantcut,F2,Demigod L1 Low,B
+MV-ADV-SAB-008-03,Azure Line Spine Parry,Torrent Pipeback,F2,Demigod L1 Low,B
+MV-ADV-SAB-008-04,Basin Step,Racing Falsedge,F1,Demigod L1 Low,B
+MV-ADV-SAB-008-05,Twin Track Weave,Rumble Flourish,F2,Demigod L1 Low,B
+MV-ADV-SAB-008-06,Paired Track Counter,Gust Yelman,F2,Demigod L1 Low,B
+MV-ADV-SAB-008-07,Two Track Sequence,Hour Belly,F2,Demigod L1 Low,B
+MV-ADV-SAB-008-08,Azure Field Edge,Unflinching Spinecurve,F1,Demigod L1 Low,B
+MV-ADV-SAB-009-01,River Bend Belly Cut,Blazeswell,F5,Demigod L4 Mid,B
+MV-ADV-SAB-009-02,Ford Step Slide,Might Gallop,F2,Demigod L4 Mid,B
+MV-ADV-SAB-009-03,Current Spine Parry,Murkbelly,F5,Demigod L4 Mid,B
+MV-ADV-SAB-009-04,Reed Point Prick,Iron Knucklebow,F2,Demigod L4 Mid,B
+MV-ADV-SAB-009-05,River Cut Return Stroke,Sanguine Yelman,F2,Demigod L4 Mid,B
+MV-ADV-SAB-009-06,Eddy Turn Spine Parry,Annealed Counterguard,F1,Demigod L4 Mid,B
+MV-ADV-SAB-009-07,Basin Pool Guard,Hoarfrost Knucklebow,F2,Demigod L4 Mid,B
+MV-ADV-SAB-009-08,Flood Stroke,Gust Swipe,F2,Demigod L4 Mid,B
+MV-ADV-SAB-009-09,River Return Counter,Torrent Falsedge,F2,Demigod L4 Mid,B
+MV-ADV-SAB-010-01,Wind Reading Cut,Tempered Backedge,F2,Champion L3 Mid,B
+MV-ADV-SAB-010-02,Oath Stance Guard,Staunch Backedge,F1,Champion L3 Mid,B
+MV-ADV-SAB-010-03,Bearing Line Thrust,Swell Barrage,F3,Champion L3 Mid,B
+MV-ADV-SAB-010-04,Plateau Stride Step,Granite Whirl,F2,Champion L3 Mid,B
+MV-ADV-SAB-010-05,Wind Edge Slip,Careening Counterguard,F1,Champion L3 Mid,B
+MV-ADV-SAB-010-06,Sworn Line Parry,Belly Fastness,F3,Champion L3 Mid,B
+MV-ADV-SAB-010-07,Gale Draw Belly Cut,Rumbleyelman,F5,Champion L3 Mid,B
+MV-ADV-SAB-010-08,Windward Guard Turn,Equipoise Swell,F2,Champion L3 Mid,B
+MV-ADV-SAB-011-01,Plateau Rim Cut,Harrowing Yelman,F1,Ruler L2 Low,B
+MV-ADV-SAB-011-02,Open Ground Guard,Aegis Basket,F2,Ruler L2 Low,B
+MV-ADV-SAB-011-03,Edge Of The Plateau Thrust,Glintbasket,F5,Ruler L2 Low,B
+MV-ADV-SAB-011-04,Long Stride Bearing,Silt Pipeback,F2,Ruler L2 Low,B
+MV-ADV-SAB-011-05,Cliff Edge Check,Slantcut Plating,F3,Ruler L2 Low,B
+MV-ADV-SAB-011-06,Rim Slide Cut,Rumblebelly,F5,Ruler L2 Low,B
+MV-ADV-SAB-011-07,Updraft Spine Parry,Murk Knucklebow,F2,Ruler L2 Low,B
+MV-ADV-SAB-011-08,Open Sky Sweep,Mayhembelly,F5,Ruler L2 Low,B
+MV-ADV-SAB-011-09,Plateau Fall Cut,Transfixing Slantcut,F1,Ruler L2 Low,B
+MV-ADV-SAB-011-10,Thin Air Guard,Charter Yelman,F2,Ruler L2 Low,B
+MV-ADV-SAB-012-01,Open Blade Draw,Ironswell,F5,Demigod L2 Low,B
+MV-ADV-SAB-012-02,Oath Bound Guard,Thornbasket,F5,Demigod L2 Low,B
+MV-ADV-SAB-012-03,Straight Oath Thrust,Lambasting Whirl,F1,Demigod L2 Low,B
+MV-ADV-SAB-012-04,Open Step Bearing,Torrent Swipe,F2,Demigod L2 Low,B
+MV-ADV-SAB-012-05,Oath Held Slash,Bellythrash,F4,Demigod L2 Low,B
+MV-ADV-SAB-012-06,Open Sky Spine Parry,Yelmanhauberk,F4,Demigod L2 Low,B
+MV-ADV-SAB-012-07,Sworn Edge Surge,Blazebelly,F5,Demigod L2 Low,B
+MV-ADV-SAB-012-08,Open Blade Reckoning,Intentswell,F5,Demigod L2 Low,B
+MV-ADV-SAB-013-01,Bearing Taken Cut,Harrowing Flourish,F1,Demigod L5 Low,B
+MV-ADV-SAB-013-02,Bearing Held Forte Guard,Thorn Pipeback,F2,Demigod L5 Low,B
+MV-ADV-SAB-013-03,Gale Line Thrust,Tempered Spinecurve,F2,Demigod L5 Low,B
+MV-ADV-SAB-013-04,Wind Pace Step,Swellcanter,F4,Demigod L5 Low,B
+MV-ADV-SAB-013-05,Gale Cut Slide,Lambasting Spinecurve,F1,Demigod L5 Low,B
+MV-ADV-SAB-013-06,Crosswind Spine Parry,Torrent Backedge,F2,Demigod L5 Low,B
+MV-ADV-SAB-013-07,Headwind Press,Blaze Skimmer,F2,Demigod L5 Low,B
+MV-ADV-SAB-013-08,Gale Bearing Stroke,Swipetorment,F4,Demigod L5 Low,B
+MV-ADV-SAB-013-09,Wind Turned Edge Counter,Swellcloak,F4,Demigod L5 Low,B
+MV-ADV-SAB-001-03,Hollow Basket,Forged Basket,F2,Champion L1 Low,B

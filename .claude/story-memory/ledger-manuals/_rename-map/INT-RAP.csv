@@ -1,0 +1,71 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-RAP-001-01,Forte Turn Parry,Guarding Sweephilt,F1,Senior,A
+MV-INT-RAP-001-02,Straight Riposte Answer,Lungeflog,F4,Senior,A
+MV-INT-RAP-001-03,Measured Lunge Step,Veering Stoccata,F1,Senior,A
+MV-INT-RAP-001-04,Settled Guard Breath,Soothing Needlepoint,F1,Senior,A
+MV-INT-RAP-001-05,Parry and Answer in One Beat,Sweptscreen,F4,Senior,A
+MV-INT-RAP-001-06,Late Riposte Over the Arm,Rough Whipblade,F1,Senior,A
+MV-INT-RAP-002-01,Dip and Lift Slip,Flechebuckle,F4,Senior,A
+MV-INT-RAP-002-02,Glide Along the Foe's Steel,Remiseflog,F4,Senior,A
+MV-INT-RAP-002-03,Quiet Foot Sidle,Remisecurl,F4,Senior,A
+MV-INT-RAP-002-04,Inside Line Block,Resolute Cuphilt,F1,Senior,A
+MV-INT-RAP-002-05,Open Line Reading,Kindly Counterpoise,F1,Senior,A
+MV-INT-RAP-002-06,Double Disengage Thrust,Lassoing Slimtang,F1,Senior,A
+MV-INT-RAP-002-07,Disengage Through the Cup,Pasguard Buckle,F3,Senior,A
+MV-INT-RAP-003-01,Sharp Beat on the Foible,Remise Buckle,F3,Warrior,B
+MV-INT-RAP-003-02,Heavy Press Beat,Duskvolte,F5,Warrior,B
+MV-INT-RAP-003-03,Low Bind Carry,Weighty Tipwhip,F2,Warrior,B
+MV-INT-RAP-003-04,Bind Release Slip,Rill Bellguard,F2,Warrior,B
+MV-INT-RAP-003-05,Beat Recovery Guard,Clayswept,F5,Warrior,B
+MV-INT-RAP-003-06,Beat Rhythm Count,Lunar Cupedge,F2,Warrior,B
+MV-INT-RAP-003-07,Beat and Lunge,Gagging Tipwhip,F1,Warrior,B
+MV-INT-RAP-003-08,Winding Bind to the Shoulder,Stampfoil,F5,Warrior,B
+MV-INT-RAP-004-01,Small Circle Parry,Layered Bellguard,F1,Warrior,B
+MV-INT-RAP-004-02,Wide Circle Sweep,Rooted Cupedge,F1,Warrior,B
+MV-INT-RAP-004-03,Circle Entry Lunge,Honed Volte,F2,Warrior,B
+MV-INT-RAP-004-04,Wrist Pivot Hold,Purpose Needlepoint,F2,Warrior,B
+MV-INT-RAP-004-05,Step Behind the Circle,Grit Sweephilt,F2,Warrior,B
+MV-INT-RAP-004-06,Circle Point Rest,Cuphilt Barrier,F3,Warrior,B
+MV-INT-RAP-004-07,Ringing Circle Parry,Counterpoise Screen,F3,Warrior,B
+MV-INT-RAP-004-08,Counter-Circle Binding Thrust,Splice Passata,F2,Warrior,B
+MV-INT-RAP-004-09,Circle Disarm Twist,Lassoing Lunge,F1,Warrior,B
+MV-INT-RAP-005-01,Eye Feint Flick,Miragevolte,F5,Warrior,B
+MV-INT-RAP-005-02,Shoulder Dip Feint,Recallfoil,F5,Warrior,B
+MV-INT-RAP-005-03,Leg Feint Dart,Lassoing Fleche,F1,Warrior,B
+MV-INT-RAP-005-04,Counter-Thrust Over the Hand,Static Slimtang,F2,Warrior,B
+MV-INT-RAP-005-05,Feint Step Back,Draught Passata,F2,Warrior,B
+MV-INT-RAP-005-06,Reading the Foe's Answer,Candor Pasguard,F2,Warrior,B
+MV-INT-RAP-005-07,Feint Guard Cover,Pashasp,F4,Warrior,B
+MV-INT-RAP-005-08,Double Feint Lunge,Recall Volte,F2,Warrior,B
+MV-INT-RAP-005-09,Counter-Thrust Around the Parry,Stoccata Scorer,F3,Warrior,B
+MV-INT-RAP-005-10,Feint Into Cut Over the Arm,Ember Whipblade,F2,Warrior,B
+MV-INT-RAP-006-01,Forward Passing Stride,Pasglide,F4,Senior,A
+MV-INT-RAP-006-02,Rear Passing Retreat,Pirouetting Fleche,F1,Senior,A
+MV-INT-RAP-006-03,Crossed-Leg Check,Dense Pasguard,F1,Senior,A
+MV-INT-RAP-006-04,Passing Stride Thrust,Counterpoise Hammerfall,F3,Senior,A
+MV-INT-RAP-006-05,Landing Balance Test,Sure Needlepoint,F1,Senior,A
+MV-INT-RAP-006-06,Passing Lunge Close,Rugged Remise,F1,Senior,A
+MV-INT-RAP-006-07,Escaping Pass Under the Arm,Fleet Fleche,F1,Senior,A
+MV-INT-RAP-007-01,Measure Probe Step,Voltestalk,F4,Warrior,B
+MV-INT-RAP-007-02,Wide Measure Hold,Sleetpas,F5,Warrior,B
+MV-INT-RAP-007-03,Close Measure Block,Clay Cupedge,F2,Warrior,B
+MV-INT-RAP-007-04,Tempo Beat Count,Kindly Whipblade,F1,Warrior,B
+MV-INT-RAP-007-05,Tempo Break Thrust,Foilslap,F4,Warrior,B
+MV-INT-RAP-007-06,Out-of-Measure Retreat,Prowling Volte,F1,Warrior,B
+MV-INT-RAP-007-07,Measure Steal Lunge,Sweephilt Slap,F3,Warrior,B
+MV-INT-RAP-007-08,Tempo Seizing Counter,Tipwhip Hasp,F3,Warrior,B
+MV-INT-RAP-008-01,Low Line Prick,Volteswat,F4,Senior,A
+MV-INT-RAP-008-02,Hip-Level Guard,Passcreen,F4,Senior,A
+MV-INT-RAP-008-03,Under-Guard Crouch Step,Fleet Lunge,F1,Senior,A
+MV-INT-RAP-008-04,Low Recovery Rise,Sturdy Slimtang,F1,Senior,A
+MV-INT-RAP-008-05,Under-Arm Low Lunge,Rushing Bellguard,F1,Senior,A
+MV-INT-RAP-008-06,Skimming Point Run,Lunge Scorer,F3,Senior,A
+MV-INT-RAP-009-01,Stop Thrust at the Wrist,Brisk Volte,F1,Warrior,B
+MV-INT-RAP-009-02,Stop Thrust at the Knee,Blank Stoccata,F2,Warrior,B
+MV-INT-RAP-009-03,Stop Guard Cover,Shardfoil,F5,Warrior,B
+MV-INT-RAP-009-04,Advance Reading,Genial Cuphilt,F1,Warrior,B
+MV-INT-RAP-009-05,Stop Retreat Slip,Pascurl,F4,Warrior,B
+MV-INT-RAP-009-06,Stop Point Hold,Weighty Cupedge,F2,Warrior,B
+MV-INT-RAP-009-07,Time-Thrust Against the Advance,Brasspas,F5,Warrior,B
+MV-INT-RAP-009-08,Stop and Bind,Passata Hasp,F3,Warrior,B
+MV-INT-RAP-009-09,Stop Thrust Through the Parry,Foilscorer,F4,Warrior,B

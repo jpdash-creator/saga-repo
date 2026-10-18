@@ -1,0 +1,77 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-DAG-001-01,Sudden Thigh Cut,Fingerloop Hit,F3,Unawakened,A
+MV-BAS-DAG-001-02,Narrow Sleeve Pin,Fouling Hiltbar,F1,Unawakened,A
+MV-BAS-DAG-001-03,Narrow Draw Slash,Sharp Tuck,F1,Unawakened,A
+MV-BAS-DAG-001-04,Narrow Shuffle Step,Sidleskitter,F4,Unawakened,A
+MV-BAS-DAG-001-05,Sudden Jab Series,Fanghit,F4,Unawakened,A
+MV-BAS-DAG-001-06,Sudden Forearm Block,Fangwedge,F4,Unawakened,A
+MV-BAS-DAG-002-01,Light Wrist Hook,Pulling Prod,F1,Skin,A
+MV-BAS-DAG-002-02,Light Reverse Grip Stab,Gnawing Basehilt,F1,Skin,A
+MV-BAS-DAG-002-03,Light Hilt Hook Pull,Pushing Scratch,F1,Skin,A
+MV-BAS-DAG-002-04,Light Shoulder Read,Mild Needleside,F1,Skin,A
+MV-BAS-DAG-002-05,Short Spine Tap Stab,Gnawing Grippad,F1,Skin,A
+MV-BAS-DAG-003-01,Sharp Elbow Lever,Waistspine Pause,F3,Muscle,A
+MV-BAS-DAG-003-02,Sharp Edge Parry,Sheathcowl,F4,Muscle,A
+MV-BAS-DAG-003-03,Cold Point Thrust,Nip Drop,F3,Muscle,A
+MV-BAS-DAG-003-04,Quiet Backhand Slash,Downward Twinbite,F1,Muscle,A
+MV-BAS-DAG-003-05,Hidden Reverse Grip Stab,Straight Sidle,F1,Muscle,A
+MV-BAS-DAG-003-06,Cold Grip Twist Disarm,Tripping Rondelknob,F1,Muscle,A
+MV-BAS-DAG-003-07,Cold Hilt Punch,Sharp Slip,F1,Muscle,A
+MV-BAS-DAG-004-01,Cold Jab Series,Blunt Sidle,F1,Tendon,A
+MV-BAS-DAG-004-02,Sudden Counter Check,Vestpoint Wedge,F3,Tendon,A
+MV-BAS-DAG-004-03,Cold Reverse Grip Stab,Narrow Prod,F1,Tendon,A
+MV-BAS-DAG-004-04,Short Wrist Hook,Tripping Fingerloop,F1,Tendon,A
+MV-BAS-DAG-004-05,Calm Pivot Step,Stepping Scalepoint,F1,Tendon,A
+MV-BAS-DAG-004-06,Sudden Edge Parry,Scalepoint Cowl,F3,Tendon,A
+MV-BAS-DAG-005-01,Tidy Hilt Hook Pull,Stopping Rondelknob,F1,Unawakened,A
+MV-BAS-DAG-005-02,Even Reverse Grip Stab,Hard Scratch,F1,Unawakened,A
+MV-BAS-DAG-005-03,Tidy Slip Parry,Angled Waistspine,F1,Unawakened,A
+MV-BAS-DAG-005-04,Inside False Draw,Pulling Basehilt,F1,Unawakened,A
+MV-BAS-DAG-005-05,Quiet Wrist Flick Cut,Flat Tuck,F1,Unawakened,A
+MV-BAS-DAG-005-06,Even Edge Parry,Holding Hiltbar,F1,Unawakened,A
+MV-BAS-DAG-005-07,Double Jab Series,Twinbite Bump,F3,Unawakened,A
+MV-BAS-DAG-005-08,Double Wrist Hook,Fixing Grippad,F1,Unawakened,A
+MV-BAS-DAG-006-01,Three-Count Hilt Punch,Fangbump,F4,Bone,A
+MV-BAS-DAG-006-02,Close Elbow Lever,Niphusk,F4,Bone,A
+MV-BAS-DAG-006-03,Short-Reach Crouch Entry,Light Sidle,F1,Bone,A
+MV-BAS-DAG-006-04,Short-Reach Heel Drop Stab,Prodhit,F4,Bone,A
+MV-BAS-DAG-006-05,Short-Reach Point Thrust,Gnawing Needleside,F1,Bone,A
+MV-BAS-DAG-007-01,Low Draw Slash,Prodstrike,F4,Senior,A
+MV-BAS-DAG-007-02,Sharp Blade Cover Step,Krishusk,F4,Senior,A
+MV-BAS-DAG-007-03,Sharp Hilt Punch,Nipdash,F4,Senior,A
+MV-BAS-DAG-007-04,Inside Boot Draw Stab,Quick Nip,F1,Senior,A
+MV-BAS-DAG-007-05,Cold Edge Parry,Raised Vestpoint,F1,Senior,A
+MV-BAS-DAG-007-06,Even Sleeve Pin,Fixing Nip,F1,Senior,A
+MV-BAS-DAG-007-07,Sharp Side Rib Thrust,Slipdrop,F4,Senior,A
+MV-BAS-DAG-008-01,Nimble Draw Slash,Blunt Basehilt,F1,Senior,A
+MV-BAS-DAG-008-02,Even Thigh Cut,Upward Vestpoint,F1,Senior,A
+MV-BAS-DAG-008-03,Calm Backhand Slash,Nipblow,F4,Senior,A
+MV-BAS-DAG-008-04,Calm Crossguard Catch,Sheathpause,F4,Senior,A
+MV-BAS-DAG-008-05,Half-Breath Dark Grip Check,Gentle Waistspine,F1,Senior,A
+MV-BAS-DAG-008-06,Calm Shuffle Step,Krisskitter,F4,Senior,A
+MV-BAS-DAG-009-01,Sliding Heel Drop Stab,Fangblow,F4,Senior,A
+MV-BAS-DAG-009-02,Quiet Jab Series,Sidlehit,F4,Senior,A
+MV-BAS-DAG-009-03,Quiet Crossguard Catch,Kriscowl,F4,Senior,A
+MV-BAS-DAG-009-04,Quiet Hilt Hook Pull,Turning Twinbite,F1,Senior,A
+MV-BAS-DAG-009-05,Rising Palm Press Cut,Square Tuck,F1,Senior,A
+MV-BAS-DAG-009-06,Steady Crouch Entry,Fingerloop Trot,F3,Senior,A
+MV-BAS-DAG-009-07,Rising Slip Parry,Settled Hiltbar,F1,Senior,A
+MV-BAS-DAG-009-08,Quiet Boot Draw Stab,Straight Needleside,F1,Senior,A
+MV-BAS-DAG-010-01,Narrow Dark Grip Check,Warm Rondelknob,F1,Senior,A
+MV-BAS-DAG-010-02,Even Heel Drop Stab,Level Scratch,F1,Senior,A
+MV-BAS-DAG-010-03,Short-Reach Grip Twist Disarm,Turning Scalepoint,F1,Senior,A
+MV-BAS-DAG-010-04,Narrow Pommel Strike,Sidledrop,F4,Senior,A
+MV-BAS-DAG-010-05,Shallow Thigh Cut,Slip Bump,F3,Senior,A
+MV-BAS-DAG-011-01,Nimble Hilt Hook Pull,Fangstay,F4,Senior,A
+MV-BAS-DAG-011-02,Sudden Heel Drop Stab,Prod Drop,F3,Senior,A
+MV-BAS-DAG-011-03,Sudden Reverse Grip Stab,Tuckstrike,F4,Senior,A
+MV-BAS-DAG-011-04,Calm Sleeve Pin,Pushing Slip,F1,Senior,A
+MV-BAS-DAG-011-05,Calm Shoulder Read,Fanggauge,F4,Senior,A
+MV-BAS-DAG-011-06,Nimble False Draw,Towing Grippad,F1,Senior,A
+MV-BAS-DAG-011-07,Calm Spine Tap Stab,Narrow Nip,F1,Senior,A
+MV-BAS-DAG-012-01,Low False Draw,Towing Fingerloop,F1,Senior,A
+MV-BAS-DAG-012-02,Tight Sleeve Pin,Turning Hiltbar,F1,Senior,A
+MV-BAS-DAG-012-03,Tight Crossguard Catch,Folded Waistspine,F1,Senior,A
+MV-BAS-DAG-012-04,Tight Slip Parry,Vestpoint Lid,F3,Senior,A
+MV-BAS-DAG-012-05,Tight Edge Parry,Sheathwedge,F4,Senior,A
+MV-BAS-DAG-012-06,Firm Grip Twist Disarm,Krispause,F4,Senior,A

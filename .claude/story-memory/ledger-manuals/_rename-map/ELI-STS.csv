@@ -1,0 +1,171 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-STS-001-01,Twin Court Opening Cut,Merciless Tang,F1,Demigod L1 Low,B
+MV-ELI-STS-001-02,Paired Guard Hold,Unconquered Fuller,F1,Demigod L1 Low,B
+MV-ELI-STS-001-03,Court Step,Phantom Feint,F1,Demigod L1 Low,B
+MV-ELI-STS-001-04,Paired Return Blade Parry,Chimefuller,F5,Demigod L1 Low,B
+MV-ELI-STS-001-05,Twin Edge Bind,Overpowering Midrib,F1,Demigod L1 Low,B
+MV-ELI-STS-001-06,Court Chain Cut,Tempered Riposte,F2,Demigod L1 Low,B
+MV-ELI-STS-001-07,Twin-Court Sweep,Granite Foible,F2,Demigod L1 Low,B
+MV-ELI-STS-001-08,Paired Cover Reflect,Crossbar Valor,F3,Demigod L1 Low,B
+MV-ELI-STS-001-09,Twin Court Final Cut,Tempered Pommel,F2,Demigod L1 Low,B
+MV-ELI-STS-002-01,Hawk Wing Blade Cut,Tempered Ricasso,F2,Demigod L3 Mid,B
+MV-ELI-STS-002-02,Azure Sky Guard,Aegis Forte,F2,Demigod L3 Mid,B
+MV-ELI-STS-002-03,Hawk Eye Point,Hollowfeint,F5,Demigod L3 Mid,B
+MV-ELI-STS-002-04,Light Stoop Step,Glissade Slipstream,F3,Demigod L3 Mid,B
+MV-ELI-STS-002-05,Rising Hawk Parry,Forte Durance,F3,Demigod L3 Mid,B
+MV-ELI-STS-002-06,Hawk Edge Beat,Mayhem Quillon,F2,Demigod L3 Mid,B
+MV-ELI-STS-002-07,Azure Chain Stoop,Tempered Envelop,F2,Demigod L3 Mid,B
+MV-ELI-STS-002-08,Hawk's Edge Dive,Ironleaf,F5,Demigod L3 Mid,B
+MV-ELI-STS-002-09,High Azure Reflect,Unassailable Leaf,F1,Demigod L3 Mid,B
+MV-ELI-STS-002-10,Hawk Edge Flash Drop,Phantom Quillon Blink,F6b,Demigod L3 Mid,B
+MV-ELI-STS-003-01,Track One Cut,Brutalizing Cutover,F1,Demigod L5 Low,B
+MV-ELI-STS-003-02,Track Two Guard,Pommel Obduracy,F3,Demigod L5 Low,B
+MV-ELI-STS-003-03,Confluence Thrust,Crossbar Reckoning,F3,Demigod L5 Low,B
+MV-ELI-STS-003-04,River Fork Step,Torrent Foible,F2,Demigod L5 Low,B
+MV-ELI-STS-003-05,Basin Curve Edge Cut,Midribscourge,F4,Demigod L5 Low,B
+MV-ELI-STS-003-06,Track Swap Parry,Equipoise Fuller,F2,Demigod L5 Low,B
+MV-ELI-STS-003-07,Two Track Press,Strangling Glissade,F1,Demigod L5 Low,B
+MV-ELI-STS-003-08,Joining Edge Cut,Sanguine Beat,F2,Demigod L5 Low,B
+MV-ELI-STS-003-09,Confluence Edge Wave,Lacerating Tang,F1,Demigod L5 Low,B
+MV-ELI-STS-003-10,Dual Track Cover,Glintmidrib,F5,Demigod L5 Low,B
+MV-ELI-STS-003-11,Two-Track Convergent Cut,Might Leaf,F2,Demigod L5 Low,B
+MV-ELI-STS-004-01,Basin Rising Cut,Ricasso Wrath,F3,Demigod L7 Mid,B
+MV-ELI-STS-004-02,Deep Basin Guard,Charter Forte,F2,Demigod L7 Mid,B
+MV-ELI-STS-004-03,River Under Thrust,Decimating Beat,F1,Demigod L7 Mid,B
+MV-ELI-STS-004-04,Settling Step,Ghosting Riposte,F1,Demigod L7 Mid,B
+MV-ELI-STS-004-05,Still Water Parry,Gustpommel,F5,Demigod L7 Mid,B
+MV-ELI-STS-004-06,Basin Pour Cut,Merciless Feint,F1,Demigod L7 Mid,B
+MV-ELI-STS-004-07,River Pull Bind,Overpowering Ricasso,F1,Demigod L7 Mid,B
+MV-ELI-STS-004-08,Low Gather Beat,Toxin Cutover,F2,Demigod L7 Mid,B
+MV-ELI-STS-004-09,Basin Rim Slice,Tempered Feint,F2,Demigod L7 Mid,B
+MV-ELI-STS-004-10,Deep Basin Surge,Siltpommel,F5,Demigod L7 Mid,B
+MV-ELI-STS-004-11,Basin Return Cover,Unassailable Foible,F1,Demigod L7 Mid,B
+MV-ELI-STS-004-12,Basin Depth Strike,Hollow Envelop,F2,Demigod L7 Mid,B
+MV-ELI-STS-005-01,Hawk Dive Edge Cut,Shattering Crossbar,F1,True God L1 Low,B
+MV-ELI-STS-005-02,River Flow Guard,Evergreen Quillon,F1,True God L1 Low,B
+MV-ELI-STS-005-03,Long River Thrust,Facetforte,F5,True God L1 Low,B
+MV-ELI-STS-005-04,Hawk Perch Step,Dazzling Tang,F1,True God L1 Low,B
+MV-ELI-STS-005-05,River Bank Parry,Pommelvalor,F4,True God L1 Low,B
+MV-ELI-STS-005-06,Stoop and Flow Chain,Blaze Leaf,F2,True God L1 Low,B
+MV-ELI-STS-005-07,Hawk Claw Bind,Midribnerve,F4,True God L1 Low,B
+MV-ELI-STS-005-08,River Pull Disarm,Feintmettle,F4,True God L1 Low,B
+MV-ELI-STS-005-09,Falling River Cut,Pommel Havoc,F3,True God L1 Low,B
+MV-ELI-STS-005-10,River Hawk Sweep,Tangscourge,F4,True God L1 Low,B
+MV-ELI-STS-005-11,Hawk Cry Suppression,Ponderous Riposte,F2,True God L1 Low,B
+MV-ELI-STS-005-12,Confluent Edge Wave,Nova Beat,F2,True God L1 Low,B
+MV-ELI-STS-005-13,Hawk Over River Flash,Glintpommel,F5,True God L1 Low,B
+MV-ELI-STS-006-01,Paired Guard Opening Cut,Rumble Glissade,F2,Demigod L2 Mid,B
+MV-ELI-STS-006-02,Stoop Guard Hold,Midribvalor,F4,Demigod L2 Mid,B
+MV-ELI-STS-006-03,Paired Thrust,Rumble Fuller,F2,Demigod L2 Mid,B
+MV-ELI-STS-006-04,Double Pace Step,Phantom Midrib,F1,Demigod L2 Mid,B
+MV-ELI-STS-006-05,Guard Stoop Return,Unsparing Envelop,F1,Demigod L2 Mid,B
+MV-ELI-STS-006-06,Paired Bind Hold,Gyve Foible,F2,Demigod L2 Mid,B
+MV-ELI-STS-006-07,Twin Beat,Chime Glissade,F2,Demigod L2 Mid,B
+MV-ELI-STS-006-08,Paired Cover Edge,Facet Midrib,F2,Demigod L2 Mid,B
+MV-ELI-STS-006-09,Stoop Sweep,Granite Leaf,F2,Demigod L2 Mid,B
+MV-ELI-STS-006-10,Paired Stoop Finish,Tempered Quillon,F2,Demigod L2 Mid,B
+MV-ELI-STS-007-01,High Azure Cut,Sanguine Pommel,F2,Demigod L4 High,B
+MV-ELI-STS-007-02,Open Sky Guard,Indomitable Fuller,F1,Demigod L4 High,B
+MV-ELI-STS-007-03,Azure Point Drive,Fullerscourge,F4,Demigod L4 High,B
+MV-ELI-STS-007-04,Soaring Step,Silt Cutover,F2,Demigod L4 High,B
+MV-ELI-STS-007-05,Hawk Wing Crossguard Parry,Adamantine Crossbar,F1,Demigod L4 High,B
+MV-ELI-STS-007-06,Sky Chain Cut,Envelop Reckoning,F3,Demigod L4 High,B
+MV-ELI-STS-007-07,Azure Edge Bind,Gyve Forte,F2,Demigod L4 High,B
+MV-ELI-STS-007-08,High Beat Aside,Toxin Tang,F2,Demigod L4 High,B
+MV-ELI-STS-007-09,High Azure Wave,Chimebeat,F5,Demigod L4 High,B
+MV-ELI-STS-007-10,Sky Cover Reflect,Pommelspine,F4,Demigod L4 High,B
+MV-ELI-STS-007-11,Azure Edge Falling,Gnashing Blaze Midrib,F6a,Demigod L4 High,B
+MV-ELI-STS-008-01,Reach Cut Opening,Rumbleleaf,F5,Monarch L1 Low,B
+MV-ELI-STS-008-02,Track Guard Hold,Impervious Ricasso,F1,Monarch L1 Low,B
+MV-ELI-STS-008-03,Long Track Thrust,Novaforte,F5,Monarch L1 Low,B
+MV-ELI-STS-008-04,Track Parry Return,Foiblenerve,F4,Monarch L1 Low,B
+MV-ELI-STS-008-05,Reach Bind,Mastering Beat,F1,Monarch L1 Low,B
+MV-ELI-STS-008-06,Two Track Beat,Mastering Riposte,F1,Monarch L1 Low,B
+MV-ELI-STS-008-07,Two Track Sweep,Glissade Scourge,F3,Monarch L1 Low,B
+MV-ELI-STS-008-08,Track Reflect Cover,Glint Quillon,F2,Monarch L1 Low,B
+MV-ELI-STS-008-09,Reach of Two Tracks Cut,Beathavoc,F4,Demigod L1 Low,B
+MV-ELI-STS-009-01,Gale Cut Opening,Rumble Cutover,F2,Demigod L1 Mid,B
+MV-ELI-STS-009-02,Sworn Blade Guard,Unassailable Ricasso,F1,Demigod L1 Mid,B
+MV-ELI-STS-009-03,Windfall Thrust,Eviscerating Cutover,F1,Demigod L1 Mid,B
+MV-ELI-STS-009-04,Gale Run Step,Tangblink,F4,Demigod L1 Mid,B
+MV-ELI-STS-009-05,Oath Beat Aside,Mayhem Foible,F2,Demigod L1 Mid,B
+MV-ELI-STS-009-06,Gale Parry Sweep,Gustmidrib,F5,Demigod L1 Mid,B
+MV-ELI-STS-009-07,Sworn Edge Chain,Tempered Beat,F2,Demigod L1 Mid,B
+MV-ELI-STS-009-08,Gale Edge Sweep Wide,Mayhempommel,F5,Demigod L1 Mid,B
+MV-ELI-STS-009-09,Sworn Gale Reflect,Glamour Midrib,F2,Demigod L1 Mid,B
+MV-ELI-STS-009-10,Gale Cut Flash,Lightning Expanse Tang,F6a,Demigod L1 Mid,B
+MV-ELI-STS-010-01,Plateau Gale Cut,Granite Crossbar,F2,Demigod L3 Low,B
+MV-ELI-STS-010-02,Rim Guard Hold,Fortespine,F4,Demigod L3 Low,B
+MV-ELI-STS-010-03,Long Wind Thrust,Hollowforte,F5,Demigod L3 Low,B
+MV-ELI-STS-010-04,Rim Step,Torrent Leaf,F2,Demigod L3 Low,B
+MV-ELI-STS-010-05,Windward Bind,Pommeldurance,F4,Demigod L3 Low,B
+MV-ELI-STS-010-06,Gale Parry Blade Turn,Torrent Forte,F2,Demigod L3 Low,B
+MV-ELI-STS-010-07,Open Ground Cut Chain,Blazeforte,F5,Demigod L3 Low,B
+MV-ELI-STS-010-08,Plateau Gale Wave,Chime Pommel,F2,Demigod L3 Low,B
+MV-ELI-STS-010-09,Gale Rim Reflect,Impervious Leaf,F1,Demigod L3 Low,B
+MV-ELI-STS-010-10,Plateau Gale Edge Cut,Unsparing Gust Riposte,F6a,Demigod L3 Low,B
+MV-ELI-STS-011-01,Oath Bearing Cut,Eviscerating Fuller,F1,Demigod L6 Mid,B
+MV-ELI-STS-011-02,Bearing Held Point Guard,Thorn Pommel,F2,Demigod L6 Mid,B
+MV-ELI-STS-011-03,Held Bearing Point Thrust,Rumbleforte,F5,Demigod L6 Mid,B
+MV-ELI-STS-011-04,Bearing Walk Step,Granite Midrib,F2,Demigod L6 Mid,B
+MV-ELI-STS-011-05,Wind Check Parry,Equipoise Foible,F2,Demigod L6 Mid,B
+MV-ELI-STS-011-06,Bearing Turn Cut,Mightmidrib,F5,Demigod L6 Mid,B
+MV-ELI-STS-011-07,Oath Seal Bind,Gyve Envelop,F2,Demigod L6 Mid,B
+MV-ELI-STS-011-08,Bearing Beat,Mayhem Beat,F2,Demigod L6 Mid,B
+MV-ELI-STS-011-09,Wind Slipped Cut,Beatruin,F4,Demigod L6 Mid,B
+MV-ELI-STS-011-10,Oath Held Suppression,Ferocious Cutover,F1,Demigod L6 Mid,B
+MV-ELI-STS-011-11,Bearing Wave,Mangling Forte,F1,Demigod L6 Mid,B
+MV-ELI-STS-011-12,Oath-Bearing Final Cut,Booming Nova Envelop,F6a,Demigod L6 Mid,B
+MV-ELI-STS-012-01,Far Bearing Cut,Sanguine Feint,F2,Demigod L5 High,B
+MV-ELI-STS-012-02,Bearing Line Guard,Charter Tang,F2,Demigod L5 High,B
+MV-ELI-STS-012-03,Long Line Thrust,Riposte Scourge,F3,Demigod L5 High,B
+MV-ELI-STS-012-04,Distance Step,Midribvortex,F4,Demigod L5 High,B
+MV-ELI-STS-012-05,Hold Line Parry,Torrent Fuller,F2,Demigod L5 High,B
+MV-ELI-STS-012-06,Bearing Slice,Gustbeat,F5,Demigod L5 High,B
+MV-ELI-STS-012-07,Wind Bound Press,Intent Ricasso,F2,Demigod L5 High,B
+MV-ELI-STS-012-08,Long Bearing Sweep,Rampaging Glissade,F1,Demigod L5 High,B
+MV-ELI-STS-012-09,Held Line Reflect,Glamour Quillon,F2,Demigod L5 High,B
+MV-ELI-STS-012-10,Long Bearing Phase Cut,Midribblink,F4,Demigod L5 High,B
+MV-ELI-STS-013-01,Open Sweep Cut,Corroding Envelop,F1,Demigod L2 High,B
+MV-ELI-STS-013-02,No Cover Stance,Hoarfrost Foible,F2,Demigod L2 High,B
+MV-ELI-STS-013-03,Bare Thrust,Novamidrib,F5,Demigod L2 High,B
+MV-ELI-STS-013-04,Open Field Long Step,Silt Leaf,F2,Demigod L2 High,B
+MV-ELI-STS-013-05,Open Beat Aside,Chime Feint,F2,Demigod L2 High,B
+MV-ELI-STS-013-06,Windward Crossguard Parry,Flintlike Ricasso,F1,Demigod L2 High,B
+MV-ELI-STS-013-07,Open Chain Cut,Ironpommel,F5,Demigod L2 High,B
+MV-ELI-STS-013-08,Gale Edge Wave,Nova Pommel,F2,Demigod L2 High,B
+MV-ELI-STS-013-09,Open Guard Reflect,Crossbar Durance,F3,Demigod L2 High,B
+MV-ELI-STS-013-10,Walls Down Cut,Glint Feint,F2,Demigod L2 High,B
+MV-ELI-STS-014-01,Windward Straight Cut,Mightfeint,F5,Demigod L7 Low,B
+MV-ELI-STS-014-02,Oath Crossguard Stance,Tangmettle,F4,Demigod L7 Low,B
+MV-ELI-STS-014-03,Sworn Line Thrust,Ruinous Crossbar,F1,Demigod L7 Low,B
+MV-ELI-STS-014-04,Plateau Pace Step,Silt Quillon,F2,Demigod L7 Low,B
+MV-ELI-STS-014-05,Oath Turn Parry,Torrent Tang,F2,Demigod L7 Low,B
+MV-ELI-STS-014-06,Upwind Bind Hold,Gyvetang,F5,Demigod L7 Low,B
+MV-ELI-STS-014-07,Sworn Beat Down,Mayhemfeint,F5,Demigod L7 Low,B
+MV-ELI-STS-014-08,Oath Cut Chain,Sanguine Midrib,F2,Demigod L7 Low,B
+MV-ELI-STS-014-09,Windward Wide Cut,Riposte Devastation,F3,Demigod L7 Low,B
+MV-ELI-STS-014-10,Oath Reflect Guard,Glamour Forte,F2,Demigod L7 Low,B
+MV-ELI-STS-014-11,Oath Held Press,Devastating Glissade,F1,Demigod L7 Low,B
+MV-ELI-STS-014-12,Windward Oath Finish,Tempered Cutover,F2,Demigod L7 Low,B
+MV-ELI-STS-015-01,Bearing Gust Cut,Vengeful Feint,F1,Demigod L4 Low,B
+MV-ELI-STS-015-02,Gale Hold Guard,Unrelenting Fuller,F1,Demigod L4 Low,B
+MV-ELI-STS-015-03,Gale Line Point Thrust,Glint Beat,F2,Demigod L4 Low,B
+MV-ELI-STS-015-04,Gusting Step,Unseen Forte,F1,Demigod L4 Low,B
+MV-ELI-STS-015-05,Bearing Check Parry,Equipoise Pommel,F2,Demigod L4 Low,B
+MV-ELI-STS-015-06,Gale Bind Hold,Overpowering Tang,F1,Demigod L4 Low,B
+MV-ELI-STS-015-07,Bearing Slip Cut,Mangling Beat,F1,Demigod L4 Low,B
+MV-ELI-STS-015-08,Gale Bearing Wave,Facet Feint,F2,Demigod L4 Low,B
+MV-ELI-STS-015-09,Bearing Gale Sweep,Siltfuller,F5,Demigod L4 Low,B
+MV-ELI-STS-015-10,Gale Bearing Edge,Grievous Riposte,F1,Demigod L4 Low,B
+MV-ELI-STS-016-01,Sworn Reach Cut,Granite Quillon,F2,Monarch L2 Mid,B
+MV-ELI-STS-016-02,Wind Guard Hold,Facet Crossbar,F2,Monarch L2 Mid,B
+MV-ELI-STS-016-03,Reach Wind Thrust,Lacerating Cutover,F1,Monarch L2 Mid,B
+MV-ELI-STS-016-04,Reach Parry Turn,Unrelenting Ricasso,F1,Monarch L2 Mid,B
+MV-ELI-STS-016-05,Wind Reach Bind,Thornfeint,F5,Monarch L2 Mid,B
+MV-ELI-STS-016-06,Sworn Beat,Hogtying Midrib,F1,Monarch L2 Mid,B
+MV-ELI-STS-016-07,Reach Sweep,Blaze Glissade,F2,Monarch L2 Mid,B
+MV-ELI-STS-016-08,Sworn Wind Reflect,Waning Fuller,F2,Monarch L2 Mid,B
+MV-ELI-STS-016-09,Wind Reach Final Cut,Hellish Leaf,F1,Demigod L1 Low,B
+MV-ELI-STS-004-12,Hollow Envelop,Crushing Envelop,F2,Demigod L7 Mid,B
+MV-ELI-STS-009-10,Lightning Expanse Tang,Lightning Tang,F6a,Demigod L1 Mid,B

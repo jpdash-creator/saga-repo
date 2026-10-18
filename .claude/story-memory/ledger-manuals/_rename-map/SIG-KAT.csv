@@ -1,0 +1,136 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-KAT-001-01,Azure-Curve Slant Entry,Vigor Nukitsuke,F2,Warrior,B
+MV-SIG-KAT-001-02,Twin-Court Short Cut,Magnificent Tsuka,F1,Warrior,B
+MV-SIG-KAT-001-03,Spine Parry of the River,Parity Nakago,F2,Warrior,B
+MV-SIG-KAT-001-04,Hawk-Draw Cut and Step Through,Haemalnoto,F5,Warrior,B
+MV-SIG-KAT-001-05,Azure-Curve Short Step Thrust,Notoedict,F4,Warrior,B
+MV-SIG-KAT-001-06,Twin-Court Stepping Parry,Hamonseal,F4,Warrior,B
+MV-SIG-KAT-001-07,Azure-Sheath Binding Sheath Press,Sigilnakago,F5,Champion,B
+MV-SIG-KAT-001-08,Hawk-Draw Twin Edge Sweep,Storied Kissaki,F1,Champion,B
+MV-SIG-KAT-001-09,Azure-Curve Full Circle Sweep,Magnificent Zanshin,F1,Demigod,B
+MV-SIG-KAT-001-10,Twin-Court Binding Form,Unbending Volition Mune,F6a,Warrior,B
+MV-SIG-KAT-002-01,Hawk-Draw Reverse Knee Cut,Steel Noto,F2,Champion,B
+MV-SIG-KAT-002-02,Flat Deflect of the Hawk,Paritysageo,F5,Champion,B
+MV-SIG-KAT-002-03,Twin-Court Eye-Line Point,Steelhabaki,F5,Champion,B
+MV-SIG-KAT-002-04,Azure-Sheath Double Diagonal Cut,Haemalhabaki,F5,Champion,B
+MV-SIG-KAT-002-05,Binding Thrust of Two Courts,Millstone Habaki,F2,Champion,B
+MV-SIG-KAT-002-06,Azure-Curve Low Line Cut,Steeltsuka,F5,Champion,B
+MV-SIG-KAT-002-07,Twin-Court Whirling Guard,Faithful Hamon,F1,Champion,B
+MV-SIG-KAT-002-08,Azure-Sheath Doubled Edge Cut,Tsuba Verdict,F3,Champion,B
+MV-SIG-KAT-002-09,Hawk-Draw Sweep Through Cut,Demolition Sageo,F2,Champion,B
+MV-SIG-KAT-002-10,Heavy Draw of the Hawk,Dauntless Menuki,F1,Demigod,B
+MV-SIG-KAT-002-11,Twin-Court Quiet Cut,Lordly Quenched Kesagiri,F6a,Champion,B
+MV-SIG-KAT-003-01,Azure-Sheath Hanging Guard,Steelnakago,F5,Champion,B
+MV-SIG-KAT-003-02,Hawk-Draw Falling Shoulder Cut,Vigor Saya,F2,Champion,B
+MV-SIG-KAT-003-03,Beat Aside of the Hawk,Kiri Reliquary,F3,Champion,B
+MV-SIG-KAT-003-04,Twin-Court Breath Read,Reminiscence Tsuka,F2,Champion,B
+MV-SIG-KAT-003-05,Azure-Sheath Sheath Throw Draw,Nakagocrown,F4,Champion,B
+MV-SIG-KAT-003-06,Hawk-Draw Turning Back Cut,Haemalsaya,F5,Champion,B
+MV-SIG-KAT-003-07,Qi-Edged Draw of Paired Edges,Bedrock Kissaki,F2,Champion,B
+MV-SIG-KAT-003-08,Twin-Court Hip-Anchored Draw,Tsubabanner,F4,Champion,B
+MV-SIG-KAT-003-09,Azure-Sheath Spiral Thrust,Vacuum Habaki,F2,Champion,B
+MV-SIG-KAT-003-10,Hawk-Draw Wave Cut,Royal Nakago,F1,Champion,B
+MV-SIG-KAT-003-11,Mirror Return of the Hawk,Eclipse Mune,F2,Demigod,B
+MV-SIG-KAT-003-12,Twin-Court Last Breath Draw,Fearless Saya,F1,Champion,B
+MV-SIG-KAT-004-01,Twin-Court Slanting Forearm Cut,Haemalnakago,F5,Ruler,B
+MV-SIG-KAT-004-02,Azure-Sheath Sheath Hook,Entropy Kesagiri,F2,Ruler,B
+MV-SIG-KAT-004-03,Shoulder Read of the Hawk,Pealmenuki,F5,Ruler,B
+MV-SIG-KAT-004-04,Basin-Stance Low Sweep Parry,Paritytsuba,F5,Ruler,B
+MV-SIG-KAT-004-05,Twin-Court Hand Shift Cut,Bedrock Tameshi,F2,Ruler,B
+MV-SIG-KAT-004-06,Feint Draw of the River,Reminiscence Noto,F2,Ruler,B
+MV-SIG-KAT-004-07,Twin-Track Rooted Stance Cut,Hamonbanner,F4,Ruler,B
+MV-SIG-KAT-004-08,Armor-Splitting Draw of Paired Edges,Steel Tameshi,F2,Ruler,B
+MV-SIG-KAT-004-09,Twin-Court Qi Wave Volley,Thunderclap Tsuba,F2,Demigod,B
+MV-SIG-KAT-004-10,Azure-Sheath Long Edge Form,Squallhamon,F5,Ruler,B
+MV-SIG-KAT-005-01,Beat Aside of Paired Edges,Pealkiri,F5,Demigod,B
+MV-SIG-KAT-005-02,Dual-Track Foot Read,Menuki Gift,F3,Demigod,B
+MV-SIG-KAT-005-03,Azure-Sheath Level Shoulder Cut,Vaunted Hamon,F1,Demigod,B
+MV-SIG-KAT-005-04,Twin-Track Pivot and Cut,Dune Kiri,F2,Demigod,B
+MV-SIG-KAT-005-05,Azure-Curve Cut Through Guard,Bedrock Saya,F2,Demigod,B
+MV-SIG-KAT-005-06,Twin-Court Hilt Break and Cut,Thunderclap Kiri,F2,Demigod,B
+MV-SIG-KAT-005-07,Counter Draw of the River,Intrepid Nukitsuke,F1,Demigod,B
+MV-SIG-KAT-005-08,Hawk-Draw Piercing Line,Vacuumsaya,F5,Demigod,B
+MV-SIG-KAT-005-09,Seam Thrust of Paired Edges,Muneverdict,F4,Demigod,B
+MV-SIG-KAT-005-10,Twin-Court Disarming Seal,Subjugating Sageo,F1,Demigod,B
+MV-SIG-KAT-005-11,Azure-Sheath Lasting Step,Pulsarhabaki,F5,Demigod,B
+MV-SIG-KAT-006-01,Distance Read of Two Courts,Eclipse Hamon,F2,Core Formation,B
+MV-SIG-KAT-006-02,Azure-Curve Slanting Knee Cut,Squall Zanshin,F2,Core Formation,B
+MV-SIG-KAT-006-03,Dual-Track Two-Hand Brace,Hornbeam Habaki,F2,Core Formation,B
+MV-SIG-KAT-006-04,Paired-Sheath Gliding Step,Silken Kesagiri,F1,Core Formation,B
+MV-SIG-KAT-006-05,Hawk-Draw Rhythm Break Cut,Pall Tameshi,F2,Core Formation,B
+MV-SIG-KAT-006-06,Basin-Stance Parry Step Cut,Consecrated Nakago,F1,Core Formation,B
+MV-SIG-KAT-006-07,Twin-Court Pressure Advance,Famed Nukitsuke,F1,Core Formation,B
+MV-SIG-KAT-006-08,Circle Sweep of the River,Solar Menuki,F2,Core Formation,B
+MV-SIG-KAT-006-09,Hawk-Draw Echo Cut,Steel Kissaki,F2,Core Formation,B
+MV-SIG-KAT-006-10,Counter Wave of Paired Edges,Sainted Sageo,F1,Core Formation,B
+MV-SIG-KAT-006-11,Twin-Court Fallen Moon Cut,Majestic Mune,F1,Core Formation,B
+MV-SIG-KAT-006-12,Azure-Sheath Ninefold Cut,Symphonic Destiny Tsuka,F6a,Core Formation,B
+MV-SIG-KAT-007-01,Gale-Sheath Rising Neck Cut,Kiritriumph,F4,Warrior,B
+MV-SIG-KAT-007-02,Wind-Sworn Two-Hand Brace,Sageo Seal,F3,Warrior,B
+MV-SIG-KAT-007-03,Back Step of the Gale,Deluge Tsuba,F2,Warrior,B
+MV-SIG-KAT-007-04,Open-Edge Edge Drag Cut,Sageodecree,F4,Warrior,B
+MV-SIG-KAT-007-05,Gale-Sheath Blade Slide Entry,Sigil Habaki,F2,Warrior,B
+MV-SIG-KAT-007-06,Wind-Sworn Bind and Slip Cut,Tyrannous Tsuka,F1,Warrior,B
+MV-SIG-KAT-007-07,Bearing-Draw Hand Shift Cut,Quenched Noto,F2,Warrior,B
+MV-SIG-KAT-007-08,Open-Edge Falling Leaf Evade,Deluge Hamon,F2,Champion,B
+MV-SIG-KAT-007-09,Gale-Sheath Narrow Front Guard,Prismtsuka,F5,Champion,B
+MV-SIG-KAT-007-10,Wind-Sworn Reading Edge,Serene Mune,F1,Demigod,B
+MV-SIG-KAT-007-11,Passing Form of the Gale,Feather Kesagiri,F1,Warrior,B
+MV-SIG-KAT-008-01,Open-Edge Sheath Block,Steel Tsuba,F2,Champion,B
+MV-SIG-KAT-008-02,Pivot Turn of the Bearing,Deluge Menuki,F2,Champion,B
+MV-SIG-KAT-008-03,Plateau Reverse Flank Cut,Squall Nakago,F2,Champion,B
+MV-SIG-KAT-008-04,Tip Flick of the Gale,Inferno Tameshi,F2,Champion,B
+MV-SIG-KAT-008-05,Open-Edge Cut Through Guard,Thunderclap Kissaki,F2,Champion,B
+MV-SIG-KAT-008-06,Gale-Sheath Sheath Throw Draw,Steel Saya,F2,Champion,B
+MV-SIG-KAT-008-07,Wind-Sworn Sealing Cut,Sigilsaya,F5,Champion,B
+MV-SIG-KAT-008-08,Draw Suppression of the Oath,Millstone Noto,F2,Champion,B
+MV-SIG-KAT-008-09,Open-Edge Silent Step Cut,Kissaki Grace,F3,Demigod,B
+MV-SIG-KAT-008-10,Parting Edge of the Bearing,Intrepid Tsuba Decree,F6b,Champion,B
+MV-SIG-KAT-009-01,Rear-Foot Slide of the Oath,Squalltsuka,F5,Champion,B
+MV-SIG-KAT-009-02,Open-Edge Level Neck Cut,Thunderclap Zanshin,F2,Champion,B
+MV-SIG-KAT-009-03,Gale-Sheath Side Step,Zanshin Heraldry,F3,Champion,B
+MV-SIG-KAT-009-04,Wind-Sworn Slanting Shoulder Cut,Kiriedict,F4,Champion,B
+MV-SIG-KAT-009-05,Slip Cut of the Gale,Sainted Tsuka,F1,Champion,B
+MV-SIG-KAT-009-06,Open-Edge Low Sweep Parry,Enshrined Sageo,F1,Champion,B
+MV-SIG-KAT-009-07,Gale-Sheath Beat and Cut,Subjugating Kesagiri,F1,Champion,B
+MV-SIG-KAT-009-08,Wind-Sworn Cut and Step Through,Kiri Banner,F3,Champion,B
+MV-SIG-KAT-009-09,Looping Counter of the Oath,Phantasm Menuki,F2,Champion,B
+MV-SIG-KAT-009-10,Open-Edge Breaking Cut,Peal Nukitsuke,F2,Champion,B
+MV-SIG-KAT-009-11,Gale-Sheath Sheath Seal Draw,Tsukavow,F4,Demigod,B
+MV-SIG-KAT-009-12,Wind-Sworn Closing Guard,Inviolate Glacier Mune,F6a,Champion,B
+MV-SIG-KAT-010-01,Wind-Sworn Diagonal Rib Cut,Inferno Hamon,F2,Ruler,B
+MV-SIG-KAT-010-02,Bearing-Draw Half-Step Entry,Bedrock Nukitsuke,F2,Ruler,B
+MV-SIG-KAT-010-03,Tip Thrust of the Bearing,Vigor Zanshin,F2,Ruler,B
+MV-SIG-KAT-010-04,Qi-Edged Draw of the Bearing,Squallhabaki,F5,Ruler,B
+MV-SIG-KAT-010-05,Wind-Sworn Low Line Cut,Squall Saya,F2,Ruler,B
+MV-SIG-KAT-010-06,Gale-Draw Rolling Cut Series,Nakago Decree,F3,Ruler,B
+MV-SIG-KAT-010-07,Open-Edge Crossed Wrist Parry,Peal Mune,F2,Ruler,B
+MV-SIG-KAT-010-08,Gale-Sheath Binding Wrist Cut,Thrall Tameshi,F2,Ruler,B
+MV-SIG-KAT-010-09,Wind-Sworn Edge Threading Cut,Prism Noto,F2,Ruler,B
+MV-SIG-KAT-010-10,Bearing-Draw Edge Field Sense,Eclipse Habaki,F2,Demigod,B
+MV-SIG-KAT-010-11,Open-Edge Returning Stroke,Inviolate Eclipse Tsuba,F6a,Ruler,B
+MV-SIG-KAT-011-01,Gale-Sheath Pivot Turn,Spectral Sageo,F1,Demigod,B
+MV-SIG-KAT-011-02,Pulling Cut of the Wind,Illustrious Noto,F1,Demigod,B
+MV-SIG-KAT-011-03,Bearing-Draw Spine Parry,Stately Tsuka,F1,Demigod,B
+MV-SIG-KAT-011-04,Open-Edge Weight Shift Cut,Royal Menuki,F1,Demigod,B
+MV-SIG-KAT-011-05,Passing Cut of the Bearing,Munebanner,F4,Demigod,B
+MV-SIG-KAT-011-06,Wind-Sworn Whirling Guard,Undaunted Habaki,F1,Demigod,B
+MV-SIG-KAT-011-07,Yielding Guard of the Gale,Prism Nakago,F2,Demigod,B
+MV-SIG-KAT-011-08,Open-Edge Drawn Line Strike,Illustrious Nukitsuke,F1,Demigod,B
+MV-SIG-KAT-011-09,Gale-Sheath Weight-Splitting Cut,Demolition Kiri,F2,Demigod,B
+MV-SIG-KAT-011-10,Wind-Sworn Open Sky Cut,Kissaki Crown,F3,Demigod,B
+MV-SIG-KAT-012-01,Open-Edge Reverse Forearm Cut,Quenched Kiri,F2,Core Formation,B
+MV-SIG-KAT-012-02,Gale-Sheath Mid Guard,Statute Hamon,F2,Core Formation,B
+MV-SIG-KAT-012-03,Wind-Sworn Pommel Strike,Thunderclap Tameshi,F2,Core Formation,B
+MV-SIG-KAT-012-04,Shoulder Check of the Oath,Sageovow,F4,Core Formation,B
+MV-SIG-KAT-012-05,Open-Edge Edge Line Check,Peal Habaki,F2,Core Formation,B
+MV-SIG-KAT-012-06,Stepping Parry of the Bearing,Menuki Reliquary,F3,Core Formation,B
+MV-SIG-KAT-012-07,Wind-Sworn Pressure Advance,Statute Kesagiri,F2,Core Formation,B
+MV-SIG-KAT-012-08,Bearing-Draw Draw and Return Cut,Notoverdict,F4,Core Formation,B
+MV-SIG-KAT-012-09,Open-Edge Steady Breath Draw,Bloom Hamon,F2,Core Formation,B
+MV-SIG-KAT-012-10,Gale-Sheath Qi Needle Thrust,Prism Kesagiri,F2,Core Formation,B
+MV-SIG-KAT-012-11,Wind-Sworn Hollow Step,Habakisolace,F4,Core Formation,B
+MV-SIG-KAT-012-12,School Draw of the Oath,Triumphant Saya,F1,Core Formation,B
+MV-SIG-KAT-005-04,Dune Kiri,Thunderous Kiri,F2,Demigod,B
+MV-SIG-KAT-006-03,Hornbeam Habaki,Mighty Habaki,F2,Core Formation,B
+MV-SIG-KAT-009-12,Inviolate Glacier Mune,Inviolate Mune,F6a,Champion,B

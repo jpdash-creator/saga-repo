@@ -1,0 +1,7 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-LIF-001-06,Resilient Wall,Resilient Guard,INSTANT,Warrior L1 Low,Intermediate
+CMV-ADV-LIF-002-08,Breathcall,Lungwake,CHANNELED,Champion L1 Low,Advanced
+CMV-ADV-LIF-003-04,Field Vigor,Vigor Wash,CHANNELED,Warrior L1 Low,Basic
+CMV-ADV-LIF-003-06,Cleansing Field,Cleansing Wash,CHANNELED,Warrior L1 Low,Intermediate
+CMV-ADV-LIF-006-07,Rinsing Pass,Rinsing Hand,CHANNELED,Warrior L1 Low,Intermediate
+CMV-ADV-LIF-008-10,Vital Rampart,Vital Ward,CHANNELED,Champion L1 Low,Advanced

@@ -1,0 +1,143 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-HAL-001-01,Hawk-Eyed Ready Hold,Vigor Spike,F2,Warrior L1 Low,B
+MV-SIG-HAL-001-02,Two-Track Axe Drop,Spikedecree,F4,Warrior L1 Low,B
+MV-SIG-HAL-001-03,Two-Track Spike Dart,Illustrious Snatch,F1,Warrior L1 Low,B
+MV-SIG-HAL-001-04,Sighting Hook Pull,Thunderclap Spikefall,F2,Warrior L1 Low,B
+MV-SIG-HAL-001-05,Tracked Haft Rap,Snatchedict,F4,Warrior L1 Low,B
+MV-SIG-HAL-001-06,Hawk Glance Parry,Parity Crownspike,F2,Warrior L1 Low,B
+MV-SIG-HAL-001-07,Track Crossing Cleave,Haemal Heave,F2,Champion L1 Low,B
+MV-SIG-HAL-001-08,Hawk Gaze Lancing Thrust,Prism Haft,F2,Champion L1 Low,B
+MV-SIG-HAL-001-09,Hawk Takes Both Tracks,Fearless Beak,F1,Demigod L1 Low,B
+MV-SIG-HAL-001-10,Hawk-Eyed Two-Track Verdict,Majestic Haemal Crownspike,F6a,Warrior L1 Low,B
+MV-SIG-HAL-002-01,Azure Basin Hold,Magnanimous Tailstop,F1,Warrior L6 Low,B
+MV-SIG-HAL-002-02,Basin Edge Axe Cut,Langetcrown,F4,Warrior L6 Low,B
+MV-SIG-HAL-002-03,Basin Edge Spike Prick,Prism Drag,F2,Warrior L6 Low,B
+MV-SIG-HAL-002-04,Basin Drain Hook,Venom Tailstop,F2,Warrior L6 Low,B
+MV-SIG-HAL-002-05,Shoreline Axe Sweep,Solarsnatch,F5,Warrior L6 Low,B
+MV-SIG-HAL-002-06,Basin Echo Parry,Faithful Socketring,F1,Warrior L6 Low,B
+MV-SIG-HAL-002-07,Tributary Spike Run,Steeldrag,F5,Warrior L6 Low,B
+MV-SIG-HAL-002-08,Basin Flooding Cleave,Inferno Haft,F2,Champion L1 Low,B
+MV-SIG-HAL-002-09,Azure Pool Snare Press,Unbending Axeblade,F1,Champion L1 Low,B
+MV-SIG-HAL-002-10,Whole Basin Falling Axe,Steel Hookback,F2,Demigod L1 Low,B
+MV-SIG-HAL-002-11,Azure Basin Doctrine Stroke,Solarbeak,F5,Warrior L6 Low,B
+MV-SIG-HAL-003-01,River-Bound Hold,Bountiful Axeheel,F1,Champion L1 Low,B
+MV-SIG-HAL-003-02,Bank Axe Chop,Vigordrag,F5,Champion L1 Low,B
+MV-SIG-HAL-003-03,Bank Spike Thrust,Beakedict,F4,Champion L1 Low,B
+MV-SIG-HAL-003-04,Bank Haft Guard,Enshrined Spike,F1,Champion L1 Low,B
+MV-SIG-HAL-003-05,Current Catch Hook,Thrall Drag,F2,Champion L1 Low,B
+MV-SIG-HAL-003-06,Meander Sweep,Solarhaft,F5,Champion L1 Low,B
+MV-SIG-HAL-003-07,Ripple Parry,Beak Pledge,F3,Champion L1 Low,B
+MV-SIG-HAL-003-08,Riverbed Spike Drive,Vacuumbeak,F5,Champion L1 Low,B
+MV-SIG-HAL-003-09,Spring Flood Cleaver,Snatchverdict,F4,Champion L1 Low,B
+MV-SIG-HAL-003-10,River Bend Haft Trap,Spiketroth,F4,Champion L1 Low,B
+MV-SIG-HAL-003-11,River Takes the Bank Stroke,Vaunted Socketring,F1,Demigod L1 Low,B
+MV-SIG-HAL-003-12,River-Bound Halberd Flow,Magnificent Haemal Hookpull,F6a,Champion L1 Low,B
+MV-SIG-HAL-004-01,Crossing Tracks Stance,Solar Crownspike,F2,Ruler L1 Low,B
+MV-SIG-HAL-004-02,Crossing Axe Chop,Vigor Heave,F2,Ruler L1 Low,B
+MV-SIG-HAL-004-03,Crossing Spike Jab,Haftcrown,F4,Ruler L1 Low,B
+MV-SIG-HAL-004-04,Crossing Track Beak Switch,Snatchpledge,F4,Ruler L1 Low,B
+MV-SIG-HAL-004-05,Crossed Haft Press,Thrall Spikefall,F2,Ruler L1 Low,B
+MV-SIG-HAL-004-06,Crossing Step Weave,Vigor Snatch,F2,Ruler L1 Low,B
+MV-SIG-HAL-004-07,Crossed Tracks Splitting Fall,Steelheave,F5,Ruler L1 Low,B
+MV-SIG-HAL-004-08,Tracks Meeting Lunge,Vacuumdrag,F5,Ruler L1 Low,B
+MV-SIG-HAL-004-09,Where Tracks Cross Cleave,Hafttriumph,F4,Demigod L1 Low,B
+MV-SIG-HAL-004-10,Crossed Tracks Doctrine Fall,Unrivaled Quenched Heave,F6a,Ruler L1 Low,B
+MV-SIG-HAL-005-01,High Hawk Stance,Merciful Axeheel,F1,Demigod L1 Low,B
+MV-SIG-HAL-005-02,High Perch Axe Drop,Haemalspike,F5,Demigod L1 Low,B
+MV-SIG-HAL-005-03,High Perch Spike Dart,Peerless Snatch,F1,Demigod L1 Low,B
+MV-SIG-HAL-005-04,Thermal Hook Lift,Peal Drag,F2,Demigod L1 Low,B
+MV-SIG-HAL-005-05,Thermal Ring Axe Sweep,Inferno Beak,F2,Demigod L1 Low,B
+MV-SIG-HAL-005-06,Wing-Shadow Parry,Faithful Haft,F1,Demigod L1 Low,B
+MV-SIG-HAL-005-07,Steep Dive Spike Thrust,Beakbanner,F4,Demigod L1 Low,B
+MV-SIG-HAL-005-08,Basin Overlook Cleave,Vaunted Langet,F1,Demigod L1 Low,B
+MV-SIG-HAL-005-09,Hawk Eye Lock Press,Millstone Socketring,F2,Demigod L1 Low,B
+MV-SIG-HAL-005-10,Hawk From High Flash Cleave,Magnificent Spike,F1,Demigod L1 Low,B
+MV-SIG-HAL-005-11,High Halberd Hawk Descent,Illustrious Axeblade Verdict,F6b,Demigod L1 Low,B
+MV-SIG-HAL-006-01,Two Rivers Core Stance,Merciful Tailstop,F1,Core Formation L1 Low,B
+MV-SIG-HAL-006-02,Twin Source Axe Chop,Inferno Hookpull,F2,Core Formation L1 Low,B
+MV-SIG-HAL-006-03,Twin Source Spike Thrust,Steellanget,F5,Core Formation L1 Low,B
+MV-SIG-HAL-006-04,Core Haft Ward,Prism Hookback,F2,Core Formation L1 Low,B
+MV-SIG-HAL-006-05,Confluent Hook Haul,Unbending Langet,F1,Core Formation L1 Low,B
+MV-SIG-HAL-006-06,Two Rivers Fan Sweep,Tempestuous Axefall,F2,Core Formation L1 Low,B
+MV-SIG-HAL-006-07,Core Current Parry,Parity Langet,F2,Core Formation L1 Low,B
+MV-SIG-HAL-006-08,Delta Run Piercing,Hookpull Edict,F3,Core Formation L1 Low,B
+MV-SIG-HAL-006-09,Core-Driven Basin Cleave,Gallant Axeblade,F1,Core Formation L1 Low,B
+MV-SIG-HAL-006-10,Two Rivers Beak Anchor,Haft Seal,F3,Core Formation L1 Low,B
+MV-SIG-HAL-006-11,Rivers Meet at the Core Stroke,Vigor Spikefall,F2,Core Formation L1 Low,B
+MV-SIG-HAL-006-12,Azure Core Two-River Stroke,Solarspike,F5,Core Formation L1 Low,B
+MV-SIG-HAL-007-01,Wind-Sworn Plateau Stance,Parity Beak,F2,Warrior L2 Low,B
+MV-SIG-HAL-007-02,Plateau Rim Axe Cut,Inferno Spikefall,F2,Warrior L2 Low,B
+MV-SIG-HAL-007-03,Plateau Rim Spike Thrust,Prism Snatch,F2,Warrior L2 Low,B
+MV-SIG-HAL-007-04,Sworn Gust Hook,Entropy Hookback,F2,Warrior L2 Low,B
+MV-SIG-HAL-007-05,Bearing Sweep Low,Sovereign Axeheel,F1,Warrior L2 Low,B
+MV-SIG-HAL-007-06,Cross-Gust Parry,Parity Socketring,F2,Warrior L2 Low,B
+MV-SIG-HAL-007-07,Plateau Wind Run Thrust,Haftdecree,F4,Warrior L2 Low,B
+MV-SIG-HAL-007-08,Gale-Backed Cleaving Fall,Noble Crownspike,F1,Champion L1 Low,B
+MV-SIG-HAL-007-09,Oath Haft Windbreak,Statute Tailstop,F2,Champion L1 Low,B
+MV-SIG-HAL-007-10,Plateau Wind Takes the Field Cleave,Heavebanner,F4,Demigod L1 Low,B
+MV-SIG-HAL-007-11,Wind-Sworn Plateau Stroke,Triumphant Drag,F1,Warrior L2 Low,B
+MV-SIG-HAL-008-01,Oath Axe Bearing Hold,Merciful Axeblade,F1,Warrior L8 Mid,B
+MV-SIG-HAL-008-02,Bearing Taken Axe Chop,Spike Triumph,F3,Warrior L8 Mid,B
+MV-SIG-HAL-008-03,Bearing Taken Spike Jab,Radiance Axefall,F2,Warrior L8 Mid,B
+MV-SIG-HAL-008-04,Bearing Lock Hook,Sigil Socketring,F2,Warrior L8 Mid,B
+MV-SIG-HAL-008-05,Oath Quarter-Turn Haft Parry,Enshrined Hookback,F1,Warrior L8 Mid,B
+MV-SIG-HAL-008-06,Bearing Step Glide,Squall Heave,F2,Warrior L8 Mid,B
+MV-SIG-HAL-008-07,Oath Held Splitting Stroke,Sovereign Heave,F1,Champion L1 Low,B
+MV-SIG-HAL-008-08,Bearing True Lance,Steel Snatch,F2,Champion L1 Low,B
+MV-SIG-HAL-008-09,Oath Axe Cuts the Bearing,Squallbeak,F5,Demigod L1 Low,B
+MV-SIG-HAL-008-10,Oath Axe Bearing Stroke,Matchless Squall Haft,F6a,Warrior L8 Mid,B
+MV-SIG-HAL-009-01,Long Gale Rite Stance,Bloom Beak,F2,Champion L5 Low,B
+MV-SIG-HAL-009-02,Gale Rite Axe Chop,Thunderclap Tailstop,F2,Champion L5 Low,B
+MV-SIG-HAL-009-03,Gale Rite Spike Thrust,Spikecrown,F4,Champion L5 Low,B
+MV-SIG-HAL-009-04,Gale Rite Haft Guard,Statute Crownspike,F2,Champion L5 Low,B
+MV-SIG-HAL-009-05,Rite Gust Hook Pull,Peal Axeheel,F2,Champion L5 Low,B
+MV-SIG-HAL-009-06,Long Gale Arc Sweep,Entropy Axefall,F2,Champion L5 Low,B
+MV-SIG-HAL-009-07,Rite Wind Parry,Beak Covenant,F3,Champion L5 Low,B
+MV-SIG-HAL-009-08,Rite Spike Gust Drive,Valiant Langet,F1,Champion L5 Low,B
+MV-SIG-HAL-009-09,Long Gale Cleaving Rite,Steel Axeblade,F2,Champion L5 Low,B
+MV-SIG-HAL-009-10,Gale Rite Beak Bind,Sigil Spike,F2,Champion L5 Low,B
+MV-SIG-HAL-009-11,Long Gale Takes the Plateau Stroke,Snatchcrown,F4,Demigod L1 Low,B
+MV-SIG-HAL-009-12,Rite of the Long Gale Fall,Steel Hookpull,F2,Champion L5 Low,B
+MV-SIG-HAL-010-01,Plateau End Stance,Wise Spike,F1,Ruler L1 Mid,B
+MV-SIG-HAL-010-02,Last Ground Axe Chop,Crownspike Edict,F3,Ruler L1 Mid,B
+MV-SIG-HAL-010-03,Last Ground Spike Thrust,Thunderclap Axeheel,F2,Ruler L1 Mid,B
+MV-SIG-HAL-010-04,Cliff Haft Guard,Langet Covenant,F3,Ruler L1 Mid,B
+MV-SIG-HAL-010-05,Cliff Edge Hook Pull,Entropy Socketring,F2,Ruler L1 Mid,B
+MV-SIG-HAL-010-06,Drop-Line Sweep,Drag Verdict,F3,Ruler L1 Mid,B
+MV-SIG-HAL-010-07,Cliff Updraft Haft Parry,Parity Tailstop,F2,Ruler L1 Mid,B
+MV-SIG-HAL-010-08,Edge-Line Thrust Run,Magnificent Drag,F1,Ruler L1 Mid,B
+MV-SIG-HAL-010-09,Edge-Fall Cleaver,Quenched Hookpull,F2,Ruler L1 Mid,B
+MV-SIG-HAL-010-10,Plateau End Beak Snare,Sigil Axefall,F2,Ruler L1 Mid,B
+MV-SIG-HAL-010-11,Where the Ground Ends Stroke,Splendid Heave,F1,Demigod L1 Low,B
+MV-SIG-HAL-010-12,Plateau End Halberd Fall,Peerless Haft Verdict,F6b,Ruler L1 Mid,B
+MV-SIG-HAL-011-01,Oath-Held Stance,Bloom Hookback,F2,Demigod L3 Low,B
+MV-SIG-HAL-011-02,Held Oath Axe Drop,Steelspike,F5,Demigod L3 Low,B
+MV-SIG-HAL-011-03,Held Oath Spike Dart,Prism Beak,F2,Demigod L3 Low,B
+MV-SIG-HAL-011-04,Against-the-Wind Hook,Peallanget,F5,Demigod L3 Low,B
+MV-SIG-HAL-011-05,Oath Haft Turning Parry,Devout Axeblade,F1,Demigod L3 Low,B
+MV-SIG-HAL-011-06,Headwind Pace Step,Vigorlanget,F5,Demigod L3 Low,B
+MV-SIG-HAL-011-07,Unyielding Wind Cleave,Unrivaled Hookpull,F1,Demigod L3 Low,B
+MV-SIG-HAL-011-08,Oath Point Gale Lunge,Vacuum Spikefall,F2,Demigod L3 Low,B
+MV-SIG-HAL-011-09,Oath Held Wind Breaker Stroke,Squallspike,F5,Demigod L3 Low,B
+MV-SIG-HAL-011-10,Oath Against the Wind Stroke,Dauntless Haemal Langet,F6a,Demigod L3 Low,B
+MV-SIG-HAL-012-01,Sworn Gale Core Stance,Vigor Axeheel,F2,Core Formation L2 Low,B
+MV-SIG-HAL-012-02,Core Gale Axe Chop,Haemal Axefall,F2,Core Formation L2 Low,B
+MV-SIG-HAL-012-03,Core Gale Spike Thrust,Pulsar Drag,F2,Core Formation L2 Low,B
+MV-SIG-HAL-012-04,Core Gust Hook Haul,Spikepledge,F4,Core Formation L2 Low,B
+MV-SIG-HAL-012-05,Sworn Gale Wheel Sweep,Exalted Spikefall,F1,Core Formation L2 Low,B
+MV-SIG-HAL-012-06,Core Bearing Parry,Pall Crownspike,F2,Core Formation L2 Low,B
+MV-SIG-HAL-012-07,Core Wind Lance Run,Prism Tailstop,F2,Core Formation L2 Low,B
+MV-SIG-HAL-012-08,Sworn Gale Core Cleaver,Squalldrag,F5,Core Formation L2 Low,B
+MV-SIG-HAL-012-09,Core Haft Gale Ward,Prism Socketring,F2,Core Formation L2 Low,B
+MV-SIG-HAL-012-10,Sworn Gale Opens the Sky Stroke,Quenched Haft,F2,Core Formation L2 Low,B
+MV-SIG-HAL-012-11,Core Halberd Sworn Gale Stroke,Solarheave,F5,Core Formation L2 Low,B
+MV-SIG-HAL-013-01,Road Facing Haft Stance,Vigorhaft,F5,Warrior L7 Low,B
+MV-SIG-HAL-013-02,Road Verge Axe Hew,Valiant Axeblade,F1,Warrior L7 Low,B
+MV-SIG-HAL-013-03,Cart Track Spike Jab,Prismspike,F5,Warrior L7 Low,B
+MV-SIG-HAL-013-04,Matched Stride Beak Trip,Subjugating Hookback,F1,Warrior L7 Low,B
+MV-SIG-HAL-013-05,Full Road Axe Sweep,Duneheave,F5,Warrior L7 Low,B
+MV-SIG-HAL-013-06,Iron Tire Haft Parry,Squall Langet,F2,Warrior L7 Low,B
+MV-SIG-HAL-013-07,Mail Shirt Cleaving Hew,Steel Axeheel,F2,Warrior L7 Low,B
+MV-SIG-HAL-013-08,Hooked Haft Road Pin,Unbending Hookpull,F1,Warrior L7 Low,B
+MV-SIG-HAL-013-09,Convoy Ending Axe Fall,Majestic Axefall,F1,Demigod L1 Low,B
+MV-SIG-HAL-013-10,Whole Road Claiming Stroke,Axefall Decree,F3,Warrior L7 Low,B

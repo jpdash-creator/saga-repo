@@ -1,0 +1,80 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-BAX-001-01,Planted Hewing Stance,Warbit Cowl,F3,T1 Unawakened,A
+MV-BAS-BAX-001-02,Overhead Woodsplit Cut,Battledrop,F4,T1 Unawakened,A
+MV-BAS-BAX-001-03,Low Shin Hew,Level Banded,F1,T1 Unawakened,A
+MV-BAS-BAX-001-04,Poll Knock,Fouling Wideeye,F1,T1 Unawakened,A
+MV-BAS-BAX-001-05,Haft Level Catch,Warbitpause,F4,T1 Unawakened,A
+MV-BAS-BAX-001-06,Pivot Back Step,Easing Warcleave,F1,T1 Unawakened,A
+MV-BAS-BAX-002-01,Standing Log Strike,Warbitdash,F4,T1 Skin,A
+MV-BAS-BAX-002-02,Grain-Line Cleave,Descending Brunt,F1,T1 Skin,A
+MV-BAS-BAX-002-03,Two-Stroke Block Cadence,Open Battleheel,F1,T1 Skin,A
+MV-BAS-BAX-002-04,Heel Settle Recovery,Solid Haftcap,F1,T1 Skin,A
+MV-BAS-BAX-002-05,Wrist Roll Lift,Smitepause,F4,T1 Skin,A
+MV-BAS-BAX-002-06,Half-Step Chop Advance,Quiet Warpoll,F1,T1 Skin,A
+MV-BAS-BAX-002-07,Bit Turn Reset,Soft Crescentbit,F1,T1 Skin,A
+MV-BAS-BAX-003-01,Felling Arc Cut,Smitehit,F4,T1 Muscle,A
+MV-BAS-BAX-003-02,Notch Bite Cut,Warbitbump,F4,T1 Muscle,A
+MV-BAS-BAX-003-03,Backswing Rebound Cut,Short Warbeard,F1,T1 Muscle,A
+MV-BAS-BAX-003-04,Haft Brace Catch,Solid Warhelve,F1,T1 Muscle,A
+MV-BAS-BAX-003-05,Stump Footing Plant,Battleheel Husk,F3,T1 Muscle,A
+MV-BAS-BAX-004-01,Choked Grip Hew,Smite Drop,F3,T1 Tendon,A
+MV-BAS-BAX-004-02,Long Grip Reach Cut,Short Bitedge,F1,T1 Tendon,A
+MV-BAS-BAX-004-03,Sliding Hand Chop,Stiff Warcleave,F1,T1 Tendon,A
+MV-BAS-BAX-004-04,Counterweight Butt Jab,Plain Rive,F1,T1 Tendon,A
+MV-BAS-BAX-004-05,Balance Point Hold,Banded Pause,F3,T1 Tendon,A
+MV-BAS-BAX-004-06,Haft Catch and Turn,Planted Haftcap,F1,T1 Tendon,A
+MV-BAS-BAX-004-07,Hand Swap Reverse,Pushing Crescentbit,F1,T1 Tendon,A
+MV-BAS-BAX-004-08,Weight Sense Lift,Mild Warbeard,F1,T1 Tendon,A
+MV-BAS-BAX-005-01,Hip Drive Hew,Rivebump,F4,T1 Bone,A
+MV-BAS-BAX-005-02,Closing Slide Cut,Bitedge Drop,F3,T1 Bone,A
+MV-BAS-BAX-005-03,Stagger Step Retreat,Nimble Battercut,F1,T1 Bone,A
+MV-BAS-BAX-005-04,Circling Axe Step,Backward Brunt,F1,T1 Bone,A
+MV-BAS-BAX-005-05,Anchor Foot Block,Battlecowl,F4,T1 Bone,A
+MV-BAS-BAX-005-06,Weight Shift Recovery,Settled Warpoll,F1,T1 Bone,A
+MV-BAS-BAX-006-01,Straight Cleave,Descending Hewdown,F1,T1 Bone,A
+MV-BAS-BAX-006-02,Rising Heel Cleave,Descending Warhelve,F1,T1 Bone,A
+MV-BAS-BAX-006-03,Shoulder-Height Cleave,Warbit Strike,F3,T1 Bone,A
+MV-BAS-BAX-006-04,Cleave and Withdraw,Firm Smite,F1,T1 Bone,A
+MV-BAS-BAX-006-05,Haft Lift Parry,Battlehusk,F4,T1 Bone,A
+MV-BAS-BAX-006-06,Guard Hold at the Brow,Settled Haftcap,F1,T1 Bone,A
+MV-BAS-BAX-006-07,Cleave Footwork Pair,Rivepace,F4,T1 Bone,A
+MV-BAS-BAX-007-01,Breath Along the Haft,Warbit Gauge,F3,Senior L1 Low,A
+MV-BAS-BAX-007-02,Bit-Bright Chop,Open Warpoll,F1,Senior L1 Low,A
+MV-BAS-BAX-007-03,Qi-Braced Haft Guard,Battlelid,F4,Senior L1 Low,A
+MV-BAS-BAX-007-04,Exhale Cut,Short Rive,F1,Senior L1 Low,A
+MV-BAS-BAX-007-05,Inhale Draw Back,Rivehop,F4,Senior L1 Low,A
+MV-BAS-BAX-007-06,Edge Light Pulse,Catching Battleheel,F1,Senior L1 Low,A
+MV-BAS-BAX-008-01,Thin Edge Hew,Narrow Battercut,F1,Senior L2 Low,A
+MV-BAS-BAX-008-02,Light-Qi Overhead,Downward Hewdown,F1,Senior L2 Low,A
+MV-BAS-BAX-008-03,Edge Rebound Chop,Battlestrike,F4,Senior L2 Low,A
+MV-BAS-BAX-008-04,Qi-Wrapped Haft Parry,Warbeard Wedge,F3,Senior L2 Low,A
+MV-BAS-BAX-008-05,Skim Step Cut,Smitedodge,F4,Senior L2 Low,A
+MV-BAS-BAX-009-01,Top-of-Swing Settle,Battlenote,F4,Senior L3 Mid,A
+MV-BAS-BAX-009-02,Weighted Drop Cleave,Battlehit,F4,Senior L3 Mid,A
+MV-BAS-BAX-009-03,Heavy Head Turn,Wide Brunt,F1,Senior L3 Mid,A
+MV-BAS-BAX-009-04,Weight-Bearing Brace,Holding Bitedge,F1,Senior L3 Mid,A
+MV-BAS-BAX-009-05,Light Haft Release,Banded Wedge,F3,Senior L3 Mid,A
+MV-BAS-BAX-009-06,Drop Step Anchor,Riveskitter,F4,Senior L3 Mid,A
+MV-BAS-BAX-009-07,Weighted Wrist Snap,Pulling Hewdown,F1,Senior L3 Mid,A
+MV-BAS-BAX-010-01,Hand-to-Head Run,Kind Wideeye,F1,Senior L4 Low,A
+MV-BAS-BAX-010-02,Haft-Fed Chop,Bandeddrop,F4,Senior L4 Low,A
+MV-BAS-BAX-010-03,Double Pulse Hew,Straight Smite,F1,Senior L4 Low,A
+MV-BAS-BAX-010-04,Haft Spine Guard,Warbitwedge,F4,Senior L4 Low,A
+MV-BAS-BAX-010-05,Run-Through Parry,Planted Crescentbit,F1,Senior L4 Low,A
+MV-BAS-BAX-010-06,Qi Line Lunge Cut,Stiff Warhelve,F1,Senior L4 Low,A
+MV-BAS-BAX-010-07,Glide Along the Haft,Shifting Banded,F1,Senior L4 Low,A
+MV-BAS-BAX-010-08,Quiet Qi Reading,Warm Haftcap,F1,Senior L4 Low,A
+MV-BAS-BAX-011-01,Beard Hook Draw,Hitching Rive,F1,Senior L5 Mid,A
+MV-BAS-BAX-011-02,Shield Rim Drag,Turning Hewdown,F1,Senior L5 Mid,A
+MV-BAS-BAX-011-03,Ankle Hook Trip,Catching Battercut,F1,Senior L5 Mid,A
+MV-BAS-BAX-011-04,Hook-Backed Chop,Battleblow,F4,Senior L5 Mid,A
+MV-BAS-BAX-011-05,Beard Catch Parry,Hooding Warbit,F1,Senior L5 Mid,A
+MV-BAS-BAX-011-06,Hooked Step In,Sideways Wideeye,F1,Senior L5 Mid,A
+MV-BAS-BAX-012-01,Four-Count Hew,Bruntdrop,F4,Senior L7 Low,A
+MV-BAS-BAX-012-02,Long Exhale Cleave,Descending Battercut,F1,Senior L7 Low,A
+MV-BAS-BAX-012-03,Pace-Holding Guard,Bitedge Cowl,F3,Senior L7 Low,A
+MV-BAS-BAX-012-04,Breath Catch Parry,Battlewedge,F4,Senior L7 Low,A
+MV-BAS-BAX-012-05,Tireless Step Rhythm,Easing Crescentbit,F1,Senior L7 Low,A
+MV-BAS-BAX-012-06,Breath Counting Sense,Bandedgauge,F4,Senior L7 Low,A
+MV-BAS-BAX-012-07,Recovery Breath,Deep Warbeard,F1,Senior L7 Low,A
+MV-BAS-BAX-004-04,Plain Rive,Hard Rive,F1,T1 Tendon,A

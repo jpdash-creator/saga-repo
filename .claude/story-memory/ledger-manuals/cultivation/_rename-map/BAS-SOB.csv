@@ -1,0 +1,5 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-BAS-SOB-002-02,Slackened Line,Slackened Tether,INSTANT,,Basic
+CMV-BAS-SOB-003-06,Fouled Line,Fouled Tether,INSTANT,,Basic
+CMV-BAS-SOB-004-01,Plain Fetter,Light Fetter,INSTANT,,Basic
+CMV-BAS-SOB-006-04,Trail Strand,Tracing Strand,CHANNELED,,Basic

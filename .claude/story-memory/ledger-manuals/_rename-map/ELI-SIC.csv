@@ -1,0 +1,132 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-SIC-001-01,Hawk-Shadow Pull Cut,Berserk Garner,F1,Demigod,B
+MV-ELI-SIC-001-02,Basin-Edge Hook Block,Aegisgrass,F5,Demigod,B
+MV-ELI-SIC-001-03,Circling Lift Step,Gustsheave,F5,Demigod,B
+MV-ELI-SIC-001-04,Perched Wrist Catch,Enthralling Sicklegrip,F1,Demigod,B
+MV-ELI-SIC-001-05,Wheeling Talon Slash,Corroding Sheave,F1,Demigod,B
+MV-ELI-SIC-001-06,Thermal Lift Parry,Equipoise Tipcurve,F2,Demigod,B
+MV-ELI-SIC-001-07,Hover-and-Hook Seize,Gyve Glean,F2,Demigod,B
+MV-ELI-SIC-001-08,Dropping Hawk Hook Tear,Iron Crookspine,F2,Demigod,B
+MV-ELI-SIC-001-09,Field-Scanning Hawk Eye,Waning Bowbelly,F2,Demigod,B
+MV-ELI-SIC-001-10,Basin-Crossing Hawk Plunge,Hookblade Blink,F3,Demigod,B
+MV-ELI-SIC-002-01,Mirrored Draw Cut,Gust Sickletang,F2,Demigod,B
+MV-ELI-SIC-002-02,Dual-Track Hook Weave,Ponderous Harvest,F2,Demigod,B
+MV-ELI-SIC-002-03,Opposed Edge Block,Unbowed Greenedge,F1,Demigod,B
+MV-ELI-SIC-002-04,Cross-Step Alternation,Silt Stook,F2,Demigod,B
+MV-ELI-SIC-002-05,Left-Right Tip Tap,Inwardbelly Scourge,F3,Demigod,B
+MV-ELI-SIC-002-06,Track-Switching Slash,Devastating Reap,F1,Demigod,B
+MV-ELI-SIC-002-07,Mirrored Armlock Snare,Suffocating Sheave,F1,Demigod,B
+MV-ELI-SIC-002-08,Dual-Edge Rebound Parry,Chime Reapedge,F2,Demigod,B
+MV-ELI-SIC-002-09,Paired Hook Throw,Maiming Hookblade,F1,Demigod,B
+MV-ELI-SIC-002-10,Dual-Track Whirl Cut,Silt Garner,F2,Demigod,B
+MV-ELI-SIC-002-11,Twin-Hook Weapon Seizure,Gyvegarner,F5,Demigod,B
+MV-ELI-SIC-002-12,Unbroken Mirror Crossing,Rumble Greenedge,F2,Demigod,B
+MV-ELI-SIC-003-01,Ford-Stone Step,Unseen Handleknob,F1,Demigod,B
+MV-ELI-SIC-003-02,Water-Parting Hook Slip,Impenetrable Crookspine,F1,Demigod,B
+MV-ELI-SIC-003-03,Bankside Pull Cut,Garnerhavoc,F4,Demigod,B
+MV-ELI-SIC-003-04,Undertow Sickle Hook Drag,Thornglean,F5,Demigod,B
+MV-ELI-SIC-003-05,Current-Turned Parry,Tipcurve Obduracy,F3,Demigod,B
+MV-ELI-SIC-003-06,Ripple-Edge Slice,Reapedge Wrath,F3,Demigod,B
+MV-ELI-SIC-003-07,Sudden Flood Hook Sweep,Slag Handleknob,F2,Demigod,B
+MV-ELI-SIC-003-08,Drowned Footing Snare,Bladedurance,F4,Demigod,B
+MV-ELI-SIC-003-09,River-Crossing Hook Plunge,Phantom Harvest,F1,Demigod,B
+MV-ELI-SIC-004-01,Court Bow Parry,Torrent Bowbelly,F2,Demigod,B
+MV-ELI-SIC-004-02,Counter-Hook Setup,Harnessing Sicklegrip,F1,Demigod,B
+MV-ELI-SIC-004-03,Measured Twin Sickle Pace,Sheaveglimmer,F4,Demigod,B
+MV-ELI-SIC-004-04,Twin Edge Draw,Sheavescourge,F4,Demigod,B
+MV-ELI-SIC-004-05,Haft Cross Lock,Aegis Sickletang,F2,Demigod,B
+MV-ELI-SIC-004-06,Court Rotation Slash,Granite Glean,F2,Demigod,B
+MV-ELI-SIC-004-07,Hook-Over-Hook Bind,Hogtying Sicklegrip,F1,Demigod,B
+MV-ELI-SIC-004-08,Echoing Counter-Hook,Bladenerve,F4,Demigod,B
+MV-ELI-SIC-004-09,Pair-Step Retreat Cut,Shattering Tipcurve,F1,Demigod,B
+MV-ELI-SIC-004-10,Twin-Court Hook Mirror,Waninggrass,F5,Demigod,B
+MV-ELI-SIC-004-11,Court-Closing Draw,Thorn Stook,F2,Demigod,B
+MV-ELI-SIC-004-12,Silent Verdict Cut,Pitiless Reap,F1,Demigod,B
+MV-ELI-SIC-004-13,Twin-Court Hook Verdict,Thorn Hookblade,F2,Demigod,B
+MV-ELI-SIC-005-01,Azure Palm Turn Cut,Iron Harvest,F2,Demigod,B
+MV-ELI-SIC-005-02,Basin Dust Flick,Mayhem Sheave,F2,Demigod,B
+MV-ELI-SIC-005-03,Hand-Switch Cut,Garnerruin,F4,Demigod,B
+MV-ELI-SIC-005-04,Over-and-Under Block,Thorngrass,F5,Demigod,B
+MV-ELI-SIC-005-05,Short Basin Pace,Gust Crookspine,F2,Demigod,B
+MV-ELI-SIC-005-06,Hand-Over-Hand Hook Pull,Gyvestraw,F5,Demigod,B
+MV-ELI-SIC-005-07,Azure Sky Rising Slash,Rumble Inwardbelly,F2,Demigod,B
+MV-ELI-SIC-005-08,Paired Cut Interleave,Decimating Stook,F1,Demigod,B
+MV-ELI-SIC-005-09,Double Hook Gathering Pull,Immobilizing Garner,F1,Demigod,B
+MV-ELI-SIC-005-10,Paired Edge Cascade,Sickletang Havoc,F3,Demigod,B
+MV-ELI-SIC-005-11,Basin-Wide Paired Harvest,Granite Bowbelly,F2,Demigod,B
+MV-ELI-SIC-006-01,Rising Water Pull Cut,Grasswrath,F4,Demigod,B
+MV-ELI-SIC-006-02,Silt-Slick Footing Step,Torrent Reapedge,F2,Demigod,B
+MV-ELI-SIC-006-03,Floodbank Hook Guard,Greenedge Hardihood,F3,Demigod,B
+MV-ELI-SIC-006-04,Driftwood Snag Hook,Inwardbelly Mettle,F3,Demigod,B
+MV-ELI-SIC-006-05,Eddy-Turn Slash,Rampaging Handleknob,F1,Demigod,B
+MV-ELI-SIC-006-06,Spate-Heavy Chop,Mightstook,F5,Demigod,B
+MV-ELI-SIC-006-07,Backwater Hook Slip,Obdurate Crookspine,F1,Demigod,B
+MV-ELI-SIC-006-08,Crest-of-the-Flood Draw,Might Glean,F2,Demigod,B
+MV-ELI-SIC-006-09,Receding Waters Hook Pull,Sheavedurance,F4,Demigod,B
+MV-ELI-SIC-006-10,River in Flood Edge,Siltblade,F5,Demigod,B
+MV-ELI-SIC-007-01,Oath-Bound Pull Cut,Shattering Sicklegrip,F1,Demigod,B
+MV-ELI-SIC-007-02,Plateau Anchor Stance,Flintlike Reapedge,F1,Demigod,B
+MV-ELI-SIC-007-03,Bearing-Held Hook,Garnerdurance,F4,Demigod,B
+MV-ELI-SIC-007-04,Rim-Edge Sidestep,Handleknob Rocketry,F3,Demigod,B
+MV-ELI-SIC-007-05,Gust-Led Slash,Gleanruin,F4,Demigod,B
+MV-ELI-SIC-007-06,Sworn Edge Lift Parry,Guststraw,F5,Demigod,B
+MV-ELI-SIC-007-07,Plateau Wind Hook Snare,Hoarfrost Sickletang,F2,Demigod,B
+MV-ELI-SIC-007-08,Bearing-Corrected Cut,Iron Reap,F2,Demigod,B
+MV-ELI-SIC-007-09,Sworn Hook Drag Across Plateau,Hoarfrost Inwardbelly,F2,Demigod,B
+MV-ELI-SIC-007-10,Vow-Kept Counter Cut,Greenedge Valor,F3,Demigod,B
+MV-ELI-SIC-007-11,Oath of the Open Sky Cut,Rumbleblade,F5,Demigod,B
+MV-ELI-SIC-008-01,Open-Sky Pull,Sheave Ruin,F3,Demigod,B
+MV-ELI-SIC-008-02,Unwalled Guard Fan,Murkstraw,F5,Demigod,B
+MV-ELI-SIC-008-03,Broad-Horizon Step,Might Bowbelly,F2,Demigod,B
+MV-ELI-SIC-008-04,Horizon-Wide Hook Draw,Gyve Hookblade,F2,Demigod,B
+MV-ELI-SIC-008-05,Windblown Edge Flick,Rumblereap,F5,Demigod,B
+MV-ELI-SIC-008-06,Skyline Counter-Sweep,Punishing Tipcurve,F1,Demigod,B
+MV-ELI-SIC-008-07,Unwalled Ground Hook Sweep,Downpour Glean,F2,Demigod,B
+MV-ELI-SIC-008-08,Sky-Open Disarm Pull,Toxinsheave,F5,Demigod,B
+MV-ELI-SIC-008-09,Beneath the Open Sky Reach,Hour Stook,F2,Demigod,B
+MV-ELI-SIC-009-01,Gusting Edge Draw,Might Reap,F2,Demigod,B
+MV-ELI-SIC-009-02,Sworn Wind Brace,Thorn Handleknob,F2,Demigod,B
+MV-ELI-SIC-009-03,Tail-Wind Pursuit Step,Vanishing Crookspine,F1,Demigod,B
+MV-ELI-SIC-009-04,Gust-Hook Tug,Thorn Sicklegrip,F2,Demigod,B
+MV-ELI-SIC-009-05,Edge-Skimming Slice,Tempered Sickletang,F2,Demigod,B
+MV-ELI-SIC-009-06,Whirlwind Edge Spin,Stookhavoc,F4,Demigod,B
+MV-ELI-SIC-009-07,Gust-Wrapped Hook Pull,Gyvesheave,F5,Demigod,B
+MV-ELI-SIC-009-08,Crosswind Parry Turn,Unconquered Inwardbelly,F1,Demigod,B
+MV-ELI-SIC-009-09,Wind-Fed Drive Cut,Stookscourge,F4,Demigod,B
+MV-ELI-SIC-009-10,Wind-Sworn Gust Sweep,Vengeful Reap,F1,Demigod,B
+MV-ELI-SIC-009-11,Gusting Hook Shear,Wrathful Glean,F1,Demigod,B
+MV-ELI-SIC-009-12,Wind Becomes Edge,Mangling Harvest Havoc,F6b,Demigod,B
+MV-ELI-SIC-010-01,High Bearing Cut,Devastating Bowbelly,F1,Demigod,B
+MV-ELI-SIC-010-02,Thin-Air Breath Step,Tipcurve Whirlpool,F3,Demigod,B
+MV-ELI-SIC-010-03,Frost-Stiff Grip Guard,Ironblade,F5,Demigod,B
+MV-ELI-SIC-010-04,Sworn Bearing Hook,Hoarfrost Reapedge,F2,Demigod,B
+MV-ELI-SIC-010-05,Held Bearing Lunge,Iron Garner,F2,Demigod,B
+MV-ELI-SIC-010-06,Bearing Reset Parry,Adamantine Hookblade,F1,Demigod,B
+MV-ELI-SIC-010-07,Steady Sickle Hook Pull,Numbing Stook,F1,Demigod,B
+MV-ELI-SIC-010-08,Unshaken Bearing Counter,Sicklegrip Valor,F3,Demigod,B
+MV-ELI-SIC-010-09,High Plateau Drag Cut,Sheave Reckoning,F3,Demigod,B
+MV-ELI-SIC-010-10,Sickle Bearing Held Against the Storm,Indomitable Aegis Bowbelly,F6a,Demigod,B
+MV-ELI-SIC-011-01,Windward Hook Draw,Ponderous Garner,F2,Demigod,B
+MV-ELI-SIC-011-02,Edge-Sworn Parry,Chimeblade,F5,Demigod,B
+MV-ELI-SIC-011-03,Plateau Stone Hop,Siltreap,F5,Demigod,B
+MV-ELI-SIC-011-04,Sworn Shoulder Hook,Mayhem Glean,F2,Demigod,B
+MV-ELI-SIC-011-05,Brisk Windward Slice,Reapruin,F4,Demigod,B
+MV-ELI-SIC-011-06,Edge-Walker's Counter Hook,Chime Crookspine,F2,Demigod,B
+MV-ELI-SIC-011-07,Oath-Bound Drag Slice,Iron Tipcurve,F2,Demigod,B
+MV-ELI-SIC-011-08,Windward Lunge Cut,Grievous Harvest,F1,Demigod,B
+MV-ELI-SIC-011-09,Edge Hook Reversal,Fastening Handleknob,F2,Demigod,B
+MV-ELI-SIC-011-10,Windward Edge Hook Fall,Overpowering Garner,F1,Demigod,B
+MV-ELI-SIC-011-11,Sworn Cliff-Hold Counter,Evergreen Inwardbelly,F1,Demigod,B
+MV-ELI-SIC-011-12,Wind-Sworn Grip Strip,Enthralling Sheave,F1,Demigod,B
+MV-ELI-SIC-011-13,Hook Sworn to the Edge,Overbearing Reap Valor,F6b,Demigod,B
+MV-ELI-SIC-012-01,Storm-Front Draw Cut,Pitiless Stook,F1,Demigod,B
+MV-ELI-SIC-012-02,Rain-Slick Grip Guard,Granite Sickletang,F2,Demigod,B
+MV-ELI-SIC-012-03,Thunder-Pulse Tap,Facet Harvest,F2,Demigod,B
+MV-ELI-SIC-012-04,Storm-Lane Step,Blinding Reap,F1,Demigod,B
+MV-ELI-SIC-012-05,Muddy Ground Hook Tug,Overbearing Greenedge,F1,Demigod,B
+MV-ELI-SIC-012-06,Rain-Edged Hook Pull,Thornblade,F5,Demigod,B
+MV-ELI-SIC-012-07,Stormcross Parry Sweep,Equipoise Hookblade,F2,Demigod,B
+MV-ELI-SIC-012-08,Thunderhead Chop,Iron Reapedge,F2,Demigod,B
+MV-ELI-SIC-012-09,Storm-Crossing Hook Throw,Overbearing Bowbelly,F1,Demigod,B
+MV-ELI-SIC-012-10,Eye-of-the-Storm Counter,Strawnerve,F4,Demigod,B
+MV-ELI-SIC-012-11,Curve That Crosses the Storm,Reapedge Ruin,F3,Demigod,B

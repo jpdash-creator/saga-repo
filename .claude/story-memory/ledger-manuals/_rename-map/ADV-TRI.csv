@@ -1,0 +1,96 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-TRI-001-01,Snare-Fork Line Thrust,Tempered Gaff,F2,Champion L1 Low,B
+MV-ADV-TRI-001-02,Trap-Step Half Pivot,Silt Fork,F2,Champion L1 Low,B
+MV-ADV-TRI-001-03,Tine Crossing Guard,Murktrio,F5,Champion L1 Low,B
+MV-ADV-TRI-001-04,Haft Hip Brace,Aegis Triplehead,F2,Champion L1 Low,B
+MV-ADV-TRI-001-05,Fork Snare Twist,Gyvepinch,F5,Champion L1 Low,B
+MV-ADV-TRI-001-06,Ground-Pin Fork Drive,Staggering Pinch,F1,Champion L1 Low,B
+MV-ADV-TRI-001-07,Fork-Snare Ring,Thorntrident,F5,Champion L1 Low,B
+MV-ADV-TRI-001-08,Spread-Tine Seizing Press,Tridentcuirass,F4,Champion L1 Low,B
+MV-ADV-TRI-002-01,Prong-Line Focus Jab,Scalding Hookbarb,F1,Demigod L1 Low,B
+MV-ADV-TRI-002-02,Rolling Haft Screen,Gusttrident,F5,Demigod L1 Low,B
+MV-ADV-TRI-002-03,Prong-Tip Probing Step,Bounding Socketbase,F1,Demigod L1 Low,B
+MV-ADV-TRI-002-04,Outer Tine Lift Cut,Blazetriple,F5,Demigod L1 Low,B
+MV-ADV-TRI-002-05,Charged Prong Burst,Forkassault,F4,Demigod L1 Low,B
+MV-ADV-TRI-002-06,Haft-Field Wrapping Guard,Thorn Forktine,F2,Demigod L1 Low,B
+MV-ADV-TRI-002-07,Triple-Prong Spread Strike,Gust Barbtine,F2,Demigod L1 Low,B
+MV-ADV-TRI-002-08,Qi-Lance Extension,Prongroot Thrash,F3,Demigod L1 Low,B
+MV-ADV-TRI-002-09,Haft Pulse Rebound,Waning Sidetine,F2,Demigod L1 Low,B
+MV-ADV-TRI-003-01,Overhand Throwing Grip,Blaze Seize,F2,Champion L5 Mid,B
+MV-ADV-TRI-003-02,Back-Foot Cast Step,Silt Midtine,F2,Champion L5 Mid,B
+MV-ADV-TRI-003-03,Short Sidearm Cast,Rumblegig,F5,Champion L5 Mid,B
+MV-ADV-TRI-003-04,Cord Loop Retrieval Pull,Thorn Gig,F2,Champion L5 Mid,B
+MV-ADV-TRI-003-05,Weighted Haft Long Cast,Hoarfrost Prongdrive,F2,Champion L5 Mid,B
+MV-ADV-TRI-003-06,Cast Roll Recovery,Torrent Prongdrive,F2,Champion L5 Mid,B
+MV-ADV-TRI-003-07,Qi-Thread Trident Recall,Dominating Barbtine,F1,Champion L1 Low,B
+MV-ADV-TRI-003-08,Cast-and-Rebound Pass,Furrowing Fork,F1,Champion L1 Low,B
+MV-ADV-TRI-004-01,Three-Point Contact Lean,Facet Triprong,F2,Demigod L4 Low,B
+MV-ADV-TRI-004-02,Even-Pressure Press Step,Seizespurt,F4,Demigod L4 Low,B
+MV-ADV-TRI-004-03,Heel-Line Fork Press,Ponderous Pinch,F2,Demigod L4 Low,B
+MV-ADV-TRI-004-04,Pressure-Release Jab,Prongroot Assault,F3,Demigod L4 Low,B
+MV-ADV-TRI-004-05,Shield-Rim Cross Press,Equipoise Tridentshaft,F2,Demigod L4 Low,B
+MV-ADV-TRI-004-06,Point-by-Point Pressing,Shadetrio,F5,Demigod L4 Low,B
+MV-ADV-TRI-004-07,Forward Weight Press,Gust Sidetine,F2,Demigod L4 Low,B
+MV-ADV-TRI-004-08,Pinned Shield Lift,Toxin Forktine,F2,Demigod L4 Low,B
+MV-ADV-TRI-004-09,Triple-Weight Collapse,Dominating Seize,F1,Demigod L4 Low,B
+MV-ADV-TRI-004-10,Pressure Chain Break,Tearing Triplehead,F1,Demigod L4 Low,B
+MV-ADV-TRI-005-01,Paired-Hand River Grip,Enduring Triprong,F1,Champion L3 Low,B
+MV-ADV-TRI-005-02,River-Bend Paired Step,Hastening Gaff,F1,Champion L3 Low,B
+MV-ADV-TRI-005-03,Left-Right Prong Pair,Splintering Gig,F1,Champion L3 Low,B
+MV-ADV-TRI-005-04,Basin Low Guard Draw,Torrent Midtine,F2,Champion L3 Low,B
+MV-ADV-TRI-005-05,Paired Prong Drive,Glintpinch,F5,Champion L3 Low,B
+MV-ADV-TRI-005-06,Current-Turn Haft Spin,Iron Hookbarb,F2,Champion L3 Low,B
+MV-ADV-TRI-005-07,River-Mouth Fork Catch,Fastening Midtine,F2,Champion L3 Low,B
+MV-ADV-TRI-005-08,Twin-Current Fork Thrust,Rumble Prongdrive,F2,Champion L1 Low,B
+MV-ADV-TRI-005-09,Basin-Pool Snare,Deed Socketbase,F2,Champion L1 Low,B
+MV-ADV-TRI-006-01,Azure Two-Current Guard,Triplecuirass,F4,Demigod L2 Mid,B
+MV-ADV-TRI-006-02,Twin-Prong Hawk Dive,Seizetorment,F4,Demigod L2 Mid,B
+MV-ADV-TRI-006-03,Pair-Step Bank Glide,Gust Tridentshaft,F2,Demigod L2 Mid,B
+MV-ADV-TRI-006-04,Azure Notch Parry,Barbtine Fastness,F3,Demigod L2 Mid,B
+MV-ADV-TRI-006-05,Low-Current Ankle Prick,Sanguine Tridentshaft,F2,Demigod L2 Mid,B
+MV-ADV-TRI-006-06,Dual-Tine Shoulder Pin,Dominating Prongroot,F1,Demigod L2 Mid,B
+MV-ADV-TRI-006-07,Current-Fork Crossing,Compressing Forktine,F1,Demigod L2 Mid,B
+MV-ADV-TRI-006-08,Hawk-Wing Haft Sweep,Triplethrash,F4,Demigod L2 Mid,B
+MV-ADV-TRI-006-09,Basin-Fed Rising Thrust,Rumble Fork,F2,Demigod L2 Mid,B
+MV-ADV-TRI-006-10,Twin-Stream Meeting Thrust,Splintering Iron Sidetine,F6a,Demigod L2 Mid,B
+MV-ADV-TRI-006-11,Azure Fork Binding Tide,Gighauberk,F4,Demigod L2 Mid,B
+MV-ADV-TRI-007-01,Hawk-Talon Hook Stab,Tempered Seize,F2,Ruler L1 Low,B
+MV-ADV-TRI-007-02,Perch-Step Balance,Silt Triplehead,F2,Ruler L1 Low,B
+MV-ADV-TRI-007-03,Wing-Fold Haft Guard,Chime Socketbase,F2,Ruler L1 Low,B
+MV-ADV-TRI-007-04,Talon Grip Pull,Gyvetrio,F5,Ruler L1 Low,B
+MV-ADV-TRI-007-05,Stoop-and-Grasp Dive,Severing Pinch,F1,Ruler L1 Low,B
+MV-ADV-TRI-007-06,Azure Air Haft Vault,Torrent Gig,F2,Ruler L1 Low,B
+MV-ADV-TRI-007-07,Talon-Lock Weapon Strip,Chime Forktine,F2,Ruler L1 Low,B
+MV-ADV-TRI-007-08,Circling Hawk Snare,Triprong Cloak,F3,Ruler L1 Low,B
+MV-ADV-TRI-008-01,Wind-Sworn Bearing Set,Facettrident,F5,Demigod L3 Low,B
+MV-ADV-TRI-008-02,Plateau Edge-Walk Step,Might Tridentshaft,F2,Demigod L3 Low,B
+MV-ADV-TRI-008-03,Gust-Pushed Thrust,Might Seize,F2,Demigod L3 Low,B
+MV-ADV-TRI-008-04,Oath-Held Guard Turn,Murk Hookbarb,F2,Demigod L3 Low,B
+MV-ADV-TRI-008-05,Open-Ground Back-to-Wind Pivot,Torrent Pinch,F2,Demigod L3 Low,B
+MV-ADV-TRI-008-06,Crosswind Tine Sweep,Might Midtine,F2,Demigod L3 Low,B
+MV-ADV-TRI-008-07,Bearing-Held Pressure Jab,Hollow Gaff,F2,Demigod L3 Low,B
+MV-ADV-TRI-008-08,Windbreak Haft Brace,Facet Hookbarb,F2,Demigod L3 Low,B
+MV-ADV-TRI-008-09,Gale-Line Trap Set,Deed Triplehead,F2,Demigod L3 Low,B
+MV-ADV-TRI-008-10,Sworn-Bearing Long Thrust,Cleaving Gaff,F1,Demigod L3 Low,B
+MV-ADV-TRI-009-01,First-Point Oath Jab,Raging Triprong,F1,Champion L6 Low,B
+MV-ADV-TRI-009-02,Second-Point Rake Pledge,Iron Prongroot,F2,Champion L6 Low,B
+MV-ADV-TRI-009-03,Wind-Held Step Back,Gust Prongdrive,F2,Champion L6 Low,B
+MV-ADV-TRI-009-04,Third-Point Haft Cover,Sidetine Fastness,F3,Champion L6 Low,B
+MV-ADV-TRI-009-05,Pledged Triple Jab,Gust Gig,F2,Champion L6 Low,B
+MV-ADV-TRI-009-06,Gale-Edge Haft Guard,Thorntrio,F5,Champion L6 Low,B
+MV-ADV-TRI-009-07,Plateau Rock Foot Set,Torrent Barbtine,F2,Champion L6 Low,B
+MV-ADV-TRI-009-08,Oath-Bound Fork Hold,Pinchhauberk,F4,Champion L1 Low,B
+MV-ADV-TRI-009-09,Three-Point Wind Seal,Lot Socketbase,F2,Champion L1 Low,B
+MV-ADV-TRI-010-01,Open-Wind Fork Stance,Aegistriple,F5,Void God L1 Low,B
+MV-ADV-TRI-010-02,Headwind Thrust,Rumbletrident,F5,Void God L1 Low,B
+MV-ADV-TRI-010-03,Tailwind Advance Step,Gustgaff,F5,Void God L1 Low,B
+MV-ADV-TRI-010-04,Crosswind Tine-Haft Roll,Equipoise Sidetine,F2,Void God L1 Low,B
+MV-ADV-TRI-010-05,Wind-Reading Side Slip,Vaulting Triprong,F1,Void God L1 Low,B
+MV-ADV-TRI-010-06,Lull-Breath Barb Rake,Iron Gig,F2,Void God L1 Low,B
+MV-ADV-TRI-010-07,Gust-Fed Fork Drive,Glint Fork,F2,Void God L1 Low,B
+MV-ADV-TRI-010-08,Whistling Haft Parry,Equipoise Triplehead,F2,Void God L1 Low,B
+MV-ADV-TRI-010-09,Long-Reach Wind Hook,Gyveseize,F5,Void God L1 Low,B
+MV-ADV-TRI-010-10,Windbreak Step Cascade,Siltpinch,F5,Void God L1 Low,B
+MV-ADV-TRI-010-11,Open-Sky Fork Release,Tempered Forktine,F2,Void God L1 Low,B
+MV-ADV-TRI-010-12,No-Wall Ward Hold,Hoarfrost Socketbase,F2,Void God L1 Low,B
+MV-ADV-TRI-008-07,Hollow Gaff,Driving Gaff,F2,Demigod L3 Low,B

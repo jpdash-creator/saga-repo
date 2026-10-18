@@ -1,0 +1,131 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-DAG-001-01,Inside Feint Jab,Manacling Hiltbar,F1,Champion,B
+MV-ADV-DAG-001-02,Inside Wrist Flick Cut,Furrowing Scratch,F1,Champion,B
+MV-ADV-DAG-001-03,Low Pommel Strike,Sheathbarrage,F4,Champion,B
+MV-ADV-DAG-001-04,Single Grip Twist Disarm,Toxin Nip,F2,Champion,B
+MV-ADV-DAG-001-05,Single Sleeve Pin,Thorn Fingerloop,F2,Champion,B
+MV-ADV-DAG-001-06,Light Whip Cut Return,Blaze Waistspine,F2,Champion,B
+MV-ADV-DAG-001-07,Single Inside Line Hook,Ponderous Twinbite,F2,Champion,B
+MV-ADV-DAG-001-08,Single Roll Cut Disarm,Crippling Prod,F1,Champion,B
+MV-ADV-DAG-001-09,Single Ground Spike Trap,Toxinfang,F5,Champion,B
+MV-ADV-DAG-001-10,Low Joint Seam Cut,Paralyzing Chime Vestpoint,F6a,Champion,B
+MV-ADV-DAG-002-01,Calm Blade Cover Step,Thorn Needleside,F2,Demigod,B
+MV-ADV-DAG-002-02,Clean Jab Series,Hour Basehilt,F2,Demigod,B
+MV-ADV-DAG-002-03,Clean Sleeve Pin,Quelling Grippad,F1,Demigod,B
+MV-ADV-DAG-002-04,Dry Side Rib Thrust,Glinttuck,F5,Demigod,B
+MV-ADV-DAG-002-05,Clean Paired Throw,Chime Slip,F2,Demigod,B
+MV-ADV-DAG-002-06,Hidden Cross Catch Guard,Sheathhauberk,F4,Demigod,B
+MV-ADV-DAG-002-07,Calm Seam Probe,Waningfang,F5,Demigod,B
+MV-ADV-DAG-002-08,Dry Scissor Cross Cut,Sanguine Vestpoint,F2,Demigod,B
+MV-ADV-DAG-002-09,Dry Suppression Flurry,Needling Rondelknob,F1,Demigod,B
+MV-ADV-DAG-003-01,Short-Reach Hilt Punch,Harpooning Sidle,F1,Champion,B
+MV-ADV-DAG-003-02,Short-Reach Forearm Block,Iron Basehilt,F2,Champion,B
+MV-ADV-DAG-003-03,Narrow Heel Drop Stab,Nova Fingerloop,F2,Champion,B
+MV-ADV-DAG-003-04,Outside Reverse Grip Stab,Facetsidle,F5,Champion,B
+MV-ADV-DAG-003-05,Inside Shoulder Read,Anointing Grippad,F1,Champion,B
+MV-ADV-DAG-003-06,Short-Reach Side Rib Thrust,Iron Nip,F2,Champion,B
+MV-ADV-DAG-003-07,Plain Cross Catch Guard,Thorn Scalepoint,F2,Champion,B
+MV-ADV-DAG-003-08,Narrow Step-Through Stab,Surging Sidle,F1,Champion,B
+MV-ADV-DAG-003-09,Plain Pulse Pommel Strike,Cleaving Tuck,F1,Champion,B
+MV-ADV-DAG-003-10,Narrow Vital Lane Stab,Drubbing Tuck,F1,Champion,B
+MV-ADV-DAG-003-11,Plain Reaping Draw,Harrowing Slip,F1,Champion,B
+MV-ADV-DAG-004-01,Patient Rising Gut Stab,Nova Rondelknob,F2,Demigod,B
+MV-ADV-DAG-004-02,Level Crouch Entry,Glancing Twinbite,F1,Demigod,B
+MV-ADV-DAG-004-03,Level Jab Series,Scorching Scalepoint,F1,Demigod,B
+MV-ADV-DAG-004-04,Single Edge Parry,Chime Waistspine,F2,Demigod,B
+MV-ADV-DAG-004-05,Sharp Leaf Guard,Torrent Hiltbar,F2,Demigod,B
+MV-ADV-DAG-004-06,Firm Spiral Wrist Cut,Might Grippad,F2,Demigod,B
+MV-ADV-DAG-004-07,Single Snare Line Trap,Fangcloak,F4,Demigod,B
+MV-ADV-DAG-004-08,Level Pinning Throw,Paralyzing Scratch,F1,Demigod,B
+MV-ADV-DAG-005-01,Nimble Crouch Entry,Gust Prod,F2,Champion,B
+MV-ADV-DAG-005-02,Steady Hilt Hook Pull,Subduing Slip,F1,Champion,B
+MV-ADV-DAG-005-03,Steady Sleeve Pin,Dominating Hiltbar,F1,Champion,B
+MV-ADV-DAG-005-04,Nimble Backhand Slash,Blazesheath,F5,Champion,B
+MV-ADV-DAG-005-05,Sliding Grip Twist Disarm,Manacling Rondelknob,F1,Champion,B
+MV-ADV-DAG-005-06,Sliding Palm Press Cut,Might Vestpoint,F2,Champion,B
+MV-ADV-DAG-005-07,Inside Sliding Hip Stab,Mightfang,F5,Champion,B
+MV-ADV-DAG-005-08,Tight Counter Slip Stab,Glint Scratch,F2,Champion,B
+MV-ADV-DAG-005-09,Steady Spiral Wrist Cut,Tempered Fingerloop,F2,Champion,B
+MV-ADV-DAG-005-10,Nimble Step-Through Stab,Fangsprint,F4,Champion,B
+MV-ADV-DAG-005-11,Sliding Reaping Draw,Needling Iron Prod,F6a,Champion,B
+MV-ADV-DAG-005-12,Steady Ground Spike Trap,Thornsheath,F5,Champion,B
+MV-ADV-DAG-006-01,Second-Track Crossguard Catch,Gust Basehilt,F2,Champion,B
+MV-ADV-DAG-006-02,Dual-Court Pivot Step,Hastening Needleside,F1,Champion,B
+MV-ADV-DAG-006-03,Eddy Spine Tap Stab,Nipbarrage,F4,Champion,B
+MV-ADV-DAG-006-04,Second-Track Feint Jab,Mayhem Nip,F2,Champion,B
+MV-ADV-DAG-006-05,Dual-Court Grip Twist Disarm,Chime Sidle,F2,Champion,B
+MV-ADV-DAG-006-06,Dual-Court Seam Probe,Restoring Scalepoint,F1,Champion,B
+MV-ADV-DAG-006-07,Dual-Court Inside Line Hook,Hamstringing Needleside,F1,Champion,B
+MV-ADV-DAG-006-08,Hawk-Talon Qi-Braced Parry,Gustfang,F5,Champion,B
+MV-ADV-DAG-006-09,Dual-Court Blade Orbit Guard,Aegisfang,F5,Champion,B
+MV-ADV-DAG-006-10,Basin Suppression Flurry,Intent Twinbite,F2,Champion,B
+MV-ADV-DAG-007-01,Basin-Rim Shuffle Step,Torrent Basehilt,F2,Demigod,B
+MV-ADV-DAG-007-02,Basin-Rim False Draw,Silencing Scalepoint,F1,Demigod,B
+MV-ADV-DAG-007-03,Basin-Rim Counter Check,Gust Grippad,F2,Demigod,B
+MV-ADV-DAG-007-04,Ford Blade Cover Step,Granite Waistspine,F2,Demigod,B
+MV-ADV-DAG-007-05,Azure-Sweep Whip Cut Return,Scalding Hiltbar,F1,Demigod,B
+MV-ADV-DAG-007-06,Paired-Step Gap-Seeking Thrust,Skinning Tuck,F1,Demigod,B
+MV-ADV-DAG-007-07,Ford Paired Throw,Lancing Waistspine,F1,Demigod,B
+MV-ADV-DAG-007-08,Azure-Sweep Joint Seam Cut,Stifling Fingerloop,F1,Demigod,B
+MV-ADV-DAG-007-09,Basin-Rim Flowing Cut Chain,Slip Onslaught,F3,Demigod,B
+MV-ADV-DAG-008-01,Shallows Palm Press Cut,Blaze Tuck,F2,Ruler,B
+MV-ADV-DAG-008-02,Sandbar Wrist Hook,Ponderous Nip,F2,Ruler,B
+MV-ADV-DAG-008-03,Sandbar Grip Twist Disarm,Paralyzing Rondelknob,F1,Ruler,B
+MV-ADV-DAG-008-04,Delta Draw Slash,Needling Sidle,F1,Ruler,B
+MV-ADV-DAG-008-05,Delta Shuffle Step,Nippounce,F4,Ruler,B
+MV-ADV-DAG-008-06,Basin Boot Draw Stab,Harpooning Scratch,F1,Ruler,B
+MV-ADV-DAG-008-07,Sandbar Gap-Seeking Thrust,Novasheath,F5,Ruler,B
+MV-ADV-DAG-008-08,Sandbar Qi-Braced Parry,Staunch Needleside,F1,Ruler,B
+MV-ADV-DAG-008-09,Delta Qi-Edged Draw,Grinding Rondelknob,F1,Ruler,B
+MV-ADV-DAG-008-10,Shallows Silent Entry Step,Gust Vestpoint,F2,Ruler,B
+MV-ADV-DAG-008-11,Shallows Reaping Draw,Irontuck,F5,Ruler,B
+MV-ADV-DAG-009-01,Reed Blade Cover Step,Aegiskris,F5,Demigod,B
+MV-ADV-DAG-009-02,Azure-Reach Palm Press Cut,Iron Vestpoint,F2,Demigod,B
+MV-ADV-DAG-009-03,Azure Wrist Flick Cut,Sanguine Sidle,F2,Demigod,B
+MV-ADV-DAG-009-04,Twin-Edge Dark Grip Check,Sheathremedy,F4,Demigod,B
+MV-ADV-DAG-009-05,Twin-Edge Roll Cut Disarm,Tuck Greave,F3,Demigod,B
+MV-ADV-DAG-009-06,River-Stone Counter Slip Stab,Novanip,F5,Demigod,B
+MV-ADV-DAG-009-07,Azure-Reach Snare Line Trap,Scalepoint Plating,F3,Demigod,B
+MV-ADV-DAG-009-08,Reed Gutter Throw,Hoarfrost Needleside,F2,Demigod,B
+MV-ADV-DAG-010-01,Gust Retreat Skip,Torrent Scratch,F2,Champion,B
+MV-ADV-DAG-010-02,Sky-Edge Feint Jab,Twinbite Cloak,F3,Champion,B
+MV-ADV-DAG-010-03,Crosswind Thigh Cut,Needling Basehilt,F1,Champion,B
+MV-ADV-DAG-010-04,Oath-Held Hilt Hook Pull,Gyvesheath,F5,Champion,B
+MV-ADV-DAG-010-05,Gust Pivot Step,Gust Hiltbar,F2,Champion,B
+MV-ADV-DAG-010-06,Gust Rising Gut Stab,Rumbleslip,F5,Champion,B
+MV-ADV-DAG-010-07,Sky-Edge Veil Feint,Prod Hauberk,F3,Champion,B
+MV-ADV-DAG-010-08,Sky-Edge Tendon Hook Slash,Toxin Waistspine,F2,Champion,B
+MV-ADV-DAG-010-09,Crosswind Qi-Edged Draw,Rumblenip,F5,Champion,B
+MV-ADV-DAG-010-10,Veering Whip Cut Return,Gustsheath,F5,Champion,B
+MV-ADV-DAG-010-11,Sky-Edge Silent Entry Step,Gust Slip,F2,Champion,B
+MV-ADV-DAG-010-12,Sky-Edge Suppression Flurry,Granite Nip,F2,Champion,B
+MV-ADV-DAG-011-01,Sky-Edge Jab Series,Grinding Grippad,F1,Demigod,B
+MV-ADV-DAG-011-02,Plateau-Edge Thigh Cut,Splitting Grippad,F1,Demigod,B
+MV-ADV-DAG-011-03,Plateau-Edge False Draw,Silencing Basehilt,F1,Demigod,B
+MV-ADV-DAG-011-04,Wind-Born Retreat Skip,Krissprint,F4,Demigod,B
+MV-ADV-DAG-011-05,Wind-Born Off-Hand Trap,Hoarfrost Prod,F2,Demigod,B
+MV-ADV-DAG-011-06,Downdraft Paired Throw,Glint Nip,F2,Demigod,B
+MV-ADV-DAG-011-07,Wind-Born Cross Catch Guard,Rondelknob Fastness,F3,Demigod,B
+MV-ADV-DAG-011-08,Open-Rim Roll Cut Disarm,Toxin Fingerloop,F2,Demigod,B
+MV-ADV-DAG-011-09,Sky-Edge Blade Sense Sweep,Rousing Twinbite,F1,Demigod,B
+MV-ADV-DAG-011-10,Open-Rim Reaping Draw,Tearing Scalepoint,F1,Demigod,B
+MV-ADV-DAG-012-01,Updraft Crossguard Catch,Gust Waistspine,F2,Ruler,B
+MV-ADV-DAG-012-02,Oath-Bound Jab Series,Fangtorment,F4,Ruler,B
+MV-ADV-DAG-012-03,Updraft Crouch Entry,Nipjaunt,F4,Ruler,B
+MV-ADV-DAG-012-04,Updraft Rising Gut Stab,Glint Needleside,F2,Ruler,B
+MV-ADV-DAG-012-05,Oath-Bound Seam Probe,Chimesheath,F5,Ruler,B
+MV-ADV-DAG-012-06,Oath Qi-Edged Draw,Might Slip,F2,Ruler,B
+MV-ADV-DAG-012-07,Open-Rim Pulse Read,Nursing Fingerloop,F1,Ruler,B
+MV-ADV-DAG-012-08,Oath Reaping Draw,Prodassault,F4,Ruler,B
+MV-ADV-DAG-012-09,Oath Counter Pull Riposte,Glint Hiltbar,F2,Ruler,B
+MV-ADV-DAG-013-01,Open-Rim Draw Slash,Sheathassault,F4,Demigod,B
+MV-ADV-DAG-013-02,Gale-Edge Shuffle Step,Tuck Spurt,F3,Demigod,B
+MV-ADV-DAG-013-03,Wind-Taken Blade Cover Step,Vestpoint Plating,F3,Demigod,B
+MV-ADV-DAG-013-04,Gale-Edge Backhand Slash,Furrowing Sidle,F1,Demigod,B
+MV-ADV-DAG-013-05,Crosswind Pommel Strike,Sidleassault,F4,Demigod,B
+MV-ADV-DAG-013-06,Cliff-Edge Reverse Grip Stab,Tempered Twinbite,F2,Demigod,B
+MV-ADV-DAG-013-07,Open-Rim Step-Through Stab,Whipping Nip,F1,Demigod,B
+MV-ADV-DAG-013-08,Cliff-Edge Leaf Guard,Murkfang,F5,Demigod,B
+MV-ADV-DAG-013-09,Gale-Edge Tendon Hook Slash,Chime Prod,F2,Demigod,B
+MV-ADV-DAG-013-10,Wind-Taken Blade Sense Sweep,Restoring Needleside,F1,Demigod,B
+MV-ADV-DAG-013-11,Crosswind Counter Pull Riposte,Glint Fingerloop,F2,Demigod,B

@@ -1,0 +1,72 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-SCI-001-01,Scimitar Ribs-Covered Guard,Planted Flaretip,F1,T1 Unawakened,A
+MV-BAS-SCI-001-02,Scimitar Gliding Step,Easing Deepbelly,F1,T1 Unawakened,A
+MV-BAS-SCI-001-03,First Swell Cut,Short Scoop,F1,T1 Unawakened,A
+MV-BAS-SCI-001-04,Reversed Wrist Return,Lipdash,F4,T1 Unawakened,A
+MV-BAS-SCI-001-05,Flat Roll Off the Curve,Talwarwedge,F4,T1 Unawakened,A
+MV-BAS-SCI-002-01,Book-Plate Standing Cut,Single Arcwheel,F1,T1 Skin,A
+MV-BAS-SCI-002-02,Rising Crook Slash,Narrow Crescent,F1,T1 Skin,A
+MV-BAS-SCI-002-03,Outside Block of the Back Edge,Talwarstay,F4,T1 Skin,A
+MV-BAS-SCI-002-04,Quarter-Turn Retreat,Light Swellback,F1,T1 Skin,A
+MV-BAS-SCI-002-05,Double Return Slash,Short Flowedge,F1,T1 Skin,A
+MV-BAS-SCI-002-06,Pointed Reading of the Gap,Saddleguard Gauge,F3,T1 Skin,A
+MV-BAS-SCI-003-01,Recruit's Belt-Draw Grip,Cantlestay,F4,T1 Muscle,A
+MV-BAS-SCI-003-02,Shuffle Advance Under Cover,Light Talwar,F1,T1 Muscle,A
+MV-BAS-SCI-003-03,Shoulder-Height Belly Slash,Narrow Rake,F1,T1 Muscle,A
+MV-BAS-SCI-003-04,Low Sweep at the Knee,Sudden Broadcurve,F1,T1 Muscle,A
+MV-BAS-SCI-003-05,Overhead Cover Catch,Liphusk,F4,T1 Muscle,A
+MV-BAS-SCI-003-06,Bind-and-Shove Away,Fouling Scimhilt,F1,T1 Muscle,A
+MV-BAS-SCI-003-07,Recruit's Wheel Recovery,Stepping Lop,F1,T1 Muscle,A
+MV-BAS-SCI-004-01,Paired Drill Forehand,Descending Crescent,F1,T1 Tendon,A
+MV-BAS-SCI-004-02,Paired Drill Backhand,Rakeblow,F4,T1 Tendon,A
+MV-BAS-SCI-004-03,Forearm Wringing Roll,Lowered Flowedge,F1,T1 Tendon,A
+MV-BAS-SCI-004-04,Heavy-Belly Chop Drop,Carve Dash,F3,T1 Tendon,A
+MV-BAS-SCI-004-05,Barrack Square Shuffle,Lippace,F4,T1 Tendon,A
+MV-BAS-SCI-004-06,Hammered Edge Counter,Talwarbump,F4,T1 Tendon,A
+MV-BAS-SCI-004-07,Close-Quarter Elbow Check,Lipstay,F4,T1 Tendon,A
+MV-BAS-SCI-004-08,Four-Count Guard Chain,Settled Cantle,F1,T1 Tendon,A
+MV-BAS-SCI-005-01,Bone-Set Wrist Roll,Downward Scimhilt,F1,T1 Bone,A
+MV-BAS-SCI-005-02,Figure-of-Arc Cut Pair,Talwardash,F4,T1 Bone,A
+MV-BAS-SCI-005-03,Wrist-Only Flick Parry,Settled Swellback,F1,T1 Bone,A
+MV-BAS-SCI-005-04,Stiffened Spine Block,Resting Broadcurve,F1,T1 Bone,A
+MV-BAS-SCI-005-05,Scimitar Ball-Foot Pivot,Whipcut Pace,F3,T1 Bone,A
+MV-BAS-SCI-005-06,Heel-of-the-Blade Pull Cut,Talwar Hit,F3,T1 Bone,A
+MV-BAS-SCI-006-01,Breath-Linked Guard Hold,Talwarcowl,F4,Senior L1 Low,A
+MV-BAS-SCI-006-02,Workbook Diagonal Cut,Upward Cantle,F1,Senior L1 Low,A
+MV-BAS-SCI-006-03,Workbook Cross Cut,Saddleguard Blow,F3,Senior L1 Low,A
+MV-BAS-SCI-006-04,Light-Foot Circling Step,Rakedodge,F4,Senior L1 Low,A
+MV-BAS-SCI-006-05,Qi-Stiffened Flat Parry,Holding Flaretip,F1,Senior L1 Low,A
+MV-BAS-SCI-007-01,Swelling Edge Draw,Single Carve,F1,Senior L1 Mid,A
+MV-BAS-SCI-007-02,Belly-Weight Drop Cut,Blunt Lop,F1,Senior L1 Mid,A
+MV-BAS-SCI-007-03,Guided Belly Parry,Tight Swellback,F1,Senior L1 Mid,A
+MV-BAS-SCI-007-04,Edge-Line Reading,Lipnote,F4,Senior L1 Mid,A
+MV-BAS-SCI-007-05,Widening Arc Retreat,Whipcut Dodge,F3,Senior L1 Mid,A
+MV-BAS-SCI-007-06,Spine-to-Spine Press,Talwarhusk,F4,Senior L1 Mid,A
+MV-BAS-SCI-007-07,Light Qi Flicking Slash,Level Arcwheel,F1,Senior L1 Mid,A
+MV-BAS-SCI-008-01,Saddle-Seat Overhand Cut,Straight Rake,F1,Senior L2 Low,A
+MV-BAS-SCI-008-02,Ground-Stance Overhand Cut,Downward Scoop,F1,Senior L2 Low,A
+MV-BAS-SCI-008-03,Rein-Hand Stop Block,Folded Crescent,F1,Senior L2 Low,A
+MV-BAS-SCI-008-04,Passing Cut at Speed,Lopblow,F4,Senior L2 Low,A
+MV-BAS-SCI-008-05,Weight-Shift Circling,Easing Saddleguard,F1,Senior L2 Low,A
+MV-BAS-SCI-008-06,Wrist-Leash Recovery,Nabbing Arcwheel,F1,Senior L2 Low,A
+MV-BAS-SCI-009-01,Course Lesson One Forehand Arc,Square Scimhilt,F1,Senior L2 High,A
+MV-BAS-SCI-009-02,Course Lesson Two Backhand Arc,Cantlehit,F4,Senior L2 High,A
+MV-BAS-SCI-009-03,Course Lesson Three Rising Hook,Deepbelly Drop,F3,Senior L2 High,A
+MV-BAS-SCI-009-04,Course Lesson Four Step Cover,Stepping Whipcut,F1,Senior L2 High,A
+MV-BAS-SCI-009-05,Course Lesson Five Flat Turn,Cantlepause,F4,Senior L2 High,A
+MV-BAS-SCI-009-06,Course Lesson Six Spine Stop,Lipwedge,F4,Senior L2 High,A
+MV-BAS-SCI-009-07,Course Lesson Seven Hand Trap,Rakecowl,F4,Senior L2 High,A
+MV-BAS-SCI-009-08,Course Lesson Eight Closing Round,Low Flaretip,F1,Senior L2 High,A
+MV-BAS-SCI-010-01,Tip-First Short Jab,Flowedge Strike,F3,Senior L3 Low,A
+MV-BAS-SCI-010-02,Hooked Tip Pull,Talwar Pause,F3,Senior L3 Low,A
+MV-BAS-SCI-010-03,Point-Down Parry Drop,Planted Deepbelly,F1,Senior L3 Low,A
+MV-BAS-SCI-010-04,Quick Gap Closing Step,Talwarhop,F4,Senior L3 Low,A
+MV-BAS-SCI-010-05,Tip Flick at the Eyes,Wide Rake,F1,Senior L3 Low,A
+MV-BAS-SCI-010-06,Inside Hook and Drag,Scoophusk,F4,Senior L3 Low,A
+MV-BAS-SCI-010-07,Withdrawn Point Cover,Planted Broadcurve,F1,Senior L3 Low,A
+MV-BAS-SCI-011-01,Balanced Cut Principle,Descending Cantle,F1,Senior L3 Mid,A
+MV-BAS-SCI-011-02,Principle of the Meeting Edge,Planted Crescent,F1,Senior L3 Mid,A
+MV-BAS-SCI-011-03,Timing Before the Swing,Kind Broadcurve,F1,Senior L3 Mid,A
+MV-BAS-SCI-011-04,Hip-Led Arc Step,Stepping Scoop,F1,Senior L3 Mid,A
+MV-BAS-SCI-011-05,Slack-Grip Sweeping Cut,Lop Drop,F3,Senior L3 Mid,A
+MV-BAS-SCI-011-06,Yielding Spine Catch,Settled Flowedge,F1,Senior L3 Mid,A

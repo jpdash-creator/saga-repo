@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-TRI-001-01,Three-Tine Forward Jab,Straight Gaff,F1,T1 Unawakened,A
+MV-BAS-TRI-001-02,Rear-Hand Haft Shove,Short Fork,F1,T1 Unawakened,A
+MV-BAS-TRI-001-03,Crossed-Haft Block Raise,Settled Forktine,F1,T1 Unawakened,A
+MV-BAS-TRI-001-04,Heel-Toe Gliding Advance,Gig Hop,F3,T1 Unawakened,A
+MV-BAS-TRI-001-05,Low Tine Shin Poke,Forward Triplehead,F1,T1 Unawakened,A
+MV-BAS-TRI-001-06,Shaft Slide Withdrawal,Stepping Tridentshaft,F1,T1 Unawakened,A
+MV-BAS-TRI-002-01,Spread-Hand Haft Hold,Lowered Hookbarb,F1,T1 Skin,A
+MV-BAS-TRI-002-02,Straight Prong Lunge,Descending Pinch,F1,T1 Skin,A
+MV-BAS-TRI-002-03,Side Tine Parry Sweep,Triplelid,F4,T1 Skin,A
+MV-BAS-TRI-002-04,Quarter-Turn Pivot Step,Nimble Sidetine,F1,T1 Skin,A
+MV-BAS-TRI-002-05,Butt-End Foot Rap,Gigdrop,F4,T1 Skin,A
+MV-BAS-TRI-003-01,Wet-Sand Stance Set,Planted Socketbase,F1,T1 Muscle,A
+MV-BAS-TRI-003-02,Darting Fish Stab,Single Prongdrive,F1,T1 Muscle,A
+MV-BAS-TRI-003-03,Rising Tine Flick,Triplehit,F4,T1 Muscle,A
+MV-BAS-TRI-003-04,Prone Limb Fork Press,Midtine Pause,F3,T1 Muscle,A
+MV-BAS-TRI-003-05,Wade-Step Shuffle,Nimble Prongroot,F1,T1 Muscle,A
+MV-BAS-TRI-003-06,Cross-Body Haft Slap,Lowered Triprong,F1,T1 Muscle,A
+MV-BAS-TRI-003-07,Reversed Butt Uppercut,Descending Barbtine,F1,T1 Muscle,A
+MV-BAS-TRI-004-01,Shoulder-Line Straight Thrust,Gighit,F4,T1 Tendon,A
+MV-BAS-TRI-004-02,Two-Step Closing Thrust,Tridentstrike,F4,T1 Tendon,A
+MV-BAS-TRI-004-03,Tine Notch Wrench,Triplecowl,F4,T1 Tendon,A
+MV-BAS-TRI-004-04,Trailing Haft Retreat,Barbtine Hop,F3,T1 Tendon,A
+MV-BAS-TRI-004-05,Overhead Bar Block,Tridenthusk,F4,T1 Tendon,A
+MV-BAS-TRI-004-06,Choked Short Jab,Pinchdrop,F4,T1 Tendon,A
+MV-BAS-TRI-005-01,Weighted Haft Drive,Hard Forktine,F1,T1 Bone,A
+MV-BAS-TRI-005-02,Broad-Stance Tine Screen,Tight Sidetine,F1,T1 Bone,A
+MV-BAS-TRI-005-03,Shoulder-Roll Reach Thrust,Trioblow,F4,T1 Bone,A
+MV-BAS-TRI-005-04,Plodding Planted Advance,Seizedodge,F4,T1 Bone,A
+MV-BAS-TRI-005-05,Haft Wedge Turn,Snug Socketbase,F1,T1 Bone,A
+MV-BAS-TRI-005-06,Forearm Fork Pin,Forkstay,F4,T1 Bone,A
+MV-BAS-TRI-005-07,Stamping Tine Slam,Level Prongdrive,F1,T1 Bone,A
+MV-BAS-TRI-005-08,Hip-Turn Leg Sweep,Stiff Gaff,F1,T1 Bone,A
+MV-BAS-TRI-006-01,Quiet-Breath Reach Thrust,Upward Pinch,F1,Senior L1 Low,A
+MV-BAS-TRI-006-02,Outward Circling Advance,Triotrot,F4,Senior L1 Low,A
+MV-BAS-TRI-006-03,Qi-Rail Haft Guard,Hooding Prongroot,F1,Senior L1 Low,A
+MV-BAS-TRI-006-04,Face-Chest-Thigh Triple Jab,Sharp Midtine,F1,Senior L1 Low,A
+MV-BAS-TRI-006-05,Rail-Hook Backward Leap,Skipping Fork,F1,Senior L1 Low,A
+MV-BAS-TRI-007-01,Center Prong Lance,Leaden Gig,F1,Senior L2 Low,A
+MV-BAS-TRI-007-02,Outer Prong Rake,Wide Triplehead,F1,Senior L2 Low,A
+MV-BAS-TRI-007-03,Quarter-Roll Deflection,Snug Hookbarb,F1,Senior L2 Low,A
+MV-BAS-TRI-007-04,Soft-Knee Balance Step,Seizehop,F4,Senior L2 Low,A
+MV-BAS-TRI-007-05,Prong Flick Feint,Gaffdash,F4,Senior L2 Low,A
+MV-BAS-TRI-007-06,Twin Outer-Tine Pincer,Fouling Triprong,F1,Senior L2 Low,A
+MV-BAS-TRI-007-07,Arm's-End Shove-Out,Prongroot Hit,F3,Senior L2 Low,A
+MV-BAS-TRI-008-01,Post-Pin Garment Press,Tridentshaft Stay,F3,Senior L4 Mid,A
+MV-BAS-TRI-008-02,Shield-Rim Fork Heave,Pinchstrike,F4,Senior L4 Mid,A
+MV-BAS-TRI-008-03,Net-Cord Tine Twist,Turning Prongdrive,F1,Senior L4 Mid,A
+MV-BAS-TRI-008-04,Barb Drag Furrow,Seize Bump,F3,Senior L4 Mid,A
+MV-BAS-TRI-008-05,Slanted Haft Slide Guard,Triolid,F4,Senior L4 Mid,A
+MV-BAS-TRI-008-06,Heel-Rooted Pull Resistance,Raised Hookbarb,F1,Senior L4 Mid,A
+MV-BAS-TRI-009-01,Fork Notch Catch,Tight Midtine,F1,Senior L6 Low,A
+MV-BAS-TRI-009-02,Tine Gap Snare,Forklid,F4,Senior L6 Low,A
+MV-BAS-TRI-009-03,Overhead Tine Cover,Tridentpause,F4,Senior L6 Low,A
+MV-BAS-TRI-009-04,Off-Line Fork Slip,Easing Seize,F1,Senior L6 Low,A
+MV-BAS-TRI-009-05,Caught-Blade Lever Twist,Nabbing Triprong,F1,Senior L6 Low,A
+MV-BAS-TRI-009-06,Rising Rib Counter,Forward Tridentshaft,F1,Senior L6 Low,A
+MV-BAS-TRI-009-07,Butt-Planted Slant Brace,Raised Forktine,F1,Senior L6 Low,A
+MV-BAS-TRI-009-08,Release Hop and Reset,Socketbase Dodge,F3,Senior L6 Low,A
+MV-BAS-TRI-010-01,Knee-Deep Crouch Thrust,Wide Fork,F1,Senior L8 High,A
+MV-BAS-TRI-010-02,Slick-Bank Sole Shuffle,Quiet Sidetine,F1,Senior L8 High,A
+MV-BAS-TRI-010-03,Surge-Brace Haft Lean,Triplewedge,F4,Senior L8 High,A
+MV-BAS-TRI-010-04,Gaff Barb Ankle Pull,Fixing Pinch,F1,Senior L8 High,A
+MV-BAS-TRI-010-05,Skimming Shaft Glance,Folded Triplehead,F1,Senior L8 High,A
+MV-BAS-TRI-010-06,Same-Line Return Stab,Flat Gig,F1,Senior L8 High,A

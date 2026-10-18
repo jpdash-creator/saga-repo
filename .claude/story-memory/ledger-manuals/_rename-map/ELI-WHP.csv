@@ -1,0 +1,155 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-WHP-001-01,Hawk Perch Thong Guard,Whipstock Durance,F3,Demigod L1 Low,B
+MV-ELI-WHP-001-02,Azure Wing Spread Cast,Rumble Whiptail,F2,Demigod L1 Low,B
+MV-ELI-WHP-001-03,Hawk Glide Approach,Granite Lash,F2,Demigod L1 Low,B
+MV-ELI-WHP-001-04,Talon Hook Wrap,Snap Durance,F3,Demigod L1 Low,B
+MV-ELI-WHP-001-05,Soaring Crack,Charter Whipheel,F2,Demigod L1 Low,B
+MV-ELI-WHP-001-06,Hawk Turn Parry,Popperdurance,F4,Demigod L1 Low,B
+MV-ELI-WHP-001-07,Stoop Through the Guard,Hollow Fall,F2,Demigod L1 Low,B
+MV-ELI-WHP-001-08,Hawk Circling Net,Deed Thong,F2,Demigod L1 Low,B
+MV-ELI-WHP-001-09,Azure Sky Falling Lash,Ironflick,F5,Demigod L1 Low,B
+MV-ELI-WHP-002-01,Court Stance of Two Thongs,Facetpopper,F5,Demigod L2 Mid,B
+MV-ELI-WHP-002-02,Right Court Lash,Blaze Lashend,F2,Demigod L2 Mid,B
+MV-ELI-WHP-002-03,Left Court Lash,Tempered Popper,F2,Demigod L2 Mid,B
+MV-ELI-WHP-002-04,Court Pace,Gust Keeper,F2,Demigod L2 Mid,B
+MV-ELI-WHP-002-05,Court Hearing,Expanse Fall,F2,Demigod L2 Mid,B
+MV-ELI-WHP-002-06,Twin Court Wrap,Plaitnerve,F4,Demigod L2 Mid,B
+MV-ELI-WHP-002-07,Court Crossing Parry,Gust Lashcore,F2,Demigod L2 Mid,B
+MV-ELI-WHP-002-08,Court Answer Crack,Snapscourge,F4,Demigod L2 Mid,B
+MV-ELI-WHP-002-09,Court of Two Edges,Escalating Plait,F1,Demigod L2 Mid,B
+MV-ELI-WHP-002-10,Paired Court Sweep,Dismantling Popcrack,F2,Demigod L2 Mid,B
+MV-ELI-WHP-002-11,Twin-Court Verdict Lash,Granite Tether,F2,Demigod L2 Mid,B
+MV-ELI-WHP-003-01,Basin Lip Guard,Aegis Popper,F2,Demigod L3 High,B
+MV-ELI-WHP-003-02,Meeting Waters Lash,Iron Keeper,F2,Demigod L3 High,B
+MV-ELI-WHP-003-03,Lash River Fork Step,Plaitglimmer,F4,Demigod L3 High,B
+MV-ELI-WHP-003-04,Confluence Feel,Chime Lashend,F2,Demigod L3 High,B
+MV-ELI-WHP-003-05,Upper River Cut,Shattering Whipstock,F1,Demigod L3 High,B
+MV-ELI-WHP-003-06,Lower River Wrap,Thorn Whipheel,F2,Demigod L3 High,B
+MV-ELI-WHP-003-07,Two Currents Parry,Keeperdurance,F4,Demigod L3 High,B
+MV-ELI-WHP-003-08,Confluence Crash Lash,Rumblefurl,F5,Demigod L3 High,B
+MV-ELI-WHP-003-09,Basin Whirlpool Hold,Webbing Flick,F1,Demigod L3 High,B
+MV-ELI-WHP-003-10,Rivers Joined in One Stroke,Furl Devastation,F3,Demigod L3 High,B
+MV-ELI-WHP-004-01,Dual-Track Crack Stance,Thornpopper,F5,Demigod L4 Low,B
+MV-ELI-WHP-004-02,First Track Crack,Ferocious Popcrack,F1,Demigod L4 Low,B
+MV-ELI-WHP-004-03,Second Track Wrap,Ponderous Flick,F2,Demigod L4 Low,B
+MV-ELI-WHP-004-04,Crack and Wrap Track Switch,Blinding Whiptail,F1,Demigod L4 Low,B
+MV-ELI-WHP-004-05,Track Balance Sense,Clairvoyant Thong,F1,Demigod L4 Low,B
+MV-ELI-WHP-004-06,Crack Draws the Wrap,Tethervalor,F4,Demigod L4 Low,B
+MV-ELI-WHP-004-07,Wrap Holds for the Crack,Keeperruin,F4,Demigod L4 Low,B
+MV-ELI-WHP-004-08,Crack Hand over Wrap Hand Parry,Unconquered Lashcore,F1,Demigod L4 Low,B
+MV-ELI-WHP-004-09,Twin Track Snap,Tempered Furl,F2,Demigod L4 Low,B
+MV-ELI-WHP-004-10,Crack and Wrap Together,Escalating Tether,F1,Demigod L4 Low,B
+MV-ELI-WHP-004-11,Tracks Locked on a Weapon,Chime Lash,F2,Demigod L4 Low,B
+MV-ELI-WHP-004-12,Dual-Track Breaking Stroke,Berserk Plait Devastation,F6b,Demigod L4 Low,B
+MV-ELI-WHP-005-01,Riverbed Footing,Thong Tenacity,F3,Demigod L5 Mid,B
+MV-ELI-WHP-005-02,Bend and Flow Lash,Blaze Popper,F2,Demigod L5 Mid,B
+MV-ELI-WHP-005-03,Slow Water Step,Torrent Lash,F2,Demigod L5 Mid,B
+MV-ELI-WHP-005-04,Thong River Bend Reading,Prescient Whipheel,F1,Demigod L5 Mid,B
+MV-ELI-WHP-005-05,Spill Flick,Keeperscourge,F4,Demigod L5 Mid,B
+MV-ELI-WHP-005-06,First Spill,Furl Reckoning,F3,Demigod L5 Mid,B
+MV-ELI-WHP-005-07,Backwater Loop,Gyve Whipstock,F2,Demigod L5 Mid,B
+MV-ELI-WHP-005-08,Snared Leg Undertow Pull,Rumble Lashend,F2,Demigod L5 Mid,B
+MV-ELI-WHP-005-09,Bend-Away Parry,Murk Whiptail,F2,Demigod L5 Mid,B
+MV-ELI-WHP-005-10,River Turns Three Times,Popcrack Scourge,F3,Demigod L5 Mid,B
+MV-ELI-WHP-005-11,Undercut Bank Lash,Ironlash,F5,Demigod L5 Mid,B
+MV-ELI-WHP-005-12,Flood Season Release,Keeper Reckoning,F3,Demigod L5 Mid,B
+MV-ELI-WHP-005-13,Great River Bend Stroke,Rampaging Snap Havoc,F6b,Demigod L5 Mid,B
+MV-ELI-WHP-006-01,High Perch Thong Hold,Thorn Plait,F2,Demigod L6 High,B
+MV-ELI-WHP-006-02,Far Hawk Cast,Rumblekeeper,F5,Demigod L6 High,B
+MV-ELI-WHP-006-03,Long Thong Thermal Climb,Siltkeeper,F5,Demigod L6 High,B
+MV-ELI-WHP-006-04,Sky Scan,Waningfall,F5,Demigod L6 High,B
+MV-ELI-WHP-006-05,Far Stoop,Flickscourge,F4,Demigod L6 High,B
+MV-ELI-WHP-006-06,Long Snare of the Hawk,Immobilizing Lashcore,F1,Demigod L6 High,B
+MV-ELI-WHP-006-07,High Crack,Furlruin,F4,Demigod L6 High,B
+MV-ELI-WHP-006-08,Azure Reach Beyond Sight,Gustfurl,F5,Demigod L6 High,B
+MV-ELI-WHP-006-09,Long Thong Net,Shadeplait,F5,Demigod L6 High,B
+MV-ELI-WHP-006-10,Hawk and Azure Single Drop,Blazetether,F5,Demigod L6 High,B
+MV-ELI-WHP-007-01,Paired Fall Guard,Keepervalor,F4,Demigod L7 Low,B
+MV-ELI-WHP-007-02,Matched Fall Drop,Gustsnap,F5,Demigod L7 Low,B
+MV-ELI-WHP-007-03,Even Stride Cast,Furl Glare,F3,Demigod L7 Low,B
+MV-ELI-WHP-007-04,Fall Weight Matching,Chime Lashcore,F2,Demigod L7 Low,B
+MV-ELI-WHP-007-05,Fall Upon Fall,Tempered Flick,F2,Demigod L7 Low,B
+MV-ELI-WHP-007-06,Paired Fall Wrap,Harnessing Lash,F1,Demigod L7 Low,B
+MV-ELI-WHP-007-07,Twin Fall Parry,Obdurate Lashend,F1,Demigod L7 Low,B
+MV-ELI-WHP-007-08,Fall Pair Crack,Tether Scourge,F3,Demigod L7 Low,B
+MV-ELI-WHP-007-09,Falls in the Same Breath,Overlapping Snap,F1,Demigod L7 Low,B
+MV-ELI-WHP-007-10,Doubled Fall Through the Shield,Punishing Whipheel,F1,Demigod L7 Low,B
+MV-ELI-WHP-007-11,Two Falls and One Silence,Popcrack Devastation,F3,Demigod L7 Low,B
+MV-ELI-WHP-008-01,Wind Oath Ready Hold,Aegis Fall,F2,Demigod L1 Low,B
+MV-ELI-WHP-008-02,Wind-Given Lash,Decimating Whipstock,F1,Demigod L1 Low,B
+MV-ELI-WHP-008-03,Wind Walking Step,Popper Blink,F3,Demigod L1 Low,B
+MV-ELI-WHP-008-04,Wind Sworn Listening,Chime Fall,F2,Demigod L1 Low,B
+MV-ELI-WHP-008-05,Wind Hook Wrap,Thorn Whiptail,F2,Demigod L1 Low,B
+MV-ELI-WHP-008-06,Wind Flicked Crack,Shade Keeper,F2,Demigod L1 Low,B
+MV-ELI-WHP-008-07,Gust Bent Thong Parry,Torrent Plait,F2,Demigod L1 Low,B
+MV-ELI-WHP-008-08,Wind-Sworn Lash Unbound,Blazelash,F5,Demigod L1 Low,B
+MV-ELI-WHP-008-09,Gale Rope Net,Ponderous Thong,F2,Demigod L1 Low,B
+MV-ELI-WHP-008-10,Whole Wind Behind the Lash,Vengeful Blaze Popcrack,F6a,Demigod L1 Low,B
+MV-ELI-WHP-009-01,Edge Standing Guard,Ironfall,F5,Demigod L2 Mid,B
+MV-ELI-WHP-009-02,Edge Wind Lash,Rumble Tether,F2,Demigod L2 Mid,B
+MV-ELI-WHP-009-03,Rim Walk Thong Step,Torrential Snap,F1,Demigod L2 Mid,B
+MV-ELI-WHP-009-04,Edge Listening,Clairvoyant Whiptail,F1,Demigod L2 Mid,B
+MV-ELI-WHP-009-05,Cliff Flick,Ironplait,F5,Demigod L2 Mid,B
+MV-ELI-WHP-009-06,Ankle Edge Hook Tug,Toxin Furl,F2,Demigod L2 Mid,B
+MV-ELI-WHP-009-07,Edge Crack,Intentsnap,F5,Demigod L2 Mid,B
+MV-ELI-WHP-009-08,Lean Over the Edge Parry,Unassailable Fall,F1,Demigod L2 Mid,B
+MV-ELI-WHP-009-09,Edge Wrap,Gyvepopper,F5,Demigod L2 Mid,B
+MV-ELI-WHP-009-10,Over the Edge Lash,Tempered Whipstock,F2,Demigod L2 Mid,B
+MV-ELI-WHP-009-11,Plateau Updraft Lash Sweep,Shattering Plait,F1,Demigod L2 Mid,B
+MV-ELI-WHP-009-12,Falling From the Plateau Edge,Sanguine Lashend,F2,Demigod L2 Mid,B
+MV-ELI-WHP-010-01,Thong Oath Taking Stance,Hoarfrost Thong,F2,Demigod L3 Low,B
+MV-ELI-WHP-010-02,Pledge Cast,Tetherruin,F4,Demigod L3 Low,B
+MV-ELI-WHP-010-03,Oath Walk,Phantom Keeper,F1,Demigod L3 Low,B
+MV-ELI-WHP-010-04,Oath Held Wrap,Immobilizing Popper,F1,Demigod L3 Low,B
+MV-ELI-WHP-010-05,Oath Crack,Merciless Whipheel,F1,Demigod L3 Low,B
+MV-ELI-WHP-010-06,Oath Kept Parry,Murk Lashcore,F2,Demigod L3 Low,B
+MV-ELI-WHP-010-07,Oath Reaches Far,Keeperwrath,F4,Demigod L3 Low,B
+MV-ELI-WHP-010-08,Oath Sealed Line,Shadepopper,F5,Demigod L3 Low,B
+MV-ELI-WHP-010-09,The Last Pledge Stroke,Rumble Plait,F2,Demigod L3 Low,B
+MV-ELI-WHP-011-01,Crack Bearing Stance,Hoarfrost Whipheel,F2,Demigod L4 High,B
+MV-ELI-WHP-011-02,Bearing Crack,Granite Lashend,F2,Demigod L4 High,B
+MV-ELI-WHP-011-03,Gale Pacing Step,Ghosting Tether,F1,Demigod L4 High,B
+MV-ELI-WHP-011-04,Crack Echo Reading,Beneficent Fall,F1,Demigod L4 High,B
+MV-ELI-WHP-011-05,Heading Hold Flick,Punishing Flick,F1,Demigod L4 High,B
+MV-ELI-WHP-011-06,Crack on Bearing,Fallscourge,F4,Demigod L4 High,B
+MV-ELI-WHP-011-07,Crack Drives the Wrap,Thorn Lash,F2,Demigod L4 High,B
+MV-ELI-WHP-011-08,Gale Crack Parry,Impervious Whiptail,F1,Demigod L4 High,B
+MV-ELI-WHP-011-09,Crack Line Penetration,Ferocious Lash,F1,Demigod L4 High,B
+MV-ELI-WHP-011-10,Crack Cascade Along the Bearing,Intent Furl,F2,Demigod L4 High,B
+MV-ELI-WHP-011-11,Gale Crack Beyond Bearing,Booming Tether,F1,Demigod L4 High,B
+MV-ELI-WHP-012-01,Bearing Release Stance,Facet Whipstock,F2,Demigod L5 Low,B
+MV-ELI-WHP-012-02,Release Cast,Sanguine Lashcore,F2,Demigod L5 Low,B
+MV-ELI-WHP-012-03,Sideways Bearing Pacing,Snapglare,F4,Demigod L5 Low,B
+MV-ELI-WHP-012-04,Release Timing,Verity Thong,F2,Demigod L5 Low,B
+MV-ELI-WHP-012-05,Quiet Release Flick,Shattering Flick,F1,Demigod L5 Low,B
+MV-ELI-WHP-012-06,Bearing Held Strike,Gnashing Popper,F1,Demigod L5 Low,B
+MV-ELI-WHP-012-07,Release Loop,Harnessing Snap,F1,Demigod L5 Low,B
+MV-ELI-WHP-012-08,Late Release Parry,Invincible Keeper,F1,Demigod L5 Low,B
+MV-ELI-WHP-012-09,Held Back Pull,Mayhem Furl,F2,Demigod L5 Low,B
+MV-ELI-WHP-012-10,Bearing Held Then Released,Iron Thong,F2,Demigod L5 Low,B
+MV-ELI-WHP-012-11,Release Spiral,Tetherhavoc,F4,Demigod L5 Low,B
+MV-ELI-WHP-012-12,Double Bearing Chain,Intent Whipstock,F2,Demigod L5 Low,B
+MV-ELI-WHP-012-13,Final Release Along the Bearing,Gust Whiptail,F2,Demigod L5 Low,B
+MV-ELI-WHP-013-01,Open Plateau Whip Stance,Lashend Spine,F3,Demigod L6 Mid,B
+MV-ELI-WHP-013-02,Open Sky Lash,Flick Devastation,F3,Demigod L6 Mid,B
+MV-ELI-WHP-013-03,Long Plateau Stride,Meteoric Snap,F1,Demigod L6 Mid,B
+MV-ELI-WHP-013-04,Horizon Watch,Remnant Fall,F2,Demigod L6 Mid,B
+MV-ELI-WHP-013-05,Wide Open Wrap,Gyve Whipheel,F2,Demigod L6 Mid,B
+MV-ELI-WHP-013-06,Open Ground Crack,Intentkeeper,F5,Demigod L6 Mid,B
+MV-ELI-WHP-013-07,Open Hand Parry,Murk Keeper,F2,Demigod L6 Mid,B
+MV-ELI-WHP-013-08,Nothing to Hide Behind Lash,Merciless Tether,F1,Demigod L6 Mid,B
+MV-ELI-WHP-013-09,Plateau-Wide Sweep,Downpour Popcrack,F2,Demigod L6 Mid,B
+MV-ELI-WHP-013-10,No Wall Stands Against It,Nova Flick,F2,Demigod L6 Mid,B
+MV-ELI-WHP-014-01,Oath Forms Ready Hold,Hoarfrost Plait,F2,Demigod L7 High,B
+MV-ELI-WHP-014-02,Opening Form Lash,Corroding Snap,F1,Demigod L7 High,B
+MV-ELI-WHP-014-03,Form Stepping,Gust Flick,F2,Demigod L7 High,B
+MV-ELI-WHP-014-04,Form Breath Reading,Chimepopper,F5,Demigod L7 High,B
+MV-ELI-WHP-014-05,Turning Form Flick,Rumble Popcrack,F2,Demigod L7 High,B
+MV-ELI-WHP-014-06,Binding Form Wrap,Gyve Lashcore,F2,Demigod L7 High,B
+MV-ELI-WHP-014-07,Guarding Form Parry,Poppermettle,F4,Demigod L7 High,B
+MV-ELI-WHP-014-08,Thunder Form Crack,Intent Whiptail,F2,Demigod L7 High,B
+MV-ELI-WHP-014-09,Rising Spiral Form,Lash Wrath,F3,Demigod L7 High,B
+MV-ELI-WHP-014-10,Net Form of the Oath,Thornthong,F5,Demigod L7 High,B
+MV-ELI-WHP-014-11,Gale Oath Final Form,Gnashing Gust Whipheel,F6a,Demigod L7 High,B
+MV-ELI-WHP-001-07,Hollow Fall,Stabbing Fall,F2,Demigod L1 Low,B
+MV-ELI-WHP-002-05,Expanse Fall,Sharp Fall,F2,Demigod L2 Mid,B

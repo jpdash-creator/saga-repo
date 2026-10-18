@@ -1,0 +1,68 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-SHG-001-01,Court Stance Opening,Iron Wad,F2,Demigod,B
+MV-ELI-SHG-001-02,Azure Sight Line,Expanse Breech,F2,Demigod,B
+MV-ELI-SHG-001-03,Court Pair Shot,Unsparing Pattern,F1,Demigod,B
+MV-ELI-SHG-001-04,Court Spread Closing,Wrathful Pump,F1,Demigod,B
+MV-ELI-SHG-001-05,Matched Guard Answer,Invincible Bead,F1,Demigod,B
+MV-ELI-SHG-001-06,Court Curve Retreat,Beadvortex,F4,Demigod,B
+MV-ELI-SHG-001-07,Court Dual Track Blast,Glint Pumpgrip,F2,Demigod,B
+MV-ELI-SHG-001-08,Matched Sweep Guard Break,Eviscerating Buckshot,F1,Demigod,B
+MV-ELI-SHG-001-09,Azure Court Crown Shot,Facet Blast,F2,Demigod,B
+MV-ELI-SHG-002-01,River Flow Reading,Radiant Choke,F1,Demigod,B
+MV-ELI-SHG-002-02,Pellet Stream Loading,Might Shell,F2,Demigod,B
+MV-ELI-SHG-002-03,Twin Stream Shot,Glint Slugchamber,F2,Demigod,B
+MV-ELI-SHG-002-04,Bank Side Step Fire,Torrent Sawnedge,F2,Demigod,B
+MV-ELI-SHG-002-05,Midstream Stone Stance,Unbudging Doublebarrel,F1,Demigod,B
+MV-ELI-SHG-002-06,Pellet Current Drive,Pump Devastation,F3,Demigod,B
+MV-ELI-SHG-002-07,Twin Ford Crossing,Granite Buckshot,F2,Demigod,B
+MV-ELI-SHG-002-08,Eddy Turn Reload,Vitalwad,F5,Demigod,B
+MV-ELI-SHG-002-09,Twin River Flood Spread,Siltbead,F5,Demigod,B
+MV-ELI-SHG-002-10,Confluence Plug Shot,Glintbreech,F5,Demigod,B
+MV-ELI-SHG-002-11,River Breaking Barrage,Daybreak Spreadshot,F2,Demigod,B
+MV-ELI-SHG-003-01,Hawk Soar Marking,Verity Pellet,F2,Demigod,B
+MV-ELI-SHG-003-02,Talon Close Step,Gust Pumpgrip,F2,Demigod,B
+MV-ELI-SHG-003-03,Talon Raking Spread,Mayhem Slug,F2,Demigod,B
+MV-ELI-SHG-003-04,Hawk Perch Aim,Adamantine Shell,F1,Demigod,B
+MV-ELI-SHG-003-05,Hawk Dive Spread,Slag Pellet,F2,Demigod,B
+MV-ELI-SHG-003-06,Spread Wing Parry,Breechmettle,F4,Demigod,B
+MV-ELI-SHG-003-07,Soaring Retreat Shot,Pumpblink,F4,Demigod,B
+MV-ELI-SHG-003-08,Hawk Strike Piercing Fan,Ironpump,F5,Demigod,B
+MV-ELI-SHG-003-09,Wheeling Hawk Volley,Intent Sawnedge,F2,Demigod,B
+MV-ELI-SHG-003-10,Hawk Descent Flash,Novablast,F5,Demigod,B
+MV-ELI-SHG-004-01,Paired Reach Dressing,Doublebarrel Vitality,F3,Demigod,B
+MV-ELI-SHG-004-02,Matched Pace Advance,Granite Slugchamber,F2,Demigod,B
+MV-ELI-SHG-004-03,Left Hand Opening Shot,Vengeful Blast,F1,Demigod,B
+MV-ELI-SHG-004-04,Right Hand Answer Shot,Glint Spreadshot,F2,Demigod,B
+MV-ELI-SHG-004-05,Shoulder Pair Guard,Iron Breech,F2,Demigod,B
+MV-ELI-SHG-004-06,Crossed Reach Spread,Pattern Ruin,F3,Demigod,B
+MV-ELI-SHG-004-07,Pair Piece Handoff,Radiant Wad,F1,Demigod,B
+MV-ELI-SHG-004-08,Paired Qi Link,Vital Choke,F2,Demigod,B
+MV-ELI-SHG-004-09,Alternating Fall Back Fire,Hellish Pump,F1,Demigod,B
+MV-ELI-SHG-004-10,Paired Reach Pincer,Blazepellet,F5,Demigod,B
+MV-ELI-SHG-004-11,Twin Piece Line Breaker,Hollow Sawnedge,F2,Demigod,B
+MV-ELI-SHG-004-12,Paired Reach Closing Blast,Breechscourge,F4,Demigod,B
+MV-ELI-SHG-005-01,Barricade Joint Reading,Remnant Slugchamber,F2,Demigod,B
+MV-ELI-SHG-005-02,Blind Line Approach,Silt Buckshot,F2,Demigod,B
+MV-ELI-SHG-005-03,Joint Seeking Shot,Grievous Slug,F1,Demigod,B
+MV-ELI-SHG-005-04,Splinter Veil Walk,Pumpgrip Hardihood,F3,Demigod,B
+MV-ELI-SHG-005-05,Broken Post Recharge,Might Wad,F2,Demigod,B
+MV-ELI-SHG-005-06,Azure Reach Splitting Charge,Nova Choke,F2,Demigod,B
+MV-ELI-SHG-005-07,Barricade Top Clearing,Daybreak Breech,F2,Demigod,B
+MV-ELI-SHG-005-08,Gap Widening Shot,Blasthavoc,F4,Demigod,B
+MV-ELI-SHG-005-09,Defender Pinning Wave,Hour Spreadshot,F2,Demigod,B
+MV-ELI-SHG-005-10,Rampart Breaching Blast,Mayhemchoke,F5,Demigod,B
+MV-ELI-SHG-005-11,Breach Stairway Fire,Doctrine Pattern,F2,Demigod,B
+MV-ELI-SHG-005-12,Foundation Line Collapse,Slug Havoc,F3,Demigod,B
+MV-ELI-SHG-005-13,Azure Reach Breach Flash,Dazzling Hour Doublebarrel,F6a,Demigod,B
+MV-ELI-SHG-006-01,Dual Track Breathing,Intentbreech,F5,Demigod,B
+MV-ELI-SHG-006-02,Track Aim Alignment,Veritychoke,F5,Demigod,B
+MV-ELI-SHG-006-03,Crossed Foot Glide,Meteoric Shell,F1,Demigod,B
+MV-ELI-SHG-006-04,Both Tracks Snap Shot,Hoarfrost Blast,F2,Demigod,B
+MV-ELI-SHG-006-05,Track Split Pellets,Slag Wad,F2,Demigod,B
+MV-ELI-SHG-006-06,Track Fold Guard,Iron Pellet,F2,Demigod,B
+MV-ELI-SHG-006-07,Arm to Arm Qi Swap,Shellinsight,F4,Demigod,B
+MV-ELI-SHG-006-08,Dual Track Needle Drive,Pumpruin,F4,Demigod,B
+MV-ELI-SHG-006-09,Track Rotation Barrage,Granite Shell,F2,Demigod,B
+MV-ELI-SHG-006-10,Twin Track Master Blast,Spreadshot Scourge,F3,Demigod,B
+MV-ELI-SHG-001-02,Expanse Breech,Clear Breech,F2,Demigod,B
+MV-ELI-SHG-004-11,Hollow Sawnedge,Weighty Sawnedge,F2,Demigod,B

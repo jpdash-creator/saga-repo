@@ -1,0 +1,125 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-BAX-001-01,Split-Stroke Stance,Facet Warbeard,F2,Champion,B
+MV-ADV-BAX-001-02,Grain-Seeking Chop,Blaze Crescentbit,F2,Champion,B
+MV-ADV-BAX-001-03,Seam Probe Rap,Warbitcuirass,F4,Champion,B
+MV-ADV-BAX-001-04,Withdraw Without Binding,Might Warpoll,F2,Champion,B
+MV-ADV-BAX-001-05,Rim Break Hew,Gust Bitedge,F2,Champion,B
+MV-ADV-BAX-001-06,Guard-Splitting Pair,Toxinbanded,F5,Champion,B
+MV-ADV-BAX-001-07,Shield-Splitting Cleave,Rumble Wideeye,F2,Champion,B
+MV-ADV-BAX-001-08,Falling Shield Smash,Gust Banded,F2,Champion,B
+MV-ADV-BAX-002-01,Falling Head Guard,Iron Warbit,F2,Demigod,B
+MV-ADV-BAX-002-02,Overhead Sunder,Needling Rive,F1,Demigod,B
+MV-ADV-BAX-002-03,Hanging Axe Step,Granite Brunt,F2,Demigod,B
+MV-ADV-BAX-002-04,Drop Weight Gather,Vitalbanded,F5,Demigod,B
+MV-ADV-BAX-002-05,Falling Rebound Parry,Murk Haftcap,F2,Demigod,B
+MV-ADV-BAX-002-06,Down-Haft Press,Thorn Smite,F2,Demigod,B
+MV-ADV-BAX-002-07,Sunder Line Cut,Lambasting Battleheel,F1,Demigod,B
+MV-ADV-BAX-002-08,Head-Fall Tremor Chop,Warhelve Maelstrom,F3,Demigod,B
+MV-ADV-BAX-002-09,Drop Recovery Step,Gust Warpoll,F2,Demigod,B
+MV-ADV-BAX-003-01,Armour Edge Reading,Discerning Warbit,F1,Champion,B
+MV-ADV-BAX-003-02,Strap Cut Hew,Warbitbarrage,F4,Champion,B
+MV-ADV-BAX-003-03,Plate Edge Hook,Thorn Hewdown,F2,Champion,B
+MV-ADV-BAX-003-04,Haft Shove Brace,Hoarfrost Warhelve,F2,Champion,B
+MV-ADV-BAX-003-05,Head-Heavy Step,Brunt Canter,F3,Champion,B
+MV-ADV-BAX-003-06,Mail Ring Chop,Granite Crescentbit,F2,Champion,B
+MV-ADV-BAX-003-07,Plate Dent Pound,Crippling Hewdown,F1,Champion,B
+MV-ADV-BAX-003-08,Seam Open Cleave,Splitting Warcleave,F1,Champion,B
+MV-ADV-BAX-003-09,Hooked Plate Rip,Suppressing Battercut,F1,Champion,B
+MV-ADV-BAX-003-10,Armour-Cleaving Cast,Hollow Battercut,F2,Champion,B
+MV-ADV-BAX-004-01,Far-Hand Hold,Bitedge Cuirass,F3,Demigod,B
+MV-ADV-BAX-004-02,Reach Cut,Scalding Rive,F1,Demigod,B
+MV-ADV-BAX-004-03,Haft-Length Step,Granite Battleheel,F2,Demigod,B
+MV-ADV-BAX-004-04,Reach Keeping Rap,Rumblebrunt,F5,Demigod,B
+MV-ADV-BAX-004-05,Extended Qi Edge,Nova Haftcap,F2,Demigod,B
+MV-ADV-BAX-004-06,Far Sweep Cleave,Rivebarrage,F4,Demigod,B
+MV-ADV-BAX-004-07,Reach Break Hook,Fastening Warcleave,F2,Demigod,B
+MV-ADV-BAX-004-08,Great Axe Wheel Guard,Chime Warbeard,F2,Demigod,B
+MV-ADV-BAX-005-01,Cleft Opening Cut,Transfixing Banded,F1,Ruler,B
+MV-ADV-BAX-005-02,Counter Catch Block,Torrent Wideeye,F2,Ruler,B
+MV-ADV-BAX-005-03,Cleft Mark Hew,Iron Crescentbit,F2,Ruler,B
+MV-ADV-BAX-005-04,Bit Reset Step,Silt Haftcap,F2,Ruler,B
+MV-ADV-BAX-005-05,Pull and Chop,Dominating Warcleave,F1,Ruler,B
+MV-ADV-BAX-005-06,Poll Shock Counter,Warbitgreave,F4,Ruler,B
+MV-ADV-BAX-005-07,Counter Hold Guard,Facetwarbit,F5,Ruler,B
+MV-ADV-BAX-005-08,Cleft Counter Chain,Bandedassault,F4,Ruler,B
+MV-ADV-BAX-005-09,Qi Counter Reflection,Waning Warbeard,F2,Ruler,B
+MV-ADV-BAX-005-10,Heavy Counter Cleave,Wrecking Smite,F1,Ruler,B
+MV-ADV-BAX-005-11,Cleft Seal Press,Crippling Deed Rive,F6a,Ruler,B
+MV-ADV-BAX-006-01,Paired Track Stance,Aegisbattle,F5,Champion,B
+MV-ADV-BAX-006-02,Twin Track Hew,Blaze Battercut,F2,Champion,B
+MV-ADV-BAX-006-03,Azure Edge Rap,Mayhem Warpoll,F2,Champion,B
+MV-ADV-BAX-006-04,Track Switch Axe Step,Silt Bitedge,F2,Champion,B
+MV-ADV-BAX-006-05,Twin-Bit Cross Cut,Drubbing Wideeye,F1,Champion,B
+MV-ADV-BAX-006-06,Paired Beard Parry,Annealed Warhelve,F1,Champion,B
+MV-ADV-BAX-006-07,Twin Track Breaker,Nova Smite,F2,Champion,B
+MV-ADV-BAX-006-08,Dual-Track Axe Ward,Unshaken Battleheel,F1,Champion,B
+MV-ADV-BAX-006-09,Paired Cleave Sweep,Downpour Banded,F2,Champion,B
+MV-ADV-BAX-007-01,Hawk Perch Haft Guard,Unflinching Warbit,F1,Demigod,B
+MV-ADV-BAX-007-02,Stoop Cut,Mightbattle,F5,Demigod,B
+MV-ADV-BAX-007-03,Azure Dive Step,Granite Haftcap,F2,Demigod,B
+MV-ADV-BAX-007-04,Talon Beard Hook,Hewdown Cloak,F3,Demigod,B
+MV-ADV-BAX-007-05,Wing Spread Sweep,Scorching Banded,F1,Demigod,B
+MV-ADV-BAX-007-06,Hawk Eye Bit Reading,Warbitelixir,F4,Demigod,B
+MV-ADV-BAX-007-07,Banking Parry,Equipoise Wideeye,F2,Demigod,B
+MV-ADV-BAX-007-08,Stoop Line Pierce,Novarive,F5,Demigod,B
+MV-ADV-BAX-007-09,Twin-Hawk Pair,Blaze Brunt,F2,Demigod,B
+MV-ADV-BAX-007-10,Stoop Qi Gather,Battleremedy,F4,Demigod,B
+MV-ADV-BAX-007-11,Azure Stoop Axe Cleave,Furrowing Nova Brunt,F6a,Demigod,B
+MV-ADV-BAX-007-12,Hawk Fall Ward,Veritywarbit,F5,Demigod,B
+MV-ADV-BAX-008-01,Paired Edge Stance,Granite Warhelve,F2,Champion,B
+MV-ADV-BAX-008-02,Bit-Beard Pair Cut,Blazebanded,F5,Champion,B
+MV-ADV-BAX-008-03,Twin Hook Pull,Subduing Warcleave,F1,Champion,B
+MV-ADV-BAX-008-04,Beard Lead Step,Might Hewdown,F2,Champion,B
+MV-ADV-BAX-008-05,Paired Rebound Parry,Bandedcuirass,F4,Champion,B
+MV-ADV-BAX-008-06,Twin-Edge Qi Pulse,Bandedelixir,F4,Champion,B
+MV-ADV-BAX-008-07,Pair Break Hew,Splitting Smite,F1,Champion,B
+MV-ADV-BAX-008-08,Twin Seal Hook,Lot Battleheel,F2,Champion,B
+MV-ADV-BAX-009-01,Basin Guard,Facetbanded,F5,Void God,B
+MV-ADV-BAX-009-02,River-Bend Bit Cut,Tearing Battercut,F1,Void God,B
+MV-ADV-BAX-009-03,Flow Step,Careening Crescentbit,F1,Void God,B
+MV-ADV-BAX-009-04,Current Pull,Fastening Rive,F2,Void God,B
+MV-ADV-BAX-009-05,Basin Fill Chop,Tempered Banded,F2,Void God,B
+MV-ADV-BAX-009-06,River Sense,Chime Warbit,F2,Void God,B
+MV-ADV-BAX-009-07,Weir Parry,Murkbanded,F5,Void God,B
+MV-ADV-BAX-009-08,Basin Overflow Hew,Wideeye Assault,F3,Void God,B
+MV-ADV-BAX-009-09,Undertow Haft Drag,Rumble Warbeard,F2,Void God,B
+MV-ADV-BAX-009-10,Flood Sweep Cleave,Rive Assault,F3,Void God,B
+MV-ADV-BAX-010-01,Open-Ground Stance,Granite Warpoll,F2,Champion,B
+MV-ADV-BAX-010-02,Windward Chop,Severing Bitedge,F1,Champion,B
+MV-ADV-BAX-010-03,Plateau Edge Step,Silt Brunt,F2,Champion,B
+MV-ADV-BAX-010-04,Bearing Hold Parry,Chime Crescentbit,F2,Champion,B
+MV-ADV-BAX-010-05,Wind-Sworn Cleave,Harpooning Battleheel,F1,Champion,B
+MV-ADV-BAX-010-06,Oath Weight Gather,Vitalbattle,F5,Champion,B
+MV-ADV-BAX-010-07,Wind Break Haft Sweep,Dominating Haftcap,F1,Champion,B
+MV-ADV-BAX-010-08,Gale Rebound Parry,Glint Warbit,F2,Champion,B
+MV-ADV-BAX-010-09,Plateau Wind Cleave,Slagbanded,F5,Champion,B
+MV-ADV-BAX-011-01,Bearing Guard,Aegis Warhelve,F2,Demigod,B
+MV-ADV-BAX-011-02,Gale Hew,Mightwarbit,F5,Demigod,B
+MV-ADV-BAX-011-03,Bearing Haft Step,Glancing Warcleave,F1,Demigod,B
+MV-ADV-BAX-011-04,Gale Beard Pull,Gyvebrunt,F5,Demigod,B
+MV-ADV-BAX-011-05,Gathering Wind Qi,Might Bitedge,F2,Demigod,B
+MV-ADV-BAX-011-06,Crosswind Haft Parry,Warpoll Cloak,F3,Demigod,B
+MV-ADV-BAX-011-07,Held-Bearing Axe Cleave,Glintbrunt,F5,Demigod,B
+MV-ADV-BAX-011-08,Oath Gale Sweep,Daybreak Warbeard,F2,Demigod,B
+MV-ADV-BAX-012-01,Windward Plant,Thornwarbit,F5,Ruler,B
+MV-ADV-BAX-012-02,Headwind Hew,Iron Smite,F2,Ruler,B
+MV-ADV-BAX-012-03,Wind Line Axe Step,Warhelve Sprint,F3,Ruler,B
+MV-ADV-BAX-012-04,Oath Hold Brace,Warbitcloak,F4,Ruler,B
+MV-ADV-BAX-012-05,Bearing Cut Pair,Sanguine Bitedge,F2,Ruler,B
+MV-ADV-BAX-012-06,Windward Rap,Mayhem Hewdown,F2,Ruler,B
+MV-ADV-BAX-012-07,Bearing Beard Draw,Thorn Wideeye,F2,Ruler,B
+MV-ADV-BAX-012-08,Plateau Qi Gather,Anointing Battleheel,F1,Ruler,B
+MV-ADV-BAX-012-09,Windward Haft Turn,Chimebanded,F5,Ruler,B
+MV-ADV-BAX-012-10,Oath Wind Pierce,Battercut Thrash,F3,Ruler,B
+MV-ADV-BAX-012-11,Gale Press Seal,Fastening Brunt,F2,Ruler,B
+MV-ADV-BAX-013-01,Oath Stance,Annealed Warpoll,F1,Void God,B
+MV-ADV-BAX-013-02,Sworn Bearing Cut,Scything Crescentbit,F1,Void God,B
+MV-ADV-BAX-013-03,Wind Edge Step,Bandedleap,F4,Void God,B
+MV-ADV-BAX-013-04,Oath Hook Drag,Compressing Warbeard,F1,Void God,B
+MV-ADV-BAX-013-05,Bearing Rebound Parry,Equipoise Haftcap,F2,Void God,B
+MV-ADV-BAX-013-06,Gale Oath Gather,Warbitlinctus,F4,Void God,B
+MV-ADV-BAX-013-07,Held-Line Pierce,Hollow Banded,F2,Void God,B
+MV-ADV-BAX-013-08,Wind Sunder Cleave,Iron Battercut,F2,Void God,B
+MV-ADV-BAX-013-09,Oath Gale Axe Cleave,Scorching Warbit,F1,Void God,B
+MV-ADV-BAX-003-10,Hollow Battercut,Dense Battercut,F2,Champion,B
+MV-ADV-BAX-013-07,Hollow Banded,Heavy Banded,F2,Void God,B

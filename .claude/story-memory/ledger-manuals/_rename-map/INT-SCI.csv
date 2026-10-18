@@ -1,0 +1,71 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-SCI-001-01,Awakened Guard Stance Settling,Lipprop,F4,Senior L1 Low,A
+MV-INT-SCI-001-02,Qi-Lit Forehand Slash,Acrid Deepbelly,F1,Senior L1 Low,A
+MV-INT-SCI-001-03,Heel-Light Slip Step,Fleet Flowedge,F1,Senior L1 Low,A
+MV-INT-SCI-001-04,Flat-Side Qi Slide Parry,Swellback Barrier,F3,Senior L1 Low,A
+MV-INT-SCI-001-05,Wrist-Drive Belly Cut,Talwarflog,F4,Senior L1 Low,A
+MV-INT-SCI-001-06,Rebound Cut After the Guard,Talwarslap,F4,Senior L1 Low,A
+MV-INT-SCI-002-01,Fed-Curve Ready Guard,Dense Flaretip,F1,Senior L3 Mid,A
+MV-INT-SCI-002-02,Even-Breath Arc Cut,Rugged Scoop,F1,Senior L3 Mid,A
+MV-INT-SCI-002-03,Reverse Arc Pull,Bold Carve,F1,Senior L3 Mid,A
+MV-INT-SCI-002-04,Inside Edge Check,Lipbarrier,F4,Senior L3 Mid,A
+MV-INT-SCI-002-05,Fed-Qi Retreat Slide,Cantlezip,F4,Senior L3 Mid,A
+MV-INT-SCI-002-06,Curve Stop Against a Chop,Layered Crescent,F1,Senior L3 Mid,A
+MV-INT-SCI-002-07,Lengthened Draw of the Curve,Ruthless Saddleguard,F1,Senior L3 Mid,A
+MV-INT-SCI-002-08,Softened Guard Giving Way,Layered Talwar,F1,Senior L3 Mid,A
+MV-INT-SCI-003-01,Treatise Opening Stance,Unmoving Broadcurve,F1,Senior L5 Low,A
+MV-INT-SCI-003-02,Plain Drawing Slash,Brisk Cantle,F1,Senior L5 Low,A
+MV-INT-SCI-003-03,Counter-Draw on the Parry,Scimhilt Thwack,F3,Senior L5 Low,A
+MV-INT-SCI-003-04,Half-Step Following Draw,Scoopstalk,F4,Senior L5 Low,A
+MV-INT-SCI-003-05,Draw-Cut Guard Return,Unmoving Flowedge,F1,Senior L5 Low,A
+MV-INT-SCI-003-06,Qi-Whetted Drawing Slash,Hungry Arcwheel,F1,Senior L5 Low,A
+MV-INT-SCI-003-07,Double-Draw Through the Guard,Carvethwack,F4,Senior L5 Low,A
+MV-INT-SCI-004-01,Drill Hall Guard Ring,Talwarscreen,F4,Senior L7 Low,A
+MV-INT-SCI-004-02,Broad-Blade Cut and Reset,Brutal Scoop,F1,Senior L7 Low,A
+MV-INT-SCI-004-03,Partnered Edge Meeting,Saddleguard Buckle,F3,Senior L7 Low,A
+MV-INT-SCI-004-04,Footwork Square Drill,Lopcurl,F4,Senior L7 Low,A
+MV-INT-SCI-004-05,Forearm Tempering Strike,Wild Carve,F1,Senior L7 Low,A
+MV-INT-SCI-004-06,Drill-Post Gap Cut,Crescent Swat,F3,Senior L7 Low,A
+MV-INT-SCI-004-07,Three-Cut Qi Chain,Cruel Arcwheel,F1,Senior L7 Low,A
+MV-INT-SCI-004-08,Counter-Wheel Over the Block,Carveslap,F4,Senior L7 Low,A
+MV-INT-SCI-004-09,Rooted Guard Under Pressure,Sturdy Deepbelly,F1,Senior L7 Low,A
+MV-INT-SCI-005-01,Master Book Opening Round,Hungry Lop,F1,Senior L9 Low,A
+MV-INT-SCI-005-02,Slanted Wrist Roll Cut,Talwar Hammerfall,F3,Senior L9 Low,A
+MV-INT-SCI-005-03,Master's Counter Slip,Scoopzip,F4,Senior L9 Low,A
+MV-INT-SCI-005-04,Pommel-Guard Collapse,Talwarbuckle,F4,Senior L9 Low,A
+MV-INT-SCI-005-05,Scoop Under the Spear Haft,Gagging Broadcurve,F1,Senior L9 Low,A
+MV-INT-SCI-005-06,Rolling Heel Pursuit,Lopglide,F4,Senior L9 Low,A
+MV-INT-SCI-005-07,Level Belly Cut Through Cloth,Lurching Whipcut,F1,Senior L9 Low,A
+MV-INT-SCI-005-08,Master's Threaded Arc,Grim Cantle,F1,Senior L9 Low,A
+MV-INT-SCI-005-09,Crushing Spine Return,Rough Swellback,F1,Senior L9 Low,A
+MV-INT-SCI-005-10,Wall of the Turning Edge,Resolute Scimhilt,F1,Senior L9 Low,A
+MV-INT-SCI-006-01,Circling Opening Guard,Talwarprop,F4,Warrior L1 Low,B
+MV-INT-SCI-006-02,Passing Edge Flick,Clay Whipcut,F2,Warrior L1 Low,B
+MV-INT-SCI-006-03,Outer Circle Pace,Claylip,F5,Warrior L1 Low,B
+MV-INT-SCI-006-04,Turned Cut at the Flank,Lopswat,F4,Warrior L1 Low,B
+MV-INT-SCI-006-05,Hooked Counter on the Thrust,Splice Flaretip,F2,Warrior L1 Low,B
+MV-INT-SCI-006-06,Circle-Fed Qi Slash,Savage Arcwheel,F1,Warrior L1 Low,B
+MV-INT-SCI-006-07,Hook-and-Release Throw Off,Viselike Saddleguard,F1,Warrior L1 Low,B
+MV-INT-SCI-007-01,Canon Ground Guard,Cantlehasp,F4,Warrior L2 Mid,B
+MV-INT-SCI-007-02,Canon Saddle Guard,Brasscantle,F5,Warrior L2 Mid,B
+MV-INT-SCI-007-03,Mounted Slash Past a Rider,Brutal Lop,F1,Warrior L2 Mid,B
+MV-INT-SCI-007-04,Footman's Rising Draw,Lipthwack,F4,Warrior L2 Mid,B
+MV-INT-SCI-007-05,Weight Slide Along the Mount,Carvestalk,F4,Warrior L2 Mid,B
+MV-INT-SCI-007-06,Parry from a Moving Seat,Humtalwar,F5,Warrior L2 Mid,B
+MV-INT-SCI-007-07,Gallop-Fed Qi Slash,Honed Broadcurve,F2,Warrior L2 Mid,B
+MV-INT-SCI-007-08,Unhorsing Hook Pull,Burdening Lop,F1,Warrior L2 Mid,B
+MV-INT-SCI-008-01,Tempo Guard at the Ready,Sprig Flowedge,F2,Warrior L4 Low,B
+MV-INT-SCI-008-02,Curve Against the Straight Edge,Hum Cantle,F2,Warrior L4 Low,B
+MV-INT-SCI-008-03,Hooking Cut Behind the Guard,Deepbelly Scorer,F3,Warrior L4 Low,B
+MV-INT-SCI-008-04,Half-Beat Step In,Talwar Hurdle,F3,Warrior L4 Low,B
+MV-INT-SCI-008-05,Tempo-Broken Qi Cut,Crimson Scimhilt,F2,Warrior L4 Low,B
+MV-INT-SCI-008-06,Yielding Curve Reversal,Flaretip Carapace,F3,Warrior L4 Low,B
+MV-INT-SCI-009-01,Binding Hook Opening,Brass Swellback,F2,Warrior L6 Low,B
+MV-INT-SCI-009-02,Hook Slip Over the Wrist,Tethering Carve,F1,Warrior L6 Low,B
+MV-INT-SCI-009-03,Pull and Cut Combination,Static Scoop,F2,Warrior L6 Low,B
+MV-INT-SCI-009-04,Hooked Stride Away,Veering Rake,F1,Warrior L6 Low,B
+MV-INT-SCI-009-05,Hilt-Side Hook Check,Discord Rake,F2,Warrior L6 Low,B
+MV-INT-SCI-009-06,Tip Catch of the Falling Blade,Rill Crescent,F2,Warrior L6 Low,B
+MV-INT-SCI-009-07,Qi-Tightened Hook Bind,Splice Arcwheel,F2,Warrior L6 Low,B
+MV-INT-SCI-009-08,Hook-Lift Overhead Cut,Wild Rake,F1,Warrior L6 Low,B
+MV-INT-SCI-009-09,Releasing the Bound Weapon,Gall Whipcut,F2,Warrior L6 Low,B

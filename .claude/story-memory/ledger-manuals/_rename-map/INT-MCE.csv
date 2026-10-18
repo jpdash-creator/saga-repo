@@ -1,0 +1,74 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-MCE-001-01,Settled Grip Overswing,Savage Maceball,F1,Senior L2 Low,A
+MV-INT-MCE-001-02,Shoulder Hinge Drop,Crushswat,F4,Senior L2 Low,A
+MV-INT-MCE-001-03,Flange Face Parry,Ironknob Hasp,F3,Senior L2 Low,A
+MV-INT-MCE-001-04,Lead Foot Slide,Lithe Flangerib,F1,Senior L2 Low,A
+MV-INT-MCE-001-05,Qi-Packed Haft Smash,Ruthless Pearhead,F1,Senior L2 Low,A
+MV-INT-MCE-001-06,Linked Swing Pair,Pearthwack,F4,Senior L2 Low,A
+MV-INT-MCE-002-01,Saddle-High Overstroke,Acrid Ribhead,F1,Senior L4 Low,A
+MV-INT-MCE-002-02,Reined Cross Swing,Rushing Batter,F1,Senior L4 Low,A
+MV-INT-MCE-002-03,Rider's Haft Guard,Maceneck Hasp,F3,Senior L4 Low,A
+MV-INT-MCE-002-04,Foot Line Advance,Crushcurl,F4,Senior L4 Low,A
+MV-INT-MCE-002-05,Dismounting Knob Hook,Entangling Smash,F1,Senior L4 Low,A
+MV-INT-MCE-002-06,Mount-Side Knee Crush,Wild Studhead,F1,Senior L4 Low,A
+MV-INT-MCE-002-07,Qi-Braced Stirrup Stand,Rooted Haftring,F1,Senior L4 Low,A
+MV-INT-MCE-003-01,Shield Rim Hammering,Brisk Wristloop,F1,Senior L6 Low,A
+MV-INT-MCE-003-02,Boss Knocker,Batterflog,F4,Senior L6 Low,A
+MV-INT-MCE-003-03,Edge Hook Haul,Ribhasp,F4,Senior L6 Low,A
+MV-INT-MCE-003-04,Overhead Shield Drop,Rugged Crush,F1,Senior L6 Low,A
+MV-INT-MCE-003-05,Wide Circling Step,Prowling Dent,F1,Senior L6 Low,A
+MV-INT-MCE-003-06,Shield-Walk Break,Poundbuckle,F4,Senior L6 Low,A
+MV-INT-MCE-003-07,Boss-Crack Strike,Studhead Hammerfall,F3,Senior L6 Low,A
+MV-INT-MCE-003-08,Rim Rattle Beat,Rushing Haftring,F1,Senior L6 Low,A
+MV-INT-MCE-004-01,Flange Bite Strike,Hungry Pulp,F1,Senior L3 Low,A
+MV-INT-MCE-004-02,Leaf-Edge Rake,Bellhead Swat,F3,Senior L3 Low,A
+MV-INT-MCE-004-03,Flange Catch Shove,Rigid Maceneck,F1,Senior L3 Low,A
+MV-INT-MCE-004-04,Rim Step Pivot,Veering Crush,F1,Senior L3 Low,A
+MV-INT-MCE-004-05,Edge-Catching Pull,Crushhasp,F4,Senior L3 Low,A
+MV-INT-MCE-004-06,Flanged Crown Smash,Keen Dent,F1,Senior L3 Low,A
+MV-INT-MCE-005-01,Weighted Beat Swing,Bold Batter,F1,Senior L5 Mid,A
+MV-INT-MCE-005-02,Rebound Down-Swing,Rushing Pearhead,F1,Senior L5 Mid,A
+MV-INT-MCE-005-03,Counted Guard Hold,Shielding Bellhead,F1,Senior L5 Mid,A
+MV-INT-MCE-005-04,Half-Beat Step,Macestalk,F4,Senior L5 Mid,A
+MV-INT-MCE-005-05,Pendulum Return,Ribhead Slap,F3,Senior L5 Mid,A
+MV-INT-MCE-005-06,Weight-Shift Check,Pulp Carapace,F3,Senior L5 Mid,A
+MV-INT-MCE-005-07,Falling Weight Drive,Poundswat,F4,Senior L5 Mid,A
+MV-INT-MCE-006-01,Brigandine Stud Strike,Batterswat,F4,Senior L7 Low,A
+MV-INT-MCE-006-02,Greave Edge Knock,Savage Pound,F1,Senior L7 Low,A
+MV-INT-MCE-006-03,Visor Slit Tap,Wild Ironknob,F1,Senior L7 Low,A
+MV-INT-MCE-006-04,Arm Plate Hook,Burdening Maceball,F1,Senior L7 Low,A
+MV-INT-MCE-006-05,Inside Step Close,Pulpswerve,F4,Senior L7 Low,A
+MV-INT-MCE-006-06,Gorget Press,Smashscreen,F4,Senior L7 Low,A
+MV-INT-MCE-006-07,Armor Seam Crush,Brisk Flangerib,F1,Senior L7 Low,A
+MV-INT-MCE-006-08,Rib-Plate Thunder,Ribslap,F4,Senior L7 Low,A
+MV-INT-MCE-006-09,Joint-Lock Break,Fierce Bellhead,F1,Senior L7 Low,A
+MV-INT-MCE-007-01,Choked Haft Swing,Rugged Wristloop,F1,Senior L8 Low,A
+MV-INT-MCE-007-02,Pommel Chest Press,Ruthless Wristloop,F1,Senior L8 Low,A
+MV-INT-MCE-007-03,Elbow-Lock Haft Hold,Crushprop,F4,Senior L8 Low,A
+MV-INT-MCE-007-04,Clinch Sidestep,Ducking Pulp,F1,Senior L8 Low,A
+MV-INT-MCE-007-05,Chest Knob Punch,Rude Pound,F1,Senior L8 Low,A
+MV-INT-MCE-007-06,Short-Haft Hook Pull,Macebuckle,F4,Senior L8 Low,A
+MV-INT-MCE-007-07,Twisting Haft Throw,Tethering Ribhead,F1,Senior L8 Low,A
+MV-INT-MCE-007-08,Press-Out Shove,Ribbuckle,F4,Senior L8 Low,A
+MV-INT-MCE-007-09,Inner Guard Slam,Flangerib Barrier,F3,Senior L8 Low,A
+MV-INT-MCE-008-01,Haft Charge Swing,Smash Swat,F3,Senior L3 Mid,A
+MV-INT-MCE-008-02,Flange Hum Parry,Sturdy Maceball,F1,Senior L3 Mid,A
+MV-INT-MCE-008-03,Circling Qi Step,Pulpstalk,F4,Senior L3 Mid,A
+MV-INT-MCE-008-04,Hollow Haft Ring,Gripping Maceneck,F1,Senior L3 Mid,A
+MV-INT-MCE-008-05,Charged Knob Thrust,Ruthless Ironknob,F1,Senior L3 Mid,A
+MV-INT-MCE-008-06,Haft-Length Surge,Pearscorer,F4,Senior L3 Mid,A
+MV-INT-MCE-009-01,Full Reach Swing,Ribthwack,F4,Senior L6 Mid,A
+MV-INT-MCE-009-02,Retreating Haft Cut-Off,Stalwart Haftring,F1,Senior L6 Mid,A
+MV-INT-MCE-009-03,Long Reach Hold,Lassoing Batter,F1,Senior L6 Mid,A
+MV-INT-MCE-009-04,Stepping Reach Switch,Coasting Dent,F1,Senior L6 Mid,A
+MV-INT-MCE-009-05,Drop-Step Smash,Lurching Pound,F1,Senior L6 Mid,A
+MV-INT-MCE-009-06,Distance-Breaking Rush,Scudding Smash,F1,Senior L6 Mid,A
+MV-INT-MCE-009-07,Reach-Check Guard,Stubborn Pearhead,F1,Senior L6 Mid,A
+MV-INT-MCE-010-01,Opening Chain Swing,Maceflog,F4,Senior L9 Low,A
+MV-INT-MCE-010-02,Hip-Led Backswing,Macethwack,F4,Senior L9 Low,A
+MV-INT-MCE-010-03,Flange Parry Rotate,Layered Studhead,F1,Senior L9 Low,A
+MV-INT-MCE-010-04,Chain Step Entry,Pirouetting Maceball,F1,Senior L9 Low,A
+MV-INT-MCE-010-05,Drill Knob Check,Tethering Crush,F1,Senior L9 Low,A
+MV-INT-MCE-010-06,Ladder Swing Series,Poundslap,F4,Senior L9 Low,A
+MV-INT-MCE-010-07,Linked Qi Chain,Haftring Flog,F3,Senior L9 Low,A
+MV-INT-MCE-010-08,Closing Guard Circuit,Studhead Buckle,F3,Senior L9 Low,A

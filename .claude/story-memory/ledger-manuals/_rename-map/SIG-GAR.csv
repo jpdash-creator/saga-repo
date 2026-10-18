@@ -1,0 +1,138 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-GAR-001-01,Court Salute Guard,Prism Wirebraid,F2,Warrior,B
+MV-SIG-GAR-001-02,Paired Loop Lay,Peremptory Garrote,F1,Warrior,B
+MV-SIG-GAR-001-03,Hawk Quiet Pace,Cinch Solace,F3,Warrior,B
+MV-SIG-GAR-001-04,Court Wrist Turn,Venerable Gripdowel,F1,Warrior,B
+MV-SIG-GAR-001-05,Paired Draw Beat,Toggle Banner,F3,Warrior,B
+MV-SIG-GAR-001-06,Azure Qi Seat,Thrall Constrict,F2,Warrior,B
+MV-SIG-GAR-001-07,Twin Loop Closing,Sigilstrand,F5,Champion,B
+MV-SIG-GAR-001-08,Court Stoop Snare,Guileful Wirecore,F1,Champion,B
+MV-SIG-GAR-001-09,Azure Court Reckoning,Prism Barbedwire,F2,Demigod,B
+MV-SIG-GAR-001-10,Court Pair Final Seal,Sigil Throttle,F2,Warrior,B
+MV-SIG-GAR-002-01,Track Breath Guard,Noosering Vow,F3,Warrior,B
+MV-SIG-GAR-002-02,Twin Track Cast,Thrall Slipknot,F2,Warrior,B
+MV-SIG-GAR-002-03,Counter-Step Cross,Squall Slipnoose,F2,Warrior,B
+MV-SIG-GAR-002-04,Body Track Pull,Famed Handlebar,F1,Warrior,B
+MV-SIG-GAR-002-05,Qi Track Hold,Toggleseal,F4,Warrior,B
+MV-SIG-GAR-002-06,Crossing Track Parry,Delugestrand,F5,Warrior,B
+MV-SIG-GAR-002-07,Body Lure Loop Slip,Entropy Barbedwire,F2,Warrior,B
+MV-SIG-GAR-002-08,Dual Track Choke,Thralltoggle,F5,Champion,B
+MV-SIG-GAR-002-09,Basin Rim Pair Snare,Hornbeam Cordhandle,F2,Champion,B
+MV-SIG-GAR-002-10,Twin-Track Overwhelm,Millstone Noosering,F2,Demigod,B
+MV-SIG-GAR-002-11,Dual-Track School Close,Tenetwire,F5,Warrior,B
+MV-SIG-GAR-003-01,Hawk Perch Cord Guard,Sacrosanct Slipknot,F1,Champion,B
+MV-SIG-GAR-003-02,Stooping Loop Throw,Millstone Handlebar,F2,Champion,B
+MV-SIG-GAR-003-03,Folded Wing Step,Dunetoggle,F5,Champion,B
+MV-SIG-GAR-003-04,Talon Wrist Hook,Thunderclap Tighten,F2,Champion,B
+MV-SIG-GAR-003-05,Hawk Shadow Feint,Wirevow,F4,Champion,B
+MV-SIG-GAR-003-06,Updraft Cord Parry,Peal Wirebraid,F2,Champion,B
+MV-SIG-GAR-003-07,Rail Dive Choke,Imperious Throttle,F1,Champion,B
+MV-SIG-GAR-003-08,Window Perch Snare,Sigiltoggle,F5,Champion,B
+MV-SIG-GAR-003-09,Hawk's Eye Reckoning,Tranquil Wirecore,F1,Demigod,B
+MV-SIG-GAR-003-10,Hawk Court Last Stoop,Grand Destiny Cordbraid,F6a,Champion,B
+MV-SIG-GAR-004-01,River Stance Guard,Strandtroth,F4,Ruler,B
+MV-SIG-GAR-004-02,Smooth Stone Cast,Millstone Cordbraid,F2,Ruler,B
+MV-SIG-GAR-004-03,Streamside Walk,Squall Cordhandle,F2,Ruler,B
+MV-SIG-GAR-004-04,Bend and Hold,Authoritative Slipnoose,F1,Ruler,B
+MV-SIG-GAR-004-05,Steady Current Draw,Seasonnoose,F5,Ruler,B
+MV-SIG-GAR-004-06,Eddy Release Turn,Consecrated Barbedwire,F1,Ruler,B
+MV-SIG-GAR-004-07,Pool Anchor Knot,Tighten Vow,F3,Ruler,B
+MV-SIG-GAR-004-08,Ripple Warning Touch,Pealtoggle,F5,Ruler,B
+MV-SIG-GAR-004-09,Flood Draw Choke,Thrall Garrote,F2,Ruler,B
+MV-SIG-GAR-004-10,Ford Cord Snare,Wiretroth,F4,Ruler,B
+MV-SIG-GAR-004-11,Deep River Pull,Fearless Constrict,F1,Demigod,B
+MV-SIG-GAR-004-12,River Lineage Closing,Resonant Cinch Crown,F6b,Ruler,B
+MV-SIG-GAR-005-01,Azure Field Guard,Sanctum Gripdowel,F2,Demigod,B
+MV-SIG-GAR-005-02,Twin Field Throw,Sigilcinch,F5,Demigod,B
+MV-SIG-GAR-005-03,Sky Pace Cord Step,Squallnoose,F5,Demigod,B
+MV-SIG-GAR-005-04,Field-Laden Cord,Statute Cordhandle,F2,Demigod,B
+MV-SIG-GAR-005-05,Paired Field Pull,Gloomwire,F5,Demigod,B
+MV-SIG-GAR-005-06,Field Echo Parry,Pall Handlebar,F2,Demigod,B
+MV-SIG-GAR-005-07,Azure Field Binding,Authoritative Wirecore,F1,Demigod,B
+MV-SIG-GAR-005-08,Twin Veil Feint,Toggle Vow,F3,Demigod,B
+MV-SIG-GAR-005-09,Azure Throat Overwhelm,Statute Constrict,F2,Demigod,B
+MV-SIG-GAR-005-10,Azure Field Pair Close,Grand Slipnoose Triumph,F6b,Demigod,B
+MV-SIG-GAR-006-01,Core Rooted Cord Stance,Venerable Toggle,F1,Core Formation,B
+MV-SIG-GAR-006-02,Single Breath Loop Release,Sigil Wirebraid,F2,Core Formation,B
+MV-SIG-GAR-006-03,Core Pivot Step,Vigor Noosering,F2,Core Formation,B
+MV-SIG-GAR-006-04,Core Heat Cord,Storied Throttle,F1,Core Formation,B
+MV-SIG-GAR-006-05,Core Beat Parry,Parity Cordbraid,F2,Core Formation,B
+MV-SIG-GAR-006-06,Twin Core Thread,Tighten Covenant,F3,Core Formation,B
+MV-SIG-GAR-006-07,Core-Fed Choke,Sigil Tighten,F2,Core Formation,B
+MV-SIG-GAR-006-08,Sealed Cord Ring,Hornbeam Slipknot,F2,Core Formation,B
+MV-SIG-GAR-006-09,Core Breaking Draw,Cinchdecree,F4,Core Formation,B
+MV-SIG-GAR-006-10,Core-Fed Twin Close,Resonant Season Noosering,F6a,Core Formation,B
+MV-SIG-GAR-007-01,Plateau Oath Cord Stance,Devout Gripdowel,F1,Warrior,B
+MV-SIG-GAR-007-02,Wind Throw Loop,Unbending Toggle,F1,Warrior,B
+MV-SIG-GAR-007-03,Low Wind Step,Strandsolace,F4,Warrior,B
+MV-SIG-GAR-007-04,Bearing Check Cord Parry,Paritystrand,F5,Warrior,B
+MV-SIG-GAR-007-05,Sworn Pull Rhythm,Triumphant Cinch,F1,Warrior,B
+MV-SIG-GAR-007-06,Wind-Seated Qi,Millstone Gripdowel,F2,Warrior,B
+MV-SIG-GAR-007-07,Gale Closing Knot,Nooseseal,F4,Champion,B
+MV-SIG-GAR-007-08,Plateau Trail Snare,Hornbeam Wirebraid,F2,Champion,B
+MV-SIG-GAR-007-09,Gale Bearing Reckoning,Garrote Banner,F3,Demigod,B
+MV-SIG-GAR-007-10,Plateau Primer Close,Destiny Barbedwire,F2,Warrior,B
+MV-SIG-GAR-008-01,Oath Hold Guard,Enshrined Wirecore,F1,Warrior,B
+MV-SIG-GAR-008-02,Rise-Lip Loop Drop,Thrall Cinch,F2,Warrior,B
+MV-SIG-GAR-008-03,Held Heading Step,Dune Handlebar,F2,Warrior,B
+MV-SIG-GAR-008-04,Oath-Tight Draw,Cordhandle Crown,F3,Warrior,B
+MV-SIG-GAR-008-05,Gale Cord Slip,Parity Barbedwire,F2,Warrior,B
+MV-SIG-GAR-008-06,Wind Mark Strike,Haemal Throttle,F2,Warrior,B
+MV-SIG-GAR-008-07,Oath Knot Cinch,Glacier Cordbraid,F2,Champion,B
+MV-SIG-GAR-008-08,Gale Gap Dragnet,Venom Slipknot,F2,Champion,B
+MV-SIG-GAR-008-09,Sworn Gale Surge,Gloomcinch,F5,Demigod,B
+MV-SIG-GAR-008-10,Oath Book Last Page,Harmonious Gripdowel,F1,Warrior,B
+MV-SIG-GAR-009-01,Bearing Eye Guard,Hornbeam Cordbraid,F2,Champion,B
+MV-SIG-GAR-009-02,Cast on the Line,Thrall Wirecore,F2,Champion,B
+MV-SIG-GAR-009-03,Held Course Step,Constrict Grace,F3,Champion,B
+MV-SIG-GAR-009-04,Heading Wrist Snap,Vigor Slipnoose,F2,Champion,B
+MV-SIG-GAR-009-05,Bearing Hold Pull,Gloom Noosering,F2,Champion,B
+MV-SIG-GAR-009-06,Bearing Slip Turn,Deluge Cordhandle,F2,Champion,B
+MV-SIG-GAR-009-07,Course-Correct Thread,Strandmercy,F4,Champion,B
+MV-SIG-GAR-009-08,Bearing Seat Choke,Glacier Tighten,F2,Champion,B
+MV-SIG-GAR-009-09,Crossed Heading Snare,Beguiling Slipknot,F1,Champion,B
+MV-SIG-GAR-009-10,Plateau Heading Break,Vacuum Handlebar,F2,Demigod,B
+MV-SIG-GAR-009-11,Bearing Teachings Closing,Harmonious Volition Wirebraid,F6a,Champion,B
+MV-SIG-GAR-010-01,Unwalled Open Guard,Sacrosanct Gripdowel,F1,Ruler,B
+MV-SIG-GAR-010-02,Edge-Cast Loop,Thrallstrand,F5,Ruler,B
+MV-SIG-GAR-010-03,Wide Sky Cord Step,Toggle Solace,F3,Ruler,B
+MV-SIG-GAR-010-04,Plateau Gust Parry,Undaunted Toggle,F1,Ruler,B
+MV-SIG-GAR-010-05,Wind-Hold Pull,Cinchbanner,F4,Ruler,B
+MV-SIG-GAR-010-06,Open Hand Slip,Hornbeam Cinch,F2,Ruler,B
+MV-SIG-GAR-010-07,Lineage Wind Choke,Tyrannous Slipnoose,F1,Ruler,B
+MV-SIG-GAR-010-08,Edge Run Snare,Beguiling Barbedwire,F1,Ruler,B
+MV-SIG-GAR-010-09,Plateau Wind Surge,Millstone Throttle,F2,Demigod,B
+MV-SIG-GAR-010-10,Unwalled Lineage Close,Symphonic Throttle Crown,F6b,Ruler,B
+MV-SIG-GAR-011-01,Field Oath Stance,Glacier Wirecore,F2,Demigod,B
+MV-SIG-GAR-011-02,Field Wind Cast,Glacier Slipknot,F2,Demigod,B
+MV-SIG-GAR-011-03,Gust-Edge Step,Cinchgrace,F4,Demigod,B
+MV-SIG-GAR-011-04,Field Cord Lash,Noosedecree,F4,Demigod,B
+MV-SIG-GAR-011-05,Field-Held Tension,Volition Constrict,F2,Demigod,B
+MV-SIG-GAR-011-06,Wind Veil Slip,Squall Wirebraid,F2,Demigod,B
+MV-SIG-GAR-011-07,Sworn Field Thread,Commanding Garrote,F1,Demigod,B
+MV-SIG-GAR-011-08,Field Bearing Read,Wiregift,F4,Demigod,B
+MV-SIG-GAR-011-09,Gale Field Choke,Sigilwire,F5,Demigod,B
+MV-SIG-GAR-011-10,Field Plateau Snare,Noosevow,F4,Demigod,B
+MV-SIG-GAR-011-11,Gale Field Overwhelm,Magnificent Cordbraid,F1,Demigod,B
+MV-SIG-GAR-011-12,Field Mastery Close,Choral Handlebar,F1,Demigod,B
+MV-SIG-GAR-012-01,Core Gale Stance,Undefiled Noosering,F1,Core Formation,B
+MV-SIG-GAR-012-02,Cast from the Core,Sigil Garrote,F2,Core Formation,B
+MV-SIG-GAR-012-03,Core Wind Step,Deluge Cinch,F2,Core Formation,B
+MV-SIG-GAR-012-04,Core Gust Draw,Gloomstrand,F5,Core Formation,B
+MV-SIG-GAR-012-05,Core Beat Slip,Parity Slipknot,F2,Core Formation,B
+MV-SIG-GAR-012-06,Core Thread Hold,Sigilnoose,F5,Core Formation,B
+MV-SIG-GAR-012-07,Core Gale Choke,Thrallwire,F5,Core Formation,B
+MV-SIG-GAR-012-08,Gale Ring Snare,Sigil Gripdowel,F2,Core Formation,B
+MV-SIG-GAR-012-09,Core Gale Break,Thunderclap Garrote,F2,Core Formation,B
+MV-SIG-GAR-012-10,Core-Fed Gale Close,Seasonwire,F5,Core Formation,B
+MV-SIG-GAR-002-09,Hornbeam Cordhandle,Snaring Cordhandle,F2,Champion,B
+MV-SIG-GAR-005-01,Sanctum Gripdowel,Stalwart Gripdowel,F2,Demigod,B
+MV-SIG-GAR-006-08,Hornbeam Slipknot,Snaring Slipknot,F2,Core Formation,B
+MV-SIG-GAR-007-08,Hornbeam Wirebraid,Snaring Wirebraid,F2,Champion,B
+MV-SIG-GAR-008-03,Dune Handlebar,Surging Handlebar,F2,Warrior,B
+MV-SIG-GAR-008-07,Glacier Cordbraid,Crushing Cordbraid,F2,Champion,B
+MV-SIG-GAR-009-01,Hornbeam Cordbraid,Unyielding Cordbraid,F2,Champion,B
+MV-SIG-GAR-009-08,Glacier Tighten,Vising Tighten,F2,Champion,B
+MV-SIG-GAR-010-06,Hornbeam Cinch,Crushing Cinch,F2,Ruler,B
+MV-SIG-GAR-011-01,Glacier Wirecore,Adamant Wirecore,F2,Demigod,B
+MV-SIG-GAR-011-02,Glacier Slipknot,Vising Slipknot,F2,Demigod,B

@@ -1,0 +1,130 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-CHW-001-01,Court Two Chain Stance,Impenetrable Eyelet,F1,Demigod L2 Low,B
+MV-ELI-CHW-001-02,Matched Cast Answer,Gnashing Linkpin,F1,Demigod L2 Low,B
+MV-ELI-CHW-001-03,Court Mirror Glide,Eyeletglare,F4,Demigod L2 Low,B
+MV-ELI-CHW-001-04,Answering Chain Guard,Gustjoint,F5,Demigod L2 Low,B
+MV-ELI-CHW-001-05,Twin Field Tether,Rivetvalor,F4,Demigod L2 Low,B
+MV-ELI-CHW-001-06,Court Beat Rhythm,Vigilant Spineplate,F1,Demigod L2 Low,B
+MV-ELI-CHW-001-07,Twin Chain Seesaw,Gustrivet,F5,Demigod L2 Low,B
+MV-ELI-CHW-001-08,Court of Iron Rings,Strangling Slither,F1,Demigod L2 Low,B
+MV-ELI-CHW-001-09,Twin Chain Court Verdict,Booming Hingebar,F1,Demigod L2 Low,B
+MV-ELI-CHW-002-01,Basin Tail Stance,Granite Segment,F2,Demigod L5 Mid,B
+MV-ELI-CHW-002-02,Tail Filling Breath,Vitalrivet,F5,Demigod L5 Mid,B
+MV-ELI-CHW-002-03,Long Tail Pour Cast,Blazerasp,F5,Demigod L5 Mid,B
+MV-ELI-CHW-002-04,Basin Edge Step,Gust Whiplink,F2,Demigod L5 Mid,B
+MV-ELI-CHW-002-05,Tail Draw Reading,Verityeyelet,F5,Demigod L5 Mid,B
+MV-ELI-CHW-002-06,Brimming Tail Throw,Rattleruin,F4,Demigod L5 Mid,B
+MV-ELI-CHW-002-07,Basin Held Guard,Hoarfrost Chainhead,F2,Demigod L5 Mid,B
+MV-ELI-CHW-002-08,Tail Dam Wrap,Ponderous Joint,F2,Demigod L5 Mid,B
+MV-ELI-CHW-002-09,Basin Overflow Tail Sweep,Blaze Rivet,F2,Demigod L5 Mid,B
+MV-ELI-CHW-002-10,Long Tail Pinning Pour,Shade Coilend,F2,Demigod L5 Mid,B
+MV-ELI-CHW-002-11,Brimming Basin Release,Rasp Reckoning,F3,Demigod L5 Mid,B
+MV-ELI-CHW-003-01,Bend Reading Stance,Unassailable Linkpin,F1,Demigod L8 Low,B
+MV-ELI-CHW-003-02,Curving Chain Cast,Titanic Rattle,F1,Demigod L8 Low,B
+MV-ELI-CHW-003-03,Eddy Step,Meteoric Tailblade,F1,Demigod L8 Low,B
+MV-ELI-CHW-003-04,Current Pull Back,Rumble Spineplate,F2,Demigod L8 Low,B
+MV-ELI-CHW-003-05,Bank Watching Sense,Verity Chainhead,F2,Demigod L8 Low,B
+MV-ELI-CHW-003-06,Meander Throw,Writhe Ruin,F3,Demigod L8 Low,B
+MV-ELI-CHW-003-07,Chain Eddy Wrap,Rattlemettle,F4,Demigod L8 Low,B
+MV-ELI-CHW-003-08,Undercurrent Guard,Murkeyelet,F5,Demigod L8 Low,B
+MV-ELI-CHW-003-09,Bend Doubling Cast,Facet Slither,F2,Demigod L8 Low,B
+MV-ELI-CHW-003-10,Flood Bend Sweep,Downpour Whiplink,F2,Demigod L8 Low,B
+MV-ELI-CHW-003-11,Cutbank Collapse,Numbing Rivet,F1,Demigod L8 Low,B
+MV-ELI-CHW-003-12,Oxbow Loop Snare,Deed Coilend,F2,Demigod L8 Low,B
+MV-ELI-CHW-003-13,Course Changing Pull,Blinding Jangle Glimmer,F6b,Demigod L8 Low,B
+MV-ELI-CHW-004-01,Talon Grip Stance,Ironrivet,F5,Void God L2 Mid,B
+MV-ELI-CHW-004-02,Barbed Talon Strike,Might Joint,F2,Void God L2 Mid,B
+MV-ELI-CHW-004-03,Clutch Pull,Chime Rattle,F2,Void God L2 Mid,B
+MV-ELI-CHW-004-04,Hover Step,Lightning Tailblade,F1,Void God L2 Mid,B
+MV-ELI-CHW-004-05,Talon Lock Wrap,Suffocating Jangle,F1,Void God L2 Mid,B
+MV-ELI-CHW-004-06,Lifting Claw Heave,Toxin Eyelet,F2,Void God L2 Mid,B
+MV-ELI-CHW-004-07,Pinion Guard Turn,Torrent Hingebar,F2,Void God L2 Mid,B
+MV-ELI-CHW-004-08,Rending Talon Dive,Blaze Eyelet,F2,Void God L2 Mid,B
+MV-ELI-CHW-004-09,Plate Gripping Pierce,Ferocious Tailblade,F1,Void God L2 Mid,B
+MV-ELI-CHW-004-10,Talon Wound Held Open,Nova Rasp,F2,Void God L2 Mid,B
+MV-ELI-CHW-005-01,Twin Orbit Rest,Obdurate Segment,F1,Void God L6 High,B
+MV-ELI-CHW-005-02,Orbit Release Beat,Gust Chainhead,F2,Void God L6 High,B
+MV-ELI-CHW-005-03,Counter Turning Step,Writheglimmer,F4,Void God L6 High,B
+MV-ELI-CHW-005-04,Inner Orbit Parry,Murk Coilend,F2,Void God L6 High,B
+MV-ELI-CHW-005-05,Outer Orbit Cast,Rumble Whiplink,F2,Void God L6 High,B
+MV-ELI-CHW-005-06,Orbit Lock Wrap,Raspvalor,F4,Void God L6 High,B
+MV-ELI-CHW-005-07,Orbit Qi Weave,Clairvoyant Spineplate,F1,Void God L6 High,B
+MV-ELI-CHW-005-08,Shared Axis Guard,Thorn Linkpin,F2,Void God L6 High,B
+MV-ELI-CHW-005-09,Orbit Switch Strike,Rasp Havoc,F3,Void God L6 High,B
+MV-ELI-CHW-005-10,Paired Orbit Vortex,Downpour Rivet,F2,Void God L6 High,B
+MV-ELI-CHW-005-11,Orbit Net Drawing,Immobilizing Segment,F1,Void God L6 High,B
+MV-ELI-CHW-005-12,Twin Orbit Collapse,Rumble Slither,F2,Void God L6 High,B
+MV-ELI-CHW-006-01,Dual Track Segment Stance,Granite Coilend,F2,True God L1 Low,B
+MV-ELI-CHW-006-02,Body Track Throw,Rattle Scourge,F3,True God L1 Low,B
+MV-ELI-CHW-006-03,Qi Track Glide,Granite Joint,F2,True God L1 Low,B
+MV-ELI-CHW-006-04,Segment Link Pulse,Unerring Hingebar,F1,True God L1 Low,B
+MV-ELI-CHW-006-05,Dual Track Segment Screen,Unrelenting Joint,F1,True God L1 Low,B
+MV-ELI-CHW-006-06,Split Track Cast,Tempered Writhe,F2,True God L1 Low,B
+MV-ELI-CHW-006-07,Segment By Segment Drive,Berserk Rasp,F1,True God L1 Low,B
+MV-ELI-CHW-006-08,Tracked Chain Snare,Silt Spineplate,F2,True God L1 Low,B
+MV-ELI-CHW-006-09,Twin Track Sundering,Eviscerating Writhe Havoc,F6b,True God L1 Low,B
+MV-ELI-CHW-007-01,Oath Taking Chain Stance,Flintlike Linkpin,F1,Demigod L3 Low,B
+MV-ELI-CHW-007-02,Bearing Line Flick,Shattering Chainhead,F1,Demigod L3 Low,B
+MV-ELI-CHW-007-03,Wind Behind Step,Unseen Slither,F1,Demigod L3 Low,B
+MV-ELI-CHW-007-04,Sworn Pull Back,Rivet Mettle,F3,Demigod L3 Low,B
+MV-ELI-CHW-007-05,Gale Lane Reading,Verity Tailblade,F2,Demigod L3 Low,B
+MV-ELI-CHW-007-06,Oath Weighted Cast,Wrathful Rattle,F1,Demigod L3 Low,B
+MV-ELI-CHW-007-07,Bearing Held Wrap,Gyverattle,F5,Demigod L3 Low,B
+MV-ELI-CHW-007-08,Crosswind Turning Guard,Chime Hingebar,F2,Demigod L3 Low,B
+MV-ELI-CHW-007-09,Sworn Gale Chain Sweep,Rampaging Jangle,F1,Demigod L3 Low,B
+MV-ELI-CHW-007-10,Bearing Pinning Chain,Ponderous Jangle,F2,Demigod L3 Low,B
+MV-ELI-CHW-007-11,Line the Wind Cannot Bend,Brutalizing Iron Whiplink,F6a,Demigod L3 Low,B
+MV-ELI-CHW-008-01,Edge Toe Stance,Faceteyelet,F5,Demigod L6 High,B
+MV-ELI-CHW-008-02,Updraft Cast,Tempered Slither,F2,Demigod L6 High,B
+MV-ELI-CHW-008-03,Chain Edge Run Step,Silt Writhe,F2,Demigod L6 High,B
+MV-ELI-CHW-008-04,Rim Barb Hook Pull,Toxin Tailblade,F2,Demigod L6 High,B
+MV-ELI-CHW-008-05,Edge Pinning Wrap,Gyveeyelet,F5,Demigod L6 High,B
+MV-ELI-CHW-008-06,Edge Dropping Parry,Equipoise Segment,F2,Demigod L6 High,B
+MV-ELI-CHW-008-07,Ride the Updraft Throw,Tempered Eyelet,F2,Demigod L6 High,B
+MV-ELI-CHW-008-08,Edge Throwing Sweep,Rattlewrath,F4,Demigod L6 High,B
+MV-ELI-CHW-008-09,Over the Edge Drag,Ponderous Spineplate,F2,Demigod L6 High,B
+MV-ELI-CHW-008-10,Plateau Edge Plunge,Gusteyelet,F5,Demigod L6 High,B
+MV-ELI-CHW-009-01,Long Chain Bearing Stance,Iron Chainhead,F2,Void God L1 Mid,B
+MV-ELI-CHW-009-02,Paying Out Cast,Lacerating Hingebar,F1,Void God L1 Mid,B
+MV-ELI-CHW-009-03,Plateau Stride Pace,Vanishing Segment,F1,Void God L1 Mid,B
+MV-ELI-CHW-009-04,Wind Taking Catch,Chime Rasp,F2,Void God L1 Mid,B
+MV-ELI-CHW-009-05,Chain Horizon Reading,Chimejoint,F5,Void God L1 Mid,B
+MV-ELI-CHW-009-06,Extended Qi Cast,Facet Writhe,F2,Void God L1 Mid,B
+MV-ELI-CHW-009-07,Held Bearing Wrap,Overpowering Linkpin,F1,Void God L1 Mid,B
+MV-ELI-CHW-009-08,Gale Parting Guard,Adamantine Rivet,F1,Void God L1 Mid,B
+MV-ELI-CHW-009-09,Chain Shortening Step,Torrent Jangle,F2,Void God L1 Mid,B
+MV-ELI-CHW-009-10,Far Gale Sweep,Joint Scourge,F3,Void God L1 Mid,B
+MV-ELI-CHW-009-11,Bearing Holding Snare,Siltjoint,F5,Void God L1 Mid,B
+MV-ELI-CHW-009-12,Horizon Reaching Pierce,Ferocious Rattle,F1,Void God L1 Mid,B
+MV-ELI-CHW-009-13,Gale Line Across the Plateau,Blistering Coilend,F1,Void God L1 Mid,B
+MV-ELI-CHW-010-01,Open Field Chain Hold,Tailblade Durance,F3,Void God L4 Low,B
+MV-ELI-CHW-010-02,Wind Lent Cast,Rivetscourge,F4,Void God L4 Low,B
+MV-ELI-CHW-010-03,Bare Ground Step,Unseen Eyelet,F1,Void God L4 Low,B
+MV-ELI-CHW-010-04,Unsheltered Chain Guard,Charter Hingebar,F2,Void God L4 Low,B
+MV-ELI-CHW-010-05,Wind Taking Wrap,Eyeletdurance,F4,Void God L4 Low,B
+MV-ELI-CHW-010-06,Open Hand Draw,Raspmettle,F4,Void God L4 Low,B
+MV-ELI-CHW-010-07,Wind Without Shelter Sweep,Downpour Segment,F2,Void God L4 Low,B
+MV-ELI-CHW-010-08,Open Field Anchor,Shadewrithe,F5,Void God L4 Low,B
+MV-ELI-CHW-010-09,Unwalled Gale Strike,Gustrasp,F5,Void God L4 Low,B
+MV-ELI-CHW-011-01,Tether Setting Stance,Impervious Linkpin,F1,Void God L8 Mid,B
+MV-ELI-CHW-011-02,Sworn Tether Cast,Tempered Whiplink,F2,Void God L8 Mid,B
+MV-ELI-CHW-011-03,Tether Slack Step,Granite Jangle,F2,Void God L8 Mid,B
+MV-ELI-CHW-011-04,Taut Tether Pull,Toxin Rasp,F2,Void God L8 Mid,B
+MV-ELI-CHW-011-05,Tether Feel Sense,Verityrivet,F5,Void God L8 Mid,B
+MV-ELI-CHW-011-06,Wind Knot Wrap,Eyeletspine,F4,Void God L8 Mid,B
+MV-ELI-CHW-011-07,Tether Singing Guard,Rivetnerve,F4,Void God L8 Mid,B
+MV-ELI-CHW-011-08,Pulling Tether Strike,Mightjangle,F5,Void God L8 Mid,B
+MV-ELI-CHW-011-09,Sworn Tether Loosing,Chime Slither,F2,Void God L8 Mid,B
+MV-ELI-CHW-011-10,Tether Storm Sweep,Mayhem Writhe,F2,Void God L8 Mid,B
+MV-ELI-CHW-011-11,Wind Staked Tether,Silt Eyelet,F2,Void God L8 Mid,B
+MV-ELI-CHW-011-12,Tether Snapping Strike,Jointhavoc,F4,Void God L8 Mid,B
+MV-ELI-CHW-012-01,Plateau Opening Stance,Impervious Spineplate,F1,True God L2 Mid,B
+MV-ELI-CHW-012-02,Ground Giving Retreat,Might Rattle,F2,True God L2 Mid,B
+MV-ELI-CHW-012-03,Ground Retaking Cast,Joint Wrath,F3,True God L2 Mid,B
+MV-ELI-CHW-012-04,Open Sky Chain Reading,Clairvoyant Rivet,F1,True God L2 Mid,B
+MV-ELI-CHW-012-05,Oath Sworn Wrap,Hoarfrost Whiplink,F2,True God L2 Mid,B
+MV-ELI-CHW-012-06,Giving Guard,Chimerivet,F5,True God L2 Mid,B
+MV-ELI-CHW-012-07,Retaking Pull,Hogtying Rattle,F1,True God L2 Mid,B
+MV-ELI-CHW-012-08,Plateau Reclaiming Sweep,Daybreak Rivet,F2,True God L2 Mid,B
+MV-ELI-CHW-012-09,Giving Ground Snare,Lethal Chainhead,F1,True God L2 Mid,B
+MV-ELI-CHW-012-10,Oath of Ground Retaken,Rattlehavoc,F4,True God L2 Mid,B

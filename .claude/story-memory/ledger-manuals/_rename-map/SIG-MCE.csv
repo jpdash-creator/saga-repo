@@ -1,0 +1,133 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-MCE-001-01,Court Pair Overstroke,Poundcrown,F4,Warrior L1 Low,B
+MV-SIG-MCE-001-02,Twin Haft Guard,Sanctum Ribhead,F2,Warrior L1 Low,B
+MV-SIG-MCE-001-03,Court Pair Footing,Ethereal Studhead,F1,Warrior L1 Low,B
+MV-SIG-MCE-001-04,Courtyard Rap Series,Quenched Bellhead,F2,Warrior L1 Low,B
+MV-SIG-MCE-001-05,Pommel Return Parry,Deluge Flangerib,F2,Warrior L1 Low,B
+MV-SIG-MCE-001-06,Twin Flange Draw,Millstone Dent,F2,Warrior L1 Low,B
+MV-SIG-MCE-001-07,Court Pair Crush,Quenched Pearhead,F2,Champion L1 Low,B
+MV-SIG-MCE-001-08,Paired Weight Press,Gloomsmash,F5,Champion L1 Low,B
+MV-SIG-MCE-001-09,Two-Court Heavy Fall,Thunderclap Crush,F2,Demigod L1 Low,B
+MV-SIG-MCE-001-10,Court Answer Cycle,Tenetmace,F5,Warrior L1 Low,B
+MV-SIG-MCE-002-01,Perch Descent Strike,Vigor Smash,F2,Warrior L6 Low,B
+MV-SIG-MCE-002-02,Basin Shin Guard,Consecrated Ironknob,F1,Warrior L6 Low,B
+MV-SIG-MCE-002-03,Hawk Landing Step,Dune Haftring,F2,Warrior L6 Low,B
+MV-SIG-MCE-002-04,Azure Perch Feint,Unbending Maceball,F1,Warrior L6 Low,B
+MV-SIG-MCE-002-05,Basin Flange Turn,Peal Wristloop,F2,Warrior L6 Low,B
+MV-SIG-MCE-002-06,River-Edge Hook,Masterful Pulp,F1,Warrior L6 Low,B
+MV-SIG-MCE-002-07,Hawk-Stoop Weight Drop,Batterverdict,F4,Warrior L6 Low,B
+MV-SIG-MCE-002-08,Basin Collapse Crush,Quenched Pound,F2,Champion L1 Low,B
+MV-SIG-MCE-002-09,Perch and Basin Heavy Stroke,Vacuumdent,F5,Champion L1 Low,B
+MV-SIG-MCE-002-10,Hawk and Basin Answer,Season Dent,F2,Demigod L1 Low,B
+MV-SIG-MCE-002-11,Hawk Basin Closing Stroke,Triumphant Thunderclap Maceneck,F6a,Warrior L6 Low,B
+MV-SIG-MCE-003-01,Paired Head Overstroke,Steel Haftring,F2,Champion L3 Low,B
+MV-SIG-MCE-003-02,River-Run Guard,Deluge Ribhead,F2,Champion L3 Low,B
+MV-SIG-MCE-003-03,Azure Slide Step,Windborne Maceball,F1,Champion L3 Low,B
+MV-SIG-MCE-003-04,Twin Head Rake,Vigordent,F5,Champion L3 Low,B
+MV-SIG-MCE-003-05,Current Haft Binding,Thrallrib,F5,Champion L3 Low,B
+MV-SIG-MCE-003-06,Paired Rim Disruption,Maceneck Seal,F3,Champion L3 Low,B
+MV-SIG-MCE-003-07,Current-Fed Crush,Prism Studhead,F2,Champion L3 Low,B
+MV-SIG-MCE-003-08,Downriver Weight Press,Statute Wristloop,F2,Champion L3 Low,B
+MV-SIG-MCE-003-09,Paired Heads River Fall,Steelpear,F5,Demigod L1 Low,B
+MV-SIG-MCE-003-10,Azure River Strokes,Resonant Tenet Crush,F6a,Champion L3 Low,B
+MV-SIG-MCE-004-01,Heavy River Overswing,Haemal Batter,F2,Ruler L1 Mid,B
+MV-SIG-MCE-004-02,Haft-River Guard,Bedrock Pearhead,F2,Ruler L1 Mid,B
+MV-SIG-MCE-004-03,Basin Stride Step,Dune Bellhead,F2,Ruler L1 Mid,B
+MV-SIG-MCE-004-04,Rim Hammering,Denttriumph,F4,Ruler L1 Mid,B
+MV-SIG-MCE-004-05,River Current Haft Turn,Ironknob Seal,F3,Ruler L1 Mid,B
+MV-SIG-MCE-004-06,Paired Hook Pull,Sigilpear,F5,Ruler L1 Mid,B
+MV-SIG-MCE-004-07,Meridian Weight Smash,Splendid Flangerib,F1,Ruler L1 Mid,B
+MV-SIG-MCE-004-08,Downstream Bone Crush,Vacuum Smash,F2,Ruler L1 Mid,B
+MV-SIG-MCE-004-09,Run-Off Suppression,Bedrock Pulp,F2,Ruler L1 Mid,B
+MV-SIG-MCE-004-10,Confluent Heavy Wave,Solarpulp,F5,Ruler L1 Mid,B
+MV-SIG-MCE-004-11,River-Run Overweight,Macebanner,F4,Demigod L1 Low,B
+MV-SIG-MCE-004-12,Heavy River School Stroke,Unrivaled Thunderclap Ribhead,F6a,Ruler L1 Mid,B
+MV-SIG-MCE-005-01,Azure Field Overstroke,Inferno Wristloop,F2,Demigod L1 Low,B
+MV-SIG-MCE-005-02,Paired Field Guard,Prismrib,F5,Demigod L1 Low,B
+MV-SIG-MCE-005-03,Descending Step Shift,Vigormace,F5,Demigod L1 Low,B
+MV-SIG-MCE-005-04,Basin Rim Sense,Eclipse Pearhead,F2,Demigod L1 Low,B
+MV-SIG-MCE-005-05,Field Hook Draw,Despotic Pound,F1,Demigod L1 Low,B
+MV-SIG-MCE-005-06,Descent Rim Strike,Thunderclap Haftring,F2,Demigod L1 Low,B
+MV-SIG-MCE-005-07,Twin Plate Burst,Vacuum Pulp,F2,Demigod L1 Low,B
+MV-SIG-MCE-005-08,Field Weight Suppression,Bedrock Maceball,F2,Demigod L1 Low,B
+MV-SIG-MCE-005-09,Paired Heads Wide Descent,Tempestuous Pound,F2,Demigod L1 Low,B
+MV-SIG-MCE-005-10,Azure Heads Final Weight,Thunderclap Bellhead,F2,Demigod L1 Low,B
+MV-SIG-MCE-005-11,Azure Descent Answer,Grand Volition Batter,F6a,Demigod L1 Low,B
+MV-SIG-MCE-006-01,Core-Fed Overstroke,Quenched Ironknob,F2,Core Formation L1 Low,B
+MV-SIG-MCE-006-02,River Core Guard,Prismmace,F5,Core Formation L1 Low,B
+MV-SIG-MCE-006-03,Basin Core Step,Bedrock Smash,F2,Core Formation L1 Low,B
+MV-SIG-MCE-006-04,Paired Core Pulse,Thunderclap Studhead,F2,Core Formation L1 Low,B
+MV-SIG-MCE-006-05,Weight-Draw Hook,Millstone Crush,F2,Core Formation L1 Low,B
+MV-SIG-MCE-006-06,Core River Crush,Maceneck Crown,F3,Core Formation L1 Low,B
+MV-SIG-MCE-006-07,Core Weight Suppression,Peartriumph,F4,Core Formation L1 Low,B
+MV-SIG-MCE-006-08,Basin of Weight Sweep,Entropy Dent,F2,Core Formation L1 Low,B
+MV-SIG-MCE-006-09,Core-Weight Final Fall,Pulsarrib,F5,Core Formation L1 Low,B
+MV-SIG-MCE-006-10,Core River Answer,Destiny Bellhead,F2,Core Formation L1 Low,B
+MV-SIG-MCE-007-01,Oath Swing Opening,Batter Banner,F3,Warrior L2 Low,B
+MV-SIG-MCE-007-02,Wind Haft Guard,Inviolate Flangerib,F1,Warrior L2 Low,B
+MV-SIG-MCE-007-03,Bearing Step Forward,Ethereal Wristloop,F1,Warrior L2 Low,B
+MV-SIG-MCE-007-04,Gale Beat Knob Rap,Squall Studhead,F2,Warrior L2 Low,B
+MV-SIG-MCE-007-05,Bearing Flange Pull,Denttroth,F4,Warrior L2 Low,B
+MV-SIG-MCE-007-06,Wind Edge Check,Peal Maceneck,F2,Warrior L2 Low,B
+MV-SIG-MCE-007-07,Oath Plate Breaker,Radiance Pearhead,F2,Champion L1 Low,B
+MV-SIG-MCE-007-08,Plateau Press Suppression,Volition Smash,F2,Champion L1 Low,B
+MV-SIG-MCE-007-09,Sworn Gale Head Fall,Pulp Decree,F3,Demigod L1 Low,B
+MV-SIG-MCE-007-10,Wind-Sworn Oath Cycle,Harmonious Volition Pound,F6a,Warrior L2 Low,B
+MV-SIG-MCE-008-01,Plateau Oath Overstroke,Flangerib Crown,F3,Warrior L7 Low,B
+MV-SIG-MCE-008-02,Bearing-Held Haft Ward,Stately Haftring,F1,Warrior L7 Low,B
+MV-SIG-MCE-008-03,Plateau Mace Pace,Evanescent Batter,F1,Warrior L7 Low,B
+MV-SIG-MCE-008-04,Wind Edge Knob Strike,Crush Triumph,F3,Warrior L7 Low,B
+MV-SIG-MCE-008-05,Oath Binding Hold,Millstone Wristloop,F2,Warrior L7 Low,B
+MV-SIG-MCE-008-06,Plateau Flat Parry,Pall Ironknob,F2,Warrior L7 Low,B
+MV-SIG-MCE-008-07,Oath Bearing Press,Authoritative Ironknob,F1,Champion L1 Low,B
+MV-SIG-MCE-008-08,Gale Breaking Fall,Vaunted Maceball,F1,Champion L1 Low,B
+MV-SIG-MCE-008-09,Plateau Oath Final Weight,Quenched Maceball,F2,Demigod L1 Low,B
+MV-SIG-MCE-008-10,Plateau Oath Answer,Battertriumph,F4,Warrior L7 Low,B
+MV-SIG-MCE-009-01,Heavy Gale Overswing,Poundbanner,F4,Champion L5 Low,B
+MV-SIG-MCE-009-02,Gale Bearing Guard,Steelmace,F5,Champion L5 Low,B
+MV-SIG-MCE-009-03,Wind-Held Step,Smashodyssey,F4,Champion L5 Low,B
+MV-SIG-MCE-009-04,Oath Rim Strike,Famed Dent,F1,Champion L5 Low,B
+MV-SIG-MCE-009-05,Gale Haft Parry,Deluge Bellhead,F2,Champion L5 Low,B
+MV-SIG-MCE-009-06,Bearing Hook Haul,Ribhead Troth,F3,Champion L5 Low,B
+MV-SIG-MCE-009-07,Heavy Wind Smash,Quenched Crush,F2,Champion L5 Low,B
+MV-SIG-MCE-009-08,Plateau Weight Crush,Dentverdict,F4,Champion L5 Low,B
+MV-SIG-MCE-009-09,Arm-Breaking Mace Press,Seasonpear,F5,Champion L5 Low,B
+MV-SIG-MCE-009-10,Bearing Sweep Roll,Magnificent Ribhead,F1,Champion L5 Low,B
+MV-SIG-MCE-009-11,Heavy Gale Final Fall,Batter Decree,F3,Demigod L1 Low,B
+MV-SIG-MCE-009-12,Heavy Gale Bearing Stroke,Vigor Pound,F2,Champion L5 Low,B
+MV-SIG-MCE-010-01,Open Wind Overstroke,Thunderclap Dent,F2,Ruler L1 Mid,B
+MV-SIG-MCE-010-02,Wind Haft Ward,Unwavering Pearhead,F1,Ruler L1 Mid,B
+MV-SIG-MCE-010-03,Free Bearing Step,Ribsolace,F4,Ruler L1 Mid,B
+MV-SIG-MCE-010-04,Open Haft Rake,Studhead Triumph,F3,Ruler L1 Mid,B
+MV-SIG-MCE-010-05,Wind Flange Hook,Millstone Haftring,F2,Ruler L1 Mid,B
+MV-SIG-MCE-010-06,Gale Haft Turnaway,Ribpledge,F4,Ruler L1 Mid,B
+MV-SIG-MCE-010-07,Open Wind Weight Strike,Squall Maceneck,F2,Ruler L1 Mid,B
+MV-SIG-MCE-010-08,Open-Air Weight Crush,Steelpulp,F5,Ruler L1 Mid,B
+MV-SIG-MCE-010-09,Open Wind Final Weight,Poundedict,F4,Demigod L1 Low,B
+MV-SIG-MCE-010-10,Open Wind Teaching Stroke,Orchestral Pulp Banner,F6b,Ruler L1 Mid,B
+MV-SIG-MCE-011-01,Sworn Field Overstroke,Ribverdict,F4,Demigod L3 Low,B
+MV-SIG-MCE-011-02,Gale Field Guard,Hornbeam Studhead,F2,Demigod L3 Low,B
+MV-SIG-MCE-011-03,Wind Descent Step,Dune Ironknob,F2,Demigod L3 Low,B
+MV-SIG-MCE-011-04,Field Edge Sense,Revelation Bellhead,F2,Demigod L3 Low,B
+MV-SIG-MCE-011-05,Oath Field Binding,Macepledge,F4,Demigod L3 Low,B
+MV-SIG-MCE-011-06,Gale Rim Smash,Vigor Maceneck,F2,Demigod L3 Low,B
+MV-SIG-MCE-011-07,Descent Plate Burst,Quenched Dent,F2,Demigod L3 Low,B
+MV-SIG-MCE-011-08,Sworn Weight Suppression,Gloom Ribhead,F2,Demigod L3 Low,B
+MV-SIG-MCE-011-09,Gale Wide Descent,Famed Flangerib,F1,Demigod L3 Low,B
+MV-SIG-MCE-011-10,Sworn Gale Final Descent,Dauntless Crush,F1,Demigod L3 Low,B
+MV-SIG-MCE-011-11,Gale Oath Descent Answer,Flangerib Edict,F3,Demigod L3 Low,B
+MV-SIG-MCE-012-01,Core Wind Overstroke,Vigor Batter,F2,Core Formation L2 Low,B
+MV-SIG-MCE-012-02,Core-Held Haft Ward,Prism Pearhead,F2,Core Formation L2 Low,B
+MV-SIG-MCE-012-03,Bearing Core Pace,Silken Haftring,F1,Core Formation L2 Low,B
+MV-SIG-MCE-012-04,Core Wind Pulse,Ruling Wristloop,F1,Core Formation L2 Low,B
+MV-SIG-MCE-012-05,Oath Draw Hook,Crushtroth,F4,Core Formation L2 Low,B
+MV-SIG-MCE-012-06,Core Wind Crush,Matchless Pulp,F1,Core Formation L2 Low,B
+MV-SIG-MCE-012-07,Held Core Suppression,Seasoncrush,F5,Core Formation L2 Low,B
+MV-SIG-MCE-012-08,Plateau Wind Sweep,Demolition Bellhead,F2,Core Formation L2 Low,B
+MV-SIG-MCE-012-09,Core-Held Final Gale,Maceball Crown,F3,Core Formation L2 Low,B
+MV-SIG-MCE-012-10,Core Wind Answer,Haftring Banner,F3,Core Formation L2 Low,B
+MV-SIG-MCE-001-02,Sanctum Ribhead,Warding Ribhead,F2,Warrior L1 Low,B
+MV-SIG-MCE-002-03,Dune Haftring,Gliding Haftring,F2,Warrior L6 Low,B
+MV-SIG-MCE-004-03,Dune Bellhead,Fleet Bellhead,F2,Ruler L1 Mid,B
+MV-SIG-MCE-011-02,Hornbeam Studhead,Staunch Studhead,F2,Demigod L3 Low,B
+MV-SIG-MCE-011-03,Dune Ironknob,Nimble Ironknob,F2,Demigod L3 Low,B

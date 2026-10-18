@@ -1,0 +1,101 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-LAN-001-01,Tight-File Entry Stride,Mightride,F5,Champion,B
+MV-ADV-LAN-001-02,Slope-Shaft Rank Scan,Veritygraper,F5,Champion,B
+MV-ADV-LAN-001-03,Shield-Joint Prying Jab,Rumble Ride,F2,Champion,B
+MV-ADV-LAN-001-04,Contact-Steady Rest Hold,Gust Lanceguard,F2,Champion,B
+MV-ADV-LAN-001-05,Wedge-Driving Thrust,Irongraper,F5,Champion,B
+MV-ADV-LAN-001-06,Twin-Shield Haft Sweep,Impactcloak,F4,Champion,B
+MV-ADV-LAN-001-07,Front-Rank Cracking Surge,Gust Arrestrest,F2,Champion,B
+MV-ADV-LAN-001-08,Gap-Holding Shoulder Turn,Impacthauberk,F4,Champion,B
+MV-ADV-LAN-002-01,Poll-Line Sighting,Chime Couchrest,F2,Champion,B
+MV-ADV-LAN-002-02,Heavy-Stirrup Brace,Mindful Graper,F1,Champion,B
+MV-ADV-LAN-002-03,Flat-Cuirass Meet,Gust Tilt,F2,Champion,B
+MV-ADV-LAN-002-04,Mace-Rain Thick-Haft Cover,Torrent Lanceshaft,F2,Champion,B
+MV-ADV-LAN-002-05,Right-Wheel Reform,Blurring Shatter,F1,Champion,B
+MV-ADV-LAN-002-06,Exhale-Timed Cuirass Drive,Saddletorment,F4,Champion,B
+MV-ADV-LAN-002-07,Long-Run Rest Surge,Daybreak Lancehead,F2,Champion,B
+MV-ADV-LAN-002-08,Neck-Wedge Heavy Ward,Charter Bellrest,F2,Champion,B
+MV-ADV-LAN-002-09,Unhorsing Full-Weight Run,Gust Bowl,F2,Champion,B
+MV-ADV-LAN-002-10,Plate-Seam Qi Bore,Iron Momentum,F2,Champion,B
+MV-ADV-LAN-003-01,Long-Point Level Hold,Equipoise Counterbalance,F2,Demigod,B
+MV-ADV-LAN-003-02,Couch-Line Eye Settle,Waning Counterbalance,F2,Demigod,B
+MV-ADV-LAN-003-03,Extended Reach Thrust,Trouncing Vamplate,F1,Demigod,B
+MV-ADV-LAN-003-04,Guard-Side Wheel,Glancing Tilt,F1,Demigod,B
+MV-ADV-LAN-003-05,Field-Tip Extension,Glint Impact,F2,Demigod,B
+MV-ADV-LAN-003-06,Haft-Spring Ward,Coronel Fastness,F3,Demigod,B
+MV-ADV-LAN-003-07,Rest-Shift Rebalance,Renewing Graper,F1,Demigod,B
+MV-ADV-LAN-003-08,Field-Thrown Couched Strike,Splintering Couchrest,F1,Demigod,B
+MV-ADV-LAN-003-09,Long-Point Sweeping Guard,Adamant Lanceguard Plating,F6b,Demigod,B
+MV-ADV-LAN-004-01,Wheeling Counter-Lean,Invigorating Lancehead,F1,Demigod,B
+MV-ADV-LAN-004-02,Outside-Shoulder Glance,Remnant Bellrest,F2,Demigod,B
+MV-ADV-LAN-004-03,Inside-Track Point,Impactassault,F4,Demigod,B
+MV-ADV-LAN-004-04,Wheel-End Straight Thrust,Granite Ride,F2,Demigod,B
+MV-ADV-LAN-004-05,Trailing Haft Guard,Resilient Vamplate,F1,Demigod,B
+MV-ADV-LAN-004-06,Spiral Approach Step,Gustvamp,F5,Demigod,B
+MV-ADV-LAN-004-07,Arc-Held Qi Lead,Intent Coronel,F2,Demigod,B
+MV-ADV-LAN-004-08,Pivot-Cut Haft Sweep,Ironvamp,F5,Demigod,B
+MV-ADV-LAN-004-09,Curving Point Seek,Saddleassault,F4,Demigod,B
+MV-ADV-LAN-004-10,Wheeling Lance Surge,Rumblesaddle,F5,Demigod,B
+MV-ADV-LAN-004-11,Closing Spiral Press,Intenttilt,F5,Demigod,B
+MV-ADV-LAN-005-01,Paired-Knee Matching Stride,Might Arrestrest,F2,Ruler,B
+MV-ADV-LAN-005-02,Twin-Rest Couch Together,Invigorating Lanceshaft,F1,Ruler,B
+MV-ADV-LAN-005-03,Basin-Court Lane Strike,Tearing Graper,F1,Ruler,B
+MV-ADV-LAN-005-04,Mirror-Side Cover Guard,Equipoise Lancehead,F2,Ruler,B
+MV-ADV-LAN-005-05,Second-Rider Gap Glance,Chimevamp,F5,Ruler,B
+MV-ADV-LAN-005-06,River-Bend Parallel Turn,Might Shatter,F2,Ruler,B
+MV-ADV-LAN-005-07,Paired Thrust Echo,Facetsaddle,F5,Ruler,B
+MV-ADV-LAN-005-08,Shared-Rein Qi Beat,Daybreak Counterbalance,F2,Ruler,B
+MV-ADV-LAN-005-09,Twin-Shaft Cross Fend,Unyielding Couchrest,F1,Ruler,B
+MV-ADV-LAN-005-10,Partner-Cover Lance Lift,Lanceguard Hauberk,F3,Ruler,B
+MV-ADV-LAN-005-11,Two Lances One Wedge,Graperassault,F4,Ruler,B
+MV-ADV-LAN-005-12,Court-Pair Crossing Cut,Tempered Impact,F2,Ruler,B
+MV-ADV-LAN-006-01,High-Perch Seat Poise,Saddlelinctus,F4,Demigod,B
+MV-ADV-LAN-006-02,Stooping Point Drop,Blaze Coronel,F2,Demigod,B
+MV-ADV-LAN-006-03,Wing-Spread Elbow Set,Mightgraper,F5,Demigod,B
+MV-ADV-LAN-006-04,Downslope Run Step,Soaring Ride,F1,Demigod,B
+MV-ADV-LAN-006-05,Talon-Grip Guard,Graperplating,F4,Demigod,B
+MV-ADV-LAN-006-06,Blue-Sky Dive Thrust,Facet Arrestrest,F2,Demigod,B
+MV-ADV-LAN-006-07,Hooked Point Pull-Up,Rumble Momentum,F2,Demigod,B
+MV-ADV-LAN-006-08,Sky-Line Eye Lock,Waning Vamplate,F2,Demigod,B
+MV-ADV-LAN-006-09,Falling-Hawk Charge,Lanceshaft Thrash,F3,Demigod,B
+MV-ADV-LAN-006-10,Wheel-Above Cover Pass,Torrent Vamplate,F2,Demigod,B
+MV-ADV-LAN-007-01,Ford-Water Stride Hold,Granite Shatter,F2,Demigod,B
+MV-ADV-LAN-007-02,Splash-Line Point Strike,Blaze Impact,F2,Demigod,B
+MV-ADV-LAN-007-03,Bank-Side Guard Lift,Torrent Bellrest,F2,Demigod,B
+MV-ADV-LAN-007-04,Current-Read Glance,Saddleremedy,F4,Demigod,B
+MV-ADV-LAN-007-05,Twin-Bank Crossing Thrust,Ironbowl,F5,Demigod,B
+MV-ADV-LAN-007-06,Wading Shield Sweep,Hoarfrost Coronel,F2,Demigod,B
+MV-ADV-LAN-007-07,River-Mouth Shock Charge,Momentum Torment,F3,Demigod,B
+MV-ADV-LAN-007-08,Narrow-Ford Shaft Bar,Saddlecuirass,F4,Demigod,B
+MV-ADV-LAN-008-01,Bearing-Lean Seat,Vampelixir,F4,Champion,B
+MV-ADV-LAN-008-02,Crosswind Point Hold,Fortifying Lanceshaft,F1,Champion,B
+MV-ADV-LAN-008-03,Windward Run-In,Gust Graper,F2,Champion,B
+MV-ADV-LAN-008-04,Bearing-Taken Thrust,Might Bowl,F2,Champion,B
+MV-ADV-LAN-008-05,Gust-Added Point Press,Nova Tilt,F2,Champion,B
+MV-ADV-LAN-008-06,Lee-Side Haft Turn,Gust Bellrest,F2,Champion,B
+MV-ADV-LAN-008-07,Cord-Flutter Wind Reading,Fortifying Arrestrest,F1,Champion,B
+MV-ADV-LAN-008-08,Wind-Borne Lance Strike,Counterbalance Thrash,F3,Champion,B
+MV-ADV-LAN-008-09,Held-Bearing Sweep,Siltride,F5,Champion,B
+MV-ADV-LAN-009-01,Plateau-Lip Measured Pace,Silt Lancehead,F2,Demigod,B
+MV-ADV-LAN-009-02,Oath-Spoken Couch,Nursing Graper,F1,Demigod,B
+MV-ADV-LAN-009-03,Open-Ground Point Strike,Bowl Maelstrom,F3,Demigod,B
+MV-ADV-LAN-009-04,Edge-Side Guard Lift,Torrent Couchrest,F2,Demigod,B
+MV-ADV-LAN-009-05,Far-Mark Sighting,Heartening Lanceguard,F1,Demigod,B
+MV-ADV-LAN-009-06,Bearing-Kept Wheel,Torrent Tilt,F2,Demigod,B
+MV-ADV-LAN-009-07,Oath-Weighted Thrust,Tiltthrash,F4,Demigod,B
+MV-ADV-LAN-009-08,Dust-Veil Shaft Guard,Implacable Arrestrest,F1,Demigod,B
+MV-ADV-LAN-009-09,Sworn-Line Rein Beat,Intent Lanceguard,F2,Demigod,B
+MV-ADV-LAN-009-10,Edge-Run Oath Charge,Wrecking Momentum,F1,Demigod,B
+MV-ADV-LAN-009-11,Held-Oath Rider Brace,Aegis Lancehead,F2,Demigod,B
+MV-ADV-LAN-010-01,Open-Field Lead Stride,Granite Bowl,F2,Ruler,B
+MV-ADV-LAN-010-02,Gale-Back Seat Lean,Might Vamplate,F2,Ruler,B
+MV-ADV-LAN-010-03,Wide-Sweep Point Cut,Iron Impact,F2,Ruler,B
+MV-ADV-LAN-010-04,Gust-Cover Haft Guard,Grapergreave,F4,Ruler,B
+MV-ADV-LAN-010-05,Plain-Spread Sighting,Waning Lanceshaft,F2,Ruler,B
+MV-ADV-LAN-010-06,Tailwind Wheel Turn,Bounding Ride,F1,Ruler,B
+MV-ADV-LAN-010-07,Gale-Pressed Point Thrust,Unmaking Counterbalance,F1,Ruler,B
+MV-ADV-LAN-010-08,Rider-Line Wind Shear,Momentum Maelstrom,F3,Ruler,B
+MV-ADV-LAN-010-09,Uncovered-Flank Haft Hook,Compressing Bellrest,F1,Ruler,B
+MV-ADV-LAN-010-10,Updraft Shaft Lift,Chime Counterbalance,F2,Ruler,B
+MV-ADV-LAN-010-11,Open-Plain Gale Charge,Tempered Ride,F2,Ruler,B
+MV-ADV-LAN-010-12,Scattering Wind Sweep,Stifling Mayhem Impact,F6a,Ruler,B

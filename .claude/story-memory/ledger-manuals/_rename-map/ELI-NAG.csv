@@ -1,0 +1,154 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-NAG-001-01,Twin-Court Opening Guard,Evergreen Nagashaft,F1,Demigod L1 Low,B
+MV-ELI-NAG-001-02,Court Pair Slice,Granite Nagablade,F2,Demigod L1 Low,B
+MV-ELI-NAG-001-03,Dual-Lane Thrust,Ruinous Tsubaring,F1,Demigod L1 Low,B
+MV-ELI-NAG-001-04,Twin Shaft Halves Parry,Murk Ishizukibase,F2,Demigod L1 Low,B
+MV-ELI-NAG-001-05,Court-Pair Qi Sweep,Uchiotoshi Ruin,F3,Demigod L1 Low,B
+MV-ELI-NAG-001-06,Dual-Lane Stepping Cut,Corroding Nagatip,F1,Demigod L1 Low,B
+MV-ELI-NAG-001-07,Twin Haft Binding Weave,Kakenerve,F4,Demigod L1 Low,B
+MV-ELI-NAG-001-08,Two-Court Reaping Strike,Mightishi,F5,Demigod L1 Low,B
+MV-ELI-NAG-001-09,Court-Locking Bind,Kakevalor,F4,Demigod L1 Low,B
+MV-ELI-NAG-001-10,Twin-Court Sovereign Sweep,Punishing Habakiring,F1,Demigod L1 Low,B
+MV-ELI-NAG-002-01,Azure Hawk Poise,Flintlike Ishizuki,F1,Demigod L3 Mid,B
+MV-ELI-NAG-002-02,Pinion Cut,Ironnagi,F5,Demigod L3 Mid,B
+MV-ELI-NAG-002-03,Beak Point Strike,Wrathful Bladecurve,F1,Demigod L3 Mid,B
+MV-ELI-NAG-002-04,Pinion Shaft Fan Parry,Adamantine Habakiring,F1,Demigod L3 Mid,B
+MV-ELI-NAG-002-05,Updraft Toe Bound,Mightkake,F5,Demigod L3 Mid,B
+MV-ELI-NAG-002-06,Hawk-Eye Haft Sense,Ishizukibase Vitality,F3,Demigod L3 Mid,B
+MV-ELI-NAG-002-07,Hunting Arc Cut,Tempered Sukui,F2,Demigod L3 Mid,B
+MV-ELI-NAG-002-08,Hooked Talon Drag,Thorn Kake,F2,Demigod L3 Mid,B
+MV-ELI-NAG-002-09,Azure Feint Whirl,Strangling Mawashi,F1,Demigod L3 Mid,B
+MV-ELI-NAG-002-10,Falling Azure Crescent,Sanguine Tsubaring,F2,Demigod L3 Mid,B
+MV-ELI-NAG-002-11,Hawk Pair Sweep,Gust Nagashaft,F2,Demigod L3 Mid,B
+MV-ELI-NAG-002-12,Hawk Blink Descent,Unseen Glint Nagablade,F6a,Demigod L3 Mid,B
+MV-ELI-NAG-003-01,Basin Paired Guard,Hoarfrost Sayacap,F2,Demigod L5 High,B
+MV-ELI-NAG-003-02,Paired Basin Slice,Tempered Mawashi,F2,Demigod L5 High,B
+MV-ELI-NAG-003-03,Rim-Pair Thrust,Titanic Uchiotoshi,F1,Demigod L5 High,B
+MV-ELI-NAG-003-04,Basin Sweep Lock,Fastening Sayacap,F2,Demigod L5 High,B
+MV-ELI-NAG-003-05,Paired Reaper Step,Nagi Whirlpool,F3,Demigod L5 High,B
+MV-ELI-NAG-003-06,Basin Deep Cut,Vengeful Nagaheel,F1,Demigod L5 High,B
+MV-ELI-NAG-003-07,Twin-Basin Reaping Arc,Downpour Nagatip,F2,Demigod L5 High,B
+MV-ELI-NAG-003-08,Pool-Mirror Counter,Bladecurve Valor,F3,Demigod L5 High,B
+MV-ELI-NAG-003-09,Basin Overturning Sweep,Ishizuki Wrath,F3,Demigod L5 High,B
+MV-ELI-NAG-004-01,River-Run Ready Guard,Bladecurve Obduracy,F3,Demigod L8 Low,B
+MV-ELI-NAG-004-02,Riverbank Slice,Tempered Nagaheel,F2,Demigod L8 Low,B
+MV-ELI-NAG-004-03,Ford-Crossing Thrust,Hollow Harai,F2,Demigod L8 Low,B
+MV-ELI-NAG-004-04,Spray Flick Haft Parry,Nagamettle,F4,Demigod L8 Low,B
+MV-ELI-NAG-004-05,Planted Foot Bounds,Granite Nagi,F2,Demigod L8 Low,B
+MV-ELI-NAG-004-06,Current-Following Sweep,Nagiscourge,F4,Demigod L8 Low,B
+MV-ELI-NAG-004-07,Undertow Blade Hook Haul,Thorn Sukui,F2,Demigod L8 Low,B
+MV-ELI-NAG-004-08,Rapids Entry Cut,Ironishi,F5,Demigod L8 Low,B
+MV-ELI-NAG-004-09,Cataract Descent Cut,Rumble Tsubaring,F2,Demigod L8 Low,B
+MV-ELI-NAG-004-10,River-Bed Haft Anchor,Thorn Habakiring,F2,Demigod L8 Low,B
+MV-ELI-NAG-004-11,Flood-Run Reaping Arc,Lacerating Kake,F1,Demigod L8 Low,B
+MV-ELI-NAG-005-01,Dual-Track Waiting Line,Sunemettle,F4,Void God L1 Mid,B
+MV-ELI-NAG-005-02,Left Diagonal Naginata Cut,Hellish Mawashi,F1,Void God L1 Mid,B
+MV-ELI-NAG-005-03,Right Diagonal Answer Cut,Mangling Sayacap,F1,Void God L1 Mid,B
+MV-ELI-NAG-005-04,Track-Crossing Thrust,Nova Nagi,F2,Void God L1 Mid,B
+MV-ELI-NAG-005-05,Rail Slide Footing Switch,Siltkake,F5,Void God L1 Mid,B
+MV-ELI-NAG-005-06,Twin-Current Haft Surge Sweep,Sanguine Uchiotoshi,F2,Void God L1 Mid,B
+MV-ELI-NAG-005-07,Parallel Haft Beat,Harai Valor,F3,Void God L1 Mid,B
+MV-ELI-NAG-005-08,Track-Locked Guard,Indomitable Nagatip,F1,Void God L1 Mid,B
+MV-ELI-NAG-005-09,Switching Edge Slice,Blaze Ishizuki,F2,Void God L1 Mid,B
+MV-ELI-NAG-005-10,Double-Track Pursuit Cut,Nagablade Wrath,F3,Void God L1 Mid,B
+MV-ELI-NAG-005-11,Crossing Rails Reaping,Mightharai,F5,Void God L1 Mid,B
+MV-ELI-NAG-005-12,Track-Sealing Haft Hold,Nagivalor,F4,Void God L1 Mid,B
+MV-ELI-NAG-005-13,Dual-Track Overrun,Blistering Nagaheel,F1,Void God L1 Mid,B
+MV-ELI-NAG-006-01,Azure Wheel Guard,Hoarfrost Bladecurve,F2,Void God L3 Low,B
+MV-ELI-NAG-006-02,Wheel-Rim Cut,Shattering Sukui,F1,Void God L3 Low,B
+MV-ELI-NAG-006-03,Spoke Thrust,Nova Ishizukibase,F2,Void God L3 Low,B
+MV-ELI-NAG-006-04,Wheel Roll Parry,Nagaspine,F4,Void God L3 Low,B
+MV-ELI-NAG-006-05,Wheel-Turned Sweep,Tempered Harai,F2,Void God L3 Low,B
+MV-ELI-NAG-006-06,Rim-Spin Haft Strike,Tempered Ishizukibase,F2,Void God L3 Low,B
+MV-ELI-NAG-006-07,Hub-Anchored Step,Torrent Sukui,F2,Void God L3 Low,B
+MV-ELI-NAG-006-08,Great Wheel Reaping,Sukuihavoc,F4,Void God L3 Low,B
+MV-ELI-NAG-006-09,Wheel-Locked Disarm,Rumblenaga,F5,Void God L3 Low,B
+MV-ELI-NAG-006-10,Azure Wheel Unbroken Sweep,Uchiotoshi Havoc,F3,Void God L3 Low,B
+MV-ELI-NAG-007-01,Twin Hawk Perch Stance,Nagadurance,F4,Void God L6 High,B
+MV-ELI-NAG-007-02,Hawk Crescent Cut,Tempered Habakiring,F2,Void God L6 High,B
+MV-ELI-NAG-007-03,Beak-Pair Jab,Nagawrath,F4,Void God L6 High,B
+MV-ELI-NAG-007-04,Wing-Fold Parry,Nagavalor,F4,Void God L6 High,B
+MV-ELI-NAG-007-05,Twin Glide Step,Gustkake,F5,Void God L6 High,B
+MV-ELI-NAG-007-06,Hawk Pair Rending Cut,Hellish Kake,F1,Void God L6 High,B
+MV-ELI-NAG-007-07,Crescent Haft Snare,Thorn Nagashaft,F2,Void God L6 High,B
+MV-ELI-NAG-007-08,Hover-Strike Descent,Iron Nagashaft,F2,Void God L6 High,B
+MV-ELI-NAG-007-09,Twin Crescent Soar,Devastating Kake,F1,Void God L6 High,B
+MV-ELI-NAG-007-10,Hawkwing Pursuit Sweep,Nagatip Ruin,F3,Void God L6 High,B
+MV-ELI-NAG-007-11,Twin Hawk Crescent Fall,Rumblesukui,F5,Void God L6 High,B
+MV-ELI-NAG-008-01,Wind-Sworn Poise,Facet Tsubaring,F2,Demigod L2 Low,B
+MV-ELI-NAG-008-02,Gust-Edge Cut,Rumble Ishizuki,F2,Demigod L2 Low,B
+MV-ELI-NAG-008-03,Bearing Blade Point Drive,Rumble Mawashi,F2,Demigod L2 Low,B
+MV-ELI-NAG-008-04,Shoulder-Wind Parry,Murknaga,F5,Demigod L2 Low,B
+MV-ELI-NAG-008-05,Windward Long-Pace Advance,Unseen Sayacap,F1,Demigod L2 Low,B
+MV-ELI-NAG-008-06,Wind-Sworn Long Sweep,Granite Harai,F2,Demigod L2 Low,B
+MV-ELI-NAG-008-07,Standing Wind Haft Sense,Chime Tsubaring,F2,Demigod L2 Low,B
+MV-ELI-NAG-008-08,Oath-Bound Hook Bind,Hoarfrost Nagablade,F2,Demigod L2 Low,B
+MV-ELI-NAG-008-09,Breaking Gust Reaping,Ironkake,F5,Demigod L2 Low,B
+MV-ELI-NAG-008-10,Sworn Bearing Haft Press,Hour Uchiotoshi,F2,Demigod L2 Low,B
+MV-ELI-NAG-008-11,Wind-Sworn Sky Cutter,Ferocious Blaze Mawashi,F6a,Demigod L2 Low,B
+MV-ELI-NAG-009-01,Plateau Oath Stand,Unassailable Habakiring,F1,Demigod L4 High,B
+MV-ELI-NAG-009-02,Oath-Edge Slice,Mightnaga,F5,Demigod L4 High,B
+MV-ELI-NAG-009-03,Raised Stance Throat Thrust,Iron Nagablade,F2,Demigod L4 High,B
+MV-ELI-NAG-009-04,Oath Haft Bar,Inexorable Nagaheel,F1,Demigod L4 High,B
+MV-ELI-NAG-009-05,Plateau Run Cut,Mightsune,F5,Demigod L4 High,B
+MV-ELI-NAG-009-06,Sworn Foot Pin,Harnessing Nagi,F1,Demigod L4 High,B
+MV-ELI-NAG-009-07,Oath-Weighted Reaping,Blaze Harai,F2,Demigod L4 High,B
+MV-ELI-NAG-009-08,Edge-of-the-World Hold,Hoarfrost Nagaheel,F2,Demigod L4 High,B
+MV-ELI-NAG-009-09,Plateau Oath Unbound Sweep,Ishizuki Ruin,F3,Demigod L4 High,B
+MV-ELI-NAG-010-01,Open Bearing Shaft Guard,Unrelenting Nagashaft,F1,Demigod L6 Mid,B
+MV-ELI-NAG-010-02,Clear-Sky Slice,Rumblesune,F5,Demigod L6 Mid,B
+MV-ELI-NAG-010-03,Bearing Hold Thrust,Hollow Nagatip,F2,Demigod L6 Mid,B
+MV-ELI-NAG-010-04,Open-Hand Haft Parry,Murk Sayacap,F2,Demigod L6 Mid,B
+MV-ELI-NAG-010-05,Long Heading Step,Ghosting Sukui,F1,Demigod L6 Mid,B
+MV-ELI-NAG-010-06,Open Bearing Sweep,Kakewrath,F4,Demigod L6 Mid,B
+MV-ELI-NAG-010-07,Heading-Break Beat,Strangling Ishizuki,F1,Demigod L6 Mid,B
+MV-ELI-NAG-010-08,Unbarred Haft Spin,Aegis Ishizukibase,F2,Demigod L6 Mid,B
+MV-ELI-NAG-010-09,Wind-Drift Slash,Sunewrath,F4,Demigod L6 Mid,B
+MV-ELI-NAG-010-10,Heading Reaping Stroke,Tempered Bladecurve,F2,Demigod L6 Mid,B
+MV-ELI-NAG-010-11,Held Bearing Press,Ponderous Nagi,F2,Demigod L6 Mid,B
+MV-ELI-NAG-010-12,Open Bearing Rending Wind,Kakescourge,F4,Demigod L6 Mid,B
+MV-ELI-NAG-011-01,Open-Back Stand,Facetishi,F5,Demigod L9 Low,B
+MV-ELI-NAG-011-02,Open-Side Slice,Gust Nagablade,F2,Demigod L9 Low,B
+MV-ELI-NAG-011-03,Wide-Sky Thrust,Nagaheel Scourge,F3,Demigod L9 Low,B
+MV-ELI-NAG-011-04,Free-Hand Parry,Sunespine,F4,Demigod L9 Low,B
+MV-ELI-NAG-011-05,Sky-Edge Sweep,Kake Ruin,F3,Demigod L9 Low,B
+MV-ELI-NAG-011-06,Open-Field Haft Turn,Impervious Sayacap,F1,Demigod L9 Low,B
+MV-ELI-NAG-011-07,Roaming Step Cut,Rumble Ishizukibase,F2,Demigod L9 Low,B
+MV-ELI-NAG-011-08,Boundless Reaping Arc,Granite Habakiring,F2,Demigod L9 Low,B
+MV-ELI-NAG-011-09,Back-to-the-Wind Counter,Equipoise Nagatip,F2,Demigod L9 Low,B
+MV-ELI-NAG-011-10,No-Hold Overrun Sweep,Ironharai,F5,Demigod L9 Low,B
+MV-ELI-NAG-012-01,Gale-Edge Long Stance,Charter Nagashaft,F2,Void God L2 High,B
+MV-ELI-NAG-012-02,Reach Edge Slice,Gustsukui,F5,Void God L2 High,B
+MV-ELI-NAG-012-03,Far-Point Thrust,Corroding Tsubaring,F1,Void God L2 High,B
+MV-ELI-NAG-012-04,Gale-Whip Shaft Flick Parry,Impervious Habakiring,F1,Void God L2 High,B
+MV-ELI-NAG-012-05,Long-Reach Step,Ghosting Bladecurve,F1,Void God L2 High,B
+MV-ELI-NAG-012-06,Gale-Sworn Naginata Arc,Might Uchiotoshi,F2,Void God L2 High,B
+MV-ELI-NAG-012-07,Long-Reach Haft Hook,Thornishi,F5,Void God L2 High,B
+MV-ELI-NAG-012-08,Reach-Holding Guard,Iron Sayacap,F2,Void God L2 High,B
+MV-ELI-NAG-012-09,Gale Reach Draw Slash,Sanguine Nagi,F2,Void God L2 High,B
+MV-ELI-NAG-012-10,Far-Reach Reaping Stroke,Nagaheel Ruin,F3,Void God L2 High,B
+MV-ELI-NAG-012-11,Gale-Edge Seam Piercing,Glint Ishizuki,F2,Void God L2 High,B
+MV-ELI-NAG-012-12,Long-Reach Haft Pin,Overbearing Harai,F1,Void God L2 High,B
+MV-ELI-NAG-012-13,Gale-Edge Horizon Cut,Rampaging Gust Nagatip,F6a,Void God L2 High,B
+MV-ELI-NAG-013-01,Oathbound Posture,Flintlike Nagablade,F1,Void God L4 Mid,B
+MV-ELI-NAG-013-02,Bound Edge Slice,Sunescourge,F4,Void God L4 Mid,B
+MV-ELI-NAG-013-03,Vow-Point Jab,Facetnaga,F5,Void God L4 Mid,B
+MV-ELI-NAG-013-04,Binding Haft Parry,Unassailable Ishizukibase,F1,Void God L4 Mid,B
+MV-ELI-NAG-013-05,Oath-Mark Step,Lightning Kake,F1,Void God L4 Mid,B
+MV-ELI-NAG-013-06,Oathbound Qi Sweep,Lacerating Harai,F1,Void God L4 Mid,B
+MV-ELI-NAG-013-07,Sworn Haft Bind,Enthralling Tsubaring,F1,Void God L4 Mid,B
+MV-ELI-NAG-013-08,Oath-Pressed Cut,Iron Mawashi,F2,Void God L4 Mid,B
+MV-ELI-NAG-013-09,Oath-Fulfilling Reaping,Sukuiscourge,F4,Void God L4 Mid,B
+MV-ELI-NAG-013-10,Kept-Vow Shield Hold,Thornnaga,F5,Void God L4 Mid,B
+MV-ELI-NAG-013-11,Oathbound Sweep of Ending,Blaze Kake,F2,Void God L4 Mid,B
+MV-ELI-NAG-014-01,Windline Guard,Flintlike Habakiring,F1,Void God L7 Low,B
+MV-ELI-NAG-014-02,Windline Slice,Blaze Sukui,F2,Void God L7 Low,B
+MV-ELI-NAG-014-03,Line-Along Thrust,Nova Sukui,F2,Void God L7 Low,B
+MV-ELI-NAG-014-04,Windline Sweep,Iron Bladecurve,F2,Void God L7 Low,B
+MV-ELI-NAG-014-05,Line-Cross Step Cut,Ishiwrath,F4,Void God L7 Low,B
+MV-ELI-NAG-014-06,Windline Sense Haft,Chime Sayacap,F2,Void God L7 Low,B
+MV-ELI-NAG-014-07,Windline Reaping Cut,Rumble Nagashaft,F2,Void God L7 Low,B
+MV-ELI-NAG-014-08,Windline Deflecting Wheel,Unconquered Nagablade,F1,Void God L7 Low,B
+MV-ELI-NAG-014-09,Windline Burst Cut,Merciless Uchiotoshi Wrath,F6b,Void God L7 Low,B
+MV-ELI-NAG-004-03,Hollow Harai,Lunging Harai,F2,Demigod L8 Low,B
+MV-ELI-NAG-010-03,Hollow Nagatip,Pressing Nagatip,F2,Demigod L6 Mid,B

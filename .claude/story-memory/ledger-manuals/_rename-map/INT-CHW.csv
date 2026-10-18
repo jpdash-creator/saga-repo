@@ -1,0 +1,65 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-CHW-001-01,Qi Priming Hold,Genial Segment,F1,Senior L1 Mid,A
+MV-INT-CHW-001-02,Fed Segment Crack,Fierce Rattle,F1,Senior L1 Mid,A
+MV-INT-CHW-001-03,Echoing Ring Guard,Eyeletbarrier,F4,Senior L1 Mid,A
+MV-INT-CHW-001-04,Priming Sidestep,Raspzip,F4,Senior L1 Mid,A
+MV-INT-CHW-001-05,Surging Tip Throw,Jointslap,F4,Senior L1 Mid,A
+MV-INT-CHW-001-06,Qi Run Tether,Levering Whiplink,F1,Senior L1 Mid,A
+MV-INT-CHW-002-01,Segment Count Stance,Buttressed Tailblade,F1,Senior L3 Low,A
+MV-INT-CHW-002-02,Half Chain Short Strike,Fierce Slither,F1,Senior L3 Low,A
+MV-INT-CHW-002-03,Full Length Reach Throw,Linkpin Hammerfall,F3,Senior L3 Low,A
+MV-INT-CHW-002-04,Mid Chain Grab Hold,Stalling Rivet,F1,Senior L3 Low,A
+MV-INT-CHW-002-05,Even Spacing Walk,Jointswerve,F4,Senior L3 Low,A
+MV-INT-CHW-002-06,Shortening Retreat,Padded Chainhead,F1,Senior L3 Low,A
+MV-INT-CHW-002-07,Measured Qi Extension,Hingebar Slap,F3,Senior L3 Low,A
+MV-INT-CHW-002-08,Foot Pinned Haul,Burdening Rasp,F1,Senior L3 Low,A
+MV-INT-CHW-003-01,Ring Wrap Ready Stance,Guarding Spineplate,F1,Senior L5 High,A
+MV-INT-CHW-003-02,Forearm Double Wrap,Entangling Eyelet,F1,Senior L5 High,A
+MV-INT-CHW-003-03,Neck Line Tap,Jangle Scorer,F3,Senior L5 High,A
+MV-INT-CHW-003-04,Unwinding Pull Around,Jointprop,F4,Senior L5 High,A
+MV-INT-CHW-003-05,Sliding Wrap Stride,Veering Whiplink,F1,Senior L5 High,A
+MV-INT-CHW-003-06,Tightening Breath Wrap,Jointbuckle,F4,Senior L5 High,A
+MV-INT-CHW-003-07,Held Arm Free End Strike,Hungry Spineplate,F1,Senior L5 High,A
+MV-INT-CHW-004-01,Wrist Spin Opening,Jointscreen,F4,Warrior L1 Low,B
+MV-INT-CHW-004-02,Wide Disc Rotation,Stubborn Coilend,F1,Warrior L1 Low,B
+MV-INT-CHW-004-03,Disc Release Cast,Raspflog,F4,Warrior L1 Low,B
+MV-INT-CHW-004-04,Reversing Spin,Raspscreen,F4,Warrior L1 Low,B
+MV-INT-CHW-004-05,Pivoting Advance,Clay Hingebar,F2,Warrior L1 Low,B
+MV-INT-CHW-004-06,Side Spin Rap,Brass Slither,F2,Warrior L1 Low,B
+MV-INT-CHW-004-07,Whirling Qi Disc,Shelter Segment,F2,Warrior L1 Low,B
+MV-INT-CHW-004-08,Disc Throw-Off Barrage,Duskrasp,F5,Warrior L1 Low,B
+MV-INT-CHW-004-09,Disc Catch and Twist,Sleet Joint,F2,Warrior L1 Low,B
+MV-INT-CHW-005-01,Recovery Ready Stance,Shardjoint,F5,Warrior L3 Mid,B
+MV-INT-CHW-005-02,Long Reach Cast,Writhethwack,F4,Warrior L3 Mid,B
+MV-INT-CHW-005-03,Snap Back Recovery,Haze Coilend,F2,Warrior L3 Mid,B
+MV-INT-CHW-005-04,Reach Check Step,Raspswerve,F4,Warrior L3 Mid,B
+MV-INT-CHW-005-05,Low Reach Sweep,Brass Rivet,F2,Warrior L3 Mid,B
+MV-INT-CHW-005-06,Tip Return Catch,Hum Writhe,F2,Warrior L3 Mid,B
+MV-INT-CHW-005-07,Double Throw Rhythm,Draught Linkpin,F2,Warrior L3 Mid,B
+MV-INT-CHW-005-08,Qi Lengthened Cast,Static Rattle,F2,Warrior L3 Mid,B
+MV-INT-CHW-005-09,Recoil Guard,Stubborn Joint,F1,Warrior L3 Mid,B
+MV-INT-CHW-005-10,Recovery Burst Step,Draught Writhe,F2,Warrior L3 Mid,B
+MV-INT-CHW-006-01,Barbed Ready Guard,Sprig Tailblade,F2,Warrior L5 Low,B
+MV-INT-CHW-006-02,Point First Cast,Blank Joint,F2,Warrior L5 Low,B
+MV-INT-CHW-006-03,Ear Level Flick,Clay Coilend,F2,Warrior L5 Low,B
+MV-INT-CHW-006-04,Barb Hook Tug,Static Eyelet,F2,Warrior L5 Low,B
+MV-INT-CHW-006-05,Snag Release Twist,Tethering Whiplink,F1,Warrior L5 Low,B
+MV-INT-CHW-006-06,Angled Approach,Fleet Chainhead,F1,Warrior L5 Low,B
+MV-INT-CHW-006-07,Qi Honed Barb,Staticjoint,F5,Warrior L5 Low,B
+MV-INT-CHW-006-08,Barb Anchored Wrap,Sleet Hingebar,F2,Warrior L5 Low,B
+MV-INT-CHW-007-01,Footwork Baseline Stance,Shard Spineplate,F2,Warrior L7 High,B
+MV-INT-CHW-007-02,Ankle Seeking Cast,Stamp Jangle,F2,Warrior L7 High,B
+MV-INT-CHW-007-03,Circle the Anchor,Grit Rasp,F2,Warrior L7 High,B
+MV-INT-CHW-007-04,Tangle Trip Pull,Gall Linkpin,F2,Warrior L7 High,B
+MV-INT-CHW-007-05,Ground Chain Sweep,Crimson Eyelet,F2,Warrior L7 High,B
+MV-INT-CHW-007-06,Stepping Over Slack,Rill Writhe,F2,Warrior L7 High,B
+MV-INT-CHW-007-07,Qi Tangling Step,Clayrattle,F5,Warrior L7 High,B
+MV-INT-CHW-007-08,Entangling Leg Hold,Sleet Rattle,F2,Warrior L7 High,B
+MV-INT-CHW-007-09,Trip and Strike,Jointscorer,F4,Warrior L7 High,B
+MV-INT-CHW-008-01,Heavy End Carry,Clayrivet,F5,Warrior L9 Low,B
+MV-INT-CHW-008-02,Counterweight Swing,Stern Rivet,F1,Warrior L9 Low,B
+MV-INT-CHW-008-03,Plumb Drop Strike,Rivetscorer,F4,Warrior L9 Low,B
+MV-INT-CHW-008-04,Heavy Segment Shuffle,Draught Jangle,F2,Warrior L9 Low,B
+MV-INT-CHW-008-05,Crushing Segment Drive,Clayjangle,F5,Warrior L9 Low,B
+MV-INT-CHW-008-06,Iron Weight Anchor,Sleet Slither,F2,Warrior L9 Low,B
+MV-INT-CHW-004-07,Shelter Segment,Staunch Segment,F2,Warrior L1 Low,B

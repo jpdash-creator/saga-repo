@@ -1,0 +1,120 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-FAL-001-01,Meridian Breath Chop,Splitting Chunk,F1,Champion,B
+MV-ADV-FAL-001-02,Stepping Meridian Approach,Gust Hash,F2,Champion,B
+MV-ADV-FAL-001-03,Held-Breath Spine-on-Forearm Guard,Nubhauberk,F4,Champion,B
+MV-ADV-FAL-001-04,Shin-Level Stopping Hack,Gusthew,F5,Champion,B
+MV-ADV-FAL-001-05,Full-Flow Belly Cut,Heavyback Torment,F3,Champion,B
+MV-ADV-FAL-001-06,Meridian-Steadied Flat Parry,Chime Clipedge,F2,Champion,B
+MV-ADV-FAL-001-07,Cleave-and-Slide Entry,Might Falchhilt,F2,Champion,B
+MV-ADV-FAL-001-08,Full-Meridian Cleave,Sanguine Nubtip,F2,Champion,B
+MV-ADV-FAL-001-09,Unbroken Chain Cleave,Grinding Bulkblade,F1,Champion,B
+MV-ADV-FAL-002-01,Field-Edge Test Cut,Granite Wedgetip,F2,Demigod,B
+MV-ADV-FAL-002-02,Field-Spread Stance,Facetnub,F5,Demigod,B
+MV-ADV-FAL-002-03,Field-Pull Step,Torrent Weightbelly,F2,Demigod,B
+MV-ADV-FAL-002-04,Hacking Field Beat,Mightnub,F5,Demigod,B
+MV-ADV-FAL-002-05,Open-Hand Field Brace,Mantled Chopblade,F1,Demigod,B
+MV-ADV-FAL-002-06,Field-Tipped Falling Cut,Might Cleaverbelly,F2,Demigod,B
+MV-ADV-FAL-002-07,Rolling Field Parry,Nubcuirass,F4,Demigod,B
+MV-ADV-FAL-002-08,Field-Driven Hack Barrage,Wrecking Thickspine,F1,Demigod,B
+MV-ADV-FAL-002-09,Beyond-the-Steel Chop,Severing Thickspine,F1,Demigod,B
+MV-ADV-FAL-002-10,Field-Wrapped Cleaver Stroke,Splitting Hew,F1,Demigod,B
+MV-ADV-FAL-003-01,Wall-Stance Spine Rest,Unflinching Wedgetip,F1,Ruler,B
+MV-ADV-FAL-003-02,Wall-Edge Scrape,Chopblade Greave,F3,Ruler,B
+MV-ADV-FAL-003-03,Answer Chop at the Shoulder,Hashassault,F4,Ruler,B
+MV-ADV-FAL-003-04,Wall-Shift Half Step,Silt Chunk,F2,Ruler,B
+MV-ADV-FAL-003-05,Meridian Wall Brace,Thorn Bulkblade,F2,Ruler,B
+MV-ADV-FAL-003-06,Wall-Break Counter Drop,Scything Clipedge,F1,Ruler,B
+MV-ADV-FAL-003-07,Absorbing Wall of Qi,Cleaverbelly Greave,F3,Ruler,B
+MV-ADV-FAL-003-08,Wall-and-Answer Chop,Rumble Cleft,F2,Ruler,B
+MV-ADV-FAL-004-01,Wide Sweep Arc Reading,Waning Nubtip,F2,Demigod,B
+MV-ADV-FAL-004-02,Broad Waist Sweep,Gustwhack,F5,Demigod,B
+MV-ADV-FAL-004-03,High Sweep Over the Guard,Rumblehew,F5,Demigod,B
+MV-ADV-FAL-004-04,Sweep-Step Long Pace,Whack Jaunt,F3,Demigod,B
+MV-ADV-FAL-004-05,Spine-Rolled Sweep Return,Heavyback Cloak,F3,Demigod,B
+MV-ADV-FAL-004-06,Wide Guard Stance Hold,Unbroken Thickspine,F1,Demigod,B
+MV-ADV-FAL-004-07,Field-Stretched Sweep,Needling Whack,F1,Demigod,B
+MV-ADV-FAL-004-08,Sweeping Gap Closer,Whackleap,F4,Demigod,B
+MV-ADV-FAL-004-09,Edge-Held Field Sweep,Chimewhack,F5,Demigod,B
+MV-ADV-FAL-004-10,Great Arc Falchion Sweep,Dismantling Hack,F2,Demigod,B
+MV-ADV-FAL-004-11,Returning Wide Hack,Granite Hew,F2,Demigod,B
+MV-ADV-FAL-005-01,Twin Stream Settling,Nubtipelixir,F4,Champion,B
+MV-ADV-FAL-005-02,Paired-Foot Chopping Stance,Annealed Weightbelly,F1,Champion,B
+MV-ADV-FAL-005-03,Twin-Beat Falling Chop,Ironchunk,F5,Champion,B
+MV-ADV-FAL-005-04,Dual-Line Step,Silthack,F5,Champion,B
+MV-ADV-FAL-005-05,Paired Flat Parry,Equipoise Clipedge,F2,Champion,B
+MV-ADV-FAL-005-06,Leg-Stream Belly Draw,Harpooning Hack,F1,Champion,B
+MV-ADV-FAL-005-07,Blade-Stream Parry Press,Chime Chunk,F2,Champion,B
+MV-ADV-FAL-005-08,Twin-Track Cross Cut,Grinding Hash,F1,Champion,B
+MV-ADV-FAL-005-09,Dual-Track Falchion Fall,Scything Heavyback,F1,Champion,B
+MV-ADV-FAL-005-10,Twin-Beat Counter Cleave,Equipoise Falchhilt,F2,Champion,B
+MV-ADV-FAL-006-01,Hawk Perch Cleaver Guard,Thornnubtip,F5,Demigod,B
+MV-ADV-FAL-006-02,High Feint Rise,Granite Chopblade,F2,Demigod,B
+MV-ADV-FAL-006-03,Stooping Drop Cut,Rupturing Cleaverbelly,F1,Demigod,B
+MV-ADV-FAL-006-04,Hawk-Wing Cleaver Sidestep,Gust Cleft,F2,Demigod,B
+MV-ADV-FAL-006-05,Paired Talon Parry,Equipoise Weightbelly,F2,Demigod,B
+MV-ADV-FAL-006-06,Hawk-Eye Heavy-Edge Reading,Chime Falchhilt,F2,Demigod,B
+MV-ADV-FAL-006-07,Feint-and-Stoop Combination,Granite Bulkblade,F2,Demigod,B
+MV-ADV-FAL-006-08,Azure Qi Wingbeat Guard,Iron Weightbelly,F2,Demigod,B
+MV-ADV-FAL-006-09,Talon-Close Binding Cut,Hamstringing Whack,F1,Demigod,B
+MV-ADV-FAL-006-10,Hawk Stoop with Qi Weight,Severing Wedgetip,F1,Demigod,B
+MV-ADV-FAL-006-11,Paired Stoop Return,Scalding Rumble Hash,F6a,Demigod,B
+MV-ADV-FAL-006-12,Hawk-Sweep Wing Cut,Scything Hew,F1,Demigod,B
+MV-ADV-FAL-007-01,Basin Hollow Stance,Facetstump,F5,Ruler,B
+MV-ADV-FAL-007-02,Curved Catch Parry,Unshaken Bulkblade,F1,Ruler,B
+MV-ADV-FAL-007-03,Basin-Rim Hack,Rumble Heavyback,F2,Ruler,B
+MV-ADV-FAL-007-04,Slow-Fill Backstep,Nubleap,F4,Ruler,B
+MV-ADV-FAL-007-05,Draining Belly Guard,Thornstump,F5,Ruler,B
+MV-ADV-FAL-007-06,River-Bend Parry Turn,Stumpcuirass,F4,Ruler,B
+MV-ADV-FAL-007-07,Basin Overflow Chop,Tempered Whack,F2,Ruler,B
+MV-ADV-FAL-007-08,Basin Guard of Gathered Force,Thorn Clipedge,F2,Ruler,B
+MV-ADV-FAL-007-09,Flood Release Cleave,Cleaving Might Cleft,F6a,Ruler,B
+MV-ADV-FAL-008-01,Dual-Track Field Reading,Chime Wedgetip,F2,Void God,B
+MV-ADV-FAL-008-02,Azure Edge Falling Hack,Rumblenub,F5,Void God,B
+MV-ADV-FAL-008-03,Twin-Edge Cross Step,Granite Hack,F2,Void God,B
+MV-ADV-FAL-008-04,Paired Brow Guard,Resilient Chopblade,F1,Void God,B
+MV-ADV-FAL-008-05,River Run Hack,Blaze Thickspine,F2,Void God,B
+MV-ADV-FAL-008-06,Basin-Track Heel Pivot,Might Hew,F2,Void God,B
+MV-ADV-FAL-008-07,Twin-Track Belly Cleave,Rumble Falchhilt,F2,Void God,B
+MV-ADV-FAL-008-08,Dual-Track Flat Turn,Torrent Thickspine,F2,Void God,B
+MV-ADV-FAL-008-09,Azure Hawk Cleaving Roll,Paralyzing Cleaverbelly,F1,Void God,B
+MV-ADV-FAL-008-10,Paired Azure Cleave,Hewthrash,F4,Void God,B
+MV-ADV-FAL-008-11,Twin-Court Field Press,Shade Chunk,F2,Void God,B
+MV-ADV-FAL-009-01,Wind-Sworn Stance Taking,Charter Nubtip,F2,Champion,B
+MV-ADV-FAL-009-02,Bearing Line Hack,Tearing Cleft,F1,Champion,B
+MV-ADV-FAL-009-03,Gale-Footed Advance,Silt Nubtip,F2,Champion,B
+MV-ADV-FAL-009-04,Crosswind Flat Parry,Chime Weightbelly,F2,Champion,B
+MV-ADV-FAL-009-05,Wind-Sworn Qi Bearing,Veritystump,F5,Champion,B
+MV-ADV-FAL-009-06,Bearing-Held Chop,Blazenub,F5,Champion,B
+MV-ADV-FAL-009-07,Gale-Turn Shift,Racing Whack,F1,Champion,B
+MV-ADV-FAL-009-08,Wind-Sworn Falling Bearing,Whacktorment,F4,Champion,B
+MV-ADV-FAL-009-09,Bearing-Shift Cleave,Cleaving Wedgetip,F1,Champion,B
+MV-ADV-FAL-010-01,Plateau Footing,Nubplating,F4,Demigod,B
+MV-ADV-FAL-010-02,Oath-Voiced Falling Hack,Drubbing Nubtip,F1,Demigod,B
+MV-ADV-FAL-010-03,Edge-of-Plateau Step,Soaring Cleft,F1,Demigod,B
+MV-ADV-FAL-010-04,Held Oath Spine Guard,Chime Heavyback,F2,Demigod,B
+MV-ADV-FAL-010-05,Oath-Bound Cutting Rhythm,Needling Hack,F1,Demigod,B
+MV-ADV-FAL-010-06,Steadied Field Fall,Iron Hash,F2,Demigod,B
+MV-ADV-FAL-010-07,Plateau Wind Flat Parry,Chimestump,F5,Demigod,B
+MV-ADV-FAL-010-08,Sworn Oath Breaking Cut,Hackhauberk,F4,Demigod,B
+MV-ADV-FAL-010-09,Plateau Oath Falchion Chop,Lambasting Bulkblade,F1,Demigod,B
+MV-ADV-FAL-010-10,Unyielding Plateau Stroke,Scything Hack,F1,Demigod,B
+MV-ADV-FAL-011-01,Gale Guard Opening Turn,Aegisnubtip,F5,Ruler,B
+MV-ADV-FAL-011-02,Whirling Flat Catch,Enduring Clipedge,F1,Ruler,B
+MV-ADV-FAL-011-03,Gale-Drop Chop,Rumble Chunk,F2,Ruler,B
+MV-ADV-FAL-011-04,Wind-Step Away,Granite Cleaverbelly,F2,Ruler,B
+MV-ADV-FAL-011-05,Scatter Parry Backhand,Immovable Cleaverbelly,F1,Ruler,B
+MV-ADV-FAL-011-06,Gale-Knee Low Guard,Granite Nubtip,F2,Ruler,B
+MV-ADV-FAL-011-07,Qi-Whirled Falchion Circle,Murk Heavyback,F2,Ruler,B
+MV-ADV-FAL-011-08,Gale Return Hack,Blazehew,F5,Ruler,B
+MV-ADV-FAL-011-09,Spinning Disarm Gale,Rumble Chopblade,F2,Ruler,B
+MV-ADV-FAL-011-10,Gale Whirling Wall,Facet Bulkblade,F2,Ruler,B
+MV-ADV-FAL-011-11,Gale-Burst Cleave,Skinning Wedgetip,F1,Ruler,B
+MV-ADV-FAL-011-12,Scattering Sweep of the Gale,Stumpbarrage,F4,Ruler,B
+MV-ADV-FAL-012-01,Bearing-Fixed Stance,Thorn Weightbelly,F2,Void God,B
+MV-ADV-FAL-012-02,Open-Ground Falchion Chop,Blazewhack,F5,Void God,B
+MV-ADV-FAL-012-03,Gale-Light Cleaver Footfall,Blurring Hash,F1,Void God,B
+MV-ADV-FAL-012-04,Bearing-Break Flat Parry,Gust Falchhilt,F2,Void God,B
+MV-ADV-FAL-012-05,Held Bearing Field Cut,Tempered Hack,F2,Void God,B
+MV-ADV-FAL-012-06,Sudden Gale Reversal,Racing Hash,F1,Void God,B
+MV-ADV-FAL-012-07,Bearing and Gale Cleave,Thickspine Assault,F3,Void God,B
+MV-ADV-FAL-012-08,Open-Ground Gale Press,Ponderous Falchhilt,F2,Void God,B

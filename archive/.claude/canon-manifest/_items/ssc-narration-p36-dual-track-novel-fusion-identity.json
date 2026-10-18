@@ -1,0 +1,15 @@
+{
+ "skill_id": "ssc-narration-p36-dual-track-novel-fusion-identity",
+ "part": 36,
+ "area": 10,
+ "sequence_in_part": 10,
+ "title": "Dual-Track Novel Fusion Identity",
+ "domain": "narration",
+ "source_file": "Part_36_Narration_Novel_Thematic_Law.md",
+ "start_line": 346,
+ "end_line": 369,
+ "line_count": 24,
+ "output_path": ".claude/skills/ssc-narration-p36-dual-track-novel-fusion-identity/SKILL.md",
+ "has_stale_python_block": false,
+ "related": []
+}

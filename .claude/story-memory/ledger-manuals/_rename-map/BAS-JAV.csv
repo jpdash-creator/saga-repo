@@ -1,0 +1,60 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-JAV-001-01,Flat-Foot Shaft Hurl,Straight Launch,F1,T1 Unawakened,A
+MV-BAS-JAV-001-02,Palm-Balance Test Hold,Steady Pointbalance,F1,T1 Unawakened,A
+MV-BAS-JAV-001-03,Shaft-Across Fending Hold,Leadwedge,F4,T1 Unawakened,A
+MV-BAS-JAV-001-04,Step-Back Recovery Pace,Dartpace,F4,T1 Unawakened,A
+MV-BAS-JAV-001-05,Butt-End Rib Jab,Blunt Leadknob,F1,T1 Unawakened,A
+MV-BAS-JAV-002-01,Pillar-Stance Overhand Throw,Level Loft,F1,T1 Skin,A
+MV-BAS-JAV-002-02,Hip-Turn Power Release,Fletchdash,F4,T1 Skin,A
+MV-BAS-JAV-002-03,Thumb-Gauge Range Reading,Measured Thinheft,F1,T1 Skin,A
+MV-BAS-JAV-002-04,Breath-Held Aim Settle,Leadcount,F4,T1 Skin,A
+MV-BAS-JAV-002-05,Crossed-Arm Brace Guard,Raised Dartcap,F1,T1 Skin,A
+MV-BAS-JAV-002-06,Follow-Through Drop Step,Easing Tailweight,F1,T1 Skin,A
+MV-BAS-JAV-003-01,Wall-Mark Chalk Drill,Narrow Whistle,F1,T1 Muscle,A
+MV-BAS-JAV-003-02,Count-of-Three Draw-Back,Quick Skewerflight,F1,T1 Muscle,A
+MV-BAS-JAV-003-03,Rope-Ring Hoop Throw,Barbedhit,F4,T1 Muscle,A
+MV-BAS-JAV-003-04,Tumbling-Shaft Air Catch,Watching Fletch,F1,T1 Muscle,A
+MV-BAS-JAV-003-05,Slow-Arm Form Walk,Loftamble,F4,T1 Muscle,A
+MV-BAS-JAV-004-01,Three-Stride Approach Throw,Forward Dropdive,F1,T1 Tendon,A
+MV-BAS-JAV-004-02,Crossover Step Release,Plumeblow,F4,T1 Tendon,A
+MV-BAS-JAV-004-03,Full-Run Long Lob,Descending Dart,F1,T1 Tendon,A
+MV-BAS-JAV-004-04,Heel-Dig Skid Stop,Skipping Throwloop,F1,T1 Tendon,A
+MV-BAS-JAV-004-05,Shaft-Trailing Low Sprint,Plumetrot,F4,T1 Tendon,A
+MV-BAS-JAV-004-06,Running-Pivot Haft Sweep,Folded Dartpoint,F1,T1 Tendon,A
+MV-BAS-JAV-004-07,Over-Shoulder Mark Glance,Tending Barbed,F1,T1 Tendon,A
+MV-BAS-JAV-005-01,Lofted-Arc High Throw,Upward Skewerflight,F1,T1 Bone,A
+MV-BAS-JAV-005-02,Flat-Line Drive Throw,Flat Whistle,F1,T1 Bone,A
+MV-BAS-JAV-005-03,Spin-Tight Fingertip Roll,Dartdrop,F4,T1 Bone,A
+MV-BAS-JAV-005-04,Downward Stoop Point-Fall,Downward Dropdive,F1,T1 Bone,A
+MV-BAS-JAV-005-05,Body-Length Mark Lead,Judging Dartcap,F1,T1 Bone,A
+MV-BAS-JAV-005-06,Heft-and-Choose Shaft Test,Smooth Leadknob,F1,T1 Bone,A
+MV-BAS-JAV-006-01,Back-Bundle Quick Draw,Quick Launch,F1,Senior L1 Low,A
+MV-BAS-JAV-006-02,Second-Shaft Follow Cast,Open Skewerflight,F1,Senior L1 Low,A
+MV-BAS-JAV-006-03,Hip-Rack Reload Reach,Shifting Fletch,F1,Senior L1 Low,A
+MV-BAS-JAV-006-04,Rear-Rank Overhead Volley,Launchstrike,F4,Senior L1 Low,A
+MV-BAS-JAV-006-05,Empty-Bundle Fall-Back,Backward Thinheft,F1,Senior L1 Low,A
+MV-BAS-JAV-007-01,Loop-Finger Cord Hook,Single Whistle,F1,Senior L2 Mid,A
+MV-BAS-JAV-007-02,Whip-Out Strap Cast,Loftbump,F4,Senior L2 Mid,A
+MV-BAS-JAV-007-03,Cord-Unwind Spin Release,Square Dart,F1,Senior L2 Mid,A
+MV-BAS-JAV-007-04,Taut-Cord Blade Catch,Tight Pointbalance,F1,Senior L2 Mid,A
+MV-BAS-JAV-007-05,Lean-Back Far Strap Hurl,Stiff Dropdive,F1,Senior L2 Mid,A
+MV-BAS-JAV-007-06,Cord-Snag Arm Pull,Catching Throwloop,F1,Senior L2 Mid,A
+MV-BAS-JAV-007-07,Fouled-Loop Shake Reset,Gentle Tailweight,F1,Senior L2 Mid,A
+MV-BAS-JAV-007-08,Slow-Draw Taut Aim,Hard Launch,F1,Senior L2 Mid,A
+MV-BAS-JAV-008-01,Runner-Lead Forward Cast,Sharp Loft,F1,Senior L3 Low,A
+MV-BAS-JAV-008-02,Passing-Rider Side Hurl,Sudden Whistle,F1,Senior L3 Low,A
+MV-BAS-JAV-008-03,Swerve-Answer Flick Throw,Dartdash,F4,Senior L3 Low,A
+MV-BAS-JAV-008-04,Pace-Match Flank Step,Sideways Dartpoint,F1,Senior L3 Low,A
+MV-BAS-JAV-008-05,Dust-Trail Tracking Eye,Fletchreview,F4,Senior L3 Low,A
+MV-BAS-JAV-008-06,Charge-Stopping Shaft Brace,Solid Lightshaft,F1,Senior L3 Low,A
+MV-BAS-JAV-009-01,Balance-Point Finger Rest,Warm Throwloop,F1,Senior L5 High,A
+MV-BAS-JAV-009-02,Straight-Line Arm Pull,Barbeddrop,F4,Senior L5 High,A
+MV-BAS-JAV-009-03,Locked-Wrist Release Snap,Leadhit,F4,Senior L5 High,A
+MV-BAS-JAV-009-04,Shaft-Length Distance Pacing,Plumenote,F4,Senior L5 High,A
+MV-BAS-JAV-009-05,Even-Weight Landing Settle,Planted Leadknob,F1,Senior L5 High,A
+MV-BAS-JAV-010-01,Low-Crouch Stalk Approach,Fletchtrot,F4,Senior L7 Mid,A
+MV-BAS-JAV-010-02,Foreleg-Gap Heart Throw,Gnawing Launch,F1,Senior L7 Mid,A
+MV-BAS-JAV-010-03,Earth-Planted Butt Brace,Plumecowl,F4,Senior L7 Mid,A
+MV-BAS-JAV-010-04,Sleeping-Quarry Short Cast,Firm Whistle,F1,Senior L7 Mid,A
+MV-BAS-JAV-010-05,Trail-Sign Reading Pause,Even Dartpoint,F1,Senior L7 Mid,A
+MV-BAS-JAV-010-06,Wounded-Beast Backing Walk,Swaying Loft,F1,Senior L7 Mid,A

@@ -1,0 +1,51 @@
+{
+ "skill_id": "ssc-narration-p30-founding-principles-novel-macro-story-law",
+ "part": 30,
+ "area": 1,
+ "sequence_in_part": 1,
+ "title": "Founding Principles of the Novel Macro Story Law",
+ "domain": "narration",
+ "source_file": "Part_30_Narrative_Theme_Novel_Macro_Story_Law.md",
+ "start_line": 20,
+ "end_line": 375,
+ "line_count": 356,
+ "output_path": ".claude/skills/ssc-narration-p30-founding-principles-novel-macro-story-law/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-ledger-p37-entity-creation-thresholds",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Hero/Villain schemas include Phase End-State fields governed by Part 30 Locked Canon"
+  },
+  {
+   "skill_id": "ssc-ledger-p37-schema-templates",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Hero/Villain schemas include Phase End-State fields governed by Part 30 Locked Canon"
+  },
+  {
+   "skill_id": "ssc-ledger-p37-additional-ledger-types-from-parts-1",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Hero/Villain schemas include Phase End-State fields governed by Part 30 Locked Canon"
+  },
+  {
+   "skill_id": "ssc-ledger-p37-ledger-folder-registry",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Hero/Villain schemas include Phase End-State fields governed by Part 30 Locked Canon"
+  },
+  {
+   "skill_id": "ssc-ledger-p37-schema-field-classification",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Hero/Villain schemas include Phase End-State fields governed by Part 30 Locked Canon"
+  },
+  {
+   "skill_id": "ssc-ledger-p37-part-37-amendment-protocol",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Hero/Villain schemas include Phase End-State fields governed by Part 30 Locked Canon"
+  },
+  {
+   "skill_id": "ssc-ledger-p37-cross-part-dependency-table",
+   "relation": "SOFT",
+   "source": "Part 34 Area 5: Hero/Villain schemas include Phase End-State fields governed by Part 30 Locked Canon"
+  }
+ ]
+}

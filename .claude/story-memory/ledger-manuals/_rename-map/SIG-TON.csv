@@ -1,0 +1,131 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-TON-001-01,Court Primer Open Guard,Handleseal,F4,Warrior+,B
+MV-SIG-TON-001-02,First Court Rail Jab,Knock Triumph,F3,Warrior+,B
+MV-SIG-TON-001-03,Court Sidestep Parry,Deluge Shortshaft,F2,Warrior+,B
+MV-SIG-TON-001-04,Paired Court Rap Series,Vigor Tap,F2,Warrior+,B
+MV-SIG-TON-001-05,Azure Court Wrist Press,Peremptory Tonfashaft,F1,Warrior+,B
+MV-SIG-TON-001-06,Court Rail Rebound Guard,Tonfapledge,F4,Warrior+,B
+MV-SIG-TON-001-07,Crossed Rail Court Wedge,Spinpeg Seal,F3,Warrior+,B
+MV-SIG-TON-001-08,Azure Court Flurry,Seasonrap,F5,Warrior+,B
+MV-SIG-TON-001-09,Azure Court Rail Judgment,Rearend Verdict,F3,Warrior+,B
+MV-SIG-TON-001-10,Azure Court Closing Rails,Majestic Haemal Forearm,F6a,Warrior+,B
+MV-SIG-TON-002-01,Hawk Pair Perch Guard,Steel Handlepeg,F2,Warrior+,B
+MV-SIG-TON-002-02,Hawk Left Talon Tap,Quenched Elbowside,F2,Warrior+,B
+MV-SIG-TON-002-03,Hawk Right Wing Cover,Revered Sidehandle,F1,Warrior+,B
+MV-SIG-TON-002-04,Paired Hawk Wrist Snatch,Peremptory Roundend,F1,Warrior+,B
+MV-SIG-TON-002-05,Hawk Stoop Qi Rap,Paramount Forearmside,F1,Warrior+,B
+MV-SIG-TON-002-06,Wing Beat Rail Parry,Palltonfa,F5,Warrior+,B
+MV-SIG-TON-002-07,Updraft Hawk Slide,Vigorjolt,F5,Warrior+,B
+MV-SIG-TON-002-08,Paired Hawk Pinch Hold,Masterful Rap,F1,Warrior+,B
+MV-SIG-TON-002-09,Paired Hawk Dive Chain,Orchestral Jolt,F1,Warrior+,B
+MV-SIG-TON-002-10,Hawk Pair Rending Cross,Vigor Handlepeg,F2,Warrior+,B
+MV-SIG-TON-002-11,Paired Hawk Rail Stoop,Storied Forearmside Decree,F6b,Warrior+,B
+MV-SIG-TON-003-01,River Bed Stance,Revered Elbowside,F1,Warrior+,B
+MV-SIG-TON-003-02,Source Rail Poke,Paramount Gripbar,F1,Warrior+,B
+MV-SIG-TON-003-03,Tributary Rail Parry,Squall Tonfashaft,F2,Warrior+,B
+MV-SIG-TON-003-04,Basin Pool Pressing Rail,Pealknock,F5,Warrior+,B
+MV-SIG-TON-003-05,Ford Crossing Rail Step,Vigor Spinflip,F2,Warrior+,B
+MV-SIG-TON-003-06,River Pull Rail Hook,Pealhandle,F5,Warrior+,B
+MV-SIG-TON-003-07,Delta Spreading Rail Strike,Joltverdict,F4,Warrior+,B
+MV-SIG-TON-003-08,Meander Lock Spin,Thrallrap,F5,Warrior+,B
+MV-SIG-TON-003-09,Great Basin Release Strike,Joltdecree,F4,Warrior+,B
+MV-SIG-TON-003-10,Basin River Meeting Rails,Majestic Shortshaft,F1,Warrior+,B
+MV-SIG-TON-004-01,Elbow Track Guard,Prism Rearend,F2,Warrior+,B
+MV-SIG-TON-004-02,Rail Track Jab,Squall Tap,F2,Warrior+,B
+MV-SIG-TON-004-03,Track Switch Rail Step,Bedrock Roundend,F2,Warrior+,B
+MV-SIG-TON-004-04,Elbow Rail Combined Strike,Steeljolt,F5,Warrior+,B
+MV-SIG-TON-004-05,Track Crossing Rail Parry,Squallbar,F5,Warrior+,B
+MV-SIG-TON-004-06,Elbow Pit Pinch Lock,Forearm Seal,F3,Warrior+,B
+MV-SIG-TON-004-07,Switch Track Feint Rap,Inferno Rap,F2,Warrior+,B
+MV-SIG-TON-004-08,Two Track Elbow Smash,Inferno Gripbar,F2,Warrior+,B
+MV-SIG-TON-004-09,Rail Track Trap Weave,Venomjolt,F5,Warrior+,B
+MV-SIG-TON-004-10,Dual Track Full Weight Drive,Steeltap,F5,Warrior+,B
+MV-SIG-TON-004-11,Two Tracks One Fight Cross,Thunderclap Sidehandle,F2,Warrior+,B
+MV-SIG-TON-005-01,High Azure Guard Line,Devout Spinpeg,F1,Warrior+,B
+MV-SIG-TON-005-02,Altitude Rap,Squallknock,F5,Warrior+,B
+MV-SIG-TON-005-03,Cloud Parting Parry,Deluge Tonfashaft,F2,Warrior+,B
+MV-SIG-TON-005-04,Azure Updraft Strike,Haemaljolt,F5,Warrior+,B
+MV-SIG-TON-005-05,Highland Hook Pull,Thunderclap Spinflip,F2,Warrior+,B
+MV-SIG-TON-005-06,Thin Air Step,Bedrock Jolt,F2,Warrior+,B
+MV-SIG-TON-005-07,Azure Spire Thrust,Radiance Gripbar,F2,Warrior+,B
+MV-SIG-TON-005-08,Cloud Veil Rail Guard,Enshrined Roundend,F1,Warrior+,B
+MV-SIG-TON-005-09,Sky Blink Closing Step,Pulsar Handlepeg,F2,Warrior+,B
+MV-SIG-TON-005-10,Azure Spire Falling Rails,Famed Spinpeg Crown,F6b,Warrior+,B
+MV-SIG-TON-006-01,Core Court Guard,Consecrated Elbowside,F1,Warrior+,B
+MV-SIG-TON-006-02,Core Beat Jab,Splendid Forearmside,F1,Warrior+,B
+MV-SIG-TON-006-03,Core Line Parry,Stately Shortshaft,F1,Warrior+,B
+MV-SIG-TON-006-04,Core Seated Rail Shove,Knock Edict,F3,Warrior+,B
+MV-SIG-TON-006-05,Core Pulse Wrist Hook,Despotic Tap,F1,Warrior+,B
+MV-SIG-TON-006-06,Core Rooted Cover,Enshrined Rearend,F1,Warrior+,B
+MV-SIG-TON-006-07,Core Light Rail Step,Dunebar,F5,Warrior+,B
+MV-SIG-TON-006-08,Core Twin Rail Slam,Steel Rap,F2,Warrior+,B
+MV-SIG-TON-006-09,Core Paired Wheel Guard,Stately Tonfashaft,F1,Warrior+,B
+MV-SIG-TON-006-10,Core Azure Rail Sunder,Unrivaled Spinflip,F1,Warrior+,B
+MV-SIG-TON-006-11,Core Azure Court Rails Unbound,Exalted Quenched Sidehandle,F6a,Warrior+,B
+MV-SIG-TON-007-01,Wind Sworn Primer Stance,Handletroth,F4,Warrior+,B
+MV-SIG-TON-007-02,First Gust Jab,Squalltonfa,F5,Warrior+,B
+MV-SIG-TON-007-03,Sworn Sidestep Parry,Paritytonfa,F5,Warrior+,B
+MV-SIG-TON-007-04,Sworn Wind Rail Rap,Squall Jolt,F2,Warrior+,B
+MV-SIG-TON-007-05,Gust Wrist Hook,Entropy Rearend,F2,Warrior+,B
+MV-SIG-TON-007-06,Wind Reading Rail Check,Handlevow,F4,Warrior+,B
+MV-SIG-TON-007-07,Oath Gale Rail Wedge,Knockseal,F4,Warrior+,B
+MV-SIG-TON-007-08,Wind Sworn Flurry Line,Seasonknock,F5,Warrior+,B
+MV-SIG-TON-007-09,Wind Sworn Binding Strike,Quenched Gripbar,F2,Warrior+,B
+MV-SIG-TON-007-10,Wind Sworn Rails Unfurled,Haemal Sidehandle,F2,Warrior+,B
+MV-SIG-TON-008-01,Plateau Oath Rail Stance,Hornbeam Handlepeg,F2,Warrior+,B
+MV-SIG-TON-008-02,Oath Edge Jab,Steel Knock,F2,Warrior+,B
+MV-SIG-TON-008-03,Plateau Rail Parry Turn,Forearmside Covenant,F3,Warrior+,B
+MV-SIG-TON-008-04,Plateau Walk Step,Vigor Elbowside,F2,Warrior+,B
+MV-SIG-TON-008-05,Oath Plateau Rail Shove,Matchless Tap,F1,Warrior+,B
+MV-SIG-TON-008-06,Held Oath Wrist Bind,Thrall Forearm,F2,Warrior+,B
+MV-SIG-TON-008-07,Plateau Wind Parry Return,Handlepledge,F4,Warrior+,B
+MV-SIG-TON-008-08,Edge Feint Rail Rap,Dauntless Shortshaft,F1,Warrior+,B
+MV-SIG-TON-008-09,Plateau Oath Rail Break,Noble Rap,F1,Warrior+,B
+MV-SIG-TON-008-10,Oath Plateau Guard Wheel,Immaculate Elbowside,F1,Warrior+,B
+MV-SIG-TON-008-11,Plateau Oath Fulfilled Strike,Quenched Spinpeg,F2,Warrior+,B
+MV-SIG-TON-008-12,Oath of the Plateau Rails,Sovereign Spinflip,F1,Warrior+,B
+MV-SIG-TON-009-01,Bearing Take Rail Stance,Steel Sidehandle,F2,Warrior+,B
+MV-SIG-TON-009-02,Gale Line Poke,Quenched Jolt,F2,Warrior+,B
+MV-SIG-TON-009-03,Bearing Slip Parry,Undefiled Handlepeg,F1,Warrior+,B
+MV-SIG-TON-009-04,Bearing Gale Rail Rap,Storied Spinflip,F1,Warrior+,B
+MV-SIG-TON-009-05,Held Line Hook,Venom Knock,F2,Warrior+,B
+MV-SIG-TON-009-06,Gale Back Step,Bedrock Shortshaft,F2,Warrior+,B
+MV-SIG-TON-009-07,Bearing Gale Piercing Run,Roundend Edict,F3,Warrior+,B
+MV-SIG-TON-009-08,Held Bearing Wheel Cover,Steeltonfa,F5,Warrior+,B
+MV-SIG-TON-009-09,Gale Bearing Unbent Cut,Joltedict,F4,Warrior+,B
+MV-SIG-TON-009-10,Bearing and Gale Rails,Triumphant Vigor Forearm,F6a,Warrior+,B
+MV-SIG-TON-010-01,Open Plateau Guard Hold,Steel Forearmside,F2,Warrior+,B
+MV-SIG-TON-010-02,Plateau Jab Rail,Majestic Tap,F1,Warrior+,B
+MV-SIG-TON-010-03,Wide Plateau Parry,Peal Rearend,F2,Warrior+,B
+MV-SIG-TON-010-04,Plateau Sweep Rail Strike,Heroic Roundend,F1,Warrior+,B
+MV-SIG-TON-010-05,Open Hook Rail Drag,Peal Rap,F2,Warrior+,B
+MV-SIG-TON-010-06,Plateau Gust Shield,Hornbeam Gripbar,F2,Warrior+,B
+MV-SIG-TON-010-07,Plateau Long Rail Stride,Barsolace,F4,Warrior+,B
+MV-SIG-TON-010-08,Open Plateau Rail Wedge,Glacier Knock,F2,Warrior+,B
+MV-SIG-TON-010-09,Plateau Wind Binding Wheel,Sigiltonfa,F5,Warrior+,B
+MV-SIG-TON-010-10,Open Plateau Gale Burst,Millstone Spinpeg,F2,Warrior+,B
+MV-SIG-TON-010-11,Rails Over the Open Plateau,Valiant Bedrock Tonfashaft,F6a,Warrior+,B
+MV-SIG-TON-011-01,High Gale Guard Line,Venerable Sidehandle,F1,Warrior+,B
+MV-SIG-TON-011-02,Highwind Rap,Quenched Spinflip,F2,Warrior+,B
+MV-SIG-TON-011-03,Gale Cloud Parry,Roundend Troth,F3,Warrior+,B
+MV-SIG-TON-011-04,High Gale Updraft Strike,Squallhandle,F5,Warrior+,B
+MV-SIG-TON-011-05,Mountain Wind Hook,Imperious Elbowside,F1,Warrior+,B
+MV-SIG-TON-011-06,Thin Gale Step,Silken Forearm,F1,Warrior+,B
+MV-SIG-TON-011-07,Gale Needle Thrust,Handleverdict,F4,Warrior+,B
+MV-SIG-TON-011-08,Highwind Spin Cover,Bedrock Spinpeg,F2,Warrior+,B
+MV-SIG-TON-011-09,Gale Blink Closing Step,Knock Grace,F3,Warrior+,B
+MV-SIG-TON-011-10,High Gale Rails Descending,Bedrock Handlepeg,F2,Warrior+,B
+MV-SIG-TON-012-01,Core Oath Rail Guard,Barseal,F4,Warrior+,B
+MV-SIG-TON-012-02,Core Gust Jab,Sovereign Shortshaft,F1,Warrior+,B
+MV-SIG-TON-012-03,Core Bearing Rail Parry,Parity Tonfashaft,F2,Warrior+,B
+MV-SIG-TON-012-04,Core Gale Rail Shove,Haemaltonfa,F5,Warrior+,B
+MV-SIG-TON-012-05,Core Oath Hook Bind,Thrall Tap,F2,Warrior+,B
+MV-SIG-TON-012-06,Core Wind Cover,Bedrock Gripbar,F2,Warrior+,B
+MV-SIG-TON-012-07,Core Gale Drift Step,Vigor Forearmside,F2,Warrior+,B
+MV-SIG-TON-012-08,Core Gale Rail Slam,Quenched Rearend,F2,Warrior+,B
+MV-SIG-TON-012-09,Core Oath Spin Guard,Immaculate Gripbar,F1,Warrior+,B
+MV-SIG-TON-012-10,Core Wind Oath Sunder,Vigor Rap,F2,Warrior+,B
+MV-SIG-TON-012-11,Core Wind Oath Rails Sworn,Steel Tonfashaft,F2,Warrior+,B
+MV-SIG-TON-008-01,Hornbeam Handlepeg,Steadfast Handlepeg,F2,Warrior+,B
+MV-SIG-TON-010-06,Hornbeam Gripbar,Staunch Gripbar,F2,Warrior+,B
+MV-SIG-TON-010-08,Glacier Knock,Clamping Knock,F2,Warrior+,B

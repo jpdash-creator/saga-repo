@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-worlds-p13-star-system-classification-system",
+ "part": 13,
+ "area": 16,
+ "sequence_in_part": 16,
+ "title": "Star System Classification System (Cosmic Tier)",
+ "domain": "worlds",
+ "source_file": "Part_13_World_Systems_Location_Law.md",
+ "start_line": 539,
+ "end_line": 563,
+ "line_count": 25,
+ "output_path": ".claude/skills/ssc-worlds-p13-star-system-classification-system/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-cultivation-p03-cultivation-ladder-realm-hierarchy",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Ambient Energy Class requires cultivation energy classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-lifespan-mechanics",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Ambient Energy Class requires cultivation energy classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-power-density",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Ambient Energy Class requires cultivation energy classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-realm-transition",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Ambient Energy Class requires cultivation energy classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-cultivation-talent",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Ambient Energy Class requires cultivation energy classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-growth-speed",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Ambient Energy Class requires cultivation energy classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-power-comparison",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Ambient Energy Class requires cultivation energy classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-damage-tolerance-recovery",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Ambient Energy Class requires cultivation energy classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-affinity-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Ambient Energy Class requires cultivation energy classification"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-heart-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Ambient Energy Class requires cultivation energy classification"
+  }
+ ]
+}

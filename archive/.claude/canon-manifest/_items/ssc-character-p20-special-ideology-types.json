@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-character-p20-special-ideology-types",
+ "part": 20,
+ "area": 12,
+ "sequence_in_part": 12,
+ "title": "Special Ideology Types",
+ "domain": "character",
+ "source_file": "Part_20_Character_Ideology_Law.md",
+ "start_line": 872,
+ "end_line": 906,
+ "line_count": 35,
+ "output_path": ".claude/skills/ssc-character-p20-special-ideology-types/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-character-p17-foundational-principles-hero",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero ideology state governed by Part 20 IS-state"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-growth-progression-law",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero ideology state governed by Part 20 IS-state"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-cultivation-power-governance",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero ideology state governed by Part 20 IS-state"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-ideology-belief-arc",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero ideology state governed by Part 20 IS-state"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-psychology",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero ideology state governed by Part 20 IS-state"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-ledger",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero ideology state governed by Part 20 IS-state"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-struggle-challenge-architecture",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero ideology state governed by Part 20 IS-state"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-relationships-faction-architecture",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero ideology state governed by Part 20 IS-state"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-identity-self-perception",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero ideology state governed by Part 20 IS-state"
+  },
+  {
+   "skill_id": "ssc-character-p17-hero-combat-architecture",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Hero ideology state governed by Part 20 IS-state"
+  }
+ ]
+}

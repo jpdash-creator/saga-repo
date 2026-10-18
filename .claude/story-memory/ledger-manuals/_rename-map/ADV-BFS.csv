@@ -1,0 +1,118 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-BFS-001-01,Folded Wing Draw,Lancing Hiltfold,F1,Champion,B
+MV-ADV-BFS-001-02,Fold Cover Brace,Facet Swingguard,F2,Champion,B
+MV-ADV-BFS-001-03,Unfolding Thrust,Rumble Shearedge,F2,Champion,B
+MV-ADV-BFS-001-04,Collapsing Pace,Whipping Scissor,F1,Champion,B
+MV-ADV-BFS-001-05,Qi Fold Snap,Blaze Fliptang,F2,Champion,B
+MV-ADV-BFS-001-06,Folded Blade Bind,Ponderous Doublehilt,F2,Champion,B
+MV-ADV-BFS-001-07,Fold Unfold Reckoning,Shortedge Torment,F3,Champion,B
+MV-ADV-BFS-001-08,Sealing Wing Press,Lotwing,F5,Champion,B
+MV-ADV-BFS-002-01,Field Edge Draw,Scuteassault,F4,Demigod,B
+MV-ADV-BFS-002-02,Beyond Steel Guard,Hoarfrost Wristside,F2,Demigod,B
+MV-ADV-BFS-002-03,Pair Reach Jab,Flurry Maelstrom,F3,Demigod,B
+MV-ADV-BFS-002-04,Field Drift Pace,Siltflurry,F5,Demigod,B
+MV-ADV-BFS-002-05,Edge Field Pulse,Might Clipper,F2,Demigod,B
+MV-ADV-BFS-002-06,Field Hook Catch,Hamstringing Crossing,F1,Demigod,B
+MV-ADV-BFS-002-07,Wide Wing Ward,Iron Platepoint,F2,Demigod,B
+MV-ADV-BFS-002-08,Field Shear Reach,Shearing Barrage,F3,Demigod,B
+MV-ADV-BFS-002-09,Wingspan Sweep,Downpour Snapcut,F2,Demigod,B
+MV-ADV-BFS-003-01,Seamless Pair Cover Stance,Annealed Cheekhilt,F1,Champion,B
+MV-ADV-BFS-003-02,Mutual Parry Handoff,Annealed Fliptang,F1,Champion,B
+MV-ADV-BFS-003-03,High Low Cover Switch,Steadfast Hiltfold,F1,Champion,B
+MV-ADV-BFS-003-04,Guard Step Close,Mightmoth,F5,Champion,B
+MV-ADV-BFS-003-05,Covered Thrust,Hollow Scissor,F2,Champion,B
+MV-ADV-BFS-003-06,Qi Seam Closing,Cheekhilt Plating,F3,Champion,B
+MV-ADV-BFS-003-07,Guard Locked Riposte,Furrowing Flurry,F1,Champion,B
+MV-ADV-BFS-003-08,Pressure Soak Turn,Torrent Shortedge,F2,Champion,B
+MV-ADV-BFS-003-09,Unbroken Pair Ward,Immovable Wristside,F1,Champion,B
+MV-ADV-BFS-003-10,Seam Opening Counter,Gustscute,F5,Champion,B
+MV-ADV-BFS-004-01,Gap Finding Step,Gust Edgepair,F2,Demigod,B
+MV-ADV-BFS-004-02,Short Blade Snatch,Manacling Clipper,F1,Demigod,B
+MV-ADV-BFS-004-03,Flanker Slash,Ironmoth,F5,Demigod,B
+MV-ADV-BFS-004-04,Back Rank Cover,Torrent Swingguard,F2,Demigod,B
+MV-ADV-BFS-004-05,Qi Crowd Weave,Crossing Pounce,F3,Demigod,B
+MV-ADV-BFS-004-06,Chain Drag Fall,Thorn Snapcut,F2,Demigod,B
+MV-ADV-BFS-004-07,Wheeling Many Cut,Siltpleat,F5,Demigod,B
+MV-ADV-BFS-004-08,Press Through Rank,Intentmoth,F5,Demigod,B
+MV-ADV-BFS-005-01,Court Mirror Stance,Thornpleat,F5,Champion,B
+MV-ADV-BFS-005-02,Azure Pair Bow Cut,Raging Platepoint,F1,Champion,B
+MV-ADV-BFS-005-03,Paired Basin Thrust,Rumble Edgepair,F2,Champion,B
+MV-ADV-BFS-005-04,Reflecting Blade Turn,Unyielding Fliptang,F1,Champion,B
+MV-ADV-BFS-005-05,Twin Court Pace,Shortedge Jaunt,F3,Champion,B
+MV-ADV-BFS-005-06,River Line Slide,Gust Hiltfold,F2,Champion,B
+MV-ADV-BFS-005-07,Mirror Qi Cut,Sanguine Shearedge,F2,Champion,B
+MV-ADV-BFS-005-08,Hawk Eye Feint,Murkpleat,F5,Champion,B
+MV-ADV-BFS-005-09,Court Pairing Bind,Hoarfrost Shearing,F2,Champion,B
+MV-ADV-BFS-005-10,Azure Mirror Reckoning,Ravaging Gust Clipper,F6a,Champion,B
+MV-ADV-BFS-005-11,Basin Gathering Guard,Verity Edgepair,F2,Champion,B
+MV-ADV-BFS-006-01,Talon Open Draw,Wingbarrage,F4,Demigod,B
+MV-ADV-BFS-006-02,Hawk Perch Knuckle Guard,Aegis Cheekhilt,F2,Demigod,B
+MV-ADV-BFS-006-03,Stoop Thrust,Tempered Doublehilt,F2,Demigod,B
+MV-ADV-BFS-006-04,Wing Tilt Hilt Slide,Soaring Wristside,F1,Demigod,B
+MV-ADV-BFS-006-05,Seizing Field Grip,Gyvepleat,F5,Demigod,B
+MV-ADV-BFS-006-06,Raking Talon Cut,Iron Shearedge,F2,Demigod,B
+MV-ADV-BFS-006-07,Hawk Shadow Step,Granite Doublehilt,F2,Demigod,B
+MV-ADV-BFS-006-08,Seize and Strike Doctrine,Lot Scissor,F2,Demigod,B
+MV-ADV-BFS-006-09,Azure Dive Stoop,Hollow Snapcut,F2,Demigod,B
+MV-ADV-BFS-007-01,Basin Rim Mated Stance,Thornscute,F5,Champion,B
+MV-ADV-BFS-007-02,Riverbank Curve Parry,Murk Swingguard,F2,Champion,B
+MV-ADV-BFS-007-03,Paired Current Cut,Tempered Crossing,F2,Champion,B
+MV-ADV-BFS-007-04,Eddy Step Aside,Silt Crossing,F2,Champion,B
+MV-ADV-BFS-007-05,Silt Settling Jab,Hollow Flurry,F2,Champion,B
+MV-ADV-BFS-007-06,Gathered Flow Ward,Platepoint Plating,F3,Champion,B
+MV-ADV-BFS-007-07,Overflow Return Cut,Wingthrash,F4,Champion,B
+MV-ADV-BFS-007-08,Down River Turn,Toxin Fliptang,F2,Champion,B
+MV-ADV-BFS-007-09,Flood Gate Guard,Equipoise Wristside,F2,Champion,B
+MV-ADV-BFS-007-10,River Line Send Away,Gustmoth,F5,Champion,B
+MV-ADV-BFS-008-01,Court Seat Draw,Pleattorment,F4,Demigod,B
+MV-ADV-BFS-008-02,Edge Pair Ward,Doublehilt Cuirass,F3,Demigod,B
+MV-ADV-BFS-008-03,Close Court Thrust,Facetflurry,F5,Demigod,B
+MV-ADV-BFS-008-04,Measured Court Step,Shortedge Pounce,F3,Demigod,B
+MV-ADV-BFS-008-05,Reckoning Field Spread,Verityscute,F5,Demigod,B
+MV-ADV-BFS-008-06,Hawk Shoulder Mate Reading,Mayhemscute,F5,Demigod,B
+MV-ADV-BFS-008-07,Paired Edge Crossbar Parry,Gust Swingguard,F2,Demigod,B
+MV-ADV-BFS-008-08,Court Qi Riposte,Raging Cheekhilt,F1,Demigod,B
+MV-ADV-BFS-008-09,Twin Edge Hold,Hoarfrost Hiltfold,F2,Demigod,B
+MV-ADV-BFS-008-10,Settling Court Step,Silt Shearing,F2,Demigod,B
+MV-ADV-BFS-008-11,Reckoning of Close Edges,Granite Clipper,F2,Demigod,B
+MV-ADV-BFS-008-12,Court Pairing Seal,Intentwing,F5,Demigod,B
+MV-ADV-BFS-009-01,Wind Foot Draw,Skinning Platepoint,F1,Champion,B
+MV-ADV-BFS-009-02,Gust Cover Guard,Steadfast Edgepair,F1,Champion,B
+MV-ADV-BFS-009-03,Swift Bearing Jab,Raging Flurry,F1,Champion,B
+MV-ADV-BFS-009-04,Breeze Slip Pace,Siltscute,F5,Champion,B
+MV-ADV-BFS-009-05,Gale Step Cut,Shearedge Assault,F3,Champion,B
+MV-ADV-BFS-009-06,Crosswind Cover Turn,Mothplating,F4,Champion,B
+MV-ADV-BFS-009-07,Wind Sworn Double Step,Surging Shortedge,F1,Champion,B
+MV-ADV-BFS-009-08,Oathbound Gust Rush,Tiered Intent Swingguard,F6a,Champion,B
+MV-ADV-BFS-010-01,Plateau Edge Pair Stance,Hoarfrost Cheekhilt,F2,Demigod,B
+MV-ADV-BFS-010-02,Open Ground Wing Cut,Wrecking Shearing,F1,Demigod,B
+MV-ADV-BFS-010-03,Oath Held Blade Parry,Chime Hiltfold,F2,Demigod,B
+MV-ADV-BFS-010-04,Wind Line Mate Thrust,Rumble Shearing,F2,Demigod,B
+MV-ADV-BFS-010-05,Bearing Held Flank Pace,Mightpleat,F5,Demigod,B
+MV-ADV-BFS-010-06,Edge Wind Draw,Silencing Snapcut,F1,Demigod,B
+MV-ADV-BFS-010-07,Plateau Rim Cover,Facetwing,F5,Demigod,B
+MV-ADV-BFS-010-08,Oath Bright Riposte,Iron Doublehilt,F2,Demigod,B
+MV-ADV-BFS-010-09,Many Winds Turning,Granite Scissor,F2,Demigod,B
+MV-ADV-BFS-010-10,Held Bearing Reckoning,Aegis Edgepair,F2,Demigod,B
+MV-ADV-BFS-011-01,Fixed Bearing Stance,Resilient Platepoint,F1,Champion,B
+MV-ADV-BFS-011-02,Grass Bend Parry,Gustwing,F5,Champion,B
+MV-ADV-BFS-011-03,Crosswind Mate Jab,Drubbing Scissor,F1,Champion,B
+MV-ADV-BFS-011-04,Lean With the Push,Fliptang Leap,F3,Champion,B
+MV-ADV-BFS-011-05,Bearing Wind Check,Chimescute,F5,Champion,B
+MV-ADV-BFS-011-06,Gust Shedding Guard,Immovable Shearedge,F1,Champion,B
+MV-ADV-BFS-011-07,Soft Wind Lock,Gyve Crossing,F2,Champion,B
+MV-ADV-BFS-011-08,Springing Crosswind Reply,Drubbing Clipper,F1,Champion,B
+MV-ADV-BFS-011-09,Unmoved Bearing Ward,Wristside Greave,F3,Champion,B
+MV-ADV-BFS-012-01,Oath Draw and Cut,Might Crossing,F2,Demigod,B
+MV-ADV-BFS-012-02,Gale Braced Pair Guard,Enduring Cheekhilt,F1,Demigod,B
+MV-ADV-BFS-012-03,Wind Needle Thrust,Grinding Flurry,F1,Demigod,B
+MV-ADV-BFS-012-04,Gust Hop Pace,Siltmoth,F5,Demigod,B
+MV-ADV-BFS-012-05,Gale Swift Cut,Rumble Scissor,F2,Demigod,B
+MV-ADV-BFS-012-06,Oath Voice Steadying,Intent Shearedge,F2,Demigod,B
+MV-ADV-BFS-012-07,Gale Tearing Cross,Ironwing,F5,Demigod,B
+MV-ADV-BFS-012-08,Wind Turned Bind,Gyve Hiltfold,F2,Demigod,B
+MV-ADV-BFS-012-09,Gale Oath Sworn Rush,Alternating Platepoint,F1,Demigod,B
+MV-ADV-BFS-012-10,Sworn Wind Shearing,Sanguine Snapcut,F2,Demigod,B
+MV-ADV-BFS-003-05,Hollow Scissor,Piercing Scissor,F2,Champion,B
+MV-ADV-BFS-006-09,Hollow Snapcut,Driving Snapcut,F2,Demigod,B
+MV-ADV-BFS-007-05,Hollow Flurry,Needling Flurry,F2,Champion,B

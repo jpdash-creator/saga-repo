@@ -1,0 +1,145 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-SLG-001-01,Hawk-Pair Stone Selecting,Reminiscence Fingerhitch,F2,Warrior L1 Low,B
+MV-SIG-SLG-001-02,Twin-Whirl Opening Turn,Royal Singing,F1,Warrior L1 Low,B
+MV-SIG-SLG-001-03,Paired Letgo at the Crown,Thunderclap Cordleft,F2,Warrior L1 Low,B
+MV-SIG-SLG-001-04,Basin Pair Pulse Throw,Peal Cradle,F2,Warrior L1 Low,B
+MV-SIG-SLG-001-05,Hawk-Shadow Ankle Skip,Wristhitch Troth,F3,Warrior L1 Low,B
+MV-SIG-SLG-001-06,Wing-Cross Guard Turn,Squall Releasecord,F2,Warrior L1 Low,B
+MV-SIG-SLG-001-07,Paired-Stone Plate Opening,Radiance Orbit,F2,Champion L1 Low,B
+MV-SIG-SLG-001-08,Hawk-and-Hound Pairing Volley,Choral Flingaway,F1,Champion L1 Low,B
+MV-SIG-SLG-001-09,Matched Hawks Strike the Crown,Squallorbit,F5,Demigod L1 Low,B
+MV-SIG-SLG-001-10,The Hawk Pair Descends,Vigor Pelt,F2,Warrior L1 Low,B
+MV-SIG-SLG-002-01,Basin-Track Line Setting,Peal Slingstone,F2,Warrior L6 Mid,B
+MV-SIG-SLG-002-02,Azure Cord High Circle,Inferno Slung,F2,Warrior L6 Mid,B
+MV-SIG-SLG-002-03,River Cord Low Circle,Glacier Pouch,F2,Warrior L6 Mid,B
+MV-SIG-SLG-002-04,Track-Swap Hand Change,Hospitable Leadshot,F1,Warrior L6 Mid,B
+MV-SIG-SLG-002-05,Dual-Track Delay Throw,Magnificent Slingstone,F1,Warrior L6 Mid,B
+MV-SIG-SLG-002-06,River-Bend Ankle Cast,Thrallcradle,F5,Warrior L6 Mid,B
+MV-SIG-SLG-002-07,Azure-Ridge High Pulse,Cradlebanner,F4,Warrior L6 Mid,B
+MV-SIG-SLG-002-08,Twin-Track Sequence Cast,Cradlecrown,F4,Champion L1 Low,B
+MV-SIG-SLG-002-09,Basin-Floor Snare Throw,Subtle Cordright,F1,Champion L1 Low,B
+MV-SIG-SLG-002-10,Dual Tracks Closing the Gap,Thunderclap Releasecord,F2,Demigod L1 Low,B
+MV-SIG-SLG-002-11,The Two Tracks Become One,Famed Squall Slingtether,F6a,Warrior L6 Mid,B
+MV-SIG-SLG-003-01,River-Court Cord Gathering,Bountiful Pouch,F1,Champion L4 Low,B
+MV-SIG-SLG-003-02,Twin-Loop Finger Setting,Vigor Slingtether,F2,Champion L4 Low,B
+MV-SIG-SLG-003-03,Court-Paired Whirl Set,Majestic Flingaway,F1,Champion L4 Low,B
+MV-SIG-SLG-003-04,Paired Court Stepping,Bedrock Cordleft,F2,Champion L4 Low,B
+MV-SIG-SLG-003-05,Right-River Left-Azure Throw,Pulsar Stonepelt,F2,Champion L4 Low,B
+MV-SIG-SLG-003-06,Twin-Cord Wrist Lash,Bedrock Stonepelt,F2,Champion L4 Low,B
+MV-SIG-SLG-003-07,Court-Crossed Cord Catch,Undefiled Cradle,F1,Champion L4 Low,B
+MV-SIG-SLG-003-08,Twin Pulse Interval Cast,Thunderclap Slung,F2,Champion L4 Low,B
+MV-SIG-SLG-003-09,Court Crossing Weapon Haul,Venom Cordright,F2,Champion L4 Low,B
+MV-SIG-SLG-003-10,River Court Orbit Cast,Tempestuous Fingerhitch,F2,Champion L4 Low,B
+MV-SIG-SLG-003-11,Twin Cords Meeting at the Court's Heart,Vigor Singing,F2,Demigod L1 Low,B
+MV-SIG-SLG-003-12,The River-Court Verdict Cast,Majestic Haemal Pelt,F6a,Champion L4 Low,B
+MV-SIG-SLG-004-01,Azure Perch Eye Fixing,Pouchbenison,F4,Ruler L1 Mid,B
+MV-SIG-SLG-004-02,Hawk-Perch Pouch Circling,Dauntless Fingerhitch,F1,Ruler L1 Mid,B
+MV-SIG-SLG-004-03,Steep Stoop Letgo,Squall Wristhitch,F2,Ruler L1 Mid,B
+MV-SIG-SLG-004-04,Azure Plunge Pulse,Glacier Leadshot,F2,Ruler L1 Mid,B
+MV-SIG-SLG-004-05,Hawk-Shadow Crowd Pick,Peal Wristhitch,F2,Ruler L1 Mid,B
+MV-SIG-SLG-004-06,Talon Strike Helm Ring,Lordly Cordleft,F1,Ruler L1 Mid,B
+MV-SIG-SLG-004-07,Falling Blue Hammer,Peltcrown,F4,Ruler L1 Mid,B
+MV-SIG-SLG-004-08,Hawk's Rain of Pebbles,Magma Singing,F2,Ruler L1 Mid,B
+MV-SIG-SLG-004-09,Hawk Strikes the Highest Head,Orbittriumph,F4,Demigod L1 Low,B
+MV-SIG-SLG-004-10,Azure Hawk's Final Stoop,Thunderclap Slingstone,F2,Ruler L1 Mid,B
+MV-SIG-SLG-005-01,Field-Paired Stone Casing,Parity Slingtether,F2,Demigod L3 Mid,B
+MV-SIG-SLG-005-02,Great-Whirl Matched Circles,Glacier Slung,F2,Demigod L3 Mid,B
+MV-SIG-SLG-005-03,Field-Edge Pair Release,Pealpouch,F5,Demigod L3 Mid,B
+MV-SIG-SLG-005-04,Paired Field Steering,Imperial Orbit,F1,Demigod L3 Mid,B
+MV-SIG-SLG-005-05,Azure Field Guard Turn,Stately Releasecord,F1,Demigod L3 Mid,B
+MV-SIG-SLG-005-06,Pair-Spun Armour Bore,Prism Leadshot,F2,Demigod L3 Mid,B
+MV-SIG-SLG-005-07,Twin Field Echo Throw,Glacier Cradle,F2,Demigod L3 Mid,B
+MV-SIG-SLG-005-08,Great Pair Crossing Strike,Quenched Flingaway,F2,Demigod L3 Mid,B
+MV-SIG-SLG-005-09,Field-Linked Pair Sequence,Slingcrown,F4,Demigod L3 Mid,B
+MV-SIG-SLG-005-10,Paired Cast Through the Guard,Vacuum Stonepelt,F2,Demigod L3 Mid,B
+MV-SIG-SLG-005-11,The Great Paired Cast,Majestic Quenched Pelt,F6a,Demigod L3 Mid,B
+MV-SIG-SLG-006-01,Core-Warmed Cord Wrap,Bloom Cordright,F2,Core Formation L2 Low,B
+MV-SIG-SLG-006-02,Hawk-Core Stance Anchor,Paritysling,F5,Core Formation L2 Low,B
+MV-SIG-SLG-006-03,River-Core Whirl Drawing,Wristhitch Banner,F3,Core Formation L2 Low,B
+MV-SIG-SLG-006-04,Core-Beat Release Count,Prismpelt,F5,Core Formation L2 Low,B
+MV-SIG-SLG-006-05,Core-Driven Azure Pulse,Peal Releasecord,F2,Core Formation L2 Low,B
+MV-SIG-SLG-006-06,River-Core Bend Throw,Pulsar Pouch,F2,Core Formation L2 Low,B
+MV-SIG-SLG-006-07,Hawk-Core Steady Hold,Vigor Slingstone,F2,Core Formation L2 Low,B
+MV-SIG-SLG-006-08,Core-Pair Shock Strike,Quenched Orbit,F2,Core Formation L2 Low,B
+MV-SIG-SLG-006-09,Core Hawk Rending Slug,Vacuum Cordleft,F2,Core Formation L2 Low,B
+MV-SIG-SLG-006-10,River Core Rolling Barrage,Magma Orbit,F2,Core Formation L2 Low,B
+MV-SIG-SLG-006-11,Hawk and River Cored Descent,Haemalslung,F5,Core Formation L2 Low,B
+MV-SIG-SLG-006-12,Basin Core Single Cast,Steel Flingaway,F2,Core Formation L2 Low,B
+MV-SIG-SLG-007-01,Oath-Breath Stance Take,Hospitable Cordright,F1,Warrior L2 Low,B
+MV-SIG-SLG-007-02,Open Cast Whirl Start,Pealslung,F5,Warrior L2 Low,B
+MV-SIG-SLG-007-03,Sworn Open-Hand Release,Pulsarorbit,F5,Warrior L2 Low,B
+MV-SIG-SLG-007-04,Oath Pulse Throw,Radiance Cradle,F2,Warrior L2 Low,B
+MV-SIG-SLG-007-05,Plateau Edge Trim Step,Deluge Leadshot,F2,Warrior L2 Low,B
+MV-SIG-SLG-007-06,Wind-Sworn Cord Fend,Deluge Fingerhitch,F2,Warrior L2 Low,B
+MV-SIG-SLG-007-07,Bearing Pulse Lob,Splendid Pelt,F1,Warrior L2 Low,B
+MV-SIG-SLG-007-08,Open Cast Wind Lance,Unrivaled Slingtether,F1,Champion L1 Low,B
+MV-SIG-SLG-007-09,Oath Chain Throw,Orchestral Stonepelt,F1,Champion L1 Low,B
+MV-SIG-SLG-007-10,Oath That Pierces the Wind,Prismslung,F5,Demigod L1 Low,B
+MV-SIG-SLG-007-11,The Open Cast Sworn,Bedrock Pouch,F2,Warrior L2 Low,B
+MV-SIG-SLG-008-01,Plateau Bearing Line Take,Benevolent Pouch,F1,Warrior L8 High,B
+MV-SIG-SLG-008-02,Rim-Side Whirl Tilt,Squallpouch,F5,Warrior L8 High,B
+MV-SIG-SLG-008-03,Bearing Letgo on the Count,Pouchdecree,F4,Warrior L8 High,B
+MV-SIG-SLG-008-04,Bearing Hold Pulse,Cordright Verdict,F3,Warrior L8 High,B
+MV-SIG-SLG-008-05,Plateau Drift Allowance,Revelation Fingerhitch,F2,Warrior L8 High,B
+MV-SIG-SLG-008-06,Cliff-Rim Counter Loose,Noble Wristhitch,F1,Warrior L8 High,B
+MV-SIG-SLG-008-07,Plateau Long Reach Cast,Singing Decree,F3,Champion L1 Low,B
+MV-SIG-SLG-008-08,Bearing Pair Rolling Strike,Orchestral Slung,F1,Champion L1 Low,B
+MV-SIG-SLG-008-09,Bearing Struck Across the Plateau,Lordly Leadshot,F1,Demigod L1 Low,B
+MV-SIG-SLG-008-10,The Plateau Bearing Cast,Matchless Steel Releasecord,F6a,Warrior L8 High,B
+MV-SIG-SLG-009-01,Gale-Rim Footing Trim,Vigorsling,F5,Champion L7 Mid,B
+MV-SIG-SLG-009-02,Rim-Wind Cord Wrap,Volition Cordleft,F2,Champion L7 Mid,B
+MV-SIG-SLG-009-03,Gale Whirl Tight Circle,Slingedict,F4,Champion L7 Mid,B
+MV-SIG-SLG-009-04,Gust-Parted Release,Orbitdecree,F4,Champion L7 Mid,B
+MV-SIG-SLG-009-05,Gale Lash Pulse Cast,Lordly Orbit,F1,Champion L7 Mid,B
+MV-SIG-SLG-009-06,Wind-Rim Skipping Throw,Pealorbit,F5,Champion L7 Mid,B
+MV-SIG-SLG-009-07,Gust-Locked Cord Guard,Bedrock Slingstone,F2,Champion L7 Mid,B
+MV-SIG-SLG-009-08,Rim Gale Bind Throw,Hornbeam Pelt,F2,Champion L7 Mid,B
+MV-SIG-SLG-009-09,Gale-Rim Hammering Rain,Dune Stonepelt,F2,Champion L7 Mid,B
+MV-SIG-SLG-009-10,Rimwind Rolling Sequence,Slung Triumph,F3,Champion L7 Mid,B
+MV-SIG-SLG-009-11,Gale Driven Through the Guard,Prism Flingaway,F2,Demigod L1 Low,B
+MV-SIG-SLG-009-12,The Gale-Rim Signature Cast,Magnificent Haemal Singing,F6a,Champion L7 Mid,B
+MV-SIG-SLG-010-01,Unwalled Ground Bearing,Eclipse Slingtether,F2,Ruler L1 Mid,B
+MV-SIG-SLG-010-02,Open Plain Whirl Draw,Paramount Singing,F1,Ruler L1 Mid,B
+MV-SIG-SLG-010-03,Gale-at-the-Back Release,Pealpelt,F5,Ruler L1 Mid,B
+MV-SIG-SLG-010-04,Bearing and Gale Pulse,Slungverdict,F4,Ruler L1 Mid,B
+MV-SIG-SLG-010-05,Unwalled Flank Slide,Bedrock Fingerhitch,F2,Ruler L1 Mid,B
+MV-SIG-SLG-010-06,Grass-Spread Mount Snare,Slingvow,F4,Ruler L1 Mid,B
+MV-SIG-SLG-010-07,Gale Offset Rider Throw,Steel Cradle,F2,Ruler L1 Mid,B
+MV-SIG-SLG-010-08,Unwalled Line Breaker Volley,Orbitbanner,F4,Ruler L1 Mid,B
+MV-SIG-SLG-010-09,Gale and Bearing Sequence,Tenetcradle,F5,Ruler L1 Mid,B
+MV-SIG-SLG-010-10,No Wall Stands Before the Stone,Pulsarsling,F5,Demigod L1 Low,B
+MV-SIG-SLG-010-11,The Unwalled Cast,Gallant Leadshot,F1,Ruler L1 Mid,B
+MV-SIG-SLG-011-01,Field-and-Wind Cord Charge,Bloompouch,F5,Void God L2 Low,B
+MV-SIG-SLG-011-02,Great Whirl Gale Draw,Thunderclap Wristhitch,F2,Void God L2 Low,B
+MV-SIG-SLG-011-03,Wind-Sheathed Stone Letgo,Thunderclap Orbit,F2,Void God L2 Low,B
+MV-SIG-SLG-011-04,Gale-Field Carrying Pulse,Prism Slingtether,F2,Void God L2 Low,B
+MV-SIG-SLG-011-05,Wind-Wrapped Slug Cast,Cradleverdict,F4,Void God L2 Low,B
+MV-SIG-SLG-011-06,Field Gust Parry,Deluge Releasecord,F2,Void God L2 Low,B
+MV-SIG-SLG-011-07,Great Wind Rising Throw,Pouchtriumph,F4,Void God L2 Low,B
+MV-SIG-SLG-011-08,Gale Field Triple Sequence,Volition Slingstone,F2,Void God L2 Low,B
+MV-SIG-SLG-011-09,Wind Field Spear Cast,Thunderclap Cradle,F2,Void God L2 Low,B
+MV-SIG-SLG-011-10,The Great Wind Cast,Valiant Steel Pelt,F6a,Void God L2 Low,B
+MV-SIG-SLG-012-01,Core-Held Oath Cord,Slingmercy,F4,Core Formation L4 Mid,B
+MV-SIG-SLG-012-02,Plateau-Core Stance,Bloom Cordleft,F2,Core Formation L4 Mid,B
+MV-SIG-SLG-012-03,Core Whirl Wind Rise,Storied Flingaway,F1,Core Formation L4 Mid,B
+MV-SIG-SLG-012-04,Core-Timed Open Release,Radiance Cordright,F2,Core Formation L4 Mid,B
+MV-SIG-SLG-012-05,Core-Fed Sling Gust Pulse,Magnificent Releasecord,F1,Core Formation L4 Mid,B
+MV-SIG-SLG-012-06,Plateau Core Bend Cast,Slungbanner,F4,Core Formation L4 Mid,B
+MV-SIG-SLG-012-07,Wind-Core Steady Breath,Parity Cordright,F2,Core Formation L4 Mid,B
+MV-SIG-SLG-012-08,Oath-Core Shock Throw,Unrivaled Slung,F1,Core Formation L4 Mid,B
+MV-SIG-SLG-012-09,Core Wind Piercing Slug,Wristhitch Crown,F3,Core Formation L4 Mid,B
+MV-SIG-SLG-012-10,Plateau Core Rolling Barrage,Demolition Orbit,F2,Core Formation L4 Mid,B
+MV-SIG-SLG-012-11,Core and Gale Together Fall,Unrivaled Stonepelt,F1,Core Formation L4 Mid,B
+MV-SIG-SLG-012-12,The Core Oath Cast,Steelpouch,F5,Core Formation L4 Mid,B
+MV-SIG-SLG-002-03,Glacier Pouch,Grand Pouch,F2,Warrior L6 Mid,B
+MV-SIG-SLG-002-11,Famed Squall Slingtether,Famed Slingtether,F6a,Warrior L6 Mid,B
+MV-SIG-SLG-003-12,Majestic Haemal Pelt,Majestic Pelt,F6a,Champion L4 Low,B
+MV-SIG-SLG-004-04,Glacier Leadshot,Noble Leadshot,F2,Ruler L1 Mid,B
+MV-SIG-SLG-005-02,Glacier Slung,Intrepid Slung,F2,Demigod L3 Mid,B
+MV-SIG-SLG-005-07,Glacier Cradle,Fearless Cradle,F2,Demigod L3 Mid,B
+MV-SIG-SLG-005-11,Majestic Quenched Pelt,Resplendent Pelt,F6a,Demigod L3 Mid,B
+MV-SIG-SLG-008-10,Matchless Steel Releasecord,Matchless Releasecord,F6a,Warrior L8 High,B
+MV-SIG-SLG-009-08,Hornbeam Pelt,Binding Pelt,F2,Champion L7 Mid,B
+MV-SIG-SLG-009-09,Dune Stonepelt,Thunderous Stonepelt,F2,Champion L7 Mid,B
+MV-SIG-SLG-009-12,Magnificent Haemal Singing,Magnificent Singing,F6a,Champion L7 Mid,B
+MV-SIG-SLG-011-10,Valiant Steel Pelt,Valiant Pelt,F6a,Void God L2 Low,B

@@ -1,0 +1,67 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-CHW-001-01,Slack Hold Stance,Jointcowl,F4,T1 Unawakened,A
+MV-BAS-CHW-001-02,Dropping Segment Rap,Flat Rivet,F1,T1 Unawakened,A
+MV-BAS-CHW-001-03,Handle Quarter Turn,Towing Slither,F1,T1 Unawakened,A
+MV-BAS-CHW-001-04,Short Skip Step,Shifting Hingebar,F1,T1 Unawakened,A
+MV-BAS-CHW-001-05,Elbow Pinned Snap,Plain Writhe,F1,T1 Unawakened,A
+MV-BAS-CHW-001-06,Tail Reel-In Loop,Angled Linkpin,F1,T1 Unawakened,A
+MV-BAS-CHW-002-01,Slow Figure Eight Swing,Rivetlid,F4,T1 Skin,A
+MV-BAS-CHW-002-02,Overhand Arc Strike,Leaden Segment,F1,T1 Skin,A
+MV-BAS-CHW-002-03,Ankle Height Sidearm Sweep,Quick Spineplate,F1,T1 Skin,A
+MV-BAS-CHW-002-04,Wrist Curl Catch,Writhelid,F4,T1 Skin,A
+MV-BAS-CHW-002-05,Rolling Heel Retreat,Skipping Jangle,F1,T1 Skin,A
+MV-BAS-CHW-003-01,Iron Tail Twirl Guard,Eyelethusk,F4,T1 Muscle,A
+MV-BAS-CHW-003-02,Waist Level Snap Out,Downward Tailblade,F1,T1 Muscle,A
+MV-BAS-CHW-003-03,Rising Segment Flick,Sharp Coilend,F1,T1 Muscle,A
+MV-BAS-CHW-003-04,Single Loop Over Blade,Catching Chainhead,F1,T1 Muscle,A
+MV-BAS-CHW-003-05,Two Count Retreat,Shifting Whiplink,F1,T1 Muscle,A
+MV-BAS-CHW-003-06,Dead Weight Drag,Writhepause,F4,T1 Muscle,A
+MV-BAS-CHW-003-07,Back Pass Screen,Hooding Eyelet,F1,T1 Muscle,A
+MV-BAS-CHW-004-01,Loose Tendon Riding Stance,Planted Linkpin,F1,T1 Tendon,A
+MV-BAS-CHW-004-02,Throwing Arm Draw,Sharp Rivet,F1,T1 Tendon,A
+MV-BAS-CHW-004-03,Side Cast Hauled Back,Rivetblow,F4,T1 Tendon,A
+MV-BAS-CHW-004-04,Last Ring Tapping,Jointbump,F4,T1 Tendon,A
+MV-BAS-CHW-004-05,Knee High Winding,Catching Whiplink,F1,T1 Tendon,A
+MV-BAS-CHW-004-06,Hip Turn Crack,Rattlehit,F4,T1 Tendon,A
+MV-BAS-CHW-004-07,Slip and Reel,Skipping Hingebar,F1,T1 Tendon,A
+MV-BAS-CHW-004-08,Chain Tension Reading,Rivetreview,F4,T1 Tendon,A
+MV-BAS-CHW-005-01,Bone Set Square Stance,Jointstay,F4,T1 Bone,A
+MV-BAS-CHW-005-02,Steep Tip Fall,Low Rasp,F1,T1 Bone,A
+MV-BAS-CHW-005-03,Bent Elbow Cross Turn,Hooding Segment,F1,T1 Bone,A
+MV-BAS-CHW-005-04,Heavy Segment Throw,Open Rattle,F1,T1 Bone,A
+MV-BAS-CHW-005-05,Rear Ankle Hook Loop,Catching Jangle,F1,T1 Bone,A
+MV-BAS-CHW-005-06,Close Step Cut-Off,Swaying Tailblade,F1,T1 Bone,A
+MV-BAS-CHW-006-01,Ringed Tail Ready Guard,Joint Wedge,F3,Senior L1 Low,A
+MV-BAS-CHW-006-02,Breath Fed Snap,Rasphit,F4,Senior L1 Low,A
+MV-BAS-CHW-006-03,Spinning Ring Screen,Jointpause,F4,Senior L1 Low,A
+MV-BAS-CHW-006-04,Sidelong Tip Hook,Rattlewedge,F4,Senior L1 Low,A
+MV-BAS-CHW-006-05,Qi Weighted Wrap,Nabbing Coilend,F1,Senior L1 Low,A
+MV-BAS-CHW-006-06,Light Foot Chain Run,Writhepace,F4,Senior L1 Low,A
+MV-BAS-CHW-006-07,Segment Echo Listening,Eyeletgauge,F4,Senior L1 Low,A
+MV-BAS-CHW-007-01,Forearm Carry Posture,Rivetpause,F4,Senior L3 Low,A
+MV-BAS-CHW-007-02,Loose Cast Out,Straight Chainhead,F1,Senior L3 Low,A
+MV-BAS-CHW-007-03,Retrieving Draw,Pulling Eyelet,F1,Senior L3 Low,A
+MV-BAS-CHW-007-04,Over Shoulder Hook,Fixing Joint,F1,Senior L3 Low,A
+MV-BAS-CHW-007-05,Quiet Even Pace,Easing Slither,F1,Senior L3 Low,A
+MV-BAS-CHW-008-01,Rattle Hold Stance,Resting Hingebar,F1,Senior L5 Mid,A
+MV-BAS-CHW-008-02,Clink Feint Cast,Stopping Rasp,F1,Senior L5 Mid,A
+MV-BAS-CHW-008-03,Handle Spin Flurry,Quick Rivet,F1,Senior L5 Mid,A
+MV-BAS-CHW-008-04,Weighted Tail Slam,Rivetdash,F4,Senior L5 Mid,A
+MV-BAS-CHW-008-05,Linked Shin Rake,Single Writhe,F1,Senior L5 Mid,A
+MV-BAS-CHW-008-06,Rebound Turn Aside,Planted Joint,F1,Senior L5 Mid,A
+MV-BAS-CHW-008-07,Dragging Retreat,Rivetamble,F4,Senior L5 Mid,A
+MV-BAS-CHW-008-08,Ringing Qi Pulse,Eyeletcount,F4,Senior L5 Mid,A
+MV-BAS-CHW-009-01,Thumb Along Spine Grip,Rivethusk,F4,Senior L7 Low,A
+MV-BAS-CHW-009-02,Barbed Tip Jab,Low Segment,F1,Senior L7 Low,A
+MV-BAS-CHW-009-03,Sleeve Snagging Pull,Fouling Rattle,F1,Senior L7 Low,A
+MV-BAS-CHW-009-04,Eye Line Flick,Descending Spineplate,F1,Senior L7 Low,A
+MV-BAS-CHW-009-05,Cloak Caught Wrap,Locking Slither,F1,Senior L7 Low,A
+MV-BAS-CHW-009-06,Quarter Circle Drift,Eyelet Trot,F3,Senior L7 Low,A
+MV-BAS-CHW-010-01,Slack Gathering Guard,Ready Linkpin,F1,Senior L8 High,A
+MV-BAS-CHW-010-02,Taut Snap Release,Descending Tailblade,F1,Senior L8 High,A
+MV-BAS-CHW-010-03,Late Slack Throw,Fixing Writhe,F1,Senior L8 High,A
+MV-BAS-CHW-010-04,Tension Slide Guard,Solid Chainhead,F1,Senior L8 High,A
+MV-BAS-CHW-010-05,Draw In Release Out Step,Light Jangle,F1,Senior L8 High,A
+MV-BAS-CHW-010-06,Over-Pull Stumble,Hitching Whiplink,F1,Senior L8 High,A
+MV-BAS-CHW-010-07,Slack Reading,Watching Tailblade,F1,Senior L8 High,A
+MV-BAS-CHW-001-05,Plain Writhe,Stout Writhe,F1,T1 Unawakened,A

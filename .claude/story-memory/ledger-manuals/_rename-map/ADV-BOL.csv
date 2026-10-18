@@ -1,0 +1,99 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-BOL-001-01,Tangle Throw Stance,Vaulting Knotcenter,F1,Champion L1 Low,B
+MV-ADV-BOL-001-02,Blind Side Loop,Facet Wrapup,F2,Champion L1 Low,B
+MV-ADV-BOL-001-03,Cord Joint Brace,Fastening Stonehead,F2,Champion L1 Low,B
+MV-ADV-BOL-001-04,Weight Fall Reading,Remnant Ballsling,F2,Champion L1 Low,B
+MV-ADV-BOL-001-05,Spreading Tangle Cast,Fastening Bolaweight,F2,Champion L1 Low,B
+MV-ADV-BOL-001-06,Snapback Rebound Rap,Might Tripcord,F2,Champion L1 Low,B
+MV-ADV-BOL-001-07,Cross-Through Knot Cast,Ponderous Whirlcast,F2,Champion L1 Low,B
+MV-ADV-BOL-001-08,Staked Tripline Snare,Deed Cordthree,F2,Champion L1 Low,B
+MV-ADV-BOL-002-01,Weight Sense Palm,Bolaelixir,F4,Demigod L1 Low,B
+MV-ADV-BOL-002-02,Smooth Overarm Draw,Scything Heavyball,F1,Demigod L1 Low,B
+MV-ADV-BOL-002-03,Rolling Wrist Guard,Murk Joinknot,F2,Demigod L1 Low,B
+MV-ADV-BOL-002-04,Planting Foot Pivot,Silthobble,F5,Demigod L1 Low,B
+MV-ADV-BOL-002-05,Knuckle Weight Check,Blazeorb,F5,Demigod L1 Low,B
+MV-ADV-BOL-002-06,Extended Field Cast,Chime Bindfall,F2,Demigod L1 Low,B
+MV-ADV-BOL-002-07,Seizing Pulse Haul,Ponderous Hobble,F2,Demigod L1 Low,B
+MV-ADV-BOL-002-08,Weighted Orbit Guard,Iron Cordfork,F2,Demigod L1 Low,B
+MV-ADV-BOL-002-09,Many-Strand Orbit Sweep,Slagbola,F5,Demigod L1 Low,B
+MV-ADV-BOL-002-10,Staked Cord Web,Equipoise Spindle,F2,Demigod L1 Low,B
+MV-ADV-BOL-003-01,Line Paying Walk,Vaulting Bindfall,F1,Champion L6 Mid,B
+MV-ADV-BOL-003-02,Loop Setting Cast,Facetfetter,F5,Champion L6 Mid,B
+MV-ADV-BOL-003-03,Anchor Peg Drive,Thorn Heavyball,F2,Champion L6 Mid,B
+MV-ADV-BOL-003-04,Slack Line Flick,Manacling Shackle,F1,Champion L6 Mid,B
+MV-ADV-BOL-003-05,Snaring Line Draw,Dominating Spindle,F1,Champion L6 Mid,B
+MV-ADV-BOL-003-06,Taut Line Fend,Gustorb,F5,Champion L6 Mid,B
+MV-ADV-BOL-003-07,Quarry Turning Heave,Chimeorb,F5,Champion L6 Mid,B
+MV-ADV-BOL-003-08,Crossed Line Trap,Thorn Knotcenter,F2,Champion L6 Mid,B
+MV-ADV-BOL-003-09,Cast Draw Pin Sequence,Tiered Lot Shackle,F6a,Champion L6 Mid,B
+MV-ADV-BOL-004-01,Weight Choice Selection,Verity Tripcord,F2,Demigod L5 Mid,B
+MV-ADV-BOL-004-02,Standing Arc Throw,Hoarfrost Stonehead,F2,Demigod L5 Mid,B
+MV-ADV-BOL-004-03,Skimming Ground Throw,Stonetorment,F4,Demigod L5 Mid,B
+MV-ADV-BOL-004-04,Turn-About Cord Guard,Ironorb,F5,Demigod L5 Mid,B
+MV-ADV-BOL-004-05,Tail Hook Trip,Rumble Hobble,F2,Demigod L5 Mid,B
+MV-ADV-BOL-004-06,Short Step Recovery,Silt Whirlcast,F2,Demigod L5 Mid,B
+MV-ADV-BOL-004-07,Iron Core Punch Cast,Glint Cordthree,F2,Demigod L5 Mid,B
+MV-ADV-BOL-004-08,Sword Arm Bind Throw,Thornwrapup,F5,Demigod L5 Mid,B
+MV-ADV-BOL-004-09,Returning Weight Catch,Joinknot Greave,F3,Demigod L5 Mid,B
+MV-ADV-BOL-004-10,Full-Circle Entangling Sweep,Fetter Maelstrom,F3,Demigod L5 Mid,B
+MV-ADV-BOL-004-11,Twofold Bind and Strike Finish,Hour Ballsling,F2,Demigod L5 Mid,B
+MV-ADV-BOL-005-01,Twin Weight Stance,Siltfetter,F5,Champion L3 Low,B
+MV-ADV-BOL-005-02,Paired Hand Cast,Facetstone,F5,Champion L3 Low,B
+MV-ADV-BOL-005-03,Basin Rim Circle,Torrent Bolaweight,F2,Champion L3 Low,B
+MV-ADV-BOL-005-04,Twin Cord Crossing,Hamstringing Wrapup,F1,Champion L3 Low,B
+MV-ADV-BOL-005-05,River Bend Sidestep,Hobble Spurt,F3,Champion L3 Low,B
+MV-ADV-BOL-005-06,Dual Weight Knock,Ballsling Onslaught,F3,Champion L3 Low,B
+MV-ADV-BOL-005-07,Dual-Track Wrap,Ponderous Fetter,F2,Champion L3 Low,B
+MV-ADV-BOL-005-08,Paired Ankle Pull,Fastening Tripcord,F2,Champion L3 Low,B
+MV-ADV-BOL-005-09,Basin Edge Parry,Cordthree Plating,F3,Champion L3 Low,B
+MV-ADV-BOL-005-10,Twin Orbit Feint,Reverie Spindle,F2,Champion L3 Low,B
+MV-ADV-BOL-005-11,Paired Weights Hawk Dive,Rumble Cordfork,F2,Champion L3 Low,B
+MV-ADV-BOL-005-12,Twin River Sweep,Daybreak Stonehead,F2,Champion L3 Low,B
+MV-ADV-BOL-006-01,Hawk Eye Sighting,Waning Bolaweight,F2,Demigod L2 Low,B
+MV-ADV-BOL-006-02,Weighted Stoop Release,Rupturing Bindfall,F1,Demigod L2 Low,B
+MV-ADV-BOL-006-03,Azure Arc Turn,Fetterjaunt,F4,Demigod L2 Low,B
+MV-ADV-BOL-006-04,Tail Feather Flick,Hobblecuirass,F4,Demigod L2 Low,B
+MV-ADV-BOL-006-05,Talon Grip Wrap,Gyve Joinknot,F2,Demigod L2 Low,B
+MV-ADV-BOL-006-06,Azure Wing Guard,Facetorb,F5,Demigod L2 Low,B
+MV-ADV-BOL-006-07,Hawk Circling Hold,Hour Wrapup,F2,Demigod L2 Low,B
+MV-ADV-BOL-006-08,Falling Hawk Snare,Dominating Knotcenter,F1,Demigod L2 Low,B
+MV-ADV-BOL-006-09,Azure Ring Trap,Cordthree Greave,F3,Demigod L2 Low,B
+MV-ADV-BOL-007-01,River Pair Grip,Wrecking Shackle,F1,Ruler L1 Mid,B
+MV-ADV-BOL-007-02,Cord Current Follow Pace,Gustwrapup,F5,Ruler L1 Mid,B
+MV-ADV-BOL-007-03,Ford Crossing Hop,Annealed Heavyball,F1,Ruler L1 Mid,B
+MV-ADV-BOL-007-04,Twin Bank Check,Gyve Bindfall,F2,Ruler L1 Mid,B
+MV-ADV-BOL-007-05,Bankside Rap,Furrowing Fetter,F1,Ruler L1 Mid,B
+MV-ADV-BOL-007-06,Eddy Wrap Pair,Compressing Cordfork,F1,Ruler L1 Mid,B
+MV-ADV-BOL-007-07,Paired Stream Parry,Implacable Tripcord,F1,Ruler L1 Mid,B
+MV-ADV-BOL-007-08,Slack Water Drag,Ballsling Assault,F3,Ruler L1 Mid,B
+MV-ADV-BOL-007-09,River Mouth Tangle,Hoarfrost Shackle,F2,Ruler L1 Mid,B
+MV-ADV-BOL-007-10,Twin Current Sequence,Intenthobble,F5,Ruler L1 Mid,B
+MV-ADV-BOL-008-01,Sworn Bearing Stance,Glancing Hobble,F1,Void God L1 Low,B
+MV-ADV-BOL-008-02,Wind Reading Throw,Glint Bolaweight,F2,Void God L1 Low,B
+MV-ADV-BOL-008-03,Open Hand Whirl,Ravaging Fetter,F1,Void God L1 Low,B
+MV-ADV-BOL-008-04,Edge Bearing Guard,Torrent Knotcenter,F2,Void God L1 Low,B
+MV-ADV-BOL-008-05,Gale Lean Wrap,Gyve Wrapup,F2,Void God L1 Low,B
+MV-ADV-BOL-008-06,Oath Held Cord Haul,Gyveorb,F5,Void God L1 Low,B
+MV-ADV-BOL-008-07,Wind-Carried Reach Cast,Hobbletorment,F4,Void God L1 Low,B
+MV-ADV-BOL-008-08,Plateau Edge Tripline,Deed Joinknot,F2,Void God L1 Low,B
+MV-ADV-BOL-009-01,Cord Bearing Sighting Stance,Remnant Cordfork,F2,Ruler L4 High,B
+MV-ADV-BOL-009-02,Oathfast Grip,Suppressing Whirlcast,F1,Ruler L4 High,B
+MV-ADV-BOL-009-03,Crosswind Hip Cast,Gust Stonehead,F2,Ruler L4 High,B
+MV-ADV-BOL-009-04,Bearing Hold Pivot,Surging Heavyball,F1,Ruler L4 High,B
+MV-ADV-BOL-009-05,Plateau Stride Throw,Lambasting Knotcenter,F1,Ruler L4 High,B
+MV-ADV-BOL-009-06,Wind Break Fend,Gust Spindle,F2,Ruler L4 High,B
+MV-ADV-BOL-009-07,Steady Bearing Snare,Paralyzing Joinknot,F1,Ruler L4 High,B
+MV-ADV-BOL-009-08,Oath Line Drag,Hour Heavyball,F2,Ruler L4 High,B
+MV-ADV-BOL-009-09,Shifting Wind Feint,Glamour Whirlcast,F2,Ruler L4 High,B
+MV-ADV-BOL-009-10,Oath-Sworn Hobble,Hobblecloak,F4,Ruler L4 High,B
+MV-ADV-BOL-009-11,Open Plateau Web,Bolacloak,F4,Ruler L4 High,B
+MV-ADV-BOL-010-01,Open Ground Weight Stance,Gust Cordfork,F2,Demigod L8 High,B
+MV-ADV-BOL-010-02,Long Wind Pay-Out,Rumblebola,F5,Demigod L8 High,B
+MV-ADV-BOL-010-03,Gust Lean Whirl,Gust Tripcord,F2,Demigod L8 High,B
+MV-ADV-BOL-010-04,Far Horizon Quarry Sighting,Verityorb,F5,Demigod L8 High,B
+MV-ADV-BOL-010-05,Wind Caught Cord Catch,Granite Ballsling,F2,Demigod L8 High,B
+MV-ADV-BOL-010-06,Tailwind Wrap Cast,Suppressing Bolaweight,F1,Demigod L8 High,B
+MV-ADV-BOL-010-07,Gale-Edge Cord Parry,Enduring Cordthree,F1,Demigod L8 High,B
+MV-ADV-BOL-010-08,Plateau Runner Hobble,Stonegreave,F4,Demigod L8 High,B
+MV-ADV-BOL-010-09,Wide Sky Sweep,Whirlcast Maelstrom,F3,Demigod L8 High,B
+MV-ADV-BOL-010-10,Unwalled Ground Snare,Joinknot Plating,F3,Demigod L8 High,B

@@ -1,0 +1,7 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-BAL-001-10,Basin Accord,Level Accord,CAST,,Signature
+CMV-SIG-BAL-004-01,Groundlevel Palm,Bedrock Palm,INSTANT,,Basic
+CMV-SIG-BAL-004-02,Groundlevel Ward,Bedrock Ward,CHANNELED,,Basic
+CMV-SIG-BAL-004-03,Groundlevel Pace,Bedrock Tread,INSTANT,,Basic
+CMV-SIG-BAL-004-04,Groundlevel Hold,Bedrock Hold,INSTANT,,Intermediate
+CMV-SIG-BAL-004-06,Groundlevel Parry,Bedrock Parry,INSTANT,,Intermediate

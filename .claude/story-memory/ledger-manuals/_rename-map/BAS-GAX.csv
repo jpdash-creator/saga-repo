@@ -1,0 +1,78 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-GAX-001-01,Straight Down Chop,Short Doubleedge,F1,T1 Unawakened,A
+MV-BAS-GAX-001-02,Shoulder Roll Great Return,Quick Riven,F1,T1 Unawakened,A
+MV-BAS-GAX-001-03,Haft Slide Parry,Folded Haftbell,F1,T1 Unawakened,A
+MV-BAS-GAX-001-04,Heel Plant Advance,Riventrot,F4,T1 Unawakened,A
+MV-BAS-GAX-001-05,Breath Count Reading,Gentle Wideswell,F1,T1 Unawakened,A
+MV-BAS-GAX-002-01,Choke-Up Short Chop,Poleshoe Hit,F3,T1 Skin,A
+MV-BAS-GAX-002-02,Knob-End Drive,Hard Sunder,F1,T1 Skin,A
+MV-BAS-GAX-002-03,Hand Swap Cut,Greatdash,F4,T1 Skin,A
+MV-BAS-GAX-002-04,Cross-Haft Block,Axepause,F4,T1 Skin,A
+MV-BAS-GAX-002-05,Pivot on the Ball,Light Greatbeard,F1,T1 Skin,A
+MV-BAS-GAX-002-06,Grip Reset Breath,Calm Greatpoll,F1,T1 Skin,A
+MV-BAS-GAX-003-01,Hip Whip Swing,Sunderbump,F4,T1 Muscle,A
+MV-BAS-GAX-003-02,Back-Loaded Overhead,Rend Drop,F3,T1 Muscle,A
+MV-BAS-GAX-003-03,Low Sweeping Hew,Haftrope Strike,F3,T1 Muscle,A
+MV-BAS-GAX-003-04,Rising Diagonal Uppercut,Gnawing Longhelve,F1,T1 Muscle,A
+MV-BAS-GAX-003-05,Great Swing Weight Recovery,Greatpace,F4,T1 Muscle,A
+MV-BAS-GAX-003-06,Hanging Head Carry,Tight Heavyeye,F1,T1 Muscle,A
+MV-BAS-GAX-003-07,Swing Count Drill,Judging Greatbit,F1,T1 Muscle,A
+MV-BAS-GAX-004-01,Wide Base Chop,Blunt Overhew,F1,T1 Tendon,A
+MV-BAS-GAX-004-02,Quarter Turn Hew,Rivenhit,F4,T1 Tendon,A
+MV-BAS-GAX-004-03,Short Shuffle Step,Quiet Splitmass,F1,T1 Tendon,A
+MV-BAS-GAX-004-04,Braced Knee Stand,Folded Greatbit,F1,T1 Tendon,A
+MV-BAS-GAX-004-05,Ground Feel Reading,Even Haftrope,F1,T1 Tendon,A
+MV-BAS-GAX-005-01,Overhead Lift and Drop,Short Hewfall,F1,T1 Bone,A
+MV-BAS-GAX-005-02,Tired Arm Chop,Gnawing Sunder,F1,T1 Bone,A
+MV-BAS-GAX-005-03,Hand-Over-Hand Draw Cut,Stiff Poleshoe,F1,T1 Bone,A
+MV-BAS-GAX-005-04,Shoulder Haul March,Backward Splitmass,F1,T1 Bone,A
+MV-BAS-GAX-005-05,Load Shift Pace,Sunderhop,F4,T1 Bone,A
+MV-BAS-GAX-005-06,Planted Head Guard,Doubleedge Lid,F3,T1 Bone,A
+MV-BAS-GAX-006-01,Notch Cut Strike,Axebump,F4,T1 Unawakened,A
+MV-BAS-GAX-006-02,Back Cut Follow,Single Greatpoll,F1,T1 Unawakened,A
+MV-BAS-GAX-006-03,Trunk Splitting Blow,Narrow Overhew,F1,T1 Unawakened,A
+MV-BAS-GAX-006-04,Chip Cut Series,Plain Greatbeard,F1,T1 Unawakened,A
+MV-BAS-GAX-006-05,Knot Skipping Cut,Haftbell Blow,F3,T1 Unawakened,A
+MV-BAS-GAX-006-06,Leaning Fell Step,Easing Heavyeye,F1,T1 Unawakened,A
+MV-BAS-GAX-006-07,Deadfall Guard,Poleshoe Wedge,F3,T1 Unawakened,A
+MV-BAS-GAX-006-08,Fall Line Reading,Warm Wideswell,F1,T1 Unawakened,A
+MV-BAS-GAX-007-01,Breath-Fed Overhead Chop,Narrow Rend,F1,Senior L1 Low,A
+MV-BAS-GAX-007-02,Exhale Down Cut,Rendbump,F4,Senior L1 Low,A
+MV-BAS-GAX-007-03,Edge Warming Breath,Measured Greatpoll,F1,Senior L1 Low,A
+MV-BAS-GAX-007-04,Inhale Lift Guard,Angled Longhelve,F1,Senior L1 Low,A
+MV-BAS-GAX-007-05,Breath Step Under Great Bit,Swaying Doubleedge,F1,Senior L1 Low,A
+MV-BAS-GAX-007-06,Lungful Count Reading,Timberreview,F4,Senior L1 Low,A
+MV-BAS-GAX-008-01,Crescent Arc Cut,Hard Greatbeard,F1,Senior L3 Low,A
+MV-BAS-GAX-008-02,Half-Moon Return Stroke,Greatstrike,F4,Senior L3 Low,A
+MV-BAS-GAX-008-03,Horn Tip Poke,Flat Riven,F1,Senior L3 Low,A
+MV-BAS-GAX-008-04,Beard Hook Pull,Towing Wideswell,F1,Senior L3 Low,A
+MV-BAS-GAX-008-05,Edge Turn Guard,Greatpause,F4,Senior L3 Low,A
+MV-BAS-GAX-008-06,Arc Follow Step,Light Hewfall,F1,Senior L3 Low,A
+MV-BAS-GAX-008-07,Curve Line Sensing,Haftbell Gauge,F3,Senior L3 Low,A
+MV-BAS-GAX-009-01,Wide Cleave Opening,Greatbit Dash,F3,Senior L5 Mid,A
+MV-BAS-GAX-009-02,Reaching Sweep Cut,Open Hewfall,F1,Senior L5 Mid,A
+MV-BAS-GAX-009-03,Sway Back Evade,Stepping Longhelve,F1,Senior L5 Mid,A
+MV-BAS-GAX-009-04,Long Arc Block,Timberstay,F4,Senior L5 Mid,A
+MV-BAS-GAX-009-05,Open Stance Reading,Soft Heavyeye,F1,Senior L5 Mid,A
+MV-BAS-GAX-010-01,Rooted Leg Chop,Plain Rend,F1,Senior L6 High,A
+MV-BAS-GAX-010-02,Stone Foot Brace,Timbercowl,F4,Senior L6 High,A
+MV-BAS-GAX-010-03,Settling Qi Sink,Kind Haftrope,F1,Senior L6 High,A
+MV-BAS-GAX-010-04,Drag-Step Close,Backward Riven,F1,Senior L6 High,A
+MV-BAS-GAX-010-05,Root Break Hew,Greatblow,F4,Senior L6 High,A
+MV-BAS-GAX-010-06,Weight Shift Sensing,Judging Haftrope,F1,Senior L6 High,A
+MV-BAS-GAX-011-01,Haft Strike Jab,Low Splitmass,F1,Senior L8 Low,A
+MV-BAS-GAX-011-02,Spin Haft Reverse,Rivenstrike,F4,Senior L8 Low,A
+MV-BAS-GAX-011-03,Twin Hand Slip Cut,Square Sunder,F1,Senior L8 Low,A
+MV-BAS-GAX-011-04,Shaft Sweep Block,Axestay,F4,Senior L8 Low,A
+MV-BAS-GAX-011-05,Haft Catch Hold,Rivenhusk,F4,Senior L8 Low,A
+MV-BAS-GAX-011-06,Haft Press Shove,Turning Longhelve,F1,Senior L8 Low,A
+MV-BAS-GAX-011-07,Haft Roll Retreat,Skipping Doubleedge,F1,Senior L8 Low,A
+MV-BAS-GAX-011-08,Haft Tremor Reading,Axereview,F4,Senior L8 Low,A
+MV-BAS-GAX-012-01,Full Edge Chop,Straight Wideswell,F1,Senior L9 Peak,A
+MV-BAS-GAX-012-02,Heel to Toe Edge Run,Greatbit Hit,F3,Senior L9 Peak,A
+MV-BAS-GAX-012-03,Edge Cover Guard,Timberhusk,F4,Senior L9 Peak,A
+MV-BAS-GAX-012-04,Qi Along the Spine,Timbergauge,F4,Senior L9 Peak,A
+MV-BAS-GAX-012-05,Edge Line Step,Swaying Rend,F1,Senior L9 Peak,A
+MV-BAS-GAX-012-06,Edge Hum Reading,Greatreview,F4,Senior L9 Peak,A
+MV-BAS-GAX-006-04,Plain Greatbeard,Chopping Greatbeard,F1,T1 Unawakened,A
+MV-BAS-GAX-010-01,Plain Rend,Rooted Rend,F1,Senior L6 High,A

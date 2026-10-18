@@ -1,0 +1,8 @@
+move_id,old_name,new_name,function
+CMV-ADV-VOD-002-03,Hollow Ring,Null Ring,Defense:Shield
+CMV-ADV-VOD-002-08,Nullifying Field,Nullifying Shroud,Defense:Nullify
+CMV-ADV-VOD-002-09,Silencing Expanse,Silencing Wave,Control:Suppress
+CMV-ADV-VOD-003-01,Twin Hollows,Twin Voids,Control:Disrupt
+CMV-ADV-VOD-004-01,Absence Line,Absence Thrust,Attack:Strike
+CMV-ADV-VOD-004-03,Void Line,Void Thread,Attack:Projectile
+CMV-ADV-VOD-006-07,Unbound Hollow,Unbound Void,Attack:Area

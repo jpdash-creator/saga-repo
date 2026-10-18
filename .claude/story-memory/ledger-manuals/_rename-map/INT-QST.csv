@@ -1,0 +1,79 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-QST-001-01,Settled Stave Guard,Sturdy Midstaff,F1,Senior L8 Low,A
+MV-INT-QST-001-02,Tracking Staff Step,Staffglide,F4,Senior L8 Low,A
+MV-INT-QST-001-03,Level Stave Thrust,Keen Jabbing,F1,Senior L8 Low,A
+MV-INT-QST-001-04,Cross-Body Shaft Swing,Cruel Staffsweep,F1,Senior L8 Low,A
+MV-INT-QST-001-05,Qi-Backed Parry Shaft Return,Stubborn Ironcap,F1,Senior L8 Low,A
+MV-INT-QST-001-06,Shaft-Length Stave Entangle,Perchhasp,F4,Senior L8 Low,A
+MV-INT-QST-002-01,Slide Grip Stave Set,Patient Staffgrip,F1,Senior L9 Mid,A
+MV-INT-QST-002-02,Reach Extension Shaft Thrust,Oakflog,F4,Senior L9 Mid,A
+MV-INT-QST-002-03,Mid-Reach Shaft Strike,Brisk Staffend,F1,Senior L9 Mid,A
+MV-INT-QST-002-04,Close Reach Staff Rap,Ashswat,F4,Senior L9 Mid,A
+MV-INT-QST-002-05,Sliding Guard Stave Change,Rooted Oakstaff,F1,Senior L9 Mid,A
+MV-INT-QST-002-06,Back-Hand Slip Stave Step,Lithe Poleturn,F1,Senior L9 Mid,A
+MV-INT-QST-002-07,Slide Shaft Catch,Oakbuckle,F4,Senior L9 Mid,A
+MV-INT-QST-002-08,Pull-Through Staff Strike,Grim Rollover,F1,Senior L9 Mid,A
+MV-INT-QST-003-01,Rolling Shoulder Staff Swing,Ashslap,F4,Warrior L1 Low,B
+MV-INT-QST-003-02,Back-Roll Stave Strike,Ember Rollover,F2,Warrior L1 Low,B
+MV-INT-QST-003-03,Roll Through Staff Step,Scudding Staffshoe,F1,Warrior L1 Low,B
+MV-INT-QST-003-04,Wrist Roll Stave Block,Draught Ironcap,F2,Warrior L1 Low,B
+MV-INT-QST-003-05,Rolling Combination Stave Drill,Weighty Poleturn,F2,Warrior L1 Low,B
+MV-INT-QST-003-06,Spinning Return Stave Smash,Brassoak,F5,Warrior L1 Low,B
+MV-INT-QST-003-07,Catch and Roll Staff Reversal,Binding Rapidspin,F1,Warrior L1 Low,B
+MV-INT-QST-003-08,Rolling Guard Shaft Reset,Clay Midstaff,F2,Warrior L1 Low,B
+MV-INT-QST-003-09,Roll-Out Step Shaft Back,Perchzip,F4,Warrior L1 Low,B
+MV-INT-QST-004-01,Counter-Rap Shaft Ready,Brass Nodeknot,F2,Warrior L2 Mid,B
+MV-INT-QST-004-02,Hand-Seeking Stave Tap,Wild Jabbing,F1,Warrior L2 Mid,B
+MV-INT-QST-004-03,Wrist Sting Stave Rap,Moment Staffend,F2,Warrior L2 Mid,B
+MV-INT-QST-004-04,Parry-Tap Shaft Return,Rill Oakstaff,F2,Warrior L2 Mid,B
+MV-INT-QST-004-05,Back-Step Shaft Rap,Staffcurl,F4,Warrior L2 Mid,B
+MV-INT-QST-004-06,Counter-Rap Stave Chain,Dire Staffsweep,F1,Warrior L2 Mid,B
+MV-INT-QST-004-07,Stave Lock Hold,Static Staffgrip,F2,Warrior L2 Mid,B
+MV-INT-QST-004-08,Rap and Stave Thrust,Rowanslap,F4,Warrior L2 Mid,B
+MV-INT-QST-005-01,Low Sweep Stave Stance,Shelter Ashwood,F2,Warrior L3 Low,B
+MV-INT-QST-005-02,Shin Staff Sweep,Honed Midstaff,F2,Warrior L3 Low,B
+MV-INT-QST-005-03,Ankle Hook Stave Pull,Gagging Staffshoe,F1,Warrior L3 Low,B
+MV-INT-QST-005-04,Knee Rap Staff Combination,Regimen Rollover,F2,Warrior L3 Low,B
+MV-INT-QST-005-05,Low Staff Jump-Over,Oakstalk,F4,Warrior L3 Low,B
+MV-INT-QST-005-06,Sweep to Shaft Overhead,Brawnoak,F5,Warrior L3 Low,B
+MV-INT-QST-005-07,Leg Check Stave Block,Poise Balancegrip,F2,Warrior L3 Low,B
+MV-INT-QST-006-01,Bladeward Stave Guard,Dense Ironcap,F1,Warrior L4 High,B
+MV-INT-QST-006-02,Edge-Turning Staff Parry,Hazeperch,F5,Warrior L4 High,B
+MV-INT-QST-006-03,Out-of-Reach Staff Step,Slinking Midstaff,F1,Warrior L4 High,B
+MV-INT-QST-006-04,Fingertip Reach Stave Strike,Rowanflog,F4,Warrior L4 High,B
+MV-INT-QST-006-05,Blade Bind and Staff Press,Hum Nodeknot,F2,Warrior L4 High,B
+MV-INT-QST-006-06,Forte Block Shaft Counter,Resolute Oakstaff,F1,Warrior L4 High,B
+MV-INT-QST-006-07,Thrust Past the Staff Edge,Honedstaff,F5,Warrior L4 High,B
+MV-INT-QST-006-08,Disarming Staff Twist,Viselike Staffshoe,F1,Warrior L4 High,B
+MV-INT-QST-006-09,Glancing Slide Stave Guard,Buttressed Ashwood,F1,Warrior L4 High,B
+MV-INT-QST-007-01,Lane Guard Staff Hold,Rigid Staffgrip,F1,Warrior L5 Mid,B
+MV-INT-QST-007-02,Short Corridor Staff Thrust,Staffthwack,F4,Warrior L5 Mid,B
+MV-INT-QST-007-03,Wall-Skimming Stave Step,Grit Midstaff,F2,Warrior L5 Mid,B
+MV-INT-QST-007-04,Vertical Staff Chop,Crimson Oakstaff,F2,Warrior L5 Mid,B
+MV-INT-QST-007-05,Narrow Parry Staff Return,Armored Staffend,F1,Warrior L5 Mid,B
+MV-INT-QST-007-06,Doorway Hold Shaft Press,Cramping Staffshoe,F1,Warrior L5 Mid,B
+MV-INT-QST-007-07,Close Butt Jab,Rugged Jabbing,F1,Warrior L5 Mid,B
+MV-INT-QST-008-01,Second Guard Shaft Form,Sleetoak,F5,Warrior L6 Low,B
+MV-INT-QST-008-02,Linked Parry Stave Strike,Padded Ironcap,F1,Warrior L6 Low,B
+MV-INT-QST-008-03,Turning Shaft Thrust,Bold Rollover,F1,Warrior L6 Low,B
+MV-INT-QST-008-04,Changing Guard Stave Step,Ashhurdle,F4,Warrior L6 Low,B
+MV-INT-QST-008-05,Hanging Stave Strike,Vicious Staffspin,F1,Warrior L6 Low,B
+MV-INT-QST-008-06,Pressure Tap Staff Sequence,Weighty Staffsweep,F2,Warrior L6 Low,B
+MV-INT-QST-008-07,Exchange Shaft Break,Gall Rapidspin,F2,Warrior L6 Low,B
+MV-INT-QST-009-01,Rhythm Settling Staff Hold,Layered Balancegrip,F1,Warrior L7 Mid,B
+MV-INT-QST-009-02,Reach Probe Shaft Jab,Staticash,F5,Warrior L7 Mid,B
+MV-INT-QST-009-03,Beat and Staff Thrust,Hungry Quarterpoint,F1,Warrior L7 Mid,B
+MV-INT-QST-009-04,Distance-Holding Stave Step,Prowling Staffend,F1,Warrior L7 Mid,B
+MV-INT-QST-009-05,Broken Rhythm Staff Strike,Clay Staffspin,F2,Warrior L7 Mid,B
+MV-INT-QST-009-06,Late Parry Staff Return,Stalwart Midstaff,F1,Warrior L7 Mid,B
+MV-INT-QST-009-07,Beat Stave Entangle,Entangling Nodeknot,F1,Warrior L7 Mid,B
+MV-INT-QST-009-08,Stalking Shaft Advance,Rowanglide,F4,Warrior L7 Mid,B
+MV-INT-QST-010-01,Charge-Bracing Stave Stance,Shard Ironcap,F2,Warrior L8 Peak,B
+MV-INT-QST-010-02,Point-Stopping Shaft Thrust,Brass Jabbing,F2,Warrior L8 Peak,B
+MV-INT-QST-010-03,Side-Step and Staff Strike,Rillperch,F5,Warrior L8 Peak,B
+MV-INT-QST-010-04,Bar Shaft Block,Poise Staffend,F2,Warrior L8 Peak,B
+MV-INT-QST-010-05,Trip Pole,Tethering Poleturn,F1,Warrior L8 Peak,B
+MV-INT-QST-010-06,Rebound Staff Strike,Perchscorer,F4,Warrior L8 Peak,B
+MV-INT-QST-010-07,Turn-Aside Stave Guard,Shielding Oakstaff,F1,Warrior L8 Peak,B
+MV-INT-QST-010-08,Stagger and Shaft Sweep,Stern Staffspin,F1,Warrior L8 Peak,B
+MV-INT-QST-005-01,Shelter Ashwood,Sturdy Ashwood,F2,Warrior L3 Low,B

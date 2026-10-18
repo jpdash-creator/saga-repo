@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-narration-p28-prohibited-creative-acts",
+ "part": 28,
+ "area": 12,
+ "sequence_in_part": 12,
+ "title": "Prohibited Creative Acts",
+ "domain": "narration",
+ "source_file": "Part_28_Narration_Theme_Novel_Creative_Flexibility_Law.md",
+ "start_line": 552,
+ "end_line": 616,
+ "line_count": 65,
+ "output_path": ".claude/skills/ssc-narration-p28-prohibited-creative-acts/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-cultivation-p03-cultivation-ladder-realm-hierarchy",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-lifespan-mechanics",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-power-density",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-realm-transition",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-cultivation-talent",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-growth-speed",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-power-comparison",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-damage-tolerance-recovery",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-affinity-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28"
+  },
+  {
+   "skill_id": "ssc-cultivation-p03-heart-cultivation",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28"
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+char_id,manual_id,kingdom_manual_id,source,learned_via,mastery,assign_status,note
+VRS,PER-VRS-01,,MEN:mentor of Varys,L-1,Novice,DERIVED,personal Catastrophic straight-sword text from the mentor; Swords is his primary class and the sword is his cultivation anchor
+VRS,MAN-SIG-STS-004,AZ-SIG-STS-004,KNG:crown archive,L-2,Novice,DERIVED,straight sword fits his Swords class; min_realm Ruler L1 Mid is met by Ruler L3 Mid; a king reads the crown archive copy by permit
+VRS,MAN-SIG-JIA-004,AZ-SIG-JIA-004,KNG:crown archive,L-2,Novice,DERIVED,jian is a straight double-edged sword and fits a Swords sovereign; min_realm Ruler L1 Mid is met; crown archive copy by permit
+VRS,MAN-SIG-SAB-004,AZ-SIG-SAB-004,SECT:Nine Halls,L-1,Novice,DERIVED,saber widens the sword family under one Swords affinity; min_realm Ruler L1 Low is met; held at the Nine Halls by permit
+VRS,MAN-SIG-FAL-004,AZ-SIG-FAL-004,ORG:Skysworn,L-1,Novice,DERIVED,falchion is a sword-family type; he is Supreme Commander of the military so the Skysworn text is in reach; min_realm Ruler L1 Mid is met
+VLA,MAN-SIG-KAT-001,AZ-SIG-KAT-001,ACA:Windward Reach Academy,L-1,Novice,DERIVED,katana fits her Swords class and a drawing-cut style distinct from Varys; min_realm Warrior L3 Mid is met; apex academy text
+VLA,MAN-SIG-KAT-002,AZ-SIG-KAT-002,SECT:Nine Halls,L-1,Novice,DERIVED,second katana course of the Azure Sky stock; min_realm Champion L1 Low is met by Ruler L1 Mid
+VLA,MAN-SIG-KAT-003,AZ-SIG-KAT-003,KNG:crown archive,L-2,Novice,DERIVED,third katana course; a queen reads the crown archive copy by permit; min_realm Champion L5 High is met
+VLA,MAN-SIG-KAT-004,AZ-SIG-KAT-004,ORG:Skysworn,L-1,Novice,DERIVED,fourth katana course and the top of the Mortal Tier 2 window; min_realm Ruler L1 Mid is met exactly by Ruler L1 Mid
+AER,PER-AER-01,,MEN:master of Aeries,L-1,Novice,DERIVED,personal Catastrophic greatsword text from his master; Blades is his primary class and GRS is the drafter pick
+AER,MAN-SIG-GRS-007,GA-SIG-GRS-007,ACA:Long Coast Academy,L-1,Novice,DERIVED,greatsword fits his heavy-blade Blades class; apex academy text; min_realm Warrior L2 Low is met by Ruler L2 Mid
+AER,MAN-SIG-GRS-009,GA-SIG-GRS-009,ORG:Stormwing Order,L-1,Novice,DERIVED,greatsword; he is Supreme Commander of the Gale military so the Stormwing Order text is in reach; min_realm Champion L3 Low is met
+AER,MAN-SIG-GRS-010,GA-SIG-GRS-010,ORG:Windward Host,L-1,Novice,DERIVED,greatsword; Windward Host text; min_realm Ruler L1 Low is met by Ruler L2 Mid
+AAL,MAN-SIG-SHS-009,GA-SIG-SHS-009,ACA:Long Coast Academy,L-1,Novice,DERIVED,short sword fits her Blades class and a close spatial-blade style; Gale academy text not the Azorion library; min_realm Champion L2 High is met
+AAL,MAN-SIG-BFS-009,GA-SIG-BFS-009,ACA:Long Coast Academy,L-1,Novice,DERIVED,butterfly swords as a short paired blade fit a close spatial-blade style; Gale academy text; min_realm Champion L2 Mid is met
+AAL,MAN-SIG-HKS-008,GA-SIG-HKS-008,ACA:Long Coast Academy,L-1,Novice,DERIVED,hook swords are a short-blade sword type that traps and displaces; Gale academy text; min_realm Warrior L7 Mid is met
+AAL,MAN-SIG-DAG-010,GA-SIG-DAG-010,ACA:Long Coast Academy,L-1,Novice,DERIVED,dagger is the short-blade end of Blades; Gale academy text; min_realm Ruler L1 Low is met by Ruler L1 Mid
+HRC,PER-HRC-01,,EMP:Olympus Archives,L-2,Novice,DERIVED,personal Catastrophic spear text; all Signature and Catastrophic moves Latent under the seal and Elite Latent by effective realm
+HRC,PER-HRC-02,,EMP:Olympus Archives,L-2,Novice,DERIVED,personal Signature spear text from the seed; Signature moves Latent under the seal
+HRC,PER-HRC-03,,EMP:Olympus Archives,L-2,Novice,DERIVED,personal Signature saber text; blade type SAB is the drafter pick and the author may override to DAO; Signature moves Latent under the seal
+HRC,PER-HRC-04,,EMP:Olympus Archives,L-2,Novice,DERIVED,personal Signature halberd text from the seed; Signature moves Latent under the seal
+BSN,PER-BSN-01,,EMP:Olympus Archives,L-2,Novice,DERIVED,personal Catastrophic battle-axe text wielded as a pair; Signature and Catastrophic moves Latent under the seal
+BSN,PER-BSN-02,,EMP:Olympus Archives,L-2,Novice,DERIVED,personal Signature battle-axe text; Signature moves Latent under the seal
+BSN,PER-BSN-03,,EMP:Olympus Archives,L-2,Novice,DERIVED,personal Signature hand-axe text wielded as a pair; HAX is the drafter pick; Signature moves Latent under the seal
+BSN,PER-BSN-04,,EMP:Olympus Archives,L-2,Novice,DERIVED,personal Signature warhammer text from the seed; Signature moves Latent under the seal
+OSK,MAN-BAS-SAB-012,AZ-BAS-SAB-012,ORG:Skysworn,L-2,Adept,DERIVED,Grand Marshal with sole command of the Skysworn; the saber is the plain service blade of the fighting order (weapon not stated in ledger so DERIVED); Basic stock held through Skysworn membership; Ruler L2 Mid exceeds Senior L1 Mid
+OSK,MAN-INT-SAB-007,AZ-INT-SAB-007,ORG:Skysworn,L-2,Practiced,DERIVED,Intermediate saber stock of the Skysworn; pairs with MAN-BAS-SAB-012 for LINK-PRIOR; no Advanced or Signature assigned because the ledger records no affinity (A2 needed)
+BSC,MAN-BAS-SAB-009,AZ-BAS-SAB-009,ORG:Skysworn,L-2,Adept,DERIVED,Marshal-Lieutenant of the Skysworn; saber derived from the fighting order (weapon not stated in ledger); Basic stock via Skysworn membership; Ruler L1 Mid exceeds Senior L3 Low
+BSC,MAN-INT-SAB-003,AZ-INT-SAB-003,ORG:Skysworn,L-2,Practiced,DERIVED,Intermediate saber stock of the Skysworn; pairs with MAN-BAS-SAB-009 for LINK-PRIOR; no Advanced or Signature assigned because the ledger records no affinity (A2 needed)
+CRV,MAN-BAS-SAB-006,AZ-BAS-SAB-006,ORG:Skysworn,L-2,Adept,DERIVED,Sword-Sergeant of the Ninth (sword-line); saber derived from the Sword-Sergeant title (weapon not stated in ledger); Skysworn access is inferred and his order is not established in the ledger so flag for author; Champion L2 Mid exceeds T1 Unawakened
+CRV,MAN-INT-SAB-003,AZ-INT-SAB-003,ORG:Skysworn,L-2,Practiced,DERIVED,Intermediate saber stock for a serving sword-line NCO; pairs with MAN-BAS-SAB-006 for LINK-PRIOR; no Advanced assigned because the ledger records no affinity (A2 needed)
+ISF,MAN-BAS-PIK-005,AZ-BAS-PIK-005,ORG:Azure Guard,L-2,Adept,DERIVED,Marshal-Lieutenant of the Azure Guard; the line veteran with a drilled sentry service so pike is derived (weapon not stated in ledger); Basic stock via Azure Guard membership; Ruler L1 Mid exceeds T1 Bone
+ISF,MAN-INT-PIK-004,AZ-INT-PIK-004,ORG:Azure Guard,L-2,Practiced,DERIVED,Intermediate pike stock of the Azure Guard; pairs with MAN-BAS-PIK-005 for LINK-PRIOR; Ruler L1 Mid exceeds Warrior L1 Low; no Advanced assigned because the ledger records no affinity

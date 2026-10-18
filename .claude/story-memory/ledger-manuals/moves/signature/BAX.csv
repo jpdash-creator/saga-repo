@@ -1,0 +1,140 @@
+move_id,manual_id,seq,name,move_type,function,form,cost_class,unlock_realm,description,status,first_area
+MV-SIG-BAX-001-01,MAN-SIG-BAX-001,01,Statute Warbeard,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,The user stands in the court's stance with the haft across the chest and the head high.,Active,Not yet established
+MV-SIG-BAX-001-02,MAN-SIG-BAX-001,02,Inferno Warcleave,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,A straight chop falls from the high guard and strikes the opponent's guard arm.,Active,Not yet established
+MV-SIG-BAX-001-03,MAN-SIG-BAX-001,03,Deluge Warpoll,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,A gliding step closes the distance as the chop falls.,Active,Not yet established
+MV-SIG-BAX-001-04,MAN-SIG-BAX-001,04,Despotic Warhelve,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,The poll raps a weapon hand and the bit waits at the other side.,Active,Not yet established
+MV-SIG-BAX-001-05,MAN-SIG-BAX-001,05,Rending Bitedge,Intermediate,Control:Bind,INSTANT,LOW,Senior L1 Low,The beard hooks a limb or a shield rim and draws it toward the user.,Active,Not yet established
+MV-SIG-BAX-001-06,MAN-SIG-BAX-001,06,Consecrated Banded,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,The haft catches a blow and turns it into a counter-cut.,Active,Not yet established
+MV-SIG-BAX-001-07,MAN-SIG-BAX-001,07,Squallbattle,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,"Two cuts follow in quick pairs from the two edges, the second striking the guard that moved.",Active,Not yet established
+MV-SIG-BAX-001-08,MAN-SIG-BAX-001,08,Solar Battleheel,Advanced,Support:Empower,CHANNELED,MODERATE,Champion L1 Low,Qi gathers along both edges of the head and sharpens every cut that follows.,Active,Not yet established
+MV-SIG-BAX-001-09,MAN-SIG-BAX-001,09,Sigil Haftcap,Advanced,Control:Seal,CHANNELED,MODERATE,Champion L1 Low,Bit and beard close on an enemy weapon and press it against the haft.,Active,Not yet established
+MV-SIG-BAX-001-10,MAN-SIG-BAX-001,10,Steel Battercut,Elite,Attack:Penetrating,INSTANT,HIGH,Demigod L1 Low,A narrow cut sends qi through the guard and into the body behind it.,Active,Not yet established
+MV-SIG-BAX-001-11,MAN-SIG-BAX-001,11,Paramount Crescentbit,Signature,Attack:Strike,CAST,VARIABLE,Senior L1 Low,"Qi gathers along both edges and falls in one great cleave, the school's culminating stroke.",Active,Not yet established
+MV-SIG-BAX-002-01,MAN-SIG-BAX-002,01,Undaunted Warbit,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,"The user holds the head high like a hawk on a perch, waiting for the opening.",Active,Not yet established
+MV-SIG-BAX-002-02,MAN-SIG-BAX-002,02,Squall Brunt,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,The head dives from the high guard in a sudden chop.,Active,Not yet established
+MV-SIG-BAX-002-03,MAN-SIG-BAX-002,03,Deluge Smite,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,"A long, low step carries the user beneath the opponent's guard.",Active,Not yet established
+MV-SIG-BAX-002-04,MAN-SIG-BAX-002,04,Sigil Hewdown,Basic,Control:Bind,INSTANT,MINIMAL,T1 Unawakened,The beard hooks the opponent's wrist like a talon and draws the arm forward.,Active,Not yet established
+MV-SIG-BAX-002-05,MAN-SIG-BAX-002,05,Peal Wideeye,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,The haft beats a blow aside like a wing and rises in a cut.,Active,Not yet established
+MV-SIG-BAX-002-06,MAN-SIG-BAX-002,06,Quenched Haftcap,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,"Two stoops fall in succession, from opposite sides.",Active,Not yet established
+MV-SIG-BAX-002-07,MAN-SIG-BAX-002,07,Venom Warbit,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,"A feint with the head draws the guard up, and the poll raps the exposed wrist.",Active,Not yet established
+MV-SIG-BAX-002-08,MAN-SIG-BAX-002,08,Crescentbit Benison,Intermediate,Support:Sense,CHANNELED,LOW,Senior L1 Low,The user reads the opponent's whole stance from above his guard.,Active,Not yet established
+MV-SIG-BAX-002-09,MAN-SIG-BAX-002,09,Quenched Warcleave,Advanced,Attack:Penetrating,INSTANT,MODERATE,Champion L1 Low,A diving cut sends qi along one line through the guard.,Active,Not yet established
+MV-SIG-BAX-002-10,MAN-SIG-BAX-002,10,Prism Bitedge,Advanced,Defense:Reflect,INSTANT,MODERATE,Champion L1 Low,A burst of qi from the haft throws back a blow aimed at the user.,Active,Not yet established
+MV-SIG-BAX-002-11,MAN-SIG-BAX-002,11,Pulsar Wideeye,Elite,Attack:Penetrating,CAST,HIGH,Demigod L1 Low,"After a long hover the axe dives in a great cleave, and a second edge follows the first.",Active,Not yet established
+MV-SIG-BAX-002-12,MAN-SIG-BAX-002,12,Royal Bedrock Battleheel,Signature,Attack:Strike,INSTANT,VARIABLE,Senior L1 Low,The school's closing cut falls from the hover and ends the exchange.,Active,Not yet established
+MV-SIG-BAX-003-01,MAN-SIG-BAX-003,01,Battlepledge,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,The user sits low in a wide stance and takes the blow into the haft.,Active,Not yet established
+MV-SIG-BAX-003-02,MAN-SIG-BAX-003,02,Haemalbanded,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,A steady chop falls and returns in the next cut without a break.,Active,Not yet established
+MV-SIG-BAX-003-03,MAN-SIG-BAX-003,03,Vigor Rive,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,"The user steps forward with each cut, advancing like a tide over flat ground.",Active,Not yet established
+MV-SIG-BAX-003-04,MAN-SIG-BAX-003,04,Thrallbanded,Basic,Control:Bind,INSTANT,MINIMAL,T1 Unawakened,The beard hooks the ankle in a low sweep and pulls the footing away.,Active,Not yet established
+MV-SIG-BAX-003-05,MAN-SIG-BAX-003,05,Vigor Warpoll,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,"Two cuts swell one after another, each heavier than the one before.",Active,Not yet established
+MV-SIG-BAX-003-06,MAN-SIG-BAX-003,06,Delugewarbit,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,The haft wheels in a wide circle and turns any blow aside.,Active,Not yet established
+MV-SIG-BAX-003-07,MAN-SIG-BAX-003,07,Commanding Battercut,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,The poll raps wide at the weapon hand and spoils the cut.,Active,Not yet established
+MV-SIG-BAX-003-08,MAN-SIG-BAX-003,08,Warhelve Blessing,Intermediate,Support:Empower,CHANNELED,LOW,Senior L1 Low,Qi gathers with each breath like a rising tide and grows in the head.,Active,Not yet established
+MV-SIG-BAX-003-09,MAN-SIG-BAX-003,09,Sigilsmite,Advanced,Control:Seal,CHANNELED,MODERATE,Champion L1 Low,The haft presses down on an enemy weapon and the tide of weight holds it.,Active,Not yet established
+MV-SIG-BAX-003-10,MAN-SIG-BAX-003,10,Steelbanded,Advanced,Attack:Penetrating,INSTANT,MODERATE,Champion L1 Low,Qi floods through the edge and the cut passes the guard.,Active,Not yet established
+MV-SIG-BAX-003-11,MAN-SIG-BAX-003,11,Revelation Warbeard,Elite,Defense:Reflect,CAST,HIGH,Demigod L1 Low,A great burst of qi at the ebb of a blow throws it back upon the attacker.,Active,Not yet established
+MV-SIG-BAX-003-12,MAN-SIG-BAX-003,12,Matchless Inferno Smite,Signature,Attack:Area,CAST,VARIABLE,Senior L1 Low,Qi gathers like a tide and breaks in a great sweeping cut across the whole front.,Active,Not yet established
+MV-SIG-BAX-004-01,MAN-SIG-BAX-004,01,Enshrined Banded,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,"Weight and qi are held in two tracks along the haft, steadying the user.",Active,Not yet established
+MV-SIG-BAX-004-02,MAN-SIG-BAX-004,02,Lordly Warbeard,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,A chop falls with the steel track and the qi track joined at the bit.,Active,Not yet established
+MV-SIG-BAX-004-03,MAN-SIG-BAX-004,03,Feather Brunt,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Two paired steps carry the user across the gap.,Active,Not yet established
+MV-SIG-BAX-004-04,MAN-SIG-BAX-004,04,Authoritative Battleheel,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,The poll raps a weapon hand on the steel track.,Active,Not yet established
+MV-SIG-BAX-004-05,MAN-SIG-BAX-004,05,Imperious Brunt,Intermediate,Control:Bind,INSTANT,LOW,Senior L1 Low,The beard hooks and draws an opponent along the qi track.,Active,Not yet established
+MV-SIG-BAX-004-06,MAN-SIG-BAX-004,06,Squall Banded,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,A parry on one track turns into a cut on the other.,Active,Not yet established
+MV-SIG-BAX-004-07,MAN-SIG-BAX-004,07,Squall Crescentbit,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,One cut falls on the steel track and the second follows on the qi track.,Active,Not yet established
+MV-SIG-BAX-004-08,MAN-SIG-BAX-004,08,Solarbattle,Advanced,Support:Empower,CHANNELED,MODERATE,Champion L1 Low,Qi runs to both edges and the head grows sharp and heavy together.,Active,Not yet established
+MV-SIG-BAX-004-09,MAN-SIG-BAX-004,09,Warbitcrown,Advanced,Attack:Penetrating,INSTANT,MODERATE,Champion L1 Low,Both tracks join at the edge and the cut passes through the guard.,Active,Not yet established
+MV-SIG-BAX-004-10,MAN-SIG-BAX-004,10,Eclipse Warbit,Elite,Defense:Reflect,CAST,HIGH,Demigod L1 Low,The two tracks meet at the haft and throw back any blow aimed at the user.,Active,Not yet established
+MV-SIG-BAX-004-11,MAN-SIG-BAX-004,11,Majestic Hewdown,Signature,Attack:Strike,CAST,VARIABLE,Senior L1 Low,Both tracks gather and fall together in the school's great cleave.,Active,Not yet established
+MV-SIG-BAX-005-01,MAN-SIG-BAX-005,01,Steelbattle,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,The user holds the head high and watches the whole of the opponent's stance.,Active,Not yet established
+MV-SIG-BAX-005-02,MAN-SIG-BAX-005,02,Quenched Rive,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,The head falls from the high guard in a sudden dive.,Active,Not yet established
+MV-SIG-BAX-005-03,MAN-SIG-BAX-005,03,Vigor Wideeye,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,A slipping step takes the user beneath the opponent's guard.,Active,Not yet established
+MV-SIG-BAX-005-04,MAN-SIG-BAX-005,04,Thrall Smite,Basic,Control:Bind,INSTANT,MINIMAL,T1 Unawakened,The beard hooks the opponent's wrist and draws the arm forward.,Active,Not yet established
+MV-SIG-BAX-005-05,MAN-SIG-BAX-005,05,Warbitvow,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,The axe beats aside a blow like a wing and rises in a cut.,Active,Not yet established
+MV-SIG-BAX-005-06,MAN-SIG-BAX-005,06,Peal Haftcap,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,A feint with the bit draws the guard up and the poll raps the wrist beneath it.,Active,Not yet established
+MV-SIG-BAX-005-07,MAN-SIG-BAX-005,07,Peal Warhelve,Intermediate,Support:Sense,CHANNELED,LOW,Senior L1 Low,The user reads the opponent's weight from above the guard and finds the open line.,Active,Not yet established
+MV-SIG-BAX-005-08,MAN-SIG-BAX-005,08,Dauntless Battercut,Intermediate,Attack:Penetrating,INSTANT,LOW,Senior L1 Low,A diving cut sends qi through the edge and the cut passes the guard.,Active,Not yet established
+MV-SIG-BAX-005-09,MAN-SIG-BAX-005,09,Prismbanded,Advanced,Defense:Reflect,INSTANT,MODERATE,Champion L1 Low,A burst of qi from the haft throws back a blow aimed at the user.,Active,Not yet established
+MV-SIG-BAX-005-10,MAN-SIG-BAX-005,10,Pulsarrive,Advanced,Attack:Penetrating,CAST,HIGH,Champion L1 Low,The axe falls from its highest guard in one dive that no guard withstands.,Active,Not yet established
+MV-SIG-BAX-005-11,MAN-SIG-BAX-005,11,Vigorbrunt,Elite,Mobility:Step,INSTANT,HIGH,Demigod L1 Low,Qi bears the user across the gap in a surge and the cut falls on arrival.,Active,Not yet established
+MV-SIG-BAX-005-12,MAN-SIG-BAX-005,12,Dauntless Haemal Hewdown,Signature,Attack:Strike,CAST,VARIABLE,Senior L1 Low,"Qi gathers and the axe falls in the school's greatest cleave, joining dive, hook and weight.",Active,Not yet established
+MV-SIG-BAX-006-01,MAN-SIG-BAX-006,01,Consecrated Warpoll,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,The user holds the head high with the Core's qi steady in the arms and the haft across the body.,Active,Not yet established
+MV-SIG-BAX-006-02,MAN-SIG-BAX-006,02,Bedrock Warbeard,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,A chop falls with the Core's qi in the edge and cuts deep.,Active,Not yet established
+MV-SIG-BAX-006-03,MAN-SIG-BAX-006,03,Skyborne Bitedge,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,"A long step carries the user across the gap, light under the weight of the axe.",Active,Not yet established
+MV-SIG-BAX-006-04,MAN-SIG-BAX-006,04,Authoritative Warpoll,Basic,Control:Disrupt,INSTANT,MINIMAL,T1 Unawakened,The poll raps a weapon hand with the Core's qi behind it.,Active,Not yet established
+MV-SIG-BAX-006-05,MAN-SIG-BAX-006,05,Sigilbrunt,Intermediate,Control:Bind,INSTANT,LOW,Senior L1 Low,The beard hooks a limb or weapon and draws it in by the Core's strength.,Active,Not yet established
+MV-SIG-BAX-006-06,MAN-SIG-BAX-006,06,Bandedseal,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,The haft turns a blow aside and the Core's qi returns it along the line.,Active,Not yet established
+MV-SIG-BAX-006-07,MAN-SIG-BAX-006,07,Splendid Warcleave,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,Two cuts follow one another and each carries a pulse of the Core.,Active,Not yet established
+MV-SIG-BAX-006-08,MAN-SIG-BAX-006,08,Serene Warbit,Intermediate,Support:Empower,CHANNELED,LOW,Senior L1 Low,The Core's qi gathers along the whole head and grows with the user's breath.,Active,Not yet established
+MV-SIG-BAX-006-09,MAN-SIG-BAX-006,09,Vacuum Rive,Advanced,Attack:Penetrating,INSTANT,MODERATE,Champion L1 Low,A narrow cut sends the Core's qi through the guard in a single line.,Active,Not yet established
+MV-SIG-BAX-006-10,MAN-SIG-BAX-006,10,Eclipse Battleheel,Advanced,Defense:Reflect,CAST,HIGH,Champion L1 Low,The Core's qi bursts along the haft and throws every blow back upon its source.,Active,Not yet established
+MV-SIG-BAX-006-11,MAN-SIG-BAX-006,11,Bruntgrace,Elite,Mobility:Step,INSTANT,HIGH,Demigod L1 Low,"The Core's qi bears the user across the field in a surge, and the cut lands on arrival.",Active,Not yet established
+MV-SIG-BAX-006-12,MAN-SIG-BAX-006,12,Battercut Edict,Signature,Attack:Area,CAST,VARIABLE,Senior L1 Low,The Core's qi gathers and falls in a great cleave that spreads across the sky of the field.,Active,Not yet established
+MV-SIG-BAX-007-01,MAN-SIG-BAX-007,01,Bandedpledge,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,The user stands on open ground with no wall behind and holds the haft across the body.,Active,Not yet established
+MV-SIG-BAX-007-02,MAN-SIG-BAX-007,02,Wideeye Banner,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,The user chops into the wind and the headwind steadies the swing.,Active,Not yet established
+MV-SIG-BAX-007-03,MAN-SIG-BAX-007,03,Bandedboon,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,A running step carries the user across open ground.,Active,Not yet established
+MV-SIG-BAX-007-04,MAN-SIG-BAX-007,04,Peal Bitedge,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,The poll raps a weapon hand and the wind carries the guard aside.,Active,Not yet established
+MV-SIG-BAX-007-05,MAN-SIG-BAX-007,05,Brunt Reliquary,Intermediate,Control:Bind,INSTANT,LOW,Senior L1 Low,The beard hooks and draws the opponent onto the user's bearing.,Active,Not yet established
+MV-SIG-BAX-007-06,MAN-SIG-BAX-007,06,Sacrosanct Warhelve,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,The haft turns a blow along the wind and returns a cut.,Active,Not yet established
+MV-SIG-BAX-007-07,MAN-SIG-BAX-007,07,Bedrock Crescentbit,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,A chop falls on the sworn bearing and does not drift.,Active,Not yet established
+MV-SIG-BAX-007-08,MAN-SIG-BAX-007,08,Volition Warbeard,Advanced,Support:Empower,CHANNELED,MODERATE,Champion L1 Low,Qi rises with the breath and gathers in the head like a wind.,Active,Not yet established
+MV-SIG-BAX-007-09,MAN-SIG-BAX-007,09,Despotic Hewdown,Advanced,Control:Seal,CHANNELED,MODERATE,Champion L1 Low,The head presses an enemy weapon down and the sworn weight holds it still.,Active,Not yet established
+MV-SIG-BAX-007-10,MAN-SIG-BAX-007,10,Magnificent Rive,Elite,Attack:Penetrating,INSTANT,HIGH,Demigod L1 Low,A narrow cut carries qi through the guard on the line of the wind.,Active,Not yet established
+MV-SIG-BAX-007-11,MAN-SIG-BAX-007,11,Quenched Wideeye,Signature,Attack:Strike,CAST,VARIABLE,Senior L1 Low,"The user speaks the oath, qi rises with the wind, and the axe falls in the school's sworn cleave.",Active,Not yet established
+MV-SIG-BAX-008-01,MAN-SIG-BAX-008,01,Warbit Pledge,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,The user holds one bearing in stance and does not turn from it.,Active,Not yet established
+MV-SIG-BAX-008-02,MAN-SIG-BAX-008,02,Warcleave Triumph,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,A chop falls along the bearing at the speed of a spoken word.,Active,Not yet established
+MV-SIG-BAX-008-03,MAN-SIG-BAX-008,03,Warbitboon,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,A step along the bearing carries the user into the opponent's guard.,Active,Not yet established
+MV-SIG-BAX-008-04,MAN-SIG-BAX-008,04,Smiteseal,Intermediate,Control:Bind,INSTANT,LOW,Senior L1 Low,The beard hooks a weapon and draws it down the wind.,Active,Not yet established
+MV-SIG-BAX-008-05,MAN-SIG-BAX-008,05,Pall Haftcap,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,The haft turns a blow along the bearing without a step back.,Active,Not yet established
+MV-SIG-BAX-008-06,MAN-SIG-BAX-008,06,Rivepledge,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,The poll raps a weapon hand with the force of a gust.,Active,Not yet established
+MV-SIG-BAX-008-07,MAN-SIG-BAX-008,07,Solar Banded,Advanced,Support:Empower,CHANNELED,MODERATE,Champion L1 Low,Qi gathers in the head on a sworn word and grows heavy.,Active,Not yet established
+MV-SIG-BAX-008-08,MAN-SIG-BAX-008,08,Steelrive,Advanced,Attack:Penetrating,INSTANT,MODERATE,Champion L1 Low,A narrow cut on the bearing carries qi through the guard.,Active,Not yet established
+MV-SIG-BAX-008-09,MAN-SIG-BAX-008,09,Prismwarbit,Elite,Defense:Reflect,INSTANT,HIGH,Demigod L1 Low,A burst of qi from the haft throws a blow back along the bearing.,Active,Not yet established
+MV-SIG-BAX-008-10,MAN-SIG-BAX-008,10,Heroic Quenched Battercut,Signature,Attack:Strike,CAST,VARIABLE,Senior L1 Low,"The user holds the bearing and the axe falls in one great, sworn cleave.",Active,Not yet established
+MV-SIG-BAX-009-01,MAN-SIG-BAX-009,01,Warbitseal,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,"The user holds the bearing against any push, with the haft across the chest.",Active,Not yet established
+MV-SIG-BAX-009-02,MAN-SIG-BAX-009,02,Smite Crown,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,A chop falls on the held bearing and does not waver.,Active,Not yet established
+MV-SIG-BAX-009-03,MAN-SIG-BAX-009,03,Bandedsolace,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,A steady step holds the bearing while closing on the opponent.,Active,Not yet established
+MV-SIG-BAX-009-04,MAN-SIG-BAX-009,04,Thrallbrunt,Basic,Control:Bind,INSTANT,MINIMAL,T1 Unawakened,The beard hooks and draws the opponent onto the user's bearing.,Active,Not yet established
+MV-SIG-BAX-009-05,MAN-SIG-BAX-009,05,Riveseal,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,The poll raps along the held line and spoils the opponent's attack.,Active,Not yet established
+MV-SIG-BAX-009-06,MAN-SIG-BAX-009,06,Deluge Haftcap,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,A parry on the held bearing turns a blow without loss of line.,Active,Not yet established
+MV-SIG-BAX-009-07,MAN-SIG-BAX-009,07,Riveverdict,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,"Two cuts fall on the held bearing, the second heavier than the first.",Active,Not yet established
+MV-SIG-BAX-009-08,MAN-SIG-BAX-009,08,Merciful Bitedge,Intermediate,Support:Empower,CHANNELED,LOW,Senior L1 Low,Qi gathers in the head over a long hold and grows heavy.,Active,Not yet established
+MV-SIG-BAX-009-09,MAN-SIG-BAX-009,09,Storied Hewdown,Advanced,Attack:Penetrating,INSTANT,MODERATE,Champion L1 Low,A narrow cut on the held bearing carries qi through the guard.,Active,Not yet established
+MV-SIG-BAX-009-10,MAN-SIG-BAX-009,10,Tyrannous Warcleave,Advanced,Control:Seal,CHANNELED,MODERATE,Champion L1 Low,The haft pins an enemy weapon and the bearing keeps it pinned.,Active,Not yet established
+MV-SIG-BAX-009-11,MAN-SIG-BAX-009,11,Banded Troth,Elite,Defense:Reflect,CAST,HIGH,Demigod L1 Low,A burst of qi from the haft throws blows back along the bearing.,Active,Not yet established
+MV-SIG-BAX-009-12,MAN-SIG-BAX-009,12,Unrivaled Thunderclap Smite,Signature,Attack:Penetrating,CAST,VARIABLE,Senior L1 Low,The user holds the bearing and the whole axe falls in a single great cleave.,Active,Not yet established
+MV-SIG-BAX-010-01,MAN-SIG-BAX-010,01,Steelwarbit,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,The user stands on a sworn word and holds the head across the body.,Active,Not yet established
+MV-SIG-BAX-010-02,MAN-SIG-BAX-010,02,Quenched Warhelve,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,A chop falls on the user's sworn line and does not drift.,Active,Not yet established
+MV-SIG-BAX-010-03,MAN-SIG-BAX-010,03,Bedrock Rive,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,A step along the plateau's edge carries the user to the opponent's flank.,Active,Not yet established
+MV-SIG-BAX-010-04,MAN-SIG-BAX-010,04,Battleheel Reliquary,Basic,Control:Bind,INSTANT,MINIMAL,T1 Unawakened,The beard hooks and draws the opponent down the line of the wind.,Active,Not yet established
+MV-SIG-BAX-010-05,MAN-SIG-BAX-010,05,Peal Brunt,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,The poll raps a weapon hand and spoils the grip.,Active,Not yet established
+MV-SIG-BAX-010-06,MAN-SIG-BAX-010,06,Paritybanded,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,A parry on a sworn word turns the blow without a step back.,Active,Not yet established
+MV-SIG-BAX-010-07,MAN-SIG-BAX-010,07,Warbitdecree,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,Two chops fall on one bearing and the second goes where the first opened.,Active,Not yet established
+MV-SIG-BAX-010-08,MAN-SIG-BAX-010,08,Vigor Warbeard,Intermediate,Support:Empower,CHANNELED,LOW,Senior L1 Low,Qi gathers in the head with the user's breath and grows heavy.,Active,Not yet established
+MV-SIG-BAX-010-09,MAN-SIG-BAX-010,09,Sigil Warhelve,Advanced,Control:Seal,CHANNELED,MODERATE,Champion L1 Low,The head presses an enemy weapon down on the sworn line and holds it.,Active,Not yet established
+MV-SIG-BAX-010-10,MAN-SIG-BAX-010,10,Steel Crescentbit,Advanced,Attack:Penetrating,INSTANT,MODERATE,Champion L1 Low,A narrow cut on the sworn line carries qi through the guard.,Active,Not yet established
+MV-SIG-BAX-010-11,MAN-SIG-BAX-010,11,Revelation Battleheel,Elite,Defense:Reflect,CAST,HIGH,Demigod L1 Low,A burst of qi from the haft throws back every blow aimed at the user.,Active,Not yet established
+MV-SIG-BAX-010-12,MAN-SIG-BAX-010,12,Bedrock Brunt,Signature,Attack:Strike,CAST,VARIABLE,Senior L1 Low,The user speaks the oath and the axe falls with all the wind behind it.,Active,Not yet established
+MV-SIG-BAX-011-01,MAN-SIG-BAX-011,01,Crushing Bitedge,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,The user stands on open ground and holds the head high with no wall behind.,Active,Not yet established
+MV-SIG-BAX-011-02,MAN-SIG-BAX-011,02,Vigor Smite,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,A chop falls like a gust and is finished before the opponent turns.,Active,Not yet established
+MV-SIG-BAX-011-03,MAN-SIG-BAX-011,03,Bedrock Battercut,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,A free step moves the user anywhere on open ground.,Active,Not yet established
+MV-SIG-BAX-011-04,MAN-SIG-BAX-011,04,Titan Warcleave,Basic,Control:Bind,INSTANT,MINIMAL,T1 Unawakened,The beard hooks a limb and draws it along the wind.,Active,Not yet established
+MV-SIG-BAX-011-05,MAN-SIG-BAX-011,05,Imperious Hewdown,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,The poll raps sideways at a weapon hand like a crosswind on a banner.,Active,Not yet established
+MV-SIG-BAX-011-06,MAN-SIG-BAX-011,06,Squall Warbit,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,The haft turns a blow away as wind turns smoke.,Active,Not yet established
+MV-SIG-BAX-011-07,MAN-SIG-BAX-011,07,Inferno Warpoll,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,"Two gusts of qi follow two quick cuts, the second finding the open guard.",Active,Not yet established
+MV-SIG-BAX-011-08,MAN-SIG-BAX-011,08,Nurturing Warpoll,Intermediate,Support:Empower,CHANNELED,LOW,Senior L1 Low,Qi gathers in the head like a rising wind.,Active,Not yet established
+MV-SIG-BAX-011-09,MAN-SIG-BAX-011,09,Royal Wideeye,Advanced,Attack:Penetrating,INSTANT,MODERATE,Champion L1 Low,A gust of qi at the bit carries the edge through a guard.,Active,Not yet established
+MV-SIG-BAX-011-10,MAN-SIG-BAX-011,10,Stately Banded,Advanced,Defense:Reflect,CAST,HIGH,Champion L1 Low,A great gust of qi from the haft throws back every blow aimed at the user.,Active,Not yet established
+MV-SIG-BAX-011-11,MAN-SIG-BAX-011,11,Squall Warhelve,Elite,Mobility:Step,INSTANT,HIGH,Demigod L1 Low,Qi bears the user across the gap in a surge and the cut lands on arrival.,Active,Not yet established
+MV-SIG-BAX-011-12,MAN-SIG-BAX-011,12,Entropy Wideeye,Signature,Attack:Area,CAST,VARIABLE,Senior L1 Low,Qi rises as a gale and the axe cleaves a wide arc across the open ground.,Active,Not yet established
+MV-SIG-BAX-012-01,MAN-SIG-BAX-012,01,Battleseal,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,The user stands on open ground with the Core's qi steady in the arms.,Active,Not yet established
+MV-SIG-BAX-012-02,MAN-SIG-BAX-012,02,Haemalbattle,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,A chop falls with the Core's qi in the edge and cuts deep.,Active,Not yet established
+MV-SIG-BAX-012-03,MAN-SIG-BAX-012,03,Bedrock Haftcap,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,"A long stride carries the user across the plateau, light under the axe.",Active,Not yet established
+MV-SIG-BAX-012-04,MAN-SIG-BAX-012,04,Peal Battercut,Basic,Control:Disrupt,INSTANT,MINIMAL,T1 Unawakened,The poll raps a weapon hand with the Core's qi behind it.,Active,Not yet established
+MV-SIG-BAX-012-05,MAN-SIG-BAX-012,05,Savage Battleheel,Intermediate,Control:Bind,INSTANT,LOW,Senior L1 Low,The beard hooks and draws a limb in by the Core's strength.,Active,Not yet established
+MV-SIG-BAX-012-06,MAN-SIG-BAX-012,06,Warbittroth,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,The haft turns a blow aside and the Core's wind returns it.,Active,Not yet established
+MV-SIG-BAX-012-07,MAN-SIG-BAX-012,07,Thunderclap Banded,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,Two cuts follow one another and each carries a pulse of the Core.,Active,Not yet established
+MV-SIG-BAX-012-08,MAN-SIG-BAX-012,08,Clement Haftcap,Intermediate,Support:Empower,CHANNELED,LOW,Senior L1 Low,The Core's qi gathers along the head and grows with each breath.,Active,Not yet established
+MV-SIG-BAX-012-09,MAN-SIG-BAX-012,09,Paramount Warbeard,Advanced,Attack:Penetrating,INSTANT,MODERATE,Champion L1 Low,A narrow cut sends the Core's qi through the guard along the wind.,Active,Not yet established
+MV-SIG-BAX-012-10,MAN-SIG-BAX-012,10,Consecrated Bitedge,Advanced,Defense:Reflect,CAST,HIGH,Champion L1 Low,The Core's qi bursts along the haft and throws every blow back upon its source.,Active,Not yet established
+MV-SIG-BAX-012-11,MAN-SIG-BAX-012,11,Soundless Rive,Elite,Mobility:Step,INSTANT,HIGH,Demigod L1 Low,"The Core's qi bears the user across the field in a surge, and the cut lands on arrival.",Active,Not yet established
+MV-SIG-BAX-012-12,MAN-SIG-BAX-012,12,Valiant Warpoll Triumph,Signature,Attack:Area,CAST,VARIABLE,Senior L1 Low,The Core's qi gathers and falls in a great cleave that carries across the plateau.,Active,Not yet established

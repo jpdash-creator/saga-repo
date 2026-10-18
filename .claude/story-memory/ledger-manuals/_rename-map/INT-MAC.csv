@@ -1,0 +1,62 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-MAC-001-01,Brush Edge Thread Cut,Vinethwack,F4,Senior L4 Low,A
+MV-INT-MAC-001-02,Shrub Level Slash,Fierce Clearcut,F1,Senior L4 Low,A
+MV-INT-MAC-001-03,Foot Brace Pivot,Weedswerve,F4,Senior L4 Low,A
+MV-INT-MAC-001-04,Crossed Brush Shield,Buttressed Thickbelly,F1,Senior L4 Low,A
+MV-INT-MAC-001-05,Sap Line Jab,Vineswat,F4,Senior L4 Low,A
+MV-INT-MAC-001-06,Sheathed Edge Strap Run,Grim Machhilt,F1,Senior L4 Low,A
+MV-INT-MAC-001-07,Greenwood Snap Check,Vinebarrier,F4,Senior L4 Low,A
+MV-INT-MAC-002-01,Return Stroke Draw,Wideback Scorer,F3,Senior L8 Low,A
+MV-INT-MAC-002-02,Whiplash Wrist Cut,Cruel Heavytang,F1,Senior L8 Low,A
+MV-INT-MAC-002-03,Back Pass Recovery,Scrubbuckle,F4,Senior L8 Low,A
+MV-INT-MAC-002-04,Looping Blade Parry,Widetip Buckle,F3,Senior L8 Low,A
+MV-INT-MAC-002-05,Short Return Step,Pirouetting Rivetgrip,F1,Senior L8 Low,A
+MV-INT-MAC-002-06,Tip Snap Return,Hacksweep Thwack,F3,Senior L8 Low,A
+MV-INT-MAC-002-07,Doubled Return Stroke,Brushedge Thwack,F3,Senior L8 Low,A
+MV-INT-MAC-002-08,Return Hook Bind,Burdening Chopedge,F1,Senior L8 Low,A
+MV-INT-MAC-003-01,Spine Pin Press,Stamp Weightedge,F2,Warrior L1 Low,B
+MV-INT-MAC-003-02,Spine Hammer Knock,Brawn Bluntspine,F2,Warrior L1 Low,B
+MV-INT-MAC-003-03,Flat Slide Check,Draught Chopedge,F2,Warrior L1 Low,B
+MV-INT-MAC-003-04,Forearm Lever Turn,Cutback Barrier,F3,Warrior L1 Low,B
+MV-INT-MAC-003-05,Palm-Backed Spine Drive,Purpose Brushcut,F2,Warrior L1 Low,B
+MV-INT-MAC-003-06,Wrist Lock Twist,Bushprop,F4,Warrior L1 Low,B
+MV-INT-MAC-004-01,Thicket Edge Slip,Bushhurdle,F4,Senior L2 Low,A
+MV-INT-MAC-004-02,Snag-Free Cut,Scrubslap,F4,Senior L2 Low,A
+MV-INT-MAC-004-03,Low Branch Duck,Scrubbarrier,F4,Senior L2 Low,A
+MV-INT-MAC-004-04,Tangle Shear,Lurching Clearcut,F1,Senior L2 Low,A
+MV-INT-MAC-004-05,Vine Hook Pull,Burdening Brushedge,F1,Senior L2 Low,A
+MV-INT-MAC-004-06,Narrow Gap Point Stab,Lurching Bluntspine,F1,Senior L2 Low,A
+MV-INT-MAC-004-07,Thicket Rush Cut,Grim Heavytang,F1,Senior L2 Low,A
+MV-INT-MAC-004-08,Bramble Guard Weave,Weedscreen,F4,Senior L2 Low,A
+MV-INT-MAC-004-09,Snare Loop Hold,Wideback Buckle,F3,Senior L2 Low,A
+MV-INT-MAC-005-01,Wrist Weight Drill,Rugged Mow,F1,Warrior L4 Low,B
+MV-INT-MAC-005-02,Forearm Roll Cut,Honed Cutback,F2,Warrior L4 Low,B
+MV-INT-MAC-005-03,Elbow Close Lop,Brassmow,F5,Warrior L4 Low,B
+MV-INT-MAC-005-04,Qi Seated Blade Guard,Machhilt Buckle,F3,Warrior L4 Low,B
+MV-INT-MAC-005-05,Wrist Turn Deflection,Haze Weightedge,F2,Warrior L4 Low,B
+MV-INT-MAC-005-06,Drilled Heel Pivot,Clay Thickbelly,F2,Warrior L4 Low,B
+MV-INT-MAC-005-07,Grip Reset Tap,Vinelinen,F4,Warrior L4 Low,B
+MV-INT-MAC-005-08,Weight Dropping Qi Cut,Honed Hacksweep,F2,Warrior L4 Low,B
+MV-INT-MAC-005-09,Rolling Wrist Lop Chain,Scrubthwack,F4,Warrior L4 Low,B
+MV-INT-MAC-005-10,Wrist Locked Press Parry,Stalwart Widetip,F1,Warrior L4 Low,B
+MV-INT-MAC-006-01,Inside Reach Brush Cut,Wild Clearcut,F1,Senior L6 Low,A
+MV-INT-MAC-006-02,Elbow Tuck Hack,Ruthless Rivetgrip,F1,Senior L6 Low,A
+MV-INT-MAC-006-03,Close Guard Rotation,Layered Widetip,F1,Senior L6 Low,A
+MV-INT-MAC-006-04,Crowd Shuffle,Scudding Weightedge,F1,Senior L6 Low,A
+MV-INT-MAC-006-05,Hilt Cap Knock,Lurching Brushcut,F1,Senior L6 Low,A
+MV-INT-MAC-006-06,Hilt Cap Qi Hammer,Bold Mow,F1,Senior L6 Low,A
+MV-INT-MAC-006-07,Crowded Edge Drag,Lassoing Rivetgrip,F1,Senior L6 Low,A
+MV-INT-MAC-007-01,Bow Cut Opening,Savage Brushedge,F1,Warrior L6 Low,B
+MV-INT-MAC-007-02,Sweep Join Cut,Ember Lashdown,F2,Warrior L6 Low,B
+MV-INT-MAC-007-03,Low Sweep Pass,Weedswat,F4,Warrior L6 Low,B
+MV-INT-MAC-007-04,Bow Arc Guard,Resolute Heavytang,F1,Warrior L6 Low,B
+MV-INT-MAC-007-05,Arc Following Step,Fleet Machhilt,F1,Warrior L6 Low,B
+MV-INT-MAC-007-06,Reversed Bow Cut,Bushthwack,F4,Warrior L6 Low,B
+MV-INT-MAC-007-07,Linked Bow Sweeps,Thickbelly Swat,F3,Warrior L6 Low,B
+MV-INT-MAC-007-08,Sweep Break Interrupt,Gall Brushcut,F2,Warrior L6 Low,B
+MV-INT-MAC-008-01,Plain Qi Lop,Staticbush,F5,Warrior L8 Low,B
+MV-INT-MAC-008-02,Honest Guard Stance,Sleet Bluntspine,F2,Warrior L8 Low,B
+MV-INT-MAC-008-03,Simple Shuffle Step,Gritbush,F5,Warrior L8 Low,B
+MV-INT-MAC-008-04,Wrist Down Lop,Honed Chopedge,F2,Warrior L8 Low,B
+MV-INT-MAC-008-05,Fed Lopping Rhythm,Crimson Hacksweep,F2,Warrior L8 Low,B
+MV-INT-MAC-008-06,Rhythm Break Counter,Mowprop,F4,Warrior L8 Low,B

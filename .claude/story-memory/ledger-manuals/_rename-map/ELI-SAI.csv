@@ -1,0 +1,133 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-SAI-001-01,Court Opening Double Jab,Snagwrath,F4,Demigod,B
+MV-ELI-SAI-001-02,Post-Hawk Tine Guard,Impenetrable Handknob,F1,Demigod,B
+MV-ELI-SAI-001-03,Quiet Talon Footwork,Phantom Hiltpoint,F1,Demigod,B
+MV-ELI-SAI-001-04,Pair Shadow Reading,Prongvigil,F4,Demigod,B
+MV-ELI-SAI-001-05,Pinion Fan Deflection,Torrent Tineright,F2,Demigod,B
+MV-ELI-SAI-001-06,Court Pair Lock,Webbing Sidehook,F1,Demigod,B
+MV-ELI-SAI-001-07,Wingtip Rap Sequence,Pinionruin,F4,Demigod,B
+MV-ELI-SAI-001-08,Stooping Pair Entrapment,Ponderous Clasp,F2,Demigod,B
+MV-ELI-SAI-001-09,Dual Talon Armor Rend,Mangling Centerprong,F1,Demigod,B
+MV-ELI-SAI-001-10,Hawk Court Vanishing Entry,Twistflash,F4,Demigod,B
+MV-ELI-SAI-002-01,Headwater Double Jab,Wristwrath,F4,Demigod,B
+MV-ELI-SAI-002-02,Confluence Crossbar Guard,Invincible Sanguard,F1,Demigod,B
+MV-ELI-SAI-002-03,Sandbar Pivot,Silt Crossprong,F2,Demigod,B
+MV-ELI-SAI-002-04,Paired Prong Skim,Lacerating Prongbase,F1,Demigod,B
+MV-ELI-SAI-002-05,Streambed Touch Reading,Remnant Tinecrook,F2,Demigod,B
+MV-ELI-SAI-002-06,Meander Catch,Strangling Snag,F1,Demigod,B
+MV-ELI-SAI-002-07,Weir Deflection,Equipoise Hiltpoint,F2,Demigod,B
+MV-ELI-SAI-002-08,Paired Undertow Pull,Twistnerve,F4,Demigod,B
+MV-ELI-SAI-002-09,Twin Stream Binding Fork,Suffocating Ensnare,F1,Demigod,B
+MV-ELI-SAI-002-10,Floodgate Release Strike,Pinionhavoc,F4,Demigod,B
+MV-ELI-SAI-002-11,Basin Overflow Shear,Grave Centerprong,F2,Demigod,B
+MV-ELI-SAI-003-01,Mirror Brow Guard,Obdurate Tineleft,F1,Monarch,B
+MV-ELI-SAI-003-02,Doubled Shoulder Check,Unbudging Tineright,F1,Monarch,B
+MV-ELI-SAI-003-03,Network Settling Breath,Meridian Hiltpoint,F2,Monarch,B
+MV-ELI-SAI-003-04,Twin Guard Counter Rap,Punishing Sidehook,F1,Monarch,B
+MV-ELI-SAI-003-05,Net Tine Lock,Immobilizing Prongbase,F1,Monarch,B
+MV-ELI-SAI-003-06,Paired Weight Slide Turn,Chimeprong,F5,Monarch,B
+MV-ELI-SAI-003-07,Double Guard Circuit Shield,Flintlike Handknob,F1,Monarch,B
+MV-ELI-SAI-003-08,Paired Fork Crush Hold,Shade Wrest,F2,Monarch,B
+MV-ELI-SAI-003-09,Twin Shear Return,Glintvee,F5,Demigod,B
+MV-ELI-SAI-004-01,Delta Fan Jab,Vengeful Crossprong,F1,Demigod,B
+MV-ELI-SAI-004-02,Eye Line Guard,Unassailable Sanguard,F1,Demigod,B
+MV-ELI-SAI-004-03,Tributary Step,Prongglare,F4,Demigod,B
+MV-ELI-SAI-004-04,Silt Scatter Rap,Might Sidehook,F2,Demigod,B
+MV-ELI-SAI-004-05,Hawk-Eye Sweep Reading,Illuminating Tineleft,F1,Demigod,B
+MV-ELI-SAI-004-06,Split Stream Parry,Adamantine Tinecrook,F1,Demigod,B
+MV-ELI-SAI-004-07,Channel Cross Catch,Harnessing Twist,F1,Demigod,B
+MV-ELI-SAI-004-08,Many-Mouth Counter,Facet Hiltpoint,F2,Demigod,B
+MV-ELI-SAI-004-09,Marked Point Hawk Strike,Claspruin,F4,Demigod,B
+MV-ELI-SAI-004-10,Delta Mouth Chain,Overlapping Tineright,F1,Demigod,B
+MV-ELI-SAI-004-11,Hawk-Eye Sphere Hold,Charter Wrest,F2,Demigod,B
+MV-ELI-SAI-004-12,Delta Dispersal Absorption,Indomitable Shade Handknob,F6a,Demigod,B
+MV-ELI-SAI-005-01,Floor Track Low Jab,Clasphavoc,F4,Void God,B
+MV-ELI-SAI-005-02,High Azure Guard,Unrelenting Centerprong,F1,Void God,B
+MV-ELI-SAI-005-03,Track Change Step,Blinding Snag,F1,Void God,B
+MV-ELI-SAI-005-04,Stone Skip Rap,Hellish Prongbase,F1,Void God,B
+MV-ELI-SAI-005-05,Long Track Sensing,Prescient Crossprong,F1,Void God,B
+MV-ELI-SAI-005-06,Double Track Lock Pull,Mayhem Pinion,F2,Void God,B
+MV-ELI-SAI-005-07,High Low Parry Weave,Unbowed Sidehook,F1,Void God,B
+MV-ELI-SAI-005-08,Rising Stair Rap Run,Twisthavoc,F4,Void God,B
+MV-ELI-SAI-005-09,Counter Track Hook,Hogtying Wrest,F1,Void God,B
+MV-ELI-SAI-005-10,Long Chain Azure Roll,Multiplying Clasp,F1,Void God,B
+MV-ELI-SAI-005-11,Zenith Track Drop,Snagscourge,F4,Void God,B
+MV-ELI-SAI-005-12,Basin Floor Snag Cross,Toxin Tinecrook,F2,Void God,B
+MV-ELI-SAI-005-13,Sky and Floor Divided Strike,Eviscerating Glint Pinion,F6a,Void God,B
+MV-ELI-SAI-006-01,Updraft Rising Jab,Rampaging Handknob,F1,Demigod,B
+MV-ELI-SAI-006-02,Talon Fold Guard,Ironprong,F5,Demigod,B
+MV-ELI-SAI-006-03,Gliding Entry,Meteoric Tineleft,F1,Demigod,B
+MV-ELI-SAI-006-04,Zenith Glint Reading,Unerring Centerprong,F1,Demigod,B
+MV-ELI-SAI-006-05,Wingbeat Pinion Parry,Evergreen Hiltpoint,F1,Demigod,B
+MV-ELI-SAI-006-06,Prey Grip Seizure,Hoarfrost Ensnare,F2,Demigod,B
+MV-ELI-SAI-006-07,Falling Talon Tear,Wristscourge,F4,Demigod,B
+MV-ELI-SAI-006-08,Dive and Clamp,Overpowering Pinion,F1,Demigod,B
+MV-ELI-SAI-006-09,Zenith Pair Plunge,Nova Prongbase,F2,Demigod,B
+MV-ELI-SAI-006-10,Talon Nullifying Catch,Veedurance,F4,Demigod,B
+MV-ELI-SAI-007-01,High Plateau Rooted Jab,Wrestwrath,F4,Demigod,B
+MV-ELI-SAI-007-02,Oath-Held Crossbar,Thorn Sanguard,F2,Demigod,B
+MV-ELI-SAI-007-03,Headwind Step Up,Granite Crossprong,F2,Demigod,B
+MV-ELI-SAI-007-04,Roll Under Gust,Impervious Tineleft,F1,Demigod,B
+MV-ELI-SAI-007-05,Sworn Line Reading,Vigilant Hiltpoint,F1,Demigod,B
+MV-ELI-SAI-007-06,Prong Roll Bind,Mastering Snag,F1,Demigod,B
+MV-ELI-SAI-007-07,Held Line Counter Thrust,Hollow Tinecrook,F2,Demigod,B
+MV-ELI-SAI-007-08,Gust Sweep Disarm,Maiming Clasp,F1,Demigod,B
+MV-ELI-SAI-007-09,Rolling Oath Barrage,Decimating Wrest,F1,Demigod,B
+MV-ELI-SAI-007-10,Plateau Unbroken Guard,Inexorable Prongbase,F1,Demigod,B
+MV-ELI-SAI-007-11,Sworn Line Breaker,Pinionscourge,F4,Demigod,B
+MV-ELI-SAI-008-01,Bearing Fork Catch,Numbing Pinion,F1,Demigod,B
+MV-ELI-SAI-008-02,Steady Heading Block,Indomitable Crossprong,F1,Demigod,B
+MV-ELI-SAI-008-03,Slant Heading Step,Wristblink,F4,Demigod,B
+MV-ELI-SAI-008-04,Fork Counter Drive,Pitiless Tineright,F1,Demigod,B
+MV-ELI-SAI-008-05,Drift Correction Parry,Unconquered Handknob,F1,Demigod,B
+MV-ELI-SAI-008-06,Catching Fork Spiral,Chime Snag,F2,Demigod,B
+MV-ELI-SAI-008-07,Held Heading Reversal,Verity Sanguard,F2,Demigod,B
+MV-ELI-SAI-008-08,Fork Counter Net,Overbearing Clasp,F1,Demigod,B
+MV-ELI-SAI-008-09,Gale Bearing Sealing Catch,Intentwrest,F5,Demigod,B
+MV-ELI-SAI-009-01,Open Hand Bearing Jab,Ruinous Tineleft,F1,Monarch,B
+MV-ELI-SAI-009-02,Bearing Open Guard,Adamantine Sanguard,F1,Monarch,B
+MV-ELI-SAI-009-03,Wide Plateau Stride,Dazzling Handknob,F1,Monarch,B
+MV-ELI-SAI-009-04,Oath Breath Settling,Vessel Crossprong,F2,Monarch,B
+MV-ELI-SAI-009-05,Crosswind Knob Rap,Veeruin,F4,Monarch,B
+MV-ELI-SAI-009-06,Sweeping Bearing Parry,Inexorable Tineright,F1,Monarch,B
+MV-ELI-SAI-009-07,Network Gust Bind,Harnessing Pinion,F1,Monarch,B
+MV-ELI-SAI-009-08,Tine Oath Disarm,Strangling Clasp,F1,Monarch,B
+MV-ELI-SAI-009-09,Bearing Cut Return,Snagruin,F4,Monarch,B
+MV-ELI-SAI-009-10,Open Bearing Circuit Guard,Prongspine,F4,Monarch,B
+MV-ELI-SAI-009-11,Monarch Oath Press,Overbearing Twist,F1,Monarch,B
+MV-ELI-SAI-009-12,Oath Unshaken Counter,Equipoise Tinecrook,F2,Demigod,B
+MV-ELI-SAI-010-01,Crosswind Quick Jab,Wrathful Prongbase,F1,Void God,B
+MV-ELI-SAI-010-02,Wind-Edge Tine Guard,Unbowed Crossprong,F1,Void God,B
+MV-ELI-SAI-010-03,Crossing Step,Torrent Tinecrook,F2,Void God,B
+MV-ELI-SAI-010-04,Sworn Air Reading,Clairvoyant Tineleft,F1,Void God,B
+MV-ELI-SAI-010-05,Across-Wind Catch,Pinionnerve,F4,Void God,B
+MV-ELI-SAI-010-06,Veer and Rake,Wrestscourge,F4,Void God,B
+MV-ELI-SAI-010-07,Tine Gale Parry,Obdurate Prongbase,F1,Void God,B
+MV-ELI-SAI-010-08,Crosswind Breaker Drive,Blistering Crossprong,F1,Void God,B
+MV-ELI-SAI-010-09,Gale-Sworn Bind,Webbing Ensnare,F1,Void God,B
+MV-ELI-SAI-010-10,Crosswind Vanishing Cut,Novaclasp,F5,Void God,B
+MV-ELI-SAI-011-01,Edge Stance Centre Jab,Pinionwrath,F4,Demigod,B
+MV-ELI-SAI-011-02,Three Prong Cover,Flintlike Sanguard,F1,Demigod,B
+MV-ELI-SAI-011-03,Cliff Line Step,Lightning Hiltpoint,F1,Demigod,B
+MV-ELI-SAI-011-04,Side Tine Flick,Twistwrath,F4,Demigod,B
+MV-ELI-SAI-011-05,Edge Draft Reading,Aura Tineright,F2,Demigod,B
+MV-ELI-SAI-011-06,Left Tine Right Tine Catch,Overpowering Ensnare,F1,Demigod,B
+MV-ELI-SAI-011-07,Centre Prong Counter,Shattering Tineleft,F1,Demigod,B
+MV-ELI-SAI-011-08,Wind Drag Parry,Unassailable Centerprong,F1,Demigod,B
+MV-ELI-SAI-011-09,Tine Spin Disarm,Hogtying Pinion,F1,Demigod,B
+MV-ELI-SAI-011-10,Triple Prong Cascade,Reverberating Clasp,F1,Demigod,B
+MV-ELI-SAI-011-11,Edge Fall Snare,Septic Prongbase,F1,Demigod,B
+MV-ELI-SAI-011-12,Plateau Edge Field Push,Blaze Twist,F2,Demigod,B
+MV-ELI-SAI-011-13,Three Prongs Edge Sweep,Titanic Wrest Havoc,F6b,Demigod,B
+MV-ELI-SAI-012-01,Long Bearing First Jab,Ferocious Tinecrook,F1,True God,B
+MV-ELI-SAI-012-02,Wind-Held Fork Guard,Wristmettle,F4,True God,B
+MV-ELI-SAI-012-03,Bearing Retention Step,Ghosting Prongbase,F1,True God,B
+MV-ELI-SAI-012-04,Fork Underhand Lift,Lacerating Handknob,F1,True God,B
+MV-ELI-SAI-012-05,Held Wind Reading,Veeinsight,F4,True God,B
+MV-ELI-SAI-012-06,Bend-Around Catch,Fastening Snag,F2,True God,B
+MV-ELI-SAI-012-07,Long Line Counter,Twistscourge,F4,True God,B
+MV-ELI-SAI-012-08,Pressure Turn Parry,Impenetrable Tineright,F1,True God,B
+MV-ELI-SAI-012-09,Fork Hold Unyielding,Intent Pinion,F2,True God,B
+MV-ELI-SAI-012-10,Bearing Through Storm Lance,Punishing Crossprong,F1,True God,B
+MV-ELI-SAI-012-11,Wind Bending Absorption,Thornprong,F5,True God,B
+MV-ELI-SAI-007-07,Hollow Tinecrook,Honed Tinecrook,F2,Demigod,B

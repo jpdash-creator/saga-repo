@@ -1,0 +1,114 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-QST-001-01,Braced Master Shaft Guard,Steadfast Midstaff,F1,Champion L1 Low,B
+MV-ADV-QST-001-02,Qi-Stepped Staff Advance,Gust Poleturn,F2,Champion L1 Low,B
+MV-ADV-QST-001-03,Piercing Stave Thrust,Transfixing Jabbing,F1,Champion L1 Low,B
+MV-ADV-QST-001-04,Shaft-Wheel Staff Parry,Torrent Ironcap,F2,Champion L1 Low,B
+MV-ADV-QST-001-05,Rebounding Stave Stroke,Rowanbarrage,F4,Champion L1 Low,B
+MV-ADV-QST-001-06,Staff Hook and Drag,Perchgreave,F4,Champion L1 Low,B
+MV-ADV-QST-001-07,Three-Point Stave Sequence,Interlocking Hour Staffspin,F6a,Champion L1 Low,B
+MV-ADV-QST-001-08,Breaking Shaft Smash,Splitting Quarterpoint,F1,Champion L1 Low,B
+MV-ADV-QST-002-01,Linked Guard Shaft Rest,Annealed Staffgrip,F1,Champion L5 Mid,B
+MV-ADV-QST-002-02,Opening Stave Rap,Iron Rollover,F2,Champion L5 Mid,B
+MV-ADV-QST-002-03,Slip and Return Stave Thrust,Oakassault,F4,Champion L5 Mid,B
+MV-ADV-QST-002-04,Guard-Breaking Staff Beat,Chime Rapidspin,F2,Champion L5 Mid,B
+MV-ADV-QST-002-05,Chain Step Stave Forward,Staffleap,F4,Champion L5 Mid,B
+MV-ADV-QST-002-06,Counter-Cut Shaft Parry,Equipoise Nodeknot,F2,Champion L5 Mid,B
+MV-ADV-QST-002-07,Staggered Triple Shaft Blow,Tiered Rollover,F1,Champion L5 Mid,B
+MV-ADV-QST-002-08,Spiralling Return Shaft Blow,Glint Jabbing,F2,Champion L5 Mid,B
+MV-ADV-QST-003-01,Line-Holding Stave Stance,Granite Oakstaff,F2,Ruler L2 Low,B
+MV-ADV-QST-003-02,Backward Shaft Sweep,Staffthrash,F4,Ruler L2 Low,B
+MV-ADV-QST-003-03,Forward Staff Check,Silencing Midstaff,F1,Ruler L2 Low,B
+MV-ADV-QST-003-04,Quick Side Stave Shuffle,Whipping Staffend,F1,Ruler L2 Low,B
+MV-ADV-QST-003-05,Rotating Shaft Screen,Murk Ashwood,F2,Ruler L2 Low,B
+MV-ADV-QST-003-06,Pivoting Shaft Strike,Wrecking Poleturn,F1,Ruler L2 Low,B
+MV-ADV-QST-003-07,Two-Front Shaft Combination,Oakthrash,F4,Ruler L2 Low,B
+MV-ADV-QST-003-08,Line-Breaking Staff Pressure,Ponderous Staffsweep,F2,Ruler L2 Low,B
+MV-ADV-QST-003-09,Anchored Guard Staff Return,Oakplating,F4,Ruler L2 Low,B
+MV-ADV-QST-004-01,Steel-Facing Shaft Guard,Ashcuirass,F4,Demigod L1 Low,B
+MV-ADV-QST-004-02,Plate-Rattling Stave Rap,Ashtorment,F4,Demigod L1 Low,B
+MV-ADV-QST-004-03,Crippling Knee Staff Strike,Needling Staffshoe,F1,Demigod L1 Low,B
+MV-ADV-QST-004-04,Heavy Armour Stave Step,Rowansprint,F4,Demigod L1 Low,B
+MV-ADV-QST-004-05,Gap-Seeking Staff Thrust,Facet Quarterpoint,F2,Demigod L1 Low,B
+MV-ADV-QST-004-06,Joint Lock with the Shaft,Hoarfrost Staffgrip,F2,Demigod L1 Low,B
+MV-ADV-QST-004-07,Resonant Helm Stave Strike,Rumble Ironcap,F2,Demigod L1 Low,B
+MV-ADV-QST-004-08,Armour-Rolling Stave Sweep,Severing Staffsweep,F1,Demigod L1 Low,B
+MV-ADV-QST-005-01,Field Guard Stave Posture,Aura Midstaff,F2,Demigod L3 Mid,B
+MV-ADV-QST-005-02,Field-Edged Staff Thrust,Tempered Poleturn,F2,Demigod L3 Mid,B
+MV-ADV-QST-005-03,Field Staff Sweep,Aurastaff,F5,Demigod L3 Mid,B
+MV-ADV-QST-005-04,Field-Backed Shaft Step,Surging Staffshoe,F1,Demigod L3 Mid,B
+MV-ADV-QST-005-05,Field-Pressing Shaft Parry,Nimbus Ironcap,F2,Demigod L3 Mid,B
+MV-ADV-QST-005-06,Tracing Stave Strike,Tearing Rollover,F1,Demigod L3 Mid,B
+MV-ADV-QST-005-07,Field Shaft Roll,Funneling Staffspin,F1,Demigod L3 Mid,B
+MV-ADV-QST-005-08,Field Staff Pin,Gyve Staffgrip,F2,Demigod L3 Mid,B
+MV-ADV-QST-005-09,Field Release Stave Smash,Scorching Blaze Quarterpoint,F6a,Demigod L3 Mid,B
+MV-ADV-QST-006-01,Paired Track Staff Guard,Adamant Oakstaff,F1,Champion L2 High,B
+MV-ADV-QST-006-02,Hawk-Step Stave Forward,Racing Poleturn,F1,Champion L2 High,B
+MV-ADV-QST-006-03,Azure Line Shaft Thrust,Lambasting Jabbing,F1,Champion L2 High,B
+MV-ADV-QST-006-04,Twin-Hand Stave Parry,Resilient Staffend,F1,Champion L2 High,B
+MV-ADV-QST-006-05,Guard-Strike Staff Pairing,Successive Rollover,F1,Champion L2 High,B
+MV-ADV-QST-006-06,Basin Staff Sweep,Perchassault,F4,Champion L2 High,B
+MV-ADV-QST-006-07,Paired Rap Staff Combination,Shade Rapidspin,F2,Champion L2 High,B
+MV-ADV-QST-006-08,Twin Track Shaft Reversal,Mayhem Staffshoe,F2,Champion L2 High,B
+MV-ADV-QST-007-01,River-Bend Staff Stance,Thornash,F5,Ruler L1 Mid,B
+MV-ADV-QST-007-02,Curved Shaft Thrust,Rowanthrash,F4,Ruler L1 Mid,B
+MV-ADV-QST-007-03,Winding Staff Step,Staffcanter,F4,Ruler L1 Mid,B
+MV-ADV-QST-007-04,Current Shaft Parry,Torrent Nodeknot,F2,Ruler L1 Mid,B
+MV-ADV-QST-007-05,Eddy Shaft Swing,Furrowing Rollover,F1,Ruler L1 Mid,B
+MV-ADV-QST-007-06,Bend-and-Strike Staff Combination,Compounding Staffspin,F1,Ruler L1 Mid,B
+MV-ADV-QST-007-07,Confluence Stave Catch,Rowanplating,F4,Ruler L1 Mid,B
+MV-ADV-QST-007-08,Bank-Breaking Staff Smash,Sanguine Staffspin,F2,Ruler L1 Mid,B
+MV-ADV-QST-007-09,Still-Pool Guard Staff Recovery,Immovable Ashwood,F1,Ruler L1 Mid,B
+MV-ADV-QST-008-01,Watching Hawk Staff Guard,Hardened Quarterpoint,F1,Demigod L2 Low,B
+MV-ADV-QST-008-02,Hawk Glide Staff Step,Soaring Staffspin,F1,Demigod L2 Low,B
+MV-ADV-QST-008-03,Stoop Staff Thrust,Ravaging Jabbing,F1,Demigod L2 Low,B
+MV-ADV-QST-008-04,Paired Wing Staff Parry,Chime Oakstaff,F2,Demigod L2 Low,B
+MV-ADV-QST-008-05,Azure Dive Stave Combination,Rowantorment,F4,Demigod L2 Low,B
+MV-ADV-QST-008-06,Talon Shaft Hook,Manacling Staffgrip,F1,Demigod L2 Low,B
+MV-ADV-QST-008-07,Twin-Track Staff Pursuit,Hour Rollover,F2,Demigod L2 Low,B
+MV-ADV-QST-008-08,Updraft Rising Shaft Strike,Nova Quarterpoint,F2,Demigod L2 Low,B
+MV-ADV-QST-008-09,Soaring Shaft Recovery,Vaulting Balancegrip,F1,Demigod L2 Low,B
+MV-ADV-QST-009-01,Court Opening Staff Guard,Ironoak,F5,Demigod L6 High,B
+MV-ADV-QST-009-02,Twin Field Shaft Thrust,Hollow Staffend,F2,Demigod L6 High,B
+MV-ADV-QST-009-03,Basin Sweep Shaft Pair,Ironstaff,F5,Demigod L6 High,B
+MV-ADV-QST-009-04,Paired Basin Staff Step,Bounding Poleturn,F1,Demigod L6 High,B
+MV-ADV-QST-009-05,River-Court Stave Parry,Staunch Nodeknot,F1,Demigod L6 High,B
+MV-ADV-QST-009-06,Court Dual Shaft Sequence,Intertwined Staffspin,F1,Demigod L6 High,B
+MV-ADV-QST-009-07,Twin-Court Staff Pin,Quelling Staffshoe,F1,Demigod L6 High,B
+MV-ADV-QST-009-08,Azure Basin Staff Smash,Scorching Staffend,F1,Demigod L6 High,B
+MV-ADV-QST-009-09,Court Closing Shaft Guard,Unbroken Oakstaff,F1,Demigod L6 High,B
+MV-ADV-QST-010-01,Bearing-Taking Stave Stance,Enduring Ashwood,F1,Champion L3 Low,B
+MV-ADV-QST-010-02,Plateau Staff Walk,Perchjaunt,F4,Champion L3 Low,B
+MV-ADV-QST-010-03,Wind Stave Thrust,Oakbarrage,F4,Champion L3 Low,B
+MV-ADV-QST-010-04,Crosswind Stave Parry,Implacable Midstaff,F1,Champion L3 Low,B
+MV-ADV-QST-010-05,Gale Stave Sweep,Trouncing Poleturn,F1,Champion L3 Low,B
+MV-ADV-QST-010-06,Held-Bearing Shaft Combination,Funneling Rapidspin,F1,Champion L3 Low,B
+MV-ADV-QST-010-07,Oath Shaft Pin,Paralyzing Ironcap,F1,Champion L3 Low,B
+MV-ADV-QST-010-08,Windbreak Stave Smash,Might Staffsweep,F2,Champion L3 Low,B
+MV-ADV-QST-011-01,No-Walls Stave Guard,Rowancloak,F4,Ruler L4 Mid,B
+MV-ADV-QST-011-02,Open-Ground Shaft Glide,Oakspurt,F4,Ruler L4 Mid,B
+MV-ADV-QST-011-03,Wind-Edged Shaft Thrust,Gustash,F5,Ruler L4 Mid,B
+MV-ADV-QST-011-04,Gale-Turning Stave Parry,Unshaken Quarterpoint,F1,Ruler L4 Mid,B
+MV-ADV-QST-011-05,Circle-Round Stave Strike,Rupturing Rapidspin,F1,Ruler L4 Mid,B
+MV-ADV-QST-011-06,Oath-Keeper's Staff Hold,Crippling Nodeknot,F1,Ruler L4 Mid,B
+MV-ADV-QST-011-07,Unwalled Stave Sequence,Alternating Staffend,F1,Ruler L4 Mid,B
+MV-ADV-QST-011-08,Plateau-Edge Stave Sweep,Intent Staffsweep,F2,Ruler L4 Mid,B
+MV-ADV-QST-011-09,Wind-Sworn Return Staff Guard,Immovable Quarterpoint,F1,Ruler L4 Mid,B
+MV-ADV-QST-012-01,Wind-Reading Stave Guard,Hardened Staffgrip,F1,Demigod L4 Low,B
+MV-ADV-QST-012-02,Gale Slide Stave Step,Ashpounce,F4,Demigod L4 Low,B
+MV-ADV-QST-012-03,Turn-Point Shaft Strike,Glintoak,F5,Demigod L4 Low,B
+MV-ADV-QST-012-04,Backwind Stave Parry,Mantled Midstaff,F1,Demigod L4 Low,B
+MV-ADV-QST-012-05,Bearing-Held Shaft Thrust,Lancing Quarterpoint,F1,Demigod L4 Low,B
+MV-ADV-QST-012-06,Eddy Staff Sequence,Interlocking Rollover,F1,Demigod L4 Low,B
+MV-ADV-QST-012-07,Oath-Held Shaft Bind,Suppressing Nodeknot,F1,Demigod L4 Low,B
+MV-ADV-QST-012-08,Gale-Wrapped Shaft Smash,Splintering Staffspin,F1,Demigod L4 Low,B
+MV-ADV-QST-012-09,Wind-Scattering Staff Recovery,Perchcloak,F4,Demigod L4 Low,B
+MV-ADV-QST-013-01,Storm-Waiting Shaft Guard,Annealed Midstaff,F1,Demigod L8 Mid,B
+MV-ADV-QST-013-02,Rushing Gale Stave Step,Careening Staffend,F1,Demigod L8 Mid,B
+MV-ADV-QST-013-03,Storm Opening Staff Thrust,Needling Rapidspin,F1,Demigod L8 Mid,B
+MV-ADV-QST-013-04,Gust-Turning Staff Parry,Gust Oakstaff,F2,Demigod L8 Mid,B
+MV-ADV-QST-013-05,Bearing-Locked Stave Strike,Blazeoak,F5,Demigod L8 Mid,B
+MV-ADV-QST-013-06,Oath-Fixed Weapon Shaft Hold,Staffcloak,F4,Demigod L8 Mid,B
+MV-ADV-QST-013-07,Hundred-Strike Staff Storm,Compounding Poleturn,F1,Demigod L8 Mid,B
+MV-ADV-QST-013-08,Plateau-Splitting Shaft Smash,Unmaking Iron Staffsweep,F6a,Demigod L8 Mid,B
+MV-ADV-QST-013-09,Calm After the Shaft Gale,Staunch Ironcap,F1,Demigod L8 Mid,B
+MV-ADV-QST-009-02,Hollow Staffend,Lancing Staffend,F2,Demigod L6 High,B

@@ -1,0 +1,72 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-MUS-001-01,Drum-Paced Rank Advance,Aimzip,F4,Senior,A
+MV-INT-MUS-001-02,Blind Loaded Handoff,Ramrodcordial,F4,Senior,A
+MV-INT-MUS-001-03,Platoon Flat Volley,Smoke Flog,F3,Senior,A
+MV-INT-MUS-001-04,Wrist-Braced Release,Stockbutt Flog,F3,Senior,A
+MV-INT-MUS-001-05,Qi-Cloaked Volley Ball,Lurching Prime,F1,Senior,A
+MV-INT-MUS-001-06,Reserve-Rank Step Through,Fleet Flintcock,F1,Senior,A
+MV-INT-MUS-002-01,Paper-Wad Tamping Roll,Knitting Wheellock,F1,Senior,A
+MV-INT-MUS-002-02,Loose-Ball Quick Load,Quickening Bayonetlug,F1,Senior,A
+MV-INT-MUS-002-03,Overcharge Check by Feel,Ramrodlinen,F4,Senior,A
+MV-INT-MUS-002-04,Wad-Spit Short Shot,Wild Barrelband,F1,Senior,A
+MV-INT-MUS-002-05,Ramrod Catch of the Blade,Ramrodprop,F4,Senior,A
+MV-INT-MUS-002-06,Seated-Wad Flat Flight,Salvo Scorer,F3,Senior,A
+MV-INT-MUS-002-07,Ramrod-Guarded Loading Stand,Sturdy Touchpan,F1,Senior,A
+MV-INT-MUS-003-01,Loose-Order Spacing Walk,Prowling Aim,F1,Senior,A
+MV-INT-MUS-003-02,Cover-to-Cover Dash,Lockplate Curl,F3,Senior,A
+MV-INT-MUS-003-03,Prone Aimed Shot,Harsh Pan,F1,Senior,A
+MV-INT-MUS-003-04,Standing Reload at Cover,Tenderhearted Serpent,F1,Senior,A
+MV-INT-MUS-003-05,Tree-Brace Aim,Raw Ramrod,F1,Senior,A
+MV-INT-MUS-003-06,Fleeting Target Snap Shot,Dire Wheellock,F1,Senior,A
+MV-INT-MUS-003-07,Qi-Lit Zigzag Rush,Pirouetting Flintcock,F1,Senior,A
+MV-INT-MUS-003-08,Over-Shoulder Running Fire,Lurching Powder,F1,Senior,A
+MV-INT-MUS-004-01,Press-Line Short Thrust,Panscorer,F4,Senior,A
+MV-INT-MUS-004-02,Elbow-Locked Point Hold,Stalwart Serpent,F1,Senior,A
+MV-INT-MUS-004-03,Butt Hook to the Knee,Salvo Hammerfall,F3,Senior,A
+MV-INT-MUS-004-04,Crowd Barge Past the Point,Powderbarrier,F4,Senior,A
+MV-INT-MUS-004-05,Twisting Withdrawal of the Point,Pantonic,F4,Senior,A
+MV-INT-MUS-004-06,Slip Under the Thrust,Veering Load,F1,Senior,A
+MV-INT-MUS-004-07,Qi-Pierced Bayonet Drive,Keen Stockbutt,F1,Senior,A
+MV-INT-MUS-004-08,Two-Hand Barrel Ward,Lockplate Barrier,F3,Senior,A
+MV-INT-MUS-004-09,Between-Bodies Gap Shot,Savage Touchpan,F1,Senior,A
+MV-INT-MUS-005-01,Meridian-Hum Sighting,Bayonetlug Poultice,F3,Warrior,B
+MV-INT-MUS-005-02,Forearm-Qi Steady Hold,Attentive Barrelband,F1,Warrior,B
+MV-INT-MUS-005-03,Pulse-Gap Release,Gleamsalvo,F5,Warrior,B
+MV-INT-MUS-005-04,Smoke-Drift Reading,Ramrod Tonic,F3,Warrior,B
+MV-INT-MUS-005-05,Sling-Wrapped Barrel Rest,Poise Ramrod,F2,Warrior,B
+MV-INT-MUS-005-06,Centre-Chest Aimed Shot,Stern Load,F1,Warrior,B
+MV-INT-MUS-005-07,Low Leg Disabling Shot,Loadscorer,F4,Warrior,B
+MV-INT-MUS-005-08,Qi-Guided Aimed Ball,Sleet Pan,F2,Warrior,B
+MV-INT-MUS-005-09,Slow-Breath Qi Hold Shot,Shard Smoke,F2,Warrior,B
+MV-INT-MUS-005-10,Step-and-Settle Aimed Shot,Clay Aim,F2,Warrior,B
+MV-INT-MUS-006-01,Flint Edge Tapping,Brawnramrod,F5,Warrior,B
+MV-INT-MUS-006-02,Frizzen Face Wipe,Brawn Barrelband,F2,Warrior,B
+MV-INT-MUS-006-03,Half-Cock Safe Draw,Ramrodscreen,F4,Warrior,B
+MV-INT-MUS-006-04,Cock-Down Quick Fire,Cometsalvo,F5,Warrior,B
+MV-INT-MUS-006-05,Qi-Sparked Flint Strike,Loadthwack,F4,Warrior,B
+MV-INT-MUS-006-06,Misfire Instant Recock,Rallying Stockbutt,F1,Warrior,B
+MV-INT-MUS-007-01,Open-Rank Cover Volley,Dusksalvo,F5,Warrior,B
+MV-INT-MUS-007-02,Staggered Fire Alternation,Fuzeswat,F4,Warrior,B
+MV-INT-MUS-007-03,Flank-Pinned Aim,Purpose Powder,F2,Warrior,B
+MV-INT-MUS-007-04,Wall-Rail Rest Shot,Prime Swat,F3,Warrior,B
+MV-INT-MUS-007-05,Retiring Reload Line,Scudding Flintcock,F1,Warrior,B
+MV-INT-MUS-007-06,Rally Signal Shot,Humfuze,F5,Warrior,B
+MV-INT-MUS-007-07,Qi-Rolled Suppressing Fire,Wild Wheellock,F1,Warrior,B
+MV-INT-MUS-007-08,Leapfrog Cover Rush,Grit Bayonetlug,F2,Warrior,B
+MV-INT-MUS-008-01,Barrel-Over-Head Ward,Shelter Pan,F2,Warrior,B
+MV-INT-MUS-008-02,Butt-Down Low Block,Rill Serpent,F2,Warrior,B
+MV-INT-MUS-008-03,Stock Slam to the Hand,Crimson Salvo,F2,Warrior,B
+MV-INT-MUS-008-04,Reverse Butt Hook,Grim Powder,F1,Warrior,B
+MV-INT-MUS-008-05,Clinch-Breaking Pivot,Rill Smoke,F2,Warrior,B
+MV-INT-MUS-008-06,Qi-Hardened Stock Ward,Clay Ramrod,F2,Warrior,B
+MV-INT-MUS-008-07,Rebound Butt Cross,Brawnsalvo,F5,Warrior,B
+MV-INT-MUS-009-01,Volley-Smoke Reckoning,Kindly Touchpan,F1,Warrior,B
+MV-INT-MUS-009-02,Blaze-Aimed Return Shot,Sleetpowder,F5,Warrior,B
+MV-INT-MUS-009-03,Crouch Under the Cloud,Clayfuze,F5,Warrior,B
+MV-INT-MUS-009-04,Cloud-Edge Reload,Pancordial,F4,Warrior,B
+MV-INT-MUS-009-05,Closing Over the Fallen,Clay Serpent,F2,Warrior,B
+MV-INT-MUS-009-06,Count-Off Reform Call,Rallying Barrelband,F1,Warrior,B
+MV-INT-MUS-009-07,Qi-Cleared Haze Lane,Gallsmoke,F5,Warrior,B
+MV-INT-MUS-009-08,Smoke-Lane Pinned Shot,Ruthless Load,F1,Warrior,B
+MV-INT-MUS-009-09,Blind Advance on the Blaze,Clay Lockplate,F2,Warrior,B
+MV-INT-MUS-008-01,Shelter Pan,Stout Pan,F2,Warrior,B

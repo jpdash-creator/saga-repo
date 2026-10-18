@@ -1,0 +1,98 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-CHW-001-01,Orbit Seed Stance,Unflinching Chainhead,F1,Champion L1 Low,B
+MV-ADV-CHW-001-02,Hip Orbit Strike,Granite Whiplink,F2,Champion L1 Low,B
+MV-ADV-CHW-001-03,Orbit Crossing Step,Hastening Hingebar,F1,Champion L1 Low,B
+MV-ADV-CHW-001-04,Counter Orbit Catch,Rumblewrithe,F5,Champion L1 Low,B
+MV-ADV-CHW-001-05,Widening Orbit Throw,Granite Eyelet,F2,Champion L1 Low,B
+MV-ADV-CHW-001-06,Orbit Guard Brace,Joint Hauberk,F3,Champion L1 Low,B
+MV-ADV-CHW-001-07,Whirling Orbit Crush,Granite Spineplate,F2,Champion L1 Low,B
+MV-ADV-CHW-001-08,Collapsing Orbit Bind,Fastening Coilend,F2,Champion L1 Low,B
+MV-ADV-CHW-002-01,Spiral Start Grip,Aegis Tailblade,F2,Champion L6 Mid,B
+MV-ADV-CHW-002-02,Corkscrew Reach Cast,Tempered Linkpin,F2,Champion L6 Mid,B
+MV-ADV-CHW-002-03,Inward Spiral Pull,Rattleplating,F4,Champion L6 Mid,B
+MV-ADV-CHW-002-04,Tightening Circle Walk,Gust Slither,F2,Champion L6 Mid,B
+MV-ADV-CHW-002-05,Boring Spiral Thrust,Drubbing Rasp,F1,Champion L6 Mid,B
+MV-ADV-CHW-002-06,Forearm Coil Deflection,Jointplating,F4,Champion L6 Mid,B
+MV-ADV-CHW-002-07,Breath Tightened Spiral,Gyve Writhe,F2,Champion L6 Mid,B
+MV-ADV-CHW-002-08,Seam Piercing Spiral,Cleaving Jangle,F1,Champion L6 Mid,B
+MV-ADV-CHW-002-09,Closing Spiral Cage,Charter Rivet,F2,Champion L6 Mid,B
+MV-ADV-CHW-003-01,Shoulder Rest Pose,Aegis Segment,F2,Demigod L2 Low,B
+MV-ADV-CHW-003-02,Segment Aware Throw,Rumblerivet,F5,Demigod L2 Low,B
+MV-ADV-CHW-003-03,Waking Chain Guard,Murkjoint,F5,Demigod L2 Low,B
+MV-ADV-CHW-003-04,Iron Skin Feeling,Chime Eyelet,F2,Demigod L2 Low,B
+MV-ADV-CHW-003-05,Lifted Chain Glide,Torrent Rattle,F2,Demigod L2 Low,B
+MV-ADV-CHW-003-06,Finger Directed Wrap,Ponderous Coilend,F2,Demigod L2 Low,B
+MV-ADV-CHW-003-07,Following Tip Curve,Gust Rattle,F2,Demigod L2 Low,B
+MV-ADV-CHW-003-08,Supple Iron Ring,Hingebar Greave,F3,Demigod L2 Low,B
+MV-ADV-CHW-003-09,Hunting Chain Cast,Granite Rivet,F2,Demigod L2 Low,B
+MV-ADV-CHW-003-10,Waking Segment Snare,Siltrivet,F5,Demigod L2 Low,B
+MV-ADV-CHW-004-01,Rending Low Stance,Chainhead Hauberk,F3,Demigod L7 Mid,B
+MV-ADV-CHW-004-02,Segment Tear Cast,Mightrasp,F5,Demigod L7 Mid,B
+MV-ADV-CHW-004-03,Catch and Rake,Manacling Jangle,F1,Demigod L7 Mid,B
+MV-ADV-CHW-004-04,Heavy Haul Pull,Hoarfrost Writhe,F2,Demigod L7 Mid,B
+MV-ADV-CHW-004-05,Dodging Pull Step,Siltjangle,F5,Demigod L7 Mid,B
+MV-ADV-CHW-004-06,Raking Retreat,Adamant Spineplate,F1,Demigod L7 Mid,B
+MV-ADV-CHW-004-07,Qi Edged Segments,Rumble Tailblade,F2,Demigod L7 Mid,B
+MV-ADV-CHW-004-08,Rending Hook Drag,Hamstringing Segment,F1,Demigod L7 Mid,B
+MV-ADV-CHW-004-09,Shield Splitting Cast,Rasp Onslaught,F3,Demigod L7 Mid,B
+MV-ADV-CHW-004-10,Armor Stripping Heave,Raging Whiplink,F1,Demigod L7 Mid,B
+MV-ADV-CHW-004-11,Rending Spin Storm,Harpooning Jangle,F1,Demigod L7 Mid,B
+MV-ADV-CHW-005-01,Twin Tail Hold,Iron Joint,F2,Champion L4 High,B
+MV-ADV-CHW-005-02,Left High Right Low Cast,Whiplink Thrash,F3,Champion L4 High,B
+MV-ADV-CHW-005-03,Crossing Tail Parry,Murk Segment,F2,Champion L4 High,B
+MV-ADV-CHW-005-04,Mirror Pair Step,Writhe Jaunt,F3,Champion L4 High,B
+MV-ADV-CHW-005-05,Pincer Wrap,Dominating Slither,F1,Champion L4 High,B
+MV-ADV-CHW-005-06,Matched Qi Rhythm,Rivetlinctus,F4,Champion L4 High,B
+MV-ADV-CHW-005-07,Beat and Answer,Hingebar Assault,F3,Champion L4 High,B
+MV-ADV-CHW-005-08,Twin Tail Shears,Severing Spineplate,F1,Champion L4 High,B
+MV-ADV-CHW-005-09,Court of Two Chains,Intent Chainhead,F2,Champion L4 High,B
+MV-ADV-CHW-006-01,Perch Hold Stance,Facetrivet,F5,Demigod L4 Low,B
+MV-ADV-CHW-006-02,Hawk Stoop Cast,Tempered Tailblade,F2,Demigod L4 Low,B
+MV-ADV-CHW-006-03,Feather Light Landing,Rivet Spurt,F3,Demigod L4 Low,B
+MV-ADV-CHW-006-04,Talon Snatch,Stifling Rattle,F1,Demigod L4 Low,B
+MV-ADV-CHW-006-05,Sky Watching Pose,Verityjoint,F5,Demigod L4 Low,B
+MV-ADV-CHW-006-06,Swooping Retreat,Equipoise Coilend,F2,Demigod L4 Low,B
+MV-ADV-CHW-006-07,Wing Beat Spin,Rivetplating,F4,Demigod L4 Low,B
+MV-ADV-CHW-006-08,Azure Chain Dive Strike,Eyelet Torment,F3,Demigod L4 Low,B
+MV-ADV-CHW-006-09,Hawk Claw Tether,Gyverivet,F5,Demigod L4 Low,B
+MV-ADV-CHW-006-10,Rising Current Step,Granite Slither,F2,Demigod L4 Low,B
+MV-ADV-CHW-006-11,Falling Hawk Chain,Sanguine Linkpin,F2,Demigod L4 Low,B
+MV-ADV-CHW-006-12,Stooping Shadow Net,Rattletorment,F4,Demigod L4 Low,B
+MV-ADV-CHW-007-01,Low Basin Stance,Steadfast Chainhead,F1,Demigod L9 High,B
+MV-ADV-CHW-007-02,Twin Track Filling,Vital Linkpin,F2,Demigod L9 High,B
+MV-ADV-CHW-007-03,Basin Pour Strike,Eyeletassault,F4,Demigod L9 High,B
+MV-ADV-CHW-007-04,River Mouth Step,Eyelet Spurt,F3,Demigod L9 High,B
+MV-ADV-CHW-007-05,Overflowing Basin Throw,Skinning Rasp,F1,Demigod L9 High,B
+MV-ADV-CHW-007-06,Twin Track Ring Screen,Thornrivet,F5,Demigod L9 High,B
+MV-ADV-CHW-007-07,Basin Burst Release,Silt Hingebar,F2,Demigod L9 High,B
+MV-ADV-CHW-007-08,River Pressing Hold,Ponderous Segment,F2,Demigod L9 High,B
+MV-ADV-CHW-008-01,Chain Bearing Taking Stance,Aegis Joint,F2,Champion L3 Low,B
+MV-ADV-CHW-008-02,Sworn Line Cast,Rasptorment,F4,Champion L3 Low,B
+MV-ADV-CHW-008-03,Crosswind Lean Step,Racing Rivet,F1,Champion L3 Low,B
+MV-ADV-CHW-008-04,Wind Ear Listening,Invigorating Spineplate,F1,Champion L3 Low,B
+MV-ADV-CHW-008-05,Open Ground Retreat,Unyielding Tailblade,F1,Champion L3 Low,B
+MV-ADV-CHW-008-06,Held Bearing Chain Throw,Sanguine Rattle,F2,Champion L3 Low,B
+MV-ADV-CHW-008-07,Oath Tethered Wrap,Hoarfrost Joint,F2,Champion L3 Low,B
+MV-ADV-CHW-008-08,Windward Spin Guard,Rivethauberk,F4,Champion L3 Low,B
+MV-ADV-CHW-008-09,Bearing Breaking Cast,Harpooning Slither,F1,Champion L3 Low,B
+MV-ADV-CHW-008-10,Wind Dragging Fall,Quelling Shade Whiplink,F6a,Champion L3 Low,B
+MV-ADV-CHW-009-01,Plateau Edge Chain Stance,Coilend Cloak,F3,Ruler L1 Mid,B
+MV-ADV-CHW-009-02,Gust Carried Cast,Janglethrash,F4,Ruler L1 Mid,B
+MV-ADV-CHW-009-03,Chain Rim Walk Step,Torrent Writhe,F2,Ruler L1 Mid,B
+MV-ADV-CHW-009-04,Wind Pull Haul,Mayhem Joint,F2,Ruler L1 Mid,B
+MV-ADV-CHW-009-05,Updraft Flick,Scorching Rasp,F1,Ruler L1 Mid,B
+MV-ADV-CHW-009-06,Gale Bound Wrap,Hamstringing Eyelet,F1,Ruler L1 Mid,B
+MV-ADV-CHW-009-07,Leeward Guard Turn,Unbroken Linkpin,F1,Ruler L1 Mid,B
+MV-ADV-CHW-009-08,Plateau Gale Sweep,Severing Jangle,F1,Ruler L1 Mid,B
+MV-ADV-CHW-009-09,Rim Dragging Fall,Stifling Slither,F1,Ruler L1 Mid,B
+MV-ADV-CHW-010-01,Open Field Oath Stance,Charter Chainhead,F2,Demigod L8 High,B
+MV-ADV-CHW-010-02,Unwalled Cast,Sanguine Segment,F2,Demigod L8 High,B
+MV-ADV-CHW-010-03,Wind Sworn Pacing,Raspspurt,F4,Demigod L8 High,B
+MV-ADV-CHW-010-04,Bearing Recall Pull,Rumblerattle,F5,Demigod L8 High,B
+MV-ADV-CHW-010-05,Gale Reading,Jointremedy,F4,Demigod L8 High,B
+MV-ADV-CHW-010-06,Open Guard Sway,Resilient Tailblade,F1,Demigod L8 High,B
+MV-ADV-CHW-010-07,Sworn Line Strike,Tempered Spineplate,F2,Demigod L8 High,B
+MV-ADV-CHW-010-08,Oathbound Coil Hold,Thornjoint,F5,Demigod L8 High,B
+MV-ADV-CHW-010-09,Wind Lifted Chain Guard,Linkpin Fastness,F3,Demigod L8 High,B
+MV-ADV-CHW-010-10,Chain Unbound Storm,Drubbing Rivet,F1,Demigod L8 High,B
+MV-ADV-CHW-010-11,Sworn Wind Anchor,Intenteyelet,F5,Demigod L8 High,B

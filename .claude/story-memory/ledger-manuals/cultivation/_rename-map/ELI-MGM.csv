@@ -1,0 +1,9 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ELI-MGM-002-10,Molten River,Molten Torrent,CAST,Demigod L1 Low,Elite
+CMV-ELI-MGM-007-01,Wall Walker,Stone Climb,INSTANT,T1 Unawakened,Basic
+CMV-ELI-MGM-007-05,Pressing Wall,Pressing Slab,CHANNELED,Senior L1 Low,Intermediate
+CMV-ELI-MGM-007-06,Breached Wall,Burst Slab,INSTANT,Senior L1 Low,Intermediate
+CMV-ELI-MGM-007-08,Bastion Crush,Slab Fall,INSTANT,Champion L1 Low,Advanced
+CMV-ELI-MGM-007-10,Basalt Rampart,Basalt Mantle,CHANNELED,Demigod L1 Low,Elite
+CMV-ELI-MGM-001-04,Swelling Ground,Swelling Heat,INSTANT,,Intermediate
+CMV-ELI-MGM-002-01,Riverbed Step,Channel Step,INSTANT,,Basic

@@ -1,0 +1,79 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-PST-001-01,Hawk Eye Pistol Rest,Vengeful Quickdraw,F1,Demigod L2 Low,B
+MV-ELI-PST-001-02,Talon Grip Settle,Verity Muzzle,F2,Demigod L2 Low,B
+MV-ELI-PST-001-03,Wingbeat Draw,Wrathful Frizzen,F1,Demigod L2 Low,B
+MV-ELI-PST-001-04,Cliff Edge Barrel Guard,Equipoise Hammer,F2,Demigod L2 Low,B
+MV-ELI-PST-001-05,Hawk Hover Footwork,Lanyardring Vortex,F3,Demigod L2 Low,B
+MV-ELI-PST-001-06,Stoop Line Aim,Gust Thumbback,F2,Demigod L2 Low,B
+MV-ELI-PST-001-07,Rising Air Arm Float,Pistolvigil,F4,Demigod L2 Low,B
+MV-ELI-PST-001-08,Prey Circle Muzzle Orbit,Hammerdurance,F4,Demigod L2 Low,B
+MV-ELI-PST-001-09,Plummet Piercing Shot,Punishing Barrel,F1,Demigod L2 Low,B
+MV-ELI-PST-001-10,Talon Rake Opened Guard,Lotmuzzle,F5,Demigod L2 Low,B
+MV-ELI-PST-001-11,Hawk's Eye Seeking Ball,Berserk Nova Flashpan,F6a,Demigod L2 Low,B
+MV-ELI-PST-002-01,Ford Stone Footing,Meteoric Snapfire,F1,Demigod L4 Low,B
+MV-ELI-PST-002-02,Reed Bank Crouch Cover,Evergreen Cylinder,F1,Demigod L4 Low,B
+MV-ELI-PST-002-03,Ripple Reading Aim,Beneficent Triggerbar,F1,Demigod L4 Low,B
+MV-ELI-PST-002-04,Bank Edge Muzzle Rest,Rumble Foresight,F2,Demigod L4 Low,B
+MV-ELI-PST-002-05,Current Skimming Shot,Chimemuzzle,F5,Demigod L4 Low,B
+MV-ELI-PST-002-06,Undertow Pull Step,Gustreport,F5,Demigod L4 Low,B
+MV-ELI-PST-002-07,Spray Veil Powder Plume,Mayhemreport,F5,Demigod L4 Low,B
+MV-ELI-PST-002-08,Weir Held Barrage,Ponderous Pistolgrip,F2,Demigod L4 Low,B
+MV-ELI-PST-002-09,Whirlpool Shot Spiral,Slag Barrel,F2,Demigod L4 Low,B
+MV-ELI-PST-002-10,River Mouth Closing,Hourpistol,F5,Demigod L4 Low,B
+MV-ELI-PST-003-01,Dual Track Powder Measure,Rumble Report,F2,Demigod L1 Mid,B
+MV-ELI-PST-003-02,Pan Priming Beat Count,Rumble Triggerbar,F2,Demigod L1 Mid,B
+MV-ELI-PST-003-03,Track Parallel Sidestep,Barrelflash,F4,Demigod L1 Mid,B
+MV-ELI-PST-003-04,Powder Horn Guard Block,Equipoise Pistolgrip,F2,Demigod L1 Mid,B
+MV-ELI-PST-003-05,Dual Track Lung Pairing,Flashpan Insight,F3,Demigod L1 Mid,B
+MV-ELI-PST-003-06,Charge Weighed Qi Mix,Reporthavoc,F4,Demigod L1 Mid,B
+MV-ELI-PST-003-07,Track Merge Hammer Fall,Chime Pointblank,F2,Demigod L1 Mid,B
+MV-ELI-PST-003-08,Parallel Barrel Feint Pair,Mayhemhammer,F5,Demigod L1 Mid,B
+MV-ELI-PST-003-09,Powder Smoke Track Screen,Foresight Mettle,F3,Demigod L1 Mid,B
+MV-ELI-PST-003-10,Two Track Loaded Burst,Hipshot Havoc,F3,Demigod L1 Mid,B
+MV-ELI-PST-003-11,Powder Flash Echo Step,Ghosting Hammer,F1,Demigod L1 Mid,B
+MV-ELI-PST-003-12,Qi Powder Track Weave,Intent Report,F2,Demigod L1 Mid,B
+MV-ELI-PST-003-13,Doctrine of Two Tracks Closed,Glint Quickdraw,F2,Demigod L1 Mid,B
+MV-ELI-PST-004-01,Paired Hands Mirror Stand,Hammerglimmer,F4,Demigod L6 Low,B
+MV-ELI-PST-004-02,Left Hand Cover Draw,Glintpistol,F5,Demigod L6 Low,B
+MV-ELI-PST-004-03,Right Hand Anchor Shot,Unsparing Frizzen,F1,Demigod L6 Low,B
+MV-ELI-PST-004-04,Hand Over Hand Reload,Wrathful Thumbback,F1,Demigod L6 Low,B
+MV-ELI-PST-004-05,Cross Wrist Barrel Block,Gust Cylinder,F2,Demigod L6 Low,B
+MV-ELI-PST-004-06,Pair Alternate Fire Fan,Shademuzzle,F5,Demigod L6 Low,B
+MV-ELI-PST-004-07,Reflected Wing Feint,Harnessing Hipshot,F1,Demigod L6 Low,B
+MV-ELI-PST-004-08,Hands Meeting Single Report,Hellish Pointblank,F1,Demigod L6 Low,B
+MV-ELI-PST-004-09,Mirror Wings Settled Fire,Shadepistol,F5,Demigod L6 Low,B
+MV-ELI-PST-005-01,Powder Qi Even Breath,Chime Pistolgrip,F2,Demigod L3 Mid,B
+MV-ELI-PST-005-02,Long Hall Stride Draw,Torrential Lanyardring,F1,Demigod L3 Mid,B
+MV-ELI-PST-005-03,Sleeve Slide Bow Draw,Gust Hipshot,F2,Demigod L3 Mid,B
+MV-ELI-PST-005-04,Bowed Head Muzzle Rise,Nova Quickdraw,F2,Demigod L3 Mid,B
+MV-ELI-PST-005-05,Courtesy Parry Fold,Torrent Hammer,F2,Demigod L3 Mid,B
+MV-ELI-PST-005-06,Qi Dusted Powder Grain,Eviscerating Lanyardring,F1,Demigod L3 Mid,B
+MV-ELI-PST-005-07,Hammer Fall Qi Return,Flashpan Havoc,F3,Demigod L3 Mid,B
+MV-ELI-PST-005-08,Incense Smoke Veil,Mayhem Cylinder,F2,Demigod L3 Mid,B
+MV-ELI-PST-005-09,Muffled Report Hush,Charter Triggerbar,F2,Demigod L3 Mid,B
+MV-ELI-PST-005-10,Two Lock Strike Pair,Tempered Muzzle,F2,Demigod L3 Mid,B
+MV-ELI-PST-005-11,Powder Burst Dispersal Wave,Granite Frizzen,F2,Demigod L3 Mid,B
+MV-ELI-PST-005-12,Powder and Qi Single Course,Hour Foresight,F2,Demigod L3 Mid,B
+MV-ELI-PST-006-01,Dive Posture Crouch,Muzzleflash,F4,Demigod L8 Peak,B
+MV-ELI-PST-006-02,Tail Feather Balance Arm,Verity Barrel,F2,Demigod L8 Peak,B
+MV-ELI-PST-006-03,Dive Line Draw,Merciless Pointblank,F1,Demigod L8 Peak,B
+MV-ELI-PST-006-04,Downdraft Guard Cover,Iron Barrel,F2,Demigod L8 Peak,B
+MV-ELI-PST-006-05,Plunge Closing Step,Silt Snapfire,F2,Demigod L8 Peak,B
+MV-ELI-PST-006-06,Pull Out Skim Shot,Reportruin,F4,Demigod L8 Peak,B
+MV-ELI-PST-006-07,Dive Cry Muzzle Shock,Immobilizing Frizzen,F1,Demigod L8 Peak,B
+MV-ELI-PST-006-08,Falling Pair of Shots,Hammerruin,F4,Demigod L8 Peak,B
+MV-ELI-PST-006-09,Swoop Past the Guard,Tempered Thumbback,F2,Demigod L8 Peak,B
+MV-ELI-PST-006-10,Dive Beyond the Guard Line,Pointblank Glimmer,F3,Demigod L8 Peak,B
+MV-ELI-PST-007-01,Silent Hammer Lowering,Booming Muzzle,F1,Void God L1 Low,B
+MV-ELI-PST-007-02,Basin Still Air Breath,Remnant Muzzle,F2,Void God L1 Low,B
+MV-ELI-PST-007-03,Padded Boot Basin Walk,Granite Snapfire,F2,Void God L1 Low,B
+MV-ELI-PST-007-04,Cloth Wrapped Barrel Guard,Granite Foresight,F2,Void God L1 Low,B
+MV-ELI-PST-007-05,Silence Held Draw,Glintbarrel,F5,Void God L1 Low,B
+MV-ELI-PST-007-06,Shot Echo Basin Bounce,Murkhammer,F5,Void God L1 Low,B
+MV-ELI-PST-007-07,Stillness Before Report,Chime Hipshot,F2,Void God L1 Low,B
+MV-ELI-PST-007-08,Muffled Pan Spark,Nova Snapfire,F2,Void God L1 Low,B
+MV-ELI-PST-007-09,Silence Broken Once,Devastating Hammer,F1,Void God L1 Low,B
+MV-ELI-PST-007-10,Quiet Ring of Shots,Granite Pistolgrip,F2,Void God L1 Low,B
+MV-ELI-PST-007-11,Silence Closing the Basin,Mastering Cylinder Mettle,F6b,Void God L1 Low,B
+MV-ELI-PST-001-11,Berserk Nova Flashpan,Berserk Flashpan,F6a,Demigod L2 Low,B
+MV-ELI-PST-007-11,Mastering Cylinder Mettle,Mastering Cylinder,F6b,Void God L1 Low,B

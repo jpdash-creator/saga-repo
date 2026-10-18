@@ -1,0 +1,177 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-DAO-001-01,Hawk Eye Marking Chop,Tempered Tipbend,F2,Demigod L1 Low,B
+MV-ELI-DAO-001-02,Sighted Guard Settle,Chopbelly Spine,F3,Demigod L1 Low,B
+MV-ELI-DAO-001-03,Keen Gaze Step,Unseen Dragcut,F1,Demigod L1 Low,B
+MV-ELI-DAO-001-04,Sighted Draw Slice,Gust Knucklebar,F2,Demigod L1 Low,B
+MV-ELI-DAO-001-05,Gap Spotting Hew,Granite Spineback,F2,Demigod L1 Low,B
+MV-ELI-DAO-001-06,Mark Breaking Beat,Brushnerve,F4,Demigod L1 Low,B
+MV-ELI-DAO-001-07,Hawk Eye Pursuit Lunge,Facet Dishguard,F2,Demigod L1 Low,B
+MV-ELI-DAO-001-08,Weak Point Cleave,Chophavoc,F4,Demigod L1 Low,B
+MV-ELI-DAO-001-09,Sighted Counter Sequence,Doctrine Swathe,F2,Demigod L1 Low,B
+MV-ELI-DAO-001-10,Hawk Eye Sealing Cut,Overpowering Scrape,F1,Demigod L1 Low,B
+MV-ELI-DAO-002-01,Twin Court Opening Chop,Tempered Flatside,F2,Demigod L2 Low,B
+MV-ELI-DAO-002-02,Court Guard Pair,Facet Bellyblade,F2,Demigod L2 Low,B
+MV-ELI-DAO-002-03,Court Pace Exchange,Meteoric Brush,F1,Demigod L2 Low,B
+MV-ELI-DAO-002-04,Court Draw Slice,Merciless Slice,F1,Demigod L2 Low,B
+MV-ELI-DAO-002-05,Court Wrist Parry,Unbudging Ringpommel,F1,Demigod L2 Low,B
+MV-ELI-DAO-002-06,Court Answer Hew,Swathehavoc,F4,Demigod L2 Low,B
+MV-ELI-DAO-002-07,Court Pressure Lean,Intent Whisk,F2,Demigod L2 Low,B
+MV-ELI-DAO-002-08,Court Edge Bind,Harnessing Knucklebar,F1,Demigod L2 Low,B
+MV-ELI-DAO-002-09,Court Break Beat,Toxin Rearedge,F2,Demigod L2 Low,B
+MV-ELI-DAO-002-10,Twin Court Cleave,Sanguine Ringpommel,F2,Demigod L2 Low,B
+MV-ELI-DAO-002-11,Court Exchange Sequence,Intent Dragcut,F2,Demigod L2 Low,B
+MV-ELI-DAO-002-12,Twin Court Reversal,Facet Rearedge,F2,Demigod L2 Low,B
+MV-ELI-DAO-003-01,Basin Floor Chop,Blazewhisk,F5,Demigod L3 Low,B
+MV-ELI-DAO-003-02,Silt Guard Settle,Unassailable Spineback,F1,Demigod L3 Low,B
+MV-ELI-DAO-003-03,Deepwater Drift Step,Might Curvespine,F2,Demigod L3 Low,B
+MV-ELI-DAO-003-04,Undertow Hew,Blaze Dishguard,F2,Demigod L3 Low,B
+MV-ELI-DAO-003-05,Current Bind Hook,Strangling Slice,F1,Demigod L3 Low,B
+MV-ELI-DAO-003-06,Basin Press,Intent Bellyblade,F2,Demigod L3 Low,B
+MV-ELI-DAO-003-07,Rising Water Sweep,Shattering Curvespine,F1,Demigod L3 Low,B
+MV-ELI-DAO-003-08,Basin Spill Cleave,Ironchop,F5,Demigod L3 Low,B
+MV-ELI-DAO-003-09,Deep Basin Flash Cut,Rumbleswathe,F5,Demigod L3 Low,B
+MV-ELI-DAO-004-01,Azure Track Chop,Swathescourge,F4,Demigod L5 Low,B
+MV-ELI-DAO-004-02,Azure Guard Weave,Hoarfrost Tipbend,F2,Demigod L5 Low,B
+MV-ELI-DAO-004-03,Dual Pace Glide,Unseen Brush,F1,Demigod L5 Low,B
+MV-ELI-DAO-004-04,Azure Draw Slice,Blazechop,F5,Demigod L5 Low,B
+MV-ELI-DAO-004-05,Track Wrist Parry,Equipoise Curvespine,F2,Demigod L5 Low,B
+MV-ELI-DAO-004-06,Dual Track Hew,Pitiless Scrape,F1,Demigod L5 Low,B
+MV-ELI-DAO-004-07,Azure Track Snare,Mastering Bellyblade,F1,Demigod L5 Low,B
+MV-ELI-DAO-004-08,Track Switch Beat,Immobilizing Flatside,F1,Demigod L5 Low,B
+MV-ELI-DAO-004-09,Azure Dual Cleave,Might Chopbelly,F2,Demigod L5 Low,B
+MV-ELI-DAO-004-10,Track Weave Sequence,Chopwrath,F4,Demigod L5 Low,B
+MV-ELI-DAO-004-11,Azure Dual Nullifying Parry,Hollowbevel,F5,Demigod L5 Low,B
+MV-ELI-DAO-005-01,Paired Hawk Dive Chop,Tempered Chopbelly,F2,Void God L1 Low,B
+MV-ELI-DAO-005-02,Hawk Pair Guard Fold,Indomitable Rearedge,F1,Void God L1 Low,B
+MV-ELI-DAO-005-03,Hawk Pair Glide,Might Scrape,F2,Void God L1 Low,B
+MV-ELI-DAO-005-04,Dive Draw Slice,Granite Slice,F2,Void God L1 Low,B
+MV-ELI-DAO-005-05,Twin Hawk Beat Parry,Equipoise Knucklebar,F2,Void God L1 Low,B
+MV-ELI-DAO-005-06,Pair Stoop Hew,Blaze Dragcut,F2,Void God L1 Low,B
+MV-ELI-DAO-005-07,Hawk Pair Snare,Dishspine,F4,Void God L1 Low,B
+MV-ELI-DAO-005-08,Pair Hover Press,Hour Spineback,F2,Void God L1 Low,B
+MV-ELI-DAO-005-09,Pair Talon Beat,Swathe Valor,F3,Void God L1 Low,B
+MV-ELI-DAO-005-10,Pair Descent Cleave,Ferocious Brush,F1,Void God L1 Low,B
+MV-ELI-DAO-005-11,Twin Hawk Dive Sweep,Lacerating Tipbend,F1,Void God L1 Low,B
+MV-ELI-DAO-005-12,Descent Recovery Sequence,Doctrine Whisk,F2,Void God L1 Low,B
+MV-ELI-DAO-005-13,Paired Hawk Rending Descent,Merciless Hollow Dishguard,F6a,Void God L1 Low,B
+MV-ELI-DAO-006-01,Riverbed Chop,Corroding Flatside,F1,Void God L4 Low,B
+MV-ELI-DAO-006-02,Reed Bank Guard,Iron Dishguard,F2,Void God L4 Low,B
+MV-ELI-DAO-006-03,Stream Wading Step,Silt Ringpommel,F2,Void God L4 Low,B
+MV-ELI-DAO-006-04,Meander Draw Slice,Gust Ringpommel,F2,Void God L4 Low,B
+MV-ELI-DAO-006-05,Stream Hew,Grievous Bellyblade,F1,Void God L4 Low,B
+MV-ELI-DAO-006-06,Eddy Snare,Fastening Whisk,F2,Void God L4 Low,B
+MV-ELI-DAO-006-07,Rapids Beat,Dishvalor,F4,Void God L4 Low,B
+MV-ELI-DAO-006-08,Torrent Cleave,Blazeslice,F5,Void God L4 Low,B
+MV-ELI-DAO-006-09,Weir Counter,Curvespine Nerve,F3,Void God L4 Low,B
+MV-ELI-DAO-006-10,Flood Sealing Cut,Strangling Scrape,F1,Void God L4 Low,B
+MV-ELI-DAO-007-01,Twin Turn Chop,Lacerating Rearedge,F1,Void God L7 Low,B
+MV-ELI-DAO-007-02,Turnabout Guard,Chopbelly Nerve,F3,Void God L7 Low,B
+MV-ELI-DAO-007-03,Reversal Step Pair,Silt Whisk,F2,Void God L7 Low,B
+MV-ELI-DAO-007-04,Turned Draw Slice,Tempered Swathe,F2,Void God L7 Low,B
+MV-ELI-DAO-007-05,Turn Wrist Parry,Murk Knucklebar,F2,Void God L7 Low,B
+MV-ELI-DAO-007-06,Reversing Hew,Brushhavoc,F4,Void God L7 Low,B
+MV-ELI-DAO-007-07,Turnover Snare,Gyvebrush,F5,Void God L7 Low,B
+MV-ELI-DAO-007-08,Reversal Press,Hourswathe,F5,Void God L7 Low,B
+MV-ELI-DAO-007-09,Twin Reversal Beat,Toxin Flatside,F2,Void God L7 Low,B
+MV-ELI-DAO-007-10,Reversal Cleave,Spineback Wrath,F3,Void God L7 Low,B
+MV-ELI-DAO-007-11,Turnabout Sequence,Intentbrush,F5,Void God L7 Low,B
+MV-ELI-DAO-007-12,Twin Reversal Flash,Meteoric Nova Brush,F6a,Void God L7 Low,B
+MV-ELI-DAO-008-01,Deep Basin Settle Guard,Thorn Tipbend,F2,Monarch L3 Low,B
+MV-ELI-DAO-008-02,Basin Keeping Step,Swatheflash,F4,Monarch L3 Low,B
+MV-ELI-DAO-008-03,Basin Spine Chop,Slicescourge,F4,Monarch L3 Low,B
+MV-ELI-DAO-008-04,Basin Depth Hew,Slice Reckoning,F3,Monarch L3 Low,B
+MV-ELI-DAO-008-05,Basin Hold Parry,Evergreen Knucklebar,F1,Monarch L3 Low,B
+MV-ELI-DAO-008-06,Basin Deep Press,Unsparing Dishguard,F1,Monarch L3 Low,B
+MV-ELI-DAO-008-07,Basin Brim Cleave,Rumblescrape,F5,Monarch L3 Low,B
+MV-ELI-DAO-008-08,Deep Guard Counter,Unrelenting Bellyblade,F1,Monarch L3 Low,B
+MV-ELI-DAO-008-09,Deep Basin Nullifying Guard,Hollow Spineback,F2,Demigod L1 Low,B
+MV-ELI-DAO-009-01,Oath Bearing Chop,Hellish Flatside,F1,Demigod L1 Mid,B
+MV-ELI-DAO-009-02,Bearing Oath Guard,Hoarfrost Ringpommel,F2,Demigod L1 Mid,B
+MV-ELI-DAO-009-03,Oath Pace Along,Dishblink,F4,Demigod L1 Mid,B
+MV-ELI-DAO-009-04,Oath Draw Slice,Pitiless Tipbend,F1,Demigod L1 Mid,B
+MV-ELI-DAO-009-05,Oath Wrist Parry,Murk Chopbelly,F2,Demigod L1 Mid,B
+MV-ELI-DAO-009-06,Bearing Oath Hew,Brushwrath,F4,Demigod L1 Mid,B
+MV-ELI-DAO-009-07,Oath Snare,Webbing Swathe,F1,Demigod L1 Mid,B
+MV-ELI-DAO-009-08,Oath Break Beat,Rumble Curvespine,F2,Demigod L1 Mid,B
+MV-ELI-DAO-009-09,Oath Bearing Cleave,Sliceruin,F4,Demigod L1 Mid,B
+MV-ELI-DAO-009-10,Oath Held Sequence,Hour Scrape,F2,Demigod L1 Mid,B
+MV-ELI-DAO-009-11,Oath Bearing Sealing Cut,Mastering Fastening Slice,F6a,Demigod L1 Mid,B
+MV-ELI-DAO-010-01,Plateau Gale Chop,Titanic Brush,F1,Demigod L2 Mid,B
+MV-ELI-DAO-010-02,Gale Break Guard,Bevelmettle,F4,Demigod L2 Mid,B
+MV-ELI-DAO-010-03,Plateau Gale Step,Rearedge Rocketry,F3,Demigod L2 Mid,B
+MV-ELI-DAO-010-04,Gale Plateau Hew,Eviscerating Whisk,F1,Demigod L2 Mid,B
+MV-ELI-DAO-010-05,Gale Hook Snare,Fastening Brush,F2,Demigod L2 Mid,B
+MV-ELI-DAO-010-06,Gale Rap Beat,Toxin Swathe,F2,Demigod L2 Mid,B
+MV-ELI-DAO-010-07,Gale Rim Sweep,Downpour Slice,F2,Demigod L2 Mid,B
+MV-ELI-DAO-010-08,Plateau Gale Cleave,Rumble Dishguard,F2,Demigod L2 Mid,B
+MV-ELI-DAO-010-09,Plateau Gale Flash Cut,Ghosting Swathe,F1,Demigod L2 Mid,B
+MV-ELI-DAO-011-01,Sworn Line Chop,Brutalizing Spineback,F1,Demigod L4 Low,B
+MV-ELI-DAO-011-02,Line Guard Hold,Irondish,F5,Demigod L4 Low,B
+MV-ELI-DAO-011-03,Sworn Line Pacing,Might Knucklebar,F2,Demigod L4 Low,B
+MV-ELI-DAO-011-04,Line Draw Slice,Granite Flatside,F2,Demigod L4 Low,B
+MV-ELI-DAO-011-05,Line Wrist Parry,Equipoise Tipbend,F2,Demigod L4 Low,B
+MV-ELI-DAO-011-06,Sworn Line Hew,Scrapescourge,F4,Demigod L4 Low,B
+MV-ELI-DAO-011-07,Line Snare,Fastening Scrape,F2,Demigod L4 Low,B
+MV-ELI-DAO-011-08,Line Press,Ponderous Ringpommel,F2,Demigod L4 Low,B
+MV-ELI-DAO-011-09,Line Break Beat,Hogtying Whisk,F1,Demigod L4 Low,B
+MV-ELI-DAO-011-10,Sworn Line Cleave,Rearedge Havoc,F3,Demigod L4 Low,B
+MV-ELI-DAO-011-11,Line Held Sequence,Curvespine Scourge,F3,Demigod L4 Low,B
+MV-ELI-DAO-011-12,Wind-Sworn Line Nullifier,Unbowed Bellyblade Spine,F6b,Demigod L4 Low,B
+MV-ELI-DAO-012-01,Edge Bearing Chop,Iron Bellyblade,F2,Demigod L6 Low,B
+MV-ELI-DAO-012-02,Cliff Edge Guard,Invincible Ringpommel,F1,Demigod L6 Low,B
+MV-ELI-DAO-012-03,Brink Bearing Step,Blinding Knucklebar,F1,Demigod L6 Low,B
+MV-ELI-DAO-012-04,Edge Bearing Slice,Bevelscourge,F4,Demigod L6 Low,B
+MV-ELI-DAO-012-05,Cliff Edge Hew,Ruinous Brush,F1,Demigod L6 Low,B
+MV-ELI-DAO-012-06,Bearing Snare,Bevelvalor,F4,Demigod L6 Low,B
+MV-ELI-DAO-012-07,Edge Bearing Beat,Mayhem Tipbend,F2,Demigod L6 Low,B
+MV-ELI-DAO-012-08,Cliff Fall Cleave,Brushruin,F4,Demigod L6 Low,B
+MV-ELI-DAO-012-09,Bearing Taken Counter,Equipoise Dishguard,F2,Demigod L6 Low,B
+MV-ELI-DAO-012-10,Cliff Edge Sealing Cut,Intent Chopbelly,F2,Demigod L6 Low,B
+MV-ELI-DAO-013-01,Bare Ground Chop,Rumble Spineback,F2,Void God L2 Low,B
+MV-ELI-DAO-013-02,Dustfall Guard,Facetdish,F5,Void God L2 Low,B
+MV-ELI-DAO-013-03,Steppe Run Step,Dragcut Glimmer,F3,Void God L2 Low,B
+MV-ELI-DAO-013-04,Wide Sky Slice,Mightdish,F5,Void God L2 Low,B
+MV-ELI-DAO-013-05,Cross Wind Parry,Torrent Rearedge,F2,Void God L2 Low,B
+MV-ELI-DAO-013-06,Steppe Wind Hew,Wrathful Dragcut,F1,Void God L2 Low,B
+MV-ELI-DAO-013-07,Steppe Hook Pull,Hoarfrost Scrape,F2,Void God L2 Low,B
+MV-ELI-DAO-013-08,Rolling Gust Press,Brushscourge,F4,Void God L2 Low,B
+MV-ELI-DAO-013-09,Dust Cloud Beat,Mayhem Swathe,F2,Void God L2 Low,B
+MV-ELI-DAO-013-10,Steppe Gale Cleave,Flatside Ruin,F3,Void God L2 Low,B
+MV-ELI-DAO-013-11,Whirlwind Ring Sweep,Daybreak Curvespine,F2,Void God L2 Low,B
+MV-ELI-DAO-013-12,Squall Front Sequence,Lotswathe,F5,Void God L2 Low,B
+MV-ELI-DAO-013-13,Gale Rending Cut,Hollow Whisk,F2,Void God L2 Low,B
+MV-ELI-DAO-014-01,Sworn Skyward Chop,Eviscerating Curvespine,F1,Void God L5 Low,B
+MV-ELI-DAO-014-02,Starlit Oath Guard,Charter Chopbelly,F2,Void God L5 Low,B
+MV-ELI-DAO-014-03,Night Watch Step,Flatside Slipstream,F3,Void God L5 Low,B
+MV-ELI-DAO-014-04,Oath Under Sky Slice,Booming Spineback,F1,Void God L5 Low,B
+MV-ELI-DAO-014-05,Watch Wrist Parry,Murk Tipbend,F2,Void God L5 Low,B
+MV-ELI-DAO-014-06,Sky Watch Hew,Scrapehavoc,F4,Void God L5 Low,B
+MV-ELI-DAO-014-07,Sworn Watch Snare,Numbing Rearedge,F1,Void God L5 Low,B
+MV-ELI-DAO-014-08,Oath Vigil Press,Unsparing Dragcut,F1,Void God L5 Low,B
+MV-ELI-DAO-014-09,Skyward Oath Cleave,Slicehavoc,F4,Void God L5 Low,B
+MV-ELI-DAO-014-10,Vigil Sequence,Hourbevel,F5,Void God L5 Low,B
+MV-ELI-DAO-014-11,Sky Oath Reflecting Cut,Indomitable Ringpommel,F1,Void God L5 Low,B
+MV-ELI-DAO-015-01,Rimturn Chop,Sanguine Bellyblade,F2,Void God L8 Low,B
+MV-ELI-DAO-015-02,Reverse Rim Guard,Dishdurance,F4,Void God L8 Low,B
+MV-ELI-DAO-015-03,Rimline Pivot Step,Brushflash,F4,Void God L8 Low,B
+MV-ELI-DAO-015-04,Rimturn Draw Slice,Blaze Chopbelly,F2,Void God L8 Low,B
+MV-ELI-DAO-015-05,Reverse Wind Parry,Torrent Dishguard,F2,Void God L8 Low,B
+MV-ELI-DAO-015-06,Rim Reversal Hew,Rampaging Slice,F1,Void God L8 Low,B
+MV-ELI-DAO-015-07,Reversal Hook Snare,Thornwhisk,F5,Void God L8 Low,B
+MV-ELI-DAO-015-08,Rimline Press,Hourbrush,F5,Void God L8 Low,B
+MV-ELI-DAO-015-09,Reverse Gale Beat,Hogtying Knucklebar,F1,Void God L8 Low,B
+MV-ELI-DAO-015-10,Rimturn Cleave,Sanguine Dragcut,F2,Void God L8 Low,B
+MV-ELI-DAO-015-11,Plateau Reversal Sequence,Lotchop,F5,Void God L8 Low,B
+MV-ELI-DAO-015-12,Plateau Reversal Flash,Ghosting Brush Slipstream,F6b,Void God L8 Low,B
+MV-ELI-DAO-016-01,Lone Bearing Chop,Scrapewrath,F4,Monarch L5 Low,B
+MV-ELI-DAO-016-02,Lone Guard Hold,Facet Knucklebar,F2,Monarch L5 Low,B
+MV-ELI-DAO-016-03,Lone Step Along,Gust Dragcut,F2,Monarch L5 Low,B
+MV-ELI-DAO-016-04,Lone Bearing Hew,Iron Tipbend,F2,Monarch L5 Low,B
+MV-ELI-DAO-016-05,Solitary Parry,Murk Curvespine,F2,Monarch L5 Low,B
+MV-ELI-DAO-016-06,Lone Press,Shade Scrape,F2,Monarch L5 Low,B
+MV-ELI-DAO-016-07,Lone Bearing Cleave,Slice Devastation,F3,Monarch L5 Low,B
+MV-ELI-DAO-016-08,Lone Oath Counter,Rearedge Mettle,F3,Monarch L5 Low,B
+MV-ELI-DAO-016-09,Lone Bearing Nullifying Guard,Beveldurance,F4,Demigod L1 Low,B
+MV-ELI-DAO-005-13,Merciless Hollow Dishguard,Merciless Dishguard,F6a,Void God L1 Low,B
+MV-ELI-DAO-008-09,Hollow Spineback,Ironclad Spineback,F2,Demigod L1 Low,B
+MV-ELI-DAO-013-13,Hollow Whisk,Crushing Whisk,F2,Void God L2 Low,B

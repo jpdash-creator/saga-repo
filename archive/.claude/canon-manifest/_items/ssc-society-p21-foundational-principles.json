@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-society-p21-foundational-principles",
+ "part": 21,
+ "area": 1,
+ "sequence_in_part": 1,
+ "title": "Foundational Principles",
+ "domain": "society",
+ "source_file": "Part_21_People_Society_Civilization_Law.md",
+ "start_line": 26,
+ "end_line": 76,
+ "line_count": 51,
+ "output_path": ".claude/skills/ssc-society-p21-foundational-principles/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-worlds-p13-foundational-principles-location-law",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Civilization spatial scope uses Part 13 location hierarchy"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-cosmological-architecture",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Civilization spatial scope uses Part 13 location hierarchy"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-village-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Civilization spatial scope uses Part 13 location hierarchy"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-town-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Civilization spatial scope uses Part 13 location hierarchy"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-city-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Civilization spatial scope uses Part 13 location hierarchy"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-capital-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Civilization spatial scope uses Part 13 location hierarchy"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-kingdom-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Civilization spatial scope uses Part 13 location hierarchy"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-empire-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Civilization spatial scope uses Part 13 location hierarchy"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-sacred-ground-governance",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Civilization spatial scope uses Part 13 location hierarchy"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-energy-formation-zone-governance",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Civilization spatial scope uses Part 13 location hierarchy"
+  }
+ ]
+}

@@ -1,0 +1,7 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-STM-005-08,Vow Shelter,Vow Canopy,CHANNELED,,Signature
+CMV-SIG-STM-008-05,Root Lock,Sworn Roots,INSTANT,,Signature
+CMV-SIG-STM-003-01,Basin Slap,Storm Slap,INSTANT,,Basic
+CMV-SIG-STM-003-08,Basin Renewal,Rain Renewal,CHANNELED,,Advanced
+CMV-SIG-STM-003-10,Basin Overrun,Storm Overrun,CAST,,Signature
+CMV-SIG-STM-004-09,Summit Strike,Crown Strike,INSTANT,,Advanced

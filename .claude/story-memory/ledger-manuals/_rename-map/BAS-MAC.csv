@@ -1,0 +1,68 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-MAC-001-01,Hilt Seat Draw,Low Wideback,F1,T1 Unawakened,A
+MV-BAS-MAC-001-02,Overhand Log Drop,Square Bluntspine,F1,T1 Unawakened,A
+MV-BAS-MAC-001-03,Spine Rap,Bushlid,F4,T1 Unawakened,A
+MV-BAS-MAC-001-04,Elbow Tuck Flat Guard,Weedstay,F4,T1 Unawakened,A
+MV-BAS-MAC-001-05,Short Slip Step,Sideways Machhilt,F1,T1 Unawakened,A
+MV-BAS-MAC-001-06,Shin Skim Cut,Sharp Brushcut,F1,T1 Unawakened,A
+MV-BAS-MAC-001-07,Flat Press Shove,Towing Cutback,F1,T1 Unawakened,A
+MV-BAS-MAC-002-01,Stalk Row Cut,Low Chopedge,F1,T1 Skin,A
+MV-BAS-MAC-002-02,Wrist Snap Return,Mow Dash,F3,T1 Skin,A
+MV-BAS-MAC-002-03,Low Stalk Bend Cut,Scrubdrop,F4,T1 Skin,A
+MV-BAS-MAC-002-04,Roll-Off Knuckle Guard,Solid Widetip,F1,T1 Skin,A
+MV-BAS-MAC-002-05,Tight Row Slide,Clearcut Skitter,F3,T1 Skin,A
+MV-BAS-MAC-002-06,Callus Hold Press,Heavytang Husk,F3,T1 Skin,A
+MV-BAS-MAC-003-01,Shoulder Arc Swing,Weedbump,F4,T1 Muscle,A
+MV-BAS-MAC-003-02,Forward Belly Drop,Short Thickbelly,F1,T1 Muscle,A
+MV-BAS-MAC-003-03,Diagonal Rise Recovery,Quick Brushedge,F1,T1 Muscle,A
+MV-BAS-MAC-003-04,Clipped Point Jab,Level Rivetgrip,F1,T1 Muscle,A
+MV-BAS-MAC-003-05,Brow Cover Spine Block,Resting Heavytang,F1,T1 Muscle,A
+MV-BAS-MAC-003-06,Hip Turn Slide Guard,Scrubstay,F4,T1 Muscle,A
+MV-BAS-MAC-003-07,Weight Shift Back Step,Quiet Lashdown,F1,T1 Muscle,A
+MV-BAS-MAC-003-08,Free Hand Spine Press,Mowhusk,F4,T1 Muscle,A
+MV-BAS-MAC-004-01,Open Path Sweep,Vinestrike,F4,T1 Tendon,A
+MV-BAS-MAC-004-02,Backhand Sweep Return,Firm Brushcut,F1,T1 Tendon,A
+MV-BAS-MAC-004-03,Hanging Brush Parting,Kept Widetip,F1,T1 Tendon,A
+MV-BAS-MAC-004-04,Cleared Ground Advance,Swaying Weightedge,F1,T1 Tendon,A
+MV-BAS-MAC-004-05,Spread Arm Lead Press,Hitching Hacksweep,F1,T1 Tendon,A
+MV-BAS-MAC-005-01,Rooted Hip Cut,Square Wideback,F1,T1 Bone,A
+MV-BAS-MAC-005-02,Lead Heel Pivot Slash,Weeddrop,F4,T1 Bone,A
+MV-BAS-MAC-005-03,Wide Base Thigh Guard,Scrublid,F4,T1 Bone,A
+MV-BAS-MAC-005-04,Stagger Slip,Mowtrot,F4,T1 Bone,A
+MV-BAS-MAC-005-05,Lunge Hand Drop,Square Hacksweep,F1,T1 Bone,A
+MV-BAS-MAC-005-06,Knee Bend Shoulder Duck,Holding Rivetgrip,F1,T1 Bone,A
+MV-BAS-MAC-005-07,Heel Hook Balance Break,Catching Clearcut,F1,T1 Bone,A
+MV-BAS-MAC-006-01,Trail Width Cut,Vineblow,F4,Senior L1 Low,A
+MV-BAS-MAC-006-02,Overhang Duck Cut,Flat Mow,F1,Senior L1 Low,A
+MV-BAS-MAC-006-03,Narrow Trail Upright Guard,Angled Thickbelly,F1,Senior L1 Low,A
+MV-BAS-MAC-006-04,Verge Cover Sidestep,Easing Brushedge,F1,Senior L1 Low,A
+MV-BAS-MAC-006-05,Trail Point Poke,Scrubblow,F4,Senior L1 Low,A
+MV-BAS-MAC-006-06,Loose Wrist Flick,Catching Lashdown,F1,Senior L1 Low,A
+MV-BAS-MAC-007-01,Left Hip Draw Cut,Plain Machhilt,F1,Senior L2 Low,A
+MV-BAS-MAC-007-02,Rising Knee Cut,Plain Cutback,F1,Senior L2 Low,A
+MV-BAS-MAC-007-03,Plain Overhead Brush Drop,Sudden Weightedge,F1,Senior L2 Low,A
+MV-BAS-MAC-007-04,Plain Cross Guard,Solid Bluntspine,F1,Senior L2 Low,A
+MV-BAS-MAC-007-05,Plain Retreat Step,Shifting Chopedge,F1,Senior L2 Low,A
+MV-BAS-MAC-008-01,Lop Wind-Up,Scrubstrike,F4,Senior L3 Low,A
+MV-BAS-MAC-008-02,Return Lop,Rivetgrip Drop,F3,Senior L3 Low,A
+MV-BAS-MAC-008-03,Short Low Lop,Vinebump,F4,Senior L3 Low,A
+MV-BAS-MAC-008-04,Elbow Joint Nip,Pulling Chopedge,F1,Senior L3 Low,A
+MV-BAS-MAC-008-05,Between-Lop Footfall,Shifting Widetip,F1,Senior L3 Low,A
+MV-BAS-MAC-008-06,Lop Cover Spine Block,Scrubcowl,F4,Senior L3 Low,A
+MV-BAS-MAC-008-07,Slip and Brush Away,Kept Wideback,F1,Senior L3 Low,A
+MV-BAS-MAC-008-08,Forearm Steady Breath,Even Machhilt,F1,Senior L3 Low,A
+MV-BAS-MAC-009-01,Belly Settle Cut,Sharp Heavytang,F1,Senior L5 Low,A
+MV-BAS-MAC-009-02,Forward Mass Jar,Hitching Mow,F1,Senior L5 Low,A
+MV-BAS-MAC-009-03,Front-Heavy Recovery Turn,Bushpause,F4,Senior L5 Low,A
+MV-BAS-MAC-009-04,Dense Blade Hold,Snug Bluntspine,F1,Senior L5 Low,A
+MV-BAS-MAC-009-05,Settled Heel Step,Brushcut Amble,F3,Senior L5 Low,A
+MV-BAS-MAC-009-06,Balance Point Reading,Bushgauge,F4,Senior L5 Low,A
+MV-BAS-MAC-010-01,Waist Level Cut,Short Cutback,F1,Senior L7 Low,A
+MV-BAS-MAC-010-02,Low Return Cut,Vinehit,F4,Senior L7 Low,A
+MV-BAS-MAC-010-03,Belt Line Thrust,Leaden Clearcut,F1,Senior L7 Low,A
+MV-BAS-MAC-010-04,Lowered Blade Guard,Vinehusk,F4,Senior L7 Low,A
+MV-BAS-MAC-010-05,Hip Slide Step,Nimble Lashdown,F1,Senior L7 Low,A
+MV-BAS-MAC-010-06,Waist Brace Press,Weedcowl,F4,Senior L7 Low,A
+MV-BAS-MAC-010-07,Level Gaze Hold,Gentle Thickbelly,F1,Senior L7 Low,A
+MV-BAS-MAC-007-01,Plain Machhilt,Stout Machhilt,F1,Senior L2 Low,A
+MV-BAS-MAC-007-02,Plain Cutback,Blunt Cutback,F1,Senior L2 Low,A

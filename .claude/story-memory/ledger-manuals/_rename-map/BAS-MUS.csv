@@ -1,0 +1,71 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-MUS-001-01,Lock-Side Shouldering Stance,Powder Pace,F3,Unawakened,A
+MV-BAS-MUS-001-02,Level Smoothbore Shot,Leaden Barrelband,F1,Unawakened,A
+MV-BAS-MUS-001-03,Iron Butt-Plate Shove,Firm Aim,F1,Unawakened,A
+MV-BAS-MUS-001-04,Barrel-Sweep Parry,Resting Stockbutt,F1,Unawakened,A
+MV-BAS-MUS-001-05,Kneeling Reload Retreat,Salvohop,F4,Unawakened,A
+MV-BAS-MUS-002-01,Cartridge Tear and Prime,Gentle Ramrod,F1,Skin,A
+MV-BAS-MUS-002-02,Horn Measure by Thumb Weight,Pancount,F4,Skin,A
+MV-BAS-MUS-002-03,Ramrod Seating Stroke,Steady Bayonetlug,F1,Skin,A
+MV-BAS-MUS-002-04,Walking Load Stride,Serpent Dodge,F3,Skin,A
+MV-BAS-MUS-002-05,Prone Load Roll,Quiet Smoke,F1,Skin,A
+MV-BAS-MUS-002-06,Loaded Piece Snap Shot,Salvodrop,F4,Skin,A
+MV-BAS-MUS-003-01,Heel-Anchored Firing Stance,Sideways Load,F1,Muscle,A
+MV-BAS-MUS-003-02,Cheek-Weld Sight Alignment,Touchpan Note,F3,Muscle,A
+MV-BAS-MUS-003-03,Three-Beat Slow Squeeze,Sudden Lockplate,F1,Muscle,A
+MV-BAS-MUS-003-04,Shoulder Roll Into the Kick,Even Wheellock,F1,Muscle,A
+MV-BAS-MUS-003-05,Fork-Rest Steady Shot,Firm Prime,F1,Muscle,A
+MV-BAS-MUS-003-06,Left-Elbow Kneeling Shot,Narrow Pan,F1,Muscle,A
+MV-BAS-MUS-003-07,Hip Carry to Shoulder Swing,Light Wheellock,F1,Muscle,A
+MV-BAS-MUS-004-01,Socket Fixing Twist,Fuzenote,F4,Tendon,A
+MV-BAS-MUS-004-02,Long Lunge Bayonet Thrust,Gnawing Lockplate,F1,Tendon,A
+MV-BAS-MUS-004-03,Under-Arm Short Jab,Gnawing Smoke,F1,Tendon,A
+MV-BAS-MUS-004-04,Inside Barrel Beat,Settled Stockbutt,F1,Tendon,A
+MV-BAS-MUS-004-05,Outside Sweep and Step Off,Ramrodstay,F4,Tendon,A
+MV-BAS-MUS-004-06,Rising Butt Upswing,Sharp Flintcock,F1,Tendon,A
+MV-BAS-MUS-004-07,Crossed-Musket Chest Guard,Panwedge,F4,Tendon,A
+MV-BAS-MUS-004-08,Three-Pace Point-Held Retreat,Quiet Bayonetlug,F1,Tendon,A
+MV-BAS-MUS-005-01,Sling-Trail March Stride,Stepping Flintcock,F1,Bone,A
+MV-BAS-MUS-005-02,Touchhole Pricker Clearing,Smooth Barrelband,F1,Bone,A
+MV-BAS-MUS-005-03,Pan-Cover Palm Guard,Kept Pan,F1,Bone,A
+MV-BAS-MUS-005-04,Fouling Scrape Between Shots,Ramrodreview,F4,Bone,A
+MV-BAS-MUS-005-05,Lock-and-Flint Touch Check,Fuzegauge,F4,Bone,A
+MV-BAS-MUS-006-01,Qi-Thread Priming Flick,Kind Touchpan,F1,Senior,A
+MV-BAS-MUS-006-02,Steadied Level Shot,Narrow Salvo,F1,Senior,A
+MV-BAS-MUS-006-03,Warmed-Hand Ramrod Stroke,Tending Barrelband,F1,Senior,A
+MV-BAS-MUS-006-04,Lock-Side Reload Sidestep,Skipping Ramrod,F1,Senior,A
+MV-BAS-MUS-006-05,Qi-Set Butt Strike,Smokehit,F4,Senior,A
+MV-BAS-MUS-006-06,Muzzle-Flick Parry,Solid Pan,F1,Senior,A
+MV-BAS-MUS-007-01,Rank Dressing Shuffle,Aimpace,F4,Senior,A
+MV-BAS-MUS-007-02,Drum-Ordered Volley Release,Leaden Salvo,F1,Senior,A
+MV-BAS-MUS-007-03,Rear-Rank Reload Pass,Gentle Touchpan,F1,Senior,A
+MV-BAS-MUS-007-04,Front-Rank Kneeling Volley,Low Aim,F1,Senior,A
+MV-BAS-MUS-007-05,Closed-Ranks Shoulder Lock,Ramrodhusk,F4,Senior,A
+MV-BAS-MUS-007-06,Drum-Count Breath Cadence,Fuzecount,F4,Senior,A
+MV-BAS-MUS-007-07,Fixed-Point Line Hold,Snug Serpent,F1,Senior,A
+MV-BAS-MUS-008-01,Half-Breath Pause Sighting,Even Bayonetlug,F1,Senior,A
+MV-BAS-MUS-008-02,Front-Blade Lock On,Wheellock Gauge,F3,Senior,A
+MV-BAS-MUS-008-03,Raised-Blade Long Shot,Stiff Load,F1,Senior,A
+MV-BAS-MUS-008-04,Lead-the-Walker Shot,Fuzeblow,F4,Senior,A
+MV-BAS-MUS-008-05,Elbow-to-Rib Qi Lock,Stockbutt Count,F3,Senior,A
+MV-BAS-MUS-008-06,Empty-Pan Trigger Rehearsal,Deep Lockplate,F1,Senior,A
+MV-BAS-MUS-008-07,Held-Breath Final Squeeze,Quick Ramrod,F1,Senior,A
+MV-BAS-MUS-008-08,Hip-Rise Close Shot,Wide Aim,F1,Senior,A
+MV-BAS-MUS-009-01,Four-Count Breath Cycle,Flintcock Count,F3,Senior,A
+MV-BAS-MUS-009-02,Exhale-Release Shot,Primedash,F4,Senior,A
+MV-BAS-MUS-009-03,Barrel Settle on the Pause,Deep Flintcock,F1,Senior,A
+MV-BAS-MUS-009-04,Cold-Lung Reload,Ramrodnote,F4,Senior,A
+MV-BAS-MUS-009-05,Between-Beats Musket Shot,Pandrop,F4,Senior,A
+MV-BAS-MUS-009-06,Short-Wind Back Step,Powderhop,F4,Senior,A
+MV-BAS-MUS-010-01,Sentry Challenge Aim,Locking Powder,F1,Senior,A
+MV-BAS-MUS-010-02,Picket Post Kneel,Folded Pan,F1,Senior,A
+MV-BAS-MUS-010-03,Escort Flank Walk,Stepping Serpent,F1,Senior,A
+MV-BAS-MUS-010-04,Crossed Bayonet Halt,Loadlid,F4,Senior,A
+MV-BAS-MUS-010-05,Warning Shot Over Heads,Powder Blow,F3,Senior,A
+MV-BAS-MUS-010-06,Night-Watch Pan Cover,Hooding Bayonetlug,F1,Senior,A
+MV-BAS-MUS-010-07,Stock Rap to the Wrist,Fuzedrop,F4,Senior,A
+MV-BAS-MUS-011-01,Smoke-Blind Counting Load,Ramrod Count,F3,Senior,A
+MV-BAS-MUS-011-02,Ringing-Ear Hand Signal,Serpent Gauge,F3,Senior,A
+MV-BAS-MUS-011-03,Through-the-Cloud Shot,Salvostrike,F4,Senior,A
+MV-BAS-MUS-011-04,Smoke-Screened Back Step,Quiet Load,F1,Senior,A
+MV-BAS-MUS-011-05,Powder-Cough Breath Hold,Pangauge,F4,Senior,A

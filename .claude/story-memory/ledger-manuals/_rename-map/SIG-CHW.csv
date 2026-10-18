@@ -1,0 +1,138 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-CHW-001-01,Court Pair Ready Stance,Hornbeam Chainhead,F2,Warrior L1 Low,B
+MV-SIG-CHW-001-02,Paired Cast Opening,Joint Triumph,F3,Warrior L1 Low,B
+MV-SIG-CHW-001-03,Court Chain Walk Step,Squall Coilend,F2,Warrior L1 Low,B
+MV-SIG-CHW-001-04,Azure Crossing Guard,Parity Spineplate,F2,Warrior L1 Low,B
+MV-SIG-CHW-001-05,Paired Wrap Hold,Sigilrasp,F5,Warrior L1 Low,B
+MV-SIG-CHW-001-06,Court Rhythm Draw,Entropy Eyelet,F2,Warrior L1 Low,B
+MV-SIG-CHW-001-07,Azure Court Sweep,Demolition Hingebar,F2,Champion L1 Low,B
+MV-SIG-CHW-001-08,Chain Court Pinning,Janglevow,F4,Champion L1 Low,B
+MV-SIG-CHW-001-09,Court Piercing Cast,Eyeletverdict,F4,Demigod L1 Low,B
+MV-SIG-CHW-001-10,Azure Court Chain Closing Stroke,Tenet Segment,F2,Warrior L1 Low,B
+MV-SIG-CHW-002-01,Paired Reach Stance,Rivetpledge,F4,Warrior L6 Mid,B
+MV-SIG-CHW-002-02,Crossing Cast Pair,Quenched Jangle,F2,Warrior L6 Mid,B
+MV-SIG-CHW-002-03,Reach Gauge Step,Bedrock Writhe,F2,Warrior L6 Mid,B
+MV-SIG-CHW-002-04,Segment Pair Tapping,Unrivaled Tailblade,F1,Warrior L6 Mid,B
+MV-SIG-CHW-002-05,Reach Turning Guard,Pall Linkpin,F2,Warrior L6 Mid,B
+MV-SIG-CHW-002-06,Doubling Wrap,Rivetseal,F4,Warrior L6 Mid,B
+MV-SIG-CHW-002-07,Pair Pulling Haul,Despotic Rasp,F1,Warrior L6 Mid,B
+MV-SIG-CHW-002-08,Reaching Qi Thread,Steel Whiplink,F2,Warrior L6 Mid,B
+MV-SIG-CHW-002-09,Segment Pair Sweep,Storied Slither,F1,Champion L1 Low,B
+MV-SIG-CHW-002-10,Crossed Segment Snare,Venom Rivet,F2,Champion L1 Low,B
+MV-SIG-CHW-002-11,Twin Reach Piercing,Triumphant Spineplate,F1,Demigod L1 Low,B
+MV-SIG-CHW-002-12,Crossing Reach Finale,Harmonious Tenet Eyelet,F6a,Warrior L6 Mid,B
+MV-SIG-CHW-003-01,River Court Rest,Steelrivet,F5,Champion L2 High,B
+MV-SIG-CHW-003-02,Flowing Cast,Steel Chainhead,F2,Champion L2 High,B
+MV-SIG-CHW-003-03,Ford Crossing Chain Step,Rattle Solace,F3,Champion L2 High,B
+MV-SIG-CHW-003-04,Bend Around Guard,Squalljoint,F5,Champion L2 High,B
+MV-SIG-CHW-003-05,River Weed Wrap,Ruling Jangle,F1,Champion L2 High,B
+MV-SIG-CHW-003-06,Flowing Pull,Entropy Coilend,F2,Champion L2 High,B
+MV-SIG-CHW-003-07,Current Cast Strike,Imperial Rivet,F1,Champion L2 High,B
+MV-SIG-CHW-003-08,River Court Flood,Demolition Tailblade,F2,Champion L2 High,B
+MV-SIG-CHW-003-09,Whirlpool Hold,Statute Segment,F2,Champion L2 High,B
+MV-SIG-CHW-003-10,Riverbed Scouring Pull,Noble Hingebar,F1,Demigod L1 Low,B
+MV-SIG-CHW-003-11,River Court Returning Stroke,Harmonious Rattle Edict,F6b,Champion L2 High,B
+MV-SIG-CHW-004-01,Hawk Court Perch,Steel Linkpin,F2,Ruler L1 Low,B
+MV-SIG-CHW-004-02,Stoop Cast Opening,Thunderclap Rasp,F2,Ruler L1 Low,B
+MV-SIG-CHW-004-03,Wing Hover Step,Windborne Joint,F1,Ruler L1 Low,B
+MV-SIG-CHW-004-04,Court Sky Scan,Eyeletbenison,F4,Ruler L1 Low,B
+MV-SIG-CHW-004-05,Hawk Court Parry,Revered Tailblade,F1,Ruler L1 Low,B
+MV-SIG-CHW-004-06,Talon Court Wrap,Rivet Troth,F3,Ruler L1 Low,B
+MV-SIG-CHW-004-07,Stoop Recovery Pull,Venomrasp,F5,Ruler L1 Low,B
+MV-SIG-CHW-004-08,Falling Barb Thrust,Peerless Slither,F1,Ruler L1 Low,B
+MV-SIG-CHW-004-09,Hawk Court Plunge,Peerless Hingebar,F1,Ruler L1 Low,B
+MV-SIG-CHW-004-10,Court Net Drop,Sovereign Whiplink,F1,Ruler L1 Low,B
+MV-SIG-CHW-004-11,Hawk Court Seizing Heave,Magnificent Rattle,F1,Demigod L1 Low,B
+MV-SIG-CHW-004-12,Hawk Court Seizing Stroke,Volition Coilend,F2,Ruler L1 Low,B
+MV-SIG-CHW-005-01,Open Sky Chain Stance,Prism Spineplate,F2,Demigod L3 Low,B
+MV-SIG-CHW-005-02,Field Fed Cast,Vaunted Joint,F1,Demigod L3 Low,B
+MV-SIG-CHW-005-03,Sky Glide Step,Squall Linkpin,F2,Demigod L3 Low,B
+MV-SIG-CHW-005-04,Field Guard Ring,Immaculate Chainhead,F1,Demigod L3 Low,B
+MV-SIG-CHW-005-05,Azure Drawing Wrap,Tyrannous Eyelet,F1,Demigod L3 Low,B
+MV-SIG-CHW-005-06,High Wind Sensing,Revelation Linkpin,F2,Demigod L3 Low,B
+MV-SIG-CHW-005-07,Azure Sky Chain Sweep,Demolition Writhe,F2,Demigod L3 Low,B
+MV-SIG-CHW-005-08,Field Held Snare,Sigiljoint,F5,Demigod L3 Low,B
+MV-SIG-CHW-005-09,Sky Piercing Chain,Prismrattle,F5,Demigod L3 Low,B
+MV-SIG-CHW-005-10,Azure Sky Finishing Stroke,Orchestral Tenet Rasp,F6a,Demigod L3 Low,B
+MV-SIG-CHW-006-01,Core Seated Stance,Rivetvow,F4,Core Formation L1 Low,B
+MV-SIG-CHW-006-02,Core Fed Cast,Squall Writhe,F2,Core Formation L1 Low,B
+MV-SIG-CHW-006-03,Steady Pulse Step,Deluge Whiplink,F2,Core Formation L1 Low,B
+MV-SIG-CHW-006-04,Core Beat Listening,Jointbenison,F4,Core Formation L1 Low,B
+MV-SIG-CHW-006-05,Twin Track Ring Guard,Bedrock Chainhead,F2,Core Formation L1 Low,B
+MV-SIG-CHW-006-06,Core Turned Wrap,Sigilwrithe,F5,Core Formation L1 Low,B
+MV-SIG-CHW-006-07,Spun Haul,Entropy Whiplink,F2,Core Formation L1 Low,B
+MV-SIG-CHW-006-08,Core Driven Thread,Fearless Slither,F1,Core Formation L1 Low,B
+MV-SIG-CHW-006-09,Core Orbit Sweep,Entropy Segment,F2,Core Formation L1 Low,B
+MV-SIG-CHW-006-10,Core Laid Snare,Sigileyelet,F5,Core Formation L1 Low,B
+MV-SIG-CHW-006-11,Core Sundering Cast,Haemal Slither,F2,Core Formation L1 Low,B
+MV-SIG-CHW-006-12,Azure Core Twin Stroke,Resonant Tenet Writhe,F6a,Core Formation L1 Low,B
+MV-SIG-CHW-007-01,Oath Cast Taking Stance,Steel Coilend,F2,Warrior L3 Low,B
+MV-SIG-CHW-007-02,First Oath Cast,Steel Jangle,F2,Warrior L3 Low,B
+MV-SIG-CHW-007-03,Wind Pace Chain Step,Deluge Tailblade,F2,Warrior L3 Low,B
+MV-SIG-CHW-007-04,Sworn Chain Guard Turn,Pealrivet,F5,Warrior L3 Low,B
+MV-SIG-CHW-007-05,Oath Wound Wrap,Sigilrattle,F5,Warrior L3 Low,B
+MV-SIG-CHW-007-06,Wind Draw Pull,Segment Reliquary,F3,Warrior L3 Low,B
+MV-SIG-CHW-007-07,Oath Fed Throw,Jangle Triumph,F3,Warrior L3 Low,B
+MV-SIG-CHW-007-08,Oath Sworn Sweep,Solar Eyelet,F2,Champion L1 Low,B
+MV-SIG-CHW-007-09,Held Oath Cage,Volition Spineplate,F2,Champion L1 Low,B
+MV-SIG-CHW-007-10,Oath Breaking Cast,Raspdecree,F4,Demigod L1 Low,B
+MV-SIG-CHW-007-11,Wind-Sworn Closing Oath,Volition Hingebar,F2,Warrior L3 Low,B
+MV-SIG-CHW-008-01,Rim Edge Stance,Prism Eyelet,F2,Warrior L8 Low,B
+MV-SIG-CHW-008-02,Rim Line Cast,Bedrock Joint,F2,Warrior L8 Low,B
+MV-SIG-CHW-008-03,Rim Pacing Chain Step,Silken Hingebar,F1,Warrior L8 Low,B
+MV-SIG-CHW-008-04,Rim Wind Reading,Reminiscence Segment,F2,Warrior L8 Low,B
+MV-SIG-CHW-008-05,Rim Turning Guard,Chainhead Covenant,F3,Warrior L8 Low,B
+MV-SIG-CHW-008-06,Rim Anchored Wrap,Thrall Rasp,F2,Warrior L8 Low,B
+MV-SIG-CHW-008-07,Rim Hauling Pull,Thunderclap Rivet,F2,Warrior L8 Low,B
+MV-SIG-CHW-008-08,Rim Piercing Thread,Splendid Rasp,F1,Warrior L8 Low,B
+MV-SIG-CHW-008-09,Rim Sweeping Gale,Magmarattle,F5,Champion L1 Low,B
+MV-SIG-CHW-008-10,Rim Laid Snare,Venomeyelet,F5,Champion L1 Low,B
+MV-SIG-CHW-008-11,Rim Driving Cast,Quenched Slither,F2,Demigod L1 Low,B
+MV-SIG-CHW-008-12,Plateau Rim Closing Stroke,Choral Tenet Joint,F6a,Warrior L8 Low,B
+MV-SIG-CHW-009-01,Plateau Oath Chain Stance,Eyeletseal,F4,Champion L4 Mid,B
+MV-SIG-CHW-009-02,Spoken Cast,Steel Tailblade,F2,Champion L4 Mid,B
+MV-SIG-CHW-009-03,Open Ground Chain Stride,Janglegrace,F4,Champion L4 Mid,B
+MV-SIG-CHW-009-04,Oath Held Chain Guard,Steeleyelet,F5,Champion L4 Mid,B
+MV-SIG-CHW-009-05,Sworn Wrap Hold,Thrallrattle,F5,Champion L4 Mid,B
+MV-SIG-CHW-009-06,Open Plateau Pull,Venomjoint,F5,Champion L4 Mid,B
+MV-SIG-CHW-009-07,Open Plateau Chain Sweep,Splendid Spineplate,F1,Champion L4 Mid,B
+MV-SIG-CHW-009-08,Plateau Oath Anchor,Gloomrattle,F5,Champion L4 Mid,B
+MV-SIG-CHW-009-09,Oath Driven Pierce,Prismjangle,F5,Demigod L1 Low,B
+MV-SIG-CHW-009-10,Open Plateau Oath Stroke,Harmonious Destiny Rattle,F6a,Champion L4 Mid,B
+MV-SIG-CHW-010-01,Gale Bearing Rest,Eyeletvow,F4,Ruler L1 Mid,B
+MV-SIG-CHW-010-02,Bearing Held Cast,Linkpin Triumph,F3,Ruler L1 Mid,B
+MV-SIG-CHW-010-03,Bearing Pace Step,Squall Whiplink,F2,Ruler L1 Mid,B
+MV-SIG-CHW-010-04,Gale Facing Guard,Squalleyelet,F5,Ruler L1 Mid,B
+MV-SIG-CHW-010-05,Bearing Lock Wrap,Unbending Rattle,F1,Ruler L1 Mid,B
+MV-SIG-CHW-010-06,Bearing Drawn Pull,Entropy Spineplate,F2,Ruler L1 Mid,B
+MV-SIG-CHW-010-07,Gale Bearing Thread,Valiant Jangle,F1,Ruler L1 Mid,B
+MV-SIG-CHW-010-08,Gale Bearing Sweep,Whiplink Decree,F3,Ruler L1 Mid,B
+MV-SIG-CHW-010-09,Bearing Set Snare,Linkpin Seal,F3,Ruler L1 Mid,B
+MV-SIG-CHW-010-10,Bearing Splitting Cast,Coilend Decree,F3,Demigod L1 Low,B
+MV-SIG-CHW-010-11,Gale Bearing Chain Closing Stroke,Harmonious Writhe,F1,Ruler L1 Mid,B
+MV-SIG-CHW-011-01,Shelterless Hold,Hornbeam Segment,F2,Demigod L5 High,B
+MV-SIG-CHW-011-02,Wind Lent Throw,Squall Rivet,F2,Demigod L5 High,B
+MV-SIG-CHW-011-03,Wind Giving Step,Squall Jangle,F2,Demigod L5 High,B
+MV-SIG-CHW-011-04,Open Field Sensing,Compassionate Rivet,F1,Demigod L5 High,B
+MV-SIG-CHW-011-05,Open Guard Yield,Pall Joint,F2,Demigod L5 High,B
+MV-SIG-CHW-011-06,Open Wind Wrap,Thrallrivet,F5,Demigod L5 High,B
+MV-SIG-CHW-011-07,Wind Taking Draw,Thunderclap Chainhead,F2,Demigod L5 High,B
+MV-SIG-CHW-011-08,Shelterless Pierce,Magnificent Hingebar,F1,Demigod L5 High,B
+MV-SIG-CHW-011-09,Shelterless Sweep,Tailblade Triumph,F3,Demigod L5 High,B
+MV-SIG-CHW-011-10,Wind Laid Snare,Shrewd Segment,F1,Demigod L5 High,B
+MV-SIG-CHW-011-11,Open Wind Cleaving Cast,Haemal Eyelet,F2,Demigod L5 High,B
+MV-SIG-CHW-011-12,Wind Without Walls Chain Stroke,Tenetrattle,F5,Demigod L5 High,B
+MV-SIG-CHW-012-01,Core Oath Chain Stance,Hornbeam Rivet,F2,Core Formation L4 Low,B
+MV-SIG-CHW-012-02,Core Sworn Cast,Majestic Writhe,F1,Core Formation L4 Low,B
+MV-SIG-CHW-012-03,Core Wind Chain Step,Bedrock Rattle,F2,Core Formation L4 Low,B
+MV-SIG-CHW-012-04,Core Oath Chain Guard,Jointpledge,F4,Core Formation L4 Low,B
+MV-SIG-CHW-012-05,Core Oath Wrap,Thralljoint,F5,Core Formation L4 Low,B
+MV-SIG-CHW-012-06,Core Sworn Draw,Coilend Pledge,F3,Core Formation L4 Low,B
+MV-SIG-CHW-012-07,Core Bearing Thread,Steelrattle,F5,Core Formation L4 Low,B
+MV-SIG-CHW-012-08,Core Oath Chain Sweep,Inferno Whiplink,F2,Core Formation L4 Low,B
+MV-SIG-CHW-012-09,Core Sworn Cage,Tailblade Pledge,F3,Core Formation L4 Low,B
+MV-SIG-CHW-012-10,Core Oath Cleaving Cast,Thunderclap Slither,F2,Core Formation L4 Low,B
+MV-SIG-CHW-012-11,Core Oath Closing Stroke,Volition Rasp,F2,Core Formation L4 Low,B
+MV-SIG-CHW-001-01,Hornbeam Chainhead,Braced Chainhead,F2,Warrior L1 Low,B
+MV-SIG-CHW-011-01,Hornbeam Segment,Snug Segment,F2,Demigod L5 High,B
+MV-SIG-CHW-012-01,Hornbeam Rivet,Sturdy Rivet,F2,Core Formation L4 Low,B

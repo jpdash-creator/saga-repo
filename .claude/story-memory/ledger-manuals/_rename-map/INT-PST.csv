@@ -1,0 +1,71 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-PST-001-01,Hip Snap Rise,Vicious Frizzen,F1,Senior L2 Low,A
+MV-INT-PST-001-02,Pointing Finger Eye Line,Raw Muzzle,F1,Senior L2 Low,A
+MV-INT-PST-001-03,Ducked Draw Return,Lithe Pointblank,F1,Senior L2 Low,A
+MV-INT-PST-001-04,Hip Braced Low Parry,Hammerhasp,F4,Senior L2 Low,A
+MV-INT-PST-001-05,Qi Quickened Snap Pair,Muzzleflog,F4,Senior L2 Low,A
+MV-INT-PST-001-06,Eye Following Barrel Chase,Dire Barrel,F1,Senior L2 Low,A
+MV-INT-PST-002-01,Saddle Horn Pistol Rest,Barrelscorer,F4,Senior L5 Mid,A
+MV-INT-PST-002-02,Rein Hand Draw Clear,Rude Quickdraw,F1,Senior L5 Mid,A
+MV-INT-PST-002-03,Saddle Holster Pipe Reach,Bold Thumbback,F1,Senior L5 Mid,A
+MV-INT-PST-002-04,Stirrup Stand Lean,Muzzleswerve,F4,Senior L5 Mid,A
+MV-INT-PST-002-05,Mount Neck Crouch Cover,Buttressed Flashpan,F1,Senior L5 Mid,A
+MV-INT-PST-002-06,Dismount Fire Drop,Pistolscorer,F4,Senior L5 Mid,A
+MV-INT-PST-002-07,Hooves Aloft Canter Shot,Barrelswat,F4,Senior L5 Mid,A
+MV-INT-PST-002-08,Knee Laid Calm for Report,Cramping Foresight,F1,Senior L5 Mid,A
+MV-INT-PST-003-01,Edge On Duel Stance,Hammer Zip,F3,Senior L8 Peak,A
+MV-INT-PST-003-02,Raised Barrel Pace Count,Pistoltonic,F4,Senior L8 Peak,A
+MV-INT-PST-003-03,Arm Drop Level Fire,Report Swat,F3,Senior L8 Peak,A
+MV-INT-PST-003-04,Free Hand Behind Back,Dire Cylinder,F1,Senior L8 Peak,A
+MV-INT-PST-003-05,Foe Barrel Palm Swat,Guarding Lanyardring,F1,Senior L8 Peak,A
+MV-INT-PST-003-06,Held Breath Answer Shot,Savage Report,F1,Senior L8 Peak,A
+MV-INT-PST-003-07,Half Pace Side Slip,Pistolglide,F4,Senior L8 Peak,A
+MV-INT-PST-004-01,Wool Wrapped Forearm Guard,Regimen Pistolgrip,F2,Warrior L1 Low,B
+MV-INT-PST-004-02,Cloak Whirl Face Cover,Cramping Snapfire,F1,Warrior L1 Low,B
+MV-INT-PST-004-03,Hidden Fold Draw,Quickdraw Flog,F3,Warrior L1 Low,B
+MV-INT-PST-004-04,Gathered Hem Long Stride,Grit Lanyardring,F2,Warrior L1 Low,B
+MV-INT-PST-004-05,Cloth Muffled Muzzle Push,Comet Triggerbar,F2,Warrior L1 Low,B
+MV-INT-PST-004-06,Smoking Cloak Shrug,Buttressed Muzzle,F1,Warrior L1 Low,B
+MV-INT-PST-004-07,Stiffened Wool Parry,Barrelprop,F4,Warrior L1 Low,B
+MV-INT-PST-004-08,Cloaked Crowd Muzzle Sweep,Regimen Frizzen,F2,Warrior L1 Low,B
+MV-INT-PST-004-09,Cloak Edge Retreating Shot,Gleam Barrel,F2,Warrior L1 Low,B
+MV-INT-PST-005-01,Split Hand Stance Set,Snapfire Curl,F3,Warrior L3 Mid,B
+MV-INT-PST-005-02,Shot Before Steel,Hammerslap,F4,Warrior L3 Mid,B
+MV-INT-PST-005-03,Hanger Edge Barrel Cross,Resolute Cylinder,F1,Warrior L3 Mid,B
+MV-INT-PST-005-04,Pistol Arm Under Hilt Guard,Shielding Pistolgrip,F1,Warrior L3 Mid,B
+MV-INT-PST-005-05,Pommel Propped Barrel,Hipshot Thwack,F3,Warrior L3 Mid,B
+MV-INT-PST-005-06,Wrist Loop Dropped Blade,Draught Hammer,F2,Warrior L3 Mid,B
+MV-INT-PST-005-07,Back Foot Arc Clear,Clayhammer,F5,Warrior L3 Mid,B
+MV-INT-PST-005-08,Smoke Closing Low Stab,Brass Foresight,F2,Warrior L3 Mid,B
+MV-INT-PST-005-09,Crossed Arms Blade Pin,Gallhammer,F5,Warrior L3 Mid,B
+MV-INT-PST-005-10,Edge Lined Grip Reversal,Crimson Thumbback,F2,Warrior L3 Mid,B
+MV-INT-PST-006-01,Stair Turn Muzzle Lead,Grim Triggerbar,F1,Warrior L2 Low,B
+MV-INT-PST-006-02,Tread Counted Descent,Clay Thumbback,F2,Warrior L2 Low,B
+MV-INT-PST-006-03,Corridor Shoulder Slide,Sprig Cylinder,F2,Warrior L2 Low,B
+MV-INT-PST-006-04,Landing Crouch Under Rail,Shard Lanyardring,F2,Warrior L2 Low,B
+MV-INT-PST-006-05,Door Latch Muzzle Probe,Lunar Flashpan,F2,Warrior L2 Low,B
+MV-INT-PST-006-06,Qi Hushed Board Tread,Hipshot Swerve,F3,Warrior L2 Low,B
+MV-INT-PST-006-07,Stone Ringing Warning Ball,Pointblank Slap,F3,Warrior L2 Low,B
+MV-INT-PST-007-01,Wide Deck Footing,Scudding Flashpan,F1,Senior L6 Mid,A
+MV-INT-PST-007-02,Rail Hooked Elbow Shot,Barrelflog,F4,Senior L6 Mid,A
+MV-INT-PST-007-03,Swell Crest Shot,Hammerflog,F4,Senior L6 Mid,A
+MV-INT-PST-007-04,Salt Spray Pan Cup,Pistolscreen,F4,Senior L6 Mid,A
+MV-INT-PST-007-05,Swinging Line Barrel Hook,Dense Hammer,F1,Senior L6 Mid,A
+MV-INT-PST-007-06,Hatch Lip Barrel Rest,Doughty Muzzle,F1,Senior L6 Mid,A
+MV-INT-PST-007-07,Plank Rooted Lurch Stand,Pistolbarrier,F4,Senior L6 Mid,A
+MV-INT-PST-007-08,Boarders Rail Muzzle Fan,Report Flog,F3,Senior L6 Mid,A
+MV-INT-PST-008-01,Wet Rag Barrel Scour,Hungry Barrel,F1,Senior L4 Low,A
+MV-INT-PST-008-02,Dull Flint Strike Test,Pistolbandage,F4,Senior L4 Low,A
+MV-INT-PST-008-03,Loose Ball Tilt Rattle,Quickening Triggerbar,F1,Senior L4 Low,A
+MV-INT-PST-008-04,Mainspring Thumb Check,Keen Pistolgrip,F1,Senior L4 Low,A
+MV-INT-PST-008-05,Blocked Vent Needle Clear,Lurching Foresight,F1,Senior L4 Low,A
+MV-INT-PST-008-06,Choked Bore Qi Pulse,Savage Quickdraw,F1,Senior L4 Low,A
+MV-INT-PST-009-01,Hat Brim Lock Cover,Sprighammer,F5,Warrior L5 Mid,B
+MV-INT-PST-009-02,Oilcloth Lock Wrap,Sprig Barrel,F2,Warrior L5 Mid,B
+MV-INT-PST-009-03,Fog Footfall Ear Aim,Candormuzzle,F5,Warrior L5 Mid,B
+MV-INT-PST-009-04,Wet Stone Flat Foot,Snapfire Zip,F3,Warrior L5 Mid,B
+MV-INT-PST-009-05,Coat Drawn Dry Charge,Shard Frizzen,F2,Warrior L5 Mid,B
+MV-INT-PST-009-06,Misted Sight Thumb Dab,Staticbarrel,F5,Warrior L5 Mid,B
+MV-INT-PST-009-07,Warmed Pan Cover Hiss,Lanyardring Prop,F3,Warrior L5 Mid,B
+MV-INT-PST-009-08,Fog Report Feint,Discord Cylinder,F2,Warrior L5 Mid,B
+MV-INT-PST-009-09,Downpour Beat Footfalls,Barrelzip,F4,Warrior L5 Mid,B

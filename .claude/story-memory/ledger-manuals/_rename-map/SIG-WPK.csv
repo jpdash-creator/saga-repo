@@ -1,0 +1,129 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-WPK-001-01,Court Stance with the Pick,Bedrock Pickfluke,F2,Warrior L1 Low,B
+MV-SIG-WPK-001-02,Azure Court Spike Tap,Vacuum Backbill,F2,Warrior L1 Low,B
+MV-SIG-WPK-001-03,Rim-Glance Reading,Crowbenison,F4,Warrior L1 Low,B
+MV-SIG-WPK-001-04,Twin-Lane Hammer Beat,Heroic Waistpoint,F1,Warrior L1 Low,B
+MV-SIG-WPK-001-05,Paired Beak Hook,Entropy Pickhelve,F2,Warrior L1 Low,B
+MV-SIG-WPK-001-06,Sky-Blue Haft Turn,Parity Hardtooth,F2,Warrior L1 Low,B
+MV-SIG-WPK-001-07,Court Plate Fracture,Imperial Crack,F1,Champion L1 Low,B
+MV-SIG-WPK-001-08,Basin Seam Beak Lever,Venom Stonetip,F2,Champion L1 Low,B
+MV-SIG-WPK-001-09,Azure Court Flashing Thrust,Interstice Ironthorn,F2,Demigod L1 Low,B
+MV-SIG-WPK-001-10,Court Verdict of the Twin Faces,Vaunted Punch Decree,F6b,Warrior L1 Low,B
+MV-SIG-WPK-002-01,Hawk-Hammer Waiting Hold,Steelcrow,F5,Warrior L5 Mid,B
+MV-SIG-WPK-002-02,Perch-Drop Hammer Tap,Inferno Spikebeak,F2,Warrior L5 Mid,B
+MV-SIG-WPK-002-03,Talon-Eye Armor Scan,Reminiscence Peckhead,F2,Warrior L5 Mid,B
+MV-SIG-WPK-002-04,Swooping Hammer Beat,Thunderclap Peck,F2,Warrior L5 Mid,B
+MV-SIG-WPK-002-05,Hawk Beak Check,Commanding Puncture,F1,Warrior L5 Mid,B
+MV-SIG-WPK-002-06,Wing-Cover Haft Block,Squallfluke,F5,Warrior L5 Mid,B
+MV-SIG-WPK-002-07,Raptor Step Past the Guard,Bedrock Crowbill,F2,Warrior L5 Mid,B
+MV-SIG-WPK-002-08,Hawk-Hammer Helm Crusher,Vigor Chink,F2,Champion L1 Low,B
+MV-SIG-WPK-002-09,Stooped Beak Anchor,Thrall Pickfluke,F2,Champion L1 Low,B
+MV-SIG-WPK-002-10,Hawk Phase Past the Shield,Windborne Punch,F1,Demigod L1 Low,B
+MV-SIG-WPK-002-11,Hawk's Judgment on the Plate,Imperial Stonetip Edict,F6b,Warrior L5 Mid,B
+MV-SIG-WPK-003-01,River Court Footing,Prism Waistpoint,F2,Champion L1 Low,B
+MV-SIG-WPK-003-02,Upstream Spike Jab,Radiance Drive,F2,Champion L1 Low,B
+MV-SIG-WPK-003-03,Water-Line Gaze,Lifegiving Peckhead,F1,Champion L1 Low,B
+MV-SIG-WPK-003-04,Downstream Hammer Roll,Vigorcrow,F5,Champion L1 Low,B
+MV-SIG-WPK-003-05,River-Pull Beak Haul,Subjugating Backbill,F1,Champion L1 Low,B
+MV-SIG-WPK-003-06,Weir-Block Haft Turn,Peal Pickhelve,F2,Champion L1 Low,B
+MV-SIG-WPK-003-07,Twin-Track Armor Opening,Authoritative Drive,F1,Champion L1 Low,B
+MV-SIG-WPK-003-08,River-Court Spike Fall,Steel Chink,F2,Champion L1 Low,B
+MV-SIG-WPK-003-09,River Flash Between the Tracks,Twilit Peck,F1,Demigod L1 Low,B
+MV-SIG-WPK-003-10,Where the Two Tracks Meet,Dauntless Pulsar Crowbill,F6a,Champion L1 Low,B
+MV-SIG-WPK-004-01,Basin Ground Posture,Steel Spikebeak,F2,Ruler L1 Low,B
+MV-SIG-WPK-004-02,Rim-to-Rim Spike Line,Thunderclap Ironthorn,F2,Ruler L1 Low,B
+MV-SIG-WPK-004-03,Basin Floor Ear-Ground,Reminiscence Waistpoint,F2,Ruler L1 Low,B
+MV-SIG-WPK-004-04,Level Shuffle Across the Floor,Deluge Hardtooth,F2,Ruler L1 Low,B
+MV-SIG-WPK-004-05,Full Basin Hammer Swing,Haemalpunch,F5,Ruler L1 Low,B
+MV-SIG-WPK-004-06,Beak Draw Along the Rim,Venomchink,F5,Ruler L1 Low,B
+MV-SIG-WPK-004-07,Basin Edge Fend,Peal Stonetip,F2,Ruler L1 Low,B
+MV-SIG-WPK-004-08,Overlapped Spike Thrusts,Radiance Puncture,F2,Ruler L1 Low,B
+MV-SIG-WPK-004-09,Basin-Breaker Hammer Fall,Thunderclap Pickfluke,F2,Ruler L1 Low,B
+MV-SIG-WPK-004-10,Seam-to-Seam Beak Rip,Pealchink,F5,Ruler L1 Low,B
+MV-SIG-WPK-004-11,Basin Flood Spike Rush,Pulsar Puncture,F2,Demigod L1 Low,B
+MV-SIG-WPK-004-12,The Basin Closes on the Plate,Peerless Chink,F1,Ruler L1 Low,B
+MV-SIG-WPK-005-01,Azure Stoop Ready,Steelpick,F5,Demigod L1 Mid,B
+MV-SIG-WPK-005-02,Twin Faces Tap,Squallpeck,F5,Demigod L1 Mid,B
+MV-SIG-WPK-005-03,Azure Plate Survey,Eclipse Hardtooth,F2,Demigod L1 Mid,B
+MV-SIG-WPK-005-04,Faced Hammer Rebound,Chinkverdict,F4,Demigod L1 Mid,B
+MV-SIG-WPK-005-05,Stoop-Hooking Beak,Drivepledge,F4,Demigod L1 Mid,B
+MV-SIG-WPK-005-06,Azure Fold Guard,Pall Pickhelve,F2,Demigod L1 Mid,B
+MV-SIG-WPK-005-07,Twin-Faced Fall,Crowbill Verdict,F3,Demigod L1 Mid,B
+MV-SIG-WPK-005-08,Azure Plate Peel from Above,Crack Seal,F3,Demigod L1 Mid,B
+MV-SIG-WPK-005-09,Azure Stoop Flash,Seasonpick,F5,Demigod L1 Mid,B
+MV-SIG-WPK-005-10,Hawk and Twin Faces as One,Peerless Backbill Edict,F6b,Demigod L1 Mid,B
+MV-SIG-WPK-006-01,Core-Seated Ready,Consecrated Spikebeak,F1,Core Formation L1 Low,B
+MV-SIG-WPK-006-02,Paired-Core Spike Tap,Peerless Punch,F1,Core Formation L1 Low,B
+MV-SIG-WPK-006-03,Core Pulse Plate Reading,Ironthorn Benison,F3,Core Formation L1 Low,B
+MV-SIG-WPK-006-04,Core-Fed Hammer Beat,Famed Peckhead,F1,Core Formation L1 Low,B
+MV-SIG-WPK-006-05,Beak Hook on the Core Pulse,Crowseal,F4,Core Formation L1 Low,B
+MV-SIG-WPK-006-06,Paired Core Haft Turn,Peal Peckhead,F2,Core Formation L1 Low,B
+MV-SIG-WPK-006-07,Glide on the Core Breath,Peckvoyage,F4,Core Formation L1 Low,B
+MV-SIG-WPK-006-08,Core-Charged Plate Rend,Vacuum Waistpoint,F2,Core Formation L1 Low,B
+MV-SIG-WPK-006-09,Beak Anchor Bound to the Core,Despotic Peck,F1,Core Formation L1 Low,B
+MV-SIG-WPK-006-10,Core Flash Through the Guard,Thunderclap Chink,F2,Core Formation L1 Low,B
+MV-SIG-WPK-006-11,Paired Core Stroke,Intrepid Hardtooth,F1,Core Formation L1 Low,B
+MV-SIG-WPK-007-01,Sworn Stance on Plateau Stone,Consecrated Ironthorn,F1,Warrior L2 Low,B
+MV-SIG-WPK-007-02,Windbreak Spike Tap,Spikebeak Decree,F3,Warrior L2 Low,B
+MV-SIG-WPK-007-03,Sky-Line Glance,Nurturing Stonetip,F1,Warrior L2 Low,B
+MV-SIG-WPK-007-04,Plateau Hammer Swing,Haemalchink,F5,Warrior L2 Low,B
+MV-SIG-WPK-007-05,Wind-Caught Beak Hook,Chinkseal,F4,Warrior L2 Low,B
+MV-SIG-WPK-007-06,Oath Parry Rise,Revered Pickfluke,F1,Warrior L2 Low,B
+MV-SIG-WPK-007-07,Wind-Sworn Plate Cracker,Quenched Puncture,F2,Champion L1 Low,B
+MV-SIG-WPK-007-08,Bearing-Held Seam Drive,Prism Crowbill,F2,Champion L1 Low,B
+MV-SIG-WPK-007-09,Plateau Flash on the Bearing,Feather Drive,F1,Demigod L1 Low,B
+MV-SIG-WPK-007-10,The Wind-Sworn Verdict,Storied Thunderclap Backbill,F6a,Warrior L2 Low,B
+MV-SIG-WPK-008-01,Bearing Hammer Hold,Immaculate Crowbill,F1,Warrior L6 Low,B
+MV-SIG-WPK-008-02,Bearing Mark Rap,Flukeedict,F4,Warrior L6 Low,B
+MV-SIG-WPK-008-03,Open Sky Plate Reading,Pealfluke,F5,Warrior L6 Low,B
+MV-SIG-WPK-008-04,Hammer Along the Bearing,Paramount Drive,F1,Warrior L6 Low,B
+MV-SIG-WPK-008-05,Oath Beak Hook,Venom Crack,F2,Warrior L6 Low,B
+MV-SIG-WPK-008-06,Bearing Cover Turn,Immaculate Pickfluke,F1,Warrior L6 Low,B
+MV-SIG-WPK-008-07,Crosswind Hammer Step,Feather Pickhelve,F1,Warrior L6 Low,B
+MV-SIG-WPK-008-08,Bearing Plate Crusher,Squall Stonetip,F2,Champion L1 Low,B
+MV-SIG-WPK-008-09,Held Bearing Beak Heave,Entropy Chink,F2,Champion L1 Low,B
+MV-SIG-WPK-008-10,Bearing Phase Between Shields,Punchboon,F4,Demigod L1 Low,B
+MV-SIG-WPK-008-11,The Hammer That Keeps Its Bearing,Punchtriumph,F4,Warrior L6 Low,B
+MV-SIG-WPK-009-01,Champion's Oath Stance,Prismpick,F5,Champion L2 Low,B
+MV-SIG-WPK-009-02,Oath-Line Spike Jab,Storied Pickhelve,F1,Champion L2 Low,B
+MV-SIG-WPK-009-03,Oath-Weighted Glance,Peal Waistpoint,F2,Champion L2 Low,B
+MV-SIG-WPK-009-04,Sworn Spike Run,Thunderclap Punch,F2,Champion L2 Low,B
+MV-SIG-WPK-009-05,Oath-Hooked Haul,Peal Punch,F2,Champion L2 Low,B
+MV-SIG-WPK-009-06,Gale-Backed Haft Fend,Parityfluke,F5,Champion L2 Low,B
+MV-SIG-WPK-009-07,Champion's Oath Fall,Radiance Crack,F2,Champion L2 Low,B
+MV-SIG-WPK-009-08,Sworn Beak Wrench,Crackvow,F4,Champion L2 Low,B
+MV-SIG-WPK-009-09,Oath Flash Past the Line,Thunderclap Hardtooth,F2,Demigod L1 Low,B
+MV-SIG-WPK-009-10,Pick of the Kept Oath,Vacuum Ironthorn,F2,Champion L2 Low,B
+MV-SIG-WPK-010-01,Gale-Sworn Wide Stance,Steelfluke,F5,Ruler L1 Mid,B
+MV-SIG-WPK-010-02,Gale Spike Mark,Quenched Crack,F2,Ruler L1 Mid,B
+MV-SIG-WPK-010-03,Ridge-Wind Hammer Tap,Haemal Peckhead,F2,Ruler L1 Mid,B
+MV-SIG-WPK-010-04,Lean-Into-Gale Pace,Puncture Odyssey,F3,Ruler L1 Mid,B
+MV-SIG-WPK-010-05,Sworn Gale Hammer Fall,Quenched Peck,F2,Ruler L1 Mid,B
+MV-SIG-WPK-010-06,Wind-Hauled Beak Hook,Entropy Spikebeak,F2,Ruler L1 Mid,B
+MV-SIG-WPK-010-07,Gale Fend with the Haft,Deluge Backbill,F2,Ruler L1 Mid,B
+MV-SIG-WPK-010-08,Gust-Slipped Spike Thrust,Chinkedict,F4,Ruler L1 Mid,B
+MV-SIG-WPK-010-09,Gale Plate Splitter,Thunderclap Stonetip,F2,Ruler L1 Mid,B
+MV-SIG-WPK-010-10,Wind Peel of the Armor Edge,Thunderclap Puncture,F2,Ruler L1 Mid,B
+MV-SIG-WPK-010-11,Gale Blink Behind the Shield,Radiance Peck,F2,Demigod L1 Low,B
+MV-SIG-WPK-010-12,The Sworn Gale Upon the Plate,Thunderclap Spikebeak,F2,Ruler L1 Mid,B
+MV-SIG-WPK-011-01,Edge-Held Wind Stance,Pickseal,F4,Demigod L2 Low,B
+MV-SIG-WPK-011-02,Edge Wind Spike Tap,Vacuumdrive,F5,Demigod L2 Low,B
+MV-SIG-WPK-011-03,Lip-Wind Glance,Magnanimous Pickhelve,F1,Demigod L2 Low,B
+MV-SIG-WPK-011-04,Edge Wind Hammer Beat,Storied Peck,F1,Demigod L2 Low,B
+MV-SIG-WPK-011-05,Wind-Lipped Beak Pull,Venompick,F5,Demigod L2 Low,B
+MV-SIG-WPK-011-06,Edge-Held Haft Block,Pickfluke Pledge,F3,Demigod L2 Low,B
+MV-SIG-WPK-011-07,Edge-Wind Spike Fall,Pulsar Drive,F2,Demigod L2 Low,B
+MV-SIG-WPK-011-08,Wind Heave from the Lip,Entropy Waistpoint,F2,Demigod L2 Low,B
+MV-SIG-WPK-011-09,Edge Flash in the Wind,Pulsarcrack,F5,Demigod L2 Low,B
+MV-SIG-WPK-011-10,Pick at the Edge of the Wind,Drivecrown,F4,Demigod L2 Low,B
+MV-SIG-WPK-012-01,Core-Breath Wind Stance,Hornbeam Crowbill,F2,Core Formation L2 Low,B
+MV-SIG-WPK-012-02,Core Wind Spike Tap,Valiant Peckhead,F1,Core Formation L2 Low,B
+MV-SIG-WPK-012-03,Core Wind Plate Reading,Backbill Mercy,F3,Core Formation L2 Low,B
+MV-SIG-WPK-012-04,Wind-Cored Hammer Beat,Vigordrive,F5,Core Formation L2 Low,B
+MV-SIG-WPK-012-05,Core Gale Beak Hook,Tyrannous Ironthorn,F1,Core Formation L2 Low,B
+MV-SIG-WPK-012-06,Core Oath Haft Fend,Venerable Hardtooth,F1,Core Formation L2 Low,B
+MV-SIG-WPK-012-07,Core Gale Plate Rend,Peckedict,F4,Core Formation L2 Low,B
+MV-SIG-WPK-012-08,Core-Bound Beak Haul,Despotic Hardtooth,F1,Core Formation L2 Low,B
+MV-SIG-WPK-012-09,Core-Gale Blink Strike,Thunderclap Crowbill,F2,Core Formation L2 Low,B
+MV-SIG-WPK-012-10,The Core Oath of the Pick,Famed Vacuum Punch,F6a,Core Formation L2 Low,B
+MV-SIG-WPK-012-01,Hornbeam Crowbill,Upright Crowbill,F2,Core Formation L2 Low,B

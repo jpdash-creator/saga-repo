@@ -1,0 +1,70 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-FAN-001-01,Qi-Fed Opening Flick,Silkface Screen,F3,Senior,A
+MV-INT-FAN-001-02,Fan Rib Forward Cut,Waftflog,F4,Senior,A
+MV-INT-FAN-001-03,Spine Block Slide-Back,Rimribprop,F4,Senior,A
+MV-INT-FAN-001-04,Guarded Fan Advance,Veering Guardrib,F1,Senior,A
+MV-INT-FAN-001-05,Spread-and-Step Edge Slash,Swift Flutter,F1,Senior,A
+MV-INT-FAN-001-06,Rib Cross Deflect and Turn,Sturdy Fanrib,F1,Senior,A
+MV-INT-FAN-002-01,Shut-Fan Pommel Tap,Rustlescorer,F4,Senior,A
+MV-INT-FAN-002-02,Open Fan Hip Cover,Resolute Rivetpin,F1,Senior,A
+MV-INT-FAN-002-03,Ribbed Back-Slap Parry,Armored Spreadface,F1,Senior,A
+MV-INT-FAN-002-04,Lean-In Fan Cut,Stern Pivotpin,F1,Senior,A
+MV-INT-FAN-002-05,Fan-Hand Shuffle Retreat,Pirouetting Foldedge,F1,Senior,A
+MV-INT-FAN-002-06,Sweep-and-Hook Rib Drill,Rough Waft,F1,Senior,A
+MV-INT-FAN-002-07,Counter Twist of the Pleats,Sturdy Fantip,F1,Senior,A
+MV-INT-FAN-003-01,Hinge Wrist Short Cut,Fantipslap,F4,Senior,A
+MV-INT-FAN-003-02,Rolling Leaf Guard,Unmoving Fanspine,F1,Senior,A
+MV-INT-FAN-003-03,Tip-Beat Distance Check,Wild Snapshut,F1,Senior,A
+MV-INT-FAN-003-04,Drag-Foot Fan Slip,Rustlestalk,F4,Senior,A
+MV-INT-FAN-003-05,Rib Rattle Breath Break,Binding Fanout,F1,Senior,A
+MV-INT-FAN-003-06,Pin-Catch Sword Twist,Stalling Rimrib,F1,Senior,A
+MV-INT-FAN-003-07,Leaf-Glare Step Through,Tethering Wavering,F1,Senior,A
+MV-INT-FAN-004-01,Iron Fan Breath Raise,Guardrib Screen,F3,Warrior,B
+MV-INT-FAN-004-02,Heavy Rib Crush Down,Ruthless Rustle,F1,Warrior,B
+MV-INT-FAN-004-03,Rib Spear Under the Arm,Brawn Pivotpin,F2,Warrior,B
+MV-INT-FAN-004-04,Rivet-Spin Cover,Poise Rivetpin,F2,Warrior,B
+MV-INT-FAN-004-05,Hooked Rib Weapon Drag,Staticfantip,F5,Warrior,B
+MV-INT-FAN-004-06,Stamp and Fan Slam,Brawnrimrib,F5,Warrior,B
+MV-INT-FAN-004-07,Iron Rib Sprawl Counter,Fanribbuckle,F4,Warrior,B
+MV-INT-FAN-004-08,Weighted Fan Circle Beat,Emberrimrib,F5,Warrior,B
+MV-INT-FAN-004-09,Rib Press Elbow Lock,Gripping Foldedge,F1,Warrior,B
+MV-INT-FAN-005-01,Rib-Edge Cross Cut,Brawnfanrib,F5,Warrior,B
+MV-INT-FAN-005-02,Fan Pleat Fold Block,Sleetfanrib,F5,Warrior,B
+MV-INT-FAN-005-03,Wrist-Whip Backhand Rib,Emberrustle,F5,Warrior,B
+MV-INT-FAN-005-04,Short-Hop Fan Pivot,Draught Flutter,F2,Warrior,B
+MV-INT-FAN-005-05,Spread-Fan Eye Veil,Viselike Silkface,F1,Warrior,B
+MV-INT-FAN-005-06,Fold-Catch Wrist Roll,Spreadface Barrier,F3,Warrior,B
+MV-INT-FAN-005-07,Rib Beat Three Ways,Brawn Rustle,F2,Warrior,B
+MV-INT-FAN-005-08,Close-Range Pleat Press,Brawn Fanspine,F2,Warrior,B
+MV-INT-FAN-005-09,Open-Leaf Slip and Slash,Hum Fanrib,F2,Warrior,B
+MV-INT-FAN-005-10,Retreat-Spin Edge Return,Brawnfanout,F5,Warrior,B
+MV-INT-FAN-006-01,Turning Leaf Guard Cover,Stubborn Fanspine,F1,Warrior,B
+MV-INT-FAN-006-02,Rib Tip Jab and Recover,Clayfanrib,F5,Warrior,B
+MV-INT-FAN-006-03,Pivot-Foot Leaf Turn,Grit Fanout,F2,Warrior,B
+MV-INT-FAN-006-04,Rib Flick to the Eyes,Mirage Wavering,F2,Warrior,B
+MV-INT-FAN-006-05,Leaf-Roll Sword Trap,Stamp Fantip,F2,Warrior,B
+MV-INT-FAN-006-06,Turning Leaf Cut and Cover,Draught Waft,F2,Warrior,B
+MV-INT-FAN-007-01,Rib Binding Hold of the Wrist,Sprigfanrib,F5,Warrior,B
+MV-INT-FAN-007-02,Leaf Drag Across the Guard,Discord Pivotpin,F2,Warrior,B
+MV-INT-FAN-007-03,Iron Spine Shin Rap,Honedfanout,F5,Warrior,B
+MV-INT-FAN-007-04,Shift-and-Fold Step,Fanout Hurdle,F3,Warrior,B
+MV-INT-FAN-007-05,Collar Hook Pull-Down,Viselike Rimrib,F1,Warrior,B
+MV-INT-FAN-007-06,Rib Lock Twist and Throw,Sleet Waft,F2,Warrior,B
+MV-INT-FAN-007-07,Double Hook Disarm Pull,Static Flutter,F2,Warrior,B
+MV-INT-FAN-008-01,Counter-Fan Wrist Slap,Guarding Rivetpin,F1,Warrior,B
+MV-INT-FAN-008-02,Low Rib Sweep Cut,Fanoutswat,F4,Warrior,B
+MV-INT-FAN-008-03,Outside-Line Fan Shift,Coasting Rustle,F1,Warrior,B
+MV-INT-FAN-008-04,Rib Parry Beat Down,Poise Guardrib,F2,Warrior,B
+MV-INT-FAN-008-05,Pleat Slice at the Hand,Fantipthwack,F4,Warrior,B
+MV-INT-FAN-008-06,Open-Fan Chest Press,Wafthasp,F4,Warrior,B
+MV-INT-FAN-008-07,Edge Slice Through the Guard,Rugged Wavering,F1,Warrior,B
+MV-INT-FAN-008-08,Closing Leaf Capture,Splicerustle,F5,Warrior,B
+MV-INT-FAN-009-01,Fan Block and Retreat,Sleet Fantip,F2,Warrior,B
+MV-INT-FAN-009-02,Wrist-Flick Ribs to the Brow,Honed Foldedge,F2,Warrior,B
+MV-INT-FAN-009-03,Weaving Fan Advance,Clayfanout,F5,Warrior,B
+MV-INT-FAN-009-04,Rib Hook at the Elbow,Burdening Fanrib,F1,Warrior,B
+MV-INT-FAN-009-05,Sidelong Leaf Parry,Sturdy Rimrib,F1,Warrior,B
+MV-INT-FAN-009-06,Snap-Shut Ribs to the Ribs,Brass Fantip,F2,Warrior,B
+MV-INT-FAN-009-07,Pleat Fold Counter Thrust,Foldedge Hasp,F3,Warrior,B
+MV-INT-FAN-009-08,Dust-Sweep Sidestep,Recall Silkface,F2,Warrior,B
+MV-INT-FAN-009-09,Wrist-Lock Turn and Strike,Splice Silkface,F2,Warrior,B

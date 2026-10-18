@@ -1,0 +1,11 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ELI-TAO-003-01,Basinway Palm,Settled Hand,INSTANT,,Basic
+CMV-ELI-TAO-003-02,Basinway Guard,Settled Screen,CHANNELED,,Basic
+CMV-ELI-TAO-003-03,Basinway Step,Settled Step,INSTANT,,Basic
+CMV-ELI-TAO-003-04,Basinway Sense,Settled Sense,CHANNELED,,Basic
+CMV-ELI-TAO-003-05,Basinway Breath,Settled Breath,CHANNELED,,Basic
+CMV-ELI-TAO-003-06,Basinway Counter,Settled Counter,INSTANT,,Intermediate
+CMV-ELI-TAO-003-07,Basinway Hold,Settled Grasp,CHANNELED,,Intermediate
+CMV-ELI-TAO-003-08,Basinway Settling,Settled Even,CHANNELED,,Intermediate
+CMV-ELI-TAO-003-09,Basinway Strike,Settled Strike,INSTANT,,Advanced
+CMV-ELI-TAO-003-10,Basinway Quiet,Settled Quiet,CHANNELED,,Advanced

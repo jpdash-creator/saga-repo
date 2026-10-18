@@ -1,0 +1,15 @@
+{
+ "skill_id": "ssc-narration-p35-governing-laws-content-density-framework",
+ "part": 35,
+ "area": 5,
+ "sequence_in_part": 5,
+ "title": "Governing Laws of the Content Density Framework",
+ "domain": "narration",
+ "source_file": "Part_35_Content_Density_Law_CDL2.md",
+ "start_line": 442,
+ "end_line": 466,
+ "line_count": 25,
+ "output_path": ".claude/skills/ssc-narration-p35-governing-laws-content-density-framework/SKILL.md",
+ "has_stale_python_block": false,
+ "related": []
+}

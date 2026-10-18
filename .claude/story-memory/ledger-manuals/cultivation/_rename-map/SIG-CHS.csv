@@ -1,0 +1,6 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-CHS-002-06,Beatless Wall,Beatless Ward,CHANNELED,,Signature
+CMV-SIG-CHS-003-04,Muddled Field,Muddled Qi,INSTANT,,Signature
+CMV-SIG-CHS-006-01,Feint Line,Wavering Feint,INSTANT,,Signature
+CMV-SIG-CHS-006-10,Line Undone,Knotting Pulse,CAST,,Signature
+CMV-SIG-CHS-006-12,Wavering Line,Deliberate Waver,CAST,,Signature

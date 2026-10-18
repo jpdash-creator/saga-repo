@@ -1,0 +1,161 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-BOW-001-01,Hawk Shot Seat,Verity Arrowrest,F2,Demigod L1 Low,B
+MV-ELI-BOW-001-02,High Track Anchor,Berserk Release,F1,Demigod L1 Low,B
+MV-ELI-BOW-001-03,Low Track Anchor,Facet Snapshot,F2,Demigod L1 Low,B
+MV-ELI-BOW-001-04,Hawk Dive Reading,Expanse Bowstring,F2,Demigod L1 Low,B
+MV-ELI-BOW-001-05,High Track Stoop Arrow,Drawruin,F4,Demigod L1 Low,B
+MV-ELI-BOW-001-06,Low Track Skim Arrow,Glint Riser,F2,Demigod L1 Low,B
+MV-ELI-BOW-001-07,Two Track Sky Pinning,Overpowering Draw,F1,Demigod L1 Low,B
+MV-ELI-BOW-001-08,Hawk Talon Shaft,Tempered Loose,F2,Demigod L1 Low,B
+MV-ELI-BOW-001-09,Azure Hawk Twin Stoop,Rumblelimb,F5,Demigod L1 Low,B
+MV-ELI-BOW-002-01,Paired Hawk Count,Vigilant Limb,F1,Demigod L2 Low,B
+MV-ELI-BOW-002-02,Basin Stand Settle,Might Nock,F2,Demigod L2 Low,B
+MV-ELI-BOW-002-03,Partner Line Opening,Siltlimb,F5,Demigod L2 Low,B
+MV-ELI-BOW-002-04,Mirror Draw Turn,Nova Anchor,F2,Demigod L2 Low,B
+MV-ELI-BOW-002-05,Paired Field Link,Equipoise Serving,F2,Demigod L2 Low,B
+MV-ELI-BOW-002-06,Twin Hawk Crossing Loose,Facet Limbtip,F2,Demigod L2 Low,B
+MV-ELI-BOW-002-07,Basin Rim Cover Draw,Facet Quiver,F2,Demigod L2 Low,B
+MV-ELI-BOW-002-08,Hawk Pair Net Of Shafts,Mangling Bowgrip,F1,Demigod L2 Low,B
+MV-ELI-BOW-002-09,Paired Pinion Breach,Vanes Wrath,F3,Demigod L2 Low,B
+MV-ELI-BOW-002-10,Twin Hawk Basin Judgment,Granite Bowstring,F2,Demigod L2 Low,B
+MV-ELI-BOW-003-01,River Pace Draw,Gust Anchor,F2,Demigod L3 Mid,B
+MV-ELI-BOW-003-02,Current Nock Slip,Chime Vanes,F2,Demigod L3 Mid,B
+MV-ELI-BOW-003-03,Bank Step Along,Phantom Release,F1,Demigod L3 Mid,B
+MV-ELI-BOW-003-04,River Run Stream,Shadevanes,F5,Demigod L3 Mid,B
+MV-ELI-BOW-003-05,Eddy Turn Loose,Gust Limb,F2,Demigod L3 Mid,B
+MV-ELI-BOW-003-06,Silt Cloud Volley,Glamour Volley,F2,Demigod L3 Mid,B
+MV-ELI-BOW-003-07,River Bend Arrow,Nova Bowgrip,F2,Demigod L3 Mid,B
+MV-ELI-BOW-003-08,Torrent Shaft Pour,Silt Quiver,F2,Demigod L3 Mid,B
+MV-ELI-BOW-003-09,Azure River Unbroken Run,Hour Volley,F2,Demigod L3 Mid,B
+MV-ELI-BOW-004-01,Azure Sight Setting,Vanesinsight,F4,Demigod L4 Low,B
+MV-ELI-BOW-004-02,Long Azure Draw,Loose Devastation,F3,Demigod L4 Low,B
+MV-ELI-BOW-004-03,Thin Air Offset,Limbhavoc,F4,Demigod L4 Low,B
+MV-ELI-BOW-004-04,Reach Step Settle,Silt Limbtip,F2,Demigod L4 Low,B
+MV-ELI-BOW-004-05,Reach Lifting Shaft,Arrowrest Havoc,F3,Demigod L4 Low,B
+MV-ELI-BOW-004-06,Azure Mark Pin Shot,Suffocating Nock,F1,Demigod L4 Low,B
+MV-ELI-BOW-004-07,Reach Quiver Barrage,Rampaging Serving,F1,Demigod L4 Low,B
+MV-ELI-BOW-004-08,Sky Line Piercer,Tempered Riser,F2,Demigod L4 Low,B
+MV-ELI-BOW-004-09,Azure Falling Spear,Eviscerating Limbtip,F1,Demigod L4 Low,B
+MV-ELI-BOW-004-10,Azure Reach Far Judgment,Novariser,F5,Demigod L4 Low,B
+MV-ELI-BOW-005-01,Upper Limb Awareness,Illuminating Arrowrest,F1,Demigod L2 Mid,B
+MV-ELI-BOW-005-02,Lower Limb Awareness,Expanse Nock,F2,Demigod L2 Mid,B
+MV-ELI-BOW-005-03,Twin Limb Draw,Gustriser,F5,Demigod L2 Mid,B
+MV-ELI-BOW-005-04,Limb Spring Release,Snapshot Devastation,F3,Demigod L2 Mid,B
+MV-ELI-BOW-005-05,Paired Limb Parry,Murk Serving,F2,Demigod L2 Mid,B
+MV-ELI-BOW-005-06,Limb Tip Behind Knee Hook,Gyvelimb,F5,Demigod L2 Mid,B
+MV-ELI-BOW-005-07,Dual Spring Piercer,Booming Quiver,F1,Demigod L2 Mid,B
+MV-ELI-BOW-005-08,Limb Wave Return,Glamour Limb,F2,Demigod L2 Mid,B
+MV-ELI-BOW-005-09,Azure Basin Twin Spring Shot,Hollow Loose,F2,Demigod L2 Mid,B
+MV-ELI-BOW-006-01,Upper Air Sensing,Bowgrip Premonition,F3,Demigod L4 Mid,B
+MV-ELI-BOW-006-02,High Perch Settle,Limbglare,F4,Demigod L4 Mid,B
+MV-ELI-BOW-006-03,Rising Aim Offset,Loosehavoc,F4,Demigod L4 Mid,B
+MV-ELI-BOW-006-04,Skyward Hawk Arrow,Blaze Bowstring,F2,Demigod L4 Mid,B
+MV-ELI-BOW-006-05,Hawk Court Bounce Shot,Release Wrath,F3,Demigod L4 Mid,B
+MV-ELI-BOW-006-06,Wind Parting Guard,Obdurate Quiver,F1,Demigod L4 Mid,B
+MV-ELI-BOW-006-07,Court Perch Rain,Quiverruin,F4,Demigod L4 Mid,B
+MV-ELI-BOW-006-08,Upper Air Pinion Shot,Glint Vanes,F2,Demigod L4 Mid,B
+MV-ELI-BOW-006-09,Hawk Court Sky Reaver,Facet Volley,F2,Demigod L4 Mid,B
+MV-ELI-BOW-007-01,Twin River Breathing,Verity Bowstring,F2,Demigod L5 Low,B
+MV-ELI-BOW-007-02,Left Stream Anchor,Chime Anchor,F2,Demigod L5 Low,B
+MV-ELI-BOW-007-03,Right Stream Release,Gnashing Serving,F1,Demigod L5 Low,B
+MV-ELI-BOW-007-04,Dual Stream Step,Granite Draw,F2,Demigod L5 Low,B
+MV-ELI-BOW-007-05,Twin Stream Guard,Quivervalor,F4,Demigod L5 Low,B
+MV-ELI-BOW-007-06,Meeting Waters Arrow,Booming Riser,F1,Demigod L5 Low,B
+MV-ELI-BOW-007-07,River Fork Volley,Snapshot Ruin,F3,Demigod L5 Low,B
+MV-ELI-BOW-007-08,Twin Stream Sense,Chime Bowgrip,F2,Demigod L5 Low,B
+MV-ELI-BOW-007-09,Double River Breach,Facetanchor,F5,Demigod L5 Low,B
+MV-ELI-BOW-007-10,Confluence Rain,Granite Riser,F2,Demigod L5 Low,B
+MV-ELI-BOW-007-11,Twin River Confluence Shot,Ruinous Rumble Anchor,F6a,Demigod L5 Low,B
+MV-ELI-BOW-008-01,Net Anchored Draw,Facet Arrowrest,F2,Monarch L1 Low,B
+MV-ELI-BOW-008-02,Dual Track Nock Flow,Loose Ruin,F3,Monarch L1 Low,B
+MV-ELI-BOW-008-03,Monarch Stance Settle,Nock Slipstream,F3,Monarch L1 Low,B
+MV-ELI-BOW-008-04,Network Shaft Pour,Ruinous Limb,F1,Monarch L1 Low,B
+MV-ELI-BOW-008-05,Twin Track Parry,Murknock,F5,Monarch L1 Low,B
+MV-ELI-BOW-008-06,Dual Track Pin Shot,Gyvenock,F5,Monarch L1 Low,B
+MV-ELI-BOW-008-07,Network Hawk Piercer,Novavolley,F5,Monarch L1 Low,B
+MV-ELI-BOW-008-08,Dual Track Rain,Downpour Volley,F2,Monarch L1 Low,B
+MV-ELI-BOW-008-09,Monarch Azure Dual Shot,Blistering Limbtip Scourge,F6b,Monarch L1 Low,B
+MV-ELI-BOW-009-01,Long Bearing Bow Take,Riservigil,F4,Demigod L1 Low,B
+MV-ELI-BOW-009-02,Wind Sworn Draw,Blaze Vanes,F2,Demigod L1 Low,B
+MV-ELI-BOW-009-03,Bearing Hold Nock Step,Siltvolley,F5,Demigod L1 Low,B
+MV-ELI-BOW-009-04,Long Bearing Arrow,Vanesscourge,F4,Demigod L1 Low,B
+MV-ELI-BOW-009-05,Gale Reading Spread,Beneficent Vanes,F1,Demigod L1 Low,B
+MV-ELI-BOW-009-06,Oath Held Pin Shot,Snapshot Valor,F3,Demigod L1 Low,B
+MV-ELI-BOW-009-07,Bearing Locked Piercer,Anchorruin,F4,Demigod L1 Low,B
+MV-ELI-BOW-009-08,Long Gale Rain,Dismantling Draw,F2,Demigod L1 Low,B
+MV-ELI-BOW-009-09,Wind Sworn Long Bearing Strike,Punishing Bowgrip Havoc,F6b,Demigod L1 Low,B
+MV-ELI-BOW-010-01,Sworn Word Stance,Prescient Limbtip,F1,Demigod L2 Mid,B
+MV-ELI-BOW-010-02,Host Line Draw,Rumbleriser,F5,Demigod L2 Mid,B
+MV-ELI-BOW-010-03,Plateau Gust Step,Might Release,F2,Demigod L2 Mid,B
+MV-ELI-BOW-010-04,Oath Turn Guard,Murkvanes,F5,Demigod L2 Mid,B
+MV-ELI-BOW-010-05,Host Oath Volley,Charter Nock,F2,Demigod L2 Mid,B
+MV-ELI-BOW-010-06,Gale Plateau Aim Share,Buoying Bowstring,F1,Demigod L2 Mid,B
+MV-ELI-BOW-010-07,Sworn Rank Cover Shot,Shattering Draw,F1,Demigod L2 Mid,B
+MV-ELI-BOW-010-08,Windward Oath Piercer,Mangling Quiver,F1,Demigod L2 Mid,B
+MV-ELI-BOW-010-09,Host Gale Barrage,Silt Arrowrest,F2,Demigod L2 Mid,B
+MV-ELI-BOW-010-10,Plateau Oath Sundering Volley,Dismantling Volley,F2,Demigod L2 Mid,B
+MV-ELI-BOW-011-01,String Wind Reading,Remnant Serving,F2,Demigod L3 Low,B
+MV-ELI-BOW-011-02,Gale Bearing Seat,Novaquiver,F5,Demigod L3 Low,B
+MV-ELI-BOW-011-03,Gust Count Loose,Limbwrath,F4,Demigod L3 Low,B
+MV-ELI-BOW-011-04,Gale Curved Arrow,Lacerating Snapshot,F1,Demigod L3 Low,B
+MV-ELI-BOW-011-05,Wind Stripe Marking,Reverie Limb,F2,Demigod L3 Low,B
+MV-ELI-BOW-011-06,Gale Tailing Shaft,Ponderous Release,F2,Demigod L3 Low,B
+MV-ELI-BOW-011-07,Windfall Piercing Shot,Vengeful Draw,F1,Demigod L3 Low,B
+MV-ELI-BOW-011-08,Gale Reading Net,Slag Bowstring,F2,Demigod L3 Low,B
+MV-ELI-BOW-011-09,Gale Reading Final Bearing,Hollow Anchor,F2,Demigod L3 Low,B
+MV-ELI-BOW-012-01,Open Ground Awareness,Expanse Limb,F2,Demigod L3 Mid,B
+MV-ELI-BOW-012-02,Moving Draw Gather,Glintlimb,F5,Demigod L3 Mid,B
+MV-ELI-BOW-012-03,Open Field Bow Pace,Ghosting Vanes,F1,Demigod L3 Mid,B
+MV-ELI-BOW-012-04,No Cover Crouch,Unassailable Riser,F1,Demigod L3 Mid,B
+MV-ELI-BOW-012-05,Open Shaft Turn Loose,Riserwrath,F4,Demigod L3 Mid,B
+MV-ELI-BOW-012-06,Wide Field Stream,Quiverhavoc,F4,Demigod L3 Mid,B
+MV-ELI-BOW-012-07,Free Stride Pin Shot,Fastening Snapshot,F2,Demigod L3 Mid,B
+MV-ELI-BOW-012-08,Open Sky Shaft Reaver,Rumble Loose,F2,Demigod L3 Mid,B
+MV-ELI-BOW-012-09,Unwalled Rain,Downpour Anchor,F2,Demigod L3 Mid,B
+MV-ELI-BOW-012-10,Open Sky Shaft Breaking,Facetvanes,F5,Demigod L3 Mid,B
+MV-ELI-BOW-013-01,Plateau Bearing Setting,Remnant Bowgrip,F2,Demigod L4 Low,B
+MV-ELI-BOW-013-02,Oath Spoken Draw,Ruinous Volley,F1,Demigod L4 Low,B
+MV-ELI-BOW-013-03,Kept Bearing Release,Merciless Arrowrest,F1,Demigod L4 Low,B
+MV-ELI-BOW-013-04,Oath Bound Arrow,Chime Serving,F2,Demigod L4 Low,B
+MV-ELI-BOW-013-05,High Plateau Rain,Intent Quiver,F2,Demigod L4 Low,B
+MV-ELI-BOW-013-06,Sworn Return Shaft,Intentriser,F5,Demigod L4 Low,B
+MV-ELI-BOW-013-07,Bearing Held Spear Shot,Gnashing Draw,F1,Demigod L4 Low,B
+MV-ELI-BOW-013-08,Oath Of The Wind Rain,Brutalizing Nock,F1,Demigod L4 Low,B
+MV-ELI-BOW-013-09,High Plateau Bearing Judgment,Facet Loose,F2,Demigod L4 Low,B
+MV-ELI-BOW-014-01,Bow Arm Edge Setting,Remnant Vanes,F2,Demigod L5 Low,B
+MV-ELI-BOW-014-02,Edge Anchored Draw,Hoarfrost Snapshot,F2,Demigod L5 Low,B
+MV-ELI-BOW-014-03,Edge Step Cut,Meteoric Quiver,F1,Demigod L5 Low,B
+MV-ELI-BOW-014-04,Wind Edge Limb Slash,Volleyruin,F4,Demigod L5 Low,B
+MV-ELI-BOW-014-05,Gale Edge Parry,Murk Limbtip,F2,Demigod L5 Low,B
+MV-ELI-BOW-014-06,Edge Pin Shot,Thornriser,F5,Demigod L5 Low,B
+MV-ELI-BOW-014-07,Wind Edge Piercer,Hellish Bowgrip,F1,Demigod L5 Low,B
+MV-ELI-BOW-014-08,Gale Limb Rain,Downpour Riser,F2,Demigod L5 Low,B
+MV-ELI-BOW-014-09,Wind Edge Final Draw,Punishing Release,F1,Demigod L5 Low,B
+MV-ELI-BOW-015-01,Long Gale Standing,Limbblink,F4,Demigod L6 Low,B
+MV-ELI-BOW-015-02,Gale Held Draw,Anchorscourge,F4,Demigod L6 Low,B
+MV-ELI-BOW-015-03,Sworn Gale Count,Revitalizing Arrowrest,F1,Demigod L6 Low,B
+MV-ELI-BOW-015-04,Long Gale Loose,Volleyscourge,F4,Demigod L6 Low,B
+MV-ELI-BOW-015-05,Gale Sweeping Barrage,Drawscourge,F4,Demigod L6 Low,B
+MV-ELI-BOW-015-06,Oath Gale Guard,Iron Limbtip,F2,Demigod L6 Low,B
+MV-ELI-BOW-015-07,Gale Borne Piercer,Hollow Limb,F2,Demigod L6 Low,B
+MV-ELI-BOW-015-08,Long Gale Arrow Storm,Nockwrath,F4,Demigod L6 Low,B
+MV-ELI-BOW-015-09,Sworn Long Gale Unleashing,Shattering Mayhem Draw,F6a,Demigod L6 Low,B
+MV-ELI-BOW-016-01,Network Oath Draw,Release Havoc,F3,Monarch L1 Mid,B
+MV-ELI-BOW-016-02,Open Wind Nock,Gnashing Nock,F1,Monarch L1 Mid,B
+MV-ELI-BOW-016-03,Monarch Gale Step,Silt Serving,F2,Monarch L1 Mid,B
+MV-ELI-BOW-016-04,Network Gale Shaft,Rumble Bowstring,F2,Monarch L1 Mid,B
+MV-ELI-BOW-016-05,Oath Parry Turn,Chime Bowstring,F2,Monarch L1 Mid,B
+MV-ELI-BOW-016-06,Gale Pin Shot Pair,Overpowering Anchor,F1,Monarch L1 Mid,B
+MV-ELI-BOW-016-07,Network Wind Piercer,Tempered Volley,F2,Monarch L1 Mid,B
+MV-ELI-BOW-016-08,Open Wind Arrow Rain,Blaze Riser,F2,Monarch L1 Mid,B
+MV-ELI-BOW-016-09,Monarch Oath Wind Shot,Hollowriser,F5,Monarch L1 Mid,B
+MV-ELI-BOW-001-04,Expanse Bowstring,Perceptive Bowstring,F2,Demigod L1 Low,B
+MV-ELI-BOW-005-02,Expanse Nock,Discerning Nock,F2,Demigod L2 Mid,B
+MV-ELI-BOW-005-09,Hollow Loose,Rending Loose,F2,Demigod L2 Mid,B
+MV-ELI-BOW-007-11,Ruinous Rumble Anchor,Ruinous Anchor,F6a,Demigod L5 Low,B
+MV-ELI-BOW-008-09,Blistering Limbtip Scourge,Blistering Limbtip,F6b,Monarch L1 Low,B
+MV-ELI-BOW-009-09,Punishing Bowgrip Havoc,Punishing Bowgrip,F6b,Demigod L1 Low,B
+MV-ELI-BOW-011-09,Hollow Anchor,Searing Anchor,F2,Demigod L3 Low,B
+MV-ELI-BOW-012-01,Expanse Limb,Farseeing Limb,F2,Demigod L3 Mid,B
+MV-ELI-BOW-015-07,Hollow Limb,Lancing Limb,F2,Demigod L6 Low,B
+MV-ELI-BOW-015-09,Shattering Mayhem Draw,Staggering Draw,F6a,Demigod L6 Low,B

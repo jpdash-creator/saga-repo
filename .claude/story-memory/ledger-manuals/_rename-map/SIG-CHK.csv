@@ -1,0 +1,140 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-CHK-001-01,Mirrored Wrist Warm-Up,Vigor Roundedge,F2,Warrior,B
+MV-SIG-CHK-001-02,Hawk Sight Along the Rim,Benevolent Bladering,F1,Warrior,B
+MV-SIG-CHK-001-03,Twin Low Pitch,Glacier Fingerhole,F2,Warrior,B
+MV-SIG-CHK-001-04,Azure Crescent Arc,Bouncedecree,F4,Warrior,B
+MV-SIG-CHK-001-05,Hawk-Wing Rim Parry,Dantian Hoopedge,F2,Warrior,B
+MV-SIG-CHK-001-06,Paired Step-In Cut,Quenched Gyrate,F2,Warrior,B
+MV-SIG-CHK-001-07,Twin Hawk Crossing,Splendid Disk,F1,Champion,B
+MV-SIG-CHK-001-08,Crescent Net Cast,Marrowfire Holeedge,F2,Champion,B
+MV-SIG-CHK-001-09,Hawk Unbarred Pass,Thunderclap Ringface,F2,Demigod,B
+MV-SIG-CHK-001-10,Hawk's Opposed Crescent Reaping,Majestic Whirlcut,F1,Warrior,B
+MV-SIG-CHK-002-01,River Stone Grip,Tranquil Roundedge,F1,Warrior,B
+MV-SIG-CHK-002-02,Two-Rim Level Skim,Dantian Holeedge,F2,Warrior,B
+MV-SIG-CHK-002-03,Bank Shift Pace,Feather Ricochet,F1,Warrior,B
+MV-SIG-CHK-002-04,Current-Split Pair,Gyratebanner,F4,Warrior,B
+MV-SIG-CHK-002-05,Rim Eddy Parry,Undefiled Disk,F1,Warrior,B
+MV-SIG-CHK-002-06,Ford-Crossing Rim Cut,Marrowfire Outerblade,F2,Warrior,B
+MV-SIG-CHK-002-07,Spring Flood Pair,Volition Bladering,F2,Warrior,B
+MV-SIG-CHK-002-08,River Bend Return Cut,Noble Graze,F1,Champion,B
+MV-SIG-CHK-002-09,Two-Rim Whirlpool,Carom Vow,F3,Champion,B
+MV-SIG-CHK-002-10,Floodplain Spread Cast,Magmabounce,F5,Demigod,B
+MV-SIG-CHK-002-11,River Takes Both Rims,Caromtriumph,F4,Warrior,B
+MV-SIG-CHK-003-01,Court Posture Rise,Parity Hoopedge,F2,Champion,B
+MV-SIG-CHK-003-02,Twin Track Pitch,Peal Ringface,F2,Champion,B
+MV-SIG-CHK-003-03,Silent Heel Turn,Vigor Graze,F2,Champion,B
+MV-SIG-CHK-003-04,Spin-Court Feint,Gyratevow,F4,Champion,B
+MV-SIG-CHK-003-05,Dual-Track Shield Spin,Venerable Innergrip,F1,Champion,B
+MV-SIG-CHK-003-06,Court-Corner Bank Shot,Pulsarround,F5,Champion,B
+MV-SIG-CHK-003-07,Spinning Court Verdict,Steelcarom,F5,Champion,B
+MV-SIG-CHK-003-08,Track-Locking Snare,Dune Fingerhole,F2,Champion,B
+MV-SIG-CHK-003-09,Twin Rim Court Sweep,Inferno Outerblade,F2,Demigod,B
+MV-SIG-CHK-003-10,Court of Two Rings,Grand Marrowfire Carom,F6a,Champion,B
+MV-SIG-CHK-004-01,Hawk Pair Stretch,Gracious Innergrip,F1,Ruler,B
+MV-SIG-CHK-004-02,Basin Rim Count,Luminous Disk,F1,Ruler,B
+MV-SIG-CHK-004-03,Paired Palm Skim,Prismgyrate,F5,Ruler,B
+MV-SIG-CHK-004-04,Wide Basin Stance,Inviolate Bladering,F1,Ruler,B
+MV-SIG-CHK-004-05,Hawk Descending Pair,Peerless Carom,F1,Ruler,B
+MV-SIG-CHK-004-06,Basin Echo Return,Inferno Bounce,F2,Ruler,B
+MV-SIG-CHK-004-07,Cross-Rim Hawk Guard,Undaunted Ringface,F1,Ruler,B
+MV-SIG-CHK-004-08,Basin Edge Slip Cut,Squallbounce,F5,Ruler,B
+MV-SIG-CHK-004-09,Hawk Over Basin Dive,Valiant Gyrate,F1,Ruler,B
+MV-SIG-CHK-004-10,Basin-Ring Orbit Hold,Hornbeam Roundedge,F2,Ruler,B
+MV-SIG-CHK-004-11,Paired Art Full Circuit,Fingerhole Verdict,F3,Demigod,B
+MV-SIG-CHK-004-12,Hawk and Basin Closing Pair,Destiny Spinrim,F2,Ruler,B
+MV-SIG-CHK-005-01,Azure Orbit Seating,Bloom Holeedge,F2,Demigod,B
+MV-SIG-CHK-005-02,Level Rim Pitch,Pulsarcarom,F5,Demigod,B
+MV-SIG-CHK-005-03,Orbit Breath Slide,Evanescent Spinrim,F1,Demigod,B
+MV-SIG-CHK-005-04,Codex Orbit Fling,Grazeverdict,F4,Demigod,B
+MV-SIG-CHK-005-05,Orbiting Rim Counter,Sphere Innergrip,F2,Demigod,B
+MV-SIG-CHK-005-06,Orbit Closing Slice,Haemal Hoopedge,F2,Demigod,B
+MV-SIG-CHK-005-07,Orbit Tether Snare,Penumbra Spinrim,F2,Demigod,B
+MV-SIG-CHK-005-08,Azure Orbit Pierce,Steeldisk,F5,Demigod,B
+MV-SIG-CHK-005-09,Twin Rim Sky Fold,Pulsargyrate,F5,Demigod,B
+MV-SIG-CHK-005-10,Orbit-Crowned Sky Cut,Splendid Ricochet Decree,F6b,Demigod,B
+MV-SIG-CHK-006-01,Wheel Seating Breath,Vigor Innergrip,F2,Core Formation,B
+MV-SIG-CHK-006-02,Sky Line Gaze,Clement Outerblade,F1,Core Formation,B
+MV-SIG-CHK-006-03,Twin Wheel Pitch,Kernelcarom,F5,Core Formation,B
+MV-SIG-CHK-006-04,Wheel Arc Skim,Matchless Whirlcut,F1,Core Formation,B
+MV-SIG-CHK-006-05,Rim Break Parry,Fingerhole Vow,F3,Core Formation,B
+MV-SIG-CHK-006-06,Wheel Roll Cut,Gyrateverdict,F4,Core Formation,B
+MV-SIG-CHK-006-07,Spoke-Cross Throw,Nucleus Whirlcut,F2,Core Formation,B
+MV-SIG-CHK-006-08,Twin Wheel Rend,Exalted Ricochet,F1,Core Formation,B
+MV-SIG-CHK-006-09,Wheel Hold Orbit,Outerblade Pledge,F3,Core Formation,B
+MV-SIG-CHK-006-10,Sky-Wide Wheel Release,Nucleus Gyrate,F2,Core Formation,B
+MV-SIG-CHK-006-11,Twin Wheels Over the Field,Fearless Graze Crown,F6b,Core Formation,B
+MV-SIG-CHK-007-01,Wind Oath Grip,Serene Spinrim,F1,Warrior,B
+MV-SIG-CHK-007-02,Plateau Level Throw,Vaunted Carom,F1,Warrior,B
+MV-SIG-CHK-007-03,Bare Ridge Step,Feather Gyrate,F1,Warrior,B
+MV-SIG-CHK-007-04,Gust Bend Cast,Pealgraze,F5,Warrior,B
+MV-SIG-CHK-007-05,Sworn Rim Parry,Bladering Seal,F3,Warrior,B
+MV-SIG-CHK-007-06,Ridge-Line Hurl,Pealgyrate,F5,Warrior,B
+MV-SIG-CHK-007-07,Plateau Gale Throw,Pealdisk,F5,Champion,B
+MV-SIG-CHK-007-08,Sworn Gust Guard,Unwavering Holeedge,F1,Champion,B
+MV-SIG-CHK-007-09,Wind-Sworn Leap Cut,Spectral Hoopedge,F1,Demigod,B
+MV-SIG-CHK-007-10,Rims of the Open Plateau,Valiant Whirlcut Banner,F6b,Warrior,B
+MV-SIG-CHK-008-01,Bearing Oath Recital,Reminiscence Innergrip,F2,Warrior,B
+MV-SIG-CHK-008-02,Rim-to-Bearing Pitch,Royal Roundedge,F1,Warrior,B
+MV-SIG-CHK-008-03,Sworn Foot Pivot,Wraithlike Hoopedge,F1,Warrior,B
+MV-SIG-CHK-008-04,Held Bearing Skim,Carom Crown,F3,Warrior,B
+MV-SIG-CHK-008-05,Bearing Break Parry,Sainted Disk,F1,Warrior,B
+MV-SIG-CHK-008-06,Bearing Return Arc,Roundedge Decree,F3,Warrior,B
+MV-SIG-CHK-008-07,Oath Step Rim Cut,Haemalhoop,F5,Warrior,B
+MV-SIG-CHK-008-08,Unbroken Bearing Pierce,Triumphant Graze,F1,Champion,B
+MV-SIG-CHK-008-09,Oath Line Snare,Dantian Fingerhole,F2,Champion,B
+MV-SIG-CHK-008-10,Bearing Beyond Sight Cast,Grazebanner,F4,Demigod,B
+MV-SIG-CHK-008-11,The Bearing Kept,Grand Tenet Ricochet,F6a,Warrior,B
+MV-SIG-CHK-009-01,Oath-Wheel Seating,Vigor Outerblade,F2,Champion,B
+MV-SIG-CHK-009-02,Gale Rim Spin-Up,Bountiful Spinrim,F1,Champion,B
+MV-SIG-CHK-009-03,Wind-Hand Pitch,Disktriumph,F4,Champion,B
+MV-SIG-CHK-009-04,Wheel Oath Arc,Radiance Bounce,F2,Champion,B
+MV-SIG-CHK-009-05,Gale Rim Catch,Sanctum Bladering,F2,Champion,B
+MV-SIG-CHK-009-06,Spoke Wind Cut,Bouncetriumph,F4,Champion,B
+MV-SIG-CHK-009-07,Oath Wheel Rebound,Noble Ringface,F1,Champion,B
+MV-SIG-CHK-009-08,Gale Wheel Hold,Sacrosanct Disk,F1,Champion,B
+MV-SIG-CHK-009-09,Wheel Takes the Gale,Duneround,F5,Demigod,B
+MV-SIG-CHK-009-10,Oath of the Turning Rim,Seasongyrate,F5,Champion,B
+MV-SIG-CHK-010-01,Open-Side Stance,Consecrated Innergrip,F1,Ruler,B
+MV-SIG-CHK-010-02,Wide Plain Pitch,Grazetriumph,F4,Ruler,B
+MV-SIG-CHK-010-03,Wind Cuff Check,Revelation Hoopedge,F2,Ruler,B
+MV-SIG-CHK-010-04,Coverless Pace,Squall Graze,F2,Ruler,B
+MV-SIG-CHK-010-05,Open-Side Bend Throw,Squallgyrate,F5,Ruler,B
+MV-SIG-CHK-010-06,Crowd-Cut Fan,Vaunted Ringface,F1,Ruler,B
+MV-SIG-CHK-010-07,Gale Slip Parry,Pall Disk,F2,Ruler,B
+MV-SIG-CHK-010-08,Wind Scoop Recovery,Vigor Ricochet,F2,Ruler,B
+MV-SIG-CHK-010-09,Everywhere Guard Spin,Consecrated Holeedge,F1,Ruler,B
+MV-SIG-CHK-010-10,Open Front Lance,Thunderclap Carom,F2,Ruler,B
+MV-SIG-CHK-010-11,Plateau Gale Overrun,Solarbounce,F5,Demigod,B
+MV-SIG-CHK-010-12,Rim of the Unsheltered,Grand Fingerhole,F1,Ruler,B
+MV-SIG-CHK-011-01,Turning Edge Warm Spin,Luminous Holeedge,F1,Demigod,B
+MV-SIG-CHK-011-02,Plateau Wind Pitch,Spherehoop,F5,Demigod,B
+MV-SIG-CHK-011-03,Gust Heel Pivot,Vigor Gyrate,F2,Demigod,B
+MV-SIG-CHK-011-04,Edge Turn Lob,Sovereign Bounce,F1,Demigod,B
+MV-SIG-CHK-011-05,Wind-Parting Rim,Sacrosanct Ringface,F1,Demigod,B
+MV-SIG-CHK-011-06,Gale Spiral Cut,Gyratedecree,F4,Demigod,B
+MV-SIG-CHK-011-07,Plateau Wind Piercer,Radiance Spinrim,F2,Demigod,B
+MV-SIG-CHK-011-08,Turning Edge Trap Line,Dune Spinrim,F2,Demigod,B
+MV-SIG-CHK-011-09,Edge of the Gale Dash,Diskboon,F4,Demigod,B
+MV-SIG-CHK-011-10,Winds of the High Rim,Noble Magma Bladering,F6a,Demigod,B
+MV-SIG-CHK-012-01,Great Gale Breathing,Bladering Blessing,F3,Core Formation,B
+MV-SIG-CHK-012-02,Oath Ring Sight,Interstice Innergrip,F2,Core Formation,B
+MV-SIG-CHK-012-03,Core-Steadied Pitch,Prism Graze,F2,Core Formation,B
+MV-SIG-CHK-012-04,Gale Ring Skim,Pulsar Whirlcut,F2,Core Formation,B
+MV-SIG-CHK-012-05,Great Rim Parry,Enshrined Outerblade,F1,Core Formation,B
+MV-SIG-CHK-012-06,Wide Gale Cut,Imperial Whirlcut,F1,Core Formation,B
+MV-SIG-CHK-012-07,Oath Step Arc,Squallcarom,F5,Core Formation,B
+MV-SIG-CHK-012-08,Great Ring Rend,Thunderclap Ricochet,F2,Core Formation,B
+MV-SIG-CHK-012-09,Gale Ring Orbit Hold,Undefiled Holeedge,F1,Core Formation,B
+MV-SIG-CHK-012-10,Oath-Gale Ring Sweep,Kernelbounce,F5,Core Formation,B
+MV-SIG-CHK-012-11,Ring of the Standing Gale,Triumphant Bounce,F1,Core Formation,B
+MV-SIG-CHK-001-03,Glacier Fingerhole,Heroic Fingerhole,F2,Warrior,B
+MV-SIG-CHK-003-08,Dune Fingerhole,Snaring Fingerhole,F2,Champion,B
+MV-SIG-CHK-003-10,Grand Marrowfire Carom,Grand Carom,F6a,Champion,B
+MV-SIG-CHK-004-10,Hornbeam Roundedge,Steadfast Roundedge,F2,Ruler,B
+MV-SIG-CHK-005-10,Splendid Ricochet Decree,Splendid Ricochet,F6b,Demigod,B
+MV-SIG-CHK-006-11,Fearless Graze Crown,Fearless Graze,F6b,Core Formation,B
+MV-SIG-CHK-007-10,Valiant Whirlcut Banner,Valiant Whirlcut,F6b,Warrior,B
+MV-SIG-CHK-008-11,Grand Tenet Ricochet,Grand Ricochet,F6a,Warrior,B
+MV-SIG-CHK-009-05,Sanctum Bladering,Unyielding Bladering,F2,Champion,B
+MV-SIG-CHK-011-08,Dune Spinrim,Cunning Spinrim,F2,Demigod,B
+MV-SIG-CHK-011-10,Noble Magma Bladering,Noble Bladering,F6a,Demigod,B

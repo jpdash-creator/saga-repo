@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-worlds-p15-cross-part-dependencies",
+ "part": 15,
+ "area": 20,
+ "sequence_in_part": 20,
+ "title": "Cross-Part Dependencies",
+ "domain": "worlds",
+ "source_file": "Part_15_World_Systems_Travel_Law.md",
+ "start_line": 862,
+ "end_line": 891,
+ "line_count": 30,
+ "output_path": ".claude/skills/ssc-worlds-p15-cross-part-dependencies/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-worlds-p13-foundational-principles-location-law",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Travel mechanics govern movement between Part 13 location types"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-cosmological-architecture",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Travel mechanics govern movement between Part 13 location types"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-village-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Travel mechanics govern movement between Part 13 location types"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-town-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Travel mechanics govern movement between Part 13 location types"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-city-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Travel mechanics govern movement between Part 13 location types"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-capital-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Travel mechanics govern movement between Part 13 location types"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-kingdom-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Travel mechanics govern movement between Part 13 location types"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-empire-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Travel mechanics govern movement between Part 13 location types"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-sacred-ground-governance",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Travel mechanics govern movement between Part 13 location types"
+  },
+  {
+   "skill_id": "ssc-worlds-p13-energy-formation-zone-governance",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Travel mechanics govern movement between Part 13 location types"
+  }
+ ]
+}

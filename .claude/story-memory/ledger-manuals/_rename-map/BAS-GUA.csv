@@ -1,0 +1,70 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-GUA-001-01,Shoulder-Width Pole Grip,Guangauge,F4,T1 Unawakened,A
+MV-BAS-GUA-001-02,Overhead Crescent Fall,Single Polebelly,F1,T1 Unawakened,A
+MV-BAS-GUA-001-03,Shin-High Pole Sweep,Stiff Crescentback,F1,T1 Unawakened,A
+MV-BAS-GUA-001-04,Blade Belly Block,Cresthusk,F4,T1 Unawakened,A
+MV-BAS-GUA-001-05,Iron Tail Jab,Stiff Ironsweep,F1,T1 Unawakened,A
+MV-BAS-GUA-001-06,Planted Pole Pivot,Hiltpace,F4,T1 Unawakened,A
+MV-BAS-GUA-002-01,Wide Stance Settle,Kind Heavyblade,F1,T1 Skin,A
+MV-BAS-GUA-002-02,Crescent Drag Step,Backward Redtassel,F1,T1 Skin,A
+MV-BAS-GUA-002-03,Half Turn Chop,Hiltstrike,F4,T1 Skin,A
+MV-BAS-GUA-002-04,Pole Across Parry,Loomwedge,F4,T1 Skin,A
+MV-BAS-GUA-002-05,Rear Foot Reset,Watching Guantang,F1,T1 Skin,A
+MV-BAS-GUA-003-01,Carry at the Hip,Gentle Tailspike,F1,T1 Muscle,A
+MV-BAS-GUA-003-02,Rising Edge Cut,Wide Guanhook,F1,T1 Muscle,A
+MV-BAS-GUA-003-03,Backhand Crescent Slash,Blunt Counterspike,F1,T1 Muscle,A
+MV-BAS-GUA-003-04,Haft Catch and Hold,Guanwedge,F4,T1 Muscle,A
+MV-BAS-GUA-003-05,Thrusting Tip Prod,Hiltblow,F4,T1 Muscle,A
+MV-BAS-GUA-003-06,Two Pace Retreat,Shifting Bladewheel,F1,T1 Muscle,A
+MV-BAS-GUA-003-07,Blade Weight Rest,Loomcount,F4,T1 Muscle,A
+MV-BAS-GUA-004-01,Wide Wheel Sweep,Straight Heavyswing,F1,T1 Tendon,A
+MV-BAS-GUA-004-02,Arm Whip Return,Downward Rollcut,F1,T1 Tendon,A
+MV-BAS-GUA-004-03,Overhead Pole Spin,Lowered Guanpole,F1,T1 Tendon,A
+MV-BAS-GUA-004-04,Tendon Brace Stance,Measured Guanhook,F1,T1 Tendon,A
+MV-BAS-GUA-004-05,Edge Line Check,Mild Bladecollar,F1,T1 Tendon,A
+MV-BAS-GUA-004-06,Sliding Hand Lunge,Tuftblow,F4,T1 Tendon,A
+MV-BAS-GUA-005-01,Heavy Crescent Lift,Crescentback Note,F3,T1 Bone,A
+MV-BAS-GUA-005-02,Full Arc Chop,Hiltdrop,F4,T1 Bone,A
+MV-BAS-GUA-005-03,Butt-Weight Crescent Swing,Cresthit,F4,T1 Bone,A
+MV-BAS-GUA-005-04,Cross-Body Slash,Leaden Longsweep,F1,T1 Bone,A
+MV-BAS-GUA-005-05,Haft Wall Guard,Holding Redtassel,F1,T1 Bone,A
+MV-BAS-GUA-005-06,Blade Hook Pull,Fouling Longsweep,F1,T1 Bone,A
+MV-BAS-GUA-005-07,Lunging Blade Point,Short Bladecollar,F1,T1 Bone,A
+MV-BAS-GUA-005-08,Heavy Side Shift,Light Ironsweep,F1,T1 Bone,A
+MV-BAS-GUA-006-01,Long Grip Slide,Kind Polebelly,F1,T1 Skin,A
+MV-BAS-GUA-006-02,Butt Spike Stab,Stiff Bladewheel,F1,T1 Skin,A
+MV-BAS-GUA-006-03,Spike Clearing Sweep,Narrow Slashdown,F1,T1 Skin,A
+MV-BAS-GUA-006-04,Choked Grip Flick,Lowered Heavyblade,F1,T1 Skin,A
+MV-BAS-GUA-006-05,Grip Slide Reach Pace,Shifting Guanpole,F1,T1 Skin,A
+MV-BAS-GUA-007-01,Thread of Qi to the Blade,Measured Tailspike,F1,Senior L1 Low,A
+MV-BAS-GUA-007-02,Edge-Following Cut,Short Rollcut,F1,Senior L1 Low,A
+MV-BAS-GUA-007-03,Qi-Backed Crescent Sweep,Square Crescentback,F1,Senior L1 Low,A
+MV-BAS-GUA-007-04,Pole Rebound Parry,Planted Bladecollar,F1,Senior L1 Low,A
+MV-BAS-GUA-007-05,Tip Seeking Thrust,Blunt Heavyswing,F1,Senior L1 Low,A
+MV-BAS-GUA-007-06,Qi-Light Pole Slide,Swaying Guantang,F1,Senior L1 Low,A
+MV-BAS-GUA-007-07,Grip Warmth Sense,Mild Counterspike,F1,Senior L1 Low,A
+MV-BAS-GUA-008-01,Breath Set Stance,Calm Polebelly,F1,Senior L2 Low,A
+MV-BAS-GUA-008-02,Exhale Chop,Hilthit,F4,Senior L2 Low,A
+MV-BAS-GUA-008-03,Inhale Lift Cut,Firm Guanpole,F1,Senior L2 Low,A
+MV-BAS-GUA-008-04,Breath Held Guard,Raised Heavyblade,F1,Senior L2 Low,A
+MV-BAS-GUA-008-05,Blade Chasing Step,Slashdown Trot,F3,Senior L2 Low,A
+MV-BAS-GUA-008-06,Steady Tip Poke,Heavyswing Blow,F3,Senior L2 Low,A
+MV-BAS-GUA-009-01,Edge Truing Pass,Even Tailspike,F1,Senior L4 Mid,A
+MV-BAS-GUA-009-02,Clean Downcut,Loomdash,F4,Senior L4 Mid,A
+MV-BAS-GUA-009-03,Rising Edge Flick,Single Rollcut,F1,Senior L4 Mid,A
+MV-BAS-GUA-009-04,Cross Edge Catch,Hiltlid,F4,Senior L4 Mid,A
+MV-BAS-GUA-009-05,Short Slide Advance,Sideways Guantang,F1,Senior L4 Mid,A
+MV-BAS-GUA-010-01,Open Guard Stance,Soft Counterspike,F1,Senior L6 Low,A
+MV-BAS-GUA-010-02,Crescent Straight Cleave,Low Bladewheel,F1,Senior L6 Low,A
+MV-BAS-GUA-010-03,Horizontal Wheel Cut,Crestblow,F4,Senior L6 Low,A
+MV-BAS-GUA-010-04,Reverse Edge Slash,Guanhit,F4,Senior L6 Low,A
+MV-BAS-GUA-010-05,Pole Hook Parry,Guanpause,F4,Senior L6 Low,A
+MV-BAS-GUA-010-06,Forward Pole Push,Pushing Slashdown,F1,Senior L6 Low,A
+MV-BAS-GUA-010-07,Tip Drive Thrust,Straight Longsweep,F1,Senior L6 Low,A
+MV-BAS-GUA-010-08,Retreating Pole Cover,Hooding Redtassel,F1,Senior L6 Low,A
+MV-BAS-GUA-011-01,Student Ready Stance,Kind Guanpole,F1,Senior L9 Low,A
+MV-BAS-GUA-011-02,Steady Downward Chop,Guanstrike,F4,Senior L9 Low,A
+MV-BAS-GUA-011-03,Gentle Arc Slash,Loombump,F4,Senior L9 Low,A
+MV-BAS-GUA-011-04,Cautious Pole Block,Loomstay,F4,Senior L9 Low,A
+MV-BAS-GUA-011-05,Measured Tip Thrust,Tufthit,F4,Senior L9 Low,A
+MV-BAS-GUA-011-06,Careful Back Step,Swaying Crescentback,F1,Senior L9 Low,A

@@ -1,0 +1,80 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-KAT-001-01,Rear-Foot Slide of the Scabbard,Swaying Hamon,F1,Unawakened,A
+MV-BAS-KAT-001-02,Pommel Rising Thigh Cut,Hard Saya,F1,Unawakened,A
+MV-BAS-KAT-001-03,Flat Deflect of the Hilt,Resting Habaki,F1,Unawakened,A
+MV-BAS-KAT-001-04,Long-Grip Pulling Cut,Single Noto,F1,Unawakened,A
+MV-BAS-KAT-001-05,Open-Hand Hilt Pin,Catching Nakago,F1,Unawakened,A
+MV-BAS-KAT-002-01,Hip-Draw Eye-Line Point,Sayadrop,F4,Skin,A
+MV-BAS-KAT-002-02,Two-Hand Brace of the Scabbard,Kept Tsuka,F1,Skin,A
+MV-BAS-KAT-002-03,Square-Stance Diagonal Thigh Cut,Level Sageo,F1,Skin,A
+MV-BAS-KAT-002-04,Sheath Hook of the Hilt,Tsubawedge,F4,Skin,A
+MV-BAS-KAT-002-05,Hilt-Hand Shoulder Read,Judging Menuki,F1,Skin,A
+MV-BAS-KAT-002-06,Drawn-Blade Rising Knee Cut,Flat Zanshin,F1,Skin,A
+MV-BAS-KAT-003-01,Slow-Draw Rising Block,Tsuba Stay,F3,Muscle,A
+MV-BAS-KAT-003-02,Sheath-Mouth Level Flank Cut,Habakistrike,F4,Muscle,A
+MV-BAS-KAT-003-03,Pommel Check of the Scabbard,Tripping Tameshi,F1,Muscle,A
+MV-BAS-KAT-003-04,Pommel Foot Read,Watching Mune,F1,Muscle,A
+MV-BAS-KAT-003-05,Two-Hand Level Shoulder Cut,Hard Kiri,F1,Muscle,A
+MV-BAS-KAT-003-06,Long-Grip Sheath Block,Hamonlid,F4,Muscle,A
+MV-BAS-KAT-003-07,Open-Hand Half-Step Entry,Tsubatrot,F4,Muscle,A
+MV-BAS-KAT-004-01,Curved-Blade Level Knee Cut,Downward Kissaki,F1,Tendon,A
+MV-BAS-KAT-004-02,Spine Blade Bind,Locking Mune,F1,Tendon,A
+MV-BAS-KAT-004-03,Hip-Draw Distance Read,Gentle Tsuba,F1,Tendon,A
+MV-BAS-KAT-004-04,Tip-Line Slanting Thigh Cut,Quick Kesagiri,F1,Tendon,A
+MV-BAS-KAT-004-05,Square-Stance Low Guard,Hamoncowl,F4,Tendon,A
+MV-BAS-KAT-004-06,Gliding Step of the Hilt,Sageohop,F4,Tendon,A
+MV-BAS-KAT-004-07,Hilt-Hand Slanting Rib Cut,Habakidrop,F4,Tendon,A
+MV-BAS-KAT-004-08,Drawn-Blade Side Step,Stepping Nukitsuke,F1,Tendon,A
+MV-BAS-KAT-005-01,Drawn-Blade Shoulder Check,Fixing Saya,F1,Bone,A
+MV-BAS-KAT-005-02,Bare-Edge Breath Read,Tsubareview,F4,Bone,A
+MV-BAS-KAT-005-03,Slow-Draw Short Cut,Wide Kiri,F1,Bone,A
+MV-BAS-KAT-005-04,Sheath-Mouth Spine Parry,Habaki Wedge,F3,Bone,A
+MV-BAS-KAT-005-05,Back Step of the Scabbard,Quiet Noto,F1,Bone,A
+MV-BAS-KAT-005-06,Pommel Wrist Snap Cut,Menukibump,F4,Bone,A
+MV-BAS-KAT-006-01,Long-Grip Foot Read,Hamoncount,F4,Skin,A
+MV-BAS-KAT-006-02,Open-Hand Diagonal Forearm Cut,Blunt Tameshi,F1,Skin,A
+MV-BAS-KAT-006-03,Curved-Blade Rolling Parry,Ready Menuki,F1,Skin,A
+MV-BAS-KAT-006-04,Spine Pivot Turn,Easing Nakago,F1,Skin,A
+MV-BAS-KAT-006-05,Hip-Draw Reverse Flank Cut,Blunt Kesagiri,F1,Skin,A
+MV-BAS-KAT-006-06,Slant Entry of the Scabbard,Sideways Hamon,F1,Skin,A
+MV-BAS-KAT-006-07,Square-Stance Pommel Strike,Sageo Strike,F3,Skin,A
+MV-BAS-KAT-007-01,Single-Edge Reverse Rib Cut,Tsukadrop,F4,Senior,A
+MV-BAS-KAT-007-02,Hilt-Hand Mid Guard,Folded Kissaki,F1,Senior,A
+MV-BAS-KAT-007-03,Drawn-Blade Back Step,Easing Zanshin,F1,Senior,A
+MV-BAS-KAT-007-04,Bare-Edge Level Thigh Cut,Low Kesagiri,F1,Senior,A
+MV-BAS-KAT-007-05,Slow-Draw Slant Entry,Sayapace,F4,Senior,A
+MV-BAS-KAT-008-01,Pommel Hanging Guard,Hamonhusk,F4,Senior,A
+MV-BAS-KAT-008-02,Rear-Foot Slide of the Hilt,Tsukadodge,F4,Senior,A
+MV-BAS-KAT-008-03,Long-Grip Rising Shoulder Cut,Hard Kissaki,F1,Senior,A
+MV-BAS-KAT-008-04,Open-Hand Side Step,Menukitrot,F4,Senior,A
+MV-BAS-KAT-008-05,Curved-Blade Falling Rib Cut,Menukistrike,F4,Senior,A
+MV-BAS-KAT-008-06,Spine Wiping Parry,Resting Tsuka,F1,Senior,A
+MV-BAS-KAT-008-07,Hip-Draw Slanting Flank Cut,Sharp Kiri,F1,Senior,A
+MV-BAS-KAT-008-08,Beat Aside of the Scabbard,Pulling Tsuka,F1,Senior,A
+MV-BAS-KAT-009-01,Gliding Step of the Scabbard,Stepping Tsuba,F1,Senior,A
+MV-BAS-KAT-009-02,Square-Stance Falling Shoulder Cut,Wide Noto,F1,Senior,A
+MV-BAS-KAT-009-03,Half-Step Entry of the Hilt,Quiet Zanshin,F1,Senior,A
+MV-BAS-KAT-009-04,Hilt-Hand Level Neck Cut,Firm Nakago,F1,Senior,A
+MV-BAS-KAT-009-05,Drawn-Blade Rolling Parry,Snug Habaki,F1,Senior,A
+MV-BAS-KAT-009-06,Bare-Edge Reverse Shoulder Cut,Tsubablow,F4,Senior,A
+MV-BAS-KAT-010-01,Sheath-Mouth Diagonal Flank Cut,Leaden Mune,F1,Senior,A
+MV-BAS-KAT-010-02,Pivot Turn of the Scabbard,Backward Menuki,F1,Senior,A
+MV-BAS-KAT-010-03,Pommel Falling Wrist Cut,Downward Hamon,F1,Senior,A
+MV-BAS-KAT-010-04,Two-Hand Flat Deflect,Snug Saya,F1,Senior,A
+MV-BAS-KAT-010-05,Long-Grip Level Forearm Cut,Nakagodrop,F4,Senior,A
+MV-BAS-KAT-010-06,Open-Hand Sheath Hook,Tameshi Cowl,F3,Senior,A
+MV-BAS-KAT-010-07,Curved-Blade Shoulder Read,Judging Sageo,F1,Senior,A
+MV-BAS-KAT-011-01,Pommel Pivot Turn,Backward Hamon,F1,Senior,A
+MV-BAS-KAT-011-02,Hip-Draw Level Wrist Cut,Hard Nukitsuke,F1,Senior,A
+MV-BAS-KAT-011-03,Low Guard of the Scabbard,Habakihusk,F4,Senior,A
+MV-BAS-KAT-011-04,Square-Stance Reverse Forearm Cut,Munedash,F4,Senior,A
+MV-BAS-KAT-011-05,Shoulder Check of the Hilt,Nakagolid,F4,Senior,A
+MV-BAS-KAT-011-06,Hilt-Hand Distance Read,Tending Menuki,F1,Senior,A
+MV-BAS-KAT-011-07,Drawn-Blade Falling Thigh Cut,Square Tsuba,F1,Senior,A
+MV-BAS-KAT-011-08,Bare-Edge Spine Parry,Raised Sageo,F1,Senior,A
+MV-BAS-KAT-012-01,Bare-Edge Rising Neck Cut,Upward Tsuka,F1,Senior,A
+MV-BAS-KAT-012-02,Slow-Draw Mid Guard,Solid Kissaki,F1,Senior,A
+MV-BAS-KAT-012-03,Sheath-Mouth Scabbard Strike,Short Kesagiri,F1,Senior,A
+MV-BAS-KAT-012-04,Hilt Pin of the Scabbard,Notocowl,F4,Senior,A
+MV-BAS-KAT-012-05,Pommel Breath Read,Munegauge,F4,Senior,A
+MV-BAS-KAT-012-06,Two-Hand Diagonal Neck Cut,Straight Zanshin,F1,Senior,A

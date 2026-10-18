@@ -1,0 +1,116 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-TRI-001-01,Azure Triple Opening,Tridentscourge,F4,Demigod L1 Low,B
+MV-ELI-TRI-001-02,Paired Shoulder Guard,Unbowed Tridentshaft,F1,Demigod L1 Low,B
+MV-ELI-TRI-001-03,Basin Fork-Low Slide,Phantom Socketbase,F1,Demigod L1 Low,B
+MV-ELI-TRI-001-04,Hawk-Point Descent,Triplescourge,F4,Demigod L1 Low,B
+MV-ELI-TRI-001-05,Paired Notch Intercept,Rumble Pinch,F2,Demigod L1 Low,B
+MV-ELI-TRI-001-06,Azure Curve Pivot,Unseen Gaff,F1,Demigod L1 Low,B
+MV-ELI-TRI-001-07,Triple Azure Needle,Ironfork,F5,Demigod L1 Low,B
+MV-ELI-TRI-001-08,Hawk-Shadow Hover Guard,Trionerve,F4,Demigod L1 Low,B
+MV-ELI-TRI-001-09,Azure Rending Fork Plunge,Brutalizing Triprong,F1,Demigod L1 Low,B
+MV-ELI-TRI-002-01,Twin-Court Greeting Thrust,Booming Forktine,F1,Demigod L2 Mid,B
+MV-ELI-TRI-002-02,Court-Pair Guard Cross,Adamantine Triplehead,F1,Demigod L2 Mid,B
+MV-ELI-TRI-002-03,Paired-Step Approach,Gust Midtine,F2,Demigod L2 Mid,B
+MV-ELI-TRI-002-04,Court-Edge Draw Back,Indomitable Prongroot,F1,Demigod L2 Mid,B
+MV-ELI-TRI-002-05,Dual Prong Entry,Facet Fork,F2,Demigod L2 Mid,B
+MV-ELI-TRI-002-06,Twin-Court Fork Bind,Sidetine Fortitude,F3,Demigod L2 Mid,B
+MV-ELI-TRI-002-07,Pair-Weave Haft Screen,Gust Hookbarb,F2,Demigod L2 Mid,B
+MV-ELI-TRI-002-08,Court-Reply Trap Fork,Deedtrio,F5,Demigod L2 Mid,B
+MV-ELI-TRI-002-09,Dual-Court Seal Press,Lottrident,F5,Demigod L2 Mid,B
+MV-ELI-TRI-002-10,Twin-Court Mirror Reply,Indomitable Barbtine Spine,F6b,Demigod L1 Low,B
+MV-ELI-TRI-003-01,Track-One Lunge,Forkwrath,F4,Demigod L5 Low,B
+MV-ELI-TRI-003-02,Track-Two Haft Block,Hoarfrost Midtine,F2,Demigod L5 Low,B
+MV-ELI-TRI-003-03,Switch-Track Half Pivot,Granite Barbtine,F2,Demigod L5 Low,B
+MV-ELI-TRI-003-04,Parallel Prong Strike,Tempered Prongdrive,F2,Demigod L5 Low,B
+MV-ELI-TRI-003-05,Tine-Track Interlock Parry,Tridentvalor,F4,Demigod L5 Low,B
+MV-ELI-TRI-003-06,Hawk-Track Rising Haft,Pinchruin,F4,Demigod L5 Low,B
+MV-ELI-TRI-003-07,Leg-Bracket Hold,Triplenerve,F4,Demigod L5 Low,B
+MV-ELI-TRI-003-08,Split-Track Thrust Pair,Shattering Gig,F1,Demigod L5 Low,B
+MV-ELI-TRI-003-09,Dual-Track Flash Entry,Rumble Socketbase,F2,Demigod L1 Low,B
+MV-ELI-TRI-004-01,Basin Rim Talon-Tine Stance,Hoarfrost Triprong,F2,Demigod L3 High,B
+MV-ELI-TRI-004-02,Hawk Stoop Tine Thrust,Sanguine Prongroot,F2,Demigod L3 High,B
+MV-ELI-TRI-004-03,High Circle Step,Dazzling Gig,F1,Demigod L3 High,B
+MV-ELI-TRI-004-04,Basin Catch Parry,Murk Tridentshaft,F2,Demigod L3 High,B
+MV-ELI-TRI-004-05,Talon Grasp Drive,Thorn Triplehead,F2,Demigod L3 High,B
+MV-ELI-TRI-004-06,Updraft Fork Lift,Blaze Prongdrive,F2,Demigod L3 High,B
+MV-ELI-TRI-004-07,River-Heavy Haft Cut,Titanic Forktine,F1,Demigod L3 High,B
+MV-ELI-TRI-004-08,Hawk Shadow Snare Field,Nova Hookbarb,F2,Demigod L3 High,B
+MV-ELI-TRI-004-09,Rim-and-Floor Binding,Lot Sidetine,F2,Demigod L3 High,B
+MV-ELI-TRI-004-10,Hawk Descent Without Return,Vengeful Fork,F1,Demigod L1 Low,B
+MV-ELI-TRI-005-01,Mirrored Hand Jab,Lacerating Hookbarb,F1,Void God L1 Low,B
+MV-ELI-TRI-005-02,Current-Guard Haft Roll,Torrent Socketbase,F2,Void God L1 Low,B
+MV-ELI-TRI-005-03,Tight Eddy Step,Torrent Prongroot,F2,Void God L1 Low,B
+MV-ELI-TRI-005-04,Rapid Pair Rake,Gigwrath,F4,Void God L1 Low,B
+MV-ELI-TRI-005-05,Eddy Fork Wrench,Rumble Gaff,F2,Void God L1 Low,B
+MV-ELI-TRI-005-06,Stream-Held Retreat Guard,Adamantine Midtine,F1,Void God L1 Low,B
+MV-ELI-TRI-005-07,Double-Current Fork Cut,Gust Triplehead,F2,Void God L1 Low,B
+MV-ELI-TRI-005-08,Eddy Net Trap,Thorntriple,F5,Void God L1 Low,B
+MV-ELI-TRI-005-09,Master's Current Seal,Webbing Lot Seize,F6a,Void God L1 Low,B
+MV-ELI-TRI-006-01,Disciplined Paired Thrust,Blazetrio,F5,Monarch L1 Low,B
+MV-ELI-TRI-006-02,Measured Court Fork Step,Silt Gaff,F2,Monarch L1 Low,B
+MV-ELI-TRI-006-03,Fork-Rank Guard,Murk Forktine,F2,Monarch L1 Low,B
+MV-ELI-TRI-006-04,Rooted Pivot Hold,Aegis Barbtine,F2,Monarch L1 Low,B
+MV-ELI-TRI-006-05,Meridian-Net Prong Drive,Grievous Tridentshaft,F1,Monarch L1 Low,B
+MV-ELI-TRI-006-06,Weight-Shift Paired Parry,Invincible Forktine,F1,Monarch L1 Low,B
+MV-ELI-TRI-006-07,Net-Held Fork Pin,Gyvetriple,F5,Monarch L1 Low,B
+MV-ELI-TRI-006-08,Monarch's Hawk-Hold Trap,Triomettle,F4,Monarch L1 Low,B
+MV-ELI-TRI-006-09,Paired Net Seal,Strangling Gig,F1,Monarch L1 Low,B
+MV-ELI-TRI-006-10,Dual-Stream Fork Lance,Decimating Sidetine,F1,Demigod L1 Low,B
+MV-ELI-TRI-007-01,Sworn-Line Tine Thrust,Mightpinch,F5,Demigod L1 Mid,B
+MV-ELI-TRI-007-02,Windward Tine-Haft Brace,Charter Barbtine,F2,Demigod L1 Mid,B
+MV-ELI-TRI-007-03,Reach-Edge Hold Step,Gust Fork,F2,Demigod L1 Mid,B
+MV-ELI-TRI-007-04,Oath-Swift Double Thrust,Iron Seize,F2,Demigod L1 Mid,B
+MV-ELI-TRI-007-05,Squall Haft Whirl,Chimetrident,F5,Demigod L1 Mid,B
+MV-ELI-TRI-007-06,Bearing-Break Counter,Numbing Pinch,F1,Demigod L1 Mid,B
+MV-ELI-TRI-007-07,Sworn Wind Net,Silt Triprong,F2,Demigod L1 Mid,B
+MV-ELI-TRI-007-08,Pressing Oath Fork,Overbearing Seize,F1,Demigod L1 Mid,B
+MV-ELI-TRI-007-09,Unbroken Oath Thrust,Tripleruin,F4,Demigod L1 Low,B
+MV-ELI-TRI-008-01,Plateau Edge Fork Stance,Unconquered Triplehead,F1,Demigod L4 Low,B
+MV-ELI-TRI-008-02,Cliff-Lip Lunge,Decimating Prongdrive,F1,Demigod L4 Low,B
+MV-ELI-TRI-008-03,Sidling Scarp Step,Phantom Hookbarb,F1,Demigod L4 Low,B
+MV-ELI-TRI-008-04,Edge-Turned Prong Parry,Impervious Socketbase,F1,Demigod L4 Low,B
+MV-ELI-TRI-008-05,Rock-Footed Shove,Blaze Prongroot,F2,Demigod L4 Low,B
+MV-ELI-TRI-008-06,Updraft Fork Rake,Granite Seize,F2,Demigod L4 Low,B
+MV-ELI-TRI-008-07,Ledge-Hook Haul,Triplespine,F4,Demigod L4 Low,B
+MV-ELI-TRI-008-08,Scarp-Wind Snare,Deed Sidetine,F2,Demigod L4 Low,B
+MV-ELI-TRI-008-09,Edge-Held Knee Seal,Fastening Pinch,F2,Demigod L4 Low,B
+MV-ELI-TRI-008-10,Plateau Fall Drive,Facet Gig,F2,Demigod L1 Low,B
+MV-ELI-TRI-009-01,Open-Field Fork Guard,Triprong Nerve,F3,Demigod L6 Mid,B
+MV-ELI-TRI-009-02,Wide-Arc Advance,Torrent Gaff,F2,Demigod L6 Mid,B
+MV-ELI-TRI-009-03,Unbarred Straight Thrust,Irontrident,F5,Demigod L6 Mid,B
+MV-ELI-TRI-009-04,Wind-Gap Slip Thrust,Rumbleseize,F5,Demigod L6 Mid,B
+MV-ELI-TRI-009-05,Ring-of-Reach Sweep,Granite Pinch,F2,Demigod L6 Mid,B
+MV-ELI-TRI-009-06,Open-Hand Fork Wrench,Mayhem Fork,F2,Demigod L6 Mid,B
+MV-ELI-TRI-009-07,Wall-Less Ring Ward,Midtine Durance,F3,Demigod L6 Mid,B
+MV-ELI-TRI-009-08,Open-Plain Pitfall,Predatory Sidetine,F1,Demigod L6 Mid,B
+MV-ELI-TRI-009-09,Fork of the Open Plain,Fork Ruin,F3,Demigod L1 Low,B
+MV-ELI-TRI-010-01,Long-Bearing Hold,Aegistrio,F5,Void God L1 Mid,B
+MV-ELI-TRI-010-02,Bearing-Following Step,Granite Prongdrive,F2,Void God L1 Mid,B
+MV-ELI-TRI-010-03,Sighted Fork Thrust,Rumbletrio,F5,Void God L1 Mid,B
+MV-ELI-TRI-010-04,Shifted-Bearing Parry,Evergreen Hookbarb,F1,Void God L1 Mid,B
+MV-ELI-TRI-010-05,Bearing-Taking Probe,Waning Tridentshaft,F2,Void God L1 Mid,B
+MV-ELI-TRI-010-06,Long-Haul Fork Drive,Gnashing Prongroot,F1,Void God L1 Mid,B
+MV-ELI-TRI-010-07,Bearing-Cut Slide,Unseen Socketbase,F1,Void God L1 Mid,B
+MV-ELI-TRI-010-08,Pursuit Line Hold,Overbearing Midtine,F1,Void God L1 Mid,B
+MV-ELI-TRI-010-09,Distant Bearing Cast,Devastating Gig,F1,Void God L1 Mid,B
+MV-ELI-TRI-010-10,Fork-Bearing Held to the End,Grievous Triprong,F1,Void God L1 Mid,B
+MV-ELI-TRI-011-01,Oath-First Guard,Hoarfrost Tridentshaft,F2,Demigod L2 High,B
+MV-ELI-TRI-011-02,Pledge Step Forward,Gustpinch,F5,Demigod L2 High,B
+MV-ELI-TRI-011-03,Pledged Barb Reach,Triplehavoc,F4,Demigod L2 High,B
+MV-ELI-TRI-011-04,Oath-Turned Wrist Lock,Suffocating Pinch,F1,Demigod L2 High,B
+MV-ELI-TRI-011-05,Two-Breath Oath Thrust,Blistering Seize,F1,Demigod L2 High,B
+MV-ELI-TRI-011-06,Binding Oath Guard,Equipoise Barbtine,F2,Demigod L2 High,B
+MV-ELI-TRI-011-07,Oath-Pillar Brace,Granite Socketbase,F2,Demigod L2 High,B
+MV-ELI-TRI-011-08,Wind-Sworn Tine Seal,Triplevalor,F4,Demigod L2 High,B
+MV-ELI-TRI-011-09,Sworn Silence of the Fork,Charter Triplehead,F2,Demigod L1 Low,B
+MV-ELI-TRI-012-01,Monarch's Wind Stance,Unbowed Forktine,F1,Monarch L4 Low,B
+MV-ELI-TRI-012-02,Net-Steadied Advance,Dazzling Pinch,F1,Monarch L4 Low,B
+MV-ELI-TRI-012-03,Bearing Cut and Recover,Corroding Gaff,F1,Monarch L4 Low,B
+MV-ELI-TRI-012-04,Squall-Side Haft Turn,Equipoise Prongroot,F2,Monarch L4 Low,B
+MV-ELI-TRI-012-05,Wind-Weighted Fork Press,Seizevalor,F4,Monarch L4 Low,B
+MV-ELI-TRI-012-06,Net-Fed Wind Thrust,Facet Prongdrive,F2,Monarch L4 Low,B
+MV-ELI-TRI-012-07,Plateau-Held Fork Parry,Equipoise Midtine,F2,Monarch L4 Low,B
+MV-ELI-TRI-012-08,Bearing-Locked Fork Bind,Thorn Triprong,F2,Monarch L4 Low,B
+MV-ELI-TRI-012-09,Monarch's Gale Pitfall,Silttrident,F5,Monarch L4 Low,B
+MV-ELI-TRI-012-10,Full-Net Bearing Seal,Lotgig,F5,Monarch L4 Low,B
+MV-ELI-TRI-012-11,Single Thrust of the Gale Monarch,Decimating Nova Gaff,F6a,Demigod L1 Low,B

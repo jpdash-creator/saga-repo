@@ -1,0 +1,138 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-HTH-001-01,Pair Stance Setting,Prism Shin,F2,Warrior,B
+MV-SIG-HTH-001-02,Left Right Jab Pair,Gallant Pinfall,F1,Warrior,B
+MV-SIG-HTH-001-03,Basin Sink Step,Bedrock Fist,F2,Warrior,B
+MV-SIG-HTH-001-04,Pair Hook Entry,Intrepid Grapple,F1,Warrior,B
+MV-SIG-HTH-001-05,River Channel Parry,Unwavering Shoulder,F1,Warrior,B
+MV-SIG-HTH-001-06,Hawk Shoulder Bump,Palmcrown,F4,Warrior,B
+MV-SIG-HTH-001-07,Twin Elbow Guard Break,Hipcrown,F4,Warrior,B
+MV-SIG-HTH-001-08,Azure Pair Stagger,Noble Sweep,F1,Champion,B
+MV-SIG-HTH-001-09,Paired Fist Reading,Harmonious Clinch,F1,Champion,B
+MV-SIG-HTH-001-10,Azure Court Twin Rend,Dantian Hip,F2,Demigod,B
+MV-SIG-HTH-001-11,Pair Fist Doctrine Blow,Unrivaled Knee Verdict,F6b,Warrior,B
+MV-SIG-HTH-002-01,Perch Stance Entry,Sanctum Elbow,F2,Warrior,B
+MV-SIG-HTH-002-02,Talon Wrist Seize,Marrowfire Ulna,F2,Warrior,B
+MV-SIG-HTH-002-03,Paired Arm Control,Sweep Troth,F3,Warrior,B
+MV-SIG-HTH-002-04,Spiral Drop Step,Marrowfire Throw,F2,Warrior,B
+MV-SIG-HTH-002-05,River Roll Takedown,Entropy Knuckle,F2,Warrior,B
+MV-SIG-HTH-002-06,Hawk Hold Pin,Thrallclinch,F5,Warrior,B
+MV-SIG-HTH-002-07,Lock and Rise,Deluge Elbow,F2,Warrior,B
+MV-SIG-HTH-002-08,Basin Seat Control,Hornbeam Heelbone,F2,Champion,B
+MV-SIG-HTH-002-09,Hawk Plunge Armbar,Masterful Clinch,F1,Champion,B
+MV-SIG-HTH-002-10,Dual Track Seizure,Volition Ulna,F2,Demigod,B
+MV-SIG-HTH-002-11,Hawk Closing Grip,Commanding Shin,F1,Warrior,B
+MV-SIG-HTH-003-01,Basin Stance Drill,Marrowfire Hip,F2,Champion,B
+MV-SIG-HTH-003-02,Collar Tie Entry,Authoritative Grapple,F1,Champion,B
+MV-SIG-HTH-003-03,Azure Shoot Takedown,Thunderclap Heelbone,F2,Champion,B
+MV-SIG-HTH-003-04,River Hip Throw,Shoulder Troth,F3,Champion,B
+MV-SIG-HTH-003-05,Basin Pin Settling,Thrallelbow,F5,Champion,B
+MV-SIG-HTH-003-06,Twin Hook Sweep,Dantian Knee,F2,Champion,B
+MV-SIG-HTH-003-07,Pull and Push Reaping,Ulnapledge,F4,Champion,B
+MV-SIG-HTH-003-08,Kneeling Roll Escape,Dantian Fist,F2,Champion,B
+MV-SIG-HTH-003-09,Azure Weight Press,Millstone Sweep,F2,Champion,B
+MV-SIG-HTH-003-10,Basin Seal Hold,Sigil Throw,F2,Demigod,B
+MV-SIG-HTH-003-11,Basin Overflow Throw,Despotic Entropy Hip,F6a,Champion,B
+MV-SIG-HTH-004-01,River Palm Cover,Inviolate Palm,F1,Ruler,B
+MV-SIG-HTH-004-02,Twin Stream Palm Pair,Marrowfire Clinch,F2,Ruler,B
+MV-SIG-HTH-004-03,Bank Slide Parry,Venerable Knuckle,F1,Ruler,B
+MV-SIG-HTH-004-04,Sidestream Entry,Squallshin,F5,Ruler,B
+MV-SIG-HTH-004-05,Hawk Over Palm Strike,Squallhip,F5,Ruler,B
+MV-SIG-HTH-004-06,Paired Wrist Pinch,Sigilknee,F5,Ruler,B
+MV-SIG-HTH-004-07,Current Return Palm,Matchless Knee,F1,Ruler,B
+MV-SIG-HTH-004-08,River Mouth Tide Palm,Majestic Chokehold,F1,Ruler,B
+MV-SIG-HTH-004-09,Confluence Strike Sequence,Tenetclinch,F5,Ruler,B
+MV-SIG-HTH-004-10,Twin River Palm Strike,Fisttriumph,F4,Ruler,B
+MV-SIG-HTH-004-11,Twin Palm Flash Entry,Pulsarthrow,F5,Demigod,B
+MV-SIG-HTH-004-12,Twin River Source Palm,Unrivaled Palm,F1,Ruler,B
+MV-SIG-HTH-005-01,Dual Track Guard,Knuckle Troth,F3,Demigod,B
+MV-SIG-HTH-005-02,Fist Track Jab,Shoulder Decree,F3,Demigod,B
+MV-SIG-HTH-005-03,Grip Track Seizure,Clinchpledge,F4,Demigod,B
+MV-SIG-HTH-005-04,Azure Switch Step,Fistvoyage,F4,Demigod,B
+MV-SIG-HTH-005-05,Basin Elbow Break,Vigor Palm,F2,Demigod,B
+MV-SIG-HTH-005-06,River Hip Turn Throw,Fistseal,F4,Demigod,B
+MV-SIG-HTH-005-07,Paired Hold Strike,Sphere Elbow,F2,Demigod,B
+MV-SIG-HTH-005-08,Track Joining Sequence,Symphonic Shin,F1,Demigod,B
+MV-SIG-HTH-005-09,Hawk Pinion Sunder,Pulsar Chokehold,F2,Demigod,B
+MV-SIG-HTH-005-10,Dual Track Fist Joining Blow,Gallant Sphere Grapple,F6a,Demigod,B
+MV-SIG-HTH-006-01,Sky Open Guard,Heelbone Covenant,F3,Core Formation,B
+MV-SIG-HTH-006-02,Basin Low Stance Shift,Vigorknee,F5,Core Formation,B
+MV-SIG-HTH-006-03,Azure Rising Fist,Elbowedict,F4,Core Formation,B
+MV-SIG-HTH-006-04,River Sweep Block,Deluge Shoulder,F2,Core Formation,B
+MV-SIG-HTH-006-05,Hawk Sky Dive Palm,Steelsweep,F5,Core Formation,B
+MV-SIG-HTH-006-06,Basin Bind Throw,Kernel Ulna,F2,Core Formation,B
+MV-SIG-HTH-006-07,Paired Sky Strike,Vigorfist,F5,Core Formation,B
+MV-SIG-HTH-006-08,Core Wind Sequence,Pinfall Crown,F3,Core Formation,B
+MV-SIG-HTH-006-09,Twin Core Reflection,Sainted Fist,F1,Core Formation,B
+MV-SIG-HTH-006-10,Sky Basin Sundering,Sovereign Knuckle Banner,F6b,Core Formation,B
+MV-SIG-HTH-007-01,Oath Bearing Stance,Statute Ulna,F2,Warrior,B
+MV-SIG-HTH-007-02,Wind Lead Jab,Bedrock Chokehold,F2,Warrior,B
+MV-SIG-HTH-007-03,Sworn Step Forward,Squallknee,F5,Warrior,B
+MV-SIG-HTH-007-04,Gale Rear Cross,Haemalsweep,F5,Warrior,B
+MV-SIG-HTH-007-05,Plateau Forearm Turn,Elbow Seal,F3,Warrior,B
+MV-SIG-HTH-007-06,Crosswind Body Shot,Palmdecree,F4,Warrior,B
+MV-SIG-HTH-007-07,Oath Held Elbow,Majestic Grapple,F1,Warrior,B
+MV-SIG-HTH-007-08,Wind Gathering Fist,Triumphant Chokehold,F1,Champion,B
+MV-SIG-HTH-007-09,Oath Run of Strikes,Seasonfist,F5,Champion,B
+MV-SIG-HTH-007-10,Sworn Wind Piercing Fist,Triumphant Pinfall,F1,Demigod,B
+MV-SIG-HTH-007-11,Oath Fist Closing Blow,Gallant Marrowfire Fist,F6a,Warrior,B
+MV-SIG-HTH-008-01,Plateau Stance Setting,Marrowfire Shin,F2,Warrior,B
+MV-SIG-HTH-008-02,Bearing Grip Take,Hornbeam Throw,F2,Warrior,B
+MV-SIG-HTH-008-03,Open Ground Pull,Pealthrow,F5,Warrior,B
+MV-SIG-HTH-008-04,Gale Lean Drop,Entropy Clinch,F2,Warrior,B
+MV-SIG-HTH-008-05,Wind Sweep Reap,Commanding Palm,F1,Warrior,B
+MV-SIG-HTH-008-06,Bearing Roll Out,Hip Grace,F3,Warrior,B
+MV-SIG-HTH-008-07,Plateau Pin Settle,Sigil Shoulder,F2,Warrior,B
+MV-SIG-HTH-008-08,Wind Brace Escape,Peal Ulna,F2,Champion,B
+MV-SIG-HTH-008-09,Gale Pressing Hold,Gloomhip,F5,Champion,B
+MV-SIG-HTH-008-10,Oath Held Arm Seal,Sigilhip,F5,Demigod,B
+MV-SIG-HTH-008-11,Plateau Bearing Collapse,Pealclinch,F5,Warrior,B
+MV-SIG-HTH-009-01,Gale Palm Guard,Statute Heelbone,F2,Champion,B
+MV-SIG-HTH-009-02,Wind Slip Palm Strike,Thunderclap Chokehold,F2,Champion,B
+MV-SIG-HTH-009-03,Plateau Palm Entry,Dune Throw,F2,Champion,B
+MV-SIG-HTH-009-04,Crosswind Palm Parry,Heelbone Troth,F3,Champion,B
+MV-SIG-HTH-009-05,Rising Palm Gust,Shinverdict,F4,Champion,B
+MV-SIG-HTH-009-06,Bearing Palm Press,Dantian Pinfall,F2,Champion,B
+MV-SIG-HTH-009-07,Wind Wrist Turn,Thrall Fist,F2,Champion,B
+MV-SIG-HTH-009-08,Gale Edge Palm Chop,Unrivaled Pinfall,F1,Champion,B
+MV-SIG-HTH-009-09,Open Palm Sequence,Marrowfire Palm,F2,Champion,B
+MV-SIG-HTH-009-10,Gale Resonance Palm,Pulsarsweep,F5,Champion,B
+MV-SIG-HTH-009-11,Wind Unbroken Palm,Venerable Shin,F1,Demigod,B
+MV-SIG-HTH-009-12,Gale Palm Closing Blow,Squall Knuckle,F2,Champion,B
+MV-SIG-HTH-010-01,Low Centre Root,Immaculate Hip,F1,Ruler,B
+MV-SIG-HTH-010-02,Gale Collar Grip,Despotic Elbow,F1,Ruler,B
+MV-SIG-HTH-010-03,Wide Step Entry,Ethereal Elbow,F1,Ruler,B
+MV-SIG-HTH-010-04,Bearing Hip Throw,Commanding Throw,F1,Ruler,B
+MV-SIG-HTH-010-05,Wind Slip Counter Hold,Deluge Knee,F2,Ruler,B
+MV-SIG-HTH-010-06,Plateau Reap Throw,Ruling Palm,F1,Ruler,B
+MV-SIG-HTH-010-07,Oath Hold Down,Imperious Shin,F1,Ruler,B
+MV-SIG-HTH-010-08,Gale Reversing Roll,Deluge Heelbone,F2,Ruler,B
+MV-SIG-HTH-010-09,Wind Driven Grapple Run,Tenethip,F5,Ruler,B
+MV-SIG-HTH-010-10,Open Ground Qi Lock,Sigilelbow,F5,Demigod,B
+MV-SIG-HTH-010-11,Open Ground Closing Throw,Marrowfire Shoulder,F2,Ruler,B
+MV-SIG-HTH-011-01,Wind Bearing Guard,Penumbra Ulna,F2,Demigod,B
+MV-SIG-HTH-011-02,Gale Straight Strike,Inferno Sweep,F2,Demigod,B
+MV-SIG-HTH-011-03,Plateau Slip Step,Sweepboon,F4,Demigod,B
+MV-SIG-HTH-011-04,Bearing Redirect,Pall Knee,F2,Demigod,B
+MV-SIG-HTH-011-05,Wind Hook Strike,Vigor Knuckle,F2,Demigod,B
+MV-SIG-HTH-011-06,Gale Weight Throw,Venom Hip,F2,Demigod,B
+MV-SIG-HTH-011-07,Oath Pin Hold,Hornbeam Knee,F2,Demigod,B
+MV-SIG-HTH-011-08,Xiantian Wind Strike,Penumbra Clinch,F2,Demigod,B
+MV-SIG-HTH-011-09,Gale Field Sequence,Knuckle Crown,F3,Demigod,B
+MV-SIG-HTH-011-10,Bearing Field Reflection,Eclipse Palm,F2,Demigod,B
+MV-SIG-HTH-011-11,Wind and Bearing Closing Blow,Thunderclap Grapple,F2,Demigod,B
+MV-SIG-HTH-012-01,Oath Whole Body Stance,Hornbeam Ulna,F2,Core Formation,B
+MV-SIG-HTH-012-02,Hip Driven Lead Fist,Kernel Sweep,F2,Core Formation,B
+MV-SIG-HTH-012-03,Bearing Foot Slide,Soundless Sweep,F1,Core Formation,B
+MV-SIG-HTH-012-04,Gale Elbow Pivot,Triumphant Grapple,F1,Core Formation,B
+MV-SIG-HTH-012-05,Wind Shoulder Parry,Stately Hip,F1,Core Formation,B
+MV-SIG-HTH-012-06,Plateau Knee Strike,Steelulna,F5,Core Formation,B
+MV-SIG-HTH-012-07,Oath Breath Strike,Clinchbanner,F4,Core Formation,B
+MV-SIG-HTH-012-08,Whole Body Gale Sequence,Throw Triumph,F3,Core Formation,B
+MV-SIG-HTH-012-09,Core Wind Reflection,Undefiled Shoulder,F1,Core Formation,B
+MV-SIG-HTH-012-10,Oath of Whole Body Blow,Fearless Quenched Shin,F6a,Core Formation,B
+MV-SIG-HTH-002-01,Sanctum Elbow,Immovable Elbow,F2,Warrior,B
+MV-SIG-HTH-002-08,Hornbeam Heelbone,Crushing Heelbone,F2,Champion,B
+MV-SIG-HTH-008-02,Hornbeam Throw,Binding Throw,F2,Warrior,B
+MV-SIG-HTH-009-03,Dune Throw,Gliding Throw,F2,Champion,B
+MV-SIG-HTH-011-07,Hornbeam Knee,Ironhold Knee,F2,Demigod,B
+MV-SIG-HTH-012-01,Hornbeam Ulna,Ironclad Ulna,F2,Core Formation,B

@@ -1,0 +1,134 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-KND-001-01,Court Straight Opening,Granite Ringband,F2,Demigod L1 Low,B
+MV-ELI-KND-001-02,Azure Brass Slip Step,Torrent Bandarch,F2,Demigod L1 Low,B
+MV-ELI-KND-001-03,Court Guard Square,Charter Fistbar,F2,Demigod L1 Low,B
+MV-ELI-KND-001-04,Court Wrist Rap,Rumble Palmbar,F2,Demigod L1 Low,B
+MV-ELI-KND-001-05,Court Twin Hook Chain,Merciless Haymaker,F1,Demigod L1 Low,B
+MV-ELI-KND-001-06,Azure Sweep Counter,Chime Handfill,F2,Demigod L1 Low,B
+MV-ELI-KND-001-07,Court Elbow Bind,Knockout Mettle,F3,Demigod L1 Low,B
+MV-ELI-KND-001-08,Court Boss Thrust,Knuckhavoc,F4,Demigod L1 Low,B
+MV-ELI-KND-001-09,Azure Sky Braced Sequence,Lot Brawl,F2,Demigod L1 Low,B
+MV-ELI-KND-001-10,Azure Court Shock Cross,Tempered Knuckleplate,F2,Demigod L1 Low,B
+MV-ELI-KND-002-01,Hawk Pair Opening Jab,Gustknuck,F5,Demigod L3 Mid,B
+MV-ELI-KND-002-02,Wing-Pair Sidestep,Might Knuckleridge,F2,Demigod L3 Mid,B
+MV-ELI-KND-002-03,Hawk Pair Brass Cover,Aegisslab,F5,Demigod L3 Mid,B
+MV-ELI-KND-002-04,Talon Ring Rap,Overpowering Overhand,F1,Demigod L3 Mid,B
+MV-ELI-KND-002-05,Pair Elbow Parry,Equipoise Brassrim,F2,Demigod L3 Mid,B
+MV-ELI-KND-002-06,Pair Stoop Hook,Decimating Uppercut,F1,Demigod L3 Mid,B
+MV-ELI-KND-002-07,Pair Wingbeat Barrage,Ringhavoc,F4,Demigod L3 Mid,B
+MV-ELI-KND-002-08,Hawk Pair Fist Pin,Enthralling Uppercut,F1,Demigod L3 Mid,B
+MV-ELI-KND-002-09,Pair Feint Dive,Brawlmettle,F4,Demigod L3 Mid,B
+MV-ELI-KND-002-10,Hawk Pair Dive Strike,Rumble Handfill,F2,Demigod L3 Mid,B
+MV-ELI-KND-002-11,Pair Claw Crush Hold,Hogtying Brawl,F1,Demigod L3 Mid,B
+MV-ELI-KND-002-12,Paired Hawk Rending Fall,Lightning Hour Brassring,F6a,Demigod L3 Mid,B
+MV-ELI-KND-003-01,Basin Straight,Merciless Bandarch,F1,Demigod L5 Low,B
+MV-ELI-KND-003-02,River Glide Step,Ringflash,F4,Demigod L5 Low,B
+MV-ELI-KND-003-03,Basin Cup Cover,Thorn Studplate,F2,Demigod L5 Low,B
+MV-ELI-KND-003-04,River Bend Hook,Vengeful Hooking,F1,Demigod L5 Low,B
+MV-ELI-KND-003-05,Silt Bed Parry,Equipoise Knuckleplate,F2,Demigod L5 Low,B
+MV-ELI-KND-003-06,Rising Flood Press,Fistbar Fortitude,F3,Demigod L5 Low,B
+MV-ELI-KND-003-07,Basin Overflow Blow,Mightring,F5,Demigod L5 Low,B
+MV-ELI-KND-003-08,River Course Sequence,Brassrim Devastation,F3,Demigod L5 Low,B
+MV-ELI-KND-003-09,Burst the Banks Cross,Sanguine Overhand,F2,Demigod L5 Low,B
+MV-ELI-KND-004-01,Twin-Court Jab,Blaze Haymaker,F2,Demigod L7 Mid,B
+MV-ELI-KND-004-02,Court Pair Slide,Torrent Knuckleridge,F2,Demigod L7 Mid,B
+MV-ELI-KND-004-03,Ring Court Cover,Brassring Fortitude,F3,Demigod L7 Mid,B
+MV-ELI-KND-004-04,Court Knock Parry,Gust Studplate,F2,Demigod L7 Mid,B
+MV-ELI-KND-004-05,Twin Wrist Tap,Mayhem Hooking,F2,Demigod L7 Mid,B
+MV-ELI-KND-004-06,Twin Court Cross Chain,Vengeful Ringband,F1,Demigod L7 Mid,B
+MV-ELI-KND-004-07,Ring Pair Counter,Ringnerve,F4,Demigod L7 Mid,B
+MV-ELI-KND-004-08,Court Seat Bind,Hoarfrost Brassring,F2,Demigod L7 Mid,B
+MV-ELI-KND-004-09,Court Boss Drive,Studruin,F4,Demigod L7 Mid,B
+MV-ELI-KND-004-10,Twin Ring Sequence,Hourring,F5,Demigod L7 Mid,B
+MV-ELI-KND-004-11,Twin Court Sealing Strike,Intent Knuckleridge,F2,Demigod L7 Mid,B
+MV-ELI-KND-005-01,Track Opening Jab,Ringruin,F4,Demigod L9 High,B
+MV-ELI-KND-005-02,Track Switch Knuckle Step,Studvortex,F4,Demigod L9 High,B
+MV-ELI-KND-005-03,Dual Brass Cover Hold,Brassrim Valor,F3,Demigod L9 High,B
+MV-ELI-KND-005-04,Track Rap,Palmbar Nerve,F3,Demigod L9 High,B
+MV-ELI-KND-005-05,Track Parry Out,Adamantine Palmbar,F1,Demigod L9 High,B
+MV-ELI-KND-005-06,Dual-Track Hook Run,Titanic Knockout,F1,Demigod L9 High,B
+MV-ELI-KND-005-07,Track Cut-In Counter,Chime Bandarch,F2,Demigod L9 High,B
+MV-ELI-KND-005-08,Track Press Bind,Ringdurance,F4,Demigod L9 High,B
+MV-ELI-KND-005-09,Track Break Interrupt,Mayhem Uppercut,F2,Demigod L9 High,B
+MV-ELI-KND-005-10,Dual-Track Boss Drive,Studplate Devastation,F3,Demigod L9 High,B
+MV-ELI-KND-005-11,Track Collapse Sequence,Intent Overhand,F2,Demigod L9 High,B
+MV-ELI-KND-005-12,Dual Track Field Hold,Mastering Brawl,F1,Demigod L9 High,B
+MV-ELI-KND-005-13,Dual Track Breaking Release,Hellish Iron Fistbar,F6a,Demigod L9 High,B
+MV-ELI-KND-006-01,Sky Perch Jab,Granite Handfill,F2,Void God L2 Low,B
+MV-ELI-KND-006-02,Azure Updraft Step,Dazzling Knuckleplate,F1,Void God L2 Low,B
+MV-ELI-KND-006-03,Hawk-Fist Cover,Aegis Brassrim,F2,Void God L2 Low,B
+MV-ELI-KND-006-04,Wing Tip Tap,Mayhem Fistbar,F2,Void God L2 Low,B
+MV-ELI-KND-006-05,Azure Climb Uppercut,Ferocious Ringband,F1,Void God L2 Low,B
+MV-ELI-KND-006-06,Sky Turn Counter,Flintlike Brassring,F1,Void God L2 Low,B
+MV-ELI-KND-006-07,Updraft Press,Mayhem Overhand,F2,Void God L2 Low,B
+MV-ELI-KND-006-08,Hawk-Fist Plunge,Rumblering,F5,Void God L2 Low,B
+MV-ELI-KND-006-09,Azure Sky Sequence,Reverberating Haymaker,F1,Void God L2 Low,B
+MV-ELI-KND-006-10,Hawk-Fist Zenith Stoop,Devastating Uppercut,F1,Void God L2 Low,B
+MV-ELI-KND-007-01,Oath First Jab,Tempered Bandarch,F2,Demigod L1 Mid,B
+MV-ELI-KND-007-02,Windward Slip Step,Mightstud,F5,Demigod L1 Mid,B
+MV-ELI-KND-007-03,Oath Guard Standing,Knuckspine,F4,Demigod L1 Mid,B
+MV-ELI-KND-007-04,Bearing Tap,Studvalor,F4,Demigod L1 Mid,B
+MV-ELI-KND-007-05,Gust Forearm Parry,Unbowed Knuckleridge,F1,Demigod L1 Mid,B
+MV-ELI-KND-007-06,Sworn Wind Hook Chain,Ringwrath,F4,Demigod L1 Mid,B
+MV-ELI-KND-007-07,Headwind Turn Strike,Murkknuck,F5,Demigod L1 Mid,B
+MV-ELI-KND-007-08,Oath Fist Pin Hold,Fastening Knockout,F2,Demigod L1 Mid,B
+MV-ELI-KND-007-09,Oath Spoken Breaking Cross,Tempered Hooking,F2,Demigod L1 Mid,B
+MV-ELI-KND-007-10,Gale-Sworn Sequence,Ringscourge,F4,Demigod L1 Mid,B
+MV-ELI-KND-007-11,Wind-Sworn Oath Fulfilled,Might Knockout,F2,Demigod L1 Mid,B
+MV-ELI-KND-008-01,Plateau Bearing Jab,Titanic Brawl,F1,Demigod L4 Low,B
+MV-ELI-KND-008-02,Rim Stride,Vanishing Ringband,F1,Demigod L4 Low,B
+MV-ELI-KND-008-03,Open Cover Spread,Thorn Palmbar,F2,Demigod L4 Low,B
+MV-ELI-KND-008-04,Rim Wind Hook,Blaze Handfill,F2,Demigod L4 Low,B
+MV-ELI-KND-008-05,Bearing Turn Fist Counter,Murk Knuckleplate,F2,Demigod L4 Low,B
+MV-ELI-KND-008-06,Bearing Press of Both Fists,Fastening Studplate,F2,Demigod L4 Low,B
+MV-ELI-KND-008-07,Plateau Stoop Drive,Glint Hooking,F2,Demigod L4 Low,B
+MV-ELI-KND-008-08,Rim Run Sequence,Doctrine Haymaker,F2,Demigod L4 Low,B
+MV-ELI-KND-008-09,Plateau Edge Flash Strike,Expanse Knockout,F2,Demigod L4 Low,B
+MV-ELI-KND-009-01,Gale Oath Straight,Shattering Studplate,F1,Demigod L6 High,B
+MV-ELI-KND-009-02,Gale Step Turn,Granite Brawl,F2,Demigod L6 High,B
+MV-ELI-KND-009-03,Oath Brace Brass Guard,Evergreen Brassrim,F1,Demigod L6 High,B
+MV-ELI-KND-009-04,Gale Ring Tap,Mayhem Brassring,F2,Demigod L6 High,B
+MV-ELI-KND-009-05,Oath Elbow Parry,Indomitable Fistbar,F1,Demigod L6 High,B
+MV-ELI-KND-009-06,Gale Oath Cross Chain,Haymaker Scourge,F3,Demigod L6 High,B
+MV-ELI-KND-009-07,Squall Counter,Chimering,F5,Demigod L6 High,B
+MV-ELI-KND-009-08,Squall Pin,Thorn Handfill,F2,Demigod L6 High,B
+MV-ELI-KND-009-09,Oath Break Feint,Ringmettle,F4,Demigod L6 High,B
+MV-ELI-KND-009-10,Gale Oath Boss Drive,Knuckscourge,F4,Demigod L6 High,B
+MV-ELI-KND-009-11,Squall Sequence,Doctrine Hooking,F2,Demigod L6 High,B
+MV-ELI-KND-009-12,Gale Oath Sundering Blow,Nova Uppercut,F2,Demigod L6 High,B
+MV-ELI-KND-010-01,Open Air Jab,Punishing Overhand,F1,Demigod L8 Mid,B
+MV-ELI-KND-010-02,Drift Step,Slabglare,F4,Demigod L8 Mid,B
+MV-ELI-KND-010-03,Open Field Brass Hold,Adamantine Knuckleridge,F1,Demigod L8 Mid,B
+MV-ELI-KND-010-04,Breeze Rap,Toxinstud,F5,Demigod L8 Mid,B
+MV-ELI-KND-010-05,Open Air Hook Run,Berserk Brassrim,F1,Demigod L8 Mid,B
+MV-ELI-KND-010-06,Drift Counter,Impenetrable Bandarch,F1,Demigod L8 Mid,B
+MV-ELI-KND-010-07,Open Press,Ringspine,F4,Demigod L8 Mid,B
+MV-ELI-KND-010-08,Open Air Boss Drive,Facet Knuckleplate,F2,Demigod L8 Mid,B
+MV-ELI-KND-010-09,Drift Sequence,Lotslab,F5,Demigod L8 Mid,B
+MV-ELI-KND-010-10,Open Air Release Fist,Pitiless Palmbar Ruin,F6b,Demigod L8 Mid,B
+MV-ELI-KND-011-01,Bearing Oath Jab,Blazeslab,F5,Void God L1 Mid,B
+MV-ELI-KND-011-02,Oath Bearing Brass Step,Lightning Ringband,F1,Void God L1 Mid,B
+MV-ELI-KND-011-03,Held Oath Brass Guard,Unrelenting Brassring,F1,Void God L1 Mid,B
+MV-ELI-KND-011-04,Oath Knuckle Tap,Harnessing Haymaker,F1,Void God L1 Mid,B
+MV-ELI-KND-011-05,Bearing Read Ring Parry,Inexorable Studplate,F1,Void God L1 Mid,B
+MV-ELI-KND-011-06,Oath Bearing Cross Chain,Rumbleknuck,F5,Void God L1 Mid,B
+MV-ELI-KND-011-07,Bearing Counter Hook,Chimestud,F5,Void God L1 Mid,B
+MV-ELI-KND-011-08,Oath Hold Bind,Fastening Bandarch,F2,Void God L1 Mid,B
+MV-ELI-KND-011-09,Bearing Feint Turn,Murk Overhand,F2,Void God L1 Mid,B
+MV-ELI-KND-011-10,Bearing Piercing Oath Drive,Novaknuck,F5,Void God L1 Mid,B
+MV-ELI-KND-011-11,Oath Chain Sequence,Knuckwrath,F4,Void God L1 Mid,B
+MV-ELI-KND-011-12,Held Bearing Field Hold,Fastening Brawl,F2,Void God L1 Mid,B
+MV-ELI-KND-011-13,Bearing and Oath Final Stroke,Punishing Knuckleridge,F1,Void God L1 Mid,B
+MV-ELI-KND-012-01,Crosswind Ring Jab,Knuckruin,F4,Void God L4 Mid,B
+MV-ELI-KND-012-02,Crosswind Shuffle Step,Torrent Handfill,F2,Void God L4 Mid,B
+MV-ELI-KND-012-03,Plateau Stance Cover,Fistbar Mettle,F3,Void God L4 Mid,B
+MV-ELI-KND-012-04,Crosswind Tap,Toxin Knuckleplate,F2,Void God L4 Mid,B
+MV-ELI-KND-012-05,Crosswind Outer Parry,Equipoise Palmbar,F2,Void God L4 Mid,B
+MV-ELI-KND-012-06,Crosswind Hook Chain,Rumble Brassring,F2,Void God L4 Mid,B
+MV-ELI-KND-012-07,Crosswind Cut-Through Counter,Equipoise Knuckleridge,F2,Void God L4 Mid,B
+MV-ELI-KND-012-08,Crosswind Pin,Gyve Haymaker,F2,Void God L4 Mid,B
+MV-ELI-KND-012-09,Crosswind Boss Bore,Titanic Uppercut,F1,Void God L4 Mid,B
+MV-ELI-KND-012-10,Plateau Crosswind Sequence,Confluent Ringband,F1,Void God L4 Mid,B
+MV-ELI-KND-012-11,Crosswind Plateau Rending Fist,Expanse Uppercut,F2,Void God L4 Mid,B
+MV-ELI-KND-008-09,Expanse Knockout,Flashing Knockout,F2,Demigod L4 Low,B
+MV-ELI-KND-012-11,Expanse Uppercut,Flashing Uppercut,F2,Void God L4 Mid,B

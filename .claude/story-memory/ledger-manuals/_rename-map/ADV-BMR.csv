@@ -1,0 +1,102 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-BMR-001-01,Far Cast Footing,Glancing Arc,F1,Champion L1 Low,B
+MV-ADV-BMR-001-02,Distance Squint Aim,Chimegrain,F5,Champion L1 Low,B
+MV-ADV-BMR-001-03,Overreach Release,Rumblecurve,F5,Champion L1 Low,B
+MV-ADV-BMR-001-04,Return Lane Reading,Verity Trailingedge,F2,Champion L1 Low,B
+MV-ADV-BMR-001-05,Long Arc Feeding,Scorching Cycle,F1,Champion L1 Low,B
+MV-ADV-BMR-001-06,Far Turn Hook,Hoarfrost Return,F2,Champion L1 Low,B
+MV-ADV-BMR-001-07,Returning Weight Brace,Woodcuirass,F4,Champion L1 Low,B
+MV-ADV-BMR-001-08,Distant Quarry Return,Gust Leadingedge,F2,Champion L1 Low,B
+MV-ADV-BMR-001-09,Far Return Sweep,Siltwood,F5,Champion L1 Low,B
+MV-ADV-BMR-002-01,Field Edge Standing,Waningbark,F5,Demigod L1 Low,B
+MV-ADV-BMR-002-02,Orbit Lean Release,Nova Circling,F2,Demigod L1 Low,B
+MV-ADV-BMR-002-03,Wide Circle Pacing,Granite Loopback,F2,Demigod L1 Low,B
+MV-ADV-BMR-002-04,Open Hand Reception,Verity Woodgrain,F2,Demigod L1 Low,B
+MV-ADV-BMR-002-05,Stick Edge Turning,Chime Curveback,F2,Demigod L1 Low,B
+MV-ADV-BMR-002-06,Orbit Anchor Qi,Fortifying Wingarm,F1,Demigod L1 Low,B
+MV-ADV-BMR-002-07,Wide Orbit Cast,Curvetorment,F4,Demigod L1 Low,B
+MV-ADV-BMR-002-08,Circling Wing Press,Charter Returnarc,F2,Demigod L1 Low,B
+MV-ADV-BMR-002-09,Field Ring Orbit,Rumble Tipwing,F2,Demigod L1 Low,B
+MV-ADV-BMR-002-10,Orbit Cage Throw,Facet Elbowbend,F2,Demigod L1 Low,B
+MV-ADV-BMR-003-01,Crossing Line Plotting,Expanse Sweptwing,F2,Champion L4 Low,B
+MV-ADV-BMR-003-02,Offset Release,Gust Crookend,F2,Champion L4 Low,B
+MV-ADV-BMR-003-03,Weave Step,Torrent Trailingedge,F2,Champion L4 Low,B
+MV-ADV-BMR-003-04,Dropped Shoulder Guard,Leadingedge Cloak,F3,Champion L4 Low,B
+MV-ADV-BMR-003-05,Crossed Arc Throw,Facetwood,F5,Champion L4 Low,B
+MV-ADV-BMR-003-06,Scissor Wing Lock,Crippling Crookend,F1,Champion L4 Low,B
+MV-ADV-BMR-003-07,Scissoring Return Pair,Glint Returnarc,F2,Champion L4 Low,B
+MV-ADV-BMR-003-08,Arc Net Snare,Noxious Deed Tipwing,F6a,Champion L4 Low,B
+MV-ADV-BMR-004-01,Qi Tether Setting,Might Woodgrain,F2,Demigod L3 Low,B
+MV-ADV-BMR-004-02,Thin Line Draw,Glint Arc,F2,Demigod L3 Low,B
+MV-ADV-BMR-004-03,Steering Hand Posture,Might Hover,F2,Demigod L3 Low,B
+MV-ADV-BMR-004-04,Fingertip Guide Pulse,Wingarm Linctus,F3,Demigod L3 Low,B
+MV-ADV-BMR-004-05,Slack Taking Step,Cyclesprint,F4,Demigod L3 Low,B
+MV-ADV-BMR-004-06,Tethered Stick Parry,Implacable Elbowbend,F1,Demigod L3 Low,B
+MV-ADV-BMR-004-07,Tethered Bank,Sweptwing Barrage,F3,Demigod L3 Low,B
+MV-ADV-BMR-004-08,Mid Flight Nudge,Splintering Return,F1,Demigod L3 Low,B
+MV-ADV-BMR-004-09,Steered Wing Snare,Fastening Hover,F2,Demigod L3 Low,B
+MV-ADV-BMR-004-10,Guided Return Strike,Glint Circling,F2,Demigod L3 Low,B
+MV-ADV-BMR-004-11,Chase Flight,Grainthrash,F4,Demigod L3 Low,B
+MV-ADV-BMR-005-01,Twin Stick Hawk Perch,Soaring Loopback,F1,Champion L6 Low,B
+MV-ADV-BMR-005-02,Twin Grip Draw,Chime Woodgrain,F2,Champion L6 Low,B
+MV-ADV-BMR-005-03,Paired Release Count,Facetgrain,F5,Champion L6 Low,B
+MV-ADV-BMR-005-04,Paired Stick Eye Fixing,Mindful Leadingedge,F1,Champion L6 Low,B
+MV-ADV-BMR-005-05,Dual Hand Catch,Rousing Trailingedge,F1,Champion L6 Low,B
+MV-ADV-BMR-005-06,Azure Wing Turn,Murk Returnarc,F2,Champion L6 Low,B
+MV-ADV-BMR-005-07,Paired Wing Cast,Chimereturn,F5,Champion L6 Low,B
+MV-ADV-BMR-005-08,Wing Stoop Cast,Cleaving Crookend,F1,Champion L6 Low,B
+MV-ADV-BMR-005-09,Twin Pass Closing,Toxin Elbowbend,F2,Champion L6 Low,B
+MV-ADV-BMR-005-10,Mirror Bank Pair,Hoarfrost Tipwing,F2,Champion L6 Low,B
+MV-ADV-BMR-005-11,Azure Hawk Pincer,Wrecking Cycle,F1,Champion L6 Low,B
+MV-ADV-BMR-005-12,Hawk Descent Rake,Returnassault,F4,Champion L6 Low,B
+MV-ADV-BMR-006-01,Crescent River Bend Reading,Waning Wingarm,F2,Demigod L1 Low,B
+MV-ADV-BMR-006-02,Crescent Twin Grip,Blazebark,F5,Demigod L1 Low,B
+MV-ADV-BMR-006-03,Crescent Basin Rim Stance,Gust Curveback,F2,Demigod L1 Low,B
+MV-ADV-BMR-006-04,Sidelong Hawk Glance,Expanse Crookend,F2,Demigod L1 Low,B
+MV-ADV-BMR-006-05,Twin Crescent Cast,Gust Return,F2,Demigod L1 Low,B
+MV-ADV-BMR-006-06,River Bend Curl,Rumblearc,F5,Demigod L1 Low,B
+MV-ADV-BMR-006-07,Basin Echo Rebound,Facet Loopback,F2,Demigod L1 Low,B
+MV-ADV-BMR-006-08,Crescent Pair Closing,Tearing Circling,F1,Demigod L1 Low,B
+MV-ADV-BMR-006-09,River Basin Ring,Insidious Returnarc,F1,Demigod L1 Low,B
+MV-ADV-BMR-007-01,Hawk Wing Cant,Nova Arc,F2,Demigod L5 Low,B
+MV-ADV-BMR-007-02,Wing Updraft Reading,Verity Tipwing,F2,Demigod L5 Low,B
+MV-ADV-BMR-007-03,Stoop and Rise Step,Torrent Hover,F2,Demigod L5 Low,B
+MV-ADV-BMR-007-04,Hawk Talon Catch,Waning Curveback,F2,Demigod L5 Low,B
+MV-ADV-BMR-007-05,Feathered Arm Guard,Gust Sweptwing,F2,Demigod L5 Low,B
+MV-ADV-BMR-007-06,Hawk Rise Throw,Woodgrain Onslaught,F3,Demigod L5 Low,B
+MV-ADV-BMR-007-07,Crook Talon Haul,Gyvecurve,F5,Demigod L5 Low,B
+MV-ADV-BMR-007-08,Updraft Lifting Cast,Chime Hover,F2,Demigod L5 Low,B
+MV-ADV-BMR-007-09,Hawk Dive Return,Woodassault,F4,Demigod L5 Low,B
+MV-ADV-BMR-007-10,Circling Hawk Overwatch,Elbowbend Tincture,F3,Demigod L5 Low,B
+MV-ADV-BMR-008-01,Bearing Taking,Waning Trailingedge,F2,Champion L2 Low,B
+MV-ADV-BMR-008-02,Wind Face Stance,Silt Wingarm,F2,Champion L2 Low,B
+MV-ADV-BMR-008-03,Plateau Edge Release,Hoarfrost Sweptwing,F2,Champion L2 Low,B
+MV-ADV-BMR-008-04,Sworn Hand Catch,Remnant Curveback,F2,Champion L2 Low,B
+MV-ADV-BMR-008-05,Stick Bearing Held Cast,Arctorment,F4,Champion L2 Low,B
+MV-ADV-BMR-008-06,Wind Edge Hook,Ponderous Arc,F2,Champion L2 Low,B
+MV-ADV-BMR-008-07,Wind Sworn Return,Rumble Loopback,F2,Champion L2 Low,B
+MV-ADV-BMR-008-08,Plateau Gust Returning Sweep,Mayhem Cycle,F2,Champion L2 Low,B
+MV-ADV-BMR-009-01,Plateau Rim Footing,Torrent Elbowbend,F2,Demigod L2 Low,B
+MV-ADV-BMR-009-02,Oath Breath Draw,Hovertorment,F4,Demigod L2 Low,B
+MV-ADV-BMR-009-03,Crosswind Squint,Chime Sweptwing,F2,Demigod L2 Low,B
+MV-ADV-BMR-009-04,Open Sky Release,Returnbarrage,F4,Demigod L2 Low,B
+MV-ADV-BMR-009-05,Rimward Step,Gust Circling,F2,Demigod L2 Low,B
+MV-ADV-BMR-009-06,Wind Turned Guard,Unyielding Returnarc,F1,Demigod L2 Low,B
+MV-ADV-BMR-009-07,Oath Bound Arc,Rupturing Cycle,F1,Demigod L2 Low,B
+MV-ADV-BMR-009-08,Rimline Skim,Harpooning Arc,F1,Demigod L2 Low,B
+MV-ADV-BMR-009-09,Crosswind Counter Cast,Murkgrain,F5,Demigod L2 Low,B
+MV-ADV-BMR-009-10,Gale Cleaving Arc,Hollowcurve,F5,Demigod L2 Low,B
+MV-ADV-BMR-009-11,Windless Eye Return,Leadingedge Remedy,F3,Demigod L2 Low,B
+MV-ADV-BMR-010-01,Wing Edge Wind Reading,Restoring Tipwing,F1,Champion L9 Low,B
+MV-ADV-BMR-010-02,Low Gust Cast,Facetcycle,F5,Champion L9 Low,B
+MV-ADV-BMR-010-03,Leaning Bearing Step,Racing Wingarm,F1,Champion L9 Low,B
+MV-ADV-BMR-010-04,Sworn Wrist Roll,Facet Circling,F2,Champion L9 Low,B
+MV-ADV-BMR-010-05,Gale Shoulder Parry,Murk Curveback,F2,Champion L9 Low,B
+MV-ADV-BMR-010-06,Wind Edged Cast,Woodgrain Torment,F3,Champion L9 Low,B
+MV-ADV-BMR-010-07,Updraft Hook Turn,Chime Leadingedge,F2,Champion L9 Low,B
+MV-ADV-BMR-010-08,Gusting Return Pressure,Hourgrain,F5,Champion L9 Low,B
+MV-ADV-BMR-010-09,Edged Boomerang Rake,Rumble Return,F2,Champion L9 Low,B
+MV-ADV-BMR-010-10,Gale Bearing Net,Siltgrain,F5,Champion L9 Low,B
+MV-ADV-BMR-003-01,Expanse Sweptwing,Exacting Sweptwing,F2,Champion L4 Low,B
+MV-ADV-BMR-003-08,Noxious Deed Tipwing,Noxious Tipwing,F6a,Champion L4 Low,B
+MV-ADV-BMR-006-04,Expanse Crookend,Keen Crookend,F2,Demigod L1 Low,B

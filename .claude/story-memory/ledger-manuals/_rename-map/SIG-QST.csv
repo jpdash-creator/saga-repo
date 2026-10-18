@@ -1,0 +1,138 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-QST-001-01,Two-Track Ready Shaft Guard,Sacrosanct Midstaff,F1,Warrior L1 Low,B
+MV-SIG-QST-001-02,Paired Glide Stave Step,Staffsolace,F4,Warrior L1 Low,B
+MV-SIG-QST-001-03,Hawk Staff Rap,Heroic Jabbing,F1,Warrior L1 Low,B
+MV-SIG-QST-001-04,Azure Parry Stave Line,Squall Ironcap,F2,Warrior L1 Low,B
+MV-SIG-QST-001-05,River-Bend Staff Thrust,Rowandecree,F4,Warrior L1 Low,B
+MV-SIG-QST-001-06,Basin Shaft Press,Thunderclap Staffgrip,F2,Warrior L1 Low,B
+MV-SIG-QST-001-07,Twin Track Stave Counter,Harmonious Staffspin,F1,Warrior L1 Low,B
+MV-SIG-QST-001-08,Paired Wing Shaft Sweep,Triumphant Staffsweep,F1,Champion L1 Low,B
+MV-SIG-QST-001-09,Tracked Pursuit Stave Combination,Orchestral Poleturn,F1,Champion L1 Low,B
+MV-SIG-QST-001-10,Twin Hawk Stoop Shaft Thrust,Radiance Quarterpoint,F2,Demigod L1 Low,B
+MV-SIG-QST-001-11,Paired Track Stoop Stave Descent,Magnificent Inferno Staffend,F6a,Warrior L1 Low,B
+MV-SIG-QST-002-01,Court Opening Salute Staff Guard,Staffvow,F4,Warrior L6 Mid,B
+MV-SIG-QST-002-02,River Walk Staff Step,Wraithlike Poleturn,F1,Warrior L6 Mid,B
+MV-SIG-QST-002-03,Basin Level Shaft Strike,Oakcrown,F4,Warrior L6 Mid,B
+MV-SIG-QST-002-04,Water-Shedding Staff Parry,Deluge Nodeknot,F2,Warrior L6 Mid,B
+MV-SIG-QST-002-05,Current Staff Rap,Millstone Rapidspin,F2,Warrior L6 Mid,B
+MV-SIG-QST-002-06,Court Beat Shaft Aside,Peal Staffshoe,F2,Warrior L6 Mid,B
+MV-SIG-QST-002-07,Twin Course Shaft Guard,Inviolate Oakstaff,F1,Warrior L6 Mid,B
+MV-SIG-QST-002-08,Overflow Staff Smash,Staffcrown,F4,Warrior L6 Mid,B
+MV-SIG-QST-002-09,Flooding Shaft Sequence,Symphonic Rollover,F1,Champion L1 Low,B
+MV-SIG-QST-002-10,Basin-Held Shaft Bind,Thrall Ironcap,F2,Champion L1 Low,B
+MV-SIG-QST-002-11,Twin Court Shaft Pour,Illustrious Staffspin,F1,Demigod L1 Low,B
+MV-SIG-QST-002-12,Two Rivers Court Stave Sunder,Sovereign Staffsweep,F1,Warrior L6 Mid,B
+MV-SIG-QST-003-01,Doctrine Guard Staff Form,Steelash,F5,Champion L4 Mid,B
+MV-SIG-QST-003-02,Reach Glide Staff Step,Oakboon,F4,Champion L4 Mid,B
+MV-SIG-QST-003-03,Track-One Shaft Strike,Ashverdict,F4,Champion L4 Mid,B
+MV-SIG-QST-003-04,Track-Two Staff Strike,Gallant Rapidspin,F1,Champion L4 Mid,B
+MV-SIG-QST-003-05,Twin-Hand Staff Deflect,Venerable Staffend,F1,Champion L4 Mid,B
+MV-SIG-QST-003-06,Reach Pressing Shaft Rap,Bedrock Poleturn,F2,Champion L4 Mid,B
+MV-SIG-QST-003-07,Track-Folded Staff Thrust,Vacuum Jabbing,F2,Champion L4 Mid,B
+MV-SIG-QST-003-08,Windward Stave Bind,Commanding Nodeknot,F1,Champion L4 Mid,B
+MV-SIG-QST-003-09,Doctrine Chain Stave Sequence,Choral Staffsweep,F1,Champion L4 Mid,B
+MV-SIG-QST-003-10,Paired Track Shaft Crush,Famed Rollover,F1,Demigod L1 Low,B
+MV-SIG-QST-003-11,Doctrine Piercing Staff Line,Matchless Quenched Jabbing,F6a,Champion L4 Mid,B
+MV-SIG-QST-004-01,Hawk Court Watch Stave Guard,Ashseal,F4,Ruler L1 Mid,B
+MV-SIG-QST-004-02,Hawk Staff Glide,Spectral Staffshoe,F1,Ruler L1 Mid,B
+MV-SIG-QST-004-03,High Stoop Stave Strike,Perchbanner,F4,Ruler L1 Mid,B
+MV-SIG-QST-004-04,Wing-Spread Shaft Parry,Parity Staffgrip,F2,Ruler L1 Mid,B
+MV-SIG-QST-004-05,Court Cross Stave Beat,Ashtroth,F4,Ruler L1 Mid,B
+MV-SIG-QST-004-06,Azure Shaft Line Thrust,Prism Rapidspin,F2,Ruler L1 Mid,B
+MV-SIG-QST-004-07,Paired Descent Shaft Rap,Quenched Rollover,F2,Ruler L1 Mid,B
+MV-SIG-QST-004-08,Hawk-Talon Shaft Snare,Hornbeam Staffend,F2,Ruler L1 Mid,B
+MV-SIG-QST-004-09,Court Pursuit Shaft Sequence,Staffbanner,F4,Ruler L1 Mid,B
+MV-SIG-QST-004-10,Court Twin Stave Stoop,Dauntless Staffsweep,F1,Demigod L1 Low,B
+MV-SIG-QST-004-11,Hawk Court Paired Staff Descent,Imperial Jabbing,F1,Ruler L1 Mid,B
+MV-SIG-QST-005-01,Dual Basin Stave Guard,Sphere Midstaff,F2,Demigod L2 Mid,B
+MV-SIG-QST-005-02,Twin Basin Staff Step,Perchgrace,F4,Demigod L2 Mid,B
+MV-SIG-QST-005-03,Basin Staff Rap,Royal Poleturn,F1,Demigod L2 Mid,B
+MV-SIG-QST-005-04,Second Basin Stave Rap,Vigorstaff,F5,Demigod L2 Mid,B
+MV-SIG-QST-005-05,Basin Stave Deflect,Pall Oakstaff,F2,Demigod L2 Mid,B
+MV-SIG-QST-005-06,Field Press Staff Disrupt,Entropy Nodeknot,F2,Demigod L2 Mid,B
+MV-SIG-QST-005-07,Basin-Linked Shaft Thrust,Pulsar Staffsweep,F2,Demigod L2 Mid,B
+MV-SIG-QST-005-08,Pool-Bound Shaft Bind,Glacier Ironcap,F2,Demigod L2 Mid,B
+MV-SIG-QST-005-09,Dual Basin Staff Sequence,Tenet Staffspin,F2,Demigod L2 Mid,B
+MV-SIG-QST-005-10,Basin Overflow Stave Sunder,Fearless Rollover,F1,Demigod L2 Mid,B
+MV-SIG-QST-005-11,Twin Basin Convergence Shaft Strike,Majestic Thunderclap Poleturn,F6a,Demigod L2 Mid,B
+MV-SIG-QST-006-01,Core-Seated Stave Guard,Oakpledge,F4,Core Formation L1 Low,B
+MV-SIG-QST-006-02,Core-Driven Shaft Step,Silken Midstaff,F1,Core Formation L1 Low,B
+MV-SIG-QST-006-03,Core Shaft Rap,Exalted Jabbing,F1,Core Formation L1 Low,B
+MV-SIG-QST-006-04,Core Staff Parry,Kernel Ironcap,F2,Core Formation L1 Low,B
+MV-SIG-QST-006-05,River Line Stave Strike,Squallash,F5,Core Formation L1 Low,B
+MV-SIG-QST-006-06,Court Pressing Staff Disrupt,Venom Nodeknot,F2,Core Formation L1 Low,B
+MV-SIG-QST-006-07,Core-Piercing Shaft Thrust,Nucleus Rapidspin,F2,Core Formation L1 Low,B
+MV-SIG-QST-006-08,Basin Core Staff Bind,Despotic Staffgrip,F1,Core Formation L1 Low,B
+MV-SIG-QST-006-09,River-Court Stave Sequence,Volition Rollover,F2,Core Formation L1 Low,B
+MV-SIG-QST-006-10,Core Basin Staff Smash,Vaunted Poleturn,F1,Core Formation L1 Low,B
+MV-SIG-QST-006-11,Twin Track Core Stave Release,Splendid Staffsweep,F1,Core Formation L1 Low,B
+MV-SIG-QST-006-12,River Court Core Shaft Unification,Magnificent Staffspin,F1,Core Formation L1 Low,B
+MV-SIG-QST-007-01,Bearing-Taking Shaft Hold,Prismoak,F5,Warrior L2 Low,B
+MV-SIG-QST-007-02,Windward Walking Shaft Step,Soundless Rollover,F1,Warrior L2 Low,B
+MV-SIG-QST-007-03,Plateau Staff Rap,Intrepid Staffend,F1,Warrior L2 Low,B
+MV-SIG-QST-007-04,Crosswind Staff Parry,Peal Midstaff,F2,Warrior L2 Low,B
+MV-SIG-QST-007-05,Oath-Line Staff Thrust,Perchdecree,F4,Warrior L2 Low,B
+MV-SIG-QST-007-06,Gale Shaft Beat,Imperious Staffshoe,F1,Warrior L2 Low,B
+MV-SIG-QST-007-07,Held Bearing Shaft Counter,Ashdecree,F4,Warrior L2 Low,B
+MV-SIG-QST-007-08,Wind Stave Sweep,Heroic Staffspin,F1,Champion L1 Low,B
+MV-SIG-QST-007-09,Windward Press Stave Sequence,Orchestral Rapidspin,F1,Champion L1 Low,B
+MV-SIG-QST-007-10,Bearing-Held Staff Hammer,Paramount Quarterpoint,F1,Demigod L1 Low,B
+MV-SIG-QST-007-11,Bearing-Keeper's Shaft Blow,Valiant Inferno Poleturn,F6a,Warrior L2 Low,B
+MV-SIG-QST-008-01,Voice-Steady Shaft Guard,Perchtroth,F4,Warrior L8 High,B
+MV-SIG-QST-008-02,Plateau Stave Step,Ashodyssey,F4,Warrior L8 High,B
+MV-SIG-QST-008-03,Vow Stave Rap,Oakbanner,F4,Warrior L8 High,B
+MV-SIG-QST-008-04,Wind Staff Parry,Revered Staffgrip,F1,Warrior L8 High,B
+MV-SIG-QST-008-05,Oath Stave Beat,Staffpledge,F4,Warrior L8 High,B
+MV-SIG-QST-008-06,Bearing Staff Thrust,Steel Jabbing,F2,Warrior L8 High,B
+MV-SIG-QST-008-07,Sworn Staff Sweep,Staffverdict,F4,Warrior L8 High,B
+MV-SIG-QST-008-08,Gale-Held Stave Hold,Millstone Staffshoe,F2,Warrior L8 High,B
+MV-SIG-QST-008-09,Spoken Rhythm Shaft Sequence,Resonant Rollover,F1,Champion L1 Low,B
+MV-SIG-QST-008-10,Oath Chain Shaft Sequence,Choral Poleturn,F1,Champion L1 Low,B
+MV-SIG-QST-008-11,Voice-Held Stave Hammer,Lordly Staffend,F1,Demigod L1 Low,B
+MV-SIG-QST-008-12,Plateau Oath Stave Blow,Peerless Rollover,F1,Warrior L8 High,B
+MV-SIG-QST-009-01,Coast-Facing Shaft Guard,Undefiled Quarterpoint,F1,Champion L2 Low,B
+MV-SIG-QST-009-02,Salt-Wind Stave Step,Skyborne Staffgrip,F1,Champion L2 Low,B
+MV-SIG-QST-009-03,Gust Shaft Rap,Squall Jabbing,F2,Champion L2 Low,B
+MV-SIG-QST-009-04,Offshore Shaft Parry,Deluge Oakstaff,F2,Champion L2 Low,B
+MV-SIG-QST-009-05,Headland Shaft Thrust,Staffedict,F4,Champion L2 Low,B
+MV-SIG-QST-009-06,Tide-Beating Staff Disrupt,Tyrannous Staffshoe,F1,Champion L2 Low,B
+MV-SIG-QST-009-07,Bearing Coast Stave Sweep,Oakedict,F4,Champion L2 Low,B
+MV-SIG-QST-009-08,Wave-Breaking Shaft Bind,Sigil Nodeknot,F2,Champion L2 Low,B
+MV-SIG-QST-009-09,Gale-Swept Stave Sequence,Grand Rollover,F1,Champion L2 Low,B
+MV-SIG-QST-009-10,Surf-Shattering Shaft Hammer,Triumphant Poleturn,F1,Demigod L1 Low,B
+MV-SIG-QST-009-11,Sea Wind Gale Stave Sweep,Peerless Steel Staffsweep,F6a,Champion L2 Low,B
+MV-SIG-QST-010-01,Wind-Sworn Rest Stave Guard,Rowanvow,F4,Ruler L1 Low,B
+MV-SIG-QST-010-02,Bearing Slide Shaft Step,Feather Staffend,F1,Ruler L1 Low,B
+MV-SIG-QST-010-03,Wind Staff Tap,Ashcrown,F4,Ruler L1 Low,B
+MV-SIG-QST-010-04,Gale Parry Shaft Return,Faithful Staffgrip,F1,Ruler L1 Low,B
+MV-SIG-QST-010-05,Oath Shaft Thrust,Pulsaroak,F5,Ruler L1 Low,B
+MV-SIG-QST-010-06,Open-Ground Shaft Disrupt,Peremptory Nodeknot,F1,Ruler L1 Low,B
+MV-SIG-QST-010-07,Crosswind Staff Sweep,Quenched Staffspin,F2,Ruler L1 Low,B
+MV-SIG-QST-010-08,Wind-Held Staff Bind,Thrall Staffgrip,F2,Ruler L1 Low,B
+MV-SIG-QST-010-09,Plateau Run Shaft Sequence,Symphonic Staffend,F1,Ruler L1 Low,B
+MV-SIG-QST-010-10,Wind-Sworn Stave Hammer,Matchless Staffsweep,F1,Demigod L1 Low,B
+MV-SIG-QST-010-11,Bearing-Held Gale Staff Stroke,Dauntless Rollover,F1,Ruler L1 Low,B
+MV-SIG-QST-011-01,Four Winds Stave Guard,Consecrated Ironcap,F1,Demigod L5 Low,B
+MV-SIG-QST-011-02,Wind-Turning Staff Step,Rowanvoyage,F4,Demigod L5 Low,B
+MV-SIG-QST-011-03,East Wind Shaft Rap,Oakverdict,F4,Demigod L5 Low,B
+MV-SIG-QST-011-04,West Wind Stave Rap,Haemalash,F5,Demigod L5 Low,B
+MV-SIG-QST-011-05,Cross-Wind Staff Parry,Parity Midstaff,F2,Demigod L5 Low,B
+MV-SIG-QST-011-06,North Shaft Wind Thrust,Radiance Rapidspin,F2,Demigod L5 Low,B
+MV-SIG-QST-011-07,South Wind Stave Sweep,Famed Staffspin,F1,Demigod L5 Low,B
+MV-SIG-QST-011-08,Wind-Held Shaft Bind,Thrallash,F5,Demigod L5 Low,B
+MV-SIG-QST-011-09,Four-Wind Staff Sequence,Destiny Poleturn,F2,Demigod L5 Low,B
+MV-SIG-QST-011-10,Gale of Four Stave Directions,Royal Jabbing,F1,Demigod L5 Low,B
+MV-SIG-QST-011-11,Four Winds Meeting Shaft Blow,Exalted Squall Quarterpoint,F6a,Demigod L5 Low,B
+MV-SIG-QST-012-01,Core-Rooted Staff Guard,Kernelstaff,F5,Core Formation L3 Mid,B
+MV-SIG-QST-012-02,Core Wind Stave Step,Twilit Poleturn,F1,Core Formation L3 Mid,B
+MV-SIG-QST-012-03,Core Gust Staff Rap,Nucleus Rollover,F2,Core Formation L3 Mid,B
+MV-SIG-QST-012-04,Core Shaft Parry,Unwavering Oakstaff,F1,Core Formation L3 Mid,B
+MV-SIG-QST-012-05,Oath Core Staff Thrust,Kernel Jabbing,F2,Core Formation L3 Mid,B
+MV-SIG-QST-012-06,Core Beat Shaft Disrupt,Masterful Nodeknot,F1,Core Formation L3 Mid,B
+MV-SIG-QST-012-07,Plateau Core Staff Sweep,Rowantriumph,F4,Core Formation L3 Mid,B
+MV-SIG-QST-012-08,Core-Held Staff Bind,Authoritative Ironcap,F1,Core Formation L3 Mid,B
+MV-SIG-QST-012-09,Core Bearing Staff Sequence,Rowancrown,F4,Core Formation L3 Mid,B
+MV-SIG-QST-012-10,Core Gale Stave Hammer,Imperial Staffsweep,F1,Core Formation L3 Mid,B
+MV-SIG-QST-012-11,Core Oath Shaft Blow,Sovereign Poleturn,F1,Core Formation L3 Mid,B
+MV-SIG-QST-004-08,Hornbeam Staffend,Fettering Staffend,F2,Ruler L1 Mid,B
+MV-SIG-QST-005-08,Glacier Ironcap,Binding Ironcap,F2,Demigod L2 Mid,B

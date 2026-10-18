@@ -1,0 +1,139 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-NAG-001-01,Court-Step Guard,Statute Sayacap,F2,Warrior L3 Mid,B
+MV-SIG-NAG-001-02,Court-Step Slice,Steelkake,F5,Warrior L3 Mid,B
+MV-SIG-NAG-001-03,Court-Lane Blade Point Thrust,Kake Verdict,F3,Warrior L3 Mid,B
+MV-SIG-NAG-001-04,Stepping Court Sweep,Thunderclap Ishizukibase,F2,Warrior L3 Mid,B
+MV-SIG-NAG-001-05,Counter-Court Haft Turn,Sunevow,F4,Warrior L3 Mid,B
+MV-SIG-NAG-001-06,Court Draw Bind,Thrall Uchiotoshi,F2,Warrior L3 Mid,B
+MV-SIG-NAG-001-07,Court-Entry Reaping Cut,Bedrock Ishizuki,F2,Champion L1 Low,B
+MV-SIG-NAG-001-08,Court Haft Anchor,Undefiled Nagaheel,F1,Champion L1 Low,B
+MV-SIG-NAG-001-09,Court-Sweeping Blink Cut,Steelsukui,F5,Demigod L1 Low,B
+MV-SIG-NAG-001-10,Twin-Court Step Crescent,Royal Tempestuous Bladecurve,F6a,Warrior L3 Mid,B
+MV-SIG-NAG-002-01,Hawk-Wing Stance,Statute Tsubaring,F2,Champion L1 Low,B
+MV-SIG-NAG-002-02,Wing-Edge Cut,Steelnaga,F5,Champion L1 Low,B
+MV-SIG-NAG-002-03,Pinion Tip Thrust,Sukuicrown,F4,Champion L1 Low,B
+MV-SIG-NAG-002-04,Wide-Arm Naginata Arc,Haemalsukui,F5,Champion L1 Low,B
+MV-SIG-NAG-002-05,Wing Turn Parry,Squall Nagatip,F2,Champion L1 Low,B
+MV-SIG-NAG-002-06,Talon Haft Snare,Thrallsukui,F5,Champion L1 Low,B
+MV-SIG-NAG-002-07,Hawk Gaze Sense,Merciful Nagashaft,F1,Champion L1 Low,B
+MV-SIG-NAG-002-08,Stoop and Reap,Sukui Banner,F3,Champion L1 Low,B
+MV-SIG-NAG-002-09,Wing Beat Barrier,Sainted Nagablade,F1,Champion L1 Low,B
+MV-SIG-NAG-002-10,Hawk-Wing Rending Flash,Bedrock Habakiring,F2,Demigod L1 Low,B
+MV-SIG-NAG-002-11,Hawk-Wing Sky Reaper,Ishiverdict,F4,Champion L1 Low,B
+MV-SIG-NAG-003-01,Basin-and-River Guard,Habakiring Reliquary,F3,Champion L6 High,B
+MV-SIG-NAG-003-02,River Reach Slice,Nagicrown,F4,Champion L6 High,B
+MV-SIG-NAG-003-03,Basin Floor Haft Jab,Pulsar Kake,F2,Champion L6 High,B
+MV-SIG-NAG-003-04,Ripple Haft Parry,Nagashaft Seal,F3,Champion L6 High,B
+MV-SIG-NAG-003-05,Delta Sweep,Quenched Nagaheel,F2,Champion L6 High,B
+MV-SIG-NAG-003-06,Tributary Step Cut,Vigor Uchiotoshi,F2,Champion L6 High,B
+MV-SIG-NAG-003-07,Basin Sink Bind,Haraipledge,F4,Champion L6 High,B
+MV-SIG-NAG-003-08,Silt-Drag Haft,Venomsune,F5,Champion L6 High,B
+MV-SIG-NAG-003-09,Floodplain Reaping Stroke,Thunderclap Tsubaring,F2,Champion L6 High,B
+MV-SIG-NAG-003-10,Weir Haft Hold,Bedrock Nagatip,F2,Champion L6 High,B
+MV-SIG-NAG-003-11,River-Basin Surge Flash,Bedrock Nagi,F2,Demigod L1 Low,B
+MV-SIG-NAG-003-12,Basin and River Overflow Arc,Bladecurve Crown,F3,Champion L6 High,B
+MV-SIG-NAG-004-01,Twin Crescent Guard,Undefiled Nagablade,F1,Ruler L1 Mid,B
+MV-SIG-NAG-004-02,Court Crescent Cut,Quenched Sukui,F2,Ruler L1 Mid,B
+MV-SIG-NAG-004-03,Crescent Tip Dart,Dauntless Ishizuki,F1,Ruler L1 Mid,B
+MV-SIG-NAG-004-04,Crescent Pair Sweep,Exalted Ishizukibase,F1,Ruler L1 Mid,B
+MV-SIG-NAG-004-05,Crescent Haft Bind,Sunepledge,F4,Ruler L1 Mid,B
+MV-SIG-NAG-004-06,Crescent Step Entry,Bedrock Mawashi,F2,Ruler L1 Mid,B
+MV-SIG-NAG-004-07,Court Crescent Reaping,Inferno Sayacap,F2,Ruler L1 Mid,B
+MV-SIG-NAG-004-08,Crescent Hold Guard,Nagaheel Troth,F3,Ruler L1 Mid,B
+MV-SIG-NAG-004-09,Twin Crescent Court Blink,Famed Tsubaring,F1,Demigod L1 Low,B
+MV-SIG-NAG-004-10,Crescent Court of Two Arcs,Sunebanner,F4,Ruler L1 Mid,B
+MV-SIG-NAG-005-01,Rail Guard Stance,Inviolate Nagashaft,F1,Demigod L2 Low,B
+MV-SIG-NAG-005-02,Left-Rail Slice,Haemalishi,F5,Demigod L2 Low,B
+MV-SIG-NAG-005-03,Right-Rail Thrust,Dauntless Harai,F1,Demigod L2 Low,B
+MV-SIG-NAG-005-04,Rail-Pair Sweep,Suneedict,F4,Demigod L2 Low,B
+MV-SIG-NAG-005-05,Parallel Track Parry,Sunetroth,F4,Demigod L2 Low,B
+MV-SIG-NAG-005-06,Rail-Switch Step Cut,Peerless Kake,F1,Demigod L2 Low,B
+MV-SIG-NAG-005-07,Track Hook Bind,Millstone Nagi,F2,Demigod L2 Low,B
+MV-SIG-NAG-005-08,Twin-Rail Reaping,Nagacrown,F4,Demigod L2 Low,B
+MV-SIG-NAG-005-09,Rail-Held Barrier,Ishitroth,F4,Demigod L2 Low,B
+MV-SIG-NAG-005-10,Rail-Jump Rending Flash,Triumphant Bladecurve,F1,Demigod L2 Low,B
+MV-SIG-NAG-005-11,Dual-Rail Sky Cut,Dauntless Nagatip Decree,F6b,Demigod L2 Low,B
+MV-SIG-NAG-006-01,Sky-Basin Guard,Prismnaga,F5,Core Formation L1 Low,B
+MV-SIG-NAG-006-02,Sky-Basin Edge Slice,Bedrock Ishizukibase,F2,Core Formation L1 Low,B
+MV-SIG-NAG-006-03,Bowl-Line Thrust,Vaunted Harai,F1,Core Formation L1 Low,B
+MV-SIG-NAG-006-04,Bowl Haft Parry,Unwavering Ishizuki,F1,Core Formation L1 Low,B
+MV-SIG-NAG-006-05,Skybowl Sweep,Squallishi,F5,Core Formation L1 Low,B
+MV-SIG-NAG-006-06,Azure Hook Pull,Despotic Nagablade,F1,Core Formation L1 Low,B
+MV-SIG-NAG-006-07,Bowl-Turned Step,Squallsukui,F5,Core Formation L1 Low,B
+MV-SIG-NAG-006-08,Sky-Mirror Haft Sense,Interstice Sayacap,F2,Core Formation L1 Low,B
+MV-SIG-NAG-006-09,Skybasin Reaping Cut,Steel Uchiotoshi,F2,Core Formation L1 Low,B
+MV-SIG-NAG-006-10,Bowl-Held Guard,Glacier Nagashaft,F2,Core Formation L1 Low,B
+MV-SIG-NAG-006-11,Sky-Basin Descent Flash,Nagatriumph,F4,Core Formation L1 Low,B
+MV-SIG-NAG-006-12,Sky-Basin Core Reaper,Intrepid Tempestuous Sukui,F6a,Core Formation L1 Low,B
+MV-SIG-NAG-007-01,Sworn-Wind Stance,Steelishi,F5,Warrior L2 High,B
+MV-SIG-NAG-007-02,Oath Wind Slice,Vigor Habakiring,F2,Warrior L2 High,B
+MV-SIG-NAG-007-03,Sworn Point Dart,Quenched Harai,F2,Warrior L2 High,B
+MV-SIG-NAG-007-04,Sworn-Wind Crescent Sweep,Gallant Harai,F1,Warrior L2 High,B
+MV-SIG-NAG-007-05,Sworn Haft Brace,Ishizuki Troth,F3,Warrior L2 High,B
+MV-SIG-NAG-007-06,Stroke-End Hook Draw,Glacier Uchiotoshi,F2,Warrior L2 High,B
+MV-SIG-NAG-007-07,Wind Witness Step,Deluge Bladecurve,F2,Warrior L2 High,B
+MV-SIG-NAG-007-08,Sworn Wind Reaping,Thunderclap Sayacap,F2,Champion L1 Low,B
+MV-SIG-NAG-007-09,Wind-Anchored Hold,Hornbeam Ishizukibase,F2,Champion L1 Low,B
+MV-SIG-NAG-007-10,Sworn Gust Flash Cut,Vigor Nagablade,F2,Demigod L1 Low,B
+MV-SIG-NAG-007-11,Wind-Sworn Oath Reaper,Famed Inferno Nagaheel,F6a,Warrior L2 High,B
+MV-SIG-NAG-008-01,Bearing-Plateau Guard,Faithful Habakiring,F1,Champion L2 Low,B
+MV-SIG-NAG-008-02,Plateau Heading Slice,Paramount Tsubaring,F1,Champion L2 Low,B
+MV-SIG-NAG-008-03,Bearing Poke,Radiance Nagatip,F2,Champion L2 Low,B
+MV-SIG-NAG-008-04,Held-Bearing Plateau Sweep,Imperial Kake,F1,Champion L2 Low,B
+MV-SIG-NAG-008-05,Heading Parry Turn,Parity Ishizukibase,F2,Champion L2 Low,B
+MV-SIG-NAG-008-06,Bearing Step Entry,Squall Nagashaft,F2,Champion L2 Low,B
+MV-SIG-NAG-008-07,Plateau Heading Reaping,Peerless Sukui,F1,Champion L2 Low,B
+MV-SIG-NAG-008-08,Held Heading Hold,Ishipledge,F4,Champion L2 Low,B
+MV-SIG-NAG-008-09,Plateau Bearing Blink Slash,Sukuitriumph,F4,Demigod L1 Low,B
+MV-SIG-NAG-008-10,Plateau Bearing Wide Reaper,Royal Magma Mawashi,F6a,Champion L2 Low,B
+MV-SIG-NAG-009-01,Sky-Open Stance,Steel Sayacap,F2,Champion L7 Mid,B
+MV-SIG-NAG-009-02,Sky-Wide Slice,Steel Nagi,F2,Champion L7 Mid,B
+MV-SIG-NAG-009-03,Far Sky Thrust,Pulsar Mawashi,F2,Champion L7 Mid,B
+MV-SIG-NAG-009-04,Wind-Brushed Parry,Parity Nagaheel,F2,Champion L7 Mid,B
+MV-SIG-NAG-009-05,Open-Sky Long Sweep,Steel Mawashi,F2,Champion L7 Mid,B
+MV-SIG-NAG-009-06,Drifting Haft Bind,Thrall Bladecurve,F2,Champion L7 Mid,B
+MV-SIG-NAG-009-07,Sky-Run Step Cut,Squall Nagi,F2,Champion L7 Mid,B
+MV-SIG-NAG-009-08,Gust-Reading Haft,Hospitable Nagablade,F1,Champion L7 Mid,B
+MV-SIG-NAG-009-09,Open-Sky Reaping Cut,Nagibanner,F4,Champion L7 Mid,B
+MV-SIG-NAG-009-10,Edge-Free Haft Guard,Hornbeam Nagatip,F2,Champion L7 Mid,B
+MV-SIG-NAG-009-11,Open-Sky Descent Flash,Haemalsune,F5,Demigod L1 Low,B
+MV-SIG-NAG-009-12,Open-Sky Sweep of the Wind,Inferno Harai,F2,Champion L7 Mid,B
+MV-SIG-NAG-010-01,Edge-Oath Stance,Ishivow,F4,Ruler L1 Mid,B
+MV-SIG-NAG-010-02,Vow-Edge Draw,Paramount Mawashi,F1,Ruler L1 Mid,B
+MV-SIG-NAG-010-03,Oath Point Drive,Prism Tsubaring,F2,Ruler L1 Mid,B
+MV-SIG-NAG-010-04,Edge-Oath Sweep,Triumphant Kake,F1,Ruler L1 Mid,B
+MV-SIG-NAG-010-05,Oath Shaft Roll Aside,Devout Habakiring,F1,Ruler L1 Mid,B
+MV-SIG-NAG-010-06,Edge Vow Bind,Peremptory Sukui,F1,Ruler L1 Mid,B
+MV-SIG-NAG-010-07,Oath Pressing Step,Deluge Sukui,F2,Ruler L1 Mid,B
+MV-SIG-NAG-010-08,Edge-Oath Reaping,Kakedecree,F4,Ruler L1 Mid,B
+MV-SIG-NAG-010-09,Vow Guard Hold,Glacier Ishizuki,F2,Ruler L1 Mid,B
+MV-SIG-NAG-010-10,Oath-Edge Flash Rending,Splendid Nagi,F1,Demigod L1 Low,B
+MV-SIG-NAG-010-11,Oath-Edge Sworn Reaper,Gallant Magma Ishizukibase,F6a,Ruler L1 Mid,B
+MV-SIG-NAG-011-01,Heading Gale Stance,Stately Nagablade,F1,Demigod L4 Mid,B
+MV-SIG-NAG-011-02,Gale Heading Draw,Triumphant Nagatip,F1,Demigod L4 Mid,B
+MV-SIG-NAG-011-03,Heading-Line Dart,Gallant Nagashaft,F1,Demigod L4 Mid,B
+MV-SIG-NAG-011-04,Gale Heading Sweep,Tsubaring Triumph,F3,Demigod L4 Mid,B
+MV-SIG-NAG-011-05,Heading Haft Shed,Consecrated Habakiring,F1,Demigod L4 Mid,B
+MV-SIG-NAG-011-06,Heading Step Cut,Inferno Bladecurve,F2,Demigod L4 Mid,B
+MV-SIG-NAG-011-07,Gale Heading Reaping,Vigorishi,F5,Demigod L4 Mid,B
+MV-SIG-NAG-011-08,Heading Haft Press,Season Nagaheel,F2,Demigod L4 Mid,B
+MV-SIG-NAG-011-09,Gale Heading Flash Cut,Bedrock Uchiotoshi,F2,Demigod L4 Mid,B
+MV-SIG-NAG-011-10,Gale Heading Great Reaper,Magma Ishizuki,F2,Demigod L4 Mid,B
+MV-SIG-NAG-012-01,Open-Wind Guard,Nagapledge,F4,Core Formation L2 Low,B
+MV-SIG-NAG-012-02,Wind-Open Slice,Quenched Mawashi,F2,Core Formation L2 Low,B
+MV-SIG-NAG-012-03,Open-Wind Thrust,Vacuum Uchiotoshi,F2,Core Formation L2 Low,B
+MV-SIG-NAG-012-04,Windflow Parry,Parity Ishizuki,F2,Core Formation L2 Low,B
+MV-SIG-NAG-012-05,Open-Wind Sweep,Squallkake,F5,Core Formation L2 Low,B
+MV-SIG-NAG-012-06,Windflow Hook,Sigilharai,F5,Core Formation L2 Low,B
+MV-SIG-NAG-012-07,Open-Wind Step Cut,Illustrious Nagatip,F1,Core Formation L2 Low,B
+MV-SIG-NAG-012-08,Wind-Sensing Haft,Peal Habakiring,F2,Core Formation L2 Low,B
+MV-SIG-NAG-012-09,Open-Wind Reaping,Sovereign Nagi,F1,Core Formation L2 Low,B
+MV-SIG-NAG-012-10,Windflow Hold,Bedrock Nagaheel,F2,Core Formation L2 Low,B
+MV-SIG-NAG-012-11,Open-Wind Flash Rending,Uchiotoshi Triumph,F3,Core Formation L2 Low,B
+MV-SIG-NAG-012-12,Open-Wind Core Reaper,Dune Kake,F2,Core Formation L2 Low,B
+MV-SIG-NAG-006-10,Glacier Nagashaft,Gathering Nagashaft,F2,Core Formation L1 Low,B
+MV-SIG-NAG-007-06,Glacier Uchiotoshi,Hooking Uchiotoshi,F2,Warrior L2 High,B
+MV-SIG-NAG-007-09,Hornbeam Ishizukibase,Anchored Ishizukibase,F2,Champion L1 Low,B
+MV-SIG-NAG-009-10,Hornbeam Nagatip,Stopping Nagatip,F2,Champion L7 Mid,B
+MV-SIG-NAG-010-09,Glacier Ishizuki,Immovable Ishizuki,F2,Ruler L1 Mid,B
+MV-SIG-NAG-012-12,Dune Kake,Reaping Kake,F2,Core Formation L2 Low,B

@@ -1,0 +1,116 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-HTH-001-01,Settled Body Punch,Heelbone Torment,F3,Champion,B
+MV-ADV-HTH-001-02,Opening Jab Probe,Meridian Elbow,F2,Champion,B
+MV-ADV-HTH-001-03,Hanging Forearm Guard,Immovable Fist,F1,Champion,B
+MV-ADV-HTH-001-04,Weave Step Entry,Torrent Palm,F2,Champion,B
+MV-ADV-HTH-001-05,Rolling Elbow Pair,Mightknee,F5,Champion,B
+MV-ADV-HTH-001-06,Shoulder Hook Takedown,Quelling Ulna,F1,Champion,B
+MV-ADV-HTH-001-07,Meridian Weight Cross,Rupturing Vessel Knee,F6a,Champion,B
+MV-ADV-HTH-001-08,Cracking Body Hook,Shin Torment,F3,Champion,B
+MV-ADV-HTH-002-01,Flow Grip Hold,Thornfist,F5,Champion,B
+MV-ADV-HTH-002-02,Elbow Pin to the Floor,Subduing Shoulder,F1,Champion,B
+MV-ADV-HTH-002-03,Locked Leg Triangle,Manacling Grapple,F1,Champion,B
+MV-ADV-HTH-002-04,Wrist Crush Hold,Pinfall Cuirass,F3,Champion,B
+MV-ADV-HTH-002-05,Break Free Twist,Torrent Knuckle,F2,Champion,B
+MV-ADV-HTH-002-06,Pinning Qi Press,Thorn Throw,F2,Champion,B
+MV-ADV-HTH-002-07,Grip Chain Transition,Palmpounce,F4,Champion,B
+MV-ADV-HTH-002-08,Hold Breaking Counter,Toxinsweep,F5,Champion,B
+MV-ADV-HTH-002-09,Collapse the Base Press,Ponderous Knuckle,F2,Champion,B
+MV-ADV-HTH-003-01,Hip Heel Scan,Expanse Shoulder,F2,Ruler,B
+MV-ADV-HTH-003-02,Heel Line Probe,Tempered Clinch,F2,Ruler,B
+MV-ADV-HTH-003-03,Shin Check Cut,Annealed Hip,F1,Ruler,B
+MV-ADV-HTH-003-04,Tilt and Slip Past,Vesselfist,F5,Ruler,B
+MV-ADV-HTH-003-05,Stance Fracture Sweep,Rumble Shin,F2,Ruler,B
+MV-ADV-HTH-003-06,Shove into the Open Line,Rumblefist,F5,Ruler,B
+MV-ADV-HTH-003-07,Cross Foot Trip,Dominating Palm,F1,Ruler,B
+MV-ADV-HTH-003-08,Knee Pin Stop,Hipcuirass,F4,Ruler,B
+MV-ADV-HTH-004-01,Heavy Pressing Palm,Iron Hip,F2,Demigod,B
+MV-ADV-HTH-004-02,Chest Resonance Jab,Might Elbow,F2,Demigod,B
+MV-ADV-HTH-004-03,Breath Stealing Hook,Grinding Fist,F1,Demigod,B
+MV-ADV-HTH-004-04,Qi Skin Forearm Cover,Unshaken Hip,F1,Demigod,B
+MV-ADV-HTH-004-05,Slide Entry Past the Guard,Ulnaspurt,F4,Demigod,B
+MV-ADV-HTH-004-06,Bone Core Strike,Sweeptorment,F4,Demigod,B
+MV-ADV-HTH-004-07,Spine Line Drive,Glint Sweep,F2,Demigod,B
+MV-ADV-HTH-004-08,Deep Penetration Palm,Kneetorment,F4,Demigod,B
+MV-ADV-HTH-005-01,Line Them Up Step,Hastening Ulna,F1,Demigod,B
+MV-ADV-HTH-005-02,Shoulder Shove Through,Unmaking Pinfall,F1,Demigod,B
+MV-ADV-HTH-005-03,Rear Elbow Clear,Mighthip,F5,Demigod,B
+MV-ADV-HTH-005-04,Throw into the Crowd,Toxinpalm,F5,Demigod,B
+MV-ADV-HTH-005-05,Back to the Post Cover,Granite Knee,F2,Demigod,B
+MV-ADV-HTH-005-06,Weave Between Hands,Auraclinch,F5,Demigod,B
+MV-ADV-HTH-005-07,Cast Off Grapple Burst,Equipoise Elbow,F2,Demigod,B
+MV-ADV-HTH-005-08,Sweeping Circle Kick,Slag Grapple,F2,Demigod,B
+MV-ADV-HTH-005-09,Quick Sequence on One Man,Hour Palm,F2,Demigod,B
+MV-ADV-HTH-006-01,Paired Palm Strike,Drubbing Knee,F1,Champion,B
+MV-ADV-HTH-006-02,Twin Palm Cover,Vessel Knuckle,F2,Champion,B
+MV-ADV-HTH-006-03,Azure Palm Glide,Silt Chokehold,F2,Champion,B
+MV-ADV-HTH-006-04,River Current Deflection,Resilient Shin,F1,Champion,B
+MV-ADV-HTH-006-05,Hawk Hand Snatch,Thornulna,F5,Champion,B
+MV-ADV-HTH-006-06,Dual Beat Palm Press,Vesselsweep,F5,Champion,B
+MV-ADV-HTH-006-07,Basin Palm Pin,Thorn Sweep,F2,Champion,B
+MV-ADV-HTH-006-08,Mirrored Palm Sequence,Lotfist,F5,Champion,B
+MV-ADV-HTH-007-01,Talon Grip Seizure,Meridian Shoulder,F2,Ruler,B
+MV-ADV-HTH-007-02,Hawk Drop Takedown,Rumbleclinch,F5,Ruler,B
+MV-ADV-HTH-007-03,Circling Guard,Torrent Shin,F2,Ruler,B
+MV-ADV-HTH-007-04,Hawk Dive Entry Step,Whipping Sweep,F1,Ruler,B
+MV-ADV-HTH-007-05,Wing Spread Arm Bar,Vesselelbow,F5,Ruler,B
+MV-ADV-HTH-007-06,Soaring Hip Throw,Rumble Ulna,F2,Ruler,B
+MV-ADV-HTH-007-07,Paired Hand Hold,Gyveelbow,F5,Ruler,B
+MV-ADV-HTH-007-08,Hawk Shoulder Reading,Remnant Fist,F2,Ruler,B
+MV-ADV-HTH-008-01,River Flow Palm,Might Heelbone,F2,Demigod,B
+MV-ADV-HTH-008-02,Basin Collect Guard,Nimbus Shoulder,F2,Demigod,B
+MV-ADV-HTH-008-03,Eddy Turn Step,Racing Heelbone,F1,Demigod,B
+MV-ADV-HTH-008-04,Stream Along the Arm,Gyve Knuckle,F2,Demigod,B
+MV-ADV-HTH-008-05,Twin Current Strike,Rumble Elbow,F2,Demigod,B
+MV-ADV-HTH-008-06,Silt Deep Joint Lock,Ponderous Heelbone,F2,Demigod,B
+MV-ADV-HTH-008-07,Basin Overflow Palm Release,Unbroken Knee,F1,Demigod,B
+MV-ADV-HTH-008-08,Two Streams Meeting,Granite Chokehold,F2,Demigod,B
+MV-ADV-HTH-008-09,Basin Pressure Press,Nimbus Fist,F2,Demigod,B
+MV-ADV-HTH-008-10,Floodgate Palm Rush,Grapple Torment,F3,Demigod,B
+MV-ADV-HTH-009-01,Paired Throw Entry,Gust Grapple,F2,Demigod,B
+MV-ADV-HTH-009-02,Azure Arc Hip Throw,Subduing Palm,F1,Demigod,B
+MV-ADV-HTH-009-03,Twin Reap Sweep,Mayhem Throw,F2,Demigod,B
+MV-ADV-HTH-009-04,River Pull Redirect,Chime Palm,F2,Demigod,B
+MV-ADV-HTH-009-05,Hawk Wing Cover,Iron Elbow,F2,Demigod,B
+MV-ADV-HTH-009-06,Dual Track Switch,Kneeplating,F4,Demigod,B
+MV-ADV-HTH-009-07,Basin Lift Throw,Toxin Knuckle,F2,Demigod,B
+MV-ADV-HTH-009-08,Throw and Strike Pair,Hour Ulna,F2,Demigod,B
+MV-ADV-HTH-009-09,Sunrise Sweep,Transfixing Sweep,F1,Demigod,B
+MV-ADV-HTH-010-01,Bearing Taken Grip,Compressing Sweep,F1,Champion,B
+MV-ADV-HTH-010-02,Gale Lean Takedown,Toxin Ulna,F2,Champion,B
+MV-ADV-HTH-010-03,Open Ground Step,Silt Throw,F2,Champion,B
+MV-ADV-HTH-010-04,Wind Slip Guard,Adamant Hip,F1,Champion,B
+MV-ADV-HTH-010-05,Oath Held Pin,Meridian Pinfall,F2,Champion,B
+MV-ADV-HTH-010-06,Crosswind Roll,Shinspurt,F4,Champion,B
+MV-ADV-HTH-010-07,Plateau Edge Throw,Shin Cloak,F3,Champion,B
+MV-ADV-HTH-010-08,Wind Weight Press,Fistplating,F4,Champion,B
+MV-ADV-HTH-011-01,Plateau Stride Punch,Lambasting Pinfall,F1,Ruler,B
+MV-ADV-HTH-011-02,Wind Beat Jab Series,Blazepalm,F5,Ruler,B
+MV-ADV-HTH-011-03,Bearing Held Forearm Guard,Hoarfrost Heelbone,F2,Ruler,B
+MV-ADV-HTH-011-04,Gale Step Entry,Siltpalm,F5,Ruler,B
+MV-ADV-HTH-011-05,Headwind Cross,Cleaving Chokehold,F1,Ruler,B
+MV-ADV-HTH-011-06,Oath Fist Rising Uppercut,Hip Assault,F3,Ruler,B
+MV-ADV-HTH-011-07,Wind Break Elbow,Iron Shoulder,F2,Ruler,B
+MV-ADV-HTH-011-08,Crosswind Deflection,Equipoise Knee,F2,Ruler,B
+MV-ADV-HTH-011-09,Long Wind Pursuit,Funneling Vessel Pinfall,F6a,Ruler,B
+MV-ADV-HTH-012-01,Open Hand Oath Guard,Staunch Fist,F1,Demigod,B
+MV-ADV-HTH-012-02,Gale Palm Thrust,Aurafist,F5,Demigod,B
+MV-ADV-HTH-012-03,Wind Reading Touch,Rejuvenating Elbow,F1,Demigod,B
+MV-ADV-HTH-012-04,Bearing Turn Redirect,Torrent Heelbone,F2,Demigod,B
+MV-ADV-HTH-012-05,No Walls Step,Granite Pinfall,F2,Demigod,B
+MV-ADV-HTH-012-06,Palm Edge Plateau Chop,Cleaving Fist,F1,Demigod,B
+MV-ADV-HTH-012-07,Wind Wrap Throw,Quelling Palm,F1,Demigod,B
+MV-ADV-HTH-012-08,Held Wind Palm,Hollow Shoulder,F2,Demigod,B
+MV-ADV-HTH-012-09,Sworn Hold Release,Dominating Knee,F1,Demigod,B
+MV-ADV-HTH-013-01,Sand Footing Stance,Facet Ulna,F2,Demigod,B
+MV-ADV-HTH-013-02,Tide Pull Takedown,Compressing Knuckle,F1,Demigod,B
+MV-ADV-HTH-013-03,Gull Wing Arm Drag,Careening Shin,F1,Demigod,B
+MV-ADV-HTH-013-04,Salt Spray Guard,Enduring Fist,F1,Demigod,B
+MV-ADV-HTH-013-05,Anchor Body Lock,Gyveknee,F5,Demigod,B
+MV-ADV-HTH-013-06,Gale Reversal Roll,Aura Hip,F2,Demigod,B
+MV-ADV-HTH-013-07,Rolling Swell Throw,Nimbusshin,F5,Demigod,B
+MV-ADV-HTH-013-08,Wind Driven Slam,Clinchthrash,F4,Demigod,B
+MV-ADV-HTH-013-09,Shifting Deck Sweep,Mayhem Grapple,F2,Demigod,B
+MV-ADV-HTH-013-10,Bearing Held Pin,Clinch Plating,F3,Demigod,B
+MV-ADV-HTH-003-01,Expanse Shoulder,Exact Shoulder,F2,Ruler,B
+MV-ADV-HTH-012-08,Hollow Shoulder,Forged Shoulder,F2,Demigod,B

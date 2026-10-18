@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-RPD-001-01,Dart Straight Throw,Forward Cordlength,F1,Unawakened,A
+MV-BAS-RPD-001-02,Gathered Coil Advance,Easing Snapback,F1,Unawakened,A
+MV-BAS-RPD-001-03,Forearm Cord Bar,Planted Dartblade,F1,Unawakened,A
+MV-BAS-RPD-001-04,Low Dart Ankle Rap,Thrumstrike,F4,Unawakened,A
+MV-BAS-RPD-001-05,Wrist Loop Flick,Thrumwedge,F4,Unawakened,A
+MV-BAS-RPD-001-06,Slack Cord Watching Stance,Kind Cordknot,F1,Unawakened,A
+MV-BAS-RPD-002-01,Overhead Weight Whirl,Hard Dartneck,F1,Skin,A
+MV-BAS-RPD-002-02,Hip Swing Drill Pass,Level Reelin,F1,Skin,A
+MV-BAS-RPD-002-03,Wrist-Rolled Figure Eight,Kept Tailring,F1,Skin,A
+MV-BAS-RPD-002-04,Planted Heel Half Turn,Tinepace,F4,Skin,A
+MV-BAS-RPD-002-05,Collarbone Point Snap,Spoolstrike,F4,Skin,A
+MV-BAS-RPD-002-06,Cord Crack on the Weapon Hand,Reelincowl,F4,Skin,A
+MV-BAS-RPD-002-07,Hand-Over-Hand Retreat,Quiet Flickhand,F1,Skin,A
+MV-BAS-RPD-003-01,Pendulum Release Strike,Sharp Retrieve,F1,Muscle,A
+MV-BAS-RPD-003-02,Rising Underarc Lift,Upward Whipout,F1,Muscle,A
+MV-BAS-RPD-003-03,Outstretched Cord Brush,Ringend Wedge,F3,Muscle,A
+MV-BAS-RPD-003-04,Ball-of-Foot Quarter Turn,Reelinamble,F4,Muscle,A
+MV-BAS-RPD-003-05,Easy Beat Cord Feel,Even Cordloop,F1,Muscle,A
+MV-BAS-RPD-004-01,Palm Coil Release,Flat Loopcast,F1,Tendon,A
+MV-BAS-RPD-004-02,Double Wrap Forearm Guard,Tight Cordloop,F1,Tendon,A
+MV-BAS-RPD-004-03,Dart Tip Eye Flick,Towing Whipout,F1,Tendon,A
+MV-BAS-RPD-004-04,Overshoot and Snap Back,Level Cordwinder,F1,Tendon,A
+MV-BAS-RPD-004-05,Leaning Cord Slide Dodge,Quiet Tailring,F1,Tendon,A
+MV-BAS-RPD-004-06,Tail-Hook Knee Trip,Pluckwedge,F4,Tendon,A
+MV-BAS-RPD-004-07,Knuckle-Wrapped Cord Punch,Forward Spiralcast,F1,Tendon,A
+MV-BAS-RPD-004-08,Cord Length Pacing Drill,Thrumreview,F4,Tendon,A
+MV-BAS-RPD-005-01,Reel-Back Drag Strike,Descending Ringend,F1,Bone,A
+MV-BAS-RPD-005-02,Drop and Haul Feint,Thrumlid,F4,Bone,A
+MV-BAS-RPD-005-03,Post-Turned Return Throw,Pluckdash,F4,Bone,A
+MV-BAS-RPD-005-04,Burning Cord Pull-Through,Pulling Cordknot,F1,Bone,A
+MV-BAS-RPD-005-05,Throw-Haul-Catch Chain,Wide Retrieve,F1,Bone,A
+MV-BAS-RPD-005-06,Wide-Footed Reel Brace,Thrumstay,F4,Bone,A
+MV-BAS-RPD-006-01,Qi-Threaded Dart Throw,Snapback Bump,F3,Senior,A
+MV-BAS-RPD-006-02,Tethered Point Stab,Reelinhit,F4,Senior,A
+MV-BAS-RPD-006-03,Stiffened Cord Check,Holding Cordlength,F1,Senior,A
+MV-BAS-RPD-006-04,Half-Coil Slide Step,Quiet Reelin,F1,Senior,A
+MV-BAS-RPD-006-05,Shin-Lash Whip Out,Gnawing Cordwinder,F1,Senior,A
+MV-BAS-RPD-006-06,Ring-and-Pull Catch,Spoolstay,F4,Senior,A
+MV-BAS-RPD-006-07,Aim-Breath Count,Tending Dartneck,F1,Senior,A
+MV-BAS-RPD-007-01,Elbow Cord Wrap,Pulling Loopcast,F1,Senior,A
+MV-BAS-RPD-007-02,Spiral Shaft Wrap,Turning Retrieve,F1,Senior,A
+MV-BAS-RPD-007-03,Unwrap and Whip,Sharp Darttip,F1,Senior,A
+MV-BAS-RPD-007-04,Wrapped-Forearm Parry,Pluckcowl,F4,Senior,A
+MV-BAS-RPD-007-05,Wrap-and-Close Step,Shifting Spiralcast,F1,Senior,A
+MV-BAS-RPD-008-01,Weighted Cord Forward Cast,Firm Dartblade,F1,Senior,A
+MV-BAS-RPD-008-02,Side Sweep Cord Arc,Downward Snapback,F1,Senior,A
+MV-BAS-RPD-008-03,Turning Cord Screen,Resting Dartblade,F1,Senior,A
+MV-BAS-RPD-008-04,Weight Drop Ankle Snare,Nabbing Darttip,F1,Senior,A
+MV-BAS-RPD-008-05,Return Whip to the Ribs,Upward Darttip,F1,Senior,A
+MV-BAS-RPD-008-06,Cord-Length Retreat Step,Backward Flickhand,F1,Senior,A
+MV-BAS-RPD-008-07,Dart Tip Face Feint,Tinelid,F4,Senior,A
+MV-BAS-RPD-008-08,Slack and Taut Reading,Pluckgauge,F4,Senior,A
+MV-BAS-RPD-009-01,Stiff-Cord Poke,Low Cordloop,F1,Senior,A
+MV-BAS-RPD-009-02,Soft-Cord Wrap Release,Pluckpause,F4,Senior,A
+MV-BAS-RPD-009-03,Cord Rod Block,Tinestay,F4,Senior,A
+MV-BAS-RPD-009-04,Whip-Soft Reach Lash,Square Flickhand,F1,Senior,A
+MV-BAS-RPD-009-05,Qi-Pulled Side Hop,Easing Dartneck,F1,Senior,A
+MV-BAS-RPD-009-06,Taut Cord Shift Reading,Steady Ringend,F1,Senior,A
+MV-BAS-RPD-010-01,Long-Tail Wide Cast,Spoolbump,F4,Senior,A
+MV-BAS-RPD-010-02,Overhead Tail Drop,Firm Cordlength,F1,Senior,A
+MV-BAS-RPD-010-03,Tail Circle Fence,Planted Tailring,F1,Senior,A
+MV-BAS-RPD-010-04,Trailing Tail Sidestep,Pluckhop,F4,Senior,A
+MV-BAS-RPD-010-05,Doubled-Tail Hold,Pulling Whipout,F1,Senior,A
+MV-BAS-RPD-010-06,Tail-End Shin Crack,Hard Loopcast,F1,Senior,A
+MV-BAS-RPD-010-07,Reach Measure Glance,Cordknot Note,F3,Senior,A

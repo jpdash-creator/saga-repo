@@ -1,0 +1,78 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-GRS-001-01,Measured Great Cut,Rough Crossbeam,F1,Senior L2 Low,A
+MV-INT-GRS-001-02,Pivoting Cross Chop,Lugs Flog,F3,Senior L2 Low,A
+MV-INT-GRS-001-03,Lifted Hilt Guard,Unmoving Heft,F1,Senior L2 Low,A
+MV-INT-GRS-001-04,Long Pace Advance,Prowling Greatedge,F1,Senior L2 Low,A
+MV-INT-GRS-001-05,Crossguard Catch Twist,Longgrip Barrier,F3,Senior L2 Low,A
+MV-INT-GRS-001-06,Swing-Riding Cleave,Stern Bulk,F1,Senior L1 Low,A
+MV-INT-GRS-001-07,Footwork-Fed Chop,Bold Counterweight,F1,Senior L1 Low,A
+MV-INT-GRS-002-01,Whole-Body Heavy Cut,Harsh Greatsweep,F1,Senior L4 Low,A
+MV-INT-GRS-002-02,Recoil Absorbing Stance,Buttressed Flange,F1,Senior L4 Low,A
+MV-INT-GRS-002-03,Outer Edge Chop,Hiltwrap Flog,F3,Senior L4 Low,A
+MV-INT-GRS-002-04,Brace and Shuffle,Rondel Stalk,F3,Senior L4 Low,A
+MV-INT-GRS-002-05,Qi-Weighted Downstroke,Swift Windmill,F1,Senior L1 Low,A
+MV-INT-GRS-002-06,Recoil-Holding Guard,Greatedge Screen,F3,Senior L1 Low,A
+MV-INT-GRS-003-01,Edge Angle Cut,Bulkscorer,F4,Senior L6 Mid,A
+MV-INT-GRS-003-02,Weighted Rising Chop,Brisk Mulinet,F1,Senior L6 Mid,A
+MV-INT-GRS-003-03,Pommel Counterweight Turn,Dire Haul,F1,Senior L6 Mid,A
+MV-INT-GRS-003-04,Flat Edge Beat,Heft Screen,F3,Senior L6 Mid,A
+MV-INT-GRS-003-05,Guarding Half-Step,Hefthurdle,F4,Senior L6 Mid,A
+MV-INT-GRS-003-06,Weight-Read Glance,Sure Flange,F1,Senior L6 Mid,A
+MV-INT-GRS-003-07,Honed Edge Draw Cut,Hungry Overswing,F1,Senior L1 Low,A
+MV-INT-GRS-003-08,Heavy Edge Fall,Haulflog,F4,Senior L1 Low,A
+MV-INT-GRS-004-01,Practice Downward Hew,Brawn Windmill,F2,Warrior L1 Low,B
+MV-INT-GRS-004-02,Practice Crossing Hew,Clay Counterweight,F2,Warrior L1 Low,B
+MV-INT-GRS-004-03,Practice Ward Parry,Draught Rondel,F2,Warrior L1 Low,B
+MV-INT-GRS-004-04,Practice Gliding Step,Gritbulk,F5,Warrior L1 Low,B
+MV-INT-GRS-004-05,Practice Hook Pull,Static Crossbeam,F2,Warrior L1 Low,B
+MV-INT-GRS-004-06,Practice Bracing Hold,Clay Longgrip,F2,Warrior L1 Low,B
+MV-INT-GRS-004-07,Triple Hew Sequence,Dire Hiltwrap,F1,Warrior L1 Low,B
+MV-INT-GRS-004-08,Guarded Counter-Cleave,Haze Rondel,F2,Warrior L1 Low,B
+MV-INT-GRS-004-09,Advancing Ward Line,Rigid Crossbeam,F1,Warrior L1 Low,B
+MV-INT-GRS-005-01,Momentum Carry Cut,Greatsweep Thwack,F3,Senior L3 Low,A
+MV-INT-GRS-005-02,Overswing Catch,Stubborn Bulk,F1,Senior L3 Low,A
+MV-INT-GRS-005-03,Backswing Rebound Slash,Heftslap,F4,Senior L3 Low,A
+MV-INT-GRS-005-04,Recovery Pace,Ducking Haul,F1,Senior L3 Low,A
+MV-INT-GRS-005-05,Swing Reading Glance,Kindly Lugs,F1,Senior L3 Low,A
+MV-INT-GRS-005-06,Momentum Fed Whirl,Harsh Overswing,F1,Senior L1 Low,A
+MV-INT-GRS-005-07,Guard Recovery Slide,Wrenchhurdle,F4,Senior L1 Low,A
+MV-INT-GRS-006-01,Circulating Down Hew,Wild Hiltwrap,F1,Senior L8 Low,A
+MV-INT-GRS-006-02,Circulating Rising Hew,Lugsslap,F4,Senior L8 Low,A
+MV-INT-GRS-006-03,Circulating Cross Hew,Raw Heft,F1,Senior L8 Low,A
+MV-INT-GRS-006-04,Circulating Guard Fall,Flange Hasp,F3,Senior L8 Low,A
+MV-INT-GRS-006-05,Circulating Stride,Slinking Lugs,F1,Senior L8 Low,A
+MV-INT-GRS-006-06,Circulating Hook Haul,Haul Screen,F3,Senior L8 Low,A
+MV-INT-GRS-006-07,Circulating Tip Thrust,Rugged Mulinet,F1,Senior L8 Low,A
+MV-INT-GRS-006-08,Breath-Linked Chain Cut,Savage Greatsweep,F1,Senior L1 Low,A
+MV-INT-GRS-006-09,Breath-Linked Chain Guard,Lugsprop,F4,Senior L1 Low,A
+MV-INT-GRS-006-10,Long Edge Qi Reach,Rushing Wrench,F1,Senior L1 Low,A
+MV-INT-GRS-007-01,Bind Entry Cut,Honedhaul,F5,Warrior L2 Mid,B
+MV-INT-GRS-007-02,Bind Pressing Hold,Gall Bulk,F2,Warrior L2 Mid,B
+MV-INT-GRS-007-03,Bind Slipping Pace,Claybulk,F5,Warrior L2 Mid,B
+MV-INT-GRS-007-04,Bind Breaking Shove,Flangeprop,F4,Warrior L2 Mid,B
+MV-INT-GRS-007-05,Qi-Pressed Bind,Levering Windmill,F1,Warrior L2 Mid,B
+MV-INT-GRS-007-06,Spring Release Flick,Emberwrench,F5,Warrior L2 Mid,B
+MV-INT-GRS-008-01,Full-Length Sweep,Ruthless Counterweight,F1,Senior L5 High,A
+MV-INT-GRS-008-02,Tip Cut Flick,Haulscorer,F4,Senior L5 High,A
+MV-INT-GRS-008-03,Reach Guarding Thrust,Bulkswat,F4,Senior L5 High,A
+MV-INT-GRS-008-04,Edge Length Parry,Longgrip Buckle,F3,Senior L5 High,A
+MV-INT-GRS-008-05,Long Pace Retreat,Pirouetting Overswing,F1,Senior L5 High,A
+MV-INT-GRS-008-06,Range Gauge Glance,Patient Greatedge,F1,Senior L5 High,A
+MV-INT-GRS-008-07,Qi-Tipped Sweep,Rugged Crossbeam,F1,Senior L1 Low,A
+MV-INT-GRS-008-08,Reach Extending Lunge,Rondelthwack,F4,Senior L1 Low,A
+MV-INT-GRS-009-01,Opening Wide Sweep,Honedflange,F5,Warrior L1 Mid,B
+MV-INT-GRS-009-02,Closing Long Thrust,Greatsweep Swat,F3,Warrior L1 Mid,B
+MV-INT-GRS-009-03,Sweep Return Parry,Rondel Buckle,F3,Warrior L1 Mid,B
+MV-INT-GRS-009-04,Thrust Recovery Step,Draught Wrench,F2,Warrior L1 Mid,B
+MV-INT-GRS-009-05,Gap Closing Press,Humlugs,F5,Warrior L1 Mid,B
+MV-INT-GRS-009-06,Sweep Guard Cover,Shardbulk,F5,Warrior L1 Mid,B
+MV-INT-GRS-009-07,Sweep to Thrust Link,Crimson Wrench,F2,Warrior L1 Mid,B
+MV-INT-GRS-009-08,Thrust to Sweep Link,Draught Flange,F2,Warrior L1 Mid,B
+MV-INT-GRS-009-09,Qi Ringed Sweep,Regimen Haul,F2,Warrior L1 Mid,B
+MV-INT-GRS-010-01,Long Hilt Lever Guard,Heftprop,F4,Senior L9 Low,A
+MV-INT-GRS-010-02,Hilt Hook Turn,Lassoing Hiltwrap,F1,Senior L9 Low,A
+MV-INT-GRS-010-03,Leverage Rising Cut,Flangeflog,F4,Senior L9 Low,A
+MV-INT-GRS-010-04,Guarded Retreat Pace,Fleet Mulinet,F1,Senior L9 Low,A
+MV-INT-GRS-010-05,Hilt Leverage Strike,Lugsscorer,F4,Senior L9 Low,A
+MV-INT-GRS-010-06,Qi Levered Guard,Bulkhasp,F4,Senior L1 Low,A
+MV-INT-GRS-010-07,Lever Throw Pull,Wrenchscreen,F4,Senior L1 Low,A

@@ -1,0 +1,70 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-SHG-001-01,Spread Breath Gathering,Vital Pumpgrip,F2,Champion,B
+MV-ADV-SHG-001-02,Rear Foot Plant,Facetpellet,F5,Champion,B
+MV-ADV-SHG-001-03,Driven Fan Shot,Blaze Slug,F2,Champion,B
+MV-ADV-SHG-001-04,Sidestep Reload Weave,Might Doublebarrel,F2,Champion,B
+MV-ADV-SHG-001-05,Fan Core Narrowing,Wad Torment,F3,Champion,B
+MV-ADV-SHG-001-06,Spread Rebound Guard,Torrent Breech,F2,Champion,B
+MV-ADV-SHG-001-07,Driven Fan Breaker,Scything Buckshot Maelstrom,F6b,Champion,B
+MV-ADV-SHG-001-08,Qi Blast Plug Shot,Harpooning Slugchamber,F1,Champion,B
+MV-ADV-SHG-002-01,Plank Hole Study,Chime Sawnedge,F2,Demigod,B
+MV-ADV-SHG-002-02,Qi Pellet Shaping,Equipoise Shell,F2,Demigod,B
+MV-ADV-SHG-002-03,Brittle Cover Shot,Blaze Spreadshot,F2,Demigod,B
+MV-ADV-SHG-002-04,Pattern Walking Pace,Bounding Pump,F1,Demigod,B
+MV-ADV-SHG-002-05,Splinter Guard Crouch,Aegis Choke,F2,Demigod,B
+MV-ADV-SHG-002-06,Splinter Cloud Cast,Grinding Bead,F1,Demigod,B
+MV-ADV-SHG-002-07,Hardened Pattern Break,Ironbead,F5,Demigod,B
+MV-ADV-SHG-002-08,Armour Seam Sensing,Waning Pellet,F2,Demigod,B
+MV-ADV-SHG-002-09,Barricade Shattering Burst,Mayhem Pump,F2,Demigod,B
+MV-ADV-SHG-002-10,Fracture Line Volley,Lot Bead,F2,Demigod,B
+MV-ADV-SHG-003-01,Hinge and Bar Reading,Remnant Wad,F2,Champion,B
+MV-ADV-SHG-003-02,Breach Approach Crouch,Hastening Pattern,F1,Champion,B
+MV-ADV-SHG-003-03,Hinge Pin Blast,Blazeblast,F5,Champion,B
+MV-ADV-SHG-003-04,Dust Beyond Fire,Choke Thrash,F3,Champion,B
+MV-ADV-SHG-003-05,Qi Hinge Shatter,Blast Maelstrom,F3,Champion,B
+MV-ADV-SHG-003-06,Bar Splitting Spread,Scorching Slugchamber,F1,Champion,B
+MV-ADV-SHG-003-07,Flying Wood Turn,Aegisshell,F5,Champion,B
+MV-ADV-SHG-003-08,Door Splitting Qi Blast,Siltshell,F5,Champion,B
+MV-ADV-SHG-003-09,Mortar Seam Pellet Drive,Scything Breech,F1,Champion,B
+MV-ADV-SHG-004-01,Lane Width Judging,Veritybead,F5,Demigod,B
+MV-ADV-SHG-004-02,Wall Brush Walk,Silt Pattern,F2,Demigod,B
+MV-ADV-SHG-004-03,Lane Raking Shot,Downpour Shell,F2,Demigod,B
+MV-ADV-SHG-004-04,Corner Round Muzzle,Nova Sawnedge,F2,Demigod,B
+MV-ADV-SHG-004-05,Backpedal Recharge,Gust Buckshot,F2,Demigod,B
+MV-ADV-SHG-004-06,Narrow Wall Crouch,Thorn Doublebarrel,F2,Demigod,B
+MV-ADV-SHG-004-07,Rolling Lane Fire,Breechassault,F4,Demigod,B
+MV-ADV-SHG-004-08,Tall Thin Spread,Pellet Torment,F3,Demigod,B
+MV-ADV-SHG-004-09,Lane Echo Sensing,Waning Pumpgrip,F2,Demigod,B
+MV-ADV-SHG-004-10,Narrow Way Sweeping Blast,Siltchoke,F5,Demigod,B
+MV-ADV-SHG-004-11,Alley Mouth Curtain,Spreadshot Cloak,F3,Demigod,B
+MV-ADV-SHG-005-01,Matched Barrel Loading,Intent Pellet,F2,Champion,B
+MV-ADV-SHG-005-02,Twin Hammer Draw,Discerning Shell,F1,Champion,B
+MV-ADV-SHG-005-03,First Barrel Strike,Glintchoke,F5,Champion,B
+MV-ADV-SHG-005-04,Pair Step Cadence,Silt Blast,F2,Champion,B
+MV-ADV-SHG-005-05,Second Barrel Follow,Blazeshell,F5,Champion,B
+MV-ADV-SHG-005-06,Paired Fan Crossing,Slag Spreadshot,F2,Champion,B
+MV-ADV-SHG-005-07,Twin Track Qi Share,Might Choke,F2,Champion,B
+MV-ADV-SHG-005-08,Twin Hawk Double Blast,Hollowchoke,F5,Champion,B
+MV-ADV-SHG-005-09,Paired River Sweep,Wrecking Doublebarrel,F1,Champion,B
+MV-ADV-SHG-006-01,Soaring Gaze Muzzle Fix,Fortifying Wad,F1,Demigod,B
+MV-ADV-SHG-006-02,Basin Stance Settling,Resilient Slugchamber,F1,Demigod,B
+MV-ADV-SHG-006-03,Basin Rim Fire,Slag Pumpgrip,F2,Demigod,B
+MV-ADV-SHG-006-04,Hawk Stoop Step,Gust Blast,F2,Demigod,B
+MV-ADV-SHG-006-05,River Bend Aim,Gust Pump,F2,Demigod,B
+MV-ADV-SHG-006-06,Two Beat Recharge,Might Bead,F2,Demigod,B
+MV-ADV-SHG-006-07,Hawk Plunge Shot,Harrowing Buckshot,F1,Demigod,B
+MV-ADV-SHG-006-08,Basin Gathered Spread,Mayhem Pattern,F2,Demigod,B
+MV-ADV-SHG-006-09,River Flow Retreat,Gust Sawnedge,F2,Demigod,B
+MV-ADV-SHG-006-10,Azure Warning Burst,Mayhem Blast,F2,Demigod,B
+MV-ADV-SHG-006-11,Hawk Basin Cascade,Mayhemshell,F5,Demigod,B
+MV-ADV-SHG-006-12,Riverbreach Pellet Drive,Needling Bead,F1,Demigod,B
+MV-ADV-SHG-007-01,Twin Reach Marking,Waning Breech,F2,Ruler,B
+MV-ADV-SHG-007-02,Bank Slope Stalk,Siltpump,F5,Ruler,B
+MV-ADV-SHG-007-03,Near Mark Shot,Rumble Pattern,F2,Ruler,B
+MV-ADV-SHG-007-04,Far Mark Loose Spread,Granite Slug,F2,Ruler,B
+MV-ADV-SHG-007-05,Reed Bed Cover,Thornchoke,F5,Ruler,B
+MV-ADV-SHG-007-06,Twin Flush and Fire,Intentwad,F5,Ruler,B
+MV-ADV-SHG-007-07,Pair Mark Qi Drive,Drubbing Sawnedge,F1,Ruler,B
+MV-ADV-SHG-007-08,Bank Line Turning,Beadplating,F4,Ruler,B
+MV-ADV-SHG-007-09,Twin Reach Snap Volley,Intentbead,F5,Ruler,B
+MV-ADV-SHG-007-10,Reed Hawk Takedown,Tempered Pumpgrip,F2,Ruler,B

@@ -1,0 +1,3 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-SOH-003-02,Basin Gauge,Core Gauge,INSTANT,,Basic
+CMV-SIG-SOH-003-05,Basin Replenishing,Core Replenishing,CHANNELED,,Intermediate

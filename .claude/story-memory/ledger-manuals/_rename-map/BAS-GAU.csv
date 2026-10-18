@@ -1,0 +1,64 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-GAU-001-01,Buckled Fist Jab,Single Backhandplate,F1,T1 Unawakened,A
+MV-BAS-GAU-001-02,Plate Backhand Swat,Glovebump,F4,T1 Unawakened,A
+MV-BAS-GAU-001-03,Cuff Cover Block,Lowered Knucklecap,F1,T1 Unawakened,A
+MV-BAS-GAU-001-04,Short Steel Hook,Glovedash,F4,T1 Unawakened,A
+MV-BAS-GAU-001-05,Planted Retreat Slide,Swaying Clench,F1,T1 Unawakened,A
+MV-BAS-GAU-002-01,Anvil Drop Fist,Leaden Wristcuff,F1,T1 Skin,A
+MV-BAS-GAU-002-02,Rapid Plate Tapping,Square Fingerplate,F1,T1 Skin,A
+MV-BAS-GAU-002-03,Wrist Cuff Turnaway,Snug Thumbplate,F1,T1 Skin,A
+MV-BAS-GAU-002-04,Drilled Shuffle Advance,Sideways Cuffplate,F1,T1 Skin,A
+MV-BAS-GAU-002-05,Steel Palm Shove,Descending Vambrace,F1,T1 Skin,A
+MV-BAS-GAU-002-06,Low Plate Hammer,Mittdash,F4,T1 Skin,A
+MV-BAS-GAU-003-01,Weighted Cross Swing,Mittstrike,F4,T1 Muscle,A
+MV-BAS-GAU-003-02,Fingerplate Poke,Glovestrike,F4,T1 Muscle,A
+MV-BAS-GAU-003-03,Steel Fingers Catch,Towing Crushgrip,F1,T1 Muscle,A
+MV-BAS-GAU-003-04,Fitted Brow Guard,Vambcowl,F4,T1 Muscle,A
+MV-BAS-GAU-003-05,Sidestep Behind Plate,Wringpace,F4,T1 Muscle,A
+MV-BAS-GAU-003-06,Closed Glove Hammering,Sharp Elbowcop,F1,T1 Muscle,A
+MV-BAS-GAU-003-07,Folded Forearm Knock,Mittcowl,F4,T1 Muscle,A
+MV-BAS-GAU-004-01,Backplate Flick,Gnawing Grasp,F1,T1 Tendon,A
+MV-BAS-GAU-004-02,Rising Steel Chin Strike,Wide Wring,F1,T1 Tendon,A
+MV-BAS-GAU-004-03,Outstretched Plate Screen,Settled Wristcuff,F1,T1 Tendon,A
+MV-BAS-GAU-004-04,Quarter Turn Plate Evade,Light Clamp,F1,T1 Tendon,A
+MV-BAS-GAU-004-05,Twin Steel Clap,Vamblid,F4,T1 Tendon,A
+MV-BAS-GAU-005-01,Forearm Cuff Smash,Wringdash,F4,T1 Bone,A
+MV-BAS-GAU-005-02,Rivet Edge Rake,Gauntcuff Hit,F3,T1 Bone,A
+MV-BAS-GAU-005-03,Rooted Gauntlet Straight,Gnawing Vambrace,F1,T1 Bone,A
+MV-BAS-GAU-005-04,Double Cuff Bar,Angled Palmguard,F1,T1 Bone,A
+MV-BAS-GAU-005-05,Glancing Backplate Ride,Kept Thumbplate,F1,T1 Bone,A
+MV-BAS-GAU-005-06,Bracer Hook Clinch,Clamppause,F4,T1 Bone,A
+MV-BAS-GAU-005-07,Hopping Gauntlet Entry,Stepping Backhandplate,F1,T1 Bone,A
+MV-BAS-GAU-005-08,Twin Steel Hammer Fall,Stiff Knucklecap,F1,T1 Bone,A
+MV-BAS-GAU-006-01,Qi-Filled Plate Punch,Level Clamp,F1,Senior L1 Low,A
+MV-BAS-GAU-006-02,Breath Settled Cuff Guard,Lowered Palmguard,F1,Senior L1 Low,A
+MV-BAS-GAU-006-03,Warm Steel Palm Press,Cuffplate Strike,F3,Senior L1 Low,A
+MV-BAS-GAU-006-04,Heel Sunk Gauntlet Step,Easing Seizeup,F1,Senior L1 Low,A
+MV-BAS-GAU-006-05,Glove Trace Arc,Clampdrop,F4,Senior L1 Low,A
+MV-BAS-GAU-006-06,Turning Plate Ward,Elbowcop Wedge,F3,Senior L1 Low,A
+MV-BAS-GAU-007-01,Hinged Finger Seize,Wringwedge,F4,Senior L2 Mid,A
+MV-BAS-GAU-007-02,Steel Finger Hook Pull,Wide Grasp,F1,Senior L2 Mid,A
+MV-BAS-GAU-007-03,Joint Locked Block Fist,Level Clench,F1,Senior L2 Mid,A
+MV-BAS-GAU-007-04,Thumb Plate Gouge,Graspblow,F4,Senior L2 Mid,A
+MV-BAS-GAU-007-05,Spread Finger Screen,Resting Gauntcuff,F1,Senior L2 Mid,A
+MV-BAS-GAU-007-06,Gripping Pivot Step,Wring Hop,F3,Senior L2 Mid,A
+MV-BAS-GAU-007-07,Palm Slap Upset,Seizeup Husk,F3,Senior L2 Mid,A
+MV-BAS-GAU-008-01,Mail Back Crush Grip,Fouling Crushgrip,F1,Senior L3 Low,A
+MV-BAS-GAU-008-02,Link Shedding Turn,Planted Backhandplate,F1,Senior L3 Low,A
+MV-BAS-GAU-008-03,Mail Cuff Wrist Rake,Low Wring,F1,Senior L3 Low,A
+MV-BAS-GAU-008-04,Half Slide Behind Mail,Sideways Gauntcuff,F1,Senior L3 Low,A
+MV-BAS-GAU-008-05,Chain Weight Drop,Clamphit,F4,Senior L3 Low,A
+MV-BAS-GAU-009-01,Vambrace Edge Parry,Tight Fingerplate,F1,Senior L4 High,A
+MV-BAS-GAU-009-02,Rising Vambrace Catch,Angled Cuffplate,F1,Senior L4 High,A
+MV-BAS-GAU-009-03,Spear Shaft Rail,Wristcuff Wedge,F3,Senior L4 High,A
+MV-BAS-GAU-009-04,Plate Return Strike,Firm Crushgrip,F1,Senior L4 High,A
+MV-BAS-GAU-009-05,Cross Cuff Wedge,Tight Elbowcop,F1,Senior L4 High,A
+MV-BAS-GAU-009-06,Parry Step Through,Knucklecap Pace,F3,Senior L4 High,A
+MV-BAS-GAU-009-07,Wrist Spiral Pin,Clamp Stay,F3,Senior L4 High,A
+MV-BAS-GAU-009-08,Shoulder Fold Brace,Snug Vambrace,F1,Senior L4 High,A
+MV-BAS-GAU-010-01,Steel Weight Pulse Straight,Clenchdash,F4,Senior L5 Mid,A
+MV-BAS-GAU-010-02,Lead Glove Shift Swing,Wringdrop,F4,Senior L5 Mid,A
+MV-BAS-GAU-010-03,Heavy Cuff Catch,Raised Fingerplate,F1,Senior L5 Mid,A
+MV-BAS-GAU-010-04,Weighted Rolling Back Fist,Clenchstrike,F4,Senior L5 Mid,A
+MV-BAS-GAU-010-05,Anchored Glove Advance,Mittamble,F4,Senior L5 Mid,A
+MV-BAS-GAU-010-06,Spent Blow Recovery Guard,Holding Thumbplate,F1,Senior L5 Mid,A

@@ -1,0 +1,73 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-GLV-001-01,Spaced-Hand Grip,Bendcount,F4,T1 Unawakened,A
+MV-BAS-GLV-001-02,Low Haft Guard Cross,Tight Cutbelly,F1,T1 Unawakened,A
+MV-BAS-GLV-001-03,Straight Crescent Cut,Narrow Longedge,F1,T1 Unawakened,A
+MV-BAS-GLV-001-04,Forward Pace Step,Backward Reave,F1,T1 Unawakened,A
+MV-BAS-GLV-001-05,Shaft-Slap Beat,Pushing Curvetip,F1,T1 Unawakened,A
+MV-BAS-GLV-001-06,Point-Forward Prod,Hard Guardlug,F1,T1 Unawakened,A
+MV-BAS-GLV-002-01,Waist-Turn Sweep Ready,Cutternote,F4,T1 Skin,A
+MV-BAS-GLV-002-02,Low Shin-Level Sweep,Cutterblow,F4,T1 Skin,A
+MV-BAS-GLV-002-03,Belt-Height Crescent Sweep,Blunt Curvecut,F1,T1 Skin,A
+MV-BAS-GLV-002-04,Rising Neck Sweep,Slicefall Strike,F3,T1 Skin,A
+MV-BAS-GLV-002-05,Backward Return Sweep,Cutterdash,F4,T1 Skin,A
+MV-BAS-GLV-002-06,Grounded Shaft Catch,Solid Ferrulecap,F1,T1 Skin,A
+MV-BAS-GLV-002-07,Backing Arc Clearance,Sharp Edgeswing,F1,T1 Skin,A
+MV-BAS-GLV-003-01,Reach Measure Hold,Cuttercount,F4,T1 Muscle,A
+MV-BAS-GLV-003-02,Far-Hand Slide Cut,Narrow Windrake,F1,T1 Muscle,A
+MV-BAS-GLV-003-03,Short-Grip Heel Cut,Narrow Bladespine,F1,T1 Muscle,A
+MV-BAS-GLV-003-04,Reach Denial Point,Plain Tangheel,F1,T1 Muscle,A
+MV-BAS-GLV-003-05,Long-Shaft Parry Lift,Ready Glaiveblade,F1,T1 Muscle,A
+MV-BAS-GLV-004-01,Wrist Wheel Warm-Up,Glaivereview,F4,T1 Tendon,A
+MV-BAS-GLV-004-02,Shoulder Wheel Cut,Reavebump,F4,T1 Tendon,A
+MV-BAS-GLV-004-03,Drawing Slash,Quick Longcut,F1,T1 Tendon,A
+MV-BAS-GLV-004-04,Forward Pressing Slice,Upward Glavesocket,F1,T1 Tendon,A
+MV-BAS-GLV-004-05,Figure-Eight Wheel Guard,Planted Guardlug,F1,T1 Tendon,A
+MV-BAS-GLV-004-06,Backhand Draw Cut,Downward Spineedge,F1,T1 Tendon,A
+MV-BAS-GLV-004-07,Wheel-to-Thrust Change,Upward Glaiveblade,F1,T1 Tendon,A
+MV-BAS-GLV-004-08,Spinning Butt Crack,Catching Curvetip,F1,T1 Tendon,A
+MV-BAS-GLV-005-01,Wide Plant Brace,Hooding Tangheel,F1,T1 Bone,A
+MV-BAS-GLV-005-02,Gliding Advance Step,Reaveskitter,F4,T1 Bone,A
+MV-BAS-GLV-005-03,Ball-of-Foot Pivot Turn,Backward Ferrulecap,F1,T1 Bone,A
+MV-BAS-GLV-005-04,Rear-Drive Lunge Cut,Bendhit,F4,T1 Bone,A
+MV-BAS-GLV-005-05,Covering Skip Retreat,Sideways Bladespine,F1,T1 Bone,A
+MV-BAS-GLV-005-06,Side Shuffle Brush,Glavesocket Lid,F3,T1 Bone,A
+MV-BAS-GLV-006-01,Butt-Cap Belly Jab,Stiff Edgeswing,F1,T1 Skin,A
+MV-BAS-GLV-006-02,Two-Hand Shaft Shove,Stiff Slicefall,F1,T1 Skin,A
+MV-BAS-GLV-006-03,Haft Pin Against the Hip,Catching Spineedge,F1,T1 Skin,A
+MV-BAS-GLV-006-04,Rear Butt Trip,Sharp Cutbelly,F1,T1 Skin,A
+MV-BAS-GLV-006-05,Overhead Shaft Block,Resting Curvetip,F1,T1 Skin,A
+MV-BAS-GLV-006-06,End-for-End Reversal,Hitching Windrake,F1,T1 Skin,A
+MV-BAS-GLV-006-07,Planted Butt Pivot,Stepping Longcut,F1,T1 Skin,A
+MV-BAS-GLV-007-01,Warm Edge Awakening,Gentle Cutbelly,F1,Senior L1 Low,A
+MV-BAS-GLV-007-02,Qi-Warmed Downcut,Cutterdrop,F4,Senior L1 Low,A
+MV-BAS-GLV-007-03,Warm Shaft Turn,Lowered Glavesocket,F1,Senior L1 Low,A
+MV-BAS-GLV-007-04,Glow-Tipped Prod,Benddrop,F4,Senior L1 Low,A
+MV-BAS-GLV-007-05,Steady Breath Step,Easing Reave,F1,Senior L1 Low,A
+MV-BAS-GLV-007-06,Spine Flick Rattle,Glaivelid,F4,Senior L1 Low,A
+MV-BAS-GLV-008-01,Inhale Draw-Back Ready,Soft Ferrulecap,F1,Senior L2 Mid,A
+MV-BAS-GLV-008-02,Exhale Full Sweep,Gnawing Longedge,F1,Senior L2 Mid,A
+MV-BAS-GLV-008-03,Breath-Linked Rising Cut,Single Curvecut,F1,Senior L2 Mid,A
+MV-BAS-GLV-008-04,Held-Breath Rigid Guard,Raised Guardlug,F1,Senior L2 Mid,A
+MV-BAS-GLV-008-05,Second Breath Return Sweep,Sharp Spineedge,F1,Senior L2 Mid,A
+MV-BAS-GLV-008-06,Sweep Drift Step,Sideways Curvecut,F1,Senior L2 Mid,A
+MV-BAS-GLV-008-07,Long Breath Lean,Hitching Slicefall,F1,Senior L2 Mid,A
+MV-BAS-GLV-008-08,Three-Breath Chain Cut,Bendstrike,F4,Senior L2 Mid,A
+MV-BAS-GLV-009-01,Level Edge Hold,Gentle Tangheel,F1,Senior L4 Low,A
+MV-BAS-GLV-009-02,Line-Keeping Thrust,Reaveblow,F4,Senior L4 Low,A
+MV-BAS-GLV-009-03,Rail Edge Cut,Glaiveblow,F4,Senior L4 Low,A
+MV-BAS-GLV-009-04,Shaft Rail Guard,Solid Bladespine,F1,Senior L4 Low,A
+MV-BAS-GLV-009-05,Straight Retreat Glide,Bendamble,F4,Senior L4 Low,A
+MV-BAS-GLV-010-01,Edge-and-Spine Reckoning,Warm Glaiveblade,F1,Senior L6 Mid,A
+MV-BAS-GLV-010-02,Belly Cut with Qi Sheen,Cutterstrike,F4,Senior L6 Mid,A
+MV-BAS-GLV-010-03,Spine Press Block,Cuttercowl,F4,Senior L6 Mid,A
+MV-BAS-GLV-010-04,Tip-Drop Slash,Wide Longedge,F1,Senior L6 Mid,A
+MV-BAS-GLV-010-05,Heel Check Beat,Locking Windrake,F1,Senior L6 Mid,A
+MV-BAS-GLV-010-06,Curve Slip Parry,Crookhusk,F4,Senior L6 Mid,A
+MV-BAS-GLV-010-07,Half-Step Edge Turn,Backward Glavesocket,F1,Senior L6 Mid,A
+MV-BAS-GLV-011-01,Overreach Catch,Spineedge Review,F3,Senior L8 Low,A
+MV-BAS-GLV-011-02,Long Lunge Cut,Firm Edgeswing,F1,Senior L8 Low,A
+MV-BAS-GLV-011-03,Recovery Drag Step,Reavetrot,F4,Senior L8 Low,A
+MV-BAS-GLV-011-04,Recovered Guard Cross,Solid Glaiveblade,F1,Senior L8 Low,A
+MV-BAS-GLV-011-05,Retreating Point Prod,Bendblow,F4,Senior L8 Low,A
+MV-BAS-GLV-011-06,Reach-Break Rap,Tripping Edgeswing,F1,Senior L8 Low,A
+MV-BAS-GLV-003-04,Plain Tangheel,Steady Tangheel,F1,T1 Muscle,A

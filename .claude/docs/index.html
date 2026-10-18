@@ -1,0 +1,1493 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Starward Saga — Agents &amp; Commands</title>
+<style>
+:root{
+  --bg:#0b0e14; --bg2:#11151f; --panel:#141924; --panel2:#1a2030;
+  --border:#262d3d; --border2:#323b52;
+  --text:#e7ebf5; --muted:#9aa4bd; --faint:#808aa9;
+  --accent:#7c9dff; --accent2:#a78bfa;
+  --agent:#a78bfa; --agent-bg:#211c3a; --agent-border:#4c3f8c;
+  --pipeline:#7c9dff; --pipeline-bg:#151d38; --pipeline-border:#33447a;
+  --advance:#38c6c6; --advance-bg:#0f2626; --advance-border:#1f5555;
+  --revise:#f2b84b; --revise-bg:#2a2110; --revise-border:#5c4a1a;
+  --audit:#5fd88f; --audit-bg:#0f2419; --audit-border:#1f4a34;
+  --export:#8fa3ff; --export-bg:#161a33; --export-border:#2e3566;
+  --readonly:#9aa4bd; --readonly-bg:#161a24; --readonly-border:#2b3242;
+  --danger:#ff6b6b; --danger-bg:#2a1414; --danger-border:#5c2323;
+  --control:#e884d0; --control-bg:#26142a; --control-border:#502a54;
+  --code-bg:#0d1119;
+  --shadow: 0 8px 24px rgba(0,0,0,0.35);
+}
+:root[data-theme="light"]{
+  --bg:#f5f6fa; --bg2:#eef0f6; --panel:#ffffff; --panel2:#f7f8fc;
+  --border:#dde1ec; --border2:#c9cfe0;
+  --text:#1b2030; --muted:#5b6178; --faint:#62687f;
+  --agent:#7c5cd6; --agent-bg:#f1ecfd; --agent-border:#cdbdf5;
+  --pipeline:#3457d5; --pipeline-bg:#eef2ff; --pipeline-border:#c3cef7;
+  --advance:#158080; --advance-bg:#e8f7f7; --advance-border:#bfe6e6;
+  --revise:#a8710a; --revise-bg:#fbf1de; --revise-border:#eed6a6;
+  --audit:#1c8a53; --audit-bg:#e9f8ef; --audit-border:#bfe9d2;
+  --export:#3f4fbf; --export-bg:#eef0ff; --export-border:#c7cdf5;
+  --readonly:#5b6178; --readonly-bg:#f1f2f7; --readonly-border:#dadde8;
+  --danger:#c23636; --danger-bg:#fdeeee; --danger-border:#f3c6c6;
+  --control:#a4258f; --control-bg:#fbeef9; --control-border:#f0c9ea;
+  --code-bg:#eef0f6;
+  --shadow: 0 8px 24px rgba(30,35,60,0.08);
+}
+@media (prefers-color-scheme: light){
+  :root:not([data-theme="dark"]){
+    --bg:#f5f6fa; --bg2:#eef0f6; --panel:#ffffff; --panel2:#f7f8fc;
+    --border:#dde1ec; --border2:#c9cfe0;
+    --text:#1b2030; --muted:#5b6178; --faint:#62687f;
+    --agent:#7c5cd6; --agent-bg:#f1ecfd; --agent-border:#cdbdf5;
+    --pipeline:#3457d5; --pipeline-bg:#eef2ff; --pipeline-border:#c3cef7;
+    --advance:#158080; --advance-bg:#e8f7f7; --advance-border:#bfe6e6;
+    --revise:#a8710a; --revise-bg:#fbf1de; --revise-border:#eed6a6;
+    --audit:#1c8a53; --audit-bg:#e9f8ef; --audit-border:#bfe9d2;
+    --export:#3f4fbf; --export-bg:#eef0ff; --export-border:#c7cdf5;
+    --readonly:#5b6178; --readonly-bg:#f1f2f7; --readonly-border:#dadde8;
+    --danger:#c23636; --danger-bg:#fdeeee; --danger-border:#f3c6c6;
+    --control:#a4258f; --control-bg:#fbeef9; --control-border:#f0c9ea;
+    --code-bg:#eef0f6;
+    --shadow: 0 8px 24px rgba(30,35,60,0.08);
+  }
+}
+*{box-sizing:border-box;}
+html,body{margin:0;padding:0;}
+body{
+  background:var(--bg); color:var(--text);
+  font-family: -apple-system, "Segoe UI", Inter, Roboto, Helvetica, Arial, sans-serif;
+  line-height:1.5;
+}
+code, .mono{ font-family: "SF Mono", "Cascadia Code", Consolas, "Courier New", monospace; }
+
+/* ---------- top bar ---------- */
+.topbar{
+  position:sticky; top:0; z-index:50;
+  background:color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: blur(10px);
+  border-bottom:1px solid var(--border);
+}
+.topbar-inner{
+  max-width:1180px; margin:0 auto; padding:12px 20px;
+  display:flex; align-items:center; gap:18px; flex-wrap:wrap;
+}
+.brand{ font-weight:700; font-size:15px; letter-spacing:.2px; white-space:nowrap; }
+.brand small{ display:block; font-weight:400; color:var(--muted); font-size:11px; }
+.topnav{ display:flex; gap:4px; flex-wrap:wrap; font-size:12.5px; }
+.topnav a{
+  color:var(--muted); text-decoration:none; padding:6px 10px; border-radius:7px;
+  border:1px solid transparent; white-space:nowrap;
+}
+.topnav a:hover{ color:var(--text); background:var(--panel2); border-color:var(--border); }
+.theme-toggle{
+  margin-left:auto; background:var(--panel2); border:1px solid var(--border); color:var(--muted);
+  border-radius:7px; padding:6px 10px; font-size:12px; cursor:pointer;
+}
+.theme-toggle:hover{ color:var(--text); }
+
+/* ---------- layout ---------- */
+main{ max-width:1180px; margin:0 auto; padding:28px 20px 90px; }
+section{ margin-bottom:64px; scroll-margin-top:70px; }
+.section-head{ margin-bottom:18px; }
+.eyebrow{
+  text-transform:uppercase; letter-spacing:1.4px; font-size:11px; font-weight:700;
+  color:var(--faint); margin:0 0 6px;
+}
+h1{ font-size:28px; margin:6px 0 8px; letter-spacing:-.02em; }
+h2{ font-size:21px; margin:0 0 4px; letter-spacing:-.01em; }
+h3{ font-size:15px; margin:0 0 2px; }
+.lede{ color:var(--muted); font-size:14.5px; max-width:820px; margin:0; }
+.section-desc{ color:var(--muted); font-size:13.5px; max-width:780px; margin:6px 0 0; }
+
+/* ---------- hero ---------- */
+.hero{
+  padding:38px 0 8px;
+  border-bottom:1px solid var(--border);
+  margin-bottom:34px;
+}
+.hero-grid{ display:grid; grid-template-columns: 1.3fr 1fr; gap:28px; align-items:start; margin-top:20px;}
+@media (max-width:820px){ .hero-grid{ grid-template-columns:1fr; } }
+.stat-row{ display:flex; gap:10px; flex-wrap:wrap; margin-top:18px; }
+.stat{
+  background:var(--panel); border:1px solid var(--border); border-radius:10px;
+  padding:10px 14px; min-width:108px;
+}
+.stat b{ display:block; font-size:20px; }
+.stat span{ font-size:11.5px; color:var(--muted); }
+
+.legend{
+  background:var(--panel); border:1px solid var(--border); border-radius:12px; padding:16px 18px;
+  font-size:12.5px;
+}
+.legend h4{ margin:0 0 10px; font-size:11px; text-transform:uppercase; letter-spacing:1px; color:var(--faint);}
+.legend-row{ display:flex; align-items:flex-start; gap:9px; margin-bottom:9px; }
+.legend-row:last-child{ margin-bottom:0; }
+.legend-swatch{ width:14px; height:14px; border-radius:4px; flex:none; margin-top:1px; }
+.legend-row span{ color:var(--muted); }
+.legend-row b{ color:var(--text); font-weight:600; }
+
+/* ---------- cards generic ---------- */
+.grid{ display:grid; gap:14px; }
+.grid.cols-2{ grid-template-columns:1fr 1fr; }
+.grid.cols-3{ grid-template-columns:repeat(3,1fr); }
+.grid.cols-4{ grid-template-columns:repeat(4,1fr); }
+@media (max-width:980px){ .grid.cols-3,.grid.cols-4{ grid-template-columns:repeat(2,1fr);} }
+@media (max-width:640px){ .grid.cols-2,.grid.cols-3,.grid.cols-4{ grid-template-columns:1fr;} }
+
+.card{
+  background:var(--panel); border:1px solid var(--border); border-radius:12px;
+  padding:16px 18px; position:relative; box-shadow:var(--shadow);
+}
+.card-head{ display:flex; align-items:center; justify-content:space-between; gap:8px; margin-bottom:6px;}
+.card-title{ font-weight:700; font-size:14.5px; font-family: "SF Mono", Consolas, monospace; margin:0; }
+.badges{ display:flex; gap:5px; flex-wrap:wrap; }
+.badge{
+  font-size:11px; font-weight:700; letter-spacing:.3px; padding:2px 7px; border-radius:99px;
+  border:1px solid; white-space:nowrap;
+}
+.card-desc{ color:var(--muted); font-size:13px; margin:4px 0 10px; }
+.kv{ font-size:12px; color:var(--muted); display:flex; flex-wrap:wrap; gap:6px 14px; margin-bottom:8px;}
+.kv b{ color:var(--text); font-weight:600; }
+.seq{ margin:10px 0 0; padding-left:18px; font-size:12.5px; color:var(--text); }
+.seq li{ margin-bottom:5px; }
+.seq li::marker{ color:var(--faint); font-weight:700; }
+.fail{
+  margin-top:10px; padding:8px 10px; border-radius:8px; font-size:12px;
+  background:var(--danger-bg); border:1px solid var(--danger-border); color:var(--danger);
+}
+.fail b{ color:inherit; }
+.invokes{ margin-top:10px; display:flex; flex-wrap:wrap; gap:6px; align-items:center; font-size:11.5px; color:var(--faint);}
+.pill{
+  font-family:"SF Mono",Consolas,monospace; font-size:11px; padding:2px 8px; border-radius:99px;
+  background:var(--agent-bg); border:1px solid var(--agent-border); color:var(--agent);
+}
+.argh{
+  font-family:"SF Mono",Consolas,monospace; font-size:11px; padding:2px 7px; border-radius:6px;
+  background:var(--code-bg); border:1px solid var(--border2); color:var(--muted);
+}
+
+/* category color themes via data attribute */
+.card[data-cat="pipeline"]{ border-left:3px solid var(--pipeline); }
+.card[data-cat="advance"]{ border-left:3px solid var(--advance); }
+.card[data-cat="revise"]{ border-left:3px solid var(--revise); }
+.card[data-cat="audit"]{ border-left:3px solid var(--audit); }
+.card[data-cat="export"]{ border-left:3px solid var(--export); }
+.card[data-cat="readonly"]{ border-left:3px solid var(--readonly); }
+.card[data-cat="danger"]{ border-left:3px solid var(--danger); background:linear-gradient(180deg, var(--danger-bg), var(--panel) 40%); }
+.card[data-cat="control"]{ border-left:3px solid var(--control); }
+.card[data-cat="agent"]{ border-left:3px solid var(--agent); background:linear-gradient(180deg, var(--agent-bg), var(--panel) 55%); }
+
+.badge.cat-pipeline{ color:var(--pipeline); border-color:var(--pipeline-border); background:var(--pipeline-bg); }
+.badge.cat-advance{ color:var(--advance); border-color:var(--advance-border); background:var(--advance-bg); }
+.badge.cat-revise{ color:var(--revise); border-color:var(--revise-border); background:var(--revise-bg); }
+.badge.cat-audit{ color:var(--audit); border-color:var(--audit-border); background:var(--audit-bg); }
+.badge.cat-export{ color:var(--export); border-color:var(--export-border); background:var(--export-bg); }
+.badge.cat-readonly{ color:var(--readonly); border-color:var(--readonly-border); background:var(--readonly-bg); }
+.badge.cat-danger{ color:var(--danger); border-color:var(--danger-border); background:var(--danger-bg); }
+.badge.cat-control{ color:var(--control); border-color:var(--control-border); background:var(--control-bg); }
+.badge.cat-agent{ color:var(--agent); border-color:var(--agent-border); background:var(--agent-bg); }
+
+/* ---------- agents ---------- */
+.agent-meta{ display:flex; flex-wrap:wrap; gap:6px 16px; font-size:11.5px; color:var(--muted); margin:8px 0 12px; }
+.agent-meta code{ background:var(--code-bg); border:1px solid var(--border2); padding:1px 6px; border-radius:5px; color:var(--text); }
+.agent-block{ margin-top:10px; }
+.agent-block h4{ margin:0 0 5px; font-size:11px; text-transform:uppercase; letter-spacing:.6px; color:var(--faint); }
+.agent-block p, .agent-block ul{ margin:0; font-size:12.5px; color:var(--text); }
+.agent-block ul{ padding-left:18px; }
+.agent-block li{ margin-bottom:4px; }
+.handoff{
+  margin-top:12px; padding:9px 12px; border-radius:8px; font-size:12px;
+  background:var(--panel2); border:1px dashed var(--border2); color:var(--muted);
+}
+.handoff b{ color:var(--text); }
+
+/* ---------- diagram section ---------- */
+.diagram-wrap{
+  background:var(--panel); border:1px solid var(--border); border-radius:14px;
+  padding:20px; box-shadow:var(--shadow); overflow-x:auto;
+}
+.diagram-wrap svg{ display:block; margin:0 auto; min-width:640px; }
+.node-box text{ font-family:"SF Mono",Consolas,monospace; }
+.diagram-caption{ text-align:center; font-size:11.5px; color:var(--faint); margin-top:10px; }
+
+/* mini chain diagrams */
+.chain{ display:flex; align-items:center; flex-wrap:wrap; gap:6px; margin:18px 0 22px; }
+.chain .node{
+  background:var(--panel); border:1px solid var(--border); border-radius:9px; padding:9px 13px;
+  font-size:12px; font-weight:600; font-family:"SF Mono",Consolas,monospace; box-shadow:var(--shadow);
+}
+.chain .arrow{ color:var(--faint); font-size:16px; }
+.chain .node.dim{ opacity:.65; font-weight:400; }
+
+.flow-note{
+  display:flex; gap:10px; align-items:flex-start; background:var(--panel2);
+  border:1px solid var(--border); border-radius:10px; padding:12px 14px; margin:16px 0; font-size:12.5px; color:var(--muted);
+}
+.flow-note .icon{ font-size:16px; line-height:1; }
+
+footer{
+  border-top:1px solid var(--border); padding:26px 20px 60px; text-align:center;
+  color:var(--faint); font-size:11.5px;
+}
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">Starward Saga <small>.claude agents &amp; commands</small></div>
+    <nav class="topnav" aria-label="Page sections">
+      <a href="#overview">Overview</a>
+      <a href="#first-session">First session</a>
+      <a href="#agents">Agents</a>
+      <a href="#pipeline">Core Pipeline</a>
+      <a href="#advance">Structural Advance</a>
+      <a href="#revise">Revision &amp; Redraft</a>
+      <a href="#audit">Audit &amp; Ledger</a>
+      <a href="#export">Export &amp; Compile</a>
+      <a href="#readonly">Read-Only</a>
+      <a href="#danger">Reset (Destructive)</a>
+      <a href="#control">Session Control</a>
+    </nav>
+    <button class="theme-toggle" onclick="toggleTheme()">◐ Theme</button>
+  </div>
+</div>
+
+<main>
+
+  <section class="hero" id="overview">
+    <p class="eyebrow">Reference &amp; Process Map</p>
+    <h1>How the Starward Saga agents and commands fit together</h1>
+    <p class="lede">
+      Two layers work together on this project. <b>4 agents</b> under
+      <code>.claude/agents/</code> do the actual thinking — planning, drafting, auditing,
+      scoring. <b>45 slash commands</b> under <code>.claude/commands/</code> are the
+      orchestration layer: each one is a fixed sequence that invokes agents (and, in a few
+      cases, authorized Python scripts) in a specific order, so the same operation always
+      happens the same way. This page maps every one of them and how they chain together.
+    </p>
+    <div class="hero-grid">
+      <div>
+        <div class="stat-row">
+          <div class="stat"><b>4</b><span>Agents</span></div>
+          <div class="stat"><b>47</b><span>Commands</span></div>
+          <div class="stat"><b>2</b><span>Audit Gates / Area</span></div>
+          <div class="stat"><b>9</b><span>Human-only destructive commands</span></div>
+        </div>
+        <div class="flow-note" style="margin-top:20px;">
+          <div class="icon">🧭</div>
+          <div>
+            The default path, once the Chapter Spec is confirmed, is the whole Chapter:
+            <code>/create-chapter</code> writes it in one cycle with no per-Area files (Amended 2026-10-07).
+            The Area path stays for Chapters you ask to build by Area: every command that touches
+            written Areas funnels through <code>/next-area</code> —
+            the Two-Gate Pipeline in the <a href="#pipeline">Core Pipeline</a> section below.
+            The fastest way to understand this whole system is to read that diagram first,
+            then treat every other command as either <i>feeding into it</i>,
+            <i>auditing around it</i>, or <i>reporting on it</i>.
+            No Area is planned until the <b>spec chain</b> above it is confirmed: a
+            Section Spec (<code>/section-spec</code>), then a Novel-Part Spec
+            (<code>/part-spec</code>), then a Chapter Spec (<code>/chapter-spec</code>),
+            each confirmed by you (Part 38).
+          </div>
+        </div>
+      </div>
+      <div class="legend">
+        <h4>How to read a card</h4>
+        <div class="legend-row"><div class="legend-swatch" style="background:var(--agent);"></div><span><b>Agent</b> — one of the 4 specialists in <code>.claude/agents/</code>.</span></div>
+        <div class="legend-row"><div class="legend-swatch" style="background:var(--pipeline);"></div><span><b>Core Pipeline</b> — the Two-Gate draft→audit→write→score sequence.</span></div>
+        <div class="legend-row"><div class="legend-swatch" style="background:var(--advance);"></div><span><b>Structural Advance</b> — moves the story to the next Area/Chapter/Part/Section/Phase.</span></div>
+        <div class="legend-row"><div class="legend-swatch" style="background:var(--revise);"></div><span><b>Revision &amp; Redraft</b> — re-enters the pipeline on existing Areas.</span></div>
+        <div class="legend-row"><div class="legend-swatch" style="background:var(--audit);"></div><span><b>Audit &amp; Ledger</b> — verification and story-memory maintenance.</span></div>
+        <div class="legend-row"><div class="legend-swatch" style="background:var(--export);"></div><span><b>Export &amp; Compile</b> — turns accepted Areas into shippable files.</span></div>
+        <div class="legend-row"><div class="legend-swatch" style="background:var(--readonly);"></div><span><b>Read-Only</b> — reports current state, changes nothing.</span></div>
+        <div class="legend-row"><div class="legend-swatch" style="background:var(--danger);"></div><span><b>⚠ Destructive / 🔒 Human-only</b> — deletes state; cannot be auto-invoked by an agent.</span></div>
+        <div class="legend-row"><div class="legend-swatch" style="background:var(--control);"></div><span><b>Session Control</b> — pauses execution mid-sequence.</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= FIRST SESSION ================= -->
+  <section id="first-session">
+    <div class="section-head">
+      <p class="eyebrow">Start Here</p>
+      <h2>First session</h2>
+      <p class="section-desc">
+        The shortest path from a clean checkout to a written Area: the exact commands, the
+        tokens you answer with, and about how many questions each step puts to you. The
+        question counts are a guide, not a rule; a longer Chapter or a busier scene asks more.
+      </p>
+    </div>
+
+    <div class="card" data-cat="pipeline">
+      <div class="card-head">
+        <h3 class="card-title">Seven steps to your first written Area</h3>
+        <span class="badge cat-pipeline">FIRST RUN</span>
+      </div>
+      <ol class="seq">
+        <li><b>Install the writer's library, once.</b> <code>pip install -r .claude/tools/requirements.txt</code>
+          installs python-docx, which the <code>.docx</code> writer needs. For icons made in <code>svg</code> mode
+          also run <code>pip install cairosvg</code>. <i>Questions: none.</i></li>
+        <li><b>Make the two icons.</b> <code>/create-image-phase 1</code>, then <code>/create-image-section 1 1</code>.
+          The opening pages of the book carry both; <code>/start-story</code> checks for them first and stops if one is missing.
+          <i>Questions: about 2 per command (the mode and what it will use, then whether to replace an icon that already exists).</i></li>
+        <li><b>Start the story.</b> <code>/start-story</code> builds three specs with you, in this order: the Section Spec for
+          Section 1 (<code>/section-spec</code> build, which reads all of Part 30; Section 1 carries its own epigraph line, asked like any Section's, and the book's first title page prints it below the Phase epigraph, a line kept in Part 30 that reads <code>unset</code> until you give the text; the command asks you once, in plain words, what the Phase line reads now and whether to give or change it (you type the text, and a SKIP leaves the line as it is)), then the
+          Novel-Part Spec for Novel-Part 1 (<code>/part-spec</code> build), then the Chapter 1 Spec (<code>/chapter-spec</code> build).
+          Each one asks its own direction questions and stops for its own spec token: <code>[CONFIRM SPEC]</code>,
+          <code>[REVISE SPEC]</code> or <code>[SKIP SPEC]</code>. Only one is open at a time, and a <code>[SKIP SPEC]</code>
+          saves that spec as a draft and stops the chain there. There is no quick mode: each build keeps asking until nothing is left
+          to steer, then makes a last check and asks you for a plain "nothing further" before the token.
+          <i>Questions: no fixed count; rounds of up to four at each of the three levels (direction and themes at Section and Novel-Part,
+          then at Chapter level the opening beat and about three per Area: size and pacing, opening, closing).</i></li>
+        <li><b>Answer for Area 1.</b> Pacing and size are not asked: the Chapter Spec carries them for every Area. <code>/start-story</code> drafts Area 1, audits it and prints the full text.
+          Answer with a Gate 1 token: <code>[CONFIRM WRITE]</code>, <code>[REVISE AREA]</code> or <code>[SKIP WRITE]</code>.
+          If a character's conduct moves off the profile you also get a Check #21 question, answered with
+          <code>[KEEP PROFILE]</code>, <code>[EVOLVE]</code>, <code>[REVISE AREA]</code>, <code>[PROVISIONAL]</code> or <code>[DEFER]</code>.
+          <i>Questions: 0 to 2 before the draft, then the one Gate 1 reply (0 to 2 Check #21 questions).</i></li>
+        <li><b>Write the rest of the Chapter.</b> By default, <code>/create-chapter</code> writes the whole Chapter in one cycle after the build plan you confirm (Amended 2026-10-07); you answer with <code>[CONFIRM WRITE]</code>, <code>[REVISE CHAPTER]</code> or <code>[SKIP WRITE]</code> on the staged text. To build a Chapter by Area instead, name <code>by-area</code> at the spec or ask for it, then use <code>/next-area</code>.</li>
+        <li><b>Write each next Area (by-area Chapters).</b> <code>/next-area</code>, once per Area. It asks branch questions only for what the spec leaves open or what is new, then the Gate 1 reply. Add <code>[NO CONSULT]</code>
+          to the call (<code>/next-area [NO CONSULT]</code>) to skip the branch questions for that one Area.
+          <i>Questions: 0 to 4 before the draft, then the Gate 1 reply.</i></li>
+        <li><b>Check where you are.</b> <code>/status</code> shows the position, the open ledger obligations and the Section density
+          trend. It only reads. <i>Questions: none.</i></li>
+      </ol>
+      <div class="handoff">
+        <b>The three token sets.</b> Spec: <code>[CONFIRM SPEC]</code> <code>[REVISE SPEC]</code> <code>[SKIP SPEC]</code>
+        (the same three for a Section Spec, a Novel-Part Spec and a Chapter Spec; the prompt names which one, such as
+        "Section Spec 1.2", "Novel-Part Spec 1.2.3" or "Chapter Spec 1.2.3.004").
+        Area Gate 1: <code>[CONFIRM WRITE]</code> <code>[REVISE AREA]</code> <code>[SKIP WRITE]</code>
+        (for a whole Chapter, <code>[REVISE CHAPTER]</code> in place of <code>[REVISE AREA]</code>).
+        Check #21: <code>[KEEP PROFILE]</code> <code>[EVOLVE]</code> <code>[REVISE AREA]</code> <code>[PROVISIONAL]</code> <code>[DEFER]</code>.
+        In a consultation question, the option <i>SKIP — let AI decide</i> hands that one question to the AI; it never replaces a token.
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= AGENTS ================= -->
+  <section id="agents">
+    <div class="section-head">
+      <p class="eyebrow">Layer 1 — The Specialists</p>
+      <h2>Agents</h2>
+      <p class="section-desc">
+        Every command ultimately delegates real judgment to one of these four. None of them
+        invoke each other directly — the invoking <em>command</em> always orchestrates the
+        hand-offs, in the fixed order described in each command's card further down.
+        While working, each agent reports milestone progress to <code>"main"</code> via
+        <code>SendMessage</code>, and the orchestrating command relays those reports to the
+        author (<code>guardrails/commands/guardrail-plan-then-auto-execution.md</code>).
+      </p>
+    </div>
+
+    <div class="grid cols-2">
+
+      <div class="card" data-cat="agent">
+        <div class="card-head">
+          <h3 class="card-title">outline-planner</h3>
+          <span class="badge cat-agent">AGENT</span>
+        </div>
+        <div class="agent-meta">
+          <span>model: <code>claude-sonnet-5-5</code></span>
+          <span>effort: <code>max</code></span>
+          <span>tools: <code>Read · Write · Grep · Glob · SendMessage</code></span>
+          <span>memory: <code>project</code></span>
+        </div>
+        <p class="card-desc">
+          Decides what happens next — at whatever granularity is asked for (Area,
+          Chapter, Novel-Part, Section, or Phase) — before Area Maker drafts anything. This is
+          genuine ambiguity-resolution work (competing valid directions, pacing tradeoffs,
+          cross-Part dependencies), which is why it runs at <code>max</code> effort. It also builds
+          each level of the spec chain (Section Spec, Novel-Part Spec, Chapter Spec), one planner per level.
+        </p>
+        <div class="agent-block">
+          <h4>Reads before planning</h4>
+          <ul>
+            <li>Guardrails index, authority-tier &amp; domain-ownership, locked-vs-negotiable canon</li>
+            <li>Current position on disk (never a remembered position) + Part 30 / Part 2 consolidated skills; the whole of Part 30 for a Section Spec build</li>
+            <li>Part 36 Areas 4, 12, 17 and 18 to 27 (the Areas that shape a plan) and the whole spec chain above the level it builds, read in full (a Chapter Spec build reads the Section Spec and the Novel-Part Spec, then the Chapter's Area block). The one exception is planning a single Area: there it is a per-Area agent and reads the Chapter Spec in full plus only the Novel-Part Spec's header and closing-state blocks, not the Section Spec</li>
+            <li>Relevant <code>story-memory/ledger-*/</code> entries for every entity in scope</li>
+            <li>The Current Position block of <code>ledger-worlds-calendar/_index.md</code> and the row of the Open Chapter: the story clock a date is planned from (Part 41)</li>
+          </ul>
+        </div>
+        <div class="agent-block">
+          <h4>Hard boundaries</h4>
+          <ul>
+            <li>Respects the Phase 1 8-Section lock and Locked Canon — won't plan around it</li>
+            <li>Decides <i>what scene happens next</i>, never <i>how a fight resolves</i> (that's audit-time territory)</li>
+            <li>Surfaces canon-structural tradeoffs instead of silently picking a direction</li>
+            <li>Never presents naming a person, thing, place or move as a cost: the named version is its recommended default (Part 28 Rule 20.9). Writes named items in italic in every spec</li>
+            <li>Plans a monster by its Kind's twelve traits, as wild pressure and never a villain; never plans a sentient monster into Phase 1 (Law P30-L9); defines the Kind of the Phase 1 beasts at the Chapter Spec (Part 40)</li>
+            <li>Plans the date of each Area from the Area block's in-story time and the recorded story clock, and writes every window of the spec chain as dates plus Phase Day (cited from Part 41, never copied); an open in-story time is asked at Step 0 and never filled by the planner (Part 41)</li>
+            <li>Carries each Area's size target (1,600, 1,800 or 2,000 words) and pacing from the Chapter Spec and never asks for them again at writing time</li>
+            <li>Never writes a spec file, never confirms its own build, and never writes an epigraph; the command writes the files, and only you may defer a question</li>
+          </ul>
+        </div>
+        <div class="handoff">Hands the confirmed plan to <b>area-maker</b>. Does not draft, audit, or update ledgers itself.</div>
+      </div>
+
+      <div class="card" data-cat="agent">
+        <div class="card-head">
+          <h3 class="card-title">area-maker</h3>
+          <span class="badge cat-agent">AGENT</span>
+        </div>
+        <div class="agent-meta">
+          <span>model: <code>claude-sonnet-5-5</code></span>
+          <span>effort: <code>max</code></span>
+          <span>tools: <code>Read · Write · Grep · Glob · SendMessage</code></span>
+          <span>memory: <code>project</code></span>
+        </div>
+        <p class="card-desc">
+          Writes the actual prose of the novel — exactly one Area per <code>/next-area</code> invocation, never
+          more; in Chapter mode (Amended 2026-10-07) one instance drafts a whole Chapter for <code>/create-chapter</code>. Drafts from the Outline Planner's confirmed plan; never decides structure and
+          never audits its own output.
+        </p>
+        <div class="agent-block">
+          <h4>Reads before drafting</h4>
+          <ul>
+            <li>Locked-vs-negotiable canon, prohibited creative acts, Tier-0 narrative quality</li>
+            <li><b>Voice-first block, before any ledger:</b> Part 36 in full, the plain-words guardrail, Part 28 Areas 4 and 13, Part 29 Area 4, Part 39's POV and Head Tests, then the Chapter so far (every earlier Area of the Chapter, and the last Area of the previous Chapter when this is the first)</li>
+            <li>Pre-Write Ledger Check on every entity that will appear</li>
+            <li>The Chapter Spec in full, plus the Novel-Part Spec's header and closing-state blocks. The Section Spec is not part of a per-Area read: the Chapter Spec carries what the upper specs settled, with its source recorded in its Audit and Settlement Notes</li>
+            <li>The relevant Parts' consolidated skills, via <code>skill-index.json</code></li>
+            <li>The Current Position block of <code>ledger-worlds-calendar/_index.md</code> and the row of the previous Area, so the date line is set from the recorded story clock and never from memory (Part 41)</li>
+          </ul>
+        </div>
+        <div class="agent-block">
+          <h4>Hard boundaries</h4>
+          <ul>
+            <li>Must be a living scene, not a technically-correct lecture (Part 36)</li>
+            <li>Knows the Part 35 density readings as information; the Chapter Spec decides what the scene holds</li>
+            <li>Never contradicts Locked Canon or anything already accepted in prior Areas</li>
+            <li>Sets a named item (an apparatus, tool, remedy, system, food, drink, dress, relic and the like) in italic at every mention, with a plain article before it, in roman inside speech; sets a named map or document in italic and an agreement, treaty or accord in roman; keeps Named Moves bold-italic; hands over the new items, documents, agreements and Named Moves for the Gate 2 registers (Part 28 Rule 20.8, Part 6 Rule 6.5)</li>
+            <li>Writes a monster as its Kind records it (twelve traits shown in conduct, name in roman, no speech from a beast), stops where a Tier C or D monster reaches one of the four triggers for your ruling, and hands over the new monsters for Gate 2 (Part 40)</li>
+            <li>Writes to the size target the Chapter Spec names (1,600, 1,800 or 2,000 words; passing range 1,280 to 2,400. A count outside 1,280 to 2,400 words is a blocking finding: the write waits for the author to confirm the Area or send it back.) and carries the spec's pacing; an Area is the written unit, a complete scene or one part of a scene that continues across Areas, and an Area that continues the previous one opens in motion from the exact state it left</li>
+            <li>Opens every Area with its date line, one wholly italic paragraph directly under the Area Title Block, written <code>*Year 1247, &lt;Month&gt;, &lt;Weekday&gt;, Day 27*</code> (a range, with the weekday at both ends, when the Area crosses days), taken from the plan and the recorded story clock; sets every other month and weekday name in roman; the line is not narration, so it is counted in nothing; hands over a <code>CALENDAR (this Area)</code> block for the checker (Part 41)</li>
+          </ul>
+        </div>
+        <div class="handoff">Hands the draft to <b>continuity-checker</b> for Gate 1. Does not write the final file itself — that happens via authorized scripts at Gate 2.</div>
+      </div>
+
+      <div class="card" data-cat="agent">
+        <div class="card-head">
+          <h3 class="card-title">continuity-checker</h3>
+          <span class="badge cat-agent">AGENT</span>
+        </div>
+        <div class="agent-meta">
+          <span>model: <code>claude-sonnet-5-5</code></span>
+          <span>effort: <code>max</code></span>
+          <span>tools: <code>Read · Write · Edit · Grep · Glob · SendMessage</code></span>
+          <span>memory: <code>project</code></span>
+        </div>
+        <p class="card-desc">
+          The audit and ledger-update authority. Cross-references canon skills, story-memory
+          ledgers, and written Areas every time, then verifies. It is the only agent that
+          writes ledger entity files.
+        </p>
+        <div class="agent-block">
+          <h4>Forced-read discipline (non-negotiable)</h4>
+          <ul>
+            <li>Physically re-reads <code>canon-manifest/*.json</code> from disk — never from memory — at Pre-Area Read, Gate 1, and Gate 2</li>
+          </ul>
+        </div>
+        <div class="agent-block">
+          <h4>What it runs</h4>
+          <ul>
+            <li><b>Gate 1</b> — Post-Draft 23-check audit on the new Area; a single FAIL blocks <code>[CONFIRM WRITE]</code>. Check #18(a) asks whether the spec chain is in force: the Chapter Spec, its Novel-Part Spec and its Section Spec all <code>CONFIRMED</code> or <code>COMPLETED</code>. A link that is missing, <code>DRAFT</code> or <code>RETIRED</code> is a Critical FAIL; one that is <code>AMENDED-PENDING-RECONFIRM</code> is a Major FAIL</li>
+            <li><b>Spec-chain light audit and final sweep</b> — report-only, once per level (Section Spec, Novel-Part Spec, Chapter Spec) before <code>[CONFIRM SPEC]</code>; it also re-lists every SKIP and every deferral so you get a last chance at them. It writes nothing</li>
+            <li><b>Area flow review</b> — every Gate 1 also reads the Areas already written in the scene (the Chapter so far where the scene continues) as one flow (Check #16, dimension 16-J): breaks of time, place, viewpoint or character state block; sameness is reported with quoted lines and the author rules</li>
+            <li><b>Threshold consultation</b> — numbers are guide posts, not physics: a computed value crossing a stated line is shown as information in the audit report, never silently remedied and never a fail, a block or a question on its own</li>
+            <li><b>Gate 2</b> — Post-Write re-verify + Completeness Indicator + Tier Scope Brackets</li>
+            <li><b>CCIA</b> — governance/structure integrity · <b>FCIA</b> — 16-dimension narrative audit · <b>ALCA</b> — ledger/rule correctness</li>
+            <li><b>Ledger updates</b> — Pre-Write Check + Post-Write Update against <code>story-memory/ledger-*/</code>, including a row for every named item in <code>ledger-named-items</code> and for every Named Move in <code>ledger-named-moves</code> and in each user's character-ledger entry, a row for every named document and every named agreement, treaty or accord in <code>ledger-society-information</code>, the monster Kinds and Tier C and D monsters in <code>ledger-character-monster</code>, and the dating of each Area in <code>ledger-worlds-calendar</code> (Area row, the rollups and the Current Position block)</li>
+            <li><b>Monsters</b> (Part 40) — Gate 1 Check #11 element 11-3 also reads Law P30-L9 (no sentient monster in Phase 1) and Check #20 reads monster traits in light form; the count stays 22; <code>ledger-character-villain</code> is arranged by Tier A to D (Part 18 Area 6.3)</li>
+            <li><b>Named-item form</b> (Part 28 Rule 20.8) — Check #12 also fails a named item that is not italic (or is italic inside an italic span, or bold, or carries its article inside the name); relics and artifacts are items and are italic; a named document is italic and an agreement is roman; Check #5 reads an item's roman name inside speech as lawful; the count stays 22</li>
+            <li><b>Date line</b> (Part 41) — Check #11 element 11-2 also reads the Area's date line under the six dating readings (a date never runs backward without a lawful cause, an Area starts on the day the one before it ended, the windows nest, the month is in the table, the weekday is the one the formula gives, ages and festival days agree); Check #12 also reads the line's italic form and the roman form of month and weekday names elsewhere; a failure of either FAILs, and a planned step back at a "cut to another thread" Area is information only; the Position Header carries a Calendar line; the count stays 22 and the six elements of Check #11 stay six. The line is not narration for Checks #10, #16, #19 and #22</li>
+          </ul>
+        </div>
+        <div class="handoff">Never resolves a conflict itself — surfaces it via <code>AskUserQuestion</code>. Logs every outcome to <code>session-log/</code> (but never reads that log back as a decision input).</div>
+      </div>
+
+      <div class="card" data-cat="agent">
+        <div class="card-head">
+          <h3 class="card-title">area-scorer</h3>
+          <span class="badge cat-agent">AGENT</span>
+        </div>
+        <div class="agent-meta">
+          <span>model: <code>claude-sonnet-5-5</code></span>
+          <span>effort: <code>max</code></span>
+          <span>tools: <code>Read · Write · Edit · Grep · Glob · SendMessage</code></span>
+          <span>memory: <code>project</code></span>
+        </div>
+        <p class="card-desc">
+          Scores Areas against the CDL-2 Content Density rubric — 11 categories, 4 Anchor
+          Floor categories, a CDL-2 score for each Area, and a running Section aggregate. Runs at the shared default, Sonnet 5.5 at
+          <code>max</code>, the default owned by
+          <code>guardrails/commands/guardrail-plan-then-auto-execution.md</code>;
+          consistency across scoring passes is held by keeping the rubric and targets fixed.
+        </p>
+        <div class="agent-block">
+          <h4>Scores</h4>
+          <ul>
+            <li>Combat · Named Moves &amp; Techniques · Cultivation Growth · Technology · Lore &amp; World-Building</li>
+            <li>Dialogue &amp; Social · Information &amp; Intrigue · Emotions · Character Development · Travel &amp; Discovery · Political &amp; Faction</li>
+          </ul>
+        </div>
+        <div class="agent-block">
+          <h4>★ Anchor Floors (20% per-Section line, information only)</h4>
+          <ul><li>Combat · Cultivation Growth · Dialogue &amp; Social · Lore &amp; World-Building</li></ul>
+        </div>
+        <div class="agent-block">
+          <h4>Reports (no pass or fail)</h4>
+          <ul>
+            <li><b>Voice and Variety</b> block for every Area: lecturing, even polish, feelings named not felt, one voice for everyone, openings and closers, recurring images and callbacks; quoted lines, counts only where a rule counts; shown in chat, not stored</li>
+            <li>On request, the Chapter-Level aggregate block and the Chapter-level Voice and Variety block; the Area's word count is reported against its size target and the 1,280 to 2,400 range; a count outside that range is a blocking finding</li>
+            <li>The date line that opens every Area is not narration: it is left out of every reading and of the size, never scored into a category and never quoted as an opening (Part 41)</li>
+          </ul>
+        </div>
+        <div class="handoff">Reports plainly, including under-target categories — never smooths over a persistent shortfall. CDL-2 only; never references the retired CDL-1 framework.</div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ================= CORE PIPELINE DIAGRAM ================= -->
+  <section id="pipeline">
+    <div class="section-head">
+      <p class="eyebrow">Layer 2 — The Workflow</p>
+      <h2>The Core Two-Gate Pipeline — <code>/next-area</code></h2>
+      <p class="section-desc">
+        This is the workhorse every Area-producing command eventually calls. It's the exact
+        sequence <code>/next-area</code> runs, and what every <a href="#advance">Structural
+        Advance</a> command and <a href="#revise">Revision</a> command re-enters. Nothing gets
+        written to disk without passing Gate 1 clean and receiving an explicit human confirm.
+        The full text of the Area is printed in chat before every confirmation, and each
+        Gate 1 also reviews the Areas already written in the scene as one flow.
+        Execution shape — mandatory parallelism, no clock-based delay, milestone progress
+        reporting — is governed by
+        <code>guardrails/commands/guardrail-plan-then-auto-execution.md</code>.
+      </p>
+    </div>
+
+    <div class="diagram-wrap">
+      <svg viewBox="0 0 760 1150" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="pipeline-title">
+        <title id="pipeline-title">The /next-area Two-Gate pipeline: the trigger, the Decision Consultation Gate, outline-planner, area-maker, the Gate 1 audit by continuity-checker with its revise loop, the author's confirm, revise or skip choice, the Gate 2 write by the two scripts, and three parallel lanes (Post-Write Audit, ledger update with spec sync, scoring) before the end.</title>
+        <defs>
+          <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+            <path d="M0,0 L10,5 L0,10 z" fill="var(--faint)"></path>
+          </marker>
+        </defs>
+
+        <!-- backdrop group for pipeline -->
+        <rect x="60" y="96" width="520" height="1028" rx="16" fill="var(--pipeline-bg)" stroke="var(--pipeline-border)" stroke-dasharray="4 4"></rect>
+        <text x="80" y="122" font-size="11" fill="var(--pipeline)" font-weight="700" letter-spacing="1">TWO-GATE PIPELINE (/next-area)</text>
+
+        <!-- N1 trigger -->
+        <g class="node-box">
+          <rect x="180" y="16" width="280" height="56" rx="10" fill="var(--readonly-bg)" stroke="var(--readonly-border)"></rect>
+          <text x="320" y="39" text-anchor="middle" font-size="12" fill="var(--text)" font-weight="700">Trigger</text>
+          <text x="320" y="56" text-anchor="middle" font-size="10.5" fill="var(--muted)">/next-area, /start-story, /next-chapter…phase</text>
+        </g>
+        <line x1="320" y1="72" x2="320" y2="132" stroke="var(--faint)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+
+        <!-- N1b Step 0 Decision Consultation Gate (Plan Mode) -->
+        <g class="node-box">
+          <rect x="180" y="132" width="280" height="64" rx="10" fill="var(--control-bg)" stroke="var(--control-border)"></rect>
+          <text x="320" y="153" text-anchor="middle" font-size="11.5" fill="var(--text)" font-weight="700">Step 0 — Decision Consultation Gate</text>
+          <text x="320" y="170" text-anchor="middle" font-size="9.5" fill="var(--muted)">AskUserQuestion — every open branch,</text>
+          <text x="320" y="184" text-anchor="middle" font-size="9.5" fill="var(--muted)">resolved before Step 1 (pacing and size come from the spec)</text>
+        </g>
+        <line x1="320" y1="196" x2="320" y2="236" stroke="var(--faint)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+
+        <!-- Part 38 spec precondition on Step 0 -->
+        <g>
+          <rect x="560" y="106" width="150" height="82" rx="10" fill="var(--audit-bg)" stroke="var(--audit-border)"></rect>
+          <text x="635" y="126" text-anchor="middle" font-size="10.5" fill="var(--audit)" font-weight="700">Part 38 precondition</text>
+          <text x="635" y="141" text-anchor="middle" font-size="9" fill="var(--muted)">a link of the spec chain</text>
+          <text x="635" y="152" text-anchor="middle" font-size="9" fill="var(--muted)">missing or unconfirmed →</text>
+          <text x="635" y="163" text-anchor="middle" font-size="9" fill="var(--muted)">stop and name the first</text>
+          <text x="635" y="174" text-anchor="middle" font-size="9" fill="var(--muted)">command to run</text>
+        </g>
+        <path d="M560,150 L460,162" fill="none" stroke="var(--audit)" stroke-width="1.2" stroke-dasharray="3 3"></path>
+
+        <!-- N2 outline-planner -->
+        <g class="node-box">
+          <rect x="180" y="236" width="280" height="56" rx="10" fill="var(--agent-bg)" stroke="var(--agent-border)"></rect>
+          <text x="320" y="259" text-anchor="middle" font-size="12" fill="var(--text)" font-weight="700">outline-planner</text>
+          <text x="320" y="276" text-anchor="middle" font-size="10.5" fill="var(--muted)">confirms exactly what this Area covers</text>
+        </g>
+        <line x1="320" y1="292" x2="320" y2="332" stroke="var(--faint)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+
+        <!-- N3 area-maker -->
+        <g class="node-box">
+          <rect x="180" y="332" width="280" height="56" rx="10" fill="var(--agent-bg)" stroke="var(--agent-border)"></rect>
+          <text x="320" y="355" text-anchor="middle" font-size="12" fill="var(--text)" font-weight="700">area-maker</text>
+          <text x="320" y="372" text-anchor="middle" font-size="10.5" fill="var(--muted)">drafts the Area</text>
+        </g>
+        <line x1="320" y1="388" x2="320" y2="428" stroke="var(--faint)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+
+        <!-- N4 gate1 audit -->
+        <g class="node-box">
+          <rect x="180" y="428" width="280" height="56" rx="10" fill="var(--agent-bg)" stroke="var(--agent-border)"></rect>
+          <text x="320" y="451" text-anchor="middle" font-size="12" fill="var(--text)" font-weight="700">continuity-checker</text>
+          <text x="320" y="468" text-anchor="middle" font-size="10.5" fill="var(--muted)">Gate 1 — 23 checks + Area flow review</text>
+        </g>
+        <line x1="320" y1="484" x2="320" y2="522" stroke="var(--faint)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+
+        <!-- D1 diamond: gate1 clean? -->
+        <g>
+          <polygon points="320,522 460,570 320,618 180,570" fill="var(--revise-bg)" stroke="var(--revise-border)"></polygon>
+          <text x="320" y="565" text-anchor="middle" font-size="11.5" fill="var(--text)" font-weight="700">Gate 1</text>
+          <text x="320" y="580" text-anchor="middle" font-size="11.5" fill="var(--text)" font-weight="700">clean?</text>
+        </g>
+        <!-- NO loop back to area-maker -->
+        <path d="M180,570 L44,570 L44,360 L180,360" fill="none" stroke="var(--revise)" stroke-width="1.5" marker-end="url(#arrow)"></path>
+        <text x="48" y="464" font-size="10.5" fill="var(--revise)" font-weight="700" transform="rotate(-90 48 464)" text-anchor="middle">FAIL → revise &amp; re-audit</text>
+        <!-- YES continues down -->
+        <line x1="320" y1="618" x2="320" y2="656" stroke="var(--faint)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+        <text x="336" y="640" font-size="10.5" fill="var(--audit)" font-weight="700">PASS · full text printed in chat</text>
+
+        <!-- D2 diamond: confirm -->
+        <g>
+          <polygon points="320,656 460,704 320,752 180,704" fill="var(--revise-bg)" stroke="var(--revise-border)"></polygon>
+          <text x="320" y="699" text-anchor="middle" font-size="11" fill="var(--text)" font-weight="700">[CONFIRM WRITE] /</text>
+          <text x="320" y="713" text-anchor="middle" font-size="11" fill="var(--text)" font-weight="700">[REVISE AREA] / [SKIP WRITE]</text>
+        </g>
+        <!-- REVISE loop back to area-maker -->
+        <path d="M180,704 L76,704 L76,360" fill="none" stroke="var(--revise)" stroke-width="1.5" stroke-dasharray="5 3" marker-end="url(#arrow)"></path>
+        <text x="98" y="534" font-size="10.5" fill="var(--revise)" font-weight="700" transform="rotate(-90 98 534)" text-anchor="middle">REVISE AREA</text>
+        <!-- SKIP branch to right end box -->
+        <path d="M460,704 L560,704" fill="none" stroke="var(--faint)" stroke-width="1.5" marker-end="url(#arrow)"></path>
+        <rect x="560" y="676" width="150" height="56" rx="10" fill="var(--readonly-bg)" stroke="var(--readonly-border)"></rect>
+        <text x="635" y="699" text-anchor="middle" font-size="11" fill="var(--text)" font-weight="700">SKIP WRITE</text>
+        <text x="635" y="714" text-anchor="middle" font-size="10" fill="var(--muted)">discards everything:</text>
+        <text x="635" y="726" text-anchor="middle" font-size="10" fill="var(--muted)">nothing written or updated</text>
+
+        <!-- CONFIRM continues down -->
+        <line x1="320" y1="752" x2="320" y2="800" stroke="var(--faint)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+        <text x="336" y="774" font-size="10.5" fill="var(--pipeline)" font-weight="700">CONFIRM</text>
+
+        <!-- N6 write scripts -->
+        <g class="node-box">
+          <rect x="180" y="800" width="280" height="56" rx="10" fill="var(--export-bg)" stroke="var(--export-border)"></rect>
+          <text x="320" y="823" text-anchor="middle" font-size="12" fill="var(--text)" font-weight="700">write scripts (Gate 2 write)</text>
+          <text x="320" y="840" text-anchor="middle" font-size="10.5" fill="var(--muted)">area_docx_creator.py + area_md_creator.py</text>
+        </g>
+
+        <!-- Gate 2: 3-way parallel fan-out -->
+        <line x1="320" y1="856" x2="320" y2="880" stroke="var(--faint)" stroke-width="1.5"></line>
+        <text x="336" y="872" font-size="10.5" fill="var(--pipeline)" font-weight="700">launched in a single message</text>
+        <line x1="150" y1="880" x2="490" y2="880" stroke="var(--faint)" stroke-width="1.5"></line>
+        <line x1="150" y1="880" x2="150" y2="908" stroke="var(--faint)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+        <line x1="320" y1="880" x2="320" y2="908" stroke="var(--faint)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+        <line x1="490" y1="880" x2="490" y2="908" stroke="var(--faint)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+
+        <!-- Lane 1: Gate 2 Post-Write Audit -->
+        <g class="node-box">
+          <rect x="72" y="908" width="156" height="92" rx="10" fill="var(--agent-bg)" stroke="var(--agent-border)"></rect>
+          <text x="150" y="930" text-anchor="middle" font-size="11" fill="var(--text)" font-weight="700">continuity-checker</text>
+          <text x="150" y="947" text-anchor="middle" font-size="9" fill="var(--muted)">Gate 2 Post-Write Audit</text>
+          <text x="150" y="959" text-anchor="middle" font-size="9" fill="var(--muted)">Completeness Indicator +</text>
+          <text x="150" y="971" text-anchor="middle" font-size="9" fill="var(--muted)">Tier Scope Brackets</text>
+          <text x="150" y="983" text-anchor="middle" font-size="9" fill="var(--muted)">read/report-only, writes nothing</text>
+        </g>
+
+        <!-- Lane 2: Post-Write Ledger Update -->
+        <g class="node-box">
+          <rect x="242" y="908" width="156" height="92" rx="10" fill="var(--agent-bg)" stroke="var(--agent-border)"></rect>
+          <text x="320" y="930" text-anchor="middle" font-size="11" fill="var(--text)" font-weight="700">continuity-checker (2nd)</text>
+          <text x="320" y="947" text-anchor="middle" font-size="9" fill="var(--muted)">Post-Write Ledger Update</text>
+          <text x="320" y="959" text-anchor="middle" font-size="9" fill="var(--muted)">+ Chapter Spec as-built sync</text>
+          <text x="320" y="971" text-anchor="middle" font-size="9" fill="var(--muted)">writes ledger + Chapter Spec</text>
+        </g>
+
+        <!-- Lane 3: area-scorer -->
+        <g class="node-box">
+          <rect x="412" y="908" width="156" height="92" rx="10" fill="var(--agent-bg)" stroke="var(--agent-border)"></rect>
+          <text x="490" y="930" text-anchor="middle" font-size="11" fill="var(--text)" font-weight="700">area-scorer</text>
+          <text x="490" y="947" text-anchor="middle" font-size="9" fill="var(--muted)">CDL-2 score +</text>
+          <text x="490" y="959" text-anchor="middle" font-size="9" fill="var(--muted)">Section running aggregate</text>
+        </g>
+
+        <!-- converge -->
+        <line x1="150" y1="1000" x2="150" y2="1024" stroke="var(--faint)" stroke-width="1.5"></line>
+        <line x1="320" y1="1000" x2="320" y2="1024" stroke="var(--faint)" stroke-width="1.5"></line>
+        <line x1="490" y1="1000" x2="490" y2="1024" stroke="var(--faint)" stroke-width="1.5"></line>
+        <line x1="150" y1="1024" x2="490" y2="1024" stroke="var(--faint)" stroke-width="1.5"></line>
+        <line x1="320" y1="1024" x2="320" y2="1056" stroke="var(--faint)" stroke-width="1.5" marker-end="url(#arrow)"></line>
+
+        <!-- N9 end -->
+        <g class="node-box">
+          <rect x="180" y="1056" width="280" height="56" rx="10" fill="var(--audit-bg)" stroke="var(--audit-border)"></rect>
+          <text x="320" y="1079" text-anchor="middle" font-size="12" fill="var(--text)" font-weight="700">Area complete</text>
+          <text x="320" y="1096" text-anchor="middle" font-size="10.5" fill="var(--muted)">outcome logged to session-log/</text>
+        </g>
+
+        <!-- pause callout -->
+        <g>
+          <rect x="560" y="434" width="150" height="76" rx="10" fill="var(--control-bg)" stroke="var(--control-border)"></rect>
+          <text x="635" y="456" text-anchor="middle" font-size="11" fill="var(--control)" font-weight="700">/pause</text>
+          <text x="635" y="472" text-anchor="middle" font-size="9.5" fill="var(--muted)">can interrupt at any</text>
+          <text x="635" y="484" text-anchor="middle" font-size="9.5" fill="var(--muted)">safe boundary before</text>
+          <text x="635" y="496" text-anchor="middle" font-size="9.5" fill="var(--muted)">the write step</text>
+        </g>
+        <path d="M560,472 L460,570" fill="none" stroke="var(--control)" stroke-width="1.2" stroke-dasharray="3 3"></path>
+
+      </svg>
+      <p class="diagram-caption">
+        Loop-backs on the left both re-enter at <b>area-maker</b>: a Gate 1 FAIL and a
+        <code>[REVISE AREA]</code> return to drafting, then re-audit through the same Gate 1 —
+        never onward with a FAIL outstanding. <b>outline-planner</b> is not re-entered
+        mid-cycle; a density reading is recorded in the audit report as information instead
+        (<code>next-area.md</code> Step 3). Gate 1 runs two read-only checker instances together:
+        the 23 checks on the new Area and the Area flow review of the Areas already written in
+        the scene (continuity breaks block; sameness is reported with quoted lines). Pacing and
+        size are not asked: the Chapter Spec carries them. Any question
+        about the draft is asked after the full text has been printed in chat; a
+        <code>[REVISE AREA]</code> re-audits and prints the revised text in full again;
+        <code>[SKIP WRITE]</code> discards everything. At Gate 2 the three lanes are launched in a single
+        message and run concurrently; their outputs are presented in canonical order —
+        Completeness Indicator, Tier Scope Brackets, the CDL-2 block, then the Voice and
+        Variety block — once all three return. Every Area opens with its date line (Part 41):
+        Gate 1 reads it (Check #11 element 11-2 for the dates and the weekday, Check #12 for the
+        italic form) and shows it on the Calendar line of the Position Header; the Gate 2 ledger
+        lane records it in <code>ledger-worlds-calendar</code>.
+      </p>
+    </div>
+
+    <!-- Amended 2026-10-07: the whole-Chapter path -->
+    <div class="grid cols-2" style="margin-top:14px;">
+      <div class="card" data-cat="pipeline">
+        <div class="card-head"><h3 class="card-title">/create-chapter</h3><span class="badge cat-pipeline">C-42</span></div>
+        <div class="kv"><span class="argh">token: [CREATE CHAPTER]</span></div>
+        <p class="card-desc">The default path (Amended 2026-10-07). Writes a whole Chapter in one cycle from its confirmed Chapter Spec, with no per-Area files. It is a second lawful writer under a new rule, not an exception: <code>/next-area</code> still writes one Area at a time, and a Chapter is built one way, by Area or whole (Chapter Spec <code>Build mode: whole | by-area</code>, default <code>whole</code>). The deprecated <code>[WRITE NEXT N AREAS]</code> and <code>[WRITE TO END OF CHAPTER]</code> stay deprecated.</p>
+        <ol class="seq">
+          <li>Refuse a Chapter that has Area files (points to <code>/chapter-builder</code> or <code>/redraft-chapter</code>) and stop if the Chapter, any Area block or the Scene Map lacks pacing, a size target or a scene assignment.</li>
+          <li>Step 0: Decision Consultation for open or deferred spec notes, then a short build plan (scenes, POV order, words per Area block and for the Chapter, any stretch) that you confirm. Auto Mode never waives it.</li>
+          <li>One <b>area-maker</b> drafts the whole Chapter (each Area block at 55% to 60% of its size target; a stretch named in the spec may reach 72%; the Chapter total from 0.55 T to 0.72 T), then one <b>chapter-editor</b> edits it in one pass (seams, voice, repetition, plain language, date lines, the band), then the script measures it.</li>
+          <li>Gate 1 by <b>continuity-checker</b>: the 23 checks over the whole Chapter (the word-band check in place of Check #10; spec conformance per Area block and the Scene Map; calendar by date segment) plus the flow review of the seams between Area blocks and the POV shifts. The staged text is printed in full; answer <code>[CONFIRM WRITE]</code>, <code>[REVISE CHAPTER]</code> or <code>[SKIP WRITE]</code>.</li>
+          <li>Gate 2: the script writes the Chapter <code>.md</code> (with hidden <code>&lt;!-- AREA NN --&gt;</code> markers) and <code>.docx</code>; then the audit lane, one batched ledger update citing the Chapter reference only, and one CDL-2 block run together; the Chapter Spec is synced, every Area row set <code>WRITTEN(P.S.N.CCC)</code> and the spec completed in the same pass.</li>
+        </ol>
+        <div class="invokes"><span class="pill">area-maker</span><span>→</span><span class="pill">chapter-editor</span><span>→</span><span class="pill">continuity-checker</span><span>→</span><span class="pill">area-scorer</span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= STRUCTURAL ADVANCE ================= -->
+  <section id="advance">
+    <div class="section-head">
+      <p class="eyebrow">Feeds Into the Pipeline</p>
+      <h2>Structural Advance Commands</h2>
+      <p class="section-desc">
+        Each of these confirms the current structural unit is complete via
+        <b>outline-planner</b>, establishes what the next one covers, then calls
+        <code>/next-area</code> for its opening Area with the right
+        <code>is_first_area_of_*</code> flags set. They nest: a new Phase's opening Area is
+        simultaneously its first Section's, Novel-Part's and Chapter's opening Area.
+        Where a command carries a Part 38 spec-chain obligation (the Section Spec, the Novel-Part
+        Spec or the Chapter Spec), its card summarises it; the
+        authoritative sequence always lives in <code>.claude/commands/&lt;name&gt;.md</code>.
+        <code>/start-story</code> is listed here too, as the cold-start entry rather than an advance.
+      </p>
+    </div>
+
+    <div class="chain">
+      <div class="node" style="background:var(--audit-bg);border-color:var(--audit-border);color:var(--audit);">/section-spec</div><span class="arrow">→</span>
+      <div class="node" style="background:var(--audit-bg);border-color:var(--audit-border);color:var(--audit);">/part-spec</div><span class="arrow">→</span>
+      <div class="node" style="background:var(--audit-bg);border-color:var(--audit-border);color:var(--audit);">/chapter-spec</div><span class="arrow">→</span>
+      <div class="node" style="background:var(--pipeline-bg);border-color:var(--pipeline-border);color:var(--pipeline);">/next-area</div>
+    </div>
+    <div class="flow-note">
+      <div class="icon">🔗</div>
+      <div>
+        <b>The spec chain.</b> A Chapter Spec cannot be built or revised unless its Novel-Part Spec and its
+        Section Spec are <code>CONFIRMED</code> (or <code>COMPLETED</code>); a Novel-Part Spec needs a confirmed Section
+        Spec. A parent that is missing, a draft, awaiting re-confirmation or retired refuses the build and names the right command.
+        The advance commands below build the specs at each boundary, top-down (<code>/start-story</code>, <code>/next-section</code>
+        and <code>/next-part</code>; <code>/next-chapter</code> builds only the Chapter Spec); you may also build a later
+        Section Spec or Novel-Part Spec ahead of time once its parent exists. Where a spec departs from what a spec above it
+        planned, the departure is recorded as a variance note on every spec above it, written top-down in one step (the
+        Section Spec first, then the Novel-Part Spec), and for each departure you choose whether to amend the plan or keep the
+        original as the plan baseline. A higher spec's plan itself changes only through its own command.
+      </div>
+    </div>
+
+    <div class="chain">
+      <div class="node dim">/next-chapter</div><span class="arrow">·</span>
+      <div class="node dim">/next-part</div><span class="arrow">·</span>
+      <div class="node dim">/next-section</div><span class="arrow">·</span>
+      <div class="node dim">/next-phase</div>
+      <span class="arrow">→</span>
+      <div class="node" style="background:var(--pipeline-bg);border-color:var(--pipeline-border);color:var(--pipeline);">outline-planner → /next-area</div>
+    </div>
+
+    <div class="grid cols-2">
+
+      <div class="card" data-cat="advance">
+        <div class="card-head"><h3 class="card-title">/next-chapter</h3><span class="badge cat-advance">C-6</span></div>
+        <p class="card-desc">Advance to the next Chapter (resets Area numbering within it), then write its opening Area.</p>
+        <ol class="seq">
+          <li>Invoke <b>outline-planner</b> to confirm every Area of the current Chapter is written and to prepare the completion of the current Chapter's spec with its final variance summary (<code>/chapter-spec</code> <b>complete</b>; nothing is written until the new spec is confirmed), and <b>area-scorer</b> for the closing Chapter's Chapter-Level density block (information only). The new Chapter must have an entry in its Novel-Part Spec; if the Novel-Part Spec has no further entry, the command stops before anything is written and asks which way to go: add one as a short amendment (purpose, calendar window, threads, who is on the page, key events, hook, closing beat), which gets its own <code>[CONFIRM SPEC]</code> and is written at once, before the Chapter Spec is built; or run <code>/next-part</code>, because the Novel-Part has finished; or run <code>/part-spec</code> <b>revise</b>. The Section Spec and the Novel-Part Spec above must already be in force; this command builds the Chapter Spec only.</li>
+          <li>Build the next Chapter's spec via <code>/chapter-spec</code> <b>build</b>, pre-filled from that Novel-Part Spec entry — full consultation through <code>[CONFIRM SPEC]</code>, establishing title, purpose, the Area breakdown and each Area's block (size target, pacing, scene anchors, opening and closing type, carry-over, thread) — BEFORE any Area is planned or drafted. The outgoing Chapter's completion is written on <code>[CONFIRM SPEC]</code>, in the same step as the new spec. A departure from the Novel-Part entry is shown at that confirm (you choose to amend the plan or keep the entry as the baseline) and noted as variance on the Section Spec and the Novel-Part Spec in the same step. The Chapter window and each Area's in-story time are written as dates plus Phase Day, and the carry-in names the last dated moment of the closing Chapter (Part 41).</li>
+          <li>Run <code>/next-area</code> with <code>is_first_area_of_chapter=true</code>.</li>
+        </ol>
+        <div class="fail"><b>Abort:</b> do not advance a Chapter with unwritten or unresolved Area content. Never advance with the prior Chapter's spec not yet <code>COMPLETED</code> or the new Chapter's spec unconfirmed (Part 38) — <code>[SKIP SPEC]</code> at the build gate saves the drafted spec as <code>DRAFT</code> and stops the advance there; the new Chapter stays blocked for <code>/next-area</code> until <code>[CONFIRM SPEC]</code>, and the outgoing spec is completed only on that confirmation.</div>
+        <div class="invokes"><span class="pill">outline-planner</span><span class="pill">area-scorer</span><span>→</span><span class="argh">/chapter-spec</span><span>→</span><span class="argh">/next-area</span></div>
+      </div>
+
+      <div class="card" data-cat="advance">
+        <div class="card-head"><h3 class="card-title">/next-part</h3><span class="badge cat-advance">C-7</span></div>
+        <p class="card-desc">Advance to the next Novel-Part (resets Chapter numbering within it). ("Novel-Part" = Part 2's structural unit, distinct from a canon-law Part like Part 3 or Part 22.)</p>
+        <ol class="seq">
+          <li>Invoke <b>outline-planner</b> to confirm the current Novel-Part's Chapters are complete, and ask you "Has this Novel-Part finished?" (a yes lets the command complete the outgoing specs; a no stops it). Then build the next Novel-Part's spec via <code>/part-spec</code> <b>build</b> — its Section Spec must be <code>CONFIRMED</code> or <code>COMPLETED</code>; the Section Spec's entry for this Novel-Part pre-fills the draft and every Chapter of the Novel-Part is listed in depth — through <code>[CONFIRM SPEC]</code> (Part 38 Area 11).</li>
+          <li>The new Novel-Part's first Chapter gets its spec built via <code>/chapter-spec</code> <b>build</b> (full consultation through its own <code>[CONFIRM SPEC]</code>, pre-filled from its Novel-Part Spec entry) before its opening Area — a new Novel-Part's opening Area is also a new Chapter's. The outgoing Chapter Spec and Novel-Part Spec are completed bottom-up, in one write step, on that last <code>[CONFIRM SPEC]</code>. Every window is written as dates plus Phase Day and the carry-in names the last dated moment (Part 41).</li>
+          <li>Run <code>/next-area</code> with <code>is_first_area_of_chapter=true</code> and the new <code>novel_part_name</code>.</li>
+        </ol>
+        <div class="fail"><b>Abort:</b> do not advance if current Novel-Part's arc threads are left unresolved without cause, or if you say the Novel-Part has not finished. If the Section Spec has no entry for the new Novel-Part, the command stops and asks whether the Section has finished (run <code>/next-section</code>) or needs one more Novel-Part: adding a Novel-Part is a substantial change to the Section Spec, so it is made through <code>/section-spec</code> <b>revise</b> with a fresh <code>[CONFIRM SPEC]</code>, never as a light add. <code>[SKIP SPEC]</code> at either build saves that spec as <code>DRAFT</code>, leaves the outgoing specs un-completed and stops the advance; run the command again to resume.</div>
+        <div class="invokes"><span class="pill">outline-planner</span><span>→</span><span class="argh">/part-spec</span><span>→</span><span class="argh">/chapter-spec</span><span>→</span><span class="argh">/next-area</span></div>
+      </div>
+
+      <div class="card" data-cat="advance">
+        <div class="card-head"><h3 class="card-title">/next-section</h3><span class="badge cat-advance">C-8</span></div>
+        <p class="card-desc">Advance to the next Section — one of Phase 1's 8 locked Sections — with title-page handling.</p>
+        <ol class="seq">
+          <li>Check that the new Section's Title Page images exist, the Phase icon and the Section icon; if one is missing, stop and run <code>/create-image-phase N</code> or <code>/create-image-section N M</code> first. Then invoke <b>outline-planner</b> to confirm the current Section's Novel-Parts/Chapters are complete, ask you "Has this Section finished?" (a no stops the command), prepare the completion of the last Chapter's spec (<code>/chapter-spec</code> <b>complete</b>), of the Novel-Part Spec and of the Section Spec (nothing is written until the new Chapter Spec is confirmed), and verify every other Chapter Spec and every Novel-Part Spec in the closing Section is <code>COMPLETED</code> and variance-annotated (Part 38). The incoming Section then gets its three specs, top-down, each through its own <code>[CONFIRM SPEC]</code> and each asking until nothing is left to steer: the Section Spec (<code>/section-spec</code> <b>build</b>, which reads all of Part 30 and asks for the Section's own epigraph, the line that its first title page will print; an agent never writes it), the first Novel-Part Spec (<code>/part-spec</code> <b>build</b>) and the first Chapter Spec (<code>/chapter-spec</code> <b>build</b>), all before its opening Area. The outgoing Chapter, Novel-Part and Section specs are completed bottom-up, in one write step, at the last of those confirms. The new Section's window is written as dates plus Phase Day, converted by Part 41 Area 4 from the Part 30 anchor, and the carry-in names the last dated moment of the closing Section.</li>
+          <li>Invoke <b>area-scorer</b> to finalize the closing Section's CDL-2 running aggregate first.</li>
+          <li>Launched together with steps 1 and 2, invoke <b>continuity-checker</b> for the Section-close review: Check #21's Section-close behavior review of the characters whose profiles the Areas show moving (an open question blocks the next step; rulings are written at once by a ledger instance), the Section-close POV report (written Areas by viewpoint, per protagonist; informational, never stored), the report-only Owed Beats line and the spec chain's Section-level report (reveals owed and not shown, and the Part 30 Major Narrative Functions the Section carried, read against the Section Spec; information only). The Check #21 ledger writes land before the new Section Spec's audit, and its questions are asked apart from the Section Spec consultation, never mixed into one question call.</li>
+          <li>Once steps 1 to 3 are done, invoke <b>continuity-checker</b> for the session-end audit chain on the closing Section: FCIA end-of-session and ALCA Mode B together, then a Unified Audit Summary, over the Areas of the closing Section. It reports and changes nothing; a FAIL the author has not ruled on blocks the next step.</li>
+          <li>Independent reader pass, launched with the first three steps and waiting for none of them: ask which model it runs on and which three Areas of the closing Section it reads, then invoke <b>area-scorer</b> on that model (the model applies to this one pass only). Report-only; it changes and blocks nothing.</li>
+          <li>Run <code>/next-area</code> with <code>is_first_area_of_section</code> and <code>is_first_area_of_chapter</code> set true.</li>
+        </ol>
+        <div class="fail"><b>Abort:</b> if the 8-Section lock would be exceeded, you say the Section has not finished, any other Chapter Spec or Novel-Part Spec of the closing Section is not <code>COMPLETED</code> or is missing its variance annotations, a Check #21 question from the Section-close review is still open, or the session-end audit chain reports a FAIL the author has not ruled on. <code>[SKIP SPEC]</code> at any of the three builds saves that spec as <code>DRAFT</code>, leaves the outgoing specs un-completed and stops the advance; run the command again to resume. An Anchor Floor reading below its line is shown as information and never stops the advance.</div>
+        <div class="invokes"><span class="pill">outline-planner</span><span class="pill">area-scorer</span><span class="pill">continuity-checker</span><span>→</span><span class="argh">/section-spec</span><span>→</span><span class="argh">/part-spec</span><span>→</span><span class="argh">/chapter-spec</span><span>→</span><span class="argh">/next-area</span></div>
+      </div>
+
+      <div class="card" data-cat="advance">
+        <div class="card-head">
+          <h3 class="card-title">/next-phase</h3>
+          <span class="badges"><span class="badge cat-advance">C-9</span><span class="badge cat-danger" role="img" aria-label="Human-only command">🔒 human-only</span></span>
+        </div>
+        <p class="card-desc">Advance to the next Phase of the series. Rare — Phase 1 alone is 8 Sections; only invoke once Phase 1 is genuinely complete. Total phase count is explicitly "TBD" per canon.</p>
+        <ol class="seq">
+          <li>Confirm all 8 Sections of the current Phase are complete and audited clean (session-end FCIA + ALCA Mode B for the Phase's final Section are run now if they have not run since its last Area).</li>
+          <li>Invoke <b>outline-planner</b> to establish the new Phase's premise and arc framework.</li>
+          <li>Check the two images the new Phase's Title Page needs, the Phase icon and its first Section's icon; run <code>/create-image-phase</code> and <code>/create-image-section</code> for whichever is missing, and go on only when both exist.</li>
+          <li>Prepare the outgoing Chapter's completion (final variance summary), then build the incoming Chapter's spec through <code>[CONFIRM SPEC]</code> and write the completion in that same step — a Phase advance opens a new Chapter as surely as <code>/next-chapter</code> does (Part 38).</li>
+          <li>Run <code>/next-area</code> with <code>is_first_area_of_phase</code>, <code>is_first_area_of_section</code> and <code>is_first_area_of_chapter</code> set true. Its title page carries two epigraph lines: the new Phase's epigraph, the Phase epigraph line of that Phase in Part 30, and below it the epigraph line of the Phase's Section 1 from its Section Spec (<code>unset</code> means none for that line).</li>
+        </ol>
+        <div class="fail"><b>Abort:</b> never advance a Phase with an incomplete or unaudited prior Section.</div>
+        <div class="fail"><b>Note:</b> there is no Phase Spec; Part 30 is the Phase-level plan. The new Phase's Section Spec, Novel-Part Spec and Chapter Spec wait until Part 30 is expanded for that Phase, and until they exist the Chapter Spec build in step 4 is refused by the spec-chain rule. This command completes only the outgoing Chapter: at the end of Phase 1 you complete Section 8's last Novel-Part Spec and its Section Spec yourself, by running two commands: <code>/part-spec</code> <b>complete</b> and then <code>/section-spec</code> <b>complete</b> for Section 8. <code>/part-spec</code> <b>complete</b> takes the last Chapter's completion questions in the same step and writes that Chapter's pieces with it, so there is no third command.</div>
+        <div class="invokes"><span class="pill">outline-planner</span><span>→</span><span class="argh">/create-image-phase</span><span class="argh">/create-image-section</span><span>→</span><span class="argh">/chapter-spec</span><span>→</span><span class="argh">/next-area</span></div>
+      </div>
+
+      <div class="card" data-cat="advance">
+        <div class="card-head"><h3 class="card-title">/start-story</h3><span class="badge cat-advance">C-3</span></div>
+        <p class="card-desc">Cold start rather than an advance: opens the novel at Phase 1 / Section 1 / Novel-Part 1 / Chapter 1 / Area 1. Valid only when no Area exists yet, or immediately after <code>/hard-reset</code> (which stops on its own and never chains here).</p>
+        <ol class="seq">
+          <li><b>Preflights:</b> <code>python -c "import docx"</code> must succeed (otherwise install with <code>pip install -r .claude/tools/requirements.txt</code>), and <code>phase-1/phase-icon.png</code> and <code>phase-1/section-1/section-icon.png</code> must exist (otherwise run <code>/create-image-phase 1</code> and <code>/create-image-section 1 1</code> first); the consultation does not begin until both pass.</li>
+          <li>Confirm no <code>area-NN</code> files exist yet — if any do, stop and ask whether <code>/next-area</code> was meant.</li>
+          <li>Read the guardrails index plus <code>narration-novel-book-structure-law</code> / <code>narration-novel-macro-story-law</code> / <code>narration-novel-creative-flexibility-law</code>.</li>
+          <li>Build the spec chain top-down (Part 38): the Section Spec for Section 1 via <code>/section-spec</code> <b>build</b> (it reads all of Part 30; Section 1's Section Spec carries its own epigraph line, and the <code>/section-spec</code> build also asks you once whether to give the Phase epigraph now; this command asks nothing of its own), then the Novel-Part Spec for Novel-Part 1 via <code>/part-spec</code> <b>build</b>, then the Chapter 1 Spec via <code>/chapter-spec</code> <b>build</b>. Each goes through its own <code>[CONFIRM SPEC]</code>, one at a time. There is no separate up-front direction round: the direction and theme questions are asked inside the builds (themes at Section and Novel-Part level, the opening beat at Chapter level), and the opening of the novel carries real, high-consequence branches, so none is under-asked because it is the session's first invocation. If any link of the chain already exists (for example after a reset that kept specs), it is revised and re-confirmed top-down, never rebuilt blind; after <code>/hard-reset</code> every spec is gone, so it is a fresh build. <code>[SKIP SPEC]</code> at any level saves that spec as a draft and stops there.</li>
+          <li>Nothing is planned for writing until all three are confirmed. The Chapter 1 build's Area-block consultation settles the size target, pacing, opening and closing of every Area of Chapter 1; no pacing question is asked later.</li>
+          <li>Invoke <b>outline-planner</b> for Area 1 (its row and its block; one Area only), then proceed exactly as <code>/next-area</code> from its draft step onward. Area 1 is the first Area of Phase 1, so its title page prints two epigraph lines: the Phase epigraph, the line kept in Part 30, and below it Section 1's own epigraph from its Section Spec. Each reads <code>unset</code>, and prints none, until you give the text: you can give it when the Section Spec build asks, or by editing Part 30 yourself. If you give it there, the build repeats the text back to you and records it on that one Part 30 line as an author-directed edit of your own words; an agent never writes epigraph text. Area 1 carries Day One's date: its text begins <code>*Year 1247, Ilovany, Orvil, Day 1*</code>, Phase Day 1, the third weekday (Part 41), and the three spec builds write their windows as dates plus Phase Day.</li>
+        </ol>
+        <div class="fail"><b>Abort:</b> if Areas already exist, never overwrite silently — escalate via <code>AskUserQuestion</code>.</div>
+        <div class="invokes"><span class="argh">/section-spec</span><span>→</span><span class="argh">/part-spec</span><span>→</span><span class="argh">/chapter-spec</span><span>→</span><span class="pill">outline-planner</span><span>→</span><span class="argh">/next-area</span></div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ================= REVISION & REDRAFT ================= -->
+  <section id="revise">
+    <div class="section-head">
+      <p class="eyebrow">Re-Enters the Pipeline</p>
+      <h2>Revision &amp; Redraft Commands</h2>
+      <p class="section-desc">
+        A revision is never exempt from the audit pipeline just because the Area was
+        previously accepted — each of these re-runs the full Gate 1 → Gate 2 cycle rather
+        than doing a diff-only check.
+      </p>
+    </div>
+
+    <div class="grid cols-3">
+
+      <div class="card" data-cat="revise">
+        <div class="card-head"><h3 class="card-title">/revise-area</h3><span class="badge cat-revise">C-28</span></div>
+        <div class="kv"><span class="argh">arg: area reference</span></div>
+        <p class="card-desc">Revise one already-written Area in place (a targeted revision of its text), re-running the full Gate 1/Gate 2 cycle. To discard an Area and write it afresh instead, use <code>/redraft-area</code>.</p>
+        <ol class="seq">
+          <li>Check that the spec chain is in force (Chapter Spec, Novel-Part Spec and Section Spec each <code>CONFIRMED</code> or <code>COMPLETED</code>); a missing or unconfirmed link stops the command and names the first one with its command.</li>
+          <li>Name the Area to revise by its reference.</li>
+          <li>Ask only about open choices the change creates (no pacing question: the Area keeps its size target and pacing from the Chapter Spec), then invoke <b>area-maker</b> to revise per the requested change. The revised text keeps its date line as its first line; the line changes only if the change moves the scene in time, and the new date must still meet the Area before it and the Area after it (Part 41).</li>
+          <li>Invoke <b>continuity-checker</b> for a fresh, full-Area Gate 1 audit, plus a neighbour check of the Area before and after.</li>
+          <li>Print the full revised text, then confirm via <code>[CONFIRM WRITE] / [REVISE AREA] / [SKIP WRITE]</code>.</li>
+          <li>On confirm: overwrite the file pair via authorized scripts (a revised first Area of a Phase keeps the Phase epigraph from Part 30 and Section 1's own Section Spec epigraph on its title page; the first Area of any other Section keeps its own Section Spec's epigraph; <code>unset</code> means none), then run Gate 2, <code>/force-ledger-audit</code> and the re-score together.</li>
+        </ol>
+        <div class="invokes"><span class="pill">area-maker</span><span class="pill">continuity-checker</span><span class="pill">area-scorer</span></div>
+      </div>
+
+      <div class="card" data-cat="revise">
+        <div class="card-head"><h3 class="card-title">/redraft-area</h3><span class="badges"><span class="badge cat-revise">C-29</span><span class="badge cat-danger" role="img" aria-label="Human-only command">🔒 human-only</span></span></div>
+        <div class="kv"><span class="argh">arg: area reference</span></div>
+        <p class="card-desc">Discard and completely redraft one Area — a full rewrite from the Chapter Spec's plan, not a targeted revision (see <code>/revise-area</code>).</p>
+        <ol class="seq">
+          <li>Revise the Area's slice of the Chapter Spec via <code>/chapter-spec</code> <b>revise</b> (Part 38) — author consultation scoped to this Area's block, through <code>[CONFIRM SPEC]</code>, with <b>outline-planner</b> re-confirming coverage inside that flow (a <code>COMPLETED</code> spec stays living, so there is no re-opening step). If the revised plan departs from what the Novel-Part Spec's entry fixes (purpose, calendar window, threads, who is on the page, key events, reveals owed, opening hook, closing beat), you are asked, for each such departure, whether to amend the plan or keep the original entry as the plan baseline, and a variance note is left on the Novel-Part Spec and on the Section Spec either way.</li>
+          <li>Go back first, as a rewind to the end of the previous Area does: the Area's old file pair is moved to the archive folder (never deleted), and the ledgers (the calendar ledger included: the Area's rows are removed and the Current Position block rewritten), plan statuses and score tracker roll back.</li>
+          <li>Run <code>/next-area</code> once for the Area (its size target and pacing come from the revised spec); it writes a fresh file pair at Gate 2.</li>
+          <li>Run <code>/force-ledger-audit</code> once the Area is redrafted (a plain reconciliation).</li>
+        </ol>
+        <div class="fail"><b>Abort:</b> confirm the redraft scope before archiving anything.</div>
+        <div class="invokes"><span class="argh">/chapter-spec</span><span>→</span><span class="pill">outline-planner</span><span>→</span><span class="pill">continuity-checker</span><span class="pill">area-scorer</span><span>→</span><span class="argh">/next-area</span><span>→</span><span class="argh">/force-ledger-audit</span></div>
+      </div>
+
+      <div class="card" data-cat="revise">
+        <div class="card-head"><h3 class="card-title">/redraft-chapter</h3><span class="badges"><span class="badge cat-revise">C-30</span><span class="badge cat-danger" role="img" aria-label="Human-only command">🔒 human-only</span></span></div>
+        <p class="card-desc">Discard and completely redraft an entire Chapter's Areas. Same discipline as <code>/redraft-area</code>, scoped to the whole Chapter.</p>
+        <ol class="seq">
+          <li>Revise the Chapter's spec via <code>/chapter-spec</code> <b>revise</b> (Part 38) — full author consultation through <code>[CONFIRM SPEC]</code>, with <b>outline-planner</b> re-confirming the Area-by-Area plan, each Area's block included, inside that flow (an Area may be added, dropped or re-planned; a <code>COMPLETED</code> spec stays living, so there is no re-opening step). If the revised plan departs from what the Novel-Part Spec's entry fixes, you are asked, for each such departure, whether to amend the plan or keep the original entry as the plan baseline, and a variance note is left on the Novel-Part Spec and on the Section Spec either way; adding, dropping or re-planning Areas is never such a departure.</li>
+          <li>Go back first: the Chapter's Area files are moved to the archive folder with a timestamp (never deleted), and the ledgers (the calendar ledger included), plan statuses and score tracker roll back to the end of the previous Chapter.</li>
+          <li>Run <code>/next-area</code> one Area at a time through every Area the re-confirmed spec plans.</li>
+          <li>Run <code>/force-ledger-audit</code> once fully redrafted (a plain reconciliation).</li>
+        </ol>
+        <div class="fail"><b>Abort:</b> confirm scope (exactly this Chapter) before archiving/rebuilding.</div>
+        <div class="invokes"><span class="argh">/chapter-spec</span><span>→</span><span class="pill">outline-planner</span><span>→</span><span class="pill">continuity-checker</span><span class="pill">area-scorer</span><span>→</span><span class="argh">/next-area</span> ×N<span>→</span><span class="argh">/force-ledger-audit</span></div>
+        <div class="fail"><b>Whole-built Chapter (Amended 2026-10-07):</b> a Chapter built by <code>/create-chapter</code> is archived and rebuilt by running <code>/create-chapter</code> again, not <code>/next-area</code>.</div>
+      </div>
+
+      <div class="card" data-cat="revise">
+        <div class="card-head"><h3 class="card-title">/revise-chapter</h3><span class="badge cat-revise">C-43</span></div>
+        <div class="kv"><span class="argh">token: [REVISE CHAPTER] · arg: one change request</span></div>
+        <p class="card-desc">Revise one whole-built Chapter in place (Amended 2026-10-07). It refuses an Area-built Chapter (use <code>/revise-area</code>).</p>
+        <ol class="seq">
+          <li>Take one change request for the Chapter; the <b>chapter-editor</b> edits the written Chapter text in a staged copy.</li>
+          <li>Gate 1 re-runs in full on it (both checker instances); the staged text is printed and you confirm with <code>[CONFIRM WRITE]</code>, <code>[REVISE CHAPTER]</code> or <code>[SKIP WRITE]</code>.</li>
+          <li>On confirm: the old pair is archived (a plain file move into the archive folder), the new pair is written with the script's overwrite flag, and the affected Gate 2 lanes (audit, ledger, score) re-run together.</li>
+        </ol>
+        <div class="invokes"><span class="pill">chapter-editor</span><span>→</span><span class="pill">continuity-checker</span><span class="pill">area-scorer</span></div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ================= AUDIT & LEDGER ================= -->
+  <section id="audit">
+    <div class="section-head">
+      <p class="eyebrow">Verification &amp; Story-Memory</p>
+      <h2>Audit &amp; Ledger Commands</h2>
+      <p class="section-desc">
+        These invoke <b>continuity-checker</b> outside the normal Gate 1/Gate 2 flow — for a
+        targeted check, a full-system sweep, or a manual ledger correction.
+        <code>/run-canon-audit</code> is the general escalation target referenced throughout
+        the guardrails whenever any agent or command detects an unresolved conflict.
+      </p>
+    </div>
+
+    <div class="grid cols-3">
+
+      <div class="card" data-cat="audit">
+        <div class="card-head"><h3 class="card-title">/run-canon-audit</h3><span class="badge cat-audit">C-10</span></div>
+        <div class="kv"><span class="argh">arg: chapter or section for the FCIA pass</span></div>
+        <p class="card-desc">Full canon audit — CCIA + FCIA + ALCA — across all skills, guardrails and ledgers, and the written Areas of the Chapter or Section you name. The escalation target for any unresolved conflict.</p>
+        <ol class="seq">
+          <li>Invoke <b>continuity-checker</b>: CCIA — governance/structure integrity.</li>
+          <li>Invoke <b>continuity-checker</b>: FCIA — the written Areas of the Chapter or Section you name (the current Section when none is named).</li>
+          <li>Invoke <b>continuity-checker</b>: ALCA Mode B — across all ledger folders.</li>
+          <li>Calibration check, only when the audit follows a change to an agent file or to Part 28, 29, 36 or 39 (or when that is not known): a fourth <b>continuity-checker</b> runs the passages in <code>story-memory/calibration/</code> and reports each as CAUGHT or MISSED; a MISSED passage goes to the author and nothing is edited to make it pass.</li>
+          <li>Produce a Unified Audit Summary; log to <code>session-log/</code>.</li>
+        </ol>
+        <div class="fail"><b>Note:</b> any finding implying a structural change is reported for explicit decision, never auto-applied.</div>
+        <div class="invokes"><span class="pill">continuity-checker</span> ×3 (a fourth for the calibration check when it applies)</div>
+      </div>
+
+      <div class="card" data-cat="audit">
+        <div class="card-head"><h3 class="card-title">/force-ledger-audit</h3><span class="badge cat-audit">C-38</span></div>
+        <p class="card-desc">Force a full ledger audit and update across all story-memory folders — reconciles every ledger against all accepted Areas. It has two modes: <b>Gate 2 mode</b>, the scoped Post-Write Ledger Update mandatory at every Gate 2, and <b>standalone mode</b>, the full pass below.</p>
+        <ol class="seq">
+          <li>Standalone: invoke one <b>continuity-checker</b> per ledger folder, in parallel, to read it and every written Area file (never the <code>_archive</code> folder).</li>
+          <li>Verify Baseline (B) fields unmodified, Living (L) fields reflect latest accepted Areas.</li>
+          <li>Regenerate each folder's <code>_index.md</code>. The calendar ledger has no entity files: its Area rows, rollups and Current Position block are rebuilt from the first line of each written <code>.md</code>, each line checked by the dating check of Part 41 Area 6, and a missing line, a wrong weekday or a date that runs backward is shown in the preview as a finding and never as an edit to an Area file.</li>
+          <li>If a new entity type has no ledger folder: flag <code>NEW ENTITY TYPE</code> and stop for direction.</li>
+          <li>Preview all proposed changes and confirm through <code>AskUserQuestion</code> with a Cancel option before writing; the confirming answer names the scope in words.</li>
+          <li><b>Gate 2 mode:</b> one scoped <b>continuity-checker</b>, beside the audit and scorer lanes, reads only the new Area, the entities it names, the previous Area and the active Chapter Spec. It creates ledger files, updates state, adds the Section 10 row, appends Section 12 drift entries, enriches summaries, writes the calendar rows (the Area row, the rollups and the Current Position block) and syncs the Chapter Spec (setting it <code>COMPLETED</code> when its last Area row is written). It never writes a Novel-Part Spec or a Section Spec. No preview: the author's <code>[CONFIRM WRITE]</code> at Gate 1 is the confirmation.</li>
+        </ol>
+        <div class="invokes"><span class="pill">continuity-checker</span></div>
+      </div>
+
+      <div class="card" data-cat="audit">
+        <div class="card-head"><h3 class="card-title">/canon-check</h3><span class="badge cat-audit">C-20</span></div>
+        <div class="kv"><span class="argh">arg: passage or claim</span></div>
+        <p class="card-desc">Check a specific passage or claim against canon without running a full audit — a targeted, single-question version of <code>/run-canon-audit</code>.</p>
+        <ol class="seq">
+          <li>Identify the governing Part(s)/skill(s) via the skill index + domain-ownership guardrail.</li>
+          <li>Invoke <b>continuity-checker</b> to read those Parts' consolidated skills + relevant ledger entries and verify.</li>
+          <li>Report VALID / INVALID with the specific rule cited — or flag genuine ambiguity / Joint Domain rather than forcing a verdict.</li>
+        </ol>
+        <div class="invokes"><span class="pill">continuity-checker</span></div>
+      </div>
+
+      <div class="card" data-cat="audit">
+        <div class="card-head"><h3 class="card-title">/consequence-audit</h3><span class="badge cat-audit">C-18</span></div>
+        <div class="kv"><span class="argh">arg: character name</span></div>
+        <p class="card-desc">Audit a character's consequence arc against the Part 27 Consequence Severity Scale, to verify no consequence was silently evaded.</p>
+        <ol class="seq">
+          <li>Read <code>character-consequence-law</code> — the whole of Part 27.</li>
+          <li>Read the character's ledger Consequence Arc section.</li>
+          <li>Invoke <b>continuity-checker</b>, starting from the character's Canon Events Log rows and reading each cited Area, to verify every consequence has an ongoing state or canon-compliant resolution shown on the page — never a silent disappearance.</li>
+          <li>Report any evaded or under-resolved consequence.</li>
+        </ol>
+        <div class="invokes"><span class="pill">continuity-checker</span></div>
+      </div>
+
+      <div class="card" data-cat="audit">
+        <div class="card-head"><h3 class="card-title">/ideology-audit</h3><span class="badge cat-audit">C-17</span></div>
+        <div class="kv"><span class="argh">arg: character name</span></div>
+        <p class="card-desc">Audit a character's ideology state and history against the Part 20 Ideology Ledger framework.</p>
+        <ol class="seq">
+          <li>Read <code>character-ideology-law</code> — the whole of Part 20.</li>
+          <li>Read the character's ledger entry.</li>
+          <li>Invoke <b>continuity-checker</b>, starting from the character's Canon Events Log rows and reading each cited Area, to verify the ideology arc is internally consistent (no unearned reversal) and the Ideology Ledger section is current.</li>
+          <li>Report findings; flag Area/ledger gaps for a Post-Write Ledger Update.</li>
+        </ol>
+        <div class="invokes"><span class="pill">continuity-checker</span></div>
+      </div>
+
+      <div class="card" data-cat="audit">
+        <div class="card-head"><h3 class="card-title">/update-ledger</h3><span class="badge cat-audit">C-15</span></div>
+        <div class="kv"><span class="argh">arg: entity name</span></div>
+        <p class="card-desc">Manually update a specific entity's ledger entry outside the normal post-write flow — e.g. to correct or enrich a field directly.</p>
+        <ol class="seq">
+          <li>Invoke <b>continuity-checker</b> to read the entity's current ledger file.</li>
+          <li>Confirm the change: enriching a blank/Living field is fine; contradicting a Baseline (B) field needs a formal Canon Amendment instead.</li>
+          <li>Apply the change; update <code>Last Updated</code>/<code>Ledger Version</code>; regenerate the folder's <code>_index.md</code> entry.</li>
+        </ol>
+        <div class="fail"><b>Note:</b> never silently contradict a Baseline field — surface it as an amendment decision.</div>
+        <div class="invokes"><span class="pill">continuity-checker</span></div>
+      </div>
+
+      <div class="card" data-cat="audit">
+        <div class="card-head"><h3 class="card-title">/new-character</h3><span class="badge cat-audit">Parts 17-19, 40</span></div>
+        <div class="kv"><span class="argh">arg: name, role (hero | villain | tier-a | tier-b | monster-kind | monster)</span></div>
+        <p class="card-desc">Builds the baseline record of a new hero, villain, Tier A or Tier B character, or a monster Kind or monster Individual, before they first appear. An interview through <code>AskUserQuestion</code> (Part 18 Area 7.2 Steps 1 to 5 for a villain, Part 17 Area 2.3 for a hero, Part 19 Area 6 for a side character, Part 40 Areas 2 to 8 for a monster) writes Character Ledger Sections 1 to 10, then points to <code>/character-behavior</code> for Sections 11 and 12 (a non-sentient monster needs no further step).</p>
+        <ol class="seq">
+          <li><b>Ground</b>: confirm the name has no ledger yet (otherwise use <code>/update-ledger</code>) and read the Part 37 template for the role.</li>
+          <li><b>Ask</b>: the role's interview, in rounds of up to four questions. For any story fact the author may answer "let the first Area decide".</li>
+          <li><b>Digest</b> for plain-language override, then <b>write</b> Sections 1 to 10 and the folder index row, and <b>verify</b>.</li>
+        </ol>
+        <div class="fail"><b>Note:</b> the Pre-Write Ledger Check refuses a first appearance of a hero, villain, Tier A or Tier B person, Tier A or B monster, or any sentient monster who has no such record. A Tier D person is excepted.</div>
+      </div>
+
+      <div class="card" data-cat="audit">
+        <div class="card-head"><h3 class="card-title">/character-behavior</h3><span class="badge cat-audit">Part 39</span></div>
+        <div class="kv"><span class="argh">arg: character name [| --review | --status | --derive-all]</span></div>
+        <p class="card-desc">Registers or re-registers a character's Part 39 Behavioral Signature (the 36-Layer behavioral profile) through an interview against the coded option catalog, then writes Character Ledger Section 11 (Behavioral Signature) and creates Section 12 (Behavioral Evolution Log). <code>--review</code> re-presents the derived-value digest for override; <code>--status</code> is a read-only completeness report; <code>--derive-all</code> is an opt-in route with no asked rounds, where every dimension is derived with its evidence and you edit once, in the digest.</p>
+        <ol class="seq">
+          <li><b>Ground</b> and <b>derive</b>: read the character's ledger, cross-referenced ledgers and collective codes, then derive a value for all 291 dimensions with inline evidence.</li>
+          <li><b>Ask</b>: identity core first, then one defining dimension per Layer and the drift entries, through <code>AskUserQuestion</code>.</li>
+          <li><b>Digest</b> for plain-language override, then <b>write</b> Sections 11 and 12 and <b>verify</b> Layer count, Signature spread and usual drift entries, each reported as information.</li>
+        </ol>
+        <div class="fail"><b>Note:</b> nothing is written until the digest is accepted, and a partial Section 11 blocks the character from an acting appearance.</div>
+      </div>
+
+      <div class="card" data-cat="audit">
+        <div class="card-head"><h3 class="card-title">/section-spec</h3><span class="badge cat-audit">C-40</span></div>
+        <div class="kv"><span class="argh">arg: build | revise | show | complete, then a Section reference such as 1.2</span></div>
+        <p class="card-desc">Build, revise, show, or complete a Section Spec — the first link of the spec chain: the plan of one Section, made against what the macro-story law (Part 30) expects of it and expanded, through your answers, into the Section's Novel-Parts and Chapters at a high level. A spec is planning input, never established canon: the ledger supersedes it on any conflict.</p>
+        <ol class="seq">
+          <li>Read the whole of Part 30 every time, then print in chat what Part 30 expects of this Section, with Locked and Negotiable marked. The spec file keeps only citations of those expectations, never copied text, and reads as plain plan text: every settled item, open item, deferral, ruling and audit note is collected in its final section, Audit and Settlement Notes. If Part 30 has no entry for the Section, the command refuses and says Part 30 must be expanded first (there is no Phase Spec; Part 30 is the Phase-level plan).</li>
+          <li>Invoke <b>outline-planner</b> to draft the Section's plan (the arc, a plan for each Novel-Part with a high-level Chapter list, threads and setups as guides, the arc of each protagonist, progression, opposition, hand-off) and run the Decision Consultation Gate. The Section's own epigraph (the line its first title page prints) is asked here and never written by an agent; Section 1 carries its own, and its title page also shows the Phase epigraph from Part 30 above it; there the command also tells you what that Part 30 line reads and offers to give or change it, and writes it into Part 30 only after you say yes. Every Part 30 row still waiting on an author answer for this Section is put to you, and you may answer "let the first Area decide".</li>
+          <li>Keep asking until no branch at Section level is left unasked; a final sweep by <b>outline-planner</b> and <b>continuity-checker</b> (which re-lists every SKIP and deferral) finds nothing new; and you give a plain "nothing further to steer". Only then the light audit is shown and <code>[CONFIRM SPEC]</code> locks it. There is no quick mode.</li>
+          <li><code>complete</code> is normally reached through <code>/next-section</code>, which asks "Has this Section finished?"; a yes writes the final variance summary, the Reader-now-knows line and the Section digest. A completed spec stays a living record.</li>
+        </ol>
+        <div class="fail"><b>Chain and timing:</b> built at the boundary by <code>/start-story</code> and <code>/next-section</code>; you may also build a later Section Spec ahead of time, and it is checked against reality when its turn comes. <code>[SKIP SPEC]</code> saves a draft and stops the chain there. A <code>revise</code> of a Section Spec that already has children reports every Novel-Part and Chapter entry the change no longer fits, and you choose for each: keep it, amend it, or mark it for re-confirmation. Adding, removing or reordering Novel-Parts is a substantial change that needs a fresh <code>[CONFIRM SPEC]</code>; adding or dropping a Chapter in a Novel-Part's guide list is light. The variance notes that the Novel-Part Specs and Chapter Specs below have left on it are shown at every <code>revise</code> and <code>show</code>.</div>
+        <div class="fail"><b>Calendar (Part 41):</b> the Section's calendar window is written as dates plus Phase Day, converted by Part 41 Area 4 from the Part 30 anchor and checked before it is written; Part 41 is cited, never copied.</div>
+        <div class="invokes"><span class="pill">outline-planner</span><span>→</span><span class="pill">continuity-checker</span><span>→</span><span class="argh">/part-spec</span></div>
+      </div>
+
+      <div class="card" data-cat="audit">
+        <div class="card-head"><h3 class="card-title">/part-spec</h3><span class="badge cat-audit">C-41</span></div>
+        <div class="kv"><span class="argh">arg: build | revise | show | complete, then a Novel-Part reference such as 1.2.3</span></div>
+        <p class="card-desc">Build, revise, show, or complete a Novel-Part Spec — the middle link of the spec chain: it lists every Chapter of one Novel-Part in depth, so the story line across the Chapters is decided before any one Chapter is planned scene by scene. ("Part" in the command name means a Novel-Part, never a canon-law Part such as Part 38.) Planning input, never established canon.</p>
+        <ol class="seq">
+          <li>Needs a <code>CONFIRMED</code> (or <code>COMPLETED</code>) Section Spec; a draft, awaiting-reconfirm or retired Section Spec refuses the build and names <code>/section-spec</code>. The whole Section Spec is read in full, and its entry for this Novel-Part pre-fills the draft, each pre-filled value recorded with its source in the spec's Audit and Settlement Notes. If the Section Spec has no entry for the Novel-Part, the command stops and sends you to <code>/section-spec</code> <b>revise</b> (adding a Novel-Part is a substantial change to the Section Spec); nothing is built under a Novel-Part the Section Spec does not know.</li>
+          <li>Invoke <b>outline-planner</b> and run the Decision Consultation Gate on the Novel-Part's frame and thematic direction, then on every Chapter: purpose, calendar window, threads in and out, who is on the page (all eight protagonists accounted for), key events, reveals and payoffs owed, opening hook, closing beat and a one-line outline of its Areas (descriptors only: no types, no sizes, no pacing). Then the cut and cliffhanger plan across Chapters and the hand-off to the next Novel-Part.</li>
+          <li>Keep asking until nothing at Novel-Part level is left unasked, a final sweep by <b>outline-planner</b> and <b>continuity-checker</b> finds nothing new, and you give a plain "nothing further to steer". The light audit is shown, then <code>[CONFIRM SPEC]</code> locks it. No question asks how many Chapters there should be; the Chapter list is the plan. There is no quick mode.</li>
+          <li><code>complete</code> is normally reached through <code>/next-part</code> or <code>/next-section</code> ("Has this Novel-Part finished?"); a yes writes the final variance summary, the Reader-now-knows line, the digest and the threads carried on.</li>
+        </ol>
+        <div class="fail"><b>Chain and timing:</b> built at the boundary by <code>/start-story</code>, <code>/next-section</code> and <code>/next-part</code>, or ahead of time on request. Changes to the Chapter list or departures from the Section Spec's entry are shown at the confirm, and a variance note is left on the Section Spec either way, and for each you choose to keep the Section Spec's original as the plan baseline or to amend the Section Spec to match, which can only be done through <code>/section-spec</code> <b>revise</b> (the Novel-Part Spec is never saved as a draft because of that answer). A Chapter Spec's departure from a Chapter entry is noted on this spec and on the Section Spec. A Chapter entry added later is a short round and a light amendment: when a Chapter build finds none, the entry gets its own <code>[CONFIRM SPEC]</code> and is written at once; from <code>/part-spec</code> <b>revise</b> it is written on your sign-off. <code>[SKIP SPEC]</code> saves a draft and stops the chain there.</div>
+        <div class="fail"><b>Calendar (Part 41):</b> the Novel-Part window and each Chapter's calendar window are written as dates plus Phase Day inside the Section window, and the hand-off to the next Novel-Part names the last dated moment.</div>
+        <div class="invokes"><span class="argh">/section-spec</span><span>→</span><span class="pill">outline-planner</span><span>→</span><span class="pill">continuity-checker</span><span>→</span><span class="argh">/chapter-spec</span></div>
+      </div>
+
+      <div class="card" data-cat="audit">
+        <div class="card-head"><h3 class="card-title">/chapter-spec</h3><span class="badge cat-audit">C-39</span></div>
+        <div class="kv"><span class="argh">arg: build | revise | show | complete, then a Chapter reference</span></div>
+        <p class="card-desc">Build, revise, show, or complete a per-Chapter story specification — the last link of the spec chain, and the author-confirmed plan every Area in the Chapter is written against. A spec is planning input, never established canon: the ledger supersedes it on any conflict.</p>
+        <ol class="seq">
+          <li>Needs its Novel-Part Spec and its Section Spec both <code>CONFIRMED</code> (or <code>COMPLETED</code>), and the Chapter needs an entry in the Novel-Part Spec. A missing entry stops the command and offers to add one as a short amendment first; that entry gets its own <code>[CONFIRM SPEC]</code> and is written at once, and only then does the Chapter build begin. The Chapter header is pre-filled from that entry, and what the upper specs settled is carried in, recorded with its source in the spec's Audit and Settlement Notes, and not asked again.</li>
+          <li>Invoke <b>outline-planner</b> to draft each Area's block (the plan of one written Area: its size target of 1,600, 1,800 or 2,000 words, its pacing, opening and closing type, scene anchors, carry-over, thread, setups and payoffs, emotional line) against the Part 30 macro-arc.</li>
+          <li>Run the Decision Consultation Gate until nothing is left unasked. The body of the spec reads as plain plan text and carries no inline tags: every settled item, open item, deferral, ruling, variance and audit note is collected in the final section, Audit and Settlement Notes, each pointing back to the plan item it concerns. A question you defer to the writing is recorded there as an open item that the writing-time gate asks. A final sweep and your "nothing further to steer" come before the token. There is no quick mode.</li>
+          <li><code>[CONFIRM SPEC]</code> locks it. From then on the Chapter header governs the writing, and the Novel-Part Spec entry stays the plan baseline; a departure from what that entry fixes is shown at the confirm and logged as a variance note on the Novel-Part Spec and on the Section Spec, written top-down in one step, and for each departure you choose to amend the Novel-Part entry or keep it as the plan baseline. Gate 1 Check #18 then asks whether the whole chain is in force and compares every drafted Area and the Chapter so far against this spec, showing a plan-versus-written list.</li>
+          <li><code>complete</code> checks that every Area row is written (or dropped with a variance note), asks you what to do with open items, unpaid setups and unresolved cliffhangers (resolve, carry forward, or mark lapsed, lapsed only on your answer), then writes the final variance summary, the Reader-now-knows line and the Chapter digest, and sets <code>COMPLETED</code>. A completed spec stays living: <code>revise</code> works any time.</li>
+        </ol>
+        <div class="fail"><b>Reset behaviour:</b> specs of all three kinds survive every reset and rewind except <code>/hard-reset</code>, which deletes every one (Part 38 Rule 7.1.2). When a rewind or reset removes a written Area, a <code>COMPLETED</code> spec returns to <code>CONFIRMED</code>.</div>
+        <div class="fail"><b>Calendar (Part 41):</b> the Chapter window and each Area's in-story time are dates plus Phase Day inside the Novel-Part window, each Area beginning on or after the last day of the Area before it (a flashback, memory, dream or vision, or a planned cut to another thread, excepted); the as-built in-story time written at Gate 2 mirrors the date line and the calendar ledger, which owns the recorded date.</div>
+        <div class="invokes"><span class="argh">/part-spec</span><span>→</span><span class="pill">outline-planner</span><span>→</span><span class="pill">continuity-checker</span></div>
+      </div>
+
+    </div>
+
+    <div class="grid cols-2" style="margin-top:14px;">
+      <div class="card" data-cat="readonly">
+        <div class="card-head"><h3 class="card-title">/review-ledger</h3><span class="badges"><span class="badge cat-audit">C-14</span><span class="badge cat-readonly">👁 read-only</span></span></div>
+        <div class="kv"><span class="argh">arg: entity name</span></div>
+        <p class="card-desc">Display an entity's current ledger state in full.</p>
+        <ol class="seq">
+          <li>Locate the entity's ledger file across <code>ledger-*/</code> via the registries or the ledger-architecture map.</li>
+          <li>Read and display in full, noting Baseline (B) vs Living (L) fields.</li>
+          <li>Flag anything "not yet established" so gaps stay visible.</li>
+        </ol>
+      </div>
+      <div class="card" data-cat="audit">
+        <div class="card-head"><h3 class="card-title">/load-canon</h3><span class="badges"><span class="badge cat-audit">C-35</span><span class="badge cat-readonly">👁 read-only</span></span></div>
+        <p class="card-desc">Read-only session initialization — loads the guardrails, the canon manifest, the story-memory ledger indexes, the story-spec registry, the active Section Spec, Novel-Part Spec and Chapter Spec (each read in full; this is a full-state refresh, not the shorter per-Area read set), and the current position with the written Areas of the current Chapter and the last Chapter (all other Areas are listed by file name) to establish full current state. Use at session start, or any time you want a full-state refresh rather than trusting conversational memory.</p>
+        <ol class="seq">
+          <li>Read the guardrails index and every guardrail file beneath it.</li>
+          <li>Read <code>canon-manifest/skill-index.json</code> and the other manifest files in full.</li>
+          <li>Read every <code>ledger-*/_index.md</code> and the story-spec registry (its three tables), then, in one parallel batch, the active Section Spec, the active Novel-Part Spec and the active Chapter Spec, each in full (the active spec of a tier is the first one not <code>COMPLETED</code>; a <code>RETIRED</code> spec is skipped).</li>
+          <li>Read the current position, the written Areas of the current Chapter and the last completed Chapter; list the rest of the written Areas by file name.</li>
+          <li>Report a brief summary, including the chain (the Ref and status of each active spec, and the first missing link with the command that repairs it, or "chain in force") — drafts, audits, or plans nothing.</li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= EXPORT & COMPILE ================= -->
+  <section id="export">
+    <div class="section-head">
+      <p class="eyebrow">Turns Accepted Areas Into Files</p>
+      <h2>Export &amp; Compile Commands</h2>
+      <p class="section-desc">
+        Two tracks that both start at <code>/chapter-builder</code>, which condenses a finished
+        Chapter's Areas, lets the author review the result, then writes the Chapter <code>.docx</code>
+        and <code>.md</code> into the Novel-Part folder. The compile commands only join those Chapter
+        files and never condense.
+      </p>
+    </div>
+
+    <div class="chain">
+      <div class="node" style="background:var(--export-bg);border-color:var(--export-border);color:var(--export);">/chapter-builder (.docx + .md)</div>
+      <span class="arrow">→</span>
+      <div class="node" style="background:var(--export-bg);border-color:var(--export-border);color:var(--export);">/compile-phase (.docx)</div>
+      <span class="arrow">→</span>
+      <div class="node" style="background:var(--export-bg);border-color:var(--export-border);color:var(--export);">/compile-novel</div>
+    </div>
+    <div class="chain">
+      <div class="node dim">per-Chapter .md files</div>
+      <span class="arrow">→</span>
+      <div class="node" style="background:var(--export-bg);border-color:var(--export-border);color:var(--export);">/compile-phase-md (.md)</div>
+      <span class="arrow">→</span>
+      <div class="node" style="background:var(--export-bg);border-color:var(--export-border);color:var(--export);">/compile-novel-md (.md)</div>
+    </div>
+
+    <div class="grid cols-3">
+
+      <div class="card" data-cat="export">
+        <div class="card-head"><h3 class="card-title">/chapter-builder</h3><span class="badge cat-export">C-24</span></div>
+        <p class="card-desc">Condense a finished Chapter's Areas into one Chapter text (50% to 60% of the Areas' characters), review it with the author, then write <code>Chapter NNN - Name.md</code> and <code>.docx</code> into the Novel-Part folder, via the authorized script exclusively. Replaces the retired <code>/export-chapter</code>.</p>
+        <ol class="seq">
+          <li>Confirm every Area row of the Chapter Spec is terminal and its Area file is present, and ask before replacing an existing Chapter file.</li>
+          <li>The Area Maker condenses the Areas into one text staged in <code>.claude/temp/</code>, keeping every beat, name, planted setup and the closing beat, with <code>---</code> between scenes and the date line shown once and again only when the date changes. The script measures it against the length band.</li>
+          <li>The continuity-checker audits the staged text against the Chapter Spec and the Areas; the author reviews and confirms in words.</li>
+          <li>On confirmation, <code>chapter_builder.py</code> writes the <code>.md</code> and <code>.docx</code> together into the Novel-Part folder, then the staged file is removed and the paths are reported.</li>
+        </ol>
+        <div class="fail"><b>Abort:</b> do not build a Chapter with unfinished Areas, with a text outside the length band, or without the author's confirmation.</div>
+      </div>
+
+      <div class="card" data-cat="export">
+        <div class="card-head"><h3 class="card-title">/compile-phase</h3><span class="badge cat-export">C-25</span></div>
+        <p class="card-desc">Assemble an entire Phase's Chapters into a single compiled <code>.docx</code> by joining the Chapter files.</p>
+        <ol class="seq">
+          <li>Confirm every Chapter in the Phase has a Chapter file written by <code>/chapter-builder</code> (build any that are missing).</li>
+          <li>Join the Chapter <code>.docx</code> files in order, prefixed with the Phase title page and icon and a contents page built from the Chapter names.</li>
+          <li>Report the output path.</li>
+        </ol>
+      </div>
+
+      <div class="card" data-cat="export">
+        <div class="card-head"><h3 class="card-title">/compile-phase-md</h3><span class="badge cat-export">C-26</span></div>
+        <p class="card-desc">Markdown counterpart to <code>/compile-phase</code> — assembles an entire Phase's Chapters into a single compiled Markdown file.</p>
+        <ol class="seq">
+          <li>Confirm every Chapter has an up-to-date <code>Chapter NNN - Name.md</code> (run <code>/chapter-builder</code> for any missing or stale).</li>
+          <li>Join the Chapter <code>.md</code> files in Section, Novel-Part and Chapter order (numbers sorted as integers).</li>
+          <li>Report the output path.</li>
+        </ol>
+      </div>
+
+      <div class="card" data-cat="export">
+        <div class="card-head"><h3 class="card-title">/compile-novel</h3><span class="badge cat-export">C-27</span></div>
+        <p class="card-desc">Assemble every completed Phase into a single full-novel compiled document — the largest-scope compile. Confirm this is genuinely intended before running; most sessions want <code>/chapter-builder</code> or <code>/compile-phase</code> instead.</p>
+        <ol class="seq">
+          <li>Confirm every Phase to be included is fully compiled via <code>/compile-phase</code>.</li>
+          <li>Concatenate the already-compiled Phase-level documents in order, with one contents page built from the Chapter names of the whole novel.</li>
+          <li>Report the output path.</li>
+        </ol>
+      </div>
+
+      <div class="card" data-cat="export">
+        <div class="card-head"><h3 class="card-title">/compile-novel-md</h3><span class="badge cat-export">Markdown</span></div>
+        <p class="card-desc">Markdown counterpart to <code>/compile-novel</code> — joins every Phase's <code>phase-N-complete.md</code> into a single full-novel Markdown file, <code>starward-saga-complete.md</code>. The largest-scope compile; confirm it is genuinely intended before running.</p>
+        <ol class="seq">
+          <li>Confirm every Phase has an up-to-date <code>phase-N-complete.md</code> from <code>/compile-phase-md</code> (compile any that is missing or stale).</li>
+          <li>Concatenate the Phase-level <code>.md</code> files in Phase order.</li>
+          <li>Report the output path.</li>
+        </ol>
+      </div>
+
+      <div class="card" data-cat="export">
+        <div class="card-head"><h3 class="card-title">/create-image-phase</h3><span class="badge cat-export">C-36</span></div>
+        <div class="kv"><span class="argh">arg: phase number</span></div>
+        <p class="card-desc">Generate the phase icon (PNG+SVG) via <code>saga_image_creator.py</code> exclusively.</p>
+        <ol class="seq">
+          <li>Confirm Phase name/number, a short descriptive prompt and the mode: <code>svg</code> (no key; writes PNG and SVG; the PNG needs <code>cairosvg</code>) or <code>openai</code> (needs <code>OPENAI_API_KEY</code>; sends the prompt to an outside service; writes the PNG only).</li>
+          <li>Run <code>saga_image_creator.py phase --phase N --name "…" --mode &lt;svg|openai&gt; --prompt "…"</code>; the script's own default mode is <code>openai</code>, which fails without a key.</li>
+          <li>Confirm output at <code>phase-N/phase-icon.{png,svg}</code> (PNG only in <code>openai</code> mode).</li>
+        </ol>
+      </div>
+
+      <div class="card" data-cat="export">
+        <div class="card-head"><h3 class="card-title">/create-image-section</h3><span class="badge cat-export">C-37</span></div>
+        <div class="kv"><span class="argh">arg: phase + section number</span></div>
+        <p class="card-desc">Generate the section icon (PNG+SVG) via <code>saga_image_creator.py</code> exclusively.</p>
+        <ol class="seq">
+          <li>Confirm Phase/Section numbers, name, a short descriptive prompt and the mode: <code>svg</code> (no key; writes PNG and SVG; the PNG needs <code>cairosvg</code>) or <code>openai</code> (needs <code>OPENAI_API_KEY</code>; sends the prompt to an outside service; writes the PNG only).</li>
+          <li>Run <code>saga_image_creator.py section --phase N --section M --name "…" --mode &lt;svg|openai&gt; --prompt "…"</code>; the script's own default mode is <code>openai</code>, which fails without a key.</li>
+          <li>Confirm output at <code>phase-N/section-M/section-icon.{png,svg}</code> (PNG only in <code>openai</code> mode).</li>
+        </ol>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ================= READ-ONLY ================= -->
+  <section id="readonly">
+    <div class="section-head">
+      <p class="eyebrow">Changes Nothing</p>
+      <h2>Read-Only / Reporting Commands</h2>
+      <p class="section-desc">
+        Safe to run any time. All of them read from disk rather than conversational memory —
+        per the standing rule that the session log is a trace, never a canon source.
+      </p>
+    </div>
+
+    <div class="grid cols-3">
+
+      <div class="card" data-cat="readonly">
+        <div class="card-head"><h3 class="card-title">/status</h3><span class="badge cat-readonly">C-13</span></div>
+        <p class="card-desc">Reports current position (Phase/Section/Novel-Part/Chapter/Area), the story clock (the date of the last written Area, read from the Current Position block of the calendar ledger and shown in the form of the date line with its Phase Day; before any Area is written, Day One: Year 1247, Ilovany, Orvil, Day 1; Part 41), the spec chain, open ledger obligations, and Section density trend.</p>
+        <ol class="seq">
+          <li>Read what is written on disk. The position is the next Area: the first <code>PLANNED</code> or <code>DRAFTED</code> row of the Chapter Spec (shown as redraft in progress when later Areas sit on disk).</li>
+          <li>Read ledger indexes for any pending Post-Write Ledger Update obligation.</li>
+          <li>Read the Section's tracker file and quote its running aggregate and Anchor Floor table as stored, showing each category's reading against its range; <b>area-scorer</b> runs only when you ask for a rescore.</li>
+          <li>Report position, obligations, the Chapter's Area progress (written and planned; when the last Area is written, the next command: <code>/next-chapter</code>), the POV count per hero for the Section (informational), density trend, and outstanding variances from the spec variance log, including the variance notes that lower specs have left on the Novel-Part Spec and the Section Spec (shown as stored, never re-judged). For the spec chain it also shows each link with its Ref and status (the active Section, Novel-Part and Chapter is the first spec in its tier that is not <code>COMPLETED</code>; a <code>RETIRED</code> spec is skipped); a chain flag naming the first link that is missing, <code>DRAFT</code>, <code>AMENDED-PENDING-RECONFIRM</code> or <code>RETIRED</code> (for example "no confirmed Novel-Part Spec for 1.2.3") together with the command that repairs it (<code>/section-spec</code>, <code>/part-spec</code> or <code>/chapter-spec</code>), or "chain in force"; the Chapter-list progress (each Chapter entry of the active Novel-Part Spec with the status of its Chapter Spec as the registry holds it, a live count of Chapters completed out of those listed, and the same count of Novel-Parts for the Section; information only, no target); and each active spec's stored coverage figure with its last-updated date (it can trail the live count, which is the one to read).</li>
+        </ol>
+      </div>
+
+      <div class="card" data-cat="readonly">
+        <div class="card-head"><h3 class="card-title">/chapter-summary</h3><span class="badge cat-readonly">C-32</span></div>
+        <div class="kv"><span class="argh">arg: chapter reference (optional)</span></div>
+        <p class="card-desc">Summarize the current or a specified Chapter's events, without reproducing full text. Drawn from written Area files and ledger Events Log sections — not conversational memory. When the Chapter's spec is <code>COMPLETED</code>, its completion digest can be quoted beside the summary, with the Novel-Part's digest line on request.</p>
+      </div>
+
+      <div class="card" data-cat="readonly">
+        <div class="card-head"><h3 class="card-title">/character-sheet</h3><span class="badge cat-readonly">C-19</span></div>
+        <div class="kv"><span class="argh">arg: character name</span></div>
+        <p class="card-desc">Produces a readable summary character sheet from the ledger entry — identity, classification, power/capability, ideology, psychology, consequence arc, relationships, resources, narrative role, recent events. A human-friendly synthesis of <code>/review-ledger</code>'s raw data; does not alter the ledger.</p>
+      </div>
+
+      <div class="card" data-cat="readonly">
+        <div class="card-head"><h3 class="card-title">/area-history</h3><span class="badge cat-readonly">C-33</span></div>
+        <div class="kv"><span class="argh">arg: N</span></div>
+        <p class="card-desc">Lists the last N written Areas with their references and one-line descriptions, sourced from actual file listings.</p>
+      </div>
+
+      <div class="card" data-cat="readonly">
+        <div class="card-head"><h3 class="card-title">/preview-chapter</h3><span class="badge cat-readonly">C-31</span></div>
+        <p class="card-desc">Assembles the current Chapter's already-written Areas in order for review, shown as the reader will see them (each Area with its Area Title Block), without writing/concatenating an output document. See <code>/chapter-builder</code> for the real file output.</p>
+      </div>
+
+      <div class="card" data-cat="readonly">
+        <div class="card-head"><h3 class="card-title">/find</h3><span class="badge cat-readonly">👁 read-only</span></div>
+        <div class="kv"><span class="argh">arg: name or phrase</span></div>
+        <p class="card-desc">Searches the written Areas and the ledgers for a name or phrase and lists each hit with its Reference Code or ledger section. Skips <code>_archive</code>. Specs (Section, Novel-Part and Chapter) are plans, not canon, so they are not searched.</p>
+      </div>
+
+      <div class="card" data-cat="readonly">
+        <div class="card-head"><h3 class="card-title">/timeline</h3><span class="badge cat-readonly">👁 read-only</span></div>
+        <div class="kv"><span class="argh">arg: section (optional)</span></div>
+        <p class="card-desc">Shows a Section's in-story timeline from the spec chain and the calendar ledger: the Section's and each Novel-Part's calendar window beside each Chapter's calendar window, as dates plus Phase Day, and each Area's place, in-story time, recorded dates and planned time skips; the recorded dates are read beside the plan (Part 41). Open dates, out-of-order Areas, dates outside the window, a recorded date that runs backward, and a written Area with no calendar row or whose first line is not a date line are noted for information only.</p>
+      </div>
+
+      <div class="card" data-cat="readonly">
+        <div class="card-head"><h3 class="card-title">/threads</h3><span class="badge cat-readonly">👁 read-only</span></div>
+        <p class="card-desc">Takes no argument. Lists, across all specs of all three kinds (Section, Novel-Part and Chapter), in story order, the setups planted and not yet paid off, the cliffhangers and open questions not yet resolved, and the threads carried between Chapters, with the plan lines of the Section Spec and Novel-Part Spec set beside what has actually happened. The plan lines are guides: this is information only and nothing here blocks or asks.</p>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ================= DESTRUCTIVE ================= -->
+  <section id="danger">
+    <div class="section-head">
+      <p class="eyebrow">⚠ Destructive — Human-Invocation Only</p>
+      <h2>Reset &amp; Rewind Commands</h2>
+      <p class="section-desc">
+        Every command here carries <code>disable-model-invocation: true</code> — an agent can
+        never infer or auto-trigger one of these; they only run from an explicit human
+        slash-command invocation in the current turn, and each requires an explicit
+        confirmation before touching anything.
+      </p>
+    </div>
+
+    <div class="grid cols-3">
+
+      <div class="card" data-cat="danger">
+        <div class="card-head"><h3 class="card-title">/hard-reset</h3><span class="badges"><span class="badge cat-danger">C-1</span><span class="badge cat-danger" role="img" aria-label="Human-only command">🔒</span></span></div>
+        <p class="card-desc">The most destructive command in the system. Full wipe: all written Areas (the exported chapter, phase and novel files included), every spec (Section Specs, Novel-Part Specs and Chapter Specs) and the spec registry rows, all session logs, all agent memory, every density score, and every ledger's event log and Area citations (the recorded tables of the calendar ledger included; its Baseline tables stay). <b>No ledger entity file is ever deleted</b> — side-character files included. The ledger keeps describing the world; it stops recording the story.</p>
+        <ol class="seq">
+          <li>First ask, with a Cancel option, that you commit or copy <code>projects/</code> and <code>story-memory/</code>; then run <code>reset_story.py --dry-run</code> (it writes nothing), show the counts, and confirm explicitly with a Cancel option, stating plainly what will be erased; the confirming answer names the scope in words.</li>
+          <li>Run <code>reset_story.py</code> with no flags — the full wipe — and invoke <b>area-scorer</b> to return the CDL-2 density tracker to its empty template.</li>
+          <li>Resolve the script's REVIEW REQUIRED report via parallel <b>continuity-checker</b> calls: keep the fact, drop the Area provenance.</li>
+          <li>Verify zero Area references remain, then <b>stop</b>. It does not chain into <code>/start-story</code>.</li>
+        </ol>
+        <div class="invokes"><span class="argh">reset_story.py</span><span>→</span><span class="pill">continuity-checker</span><span class="pill">area-scorer</span></div>
+      </div>
+
+      <div class="card" data-cat="danger">
+        <div class="card-head"><h3 class="card-title">/reset-story</h3><span class="badges"><span class="badge cat-danger">C-21</span><span class="badge cat-danger" role="img" aria-label="Human-only command">🔒</span></span></div>
+        <p class="card-desc">Clears written Areas <b>and</b> every ledger's Area record in one pass. Unlike <code>/hard-reset</code>, all three kinds of spec survive with their statuses rolled back (Part 38 Rule 7.1.1; a <code>COMPLETED</code> spec returns to <code>CONFIRMED</code>) and agent memory is untouched. Canon skills, guardrails, and the canon-manifest are never touched by any reset. The calendar ledger's recorded tables and Current Position row are emptied by the script (they sit under "Events Log" headings) and its Baseline tables stay, so the story clock returns to Day One (Part 41).</p>
+        <ol class="seq">
+          <li>First ask, with a Cancel option, that you commit or copy <code>projects/</code> and <code>story-memory/</code>; then run <code>reset_story.py --dry-run --keep-specs --keep-agent-memory</code> (it writes nothing), show the counts, and confirm explicitly with a Cancel option, stating that written Areas, exported files, density scores and ledger data will be reset; the confirming answer names the scope in words.</li>
+          <li>Run <code>reset_story.py --keep-specs --keep-agent-memory</code> (the exported chapter, phase and novel files go with the Areas) and invoke <b>area-scorer</b> to return the CDL-2 density tracker to its empty template.</li>
+          <li>Resolve the REVIEW REQUIRED report via parallel <b>continuity-checker</b> calls.</li>
+          <li>Invoke <b>continuity-checker</b> for the Part 38 spec status rollback.</li>
+        </ol>
+        <div class="invokes"><span class="argh">reset_story.py</span><span>→</span><span class="pill">continuity-checker</span><span class="pill">area-scorer</span></div>
+      </div>
+
+      <div class="card" data-cat="danger">
+        <div class="card-head"><h3 class="card-title">/reset-phase</h3><span class="badges"><span class="badge cat-danger">C-23</span><span class="badge cat-danger" role="img" aria-label="Human-only command">🔒</span></span></div>
+        <div class="kv"><span class="argh">arg: phase number</span></div>
+        <p class="card-desc">Deletes all written Areas in a given Phase only, then re-opens it for a fresh draft.</p>
+        <ol class="seq">
+          <li>Confirm which Phase number, and that all its Areas will be deleted.</li>
+          <li>Delete that Phase's Area files and exported files (icons kept or regenerated per preference).</li>
+          <li>Delete this Phase's archived file pairs under <code>_archive</code>.</li>
+          <li>Invoke <b>continuity-checker</b> to run <code>/force-ledger-audit</code> against the now-shorter record; the calendar ledger rolls back with it, the Phase's recorded rows removed and the Current Position block rewritten from the last surviving Area.</li>
+          <li>Roll back the spec statuses (the specs survive; a <code>COMPLETED</code> spec whose Areas are deleted returns to <code>CONFIRMED</code>).</li>
+        </ol>
+        <div class="invokes"><span class="pill">continuity-checker</span></div>
+      </div>
+
+      <div class="card" data-cat="danger">
+        <div class="card-head"><h3 class="card-title">/reset-chapter</h3><span class="badges"><span class="badge cat-danger">C-22</span><span class="badge cat-danger" role="img" aria-label="Human-only command">🔒</span></span></div>
+        <p class="card-desc">Deletes all written Areas in the current Chapter only, then re-opens it for a fresh draft. Scoped deletion.</p>
+        <ol class="seq">
+          <li>Confirm which Chapter is being reset.</li>
+          <li>Delete the Chapter's Area files and exported files.</li>
+          <li>Delete this Chapter's archived file pairs under <code>_archive</code>.</li>
+          <li>Invoke <b>continuity-checker</b> to run <code>/force-ledger-audit</code> so ledgers don't reference now-deleted content; the Chapter's calendar rows are removed, the rollups recomputed and the Current Position block rewritten.</li>
+          <li>Roll back the spec statuses (the specs survive; a <code>COMPLETED</code> spec whose Areas are deleted returns to <code>CONFIRMED</code>).</li>
+        </ol>
+        <div class="invokes"><span class="pill">continuity-checker</span></div>
+      </div>
+
+      <div class="card" data-cat="danger">
+        <div class="card-head"><h3 class="card-title">/reset-ledgers</h3><span class="badges"><span class="badge cat-danger">C-2</span><span class="badge cat-danger" role="img" aria-label="Human-only command">🔒</span></span></div>
+        <p class="card-desc">Clears every ledger's Area record while keeping its descriptive content, leaving written Areas untouched. Uses the authorized script's <code>--ledgers-only</code> scope rather than re-implementing its logic by hand.</p>
+        <ol class="seq">
+          <li>Confirm explicitly — written Areas are not affected, only ledger entity files.</li>
+          <li>Run <code>reset_story.py --ledgers-only --keep-specs --keep-agent-memory</code> (it empties the calendar ledger's recorded tables and Current Position row and keeps its Baseline tables.</li>
+          <li>Recommend <code>/force-ledger-audit</code> afterward if written Areas already exist, to rebuild from what's actually on the page.</li>
+        </ol>
+      </div>
+
+      <div class="card" data-cat="danger">
+        <div class="card-head"><h3 class="card-title">/rewind-to</h3><span class="badges"><span class="badge cat-danger">C-16</span><span class="badge cat-danger" role="img" aria-label="Human-only command">🔒</span></span></div>
+        <div class="kv"><span class="argh">arg: area, chapter or section reference</span></div>
+        <p class="card-desc">Rolls the story back to a specific prior Area reference, or to the end of a whole Chapter or Section. Everything after it is moved to the archive folder as non-canonical, never deleted; new Areas written forward create fresh files.</p>
+        <ol class="seq">
+          <li>Confirm the final target reference (an Area, or a whole Chapter or Section; a Chapter or Section means its last Area) and state which files will be archived.</li>
+          <li>Move the Areas after that reference to the archive folder as non-canonical pending revision.</li>
+          <li>Invoke <b>continuity-checker</b> to run <code>/force-ledger-audit</code>, rolling Living (L) fields back to the target reference's state too (and the spec statuses: a <code>COMPLETED</code> Chapter, Novel-Part or Section Spec that loses an Area returns to <code>CONFIRMED</code>), and <b>area-scorer</b> to take the archived Areas out of the score tracker. The calendar ledger rolls back with it: the archived Areas' rows are removed, the rollups recomputed and the Current Position block rewritten (Part 41).</li>
+        </ol>
+        <div class="invokes"><span class="pill">continuity-checker</span><span class="pill">area-scorer</span></div>
+      </div>
+
+      <div class="card" data-cat="danger">
+        <div class="card-head"><h3 class="card-title">/redraft-area</h3><span class="badges"><span class="badge cat-danger">C-29</span><span class="badge cat-danger" role="img" aria-label="Human-only command">🔒</span></span></div>
+        <div class="kv"><span class="argh">arg: area reference</span></div>
+        <p class="card-desc">Archives an Area's written file pair (moved to the archive folder, never deleted) and rolls the ledgers, plan statuses and score tracker back, as <code>/rewind-to</code> does, then redrafts the Area with one <code>/next-area</code> cycle. The full sequence is under <a href="#revise">Revision &amp; Redraft</a>.</p>
+      </div>
+
+      <div class="card" data-cat="danger">
+        <div class="card-head"><h3 class="card-title">/redraft-chapter</h3><span class="badges"><span class="badge cat-danger">C-30</span><span class="badge cat-danger" role="img" aria-label="Human-only command">🔒</span></span></div>
+        <p class="card-desc">The same for the whole current Chapter: its Area files are archived, the ledgers, plan statuses and score tracker roll back to the end of the previous Chapter, and every Area is redrafted in order. The full sequence is under <a href="#revise">Revision &amp; Redraft</a>.</p>
+      </div>
+
+      <div class="card" data-cat="danger">
+        <div class="card-head"><h3 class="card-title">/restore-archive</h3><span class="badges"><span class="badge cat-danger" role="img" aria-label="Human-only command">🔒 human-only</span></span></div>
+        <div class="kv"><span class="argh">arg: archive folder date-time</span></div>
+        <p class="card-desc">The way back from <code>/rewind-to</code>, <code>/redraft-area</code> and <code>/redraft-chapter</code>. Moves the Areas of one archive folder back to the paths they came from, never overwriting a file, and brings the ledgers, plan statuses and score tracker back in line with them.</p>
+        <ol class="seq">
+          <li>Name the archive folder (<code>YYYY-MM-DD_HHMM</code>) and confirm the scope in words.</li>
+          <li>Move the file pairs back to the paths they were archived from.</li>
+          <li>Invoke <b>continuity-checker</b> to run <code>/force-ledger-audit</code> as a reconciliation, which also sets the restored Areas' plan rows back to <code>WRITTEN</code> with a variance note and rebuilds their calendar rows from the first line of each restored <code>.md</code>, and <b>area-scorer</b> to score the restored Areas again.</li>
+        </ol>
+        <div class="fail"><b>Abort:</b> a destination that already holds a file stops the command before anything moves.</div>
+        <div class="invokes"><span class="pill">continuity-checker</span><span class="pill">area-scorer</span></div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ================= SESSION CONTROL ================= -->
+  <section id="control">
+    <div class="section-head">
+      <p class="eyebrow">Mid-Execution Interrupt</p>
+      <h2>Session Control</h2>
+    </div>
+    <div class="grid cols-3">
+      <div class="card" data-cat="control">
+        <div class="card-head"><h3 class="card-title">/pause</h3><span class="badge cat-control">C-34</span></div>
+        <p class="card-desc">The sole mid-execution interrupt. Stops the current sequence at the next safe boundary — never mid-file-write.</p>
+        <ol class="seq">
+          <li>If a Gate 1 audit was already shown but not yet confirmed, leave it pending. A pending draft survives only inside the same conversation; a new session starts again at <code>/next-area</code> Step 0 (answered questions are read from the spec's Audit and Settlement Notes), and running <code>/next-area</code> again abandons the pending draft.</li>
+          <li>Never performs a ledger update for anything not yet confirmed at Gate 2.</li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  Maintained by hand for <code>.claude/agents/</code> and <code>.claude/commands/</code> — Starward Saga project. Canon v10.0, last updated 2026-10-05. Edit this page in the same change as any edit to an agent or a command; the CCIA audit checks that its counts and cards match those folders.
+</footer>
+
+<script>
+function toggleTheme(){
+  const root = document.documentElement;
+  const current = root.getAttribute('data-theme');
+  if(current === 'dark'){ root.setAttribute('data-theme','light'); }
+  else if(current === 'light'){ root.removeAttribute('data-theme'); }
+  else { root.setAttribute('data-theme','dark'); }
+}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,141 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-CLB-001-01,Paired-Hand Guard,Prismburl,F5,Warrior L1 Low,B
+MV-SIG-CLB-001-02,Leading Hand Rap,Girthtriumph,F4,Warrior L1 Low,B
+MV-SIG-CLB-001-03,Pass-and-Strike Step,Squall Belabor,F2,Warrior L1 Low,B
+MV-SIG-CLB-001-04,Hands-Reversed Swing,Squallthump,F5,Warrior L1 Low,B
+MV-SIG-CLB-001-05,Palm-Held Shaft Parry,Peal Heartwood,F2,Warrior L1 Low,B
+MV-SIG-CLB-001-06,Cudgel-and-Hand Wrist Lock,Unbending Clout,F1,Warrior L1 Low,B
+MV-SIG-CLB-001-07,Gripping Pair Pull,Ruling Burl,F1,Warrior L1 Low,B
+MV-SIG-CLB-001-08,Twin-Handed Overwhelming Blow,Steel Roundhead,F2,Champion L1 Low,B
+MV-SIG-CLB-001-09,Hand-to-Hand Rhythm Chain,Girthbanner,F4,Champion L1 Low,B
+MV-SIG-CLB-001-10,Hands Clasped Verdict,Valiant Cudgel,F1,Demigod L1 Low,B
+MV-SIG-CLB-001-11,Both Hands One Will,Heroic Quenched Knob,F6a,Warrior L1 Low,B
+MV-SIG-CLB-002-01,Shallow-Basin Stance,Girthpledge,F4,Warrior L5 Mid,B
+MV-SIG-CLB-002-02,Ripple Rap,Thumpbanner,F4,Warrior L5 Mid,B
+MV-SIG-CLB-002-03,Basin-Edge Club Circuit,Knobgrace,F4,Warrior L5 Mid,B
+MV-SIG-CLB-002-04,Wide-Lip Parry,Inviolate Bulge,F1,Warrior L5 Mid,B
+MV-SIG-CLB-002-05,Ripple Spreading Blow,Handholdgrip Verdict,F3,Warrior L5 Mid,B
+MV-SIG-CLB-002-06,Still-Water Press,Ruling Wallop,F1,Warrior L5 Mid,B
+MV-SIG-CLB-002-07,Shoal Hook,Stout Covenant,F3,Warrior L5 Mid,B
+MV-SIG-CLB-002-08,Settling Silt Guard,Hornbeam Bellyswell,F2,Warrior L5 Mid,B
+MV-SIG-CLB-002-09,Basin Tilts and Spills,Solarknob,F5,Champion L1 Low,B
+MV-SIG-CLB-002-10,Shoal-Breaking Hammer,Bedrock Thump,F2,Champion L1 Low,B
+MV-SIG-CLB-002-11,Shallow Water Runs Deep,Peerless Bludgeon,F1,Demigod L1 Low,B
+MV-SIG-CLB-002-12,Basin School Spill Stroke,Steelgirth,F5,Warrior L5 Mid,B
+MV-SIG-CLB-003-01,Hawk-Wing Spread Guard,Girthtroth,F4,Champion L3 Low,B
+MV-SIG-CLB-003-02,Cudgel Pinion Rap,Thunderclap Bellyswell,F2,Champion L3 Low,B
+MV-SIG-CLB-003-03,Gliding Pace,Dune Thickend,F2,Champion L3 Low,B
+MV-SIG-CLB-003-04,Wing-Beat Cross Strike,Vaunted Burl,F1,Champion L3 Low,B
+MV-SIG-CLB-003-05,Feather-Shed Parry,Deluge Roundhead,F2,Champion L3 Low,B
+MV-SIG-CLB-003-06,Knob Talon Snatch,Tyrannous Cudgel,F1,Champion L3 Low,B
+MV-SIG-CLB-003-07,Wing-Over Dive,Squall Bludgeon,F2,Champion L3 Low,B
+MV-SIG-CLB-003-08,Sun-Blinding Wing Sweep,Ruling Stout,F1,Champion L3 Low,B
+MV-SIG-CLB-003-09,Hawk Wing Folds and Falls,Noble Wallop,F1,Demigod L1 Low,B
+MV-SIG-CLB-003-10,Wing Discipline Stoop,Sovereign Squall Girth,F6a,Champion L3 Low,B
+MV-SIG-CLB-004-01,River-Court Greeting Guard,Consecrated Knob,F1,Ruler L1 Mid,B
+MV-SIG-CLB-004-02,Bank-Rap Strike,Noble Bulge,F1,Ruler L1 Mid,B
+MV-SIG-CLB-004-03,Stepping-Stone Club Pace,Dune Clout,F2,Ruler L1 Mid,B
+MV-SIG-CLB-004-04,Ripple Cudgel Parry,Deluge Heartwood,F2,Ruler L1 Mid,B
+MV-SIG-CLB-004-05,Midstream Blow,Squall Handholdgrip,F2,Ruler L1 Mid,B
+MV-SIG-CLB-004-06,River-Pull Knob Hook,Peal Belabor,F2,Ruler L1 Mid,B
+MV-SIG-CLB-004-07,Ford Block,Statute Thickend,F2,Ruler L1 Mid,B
+MV-SIG-CLB-004-08,Undertow Sweep,Haemal Heartwood,F2,Ruler L1 Mid,B
+MV-SIG-CLB-004-09,Court Convenes by the River,Stoutseal,F4,Ruler L1 Mid,B
+MV-SIG-CLB-004-10,Spring Flood Hammer,Cloutcrown,F4,Ruler L1 Mid,B
+MV-SIG-CLB-004-11,The River Rules,Noble Bellyswell,F1,Demigod L1 Low,B
+MV-SIG-CLB-004-12,River-Court Stroke,Majestic Squall Burl,F6a,Ruler L1 Mid,B
+MV-SIG-CLB-005-01,High Bench Guard,Prismstout,F5,Demigod L4 Mid,B
+MV-SIG-CLB-005-02,Twin-Track Rap,Thunderclap Knob,F2,Demigod L4 Mid,B
+MV-SIG-CLB-005-03,Raised-Dais Step,Twilit Bludgeon,F1,Demigod L4 Mid,B
+MV-SIG-CLB-005-04,High-Track Overhead,Vigorknob,F5,Demigod L4 Mid,B
+MV-SIG-CLB-005-05,Low-Track Sweep,Thickend Banner,F3,Demigod L4 Mid,B
+MV-SIG-CLB-005-06,Track-Crossing Cudgel Parry,Stately Roundhead,F1,Demigod L4 Mid,B
+MV-SIG-CLB-005-07,Junction Shoulder Hit,Cudgeldecree,F4,Demigod L4 Mid,B
+MV-SIG-CLB-005-08,Both Benches Rise,Resonant Thump,F1,Demigod L4 Mid,B
+MV-SIG-CLB-005-09,Highest Verdict Hammer,Haemal Stout,F2,Demigod L4 Mid,B
+MV-SIG-CLB-005-10,Verdict of the High Court,Quenched Wallop,F2,Demigod L4 Mid,B
+MV-SIG-CLB-005-11,High-Court Twin-Track Stroke,Thunderclap Girth,F2,Demigod L4 Mid,B
+MV-SIG-CLB-006-01,Sky-Basin Deep Stance,Bedrock Handholdgrip,F2,Core Formation L2 Mid,B
+MV-SIG-CLB-006-02,Cloud-Edge Rap,Magnificent Clout,F1,Core Formation L2 Mid,B
+MV-SIG-CLB-006-03,Pouring Pace,Deluge Bulge,F2,Core Formation L2 Mid,B
+MV-SIG-CLB-006-04,Rain-Filled Blow,Steelwallop,F5,Core Formation L2 Mid,B
+MV-SIG-CLB-006-05,Brimming Club Parry,Squall Roundhead,F2,Core Formation L2 Mid,B
+MV-SIG-CLB-006-06,Down-Pour Hook,Thump Seal,F3,Core Formation L2 Mid,B
+MV-SIG-CLB-006-07,Great Basin Overflow Strike,Squall Cudgel,F2,Core Formation L2 Mid,B
+MV-SIG-CLB-006-08,Azure Cataract Sweep,Entropy Bludgeon,F2,Core Formation L2 Mid,B
+MV-SIG-CLB-006-09,The Sky Tips Its Basin,Wallopdecree,F4,Core Formation L2 Mid,B
+MV-SIG-CLB-006-10,Great Dual-Track Stroke,Gallant Bedrock Clout,F6a,Core Formation L2 Mid,B
+MV-SIG-CLB-007-01,Plateau-Oath Standing,Bulgetroth,F4,Warrior L1 Low,B
+MV-SIG-CLB-007-02,Oath-Spoken Rap,Knobedict,F4,Warrior L1 Low,B
+MV-SIG-CLB-007-03,Windswept Step,Deluge Bellyswell,F2,Warrior L1 Low,B
+MV-SIG-CLB-007-04,Edge-Turning Parry,Squall Heartwood,F2,Warrior L1 Low,B
+MV-SIG-CLB-007-05,Oath-Sworn Overhand,Majestic Belabor,F1,Warrior L1 Low,B
+MV-SIG-CLB-007-06,Wind-Pressed Shove,Thunderclap Burl,F2,Warrior L1 Low,B
+MV-SIG-CLB-007-07,Open-Hand Gale Hook,Thunderclap Wallop,F2,Warrior L1 Low,B
+MV-SIG-CLB-007-08,Gust Brace,Sainted Thickend,F1,Warrior L1 Low,B
+MV-SIG-CLB-007-09,Plateau-Oath Hammer,Cudgel Edict,F3,Champion L1 Low,B
+MV-SIG-CLB-007-10,Oath Made Good Sweep,Burldecree,F4,Champion L1 Low,B
+MV-SIG-CLB-007-11,Cudgel Oath Carried on the Wind,Exalted Girth,F1,Demigod L1 Low,B
+MV-SIG-CLB-007-12,Plateau Oath Cudgel Stroke,Heroic Handholdgrip,F1,Warrior L1 Low,B
+MV-SIG-CLB-008-01,Standing-Wind Cudgel Guard,Knob Vow,F3,Warrior L5 Mid,B
+MV-SIG-CLB-008-02,Steady Gale Rap,Steel Belabor,F2,Warrior L5 Mid,B
+MV-SIG-CLB-008-03,Stand-and-Shift Step,Dune Bulge,F2,Warrior L5 Mid,B
+MV-SIG-CLB-008-04,Standing Breath Blow,Vaunted Handholdgrip,F1,Warrior L5 Mid,B
+MV-SIG-CLB-008-05,Wind-Still Parry,Unwavering Bulge,F1,Warrior L5 Mid,B
+MV-SIG-CLB-008-06,Turning Gale Hook,Pealthump,F5,Warrior L5 Mid,B
+MV-SIG-CLB-008-07,Wind Stands Behind the Blow,Girth Verdict,F3,Champion L1 Low,B
+MV-SIG-CLB-008-08,Gale-Pinning Club Press,Hornbeam Thump,F2,Champion L1 Low,B
+MV-SIG-CLB-008-09,The Wind Stands Still and Falls,Squallwallop,F5,Demigod L1 Low,B
+MV-SIG-CLB-008-10,Standing Wind Stroke,Storied Inferno Thickend,F6a,Warrior L5 Mid,B
+MV-SIG-CLB-009-01,Bearing-Sworn Ready,Enshrined Burl,F1,Champion L3 Low,B
+MV-SIG-CLB-009-02,Sworn-Line Knob Rap,Thunderclap Heartwood,F2,Champion L3 Low,B
+MV-SIG-CLB-009-03,Sworn Course Step,Dune Stout,F2,Champion L3 Low,B
+MV-SIG-CLB-009-04,Sworn-Line Overhand,Royal Cudgel,F1,Champion L3 Low,B
+MV-SIG-CLB-009-05,Bearing-Held Haft Turn,Paritygirth,F5,Champion L3 Low,B
+MV-SIG-CLB-009-06,Sworn Press and Pin,Hornbeam Roundhead,F2,Champion L3 Low,B
+MV-SIG-CLB-009-07,Cross-Bearing Counter,Imperial Bludgeon,F1,Champion L3 Low,B
+MV-SIG-CLB-009-08,Sworn Bearing Cudgel Fall,Wallopcrown,F4,Champion L3 Low,B
+MV-SIG-CLB-009-09,Held Bearing Cudgel Barrage,Girthedict,F4,Champion L3 Low,B
+MV-SIG-CLB-009-10,Oath Upon the Bearing,Steel Thump,F2,Demigod L1 Low,B
+MV-SIG-CLB-009-11,Bearing-Sworn Stroke,Valiant Quenched Clout,F6a,Champion L3 Low,B
+MV-SIG-CLB-010-01,Edge-and-Oath Stance,Inviolate Bellyswell,F1,Ruler L1 Mid,B
+MV-SIG-CLB-010-02,Rim-Oath Rap,Inferno Stout,F2,Ruler L1 Mid,B
+MV-SIG-CLB-010-03,Edge Pace,Deluge Wallop,F2,Ruler L1 Mid,B
+MV-SIG-CLB-010-04,Edge-Pressing Blow,Haemal Bulge,F2,Ruler L1 Mid,B
+MV-SIG-CLB-010-05,Oath-Held Brace,Steel Burl,F2,Ruler L1 Mid,B
+MV-SIG-CLB-010-06,Drop-Line Hook,Peal Knob,F2,Ruler L1 Mid,B
+MV-SIG-CLB-010-07,Edge-Sworn Hammer,Storied Girth,F1,Ruler L1 Mid,B
+MV-SIG-CLB-010-08,Unyielding Rim Sweep,Bedrock Roundhead,F2,Ruler L1 Mid,B
+MV-SIG-CLB-010-09,Over the Edge by Oath,Handholdgrip Banner,F3,Demigod L1 Low,B
+MV-SIG-CLB-010-10,Edge Oath Stroke,Bulgeedict,F4,Ruler L1 Mid,B
+MV-SIG-CLB-011-01,Windless-Eye Stance,Statute Bellyswell,F2,Demigod L3 High,B
+MV-SIG-CLB-011-02,Calm-Centre Rap,Bedrock Belabor,F2,Demigod L3 High,B
+MV-SIG-CLB-011-03,Hushed Step,Belabor Solace,F3,Demigod L3 High,B
+MV-SIG-CLB-011-04,Still-Breath Parry,Peal Thickend,F2,Demigod L3 High,B
+MV-SIG-CLB-011-05,Eye-Held Blow,Vigor Clout,F2,Demigod L3 High,B
+MV-SIG-CLB-011-06,Calm-Air Press,Gloomclout,F5,Demigod L3 High,B
+MV-SIG-CLB-011-07,Storm-Ring Hook,Bulgepledge,F4,Demigod L3 High,B
+MV-SIG-CLB-011-08,Quiet Brace,Glacier Girth,F2,Demigod L3 High,B
+MV-SIG-CLB-011-09,Eye of the Storm Hammer,Sovereign Stout,F1,Demigod L3 High,B
+MV-SIG-CLB-011-10,Ring-of-Wind Sweep,Tempestuous Knob,F2,Demigod L3 High,B
+MV-SIG-CLB-011-11,The Calm Before the Fall,Exalted Heartwood,F1,Demigod L3 High,B
+MV-SIG-CLB-011-12,Windless Eye Stroke,Vigor Roundhead,F2,Demigod L3 High,B
+MV-SIG-CLB-012-01,High-Gale Stance,Knobseal,F4,Core Formation L3 Mid,B
+MV-SIG-CLB-012-02,Thin-Air Rap,Bedrock Wallop,F2,Core Formation L3 Mid,B
+MV-SIG-CLB-012-03,Ridge-Running Pace,Feather Burl,F1,Core Formation L3 Mid,B
+MV-SIG-CLB-012-04,High-Wind Overhead,Bedrock Bludgeon,F2,Core Formation L3 Mid,B
+MV-SIG-CLB-012-05,Ridgeline Parry,Pealbulge,F5,Core Formation L3 Mid,B
+MV-SIG-CLB-012-06,Gale-Tearing Hook,Thumpvow,F4,Core Formation L3 Mid,B
+MV-SIG-CLB-012-07,Crest Brace,Prismbulge,F5,Core Formation L3 Mid,B
+MV-SIG-CLB-012-08,High Gale Hammer,Matchless Wallop,F1,Core Formation L3 Mid,B
+MV-SIG-CLB-012-09,Highland Gale Sweep,Tempestuous Stout,F2,Core Formation L3 Mid,B
+MV-SIG-CLB-012-10,The High Gale Descends,Magmaburl,F5,Core Formation L3 Mid,B
+MV-SIG-CLB-012-11,Great Gale Stroke,Magnificent Bulge,F1,Core Formation L3 Mid,B
+MV-SIG-CLB-002-08,Hornbeam Bellyswell,Staunch Bellyswell,F2,Warrior L5 Mid,B
+MV-SIG-CLB-003-03,Dune Thickend,Gliding Thickend,F2,Champion L3 Low,B
+MV-SIG-CLB-004-03,Dune Clout,Nimble Clout,F2,Ruler L1 Mid,B
+MV-SIG-CLB-008-03,Dune Bulge,Fleet Bulge,F2,Warrior L5 Mid,B
+MV-SIG-CLB-008-08,Hornbeam Thump,Gripping Thump,F2,Champion L1 Low,B
+MV-SIG-CLB-009-03,Dune Stout,Dauntless Stout,F2,Champion L3 Low,B
+MV-SIG-CLB-009-06,Hornbeam Roundhead,Binding Roundhead,F2,Champion L3 Low,B
+MV-SIG-CLB-011-08,Glacier Girth,Unbroken Girth,F2,Demigod L3 High,B

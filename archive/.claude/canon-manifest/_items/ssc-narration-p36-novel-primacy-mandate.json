@@ -1,0 +1,15 @@
+{
+ "skill_id": "ssc-narration-p36-novel-primacy-mandate",
+ "part": 36,
+ "area": 1,
+ "sequence_in_part": 1,
+ "title": "The Novel Primacy Mandate",
+ "domain": "narration",
+ "source_file": "Part_36_Narration_Novel_Thematic_Law.md",
+ "start_line": 24,
+ "end_line": 47,
+ "line_count": 24,
+ "output_path": ".claude/skills/ssc-narration-p36-novel-primacy-mandate/SKILL.md",
+ "has_stale_python_block": false,
+ "related": []
+}

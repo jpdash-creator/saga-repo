@@ -1,0 +1,133 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-JIA-001-01,Twin Edge Opening Cut,Tasselverdict,F4,Warrior L1 Low,B
+MV-SIG-JIA-001-02,Azure Pair Blade Step,Driftvoyage,F4,Warrior L1 Low,B
+MV-SIG-JIA-001-03,Twin Edge Cover,Sainted Guardwing,F1,Warrior L1 Low,B
+MV-SIG-JIA-001-04,Edge Pair Chain Cut,Eddycrown,F4,Warrior L1 Low,B
+MV-SIG-JIA-001-05,Twin Edge Deflecting Roll,Faithful Jianhilt,F1,Warrior L1 Low,B
+MV-SIG-JIA-001-06,Azure Pair Bind,Commanding Knotcord,F1,Warrior L1 Low,B
+MV-SIG-JIA-001-07,Azure Twin Lance,Swirlbanner,F4,Champion L1 Low,B
+MV-SIG-JIA-001-08,Pair Edge Overturn,Unwavering Pommeltuft,F1,Champion L1 Low,B
+MV-SIG-JIA-001-09,Twin Edge Sundering,Noble Ripple,F1,Demigod L1 Low,B
+MV-SIG-JIA-001-10,Azure Pair Parting Stroke,Matchless Quenched Twinspine,F6a,Warrior L1 Low,B
+MV-SIG-JIA-002-01,Body Track Draw Cut,Flexcrown,F4,Warrior L6 Mid,B
+MV-SIG-JIA-002-02,Qi Track Lead Step,Eddyboon,F4,Warrior L6 Mid,B
+MV-SIG-JIA-002-03,Dual Cover Hold,Venerable Springtip,F1,Warrior L6 Mid,B
+MV-SIG-JIA-002-04,Track Weave Thrust,Rippletriumph,F4,Warrior L6 Mid,B
+MV-SIG-JIA-002-05,Dual Track Counter Parry,Enshrined Twinspine,F1,Warrior L6 Mid,B
+MV-SIG-JIA-002-06,Track Cross Bind,Ruling Ridgecrest,F1,Warrior L6 Mid,B
+MV-SIG-JIA-002-07,Twin Track Retreat Slash,Liltverdict,F4,Warrior L6 Mid,B
+MV-SIG-JIA-002-08,Dual Track Pierce,Triumphant Swirl,F1,Champion L1 Low,B
+MV-SIG-JIA-002-09,Track Overlap Sweep,Rippledecree,F4,Champion L1 Low,B
+MV-SIG-JIA-002-10,Dual Track Rending Stroke,Magnificent Tassel,F1,Demigod L1 Low,B
+MV-SIG-JIA-002-11,Two Tracks One Edge,Sovereign Flexspine,F1,Warrior L6 Mid,B
+MV-SIG-JIA-003-01,River Hawk Opening Cut,Splendid Knotcord,F1,Champion L4 Low,B
+MV-SIG-JIA-003-02,Bank Walking Step,Liltgrace,F4,Champion L4 Low,B
+MV-SIG-JIA-003-03,Current Cover Guard,Sacrosanct Guardwing,F1,Champion L4 Low,B
+MV-SIG-JIA-003-04,Reed Bank Sense,Serene Pommeltuft,F1,Champion L4 Low,B
+MV-SIG-JIA-003-05,Current Reading Thrust,Lordly Springtip,F1,Champion L4 Low,B
+MV-SIG-JIA-003-06,Bank Break Parry,Inviolate Jianhilt,F1,Champion L4 Low,B
+MV-SIG-JIA-003-07,Hawk Over River Slash,Swirlcrown,F4,Champion L4 Low,B
+MV-SIG-JIA-003-08,Whirlpool Bind,Subjugating Twinspine,F1,Champion L4 Low,B
+MV-SIG-JIA-003-09,River Hawk Dive Lance,Imperial Flitter,F1,Champion L4 Low,B
+MV-SIG-JIA-003-10,Floodcrest Sweep,Magmaripple,F5,Champion L4 Low,B
+MV-SIG-JIA-003-11,Hawk River Crossing Cut,Royal Eddy,F1,Demigod L1 Low,B
+MV-SIG-JIA-003-12,Hawk Takes the River,Sovereign Radiance Springtip,F6a,Champion L4 Low,B
+MV-SIG-JIA-004-01,Long Reach Basin Cut,Heroic Pommeltuft,F1,Ruler L1 Mid,B
+MV-SIG-JIA-004-02,Court Border Step,Tasselsolace,F4,Ruler L1 Mid,B
+MV-SIG-JIA-004-03,Basin Cover Hold,Immaculate Waistbend,F1,Ruler L1 Mid,B
+MV-SIG-JIA-004-04,Reach Draw Thrust,Driftdecree,F4,Ruler L1 Mid,B
+MV-SIG-JIA-004-05,Court Pair Parry,Undefiled Guardwing,F1,Ruler L1 Mid,B
+MV-SIG-JIA-004-06,Basin Circle Bind,Unbending Knotcord,F1,Ruler L1 Mid,B
+MV-SIG-JIA-004-07,Long Basin Lance,Valiant Lilt,F1,Ruler L1 Mid,B
+MV-SIG-JIA-004-08,Court Boundary Sweep,Duneswirl,F5,Ruler L1 Mid,B
+MV-SIG-JIA-004-09,Basin Court Reach Cut,Exalted Twinspine,F1,Demigod L1 Low,B
+MV-SIG-JIA-004-10,Verdict of the Long Reach,Peerless Flexspine,F1,Ruler L1 Mid,B
+MV-SIG-JIA-005-01,Soaring Edge Cut,Famed Waistbend,F1,Demigod L4 Mid,B
+MV-SIG-JIA-005-02,Azure Climb Step,Flexgrace,F4,Demigod L4 Mid,B
+MV-SIG-JIA-005-03,Wing Span Guard,Devout Ridgecrest,F1,Demigod L4 Mid,B
+MV-SIG-JIA-005-04,Thermal Ascent Thrust,Eddytriumph,F4,Demigod L4 Mid,B
+MV-SIG-JIA-005-05,Pinion Sweep Parry,Stately Pommeltuft,F1,Demigod L4 Mid,B
+MV-SIG-JIA-005-06,Azure Veil Feint,Phantasm Guardwing,F2,Demigod L4 Mid,B
+MV-SIG-JIA-005-07,Soaring Bind,Despotic Springtip,F1,Demigod L4 Mid,B
+MV-SIG-JIA-005-08,High Azure Stoop,Gallant Swirl,F1,Demigod L4 Mid,B
+MV-SIG-JIA-005-09,Skyward Edge Sweep,Solarlilt,F5,Demigod L4 Mid,B
+MV-SIG-JIA-005-10,Soaring Edge Descent,Majestic Flitter,F1,Demigod L4 Mid,B
+MV-SIG-JIA-005-11,Fall of the Azure Edge,Peerless Ripple,F1,Demigod L4 Mid,B
+MV-SIG-JIA-006-01,Full River Cut,Triumphant Knotcord,F1,Core Formation L2 Low,B
+MV-SIG-JIA-006-02,Source Bank Step,Willowboon,F4,Core Formation L2 Low,B
+MV-SIG-JIA-006-03,Deep Pool Guard,Revered Twinspine,F1,Core Formation L2 Low,B
+MV-SIG-JIA-006-04,Silent Water Sense,Luminous Ridgecrest,F1,Core Formation L2 Low,B
+MV-SIG-JIA-006-05,Deep Current Thrust,Eddybanner,F4,Core Formation L2 Low,B
+MV-SIG-JIA-006-06,Rapids Turn Parry,Undaunted Jianhilt,F1,Core Formation L2 Low,B
+MV-SIG-JIA-006-07,Pool Draw Bind,Imperious Pommeltuft,F1,Core Formation L2 Low,B
+MV-SIG-JIA-006-08,Waterfall Chop,Noble Swirl,F1,Core Formation L2 Low,B
+MV-SIG-JIA-006-09,Great River Lance,Vaunted Lilt,F1,Core Formation L2 Low,B
+MV-SIG-JIA-006-10,Flooding Reach Sweep,Kernel Tassel,F2,Core Formation L2 Low,B
+MV-SIG-JIA-006-11,Whole River Stroke,Storied Ripple,F1,Core Formation L2 Low,B
+MV-SIG-JIA-006-12,River Joins the Azure Sky,Majestic Deluge Ridgecrest,F6a,Core Formation L2 Low,B
+MV-SIG-JIA-007-01,Sworn Wind Draw,Lordly Tassel,F1,Warrior L1 Low,B
+MV-SIG-JIA-007-02,Oath Footing Pace,Ripplesolace,F4,Warrior L1 Low,B
+MV-SIG-JIA-007-03,Wind Brace Cover,Consecrated Guardwing,F1,Warrior L1 Low,B
+MV-SIG-JIA-007-04,Sworn Wind Thrust,Lilttriumph,F4,Warrior L1 Low,B
+MV-SIG-JIA-007-05,Oath Turned Flat Parry,Sainted Pommeltuft,F1,Warrior L1 Low,B
+MV-SIG-JIA-007-06,Oath Lock Bind,Authoritative Twinspine,F1,Warrior L1 Low,B
+MV-SIG-JIA-007-07,Wind Edge Return Slash,Flexbanner,F4,Warrior L1 Low,B
+MV-SIG-JIA-007-08,Sworn Wind Lance,Heroic Flitter,F1,Champion L1 Low,B
+MV-SIG-JIA-007-09,Oath Wind Sweep,Squalldrift,F5,Champion L1 Low,B
+MV-SIG-JIA-007-10,Sworn Wind Rending,Matchless Waistbend,F1,Demigod L1 Low,B
+MV-SIG-JIA-007-11,Wind-Sworn Blade Oath Stroke,Paramount Tassel,F1,Warrior L1 Low,B
+MV-SIG-JIA-008-01,Plateau Bearing Cut,Dauntless Ridgecrest,F1,Warrior L4 High,B
+MV-SIG-JIA-008-02,Cairn Walk Step,Driftgrace,F4,Warrior L4 High,B
+MV-SIG-JIA-008-03,Open Brace Guard,Venerable Waistbend,F1,Warrior L4 High,B
+MV-SIG-JIA-008-04,Bearing Take Thrust,Swirlverdict,F4,Warrior L4 High,B
+MV-SIG-JIA-008-05,Plateau Parry Turn,Faithful Twinspine,F1,Warrior L4 High,B
+MV-SIG-JIA-008-06,Rim Walk Bind,Masterful Knotcord,F1,Warrior L4 High,B
+MV-SIG-JIA-008-07,Plateau Bearing Lance,Unrivaled Springtip,F1,Champion L1 Low,B
+MV-SIG-JIA-008-08,Long Bearing Blade Sweep,Ripplecrown,F4,Champion L1 Low,B
+MV-SIG-JIA-008-09,Plateau Bearing Sundering,Splendid Lilt,F1,Demigod L1 Low,B
+MV-SIG-JIA-008-10,Bearing Taken From the Plateau,Exalted Prism Flitter,F6a,Warrior L4 High,B
+MV-SIG-JIA-009-01,Gale Opening Draw,Intrepid Tassel,F1,Champion L2 Mid,B
+MV-SIG-JIA-009-02,Wall-Less Pace,Flexvoyage,F4,Champion L2 Mid,B
+MV-SIG-JIA-009-03,Open Guard Turn,Enshrined Guardwing,F1,Champion L2 Mid,B
+MV-SIG-JIA-009-04,Gale Ear Sense,Wise Jianhilt,F1,Champion L2 Mid,B
+MV-SIG-JIA-009-05,Gale Thread Thrust,Tasselbanner,F4,Champion L2 Mid,B
+MV-SIG-JIA-009-06,Open Parry Sweep,Devout Springtip,F1,Champion L2 Mid,B
+MV-SIG-JIA-009-07,Gale Bind Release,Peremptory Ridgecrest,F1,Champion L2 Mid,B
+MV-SIG-JIA-009-08,Windfall Slash,Eddyedict,F4,Champion L2 Mid,B
+MV-SIG-JIA-009-09,Wall-Less Gale Lance,Imperial Springtip,F1,Champion L2 Mid,B
+MV-SIG-JIA-009-10,Gale Field Sweep,Tempestuous Twinspine,F2,Champion L2 Mid,B
+MV-SIG-JIA-009-11,Gale Unwalled Stroke,Gallant Waistbend,F1,Demigod L1 Low,B
+MV-SIG-JIA-009-12,Gale Has No Walls,Triumphant Flexspine,F1,Champion L2 Mid,B
+MV-SIG-JIA-010-01,Sworn Edge Draw,Noble Pommeltuft,F1,Ruler L1 Mid,B
+MV-SIG-JIA-010-02,Oath Stand Step,Tasselodyssey,F4,Ruler L1 Mid,B
+MV-SIG-JIA-010-03,Edge Cover Hold,Undefiled Ridgecrest,F1,Ruler L1 Mid,B
+MV-SIG-JIA-010-04,Edge Oath Thrust,Rippleedict,F4,Ruler L1 Mid,B
+MV-SIG-JIA-010-05,Oath Turn Flat Parry,Sacrosanct Pommeltuft,F1,Ruler L1 Mid,B
+MV-SIG-JIA-010-06,Edge Hold Bind,Tyrannous Guardwing,F1,Ruler L1 Mid,B
+MV-SIG-JIA-010-07,Sworn Edge Lance,Fearless Lilt,F1,Ruler L1 Mid,B
+MV-SIG-JIA-010-08,Oath Edge Sweep,Bedrock Flexspine,F2,Ruler L1 Mid,B
+MV-SIG-JIA-010-09,Oath Edge Pronouncement,Lordly Ripple,F1,Demigod L1 Low,B
+MV-SIG-JIA-010-10,Oath Spoken on the Edge,Illustrious Vigor Waistbend,F6a,Ruler L1 Mid,B
+MV-SIG-JIA-011-01,Far Wind Cut,Vaunted Springtip,F1,Demigod L2 Low,B
+MV-SIG-JIA-011-02,Plateau Sword Stride,Liltsolace,F4,Demigod L2 Low,B
+MV-SIG-JIA-011-03,Gust Cover Hold,Undaunted Ridgecrest,F1,Demigod L2 Low,B
+MV-SIG-JIA-011-04,Far Wind Thrust,Driftcrown,F4,Demigod L2 Low,B
+MV-SIG-JIA-011-05,Gust Break Parry,Revered Guardwing,F1,Demigod L2 Low,B
+MV-SIG-JIA-011-06,Wind Drift Feint,Nightmare Knotcord,F2,Demigod L2 Low,B
+MV-SIG-JIA-011-07,Plateau Press Bind,Ruling Springtip,F1,Demigod L2 Low,B
+MV-SIG-JIA-011-08,Far Wind Lance,Heroic Eddy,F1,Demigod L2 Low,B
+MV-SIG-JIA-011-09,Far Plateau Sweep,Entropy Tassel,F2,Demigod L2 Low,B
+MV-SIG-JIA-011-10,Far Plateau Wind Stroke,Sovereign Lilt,F1,Demigod L2 Low,B
+MV-SIG-JIA-011-11,Wind Carries the Plateau,Exalted Ripple,F1,Demigod L2 Low,B
+MV-SIG-JIA-012-01,Unbroken Bearing Cut,Paramount Knotcord,F1,Core Formation L5 Mid,B
+MV-SIG-JIA-012-02,Long March Step,Eddyvoyage,F4,Core Formation L5 Mid,B
+MV-SIG-JIA-012-03,Steady Hold Guard,Sacrosanct Twinspine,F1,Core Formation L5 Mid,B
+MV-SIG-JIA-012-04,Far Mark Sense,Tranquil Springtip,F1,Core Formation L5 Mid,B
+MV-SIG-JIA-012-05,Unbroken Line Thrust,Liltdecree,F4,Core Formation L5 Mid,B
+MV-SIG-JIA-012-06,Bearing Return Parry,Stately Jianhilt,F1,Core Formation L5 Mid,B
+MV-SIG-JIA-012-07,March Hold Bind,Despotic Ridgecrest,F1,Core Formation L5 Mid,B
+MV-SIG-JIA-012-08,Long Bearing Slash,Triumphant Tassel,F1,Core Formation L5 Mid,B
+MV-SIG-JIA-012-09,Bearing Unbroken Lance,Matchless Flitter,F1,Core Formation L5 Mid,B
+MV-SIG-JIA-012-10,Long March Sweep,Nucleus Flexspine,F2,Core Formation L5 Mid,B
+MV-SIG-JIA-012-11,Unbroken Bearing Stroke,Magnificent Swirl,F1,Core Formation L5 Mid,B
+MV-SIG-JIA-012-12,Bearing Beyond the Last Wind,Heroic Steel Springtip,F6a,Core Formation L5 Mid,B

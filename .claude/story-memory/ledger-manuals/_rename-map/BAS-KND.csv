@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-KND-001-01,Brass Straight Lead,Forward Knuckleplate,F1,T1 Unawakened,A
+MV-BAS-KND-001-02,Boss-Point Sternum Jab,Palmbar Drop,F3,T1 Unawakened,A
+MV-BAS-KND-001-03,Ring-Forearm Parry,Raised Fistbar,F1,T1 Unawakened,A
+MV-BAS-KND-001-04,Back-Step Fist Slide,Skipping Studplate,F1,T1 Unawakened,A
+MV-BAS-KND-001-05,Tucked Elbow Brass Cover,Ringlid,F4,T1 Unawakened,A
+MV-BAS-KND-001-06,Pinned Wrist Shove,Ringcowl,F4,T1 Unawakened,A
+MV-BAS-KND-002-01,Ring Seat Cheek Jab,Ringdash,F4,T1 Skin,A
+MV-BAS-KND-002-02,Locked Wrist Rear Cross,Gnawing Brassrim,F1,T1 Skin,A
+MV-BAS-KND-002-03,Palm Bar Shoulder Shove,Overhand Pause,F3,T1 Skin,A
+MV-BAS-KND-002-04,Ring Edge Forearm Rake,Ringbump,F4,T1 Skin,A
+MV-BAS-KND-002-05,Knuckle Plant Pivot,Light Brawl,F1,T1 Skin,A
+MV-BAS-KND-002-06,Cupped Palm Catch,Ringhusk,F4,T1 Skin,A
+MV-BAS-KND-002-07,Flick Reseat Guard,Hooding Ringband,F1,T1 Skin,A
+MV-BAS-KND-003-01,Brass Cheek Cover,Lowered Knuckleridge,F1,T1 Muscle,A
+MV-BAS-KND-003-02,Inside Slip Rib Jab,Slabblow,F4,T1 Muscle,A
+MV-BAS-KND-003-03,Elbow Drop Check,Lowered Brassring,F1,T1 Muscle,A
+MV-BAS-KND-003-04,Clinch-Break Knuckle Tap,Handfill Cowl,F3,T1 Muscle,A
+MV-BAS-KND-003-05,Half-Pace Retreat Slide,Light Hooking,F1,T1 Muscle,A
+MV-BAS-KND-004-01,Looping Brass Hook,Firm Brawl,F1,T1 Tendon,A
+MV-BAS-KND-004-02,Floating Rib Short Hook,Sudden Haymaker,F1,T1 Tendon,A
+MV-BAS-KND-004-03,Overhand Brass Drop,Bandarch Blow,F3,T1 Tendon,A
+MV-BAS-KND-004-04,Rising Knuckle Uppercut,Descending Ringband,F1,T1 Tendon,A
+MV-BAS-KND-004-05,Hook Slip Duck,Skipping Overhand,F1,T1 Tendon,A
+MV-BAS-KND-004-06,Wrist Hook Pull-Down,Towing Palmbar,F1,T1 Tendon,A
+MV-BAS-KND-004-07,Shoulder Slope Roll,Hooding Knuckleridge,F1,T1 Tendon,A
+MV-BAS-KND-004-08,Full Turn Weighted Swing,Ringblow,F4,T1 Tendon,A
+MV-BAS-KND-005-01,Narrow Lane Elbow Jab,Gnawing Brassring,F1,T1 Bone,A
+MV-BAS-KND-005-02,Wall Lean Hammer Fist,Uppercut Hit,F3,T1 Bone,A
+MV-BAS-KND-005-03,Doorway Shoulder Check,Turning Studplate,F1,T1 Bone,A
+MV-BAS-KND-005-04,Cramped Step Shuffle,Swaying Knockout,F1,T1 Bone,A
+MV-BAS-KND-005-05,Low Roof Duck Guard,Kept Knuckleplate,F1,T1 Bone,A
+MV-BAS-KND-005-06,Crowd Weave Knuckle Rap,Firm Knockout,F1,T1 Bone,A
+MV-BAS-KND-006-01,Thread-Behind Straight,Flat Uppercut,F1,Senior L1 Low,A
+MV-BAS-KND-006-02,Warm Boss Press,Descending Haymaker,F1,Senior L1 Low,A
+MV-BAS-KND-006-03,Qi Rind Forearm Block,Resting Fistbar,F1,Senior L1 Low,A
+MV-BAS-KND-006-04,Breath-Pull Step,Light Handfill,F1,Senior L1 Low,A
+MV-BAS-KND-006-05,Steady Ring Cover,Knuckcowl,F4,Senior L1 Low,A
+MV-BAS-KND-006-06,Pulse Tap on the Wrist,Locking Hooking,F1,Senior L1 Low,A
+MV-BAS-KND-006-07,Brass Echo Cross,Narrow Knuckleplate,F1,Senior L1 Low,A
+MV-BAS-KND-007-01,Boss Point Press,Studdrop,F4,Senior L3 Low,A
+MV-BAS-KND-007-02,Bar Heel Strike,Studstrike,F4,Senior L3 Low,A
+MV-BAS-KND-007-03,Boss Catch Parry,Planted Bandarch,F1,Senior L3 Low,A
+MV-BAS-KND-007-04,Bar Lever Wrist Turn,Knuckpause,F4,Senior L3 Low,A
+MV-BAS-KND-007-05,Boss Pivot Slip,Sideways Brassrim,F1,Senior L3 Low,A
+MV-BAS-KND-008-01,Exhale Straight Blow,Knuckdash,F4,Senior L5 Mid,A
+MV-BAS-KND-008-02,Inhale Guard Settle,Ringpause,F4,Senior L5 Mid,A
+MV-BAS-KND-008-03,Held Breath Hook,Slabdash,F4,Senior L5 Mid,A
+MV-BAS-KND-008-04,Breath Glide Step,Light Palmbar,F1,Senior L5 Mid,A
+MV-BAS-KND-008-05,Lungful Brass Block,Knuckleridge Pause,F3,Senior L5 Mid,A
+MV-BAS-KND-008-06,Three-Breath Jab Run,Short Ringband,F1,Senior L5 Mid,A
+MV-BAS-KND-008-07,Slow Exhale Brace,Slabcowl,F4,Senior L5 Mid,A
+MV-BAS-KND-008-08,Inhale Window Rap,Stopping Knockout,F1,Senior L5 Mid,A
+MV-BAS-KND-009-01,Hand-Span Punch,Short Brassring,F1,Senior L7 Mid,A
+MV-BAS-KND-009-02,Tight Elbow Cross,Studdash,F4,Senior L7 Mid,A
+MV-BAS-KND-009-03,Guard Rattle Burst,Studplate Wedge,F3,Senior L7 Mid,A
+MV-BAS-KND-009-04,Short Drive Uppercut,Brawlbump,F4,Senior L7 Mid,A
+MV-BAS-KND-009-05,Narrow Pivot Out,Knuckpace,F4,Senior L7 Mid,A
+MV-BAS-KND-009-06,Cover Then Punch Parry,Studpause,F4,Senior L7 Mid,A
+MV-BAS-KND-010-01,Ring Circuit Straight,Brawl Drop,F3,Senior L9 Peak,A
+MV-BAS-KND-010-02,Shoulder-to-Ring Whip,Slabhit,F4,Senior L9 Peak,A
+MV-BAS-KND-010-03,Qi Loop Guard,Folded Handfill,F1,Senior L9 Peak,A
+MV-BAS-KND-010-04,Circuit Step Glide,Easing Uppercut,F1,Senior L9 Peak,A
+MV-BAS-KND-010-05,Ring Tap Interrupt,Catching Brassrim,F1,Senior L9 Peak,A
+MV-BAS-KND-010-06,Loop Parry Return,Resting Bandarch,F1,Senior L9 Peak,A
+MV-BAS-KND-010-07,Peak Circuit Jab,Single Brassrim,F1,Senior L9 Peak,A

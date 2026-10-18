@@ -1,0 +1,135 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-SHU-001-01,Twin-Court First Release,Sprayscourge,F4,Demigod L1 Low,B
+MV-ELI-SHU-001-02,Court Hall Stillness Sighting,Chime Centerhole,F2,Demigod L1 Low,B
+MV-ELI-SHU-001-03,Left Court Spoke Rake,Spray Reckoning,F3,Demigod L1 Low,B
+MV-ELI-SHU-001-04,Court Corner Pivot Step,Sprayglimmer,F4,Demigod L1 Low,B
+MV-ELI-SHU-001-05,Two Courts One Verdict Throw,Facet Cornerpoint,F2,Demigod L1 Low,B
+MV-ELI-SHU-001-06,Crossed Courts Parry,Obdurate Spoke,F1,Demigod L1 Low,B
+MV-ELI-SHU-001-07,Azure Court Step Through the Throw,Granite Edgeface,F2,Demigod L1 Low,B
+MV-ELI-SHU-001-08,Court of Two Flights,Hoarfrost Rimpoint,F2,Demigod L1 Low,B
+MV-ELI-SHU-001-09,Summoned Court Star Net,Ponderous Peppering,F2,Demigod L1 Low,B
+MV-ELI-SHU-001-10,Twin-Court Verdict of Stars,Facet Hail,F2,Demigod L1 Low,B
+MV-ELI-SHU-002-01,Hawk Basin Opening Throw,Facet Sprinkle,F2,Demigod L2 Low,B
+MV-ELI-SHU-002-02,Basin Floor Spoke Rake,Whizwrath,F4,Demigod L2 Low,B
+MV-ELI-SHU-002-03,Hawk Shoulder Set Release,Facet Thinplate,F2,Demigod L2 Low,B
+MV-ELI-SHU-002-04,Rim Watch Breath,Waning Hub,F2,Demigod L2 Low,B
+MV-ELI-SHU-002-05,Hawk Walk Silent Step,Torrent Flatpoint,F2,Demigod L2 Low,B
+MV-ELI-SHU-002-06,Hawk Climb Rising Throw,Gnashing Tippoint,F1,Demigod L2 Low,B
+MV-ELI-SHU-002-07,Basin Echo Return Guard,Torrent Bladeface,F2,Demigod L2 Low,B
+MV-ELI-SHU-002-08,Hawk Shadow Star Feint,Murkspoke,F5,Demigod L2 Low,B
+MV-ELI-SHU-002-09,Basin Pour Star Cascade,Spraywrath,F4,Demigod L2 Low,B
+MV-ELI-SHU-002-10,Hawk Falls on the Hollow Floor,Ruinous Centerhole,F1,Demigod L2 Low,B
+MV-ELI-SHU-002-11,Basin Ring Star Formation,Rimpoint Hardihood,F3,Demigod L2 Low,B
+MV-ELI-SHU-002-12,Hawk Descends on the Whole Basin,Peppering Ruin,F3,Demigod L2 Low,B
+MV-ELI-SHU-003-01,River Mouth Wide Throw,Hoarfrost Whiz,F2,Demigod L1 Mid,B
+MV-ELI-SHU-003-02,Azure Ripple Spoke Slash,Blaze Flatpoint,F2,Demigod L1 Mid,B
+MV-ELI-SHU-003-03,Streamside Sidestep,Phantom Edgeface,F1,Demigod L1 Mid,B
+MV-ELI-SHU-003-04,Two Rivers Meet Throw,Chimetooth,F5,Demigod L1 Mid,B
+MV-ELI-SHU-003-05,Eddy Spin Star Guard,Chime Cornerpoint,F2,Demigod L1 Mid,B
+MV-ELI-SHU-003-06,Downstream Star Carry,Hub Ruin,F3,Demigod L1 Mid,B
+MV-ELI-SHU-003-07,River Rising Star Flood,Silt Scatter,F2,Demigod L1 Mid,B
+MV-ELI-SHU-003-08,Undertow Snare of Stars,Deed Spoke,F2,Demigod L1 Mid,B
+MV-ELI-SHU-003-09,Azure River Flash Crossing,Sprayglare,F4,Demigod L1 Mid,B
+MV-ELI-SHU-004-01,Matched Pair Draw Throw,Chime Spray,F2,Demigod L3 Low,B
+MV-ELI-SHU-004-02,Measured Pace Count,Resurgent Tippoint,F1,Demigod L3 Low,B
+MV-ELI-SHU-004-03,Paired Spoke Hook,Granite Bladeface,F2,Demigod L3 Low,B
+MV-ELI-SHU-004-04,Half-Step Mirrored Retreat,Whizglimmer,F4,Demigod L3 Low,B
+MV-ELI-SHU-004-05,Paired Wrist Cross Parry,Torrent Hub,F2,Demigod L3 Low,B
+MV-ELI-SHU-004-06,Mirror Image Throw from Both Hands,Hubscourge,F4,Demigod L3 Low,B
+MV-ELI-SHU-004-07,Pair Against Pair Guard,Hubvalor,F4,Demigod L3 Low,B
+MV-ELI-SHU-004-08,Paced Pair Volley,Intent Sprinkle,F2,Demigod L3 Low,B
+MV-ELI-SHU-004-09,Matched Pair Through Two Guards,Nova Whiz,F2,Demigod L3 Low,B
+MV-ELI-SHU-004-10,Paired Star Ring,Scatter Valor,F3,Demigod L3 Low,B
+MV-ELI-SHU-004-11,Perfect Pair Piercing Fall,Hellish Scatter Devastation,F6b,Demigod L3 Low,B
+MV-ELI-SHU-005-01,Hundred Hawk First Release,Spoke Wrath,F3,Demigod L4 Low,B
+MV-ELI-SHU-005-02,Flock Count Sighting,Vigilant Flatpoint,F1,Demigod L4 Low,B
+MV-ELI-SHU-005-03,Feather Edge Spoke Cut,Punishing Sprinkle,F1,Demigod L4 Low,B
+MV-ELI-SHU-005-04,Perch Step to Perch,Might Hail,F2,Demigod L4 Low,B
+MV-ELI-SHU-005-05,Wing Fold Forearm Guard,Aegis Tippoint,F2,Demigod L4 Low,B
+MV-ELI-SHU-005-06,Flock Scatter Throw,Hourspray,F5,Demigod L4 Low,B
+MV-ELI-SHU-005-07,Hawk Line Dive Throw,Decimating Bladeface,F1,Demigod L4 Low,B
+MV-ELI-SHU-005-08,Wing Beat Rapid Release,Mangling Whiz,F1,Demigod L4 Low,B
+MV-ELI-SHU-005-09,Roost Guard Spin,Unbowed Rimpoint,F1,Demigod L4 Low,B
+MV-ELI-SHU-005-10,Flock Stoops Together,Mayhem Spray,F2,Demigod L4 Low,B
+MV-ELI-SHU-005-11,Hawk Net Over the Field,Lethal Thinplate,F1,Demigod L4 Low,B
+MV-ELI-SHU-005-12,Lone Hawk Strike Through Armor,Decimating Peppering,F1,Demigod L4 Low,B
+MV-ELI-SHU-005-13,Sky Darkened by Stars,Mayhem Edgeface,F2,Demigod L4 Low,B
+MV-ELI-SHU-006-01,Rain Track Light Throws,Wrathful Cornerpoint,F1,Demigod L2 Mid,B
+MV-ELI-SHU-006-02,Hail Track Heavy Throws,Lacerating Centerhole,F1,Demigod L2 Mid,B
+MV-ELI-SHU-006-03,Wet Slate Foot Shuffle,Granite Hail,F2,Demigod L2 Mid,B
+MV-ELI-SHU-006-04,Spoke Drip Cut,Ironspoke,F5,Demigod L2 Mid,B
+MV-ELI-SHU-006-05,Two Tracks One Storm Throw,Hailscourge,F4,Demigod L2 Mid,B
+MV-ELI-SHU-006-06,Veil of Thrown Rain Stars,Hubdurance,F4,Demigod L2 Mid,B
+MV-ELI-SHU-006-07,Hail Hammer Throw,Nova Thinplate,F2,Demigod L2 Mid,B
+MV-ELI-SHU-006-08,Hailstorm Star Fall,Slagtooth,F5,Demigod L2 Mid,B
+MV-ELI-SHU-006-09,Rain Track Ambush Line,Silt Edgeface,F2,Demigod L2 Mid,B
+MV-ELI-SHU-006-10,Dual-Track Unbroken Tempest,Intentspoke,F5,Demigod L2 Mid,B
+MV-ELI-SHU-007-01,Oath-Bound First Throw,Rumble Hub,F2,Demigod L1 Low,B
+MV-ELI-SHU-007-02,Sworn Breath Sighting,Flatpoint Premonition,F3,Demigod L1 Low,B
+MV-ELI-SHU-007-03,Wind Cut Spoke Slash,Sanguine Whiz,F2,Demigod L1 Low,B
+MV-ELI-SHU-007-04,Oath Line Straight Throw,Rumble Tippoint,F2,Demigod L1 Low,B
+MV-ELI-SHU-007-05,Plateau Step Slide,Vanishing Rimpoint,F1,Demigod L1 Low,B
+MV-ELI-SHU-007-06,Oath Guard Turning Parry,Equipoise Bladeface,F2,Demigod L1 Low,B
+MV-ELI-SHU-007-07,Oath Never Broken Volley,Hailwrath,F4,Demigod L1 Low,B
+MV-ELI-SHU-007-08,Sworn Line of Pinning Stars,Hoarfrost Spray,F2,Demigod L1 Low,B
+MV-ELI-SHU-007-09,Oath Fulfilled Star Throw,Tempered Peppering,F2,Demigod L1 Low,B
+MV-ELI-SHU-008-01,Crosswind Opening Flick,Hubhavoc,F4,Demigod L2 Low,B
+MV-ELI-SHU-008-02,Crosswind Spoke Drag Cut,Mightwhiz,F5,Demigod L2 Low,B
+MV-ELI-SHU-008-03,Gust Counting Breath,Expanse Spoke,F2,Demigod L2 Low,B
+MV-ELI-SHU-008-04,Slant Step Against the Wind,Gustspray,F5,Demigod L2 Low,B
+MV-ELI-SHU-008-05,Cloak Whip Parry,Equipoise Cornerpoint,F2,Demigod L2 Low,B
+MV-ELI-SHU-008-06,Wind Shear Curved Throw,Centerhole Ruin,F3,Demigod L2 Low,B
+MV-ELI-SHU-008-07,Sworn Lull Quick Release,Gnashing Hail,F1,Demigod L2 Low,B
+MV-ELI-SHU-008-08,Crosswind Pinning Line,Thinplate Hardihood,F3,Demigod L2 Low,B
+MV-ELI-SHU-008-09,Gust Leaning Dodge,Might Sprinkle,F2,Demigod L2 Low,B
+MV-ELI-SHU-008-10,Crosswind Net of Stars,Thinplate Spine,F3,Demigod L2 Low,B
+MV-ELI-SHU-008-11,Storm Edge Star Volley,Hourtooth,F5,Demigod L2 Low,B
+MV-ELI-SHU-008-12,Sworn Crosswind Flash Strike,Meteoric Sprinkle,F1,Demigod L2 Low,B
+MV-ELI-SHU-009-01,Plateau Bearing Sighted Throw,Blaze Whiz,F2,Demigod L3 Low,B
+MV-ELI-SHU-009-02,Low Ridge Crouch Throw,Glintwhiz,F5,Demigod L3 Low,B
+MV-ELI-SHU-009-03,Ridge Line Spoke Hook,Cornerpoint Reckoning,F3,Demigod L3 Low,B
+MV-ELI-SHU-009-04,Bearing Hold Breath,Healing Rimpoint,F1,Demigod L3 Low,B
+MV-ELI-SHU-009-05,Ridge Top Skimming Pass,Facet Centerhole,F2,Demigod L3 Low,B
+MV-ELI-SHU-009-06,Gully Drop Star Throw,Glint Flatpoint,F2,Demigod L3 Low,B
+MV-ELI-SHU-009-07,Bearing Corrected Second Throw,Intentspray,F5,Demigod L3 Low,B
+MV-ELI-SHU-009-08,Ridge to Ridge Long Throw,Hoarfrost Scatter,F2,Demigod L3 Low,B
+MV-ELI-SHU-009-09,Bearing Lock Star Line,Thorntooth,F5,Demigod L3 Low,B
+MV-ELI-SHU-009-10,Plateau Bearing Single Line Strike,Corroding Rumble Bladeface,F6a,Demigod L3 Low,B
+MV-ELI-SHU-010-01,Cloudless Level Throw,Blaze Tippoint,F2,Demigod L1 Mid,B
+MV-ELI-SHU-010-02,Sky Oath Spoken Throw,Rumble Scatter,F2,Demigod L1 Mid,B
+MV-ELI-SHU-010-03,Cloud Edge Spoke Rake,Pitiless Peppering,F1,Demigod L1 Mid,B
+MV-ELI-SHU-010-04,Sky Watch Counting Breath,Expanse Edgeface,F2,Demigod L1 Mid,B
+MV-ELI-SHU-010-05,Open Ground Long Stride Step,Silttooth,F5,Demigod L1 Mid,B
+MV-ELI-SHU-010-06,Sworn Light Skim Throw,Toothscourge,F4,Demigod L1 Mid,B
+MV-ELI-SHU-010-07,Open Hand Guard Turn,Murktooth,F5,Demigod L1 Mid,B
+MV-ELI-SHU-010-08,Oath of Many Stars Volley,Rampaging Hub,F1,Demigod L1 Mid,B
+MV-ELI-SHU-010-09,Sky Held Star Cast,Titanic Hub,F1,Demigod L1 Mid,B
+MV-ELI-SHU-010-10,Unwalled Sky Star Scatter,Slag Hail,F2,Demigod L1 Mid,B
+MV-ELI-SHU-010-11,Oath of Returned Stars,Evergreen Bladeface,F1,Demigod L1 Mid,B
+MV-ELI-SHU-011-01,Sworn Gust Release,Chime Rimpoint,F2,Demigod L4 Low,B
+MV-ELI-SHU-011-02,Wind Lane Sighting Breath,Galvanizing Thinplate,F1,Demigod L4 Low,B
+MV-ELI-SHU-011-03,Torn Wind Spoke Slash,Sanguine Edgeface,F2,Demigod L4 Low,B
+MV-ELI-SHU-011-04,Gust Hop Skip Step,Spokeflash,F4,Demigod L4 Low,B
+MV-ELI-SHU-011-05,Bracing Wind Forearm Block,Thorn Cornerpoint,F2,Demigod L4 Low,B
+MV-ELI-SHU-011-06,Wind Wrapped Curved Flight,Scatter Reckoning,F3,Demigod L4 Low,B
+MV-ELI-SHU-011-07,Sworn Gale Suppression Fan,Charter Sprinkle,F2,Demigod L4 Low,B
+MV-ELI-SHU-011-08,Gust Pinned Cloak Throw,Thorn Hail,F2,Demigod L4 Low,B
+MV-ELI-SHU-011-09,Windward Turning Parry,Impervious Tippoint,F1,Demigod L4 Low,B
+MV-ELI-SHU-011-10,Gale Throat Line Throw,Devastating Centerhole,F1,Demigod L4 Low,B
+MV-ELI-SHU-011-11,Wind Lane Star Net,Toothspine,F4,Demigod L4 Low,B
+MV-ELI-SHU-011-12,Whirlwind Star Ring,Blazetooth,F5,Demigod L4 Low,B
+MV-ELI-SHU-011-13,Wind-Sworn Gale Unleashed,Wrathful Charter Spray,F6a,Demigod L4 Low,B
+MV-ELI-SHU-012-01,Open Edge Straight Release,Spokehavoc,F4,Demigod L2 Mid,B
+MV-ELI-SHU-012-02,Edge Walk Spoke Slash,Granite Whiz,F2,Demigod L2 Mid,B
+MV-ELI-SHU-012-03,Edge Scan Sighting,Chime Tippoint,F2,Demigod L2 Mid,B
+MV-ELI-SHU-012-04,Edge Skipping Star Throw,Rumble Flatpoint,F2,Demigod L2 Mid,B
+MV-ELI-SHU-012-05,Lip Updraft Star Parry,Adamantine Edgeface,F1,Demigod L2 Mid,B
+MV-ELI-SHU-012-06,Edge Hop Retreat Throw,Sprayblink,F4,Demigod L2 Mid,B
+MV-ELI-SHU-012-07,Edge to Edge Star Arc,Rimpoint Wrath,F3,Demigod L2 Mid,B
+MV-ELI-SHU-012-08,Edge Gale Pinning Rain,Charter Peppering,F2,Demigod L2 Mid,B
+MV-ELI-SHU-012-09,Edge Without End Flash Throw,Rumble Spoke,F2,Demigod L2 Mid,B
+MV-ELI-SHU-004-11,Hellish Scatter Devastation,Hellish Scatter,F6b,Demigod L3 Low,B
+MV-ELI-SHU-008-03,Expanse Spoke,Perceptive Spoke,F2,Demigod L2 Low,B
+MV-ELI-SHU-009-10,Corroding Rumble Bladeface,Corroding Bladeface,F6a,Demigod L3 Low,B
+MV-ELI-SHU-010-04,Expanse Edgeface,Unerring Edgeface,F2,Demigod L1 Mid,B
+MV-ELI-SHU-011-13,Wrathful Charter Spray,Wrathful Spray,F6a,Demigod L4 Low,B

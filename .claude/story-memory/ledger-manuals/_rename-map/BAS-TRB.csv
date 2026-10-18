@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-TRB-001-01,Beam Lashing Inspection,Warm Longarm,F1,T1 Unawakened,A
+MV-BAS-TRB-001-02,Winch Crank Count,Even Slingpouch,F1,T1 Unawakened,A
+MV-BAS-TRB-001-03,Sling Laid in Trough,Steady Ballast,F1,T1 Unawakened,A
+MV-BAS-TRB-001-04,Shot Roll to Pouch,Judging Fulcrum,F1,T1 Unawakened,A
+MV-BAS-TRB-001-05,Arc Clearance Step,Swingdodge,F4,T1 Unawakened,A
+MV-BAS-TRB-001-06,Lanyard Pull Release,Pulleydrop,F4,T1 Unawakened,A
+MV-BAS-TRB-002-01,Haul Rope Hand Spacing,Armcount,F4,T1 Skin,A
+MV-BAS-TRB-002-02,Team Count Down Haul,Gentle Releasehook,F1,T1 Skin,A
+MV-BAS-TRB-002-03,Heel Dig Brace,Smooth Shortarm,F1,T1 Skin,A
+MV-BAS-TRB-002-04,Slack Rope Gathering,Judging Hangcradle,F1,T1 Skin,A
+MV-BAS-TRB-002-05,Rope Whip Sidestep,Nimble Swing,F1,T1 Skin,A
+MV-BAS-TRB-003-01,Dressed Shot Hip Lift,Rigging Count,F3,T1 Muscle,A
+MV-BAS-TRB-003-02,Two-Man Pole Carry,Tending Tackle,F1,T1 Muscle,A
+MV-BAS-TRB-003-03,Shot Stack Counting,Mild Pullrope,F1,T1 Muscle,A
+MV-BAS-TRB-003-04,Pouch Deep Seating,Pulleycount,F4,T1 Muscle,A
+MV-BAS-TRB-003-05,Timber Ramp Shot Roll,Tacklecount,F4,T1 Muscle,A
+MV-BAS-TRB-003-06,Runaway Shot Hand Stop,Holding Shortarm,F1,T1 Muscle,A
+MV-BAS-TRB-003-07,Lifter's Long Day Breath,Warm Fulcrum,F1,T1 Muscle,A
+MV-BAS-TRB-004-01,Release Pin Tallow Wipe,Pulleyreview,F4,T1 Tendon,A
+MV-BAS-TRB-004-02,Pin Tip Burr Search,Judging Longarm,F1,T1 Tendon,A
+MV-BAS-TRB-004-03,Sling Ring Wrist Flick,Watching Pullrope,F1,T1 Tendon,A
+MV-BAS-TRB-004-04,Trip Line Taut Hold,Armreview,F4,T1 Tendon,A
+MV-BAS-TRB-004-05,Hip Snap Lanyard Draw,Sharp Counterswing,F1,T1 Tendon,A
+MV-BAS-TRB-004-06,Hook Straightness Recheck,Pulleygauge,F4,T1 Tendon,A
+MV-BAS-TRB-005-01,Sill Timber Leveling,Armnote,F4,T1 Bone,A
+MV-BAS-TRB-005-02,Upright Post Plumb Hold,Pulleynote,F4,T1 Bone,A
+MV-BAS-TRB-005-03,Axle Seat Shimming,Steady Hangcradle,F1,T1 Bone,A
+MV-BAS-TRB-005-04,Brace Wedge Hammering,Smooth Releasehook,F1,T1 Bone,A
+MV-BAS-TRB-005-05,Frame Shoulder Shove Test,Measured Ballast,F1,T1 Bone,A
+MV-BAS-TRB-005-06,Soft Earth Probe Rod,Mild Tackle,F1,T1 Bone,A
+MV-BAS-TRB-005-07,Recoil Stake Driving,Steady Rigging,F1,T1 Bone,A
+MV-BAS-TRB-005-08,Arm Prop Seating,Resting Longarm,F1,T1 Bone,A
+MV-BAS-TRB-006-01,Qi Eased Arm Heft,Deep Ballast,F1,Senior L1 Low,A
+MV-BAS-TRB-006-02,Trial Shot Miss Call,Calm Slingpouch,F1,Senior L1 Low,A
+MV-BAS-TRB-006-03,Landing Dust Reading,Measured Rigging,F1,Senior L1 Low,A
+MV-BAS-TRB-006-04,Pegged Range Line,Fulcrum Note,F3,Senior L1 Low,A
+MV-BAS-TRB-006-05,Pin Hook Hair Tuning,Tackleblow,F4,Senior L1 Low,A
+MV-BAS-TRB-006-06,Corrected Second Throw,Plain Counterswing,F1,Senior L1 Low,A
+MV-BAS-TRB-006-07,Ranging Breath Hold,Tacklenote,F4,Senior L1 Low,A
+MV-BAS-TRB-007-01,Sling Cord Plaiting,Tacklegauge,F4,Senior L2 Low,A
+MV-BAS-TRB-007-02,Paired Cord Matching,Hangcradle Count,F3,Senior L2 Low,A
+MV-BAS-TRB-007-03,Long Short Sling Trial,Warm Slingpouch,F1,Senior L2 Low,A
+MV-BAS-TRB-007-04,Cord Ring Slip Off,Letgo Drop,F3,Senior L2 Low,A
+MV-BAS-TRB-007-05,Frayed Cord Culling,Armgauge,F4,Senior L2 Low,A
+MV-BAS-TRB-008-01,Windlass Pawl Setting,Pullrope Review,F3,Senior L3 Low,A
+MV-BAS-TRB-008-02,Drum Cable Even Winding,Tacklereview,F4,Senior L3 Low,A
+MV-BAS-TRB-008-03,Warmed Palm Crank Grip,Releasehook Gauge,F3,Senior L3 Low,A
+MV-BAS-TRB-008-04,Alternating Handspike Cadence,Deep Tackle,F1,Senior L3 Low,A
+MV-BAS-TRB-008-05,Cable Groan Listening,Tending Fulcrum,F1,Senior L3 Low,A
+MV-BAS-TRB-008-06,Tooth by Tooth Lowering,Measured Pullrope,F1,Senior L3 Low,A
+MV-BAS-TRB-009-01,Crew Station Naming,Shortarm Note,F3,Senior L4 Mid,A
+MV-BAS-TRB-009-02,Load Call Answering,Ballast Review,F3,Senior L4 Mid,A
+MV-BAS-TRB-009-03,Raised Hand Clear Sign,Releasehook Count,F3,Senior L4 Mid,A
+MV-BAS-TRB-009-04,Winding Pace Chant,Rigging Review,F3,Senior L4 Mid,A
+MV-BAS-TRB-009-05,Halt Call Freeze,Smooth Tackle,F1,Senior L4 Mid,A
+MV-BAS-TRB-009-06,Release Cry on the Echo,Straight Swing,F1,Senior L4 Mid,A
+MV-BAS-TRB-009-07,Captain Voice Carrying,Slingpouch Review,F3,Senior L4 Mid,A
+MV-BAS-TRB-009-08,Reset Run to Stations,Skipping Heaveoff,F1,Senior L4 Mid,A
+MV-BAS-TRB-010-01,Engine Yard Clearing,Kind Hangcradle,F1,Senior L5 Low,A
+MV-BAS-TRB-010-02,Danger Arc Chalk Line,Smooth Longarm,F1,Senior L5 Low,A
+MV-BAS-TRB-010-03,Snapped Sling Flank Reading,Releasehook Note,F3,Senior L5 Low,A
+MV-BAS-TRB-010-04,Dropped Shot Sidestep,Heaveoff Trot,F3,Senior L5 Low,A
+MV-BAS-TRB-010-05,Splinter Cover Guard,Raised Shortarm,F1,Senior L5 Low,A
+MV-BAS-TRB-010-06,Fallen Crewman Belt Drag,Even Pullrope,F1,Senior L5 Low,A
+MV-BAS-TRB-006-06,Plain Counterswing,Swift Counterswing,F1,Senior L1 Low,A

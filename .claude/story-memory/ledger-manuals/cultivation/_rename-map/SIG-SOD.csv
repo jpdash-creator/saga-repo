@@ -1,0 +1,9 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-SIG-SOD-002-01,Court Rise,Twin Rise,INSTANT,,Basic
+CMV-SIG-SOD-002-02,Court Answer,Twin Answer,INSTANT,,Basic
+CMV-SIG-SOD-002-11,Court Decree,Paired Decree,CAST,,Signature
+CMV-SIG-SOD-005-07,Gust Keep,Gust Hold,CHANNELED,,Advanced
+CMV-SIG-SOD-006-01,Plain Stance,Level Stance,INSTANT,,Basic
+CMV-SIG-SOD-006-11,Unstirred Plain,Unstirred Calm,CAST,,Signature
+CMV-SIG-SOD-008-02,Thunder Pass,Thunder Shed,INSTANT,,Basic
+CMV-SIG-SOD-008-05,Lightning Ground,Bolt Diversion,INSTANT,,Intermediate

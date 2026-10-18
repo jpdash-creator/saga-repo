@@ -1,0 +1,116 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-GAX-001-01,Plate Seam Chop,Raging Haftbell,F1,Champion L1 Low,B
+MV-ADV-GAX-001-02,Mail Rend Pull,Blazetimber,F5,Champion L1 Low,B
+MV-ADV-GAX-001-03,Armor Weight Step,Gust Wideswell,F2,Champion L1 Low,B
+MV-ADV-GAX-001-04,Visor Line Reading,Remnant Greatbeard,F2,Champion L1 Low,B
+MV-ADV-GAX-001-05,Plate Cracking Cleave,Facetgreat,F5,Champion L1 Low,B
+MV-ADV-GAX-001-06,Gorget Hooking Cut,Cleaving Longhelve,F1,Champion L1 Low,B
+MV-ADV-GAX-001-07,Armor Rending Great Cleave,Glint Greatbit,F2,Champion L1 Low,B
+MV-ADV-GAX-001-08,Hauberk Splitting Fall,Tearing Doubleedge,F1,Champion L1 Low,B
+MV-ADV-GAX-002-01,Planted Stance Chop,Rumblerend,F5,Champion L4 Mid,B
+MV-ADV-GAX-002-02,Ground Anchor Brace,Irongreat,F5,Champion L4 Mid,B
+MV-ADV-GAX-002-03,Stance Hold Feel,Chime Greatpoll,F2,Champion L4 Mid,B
+MV-ADV-GAX-002-04,Reset Foot Shuffle,Might Rend,F2,Champion L4 Mid,B
+MV-ADV-GAX-002-05,Anchored Heavy Chop,Rumble Heavyeye,F2,Champion L4 Mid,B
+MV-ADV-GAX-002-06,Stance Breaking Counter,Equipoise Greatbit,F2,Champion L4 Mid,B
+MV-ADV-GAX-002-07,Rooted Wall Sweep,Intent Hewfall,F2,Champion L4 Mid,B
+MV-ADV-GAX-002-08,Immovable Stance Cleave,Sundertorment,F4,Champion L4 Mid,B
+MV-ADV-GAX-002-09,Fixed Stance Crushing Blow,Scorching Riven,F1,Champion L4 Mid,B
+MV-ADV-GAX-003-01,Ring Sweep Chop,Gustsunder,F5,Ruler L1 Low,B
+MV-ADV-GAX-003-02,Open Field Step,Silt Haftrope,F2,Ruler L1 Low,B
+MV-ADV-GAX-003-03,Clear Space Guard,Aegistimber,F5,Ruler L1 Low,B
+MV-ADV-GAX-003-04,Crowd Edge Reading,Remnant Longhelve,F2,Ruler L1 Low,B
+MV-ADV-GAX-003-05,Wide Ring Cut,Rupturing Splitmass,F1,Ruler L1 Low,B
+MV-ADV-GAX-003-06,Circle Holding Step,Vaulting Sunder,F1,Ruler L1 Low,B
+MV-ADV-GAX-003-07,Ground Clearing Sweep,Lancing Overhew,F1,Ruler L1 Low,B
+MV-ADV-GAX-003-08,Encircled Axe Storm,Lambasting Wideswell,F1,Ruler L1 Low,B
+MV-ADV-GAX-004-01,Field Breath Chop,Timbertorment,F4,Demigod L1 Low,B
+MV-ADV-GAX-004-02,Iron Exhale Strike,Rumble Greatbeard,F2,Demigod L1 Low,B
+MV-ADV-GAX-004-03,Breath Pulse Step,Torrent Rend,F2,Demigod L1 Low,B
+MV-ADV-GAX-004-04,Field Edge Reading,Remnant Doubleedge,F2,Demigod L1 Low,B
+MV-ADV-GAX-004-05,Breath Fed Cleave,Iron Riven,F2,Demigod L1 Low,B
+MV-ADV-GAX-004-06,Pulse Along the Haft,Intentaxe,F5,Demigod L1 Low,B
+MV-ADV-GAX-004-07,Haft Qi Wrap Guard,Ironaxe,F5,Demigod L1 Low,B
+MV-ADV-GAX-004-08,Iron-Cleaving Field Stroke,Granite Heavyeye,F2,Demigod L1 Low,B
+MV-ADV-GAX-004-09,Outreaching Breath Cleave,Skinning Splitmass,F1,Demigod L1 Low,B
+MV-ADV-GAX-005-01,Edge Fall Chop,Sanguine Poleshoe,F2,Demigod L4 Mid,B
+MV-ADV-GAX-005-02,Haft Pulse Drive,Tempered Poleshoe,F2,Demigod L4 Mid,B
+MV-ADV-GAX-005-03,Falling Edge Pace,Timberleap,F4,Demigod L4 Mid,B
+MV-ADV-GAX-005-04,Behind-the-Edge Guard,Thorn Haftrope,F2,Demigod L4 Mid,B
+MV-ADV-GAX-005-05,Edge Fall Reading,Remnant Haftbell,F2,Demigod L4 Mid,B
+MV-ADV-GAX-005-06,Haft Driven Fall,Mightaxe,F5,Demigod L4 Mid,B
+MV-ADV-GAX-005-07,Qi Behind Blow,Blaze Hewfall,F2,Demigod L4 Mid,B
+MV-ADV-GAX-005-08,Fall Check Parry,Chimeaxe,F5,Demigod L4 Mid,B
+MV-ADV-GAX-005-09,Multiplying Fall Cleave,Irontimber,F5,Demigod L4 Mid,B
+MV-ADV-GAX-005-10,Twice-Pushed Edge Fall,Blazerend,F5,Demigod L4 Mid,B
+MV-ADV-GAX-006-01,Twin Track Chop,Gust Greatpoll,F2,Champion L3 Low,B
+MV-ADV-GAX-006-02,Second Track Step,Poleshoe Jaunt,F3,Champion L3 Low,B
+MV-ADV-GAX-006-03,Paired Haft Guard,Chime Greatbit,F2,Champion L3 Low,B
+MV-ADV-GAX-006-04,Dual Line Reading,Rousing Greatpoll,F1,Champion L3 Low,B
+MV-ADV-GAX-006-05,Two-Track Hew,Sanguine Rend,F2,Champion L3 Low,B
+MV-ADV-GAX-006-06,Track Swap Great Cut,Hewfall Onslaught,F3,Champion L3 Low,B
+MV-ADV-GAX-006-07,Dual Hold Press,Rivenbarrage,F4,Champion L3 Low,B
+MV-ADV-GAX-006-08,Twin-Track Great Cleave,Rendassault,F4,Champion L3 Low,B
+MV-ADV-GAX-006-09,Double Track Hammer Fall,Raging Might Splitmass,F6a,Champion L3 Low,B
+MV-ADV-GAX-007-01,Pair Opening Cut,Iron Doubleedge,F2,Ruler L2 High,B
+MV-ADV-GAX-007-02,Pair Answer Cut,Overhew Onslaught,F3,Ruler L2 High,B
+MV-ADV-GAX-007-03,Paired Step Through,Sunderleap,F4,Ruler L2 High,B
+MV-ADV-GAX-007-04,Pair Count Reading,Fortifying Heavyeye,F1,Ruler L2 High,B
+MV-ADV-GAX-007-05,Answering Great Bit Pair,Rumble Sunder,F2,Ruler L2 High,B
+MV-ADV-GAX-007-06,Pair Guard Return,Unflinching Longhelve,F1,Ruler L2 High,B
+MV-ADV-GAX-007-07,Mirrored Pair Cleave,Ironrend,F5,Ruler L2 High,B
+MV-ADV-GAX-007-08,Paired Stroke Crushing Fall,Blaze Riven,F2,Ruler L2 High,B
+MV-ADV-GAX-008-01,Hawk Rise Lift,Chimegreat,F5,Demigod L2 Low,B
+MV-ADV-GAX-008-02,Stoop Fall Chop,Might Haftrope,F2,Demigod L2 Low,B
+MV-ADV-GAX-008-03,Hawk Wing Step,Torrent Haftbell,F2,Demigod L2 Low,B
+MV-ADV-GAX-008-04,Sky Line Guard,Staunch Wideswell,F1,Demigod L2 Low,B
+MV-ADV-GAX-008-05,High Perch Hold,Thorn Greatbeard,F2,Demigod L2 Low,B
+MV-ADV-GAX-008-06,Stoop Strike,Sanguine Greatpoll,F2,Demigod L2 Low,B
+MV-ADV-GAX-008-07,Talon Catch Pull,Axegreave,F4,Demigod L2 Low,B
+MV-ADV-GAX-008-08,Hawk-Stoop Great Fall,Iron Sunder,F2,Demigod L2 Low,B
+MV-ADV-GAX-008-09,Azure Plunge Cleave,Cleaving Might Hewfall,F6a,Demigod L2 Low,B
+MV-ADV-GAX-009-01,River Flow Chop,Severing Overhew,F1,Demigod L5 High,B
+MV-ADV-GAX-009-02,Current Step,Soaring Haftbell,F1,Demigod L5 High,B
+MV-ADV-GAX-009-03,Eddy Guard,Gustgreat,F5,Demigod L5 High,B
+MV-ADV-GAX-009-04,River Bend Reading,Timberlinctus,F4,Demigod L5 High,B
+MV-ADV-GAX-009-05,Basin Edge Cut,Iron Greatbit,F2,Demigod L5 High,B
+MV-ADV-GAX-009-06,Flowing Cleave Chain,Blaze Greatbeard,F2,Demigod L5 High,B
+MV-ADV-GAX-009-07,River Pull Hook,Compressing Poleshoe,F1,Demigod L5 High,B
+MV-ADV-GAX-009-08,Eddy Turn Redirect,Gusttimber,F5,Demigod L5 High,B
+MV-ADV-GAX-009-09,Azure River Great Cleave,Drubbing Splitmass,F1,Demigod L5 High,B
+MV-ADV-GAX-009-10,Basin Flood Great Sweep,Dismantling Haftrope,F2,Demigod L5 High,B
+MV-ADV-GAX-010-01,Wind Lent Great Chop,Splitting Doubleedge,F1,Champion L2 Low,B
+MV-ADV-GAX-010-02,Gust Step,Rendleap,F4,Champion L2 Low,B
+MV-ADV-GAX-010-03,Sworn Haft Guard,Longhelve Cloak,F3,Champion L2 Low,B
+MV-ADV-GAX-010-04,Draft Reading,Greatlinctus,F4,Champion L2 Low,B
+MV-ADV-GAX-010-05,Gale Speed Cut,Tempered Overhew,F2,Champion L2 Low,B
+MV-ADV-GAX-010-06,Windfall Hew,Ravaging Rend,F1,Champion L2 Low,B
+MV-ADV-GAX-010-07,Wind-Sworn Heavy Stroke,Rumble Riven,F2,Champion L2 Low,B
+MV-ADV-GAX-010-08,Oath Wind Fall,Drubbing Heavyeye,F1,Champion L2 Low,B
+MV-ADV-GAX-011-01,Plateau Edge Great Chop,Cleaving Wideswell,F1,Demigod L1 Mid,B
+MV-ADV-GAX-011-02,Edge Footing Step,Granite Splitmass,F2,Demigod L1 Mid,B
+MV-ADV-GAX-011-03,Open Back Guard,Unyielding Greatpoll,F1,Demigod L1 Mid,B
+MV-ADV-GAX-011-04,Cliff Wind Reading,Axeremedy,F4,Demigod L1 Mid,B
+MV-ADV-GAX-011-05,Edge Holding Cleave,Tempered Doubleedge,F2,Demigod L1 Mid,B
+MV-ADV-GAX-011-06,No-Wall Parry,Staunch Greatbit,F1,Demigod L1 Mid,B
+MV-ADV-GAX-011-07,Drop Line Press,Drubbing Greatbeard,F1,Demigod L1 Mid,B
+MV-ADV-GAX-011-08,Plateau Edge Great Hew,Sanguine Riven,F2,Demigod L1 Mid,B
+MV-ADV-GAX-011-09,Unbacked Line Cleave,Furrowing Haftrope,F1,Demigod L1 Mid,B
+MV-ADV-GAX-012-01,Oath Line Chop,Sanguine Hewfall,F2,Demigod L6 Low,B
+MV-ADV-GAX-012-02,Bearing Take Step,Might Sunder,F2,Demigod L6 Low,B
+MV-ADV-GAX-012-03,Sworn Line Guard,Haftbell Plating,F3,Demigod L6 Low,B
+MV-ADV-GAX-012-04,Bearing Hold Reading,Verityaxe,F5,Demigod L6 Low,B
+MV-ADV-GAX-012-05,Held Bearing Cut,Rumble Overhew,F2,Demigod L6 Low,B
+MV-ADV-GAX-012-06,Bearing Held Hew,Might Longhelve,F2,Demigod L6 Low,B
+MV-ADV-GAX-012-07,Oath Turn Counter,Murk Poleshoe,F2,Demigod L6 Low,B
+MV-ADV-GAX-012-08,Sworn Pull Down,Mayhem Heavyeye,F2,Demigod L6 Low,B
+MV-ADV-GAX-012-09,Oath-Bearing Great Hew,Granite Hewfall,F2,Demigod L6 Low,B
+MV-ADV-GAX-012-10,Unturned Bearing Fall,Drubbing Wideswell,F1,Demigod L6 Low,B
+MV-ADV-GAX-013-01,Bearing Fix Chop,Blaze Greatbit,F2,Demigod L8 High,B
+MV-ADV-GAX-013-02,Tailwind Axe Lunge,Silt Poleshoe,F2,Demigod L8 High,B
+MV-ADV-GAX-013-03,Gale Wrapped Guard,Unyielding Haftbell,F1,Demigod L8 High,B
+MV-ADV-GAX-013-04,Bearing Feel Reading,Renewing Heavyeye,F1,Demigod L8 High,B
+MV-ADV-GAX-013-05,Gale Carried Cut,Needling Rend,F1,Demigod L8 High,B
+MV-ADV-GAX-013-06,Bearing Cross Sweep,Downpour Doubleedge,F2,Demigod L8 High,B
+MV-ADV-GAX-013-07,Gale-Borne Greataxe Stroke,Timberbarrage,F4,Demigod L8 High,B
+MV-ADV-GAX-013-08,Bearing Through the Line,Sunder Maelstrom,F3,Demigod L8 High,B

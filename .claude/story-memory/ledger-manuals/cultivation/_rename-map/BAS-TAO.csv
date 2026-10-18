@@ -1,0 +1,4 @@
+move_id,old_name,new_name,function
+CMV-BAS-TAO-002-04,Open Line,Open Gap,Support:Sense
+CMV-BAS-TAO-003-01,Plain Palm,Direct Palm,Attack:Strike
+CMV-BAS-TAO-003-03,Plain Pivot,Light Pivot,Mobility:Step

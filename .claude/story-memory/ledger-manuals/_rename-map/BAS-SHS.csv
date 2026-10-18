@@ -1,0 +1,80 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-SHS-001-01,Plain Forward Thrust,Stabblow,F4,Unawakened,A
+MV-BAS-SHS-001-02,Short Parry Turn,Raised Handguard,F1,Unawakened,A
+MV-BAS-SHS-001-03,Shuffle Step Close,Easing Shortspine,F1,Unawakened,A
+MV-BAS-SHS-001-04,Hilt Rap Strike,Quick Pointcap,F1,Unawakened,A
+MV-BAS-SHS-001-05,Low Guard Settle,Hiltcap Stay,F3,Unawakened,A
+MV-BAS-SHS-002-01,Inside Line Jab,Straight Stabtip,F1,Skin,A
+MV-BAS-SHS-002-02,Wrist Flick Cut,Digdrop,F4,Skin,A
+MV-BAS-SHS-002-03,Rib Gap Prick,Sharp Sting,F1,Skin,A
+MV-BAS-SHS-002-04,Crossed Edge Catch,Angled Cutedge,F1,Skin,A
+MV-BAS-SHS-002-05,Slip Left Step,Stepping Broadleaf,F1,Skin,A
+MV-BAS-SHS-002-06,Short Heel Pivot,Thumbdodge,F4,Skin,A
+MV-BAS-SHS-003-01,Forearm Brace Guard,Folded Knobgrip,F1,Muscle,A
+MV-BAS-SHS-003-02,Hip Drive Thrust,Hard Gore,F1,Muscle,A
+MV-BAS-SHS-003-03,Quick Double Prick,Pokedash,F4,Muscle,A
+MV-BAS-SHS-003-04,Edge Slide Parry,Settled Shortspine,F1,Muscle,A
+MV-BAS-SHS-003-05,Half Step Entry,Nimble Dig,F1,Muscle,A
+MV-BAS-SHS-003-06,Off Hand Shove,Pushing Handguard,F1,Muscle,A
+MV-BAS-SHS-003-07,Backward Cover Step,Tippace,F4,Muscle,A
+MV-BAS-SHS-004-01,Hundred Count Thrust,Nickdrop,F4,Tendon,A
+MV-BAS-SHS-004-02,Tendon Snap Stab,Stubstrike,F4,Tendon,A
+MV-BAS-SHS-004-03,Wrist Roll Block,Thumbcowl,F4,Tendon,A
+MV-BAS-SHS-004-04,Point Line Hold,Pointcap Lid,F3,Tendon,A
+MV-BAS-SHS-004-05,Low Belly Stab,Upward Stab,F1,Tendon,A
+MV-BAS-SHS-004-06,Draw Back Recover,Backward Cutedge,F1,Tendon,A
+MV-BAS-SHS-004-07,Grip Shift Stab,Sudden Stabtip,F1,Tendon,A
+MV-BAS-SHS-004-08,Crowd Space Probe,Watching Thumbrest,F1,Tendon,A
+MV-BAS-SHS-005-01,Narrow Base Stance,Planted Broadleaf,F1,Bone,A
+MV-BAS-SHS-005-02,Sliding Lunge Stab,Stingdash,F4,Bone,A
+MV-BAS-SHS-005-03,Bone Plant Stop,Stubhop,F4,Bone,A
+MV-BAS-SHS-005-04,Circle Out Step,Swaying Poke,F1,Bone,A
+MV-BAS-SHS-005-05,Shin Level Parry,Tiplid,F4,Bone,A
+MV-BAS-SHS-005-06,Close Pin Press,Digwedge,F4,Bone,A
+MV-BAS-SHS-006-01,Paired Slow Thrust,Narrow Gore,F1,Muscle,A
+MV-BAS-SHS-006-02,Partner Cut Answer,Kept Handguard,F1,Muscle,A
+MV-BAS-SHS-006-03,Mirror Step Drill,Sideways Knobgrip,F1,Muscle,A
+MV-BAS-SHS-006-04,Guard Cross Hook Drag,Hitching Stubblade,F1,Muscle,A
+MV-BAS-SHS-006-05,Muscle Press Block,Solid Thumbrest,F1,Muscle,A
+MV-BAS-SHS-006-06,Three Beat Stab,Stabdash,F4,Muscle,A
+MV-BAS-SHS-006-07,Eye Line Read,Judging Cutedge,F1,Muscle,A
+MV-BAS-SHS-007-01,Qi Thread Thrust,Nickhit,F4,Senior,A
+MV-BAS-SHS-007-02,Awakened Guard Turn,Ready Broadleaf,F1,Senior,A
+MV-BAS-SHS-007-03,Breath Timed Short Step,Stabhop,F4,Senior,A
+MV-BAS-SHS-007-04,Hilt Pulse Rap,Hiltcap Bump,F3,Senior,A
+MV-BAS-SHS-007-05,Steady Point Hold,Stubhusk,F4,Senior,A
+MV-BAS-SHS-008-01,Belt Draw Stab,Digstrike,F4,Senior,A
+MV-BAS-SHS-008-02,Scabbard Slip Cut,Flat Cutedge,F1,Senior,A
+MV-BAS-SHS-008-03,Sheath Hold Parry,Tight Pointcap,F1,Senior,A
+MV-BAS-SHS-008-04,Reverse Draw Pull,Pokehit,F4,Senior,A
+MV-BAS-SHS-008-05,Clear Cloth Step,Light Thumbrest,F1,Senior,A
+MV-BAS-SHS-008-06,Seat Low Draw,Stubdash,F4,Senior,A
+MV-BAS-SHS-008-07,Return Sheath Hold,Resting Stabtip,F1,Senior,A
+MV-BAS-SHS-008-08,Clasp Break Twist,Turning Knobgrip,F1,Senior,A
+MV-BAS-SHS-009-01,Tight Guard Cover,Hooding Handguard,F1,Senior,A
+MV-BAS-SHS-009-02,Parry And Prick,Sharp Stab,F1,Senior,A
+MV-BAS-SHS-009-03,Guard Rim Nudge,Fouling Shortspine,F1,Senior,A
+MV-BAS-SHS-009-04,Short Retreat Close,Nickdodge,F4,Senior,A
+MV-BAS-SHS-009-05,Elbow Line Cover,Angled Hiltcap,F1,Senior,A
+MV-BAS-SHS-009-06,Counter Wrist Stab,Stingdrop,F4,Senior,A
+MV-BAS-SHS-010-01,Grip And Hip Thrust,Firm Stubblade,F1,Senior,A
+MV-BAS-SHS-010-02,Breath Held Stab,Forward Sting,F1,Senior,A
+MV-BAS-SHS-010-03,Point Aim Check,Measured Pointcap,F1,Senior,A
+MV-BAS-SHS-010-04,Short Retract Snap,Pokepace,F4,Senior,A
+MV-BAS-SHS-010-05,Side Thrust Slide,Open Stab,F1,Senior,A
+MV-BAS-SHS-010-06,Rising Point Parry,Raised Cutedge,F1,Senior,A
+MV-BAS-SHS-010-07,Edge Bite Draw,Leaden Gore,F1,Senior,A
+MV-BAS-SHS-011-01,Canon Forward Thrust,Short Stabtip,F1,Senior,A
+MV-BAS-SHS-011-02,Canon Cross Block,Planted Thumbrest,F1,Senior,A
+MV-BAS-SHS-011-03,Edge Snap Return,Quick Dig,F1,Senior,A
+MV-BAS-SHS-011-04,Shoulder Turn Dodge,Swaying Knobgrip,F1,Senior,A
+MV-BAS-SHS-011-05,Crowded Lane Stab,Narrow Stabtip,F1,Senior,A
+MV-BAS-SHS-011-06,Blade Flat Slap,Stopping Broadleaf,F1,Senior,A
+MV-BAS-SHS-011-07,Outside Step Cut,Tiphit,F4,Senior,A
+MV-BAS-SHS-011-08,Canon Ready Posture,Ready Shortspine,F1,Senior,A
+MV-BAS-SHS-012-01,First Circulation Jab,Blunt Poke,F1,Senior,A
+MV-BAS-SHS-012-02,Steady Foot Shift,Stepping Pointcap,F1,Senior,A
+MV-BAS-SHS-012-03,Warm Blade Parry,Thumbwedge,F4,Senior,A
+MV-BAS-SHS-012-04,Lesson Four Stab,Low Stab,F1,Senior,A
+MV-BAS-SHS-012-05,Even Breath Guard,Settled Stubblade,F1,Senior,A
+MV-BAS-SHS-012-06,Final Lesson Chain,Nickstrike,F4,Senior,A

@@ -1,0 +1,5 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-INF-004-02,Raptor Line,Raptor Thread,INSTANT,,Basic
+CMV-ADV-INF-004-05,Farsense,Raptor Gleam,CHANNELED,,Basic
+CMV-ADV-INF-004-08,Tracking Line,Tracking Thread,CHANNELED,,Intermediate
+CMV-ADV-INF-005-03,Oathstrike,Sworn Blow,INSTANT,,Basic

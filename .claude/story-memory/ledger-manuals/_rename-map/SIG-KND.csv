@@ -1,0 +1,138 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-KND-001-01,Court Hawk Lead Strike,Studtriumph,F4,Warrior L1 Low,B
+MV-SIG-KND-001-02,Perch Slide Step,Vigor Palmbar,F2,Warrior L1 Low,B
+MV-SIG-KND-001-03,Hawk Court Covering Fists,Consecrated Bandarch,F1,Warrior L1 Low,B
+MV-SIG-KND-001-04,Duster Talon Hook,Slabbanner,F4,Warrior L1 Low,B
+MV-SIG-KND-001-05,Feather Edge Parry,Ringpledge,F4,Warrior L1 Low,B
+MV-SIG-KND-001-06,Talon Wrist Lock,Commanding Overhand,F1,Warrior L1 Low,B
+MV-SIG-KND-001-07,Hawk Court Boss Stab,Fearless Brawl,F1,Champion L1 Low,B
+MV-SIG-KND-001-08,Perched Stoop Sequence,Symphonic Brassrim,F1,Champion L1 Low,B
+MV-SIG-KND-001-09,Hawk Court Eyrie Fall,Seasonbrawl,F5,Demigod L1 Low,B
+MV-SIG-KND-001-10,Hawk Court Talon Verdict,Squall Brassring,F2,Warrior L1 Low,B
+MV-SIG-KND-002-01,Basin Pair Jab,Knuckdecree,F4,Warrior L6 Mid,B
+MV-SIG-KND-002-02,Basin Ledge Step,Studodyssey,F4,Warrior L6 Mid,B
+MV-SIG-KND-002-03,Paired Cup Guard,Ringtroth,F4,Warrior L6 Mid,B
+MV-SIG-KND-002-04,Basin Wrist Press,Pealknuck,F5,Warrior L6 Mid,B
+MV-SIG-KND-002-05,Pooling Pair Hook,Thunderclap Hooking,F2,Warrior L6 Mid,B
+MV-SIG-KND-002-06,Overflow Parry Return,Peal Studplate,F2,Warrior L6 Mid,B
+MV-SIG-KND-002-07,Basin Pair Squeeze,Authoritative Fistbar,F1,Warrior L6 Mid,B
+MV-SIG-KND-002-08,Low Basin Feint,Nightmare Knockout,F2,Warrior L6 Mid,B
+MV-SIG-KND-002-09,Paired Basin Drive,Vacuum Knuckleplate,F2,Champion L1 Low,B
+MV-SIG-KND-002-10,Basin Tide Sequence,Destiny Ringband,F2,Champion L1 Low,B
+MV-SIG-KND-002-11,Paired Basin Surge Cross,Thunderclap Handfill,F2,Demigod L1 Low,B
+MV-SIG-KND-002-12,Twin Basin Flood Fall,Splendid Knuckleplate,F1,Warrior L6 Mid,B
+MV-SIG-KND-003-01,River Court Lead,Matchless Knuckleridge,F1,Champion L3 High,B
+MV-SIG-KND-003-02,Ford Crossing Knuckle Step,Knuckboon,F4,Champion L3 High,B
+MV-SIG-KND-003-03,Court Current Guard,Sanctum Brassrim,F2,Champion L3 High,B
+MV-SIG-KND-003-04,Current Cut Hook,Vigor Haymaker,F2,Champion L3 High,B
+MV-SIG-KND-003-05,Eddy Rim Parry,Squall Studplate,F2,Champion L3 High,B
+MV-SIG-KND-003-06,River Bar Press,Masterful Ringband,F1,Champion L3 High,B
+MV-SIG-KND-003-07,Rapids Rain Strike,Thunderclap Overhand,F2,Champion L3 High,B
+MV-SIG-KND-003-08,Weir Breaker Boss Drive,Steel Uppercut,F2,Champion L3 High,B
+MV-SIG-KND-003-09,River Court Delta Sequence,Knuckcrown,F4,Champion L3 High,B
+MV-SIG-KND-003-10,Sluice Burst Fist,Studedict,F4,Demigod L1 Low,B
+MV-SIG-KND-003-11,River Court Returning Wave,Pall Palmbar,F2,Champion L3 High,B
+MV-SIG-KND-004-01,Azure Ring Opening Cross,Knuckbanner,F4,Ruler L1 Mid,B
+MV-SIG-KND-004-02,Court Pivot Step,Feather Uppercut,F1,Ruler L1 Mid,B
+MV-SIG-KND-004-03,Ring Hand Cover,Hornbeam Brassring,F2,Ruler L1 Mid,B
+MV-SIG-KND-004-04,Court Rim Tap,Imperious Knuckleridge,F1,Ruler L1 Mid,B
+MV-SIG-KND-004-05,Azure Knock-Down Combination,Unrivaled Brawl,F1,Ruler L1 Mid,B
+MV-SIG-KND-004-06,Ring Hand Counter,Squall Handfill,F2,Ruler L1 Mid,B
+MV-SIG-KND-004-07,Court Arm Seat Bind,Thrall Knockout,F2,Ruler L1 Mid,B
+MV-SIG-KND-004-08,Azure Rhythm Break,Venomstud,F5,Ruler L1 Mid,B
+MV-SIG-KND-004-09,Master Ring Boss Pierce,Brawlbanner,F4,Ruler L1 Mid,B
+MV-SIG-KND-004-10,Azure Ring Cascade Sequence,Haymaker Edict,F3,Ruler L1 Mid,B
+MV-SIG-KND-004-11,Azure Court Iron Ring Strike,Fistbar Banner,F3,Demigod L1 Low,B
+MV-SIG-KND-004-12,Azure Court Master Ring Seal,Commanding Bandarch Reliquary,F6b,Ruler L1 Mid,B
+MV-SIG-KND-005-01,Sky Field Jab,Quenched Brawl,F2,Demigod L4 Low,B
+MV-SIG-KND-005-02,Zenith Pace Step,Dune Knuckleplate,F2,Demigod L4 Low,B
+MV-SIG-KND-005-03,Field Dome Cover,Brassrim Troth,F3,Demigod L4 Low,B
+MV-SIG-KND-005-04,Sky Reach Hook,Haemal Knuckleridge,F2,Demigod L4 Low,B
+MV-SIG-KND-005-05,Azure Draft Parry,Peal Handfill,F2,Demigod L4 Low,B
+MV-SIG-KND-005-06,Field Seam Rap,Pealbrawl,F5,Demigod L4 Low,B
+MV-SIG-KND-005-07,Sky Field Boss Bore,Prism Hooking,F2,Demigod L4 Low,B
+MV-SIG-KND-005-08,Zenith Fist Sequence,Grand Brassring,F1,Demigod L4 Low,B
+MV-SIG-KND-005-09,Sky Field Flash Cross,Season Fistbar,F2,Demigod L4 Low,B
+MV-SIG-KND-005-10,Azure Sky Falling Field Strike,Squall Hooking,F2,Demigod L4 Low,B
+MV-SIG-KND-006-01,Core Twin Jab,Valiant Studplate,F1,Core Formation L1 Low,B
+MV-SIG-KND-006-02,Core Pivot Ring Step,Delugeknuck,F5,Core Formation L1 Low,B
+MV-SIG-KND-006-03,Core Ring Cover,Prismknuck,F5,Core Formation L1 Low,B
+MV-SIG-KND-006-04,Core Track Hook,Royal Palmbar,F1,Core Formation L1 Low,B
+MV-SIG-KND-006-05,Core Pulse Forearm Ring Parry,Ringband Reliquary,F3,Core Formation L1 Low,B
+MV-SIG-KND-006-06,Core Ring Bind,Sigil Overhand,F2,Core Formation L1 Low,B
+MV-SIG-KND-006-07,Core Beat Ring Rap,Ruling Knockout,F1,Core Formation L1 Low,B
+MV-SIG-KND-006-08,Core Boss Drive,Pulsar Handfill,F2,Core Formation L1 Low,B
+MV-SIG-KND-006-09,Twin Core Sequence,Tenetbrawl,F5,Core Formation L1 Low,B
+MV-SIG-KND-006-10,Core-Fed Rending Cross,Steel Knockout,F2,Core Formation L1 Low,B
+MV-SIG-KND-006-11,Azure Core Twin Track Collapse,Imperial Bandarch Banner,F6b,Core Formation L1 Low,B
+MV-SIG-KND-007-01,Oath Duster Straight,Quenched Uppercut,F2,Warrior L2 Low,B
+MV-SIG-KND-007-02,Wind Foot Brass Step,Deluge Knuckleridge,F2,Warrior L2 Low,B
+MV-SIG-KND-007-03,Oath Duster Cover,Steelring,F5,Warrior L2 Low,B
+MV-SIG-KND-007-04,Wind Knock Parry,Paritystud,F5,Warrior L2 Low,B
+MV-SIG-KND-007-05,Sworn Duster Hook,Quenched Haymaker,F2,Warrior L2 Low,B
+MV-SIG-KND-007-06,Oath Counter Turn,Studpledge,F4,Warrior L2 Low,B
+MV-SIG-KND-007-07,Wind Wrist Bind,Sigilslab,F5,Warrior L2 Low,B
+MV-SIG-KND-007-08,Oath Break Rap,Studplate Reliquary,F3,Warrior L2 Low,B
+MV-SIG-KND-007-09,Oath Duster Boss Run,Steelbrawl,F5,Champion L1 Low,B
+MV-SIG-KND-007-10,Sworn Wind Train Sequence,Orchestral Uppercut,F1,Champion L1 Low,B
+MV-SIG-KND-007-11,Oath Duster Gust Strike,Vigor Fistbar,F2,Demigod L1 Low,B
+MV-SIG-KND-007-12,Wind-Sworn Oath Duster Vow,Steel Palmbar,F2,Warrior L2 Low,B
+MV-SIG-KND-008-01,Rim Knuckle Jab,Vigorring,F5,Warrior L7 Mid,B
+MV-SIG-KND-008-02,Plateau Edge Knuckle Step,Wraithlike Bandarch,F1,Warrior L7 Mid,B
+MV-SIG-KND-008-03,Rim Cover Spread,Undefiled Ringband,F1,Warrior L7 Mid,B
+MV-SIG-KND-008-04,Rim Edge Hook,Inferno Haymaker,F2,Warrior L7 Mid,B
+MV-SIG-KND-008-05,Plateau Bearing Counter,Slabtroth,F4,Warrior L7 Mid,B
+MV-SIG-KND-008-06,Rim Shoulder Press,Thunderclap Brassrim,F2,Warrior L7 Mid,B
+MV-SIG-KND-008-07,Plateau Rim Piercing Boss,Prism Brassring,F2,Champion L1 Low,B
+MV-SIG-KND-008-08,Rim Walk Sequence,Brawledict,F4,Champion L1 Low,B
+MV-SIG-KND-008-09,Plateau Rim Flash Hook,Interstice Knuckleplate,F2,Demigod L1 Low,B
+MV-SIG-KND-008-10,Plateau Rim Falling Edge Blow,Steel Overhand,F2,Warrior L7 Mid,B
+MV-SIG-KND-009-01,Open Plateau Straight,Thunderclap Knockout,F2,Champion L1 Mid,B
+MV-SIG-KND-009-02,Long Ground Pace,Squall Bandarch,F2,Champion L1 Mid,B
+MV-SIG-KND-009-03,Oath Plateau Cover,Prism Palmbar,F2,Champion L1 Mid,B
+MV-SIG-KND-009-04,Plateau Oath Hook Chain,Haemal Hooking,F2,Champion L1 Mid,B
+MV-SIG-KND-009-05,Plateau Gust Return,Enshrined Fistbar,F1,Champion L1 Mid,B
+MV-SIG-KND-009-06,Open Hand Pin,Thrall Overhand,F2,Champion L1 Mid,B
+MV-SIG-KND-009-07,Plateau Oath Feint,Nightmare Hooking,F2,Champion L1 Mid,B
+MV-SIG-KND-009-08,Open Plateau Boss Drive,Lordly Knuckleridge,F1,Champion L1 Mid,B
+MV-SIG-KND-009-09,Oath Plateau Sequence,Symphonic Studplate,F1,Champion L1 Mid,B
+MV-SIG-KND-009-10,Open Plateau Oath Flash Cross,Feather Haymaker,F1,Demigod L1 Low,B
+MV-SIG-KND-009-11,Open Plateau Sworn Line Blow,Dauntless Inferno Knuckleplate,F6a,Champion L1 Mid,B
+MV-SIG-KND-010-01,Bearing Knuckle Lead,Haemal Brawl,F2,Ruler L1 Low,B
+MV-SIG-KND-010-02,Gale Bearing Fist Pace,Slabsolace,F4,Ruler L1 Low,B
+MV-SIG-KND-010-03,Bearing Cover Hold,Sanctum Brassring,F2,Ruler L1 Low,B
+MV-SIG-KND-010-04,Gale Rim Tap,Ruling Handfill,F1,Ruler L1 Low,B
+MV-SIG-KND-010-05,Held Bearing Hook Run,Paramount Brassrim,F1,Ruler L1 Low,B
+MV-SIG-KND-010-06,Bearing Redirect Counter,Pallslab,F5,Ruler L1 Low,B
+MV-SIG-KND-010-07,Bearing Arm Bind,Sigil Ringband,F2,Ruler L1 Low,B
+MV-SIG-KND-010-08,Bearing False Line Feint,Phantasm Brawl,F2,Ruler L1 Low,B
+MV-SIG-KND-010-09,Gale Bearing Boss Pierce,Majestic Brawl,F1,Ruler L1 Low,B
+MV-SIG-KND-010-10,Gale Bearing Sequence Run,Destiny Uppercut,F2,Ruler L1 Low,B
+MV-SIG-KND-010-11,Gale Bearing Flash Strike,Ringgrace,F4,Demigod L1 Low,B
+MV-SIG-KND-010-12,Gale Bearing Held Line Strike,Dauntless Vacuum Brassrim,F6a,Ruler L1 Low,B
+MV-SIG-KND-011-01,Bare Wind Jab,Steel Bandarch,F2,Demigod L6 High,B
+MV-SIG-KND-011-02,Open Step Drift,Overhand Odyssey,F3,Demigod L6 High,B
+MV-SIG-KND-011-03,Bare Guard Field,Inviolate Handfill,F1,Demigod L6 High,B
+MV-SIG-KND-011-04,Bare Wind Hook Chain,Brassring Verdict,F3,Demigod L6 High,B
+MV-SIG-KND-011-05,Open Parry Return,Parity Knuckleplate,F2,Demigod L6 High,B
+MV-SIG-KND-011-06,Bare Field Press,Tyrannous Studplate,F1,Demigod L6 High,B
+MV-SIG-KND-011-07,Bare Wind Boss Drive,Radiance Haymaker,F2,Demigod L6 High,B
+MV-SIG-KND-011-08,Bare Field Sequence,Hooking Crown,F3,Demigod L6 High,B
+MV-SIG-KND-011-09,Bare Wind Field Flash Cross,Slabodyssey,F4,Demigod L6 High,B
+MV-SIG-KND-011-10,Bare Wind Open Field Strike,Famed Thunderclap Ringband,F6a,Demigod L6 High,B
+MV-SIG-KND-012-01,Sworn Core Jab,Splendid Knockout,F1,Core Formation L3 Mid,B
+MV-SIG-KND-012-02,Core Wind Ring Step,Wraithlike Uppercut,F1,Core Formation L3 Mid,B
+MV-SIG-KND-012-03,Sworn Core Cover,Sanctum Palmbar,F2,Core Formation L3 Mid,B
+MV-SIG-KND-012-04,Core Sworn Hook,Haemal Studplate,F2,Core Formation L3 Mid,B
+MV-SIG-KND-012-05,Core Bearing Counter,Pall Knuckleridge,F2,Core Formation L3 Mid,B
+MV-SIG-KND-012-06,Core Oath Bind,Sigilring,F5,Core Formation L3 Mid,B
+MV-SIG-KND-012-07,Core Gust Rap,Pealstud,F5,Core Formation L3 Mid,B
+MV-SIG-KND-012-08,Core Oath Boss Drive,Magnificent Knuckleridge,F1,Core Formation L3 Mid,B
+MV-SIG-KND-012-09,Core Sworn Sequence,Knuckedict,F4,Core Formation L3 Mid,B
+MV-SIG-KND-012-10,Core Oath Flash Cross,Ringband Voyage,F3,Core Formation L3 Mid,B
+MV-SIG-KND-012-11,Sworn Core Duster Strike,Valiant Squall Overhand,F6a,Core Formation L3 Mid,B
+MV-SIG-KND-003-03,Sanctum Brassrim,Steadfast Brassrim,F2,Champion L3 High,B
+MV-SIG-KND-004-03,Hornbeam Brassring,Unyielding Brassring,F2,Ruler L1 Mid,B
+MV-SIG-KND-005-02,Dune Knuckleplate,Surging Knuckleplate,F2,Demigod L4 Low,B
+MV-SIG-KND-010-03,Sanctum Brassring,Adamant Brassring,F2,Ruler L1 Low,B
+MV-SIG-KND-012-03,Sanctum Palmbar,Ironclad Palmbar,F2,Core Formation L3 Mid,B

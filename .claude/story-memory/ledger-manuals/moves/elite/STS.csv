@@ -1,0 +1,169 @@
+move_id,manual_id,seq,name,move_type,function,form,cost_class,unlock_realm,description,status,first_area
+MV-ELI-STS-001-01,MAN-ELI-STS-001,01,Merciless Tang,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Open with a cut that sets the guard and the return line at once.,Active,Not yet established
+MV-ELI-STS-001-02,MAN-ELI-STS-001,02,Unconquered Fuller,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Hold the sword in a paired guard with qi in both the high and the low line.,Active,Not yet established
+MV-ELI-STS-001-03,MAN-ELI-STS-001,03,Phantom Feint,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Advance in the measured two-step of the court so that cut and guard stay joined.,Active,Not yet established
+MV-ELI-STS-001-04,MAN-ELI-STS-001,04,Chimefuller,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,Parry a cut and return the same cut along the foe's own line.,Active,Not yet established
+MV-ELI-STS-001-05,MAN-ELI-STS-001,05,Overpowering Midrib,Intermediate,Control:Bind,CHANNELED,LOW,Senior L1 Low,Bind the foe's sword between the swordsman's own two edges with field qi.,Active,Not yet established
+MV-ELI-STS-001-06,MAN-ELI-STS-001,06,Tempered Riposte,Intermediate,Attack:Strike,CHANNELED,LOW,Senior L1 Low,"Run a chain of paired cuts, the first opening and the second landing.",Active,Not yet established
+MV-ELI-STS-001-07,MAN-ELI-STS-001,07,Granite Foible,Advanced,Attack:Area,INSTANT,MODERATE,Champion L1 Low,"Sweep the blade through both courts of the guard, cutting every foe in the arc.",Active,Not yet established
+MV-ELI-STS-001-08,MAN-ELI-STS-001,08,Crossbar Valor,Advanced,Defense:Reflect,CHANNELED,MODERATE,Champion L1 Low,Cover both lines with qi so that a blow on one side comes back on the other.,Active,Not yet established
+MV-ELI-STS-001-09,MAN-ELI-STS-001,09,Tempered Pommel,Elite,Attack:Penetrating,INSTANT,HIGH,Demigod L1 Low,"Close the court with a single thrust the foe cannot guard, because both guards were already spent.",Active,Not yet established
+MV-ELI-STS-002-01,MAN-ELI-STS-002,01,Tempered Ricasso,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Cut with a wide opening of both arms like a hawk spreading its wings.,Active,Not yet established
+MV-ELI-STS-002-02,MAN-ELI-STS-002,02,Aegis Forte,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Hold the sword high with qi spread above the head like the open sky.,Active,Not yet established
+MV-ELI-STS-002-03,MAN-ELI-STS-002,03,Hollowfeint,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,Fix the point on a single spot and thrust the instant the foe's guard shifts.,Active,Not yet established
+MV-ELI-STS-002-04,MAN-ELI-STS-002,04,Glissade Slipstream,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Drop and rise with a light springing step ready to stoop or climb.,Active,Not yet established
+MV-ELI-STS-002-05,MAN-ELI-STS-002,05,Forte Durance,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,Rise into a parry that lifts the foe's blade clear of the body.,Active,Not yet established
+MV-ELI-STS-002-06,MAN-ELI-STS-002,06,Mayhem Quillon,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,Beat down the foe's blade from above with a pulse of qi in the edge.,Active,Not yet established
+MV-ELI-STS-002-07,MAN-ELI-STS-002,07,Tempered Envelop,Intermediate,Attack:Strike,CHANNELED,LOW,Senior L1 Low,Stoop again and again in a chain of falling cuts that gain force.,Active,Not yet established
+MV-ELI-STS-002-08,MAN-ELI-STS-002,08,Ironleaf,Advanced,Attack:Penetrating,CAST,MODERATE,Champion L1 Low,"Gather qi in the point, rise on a long breath, and dive onto the foe with a single piercing thrust.",Active,Not yet established
+MV-ELI-STS-002-09,MAN-ELI-STS-002,09,Unassailable Leaf,Advanced,Defense:Reflect,CHANNELED,MODERATE,Champion L1 Low,Hold the high guard so a cut struck against it rebounds to its sender.,Active,Not yet established
+MV-ELI-STS-002-10,MAN-ELI-STS-002,10,Phantom Quillon Blink,Elite,Mobility:Flash,INSTANT,HIGH,Demigod L1 Low,Vanish upward from the foe's sight and drop at his flank with the edge already cutting.,Active,Not yet established
+MV-ELI-STS-003-01,MAN-ELI-STS-003,01,Brutalizing Cutover,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Cut along the first track with the guard track held ready.,Active,Not yet established
+MV-ELI-STS-003-02,MAN-ELI-STS-003,02,Pommel Obduracy,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Hold the second track as a guard while the first track strikes.,Active,Not yet established
+MV-ELI-STS-003-03,MAN-ELI-STS-003,03,Crossbar Reckoning,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,Join both tracks in a single thrust that leaves no guard open.,Active,Not yet established
+MV-ELI-STS-003-04,MAN-ELI-STS-003,04,Torrent Foible,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Step along one fork of the track and then the other to unsettle the foe.,Active,Not yet established
+MV-ELI-STS-003-05,MAN-ELI-STS-003,05,Midribscourge,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Cut in a basin-like curve that draws the foe's guard inward.,Active,Not yet established
+MV-ELI-STS-003-06,MAN-ELI-STS-003,06,Equipoise Fuller,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,Swap tracks mid-parry so the foe's cut meets the second track's guard.,Active,Not yet established
+MV-ELI-STS-003-07,MAN-ELI-STS-003,07,Strangling Glissade,Intermediate,Control:Suppress,CHANNELED,LOW,Senior L1 Low,Press the foe with both tracks at once so that he must give ground.,Active,Not yet established
+MV-ELI-STS-003-08,MAN-ELI-STS-003,08,Sanguine Beat,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,Join a rising edge from one track with a falling edge from the other.,Active,Not yet established
+MV-ELI-STS-003-09,MAN-ELI-STS-003,09,Lacerating Tang,Advanced,Attack:Projectile,INSTANT,MODERATE,Champion L1 Low,Send a joined wave of qi from the blade along both tracks to strike at a distance.,Active,Not yet established
+MV-ELI-STS-003-10,MAN-ELI-STS-003,10,Glintmidrib,Advanced,Defense:Reflect,CHANNELED,MODERATE,Champion L1 Low,Cover both tracks with qi so every blow is returned along its own line.,Active,Not yet established
+MV-ELI-STS-003-11,MAN-ELI-STS-003,11,Might Leaf,Elite,Attack:Strike,CAST,HIGH,Demigod L1 Low,Gather both tracks into a single cut at a moment the foe cannot meet either.,Active,Not yet established
+MV-ELI-STS-004-01,MAN-ELI-STS-004,01,Ricasso Wrath,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Rise from a deep stance into a cut with qi gathered low in the hips.,Active,Not yet established
+MV-ELI-STS-004-02,MAN-ELI-STS-004,02,Charter Forte,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Settle into a deep stance with qi pooled low and the blade held steady.,Active,Not yet established
+MV-ELI-STS-004-03,MAN-ELI-STS-004,03,Decimating Beat,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,Thrust beneath the foe's guard with the point following the low river of qi.,Active,Not yet established
+MV-ELI-STS-004-04,MAN-ELI-STS-004,04,Ghosting Riposte,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Settle onto the lead foot with each pace so that the stance grows deeper as it advances.,Active,Not yet established
+MV-ELI-STS-004-05,MAN-ELI-STS-004,05,Gustpommel,Basic,Defense:Deflect,INSTANT,MINIMAL,T1 Unawakened,Turn aside a cut with a calm parry that gives and returns like still water.,Active,Not yet established
+MV-ELI-STS-004-06,MAN-ELI-STS-004,06,Merciless Feint,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,Pour the qi gathered in the stance down the blade in a single heavy cut.,Active,Not yet established
+MV-ELI-STS-004-07,MAN-ELI-STS-004,07,Overpowering Ricasso,Intermediate,Control:Bind,CHANNELED,LOW,Senior L1 Low,Pull the foe's sword down and aside in a bind like a river current.,Active,Not yet established
+MV-ELI-STS-004-08,MAN-ELI-STS-004,08,Toxin Cutover,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,Beat the foe's blade with qi rising from the low stance.,Active,Not yet established
+MV-ELI-STS-004-09,MAN-ELI-STS-004,09,Tempered Feint,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,Slice around the rim of the foe's guard with the edge following a curved path.,Active,Not yet established
+MV-ELI-STS-004-10,MAN-ELI-STS-004,10,Siltpommel,Advanced,Attack:Area,INSTANT,MODERATE,Champion L1 Low,Release the pooled qi at once in a wide low sweep of the edge.,Active,Not yet established
+MV-ELI-STS-004-11,MAN-ELI-STS-004,11,Unassailable Foible,Advanced,Defense:Reflect,CHANNELED,MODERATE,Champion L1 Low,Hold the basin guard so blows enter and return along the river's line.,Active,Not yet established
+MV-ELI-STS-004-12,MAN-ELI-STS-004,12,Crushing Envelop,Elite,Attack:TrueDamage,INSTANT,HIGH,Demigod L1 Low,Drive the point down with the whole depth of the basin's qi through the foe's defence.,Active,Not yet established
+MV-ELI-STS-005-01,MAN-ELI-STS-005,01,Shattering Crossbar,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Dive onto the foe with a quick cut and rise before he answers.,Active,Not yet established
+MV-ELI-STS-005-02,MAN-ELI-STS-005,02,Evergreen Quillon,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Hold a guard that flows round each blow like a river round a stone.,Active,Not yet established
+MV-ELI-STS-005-03,MAN-ELI-STS-005,03,Facetforte,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,Thrust with a long running stride that carries the point across a wide gap.,Active,Not yet established
+MV-ELI-STS-005-04,MAN-ELI-STS-005,04,Dazzling Tang,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Land on one foot like a perched hawk and hold still before the next move.,Active,Not yet established
+MV-ELI-STS-005-05,MAN-ELI-STS-005,05,Pommelvalor,Basic,Defense:Deflect,INSTANT,MINIMAL,T1 Unawakened,Receive a cut on the flat and let it run along the blade like water along a bank.,Active,Not yet established
+MV-ELI-STS-005-06,MAN-ELI-STS-005,06,Blaze Leaf,Intermediate,Attack:Strike,CHANNELED,LOW,Senior L1 Low,Link stoops and flowing cuts in a long chain that never stops moving.,Active,Not yet established
+MV-ELI-STS-005-07,MAN-ELI-STS-005,07,Midribnerve,Intermediate,Control:Bind,CHANNELED,LOW,Senior L1 Low,Close the quillons on the foe's blade like claws and hold it still.,Active,Not yet established
+MV-ELI-STS-005-08,MAN-ELI-STS-005,08,Feintmettle,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,Draw the foe's blade along the flat in a long pull that tears it from his hand.,Active,Not yet established
+MV-ELI-STS-005-09,MAN-ELI-STS-005,09,Pommel Havoc,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,Cut from a height like a river falling over a ledge.,Active,Not yet established
+MV-ELI-STS-005-10,MAN-ELI-STS-005,10,Tangscourge,Advanced,Attack:Area,INSTANT,MODERATE,Champion L1 Low,Sweep the blade in a wide arc that dives and rises like a hawk over water.,Active,Not yet established
+MV-ELI-STS-005-11,MAN-ELI-STS-005,11,Ponderous Riposte,Advanced,Attack:Suppression,CHANNELED,MODERATE,Champion L1 Low,Hold the point at the foe's face in a stare that pins him in place.,Active,Not yet established
+MV-ELI-STS-005-12,MAN-ELI-STS-005,12,Nova Beat,Advanced,Attack:Projectile,CAST,MODERATE,Champion L1 Low,Gather qi in a long arc and send a flowing blade wave that cuts at a distance.,Active,Not yet established
+MV-ELI-STS-005-13,MAN-ELI-STS-005,13,Glintpommel,Elite,Mobility:Flash,INSTANT,HIGH,Demigod L1 Low,Cross the gap to the foe in an instant and cut with the edge at his flank.,Active,Not yet established
+MV-ELI-STS-006-01,MAN-ELI-STS-006,01,Rumble Glissade,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Cut from a paired guard that also covers the line of the return.,Active,Not yet established
+MV-ELI-STS-006-02,MAN-ELI-STS-006,02,Midribvalor,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Hold a stooping guard with the blade angled and qi gathered above.,Active,Not yet established
+MV-ELI-STS-006-03,MAN-ELI-STS-006,03,Rumble Fuller,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,"Thrust twice on the same line, the second behind the first.",Active,Not yet established
+MV-ELI-STS-006-04,MAN-ELI-STS-006,04,Phantom Midrib,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Move two paces as one so the sword advances in a continuous line.,Active,Not yet established
+MV-ELI-STS-006-05,MAN-ELI-STS-006,05,Unsparing Envelop,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,Parry then stoop onto the foe's blade and cut through the opening.,Active,Not yet established
+MV-ELI-STS-006-06,MAN-ELI-STS-006,06,Gyve Foible,Intermediate,Control:Bind,CHANNELED,LOW,Senior L1 Low,Bind the foe's blade with both the guard and the stoop in one hold.,Active,Not yet established
+MV-ELI-STS-006-07,MAN-ELI-STS-006,07,Chime Glissade,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,Beat the foe's blade twice in rapid succession and break his hold.,Active,Not yet established
+MV-ELI-STS-006-08,MAN-ELI-STS-006,08,Facet Midrib,Advanced,Defense:Reflect,CHANNELED,MODERATE,Champion L1 Low,Cover the body with the paired guard and return each blow.,Active,Not yet established
+MV-ELI-STS-006-09,MAN-ELI-STS-006,09,Granite Leaf,Advanced,Attack:Area,INSTANT,MODERATE,Champion L1 Low,Stoop low with the edge following round to sweep every enemy within the circling cut.,Active,Not yet established
+MV-ELI-STS-006-10,MAN-ELI-STS-006,10,Tempered Quillon,Elite,Attack:Penetrating,INSTANT,HIGH,Demigod L1 Low,Finish a guard exchange with a stoop whose double thrust cannot be parried by the paired guard.,Active,Not yet established
+MV-ELI-STS-007-01,MAN-ELI-STS-007,01,Sanguine Pommel,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Cut down from the high guard with the sky behind the edge.,Active,Not yet established
+MV-ELI-STS-007-02,MAN-ELI-STS-007,02,Indomitable Fuller,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Hold the sword up and open so qi can spread above and around.,Active,Not yet established
+MV-ELI-STS-007-03,MAN-ELI-STS-007,03,Fullerscourge,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,Drive the point straight down the line from a high stance.,Active,Not yet established
+MV-ELI-STS-007-04,MAN-ELI-STS-007,04,Silt Cutover,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Rise on the toes and advance with a light springing pace.,Active,Not yet established
+MV-ELI-STS-007-05,MAN-ELI-STS-007,05,Adamantine Crossbar,Basic,Defense:Deflect,INSTANT,MINIMAL,T1 Unawakened,Beat aside a cut with a sweeping upward stroke like a wing.,Active,Not yet established
+MV-ELI-STS-007-06,MAN-ELI-STS-007,06,Envelop Reckoning,Intermediate,Attack:Strike,CHANNELED,LOW,Senior L1 Low,"Chain cuts downward from the high guard, each cut falling from higher.",Active,Not yet established
+MV-ELI-STS-007-07,MAN-ELI-STS-007,07,Gyve Forte,Intermediate,Control:Bind,CHANNELED,LOW,Senior L1 Low,Raise the foe's blade into the high guard and lock it with qi.,Active,Not yet established
+MV-ELI-STS-007-08,MAN-ELI-STS-007,08,Toxin Tang,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,Beat the foe's blade out and down from a high stance.,Active,Not yet established
+MV-ELI-STS-007-09,MAN-ELI-STS-007,09,Chimebeat,Advanced,Attack:Projectile,INSTANT,MODERATE,Champion L1 Low,Send a falling crescent of qi from the edge as the cut descends.,Active,Not yet established
+MV-ELI-STS-007-10,MAN-ELI-STS-007,10,Pommelspine,Advanced,Defense:Reflect,CHANNELED,MODERATE,Champion L1 Low,Cover the head and shoulders with a high guard that sends blows back.,Active,Not yet established
+MV-ELI-STS-007-11,MAN-ELI-STS-007,11,Gnashing Blaze Midrib,Elite,Attack:Strike,CAST,HIGH,Demigod L1 Low,"Raise the blade slowly, gathering qi, then bring it down in one cut that breaks the foe's guard.",Active,Not yet established
+MV-ELI-STS-008-01,MAN-ELI-STS-008,01,Rumbleleaf,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Open with a long cut along the first track while the second waits.,Active,Not yet established
+MV-ELI-STS-008-02,MAN-ELI-STS-008,02,Impervious Ricasso,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Hold the guard along the second track with steady qi.,Active,Not yet established
+MV-ELI-STS-008-03,MAN-ELI-STS-008,03,Novaforte,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,Thrust along the long track from a deep lunge.,Active,Not yet established
+MV-ELI-STS-008-04,MAN-ELI-STS-008,04,Foiblenerve,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,Parry on the second track and return along the first.,Active,Not yet established
+MV-ELI-STS-008-05,MAN-ELI-STS-008,05,Mastering Beat,Intermediate,Control:Bind,CHANNELED,LOW,Senior L1 Low,Bind the foe's blade at the reach of the sword and hold it.,Active,Not yet established
+MV-ELI-STS-008-06,MAN-ELI-STS-008,06,Mastering Riposte,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,Beat the foe's blade on one track then the other.,Active,Not yet established
+MV-ELI-STS-008-07,MAN-ELI-STS-008,07,Glissade Scourge,Advanced,Attack:Area,INSTANT,MODERATE,Champion L1 Low,Sweep both tracks in a wide arc that reaches all foes at the sword's measure.,Active,Not yet established
+MV-ELI-STS-008-08,MAN-ELI-STS-008,08,Glint Quillon,Advanced,Defense:Reflect,CHANNELED,MODERATE,Champion L1 Low,Cover both tracks and send each blow back along its own line.,Active,Not yet established
+MV-ELI-STS-008-09,MAN-ELI-STS-008,09,Beathavoc,Elite,Attack:Strike,CAST,HIGH,Demigod L1 Low,Pull both tracks together into one cut that reaches beyond the blade's length.,Active,Not yet established
+MV-ELI-STS-009-01,MAN-ELI-STS-009,01,Rumble Cutover,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,"Open with a cut like the first gust, wide and full of force.",Active,Not yet established
+MV-ELI-STS-009-02,MAN-ELI-STS-009,02,Unassailable Ricasso,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,"Hold the blade open and sworn to its line, giving no ground to the cut.",Active,Not yet established
+MV-ELI-STS-009-03,MAN-ELI-STS-009,03,Eviscerating Cutover,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,Thrust with a sudden fall of the weight like a gust dropping from the plateau.,Active,Not yet established
+MV-ELI-STS-009-04,MAN-ELI-STS-009,04,Tangblink,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Run forward in long strides across open ground with the blade level.,Active,Not yet established
+MV-ELI-STS-009-05,MAN-ELI-STS-009,05,Mayhem Foible,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,Beat aside the foe's blade and step into the line.,Active,Not yet established
+MV-ELI-STS-009-06,MAN-ELI-STS-009,06,Gustmidrib,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,Sweep the foe's cut wide with a long parry like a gust through a field.,Active,Not yet established
+MV-ELI-STS-009-07,MAN-ELI-STS-009,07,Tempered Beat,Intermediate,Attack:Strike,CHANNELED,LOW,Senior L1 Low,Chain cuts without retreat so the foe never finds a gap.,Active,Not yet established
+MV-ELI-STS-009-08,MAN-ELI-STS-009,08,Mayhempommel,Advanced,Attack:Area,INSTANT,MODERATE,Champion L1 Low,Sweep the blade in a great flat arc as a gale sweeps the plateau.,Active,Not yet established
+MV-ELI-STS-009-09,MAN-ELI-STS-009,09,Glamour Midrib,Advanced,Defense:Reflect,CHANNELED,MODERATE,Champion L1 Low,Hold the open guard so the gale of a returning blow strikes the foe.,Active,Not yet established
+MV-ELI-STS-009-10,MAN-ELI-STS-009,10,Lightning Tang,Elite,Mobility:Flash,INSTANT,HIGH,Demigod L1 Low,Cross the plateau in a gust-quick rush and cut in the same motion.,Active,Not yet established
+MV-ELI-STS-010-01,MAN-ELI-STS-010,01,Granite Crossbar,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Cut with the gale behind the edge from a stance at the open rim.,Active,Not yet established
+MV-ELI-STS-010-02,MAN-ELI-STS-010,02,Fortespine,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Hold the guard at the plateau rim with qi spread wide.,Active,Not yet established
+MV-ELI-STS-010-03,MAN-ELI-STS-010,03,Hollowforte,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,Thrust along the line of the wind with a long reaching arm.,Active,Not yet established
+MV-ELI-STS-010-04,MAN-ELI-STS-010,04,Torrent Leaf,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Move along the rim in short balanced steps that never lose the line.,Active,Not yet established
+MV-ELI-STS-010-05,MAN-ELI-STS-010,05,Pommeldurance,Intermediate,Control:Bind,CHANNELED,LOW,Senior L1 Low,Press the foe's blade and hold it with qi as steadily as the wind.,Active,Not yet established
+MV-ELI-STS-010-06,MAN-ELI-STS-010,06,Torrent Forte,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,Turn the blade and let the foe's cut slide off like wind round a cliff.,Active,Not yet established
+MV-ELI-STS-010-07,MAN-ELI-STS-010,07,Blazeforte,Intermediate,Attack:Strike,CHANNELED,LOW,Senior L1 Low,Chain wide cuts across open ground without lowering the guard.,Active,Not yet established
+MV-ELI-STS-010-08,MAN-ELI-STS-010,08,Chime Pommel,Advanced,Attack:Projectile,INSTANT,MODERATE,Champion L1 Low,Send a long crescent of qi from the edge that carries across open ground.,Active,Not yet established
+MV-ELI-STS-010-09,MAN-ELI-STS-010,09,Impervious Leaf,Advanced,Defense:Reflect,CHANNELED,MODERATE,Champion L1 Low,Hold the open rim guard so a blow struck against it comes back.,Active,Not yet established
+MV-ELI-STS-010-10,MAN-ELI-STS-010,10,Unsparing Gust Riposte,Elite,Attack:Strike,CAST,HIGH,Demigod L1 Low,Gather the gale into the point of the blade and cut as it breaks.,Active,Not yet established
+MV-ELI-STS-011-01,MAN-ELI-STS-011,01,Eviscerating Fuller,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Take a bearing and cut along it in a single sworn stroke.,Active,Not yet established
+MV-ELI-STS-011-02,MAN-ELI-STS-011,02,Thorn Pommel,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Hold the blade on its bearing so that the foe must go round it.,Active,Not yet established
+MV-ELI-STS-011-03,MAN-ELI-STS-011,03,Rumbleforte,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,Thrust along the held bearing without letting the line waver.,Active,Not yet established
+MV-ELI-STS-011-04,MAN-ELI-STS-011,04,Granite Midrib,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Walk the bearing toward the foe in steady steps.,Active,Not yet established
+MV-ELI-STS-011-05,MAN-ELI-STS-011,05,Equipoise Foible,Basic,Defense:Deflect,INSTANT,MINIMAL,T1 Unawakened,Parry by checking the foe's blade in the direction of the wind.,Active,Not yet established
+MV-ELI-STS-011-06,MAN-ELI-STS-011,06,Mightmidrib,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,Turn the bearing in mid-cut and strike from a new angle.,Active,Not yet established
+MV-ELI-STS-011-07,MAN-ELI-STS-011,07,Gyve Envelop,Intermediate,Control:Bind,CHANNELED,LOW,Senior L1 Low,Bind the foe's blade and hold the bearing until he gives way.,Active,Not yet established
+MV-ELI-STS-011-08,MAN-ELI-STS-011,08,Mayhem Beat,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,Beat the foe's blade off its bearing and take the line.,Active,Not yet established
+MV-ELI-STS-011-09,MAN-ELI-STS-011,09,Beatruin,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,Slip the edge past the guard on a bearing the foe cannot read.,Active,Not yet established
+MV-ELI-STS-011-10,MAN-ELI-STS-011,10,Ferocious Cutover,Advanced,Attack:Suppression,CHANNELED,MODERATE,Champion L1 Low,Hold the bearing on the foe until he cannot move without opening his guard.,Active,Not yet established
+MV-ELI-STS-011-11,MAN-ELI-STS-011,11,Mangling Forte,Advanced,Attack:Projectile,INSTANT,MODERATE,Champion L1 Low,Send a thin line of qi from the edge along the bearing to reach a distant foe.,Active,Not yet established
+MV-ELI-STS-011-12,MAN-ELI-STS-011,12,Booming Nova Envelop,Elite,Attack:Penetrating,CAST,HIGH,Demigod L1 Low,Take the final bearing and thrust in one sworn motion that holds to the end.,Active,Not yet established
+MV-ELI-STS-012-01,MAN-ELI-STS-012,01,Sanguine Feint,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Cut along a bearing taken from beyond the foe's reach.,Active,Not yet established
+MV-ELI-STS-012-02,MAN-ELI-STS-012,02,Charter Tang,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Hold the bearing line before the body with qi steady along the blade.,Active,Not yet established
+MV-ELI-STS-012-03,MAN-ELI-STS-012,03,Riposte Scourge,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,Thrust the full length of the line from a deep lunge.,Active,Not yet established
+MV-ELI-STS-012-04,MAN-ELI-STS-012,04,Midribvortex,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Cross a long gap in a few paces that keep the blade on its bearing.,Active,Not yet established
+MV-ELI-STS-012-05,MAN-ELI-STS-012,05,Torrent Fuller,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,Turn aside a cut while the point holds the line to the foe's throat.,Active,Not yet established
+MV-ELI-STS-012-06,MAN-ELI-STS-012,06,Gustbeat,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,Draw the edge along the foe's blade from the bearing and cut the hand.,Active,Not yet established
+MV-ELI-STS-012-07,MAN-ELI-STS-012,07,Intent Ricasso,Intermediate,Control:Suppress,CHANNELED,LOW,Senior L1 Low,Press down the foe's blade with steady qi and hold it there.,Active,Not yet established
+MV-ELI-STS-012-08,MAN-ELI-STS-012,08,Rampaging Glissade,Advanced,Attack:Area,INSTANT,MODERATE,Champion L1 Low,Sweep the long line of the blade in a wide arc across all enemies near.,Active,Not yet established
+MV-ELI-STS-012-09,MAN-ELI-STS-012,09,Glamour Quillon,Advanced,Defense:Reflect,CHANNELED,MODERATE,Champion L1 Low,Hold the line firmly so a cut against it rebounds.,Active,Not yet established
+MV-ELI-STS-012-10,MAN-ELI-STS-012,10,Midribblink,Elite,Mobility:Phase,INSTANT,HIGH,Demigod L1 Low,Move through the foe's guard along the bearing as though it were not there and cut behind.,Active,Not yet established
+MV-ELI-STS-013-01,MAN-ELI-STS-013,01,Corroding Envelop,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Cut in a wide sweep that leaves no part of the body covered.,Active,Not yet established
+MV-ELI-STS-013-02,MAN-ELI-STS-013,02,Hoarfrost Foible,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Stand without cover and hold the open line with qi along the blade.,Active,Not yet established
+MV-ELI-STS-013-03,MAN-ELI-STS-013,03,Novamidrib,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,Thrust bare along the open line with no guard held back.,Active,Not yet established
+MV-ELI-STS-013-04,MAN-ELI-STS-013,04,Silt Leaf,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Stride across open ground in long steps that cover the gap in a breath.,Active,Not yet established
+MV-ELI-STS-013-05,MAN-ELI-STS-013,05,Chime Feint,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,Beat the foe's blade off the open line and enter.,Active,Not yet established
+MV-ELI-STS-013-06,MAN-ELI-STS-013,06,Flintlike Ricasso,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,Bend the parry with the wind and let the foe's cut pass.,Active,Not yet established
+MV-ELI-STS-013-07,MAN-ELI-STS-013,07,Ironpommel,Intermediate,Attack:Strike,CHANNELED,LOW,Senior L1 Low,Chain cuts that never close the guard and keep the foe moving back.,Active,Not yet established
+MV-ELI-STS-013-08,MAN-ELI-STS-013,08,Nova Pommel,Advanced,Attack:Projectile,INSTANT,MODERATE,Champion L1 Low,Send a broad crescent of qi from the edge that crosses open ground.,Active,Not yet established
+MV-ELI-STS-013-09,MAN-ELI-STS-013,09,Crossbar Durance,Advanced,Defense:Reflect,CHANNELED,MODERATE,Champion L1 Low,Hold the open stance and return each blow along its own line.,Active,Not yet established
+MV-ELI-STS-013-10,MAN-ELI-STS-013,10,Glint Feint,Elite,Attack:Penetrating,INSTANT,HIGH,Demigod L1 Low,Strike the foe's chest in a thrust that opens his guard like a rampart breached.,Active,Not yet established
+MV-ELI-STS-014-01,MAN-ELI-STS-014,01,Mightfeint,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Cut from the windward side with the force behind the edge.,Active,Not yet established
+MV-ELI-STS-014-02,MAN-ELI-STS-014,02,Tangmettle,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Hold the sworn stance with the blade steady before the chest.,Active,Not yet established
+MV-ELI-STS-014-03,MAN-ELI-STS-014,03,Ruinous Crossbar,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,Thrust along the sworn line with the point fixed.,Active,Not yet established
+MV-ELI-STS-014-04,MAN-ELI-STS-014,04,Silt Quillon,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Pace steadily across ground with the blade level and the stance wide.,Active,Not yet established
+MV-ELI-STS-014-05,MAN-ELI-STS-014,05,Torrent Tang,Basic,Defense:Deflect,INSTANT,MINIMAL,T1 Unawakened,Turn the parry on the sworn line and cut back at once.,Active,Not yet established
+MV-ELI-STS-014-06,MAN-ELI-STS-014,06,Gyvetang,Intermediate,Control:Bind,CHANNELED,LOW,Senior L1 Low,Bind the foe's sword upwind and hold it.,Active,Not yet established
+MV-ELI-STS-014-07,MAN-ELI-STS-014,07,Mayhemfeint,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,Beat the foe's blade down on a sworn line.,Active,Not yet established
+MV-ELI-STS-014-08,MAN-ELI-STS-014,08,Sanguine Midrib,Intermediate,Attack:Strike,CHANNELED,LOW,Senior L1 Low,Chain cuts from the same side without breaking the line.,Active,Not yet established
+MV-ELI-STS-014-09,MAN-ELI-STS-014,09,Riposte Devastation,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,Cut a wide flat arc from the windward side that forces the foe back.,Active,Not yet established
+MV-ELI-STS-014-10,MAN-ELI-STS-014,10,Glamour Forte,Advanced,Defense:Reflect,CHANNELED,MODERATE,Champion L1 Low,Hold the sworn guard so each blow returns to its sender.,Active,Not yet established
+MV-ELI-STS-014-11,MAN-ELI-STS-014,11,Devastating Glissade,Advanced,Attack:Suppression,CHANNELED,MODERATE,Champion L1 Low,Hold the point on the foe's centre until he cannot advance.,Active,Not yet established
+MV-ELI-STS-014-12,MAN-ELI-STS-014,12,Tempered Cutover,Elite,Attack:Strike,CAST,HIGH,Demigod L1 Low,Finish the exchange with one cut sworn to the windward line that nothing breaks.,Active,Not yet established
+MV-ELI-STS-015-01,MAN-ELI-STS-015,01,Vengeful Feint,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Take a bearing and cut along it with the force of a sudden gust.,Active,Not yet established
+MV-ELI-STS-015-02,MAN-ELI-STS-015,02,Unrelenting Fuller,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Hold the guard steady in the face of the foe's cut as against a gale.,Active,Not yet established
+MV-ELI-STS-015-03,MAN-ELI-STS-015,03,Glint Beat,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,Thrust along the bearing with the weight of the gale behind the body.,Active,Not yet established
+MV-ELI-STS-015-04,MAN-ELI-STS-015,04,Unseen Forte,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Surge forward in a quick step like a gust and pause.,Active,Not yet established
+MV-ELI-STS-015-05,MAN-ELI-STS-015,05,Equipoise Pommel,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,Check the foe's blade on its bearing and turn it.,Active,Not yet established
+MV-ELI-STS-015-06,MAN-ELI-STS-015,06,Overpowering Tang,Intermediate,Control:Bind,CHANNELED,LOW,Senior L1 Low,Hold the foe's sword in a bind steady as a gale.,Active,Not yet established
+MV-ELI-STS-015-07,MAN-ELI-STS-015,07,Mangling Beat,Intermediate,Attack:Strike,INSTANT,LOW,Senior L1 Low,Slip the edge past the guard on a new bearing.,Active,Not yet established
+MV-ELI-STS-015-08,MAN-ELI-STS-015,08,Facet Feint,Advanced,Attack:Projectile,INSTANT,MODERATE,Champion L1 Low,Send a hard crescent of qi from the edge along the bearing.,Active,Not yet established
+MV-ELI-STS-015-09,MAN-ELI-STS-015,09,Siltfuller,Advanced,Attack:Area,INSTANT,MODERATE,Champion L1 Low,Sweep the edge in a great arc that hits everything within the blade's reach.,Active,Not yet established
+MV-ELI-STS-015-10,MAN-ELI-STS-015,10,Grievous Riposte,Elite,Attack:Strike,CAST,HIGH,Demigod L1 Low,Hold a breath and release the whole gale into the edge in one cut along the bearing.,Active,Not yet established
+MV-ELI-STS-016-01,MAN-ELI-STS-016,01,Granite Quillon,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Cut at the limit of the sword's reach with the sworn line held.,Active,Not yet established
+MV-ELI-STS-016-02,MAN-ELI-STS-016,02,Facet Crossbar,Basic,Defense:Shield,CHANNELED,MINIMAL,T1 Unawakened,Hold the blade open in the wind with qi steady along it.,Active,Not yet established
+MV-ELI-STS-016-03,MAN-ELI-STS-016,03,Lacerating Cutover,Basic,Attack:Penetrating,INSTANT,MINIMAL,T1 Unawakened,Thrust at the limit of reach with the arm fully extended.,Active,Not yet established
+MV-ELI-STS-016-04,MAN-ELI-STS-016,04,Unrelenting Ricasso,Intermediate,Defense:Deflect,INSTANT,LOW,Senior L1 Low,Turn a cut aside at the end of the foe's reach and strike back.,Active,Not yet established
+MV-ELI-STS-016-05,MAN-ELI-STS-016,05,Thornfeint,Intermediate,Control:Bind,CHANNELED,LOW,Senior L1 Low,Bind the foe's blade at the limit of reach.,Active,Not yet established
+MV-ELI-STS-016-06,MAN-ELI-STS-016,06,Hogtying Midrib,Intermediate,Control:Disrupt,INSTANT,LOW,Senior L1 Low,Beat the foe's blade off the sworn line and step in.,Active,Not yet established
+MV-ELI-STS-016-07,MAN-ELI-STS-016,07,Blaze Glissade,Advanced,Attack:Area,INSTANT,MODERATE,Champion L1 Low,Sweep the blade at the limit of its reach across all foes near.,Active,Not yet established
+MV-ELI-STS-016-08,MAN-ELI-STS-016,08,Waning Fuller,Advanced,Defense:Reflect,CHANNELED,MODERATE,Champion L1 Low,Hold the wind guard so blows return to the foe.,Active,Not yet established
+MV-ELI-STS-016-09,MAN-ELI-STS-016,09,Hellish Leaf,Elite,Attack:Strike,CAST,HIGH,Demigod L1 Low,Gather the wind to the point of the sword and cut beyond the blade's length.,Active,Not yet established

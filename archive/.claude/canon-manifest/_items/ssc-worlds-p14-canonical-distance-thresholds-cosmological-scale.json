@@ -1,0 +1,66 @@
+{
+ "skill_id": "ssc-worlds-p14-canonical-distance-thresholds-cosmological-scale",
+ "part": 14,
+ "area": 3,
+ "sequence_in_part": 3,
+ "title": "Canonical Distance Thresholds by Cosmological Scale",
+ "domain": "worlds",
+ "source_file": "Part_14_World_Systems_Distance_Law.md",
+ "start_line": 318,
+ "end_line": 386,
+ "line_count": 69,
+ "output_path": ".claude/skills/ssc-worlds-p14-canonical-distance-thresholds-cosmological-scale/SKILL.md",
+ "has_stale_python_block": false,
+ "related": [
+  {
+   "skill_id": "ssc-cultivation-p05-foundational-principles-governing-mandate",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Weapon ranges in combat use Part 14 CMS units"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-governance-areas-overview",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Weapon ranges in combat use Part 14 CMS units"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-immutable-principles",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Weapon ranges in combat use Part 14 CMS units"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-combat-initiation-legitimacy",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Weapon ranges in combat use Part 14 CMS units"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-escalation-tier-classification-system",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Weapon ranges in combat use Part 14 CMS units"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-engagement-recognition-mutuality-law",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Weapon ranges in combat use Part 14 CMS units"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-intensity-containment-boundaries",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Weapon ranges in combat use Part 14 CMS units"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-third-party-proxy-combat-rules",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Weapon ranges in combat use Part 14 CMS units"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-battlefield-spatial-cosmological-constraints",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Weapon ranges in combat use Part 14 CMS units"
+  },
+  {
+   "skill_id": "ssc-cultivation-p05-multi-faction-chaos-stabilization",
+   "relation": "HARD",
+   "source": "Part 34 Area 5: Weapon ranges in combat use Part 14 CMS units"
+  }
+ ]
+}

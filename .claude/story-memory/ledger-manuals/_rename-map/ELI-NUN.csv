@@ -1,0 +1,132 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-NUN-001-01,Azure Paired Orbit Stance,Facet Roundstick,F2,Demigod,B
+MV-ELI-NUN-001-02,Paired Orbit Rim Cut,Dowelwrath,F4,Demigod,B
+MV-ELI-NUN-001-03,Twin-Orbit Lateral Glide,Staveglare,F4,Demigod,B
+MV-ELI-NUN-001-04,Orbit Pair Weapon Pin,Numbing Gripstick,F1,Demigod,B
+MV-ELI-NUN-001-05,Paired Orbit Deflecting Wheel,Indomitable Capstick,F1,Demigod,B
+MV-ELI-NUN-001-06,Cross-Orbit Knee Strike,Lacerating Stickend,F1,Demigod,B
+MV-ELI-NUN-001-07,Orbit Pair Shearing Close,Stavewrath,F4,Demigod,B
+MV-ELI-NUN-001-08,Interleaved Orbit Cage,Doctrine Octastick,F2,Demigod,B
+MV-ELI-NUN-001-09,Convergent Double-Orbit Crossing,Expanse Neckwrap,F2,Demigod,B
+MV-ELI-NUN-002-01,Hawk-Winged Ready Fold,Facet Swingstick,F2,Demigod,B
+MV-ELI-NUN-002-02,Hinge-Wing Down Strike,Ironstave,F5,Demigod,B
+MV-ELI-NUN-002-03,Wing-Beat Hop Step,Mightrod,F5,Demigod,B
+MV-ELI-NUN-002-04,Hinge Fold Parry,Murkstave,F5,Demigod,B
+MV-ELI-NUN-002-05,Talon Cord Clip,Rumble Sidespin,F2,Demigod,B
+MV-ELI-NUN-002-06,Double Hinge Rising Strike,Rodscourge,F4,Demigod,B
+MV-ELI-NUN-002-07,Wing-Pair Bind Pull,Strangling Cascade,F1,Demigod,B
+MV-ELI-NUN-002-08,Hinge-Wing Counter Spin,Gust Hardstick,F2,Demigod,B
+MV-ELI-NUN-002-09,Double Hinge Plunge,Facet Tiedend,F2,Demigod,B
+MV-ELI-NUN-002-10,Pinion Sweep,Slagstave,F5,Demigod,B
+MV-ELI-NUN-002-11,Winged Vanishing Cross,Glint Shoulderroll,F2,Demigod,B
+MV-ELI-NUN-003-01,Basin-Still Guard,Indomitable Chainjoint,F1,Void God,B
+MV-ELI-NUN-003-02,Riverbend Rod Cut,Iron Fliparound,F2,Void God,B
+MV-ELI-NUN-003-03,Current-Following Rod Step,Torrent Swingstick,F2,Void God,B
+MV-ELI-NUN-003-04,Eddy Cord Catch,Gust Capstick,F2,Void God,B
+MV-ELI-NUN-003-05,Spillway Cord Press,Octastick Reckoning,F3,Void God,B
+MV-ELI-NUN-003-06,Eddying Weapon Bind,Ponderous Fliparound,F2,Void God,B
+MV-ELI-NUN-003-07,Undertow Ankle Pull,Gripstick Mettle,F3,Void God,B
+MV-ELI-NUN-003-08,Floodwater Rod Surge,Dismantling Backspin,F2,Void God,B
+MV-ELI-NUN-003-09,Basin-Fill Cord Cage,Equipoise Stickend,F2,Void God,B
+MV-ELI-NUN-003-10,Basin Release Reversal,Impervious Chainjoint,F1,Void God,B
+MV-ELI-NUN-004-01,Dual-Track Compendium Stance,Iron Cordjoint,F2,Void God,B
+MV-ELI-NUN-004-02,Pair-Rod Down Cleave,Stavescourge,F4,Void God,B
+MV-ELI-NUN-004-03,Track-Exchange Slide,Might Shoulderroll,F2,Void God,B
+MV-ELI-NUN-004-04,Pair-Rod Cross Block,Murk Cordjoint,F2,Void God,B
+MV-ELI-NUN-004-05,Track-Reading Cord Tap,Toxinclack,F5,Void God,B
+MV-ELI-NUN-004-06,Alternating Track Flurry,Tempered Roundstick,F2,Void God,B
+MV-ELI-NUN-004-07,Track-Locked Arm Bind,Numbing Cascade,F1,Void God,B
+MV-ELI-NUN-004-08,Dual Track Shield Roll,Hoarfrost Capstick,F2,Void God,B
+MV-ELI-NUN-004-09,Cord-Track Hip Throw Lash,Chimeclack,F5,Void God,B
+MV-ELI-NUN-004-10,Twin Track Penetrating Drive,Iron Neckwrap,F2,Void God,B
+MV-ELI-NUN-004-11,Track Weave Sweeping Ring,Downpour Backspin,F2,Void God,B
+MV-ELI-NUN-004-12,Dual-Track Running Chain,Hourrod,F5,Void God,B
+MV-ELI-NUN-004-13,Compendium Seal Strike,Maiming Charter Hardstick,F6a,Void God,B
+MV-ELI-NUN-005-01,Crossed-Court Stance,Thorn Swingstick,F2,True God,B
+MV-ELI-NUN-005-02,Court-Crossing Cut,Hardstick Ruin,F3,True God,B
+MV-ELI-NUN-005-03,Courtyard Pace Step,Roundstick Whirlpool,F3,True God,B
+MV-ELI-NUN-005-04,Gateless Orbit Parry,Gustrod,F5,True God,B
+MV-ELI-NUN-005-05,Court Bell Snap,Chime Chainjoint,F2,True God,B
+MV-ELI-NUN-005-06,Crossing Orbit Press,Granite Stickend,F2,True God,B
+MV-ELI-NUN-005-07,Court Pair Cord Bind,Gyve Gripstick,F2,True God,B
+MV-ELI-NUN-005-08,Inner Court Counter,Gust Tiedend,F2,True God,B
+MV-ELI-NUN-005-09,Court-Exchange Sidelong Lash,Eviscerating Neckwrap,F1,True God,B
+MV-ELI-NUN-005-10,Crossed Orbit Great Press,Ponderous Cordjoint,F2,True God,B
+MV-ELI-NUN-005-11,Four-Court Reckoning,Hour Tiedend,F2,True God,B
+MV-ELI-NUN-005-12,Courtless Crossing Phase,Ghosting Shoulderroll Vortex,F6b,True God,B
+MV-ELI-NUN-006-01,Descending Hawk Perch,Rodmettle,F4,True God,B
+MV-ELI-NUN-006-02,Plummet Rod Strike,Iron Backspin,F2,True God,B
+MV-ELI-NUN-006-03,Slope Glide Step,Torrent Fliparound,F2,True God,B
+MV-ELI-NUN-006-04,Falling Cord Guard,Hoarfrost Gripstick,F2,True God,B
+MV-ELI-NUN-006-05,Hawk-Drop Wrist Hook,Gyveclack,F5,True God,B
+MV-ELI-NUN-006-06,Rebounding Descent Cut,Sanguine Sidespin,F2,True God,B
+MV-ELI-NUN-006-07,Falling Rod Cleave,Cascade Havoc,F3,True God,B
+MV-ELI-NUN-006-08,Hawk-Stoop Pinning Fall,Ponderous Backspin,F2,True God,B
+MV-ELI-NUN-006-09,Unturnable Descent,Corroding Hardstick,F1,True God,B
+MV-ELI-NUN-007-01,Plateau Cord Carry,Dowelnerve,F4,Demigod,B
+MV-ELI-NUN-007-02,Open-Ground Rod Swing,Iron Tiedend,F2,Demigod,B
+MV-ELI-NUN-007-03,Rough-Ground Stride,Mightdowel,F5,Demigod,B
+MV-ELI-NUN-007-04,Weather-Proof Parry,Murk Chainjoint,F2,Demigod,B
+MV-ELI-NUN-007-05,Long-Reach Cord Hook,Hoarfrost Sidespin,F2,Demigod,B
+MV-ELI-NUN-007-06,Plateau Wind Cord Press,Shade Capstick,F2,Demigod,B
+MV-ELI-NUN-007-07,Hillside Cord Trip,Rumble Neckwrap,F2,Demigod,B
+MV-ELI-NUN-007-08,Plateau Edge Sweep,Silt Swingstick,F2,Demigod,B
+MV-ELI-NUN-007-09,Cord-Anchored Line Hold,Deeddowel,F5,Demigod,B
+MV-ELI-NUN-007-10,Plateau-Crossing Cord Seal,Immobilizing Cordjoint,F1,Demigod,B
+MV-ELI-NUN-008-01,Oath-Rise Stance,Roundstick Mettle,F3,Demigod,B
+MV-ELI-NUN-008-02,Gale-Lifted Rod Cut,Rumblewhirr,F5,Demigod,B
+MV-ELI-NUN-008-03,Rising Draft Step,Granite Cascade,F2,Demigod,B
+MV-ELI-NUN-008-04,Sworn Rod Hold Parry,Unrelenting Roundstick,F1,Demigod,B
+MV-ELI-NUN-008-05,Updraft Cord Snap,Toxin Shoulderroll,F2,Demigod,B
+MV-ELI-NUN-008-06,Rising Orbit Lash,Blaze Stickend,F2,Demigod,B
+MV-ELI-NUN-008-07,Sworn Orbit Press,Ponderous Octastick,F2,Demigod,B
+MV-ELI-NUN-008-08,Gale Hook Disarm,Dowelspine,F4,Demigod,B
+MV-ELI-NUN-008-09,Gale-Rise Binding Coil,Gyvewhirr,F5,Demigod,B
+MV-ELI-NUN-008-10,Rising Gale Great Orbit,Berserk Tiedend,F1,Demigod,B
+MV-ELI-NUN-008-11,Oath-Bearing Overhead Fall,Whirrscourge,F4,Demigod,B
+MV-ELI-NUN-008-12,Oathkeeper's Rising Reach,Headlong Sidespin,F1,Demigod,B
+MV-ELI-NUN-009-01,Open Plateau Bearing Stance,Facet Cordjoint,F2,Void God,B
+MV-ELI-NUN-009-02,Marked-Line Rod Drop,Blistering Cascade,F1,Void God,B
+MV-ELI-NUN-009-03,Bearing-Held Rod Pace,Ghosting Hardstick,F1,Void God,B
+MV-ELI-NUN-009-04,Held-Bearing Cord Check,Rumble Fliparound,F2,Void God,B
+MV-ELI-NUN-009-05,Bearing Deflect and Return,Murk Capstick,F2,Void God,B
+MV-ELI-NUN-009-06,Plateau Line Press,Shade Stickend,F2,Void God,B
+MV-ELI-NUN-009-07,Bearing Tether Cast,Gyvestave,F5,Void God,B
+MV-ELI-NUN-009-08,Fixed Mark Penetrating Fall,Neckwrap Wrath,F3,Void God,B
+MV-ELI-NUN-009-09,Plateau Horizon Strike,Wrathful Rumble Swingstick,F6a,Void God,B
+MV-ELI-NUN-010-01,Windborne Cord Hold,Octastick Nerve,F3,Void God,B
+MV-ELI-NUN-010-02,Cord-Cast Wind Cut,Lacerating Octastick,F1,Void God,B
+MV-ELI-NUN-010-03,Wind-Following Step,Rodblink,F4,Void God,B
+MV-ELI-NUN-010-04,Recall Deflect,Murk Gripstick,F2,Void God,B
+MV-ELI-NUN-010-05,Wind-Sworn Cord Tap,Strangling Fliparound,F1,Void God,B
+MV-ELI-NUN-010-06,Windborne Orbit Lash,Blazerod,F5,Void God,B
+MV-ELI-NUN-010-07,Cast Cord Weapon Haul,Mayhem Sidespin,F2,Void God,B
+MV-ELI-NUN-010-08,Windborne Bind Spiral,Fastening Capstick,F2,Void God,B
+MV-ELI-NUN-010-09,Sworn Cord Great Sweep,Dismantling Shoulderroll,F2,Void God,B
+MV-ELI-NUN-010-10,Windborne Cord Snare Field,Novastave,F5,Void God,B
+MV-ELI-NUN-010-11,Windborne Recall Cut,Blinding Backspin,F1,Void God,B
+MV-ELI-NUN-011-01,Sworn Bearing Twin Stance,Whirrdurance,F4,True God,B
+MV-ELI-NUN-011-02,True-Line Double Drop,Rumble Cordjoint,F2,True God,B
+MV-ELI-NUN-011-03,Bearing Pivot Step,Meteoric Stickend,F1,True God,B
+MV-ELI-NUN-011-04,Twin-Rod Bearing Block,Roddurance,F4,True God,B
+MV-ELI-NUN-011-05,Wind-Check Cord Snap,Toxin Chainjoint,F2,True God,B
+MV-ELI-NUN-011-06,Held-Oath Alternating Lash,Wrathful Tiedend,F1,True God,B
+MV-ELI-NUN-011-07,Bearing-Taken Wrist Bind,Suffocating Shoulderroll,F1,True God,B
+MV-ELI-NUN-011-08,Sworn Line Press,Ponderous Hardstick,F2,True God,B
+MV-ELI-NUN-011-09,Bearing Shield Turn,Octastick Valor,F3,True God,B
+MV-ELI-NUN-011-10,Sworn Twin Rod Overhead,Lacerating Cascade,F1,True God,B
+MV-ELI-NUN-011-11,Bearing Great Orbit,Downpour Gripstick,F2,True God,B
+MV-ELI-NUN-011-12,Oath-Chained Sequence,Doctrine Chainjoint,F2,True God,B
+MV-ELI-NUN-011-13,Bearing-Sealed Meridian Rap,Deedrod,F5,True God,B
+MV-ELI-NUN-012-01,Open Sky Orbit Stance,Aegis Roundstick,F2,True God,B
+MV-ELI-NUN-012-02,Free Orbit Sweep Cut,Titanic Swingstick,F1,True God,B
+MV-ELI-NUN-012-03,Open Sky Pace,Rodflash,F4,True God,B
+MV-ELI-NUN-012-04,Windward Cord Brace,Chimedowel,F5,True God,B
+MV-ELI-NUN-012-05,Sky-Reach Orbit Press,Rodwrath,F4,True God,B
+MV-ELI-NUN-012-06,Free-Circling Wrist Bind,Gyve Backspin,F2,True God,B
+MV-ELI-NUN-012-07,Orbit-Exit Counter,Flintlike Swingstick,F1,True God,B
+MV-ELI-NUN-012-08,Unwalled Orbit Sweep,Mayhem Fliparound,F2,True God,B
+MV-ELI-NUN-012-09,Sky-Fall Penetrating Orbit,Shoulderroll Devastation,F3,True God,B
+MV-ELI-NUN-012-10,Open Sky Vanishing Orbit,Expanse Sidespin,F2,True God,B
+MV-ELI-NUN-001-09,Expanse Neckwrap,Streaking Neckwrap,F2,Demigod,B
+MV-ELI-NUN-012-10,Expanse Sidespin,Thundering Sidespin,F2,True God,B

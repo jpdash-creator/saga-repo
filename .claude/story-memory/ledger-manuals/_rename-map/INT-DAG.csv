@@ -1,0 +1,79 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-DAG-001-01,Plain Draw Slash,Hungry Tuck,F1,Senior,A
+MV-INT-DAG-001-02,Deep Hilt Hook Pull,Clutching Needleside,F1,Senior,A
+MV-INT-DAG-001-03,Steel Heel Drop Stab,Tuckflog,F4,Senior,A
+MV-INT-DAG-001-04,Narrow Throwing Flick,Raw Sidle,F1,Senior,A
+MV-INT-DAG-001-05,Plain Sleeve Pin,Viselike Fingerloop,F1,Senior,A
+MV-INT-DAG-001-06,Plain Side Rib Thrust,Twinbite Scorer,F3,Senior,A
+MV-INT-DAG-001-07,Narrow Whip Cut Return,Brisk Waistspine,F1,Senior,A
+MV-INT-DAG-001-08,Plain Tendon Hook Slash,Prod Prop,F3,Senior,A
+MV-INT-DAG-002-01,Clean Spine Tap Stab,Grippad Slap,F3,Senior,A
+MV-INT-DAG-002-02,Single Shoulder Read,Sheathbandage,F4,Senior,A
+MV-INT-DAG-002-03,Clean Edge Parry,Resolute Basehilt,F1,Senior,A
+MV-INT-DAG-002-04,Two-Count Blade Cover Step,Armored Vestpoint,F1,Senior,A
+MV-INT-DAG-002-05,Single Jab Series,Hungry Scratch,F1,Senior,A
+MV-INT-DAG-002-06,Clean Step-Through Stab,Slinking Rondelknob,F1,Senior,A
+MV-INT-DAG-002-07,Patient Gap-Seeking Thrust,Harsh Scalepoint,F1,Senior,A
+MV-INT-DAG-003-01,Inside Slip Parry,Haze Twinbite,F2,Warrior,B
+MV-INT-DAG-003-02,Low Crouch Entry,Krishurdle,F4,Warrior,B
+MV-INT-DAG-003-03,Steel Forearm Block,Hiltbar Carapace,F3,Warrior,B
+MV-INT-DAG-003-04,Low Boot Draw Stab,Static Slip,F2,Warrior,B
+MV-INT-DAG-003-05,Inside Pivot Step,Coasting Nip,F1,Warrior,B
+MV-INT-DAG-003-06,Steel Rising Gut Stab,Shard Fingerloop,F2,Warrior,B
+MV-INT-DAG-003-07,Low Paired Throw,Vicious Waistspine,F1,Warrior,B
+MV-INT-DAG-003-08,Even Veil Feint,Lassoing Rondelknob,F1,Warrior,B
+MV-INT-DAG-003-09,Even Inside Line Hook,Splice Scalepoint,F2,Warrior,B
+MV-INT-DAG-004-01,Firm Heel Drop Stab,Rugged Prod,F1,Senior,A
+MV-INT-DAG-004-02,Slow Dark Grip Check,Fangbandage,F4,Senior,A
+MV-INT-DAG-004-03,Slow Palm Press Cut,Brisk Grippad,F1,Senior,A
+MV-INT-DAG-004-04,Narrow Forearm Block,Guarding Hiltbar,F1,Senior,A
+MV-INT-DAG-004-05,Firm Pulse Pommel Strike,Keen Basehilt,F1,Senior,A
+MV-INT-DAG-004-06,Firm Paired Throw,Prodflog,F4,Senior,A
+MV-INT-DAG-005-01,Clean Wrist Hook,Weighty Sidle,F2,Warrior,B
+MV-INT-DAG-005-02,Slow Blade Cover Step,Sprig Waistspine,F2,Warrior,B
+MV-INT-DAG-005-03,Outside False Draw,Fangprop,F4,Warrior,B
+MV-INT-DAG-005-04,Hidden Throwing Flick,Cometfang,F5,Warrior,B
+MV-INT-DAG-005-05,Slow Spine Tap Stab,Grim Needleside,F1,Warrior,B
+MV-INT-DAG-005-06,Clean Elbow Lever,Galltuck,F5,Warrior,B
+MV-INT-DAG-005-07,Slow Reverse Grip Stab,Gleamkris,F5,Warrior,B
+MV-INT-DAG-005-08,Even Leaf Guard,Needleside Prop,F3,Warrior,B
+MV-INT-DAG-005-09,Clean Qi-Edged Draw,Bold Nip,F1,Warrior,B
+MV-INT-DAG-005-10,Hidden Tendon Hook Slash,Viselike Basehilt,F1,Warrior,B
+MV-INT-DAG-006-01,Low Off-Hand Trap,Lassoing Hiltbar,F1,Senior,A
+MV-INT-DAG-006-02,Low Sleeve Pin,Lassoing Slip,F1,Senior,A
+MV-INT-DAG-006-03,Short Draw Slash,Bold Scratch,F1,Senior,A
+MV-INT-DAG-006-04,Low Shuffle Step,Coasting Scalepoint,F1,Senior,A
+MV-INT-DAG-006-05,Three-Count Throwing Flick,Rugged Nip,F1,Senior,A
+MV-INT-DAG-006-06,Low Elbow Lever,Fanghasp,F4,Senior,A
+MV-INT-DAG-006-07,Three-Count Seam Probe,Twinbite Tonic,F3,Senior,A
+MV-INT-DAG-006-08,Narrow Pulse Read,Tenderhearted Vestpoint,F1,Senior,A
+MV-INT-DAG-007-01,Slow Counter Check,Padded Rondelknob,F1,Warrior,B
+MV-INT-DAG-007-02,Patient Pivot Step,Sidleglide,F4,Warrior,B
+MV-INT-DAG-007-03,Calm Off-Hand Trap,Tethering Slip,F1,Warrior,B
+MV-INT-DAG-007-04,Steel False Draw,Tuck Prop,F3,Warrior,B
+MV-INT-DAG-007-05,Patient Wrist Hook,Sprigprod,F5,Warrior,B
+MV-INT-DAG-007-06,Cold Tendon Hook Slash,Statictuck,F5,Warrior,B
+MV-INT-DAG-007-07,Calm Veil Feint,Discord Scratch,F2,Warrior,B
+MV-INT-DAG-008-01,Clean Heel Drop Stab,Tuckslap,F4,Senior,A
+MV-INT-DAG-008-02,Three-Count Side Rib Thrust,Krisscorer,F4,Senior,A
+MV-INT-DAG-008-03,Single Feint Jab,Sidle Prop,F3,Senior,A
+MV-INT-DAG-008-04,Single Point Thrust,Wild Prod,F1,Senior,A
+MV-INT-DAG-008-05,Turning Wrist Hook,Tethering Grippad,F1,Senior,A
+MV-INT-DAG-008-06,Single Shuffle Step,Ducking Scratch,F1,Senior,A
+MV-INT-DAG-008-07,Single Spiral Wrist Cut,Krisflog,F4,Senior,A
+MV-INT-DAG-008-08,Single Leaf Guard,Krishasp,F4,Senior,A
+MV-INT-DAG-008-09,Single Sliding Hip Stab,Fleet Nip,F1,Senior,A
+MV-INT-DAG-009-01,Double Crouch Entry,Draught Fingerloop,F2,Warrior,B
+MV-INT-DAG-009-02,Single Thigh Cut,Brasstuck,F5,Warrior,B
+MV-INT-DAG-009-03,Slow Jab Series,Hiltbar Scorer,F3,Warrior,B
+MV-INT-DAG-009-04,Double Sheath Draw Cut,Crimson Tuck,F2,Warrior,B
+MV-INT-DAG-009-05,Slow Tendon Hook Slash,Gall Grippad,F2,Warrior,B
+MV-INT-DAG-009-06,Rising Veil Feint,Recall Prod,F2,Warrior,B
+MV-INT-DAG-010-01,Tidy Hip Hold Guard,Stalwart Basehilt,F1,Senior,A
+MV-INT-DAG-010-02,Deep Elbow Lever,Sheathprop,F4,Senior,A
+MV-INT-DAG-010-03,Half-Breath Palm Press Cut,Sidleswat,F4,Senior,A
+MV-INT-DAG-010-04,Deep False Draw,Fangbarrier,F4,Senior,A
+MV-INT-DAG-010-05,Deep Side Rib Thrust,Brisk Fingerloop,F1,Senior,A
+MV-INT-DAG-010-06,Half-Breath Crouch Entry,Kriscurl,F4,Senior,A
+MV-INT-DAG-010-07,Falling Cross Catch Guard,Shielding Vestpoint,F1,Senior,A
+MV-INT-DAG-010-08,Falling Veil Feint,Sheathbarrier,F4,Senior,A

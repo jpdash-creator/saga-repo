@@ -1,0 +1,128 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-GRS-001-01,Guarded Cleave Opening,Wrecking Haul,F1,Champion L1 Low,B
+MV-ADV-GRS-001-02,Cleave and Cover Pace,Longgrip Sprint,F3,Champion L1 Low,B
+MV-ADV-GRS-001-03,Closed Guard Raise,Iron Rondel,F2,Champion L1 Low,B
+MV-ADV-GRS-001-04,Guard-Breaking Beat,Mayhemflange,F5,Champion L1 Low,B
+MV-ADV-GRS-001-05,Cleave Behind the Guard,Rumble Greatedge,F2,Champion L1 Low,B
+MV-ADV-GRS-001-06,Qi-Hardened Cover,Iron Lugs,F2,Champion L1 Low,B
+MV-ADV-GRS-001-07,Rebound Cleave,Murkflange,F5,Champion L1 Low,B
+MV-ADV-GRS-001-08,Full-Meridian Heavy Cleave,Wrenchassault,F4,Champion L1 Low,B
+MV-ADV-GRS-001-09,Closed-Body Cleaving Run,Interlocking Hiltwrap,F1,Champion L1 Low,B
+MV-ADV-GRS-002-01,Tip Travel Gauge,Remnant Heft,F2,Demigod L1 Low,B
+MV-ADV-GRS-002-02,Extension Practice Cut,Mightrondel,F5,Demigod L1 Low,B
+MV-ADV-GRS-002-03,Reaching Parry Sweep,Murk Counterweight,F2,Demigod L1 Low,B
+MV-ADV-GRS-002-04,Field Edge Step,Silt Mulinet,F2,Demigod L1 Low,B
+MV-ADV-GRS-002-05,Tip Line Thrust,Might Wrench,F2,Demigod L1 Low,B
+MV-ADV-GRS-002-06,Qi Reach Cut,Tearing Bulk,F1,Demigod L1 Low,B
+MV-ADV-GRS-002-07,Extended Piercing Thrust,Glintrondel,F5,Demigod L1 Low,B
+MV-ADV-GRS-002-08,Reach Pressing Sweep,Hefttorment,F4,Demigod L1 Low,B
+MV-ADV-GRS-002-09,Edge Beyond Steel,Iron Greatsweep,F2,Demigod L1 Low,B
+MV-ADV-GRS-002-10,Field-Held Edge Arc,Slag Lugs,F2,Demigod L1 Low,B
+MV-ADV-GRS-003-01,Advance Behind the Blade,Gust Crossbeam,F2,Champion L3 Mid,B
+MV-ADV-GRS-003-02,Pressing Overhead Cut,Gust Mulinet,F2,Champion L3 Mid,B
+MV-ADV-GRS-003-03,Forward Crossguard Shove,Chimebulk,F5,Champion L3 Mid,B
+MV-ADV-GRS-003-04,Moving Parry Line,Gust Hiltwrap,F2,Champion L3 Mid,B
+MV-ADV-GRS-003-05,Forward Qi Surge Cut,Sanguine Flange,F2,Champion L3 Mid,B
+MV-ADV-GRS-003-06,Advancing Guard Press,Facetflange,F5,Champion L3 Mid,B
+MV-ADV-GRS-003-07,Guard-Shattering Advance,Wrench Onslaught,F3,Champion L1 Low,B
+MV-ADV-GRS-003-08,Relentless Press Sequence,Doctrine Windmill,F2,Champion L1 Low,B
+MV-ADV-GRS-004-01,Sequence Opening Hew,Rumble Counterweight,F2,Demigod L2 Low,B
+MV-ADV-GRS-004-02,Sequence Middle Hew,Trouncing Haul,F1,Demigod L2 Low,B
+MV-ADV-GRS-004-03,Sequence Closing Hew,Ironflange,F5,Demigod L2 Low,B
+MV-ADV-GRS-004-04,Steel Weight Parry,Gustheft,F5,Demigod L2 Low,B
+MV-ADV-GRS-004-05,Interval Pace,Silt Bulk,F2,Demigod L2 Low,B
+MV-ADV-GRS-004-06,Gap Reading Pause,Longgrip Linctus,F3,Demigod L2 Low,B
+MV-ADV-GRS-004-07,Qi-Linked Hew Pair,Tempered Greatedge,F2,Demigod L2 Low,B
+MV-ADV-GRS-004-08,Heavy Steel Counter Turn,Equipoise Crossbeam,F2,Demigod L2 Low,B
+MV-ADV-GRS-004-09,Sequence Guard Chain,Thornrondel,F5,Demigod L2 Low,B
+MV-ADV-GRS-004-10,Five Hew Heavy Sequence,Doctrine Overswing,F2,Demigod L2 Low,B
+MV-ADV-GRS-004-11,Sequence Breaker Cleave,Scything Overswing,F1,Demigod L2 Low,B
+MV-ADV-GRS-005-01,Complete Opening Cut,Sanguine Windmill,F2,Ruler L1 Low,B
+MV-ADV-GRS-005-02,Complete Thrust,Rondel Barrage,F3,Ruler L1 Low,B
+MV-ADV-GRS-005-03,Complete Cover Guard,Unbroken Heft,F1,Ruler L1 Low,B
+MV-ADV-GRS-005-04,Complete Step Cycle,Torrent Greatsweep,F2,Ruler L1 Low,B
+MV-ADV-GRS-005-05,Qi Complete Sweep,Trouncing Flange,F1,Ruler L1 Low,B
+MV-ADV-GRS-005-06,Qi Complete Guard Beat,Paralyzing Flange,F1,Ruler L1 Low,B
+MV-ADV-GRS-005-07,Whole Method Cleave,Harrowing Heft,F1,Ruler L1 Low,B
+MV-ADV-GRS-005-08,Whole Method Parry,Mantled Lugs,F1,Ruler L1 Low,B
+MV-ADV-GRS-005-09,Whole Method Pace,Careening Greatedge,F1,Ruler L1 Low,B
+MV-ADV-GRS-005-10,Whole Method Bind,Gyveheft,F5,Ruler L1 Low,B
+MV-ADV-GRS-005-11,Complete Two-Hand Rending Cleave,Lancing Might Bulk,F6a,Ruler L1 Low,B
+MV-ADV-GRS-005-12,Complete Two-Hand Exchange,Intertwined Overswing,F1,Ruler L1 Low,B
+MV-ADV-GRS-006-01,Paired Cut and Guard,Rumble Haul,F2,Champion L2 Low,B
+MV-ADV-GRS-006-02,Twin-Edge Turn,Gustrondel,F5,Champion L2 Low,B
+MV-ADV-GRS-006-03,Basin Footing Pace,Gust Wrench,F2,Champion L2 Low,B
+MV-ADV-GRS-006-04,River-Bend Parry,Flangehauberk,F4,Champion L2 Low,B
+MV-ADV-GRS-006-05,Twin-Edge Reversal,Granite Longgrip,F2,Champion L2 Low,B
+MV-ADV-GRS-006-06,Paired Answer Guard,Counterweight Greave,F3,Champion L2 Low,B
+MV-ADV-GRS-006-07,Dual-Track Pace Cut,Rumble Hiltwrap,F2,Champion L2 Low,B
+MV-ADV-GRS-006-08,Twin-Edge Basin Sweep,Silt Crossbeam,F2,Champion L1 Low,B
+MV-ADV-GRS-006-09,River Pair Cleave,Hourwrench,F5,Champion L1 Low,B
+MV-ADV-GRS-007-01,Hawk Perch Guard,Aegis Heft,F2,Demigod L1 Mid,B
+MV-ADV-GRS-007-02,Falling Talon Cut,Rumble Windmill,F2,Demigod L1 Mid,B
+MV-ADV-GRS-007-03,Wing-Spread Parry,Murkheft,F5,Demigod L1 Mid,B
+MV-ADV-GRS-007-04,Updraft Rising Step,Torrent Overswing,F2,Demigod L1 Mid,B
+MV-ADV-GRS-007-05,Keen-Eye Glance,Heftelixir,F4,Demigod L1 Mid,B
+MV-ADV-GRS-007-06,Hawk Dive Cut,Mightheft,F5,Demigod L1 Mid,B
+MV-ADV-GRS-007-07,Talon Hook Drag,Heftgreave,F4,Demigod L1 Mid,B
+MV-ADV-GRS-007-08,Azure Height Step,Racing Greatsweep,F1,Demigod L1 Mid,B
+MV-ADV-GRS-007-09,Hawk's Stoop,Longgrip Barrage,F3,Demigod L1 Mid,B
+MV-ADV-GRS-007-10,Circling Hawk Sweep,Raging Greatsweep,F1,Demigod L1 Mid,B
+MV-ADV-GRS-008-01,Azure Dual Cut,Tempered Counterweight,F2,Champion L5 Low,B
+MV-ADV-GRS-008-02,Dual-Track Ward,Charter Hiltwrap,F2,Champion L5 Low,B
+MV-ADV-GRS-008-03,Paired Pace Shift,Might Greatedge,F2,Champion L5 Low,B
+MV-ADV-GRS-008-04,Track Crossing Beat,Subduing Haul,F1,Champion L5 Low,B
+MV-ADV-GRS-008-05,Azure Track Cleave,Haulassault,F4,Champion L5 Low,B
+MV-ADV-GRS-008-06,Dual Guard Exchange,Chime Rondel,F2,Champion L5 Low,B
+MV-ADV-GRS-008-07,Dual-Track Heavy Cleave,Might Mulinet,F2,Champion L1 Low,B
+MV-ADV-GRS-008-08,Azure Paired Sequence,Tiered Flange,F1,Champion L1 Low,B
+MV-ADV-GRS-009-01,Court Opening Cleave,Tempered Wrench,F2,Demigod L3 Low,B
+MV-ADV-GRS-009-02,Court Answering Guard,Granite Bulk,F2,Demigod L3 Low,B
+MV-ADV-GRS-009-03,Twin Cross Chop,Heftassault,F4,Demigod L3 Low,B
+MV-ADV-GRS-009-04,Twin Cross Parry,Lugsgreave,F4,Demigod L3 Low,B
+MV-ADV-GRS-009-05,Court Pace Pair,Silt Windmill,F2,Demigod L3 Low,B
+MV-ADV-GRS-009-06,Pair Reading Pause,Verity Lugs,F2,Demigod L3 Low,B
+MV-ADV-GRS-009-07,Twin Qi Hew,Gust Longgrip,F2,Demigod L3 Low,B
+MV-ADV-GRS-009-08,Matched Guard Beat,Chime Windmill,F2,Demigod L3 Low,B
+MV-ADV-GRS-009-09,Court Pace Cut,Counterweight Onslaught,F3,Demigod L3 Low,B
+MV-ADV-GRS-009-10,Pair Holding Ward,Charter Lugs,F2,Demigod L3 Low,B
+MV-ADV-GRS-009-11,Twin-Court Heavy Edge,Granite Flange,F2,Demigod L3 Low,B
+MV-ADV-GRS-009-12,Court Judgment Sequence,Interlocking Crossbeam,F1,Demigod L3 Low,B
+MV-ADV-GRS-010-01,Wind-Sworn Opening Cut,Granite Greatedge,F2,Champion L1 Mid,B
+MV-ADV-GRS-010-02,Held Bearing Guard,Thorn Crossbeam,F2,Champion L1 Mid,B
+MV-ADV-GRS-010-03,Crosswind Sidestep,Glancing Overswing,F1,Champion L1 Mid,B
+MV-ADV-GRS-010-04,Gale Reading Glance,Restoring Heft,F1,Champion L1 Mid,B
+MV-ADV-GRS-010-05,Oath-Bound Hew,Sanguine Mulinet,F2,Champion L1 Mid,B
+MV-ADV-GRS-010-06,Bearing Turn Parry,Torrent Rondel,F2,Champion L1 Mid,B
+MV-ADV-GRS-010-07,Wind-Fed Cleave,Blaze Rondel,F2,Champion L1 Mid,B
+MV-ADV-GRS-010-08,Sworn Bearing Beat,Toxin Mulinet,F2,Champion L1 Mid,B
+MV-ADV-GRS-010-09,Wind-Step Advance,Granite Wrench,F2,Champion L1 Mid,B
+MV-ADV-GRS-010-10,Wind-Sworn Great Sweep,Raging Flange,F1,Champion L1 Low,B
+MV-ADV-GRS-010-11,Oath Fulfilled Cleave,Bulk Assault,F3,Champion L1 Low,B
+MV-ADV-GRS-011-01,Plateau Brink Stance,Facetheft,F5,Demigod L1 Low,B
+MV-ADV-GRS-011-02,Open Ground Cut,Gust Bulk,F2,Demigod L1 Low,B
+MV-ADV-GRS-011-03,Fresh Bearing Pace,Blurring Mulinet,F1,Demigod L1 Low,B
+MV-ADV-GRS-011-04,Horizon Reading Glance,Verity Counterweight,F2,Demigod L1 Low,B
+MV-ADV-GRS-011-05,Wind-Pressed Cut,Mightlugs,F5,Demigod L1 Low,B
+MV-ADV-GRS-011-06,Plateau Held Ward,Unflinching Rondel,F1,Demigod L1 Low,B
+MV-ADV-GRS-011-07,Cliff-Edge Beat,Toxinflange,F5,Demigod L1 Low,B
+MV-ADV-GRS-011-08,Plateau Edge Cleave,Longgrip Torment,F3,Demigod L1 Low,B
+MV-ADV-GRS-011-09,Bearing Held Sequence,Compounding Windmill,F1,Demigod L1 Low,B
+MV-ADV-GRS-012-01,Open Edge Cut,Rumble Greatsweep,F2,Champion L4 Low,B
+MV-ADV-GRS-012-02,Oath Spoken Stance,Steadfast Greatedge,F1,Champion L4 Low,B
+MV-ADV-GRS-012-03,Gale Sidestep Turn,Granite Haul,F2,Champion L4 Low,B
+MV-ADV-GRS-012-04,Standing Open Parry,Hiltwrap Hauberk,F3,Champion L4 Low,B
+MV-ADV-GRS-012-05,Wind Lent Chop,Gust Overswing,F2,Champion L4 Low,B
+MV-ADV-GRS-012-06,Oath-Sworn Cleave,Tempered Hiltwrap,F2,Champion L4 Low,B
+MV-ADV-GRS-012-07,Gale Turned Parry,Chime Crossbeam,F2,Champion L4 Low,B
+MV-ADV-GRS-012-08,Open Ground Binding Hold,Haulplating,F4,Champion L4 Low,B
+MV-ADV-GRS-012-09,Unwalled Heavy Cut,Flangeassault,F4,Champion L1 Low,B
+MV-ADV-GRS-012-10,Oath Standing Sweep,Bulkbarrage,F4,Champion L1 Low,B
+MV-ADV-GRS-013-01,Gale Line Down Cut,Rumblewrench,F5,Demigod L2 Mid,B
+MV-ADV-GRS-013-02,Gale Line Guard,Granite Lugs,F2,Demigod L2 Mid,B
+MV-ADV-GRS-013-03,Line Following Pace,Silthaul,F5,Demigod L2 Mid,B
+MV-ADV-GRS-013-04,Grass Lean Reading,Bulk Linctus,F3,Demigod L2 Mid,B
+MV-ADV-GRS-013-05,Gale Steel Cleave,Blazebulk,F5,Demigod L2 Mid,B
+MV-ADV-GRS-013-06,Line-Turning Parry,Staunch Rondel,F1,Demigod L2 Mid,B
+MV-ADV-GRS-013-07,Gale-Line Heavy Cut,Splitting Tempered Greatsweep,F6a,Demigod L2 Mid,B
+MV-ADV-GRS-013-08,Gale Leading Edge Sequence,Rondeltorment,F4,Demigod L2 Mid,B

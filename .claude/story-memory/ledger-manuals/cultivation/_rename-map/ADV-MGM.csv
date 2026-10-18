@@ -1,0 +1,6 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-MGM-002-01,Glowing Field,Glowing Aura,CHANNELED,T1 Unawakened,Basic
+CMV-ADV-MGM-002-02,Field Scorch,Aura Scorch,INSTANT,T1 Unawakened,Basic
+CMV-ADV-MGM-002-06,Field Smelt,Aura Smelt,CHANNELED,Senior L1 Low,Intermediate
+CMV-ADV-MGM-002-09,Smelting Field,Smelting Aura,CHANNELED,Champion L1 Low,Advanced
+CMV-ADV-MGM-003-06,Smolder Wall,Smolder Veil,CHANNELED,Senior L1 Low,Intermediate

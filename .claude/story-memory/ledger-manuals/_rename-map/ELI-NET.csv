@@ -1,0 +1,130 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-NET-001-01,Court-Salute Net Weighing,Waning Hemcord,F2,Demigod,B
+MV-ELI-NET-001-02,Mirror-Cast Pair Throw,Chime Billow,F2,Demigod,B
+MV-ELI-NET-001-03,Court-Edge Weight Drive,Rumblespread,F5,Demigod,B
+MV-ELI-NET-001-04,Paired Parry Cross,Weavevalor,F4,Demigod,B
+MV-ELI-NET-001-05,Twin-Mesh Scissor Close,Ponderous Spread,F2,Demigod,B
+MV-ELI-NET-001-06,Azure Court Step Weave,Weaveblink,F4,Demigod,B
+MV-ELI-NET-001-07,Mirrored Cord Counter-Pull,Overpowering Leadedge,F1,Demigod,B
+MV-ELI-NET-001-08,Court-Closing Net Cage,Drawcord Obduracy,F3,Demigod,B
+MV-ELI-NET-001-09,Crossing Net Barrage,Hellish Loopmesh,F1,Demigod,B
+MV-ELI-NET-001-10,Court-Verdict Net Seizure,Deed Sinker,F2,Demigod,B
+MV-ELI-NET-002-01,Hawk-Shadow Ground Reading,Chime Knotwork,F2,Demigod,B
+MV-ELI-NET-002-02,Basin-Lip Net Throw,Drape Wrath,F3,Demigod,B
+MV-ELI-NET-002-03,Pinion-Weight Backhand,Blaze Mesh,F2,Demigod,B
+MV-ELI-NET-002-04,Hawk-Circling Footwork,Billowflash,F4,Demigod,B
+MV-ELI-NET-002-05,Feathered Mesh Guard,Facet Meshgrid,F2,Demigod,B
+MV-ELI-NET-002-06,Hooked Cord Arm Grab,Hogtying Weave,F1,Demigod,B
+MV-ELI-NET-002-07,Soaring Net Draw-Up,Mayhem Drape,F2,Demigod,B
+MV-ELI-NET-002-08,Basin-Floor Pin,Shadespread,F5,Demigod,B
+MV-ELI-NET-002-09,Hawk-Cry Net Flush,Mayhem Smother,F2,Demigod,B
+MV-ELI-NET-002-10,Basin-Fall Mesh Drop,Lacerating Loopmesh,F1,Demigod,B
+MV-ELI-NET-002-11,Hawk-Descent Piercing Net,Rumble Floatrope,F2,Demigod,B
+MV-ELI-NET-003-01,River-Court Mesh Counting,Weaveinsight,F4,Demigod,B
+MV-ELI-NET-003-02,Streamline Cast,Booming Weave,F1,Demigod,B
+MV-ELI-NET-003-03,Weir-Post Hem Rap,Sinkerruin,F4,Demigod,B
+MV-ELI-NET-003-04,Undertow Drag Pull,Ponderous Knotwork,F2,Demigod,B
+MV-ELI-NET-003-05,Ripple Parry Mesh,Gustsinker,F5,Demigod,B
+MV-ELI-NET-003-06,Spillway Net Surge,Hoarfrost Mesh,F2,Demigod,B
+MV-ELI-NET-003-07,Floodplain Net Spread,Enmesh Devastation,F3,Demigod,B
+MV-ELI-NET-003-08,Backwater Snare Lay,Fastening Drawcord,F2,Demigod,B
+MV-ELI-NET-003-09,Riverbed Anchor Press,Charter Floatrope,F2,Demigod,B
+MV-ELI-NET-004-01,Far-Stake Net Sighting,Sinkervigil,F4,Demigod,B
+MV-ELI-NET-004-02,Long-Track Cast,Devastating Haulin,F1,Demigod,B
+MV-ELI-NET-004-03,Near-Track Rim Rap,Grievous Sinker,F1,Demigod,B
+MV-ELI-NET-004-04,Track-Switch Step,Torrential Leadedge,F1,Demigod,B
+MV-ELI-NET-004-05,Track-Cross Net Parry,Meshgrid Hardihood,F3,Demigod,B
+MV-ELI-NET-004-06,Far-Cast Cord Brake,Intent Smother,F2,Demigod,B
+MV-ELI-NET-004-07,Dual-Track Recall Snap,Immobilizing Hemcord,F1,Demigod,B
+MV-ELI-NET-004-08,Distant Mesh Tightening,Overbearing Haulin,F1,Demigod,B
+MV-ELI-NET-004-09,Far-Net Screen Spread,Mesh Valor,F3,Demigod,B
+MV-ELI-NET-004-10,Twin-Landing Far Cast,Blaze Knotwork,F2,Demigod,B
+MV-ELI-NET-004-11,Track-Relay Sequence,Meshruin,F4,Demigod,B
+MV-ELI-NET-004-12,Far-Track Binding Seal,Fastening Sinker,F2,Demigod,B
+MV-ELI-NET-005-01,Cadence Counting Swing,Prescient Meshgrid,F1,Demigod,B
+MV-ELI-NET-005-02,Alternating Net Throw,Pitiless Spread,F1,Demigod,B
+MV-ELI-NET-005-03,Drumbeat Rim Strike,Rumblebillow,F5,Demigod,B
+MV-ELI-NET-005-04,Cadence Step Roll,Gust Smother,F2,Demigod,B
+MV-ELI-NET-005-05,Offbeat Net Slip,Unbowed Leadedge,F1,Demigod,B
+MV-ELI-NET-005-06,Cadence-Locked Haul,Fastening Enmesh,F2,Demigod,B
+MV-ELI-NET-005-07,Skip-Beat Cord Snap,Mayhem Loopmesh,F2,Demigod,B
+MV-ELI-NET-005-08,Twin-Rhythm Trap Line,Meshspine,F4,Demigod,B
+MV-ELI-NET-005-09,Cadence Net Volley,Enmeshwrath,F4,Demigod,B
+MV-ELI-NET-005-10,Beat-Breaking Net Press,Charter Drape,F2,Demigod,B
+MV-ELI-NET-006-01,Basin-Perch Sky Reading,Waning Floatrope,F2,Void God,B
+MV-ELI-NET-006-02,Stooping Twin Cast,Nova Billow,F2,Void God,B
+MV-ELI-NET-006-03,River-Haul Hand Pull,Thorn Weave,F2,Void God,B
+MV-ELI-NET-006-04,Stoop-Recovery Step,Billowvortex,F4,Void God,B
+MV-ELI-NET-006-05,Hawk-Wing Net Brace,Sinkernerve,F4,Void God,B
+MV-ELI-NET-006-06,River-Haul Qi Heave,Spread Valor,F3,Void God,B
+MV-ELI-NET-006-07,Basin-Bowl Mesh Curtain,Aegisweave,F5,Void God,B
+MV-ELI-NET-006-08,Hawk-Kiss Cord Flick,Berserk Enmesh,F1,Void God,B
+MV-ELI-NET-006-09,River-Surge Net Sweep,Weave Ruin,F3,Void God,B
+MV-ELI-NET-006-10,Stoop-Haul Net Tempest,Downpour Drawcord,F2,Void God,B
+MV-ELI-NET-006-11,Basin-River Cinching Sequence,Doctrine Smother,F2,Void God,B
+MV-ELI-NET-006-12,Fallen-Hawk Snare,Thornsinker,F5,Void God,B
+MV-ELI-NET-006-13,Stoop-Flash Net Landing,Expanse Hemcord,F2,Void God,B
+MV-ELI-NET-007-01,Oath-Wind Cord Feel,Buoying Mesh,F1,Demigod,B
+MV-ELI-NET-007-02,Straight Oath Net Throw,Facetspread,F5,Demigod,B
+MV-ELI-NET-007-03,Wind-Edge Hem Drive,Rumble Sinker,F2,Demigod,B
+MV-ELI-NET-007-04,Gust-Reading Footwork,Mightspread,F5,Demigod,B
+MV-ELI-NET-007-05,Windward Net Fend,Equipoise Hemcord,F2,Demigod,B
+MV-ELI-NET-007-06,Oath-Cord Haul Bind,Suffocating Spread,F1,Demigod,B
+MV-ELI-NET-007-07,Backwind Mesh Slip,Leadedge Valor,F3,Demigod,B
+MV-ELI-NET-007-08,Gale-Breath Net Pull,Suffocating Haulin,F1,Demigod,B
+MV-ELI-NET-007-09,Oath-Pinned Net Lay,Meshnerve,F4,Demigod,B
+MV-ELI-NET-007-10,Wind-Sworn Net Squall,Blazesinker,F5,Demigod,B
+MV-ELI-NET-007-11,Oath Sealing Cast,Hogtying Billow Spine,F6b,Demigod,B
+MV-ELI-NET-008-01,Plateau Lift Gust Weighing,Floatrope Respite,F3,Demigod,B
+MV-ELI-NET-008-02,High-Air Net Cast,Facetsinker,F5,Demigod,B
+MV-ELI-NET-008-03,Edge-Lip Hem Hook,Suffocating Loopmesh,F1,Demigod,B
+MV-ELI-NET-008-04,Updraft Mesh Lift,Unsparing Billow,F1,Demigod,B
+MV-ELI-NET-008-05,Edge-Crouch Net Guard,Aegis Drawcord,F2,Demigod,B
+MV-ELI-NET-008-06,Plateau Drag Cinch,Meshgrid Durance,F3,Demigod,B
+MV-ELI-NET-008-07,Gale-Over-Plateau Net Sweep,Drapehavoc,F4,Demigod,B
+MV-ELI-NET-008-08,Edge-Snare Hidden Lay,Sinkerspine,F4,Demigod,B
+MV-ELI-NET-008-09,Gale-Rush Net Pursuit,Unseen Knotwork,F1,Demigod,B
+MV-ELI-NET-009-01,Bearing-Gust Balance Feel,Waningsinker,F5,Demigod,B
+MV-ELI-NET-009-02,Gust-Cast Net Throw,Blaze Hemcord,F2,Demigod,B
+MV-ELI-NET-009-03,Bearing Rim Rap,Ferocious Haulin,F1,Demigod,B
+MV-ELI-NET-009-04,Crosswind Net-Trail Slip,Granite Drape,F2,Demigod,B
+MV-ELI-NET-009-05,Gust-Thrown Net Curl,Mesh Tenacity,F3,Demigod,B
+MV-ELI-NET-009-06,Bearing-Fixed Net Stand,Adamantine Floatrope,F1,Demigod,B
+MV-ELI-NET-009-07,Sworn-Bearing Reel,Smother Valor,F3,Demigod,B
+MV-ELI-NET-009-08,Gust-Bearing Net Lattice,Lethal Leadedge,F1,Demigod,B
+MV-ELI-NET-009-09,Gust-Fall Mesh Sweep,Wrathful Meshgrid,F1,Demigod,B
+MV-ELI-NET-009-10,Endless-Bearing Net Seizure,Enthralling Charter Billow,F6a,Demigod,B
+MV-ELI-NET-010-01,Far-Wind Sworn Sighting,Weaverespite,F4,Demigod,B
+MV-ELI-NET-010-02,Sworn Far Throw,Blaze Loopmesh,F2,Demigod,B
+MV-ELI-NET-010-03,Wind-Cut Rim Slash,Tempered Drawcord,F2,Demigod,B
+MV-ELI-NET-010-04,Far-Cast Run-Up Step,Granite Knotwork,F2,Demigod,B
+MV-ELI-NET-010-05,Windward Mesh Check,Chime Floatrope,F2,Demigod,B
+MV-ELI-NET-010-06,Wind-Carried Net Extension,Devastating Sinker,F1,Demigod,B
+MV-ELI-NET-010-07,Far-Line Anchor Haul,Billownerve,F4,Demigod,B
+MV-ELI-NET-010-08,Gale-Edge Mesh Flick,Rumble Haulin,F2,Demigod,B
+MV-ELI-NET-010-09,Sworn Cord Recoil,Might Enmesh,F2,Demigod,B
+MV-ELI-NET-010-10,Far-Wind Net Ambush,Toxinweave,F5,Demigod,B
+MV-ELI-NET-010-11,Sworn Cast Recall Chain,Overlapping Enmesh,F1,Demigod,B
+MV-ELI-NET-010-12,Wind-Sworn Horizon Cast,Facetweave,F5,Demigod,B
+MV-ELI-NET-011-01,Open-Sky Watching,Healing Weave,F1,Demigod,B
+MV-ELI-NET-011-02,Skyward Net Loft,Nova Drape,F2,Demigod,B
+MV-ELI-NET-011-03,Sky-Hem Whiplash,Gust Meshgrid,F2,Demigod,B
+MV-ELI-NET-011-04,Wide-Sky Sidestep,Blinding Weave,F1,Demigod,B
+MV-ELI-NET-011-05,Sky-Cloth Net Fend,Murkweave,F5,Demigod,B
+MV-ELI-NET-011-06,Falling-Sky Net Sweep,Glint Leadedge,F2,Demigod,B
+MV-ELI-NET-011-07,Cloud-Cord Slip Haul,Harnessing Haulin,F1,Demigod,B
+MV-ELI-NET-011-08,Open-Air Mesh Pull,Strangling Billow,F1,Demigod,B
+MV-ELI-NET-011-09,Open-Sky Net Snare Field,Weavenerve,F4,Demigod,B
+MV-ELI-NET-011-10,Sky-Spread Sequence,Overlapping Hemcord,F1,Demigod,B
+MV-ELI-NET-011-11,Sky-Close Net Seizure,Mastering Mesh,F1,Demigod,B
+MV-ELI-NET-012-01,Long-Bearing Reckoning,Clairvoyant Sinker,F1,Void God,B
+MV-ELI-NET-012-02,Long-Reach Net Cast,Hoarfrost Knotwork,F2,Void God,B
+MV-ELI-NET-012-03,Bearing-Heavy Hem Strike,Ruinous Enmesh,F1,Void God,B
+MV-ELI-NET-012-04,Cord Payout Retreat,Spreadflash,F4,Void God,B
+MV-ELI-NET-012-05,Long-Line Cinch,Thorn Drawcord,F2,Void God,B
+MV-ELI-NET-012-06,Bearing Counter-Slip,Torrent Sinker,F2,Void God,B
+MV-ELI-NET-012-07,Gust-Tread Mesh Turn,Might Smother,F2,Void God,B
+MV-ELI-NET-012-08,Long Bearing Mesh Ambush,Hemcord Hardihood,F3,Void God,B
+MV-ELI-NET-012-09,Distant Haul Sequence,Intent Loopmesh,F2,Void God,B
+MV-ELI-NET-012-10,Last-Bearing Net Press,Overpowering Loopmesh Valor,F6b,Void God,B
+MV-ELI-NET-006-13,Expanse Hemcord,Hurtling Hemcord,F2,Void God,B

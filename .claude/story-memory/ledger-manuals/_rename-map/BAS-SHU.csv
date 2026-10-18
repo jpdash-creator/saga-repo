@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-SHU-001-01,Pinch Grip Flat Throw,Upward Flatpoint,F1,T1 Unawakened,A
+MV-BAS-SHU-001-02,Overhand Star Snap,Square Peppering,F1,T1 Unawakened,A
+MV-BAS-SHU-001-03,Fist-Hidden Spoke Jab,Gnawing Scatter,F1,T1 Unawakened,A
+MV-BAS-SHU-001-04,Star-Back Wrist Parry,Spokelid,F4,T1 Unawakened,A
+MV-BAS-SHU-001-05,Quarter-Turn Hip Step,Whizhop,F4,T1 Unawakened,A
+MV-BAS-SHU-001-06,Steady Breath Sighting,Tippoint Gauge,F3,T1 Unawakened,A
+MV-BAS-SHU-002-01,Sash-Fold Quick Draw,Toothbump,F4,T1 Skin,A
+MV-BAS-SHU-002-02,Cupped Palm Side Flick,Thinplate Drop,F3,T1 Skin,A
+MV-BAS-SHU-002-03,Closed Fist Spoke Punch,Edgeface Dash,F3,T1 Skin,A
+MV-BAS-SHU-002-04,Crossed Stars Face Guard,Toothlid,F4,T1 Skin,A
+MV-BAS-SHU-002-05,Heel-of-Hand Arm Shove,Locking Whiz,F1,T1 Skin,A
+MV-BAS-SHU-002-06,Retreating Two-Star Fan,Level Bladeface,F1,T1 Skin,A
+MV-BAS-SHU-002-07,Rear Foot Slide Reset,Whizskitter,F4,T1 Skin,A
+MV-BAS-SHU-003-01,Straight Arm Level Release,Low Hub,F1,T1 Skin,A
+MV-BAS-SHU-003-02,Low Underhand Star Lob,Short Cornerpoint,F1,T1 Skin,A
+MV-BAS-SHU-003-03,Spoke Scrape Across Knuckles,Hailstrike,F4,T1 Skin,A
+MV-BAS-SHU-003-04,Elbow Tuck Block,Angled Centerhole,F1,T1 Skin,A
+MV-BAS-SHU-003-05,Planted Foot Aim Hold,Measured Spoke,F1,T1 Skin,A
+MV-BAS-SHU-004-01,Pocket Pull and Throw,Firm Spoke,F1,T1 Muscle,A
+MV-BAS-SHU-004-02,Seated Star Toss,Hailblow,F4,T1 Muscle,A
+MV-BAS-SHU-004-03,Back-Fist Spoke Slash,Spokehit,F4,T1 Muscle,A
+MV-BAS-SHU-004-04,Wall-Side Star Fling,Forward Hail,F1,T1 Muscle,A
+MV-BAS-SHU-004-05,Sleeve Cuff Catch Parry,Tight Rimpoint,F1,T1 Muscle,A
+MV-BAS-SHU-004-06,Crouch Beneath the Swing,Swaying Thinplate,F1,T1 Muscle,A
+MV-BAS-SHU-004-07,Thumb Press at the Eyes,Hitching Spray,F1,T1 Muscle,A
+MV-BAS-SHU-004-08,Rapid Drill Count Throws,Hard Rimpoint,F1,T1 Muscle,A
+MV-BAS-SHU-005-01,Point-First Straight Flight,Hailbump,F4,T1 Tendon,A
+MV-BAS-SHU-005-02,Stiff-Wrist Flat Skim,Firm Edgeface,F1,T1 Tendon,A
+MV-BAS-SHU-005-03,Two-Spoke Grip Slash,Wide Hub,F1,T1 Tendon,A
+MV-BAS-SHU-005-04,Leaning Away Dodge,Sprayamble,F4,T1 Tendon,A
+MV-BAS-SHU-005-05,Forearm Roll Deflection,Spokehusk,F4,T1 Tendon,A
+MV-BAS-SHU-005-06,Three Count Rolling Throws,Hubhit,F4,T1 Tendon,A
+MV-BAS-SHU-006-01,Qi-Spun Star Release,Firm Whiz,F1,Senior L1 Low,A
+MV-BAS-SHU-006-02,Wrist Whip Spin Throw,Sharp Spray,F1,Senior L1 Low,A
+MV-BAS-SHU-006-03,Spoke Skim at Throat Height,Flat Flatpoint,F1,Senior L1 Low,A
+MV-BAS-SHU-006-04,Qi Edge Spoke Slash,Square Cornerpoint,F1,Senior L1 Low,A
+MV-BAS-SHU-006-05,Spin Stopping Palm Catch,Resting Tippoint,F1,Senior L1 Low,A
+MV-BAS-SHU-006-06,Low Sideways Step Throw,Stepping Sprinkle,F1,Senior L1 Low,A
+MV-BAS-SHU-006-07,Air Drift Judging,Soft Centerhole,F1,Senior L1 Low,A
+MV-BAS-SHU-007-01,Short Range Chest Throw,Toothdash,F4,Senior L2 Low,A
+MV-BAS-SHU-007-02,Long Arc Lofted Throw,Short Peppering,F1,Senior L2 Low,A
+MV-BAS-SHU-007-03,Range Pacing Count,Hubcount,F4,Senior L2 Low,A
+MV-BAS-SHU-007-04,Spoke Edge Palm Cut,Straight Sprinkle,F1,Senior L2 Low,A
+MV-BAS-SHU-007-05,Back Pedal Shield Turn,Tippoint Cowl,F3,Senior L2 Low,A
+MV-BAS-SHU-008-01,Sleeve Release Flick,Descending Spoke,F1,Senior L3 Low,A
+MV-BAS-SHU-008-02,Cuff Drop Underhand Throw,Whizbump,F4,Senior L3 Low,A
+MV-BAS-SHU-008-03,Hidden Spoke Cheek Slash,Low Scatter,F1,Senior L3 Low,A
+MV-BAS-SHU-008-04,Sleeve Wrapped Forearm Block,Resting Bladeface,F1,Senior L3 Low,A
+MV-BAS-SHU-008-05,Cuff Pull Away from Grabs,Peppering Husk,F3,Senior L3 Low,A
+MV-BAS-SHU-008-06,Slow Walk Concealed Carry,Hailtrot,F4,Senior L3 Low,A
+MV-BAS-SHU-008-07,Three Star Cuff Spray,Short Rimpoint,F1,Senior L3 Low,A
+MV-BAS-SHU-008-08,Shoulder Roll Retreat,Sideways Cornerpoint,F1,Senior L3 Low,A
+MV-BAS-SHU-009-01,Held Star Hooking Slash,Sprinkle Strike,F3,Senior L4 Low,A
+MV-BAS-SHU-009-02,Held Star Point Stab,Forward Edgeface,F1,Senior L4 Low,A
+MV-BAS-SHU-009-03,Spoke Lock on a Sword Guard,Whizhusk,F4,Senior L4 Low,A
+MV-BAS-SHU-009-04,Bracing Wrist Turn Guard,Planted Hub,F1,Senior L4 Low,A
+MV-BAS-SHU-009-05,Short Hop Back Throw,Open Whiz,F1,Senior L4 Low,A
+MV-BAS-SHU-009-06,Stance Settling Breath,Bladeface Gauge,F3,Senior L4 Low,A
+MV-BAS-SHU-010-01,Four-Point Flat Skim,Descending Flatpoint,F1,Senior L5 Low,A
+MV-BAS-SHU-010-02,Six-Point Heavy Fling,Sprayblow,F4,Senior L5 Low,A
+MV-BAS-SHU-010-03,Eight-Point Wrist Spin Throw,Short Thinplate,F1,Senior L5 Low,A
+MV-BAS-SHU-010-04,Many-Point Raking Slash,Spraystrike,F4,Senior L5 Low,A
+MV-BAS-SHU-010-05,Spoke Tip Joint Stab,Straight Tippoint,F1,Senior L5 Low,A
+MV-BAS-SHU-010-06,Star Edge Weapon Catch,Resting Hub,F1,Senior L5 Low,A
+MV-BAS-SHU-010-07,Staggered Odd-Size Throws,Whizdash,F4,Senior L5 Low,A

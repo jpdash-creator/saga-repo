@@ -1,0 +1,133 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-SHD-001-01,Hawk-Shield Guard Raise,Steel Enarme,F2,Warrior L2 Low,B
+MV-SIG-SHD-001-02,Hawk-Glide Footing,Squall Boss,F2,Warrior L2 Low,B
+MV-SIG-SHD-001-03,Beak-Point Rim Jab,Squallbash,F5,Warrior L2 Low,B
+MV-SIG-SHD-001-04,Pinion Turn Catch,Pall Rim,F2,Warrior L2 Low,B
+MV-SIG-SHD-001-05,Pinion-Beat Disruption,Shovevow,F4,Warrior L2 Low,B
+MV-SIG-SHD-001-06,Stooping Board Bash,Wardverdict,F4,Warrior L2 Low,B
+MV-SIG-SHD-001-07,Hawk-Shield Return Stroke,Revelation Bossrim,F2,Champion L1 Low,B
+MV-SIG-SHD-001-08,Wide Pinion Sweep,Demolition Backbrace,F2,Champion L1 Low,B
+MV-SIG-SHD-001-09,Hawk-Shield Nullifying Fold,Revelation Face,F2,Demigod L1 Low,B
+MV-SIG-SHD-001-10,Azure Hawk-Shield Descent,Peerless Buffet Verdict,F6b,Warrior L2 Low,B
+MV-SIG-SHD-002-01,Guard-Track Setting,Inviolate Backboard,F1,Warrior L8 Mid,B
+MV-SIG-SHD-002-02,Strike-Track Opening,Buffetcrown,F4,Warrior L8 Mid,B
+MV-SIG-SHD-002-03,Track-Crossing Step Check,Spectral Ward,F1,Warrior L8 Mid,B
+MV-SIG-SHD-002-04,Parallel Rim Parry,Squall Shieldarm,F2,Warrior L8 Mid,B
+MV-SIG-SHD-002-05,Strike-Track Drive,Vigorenarme,F5,Warrior L8 Mid,B
+MV-SIG-SHD-002-06,Switch-Track Feint,Coverpledge,F4,Warrior L8 Mid,B
+MV-SIG-SHD-002-07,Held-Track Pinning Lean,Shovepledge,F4,Warrior L8 Mid,B
+MV-SIG-SHD-002-08,Two-Track Reflected Blow,Revelation Edgeband,F2,Champion L1 Low,B
+MV-SIG-SHD-002-09,Track-Split Suppressing Press,Unrivaled Shoulderset,F1,Champion L1 Low,B
+MV-SIG-SHD-002-10,Two-Track Nullifying Closure,Undefiled Strap,F1,Demigod L1 Low,B
+MV-SIG-SHD-002-11,Unbroken Two-Track Discourse,Prism Edgeband,F2,Warrior L8 Mid,B
+MV-SIG-SHD-003-01,Cupped Board Basin Stance,Steel Bossrim,F2,Champion L4 Low,B
+MV-SIG-SHD-003-02,Stream-Bed Footwork,Shovegrace,F4,Champion L4 Low,B
+MV-SIG-SHD-003-03,Silt-Settle Rim Tap,Steelrim,F5,Champion L4 Low,B
+MV-SIG-SHD-003-04,Rapid-Turning Parry,Unwavering Strap,F1,Champion L4 Low,B
+MV-SIG-SHD-003-05,Gathering Basin Brace,Venerable Backboard,F1,Champion L4 Low,B
+MV-SIG-SHD-003-06,Meandering Step Evasion,Facegrace,F4,Champion L4 Low,B
+MV-SIG-SHD-003-07,Undertow Pull Bind,Sigilward,F5,Champion L4 Low,B
+MV-SIG-SHD-003-08,Rising Waters Shove,Seasonrim,F5,Champion L4 Low,B
+MV-SIG-SHD-003-09,Basin Overflow Rebound,Radiance Enarme,F2,Champion L4 Low,B
+MV-SIG-SHD-003-10,River-Mouth Sweep,Buffettriumph,F4,Champion L4 Low,B
+MV-SIG-SHD-003-11,Basin Silt Nullification,Inviolate Boss,F1,Demigod L1 Low,B
+MV-SIG-SHD-003-12,Basin and River Great Turning,Rim Troth,F3,Champion L4 Low,B
+MV-SIG-SHD-004-01,Court Great Shield Hold,Prism Shieldarm,F2,Ruler L1 Low,B
+MV-SIG-SHD-004-02,Great Shield Court Pace,Vigorface,F5,Ruler L1 Low,B
+MV-SIG-SHD-004-03,Great Rim Hammer,Haemalward,F5,Ruler L1 Low,B
+MV-SIG-SHD-004-04,Great Shield Slant Turn,Peal Face,F2,Ruler L1 Low,B
+MV-SIG-SHD-004-05,Court Anchor Brace,Statute Enarme,F2,Ruler L1 Low,B
+MV-SIG-SHD-004-06,Great Shield Tipping Bash,Paramount Bash,F1,Ruler L1 Low,B
+MV-SIG-SHD-004-07,Court Return of Heavy Force,Prism Backboard,F2,Ruler L1 Low,B
+MV-SIG-SHD-004-08,Great Shield Sheltering Field,Subtle Rim,F1,Ruler L1 Low,B
+MV-SIG-SHD-004-09,Court Great Suppression,Gloomface,F5,Demigod L1 Low,B
+MV-SIG-SHD-004-10,Hawk Court Great Shield Rite,Venerable Steel Backbrace,F6a,Ruler L1 Low,B
+MV-SIG-SHD-005-01,Paired Wing Opening Guard,Prism Face,F2,Demigod L3 Low,B
+MV-SIG-SHD-005-02,Wing-Tip Rim Jab,Steel Shove,F2,Demigod L3 Low,B
+MV-SIG-SHD-005-03,Wing-Beat Footfall,Vigorbuffet,F5,Demigod L3 Low,B
+MV-SIG-SHD-005-04,Folded Wing Board Parry,Sacrosanct Shieldarm,F1,Demigod L3 Low,B
+MV-SIG-SHD-005-05,Paired Field Spreading,Steel Boss,F2,Demigod L3 Low,B
+MV-SIG-SHD-005-06,Wings-Closing Pinch,Thrallbash,F5,Demigod L3 Low,B
+MV-SIG-SHD-005-07,Wing-Rise Updraft Bash,Wardtriumph,F4,Demigod L3 Low,B
+MV-SIG-SHD-005-08,Paired Wing Return,Eclipse Strap,F2,Demigod L3 Low,B
+MV-SIG-SHD-005-09,Wide Wing Warding Formation,Artful Bossrim,F1,Demigod L3 Low,B
+MV-SIG-SHD-005-10,Paired Wing Nullifier,Immaculate Edgeband,F1,Demigod L3 Low,B
+MV-SIG-SHD-005-11,Higher Paired Wing Sweep,Heroic Demolition Bash,F6a,Demigod L3 Low,B
+MV-SIG-SHD-006-01,Sky-Mirror Board Raise,Stately Backboard,F1,Core Formation L2 Low,B
+MV-SIG-SHD-006-02,Mirror-Still Stance,Statute Edgeband,F2,Core Formation L2 Low,B
+MV-SIG-SHD-006-03,Glint Rim Flash,Commanding Ward,F1,Core Formation L2 Low,B
+MV-SIG-SHD-006-04,Mirror-Step Slide,Squallbuffet,F5,Core Formation L2 Low,B
+MV-SIG-SHD-006-05,Core-Lit Board Face,Revered Shieldarm,F1,Core Formation L2 Low,B
+MV-SIG-SHD-006-06,Mirror Turn Parry,Backbrace Covenant,F3,Core Formation L2 Low,B
+MV-SIG-SHD-006-07,Reflected-Sky Disruption,Thunderclap Shoulderset,F2,Core Formation L2 Low,B
+MV-SIG-SHD-006-08,Mirror Face Bash,Haemal Shove,F2,Core Formation L2 Low,B
+MV-SIG-SHD-006-09,Sky-Mirror Full Return,Undefiled Boss,F1,Core Formation L2 Low,B
+MV-SIG-SHD-006-10,Mirror Ward Formation,Face Troth,F3,Core Formation L2 Low,B
+MV-SIG-SHD-006-11,Mirror Pattern Cancellation,Parity Backbrace,F2,Core Formation L2 Low,B
+MV-SIG-SHD-006-12,Azure Sky-Mirror Great Return,Consecrated Rim,F1,Core Formation L2 Low,B
+MV-SIG-SHD-007-01,Oath-Taker Standing Raise,Strap Troth,F3,Warrior L4 Low,B
+MV-SIG-SHD-007-02,Sworn Stride Along the Line,Feather Bash,F1,Warrior L4 Low,B
+MV-SIG-SHD-007-03,Taker's Rim Rap,Rimtriumph,F4,Warrior L4 Low,B
+MV-SIG-SHD-007-04,Oath-Heard Parry,Enarme Troth,F3,Warrior L4 Low,B
+MV-SIG-SHD-007-05,Taker's Brace against Charge,Statute Boss,F2,Warrior L4 Low,B
+MV-SIG-SHD-007-06,Line-Keeping Shove,Quenched Shove,F2,Warrior L4 Low,B
+MV-SIG-SHD-007-07,Oath-Binding Hook,Thrall Shove,F2,Warrior L4 Low,B
+MV-SIG-SHD-007-08,Oath-Taker Returning Gust,Inviolate Bossrim,F1,Champion L1 Low,B
+MV-SIG-SHD-007-09,Sworn Line Sweeping Pass,Bosscrown,F4,Champion L1 Low,B
+MV-SIG-SHD-007-10,Oath Words Nullification,Immaculate Rim,F1,Demigod L1 Low,B
+MV-SIG-SHD-007-11,Oath-Taker Great Hold,Venerable Face,F1,Warrior L4 Low,B
+MV-SIG-SHD-008-01,Windbreak Face-Out Stance,Revered Strap,F1,Warrior L9 Peak,B
+MV-SIG-SHD-008-02,Comrade-Cover Sidestep,Silken Cover,F1,Warrior L9 Peak,B
+MV-SIG-SHD-008-03,Windbreak Rim Strike,Inferno Ward,F2,Warrior L9 Peak,B
+MV-SIG-SHD-008-04,Rising Wind Blunting,Devout Backbrace,F1,Warrior L9 Peak,B
+MV-SIG-SHD-008-05,Windbreak Slant Turn,Peal Enarme,F2,Warrior L9 Peak,B
+MV-SIG-SHD-008-06,Gust Breaking Beat,Rimseal,F4,Warrior L9 Peak,B
+MV-SIG-SHD-008-07,Windbreak Standing Return,Eclipse Backboard,F2,Champion L1 Low,B
+MV-SIG-SHD-008-08,Windbreak Sheltering Field,Guileful Bossrim,F1,Champion L1 Low,B
+MV-SIG-SHD-008-09,Windbreak Gathered Suppression,Gloomenarme,F5,Demigod L1 Low,B
+MV-SIG-SHD-008-10,Windbreak Great Standing,Unwavering Parity Edgeband,F6a,Warrior L9 Peak,B
+MV-SIG-SHD-009-01,Plateau Guard Low Set,Inviolate Shieldarm,F1,Champion L6 Mid,B
+MV-SIG-SHD-009-02,Open-Ground Circling Pace,Vigorbash,F5,Champion L6 Mid,B
+MV-SIG-SHD-009-03,Plateau Shield Rim Chop,Haemal Bash,F2,Champion L6 Mid,B
+MV-SIG-SHD-009-04,Wide-Turn Edge Parry,Strap Seal,F3,Champion L6 Mid,B
+MV-SIG-SHD-009-05,Many-Sided Guard Rotation,Prism Boss,F2,Champion L6 Mid,B
+MV-SIG-SHD-009-06,Plateau Ground Anchor,Steel Edgeband,F2,Champion L6 Mid,B
+MV-SIG-SHD-009-07,Surrounded Bearer Shove,Thunderclap Buffet,F2,Champion L6 Mid,B
+MV-SIG-SHD-009-08,Dust-Screen Disruption,Pallface,F5,Champion L6 Mid,B
+MV-SIG-SHD-009-09,Great Plateau Return,Sacrosanct Face,F1,Champion L6 Mid,B
+MV-SIG-SHD-009-10,Plateau Ring-Breaking Sweep,Noble Bash,F1,Champion L6 Mid,B
+MV-SIG-SHD-009-11,Plateau Guard Nullification,Sigil Backboard,F2,Demigod L1 Low,B
+MV-SIG-SHD-009-12,Plateau Guard Great Form,Steel Shieldarm,F2,Champion L6 Mid,B
+MV-SIG-SHD-010-01,Sworn-Wind Guard Lift,Sacrosanct Enarme,F1,Ruler L1 Mid,B
+MV-SIG-SHD-010-02,Wind-Reading Footwork,Squallstrap,F5,Ruler L1 Mid,B
+MV-SIG-SHD-010-03,Sworn Rim Flick,Squallface,F5,Ruler L1 Mid,B
+MV-SIG-SHD-010-04,Wind-Catching Slant,Enshrined Backbrace,F1,Ruler L1 Mid,B
+MV-SIG-SHD-010-05,Turned-Wind Counter Bash,Buffetbanner,F4,Ruler L1 Mid,B
+MV-SIG-SHD-010-06,Sworn Pinning Draw,Thrall Cover,F2,Ruler L1 Mid,B
+MV-SIG-SHD-010-07,Wind-Scattering Beat,Venombuffet,F5,Ruler L1 Mid,B
+MV-SIG-SHD-010-08,Sworn Wind Return Blow,Faithful Rim,F1,Ruler L1 Mid,B
+MV-SIG-SHD-010-09,Wind-Sworn Pressing Advance,Season Shove,F2,Ruler L1 Mid,B
+MV-SIG-SHD-010-10,Sworn-Wind Nullifying Turn,Sigil Strap,F2,Demigod L1 Low,B
+MV-SIG-SHD-010-11,Sworn-Wind Great Return,Inviolate Radiance Bossrim,F6a,Ruler L1 Mid,B
+MV-SIG-SHD-011-01,Long Bearing Shield Stance,Statute Backbrace,F2,Demigod L6 Mid,B
+MV-SIG-SHD-011-02,Bearing-Line Stepping,Ward Solace,F3,Demigod L6 Mid,B
+MV-SIG-SHD-011-03,Long-Line Rim Strike,Steel Cover,F2,Demigod L6 Mid,B
+MV-SIG-SHD-011-04,Held Bearing Field Brace,Statute Backboard,F2,Demigod L6 Mid,B
+MV-SIG-SHD-011-05,Bearing-Locked Board Parry,Inviolate Edgeband,F1,Demigod L6 Mid,B
+MV-SIG-SHD-011-06,Bearing Shoulder Drive,Vaunted Cover,F1,Demigod L6 Mid,B
+MV-SIG-SHD-011-07,Long Bearing Rebound,Eclipse Rim,F2,Demigod L6 Mid,B
+MV-SIG-SHD-011-08,Bearing-Held Ward Formation,Parity Face,F2,Demigod L6 Mid,B
+MV-SIG-SHD-011-09,Bearing-Unmoved Nullifier,Statute Shieldarm,F2,Demigod L6 Mid,B
+MV-SIG-SHD-011-10,Long Bearing Great Form,Faithful Enarme Covenant,F6b,Demigod L6 Mid,B
+MV-SIG-SHD-012-01,Open-Sky Guard Raise,Stately Rim,F1,Core Formation L5 Low,B
+MV-SIG-SHD-012-02,Sky-Facing Stillness,Prism Bossrim,F2,Core Formation L5 Low,B
+MV-SIG-SHD-012-03,Horizon-Line Step,Vigorstrap,F5,Core Formation L5 Low,B
+MV-SIG-SHD-012-04,Sky-Oath Rim Tap,Steelbash,F5,Core Formation L5 Low,B
+MV-SIG-SHD-012-05,Core-Held Board Hold,Bossrim Covenant,F3,Core Formation L5 Low,B
+MV-SIG-SHD-012-06,Open-Sky Slant Parry,Edgeband Vow,F3,Core Formation L5 Low,B
+MV-SIG-SHD-012-07,Sworn Core Shove,Steelbuffet,F5,Core Formation L5 Low,B
+MV-SIG-SHD-012-08,Oath-Ground Pinning Lean,Peremptory Shoulderset,F1,Core Formation L5 Low,B
+MV-SIG-SHD-012-09,Open-Sky Full Return,Radiance Boss,F2,Core Formation L5 Low,B
+MV-SIG-SHD-012-10,Oath-Ground Warding Field,Wily Shieldarm,F1,Core Formation L5 Low,B
+MV-SIG-SHD-012-11,Open-Sky Pattern Dissolution,Faithful Face,F1,Core Formation L5 Low,B
+MV-SIG-SHD-012-12,Open-Sky Oath Great Hold,Steel Backboard,F2,Core Formation L5 Low,B

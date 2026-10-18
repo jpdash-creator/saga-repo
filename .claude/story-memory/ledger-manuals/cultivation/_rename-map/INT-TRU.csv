@@ -1,0 +1,4 @@
+move_id,old_name,new_name,function
+CMV-INT-TRU-001-05,Plain Jab,Straight Jab,Attack:Strike
+CMV-INT-TRU-003-07,Lie Field,Lie Sense,Support:Sense
+CMV-INT-TRU-004-03,Fact Wall,Fact Shield,Defense:Shield

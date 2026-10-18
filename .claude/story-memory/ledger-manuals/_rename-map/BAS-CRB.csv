@@ -1,0 +1,80 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-CRB-001-01,Stirrup Foot Set,Bowprod Gauge,F3,Senior-,A
+MV-BAS-CRB-001-02,Double Hand Hauling Draw,Latchgauge,F4,Senior-,A
+MV-BAS-CRB-001-03,Nut Seat Check,Judging Trigger,F1,Senior-,A
+MV-BAS-CRB-001-04,Bolt Groove Lay,Tending Boltrail,F1,Senior-,A
+MV-BAS-CRB-001-05,Shoulder Hold Release,Firm Cranking,F1,Senior-,A
+MV-BAS-CRB-002-01,Cheek Rest Alignment,Deep Sear,F1,Senior-,A
+MV-BAS-CRB-002-02,Held Breath Settle,Tending Windlass,F1,Senior-,A
+MV-BAS-CRB-002-03,Rail Line Sighting,Kind Stock,F1,Senior-,A
+MV-BAS-CRB-002-04,Slow Trigger Squeeze,Sudden Stirrup,F1,Senior-,A
+MV-BAS-CRB-002-05,Still Target Pin,Searbump,F4,Senior-,A
+MV-BAS-CRB-002-06,Miss Reset Breath,Stockreview,F4,Senior-,A
+MV-BAS-CRB-003-01,Wrist Roll Warmup,Tripbar Count,F3,Senior-,A
+MV-BAS-CRB-003-02,Forearm Hold Count,Measured Latch,F1,Senior-,A
+MV-BAS-CRB-003-03,Prod Limb Inspection,Gentle Cranequin,F1,Senior-,A
+MV-BAS-CRB-003-04,Thumb Guard Tuck,Bowprod Review,F3,Senior-,A
+MV-BAS-CRB-003-05,Rest Between Spans,Boltrail Gauge,F3,Senior-,A
+MV-BAS-CRB-003-06,Seated Span and Loose,Stockhit,F4,Senior-,A
+MV-BAS-CRB-003-07,Eased Unspanning,Mild Sear,F1,Senior-,A
+MV-BAS-CRB-004-01,Bolt Roll Test,Deep Latch,F1,Senior-,A
+MV-BAS-CRB-004-02,Fletching Smooth Pass,Searreview,F4,Senior-,A
+MV-BAS-CRB-004-03,Head Seat Check,Tending Stirrup,F1,Senior-,A
+MV-BAS-CRB-004-04,Quiver Draw by Touch,Stocknote,F4,Senior-,A
+MV-BAS-CRB-004-05,Belt Hook Carry,Latchcount,F4,Senior-,A
+MV-BAS-CRB-004-06,Cupped Palm Load,Steady Stock,F1,Senior-,A
+MV-BAS-CRB-004-07,Thumb Pinned Bolt,Seargauge,F4,Senior-,A
+MV-BAS-CRB-004-08,Close Snap Loose,Setback Bump,F3,Senior-,A
+MV-BAS-CRB-005-01,Tiller Fore Grip,Searnote,F4,Senior-,A
+MV-BAS-CRB-005-02,Shoulder Pocket Seat,Latchreview,F4,Senior-,A
+MV-BAS-CRB-005-03,Squared Hip Stance,Skipping Twang,F1,Senior-,A
+MV-BAS-CRB-005-04,Level Tiller Carry,Smooth Tripbar,F1,Senior-,A
+MV-BAS-CRB-005-05,Quarter Turn Pivot,Searamble,F4,Senior-,A
+MV-BAS-CRB-005-06,Stock Shove Loose,Single Releaseclack,F1,Senior-,A
+MV-BAS-CRB-006-01,Latch Safety Thumb,Steady Trigger,F1,Senior-,A
+MV-BAS-CRB-006-02,Unspanned Climb Carry,Judging Cranequin,F1,Senior-,A
+MV-BAS-CRB-006-03,Spanned Pause Kneel,Releaseclack Hop,F3,Senior-,A
+MV-BAS-CRB-006-04,Finger Off Rail Rule,Soft Stirrup,F1,Senior-,A
+MV-BAS-CRB-006-05,Slow Walk Ready Loose,Hard Twang,F1,Senior-,A
+MV-BAS-CRB-007-01,Thread Qi Hold,Steady Windlass,F1,Senior-,A
+MV-BAS-CRB-007-02,Quarrel Head Qi Touch,Tending Tripbar,F1,Senior-,A
+MV-BAS-CRB-007-03,Steady Quarrel Loose,Twangblow,F4,Senior-,A
+MV-BAS-CRB-007-04,Qi Eased Span,Deep Cranequin,F1,Senior-,A
+MV-BAS-CRB-007-05,Settling Heartbeat Pause,Searcount,F4,Senior-,A
+MV-BAS-CRB-007-06,Rail Qi Trace,Stockcount,F4,Senior-,A
+MV-BAS-CRB-007-07,Quarrel Flick Reload,Judging Windlass,F1,Senior-,A
+MV-BAS-CRB-008-01,Crouch Qi Anchor,Mild Stock,F1,Senior-,A
+MV-BAS-CRB-008-02,Kneeling Knee Elbow Set,Latchnote,F4,Senior-,A
+MV-BAS-CRB-008-03,Prone Rail Slide,Searhop,F4,Senior-,A
+MV-BAS-CRB-008-04,Low Ready Roll,Latchamble,F4,Senior-,A
+MV-BAS-CRB-008-05,Hushed Heel Step,Shifting Span,F1,Senior-,A
+MV-BAS-CRB-008-06,Crouched Loose,Short Trigger,F1,Senior-,A
+MV-BAS-CRB-008-07,Kneeling Loose,Short Span,F1,Senior-,A
+MV-BAS-CRB-008-08,Prone Loose,Leaden Sear,F1,Senior-,A
+MV-BAS-CRB-009-01,Drop Mark Reckoning,Calm Latch,F1,Senior-,A
+MV-BAS-CRB-009-02,Moving Lead Measure,Measured Stirrup,F1,Senior-,A
+MV-BAS-CRB-009-03,Qi Held Lead,Even Cranequin,F1,Senior-,A
+MV-BAS-CRB-009-04,High Hold Correction,Calm Boltrail,F1,Senior-,A
+MV-BAS-CRB-009-05,Lead Loose,Plain Setback,F1,Senior-,A
+MV-BAS-CRB-009-06,Long Lob Loose,Gnawing Cranking,F1,Senior-,A
+MV-BAS-CRB-010-01,Counted Span Round,Soft Bowprod,F1,Senior-,A
+MV-BAS-CRB-010-02,Loaded Shift Step,Twangpace,F4,Senior-,A
+MV-BAS-CRB-010-03,Second Bolt Ready,Stockgauge,F4,Senior-,A
+MV-BAS-CRB-010-04,Round Opening Loose,Searblow,F4,Senior-,A
+MV-BAS-CRB-010-05,Round Closing Loose,Latchbump,F4,Senior-,A
+MV-BAS-CRB-010-06,Cheek Pat Recovery,Even Tripbar,F1,Senior-,A
+MV-BAS-CRB-010-07,Mark Sweep Glance,Calm Trigger,F1,Senior-,A
+MV-BAS-CRB-011-01,Qi Lightened Carry,Gentle Sear,F1,Senior-,A
+MV-BAS-CRB-011-02,Carry Strap Flip,Deep Stock,F1,Senior-,A
+MV-BAS-CRB-011-03,Cover Press Crouch,Easing Quarrel,F1,Senior-,A
+MV-BAS-CRB-011-04,Waiting Hold Shift,Warm Latch,F1,Senior-,A
+MV-BAS-CRB-011-05,Marching Halt Loose,Wide Twang,F1,Senior-,A
+MV-BAS-CRB-012-01,Quiver Hip Settle,Mild Boltrail,F1,Senior-,A
+MV-BAS-CRB-012-02,Bolt Count by Touch,Judging Bowprod,F1,Senior-,A
+MV-BAS-CRB-012-03,Qi Flicked Bolt Draw,Even Latch,F1,Senior-,A
+MV-BAS-CRB-012-04,Reload Rhythm Count,Smooth Cranequin,F1,Senior-,A
+MV-BAS-CRB-012-05,Fumble Drop Recovery,Kind Trigger,F1,Senior-,A
+MV-BAS-CRB-012-06,Paired Bolt Loose,Quarrel Dash,F3,Senior-,A
+MV-BAS-CRB-012-07,Quiver Rhythm Loose,Open Releaseclack,F1,Senior-,A
+MV-BAS-CRB-012-08,Spent Quiver Fall Back,Cranking Dodge,F3,Senior-,A
+MV-BAS-CRB-009-05,Plain Setback,Leading Setback,F1,Senior-,A

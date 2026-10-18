@@ -1,0 +1,101 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-NET-001-01,Binding-Net Spread Throw,Blaze Billow,F2,Champion,B
+MV-ADV-NET-001-02,Rim-Weight Pendulum Swing,Sanguine Leadedge,F2,Champion,B
+MV-ADV-NET-001-03,Cord-Tension Reading,Sinkerremedy,F4,Champion,B
+MV-ADV-NET-001-04,Reverse-Pull Stepback,Weavejaunt,F4,Champion,B
+MV-ADV-NET-001-05,Tightening Mesh Press,Fastening Knotwork,F2,Champion,B
+MV-ADV-NET-001-06,Weight-Burst Rim Strike,Gustweave,F5,Champion,B
+MV-ADV-NET-001-07,Binding-Net Lock Sequence,Lot Meshgrid,F2,Champion,B
+MV-ADV-NET-001-08,Joint-Clamp Mesh Seizure,Subduing Haulin,F1,Champion,B
+MV-ADV-NET-002-01,Field-Edge Mesh Reading,Remnant Hemcord,F2,Demigod,B
+MV-ADV-NET-002-02,Wide-Field Fan Cast,Weaveassault,F4,Demigod,B
+MV-ADV-NET-002-03,Field-Drawn Hem Lash,Transfixing Sinker,F1,Demigod,B
+MV-ADV-NET-002-04,Cord-Anchored Sidestep,Granite Mesh,F2,Demigod,B
+MV-ADV-NET-002-05,Field-Thread Hold,Thornmesh,F5,Demigod,B
+MV-ADV-NET-002-06,Field-Spun Net Orbit,Loopmesh Fastness,F3,Demigod,B
+MV-ADV-NET-002-07,Remote Cord Tug,Chime Drape,F2,Demigod,B
+MV-ADV-NET-002-08,Field-Tension Reel-In,Billowcloak,F4,Demigod,B
+MV-ADV-NET-002-09,Strand-Rain Field Cast,Scything Spread,F1,Demigod,B
+MV-ADV-NET-002-10,Cast-and-Recast Chain,Drapebarrage,F4,Demigod,B
+MV-ADV-NET-003-01,Plate-Edge Reading,Expanse Floatrope,F2,Champion,B
+MV-ADV-NET-003-02,Heavy-Lead Overhead Cast,Nova Enmesh,F2,Champion,B
+MV-ADV-NET-003-03,Greave Drag Pull,Silencing Drawcord,F1,Champion,B
+MV-ADV-NET-003-04,Heel-Planted Brace,Sinker Cuirass,F3,Champion,B
+MV-ADV-NET-003-05,Joint-Seeking Mesh Slide,Hoarfrost Weave,F2,Champion,B
+MV-ADV-NET-003-06,Weighted Chain-Net Whip,Granite Drawcord,F2,Champion,B
+MV-ADV-NET-003-07,Armored Stagger Haul,Compressing Loopmesh,F1,Champion,B
+MV-ADV-NET-003-08,Plate-Locked Collapse Pull,Quelling Haulin,F1,Champion,B
+MV-ADV-NET-003-09,Visor-Slit Veil Cast,Murk Smother,F2,Champion,B
+MV-ADV-NET-004-01,Woven-Strand Qi Count,Waning Weave,F2,Demigod,B
+MV-ADV-NET-004-02,Silk-Smooth Release Cast,Smother Onslaught,F3,Demigod,B
+MV-ADV-NET-004-03,Strand-Edge Slicing Pull,Tempered Hemcord,F2,Demigod,B
+MV-ADV-NET-004-04,Woven Veil Fall,Meshgreave,F4,Demigod,B
+MV-ADV-NET-004-05,Loom-Step Weave,Soaring Meshgrid,F1,Demigod,B
+MV-ADV-NET-004-06,Strand Tangle Seeding,Ponderous Drape,F2,Demigod,B
+MV-ADV-NET-004-07,Self-Mending Mesh Pulse,Mightmesh,F5,Demigod,B
+MV-ADV-NET-004-08,Strand-Split Cast,Scalding Knotwork,F1,Demigod,B
+MV-ADV-NET-004-09,Weave-Lock Joint Binding,Intentdrape,F5,Demigod,B
+MV-ADV-NET-004-10,Woven Cage Closing,Deedweave,F5,Demigod,B
+MV-ADV-NET-004-11,Strandstorm Sequence,Hour Floatrope,F2,Demigod,B
+MV-ADV-NET-005-01,Paired-Net Hand Balance,Perceptive Floatrope,F1,Champion,B
+MV-ADV-NET-005-02,Twin-Hand Opening Throw,Scything Mesh,F1,Champion,B
+MV-ADV-NET-005-03,Court-Step Cross Cut,Gust Spread,F2,Champion,B
+MV-ADV-NET-005-04,Azure Net Parry,Implacable Meshgrid,F1,Champion,B
+MV-ADV-NET-005-05,Two-Track Net Turn,Siltbillow,F5,Champion,B
+MV-ADV-NET-005-06,Paired Mesh Pincer,Meshplating,F4,Champion,B
+MV-ADV-NET-005-07,Azure Rim Crossing,Granite Sinker,F2,Champion,B
+MV-ADV-NET-005-08,Twin-Cord Pulse Tug,Mayhem Enmesh,F2,Champion,B
+MV-ADV-NET-005-09,Twin-Cast Closing Court,Intentweave,F5,Champion,B
+MV-ADV-NET-005-10,Paired-Net Cage Fold,Silt Leadedge,F2,Champion,B
+MV-ADV-NET-006-01,Hawk-Eye Height Reading,Mindful Loopmesh,F1,Demigod,B
+MV-ADV-NET-006-02,Stooping Overhand Cast,Blaze Enmesh,F2,Demigod,B
+MV-ADV-NET-006-03,Talon-Weight Hem Raking,Mesh Onslaught,F3,Demigod,B
+MV-ADV-NET-006-04,Basin-Circle Step,Silt Drawcord,F2,Demigod,B
+MV-ADV-NET-006-05,Wingspread Net Fend,Torrent Leadedge,F2,Demigod,B
+MV-ADV-NET-006-06,Hawk-Grip Cord Wrap,Gyve Haulin,F2,Demigod,B
+MV-ADV-NET-006-07,Stoop-Dive Net Drop,Hemcord Assault,F3,Demigod,B
+MV-ADV-NET-006-08,Hawk-Rise Haul Lift,Sinkergreave,F4,Demigod,B
+MV-ADV-NET-006-09,Basin-Rim Closing Draw,Suppressing Drape,F1,Demigod,B
+MV-ADV-NET-006-10,Wing-Beat Mesh Flare,Mesh Cloak,F3,Demigod,B
+MV-ADV-NET-006-11,Hawk-Pinion Net Storm,Spread Assault,F3,Demigod,B
+MV-ADV-NET-006-12,Stoop-and-Seize Sequence,Lot Smother,F2,Demigod,B
+MV-ADV-NET-007-01,River-Eddy Net Reading,Expanse Weave,F2,Demigod,B
+MV-ADV-NET-007-02,Current-Cast Mesh Throw,Skinning Billow,F1,Demigod,B
+MV-ADV-NET-007-03,Tailwater Hem Slap,Knotwork Torment,F3,Demigod,B
+MV-ADV-NET-007-04,Stone-Ford Net Stride,Soaring Hemcord,F1,Demigod,B
+MV-ADV-NET-007-05,Flowing Mesh Drag,Thornbillow,F5,Demigod,B
+MV-ADV-NET-007-06,Dual-Track Eddy Turn,Chime Drawcord,F2,Demigod,B
+MV-ADV-NET-007-07,River-Snare Weave Trap,Toxin Leadedge,F2,Demigod,B
+MV-ADV-NET-007-08,Confluence Net Seizure,Quelling Lot Knotwork,F6a,Demigod,B
+MV-ADV-NET-008-01,Bearing-Line Reading,Rousing Weave,F1,Ruler,B
+MV-ADV-NET-008-02,Plateau-Edge Cast,Glint Billow,F2,Ruler,B
+MV-ADV-NET-008-03,Windblown Hem Lash,Transfixing Loopmesh,F1,Ruler,B
+MV-ADV-NET-008-04,Open-Ground Footing,Smother Jaunt,F3,Ruler,B
+MV-ADV-NET-008-05,Wind-Sworn Net Draw,Thornhaulin,F5,Ruler,B
+MV-ADV-NET-008-06,Gust-Turn Mesh Parry,Equipoise Sinker,F2,Ruler,B
+MV-ADV-NET-008-07,Bearing-Held Cord Haul,Charter Haulin,F2,Ruler,B
+MV-ADV-NET-008-08,Gale-Spread Oath Cast,Silt Enmesh,F2,Ruler,B
+MV-ADV-NET-008-09,Edge-Sweep Plateau Pull,Floatrope Plating,F3,Ruler,B
+MV-ADV-NET-009-01,Wind-Taste Mesh Reading,Restoring Meshgrid,F1,Demigod,B
+MV-ADV-NET-009-02,Downwind Spreading Throw,Glint Weave,F2,Demigod,B
+MV-ADV-NET-009-03,Gust-Driven Rim Smash,Blaze Drape,F2,Demigod,B
+MV-ADV-NET-009-04,Oath-Marked Footwork,Haulinleap,F4,Demigod,B
+MV-ADV-NET-009-05,Billowing Net Screen,Hoarfrost Meshgrid,F2,Demigod,B
+MV-ADV-NET-009-06,Whipping Cord Snare,Staggering Mesh,F1,Demigod,B
+MV-ADV-NET-009-07,Gale-Lifted Net Rise,Sinkerbarrage,F4,Demigod,B
+MV-ADV-NET-009-08,Oath-Bound Cord Anchor,Ponderous Haulin,F2,Demigod,B
+MV-ADV-NET-009-09,Counter-Gust Mesh Shove,Rumblemesh,F5,Demigod,B
+MV-ADV-NET-009-10,Gale-Cast Charging-Line Net,Needling Spread,F1,Demigod,B
+MV-ADV-NET-009-11,Wind-Sworn Oath Sequence,Hour Smother,F2,Demigod,B
+MV-ADV-NET-010-01,Wind-Bearing Sighting,Verityweave,F5,Champion,B
+MV-ADV-NET-010-02,Bearing-Placed Cast,Gust Drawcord,F2,Champion,B
+MV-ADV-NET-010-03,Weighted Hem Cross-Swing,Splitting Knotwork,F1,Champion,B
+MV-ADV-NET-010-04,Bearing-Held Pivot,Gustmesh,F5,Champion,B
+MV-ADV-NET-010-05,Cord-Slack Windbreak,Ironsinker,F5,Champion,B
+MV-ADV-NET-010-06,Bearing-Line Cinch,Gyve Hemcord,F2,Champion,B
+MV-ADV-NET-010-07,Crosswind Mesh Sweep,Weavecuirass,F4,Champion,B
+MV-ADV-NET-010-08,Oath-Line Tripwire Cord,Crippling Floatrope,F1,Champion,B
+MV-ADV-NET-010-09,Bearing-Locked Net Trap,Deadfall Leadedge,F1,Champion,B
+MV-ADV-NET-010-10,Taken-Bearing Chain,Alternating Spread,F1,Champion,B
+MV-ADV-NET-003-01,Expanse Floatrope,Wary Floatrope,F2,Champion,B
+MV-ADV-NET-007-01,Expanse Weave,Attuned Weave,F2,Demigod,B

@@ -1,0 +1,17 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ELI-EAR-001-02,Mountain Palm,Flagstone Palm,INSTANT,T1 Unawakened,Basic
+CMV-ELI-EAR-001-08,Mountain Mantle,Granite Mantle,CHANNELED,Champion L1 Low,Advanced
+CMV-ELI-EAR-003-01,Basin Keep,Pooled Strength,CHANNELED,T1 Unawakened,Basic
+CMV-ELI-EAR-010-04,Line Block,Stone Plank,INSTANT,T1 Unawakened,Basic
+CMV-ELI-EAR-001-01,Peak Stance,Spine Stance,INSTANT,,Basic
+CMV-ELI-EAR-001-03,Cliff Step,Stone Swing,INSTANT,,Basic
+CMV-ELI-EAR-001-04,Twin Crags,Paired Stones,INSTANT,,Intermediate
+CMV-ELI-EAR-001-06,Summit Press,Stone Press,CHANNELED,,Intermediate
+CMV-ELI-EAR-001-07,Peak Collapse,Rock Collapse,INSTANT,,Advanced
+CMV-ELI-EAR-001-09,Twin Peak Crush,Pincer Crush,CAST,,Elite
+CMV-ELI-EAR-003-07,Stone Basin,Stone Bowl,INSTANT,,Intermediate
+CMV-ELI-EAR-003-10,Basin Release,Ring Release,INSTANT,,Advanced
+CMV-ELI-EAR-004-01,Crag Talon,Rock Talon,INSTANT,,Basic
+CMV-ELI-EAR-004-04,Crag Swoop,Stone Swoop,INSTANT,,Intermediate
+CMV-ELI-EAR-004-07,Crag Strike,Rock Strike,INSTANT,,Advanced
+CMV-ELI-EAR-009-03,Sheltered Step,Screened Step,INSTANT,,Basic

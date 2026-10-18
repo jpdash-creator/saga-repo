@@ -1,0 +1,140 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-FAN-001-01,Court Salute Fan Guard,Prismfantip,F5,Warrior,B
+MV-SIG-FAN-001-02,Closed Pair Wrist Rap,Waft Banner,F3,Warrior,B
+MV-SIG-FAN-001-03,Court Corner Fan Turn,Dune Rimrib,F2,Warrior,B
+MV-SIG-FAN-001-04,Salute Opening Counter-Cut,Pallrimrib,F5,Warrior,B
+MV-SIG-FAN-001-05,Twin Fans Brush Aside,Waftvow,F4,Warrior,B
+MV-SIG-FAN-001-06,Court Fan Cross Bind,Hornbeam Foldedge,F2,Warrior,B
+MV-SIG-FAN-001-07,Court Fan Dance Sweep,Magmafanout,F5,Champion,B
+MV-SIG-FAN-001-08,Twin Screen of the Court,Steelfanrib,F5,Champion,B
+MV-SIG-FAN-001-09,Court Step Beyond Sight,Skyborne Silkface,F1,Demigod,B
+MV-SIG-FAN-001-10,Court of Two Fans Closing,Choral Wavering Verdict,F6b,Warrior,B
+MV-SIG-FAN-002-01,Twin-Track Opened Fan Guard,Prismfanrib,F5,Champion,B
+MV-SIG-FAN-002-02,Track-Line Rib Cut,Paramount Fantip,F1,Champion,B
+MV-SIG-FAN-002-03,Track-Side Hop Step,Delugefanrib,F5,Champion,B
+MV-SIG-FAN-002-04,Two-Track Flick Dazzle,Masterful Flutter,F1,Champion,B
+MV-SIG-FAN-002-05,Switch-Track Cut and Slip,Quenched Fanrib,F2,Champion,B
+MV-SIG-FAN-002-06,Parallel Rib Bind,Rimribvow,F4,Champion,B
+MV-SIG-FAN-002-07,Track-Crossing Parry Strike,Pall Guardrib,F2,Champion,B
+MV-SIG-FAN-002-08,Double Track Beat Drive,Rivetpin Crown,F3,Champion,B
+MV-SIG-FAN-002-09,Twin-Track Piercing Cross,Thunderclap Rustle,F2,Champion,B
+MV-SIG-FAN-002-10,Track-Parting Fan Barrier,Undefiled Pivotpin,F1,Champion,B
+MV-SIG-FAN-002-11,Tracks Meet at the Heart,Royal Spreadface,F1,Demigod,B
+MV-SIG-FAN-002-12,Twin-Track Closing Form,Tenet Fanspine,F2,Champion,B
+MV-SIG-FAN-003-01,Hawk Eye Rim Guard,Hornbeam Rimrib,F2,Champion,B
+MV-SIG-FAN-003-02,Beak-Tip Jab,Vigorrustle,F5,Champion,B
+MV-SIG-FAN-003-03,Updraft Fan Hop,Fantip Heraldry,F3,Champion,B
+MV-SIG-FAN-003-04,Hawk Circling Slash,Gallant Fanout,F1,Champion,B
+MV-SIG-FAN-003-05,Wing Fold Catch,Thrall Rivetpin,F2,Champion,B
+MV-SIG-FAN-003-06,Rim-Sight Reading,Peal Fanrib,F2,Champion,B
+MV-SIG-FAN-003-07,Hawk's Return Beat,Foldedge Decree,F3,Champion,B
+MV-SIG-FAN-003-08,Azure Hawk Descending Throw,Matchless Silkface,F1,Champion,B
+MV-SIG-FAN-003-09,Wide Wing Azure Barrier,Statute Pivotpin,F2,Champion,B
+MV-SIG-FAN-003-10,Hawk Strikes from the Zenith,Interstice Spreadface,F2,Demigod,B
+MV-SIG-FAN-003-11,Azure Hawk Closing Form,Waftdecree,F4,Champion,B
+MV-SIG-FAN-004-01,Basin Mouth Guard,Statute Guardrib,F2,Ruler,B
+MV-SIG-FAN-004-02,Sloped Rib Cut,Famed Snapshut,F1,Ruler,B
+MV-SIG-FAN-004-03,Down-Slope Step,Feather Snapshut,F1,Ruler,B
+MV-SIG-FAN-004-04,Basin Draw Pull-In,Sigilrimrib,F5,Ruler,B
+MV-SIG-FAN-004-05,Catchment Parry,Foldedge Seal,F3,Ruler,B
+MV-SIG-FAN-004-06,Rim Run Feint,Entropy Rustle,F2,Ruler,B
+MV-SIG-FAN-004-07,Basin Overflow Fan Sweep,Triumphant Flutter,F1,Ruler,B
+MV-SIG-FAN-004-08,Settling Basin Press,Gloomrustle,F5,Ruler,B
+MV-SIG-FAN-004-09,Basin Returns the Rain,Prismrimrib,F5,Demigod,B
+MV-SIG-FAN-004-10,Basin Draw Closing Form,Tenet Wavering,F2,Ruler,B
+MV-SIG-FAN-005-01,River Bank Guard,Prism Fanspine,F2,Demigod,B
+MV-SIG-FAN-005-02,Reed-Edge Cut,Thunderclap Waft,F2,Demigod,B
+MV-SIG-FAN-005-03,Stepping Stone Fan Pace,Squall Spreadface,F2,Demigod,B
+MV-SIG-FAN-005-04,River-Court Cross Counter,Squall Silkface,F2,Demigod,B
+MV-SIG-FAN-005-05,Ford Hook and Haul,Sigil Fanspine,F2,Demigod,B
+MV-SIG-FAN-005-06,Mid-Stream Fan Beat,Quenched Rimrib,F2,Demigod,B
+MV-SIG-FAN-005-07,Court Pace Feint and Cut,Phantasm Snapshut,F2,Demigod,B
+MV-SIG-FAN-005-08,River-Court Crescent Sweep,Inferno Rivetpin,F2,Demigod,B
+MV-SIG-FAN-005-09,Narrows Piercing Rib,Quenched Guardrib,F2,Demigod,B
+MV-SIG-FAN-005-10,Stilled River Tap,Fantipvow,F4,Demigod,B
+MV-SIG-FAN-005-11,River-Court Closing Form,Resonant Season Rustle,F6a,Demigod,B
+MV-SIG-FAN-006-01,Highest Azure Rim Guard,Sacrosanct Fanrib,F1,Core Formation,B
+MV-SIG-FAN-006-02,Cobalt Leaf Cut,Imperial Pivotpin,F1,Core Formation,B
+MV-SIG-FAN-006-03,Skyline Fan Glide,Rustleboon,F4,Core Formation,B
+MV-SIG-FAN-006-04,Azure Dazzle Spread,Pallwaft,F5,Core Formation,B
+MV-SIG-FAN-006-05,High Azure Draw Counter,Guardrib Seal,F3,Core Formation,B
+MV-SIG-FAN-006-06,Leaf-Veil Bind,Hornbeam Flutter,F2,Core Formation,B
+MV-SIG-FAN-006-07,Cloud-Edge Slip and Slash,Dune Pivotpin,F2,Core Formation,B
+MV-SIG-FAN-006-08,Azure Breath Beat,Fantip Edict,F3,Core Formation,B
+MV-SIG-FAN-006-09,Highest Azure Crescent Burst,Majestic Waft,F1,Core Formation,B
+MV-SIG-FAN-006-10,Azure Heavens Cover,Devout Silkface,F1,Core Formation,B
+MV-SIG-FAN-006-11,Azure Sky Closes on the Foe,Volition Fanout,F2,Core Formation,B
+MV-SIG-FAN-006-12,Highest Azure Closing Form,Harmonious Foldedge Banner,F6b,Core Formation,B
+MV-SIG-FAN-007-01,Oath Ground Guard,Steelrimrib,F5,Warrior,B
+MV-SIG-FAN-007-02,Plateau Rib Slash,Thunderclap Fantip,F2,Warrior,B
+MV-SIG-FAN-007-03,Windward Rim Fan Walk,Fanribsolace,F4,Warrior,B
+MV-SIG-FAN-007-04,Breath-Taken Flick,Wavering Reliquary,F3,Warrior,B
+MV-SIG-FAN-007-05,Oath Counter Slip,Parity Fanspine,F2,Warrior,B
+MV-SIG-FAN-007-06,Bearing Rib Hook Pull,Peremptory Fanrib,F1,Warrior,B
+MV-SIG-FAN-007-07,Plateau Beat and Turn,Vigor Rimrib,F2,Warrior,B
+MV-SIG-FAN-007-08,Oath-Line Chain Cut,Bedrock Rivetpin,F2,Warrior,B
+MV-SIG-FAN-007-09,Plateau Oath Gale Sweep,Tempestuous Wavering,F2,Champion,B
+MV-SIG-FAN-007-10,Oath Screen of Wind,Sanctum Pivotpin,F2,Champion,B
+MV-SIG-FAN-007-11,Oath Wind Fan Crossing,Ethereal Fanout,F1,Demigod,B
+MV-SIG-FAN-007-12,Plateau Oath Closing Form,Symphonic Tenet Flutter,F6a,Warrior,B
+MV-SIG-FAN-008-01,Sworn Gale Fan Guard,Fanribseal,F4,Champion,B
+MV-SIG-FAN-008-02,Wind-Draw Cut,Snapshut Triumph,F3,Champion,B
+MV-SIG-FAN-008-03,Gust-Borne Fan Hop,Bedrock Fanout,F2,Champion,B
+MV-SIG-FAN-008-04,Sworn Counter in the Wind,Undefiled Silkface,F1,Champion,B
+MV-SIG-FAN-008-05,Wind-Hook Rib Bind,Ruling Rustle,F1,Champion,B
+MV-SIG-FAN-008-06,Tailwind Slash Run,Storied Spreadface,F1,Champion,B
+MV-SIG-FAN-008-07,Wind-Sworn Fan Surge,Magmarustle,F5,Champion,B
+MV-SIG-FAN-008-08,Sworn Crosswind Hurl,Peal Fanspine,F2,Champion,B
+MV-SIG-FAN-008-09,Wind-Sworn Fan Turns the Blow,Rimribpledge,F4,Demigod,B
+MV-SIG-FAN-008-10,Wind-Sworn Closing Form,Harmonious Destiny Rimrib,F6a,Champion,B
+MV-SIG-FAN-009-01,Bearing Fix Guard,Steelfantip,F5,Champion,B
+MV-SIG-FAN-009-02,Bearing-Line Rib Cut,Dauntless Wavering,F1,Champion,B
+MV-SIG-FAN-009-03,Heading-Hold Fan Pace,Deluge Rustle,F2,Champion,B
+MV-SIG-FAN-009-04,Bearing Counter Thrust,Squallfantip,F5,Champion,B
+MV-SIG-FAN-009-05,Bearing Drag Hook,Millstone Fanrib,F2,Champion,B
+MV-SIG-FAN-009-06,Bearing Break Rib Beat,Quenched Waft,F2,Champion,B
+MV-SIG-FAN-009-07,Bearing Slip Feint,Pallfanrib,F5,Champion,B
+MV-SIG-FAN-009-08,Bearing Sweep of the Plateau,Dunefanrib,F5,Champion,B
+MV-SIG-FAN-009-09,Bearing Hold Pressure,Bedrock Flutter,F2,Champion,B
+MV-SIG-FAN-009-10,Bearing Seals the Breath,Statute Snapshut,F2,Demigod,B
+MV-SIG-FAN-009-11,Bearing Closing Form,Symphonic Volition Spreadface,F6a,Champion,B
+MV-SIG-FAN-010-01,Bare Edge Guard,Hornbeam Guardrib,F2,Ruler,B
+MV-SIG-FAN-010-02,Bare Rib Cut,Illustrious Fanout,F1,Ruler,B
+MV-SIG-FAN-010-03,Cliff-Edge Step,Dunewaft,F5,Ruler,B
+MV-SIG-FAN-010-04,Wind-Lift Dazzle,Imperious Waft,F1,Ruler,B
+MV-SIG-FAN-010-05,Bare Edge Counter Slash,Devout Rivetpin,F1,Ruler,B
+MV-SIG-FAN-010-06,Edge Rib Hook Haul,Thrallfanout,F5,Ruler,B
+MV-SIG-FAN-010-07,Gap Rush Beat,Valiant Fantip,F1,Ruler,B
+MV-SIG-FAN-010-08,Precipice Feint Turn,Pallfantip,F5,Ruler,B
+MV-SIG-FAN-010-09,Bare Edge Fan Surge,Magma Foldedge,F2,Ruler,B
+MV-SIG-FAN-010-10,Open Rim Cover Spin,Fanribvow,F4,Ruler,B
+MV-SIG-FAN-010-11,Edge of the Gale Falls,Vacuum Wavering,F2,Demigod,B
+MV-SIG-FAN-010-12,Bare Edge Closing Form,Destiny Rustle,F2,Ruler,B
+MV-SIG-FAN-011-01,Oath Canon Guard,Statute Fantip,F2,Demigod,B
+MV-SIG-FAN-011-02,Canon Rib Cut,Squall Rivetpin,F2,Demigod,B
+MV-SIG-FAN-011-03,Oath Pace of the Fan,Fanout Boon,F3,Demigod,B
+MV-SIG-FAN-011-04,Canon Counter Cut,Sainted Spreadface,F1,Demigod,B
+MV-SIG-FAN-011-05,Oath Hook and Lift,Silkface Vow,F3,Demigod,B
+MV-SIG-FAN-011-06,Canon Beat Rhythm,Vigor Pivotpin,F2,Demigod,B
+MV-SIG-FAN-011-07,Oath Canon Gale Sweep,Royal Guardrib,F1,Demigod,B
+MV-SIG-FAN-011-08,Canon Piercing Rib,Quenched Fanspine,F2,Demigod,B
+MV-SIG-FAN-011-09,Oath Fulfilled in the Gale,Tenet Rimrib,F2,Demigod,B
+MV-SIG-FAN-011-10,Oath Canon Closing Form,Volition Fanrib,F2,Demigod,B
+MV-SIG-FAN-012-01,Farthest Bearing Guard,Fantiptroth,F4,Core Formation,B
+MV-SIG-FAN-012-02,Far-Line Cut,Lordly Foldedge,F1,Core Formation,B
+MV-SIG-FAN-012-03,Horizon Pace,Skyborne Flutter,F1,Core Formation,B
+MV-SIG-FAN-012-04,Far Bearing Counter,Parity Rimrib,F2,Core Formation,B
+MV-SIG-FAN-012-05,Distant Rib Hook Pull,Sigilwaft,F5,Core Formation,B
+MV-SIG-FAN-012-06,Far Wind Beat,Squallrustle,F5,Core Formation,B
+MV-SIG-FAN-012-07,Horizon Slip and Cut,Deluge Waft,F2,Core Formation,B
+MV-SIG-FAN-012-08,Farthest Gale Sweep,Magma Rivetpin,F2,Core Formation,B
+MV-SIG-FAN-012-09,Horizon Fan Throw,Fanribbanner,F4,Core Formation,B
+MV-SIG-FAN-012-10,Far Wind Presses Down,Volition Waft,F2,Core Formation,B
+MV-SIG-FAN-012-11,Farthest Bearing Closing Form,Volition Snapshut,F2,Core Formation,B
+MV-SIG-FAN-001-03,Dune Rimrib,Surging Rimrib,F2,Warrior,B
+MV-SIG-FAN-001-06,Hornbeam Foldedge,Crushing Foldedge,F2,Warrior,B
+MV-SIG-FAN-003-01,Hornbeam Rimrib,Unyielding Rimrib,F2,Champion,B
+MV-SIG-FAN-006-06,Hornbeam Flutter,Vising Flutter,F2,Core Formation,B
+MV-SIG-FAN-006-07,Dune Pivotpin,Surging Pivotpin,F2,Core Formation,B
+MV-SIG-FAN-007-10,Sanctum Pivotpin,Stalwart Pivotpin,F2,Champion,B
+MV-SIG-FAN-010-01,Hornbeam Guardrib,Ironclad Guardrib,F2,Ruler,B

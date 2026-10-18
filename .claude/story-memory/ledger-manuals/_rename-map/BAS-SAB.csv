@@ -1,0 +1,74 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-SAB-001-01,Hip Draw Diagonal Cut,Blunt Spinecurve,F1,T1 Unawakened,A
+MV-BAS-SAB-001-02,Belly Slice Through,Firm Yelman,F1,T1 Unawakened,A
+MV-BAS-SAB-001-03,Spine Slant Parry,Basketlid,F4,T1 Unawakened,A
+MV-BAS-SAB-001-04,Half Pace Closing Slide,Light Basket,F1,T1 Unawakened,A
+MV-BAS-SAB-001-05,Wrist Roll Return To Guard,Bellycowl,F4,T1 Unawakened,A
+MV-BAS-SAB-002-01,Barracks Overhead Chop,Whirlblow,F4,T1 Skin,A
+MV-BAS-SAB-002-02,Rank Line Forward Thrust,Level Knucklebow,F1,T1 Skin,A
+MV-BAS-SAB-002-03,Level Backhand Slash,Sudden Whirl,F1,T1 Skin,A
+MV-BAS-SAB-002-04,Conscript Cover Guard,Swell Cowl,F3,T1 Skin,A
+MV-BAS-SAB-002-05,Pivot Heel Retreat,Light Gallop,F1,T1 Skin,A
+MV-BAS-SAB-002-06,False Edge Tap Aside,Swipewedge,F4,T1 Skin,A
+MV-BAS-SAB-003-01,Single Edge Rising Cut,Flourish Blow,F3,T1 Muscle,A
+MV-BAS-SAB-003-02,Back Edge Flick,Wide Falsedge,F1,T1 Muscle,A
+MV-BAS-SAB-003-03,Muscle Set Block,Folded Backedge,F1,T1 Muscle,A
+MV-BAS-SAB-003-04,Cross Step Advance,Baskettrot,F4,T1 Muscle,A
+MV-BAS-SAB-003-05,Spine Press Bind,Belly Lid,F3,T1 Muscle,A
+MV-BAS-SAB-004-01,Wrist Snap Forehand Cut,Whirldash,F4,T1 Tendon,A
+MV-BAS-SAB-004-02,Wrist Snap Backhand Cut,Pipeback Dash,F3,T1 Tendon,A
+MV-BAS-SAB-004-03,Tendon Spring Thrust,Plain Knucklebow,F1,T1 Tendon,A
+MV-BAS-SAB-004-04,Figure Eight Wrist Wheel,Basket Drop,F3,T1 Tendon,A
+MV-BAS-SAB-004-05,Balanced Stance Hold,Lowered Pipeback,F1,T1 Tendon,A
+MV-BAS-SAB-004-06,Skipping Shuffle Step,Sideways Yelman,F1,T1 Tendon,A
+MV-BAS-SAB-004-07,Hilt Heel Rap,Yelmanhusk,F4,T1 Tendon,A
+MV-BAS-SAB-005-01,Hanging Guard Slant,Hooding Backedge,F1,T1 Bone,A
+MV-BAS-SAB-005-02,Hanging Guard Counter Cut,Bellydash,F4,T1 Bone,A
+MV-BAS-SAB-005-03,Braced Arm Block,Resting Belly,F1,T1 Bone,A
+MV-BAS-SAB-005-04,Point Down Slip Parry,Falsedge Stay,F3,T1 Bone,A
+MV-BAS-SAB-005-05,Step Back Draw Guard,Swellamble,F4,T1 Bone,A
+MV-BAS-SAB-005-06,Short Point Prick,Counterguard Dash,F3,T1 Bone,A
+MV-BAS-SAB-006-01,Shoulder To Hip Arc,Skimmer Hit,F3,T1 Unawakened,A
+MV-BAS-SAB-006-02,Hip To Shoulder Return Arc,Yelmanblow,F4,T1 Unawakened,A
+MV-BAS-SAB-006-03,Arc Recovery Turn,Snug Yelman,F1,T1 Unawakened,A
+MV-BAS-SAB-006-04,Edge Alignment Check,Steady Swell,F1,T1 Unawakened,A
+MV-BAS-SAB-006-05,Long Arc Forward Step,Gallophop,F4,T1 Unawakened,A
+MV-BAS-SAB-007-01,Qi Seeded Forehand Cut,Firm Spinecurve,F1,Senior L1 Low,A
+MV-BAS-SAB-007-02,Qi Seeded Backhand Cut,Downward Whirl,F1,Senior L1 Low,A
+MV-BAS-SAB-007-03,Footwork Lunge Thrust,Wide Slantcut,F1,Senior L1 Low,A
+MV-BAS-SAB-007-04,Drag Step Parry,Swellhusk,F4,Senior L1 Low,A
+MV-BAS-SAB-007-05,Circling Heel Step,Swipe Amble,F3,Senior L1 Low,A
+MV-BAS-SAB-007-06,Pressing Step Beat,Catching Flourish,F1,Senior L1 Low,A
+MV-BAS-SAB-007-07,Back Pace Guard,Kept Backedge,F1,Senior L1 Low,A
+MV-BAS-SAB-007-08,Rooted Stance Draw,Hard Belly,F1,Senior L1 Low,A
+MV-BAS-SAB-008-01,Saddle Height Long Cut,Downward Skimmer,F1,Senior L2 Low,A
+MV-BAS-SAB-008-02,Passing Slash Recover,Open Swell,F1,Senior L2 Low,A
+MV-BAS-SAB-008-03,Off Hand Rein Guard,Tight Basket,F1,Senior L2 Low,A
+MV-BAS-SAB-008-04,Standing Reach Cut,Basketstrike,F4,Senior L2 Low,A
+MV-BAS-SAB-008-05,Dismount Landing Guard,Yelmanwedge,F4,Senior L2 Low,A
+MV-BAS-SAB-008-06,Trot Pace Step,Quiet Slantcut,F1,Senior L2 Low,A
+MV-BAS-SAB-009-01,Belly Draw Saber Slice,Gallopblow,F4,Senior L3 Low,A
+MV-BAS-SAB-009-02,Spine Block Slide,Bellypause,F4,Senior L3 Low,A
+MV-BAS-SAB-009-03,Edge Turn Check,Fixing Whirl,F1,Senior L3 Low,A
+MV-BAS-SAB-009-04,Belly Rake Under,Plain Flourish,F1,Senior L3 Low,A
+MV-BAS-SAB-009-05,Spine Lever Push,Holding Counterguard,F1,Senior L3 Low,A
+MV-BAS-SAB-010-01,Threaded Edge Slash,Gallopbump,F4,Senior L2 Mid,A
+MV-BAS-SAB-010-02,Threaded Point Stab,Blunt Pipeback,F1,Senior L2 Mid,A
+MV-BAS-SAB-010-03,Thin Stream Hold,Soft Falsedge,F1,Senior L2 Mid,A
+MV-BAS-SAB-010-04,Edge Glint Parry,Holding Knucklebow,F1,Senior L2 Mid,A
+MV-BAS-SAB-010-05,Qi Skip Step,Yelmanpace,F4,Senior L2 Mid,A
+MV-BAS-SAB-010-06,Stream Break Recover,Folded Yelman,F1,Senior L2 Mid,A
+MV-BAS-SAB-010-07,Spine Pulse Beat,Locking Gallop,F1,Senior L2 Mid,A
+MV-BAS-SAB-011-01,Scabbard Mouth Draw,Forward Knucklebow,F1,Senior L4 Low,A
+MV-BAS-SAB-011-02,Draw Cut Recovery,Settled Spinecurve,F1,Senior L4 Low,A
+MV-BAS-SAB-011-03,Sheath Slide Parry,Ready Backedge,F1,Senior L4 Low,A
+MV-BAS-SAB-011-04,Pulling Backward Draw Cut,Short Gallop,F1,Senior L4 Low,A
+MV-BAS-SAB-011-05,Resheath Guard Pose,Yelmancowl,F4,Senior L4 Low,A
+MV-BAS-SAB-011-06,Draw Step Forward,Skipping Belly,F1,Senior L4 Low,A
+MV-BAS-SAB-012-01,Sentry Challenge Cut,Level Swipe,F1,Senior L1 Mid,A
+MV-BAS-SAB-012-02,Post Line Parry,Angled Counterguard,F1,Senior L1 Mid,A
+MV-BAS-SAB-012-03,Long Watch Saber Stance,Swellstay,F4,Senior L1 Mid,A
+MV-BAS-SAB-012-04,Alarm Step Back,Skimmer Pace,F3,Senior L1 Mid,A
+MV-BAS-SAB-012-05,Sentry Shoulder Slash,Downward Slantcut,F1,Senior L1 Mid,A
+MV-BAS-SAB-004-03,Plain Knucklebow,Swift Knucklebow,F1,T1 Tendon,A
+MV-BAS-SAB-009-04,Plain Flourish,Bright Flourish,F1,Senior L3 Low,A

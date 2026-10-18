@@ -1,0 +1,165 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-SPR-001-01,Twin-Hawk Opening Thrust,Iron Leafhead,F2,Demigod L1 Low,B
+MV-ELI-SPR-001-02,Low-Hawk Skimming Jab,Might Bladewings,F2,Demigod L1 Low,B
+MV-ELI-SPR-001-03,Paired-Wing Hand Spread,Murk Longshaft,F2,Demigod L1 Low,B
+MV-ELI-SPR-001-04,Hawk-Pair Step Alternation,Pointglimmer,F4,Demigod L1 Low,B
+MV-ELI-SPR-001-05,Hunting-Pair Pincer Thrust,Iron Slideshaft,F2,Demigod L1 Low,B
+MV-ELI-SPR-001-06,Hawk-Cry Distracting Beat,Socketdurance,F4,Demigod L1 Low,B
+MV-ELI-SPR-001-07,Pair-Swoop Shielding Turn,Impervious Ferrule,F1,Demigod L1 Low,B
+MV-ELI-SPR-001-08,Twin-Hawk Descending Pincer,Confluent Pushthrough,F1,Demigod L1 Low,B
+MV-ELI-SPR-001-09,Hawk-Pair Piercing Dive,Glint Collarband,F2,Demigod L1 Low,B
+MV-ELI-SPR-001-10,Pair of Hawks Closing Spear,Hour Buttshoe,F2,Demigod L1 Low,B
+MV-ELI-SPR-002-01,Tassel-Flick Eye Cover,Mayhemthrust,F5,Demigod L2 High,B
+MV-ELI-SPR-002-02,Azure Plume Straight Jab,Spearwrath,F4,Demigod L2 High,B
+MV-ELI-SPR-002-03,Tassel-Weight Guard Sweep,Inexorable Bindcord,F1,Demigod L2 High,B
+MV-ELI-SPR-002-04,Spinning-Tassel Cloud Screen,Iron Bladewings,F2,Demigod L2 High,B
+MV-ELI-SPR-002-05,Azure Plume Hooking Drag,Webbing Stretch,F1,Demigod L2 High,B
+MV-ELI-SPR-002-06,Hidden-Point Stab Behind Plume,Rumble Bindcord,F2,Demigod L2 High,B
+MV-ELI-SPR-002-07,Dancing Tassel Disarming Wheel,Toxin Buttshoe,F2,Demigod L2 High,B
+MV-ELI-SPR-002-08,Azure Veil Twin Thrusts,Lot Pushthrough,F2,Demigod L2 High,B
+MV-ELI-SPR-002-09,Plume-Hidden Piercing Barrage,Slag Collarband,F2,Demigod L2 High,B
+MV-ELI-SPR-003-01,Basin-Floor Wide Stance,Equipoise Ferrule,F2,Demigod L4 Low,B
+MV-ELI-SPR-003-02,Floor-Skimming Haft Sweep,Merciless Beatback,F1,Demigod L4 Low,B
+MV-ELI-SPR-003-03,River-Stone Rolling Step,Gustspear,F5,Demigod L4 Low,B
+MV-ELI-SPR-003-04,Level-Ground Drive Thrust,Tempered Leafhead,F2,Demigod L4 Low,B
+MV-ELI-SPR-003-05,Crouched Guard Reset,Murk Spearpoint,F2,Demigod L4 Low,B
+MV-ELI-SPR-003-06,Basin-Edge Climbing Thrust,Thrustwrath,F4,Demigod L4 Low,B
+MV-ELI-SPR-003-07,Stream-Over-Stone Parry Slide,Torrent Longshaft,F2,Demigod L4 Low,B
+MV-ELI-SPR-003-08,Low-Floor Hook Trip,Socketnerve,F4,Demigod L4 Low,B
+MV-ELI-SPR-003-09,Basin Filling Sweep Series,Hourpoint,F5,Demigod L4 Low,B
+MV-ELI-SPR-003-10,Floor-Shaking Stamp Thrust,Stretch Wrath,F3,Demigod L4 Low,B
+MV-ELI-SPR-003-11,River-Basin Overwhelming Spear,Daybreak Heelspike,F2,Demigod L4 Low,B
+MV-ELI-SPR-004-01,Small-Stream Gathering Thrust,Wrathful Slideshaft,F1,Demigod L5 Peak,B
+MV-ELI-SPR-004-02,River-Mouth Haft Slide,Twirlwrath,F4,Demigod L5 Peak,B
+MV-ELI-SPR-004-03,Tributary Parry Flow,Equipoise Leafhead,F2,Demigod L5 Peak,B
+MV-ELI-SPR-004-04,Joining-Waters Piercing Drive,Ruinous Buttshoe,F1,Demigod L5 Peak,B
+MV-ELI-SPR-004-05,Delta-Fan Spread Jabs,Might Beatback,F2,Demigod L5 Peak,B
+MV-ELI-SPR-004-06,Silt-Laden Heavy Press,Spearspine,F4,Demigod L5 Peak,B
+MV-ELI-SPR-004-07,Rising Tide Double Strike,Intent Heelspike,F2,Demigod L5 Peak,B
+MV-ELI-SPR-004-08,Estuary Wide Parry Wheel,Ferrule Nerve,F3,Demigod L5 Peak,B
+MV-ELI-SPR-004-09,Great River Meeting the Sea,Pointruin,F4,Demigod L5 Peak,B
+MV-ELI-SPR-005-01,Long-Track Reaching Jab,Devastating Stretch,F1,Demigod L6 Mid,B
+MV-ELI-SPR-005-02,Short-Track Close Prick,Eviscerating Slideshaft,F1,Demigod L6 Mid,B
+MV-ELI-SPR-005-03,Track-Change Mid-Thrust Shift,Twirlglare,F4,Demigod L6 Mid,B
+MV-ELI-SPR-005-04,Dual-Hand Rolling Guard,Torrent Bindcord,F2,Demigod L6 Mid,B
+MV-ELI-SPR-005-05,Reach-Trading Retreat Jab,Blaze Bladewings,F2,Demigod L6 Mid,B
+MV-ELI-SPR-005-06,Two-Track Alternating Thrust,Lot Spearpoint,F2,Demigod L6 Mid,B
+MV-ELI-SPR-005-07,Short-Haft Long-Haft Slide Strike,Rumble Longshaft,F2,Demigod L6 Mid,B
+MV-ELI-SPR-005-08,Track-Crossing Parry Shift,Collarband Spine,F3,Demigod L6 Mid,B
+MV-ELI-SPR-005-09,Dual-Reach Disarming Press,Suffocating Pushthrough,F1,Demigod L6 Mid,B
+MV-ELI-SPR-005-10,Long-and-Short Convergent Strike,Iron Stretch,F2,Demigod L6 Mid,B
+MV-ELI-SPR-005-11,Twin-Distance Barrage,Reverberating Longshaft,F1,Demigod L6 Mid,B
+MV-ELI-SPR-005-12,Dual-Track Perfected Lance,Socketwrath,F4,Demigod L6 Mid,B
+MV-ELI-SPR-006-01,Wing-Beat Haft Strike,Might Collarband,F2,Demigod L8 Low,B
+MV-ELI-SPR-006-02,Updraft-Rise Forward Step,Thrustflash,F4,Demigod L8 Low,B
+MV-ELI-SPR-006-03,Soaring-Line Reach Thrust,Blistering Ferrule,F1,Demigod L8 Low,B
+MV-ELI-SPR-006-04,Wingspan Full-Haft Sweep,Twirlscourge,F4,Demigod L8 Low,B
+MV-ELI-SPR-006-05,Feather-Light Parry Turn,Equipoise Bladewings,F2,Demigod L8 Low,B
+MV-ELI-SPR-006-06,Glide-Over Guard Slide,Nova Spearpoint,F2,Demigod L8 Low,B
+MV-ELI-SPR-006-07,High-Azure Soaring Combination,Multiplying Pushthrough,F1,Demigod L8 Low,B
+MV-ELI-SPR-006-08,Wing-Fold Closing Counter,Thorn Leafhead,F2,Demigod L8 Low,B
+MV-ELI-SPR-006-09,Hawk-Wing Sweeping Strike,Brutalizing Buttshoe,F1,Demigod L8 Low,B
+MV-ELI-SPR-007-01,Twin-River Meeting Thrust,Gnashing Bindcord,F1,Demigod L9 Mid,B
+MV-ELI-SPR-007-02,Confluence Stance Hold,Chime Heelspike,F2,Demigod L9 Mid,B
+MV-ELI-SPR-007-03,Side-Channel Slip Step,Gust Beatback,F2,Demigod L9 Mid,B
+MV-ELI-SPR-007-04,Meeting-Waters Parry Join,Adamantine Bladewings,F1,Demigod L9 Mid,B
+MV-ELI-SPR-007-05,Joined-Current Piercing Press,Rampaging Slideshaft,F1,Demigod L9 Mid,B
+MV-ELI-SPR-007-06,Twin-Stream Hook Drag,Pointvalor,F4,Demigod L9 Mid,B
+MV-ELI-SPR-007-07,Rivers-Cross Shield Spin,Spearpoint Spine,F3,Demigod L9 Mid,B
+MV-ELI-SPR-007-08,Confluence-Burst Piercing Thrust,Iron Ferrule,F2,Demigod L9 Mid,B
+MV-ELI-SPR-007-09,Twin-River Closing Sequence,Doctrine Stretch,F2,Demigod L9 Mid,B
+MV-ELI-SPR-007-10,Confluence Overwhelming Lance,Rumble Collarband,F2,Demigod L9 Mid,B
+MV-ELI-SPR-008-01,Court-Pair Eye Split,Remnant Longshaft,F2,Void God L1 Mid,B
+MV-ELI-SPR-008-02,Two-Point Straight Thrust,Might Slideshaft,F2,Void God L1 Mid,B
+MV-ELI-SPR-008-03,Paired-Foot Weave Step,Might Pushthrough,F2,Void God L1 Mid,B
+MV-ELI-SPR-008-04,Pair-Guard Cross Parry,Bindcord Spine,F3,Void God L1 Mid,B
+MV-ELI-SPR-008-05,Twin-Opening Spear Fork,Granite Beatback,F2,Void God L1 Mid,B
+MV-ELI-SPR-008-06,Court-Mirror Counter Beat,Immobilizing Heelspike,F1,Void God L1 Mid,B
+MV-ELI-SPR-008-07,Twin-Line Haft Press,Hogtying Leafhead,F1,Void God L1 Mid,B
+MV-ELI-SPR-008-08,Two-Point Piercing Combination,Hourspear,F5,Void God L1 Mid,B
+MV-ELI-SPR-008-09,Court-of-Two Shielding Cover,Buttshoe Nerve,F3,Void God L1 Mid,B
+MV-ELI-SPR-008-10,Two Points One Spear Strike,Glint Stretch,F2,Void God L1 Mid,B
+MV-ELI-SPR-009-01,Plateau-March Steady Thrust,Blaze Bindcord,F2,Demigod L1 Low,B
+MV-ELI-SPR-009-02,Wind-Sworn Facing Stance,Gust Buttshoe,F2,Demigod L1 Low,B
+MV-ELI-SPR-009-03,Long-Stride Open Run,Gust Leafhead,F2,Demigod L1 Low,B
+MV-ELI-SPR-009-04,Gale-Drive Piercing Jab,Glintsocket,F5,Demigod L1 Low,B
+MV-ELI-SPR-009-05,Sworn-Line Pressing Walk,Thrustmettle,F4,Demigod L1 Low,B
+MV-ELI-SPR-009-06,Plateau-Edge Counter Sweep,Gust Collarband,F2,Demigod L1 Low,B
+MV-ELI-SPR-009-07,Windward Lance Rush,Novaspear,F5,Demigod L1 Low,B
+MV-ELI-SPR-009-08,Oathbound Standing Spear Fan,Pointwrath,F4,Demigod L1 Low,B
+MV-ELI-SPR-009-09,Wind-Sworn Line-Breaker Thrust,Thrustruin,F4,Demigod L1 Low,B
+MV-ELI-SPR-010-01,Oath-Sworn Opening Jab,Hellish Ferrule,F1,Demigod L3 Mid,B
+MV-ELI-SPR-010-02,Gale-Speed Return Draw,Murk Heelspike,F2,Demigod L3 Mid,B
+MV-ELI-SPR-010-03,Wind-Pressed Forward Slide,Silt Beatback,F2,Demigod L3 Mid,B
+MV-ELI-SPR-010-04,Finishing-Run Gust Thrust,Facetsocket,F5,Demigod L3 Mid,B
+MV-ELI-SPR-010-05,Oath-Held Binding Line,Gyvetwirl,F5,Demigod L3 Mid,B
+MV-ELI-SPR-010-06,Wind-Torn Hanging Parry,Evergreen Longshaft,F1,Demigod L3 Mid,B
+MV-ELI-SPR-010-07,Gale-Sworn Chasing Series,Synchronized Slideshaft,F1,Demigod L3 Mid,B
+MV-ELI-SPR-010-08,Oath-Edge Cutting Gust,Decimating Pushthrough,F1,Demigod L3 Mid,B
+MV-ELI-SPR-010-09,Oath of the Last Gale,Titanic Iron Spearpoint,F6a,Demigod L3 Mid,B
+MV-ELI-SPR-011-01,True-Bearing Thrust Line,Spearscourge,F4,Demigod L5 Low,B
+MV-ELI-SPR-011-02,Bearing-Taking Pause Step,Waning Spearpoint,F2,Demigod L5 Low,B
+MV-ELI-SPR-011-03,Slope-Reading Foot Set,Chime Bladewings,F2,Demigod L5 Low,B
+MV-ELI-SPR-011-04,Cross-Bearing Slant Parry,Murk Leafhead,F2,Demigod L5 Low,B
+MV-ELI-SPR-011-05,Bearing-Shift Piercing Thrust,Mangling Spearpoint,F1,Demigod L5 Low,B
+MV-ELI-SPR-011-06,Held-Line Counter Wedge,Enthralling Bladewings,F1,Demigod L5 Low,B
+MV-ELI-SPR-011-07,Fixed-Bearing Pressing Drive,Pointdurance,F4,Demigod L5 Low,B
+MV-ELI-SPR-011-08,Bearing-Chain Wearing Sequence,Doctrine Ferrule,F2,Demigod L5 Low,B
+MV-ELI-SPR-011-09,True-Bearing Splitting Lance,Glint Beatback,F2,Demigod L5 Low,B
+MV-ELI-SPR-011-10,Unshaken Bearing Lancing Strike,Twirlruin,F4,Demigod L5 Low,B
+MV-ELI-SPR-012-01,Narrow-Ground Single Thrust,Ferocious Stretch,F1,Demigod L7 Peak,B
+MV-ELI-SPR-012-02,Ridge-Line Slide Step,Gust Longshaft,F2,Demigod L7 Peak,B
+MV-ELI-SPR-012-03,Edge-Watch Hold Guard,Chime Bindcord,F2,Demigod L7 Peak,B
+MV-ELI-SPR-012-04,Cliff-Edge Shaft Brace,Flintlike Buttshoe,F1,Demigod L7 Peak,B
+MV-ELI-SPR-012-05,Wind-Edge Probing Prick,Socketruin,F4,Demigod L7 Peak,B
+MV-ELI-SPR-012-06,Edge-Bound Lunge Reversal,Hollow Slideshaft,F2,Demigod L7 Peak,B
+MV-ELI-SPR-012-07,Ledge-Shouldering Haft Drive,Chime Pushthrough,F2,Demigod L7 Peak,B
+MV-ELI-SPR-012-08,Drop-Side Hooking Pull,Thornthrust,F5,Demigod L7 Peak,B
+MV-ELI-SPR-012-09,Edge-Walking Spear Cascade,Overlapping Collarband,F1,Demigod L7 Peak,B
+MV-ELI-SPR-012-10,Gale-Cloaked Standing Guard,Charter Heelspike,F2,Demigod L7 Peak,B
+MV-ELI-SPR-012-11,Edge-Walker's Final Spear,Corroding Twirl Reckoning,F6b,Demigod L7 Peak,B
+MV-ELI-SPR-013-01,Open-Horizon Level Thrust,Tempered Buttshoe,F2,Void God L2 Low,B
+MV-ELI-SPR-013-02,Long-Wind Gliding Step,Stretch Slipstream,F3,Void God L2 Low,B
+MV-ELI-SPR-013-03,Unshielded Standing Parry,Gust Ferrule,F2,Void God L2 Low,B
+MV-ELI-SPR-013-04,Gust-Cutting Slanting Strike,Spearruin,F4,Void God L2 Low,B
+MV-ELI-SPR-013-05,Open-Line Haft Beat,Rumble Heelspike,F2,Void God L2 Low,B
+MV-ELI-SPR-013-06,Wind-Raked Sweeping Press,Booming Slideshaft,F1,Void God L2 Low,B
+MV-ELI-SPR-013-07,Long-Wind Piercing Charge,Novatwirl,F5,Void God L2 Low,B
+MV-ELI-SPR-013-08,Open-Ground Scattering Whirl,Slag Pushthrough,F2,Void God L2 Low,B
+MV-ELI-SPR-013-09,Spear of the Open Horizon,Berserk Beatback Scourge,F6b,Void God L2 Low,B
+MV-ELI-SPR-014-01,Crosswind Haft Lever Hold,Chime Leafhead,F2,Demigod L9 Low,B
+MV-ELI-SPR-014-02,Gust-Opened Forward Thrust,Ironsocket,F5,Demigod L9 Low,B
+MV-ELI-SPR-014-03,Plateau-Wind Reading Lean,Expanse Bladewings,F2,Demigod L9 Low,B
+MV-ELI-SPR-014-04,High-Ground Look-Down Jab,Pointhavoc,F4,Demigod L9 Low,B
+MV-ELI-SPR-014-05,Crosswind Slip Aside,Beatback Glare,F3,Demigod L9 Low,B
+MV-ELI-SPR-014-06,Haft-Lever Heavy Parry,Collarband Fortitude,F3,Demigod L9 Low,B
+MV-ELI-SPR-014-07,Gale-Backed Thrust Chain,Escalating Longshaft,F1,Demigod L9 Low,B
+MV-ELI-SPR-014-08,Plateau-Hold Pinning Point,Overbearing Bindcord,F1,Demigod L9 Low,B
+MV-ELI-SPR-014-09,Wind-Against Counter Spin,Might Spearpoint,F2,Demigod L9 Low,B
+MV-ELI-SPR-014-10,Gale-Lever Shattering Drive,Unsparing Ferrule,F1,Demigod L9 Low,B
+MV-ELI-SPR-014-11,High-Plateau Scouring Sweep,Granite Twirl,F2,Demigod L9 Low,B
+MV-ELI-SPR-014-12,Crosswind Sworn Closing Series,Overlapping Stretch,F1,Demigod L9 Low,B
+MV-ELI-SPR-014-13,Crosswind Spear of the Plateau,Longshaft Wrath,F3,Demigod L9 Low,B
+MV-ELI-SPR-015-01,Sworn-Purpose Steady Thrust,Sanguine Buttshoe,F2,Demigod L6 High,B
+MV-ELI-SPR-015-02,Wind-Told Oath Parry,Equipoise Spearpoint,F2,Demigod L6 High,B
+MV-ELI-SPR-015-03,Oath-Pace Marching Guard,Torrent Bladewings,F2,Demigod L6 High,B
+MV-ELI-SPR-015-04,Oath-Bound Sustained Drive,Thrustscourge,F4,Demigod L6 High,B
+MV-ELI-SPR-015-05,Sworn-Line Binding Beat,Thorntwirl,F5,Demigod L6 High,B
+MV-ELI-SPR-015-06,Wind-Spoken Fan Thrusts,Hoursocket,F5,Demigod L6 High,B
+MV-ELI-SPR-015-07,Oath-Fulfilling Lance Dive,Glintspear,F5,Demigod L6 High,B
+MV-ELI-SPR-015-08,Sworn-Wind Standing Whirl,Thorn Heelspike,F2,Demigod L6 High,B
+MV-ELI-SPR-015-09,Oath Carried on the Wind,Pointscourge,F4,Demigod L6 High,B
+MV-ELI-SPR-016-01,Gale-Bound Rising Thrust,Vengeful Thrust,F1,Void God L4 Mid,B
+MV-ELI-SPR-016-02,Wind-Gathering Wide Step,Silt Slideshaft,F2,Void God L4 Mid,B
+MV-ELI-SPR-016-03,Bound-Point Steady Probe,Verity Leafhead,F2,Void God L4 Mid,B
+MV-ELI-SPR-016-04,Gale-Turned Haft Parry,Murk Bindcord,F2,Void God L4 Mid,B
+MV-ELI-SPR-016-05,Windstep Low Closing Jab,Shattering Pushthrough,F1,Void God L4 Mid,B
+MV-ELI-SPR-016-06,Speed-Gathering Spear Run,Thrusthavoc,F4,Void God L4 Mid,B
+MV-ELI-SPR-016-07,Gale-Bound Haft Hook,Beatback Valor,F3,Void God L4 Mid,B
+MV-ELI-SPR-016-08,Windward Catching Parry,Aegis Collarband,F2,Void God L4 Mid,B
+MV-ELI-SPR-016-09,Bound-Line Falling Strike,Sockethavoc,F4,Void God L4 Mid,B
+MV-ELI-SPR-016-10,Gale-Bound Thundering Thrust,Beatback Ruin,F3,Void God L4 Mid,B
+MV-ELI-SPR-016-11,Wind-Hounded Chasing Combination,Collarband Devastation,F3,Void God L4 Mid,B
+MV-ELI-SPR-016-12,Point Bound to the Gale,Grievous Tempered Heelspike,F6a,Void God L4 Mid,B
+MV-ELI-SPR-012-06,Hollow Slideshaft,Turning Slideshaft,F2,Demigod L7 Peak,B
+MV-ELI-SPR-014-03,Expanse Bladewings,Feeling Bladewings,F2,Demigod L9 Low,B

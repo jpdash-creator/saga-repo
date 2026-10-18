@@ -1,0 +1,117 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-MST-001-01,Twin River Ready Stance,Impenetrable Shaftcollar,F1,Demigod L1 Low,B
+MV-ELI-MST-001-02,River Fork Swing,Ballwrath,F4,Demigod L1 Low,B
+MV-ELI-MST-001-03,Confluence Step,Burrflash,F4,Demigod L1 Low,B
+MV-ELI-MST-001-04,Upstream Spike Pull,Strangling Prickball,F1,Demigod L1 Low,B
+MV-ELI-MST-001-05,Twin Stream Orb Drop,Pummelruin,F4,Demigod L1 Low,B
+MV-ELI-MST-001-06,Delta Guard Spread,Unbowed Spikering,F1,Demigod L1 Low,B
+MV-ELI-MST-001-07,Floodplain Crush,Mayhem Pummel,F2,Demigod L1 Low,B
+MV-ELI-MST-001-08,Meeting Waters Bind,Harnessing Topspike,F1,Demigod L1 Low,B
+MV-ELI-MST-001-09,Twin River Burst Fall,Devastating Thornbite,F1,Demigod L1 Low,B
+MV-ELI-MST-002-01,Iron Hawk Perch,Invincible Spikebase,F1,Demigod L3 Low,B
+MV-ELI-MST-002-02,Hawk Eye Marking,Clairvoyant Headspike,F1,Demigod L3 Low,B
+MV-ELI-MST-002-03,Updraft Heave,Crunchruin,F4,Demigod L3 Low,B
+MV-ELI-MST-002-04,Falling Beak Jab,Berserk Topspike,F1,Demigod L3 Low,B
+MV-ELI-MST-002-05,Pinion Haft Beat Aside,Impervious Ballsocket,F1,Demigod L3 Low,B
+MV-ELI-MST-002-06,Pre-Laid Qi Stoop,Burrhavoc,F4,Demigod L3 Low,B
+MV-ELI-MST-002-07,Hawk Eyrie Drop Guard,Thistlevalor,F4,Demigod L3 Low,B
+MV-ELI-MST-002-08,Iron Rain Descent,Rampaging Studball,F1,Demigod L3 Low,B
+MV-ELI-MST-002-09,Talon Spike Seizure,Webbing Spikering,F1,Demigod L3 Low,B
+MV-ELI-MST-002-10,Hawk Iron Fall,Eviscerating Glint Headspike,F6a,Demigod L3 Low,B
+MV-ELI-MST-003-01,Paired Orb Hold,Unassailable Shaftcollar,F1,Demigod L5 Mid,B
+MV-ELI-MST-003-02,Shaft Lead Thrust,Pitiless Topspike,F1,Demigod L5 Mid,B
+MV-ELI-MST-003-03,Orb Lead Swing,Maulwrath,F4,Demigod L5 Mid,B
+MV-ELI-MST-003-04,Shaft Takes Over,Flintlike Ballsocket,F1,Demigod L5 Mid,B
+MV-ELI-MST-003-05,Orb Takes Over,Thistlescourge,F4,Demigod L5 Mid,B
+MV-ELI-MST-003-06,Orb and Shaft Scissor,Overbearing Prickball,F1,Demigod L5 Mid,B
+MV-ELI-MST-003-07,Counterpoise Rotation,Confluent Studcrush,F1,Demigod L5 Mid,B
+MV-ELI-MST-003-08,Mated Shock,Lacerating Spikeball,F1,Demigod L5 Mid,B
+MV-ELI-MST-003-09,Orb and Shaft in Concord,Burrscourge,F4,Demigod L5 Mid,B
+MV-ELI-MST-004-01,Azure Heights Opening,Booming Headspike,F1,Demigod L7 Low,B
+MV-ELI-MST-004-02,Thermal Rise Guard,Evergreen Spikering,F1,Demigod L7 Low,B
+MV-ELI-MST-004-03,Skyline Sweep,Thistlehavoc,F4,Demigod L7 Low,B
+MV-ELI-MST-004-04,Cloudbank Step,Pummelglimmer,F4,Demigod L7 Low,B
+MV-ELI-MST-004-05,Ridge Line Knock,Crunchscourge,F4,Demigod L7 Low,B
+MV-ELI-MST-004-06,Falling Sun Strike,Titanic Spikedrop,F1,Demigod L7 Low,B
+MV-ELI-MST-004-07,Slope Run Pursuit,Crunchvortex,F4,Demigod L7 Low,B
+MV-ELI-MST-004-08,High Ledge Parry,Adamantine Topspike,F1,Demigod L7 Low,B
+MV-ELI-MST-004-09,Crushing Round Whole,Reverberating Maul,F1,Demigod L7 Low,B
+MV-ELI-MST-004-10,Eagle Pass Breaker,Ferocious Spikebase,F1,Demigod L7 Low,B
+MV-ELI-MST-004-11,Zenith Crush,Shattering Thornball,F1,Demigod L7 Low,B
+MV-ELI-MST-005-01,Body Track Stance,Indomitable Spikeball,F1,Demigod L9 Mid,B
+MV-ELI-MST-005-02,Field Track Reach,Corroding Studball,F1,Demigod L9 Mid,B
+MV-ELI-MST-005-03,Spike Pace Parallel,Maulglare,F4,Demigod L9 Mid,B
+MV-ELI-MST-005-04,Orb Pivot Drop,Maulhavoc,F4,Demigod L9 Mid,B
+MV-ELI-MST-005-05,Parallel Qi Surge,Blistering Headspike,F1,Demigod L9 Mid,B
+MV-ELI-MST-005-06,Dual Guard Screen,Obdurate Shaftcollar,F1,Demigod L9 Mid,B
+MV-ELI-MST-005-07,Split Line Hook,Numbing Topspike,F1,Demigod L9 Mid,B
+MV-ELI-MST-005-08,Twin Pulse Strike,Vengeful Spikering,F1,Demigod L9 Mid,B
+MV-ELI-MST-005-09,Track Exchange Turn,Multiplying Pummel,F1,Demigod L9 Mid,B
+MV-ELI-MST-005-10,Dual Track Orb Doom,Titanic Facet Spikering,F6a,Demigod L9 Mid,B
+MV-ELI-MST-006-01,Court Basin Stance,Unconquered Spikebase,F1,Void God L3 Low,B
+MV-ELI-MST-006-02,Lip of the Basin Cut,Ballscourge,F4,Void God L3 Low,B
+MV-ELI-MST-006-03,Silt Drag Step,Thistleflash,F4,Void God L3 Low,B
+MV-ELI-MST-006-04,Tributary Haft Parry,Unrelenting Shaftcollar,F1,Void God L3 Low,B
+MV-ELI-MST-006-05,Gap Filling Fall,Pummelscourge,F4,Void God L3 Low,B
+MV-ELI-MST-006-06,Basin Pressure Hold,Suffocating Headspike,F1,Void God L3 Low,B
+MV-ELI-MST-006-07,Courtyard Fall Pair,Escalating Studcrush,F1,Void God L3 Low,B
+MV-ELI-MST-006-08,Flood Rim Collapse,Unsparing Thornbite,F1,Void God L3 Low,B
+MV-ELI-MST-006-09,Basin Court Orb Fall,Pummelhavoc,F4,Void God L3 Low,B
+MV-ELI-MST-007-01,Windward Ready Stance,Inexorable Spikering,F1,Demigod L2 Low,B
+MV-ELI-MST-007-02,Wind-Sworn Down Cut,Gnashing Topspike,F1,Demigod L2 Low,B
+MV-ELI-MST-007-03,Crosswind Orb Sidestep,Burrglimmer,F4,Demigod L2 Low,B
+MV-ELI-MST-007-04,Plateau Haft Slap,Maulscourge,F4,Demigod L2 Low,B
+MV-ELI-MST-007-05,Lull Break Strike,Burrwrath,F4,Demigod L2 Low,B
+MV-ELI-MST-007-06,Gale Veer Guard,Obdurate Prickball,F1,Demigod L2 Low,B
+MV-ELI-MST-007-07,Wind Hook Tear,Maiming Ballsocket,F1,Demigod L2 Low,B
+MV-ELI-MST-007-08,Sworn Gust Round,Silt Thornball,F2,Demigod L2 Low,B
+MV-ELI-MST-007-09,Long Gust Pursuit,Synchronized Spikeball,F1,Demigod L2 Low,B
+MV-ELI-MST-007-10,Wind Sworn Final Fall,Merciless Headspike,F1,Demigod L2 Low,B
+MV-ELI-MST-008-01,Crushing Gale Stance,Impervious Topspike,F1,Demigod L4 Mid,B
+MV-ELI-MST-008-02,Headwind Drive,Crunchwrath,F4,Demigod L4 Mid,B
+MV-ELI-MST-008-03,Open Ground Drift,Ballvortex,F4,Demigod L4 Mid,B
+MV-ELI-MST-008-04,Squall Front Hammer,Ballruin,F4,Demigod L4 Mid,B
+MV-ELI-MST-008-05,Gale Turn Guard,Unbudging Thornball,F1,Demigod L4 Mid,B
+MV-ELI-MST-008-06,Wind Gap Spike,Ruinous Prickball,F1,Demigod L4 Mid,B
+MV-ELI-MST-008-07,Plateau Crush Sweep,Slag Studcrush,F2,Demigod L4 Mid,B
+MV-ELI-MST-008-08,Gale Pinning Press,Overpowering Spikebase,F1,Demigod L4 Mid,B
+MV-ELI-MST-008-09,Crushing Gale Breaker,Berserk Pummel,F1,Demigod L4 Mid,B
+MV-ELI-MST-009-01,Oath Spoken Haft Stance,Evergreen Ballsocket,F1,Demigod L6 Low,B
+MV-ELI-MST-009-02,Word Kept Cut,Thistlewrath,F4,Demigod L6 Low,B
+MV-ELI-MST-009-03,Oath Line Advance,Pummelblink,F4,Demigod L6 Low,B
+MV-ELI-MST-009-04,Sworn Haft Press,Enthralling Shaftcollar,F1,Demigod L6 Low,B
+MV-ELI-MST-009-05,Breath of the Vow,Prescient Thornball,F1,Demigod L6 Low,B
+MV-ELI-MST-009-06,Bound Head Fall,Wrathful Spikeball,F1,Demigod L6 Low,B
+MV-ELI-MST-009-07,Vow Keeper Guard,Flintlike Headspike,F1,Demigod L6 Low,B
+MV-ELI-MST-009-08,Oath Weight Anchor,Immobilizing Topspike,F1,Demigod L6 Low,B
+MV-ELI-MST-009-09,Oath Falling Twice,Overlapping Maul,F1,Demigod L6 Low,B
+MV-ELI-MST-009-10,Held Vow Pin,Hogtying Spikering,F1,Demigod L6 Low,B
+MV-ELI-MST-009-11,Falling Head Oath,Rampaging Prickball,F1,Demigod L6 Low,B
+MV-ELI-MST-010-01,True Bearing Sighting,Unerring Shaftcollar,F1,Demigod L8 Low,B
+MV-ELI-MST-010-02,Shaft-End Spike Lunge,Ferocious Thornbite,F1,Demigod L8 Low,B
+MV-ELI-MST-010-03,Distance Keeping Step,Burrblink,F4,Demigod L8 Low,B
+MV-ELI-MST-010-04,Sighted Head Sweep,Hellish Pummel,F1,Demigod L8 Low,B
+MV-ELI-MST-010-05,Reach Guard Turn,Adamantine Spikebase,F1,Demigod L8 Low,B
+MV-ELI-MST-010-06,Far Spike Snare,Strangling Spikeball,F1,Demigod L8 Low,B
+MV-ELI-MST-010-07,True Line Fall,Decimating Prickball,F1,Demigod L8 Low,B
+MV-ELI-MST-010-08,Bearing Through Armor,Gnashing Headspike,F1,Demigod L8 Low,B
+MV-ELI-MST-010-09,Longest Reach Landing,Unsparing Iron Spikebase,F6a,Demigod L8 Low,B
+MV-ELI-MST-011-01,Open Sky Orb Stance,Unbowed Shaftcollar,F1,Void God L1 Low,B
+MV-ELI-MST-011-02,Unsheltered Swing,Ballhavoc,F4,Void God L1 Low,B
+MV-ELI-MST-011-03,Wide Heath Stride,Crunchglare,F4,Void God L1 Low,B
+MV-ELI-MST-011-04,Back to the Wind Strike,Pitiless Spikering,F1,Void God L1 Low,B
+MV-ELI-MST-011-05,Round the Compass Swing,Mayhem Studball,F2,Void God L1 Low,B
+MV-ELI-MST-011-06,Uncovered Guard,Unconquered Headspike,F1,Void God L1 Low,B
+MV-ELI-MST-011-07,Horizon Hook Pull,Webbing Prickball,F1,Void God L1 Low,B
+MV-ELI-MST-011-08,Open Field Hammering,Escalating Pummel,F1,Void God L1 Low,B
+MV-ELI-MST-011-09,Sky Wide Crush,Vengeful Spikeball,F1,Void God L1 Low,B
+MV-ELI-MST-011-10,Unwalled Orb Descent,Titanic Ballsocket,F1,Void God L1 Low,B
+MV-ELI-MST-012-01,Plateau Edge Shaft Hold,Impenetrable Spikebase,F1,Void God L4 Mid,B
+MV-ELI-MST-012-02,Gale Spike Lead,Corroding Topspike,F1,Void God L4 Mid,B
+MV-ELI-MST-012-03,Shaft Wind Slide,Thistleglimmer,F4,Void God L4 Mid,B
+MV-ELI-MST-012-04,Gale Driven Shaft Cut,Booming Spikedrop,F1,Void God L4 Mid,B
+MV-ELI-MST-012-05,Spike Gust Parry,Indomitable Prickball,F1,Void God L4 Mid,B
+MV-ELI-MST-012-06,Hooked Shaft Lock,Maiming Shaftcollar,F1,Void God L4 Mid,B
+MV-ELI-MST-012-07,Gale Lance Thrust,Berserk Thornbite,F1,Void God L4 Mid,B
+MV-ELI-MST-012-08,Plateau Wind Pivot,Confluent Pummel,F1,Void God L4 Mid,B
+MV-ELI-MST-012-09,Shaft and Spike Gale,Brutalizing Headspike,F1,Void God L4 Mid,B

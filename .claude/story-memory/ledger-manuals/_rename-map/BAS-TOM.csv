@@ -1,0 +1,67 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-TOM-001-01,Belt Loop Draw,Single Fling,F1,T1 Unawakened,A
+MV-BAS-TOM-001-02,Short Elbow Chop,Leaden Spikepoll,F1,T1 Unawakened,A
+MV-BAS-TOM-001-03,Haft Slant Parry,Kept Tailknob,F1,T1 Unawakened,A
+MV-BAS-TOM-001-04,Beard Catch and Tug,Hurl Lid,F3,T1 Unawakened,A
+MV-BAS-TOM-001-05,Two-Foot Closing Shuffle,Chuck Trot,F3,T1 Unawakened,A
+MV-BAS-TOM-001-06,Planted Overarm Lob,Square Lob,F1,T1 Unawakened,A
+MV-BAS-TOM-002-01,Stump-Facing Guard Stance,Birchcowl,F4,T1 Skin,A
+MV-BAS-TOM-002-02,Stump Bite Drill Cut,Hard Balancepoint,F1,T1 Skin,A
+MV-BAS-TOM-002-03,Poll Knock to the Temple,Flintdash,F4,T1 Skin,A
+MV-BAS-TOM-002-04,Half-Turn Four-Pace Throw,Sudden Edgecurve,F1,T1 Skin,A
+MV-BAS-TOM-002-05,Wrist Snap Release,Leaden Thumbnotch,F1,T1 Skin,A
+MV-BAS-TOM-002-06,Backward Pace Haft Guard,Flintpause,F4,T1 Skin,A
+MV-BAS-TOM-002-07,Stump Wrench Retrieval Run,Sideways Tomahead,F1,T1 Skin,A
+MV-BAS-TOM-003-01,Cross-Body Hip Draw,Lobhit,F4,T1 Muscle,A
+MV-BAS-TOM-003-02,Choked-Up Beard Drag,Tosscowl,F4,T1 Muscle,A
+MV-BAS-TOM-003-03,Thigh-Height Passing Cut,Single Quickbit,F1,T1 Muscle,A
+MV-BAS-TOM-003-04,Sidestep Two-Fist Block,Birchwedge,F4,T1 Muscle,A
+MV-BAS-TOM-003-05,Underhand Shin Toss,Lobstrike,F4,T1 Muscle,A
+MV-BAS-TOM-004-01,Sliding Haft Lengthen,Tossbump,F4,T1 Tendon,A
+MV-BAS-TOM-004-02,Wrist-Roll Backhand Chop,Narrow Lightbit,F1,T1 Tendon,A
+MV-BAS-TOM-004-03,Butt-End Belly Jab,Toss Strike,F3,T1 Tendon,A
+MV-BAS-TOM-004-04,Beard Hook Ankle Draw,Towing Pitch,F1,T1 Tendon,A
+MV-BAS-TOM-004-05,One-Turn Eight-Pace Throw,Hard Tomahead,F1,T1 Tendon,A
+MV-BAS-TOM-004-06,Sidearm Flat Spinner,Straight Spikepoll,F1,T1 Tendon,A
+MV-BAS-TOM-004-07,Crossed-Wrist Haft Catch,Settled Throwhelve,F1,T1 Tendon,A
+MV-BAS-TOM-004-08,Lead-Toe Hatchet Pivot,Swaying Chuck,F1,T1 Tendon,A
+MV-BAS-TOM-005-01,Clinch Shoulder Chopping,Plain Birchhelve,F1,T1 Bone,A
+MV-BAS-TOM-005-02,Beard Shaft Strip,Flinghusk,F4,T1 Bone,A
+MV-BAS-TOM-005-03,Poll Knee Knock,Narrow Quickbit,F1,T1 Bone,A
+MV-BAS-TOM-005-04,Overhead Haft Block and Wrist Grab,Settled Lightbit,F1,T1 Bone,A
+MV-BAS-TOM-005-05,Slip-Step Counter Chop,Sideways Throwhelve,F1,T1 Bone,A
+MV-BAS-TOM-005-06,Long Lean Throw to Ten Paces,Wide Pitch,F1,T1 Bone,A
+MV-BAS-TOM-006-01,Palm-Qi Grip Lock,Flintwedge,F4,Senior L1 Low,A
+MV-BAS-TOM-006-02,Haft Pulse Chop,Birchdrop,F4,Senior L1 Low,A
+MV-BAS-TOM-006-03,Wrist-Qi Release Throw,Descending Birchhelve,F1,Senior L1 Low,A
+MV-BAS-TOM-006-04,Double-Turn Twelve-Pace Throw,Lobbump,F4,Senior L1 Low,A
+MV-BAS-TOM-006-05,Calf-Qi Backward Stride,Shifting Tailknob,F1,Senior L1 Low,A
+MV-BAS-TOM-006-06,Charged Haft Dart Slap,Holding Thumbnotch,F1,Senior L1 Low,A
+MV-BAS-TOM-006-07,Beard Snap Wrist Tug,Turning Toss,F1,Senior L1 Low,A
+MV-BAS-TOM-007-01,Spin-Count Range Release,Balancepoint Dash,F3,Senior L2 Low,A
+MV-BAS-TOM-007-02,High Arc Over-Barrier Lob,Forward Fling,F1,Senior L2 Low,A
+MV-BAS-TOM-007-03,Skimming Shin Throw,Leaden Chuck,F1,Senior L2 Low,A
+MV-BAS-TOM-007-04,Dodging Second Draw,Stepping Thumbnotch,F1,Senior L2 Low,A
+MV-BAS-TOM-007-05,Flat-Turn Blade Slip,Ready Edgecurve,F1,Senior L2 Low,A
+MV-BAS-TOM-008-01,Shield-Top Beard Pull,Flintstay,F4,Senior L3 Mid,A
+MV-BAS-TOM-008-02,Helm-Ringing Poll Blow,Open Birchhelve,F1,Senior L3 Mid,A
+MV-BAS-TOM-008-03,Spike Gap Thrust,Throwhelve Bump,F3,Senior L3 Mid,A
+MV-BAS-TOM-008-04,Spear Shaft Beard Drag,Fixing Balancepoint,F1,Senior L3 Mid,A
+MV-BAS-TOM-008-05,Head-High Haft Brace,Birchhusk,F4,Senior L3 Mid,A
+MV-BAS-TOM-008-06,Hook-Release Forearm Chop,Quick Edgecurve,F1,Senior L3 Mid,A
+MV-BAS-TOM-009-01,Levered Haft Retrieval,Tossdodge,F4,Senior L4 Low,A
+MV-BAS-TOM-009-02,Alternate-Hand Double Release,Pitchblow,F4,Senior L4 Low,A
+MV-BAS-TOM-009-03,Running Release Throw,Hurl Hit,F3,Senior L4 Low,A
+MV-BAS-TOM-009-04,Low-Guard Backhand Cast,Narrow Toss,F1,Senior L4 Low,A
+MV-BAS-TOM-009-05,Arm-Qi Haft Stop,Lowered Tailknob,F1,Senior L4 Low,A
+MV-BAS-TOM-009-06,Roll-Under Rise and Draw,Light Fling,F1,Senior L4 Low,A
+MV-BAS-TOM-009-07,Cloak-Hem Beard Yank,Chucklid,F4,Senior L4 Low,A
+MV-BAS-TOM-009-08,Feigned Throw and Drop Chop,Headlid,F4,Senior L4 Low,A
+MV-BAS-TOM-010-01,Skip-Step Hatchet Throw,Blunt Tomahead,F1,Senior L5 Mid,A
+MV-BAS-TOM-010-02,Whip-Wrist Hand Chop,Firm Hurl,F1,Senior L5 Mid,A
+MV-BAS-TOM-010-03,Backing-Away Hatchet Cast,Birchstrike,F4,Senior L5 Mid,A
+MV-BAS-TOM-010-04,Flank Dart Between Foes,Lightbit Skitter,F3,Senior L5 Mid,A
+MV-BAS-TOM-010-05,Edge-Down Slant Guard,Hooding Throwhelve,F1,Senior L5 Mid,A
+MV-BAS-TOM-010-06,Haft Rap to the Wrist,Tossstay,F4,Senior L5 Mid,A
+MV-BAS-TOM-010-07,Warning Throw Past the Ear,Tripping Edgecurve,F1,Senior L5 Mid,A
+MV-BAS-TOM-005-01,Plain Birchhelve,Short Birchhelve,F1,T1 Bone,A

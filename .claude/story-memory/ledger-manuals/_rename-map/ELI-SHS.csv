@@ -1,0 +1,172 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-SHS-001-01,Twin Hawk Crouch Perch,Indomitable Pointcap,F1,Demigod,B
+MV-ELI-SHS-001-02,Dual Angle Glance,Verity Stabtip,F2,Demigod,B
+MV-ELI-SHS-001-03,Paired Dive Step,Pokeglimmer,F4,Demigod,B
+MV-ELI-SHS-001-04,Two Angle Prick,Lacerating Sting,F1,Demigod,B
+MV-ELI-SHS-001-05,Hawk Pair Beat,Rumble Handguard,F2,Demigod,B
+MV-ELI-SHS-001-06,Stoop Rebound Guard,Gust Cutedge,F2,Demigod,B
+MV-ELI-SHS-001-07,Twin Stoop Cut,Nickwrath,F4,Demigod,B
+MV-ELI-SHS-001-08,Pair Hawk Regroup,Vanishing Dig,F1,Demigod,B
+MV-ELI-SHS-001-09,Twin Hawk Single Kill,Eviscerating Gore Scourge,F6b,Demigod,B
+MV-ELI-SHS-002-01,Basin Short Guard Settle,Aegis Hiltcap,F2,Demigod,B
+MV-ELI-SHS-002-02,Inner Edge Slip,Mangling Cutedge,F1,Demigod,B
+MV-ELI-SHS-002-03,Pooling Step Back,Torrent Poke,F2,Demigod,B
+MV-ELI-SHS-002-04,Force Gathering Read,Vigilant Broadleaf,F1,Demigod,B
+MV-ELI-SHS-002-05,Basin Catch Turn,Thumbmettle,F4,Demigod,B
+MV-ELI-SHS-002-06,Silt Weight Press,Ponderous Hiltcap,F2,Demigod,B
+MV-ELI-SHS-002-07,Inner Edge Return Stab,Corroding Stab,F1,Demigod,B
+MV-ELI-SHS-002-08,Basin Brim Spill,Glamour Handguard,F2,Demigod,B
+MV-ELI-SHS-002-09,Deep Water Hold,Adamantine Shortspine,F1,Demigod,B
+MV-ELI-SHS-002-10,Azure Basin Overturn,Hollowgore,F5,Demigod,B
+MV-ELI-SHS-003-01,Twin Stream Stance,Unbowed Stubblade,F1,Demigod,B
+MV-ELI-SHS-003-02,Left Current Stab,Stingruin,F4,Demigod,B
+MV-ELI-SHS-003-03,Right Current Parry,Murk Knobgrip,F2,Demigod,B
+MV-ELI-SHS-003-04,Bank Edge Step,Headlong Cutedge,F1,Demigod,B
+MV-ELI-SHS-003-05,Mid Stream Sense,Thumbinsight,F4,Demigod,B
+MV-ELI-SHS-003-06,Paired Stream Prick,Iron Sting,F2,Demigod,B
+MV-ELI-SHS-003-07,Sandbar Bind,Webbing Thumbrest,F1,Demigod,B
+MV-ELI-SHS-003-08,Side Current Flick,Booming Nick,F1,Demigod,B
+MV-ELI-SHS-003-09,Meeting Waters Thrust,Gorewrath,F4,Demigod,B
+MV-ELI-SHS-003-10,Twin Flow Guard,Impervious Pointcap,F1,Demigod,B
+MV-ELI-SHS-003-11,River Mouth Release,Titanic Nova Sting,F6a,Demigod,B
+MV-ELI-SHS-004-01,Track Spacing Stance,Flintlike Handguard,F1,Void God,B
+MV-ELI-SHS-004-02,Body Track Stab,Digwrath,F4,Void God,B
+MV-ELI-SHS-004-03,Qi Track Parry,Inexorable Cutedge,F1,Void God,B
+MV-ELI-SHS-004-04,Inner Pace Slide,Tipblink,F4,Void God,B
+MV-ELI-SHS-004-05,Track Swap Short Cut,Punishing Poke,F1,Void God,B
+MV-ELI-SHS-004-06,Offset Rhythm Beat,Numbing Knobgrip,F1,Void God,B
+MV-ELI-SHS-004-07,Inside Track Pierce,Glint Gore,F2,Void God,B
+MV-ELI-SHS-004-08,Double Track Shield,Obdurate Broadleaf,F1,Void God,B
+MV-ELI-SHS-004-09,Short Track Weave Chain,Overlapping Nick,F1,Void God,B
+MV-ELI-SHS-004-10,Parallel Impale,Stubscourge,F4,Void God,B
+MV-ELI-SHS-004-11,Switch Track Escape,Dazzling Stabtip,F1,Void God,B
+MV-ELI-SHS-004-12,Dual Track Convergence Point,Ironstab,F5,Void God,B
+MV-ELI-SHS-005-01,Court Hush Stance,Unrelenting Knobgrip,F1,Demigod,B
+MV-ELI-SHS-005-02,Unseen Approach Step,Nickflash,F4,Demigod,B
+MV-ELI-SHS-005-03,Talon Reach Stab,Ferocious Gore,F1,Demigod,B
+MV-ELI-SHS-005-04,Feather Touch Parry,Murk Thumbrest,F2,Demigod,B
+MV-ELI-SHS-005-05,Wind Under Wing Read,Waning Hiltcap,F2,Demigod,B
+MV-ELI-SHS-005-06,Sudden Reveal Stab,Gnashing Stabtip,F1,Demigod,B
+MV-ELI-SHS-005-07,Court Hawk Distraction,Glamour Nick,F2,Demigod,B
+MV-ELI-SHS-005-08,Quiet Entry Press,Hogtying Cutedge,F1,Demigod,B
+MV-ELI-SHS-005-09,Low Drift Cut,Pokehavoc,F4,Demigod,B
+MV-ELI-SHS-005-10,Hawk Court Strike,Decimating Stab,F1,Demigod,B
+MV-ELI-SHS-005-11,Court Veil Recovery,Stubglare,F4,Demigod,B
+MV-ELI-SHS-005-12,Hush Of The Hunting Hawk,Overbearing Shortspine,F1,Demigod,B
+MV-ELI-SHS-005-13,Hawk Court Last Silence,Pitiless Poke Reckoning,F6b,Demigod,B
+MV-ELI-SHS-006-01,Formal Opening Salute,Adamantine Hiltcap,F1,Void God,B
+MV-ELI-SHS-006-02,Measured Pace Thrust,Thumbruin,F4,Void God,B
+MV-ELI-SHS-006-03,Court Distance Read,Prescient Pointcap,F1,Void God,B
+MV-ELI-SHS-006-04,Patient Wait Parry,Equipoise Stabtip,F2,Void God,B
+MV-ELI-SHS-006-05,Azure Line Check,Overpowering Dig,F1,Void God,B
+MV-ELI-SHS-006-06,Counter Salute Stab,Glint Poke,F2,Void God,B
+MV-ELI-SHS-006-07,Exact Distance Step,Gust Stab,F2,Void God,B
+MV-ELI-SHS-006-08,Court Rule Impale,Ruinous Dig,F1,Void God,B
+MV-ELI-SHS-006-09,Perfect Guard Hold,Unconquered Thumbrest,F1,Void God,B
+MV-ELI-SHS-006-10,Final Court Thrust,Regal Sting,F2,Void God,B
+MV-ELI-SHS-007-01,Two Banks Stance,Evergreen Stubblade,F1,True God,B
+MV-ELI-SHS-007-02,Fork Point Thrust,Digscourge,F4,True God,B
+MV-ELI-SHS-007-03,Stream Crossing Step,Stabvortex,F4,True God,B
+MV-ELI-SHS-007-04,Tributary Parry,Torrent Broadleaf,F2,True God,B
+MV-ELI-SHS-007-05,Confluence Reading,Remnant Cutedge,F2,True God,B
+MV-ELI-SHS-007-06,Joined Edge Prick,Vengeful Gore,F1,True God,B
+MV-ELI-SHS-007-07,Backwater Eddy Hold,Immobilizing Handguard,F1,True God,B
+MV-ELI-SHS-007-08,Flood Season Rush,Rampaging Sting,F1,True God,B
+MV-ELI-SHS-007-09,Merging Rivers Drive,Nickruin,F4,True God,B
+MV-ELI-SHS-007-10,Delta Spread Guard,Unbudging Knobgrip,F1,True God,B
+MV-ELI-SHS-007-11,Confluence Flash Stab,Pokeflash,F4,True God,B
+MV-ELI-SHS-008-01,Summit Twin Stance,Impenetrable Cutedge,F1,Monarch,B
+MV-ELI-SHS-008-02,Peak Body Thrust,Vessel Nick,F2,Monarch,B
+MV-ELI-SHS-008-03,Mortal Limit Step,Digvortex,F4,Monarch,B
+MV-ELI-SHS-008-04,Network Edge Strike,Shattering Stubblade,F1,Monarch,B
+MV-ELI-SHS-008-05,Pair Network Guard,Meridian Pointcap,F2,Monarch,B
+MV-ELI-SHS-008-06,Twin Tide Press,Overbearing Dig,F1,Monarch,B
+MV-ELI-SHS-008-07,Final Mortal Pierce,Meridian Sting,F2,Monarch,B
+MV-ELI-SHS-008-08,Summit Recovery Pair,Ghosting Hiltcap,F1,Monarch,B
+MV-ELI-SHS-008-09,Twin Edge Last Stroke,Nickscourge,F4,Monarch,B
+MV-ELI-SHS-009-01,Plateau Gale Stance,Obdurate Hiltcap,F1,Demigod,B
+MV-ELI-SHS-009-02,Tail Wind Thrust,Stubhavoc,F4,Demigod,B
+MV-ELI-SHS-009-03,Wind Lean Close Step,Gust Thumbrest,F2,Demigod,B
+MV-ELI-SHS-009-04,Plateau Bearing Check,Unerring Handguard,F1,Demigod,B
+MV-ELI-SHS-009-05,Gust Beat Aside,Gust Broadleaf,F2,Demigod,B
+MV-ELI-SHS-009-06,Short Edge Wind Cut,Lacerating Cutedge,F1,Demigod,B
+MV-ELI-SHS-009-07,Plateau Rush Step,Headlong Knobgrip,F1,Demigod,B
+MV-ELI-SHS-009-08,Updraft Short Parry,Inexorable Pointcap,F1,Demigod,B
+MV-ELI-SHS-009-09,Wind Pressure Hold,Suffocating Stabtip,F1,Demigod,B
+MV-ELI-SHS-009-10,Gale Weighted Impale,Stabwrath,F4,Demigod,B
+MV-ELI-SHS-009-11,Wind Walk Retreat,Torrential Knobgrip,F1,Demigod,B
+MV-ELI-SHS-009-12,Plateau Storm Thrust,Rumblegore,F5,Demigod,B
+MV-ELI-SHS-010-01,Oath Line Standing,Unassailable Shortspine,F1,Demigod,B
+MV-ELI-SHS-010-02,Bound Edge Stab,Nickhavoc,F4,Demigod,B
+MV-ELI-SHS-010-03,Vow Pace Forward,Vanishing Poke,F1,Demigod,B
+MV-ELI-SHS-010-04,Promise Kept Parry,Flintlike Cutedge,F1,Demigod,B
+MV-ELI-SHS-010-05,Binding Thread Stab,Iron Gore,F2,Demigod,B
+MV-ELI-SHS-010-06,Oath Weight Press,Gyve Hiltcap,F2,Demigod,B
+MV-ELI-SHS-010-07,Unyielding Line Guard,Invincible Stubblade,F1,Demigod,B
+MV-ELI-SHS-010-08,Sworn Edge Impale,Brutalizing Gore,F1,Demigod,B
+MV-ELI-SHS-010-09,Oath Held Recovery,Unconquered Cutedge,F1,Demigod,B
+MV-ELI-SHS-010-10,Oath Fulfilled Thrust,Wrathful Intent Poke,F6a,Demigod,B
+MV-ELI-SHS-011-01,Bearing Marker Stance,Impervious Stubblade,F1,Void God,B
+MV-ELI-SHS-011-02,Bearing Keeping Thrust,Tipwrath,F4,Void God,B
+MV-ELI-SHS-011-03,Compass Hold Step,Silt Poke,F2,Void God,B
+MV-ELI-SHS-011-04,Sworn Line Check,Mastering Hiltcap,F1,Void God,B
+MV-ELI-SHS-011-05,Feint Proof Stab,Unsparing Stab,F1,Void God,B
+MV-ELI-SHS-011-06,Bearing Retaining Parry,Stubnerve,F4,Void God,B
+MV-ELI-SHS-011-07,Sworn Bearing Drive,Glint Sting,F2,Void God,B
+MV-ELI-SHS-011-08,Fixed Bearing Wall Guard,Indomitable Broadleaf,F1,Void God,B
+MV-ELI-SHS-011-09,Unturned Short Edge,Hollownick,F5,Void God,B
+MV-ELI-SHS-012-01,Open Air Stance,Unbowed Cutedge,F1,Demigod,B
+MV-ELI-SHS-012-02,Gusting Forward Stab,Digruin,F4,Demigod,B
+MV-ELI-SHS-012-03,Draught Slip Step,Gust Poke,F2,Demigod,B
+MV-ELI-SHS-012-04,Air Current Parry,Gust Hiltcap,F2,Demigod,B
+MV-ELI-SHS-012-05,Windless Pocket Read,Remnant Handguard,F2,Demigod,B
+MV-ELI-SHS-012-06,Second Blade Of Wind,Hellish Dig,F1,Demigod,B
+MV-ELI-SHS-012-07,Wind Veil Step,Unseen Stabtip,F1,Demigod,B
+MV-ELI-SHS-012-08,Open Bind Press,Harnessing Knobgrip,F1,Demigod,B
+MV-ELI-SHS-012-09,Gale Edge Rake,Grievous Cutedge,F1,Demigod,B
+MV-ELI-SHS-012-10,Wind Driven Thrust,Pokeruin,F4,Demigod,B
+MV-ELI-SHS-012-11,Wind Shield Cover,Adamantine Broadleaf,F1,Demigod,B
+MV-ELI-SHS-012-12,Gale Pair Burst,Confluent Stab,F1,Demigod,B
+MV-ELI-SHS-012-13,Wind Without Walls Stab,Stingvortex,F4,Demigod,B
+MV-ELI-SHS-013-01,Gale Reach Poise,Invincible Pointcap,F1,Void God,B
+MV-ELI-SHS-013-02,Wide Gap Stride,Stubblink,F4,Void God,B
+MV-ELI-SHS-013-03,Arrival Stab,Stubruin,F4,Void God,B
+MV-ELI-SHS-013-04,Reach Line Parry,Unrelenting Hiltcap,F1,Void God,B
+MV-ELI-SHS-013-05,Distance Sense Gale,Chime Pointcap,F2,Void God,B
+MV-ELI-SHS-013-06,Gale Carried Prick,Hellish Gore,F1,Void God,B
+MV-ELI-SHS-013-07,Closing Gust Bind,Strangling Broadleaf,F1,Void God,B
+MV-ELI-SHS-013-08,Reach Ending Step,Blinding Dig,F1,Void God,B
+MV-ELI-SHS-013-09,Inner Blade Gale Thrust,Ferocious Nick,F1,Void God,B
+MV-ELI-SHS-013-10,Rebound Gale Retreat,Lightning Cutedge,F1,Void God,B
+MV-ELI-SHS-013-11,Gale Width In A Heartbeat,Meteoric Gore Flash,F6b,Void God,B
+MV-ELI-SHS-014-01,Plateau Oath Pledge Stance,Granite Cutedge,F2,Demigod,B
+MV-ELI-SHS-014-02,Pledge Thrust,Berserk Stab,F1,Demigod,B
+MV-ELI-SHS-014-03,Pace Of The Oath,Thumbblink,F4,Demigod,B
+MV-ELI-SHS-014-04,Honest Parry,Unbowed Pointcap,F1,Demigod,B
+MV-ELI-SHS-014-05,Kept Word Stab,Stabhavoc,F4,Demigod,B
+MV-ELI-SHS-014-06,Witness Wind Press,Overpowering Hiltcap,F1,Demigod,B
+MV-ELI-SHS-014-07,Pledge Held Cover,Evergreen Knobgrip,F1,Demigod,B
+MV-ELI-SHS-014-08,Oath Edge Impale,Ruinous Stabtip,F1,Demigod,B
+MV-ELI-SHS-014-09,Plateau Rooted Stand,Obdurate Cutedge,F1,Demigod,B
+MV-ELI-SHS-014-10,Promise Of The Short Blade,Ironnick,F5,Demigod,B
+MV-ELI-SHS-015-01,Long Watch Stance,Impenetrable Knobgrip,F1,True God,B
+MV-ELI-SHS-015-02,Patient Thrust Choice,Pitiless Dig,F1,True God,B
+MV-ELI-SHS-015-03,Slow Circle Step,Silt Stab,F2,True God,B
+MV-ELI-SHS-015-04,Weight Reading Glance,Verity Cutedge,F2,True God,B
+MV-ELI-SHS-015-05,Unhurried Parry,Murk Broadleaf,F2,True God,B
+MV-ELI-SHS-015-06,Waiting Point Check,Immobilizing Pointcap,F1,True God,B
+MV-ELI-SHS-015-07,Chosen Line Stab,Gnashing Dig,F1,True God,B
+MV-ELI-SHS-015-08,Late Step Entry,Pokeglare,F4,True God,B
+MV-ELI-SHS-015-09,Bearing Held To The End,Strangling Stubblade,F1,True God,B
+MV-ELI-SHS-015-10,Long Bearing Drive,Tipruin,F4,True God,B
+MV-ELI-SHS-015-11,Waiting Wall Of Steel,Unassailable Thumbrest,F1,True God,B
+MV-ELI-SHS-015-12,Single Chosen Stroke,Gravestab,F5,True God,B
+MV-ELI-SHS-016-01,Mortal Summit Stance,Impervious Hiltcap,F1,Monarch,B
+MV-ELI-SHS-016-02,Peak Wind Thrust,Pokescourge,F4,Monarch,B
+MV-ELI-SHS-016-03,Summit Gust Step,Nickglimmer,F4,Monarch,B
+MV-ELI-SHS-016-04,Network Wind Cut,Brutalizing Cutedge,F1,Monarch,B
+MV-ELI-SHS-016-05,Oath Network Guard,Meridian Handguard,F2,Monarch,B
+MV-ELI-SHS-016-06,Wind Tide Pressure,Numbing Gore,F1,Monarch,B
+MV-ELI-SHS-016-07,Summit Oath Pierce,Vessel Gore,F2,Monarch,B
+MV-ELI-SHS-016-08,Windsworn Recovery Turn,Blinding Nick,F1,Monarch,B
+MV-ELI-SHS-016-09,Last Wind Of The Summit,Guststing,F5,Monarch,B

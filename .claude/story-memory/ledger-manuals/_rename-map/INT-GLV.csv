@@ -1,0 +1,72 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-GLV-001-01,Middle Sweep Opening Stance,Soothing Longedge,F1,Senior L3 Low,A
+MV-INT-GLV-001-02,Hip-Driven Arc Cut,Glaiveswat,F4,Senior L3 Low,A
+MV-INT-GLV-001-03,Overstep Sweep Entry,Curvecut Stalk,F3,Senior L3 Low,A
+MV-INT-GLV-001-04,Rising Shaft Catch,Glaiveprop,F4,Senior L3 Low,A
+MV-INT-GLV-001-05,Kneeling Ground Sweep,Brutal Guardlug,F1,Senior L3 Low,A
+MV-INT-GLV-001-06,Qi-Following Sweep,Hungry Ferrulecap,F1,Senior L3 Low,A
+MV-INT-GLV-001-07,Ring-Clearing Turn Sweep,Bold Bladespine,F1,Senior L3 Low,A
+MV-INT-GLV-002-01,Reverse Grip Seating,Crookbandage,F4,Senior L5 Mid,A
+MV-INT-GLV-002-02,Rear-Hand Slide Strike,Brutal Curvetip,F1,Senior L5 Mid,A
+MV-INT-GLV-002-03,Reverse Drawing Hew,Bendthwack,F4,Senior L5 Mid,A
+MV-INT-GLV-002-04,Palm-Up Haft Parry,Crookbarrier,F4,Senior L5 Mid,A
+MV-INT-GLV-002-05,Grip-Change Pace,Ducking Windrake,F1,Senior L5 Mid,A
+MV-INT-GLV-002-06,Slide-Pin Press,Reavehasp,F4,Senior L5 Mid,A
+MV-INT-GLV-002-07,Grip-Swap Surprise Cut,Lurching Tangheel,F1,Senior L5 Mid,A
+MV-INT-GLV-002-08,Reversed Shaft Wrist-Pull,Gripping Longcut,F1,Senior L5 Mid,A
+MV-INT-GLV-003-01,Guard-Ready Squaring,Attentive Spineedge,F1,Senior L7 Low,A
+MV-INT-GLV-003-02,High Slant Guard,Rigid Glavesocket,F1,Senior L7 Low,A
+MV-INT-GLV-003-03,Heel Drop Knock-Aside,Armored Glaiveblade,F1,Senior L7 Low,A
+MV-INT-GLV-003-04,Roll-Over Guard Cut,Wild Tangheel,F1,Senior L7 Low,A
+MV-INT-GLV-003-05,Qi-Braced Slant Guard,Cutterhasp,F4,Senior L7 Low,A
+MV-INT-GLV-003-06,Turning Counter Slash,Slicefall Swat,F3,Senior L7 Low,A
+MV-INT-GLV-004-01,Shaft Conduction Count,Cooling Longedge,F1,Senior L9 Low,A
+MV-INT-GLV-004-02,Tip-Arriving Cut,Fierce Cutbelly,F1,Senior L9 Low,A
+MV-INT-GLV-004-03,Edge-to-Spine Shift,Bladespine Cordial,F3,Senior L9 Low,A
+MV-INT-GLV-004-04,Withheld Qi Thrust,Wild Edgeswing,F1,Senior L9 Low,A
+MV-INT-GLV-004-05,Stiffened Shaft Turn,Bendbarrier,F4,Senior L9 Low,A
+MV-INT-GLV-004-06,Reserve-Saving Step,Springing Guardlug,F1,Senior L9 Low,A
+MV-INT-GLV-004-07,Edge Surge Hew,Glaivescorer,F4,Senior L9 Low,A
+MV-INT-GLV-004-08,Qi Sheet Along the Curve,Wild Curvetip,F1,Senior L9 Low,A
+MV-INT-GLV-004-09,Spine Hum Numbing,Burdening Cutbelly,F1,Senior L9 Low,A
+MV-INT-GLV-005-01,Rider Distance Sense,Humcutter,F5,Warrior L1 Low,B
+MV-INT-GLV-005-02,Hamstring Draw Cut,Reavethwack,F4,Warrior L1 Low,B
+MV-INT-GLV-005-03,Saddle-Girth Hew,Cutterswat,F4,Warrior L1 Low,B
+MV-INT-GLV-005-04,Charge-Line Side Step,Reaveswerve,F4,Warrior L1 Low,B
+MV-INT-GLV-005-05,Saddle-Blow Lift Parry,Padded Spineedge,F1,Warrior L1 Low,B
+MV-INT-GLV-005-06,Planted Butt Brace,Brass Glaiveblade,F2,Warrior L1 Low,B
+MV-INT-GLV-005-07,Rein Hook Check,Stalling Reave,F1,Warrior L1 Low,B
+MV-INT-GLV-005-08,Horse-Turning Qi Cut,Vicious Ferrulecap,F1,Warrior L1 Low,B
+MV-INT-GLV-005-09,Charge-Breaking Leg Sweep,Dire Slicefall,F1,Warrior L1 Low,B
+MV-INT-GLV-005-10,Rider-Unseating Heel Pull,Gall Curvecut,F2,Warrior L1 Low,B
+MV-INT-GLV-006-01,Pull-Ready Crouch,Lunar Glaiveblade,F2,Warrior L2 Mid,B
+MV-INT-GLV-006-02,Hooking Draw Pull,Static Windrake,F2,Warrior L2 Mid,B
+MV-INT-GLV-006-03,Ankle Catch Pull,Gall Edgeswing,F2,Warrior L2 Mid,B
+MV-INT-GLV-006-04,Recoil Lean Guard,Claybend,F5,Warrior L2 Mid,B
+MV-INT-GLV-006-05,Pulling Backstep,Rill Reave,F2,Warrior L2 Mid,B
+MV-INT-GLV-006-06,Heavy Pull Slash,Draught Cutbelly,F2,Warrior L2 Mid,B
+MV-INT-GLV-006-07,Weapon-Stealing Draw,Gall Bladespine,F2,Warrior L2 Mid,B
+MV-INT-GLV-007-01,Footfall Ground Reading,Lunar Guardlug,F2,Warrior L4 Low,B
+MV-INT-GLV-007-02,Triangle Step Advance,Brawn Ferrulecap,F2,Warrior L4 Low,B
+MV-INT-GLV-007-03,Crescent Circling Walk,Brawn Edgeswing,F2,Warrior L4 Low,B
+MV-INT-GLV-007-04,Stamp-Lunge Cut,Wild Curvecut,F1,Warrior L4 Low,B
+MV-INT-GLV-007-05,Dragging Retreat Cover,Shard Tangheel,F2,Warrior L4 Low,B
+MV-INT-GLV-007-06,Shaft-Vault Hop,Brawncrook,F5,Warrior L4 Low,B
+MV-INT-GLV-007-07,Qi-Springing Pursuit Step,Prowling Reave,F1,Warrior L4 Low,B
+MV-INT-GLV-007-08,Footwork-Fed Hewing Cut,Draught Curvetip,F2,Warrior L4 Low,B
+MV-INT-GLV-008-01,Shaft Balance Hang,Recall Glavesocket,F2,Warrior L6 Mid,B
+MV-INT-GLV-008-02,Rolling Shaft Parry,Poisebend,F5,Warrior L6 Mid,B
+MV-INT-GLV-008-03,Rear Butt Smash,Keen Spineedge,F1,Warrior L6 Mid,B
+MV-INT-GLV-008-04,Elbow-Pinning Shaft Slide,Lassoing Windrake,F1,Warrior L6 Mid,B
+MV-INT-GLV-008-05,Hand-Over-Hand Reach,Blankglaive,F5,Warrior L6 Mid,B
+MV-INT-GLV-008-06,Twirling Shaft Screen,Shelter Longedge,F2,Warrior L6 Mid,B
+MV-INT-GLV-008-07,Qi-Hardened Shaft Strike,Harsh Slicefall,F1,Warrior L6 Mid,B
+MV-INT-GLV-008-08,Shaft-Locked Cross Press,Glaivescreen,F4,Warrior L6 Mid,B
+MV-INT-GLV-008-09,Whipping Shaft Rebound,Embercrook,F5,Warrior L6 Mid,B
+MV-INT-GLV-009-01,Wheel-Ready Grip,Cuttertonic,F4,Warrior L8 Low,B
+MV-INT-GLV-009-02,Overhead Wheel Cut,Stern Glavesocket,F1,Warrior L8 Low,B
+MV-INT-GLV-009-03,Rotating Guard Wheel,Rooted Cutbelly,F1,Warrior L8 Low,B
+MV-INT-GLV-009-04,Spent-Wheel Side Step,Rill Curvecut,F2,Warrior L8 Low,B
+MV-INT-GLV-009-05,Qi Wheel Cascade,Brassbend,F5,Warrior L8 Low,B
+MV-INT-GLV-009-06,Wheel-Spun Barrier,Padded Ferrulecap,F1,Warrior L8 Low,B
+MV-INT-GLV-008-06,Shelter Longedge,Twirling Longedge,F2,Warrior L6 Mid,B

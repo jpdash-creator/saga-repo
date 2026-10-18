@@ -1,0 +1,68 @@
+---
+name: ssc-narration-p28-foundational-principles-creative-flexibility
+description: Covers the twelve foundational principles (P28-1 through P28-12) that define the boundary between locked SSC Canon law and the author's creative latitude — including simultaneous multi-Part compliance, freedom-in-instances-not-categories, Negotiable vs. Locked Canon, the governed prose depth mandate, the four domains of creative freedom (naming, behavior, emotion, tactics), the no-local-decisioning rule, retroactive enrichment vs. contradiction, governed surprise, and the high-stakes creative expansions requiring explicit Part 28 authorization. Reach for this when inventing a name, faction, location, custom, or Named Move; when deciding whether a creative choice needs cross-Part checking; when judging whether prose is thin or Canon-consistent; when authoring a narrative surprise or tactical reversal; or when a scene involves a high-stakes element (Tier 5 relics, DC-2 AI, Grand Convergence fusion, Absolute-tier cultivators, CCT-15+ Apex civilizations, WS-VII weapons, S3+ AI sentience) that may require explicit Part 28 authorization before it appears. This is canon Part 28 Area 1, domain narration.
+user-invocable: false
+---
+
+## Rule Text (Verbatim Source — Authoritative)
+## Area 1 — Foundational Principles of Creative Flexibility
+
+### 1.1 — The Twelve Foundational Principles
+
+**P28-1 — Part 28 Is the Bridge Between Law and Authorship.**
+The SSC Canon governs the laws of the Starward Saga universe. Part 28 governs how those laws are inhabited by the act of authorship. Without Part 28, every invented name, every unexpected tactical reversal, every emotional choice made in the moment of composition would require explicit Canon authorization. With Part 28, the boundary is clear: the Canon's locked content is inviolable, and everything else is the author's creative domain. P28-1 establishes that the author's creative latitude is not a gap in the Canon — it is a governed category within the Canon.
+
+**P28-2 — Creative Flexibility Must Adhere to All SSC Canon Parts and Areas Simultaneously.**
+No creative decision — no matter how small — is exempt from simultaneous compliance with the full Canon. Inventing a faction name does not exempt the faction from Part 22's governance. Naming a cultivation technique does not exempt it from Part 6's taxonomy and Part 3's realm ceiling. Describing a cultural custom does not exempt it from Part 25's CPT architecture. Creative freedom operates *within* the Canon, not *beside* it. A creative act that satisfies Part 22 but violates Part 16 is a Canon violation. A name that satisfies Part 6 but contradicts the character's Part 3 realm is a Canon violation. Simultaneous compliance with all Parts is not optional — it is the condition that makes creative expansion possible at all.
+
+**P28-3 — Creative Freedom Exists in Instances, Not in Categories.**
+The SSC Canon governs categories, not instances. It defines the category "cultivation sect" but does not name every sect. It defines "Named Moves" but does not list every technique. It defines "cultural tournament" as a valid cultural event type but does not script every tournament. Creative freedom is the freedom to invent instances within governed categories. The category is locked; the instance is free. A Creative act that invents a new instance of an established category — a new sect, a new Named Move, a new tournament, a new cultural custom — is free creative authorship. A creative act that invents a new category not authorized by the Canon — a new type of cultivation system, a new structure of consequence that bypasses Part 27, a new ideology architecture that bypasses Part 20 — is a Canon violation.
+
+**P28-4 — All Flexibility Is Negotiable Canon, Not Override.**
+Creative expansion produces Negotiable Canon — content that is original, invented, and not pre-specified by the SSC Canon, but that is fully consistent with it. Negotiable Canon adds lore, depth, richness, and immersion. It never overrides, contradicts, or silently replaces Locked Canon. When Negotiable Canon content is established in the prose — a location is named, a faction is introduced, a custom is described — that content becomes a fixed reference point going forward. Negotiable Canon, once written and established in the novel, cannot be retroactively contradicted.
+
+**P28-5 — Prose Depth Is Governed, Not Optional.**
+The Starward Saga is written at a pacing-appropriate prose depth of **3500%–5000%** — an immersion standard that renders every combat exchange, every conversation thread, every cultivation principle, every sensory environment, every internal psychological state, every power-system interaction, every cultural register, every consequence cascade, every Named Move deployment, and every continuity thread with complete, scene-appropriate specificity. This is not a stylistic preference. It is a governance mandate under Part 28. Thin prose — summary, functional description, expository dialogue, flat action, any compressed rendering of content that sacrifices depth — is a Part 28 violation in the same way that a realm continuity error is a Part 3 violation. The immersion mandate is a law. Each prose unit's word count and immersion depth are governed by pacing classification (Part 2 Area 6.2.1, Canon v4.34 Pacing Law Amendment): Fast-paced prose targets 1400–1800 words at 3500%–4000% (max ceiling 2000); Medium-paced targets 1900–2300 words at 4000%–4500% (max ceiling 2500); Slow-paced targets 2400–2700 words at 4500%–5000% (max ceiling 3000, with flexible extension up to that ceiling on milestone prose). No Prose unit of any pacing category may exceed the absolute hard cap of 3000 words without the user's explicit, on-record permission. The ten Named Depth Pillars (DP-1 through DP-10) defined in Area 4 are simultaneously mandatory in every prose unit regardless of pacing category without exception.
+
+**P28-6 — Creative Freedom Includes Names, Behavior, Emotion, and Tactics.**
+The four primary domains of creative freedom are: (1) **Naming** — all proper nouns that the Canon does not pre-specify are free creative territory; (2) **Behavior** — characters, factions, civilizations, and institutions may behave in any way that is consistent with their governed identity and does not violate Canon law; (3) **Emotion** — all emotional states and emotional expressions are free creative territory, subject to the requirement that they are grounded in lived prose experience and consistent with Part 26 psychological governance; (4) **Tactics** — tactical choices in combat, negotiation, information warfare, and social interaction are free creative territory, subject to Part 5 force legitimacy and Part 3 power ceiling governance. None of these domains are governed by canon pre-specification. All are governed by consistency with canon law.
+
+**P28-7 — No Local Decisioning.**
+A local creative decision is a decision made by reference to only the immediate scene, without checking the decision against the full Canon. Local decisioning is prohibited. When a character advances in cultivation, that advancement must be checked against Part 3 breakthrough requirements, Part 4 affinity implications, Part 16 classification update requirements, Part 26 psychological impact, Part 27 consequence implications, and Part 17 (or 18 or 19) Hero/Villain/Side Character Ledger update triggers — simultaneously, not sequentially. The prohibition on local decisioning applies to every creative act: naming, behavior, emotion, tactics, cultural invention, faction interaction, and consequence rendering. Every creative act is checked against all Parts at once.
+
+**P28-8 — Creative Freedom May Add Depth Retroactively, May Clarify Ambiguity, May Enrich Scenes.**
+The Starward Saga is written across multiple volumes. Creative acts in later volumes may enrich, deepen, and clarify content established in earlier volumes. A location named in Volume 1 may receive its full cultural history in Volume 3. A faction introduced as an unnamed background element in Volume 1 may become a named, fully characterized faction in Volume 2. A custom mentioned briefly in early prose may be given its full ritual architecture later. Retroactive enrichment is permitted. What is not permitted: retroactive contradiction. Earlier established Negotiable Canon content cannot be contradicted by later creative choices. Retroactive enrichment deepens; it does not rewrite.
+
+**P28-9 — Creative Expansion May Never Invalidate or Contradict Locked Canon.**
+Locked Canon content — the governance laws of all SSC Canon Parts — is inviolable. Creative expansion may never produce a result that contradicts Locked Canon. A character may not advance cultivation in a way that bypasses Part 3's breakthrough requirements. A faction may not possess technology in a way that exceeds Part 8's civilization ceiling. A named relic may not function in a way that contradicts Part 12's material ceiling. A dialogue scene may not involve a character speaking in a register that contradicts Part 29's voice architecture for that character's classification. No creative freedom — no matter how narratively convenient — overrides Locked Canon.
+
+**P28-10 — Surprise Is Governed, Not Prohibited.**
+Narrative surprise — the reversal of reader expectation, the unexpected tactical choice, the emotional turn that reframes everything that came before — is one of the primary tools of the author and one of the primary sources of reader investment. Surprise is not prohibited by the Canon. What the Canon prohibits is *causally unsupported surprise* — the reversal that contradicts what has been established, the tactical choice that ignores power ceiling governance, the emotional turn that is not traceable to established experience in the prose. Governed surprise is surprise that the reader could not predict but that they recognize, on reflection, as fully consistent with what they knew. Ungoverned surprise is surprise that the reader experiences as a Canon violation — and rightly so.
+
+**P28-11 — Part 28 Authorization Is Required for Specific High-Stakes Creative Expansions.**
+Most creative acts do not require explicit Part 28 authorization — they are simply free, subject to the standard simultaneous-compliance mandate. However, certain creative expansions involve elements of such narrative magnitude or such potential for Canon disruption that they require explicit acknowledgment under Part 28 before execution. These include: narrative deployment of Tier 5 Primordial relics (Part 12); narrative deployment of DC-2 digital consciousness systems (Part 10); cultivation of characters at the Grand Convergence fusion stage (Part 7); deployment of Absolute-tier cultivators (Part 3); narrative participation of CCT-15+ Apex civilizations (Part 21); WS-VII Existential Class weapon deployment (Part 33); Part 10 S3+ AI sentience at exceptional ontological boundaries; and any narrative element designated as requiring Part 28 authorization in any other Part. Part 28 authorization means explicit narrative preparation — these elements must be foreshadowed, structurally grounded, and consequentially integrated before they appear.
+
+**P28-12 — Every Creative Act Is Bound by the SSC Canon — This Is the Source of Its Power.**
+Creative freedom without constraint is not power — it is noise. The immovability of Locked Canon is what makes creative invention within it meaningful. A faction name invented in a universe with no governance can be anything — and therefore means nothing. A faction name invented within Part 22's complete faction classification framework means something specific: it has a type, a scale code, a power tier, a cultural profile, a place in the civilizational hierarchy, and a governance relationship with every other faction the reader has already met. The Canon does not constrain the author's creative vision — it gives the author's creative vision weight.
+
+---
+
+## Cross-References
+| Related Skill | Relation | Source |
+|---|---|---|
+| ssc-cultivation-p03-cultivation-ladder-realm-hierarchy | HARD | Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28 |
+| ssc-cultivation-p03-lifespan-mechanics | HARD | Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28 |
+| ssc-cultivation-p03-power-density | HARD | Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28 |
+| ssc-cultivation-p03-realm-transition | HARD | Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28 |
+| ssc-cultivation-p03-cultivation-talent | HARD | Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28 |
+| ssc-cultivation-p03-growth-speed | HARD | Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28 |
+| ssc-cultivation-p03-power-comparison | HARD | Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28 |
+| ssc-cultivation-p03-damage-tolerance-recovery | HARD | Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28 |
+| ssc-cultivation-p03-affinity-cultivation | HARD | Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28 |
+| ssc-cultivation-p03-heart-cultivation | HARD | Part 34 Area 5: Cultivation realm names are Locked Canon under Part 28 |
+
+## Governing Authority
+Subordinate to the shared Part 1 (audit law) + Part 34 (knowledge graph) grounding in `.claude/guardrails/_index.md`. Conflicts are never resolved silently — escalate via `/run-canon-audit`.
+
+## Source Provenance
+Part 28, Area 1 — "Foundational Principles of Creative Flexibility" · canon v4.33 · migrated 2026-08-03

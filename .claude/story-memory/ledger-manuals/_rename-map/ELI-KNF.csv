@@ -1,0 +1,179 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ELI-KNF-001-01,Court Opening Draw,Shattering Swedge,F1,Demigod,B
+MV-ELI-KNF-001-02,Twin Court Thrust,Peelwrath,F4,Demigod,B
+MV-ELI-KNF-001-03,Court Guard Fold,Plunge Spine,F3,Demigod,B
+MV-ELI-KNF-001-04,Paired Court Step,Torrential Peel,F1,Demigod,B
+MV-ELI-KNF-001-05,Court Rival Slice,Might Tangpin,F2,Demigod,B
+MV-ELI-KNF-001-06,Court Hand Trap,Hoarfrost Buttcap,F2,Demigod,B
+MV-ELI-KNF-001-07,Twin Seat Parry,Murkscales,F5,Demigod,B
+MV-ELI-KNF-001-08,Court Sharpened Rake,Blaze Thumbramp,F2,Demigod,B
+MV-ELI-KNF-001-09,Court Audience Guard,Thornswedge,F5,Demigod,B
+MV-ELI-KNF-001-10,Verdict of the Twin Edges,Gnashing Slit,F1,Demigod,B
+MV-ELI-KNF-002-01,Hawk River Skim Cut,Choilscourge,F4,Demigod,B
+MV-ELI-KNF-002-02,Fish Strike Point,Devastating Edgebelly,F1,Demigod,B
+MV-ELI-KNF-002-03,River Rock Guard,Chime Lanyard,F2,Demigod,B
+MV-ELI-KNF-002-04,Gliding Hawk Step,Dazzling Choil,F1,Demigod,B
+MV-ELI-KNF-002-05,Wing Shadow Glance,Radiant Bolster,F1,Demigod,B
+MV-ELI-KNF-002-06,Hawk Pass Slice,Gust Scales,F2,Demigod,B
+MV-ELI-KNF-002-07,River Cut Rebound,Scales Hardihood,F3,Demigod,B
+MV-ELI-KNF-002-08,Talon Hook Bind,Gyve Whittle,F2,Demigod,B
+MV-ELI-KNF-002-09,Rapids Thrust Run,Plungewrath,F4,Demigod,B
+MV-ELI-KNF-002-10,Hawk Over River Strike,Booming Shave,F1,Demigod,B
+MV-ELI-KNF-002-11,River Swell Edge Guard,Swedge Fortitude,F3,Demigod,B
+MV-ELI-KNF-002-12,Fish-Taking Stoop,Booming Hollow Trim,F6a,Demigod,B
+MV-ELI-KNF-003-01,Basin Rim Cut,Mightplunge,F5,Demigod,B
+MV-ELI-KNF-003-02,Bowl Edge Jab,Hollow Buttcap,F2,Demigod,B
+MV-ELI-KNF-003-03,Shallow Basin Guard,Iron Thumbramp,F2,Demigod,B
+MV-ELI-KNF-003-04,Basin Floor Sweep Cut,Grievous Slit,F1,Demigod,B
+MV-ELI-KNF-003-05,Silt Cloud Knife Feint,Murk Tangpin,F2,Demigod,B
+MV-ELI-KNF-003-06,Rim Walk Knife Step,Mightswedge,F5,Demigod,B
+MV-ELI-KNF-003-07,Azure Basin Gouge,Decimating Plunge,F1,Demigod,B
+MV-ELI-KNF-003-08,Rim to Floor Drop Cut,Slithavoc,F4,Demigod,B
+MV-ELI-KNF-003-09,Basin Overflow Knife Cut,Rumble Lanyard,F2,Demigod,B
+MV-ELI-KNF-004-01,Seasoned Track Slice,Gust Whittle,F2,Demigod,B
+MV-ELI-KNF-004-02,Cutter's Straight Point,Scaleswrath,F4,Demigod,B
+MV-ELI-KNF-004-03,Cutter's Cover Turn,Chime Edgebelly,F2,Demigod,B
+MV-ELI-KNF-004-04,Track Rhythm Walk,Mightslit,F5,Demigod,B
+MV-ELI-KNF-004-05,Veteran Track Gaze,Galvanizing Buttcap,F1,Demigod,B
+MV-ELI-KNF-004-06,Dual Track Rush Cut,Torrent Bolster,F2,Demigod,B
+MV-ELI-KNF-004-07,Track Interrupt Tap,Maiming Trim,F1,Demigod,B
+MV-ELI-KNF-004-08,Cutter's Crossover Bind,Ponderous Shave,F2,Demigod,B
+MV-ELI-KNF-004-09,Dual Track Hammer Cut,Rumblescales,F5,Demigod,B
+MV-ELI-KNF-004-10,Qi Track Piercing Rise,Hollow Swedge,F2,Demigod,B
+MV-ELI-KNF-004-11,Twin Rail Execution Cut,Booming Iron Peel,F6a,Demigod,B
+MV-ELI-KNF-005-01,Great Book First Pair,Devastating Tangpin,F1,Demigod,B
+MV-ELI-KNF-005-02,Second Pair Draw,Mangling Lanyard,F1,Demigod,B
+MV-ELI-KNF-005-03,Paired Knife Reach Thrust,Peelhavoc,F4,Demigod,B
+MV-ELI-KNF-005-04,Pair Cover Cross,Charter Plunge,F2,Demigod,B
+MV-ELI-KNF-005-05,Pair Step Sequence,Gust Thumbramp,F2,Demigod,B
+MV-ELI-KNF-005-06,Pair Cross Chain,Plungescourge,F4,Demigod,B
+MV-ELI-KNF-005-07,Pair Reverse Hook,Gnashing Choil,F1,Demigod,B
+MV-ELI-KNF-005-08,Pair Lock Press,Overpowering Shave,F1,Demigod,B
+MV-ELI-KNF-005-09,Pair Rebound Parry,Unconquered Choil,F1,Demigod,B
+MV-ELI-KNF-005-10,Paired Whirl Cut,Tempered Whittle,F2,Demigod,B
+MV-ELI-KNF-005-11,Paired Pierce Dive,Tempered Slit,F2,Demigod,B
+MV-ELI-KNF-005-12,Paired Wing Guard,Iron Edgebelly,F2,Demigod,B
+MV-ELI-KNF-005-13,Great Pair Closing Edge,Ruinous Bolster,F1,Demigod,B
+MV-ELI-KNF-006-01,Delta Slip Cut,Rumblepare,F5,Demigod,B
+MV-ELI-KNF-006-02,Mouth Silt Jab,Nova Pare,F2,Demigod,B
+MV-ELI-KNF-006-03,Estuary Turn Guard,Unconquered Scales,F1,Demigod,B
+MV-ELI-KNF-006-04,Tide Line Step,Silt Thumbramp,F2,Demigod,B
+MV-ELI-KNF-006-05,Ebb Draw Slash,Devastating Peel,F1,Demigod,B
+MV-ELI-KNF-006-06,Flood Surge Cut,Sanguine Pare,F2,Demigod,B
+MV-ELI-KNF-006-07,Brackwater Confusion,Pare Valor,F3,Demigod,B
+MV-ELI-KNF-006-08,River Mouth Torrent Cut,Titanic Trim,F1,Demigod,B
+MV-ELI-KNF-006-09,Sandbar Binding Press,Mastering Edgebelly,F1,Demigod,B
+MV-ELI-KNF-006-10,Meeting of Waters Edge,Tempered Lanyard,F2,Demigod,B
+MV-ELI-KNF-007-01,Wing Beat Cut,Gust Shave,F2,Demigod,B
+MV-ELI-KNF-007-02,Talon Point Stab,Whittle Devastation,F3,Demigod,B
+MV-ELI-KNF-007-03,Wing Cover Guard,Indomitable Scales,F1,Demigod,B
+MV-ELI-KNF-007-04,Updraft Knife Hop Step,Slit Blink,F3,Demigod,B
+MV-ELI-KNF-007-05,Thermal Reading,Verity Tangpin,F2,Demigod,B
+MV-ELI-KNF-007-06,Azure Wing Slash,Parehavoc,F4,Demigod,B
+MV-ELI-KNF-007-07,Talon Seize Bind,Fastening Plunge,F2,Demigod,B
+MV-ELI-KNF-007-08,Stoop Recovery Parry,Torrent Buttcap,F2,Demigod,B
+MV-ELI-KNF-007-09,Hawk Hover Poke,Rumble Bolster,F2,Demigod,B
+MV-ELI-KNF-007-10,Azure Wing Sweep Cut,Ponderous Trim,F2,Demigod,B
+MV-ELI-KNF-007-11,Talon Strike from Above,Tempered Peel,F2,Demigod,B
+MV-ELI-KNF-007-12,Hawk Lord's Long Stoop,Scales Vortex,F3,Demigod,B
+MV-ELI-KNF-008-01,Monarch Pace Cut,Corroding Choil,F1,Monarch,B
+MV-ELI-KNF-008-02,Close Court Point,Rumblepeel,F5,Monarch,B
+MV-ELI-KNF-008-03,Reading Guard Turn,Scalesdurance,F4,Monarch,B
+MV-ELI-KNF-008-04,Monarch Hand Check,Mastering Buttcap,F1,Monarch,B
+MV-ELI-KNF-008-05,Reserve Edge Slice,Shavehavoc,F4,Monarch,B
+MV-ELI-KNF-008-06,Azure Pace Step,Gust Peel,F2,Monarch,B
+MV-ELI-KNF-008-07,Monarch Qi Ledger Cut,Blaze Lanyard,F2,Monarch,B
+MV-ELI-KNF-008-08,Basin Steady Guard,Unassailable Swedge,F1,Monarch,B
+MV-ELI-KNF-008-09,Monarch's Azure Sealing Edge,Brutalizing Rumble Whittle,F6a,Demigod,B
+MV-ELI-KNF-009-01,Standing Wind Cut,Pitiless Slit,F1,Demigod,B
+MV-ELI-KNF-009-02,Wind Rooted Thrust,Nova Plunge,F2,Demigod,B
+MV-ELI-KNF-009-03,Rooted Gust Guard,Swedgemettle,F4,Demigod,B
+MV-ELI-KNF-009-04,Bearing Walk,Granite Trim,F2,Demigod,B
+MV-ELI-KNF-009-05,Windward Look,Waning Choil,F2,Demigod,B
+MV-ELI-KNF-009-06,Rooted Oath Slice,Tangpin Devastation,F3,Demigod,B
+MV-ELI-KNF-009-07,Gust Turning Parry,Impervious Bolster,F1,Demigod,B
+MV-ELI-KNF-009-08,Wind Hold Bind,Fastening Shave,F2,Demigod,B
+MV-ELI-KNF-009-09,Standing Gale Cut,Blaze Swedge,F2,Demigod,B
+MV-ELI-KNF-009-10,Rooted Storm Guard,Granite Thumbramp,F2,Demigod,B
+MV-ELI-KNF-009-11,Oath Rooted Wind Cut,Corroding Buttcap,F1,Demigod,B
+MV-ELI-KNF-010-01,Plateau Level Cut,Gust Swedge,F2,Demigod,B
+MV-ELI-KNF-010-02,Knife Bearing Line Jab,Facet Choil,F2,Demigod,B
+MV-ELI-KNF-010-03,Ridge Line Guard,Hoarfrost Edgebelly,F2,Demigod,B
+MV-ELI-KNF-010-04,Escarpment Slice,Tempered Plunge,F2,Demigod,B
+MV-ELI-KNF-010-05,Bearing Turn Step,Torrential Whittle,F1,Demigod,B
+MV-ELI-KNF-010-06,Plateau Edge Bind,Thorntrim,F5,Demigod,B
+MV-ELI-KNF-010-07,Plateau Wind Strike,Unsparing Pare,F1,Demigod,B
+MV-ELI-KNF-010-08,Rim Stone Parry,Chimeplunge,F5,Demigod,B
+MV-ELI-KNF-010-09,Bearing Taken Edge,Gustchoil,F5,Demigod,B
+MV-ELI-KNF-011-01,Sworn Wind First Cut,Tempered Pare,F2,Demigod,B
+MV-ELI-KNF-011-02,Sworn Wind Jab,Rumble Shave,F2,Demigod,B
+MV-ELI-KNF-011-03,Sworn Wind Cover,Impenetrable Lanyard,F1,Demigod,B
+MV-ELI-KNF-011-04,Sworn Wind Glide,Pare Glare,F3,Demigod,B
+MV-ELI-KNF-011-05,Sworn Wind Listening,Beneficent Bolster,F1,Demigod,B
+MV-ELI-KNF-011-06,Sworn Wind Chop,Sanguine Trim,F2,Demigod,B
+MV-ELI-KNF-011-07,Sworn Wind Knife Counter,Tempered Scales,F2,Demigod,B
+MV-ELI-KNF-011-08,Sworn Wind Pin,Overbearing Slit,F1,Demigod,B
+MV-ELI-KNF-011-09,Sworn Wind Dash,Meteoric Swedge,F1,Demigod,B
+MV-ELI-KNF-011-10,Wind-Sworn Rending Draw,Rampaging Edgebelly,F1,Demigod,B
+MV-ELI-KNF-011-11,Wind-Sworn Circle Guard,Tangpin Spine,F3,Demigod,B
+MV-ELI-KNF-011-12,Wind-Sworn Last Gust,Gnashing Granite Choil,F6a,Demigod,B
+MV-ELI-KNF-012-01,Rider's Saddle Cut,Ironslit,F5,Demigod,B
+MV-ELI-KNF-012-02,Rein Cutting Jab,Facetpeel,F5,Demigod,B
+MV-ELI-KNF-012-03,Rider Cover Turn,Scalesvalor,F4,Demigod,B
+MV-ELI-KNF-012-04,Mounted Dismount Step,Lightning Scales,F1,Demigod,B
+MV-ELI-KNF-012-05,Gale Rider Hook Slice,Rumbleswedge,F5,Demigod,B
+MV-ELI-KNF-012-06,Stirrup Strap Cut,Tempered Thumbramp,F2,Demigod,B
+MV-ELI-KNF-012-07,Dust Cloud Feint,Murk Pare,F2,Demigod,B
+MV-ELI-KNF-012-08,Gale Rider Overhand Cut,Trimruin,F4,Demigod,B
+MV-ELI-KNF-012-09,Edge Ride Parry,Unbowed Buttcap,F1,Demigod,B
+MV-ELI-KNF-012-10,Gale Rider Flash Cut,Blinding Hour Tangpin,F6a,Demigod,B
+MV-ELI-KNF-013-01,Great Canon First Bearing,Iron Plunge,F2,Demigod,B
+MV-ELI-KNF-013-02,Second Bearing Thrust,Glintchoil,F5,Demigod,B
+MV-ELI-KNF-013-03,Third Bearing Guard,Choilspine,F4,Demigod,B
+MV-ELI-KNF-013-04,Fourth Bearing Step,Torrent Edgebelly,F2,Demigod,B
+MV-ELI-KNF-013-05,Fifth Bearing Sense,Expanse Bolster,F2,Demigod,B
+MV-ELI-KNF-013-06,Sworn Edge Cross,Ironscales,F5,Demigod,B
+MV-ELI-KNF-013-07,Knife Bearing Hold Counter,Peel Reckoning,F3,Demigod,B
+MV-ELI-KNF-013-08,Knife Bearing Lock Press,Shade Slit,F2,Demigod,B
+MV-ELI-KNF-013-09,Edge Oath Rush,Mightpare,F5,Demigod,B
+MV-ELI-KNF-013-10,Bearing Splitting Gale Cut,Booming Trim,F1,Demigod,B
+MV-ELI-KNF-013-11,Sworn Bearing Piercing Drive,Nova Whittle,F2,Demigod,B
+MV-ELI-KNF-013-12,Oath Bearing Shield Turn,Iron Lanyard,F2,Demigod,B
+MV-ELI-KNF-013-13,Great Bearing Edge of Oaths,Mangling Peel,F1,Demigod,B
+MV-ELI-KNF-014-01,Open Ground Oath Cut,Granite Swedge,F2,Demigod,B
+MV-ELI-KNF-014-02,Oath-Taker's Jab,Facet Trim,F2,Demigod,B
+MV-ELI-KNF-014-03,Oath Cover Guard,Aegischoil,F5,Demigod,B
+MV-ELI-KNF-014-04,Open Ground Knife Run,Phantom Shave,F1,Demigod,B
+MV-ELI-KNF-014-05,Horizon Oath Look,Tangpin Vitality,F3,Demigod,B
+MV-ELI-KNF-014-06,Oath Under Open Sky Slice,Sanguine Thumbramp,F2,Demigod,B
+MV-ELI-KNF-014-07,Sky Held Counter,Tempered Edgebelly,F2,Demigod,B
+MV-ELI-KNF-014-08,Open Ground Bind,Parenerve,F4,Demigod,B
+MV-ELI-KNF-014-09,Open Oath Sweep,Granite Slit,F2,Demigod,B
+MV-ELI-KNF-014-10,Oath Ground Rebound,Unbowed Scales,F1,Demigod,B
+MV-ELI-KNF-014-11,Open Ground Vow Strike,Scaleshavoc,F4,Demigod,B
+MV-ELI-KNF-015-01,Gale Cut First Lesson,Ruinous Lanyard,F1,Demigod,B
+MV-ELI-KNF-015-02,Gale Pin Stab,Facetplunge,F5,Demigod,B
+MV-ELI-KNF-015-03,Gale Slip Guard,Equipoise Buttcap,F2,Demigod,B
+MV-ELI-KNF-015-04,Gale Knife Run Step,Shave Blink,F3,Demigod,B
+MV-ELI-KNF-015-05,Gale Cut Rake,Pareruin,F4,Demigod,B
+MV-ELI-KNF-015-06,Gale Counter Swell,Blaze Choil,F2,Demigod,B
+MV-ELI-KNF-015-07,Gale Eye Reading,Waningplunge,F5,Demigod,B
+MV-ELI-KNF-015-08,Gale Cutting Edge Surge,Parescourge,F4,Demigod,B
+MV-ELI-KNF-015-09,Gale Still Point Guard,Plungevalor,F4,Demigod,B
+MV-ELI-KNF-015-10,Gale Stilling Cut,Sanguine Whittle,F2,Demigod,B
+MV-ELI-KNF-016-01,Wind Held Pace Cut,Might Peel,F2,Monarch,B
+MV-ELI-KNF-016-02,Wind Held Jab,Facetswedge,F5,Monarch,B
+MV-ELI-KNF-016-03,Held Edge Cover,Facet Thumbramp,F2,Monarch,B
+MV-ELI-KNF-016-04,Held Step Line,Ghosting Plunge,F1,Monarch,B
+MV-ELI-KNF-016-05,Knife Held Breath Reading,Plungerespite,F4,Monarch,B
+MV-ELI-KNF-016-06,Monarch Wind Slice,Tangpin Ruin,F3,Monarch,B
+MV-ELI-KNF-016-07,Wind Held Counter,Granite Bolster,F2,Monarch,B
+MV-ELI-KNF-016-08,Wind Held Bind,Choilvalor,F4,Monarch,B
+MV-ELI-KNF-016-09,Held Gust Rush,Gusttrim,F5,Monarch,B
+MV-ELI-KNF-016-10,Monarch Gale Cut,Blistering Whittle,F1,Monarch,B
+MV-ELI-KNF-016-11,Held Wind Parry,Choilmettle,F4,Monarch,B
+MV-ELI-KNF-016-12,Wind-Held Blade Verdict,Eviscerating Slit,F1,Demigod,B
+MV-ELI-KNF-002-12,Booming Hollow Trim,Brutal Trim,F6a,Demigod,B
+MV-ELI-KNF-003-02,Hollow Buttcap,Forged Buttcap,F2,Demigod,B
+MV-ELI-KNF-004-10,Hollow Swedge,Honed Swedge,F2,Demigod,B
+MV-ELI-KNF-013-05,Expanse Bolster,Tempered Bolster,F2,Demigod,B

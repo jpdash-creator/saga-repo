@@ -1,0 +1,68 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-GUA-001-01,Weighted Ready Hold,Loomcordial,F4,Senior L5 Low,A
+MV-INT-GUA-001-02,Dropping Crescent Cut,Savage Guanpole,F1,Senior L5 Low,A
+MV-INT-GUA-001-03,Backswing Return Cut,Tuftflog,F4,Senior L5 Low,A
+MV-INT-GUA-001-04,Pole Shoulder Check,Layered Guanhook,F1,Senior L5 Low,A
+MV-INT-GUA-001-05,Step Beneath the Blade,Lithe Crescentback,F1,Senior L5 Low,A
+MV-INT-GUA-001-06,Falling Weight Overcut,Tuftslap,F4,Senior L5 Low,A
+MV-INT-GUA-001-07,Counter-Swing Rebound,Tuftbarrier,F4,Senior L5 Low,A
+MV-INT-GUA-002-01,Crescent Edge Qi Seating,Quickening Tailspike,F1,Senior L8 Low,A
+MV-INT-GUA-002-02,Straight Qi Cut,Doughty Bladewheel,F1,Senior L8 Low,A
+MV-INT-GUA-002-03,Hooked Edge Draw,Lassoing Slashdown,F1,Senior L8 Low,A
+MV-INT-GUA-002-04,Flowing Side Step,Crestzip,F4,Senior L8 Low,A
+MV-INT-GUA-002-05,Edge Qi Surge,Vicious Heavyblade,F1,Senior L8 Low,A
+MV-INT-GUA-002-06,Curve Riding Parry,Sturdy Redtassel,F1,Senior L8 Low,A
+MV-INT-GUA-003-01,Sweep Base Stance,Genial Bladecollar,F1,Warrior L1 Low,B
+MV-INT-GUA-003-02,Crescent Ankle Hook Pull,Guanbuckle,F4,Warrior L1 Low,B
+MV-INT-GUA-003-03,Hip High Sweep,Clay Rollcut,F2,Warrior L1 Low,B
+MV-INT-GUA-003-04,Rising Hook Lift,Lassoing Counterspike,F1,Warrior L1 Low,B
+MV-INT-GUA-003-05,Sweep Guard Turn,Rillcrest,F5,Warrior L1 Low,B
+MV-INT-GUA-003-06,Wheeling Step,Lithe Heavyswing,F1,Warrior L1 Low,B
+MV-INT-GUA-003-07,Qi Wheel Sweep,Longsweep Thwack,F3,Warrior L1 Low,B
+MV-INT-GUA-003-08,Hook and Drag Fall,Viselike Ironsweep,F1,Warrior L1 Low,B
+MV-INT-GUA-004-01,Cleave Ready Guard,Sprig Guantang,F2,Warrior L2 Low,B
+MV-INT-GUA-004-02,Guandao Shaft Slap Aside,Rill Bladecollar,F2,Warrior L2 Low,B
+MV-INT-GUA-004-03,Edge Lift Guard,Tuftscreen,F4,Warrior L2 Low,B
+MV-INT-GUA-004-04,Guarded Cleave,Brutal Tailspike,F1,Warrior L2 Low,B
+MV-INT-GUA-004-05,Pole Tail Rap,Crimson Longsweep,F2,Warrior L2 Low,B
+MV-INT-GUA-004-06,Guard Slide Step,Loomglide,F4,Warrior L2 Low,B
+MV-INT-GUA-004-07,Qi Shaft Wall,Sprig Guanhook,F2,Warrior L2 Low,B
+MV-INT-GUA-004-08,Parry Into Cleave,Rill Crescentback,F2,Warrior L2 Low,B
+MV-INT-GUA-004-09,Cleave Through Guard,Doughty Ironsweep,F1,Warrior L2 Low,B
+MV-INT-GUA-005-01,Turning Ready Stance,Genial Heavyblade,F1,Senior L3 Mid,A
+MV-INT-GUA-005-02,Half Wheel Cut,Rushing Slashdown,F1,Senior L3 Mid,A
+MV-INT-GUA-005-03,Pole Roll Parry,Rigid Guanpole,F1,Senior L3 Mid,A
+MV-INT-GUA-005-04,Pivot Backstep,Hiltswerve,F4,Senior L3 Mid,A
+MV-INT-GUA-005-05,Full Turning Crescent,Rollcut Hammerfall,F3,Senior L3 Mid,A
+MV-INT-GUA-005-06,Turn and Trap the Haft,Crestbuckle,F4,Senior L3 Mid,A
+MV-INT-GUA-006-01,Long Reach Setting,Patient Guantang,F1,Senior L6 Mid,A
+MV-INT-GUA-006-02,Far Hand Chop,Heavyswing Slap,F3,Senior L6 Mid,A
+MV-INT-GUA-006-03,Stretching Tip Jab,Hungry Polebelly,F1,Senior L6 Mid,A
+MV-INT-GUA-006-04,Long Guard Hold,Loombuckle,F4,Senior L6 Mid,A
+MV-INT-GUA-006-05,Reach Retreat Step,Ducking Counterspike,F1,Senior L6 Mid,A
+MV-INT-GUA-006-06,Full-Length Lunge Cut,Hiltscorer,F4,Senior L6 Mid,A
+MV-INT-GUA-006-07,Reach Denial Sweep,Rough Crescentback,F1,Senior L6 Mid,A
+MV-INT-GUA-007-01,Pressure Line Stance,Tuftlinen,F4,Warrior L4 Low,B
+MV-INT-GUA-007-02,Shaft Lean Push,Polebelly Screen,F3,Warrior L4 Low,B
+MV-INT-GUA-007-03,Edge Pin Down,Entangling Counterspike,F1,Warrior L4 Low,B
+MV-INT-GUA-007-04,Steady Press Cut,Brawn Slashdown,F2,Warrior L4 Low,B
+MV-INT-GUA-007-05,Back Arc Press,Savage Rollcut,F1,Warrior L4 Low,B
+MV-INT-GUA-007-06,Pressing Step,Hilthurdle,F4,Warrior L4 Low,B
+MV-INT-GUA-007-07,Pole Weight Drop,Acrid Guanpole,F1,Warrior L4 Low,B
+MV-INT-GUA-007-08,Crushing Edge Press,Fierce Redtassel,F1,Warrior L4 Low,B
+MV-INT-GUA-007-09,Shaft Pressure Bind,Clutching Longsweep,F1,Warrior L4 Low,B
+MV-INT-GUA-007-10,Retreat Under Pressure,Unmoving Guantang,F1,Warrior L4 Low,B
+MV-INT-GUA-008-01,Hook Edge Opening,Poisetuft,F5,Warrior L6 Mid,B
+MV-INT-GUA-008-02,Haft Hook Twist,Discord Bladecollar,F2,Warrior L6 Mid,B
+MV-INT-GUA-008-03,Edge Scrape Down,Raw Redtassel,F1,Warrior L6 Mid,B
+MV-INT-GUA-008-04,Haft Rap Strike,Brutal Heavyblade,F1,Warrior L6 Mid,B
+MV-INT-GUA-008-05,Hooked Cover Guard,Sleethilt,F5,Warrior L6 Mid,B
+MV-INT-GUA-008-06,Hook Step Close,Rillguan,F5,Warrior L6 Mid,B
+MV-INT-GUA-008-07,Disarming Hook Wrench,Discord Tailspike,F2,Warrior L6 Mid,B
+MV-INT-GUA-008-08,Haft Spin Sweep,Static Bladewheel,F2,Warrior L6 Mid,B
+MV-INT-GUA-009-01,Carried Qi Stance,Tenderhearted Polebelly,F1,Senior L2 Low,A
+MV-INT-GUA-009-02,Light Edge Drop,Lurching Guanhook,F1,Senior L2 Low,A
+MV-INT-GUA-009-03,Drill Parry Return,Tuftbuckle,F4,Senior L2 Low,A
+MV-INT-GUA-009-04,Drill Step Pair,Prowling Ironsweep,F1,Senior L2 Low,A
+MV-INT-GUA-009-05,Carried Qi Slash,Bold Guantang,F1,Senior L2 Low,A
+MV-INT-GUA-009-06,Qi Pulse Shaft Guard,Guanhasp,F4,Senior L2 Low,A

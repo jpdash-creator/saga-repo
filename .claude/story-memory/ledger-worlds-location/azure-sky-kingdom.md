@@ -1,0 +1,239 @@
+# AZURE SKY KINGDOM — Location Ledger
+
+**Governing Canon Parts:** Parts 13, 14, 15, 21, 22, 25, 31
+**Location Tier (Part 13 Area 2.1):** Tier 5 — Kingdom (Sub-World)
+**Part 13 Classification:** OPEN-AREA — the Km class is set when a scene first needs it (Part 13 Area 7.1); Balanced Kingdom type (dual-track: high-level cultivation + high-level technology integration, ruled by Varys)
+**First Area Appearance:** Area 01 — The Hour on the West Platform (Ref: 1.1.1.001.01)
+**Last Updated:** 2026-10-18
+**Ledger Version:** v1.0
+
+---
+
+## Section 1 — Identity and Classification (B)
+
+**Full Name:** Azure Sky Kingdom
+**Common Name:** Azure Sky / The Azure Kingdom
+**Location Tier (Part 13 Area 2.1):** Tier 5 — Kingdom (Sub-World political-geographic entity)
+**Cosmological Area (Part 13):** Area 7 — Kingdom Classification System (Part 13)
+**Part 13 Kingdom Class:** OPEN-AREA — the Km class is set when a scene first needs it (Part 13 Area 7.1); Balanced Kingdom type — a kingdom that operates at a high level in both cultivation and technology simultaneously; one of the more distinctive kingdom types as most kingdoms skew heavily toward one track
+**Sacred Ground Status:** Not yet established — to be defined in prose
+**Containing Continent:** Nine Suns Continent (cross-ref: nine-suns-continent.md)
+**Part 13 Class Code:** OPEN-AREA
+**Special Zone Status (Part 13 Area 2.5):** OPEN-AREA
+**Historical Depth (Part 13):** OPEN-AREA
+**Immediate Parent (file name):** OPEN-AREA
+**Containing World:** Saha (cross-ref: saha.md)
+**Containing Star System:** Sol Star System (cross-ref: sol-star-system.md)
+**Physical Description:**
+The Azure Sky Kingdom is a sovereign kingdom on the Nine Suns Continent of Saha. It is ruled by King Varys and Queen Valia (realms: varys.md, valia.md). The kingdom is notable for operating at a genuinely high level in both cultivation and technology — a rare dual integration among the kingdoms of the Nine Suns Continent. Its territory neighbors the Gale Kingdom (ruled by King Aeries).
+
+**Neighboring Entities:**
+- Gale Kingdom — immediate neighbor; allied; ruled by King Aeries and Queen Aalia (cross-ref: gale-kingdom.md)
+- Additional neighboring kingdoms — not yet named; a small village on the border between Azure Sky Kingdom and neighboring kingdoms is where Hercules and Bison are lost at story start; it is Greenhollow Cross, on Azure Sky ground at the border of the Azure Sky Kingdom (the author, 2026-10-06; the border wording 2026-10-07), and it sits on the kingdom's north-western frontier, where the kingdom, Brackenhold and the Ember Reach polities meet (`[ASKED]` Author ruling, 2026-10-18 (map consultation); §5.1; cross-ref: greenhollow-cross.md)
+- Brackenhold — kingdom to the north-west, across the lower ford, bordering Azure Sky and the Ember Reach polities (`[ASKED]` Author ruling, 2026-10-18 (map consultation); §5.1; cross-ref: `ledger-worlds-kingdom-state/brackenhold.md`)
+
+**Cultural Association (Part 25):** Dual-track integrated culture — cultivation and technology are both deeply woven into the kingdom's social fabric, governance, military, and daily life; specific cultural traditions to be established in prose
+
+---
+
+## Section 2 — Spatial Data (B/L)
+
+**Distance from Key Reference Points (Part 14 CMS):** Located on Nine Suns Continent, Saha — specific inter-kingdom CMS distances not yet established in prose
+**Travel Time from Key Points (Part 15):** Not yet established — to be defined in prose
+**Ambient Energy Class (Part 13 Area 2.3):** Class 3–4 Mixed-Ambient (§5.7)
+**Dominant Affinity Presence (Part 4):** Mixed, no single dominant affinity (§5.5, §5.7)
+
+**Special Zone — FIRMAMENT LOCK (inherited from Sol Star System):**
+All Firmament Lock restrictions apply (technology ceiling: Tier 6). Cultivation ceiling: Absolute God Level 8 High (Saha planetary cap); Phase 1 narrative ceiling Ruler Level 9 early; the Firmament Lock value is the system ceiling only. Current kingdom technology level: as recorded in `ledger-worlds-kingdom-state/azure-sky-kingdom.md` Section 2 (Technology Tier Average, single owner).
+
+**Cultivation Synergy % (CS%) (Part 31 Area 21):** As recorded in `ledger-worlds-kingdom-state/azure-sky-kingdom.md` Section 2 (single owner); the royal family's affinities are owned by varys.md and valia.md
+**Technology Synergy % (TS%) (Part 31 Area 21):** As recorded in `ledger-worlds-kingdom-state/azure-sky-kingdom.md` Section 2 (single owner); the kingdom delves into technology at a high level alongside cultivation (TA values are owned by varys.md and valia.md)
+**Flora and Fauna:** OPEN-AREA
+
+*[L — CS%/TS% updated as kingdom civilizational character or technology tier changes]*
+
+---
+
+## Section 3 — Faction/Civilization Control (B/L)
+
+**Controlling Faction(s) (cross-ref: ledger-people-society-faction):**
+- **Azure Sky Kingdom (ruling state)** — the kingdom is itself the primary political entity; controlled by the royal house of Varys (cross-ref: `ledger-people-society-faction/azure-sky-kingdom-state.md`)
+
+**Controlling Civilization (cross-ref: ledger-people-society-civilization):** The Azure Sky Kingdom's own civilization — classification to be established in prose per Part 21
+**Contested Status:** Not contested at story start; borders with neighboring kingdoms are established and recognized
+**Known Characters Present (cross-ref: character ledgers):**
+- **Varys** — King of Azure Sky Kingdom; resident (cross-ref: varys.md)
+- **Valia** — Queen of Azure Sky Kingdom; resident (cross-ref: valia.md)
+- **Varya** — Princess/daughter of Varys and Valia; resident (cross-ref: varya.md)
+
+**Notable Sub-Locations within Azure Sky Kingdom (B — partial):**
+- **Azure Sky Palace (Royal Palace of Twin Courts)** — royal seat; in Azorion, the Sapphire Basin capital; west-edge upper courtyard platform (pre-established canon) (cross-ref: azure-sky-palace.md)
+- **Sapphire Basin** — central agricultural-urban heartland; capital city **Azorion** at its center; blue-flecked bedrock (cross-ref: sapphire-basin.md, azorion.md)
+- **Azorion** — the kingdom's capital city; entered via the Hammer-and-Hilt Gate; seat of the Royal Palace of Twin Courts (cross-ref: azorion.md)
+- **Millbrook** — river town upstream of Azorion; grain and lumber go down the river to the capital (cross-ref: millbrook.md)
+- **Ashford** — border garrison town at a cold-river crossing (cross-ref: ashford.md)
+- **Fallowfield** — old farming town on worn soil; a veterans' settlement by economic default (cross-ref: fallowfield.md)
+- **Greyspan** — border town at an old grey bridge on the eastern border; the far bank lies in Gale's sphere of customary use (§5.1; cross-ref: greyspan.md)
+- **Farrowharbor** — naval port on the southern coast; the fleet's home port (cross-ref: farrowharbor.md)
+- **Saltmarsh** — coastal fishing and salt town on tidal flats, on the southern coast (cross-ref: saltmarsh.md)
+- **Stonemill Crossing** — road junction north of Azorion where the descent road from the Windward Reach joins the Sapphire Road (cross-ref: stonemill-crossing.md)
+- **Greenhollow Cross** — border village (near territory borders with multiple neighboring kingdoms), where Hercules and Bison live; a timber and farm village of about two hundred households at the edge of Skyvein Forest, named by the author on 2026-10-06 and first shown in Chapter 002 (Ref: 1.1.1.002); its forest is Skyvein Forest, placed by the author's ruling of 2026-10-18 on Azure Sky ground below the Windward Range's western end (`[ASKED]`; §5.1; cross-ref: greenhollow-cross.md, skyvein-forest.md)
+- **The Lower Road** — the cart road down from the Bluecleft mine, past the lower ford and through the narrow to the last toll-house, with a relay hut over the old wire by the ford; the Court's patrol post holds it; first shown in Chapter 003 on 1246.12.8 / PD -19 (Ref: 1.1.1.003) (cross-ref: lower-road.md)
+- **Bluecleft Mine** — the shard mine at the top of the lower road (Ref: 1.1.1.003) (cross-ref: bluecleft-mine.md)
+- **Aster House** — the kingdom's hospital, led directly by Queen Valia as Healer Prime of Azorion; first on the page at Chapter 004 (Ref: 1.1.1.004), Area block 01, reached on foot through the capital; the siting inside Azorion stays OPEN-AUTHOR (cross-ref: `ledger-people-society-faction/aster-house.md`; §5.16; `azorion.md`)
+- **The Ferry Landing and the Hay Market Gate** — places named in the Court's business of 1247.1.2 / PD 2 (Ref: 1.1.1.003); neither is placed in the kingdom (§5.16). The kingdom hospital named in the same business is Aster House, above
+
+---
+
+## Section 4 — Events Log (L)
+
+| Area Reference | Event Summary | Parts Triggered | Sections Updated |
+|---|---|---|---|
+| 1.1.1.001.01 — The Hour on the West Platform | The kingdom is named for the first time, once, as the owner of the plain between Azorion and the Windward Range ("the Azure Sky Kingdom's plain"). The plain's fields, road, field wall, barn roof, ditch, pump and well are recorded at `azorion.md` §5.1 and §5.6; no kingdom-wide fact is set. | Parts 13, 28 | Header (First Area Appearance) |
+| 1.1.1.002 — The Well at First Light | The kingdom is not named in the narration of the Chapter. Its border village, Greenhollow Cross, is met on Azure Sky ground from 1247.1.1 / PD 1 to 1247.1.3 / PD 3: the Hedge Well at the top of the slope, the crossing with Alder Bridge, Longsaw Mill and Rowantree Inn, the mill yard, the lane, and the farmland at the edge of Skyvein Forest (the facts live in `greenhollow-cross.md` and `skyvein-forest.md` and are not copied here). No kingdom-wide fact is set. | Parts 13, 28, 41 | Section 3 (Greenhollow Cross line); Section 4 |
+| 1.1.1.003 — The Lone Banner (1246.12.8 / PD -19 and 1247.1.2 / PD 2) | The kingdom is not named in the narration of the Chapter (it speaks of "the kingdom", "this kingdom" and "the Court"). The Court's patrol post holds the lower road; a mine's file is taken on it on 1246.12.8 / PD -19 (a flashback date), and on 1247.1.2 / PD 2 the Court hears the report in its hall, doubles the post and learns of a clamp on the old wire. The Paired Banners tradition is shown in use, and a lone banner is read as mourning (§5.4). The Court's business of that morning names the kingdom hospital, the ferry landing and the east road, the hay market gate and other places (§5.16). The road, the mine and the hall live in `lower-road.md`, `bluecleft-mine.md` and `signet-court.md` and are not copied here. | Parts 13, 25, 28, 41 | Section 3; Section 4; Sections 5.4, 5.14, 5.15 and 5.16 |
+| 1.1.1.004 — The Measure of a Gift (ledger step before drafting, 2026-10-17; no Area written) | **The kingdom hospital is made the ward of Aster House** at the author's ruling (Author ruling, 2026-10-17; Chapter Spec 1.1.1.004, Settled): a faction of its own, led directly by Queen Valia as Healer Prime of Azorion (`ledger-people-society-faction/aster-house.md`). §5.16 carries the pointer and a pointer-form Collective Behavior Code (Registered 2026-10-17); the registry row of `_index.md` points to the house. The Academy's head is its Headmaster (§5.5 pointer). No fact is set on the page, and none is copied from the faction file. | Parts 22, 28, 37, 39 | Sections 4, 5.5 and 5.16 |
+| 1.1.1.004 — The Measure of a Gift (1247.1.2 / PD 2 and 1247.1.8 / PD 8; written at the Gate 2 of 2026-10-18) | The kingdom is not named in the narration of the Chapter (it speaks of "the kingdom's hospital" and "the first of the kingdom's three"); Azorion is named once, in the title "Healer Prime of Azorion". **Aster House**, the kingdom's hospital, is first on the page (Area block 01): its building and ward are recorded at §5.16. **Sapphire Ascent Academy** is named on the page as "the first of the kingdom's three", with the Nine Halls above it (Area block 02; §5.5), and its foundation yard is first seen (`sapphire-ascent-foundation-yard.md`). No kingdom-wide fact is otherwise set. | Parts 13, 22, 28, 41 | Header; Sections 3 and 4; §5.5; §5.16 |
+| Author ruling, 2026-10-18 (map consultation) | Four rulings are recorded (`[ASKED]`): the low volcanic ridge on the western border is the eastern rim of the Ember Reach region; the sea the southern coast faces is the Southern Sea; the hill and timber country beyond Ashford's cold-river crossing is the north-western frontier, where Azure Sky, Brackenhold and the Ember Reach polities meet (Skyvein Forest, Greenhollow Cross, the lower road, Bluecleft Mine and Ashford's border are on it, and Brackenhold lies across the lower ford); and the river Azorion stands on is the Azor. The coast's extent, any port beyond the two named, its distance from Azorion and every distance on the frontier stay as they were. | Parts 13, 28 | Section 1; Sections 3 and 4; §5.1; §5.8; §5.13 |
+
+---
+
+## Section 5 — Lore (Part 28 Area 17)
+
+**Schema:** Part 28 Area 17.2 — World / Kingdom (Location Domain).
+**Depth Standard:** Breadth-and-Depth per Part 28 Area 17.3 — full narrative depth (Phase 1 active setting; Hero origin substrate; ruling pair are named canon characters).
+**Audit Hook:** ALCA dimension AL-10 (Lore Completeness Alignment; `guardrails/audit/guardrail-alca.md`).
+**Depth Test (Part 28 Area 17.3):** A pacing-appropriate immersion scene (Part 28 Area 17.3) centered on the Azure Sky Kingdom (court, festival, forge, shrine, or border village) can be written from this section alone without recourse to improvisation.
+
+---
+
+### 5.1 — Geographic Extent
+
+The Azure Sky Kingdom occupies a temperate highland plateau on the central-western portion of the Nine Suns Continent, Saha (Section 1 is a regional slice of the continent; "central-western" for Azorion means within the Section 1 region). Its sovereign footprint is bounded on the west by the Ember Reach — a low volcanic ridge that defines the cultural frontier with the neighboring Ember Reach polities — and on the east by the Lyraen River, a broad slow-running river whose far bank lies within the Gale Kingdom's sphere of customary use. The northern frontier is a stepped highland rising toward the Windward Range, beyond which lie the mountain passes that the Azure Sky and Gale crowns patrol together under the Northern Accord. The southern frontier is open plain, transitioning to the Lyraen lowland basin and then to a southern coast, the Tide March, with Farrowharbor (the fleet's home port; the war fleet winters there behind a farrow of rocky islets) and Saltmarsh (fishing and salt, on tidal flats) upon it (`farrowharbor.md`, `saltmarsh.md`).
+
+Gale's Long Coast is that kingdom's eastern maritime frontier, facing the Greater Eastern Ocean, with its own Long Coast Fleet, Shipwrights' Order, harbor-lords and Long Coast Warden (`long-coast.md`; `ledger-people-society-faction/gale-kingdom-state.md` §7.4). The Azure Sky coast is southern and faces a different water; the two kingdoms' maritime identities are separate, and neither coast reads onto the other. The sea the southern coast faces is the Southern Sea, by the author's ruling of 2026-10-18 (`[ASKED]` Author ruling, 2026-10-18 (map consultation)): "The same water the Lyraen delta empties into, one continuous southern shoreline from Saltmarsh east to Saltmere and Ironshore." The coast's extent, any port beyond the two named, and its distance from Azorion are not established (§5.13).
+
+The kingdom's internal geography is organized around four physiographic zones: the **Sapphire Basin** (central agricultural and urban heartland, named for the blue-flecked bedrock that gives the kingdom its heraldic color), the **Windward Reach** (northern highland — cultivation academies, monasteries, and summer retreats), the **Riverside March** (eastern strip along the Lyraen — trade posts, workshops, and the mixed-jurisdiction customs towns shared by treaty with Gale), and the **Tide March** (the southern coast beyond the Lyraen lowland: Farrowharbor, the fleet's home port, and Saltmarsh, the fishing and salt town on the tidal flats, with the shipwrights' yards and the salt pans between and around them).
+
+**Added by the author's rulings of 2026-10-18 (map consultation); each item `[ASKED]`.** *The western ridge.* The low volcanic ridge on the western border, with the Boundary Towers (§5.8), is the eastern rim of the Ember Reach region, which stretches west from it toward the coast and Cindervast (`ember-reach.md` §5.1). *The north-western frontier.* Hill and timber country north-west of the Sapphire Basin, beyond Ashford's cold-river crossing, forms the kingdom's north-western frontier: Skyvein Forest on the slopes below the Windward Range's western end, Greenhollow Cross at its edge, the lower road and Bluecleft Mine in the hills, and Brackenhold the kingdom across the lower ford to the north-west, where Azure Sky, Brackenhold and the Ember Reach polities meet (`skyvein-forest.md`, `greenhollow-cross.md`, `lower-road.md`, `bluecleft-mine.md`, `ledger-worlds-kingdom-state/brackenhold.md`). Ashford's border is this frontier, with Brackenhold; which river its cold river is stays not established (`ashford.md`). The ruling sets no distance or bearing from Azorion for any of these places. *The Azor.* A river rising in the Windward Reach runs south through Millbrook and Azorion, then east or south-east to join the Lyraen; it is the Azor, and Azorion reads as the city on the Azor (`azor-river.md`). The exact confluence is OPEN-AREA.
+
+### 5.2 — Founding History
+
+The kingdom was founded seven generations ago by **Theron the Twinned**, a dual-cultivator whose formal title in the royal annals is *First Sovereign of the Twin Oath*. Theron unified three preceding polities — the Sapphire Confederation, the Lyraen Basin Council, and the loose fief-holders of the mountain passes — through a structured oath-binding rather than conquest. This foundational event is called the **Twin Oath**: every ruling sovereign of Azure Sky must swear dual fealty, once to the cultivation tradition (binding them to the academies and the Windward Reach) and once to the technology tradition (binding them to the guild halls and the Sapphire Basin forges). Failure to honor either oath is canonically a throne-voiding offense.
+
+Theron's own fate is deliberately unsettled in the royal annals (see §5.13) — the official history records only that Theron departed the capital seven generations ago on a journey northward and did not return. The first dynastic crown passed to Theron's chosen successor rather than by blood, and the throne then settled into its current hereditary pattern through **Lyra the Twin-Keeper** (second sovereign), **Velar the Bridge-Builder** (who negotiated the early form of the Lyraen River Compact), **Mireya the Stormbound** (whose reign saw the first Windward Reach codification), **Caedren the Archival** (who commissioned the kingdom's master census and guild registry), and **Solin the Restrained** (father of the current king, remembered for refusing the throne's expansionist faction). Seven sovereigns have reigned in all, one for each of those seven generations: Theron the first and King Varys the seventh.
+
+### 5.3 — Ruling Authority
+
+The reigning sovereigns are **King Varys** (tracked in varys.md) and **Queen Valia** (primary technology-track sovereign; tracked in valia.md); realms, CA and TA values are owned by varys.md and valia.md. Their legitimate heir is Princess **Varya** (tracked in varya.md). The throne is held co-regally under the Twin Oath — Varys carries the cultivation-side regalia (the Zenith oath-blades) and Valia carries the technology-side regalia (the Accord signet and the Charter Keys of the guild halls). Neither sovereign may promulgate a kingdom-wide edict without the counter-sign of the other; this is constitutional, not ceremonial. *(Naming disambiguation: "the Zenith oath-blades" and "the Accord signet" are Varys's and Valia's personal royal regalia — unrelated to the kingdom's two military ORDERS, "the Skysworn" and "the Azure Guard." See `ledger-people-society-faction/azure-sky-kingdom-state.md` §7.4/§7.8 for the full correction and disambiguation record. Below the sovereign pair, the kingdom's governance now also includes the Four Great Officers — Grand Marshal Ossian Kade, Chancellor Maren Cole, Grandmaster Yun Ashvale, Grand Artificer Bramwell Cog — see `ledger-people-society-faction/azure-sky-kingdom-state.md` §7.3 for full detail.)*
+
+The royal seat is the **Royal Palace of Twin Courts**, a paired architectural complex in **Azorion**, the Sapphire Basin capital (see azorion.md), with two physically separated audience halls — the Sword Court (cultivation petitions, military audience, academy matters) and the Signet Court (charter petitions, guild audience, technology approvals) — bridged by a central reconciliation chamber where dual-signature edicts are ratified. The span and the chamber are one structure, the Twin Courts Bridge (`azure-sky-palace.md` §1).
+
+**Palace interior architecture, Reconciliation Chamber interior, threshold protocol, no-touching protocol, sealed-letter rule, and Wardens of the Reconciliation institution:** pre-prose institutional placeholders (details reserved for authored prose). Intended institutional purpose: the Reconciliation Chamber is the ruling state's dual-signature ratification venue; the Warden corps (pre-prose reserve) is a neutrality-guarantor register sitting outside the Sword-side and Signet-side command lines. Specific architectural, procedural, institutional-date, and personnel details are reserved for authored prose.
+
+### 5.4 — Dominant Culture (Part 25 Cross-Reference)
+
+The kingdom's governing cultural premise is **paired duality** — every formal institution of consequence has a cultivation-side and technology-side counterpart, and legitimacy attaches only to the paired form. This is expressed in three canonically named festivals and rites:
+
+- **Festival of the Twin Oath** — annual midsummer rite at which every citizen of age renews a personal version of the sovereign's oath; the Sapphire Basin capital hosts the sovereigns' ceremonial re-swearing at the Twin Oath Shrine (see §5.8); provincial capitals hold mirror ceremonies on the same day. **Fixed day (pointer, Part 41):** Month 5 (Sorvelle), Day 16 every Year, which is Phase Day 138 in Year 1247; held in `ledger-worlds-calendar/_index.md` (Fixed Days).
+- **Apprentice's Choice** — rite-of-passage at age 16 in which a young Azure Sky citizen formally declares their primary track (cultivation or technology) while swearing to honor the counterpart. The declaration is recorded in the local guild or academy registry and becomes part of the citizen's civic identity. A rare liturgical variant — the **Ceremonial Form for Declaring Both** (see §5.8, Azure Sky Annals) — is recognized for the very occasional candidate who legitimately carries both tracks at the declaration threshold; the Form is rarely enacted and must be taught and pre-certified by a sitting sovereign, owing to the Twin Oath's constitutional weight.
+- **Paired Banners** tradition — military units, guild crews, academy cohorts, merchant caravans, and even family households display a paired banner showing both a cultivation sigil and a technology sigil. A lone banner of either kind is read in-kingdom as a signal of either mourning (the paired half has fallen) or dissent. **Shown in use at Chapter 003 (Ref: 1.1.1.003):** a mine's file of wagons carries a banner of two cloths side by side from one crosspiece on the last wagon's pole, "the cultivators' sigil on the left cloth and the makers' sigil on the right", "as every guild crew and household in the kingdom hung theirs". After the raid of 1246.12.8 / PD -19 one cloth is gone (the cultivators' cloth lay in the ditch) and the makers' cloth alone hangs, and the page reads it as mourning: "one cloth hung at a door meant a death in the house", a custom "every child in the kingdom knew ... before it knew its letters", and Grand Marshal Ossian Kade says "this kingdom takes one cloth for mourning". The page's words for the two sides are "cultivators' sigil" and "makers' sigil". The reading as dissent is not shown on the page.
+
+### 5.5 — Cultivation Profile
+
+Cultivation is institutionalized through three named academies, each serving a different stage of progression: **Sapphire Ascent Academy** (primary foundation school, located in the Sapphire Basin capital — admits the kingdom's most promising early-stage cultivators for foundational training), **Lyraen Heights Academy** (middle academy, located on the Windward Reach near the Lyraen headwaters — focuses on the mid-tier ascent through the middle realms below the Saha planetary cap), and **Windward Reach Academy** (apex academy, located at the kingdom's highest monastic altitude — houses the senior cultivation masters and conducts the capped practice permitted on Saha, up to Absolute God Level 8 High, the Saha planetary cap; Phase 1 narrative ceiling Ruler Level 9 early; the Firmament Lock value is the system ceiling only). **Pointer, 2026-10-17 (Author ruling, 2026-10-17):** the three academies stand under the Nine Halls (`ledger-people-society-faction/nine-halls.md` §6.1a), and Sapphire Ascent Academy keeps a head of its own, its **Headmaster**, who is Grandmaster Yun Ashvale herself; its foundation yard has a location file (`sapphire-ascent-foundation-yard.md`). The facts live in those files and are not copied here. **Shown at Chapter 004 (Ref: 1.1.1.004), Area block 02:** "This was Sapphire Ascent Academy, the first of the kingdom's three, and above it stood the Nine Halls, which her mother said were the roof over all of them." The other two academies are not named on the page. The intake of the morning of PD 8 (1247.1.8) is "forty-one children who had not woken to qi".
+
+The kingdom's cultivation ethos is **breadth-before-dominance** — no single affinity is officially privileged, and dual-affinity cultivators (such as the reigning monarchs) are held as the ideal. This sets Azure Sky apart from single-affinity kingdoms (such as Gale's wind-dominance).
+
+### 5.6 — Technology Profile
+
+The kingdom's technology tier is recorded in `ledger-worlds-kingdom-state/azure-sky-kingdom.md` §2 (Part 8; Firmament Lock ceiling Tier 6). Technology is organized through three named guilds: the **Lyraen Engineering Guild** (civil infrastructure, transport, and structural works — headquartered on the Riverside March), the **Azure Crafters' Concord** (weapons, armor, and dual-purpose combat implements — headquartered in the Sapphire Basin capital), and the **Skylight Analytic Hall** (measurement, communication, and sensor arrays — headquartered at the Windward Reach, co-located with the academy).
+
+Signature canonical technologies:
+- **The Paired Forges** — twin-furnace metallurgy producing blue-steel alloys that accept both cultivation inscription and technology lamination; the kingdom's premier export.
+- **The Windweaver Apparatus** — Windward Reach high-altitude wind-cultivation amplifier used for long-range aerostatic observation along the Northern Accord frontier.
+
+### 5.7 — Ambient Energy Class (Part 13 Area 2.3)
+
+**Class 3–4 Mixed-Ambient** — the kingdom carries a mid-tier ambient energy baseline with distinctive mixed-affinity character (no single affinity dominates the ambient field). This is consistent with the dual-track civilizational profile and is a canonical explanation for why both tracks flourish here: neither is starved for ambient supply, neither is so saturated as to eclipse the other.
+
+### 5.8 — Notable Landmarks
+
+- **Twin Oath Shrine** — the foundational ritual site in the Sapphire Basin capital where Theron the Twinned swore the original oath; venue of the annual re-swearing; a paired stone circle (one black basalt for cultivation, one white marble for technology) set around a central reconciliation altar.
+- **Sapphire Basin** — the central agricultural-urban heartland named for the kingdom's sapphire-flecked bedrock; the capital, **Azorion**, sits at its center (cross-ref: azorion.md).
+- **Paired Banners Plaza** — the capital's ceremonial plaza where the kingdom's paired sigils are raised on state days; the plaza is flanked by the two audience halls of the Royal Palace of Twin Courts.
+- **Ember Reach Boundary Towers** — a line of paired watch-towers along the western volcanic ridge, garrisoned by joint cultivation–technology crews who monitor the frontier with the Ember Reach.
+- **Royal Palace of Twin Courts** — the royal seat described in §5.3.
+- **Azure Sky Annals** — the kingdom's master liturgical record (pre-prose institutional reference). Detailed custodianship, rare-form entries, and specific liturgical instruments (including the Ceremonial Form for Declaring Both) are reserved for authored prose.
+- **The Azor** — the river on which Azorion stands, a tributary of the Lyraen (`[ASKED]` Author ruling, 2026-10-18 (map consultation); cross-ref: azor-river.md).
+
+### 5.9 — Diplomatic Posture
+
+The kingdom is a signatory to the **Northern Accord** — the primary canonical treaty with the Gale Kingdom (see gale-kingdom.md §5.9) covering combined patrol of the Windward Range passes, mutual right of asylum, customs-sharing on the Lyraen, and mutual military aid clauses against external aggressors. Varys and Aeries are the current co-signatories of record.
+
+Secondary diplomatic postures: **Border Kingdoms of the Southern March** — cordial but cautious; the Ember Reach boundary is policed rather than open. **Lyraen River Compact** — a trade-and-customs framework on the Lyraen shared with Gale and the Lyraen-bordering southern kingdoms (specific boundary geography and Compact port names reserved for authored prose). **Moon Sect relations** — see §5.13. **[P30-L8: Phase 1 Forbidden Entity — ledger reference only; not activatable in Phase 1 prose.]**
+
+### 5.10 — Population
+
+Population is in the low-to-mid tens of millions — an estimate consistent with a Balanced Kingdom on a Nine Suns sub-world footprint. Concentration is heaviest in the Sapphire Basin (capital region ~30% of population), moderate in the Lyraen Riverside March (trade corridors, ~25%), lighter in the Windward Reach (academy and monastic populations, ~15%), and distributed across the agricultural hinterland (~20%) and the Tide March (fishing, salt, the shipwrights' yards and the fleet's port, ~10%).
+
+### 5.11 — Economy
+
+Principal exports: **blue-steel weapons and armor** (Paired Forge output, highly regarded for their dual-inscription compatibility), **precision signaling and navigation instruments** (Skylight Analytic Hall output, used in long-range signaling and navigation across the continent), **trained dual-track artisans** (rare in single-track kingdoms; Azure Sky apprentices command premium apprentice-fees abroad), **Lyraen basin grain** (surplus staple), and **sea salt** from the Saltmarsh pans (the one sea export, carried out of Saltmarsh by coastal hull).
+
+Principal imports: wind-affinity cultivation raw materials (from Gale), exotic cultivation ingredients (from Moon Sect territories — **ledger reference only; source may not be named in Phase 1 prose per Part 30 P30-L8**), specialized metallurgical ores not native to the Sapphire Basin.
+
+Named trade routes: the **Sapphire Road** (capital to Gale via the Lyraen crossings), the **Southern March Trail** (capital to the Southern March), and the **Riverway** (Lyraen river-barge trade south).
+
+**The fleet's upkeep.** The standing war fleet that winters at Farrowharbor is kept from the Crown's treasury, through the Chancellor: a fixed yearly share of the blue-steel export levy is set aside for it, and the harbor and salt dues of the Tide March are added. The fleet's own structure is held in `azure-sky-military.md` and is not repeated here. This names where the money comes from. It gives no reason for the late coastal pay, which has none (`farrowharbor.md` and `saltmarsh.md`, open item 3).
+
+### 5.12 — Architectural and Sensory Signature
+
+Azure Sky's architectural grammar: paired structures; polished blue-flecked Sapphire Basin stone as facing masonry; azure roof tiling; paired inscription bands (one cultivation-script, one technology-schematic) at every formal threshold. Ambient sensory signature: the morning toll of paired temple bells (one brass, one resonant alloy); the smell of dual-flux solder from the Paired Forges in the industrial quarter; the paired banners snapping in the wind from every state building. This signature is present at street level in the capital, Azorion (cross-ref: azorion.md §5.12).
+
+### 5.13 — Open Questions and Legacy Weight
+
+- **The fate of Theron the Twinned** — the founding sovereign's departure is unresolved in the royal annals; Theron's trajectory and whether they still live in some form is a live legacy-weight hook.
+- **Moon Sect delegations** — which of the three Moon Sects (Fallen, Full, Dark) the kingdom currently receives, tolerates, or refuses delegations from is to be determined in prose; the kingdom's paired-duality ethos reads the Fallen and Dark sects as ideologically dangerous but not the Full. **[Phase 2+ to establish per Part 30 Law P30-L8 — Moon Sects are Phase 1 Forbidden Entities; this hook may not be activated in Phase 1 prose. The kingdom's Moon Sect posture is a world-background fact retained here as a reference but may not surface in Phase 1 authored prose.]**
+- **Royal marriage-bond status of Princess Varya** — unset; narratively reserved hook.
+- **The southern coast** — the Tide March (§5.1; population in §5.10; sea export and fleet upkeep in §5.11). The sea it faces is the Southern Sea (`[ASKED]` ruling of 2026-10-18, §5.1). Its extent, any port beyond Farrowharbor and Saltmarsh, and its distance from Azorion are not established (OPEN-AREA).
+
+### 5.14 — Climate and Seasonal Texture (axis 13; Part 13 Area 27)
+
+**The kingdom.** The kingdom occupies a temperate highland plateau (§5.1). Its climate belt, its seasons (number, names, order, length), its storm, wind, rain and drought regimes and the way the seasons govern roads, passes and shipping are **not established** (Part 13 Area 27.2 reads not yet established, author) and stay open for the author (OPEN-AUTHOR). A zone does not inherit a figure from this paragraph.
+
+**The Windward Reach** (the northern highland: cultivation academies, monasteries and summer retreats, §5.1). *Established:* it is stepped highland rising toward the Windward Range (§5.1); its upper edge lies above the treeline at the Twinpost, where the road from the Windward Pass begins its descent (`twinpost.md`); the Lyraen headwaters lie in the Windward Range above it; and the air above the passes can be read by experienced cultivators for weather prediction (`windward-range.md`). *Not established:* which months are cold, when snow or cloud closes the pass, how the descent road fares in rain or winter, and the wind regime (OPEN-AREA; a fact a scene establishes is recorded here and holds, Part 13 Area 27.3).
+
+**Azorion** (the capital; the facts live in `azorion.md` §5.14 and are not copied here). *Established* in Area 01 (Ref: 1.1.1.001.01): the in-world season names are Spring, Summer, Autumn and Winter, set for Azorion on 2026-10-05, and the first morning of the year there is a spring morning. *Not established:* whether the kingdom as a whole uses the same names; the kingdom-wide values above stay open for the author (OPEN-AUTHOR).
+
+**Greenhollow Cross** (the border village; the facts live in `greenhollow-cross.md` §5.10 and are not copied here). *Established* by the author on 2026-10-07 (Chapter Spec 1.1.1.002, Settled): the village's in-world season names are Spring, Summer, Autumn and Winter, the same four plain words as for Azorion. *Not established:* whether the kingdom as a whole uses the same names; the kingdom-wide values above stay open for the author (OPEN-AUTHOR).
+
+**The lower road and the Court** (the road's facts live in `lower-road.md` §5.8 and `skyvein-forest.md` §5.10 and are not copied here; the Court's morning is in §5.16 below). *Established* at Chapter 003 (Ref: 1.1.1.003): the evening of 1246.12.8 / PD -19 (Ulenor, Day 8) is "a winter evening" with early, hard frost on the lower road. On the morning of 1247.1.2 / PD 2 (Ilovany, Day 2) the Court's yard door lets the cold in with a smell of wet horse, and a night frost has iced the slope below the ferry landing, which was sanded before noon. *Not established:* whether the kingdom as a whole has frost at these dates, how long the cold lasts, and the kingdom-wide values above, which stay open for the author (OPEN-AUTHOR).
+
+### 5.15 — Hazards and Dangers to a Visitor (axis 14)
+
+**The kingdom.** *Established:* the northern frontier is patrolled together under the Northern Accord and the western ridge carries a line of watch-towers (§5.8, §5.9), so a visitor to either frontier meets a patrolled or garrisoned line. No kingdom-wide danger to a visitor is otherwise on record.
+
+**The Windward Reach.** *Established:* the Reach is highland above the Sapphire Basin, reached from the pass by a descent road that begins above the treeline, and the cold at its upper edge is on record (`twinpost.md`); the frontier above it is under combined patrol (`windward-pass.md`). *Not established:* any beast, storm, fall, slide, sickness from altitude or from ambient energy, bandit or other danger to a visitor (OPEN-AREA).
+
+**The lower road** (the facts live in `lower-road.md` §5.7 and are not copied here). *Established* at Chapter 003 (Ref: 1.1.1.003): a mine's file of wagons on the lower road was taken at the narrow by a company of about twenty Warriors in plain coats on 1246.12.8 / PD -19, and after it the post on that road is doubled, so a visitor on the stretch from the lower ford to the last toll-house meets a patrolled road. *Not established:* any danger elsewhere in the kingdom.
+
+### 5.16 — Places Named by the Court's Business, 1247.1.2 / PD 2 (axis 12)
+
+Named in the Court's hall on the morning of 1247.1.2 / PD 2 (Ref: 1.1.1.003), in the words of the people who speak of them. None is shown as a scene, none is placed in the kingdom, and every item is a first-use fact and an instance, never a custom. The registry rows of `_index.md` for the kingdom hospital, the ferry landing and the hay market gate point here.
+
+- **The kingdom hospital.** Where Ansel Roke lies "alive ... and badly cut" (the healers there "will not yet say whether he stays that way") and where the mine's clerk, Perrin Lisle, "died in the hospital in the night" and "talked of a boy at home" (Bastion Crowe's report). Grand Marshal Kade sat with Roke there and heard his account from the beginning; "the healers closed the cut in the first week, and the wound has not taken to mending since". It has healers. The page gives no description of the building, no proper name beyond "the kingdom hospital" and no place in the kingdom. **Update, 2026-10-17 (Author ruling, 2026-10-17; Chapter Spec 1.1.1.004, Settled):** from this ruling the kingdom hospital is the **ward of Aster House**, a faction of its own (`ledger-people-society-faction/aster-house.md`), which Queen Valia leads directly as Healer Prime of Azorion; its siting inside Azorion is OPEN-AUTHOR. The facts of the house live in that file and are not copied here, and the registry row of `_index.md` for the kingdom hospital points there as well. The words of Chapter 003 stay true as a descriptor and are history.
+  - **Collective Behavior Code (Part 39 Layer L19) (B/L) — pointer, for the kingdom hospital only.** **Code Status:** Registered 2026-10-17 — inherited from the one block of the faction file `ledger-people-society-faction/aster-house.md` (Collective Behavior Code, Registered 2026-10-17); the kingdom hospital is the ward of that house and takes no block of its own (Part 39 Rule 39.23.1.5, registered at the author's ruling of 2026-10-17 before Chapter Spec 1.1.1.004 is drafted). The members bound, the shared conduct (**the healers give no verdict on a patient's outcome until they hold one**, the author's line) and the registered deviations are that block's and are not restated here. This pointer gives the kingdom as a whole no location-form code.
+  - **Shown at Chapter 004 (Ref: 1.1.1.004), Area block 01 (1247.1.2 / PD 2, afternoon to dusk), in Varya's view: the house and the ward.** "Aster House, the kingdom's hospital, was a long, low building of grey stone with two doors, each under its two carved bands." Inside, "the noise of the road stopped as if a lid had been laid on it." The first room holds a healer tilting a glass pipe against the window to watch a bead of clear stuff creep along it, while her other palm shines faintly over a smith's burnt forearm ("Nobody explained either one"). A young healer waits at the inner door. The ward "ran the length of the building, six windows on one side laying the afternoon across the floor in gold bars", with eight beds, three with men in them and the fourth made up and empty; the worst-hurt man lies at the window end, where the young healer draws the screens; a bench stands by the door, at the door end of the ward. The queen calls it "a house on the far side of the hill", and the children reach it on foot through the capital from the school ("four corners to the broad street"); its exact siting inside Azorion stays OPEN-AUTHOR (`azorion.md` §5.13). The house's people and conduct live in `aster-house.md` and are not copied here.
+- **The ferry landing and the east road.** A rider has come in by the east road ("Give me the east road, Rider, and only what you saw yourself"). On the morning of 1247.1.2 / PD 2 the road "is open as far as the ferry landing, though the slope below it is iced and will have sand on it by noon, and a loaded cart lies on its side there with its carter's leg broken". The carter is carried "up from the landing" and lies later "in the Guard's infirmary with his leg set"; the landing was "sanded well ahead of noon" and the cart was raised; the Court's Marshal-Lieutenant recommends that the sand stay on the landing through the next day, "because the night frost has not finished with it". Three inns stand on the east road, at each of which, in her answer to the closing question, a rider would be asleep in his boots. A ferry fare was among the three notices that came in on the new wire that morning. Where the landing is, what water it serves and how far down the east road it lies are not established.
+- **The hay market gate.** A gate at the hay market whose bar "comes down at dusk on a rope, with the old stone hanging at the other end to hold it back"; the old stone cracked in the autumn and the smiths hung a bag of sand in its place, "and now the bar comes down like a dropped plate". On Sanvil (the last one before that day) it took the pole off a hay cart a hand's breadth from the carter's head. Its keeper is Amos Hartley, whose father kept the gate before him; he petitions the Queen to tie the bar up open. The ruling: the old stone goes back on the rope that night; a maker from the Iron Dawn will fit a brake on Mirovil, two days on; the order for it will be under ink and wax before the noon bell; until then the keeper rings the gate bell twice before he lets the bar go. Where the market is and which town it is in are not established.
+- **Named in passing, not described.** The mill gate, whose axle "has been mended"; the Guard's infirmary, where the carter lies, and the Guard's quartermaster, who has taken the rider's left boot to the cobbler; the east shed and the old hoist behind it, which let a crate of lamp oil go off its hook that morning and tore a yard worker's palm, and the new catch that "every hoist in the yard" is to have, fitted to the last of the hoists before the second bell (the yard worker Merrin Oakes and the Grand Artificer Bramwell Cog, speaking in the Court's hall). The text names them without describing them; none is entered as a place of its own.
+
+**Not established:** the town, quarter or district for any of these places, and whether the Court's yard and the yard of the hoists are one (OPEN-AREA). *Update (Chapter 004, Ref: 1.1.1.004): the kingdom hospital is the ward of Aster House, placed in Azorion by the author's ruling of 2026-10-17 and reached on the page by a walk "through the afternoon capital"; the siting inside the city stays OPEN-AUTHOR. The ferry landing and the hay market gate stay unplaced.*
+
+---
+
+
+
+
+

@@ -1,0 +1,9 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ELI-HRT-002-02,Ranked Blow,Timed Blow,INSTANT,Warrior L1 Low,Basic
+CMV-ELI-HRT-002-03,Rank Reading,Comrade Reading,INSTANT,Warrior L1 Low,Basic
+CMV-ELI-HRT-002-05,Rank Mending,Fatigue Mending,CHANNELED,Warrior L1 Low,Intermediate
+CMV-ELI-HRT-002-06,Steady Rank,Steady Shoulders,CHANNELED,Warrior L1 Low,Intermediate
+CMV-ELI-HRT-002-09,Embolden Rank,Lent Firmness,CHANNELED,Champion L1 Low,Advanced
+CMV-ELI-HRT-002-10,Rank Aegis,Fellow Aegis,CHANNELED,Demigod L1 Low,Elite
+CMV-ELI-HRT-010-08,Peak Surge,Height Surge,INSTANT,,Advanced
+CMV-ELI-HRT-010-10,Peak Tempest,Full Tempest,CAST,,Elite

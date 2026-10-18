@@ -1,0 +1,6 @@
+move_id,old_name,new_name,form,naming_level,tier
+CMV-ADV-BLD-005-06,Pairstep,Pairshift,INSTANT,Warrior L1 Low,Basic
+CMV-ADV-BLD-006-02,Hawkstoop,Stoop Dive,INSTANT,Warrior L1 Low,Basic
+CMV-ADV-BLD-007-04,Vowguard,Oathward,INSTANT,Warrior L1 Low,Basic
+CMV-ADV-BLD-007-08,Vowseal,Pledge Brand,CHANNELED,Champion L1 Low,Advanced
+CMV-ADV-BLD-009-05,Bearingsense,Bulk Sense,CHANNELED,Warrior L1 Low,Basic

@@ -1,0 +1,64 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-MAU-001-01,Maul Double Drop,Beetleflog,F4,Senior,A
+MV-INT-MAU-001-02,Reversed Haft Poke,Bold Flatten,F1,Senior,A
+MV-INT-MAU-001-03,Open-Palm Slide Guard,Malletbarrier,F4,Senior,A
+MV-INT-MAU-001-04,Weight-Following Step,Scudding Sledgeface,F1,Senior,A
+MV-INT-MAU-001-05,Three-Count Maul Chain,Sledgethwack,F4,Senior,A
+MV-INT-MAU-001-06,Lifted-Arm Shake-Loose,Tethering Wedgeface,F1,Senior,A
+MV-INT-MAU-002-01,Plate-Seam Hammer Drop,Dollythwack,F4,Senior,A
+MV-INT-MAU-002-02,Padded Guard Pounding,Ruthless Squash,F1,Senior,A
+MV-INT-MAU-002-03,Shoulder-Charge Pry,Malletprop,F4,Senior,A
+MV-INT-MAU-002-04,Armor-Edge Parry,Resolute Ironband,F1,Senior,A
+MV-INT-MAU-002-05,Closing Stomp Entry,Springing Pommelweight,F1,Senior,A
+MV-INT-MAU-002-06,Breaking-Plate Qi Press,Keen Pulverize,F1,Senior,A
+MV-INT-MAU-002-07,Rivet-Shear Snap,Grim Heavyhelve,F1,Senior,A
+MV-INT-MAU-003-01,Shoulder-Roll Maul Cut,Fierce Mallethead,F1,Senior,A
+MV-INT-MAU-003-02,Wrist-Turn Hook Strike,Thudslap,F4,Senior,A
+MV-INT-MAU-003-03,Rolling Haft Block,Stalwart Endcap,F1,Senior,A
+MV-INT-MAU-003-04,Overhead Wheel Return,Squashthwack,F4,Senior,A
+MV-INT-MAU-003-05,Neck-Cradle Sidestep,Ducking Maulhead,F1,Senior,A
+MV-INT-MAU-003-06,Under-Arm Roll Escape,Quakecurl,F4,Senior,A
+MV-INT-MAU-003-07,Unbroken Wheel Barrage,Ruthless Thud,F1,Senior,A
+MV-INT-MAU-003-08,Spinning Haft Wrench,Entangling Maulbutt,F1,Senior,A
+MV-INT-MAU-004-01,Long-Haft Cover,Shardmallet,F5,Warrior,B
+MV-INT-MAU-004-02,Haft Quarter-Turn Block,Ironband Hasp,F3,Warrior,B
+MV-INT-MAU-004-03,Head-Down Ground Guard,Shelter Gripbulge,F2,Warrior,B
+MV-INT-MAU-004-04,Spear-Shaft Lever,Humbeetle,F5,Warrior,B
+MV-INT-MAU-004-05,Guard-to-Drop Answer,Brawn Quake,F2,Warrior,B
+MV-INT-MAU-004-06,Retreating Haft Weave,Pirouetting Sledge,F1,Warrior,B
+MV-INT-MAU-004-07,Qi-Stiffened Haft Screen,Shelter Maulbutt,F2,Warrior,B
+MV-INT-MAU-004-08,Wrist-Hook Haft Pull,Gall Quake,F2,Warrior,B
+MV-INT-MAU-004-09,Stored-Guard Reply,Rude Flatten,F1,Warrior,B
+MV-INT-MAU-005-01,Floor-Up Maul Lift,Brass Heavyhelve,F2,Warrior,B
+MV-INT-MAU-005-02,Planted Foot Fall,Brass Sledgeface,F2,Warrior,B
+MV-INT-MAU-005-03,Ground-Drag Sidestep,Brawn Pommelweight,F2,Warrior,B
+MV-INT-MAU-005-04,Low-Head Barrier,Brass Maulhead,F2,Warrior,B
+MV-INT-MAU-005-05,Heel-Grind Pivot,Gritmallet,F5,Warrior,B
+MV-INT-MAU-005-06,Ground-Bounce Strike,Rough Pulverize,F1,Warrior,B
+MV-INT-MAU-005-07,Advancing Heave Rush,Squashslap,F4,Warrior,B
+MV-INT-MAU-006-01,Course Overstroke,Crimson Sledge,F2,Warrior,B
+MV-INT-MAU-006-02,Sweep and Return,Draught Gripbulge,F2,Warrior,B
+MV-INT-MAU-006-03,Haft Course Parry,Hazebeetle,F5,Warrior,B
+MV-INT-MAU-006-04,Shuffle-Close Entry,Clay Thud,F2,Warrior,B
+MV-INT-MAU-006-05,Butt-End Course Strike,Dire Mallethead,F1,Warrior,B
+MV-INT-MAU-006-06,Cross-Haft Pin,Discord Squash,F2,Warrior,B
+MV-INT-MAU-006-07,Covering Recovery Stance,Shard Wedgeface,F2,Warrior,B
+MV-INT-MAU-006-08,Qi-Forced Course Fall,Fierce Quake,F1,Warrior,B
+MV-INT-MAU-006-09,Cross-Haft Counter Blow,Quakescorer,F4,Warrior,B
+MV-INT-MAU-006-10,Ladder of Maul Blows,Clay Gripbulge,F2,Warrior,B
+MV-INT-MAU-007-01,Exhale-Weighted Maul Fall,Heavyhelve Scorer,F3,Warrior,B
+MV-INT-MAU-007-02,Inhale-Lift Recovery,Quickening Pommelweight,F1,Warrior,B
+MV-INT-MAU-007-03,Weight-Sink Stance,Regimen Wedgeface,F2,Warrior,B
+MV-INT-MAU-007-04,Breath-Matched Walk,Malletcurl,F4,Warrior,B
+MV-INT-MAU-007-05,Slow-Count Haft Sweep,Cruel Squash,F1,Warrior,B
+MV-INT-MAU-007-06,Held-Breath Feint,Recallsledge,F5,Warrior,B
+MV-INT-MAU-007-07,Long-Breath Swing Cycle,Ember Maulbutt,F2,Warrior,B
+MV-INT-MAU-007-08,Belly-Qi Pour Fall,Brawnmallet,F5,Warrior,B
+MV-INT-MAU-008-01,Wobble-Knee Blow,Static Maulhead,F2,Warrior,B
+MV-INT-MAU-008-02,Helm-Ringing Flat Slap,Dollybuckle,F4,Warrior,B
+MV-INT-MAU-008-03,Counter-Stagger Guard,Buttressed Endcap,F1,Warrior,B
+MV-INT-MAU-008-04,Rocking Back Step,Rill Sledge,F2,Warrior,B
+MV-INT-MAU-008-05,Guard-Opening Tap,Hum Pulverize,F2,Warrior,B
+MV-INT-MAU-008-06,Chained Stagger Rhythm,Raw Ironband,F1,Warrior,B
+MV-INT-MAU-004-03,Shelter Gripbulge,Sturdy Gripbulge,F2,Warrior,B
+MV-INT-MAU-004-07,Shelter Maulbutt,Solid Maulbutt,F2,Warrior,B

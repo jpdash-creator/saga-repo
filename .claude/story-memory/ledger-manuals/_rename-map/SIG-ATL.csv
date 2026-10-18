@@ -1,0 +1,141 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-ATL-001-01,Twin-Board Gripping,Gracious Handgrip,F1,Warrior,B
+MV-SIG-ATL-001-02,Parallel Draw Back,Parity Cupend,F2,Warrior,B
+MV-SIG-ATL-001-03,Shoulder-Width Level Release,Spurcrown,F4,Warrior,B
+MV-SIG-ATL-001-04,Left-First Alternation,Valiant Whipover,F1,Warrior,B
+MV-SIG-ATL-001-05,Crossed-Arm Catch,Unwavering Spurhook,F1,Warrior,B
+MV-SIG-ATL-001-06,Alternating-Foot Closing,Extendsolace,F4,Warrior,B
+MV-SIG-ATL-001-07,Scissoring Cast Pair,Radiance Propel,F2,Champion,B
+MV-SIG-ATL-001-08,Parallel-Track Barrage,Triumphant Throwlever,F1,Champion,B
+MV-SIG-ATL-001-09,Twin-Track Hawk Pierce,Illustrious Overarm,F1,Demigod,B
+MV-SIG-ATL-001-10,Azure Twin-Dart Descent,Matchless Pulsar Throwlever,F6a,Warrior,B
+MV-SIG-ATL-002-01,Cry-and-Breath Pairing,Vigorcup,F5,Warrior,B
+MV-SIG-ATL-002-02,Rim Perch Settling,Sainted Atlshaft,F1,Warrior,B
+MV-SIG-ATL-002-03,Eye-Line Marking,Peal Dartshaft,F2,Warrior,B
+MV-SIG-ATL-002-04,Last-Note Cast,Cupverdict,F4,Warrior,B
+MV-SIG-ATL-002-05,Startling Cry Dart,Despotic Whipover,F1,Warrior,B
+MV-SIG-ATL-002-06,Basin Echo Cast,Thunderclap Extend,F2,Warrior,B
+MV-SIG-ATL-002-07,Hawk-Radius Circling,Windborne Weightstone,F1,Warrior,B
+MV-SIG-ATL-002-08,Cry-Covered Reload,Merciful Flexshaft,F1,Warrior,B
+MV-SIG-ATL-002-09,Cry-Split Pair,Gallant Leverage,F1,Champion,B
+MV-SIG-ATL-002-10,Rising Shriek Barrage,Millstone Overarm,F2,Champion,B
+MV-SIG-ATL-002-11,Basin-Court Hawk Dive,Propeldecree,F4,Demigod,B
+MV-SIG-ATL-002-12,Hawk-Cry Cast of the Basin Court,Extendbanner,F4,Warrior,B
+MV-SIG-ATL-003-01,Reed Bed Stalking,Spectral Throwstick,F1,Champion,B
+MV-SIG-ATL-003-02,Rustle-Timed Footfall,Luminous Handgrip,F1,Champion,B
+MV-SIG-ATL-003-03,Reed-Gap Cast,Squall Throwlever,F2,Champion,B
+MV-SIG-ATL-003-04,Stem-Parting Throw,Royal Propel,F1,Champion,B
+MV-SIG-ATL-003-05,Water-Skimming Skip,Prismpropel,F5,Champion,B
+MV-SIG-ATL-003-06,Drift-Cover Withdrawal,Dune Flexshaft,F2,Champion,B
+MV-SIG-ATL-003-07,Reed-Tip Reading,Tranquil Dartshaft,F1,Champion,B
+MV-SIG-ATL-003-08,Rising Reed Ambush,Steel Whipover,F2,Champion,B
+MV-SIG-ATL-003-09,Bog-Pinning Dart,Subjugating Cupend,F1,Champion,B
+MV-SIG-ATL-003-10,Heron-Strike from the Reeds,Propeledict,F4,Demigod,B
+MV-SIG-ATL-003-11,River-Reed Silent Dart,Heroic Squall Whipover,F6a,Champion,B
+MV-SIG-ATL-004-01,Paired Hand Balancing,Hospitable Gripbinding,F1,Ruler,B
+MV-SIG-ATL-004-02,Sky-Facing Stance,Prismcup,F5,Ruler,B
+MV-SIG-ATL-004-03,Matched Release Pace,Famed Overarm,F1,Ruler,B
+MV-SIG-ATL-004-04,Hand-Exchanging Cast,Noble Extend,F1,Ruler,B
+MV-SIG-ATL-004-05,Overhead Pair Lob,Throwstick Banner,F3,Ruler,B
+MV-SIG-ATL-004-06,Paired Sky Parry,Faithful Throwstick,F1,Ruler,B
+MV-SIG-ATL-004-07,Paired Sleeve Pinning,Thrall Whipover,F2,Ruler,B
+MV-SIG-ATL-004-08,Sky-Fall Pair Volley,Spurtriumph,F4,Ruler,B
+MV-SIG-ATL-004-09,Paired Hands Overwhelm,Dauntless Weightstone,F1,Demigod,B
+MV-SIG-ATL-004-10,Azure Paired-Hand Measure,Cupendverdict,F4,Ruler,B
+MV-SIG-ATL-005-01,Arc Vision Training,Sphere Gripbinding,F2,Demigod,B
+MV-SIG-ATL-005-02,Field-Seated Spur Dart,Bountiful Spurhook,F1,Demigod,B
+MV-SIG-ATL-005-03,Even-Weight Stance,Revered Cupend,F1,Demigod,B
+MV-SIG-ATL-005-04,Clean Arc Release,Propelbanner,F4,Demigod,B
+MV-SIG-ATL-005-05,Rising Arc Climb,Intrepid Throwlever,F1,Demigod,B
+MV-SIG-ATL-005-06,Flat Arc Pass,Fearless Whipover,F1,Demigod,B
+MV-SIG-ATL-005-07,Mid-Arc Correction,Clement Fingerhooks,F1,Demigod,B
+MV-SIG-ATL-005-08,Under-the-Arc Step,Squall Overarm,F2,Demigod,B
+MV-SIG-ATL-005-09,Azure Curve Cast,Lordly Extend,F1,Demigod,B
+MV-SIG-ATL-005-10,Arc-Stacked Volley,Symphonic Leverage,F1,Demigod,B
+MV-SIG-ATL-005-11,Azure Arc Piercing,Pulsarspur,F5,Demigod,B
+MV-SIG-ATL-005-12,Great Azure Arc Cast,Majestic Overarm Triumph,F6b,Demigod,B
+MV-SIG-ATL-006-01,Core-Warmed Palm,Kernel Handgrip,F2,Core Formation,B
+MV-SIG-ATL-006-02,Twin Horizon Watching,Wise Dartshaft,F1,Core Formation,B
+MV-SIG-ATL-006-03,Core-Steady Cast,Storied Propel,F1,Core Formation,B
+MV-SIG-ATL-006-04,Core Pulse Release,Cupdecree,F4,Core Formation,B
+MV-SIG-ATL-006-05,Near-Far Pair,Paramount Whipover,F1,Core Formation,B
+MV-SIG-ATL-006-06,Horizon-Line Walk,Cupendvoyage,F4,Core Formation,B
+MV-SIG-ATL-006-07,Core-Sense Sweep,Nucleus Weightstone,F2,Core Formation,B
+MV-SIG-ATL-006-08,Twin Horizon Cast,Exalted Throwlever,F1,Core Formation,B
+MV-SIG-ATL-006-09,Core Dart Piercing,Quenched Overarm,F2,Core Formation,B
+MV-SIG-ATL-006-10,Core Hawk's Long Stoop,Spuredict,F4,Core Formation,B
+MV-SIG-ATL-006-11,Twin Horizon Core Cast,Solarextend,F5,Core Formation,B
+MV-SIG-ATL-007-01,First Oath Speaking,Nurturing Spurhook,F1,Warrior,B
+MV-SIG-ATL-007-02,Plateau Stance Rooting,Consecrated Dartshaft,F1,Warrior,B
+MV-SIG-ATL-007-03,Bearing-Taking Cast,Sovereign Atlshaft,F1,Warrior,B
+MV-SIG-ATL-007-04,Wind-Lean Cast,Extendverdict,F4,Warrior,B
+MV-SIG-ATL-007-05,Oath Reloading Rhythm,Vigor Throwstick,F2,Warrior,B
+MV-SIG-ATL-007-06,Down-Wind Slide,Skyborne Handgrip,F1,Warrior,B
+MV-SIG-ATL-007-07,Landmark Bearing Check,Cupmercy,F4,Warrior,B
+MV-SIG-ATL-007-08,Oath-Nailed Foe,Commanding Flexshaft,F1,Champion,B
+MV-SIG-ATL-007-09,Plateau Gale Volley,Deluge Propel,F2,Champion,B
+MV-SIG-ATL-007-10,Oathsworn Piercing Dart,Splendid Gripbinding,F1,Demigod,B
+MV-SIG-ATL-007-11,Plateau First-Oath Cast,Sovereign Season Leverage,F6a,Warrior,B
+MV-SIG-ATL-008-01,Clear Earth Footing,Bedrock Spurhook,F2,Warrior,B
+MV-SIG-ATL-008-02,Wind-Sworn Gaze,Serene Handgrip,F1,Warrior,B
+MV-SIG-ATL-008-03,Swift Level Cast,Cupedict,F4,Warrior,B
+MV-SIG-ATL-008-04,Charge-Meeting Cast,Majestic Leverage,F1,Warrior,B
+MV-SIG-ATL-008-05,Tenth-Step Retreat,Spurgrace,F4,Warrior,B
+MV-SIG-ATL-008-06,Dust-Line Reading,Interstice Gripbinding,F2,Warrior,B
+MV-SIG-ATL-008-07,Charging Line Breaker,Magnificent Throwlever,F1,Champion,B
+MV-SIG-ATL-008-08,Last-Stood Counter-Volley,Orchestral Whipover,F1,Champion,B
+MV-SIG-ATL-008-09,Sworn-to-the-Wind Dart,Propelcrown,F4,Demigod,B
+MV-SIG-ATL-008-10,Open-Ground Wind-Sworn Cast,Extendtriumph,F4,Warrior,B
+MV-SIG-ATL-009-01,Gale-Facing Lean,Undefiled Weightstone,F1,Champion,B
+MV-SIG-ATL-009-02,Bearing Anchor Word,Bountiful Dartshaft,F1,Champion,B
+MV-SIG-ATL-009-03,Hunched Reload,Cupgift,F4,Champion,B
+MV-SIG-ATL-009-04,Gale-Hold Cast,Vaunted Propel,F1,Champion,B
+MV-SIG-ATL-009-05,Wind-Wrestling Throw,Peerless Extend,F1,Champion,B
+MV-SIG-ATL-009-06,Gust-Gap Sprint,Ethereal Cupend,F1,Champion,B
+MV-SIG-ATL-009-07,Lost Bearing Recovery,Compassionate Spurhook,F1,Champion,B
+MV-SIG-ATL-009-08,Leaning-Wind Deflection,Pallspur,F5,Champion,B
+MV-SIG-ATL-009-09,Gale-Defying Cast,Unrivaled Overarm,F1,Champion,B
+MV-SIG-ATL-009-10,Unchanged-Bearing Dart Barrage,Atlshaft Crown,F3,Champion,B
+MV-SIG-ATL-009-11,Unbent Dart Through Storm,Spurdecree,F4,Demigod,B
+MV-SIG-ATL-009-12,Gale-Held Bearing Cast,Valiant Throwlever Verdict,F6b,Champion,B
+MV-SIG-ATL-010-01,Long Stride Loading,Vigor Gripbinding,F2,Ruler,B
+MV-SIG-ATL-010-02,Far Landmark Fixing,Wise Fingerhooks,F1,Ruler,B
+MV-SIG-ATL-010-03,Full-Reach Cast,Extendcrown,F4,Ruler,B
+MV-SIG-ATL-010-04,Stride-Counted Arc,Dauntless Throwlever,F1,Ruler,B
+MV-SIG-ATL-010-05,Heavy Cast Recovery Stride,Cupboon,F4,Ruler,B
+MV-SIG-ATL-010-06,Upslope Ridge Cast,Fearless Propel,F1,Ruler,B
+MV-SIG-ATL-010-07,Far Mark Qi Line,Season Atlshaft,F2,Ruler,B
+MV-SIG-ATL-010-08,Master's Distant Pierce,Triumphant Extend,F1,Ruler,B
+MV-SIG-ATL-010-09,Successive Correction Volley,Steelpropel,F5,Ruler,B
+MV-SIG-ATL-010-10,Range-Limit Dart,Pulsar Leverage,F2,Demigod,B
+MV-SIG-ATL-010-11,Plateau Master's Long Cast,Spurbanner,F4,Ruler,B
+MV-SIG-ATL-011-01,Grass-Bend Wind Reading,Serene Gripbinding,F1,Demigod,B
+MV-SIG-ATL-011-02,Qi-Wind Linking,Penumbra Handgrip,F2,Demigod,B
+MV-SIG-ATL-011-03,Current-Borne Release,Heroic Overarm,F1,Demigod,B
+MV-SIG-ATL-011-04,Rising Wind Lift,Propelverdict,F4,Demigod,B
+MV-SIG-ATL-011-05,Wind-Ride Step,Dune Weightstone,F2,Demigod,B
+MV-SIG-ATL-011-06,Air-Threaded Dart Sense,Luminous Throwstick,F1,Demigod,B
+MV-SIG-ATL-011-07,Gust-Turned Dart,Noble Whipover,F1,Demigod,B
+MV-SIG-ATL-011-08,Single-Stream Volley,Cuptriumph,F4,Demigod,B
+MV-SIG-ATL-011-09,Wind-Borne Piercing,Steel Throwlever,F2,Demigod,B
+MV-SIG-ATL-011-10,Wind-Carried Dart Cast,Magnificent Peal Propel,F6a,Demigod,B
+MV-SIG-ATL-012-01,Core-Wind Breathing,Compassionate Cupend,F1,Core Formation,B
+MV-SIG-ATL-012-02,Core Bearing Sense,Kernel Dartshaft,F2,Core Formation,B
+MV-SIG-ATL-012-03,Rooted Core Stance,Spurpledge,F4,Core Formation,B
+MV-SIG-ATL-012-04,Core-Rooted Plain Cast,Famed Whipover,F1,Core Formation,B
+MV-SIG-ATL-012-05,Plateau Core Surge,Cupendedict,F4,Core Formation,B
+MV-SIG-ATL-012-06,Plateau Sweep Step,Soundless Atlshaft,F1,Core Formation,B
+MV-SIG-ATL-012-07,Gale Bearing Spread,Heroic Throwstick,F1,Core Formation,B
+MV-SIG-ATL-012-08,Core Weather Reading,Gracious Fingerhooks,F1,Core Formation,B
+MV-SIG-ATL-012-09,Gale-Core Barrage,Propeltriumph,F4,Core Formation,B
+MV-SIG-ATL-012-10,Plateau Shaking Sweep,Magma Overarm,F2,Core Formation,B
+MV-SIG-ATL-012-11,Core Gale Piercing,Pulsarcup,F5,Core Formation,B
+MV-SIG-ATL-012-12,Core Gale Cast of the Plateau,Cupendbanner,F4,Core Formation,B
+MV-SIG-ATL-001-10,Matchless Pulsar Throwlever,Matchless Throwlever,F6a,Warrior,B
+MV-SIG-ATL-003-06,Dune Flexshaft,Fleet Flexshaft,F2,Champion,B
+MV-SIG-ATL-003-11,Heroic Squall Whipover,Heroic Whipover,F6a,Champion,B
+MV-SIG-ATL-005-12,Majestic Overarm Triumph,Majestic Overarm,F6b,Demigod,B
+MV-SIG-ATL-007-11,Sovereign Season Leverage,Sovereign Leverage,F6a,Warrior,B
+MV-SIG-ATL-009-12,Valiant Throwlever Verdict,Valiant Throwlever,F6b,Champion,B
+MV-SIG-ATL-011-05,Dune Weightstone,Swift Weightstone,F2,Demigod,B
+MV-SIG-ATL-011-10,Magnificent Peal Propel,Magnificent Propel,F6a,Demigod,B

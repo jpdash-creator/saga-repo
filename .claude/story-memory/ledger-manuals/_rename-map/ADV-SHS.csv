@@ -1,0 +1,130 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-SHS-001-01,Recovery Beat Reading,Verity Hiltcap,F2,Champion,B
+MV-ADV-SHS-001-02,Counter Line Step,Gust Nick,F2,Champion,B
+MV-ADV-SHS-001-03,Beat Aside Cover,Murk Cutedge,F2,Champion,B
+MV-ADV-SHS-001-04,Quick Answer Stab,Poketorment,F4,Champion,B
+MV-ADV-SHS-001-05,Recovery Window Stab,Glint Stabtip,F2,Champion,B
+MV-ADV-SHS-001-06,Answer Beat Jolt,Chime Handguard,F2,Champion,B
+MV-ADV-SHS-001-07,Counter Pulse Impale,Transfixing Gore,F1,Champion,B
+MV-ADV-SHS-001-08,Cut Return Reversal,Resilient Facet Hiltcap,F6a,Champion,B
+MV-ADV-SHS-002-01,Mail Seam Study,Waning Thumbrest,F2,Champion,B
+MV-ADV-SHS-002-02,Armpit Gap Prick,Glintnick,F5,Champion,B
+MV-ADV-SHS-002-03,Visor Slit Stab,Needling Sting,F1,Champion,B
+MV-ADV-SHS-002-04,Plate Edge Slide,Annealed Cutedge,F1,Champion,B
+MV-ADV-SHS-002-05,Joint Line Wedge,Facet Poke,F2,Champion,B
+MV-ADV-SHS-002-06,Strap Cut Hook,Crippling Nick,F1,Champion,B
+MV-ADV-SHS-002-07,Helm Rim Rap,Might Hiltcap,F2,Champion,B
+MV-ADV-SHS-002-08,Seam Splitting Thrust,Gorethrash,F4,Champion,B
+MV-ADV-SHS-002-09,Gorget Ring Pierce,Tipassault,F4,Champion,B
+MV-ADV-SHS-003-01,Chest Contact Stance,Granite Hiltcap,F2,Ruler,B
+MV-ADV-SHS-003-02,Short Arm Piston,Pokethrash,F4,Ruler,B
+MV-ADV-SHS-003-03,Collar Hand Pull,Gyve Broadleaf,F2,Ruler,B
+MV-ADV-SHS-003-04,Inner Thigh Cut,Skinning Dig,F1,Ruler,B
+MV-ADV-SHS-003-05,Foot Stamp Check,Staggering Thumbrest,F1,Ruler,B
+MV-ADV-SHS-003-06,Hip Lock Twist,Manacling Stubblade,F1,Ruler,B
+MV-ADV-SHS-003-07,Deep Reach Stab,Harpooning Gore,F1,Ruler,B
+MV-ADV-SHS-003-08,Pommel Chin Drive,Drubbing Hiltcap,F1,Ruler,B
+MV-ADV-SHS-003-09,Chest Pressed Impale,Stabthrash,F4,Ruler,B
+MV-ADV-SHS-003-10,Throw Over Hip Stab,Tiered Handguard,F1,Ruler,B
+MV-ADV-SHS-004-01,Field Edge Awareness,Aura Pointcap,F2,Demigod,B
+MV-ADV-SHS-004-02,Breath Field Thrust,Nimbus Sting,F2,Demigod,B
+MV-ADV-SHS-004-03,Field Touch Parry,Aura Cutedge,F2,Demigod,B
+MV-ADV-SHS-004-04,Skin Close Step,Nimbus Poke,F2,Demigod,B
+MV-ADV-SHS-004-05,Field Guided Prick,Needling Dig,F1,Demigod,B
+MV-ADV-SHS-004-06,Close Field Guard,Enduring Stubblade,F1,Demigod,B
+MV-ADV-SHS-004-07,Field Linked Stab,Aura Stabtip,F2,Demigod,B
+MV-ADV-SHS-004-08,Overlapping Field Press,Quelling Shortspine,F1,Demigod,B
+MV-ADV-SHS-004-09,Field Edge Slip,Glancing Nick,F1,Demigod,B
+MV-ADV-SHS-004-10,Breath Pierce Close,Nickbarrage,F4,Demigod,B
+MV-ADV-SHS-004-11,Field Wrapped Guard,Mantled Broadleaf,F1,Demigod,B
+MV-ADV-SHS-005-01,Chain Opening Prick,Nickthrash,F4,Demigod,B
+MV-ADV-SHS-005-02,Chain Link Step,Digleap,F4,Demigod,B
+MV-ADV-SHS-005-03,Rolling Wrist Turn,Hardened Handguard,F1,Demigod,B
+MV-ADV-SHS-005-04,Chain Closing Stab,Nova Stab,F2,Demigod,B
+MV-ADV-SHS-005-05,Chain Recovery Poise,Staunch Cutedge,F1,Demigod,B
+MV-ADV-SHS-005-06,Chain Beat Feint,Reverie Poke,F2,Demigod,B
+MV-ADV-SHS-005-07,Linked Qi Flow,Invigorating Knobgrip,F1,Demigod,B
+MV-ADV-SHS-005-08,Parry Into Thrust,Compounding Stab,F1,Demigod,B
+MV-ADV-SHS-005-09,Relentless Short Barrage,Lambasting Stubblade,F1,Demigod,B
+MV-ADV-SHS-005-10,Chain Of Seven Points,Funneling Dig,F1,Demigod,B
+MV-ADV-SHS-005-11,Unbroken Chain Ending,Successive Hour Stabtip,F6a,Demigod,B
+MV-ADV-SHS-005-12,Chain Line Seal,Charter Thumbrest,F2,Demigod,B
+MV-ADV-SHS-006-01,Twin Hand Setup,Unbroken Stubblade,F1,Champion,B
+MV-ADV-SHS-006-02,Paired Beat Thrust,Stubtorment,F4,Champion,B
+MV-ADV-SHS-006-03,Court Step Mirror,Glancing Knobgrip,F1,Champion,B
+MV-ADV-SHS-006-04,Off Blade Catch,Immovable Cutedge,F1,Champion,B
+MV-ADV-SHS-006-05,Twin Line Pierce,Tempered Stabtip,F2,Champion,B
+MV-ADV-SHS-006-06,Court Pair Bind,Compressing Knobgrip,F1,Champion,B
+MV-ADV-SHS-006-07,Matched Qi Parry,Equipoise Thumbrest,F2,Champion,B
+MV-ADV-SHS-006-08,Twin Blade Crossing Cut,Severing Nick,F1,Champion,B
+MV-ADV-SHS-006-09,Court Pair Rotation,Alternating Poke,F1,Champion,B
+MV-ADV-SHS-007-01,Hawk Eye Short Reading,Expanse Cutedge,F2,Demigod,B
+MV-ADV-SHS-007-02,Rising Perch Step,Stabspurt,F4,Demigod,B
+MV-ADV-SHS-007-03,Stoop Starting Crouch,Steadfast Thumbrest,F1,Demigod,B
+MV-ADV-SHS-007-04,Talon Grip Stab,Might Stab,F2,Demigod,B
+MV-ADV-SHS-007-05,Hawk Pinion Beat Parry,Gust Knobgrip,F2,Demigod,B
+MV-ADV-SHS-007-06,Hawk Drop Stab,Nova Gore,F2,Demigod,B
+MV-ADV-SHS-007-07,Swoop And Climb,Soaring Poke,F1,Demigod,B
+MV-ADV-SHS-007-08,Pinion Edge Slash,Scything Cutedge,F1,Demigod,B
+MV-ADV-SHS-007-09,Azure Stoop Impale,Gorebarrage,F4,Demigod,B
+MV-ADV-SHS-007-10,Hawk Recover Glide,Careening Stabtip,F1,Demigod,B
+MV-ADV-SHS-008-01,Basin Flow Stance,Aegis Shortspine,F2,Void God,B
+MV-ADV-SHS-008-02,Downstream Step,Torrent Dig,F2,Void God,B
+MV-ADV-SHS-008-03,Basin Eddy Short Parry,Thumbcloak,F4,Void God,B
+MV-ADV-SHS-008-04,Ripple Touch Stab,Tempered Dig,F2,Void God,B
+MV-ADV-SHS-008-05,Current Slip Stab,Flux Stab,F2,Void God,B
+MV-ADV-SHS-008-06,Silt Drag Hold,Ponderous Thumbrest,F2,Void God,B
+MV-ADV-SHS-008-07,Basin Overflow Strike,Stubassault,F4,Void God,B
+MV-ADV-SHS-008-08,River Bend Evasion,Nickcanter,F4,Void God,B
+MV-ADV-SHS-009-01,Track Pair Stance,Regal Stubblade,F2,Ruler,B
+MV-ADV-SHS-009-02,Azure Path Thrust,Digbarrage,F4,Ruler,B
+MV-ADV-SHS-009-03,Parallel Step Pair,Thumbspurt,F4,Ruler,B
+MV-ADV-SHS-009-04,Matched Pivot Parry,Unshaken Cutedge,F1,Ruler,B
+MV-ADV-SHS-009-05,Mirrored Wrist Flick,Iron Poke,F2,Ruler,B
+MV-ADV-SHS-009-06,Dual Track Reading,Meridian Shortspine,F2,Ruler,B
+MV-ADV-SHS-009-07,Track Crossing Stab,Pokeassault,F4,Ruler,B
+MV-ADV-SHS-009-08,Azure Short Guard Weave,Mantled Thumbrest,F1,Ruler,B
+MV-ADV-SHS-009-09,Paired Beat Reversal,Mayhem Handguard,F2,Ruler,B
+MV-ADV-SHS-009-10,Dual Current Impale,Harrowing Nova Stabtip,F6a,Ruler,B
+MV-ADV-SHS-009-11,Twin Track Recovery,Staunch Hiltcap,F1,Ruler,B
+MV-ADV-SHS-010-01,Wind Bearing Stance,Implacable Knobgrip,F1,Champion,B
+MV-ADV-SHS-010-02,Gust Step Close,Gust Pointcap,F2,Champion,B
+MV-ADV-SHS-010-03,Oath Line Stab,Pokebarrage,F4,Champion,B
+MV-ADV-SHS-010-04,Breeze Parry Turn,Gust Stubblade,F2,Champion,B
+MV-ADV-SHS-010-05,Open Ground Slide,Tipsprint,F4,Champion,B
+MV-ADV-SHS-010-06,Wind Draught Reading,Expanse Handguard,F2,Champion,B
+MV-ADV-SHS-010-07,Gale Ride Lunge,Racing Dig,F1,Champion,B
+MV-ADV-SHS-010-08,Short Sworn Edge Parry,Unflinching Cutedge,F1,Champion,B
+MV-ADV-SHS-010-09,Crosswind Cut,Splitting Dig,F1,Champion,B
+MV-ADV-SHS-010-10,Wind Sworn Barrage,Ravaging Gore,F1,Champion,B
+MV-ADV-SHS-010-11,Gale Needle Stab,Stingassault,F4,Champion,B
+MV-ADV-SHS-010-12,Open Wind Evasion,Gorejaunt,F4,Champion,B
+MV-ADV-SHS-011-01,Cliff Edge Footing,Granite Broadleaf,F2,Demigod,B
+MV-ADV-SHS-011-02,Plateau Stride Thrust,Digthrash,F4,Demigod,B
+MV-ADV-SHS-011-03,Edge Side Step,Nickjaunt,F4,Demigod,B
+MV-ADV-SHS-011-04,Windward Parry,Tipplating,F4,Demigod,B
+MV-ADV-SHS-011-05,Rocky Ground Check,Chime Broadleaf,F2,Demigod,B
+MV-ADV-SHS-011-06,Lee Side Stab,Facet Gore,F2,Demigod,B
+MV-ADV-SHS-011-07,Edge Pin Press,Thorn Stabtip,F2,Demigod,B
+MV-ADV-SHS-011-08,Wind Gap Slip,Silt Dig,F2,Demigod,B
+MV-ADV-SHS-011-09,Cliff Face Driving Stab,Goreassault,F4,Demigod,B
+MV-ADV-SHS-011-10,Plateau Edge Recovery,Annealed Pointcap,F1,Demigod,B
+MV-ADV-SHS-012-01,Bearing Taking Glance,Remnant Pointcap,F2,Demigod,B
+MV-ADV-SHS-012-02,Bearing Line Short Step,Auradig,F5,Demigod,B
+MV-ADV-SHS-012-03,Bearing Locked Thrust,Might Sting,F2,Demigod,B
+MV-ADV-SHS-012-04,Feint Ignoring Guard,Unflinching Broadleaf,F1,Demigod,B
+MV-ADV-SHS-012-05,Held Line Cut Off,Suppressing Hiltcap,F1,Demigod,B
+MV-ADV-SHS-012-06,True Bearing Stab,Glint Dig,F2,Demigod,B
+MV-ADV-SHS-012-07,Drift Correcting Step,Blurring Nick,F1,Demigod,B
+MV-ADV-SHS-012-08,Unmoved Bearing Impale,Digassault,F4,Demigod,B
+MV-ADV-SHS-012-09,Held Bearing Wall Of Air,Implacable Handguard,F1,Demigod,B
+MV-ADV-SHS-013-01,Open Back Stance,Enduring Cutedge,F1,Ruler,B
+MV-ADV-SHS-013-02,Wind Pace Rush,Thumbcanter,F4,Ruler,B
+MV-ADV-SHS-013-03,Gust Hidden Stab,Nicktorment,F4,Ruler,B
+MV-ADV-SHS-013-04,Sworn Edge Block,Unyielding Knobgrip,F1,Ruler,B
+MV-ADV-SHS-013-05,Wind Gap Close,Gust Dig,F2,Ruler,B
+MV-ADV-SHS-013-06,Oath Hold Parry,Regal Cutedge,F2,Ruler,B
+MV-ADV-SHS-013-07,Open Wind Pierce,Stabbarrage,F4,Ruler,B
+MV-ADV-SHS-013-08,Backless Stand Guard,Regal Handguard,F2,Ruler,B
+MV-ADV-SHS-007-01,Expanse Cutedge,Weighty Cutedge,F2,Demigod,B
+MV-ADV-SHS-010-06,Expanse Handguard,Burly Handguard,F2,Champion,B

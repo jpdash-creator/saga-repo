@@ -1,0 +1,120 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-FAN-001-01,Leaf-Cover Rib Jab,Ironwaft,F5,Champion,B
+MV-ADV-FAN-001-02,Rib Guard Retreat,Aegis Foldedge,F2,Champion,B
+MV-ADV-FAN-001-03,Pleat Slide Advance,Fanoutjaunt,F4,Champion,B
+MV-ADV-FAN-001-04,Edge Flick at the Wrist,Rimribbarrage,F4,Champion,B
+MV-ADV-FAN-001-05,Leaf Spin and Hook,Silencing Fanspine,F1,Champion,B
+MV-ADV-FAN-001-06,Rib Cascade to Three Targets,Granite Rustle,F2,Champion,B
+MV-ADV-FAN-001-07,Qi Crescent Sweep,Fanoutbarrage,F4,Champion,B
+MV-ADV-FAN-001-08,Rib-Edge Weapon Break Beat,Glint Spreadface,F2,Champion,B
+MV-ADV-FAN-002-01,Spread-Fan Brow Screen,Reverie Fanrib,F2,Demigod,B
+MV-ADV-FAN-002-02,Rib Slam Against the Guard,Might Silkface,F2,Demigod,B
+MV-ADV-FAN-002-03,Fan Heel Swivel,Torrent Rivetpin,F2,Demigod,B
+MV-ADV-FAN-002-04,Folded Fan Knee Break Jab,Rustleassault,F4,Demigod,B
+MV-ADV-FAN-002-05,Pleat Edge Palm Slap Block,Gustfantip,F5,Demigod,B
+MV-ADV-FAN-002-06,Spread-Fan Parry and Riposte,Equipoise Rimrib,F2,Demigod,B
+MV-ADV-FAN-002-07,Rib Bundle Elbow Pin,Ponderous Fantip,F2,Demigod,B
+MV-ADV-FAN-002-08,Shifting Leaf Approach,Might Waft,F2,Demigod,B
+MV-ADV-FAN-002-09,Qi-Filled Leaf Barrier,Thorn Spreadface,F2,Demigod,B
+MV-ADV-FAN-002-10,Thrown Rib Crescent,Rumblerustle,F5,Demigod,B
+MV-ADV-FAN-003-01,Short Toss Feint,Mayhem Flutter,F2,Champion,B
+MV-ADV-FAN-003-02,Catch-and-Cut Return,Unmaking Snapshut,F1,Champion,B
+MV-ADV-FAN-003-03,Fan-Hand Lead Step,Blurring Fanout,F1,Champion,B
+MV-ADV-FAN-003-04,Open-Fan Back Parry,Rimribcloak,F4,Champion,B
+MV-ADV-FAN-003-05,Return Spin Catch Parry,Hardened Silkface,F1,Champion,B
+MV-ADV-FAN-003-06,Rib Tip Snag and Pull,Hamstringing Wavering,F1,Champion,B
+MV-ADV-FAN-003-07,Double Beat Wrist Chain,Sanguine Pivotpin,F2,Champion,B
+MV-ADV-FAN-003-08,Skimming Fan Throw,Facetwaft,F5,Champion,B
+MV-ADV-FAN-003-09,Recall Arc Cut,Splintering Flutter,F1,Champion,B
+MV-ADV-FAN-004-01,Armored Fan Brace,Rimribcuirass,F4,Demigod,B
+MV-ADV-FAN-004-02,Steel Rib Overhead Smash,Might Foldedge,F2,Demigod,B
+MV-ADV-FAN-004-03,Armor-Rib Shoulder Turn,Racing Waft,F1,Demigod,B
+MV-ADV-FAN-004-04,Rivet Edge Hand Scrape,Sanguine Fantip,F2,Demigod,B
+MV-ADV-FAN-004-05,Closed Armor Fan Thrust,Might Rustle,F2,Demigod,B
+MV-ADV-FAN-004-06,Steel Leaf Glint,Murk Fanspine,F2,Demigod,B
+MV-ADV-FAN-004-07,Armored Leaf Forward Press,Fantipplating,F4,Demigod,B
+MV-ADV-FAN-004-08,Iron Rib Weapon Lock,Gyverimrib,F5,Demigod,B
+MV-ADV-FAN-004-09,Hammering Rib Combination,Drubbing Guardrib,F1,Demigod,B
+MV-ADV-FAN-004-10,Steel Rib Piercing Jab,Iron Rivetpin,F2,Demigod,B
+MV-ADV-FAN-004-11,Armored Fan Rim Spin,Facet Guardrib,F2,Demigod,B
+MV-ADV-FAN-005-01,Twin-Fan Cross Guard,Granite Pivotpin,F2,Champion,B
+MV-ADV-FAN-005-02,Azure Court Opening Pair,Raging Wavering,F1,Champion,B
+MV-ADV-FAN-005-03,Paired Rib Parry,Gust Fanspine,F2,Champion,B
+MV-ADV-FAN-005-04,Court Step with Two Fans,Granite Snapshut,F2,Champion,B
+MV-ADV-FAN-005-05,Left-Fan Feint Veil,Reverie Rimrib,F2,Champion,B
+MV-ADV-FAN-005-06,Mirrored Wrist Slash,Rumble Rivetpin,F2,Champion,B
+MV-ADV-FAN-005-07,Twin Leaf Scissor Catch,Subduing Fanout,F1,Champion,B
+MV-ADV-FAN-005-08,Hawk-Wing Spread Cut,Blazewaft,F5,Champion,B
+MV-ADV-FAN-005-09,Basin-Slope Stepping Block,Thornfantip,F5,Champion,B
+MV-ADV-FAN-005-10,Alternating Fans Drumbeat,Rumblefanout,F5,Champion,B
+MV-ADV-FAN-005-11,Twin Crescent Azure Sweep,Downpour Pivotpin,F2,Champion,B
+MV-ADV-FAN-005-12,Paired Rib Piercing Cross,Splitting Snapshut,F1,Champion,B
+MV-ADV-FAN-006-01,Hawk-Wing Fold Guard,Fanribhauberk,F4,Demigod,B
+MV-ADV-FAN-006-02,Talon-Rib Forward Rake,Rumble Fanrib,F2,Demigod,B
+MV-ADV-FAN-006-03,River-Bend Fan Step,Gust Spreadface,F2,Demigod,B
+MV-ADV-FAN-006-04,Twin Tip Eye Dab,Blaze Rimrib,F2,Demigod,B
+MV-ADV-FAN-006-05,Hawk Stoop Cut and Recover,Foldedge Barrage,F3,Demigod,B
+MV-ADV-FAN-006-06,Azure Leaf Counterbind,Paralyzing Waft,F1,Demigod,B
+MV-ADV-FAN-006-07,Paired Fan Glide Parry,Equipoise Fanrib,F2,Demigod,B
+MV-ADV-FAN-006-08,Hawk Dive Fan Throw,Scything Nova Flutter,F6a,Demigod,B
+MV-ADV-FAN-006-09,Twin-Wing Spread Cover,Staunch Guardrib,F1,Demigod,B
+MV-ADV-FAN-007-01,Riverbed Fan Stance,Guardrib Cloak,F3,Champion,B
+MV-ADV-FAN-007-02,Basin-Edge Rib Cut,Fantipthrash,F4,Champion,B
+MV-ADV-FAN-007-03,Current-Following Fan Slide,Siltrustle,F5,Champion,B
+MV-ADV-FAN-007-04,Twin Ribs Along the Bank,Sanguine Rustle,F2,Champion,B
+MV-ADV-FAN-007-05,Reed-Bend Parry,Enduring Spreadface,F1,Champion,B
+MV-ADV-FAN-007-06,River-Bend Sweep and Slip,Harpooning Fantip,F1,Champion,B
+MV-ADV-FAN-007-07,Pooling Leaf Catch,Thorn Wavering,F2,Champion,B
+MV-ADV-FAN-007-08,Ford-Crossing Fan Cut,Gustrimrib,F5,Champion,B
+MV-ADV-FAN-007-09,Spring Flood Fan Surge,Dismantling Rustle,F2,Champion,B
+MV-ADV-FAN-007-10,Eddy-Turn Suppressing Beat,Wrecking Wavering,F1,Champion,B
+MV-ADV-FAN-008-01,Dual-Track Fan Guard,Unshaken Fanspine,F1,Demigod,B
+MV-ADV-FAN-008-02,Left-Track Rib Jab,Gust Foldedge,F2,Demigod,B
+MV-ADV-FAN-008-03,Right-Track Rib Cut,Drubbing Rivetpin,F1,Demigod,B
+MV-ADV-FAN-008-04,Track-Change Rib Crossing,Flutter Pounce,F3,Demigod,B
+MV-ADV-FAN-008-05,Two-Track Deflect and Cut,Fanribcloak,F4,Demigod,B
+MV-ADV-FAN-008-06,Paired Track Bind Pull,Fastening Waft,F2,Demigod,B
+MV-ADV-FAN-008-07,Twin-Rib Piercing Line,Pivotpin Torment,F3,Demigod,B
+MV-ADV-FAN-008-08,Azure Dual-Track Crescent,Siltfantip,F5,Demigod,B
+MV-ADV-FAN-009-01,Open-Ground Fan Stance,Ironfanrib,F5,Champion,B
+MV-ADV-FAN-009-02,Wind-Sworn Rib Cut,Unmaking Silkface,F1,Champion,B
+MV-ADV-FAN-009-03,Plateau Edge Fan Balance,Glancing Snapshut,F1,Champion,B
+MV-ADV-FAN-009-04,Bearing-Line Fan Tip Jab,Splintering Silkface,F1,Champion,B
+MV-ADV-FAN-009-05,Oath Palm Parry,Torrent Rimrib,F2,Champion,B
+MV-ADV-FAN-009-06,Gusting Flick Feint,Glamour Fantip,F2,Champion,B
+MV-ADV-FAN-009-07,Breeze-Turn Slash and Slip,Fantipbarrage,F4,Champion,B
+MV-ADV-FAN-009-08,Bearing-Held Deflect Cut,Rimribplating,F4,Champion,B
+MV-ADV-FAN-009-09,Gale-Hook and Drag,Quelling Silkface,F1,Champion,B
+MV-ADV-FAN-009-10,Wind-Sworn Gale Sweep,Dismantling Foldedge,F2,Champion,B
+MV-ADV-FAN-009-11,Unwalled Ground Screen,Annealed Fanrib,F1,Champion,B
+MV-ADV-FAN-010-01,Plateau Rim Fan Guard,Thornrimrib,F5,Demigod,B
+MV-ADV-FAN-010-02,Edge-of-the-Bearing Jab,Tempered Waft,F2,Demigod,B
+MV-ADV-FAN-010-03,Sworn Leaf Brush Cut,Rumblefantip,F5,Demigod,B
+MV-ADV-FAN-010-04,Crosswind Slide Step,Bounding Flutter,F1,Demigod,B
+MV-ADV-FAN-010-05,Updraft Wrist Lift Parry,Rimribhauberk,F4,Demigod,B
+MV-ADV-FAN-010-06,Dust-Raising Fan Wave,Remnant Rimrib,F2,Demigod,B
+MV-ADV-FAN-010-07,Oath-Held Draw and Cut,Fanout Assault,F3,Demigod,B
+MV-ADV-FAN-010-08,Bearing Taken Leaf Counter,Torrent Fanspine,F2,Demigod,B
+MV-ADV-FAN-010-09,Gale-Line Hook and Pull,Fanout Cuirass,F3,Demigod,B
+MV-ADV-FAN-010-10,Rim-Run Sweeping Slash,Snapshut Assault,F3,Demigod,B
+MV-ADV-FAN-010-11,Plateau Gale Fan Surge,Silt Pivotpin,F2,Demigod,B
+MV-ADV-FAN-010-12,Bearing-Piercing Rib Thrust,Rimribassault,F4,Demigod,B
+MV-ADV-FAN-011-01,Bearing Stance Fan Hold,Guardrib Plating,F3,Champion,B
+MV-ADV-FAN-011-02,Sworn Fan Reverse Flick,Cleaving Fanout,F1,Champion,B
+MV-ADV-FAN-011-03,Windward Step Slide,Torrent Fanrib,F2,Champion,B
+MV-ADV-FAN-011-04,Open-Leaf Turn-Away Parry,Chime Spreadface,F2,Champion,B
+MV-ADV-FAN-011-05,Windward Edge and Step,Might Guardrib,F2,Champion,B
+MV-ADV-FAN-011-06,Leeward Fold Catch,Ponderous Wavering,F2,Champion,B
+MV-ADV-FAN-011-07,Oath Beat of the Ribs,Scything Rivetpin,F1,Champion,B
+MV-ADV-FAN-011-08,Crosswind Fan Hurl,Hoarfrost Fanspine,F2,Champion,B
+MV-ADV-FAN-011-09,Bearing-Hold Pressing Fan,Shadefanout,F5,Champion,B
+MV-ADV-FAN-012-01,Oath Fan Ground Guard,Thornfanrib,F5,Demigod,B
+MV-ADV-FAN-012-02,Gale-Rib Quick Cut,Tempered Pivotpin,F2,Demigod,B
+MV-ADV-FAN-012-03,Sworn Wind Sidestep,Blurring Wavering,F1,Demigod,B
+MV-ADV-FAN-012-04,Open Hand and Fan Brush,Gust Rivetpin,F2,Demigod,B
+MV-ADV-FAN-012-05,Tassel-Snap Lash,Iron Rustle,F2,Demigod,B
+MV-ADV-FAN-012-06,Oath-Bound Fan Lock,Staggering Flutter,F1,Demigod,B
+MV-ADV-FAN-012-07,Steady Bearing Cut Chain,Rupturing Fantip,F1,Demigod,B
+MV-ADV-FAN-012-08,Edge-Wind Counter Cut,Resilient Rimrib,F1,Demigod,B
+MV-ADV-FAN-012-09,Oath Gale Fan Sweep,Daybreak Rustle,F2,Demigod,B
+MV-ADV-FAN-012-10,Unwalled Sky Rib Throw,Needling Gust Silkface,F6a,Demigod,B

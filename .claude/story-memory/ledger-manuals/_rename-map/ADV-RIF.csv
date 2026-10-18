@@ -1,0 +1,82 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-RIF-001-01,Qi-Tempered Sight Alignment,Sightbarrage,F4,Champion,B
+MV-ADV-RIF-001-02,Pulse-Gap Trigger Break,Glint Reticle,F2,Champion,B
+MV-ADV-RIF-001-03,Forearm Tension Release,Hoarfrost Breath,F2,Champion,B
+MV-ADV-RIF-001-04,Crowd-Leader Pick,Verity Rearsight,F2,Champion,B
+MV-ADV-RIF-001-05,Fixed-Gaze Qi Lock,Perceptive Scopemount,F1,Champion,B
+MV-ADV-RIF-001-06,Steadied Reload Cycle,Grinding Chamber,F1,Champion,B
+MV-ADV-RIF-001-07,Armour-Seam Qi Seeking,Zeroassault,F4,Champion,B
+MV-ADV-RIF-001-08,Heartbeat Held Shot,Transfixing Nova Longshot,F6a,Champion,B
+MV-ADV-RIF-001-09,Qi-Stiffened Muzzle Beat,Unshaken Muzzlebrake,F1,Champion,B
+MV-ADV-RIF-002-01,Pit-Edge Sighting Slot,Bolttorment,F4,Champion,B
+MV-ADV-RIF-002-02,Loader-Hand-Off Reach,Needling Bipod,F1,Champion,B
+MV-ADV-RIF-002-03,Breastwork Elbow Plant,Granite Magazine,F2,Champion,B
+MV-ADV-RIF-002-04,Sentry-Rail Watch,Meridian Rearsight,F2,Champion,B
+MV-ADV-RIF-002-05,Fixed-Post Counter-Aim,Furrowing Sight,F1,Champion,B
+MV-ADV-RIF-002-06,Choke-Point Fire Lane,Harrowing Reticle,F1,Champion,B
+MV-ADV-RIF-002-07,Qi-Braced Parapet Hold,Enduring Chamber,F1,Champion,B
+MV-ADV-RIF-002-08,Overrun Answer Sweep,Breaththrash,F4,Champion,B
+MV-ADV-RIF-002-09,Holding-Line Rolling Fire,Scopebarrage,F4,Champion,B
+MV-ADV-RIF-002-10,Last-Cartridge Counterstroke,Interlocking Squeeze,F1,Champion,B
+MV-ADV-RIF-003-01,Field-Settling Breath,Aura Reticle,F2,Demigod,B
+MV-ADV-RIF-003-02,Field-Edge Muzzle Reading,Nimbus Muzzlebrake,F2,Demigod,B
+MV-ADV-RIF-003-03,Stock-Seat Field Anchor,Nimbus Buttpad,F2,Demigod,B
+MV-ADV-RIF-003-04,Hip-Roll Field Step,Sightleap,F4,Demigod,B
+MV-ADV-RIF-003-05,Field-Wrapped Ball Guide,Wrecking Scopemount,F1,Demigod,B
+MV-ADV-RIF-003-06,Smoke-and-Field Concealment,Silencing Magazine,F1,Demigod,B
+MV-ADV-RIF-003-07,Field-Drawn Target Line,Aurazero,F5,Demigod,B
+MV-ADV-RIF-003-08,Outward-Pulse Muzzle Beat,Hamstringing Bolt,F1,Demigod,B
+MV-ADV-RIF-004-01,Far-Mark Breath Pause,Breathassault,F4,Demigod,B
+MV-ADV-RIF-004-02,Elevated-Perch Rest Shot,Nimbus Squeeze,F2,Demigod,B
+MV-ADV-RIF-004-03,Mark-Habit Study,Discerning Rearsight,F1,Demigod,B
+MV-ADV-RIF-004-04,Hunting-Loop Arm Brace,Flux Zero,F2,Demigod,B
+MV-ADV-RIF-004-05,Slow Withdrawal Crawl,Boltjaunt,F4,Demigod,B
+MV-ADV-RIF-004-06,Palm-Weighed Charge,Zerothrash,F4,Demigod,B
+MV-ADV-RIF-004-07,Qi-Held Long Flight,Ravaging Longshot,F1,Demigod,B
+MV-ADV-RIF-004-08,Behind-Cover Warmth Probe,Aura Scopemount,F2,Demigod,B
+MV-ADV-RIF-004-09,Long-Shot Vanishing,Murk Buttpad,F2,Demigod,B
+MV-ADV-RIF-004-10,Reach-Limit Piercing Shot,Scopetorment,F4,Demigod,B
+MV-ADV-RIF-004-11,Footfall Pinning Fire,Lambasting Bolt,F1,Demigod,B
+MV-ADV-RIF-005-01,Twin-Rest Settling,Vessel Bipod,F2,Champion,B
+MV-ADV-RIF-005-02,Hawk-Eye Mark Fixing,Waning Chamber,F2,Champion,B
+MV-ADV-RIF-005-03,Paired-Breath Count,Sightthrash,F4,Champion,B
+MV-ADV-RIF-005-04,Cloud-Shade Light Reading,Expanse Rifling,F2,Champion,B
+MV-ADV-RIF-005-05,Basin-Floor Prone Hold,Splitting Buttpad,F1,Champion,B
+MV-ADV-RIF-005-06,River-Bank Rail Shot,Skinning Zero,F1,Champion,B
+MV-ADV-RIF-005-07,Dual-Track Aim and Load,Scorching Rearsight,F1,Champion,B
+MV-ADV-RIF-005-08,Hawk-Stoop Descent Shot,Nova Magazine,F2,Champion,B
+MV-ADV-RIF-005-09,Twin-Rest Pinning Pair,Trouncing Rifling,F1,Champion,B
+MV-ADV-RIF-005-10,Paired Guard Return,Gust Chamber,F2,Champion,B
+MV-ADV-RIF-005-11,Crossing Pair Fire,Boltbarrage,F4,Champion,B
+MV-ADV-RIF-005-12,Azure Dual-Track Piercing Shot,Needling Squeeze Onslaught,F6b,Champion,B
+MV-ADV-RIF-006-01,Basin-Rim Lookout Rest,Vessel Rifling,F2,Ruler,B
+MV-ADV-RIF-006-02,River-Glint Aim Allowance,Glint Magazine,F2,Ruler,B
+MV-ADV-RIF-006-03,Paired-Post Bearing Take,Remnant Bolt,F2,Ruler,B
+MV-ADV-RIF-006-04,Twin-Gap Shift Step,Bipodspurt,F4,Ruler,B
+MV-ADV-RIF-006-05,Crossed-Line Pin Shot,Grinding Longshot,F1,Ruler,B
+MV-ADV-RIF-006-06,Basin-Echo Position Mask,Mayhem Cheekrest,F2,Ruler,B
+MV-ADV-RIF-006-07,Partner-Cover Swap Step,Surging Buttpad,F1,Ruler,B
+MV-ADV-RIF-006-08,Basin Crossfire Lane,Charter Magazine,F2,Ruler,B
+MV-ADV-RIF-006-09,Hawk-Pair Rolling Relief,Sightassault,F4,Ruler,B
+MV-ADV-RIF-007-01,Dual-Track Breath Pairing,Nimbus Chamber,F2,Demigod,B
+MV-ADV-RIF-007-02,Azure-Light Sight Reading,Verity Scopemount,F2,Demigod,B
+MV-ADV-RIF-007-03,Hawk-Perch Steady Rest,Bipodtorment,F4,Demigod,B
+MV-ADV-RIF-007-04,Twin Leaf-Setting Check,Mindful Bolt,F1,Demigod,B
+MV-ADV-RIF-007-05,Low-Basin Approach Crawl,Breathcanter,F4,Demigod,B
+MV-ADV-RIF-007-06,Field-and-Barrel Dual Track,Nimbus Longshot,F2,Demigod,B
+MV-ADV-RIF-007-07,River-Mist Cover Withdrawal,Reverie Muzzlebrake,F2,Demigod,B
+MV-ADV-RIF-007-08,Twin-Shot Feint,Skinning Reticle,F1,Demigod,B
+MV-ADV-RIF-007-09,Hawk-Dive Twin Piercing Shot,Regal Longshot,F2,Demigod,B
+MV-ADV-RIF-007-10,Dual-Track Spear Turn,Scopecloak,F4,Demigod,B
+MV-ADV-RIF-008-01,River-Line Sighting Walk,Chime Rearsight,F2,Void God,B
+MV-ADV-RIF-008-02,Reed-Bed Concealed Rest,Torrent Cheekrest,F2,Void God,B
+MV-ADV-RIF-008-03,Ford-Stone Footing Step,Zeroleap,F4,Void God,B
+MV-ADV-RIF-008-04,Mudbank Prone Slide,Sightcanter,F4,Void God,B
+MV-ADV-RIF-008-05,Bridge-Rail Lean Shot,Raging Bolt,F1,Void God,B
+MV-ADV-RIF-008-06,Floating-Leaf Drift Judging,Murk Scopemount,F2,Void God,B
+MV-ADV-RIF-008-07,Twin-Current Qi Draw,Flux Reticle,F2,Void God,B
+MV-ADV-RIF-008-08,Azure-Haze Veil Shot,Glamour Rearsight,F2,Void God,B
+MV-ADV-RIF-008-09,River-Turn Pursuit Hold,Breathtorment,F4,Void God,B
+MV-ADV-RIF-008-10,River-Line Long Piercing Shot,Ironscope,F5,Void God,B
+MV-ADV-RIF-008-11,Ford-Closing Fire Curtain,Ravaging Chamber,F1,Void God,B
+MV-ADV-RIF-005-04,Expanse Rifling,Clear Rifling,F2,Champion,B

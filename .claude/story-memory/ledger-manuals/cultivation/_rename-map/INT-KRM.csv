@@ -1,0 +1,2 @@
+move_id,old_name,new_name,function
+CMV-INT-KRM-001-06,Rebound Wall,Rebound Guard,Defense:Reflect;Defense:Shield

@@ -1,0 +1,63 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-BMR-001-01,Orbit Plane Setting,Rushing Elbowbend,F1,Senior L2 Low,A
+MV-INT-BMR-001-02,Thread Fed Release,Doughty Crookend,F1,Senior L2 Low,A
+MV-INT-BMR-001-03,Ground Track Sidle,Pirouetting Returnarc,F1,Senior L2 Low,A
+MV-INT-BMR-001-04,Shoulder High Snatch,Kindly Curveback,F1,Senior L2 Low,A
+MV-INT-BMR-001-05,Fallback Wing Parry,Shielding Wingarm,F1,Senior L2 Low,A
+MV-INT-BMR-001-06,Closed Orbit Throw,Raw Arc,F1,Senior L2 Low,A
+MV-INT-BMR-001-07,Loop Around the Guard Hand,Return Carapace,F3,Senior L2 Low,A
+MV-INT-BMR-002-01,Bank Reading Squint,Kindly Sweptwing,F1,Senior L5 Low,A
+MV-INT-BMR-002-02,Canted Release Pull,Rude Leadingedge,F1,Senior L5 Low,A
+MV-INT-BMR-002-03,Low Wing Down Cast,Curveswat,F4,Senior L5 Low,A
+MV-INT-BMR-002-04,Curve Following Pace,Circling Glide,F3,Senior L5 Low,A
+MV-INT-BMR-002-05,Stooped Pivot Dodge,Fleet Cycle,F1,Senior L5 Low,A
+MV-INT-BMR-002-06,Wing Edge Slip Guard,Layered Trailingedge,F1,Senior L5 Low,A
+MV-INT-BMR-002-07,Double Bank Curve,Wild Woodgrain,F1,Senior L5 Low,A
+MV-INT-BMR-002-08,Pillar Curling Cast,Stern Tipwing,F1,Senior L5 Low,A
+MV-INT-BMR-003-01,Twin Pass Windup,Woodflog,F4,Senior L8 Low,A
+MV-INT-BMR-003-02,Palm Reload Catch,Hearty Sweptwing,F1,Senior L8 Low,A
+MV-INT-BMR-003-03,Brisk Resetting Step,Grainzip,F4,Senior L8 Low,A
+MV-INT-BMR-003-04,Stick Rap Guard,Barkbarrier,F4,Senior L8 Low,A
+MV-INT-BMR-003-05,Double Return Cast,Rude Wingarm,F1,Senior L8 Low,A
+MV-INT-BMR-003-06,Crossing Return Lines,Barkhasp,F4,Senior L8 Low,A
+MV-INT-BMR-004-01,Qi Seated Pinch,Staticwood,F5,Warrior L1 Low,B
+MV-INT-BMR-004-02,Centre Spin Core,Shard Cycle,F2,Warrior L1 Low,B
+MV-INT-BMR-004-03,Fast Wrist Qi Snap,Dire Elbowbend,F1,Warrior L1 Low,B
+MV-INT-BMR-004-04,Hum Listening Stance,Gapwood,F5,Warrior L1 Low,B
+MV-INT-BMR-004-05,Backstep Spin Catch,Hoverswerve,F4,Warrior L1 Low,B
+MV-INT-BMR-004-06,Whirling Edge Turn,Stubborn Curveback,F1,Warrior L1 Low,B
+MV-INT-BMR-004-07,Qi Spun Whirl,Ember Tipwing,F2,Warrior L1 Low,B
+MV-INT-BMR-004-08,Humming Wing Pressure,Cruel Hover,F1,Warrior L1 Low,B
+MV-INT-BMR-004-09,Whirl Edge Shear,Brawn Arc,F2,Warrior L1 Low,B
+MV-INT-BMR-005-01,Angled Rap,Static Leadingedge,F2,Warrior L3 Low,B
+MV-INT-BMR-005-02,Elbow Pommel Strike,Loopback Thwack,F3,Warrior L3 Low,B
+MV-INT-BMR-005-03,Choked Up Haft Grip,Static Circling,F2,Warrior L3 Low,B
+MV-INT-BMR-005-04,Wing Tip Jab,Cyclescorer,F4,Warrior L3 Low,B
+MV-INT-BMR-005-05,Pivot Behind the Stick,Rill Loopback,F2,Warrior L3 Low,B
+MV-INT-BMR-005-06,Crossed Wing Guard,Sprig Crookend,F2,Warrior L3 Low,B
+MV-INT-BMR-005-07,Retreat and Throw,Static Hover,F2,Warrior L3 Low,B
+MV-INT-BMR-005-08,Elbow Crook Pull,Grainprop,F4,Warrior L3 Low,B
+MV-INT-BMR-005-09,Reaping Wing Chop,Wild Elbowbend,F1,Warrior L3 Low,B
+MV-INT-BMR-005-10,Backhand Clearing Sweep,Clay Trailingedge,F2,Warrior L3 Low,B
+MV-INT-BMR-006-01,Catching Hand Ready,Recall Woodgrain,F2,Warrior L5 Low,B
+MV-INT-BMR-006-02,Fast Return Snatch,Candorcurve,F5,Warrior L5 Low,B
+MV-INT-BMR-006-03,Spin Killing Grip,Shelter Wingarm,F2,Warrior L5 Low,B
+MV-INT-BMR-006-04,Half Step Recovery,Brawn Circling,F2,Warrior L5 Low,B
+MV-INT-BMR-006-05,Catch to Cast Flow,Cometwood,F5,Warrior L5 Low,B
+MV-INT-BMR-006-06,Unbroken Volley Return,Emberbark,F5,Warrior L5 Low,B
+MV-INT-BMR-006-07,Snatched Weapon Reply,Static Return,F2,Warrior L5 Low,B
+MV-INT-BMR-007-01,Dual Grip Switch,Honedarc,F5,Warrior L7 Low,B
+MV-INT-BMR-007-02,Throw and Close,Scudding Trailingedge,F1,Warrior L7 Low,B
+MV-INT-BMR-007-03,Side Wing Block,Hum Leadingedge,F2,Warrior L7 Low,B
+MV-INT-BMR-007-04,Elbow Lead Thrust,Brass Curveback,F2,Warrior L7 Low,B
+MV-INT-BMR-007-05,Retrieve Round the Foe,Grainswerve,F4,Warrior L7 Low,B
+MV-INT-BMR-007-06,Far and Near Reach,Shard Hover,F2,Warrior L7 Low,B
+MV-INT-BMR-007-07,Guard Then Cast,Barkprop,F4,Warrior L7 Low,B
+MV-INT-BMR-007-08,Wing Hold Entangle,Sprig Return,F2,Warrior L7 Low,B
+MV-INT-BMR-008-01,Glancing Surface Choice,Recall Returnarc,F2,Warrior L9 Low,B
+MV-INT-BMR-008-02,Flat Glance Throw,Cycle Swat,F3,Warrior L9 Low,B
+MV-INT-BMR-008-03,Heel Plant Aim,Curveswerve,F4,Warrior L9 Low,B
+MV-INT-BMR-008-04,Stone Muffled Catch,Shardcurve,F5,Warrior L9 Low,B
+MV-INT-BMR-008-05,Crescent Rebound Cast,Raw Woodgrain,F1,Warrior L9 Low,B
+MV-INT-BMR-008-06,Double Bounce Reach,Swift Sweptwing,F1,Warrior L9 Low,B
+MV-INT-BMR-006-03,Shelter Wingarm,Stout Wingarm,F2,Warrior L5 Low,B

@@ -1,0 +1,66 @@
+affinity_id,domain,name,description,prominence,basic_n,inter_n,adv_n,adv_common_n,adv_kingdom_n,elite_n,sig_n,fus_n,cat_n,myt_n,req_kind,support_role
+EAR,Primordial,Earth,qi that carries the weight and hardness of stone and soil,Prominent,10,8,7,4,3,6,5,4,3,2,A,Secondary
+FIR,Primordial,Fire,qi that burns and spreads as heat and flame,Prominent,10,8,7,4,3,6,5,4,3,2,A,Minor
+WAT,Primordial,Water,qi that flows and presses as current and flood and can soothe,Prominent,10,8,7,4,3,6,5,4,3,2,A,Secondary
+WND,Primordial,Wind,qi that moves as air and cuts as a swift current and carries the sense of what is near,Prominent,10,8,7,4,3,6,5,4,3,2,A,Secondary
+THN,Primordial,Thunder/Lightning,qi that strikes as a charge and a roll of sound,Prominent,10,8,7,4,3,6,5,4,3,2,A,Minor
+MTL,Primordial,Metal,qi that holds the edge and rigidity of forged metal,Prominent,10,8,7,4,3,6,5,4,3,2,A,Minor
+WOD,Primordial,Wood/Nature,qi of growing things that roots and mends and binds,Prominent,10,8,7,4,3,6,5,4,3,2,A,Secondary
+SWD,Primordial,Swords (affinity),qi that takes the form and intent of a sword without a blade in hand,Prominent,10,8,7,4,3,6,5,4,3,2,A,Minor
+STR,Primordial,Strength,qi that raises raw force and bearing in the whole body,Prominent,10,8,7,4,3,6,5,4,3,2,A,Secondary
+ICE,Primordial,Ice/Frost,qi that cools and stills and freezes,Standard,8,7,6,3,3,5,4,3,2,1,A,Minor
+PSN,Primordial,Poison,qi that carries toxin and the means to turn it,Standard,8,7,6,3,3,5,4,3,2,1,A,Minor
+SND,Primordial,Sand/Dust,qi that flows and scours as grain and drifting dust,Standard,8,7,6,3,3,5,4,3,2,1,A,Minor
+SVB,Primordial,Sound/Vibration,qi that travels as tone and shaking and shows what is near,Standard,8,7,6,3,3,5,4,3,2,1,A,Secondary
+CRY,Primordial,Crystal,qi that grows facets and holds and splits light and force,Niche,6,5,4,2,2,4,3,2,1,1,A,Minor
+MGM,Primordial,Magma/Lava,qi that melts and flows as molten stone,Niche,6,5,4,2,2,4,3,2,1,1,A,Minor
+LGT,Cosmic,Light,qi that shines and pierces and clears,Standard,8,7,6,3,3,5,4,3,2,1,A,Secondary
+DRK,Cosmic,Darkness,qi that hides and smothers and dims,Standard,8,7,6,3,3,5,4,3,2,1,A,Minor
+SUN,Cosmic,Sun,qi of radiant heat and daylight that warms and scorches,Standard,8,7,6,3,3,5,4,3,2,1,A,Secondary
+SPC,Cosmic,Space,qi that bends distance and carries the sense of what lies beyond sight,Standard,8,7,6,3,3,5,4,3,2,1,A,Secondary
+GRV,Cosmic,Gravity,qi that adds and takes away weight and pull,Niche,6,5,4,2,2,4,3,2,1,1,A,Minor
+CEL,Cosmic,Celestial/Star,qi drawn from the stars and their turning,Niche,6,5,4,2,2,4,3,2,1,1,A,Minor
+MOO,Cosmic,Moon,qi of the moon's phases that waxes and wanes,Niche,6,5,4,2,2,4,3,2,1,1,A,Minor
+TIM,Cosmic,Time,qi that quickens and slows and restores what was,Rare,4,4,4,2,2,3,2,2,2,2,A,Secondary
+LIF,Life Force,Life,qi of living vitality that mends and sustains and brings back,Prominent,10,8,7,4,3,6,5,4,3,2,A,Primary
+DTH,Life Force,Death,qi that ends and withers and can lift what clings to the dying,Standard,8,7,6,3,3,5,4,3,2,1,A,Secondary
+BLD,Life Force,Blood,qi that moves through blood and draws on it and renews it,Standard,8,7,6,3,3,5,4,3,2,1,A,Secondary
+BON,Life Force,Bone,qi that hardens and shapes the frame,Niche,6,5,4,2,2,4,3,2,1,1,A,Minor
+SLA,Life Force,Soul (as Affinity),qi that answers to the soul as an affinity and not as a soul rung,Niche,6,5,4,2,2,4,3,2,1,1,A,Minor
+RNC,Life Force,Reincarnation,qi of the turning of lives that renews and returns,Rare,4,4,4,2,2,3,2,2,2,2,A,Secondary
+STM,Natural Phenomena,Storm,qi of gathered wind and rain and charge,Standard,8,7,6,3,3,5,4,3,2,1,A,Minor
+MST,Natural Phenomena,Mist/Fog,qi that veils and drifts and dampens,Niche,6,5,4,2,2,4,3,2,1,1,A,Minor
+ILL,Metaphysical,Illusion,qi that casts false sight and sound on the senses,Standard,8,7,6,3,3,5,4,3,2,1,A,Minor
+WIL,Metaphysical,Will,qi driven by resolve that lends strength to the self and others,Standard,8,7,6,3,3,5,4,3,2,1,A,Secondary
+CHS,Metaphysical,Chaos,qi that scatters and breaks pattern and forces the unforeseen,Standard,8,7,6,3,3,5,4,3,2,1,A,Minor
+ORD,Metaphysical,Order,qi that sets and holds pattern and steadies,Standard,8,7,6,3,3,5,4,3,2,1,A,Secondary
+DRM,Metaphysical,Dream,qi that works in the sleeping mind,Niche,6,5,4,2,2,4,3,2,1,1,A,Minor
+MEM,Metaphysical,Memory,qi that holds and reads and shapes what is remembered,Niche,6,5,4,2,2,4,3,2,1,1,A,Minor
+TAO,Metaphysical,Tao,qi that follows the natural way of things,Rare,4,4,4,2,2,3,2,2,2,2,A,Minor
+FAT,Metaphysical,Fate,qi that leans on the course of what is bound to come,Rare,4,4,4,2,2,3,2,2,2,2,A,Minor
+KRM,Metaphysical,Karma,qi that follows deed to consequence,Rare,4,4,4,2,2,3,2,2,2,2,A,Minor
+TRU,Metaphysical,Truth,qi that strips false cover and shows what is so,Rare,4,4,4,2,2,3,2,2,2,2,A,Secondary
+VOD,Metaphysical,Void/Nothingness,qi of emptiness that voids and swallows,Rare,4,4,4,2,2,3,2,2,2,2,A,Minor
+HEA,Healing/Support,Healing,qi that closes wounds and restores the body of an ally or the self,Prominent,10,8,7,4,3,6,5,4,3,2,A,Primary
+PRT,Healing/Support,Protection,qi that wards and shields and bears blows for others,Prominent,10,8,7,4,3,6,5,4,3,2,A,Secondary
+SEA,Healing/Support,Sealing,qi that closes and locks a thing or a power in place,Standard,8,7,6,3,3,5,4,3,2,1,A,Minor
+BND,Healing/Support,Binding,qi that ties and holds a target in place,Standard,8,7,6,3,3,5,4,3,2,1,A,Minor
+CRE,Transcendent,Creation,qi that makes and brings forth what was not,Rare,4,4,4,2,2,3,2,2,2,2,A,Secondary
+DST,Transcendent,Destruction,qi that unmakes and breaks down,Rare,4,4,4,2,2,3,2,2,2,2,A,Minor
+INF,Transcendent,Infinity,qi that has no bound or end,Rare,4,4,4,2,2,3,2,2,2,2,A,Minor
+BAL,Transcendent,Balance/Harmony,qi that evens and joins opposing forces,Rare,4,4,4,2,2,3,2,2,2,2,A,Secondary
+SOW,Soul type,Weapon Soul,a soul that takes the form of a weapon and strikes with it,Standard,8,7,6,3,3,5,4,3,2,1,SR,Minor
+SOD,Soul type,Defense Soul,a soul that wards the self and others,Standard,8,7,6,3,3,5,4,3,2,1,SR,Minor
+SOS,Soul type,Sense Soul,a soul that reaches out to feel and read what is around it,Standard,8,7,6,3,3,5,4,3,2,1,SR,Primary
+SOH,Soul type,Healing Soul,a soul that mends the body and the soul of an ally or the self,Standard,8,7,6,3,3,5,4,3,2,1,SR,Primary
+SOT,Soul type,Trap Soul,a soul that sets snares that hold and wait,Niche,6,5,4,2,2,4,3,2,1,1,SR,Minor
+SOC,Soul type,Convert Soul,a soul that turns one force into another,Niche,6,5,4,2,2,4,3,2,1,1,SR,Minor
+SOP,Soul type,Phantom Soul,a soul that projects an echo of itself,Niche,6,5,4,2,2,4,3,2,1,1,SR,Minor
+SOB,Soul type,Bind Soul,a soul that ties another soul and holds it,Niche,6,5,4,2,2,4,3,2,1,1,SR,Minor
+SOR,Soul type,Resonate Soul,a soul that sets itself in tune with others and lends them strength,Niche,6,5,4,2,2,4,3,2,1,1,SR,Primary
+SON,Soul type,Nullify Soul,a soul that cancels the force of another,Niche,6,5,4,2,2,4,3,2,1,1,SR,Minor
+SOV,Soul type,Devour Soul,a taboo soul type that takes in the force of another soul,Rare,4,4,4,2,2,3,2,2,2,2,SR,Minor
+BDY,Path,Body Path,cultivation of the body itself with no affinity needed,Prominent,10,8,7,4,3,6,5,4,3,2,NONE,Secondary
+QIP,Path,Qi Path,affinity-free qi shaped by circulation and intent,Prominent,10,8,7,4,3,6,5,4,3,2,NONE,Secondary
+HRT,Heart,Cultivation Heart,the will architecture of the cultivator turned into moves,Standard,8,7,6,3,3,5,4,3,2,1,HL,Secondary
+FRM,Formation,Formation Casting,formations laid and keyed with qi from marks and anchors,Niche,6,5,4,2,2,4,3,2,1,1,NONE,Minor

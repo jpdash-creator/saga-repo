@@ -1,0 +1,66 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-INT-BAT-001-01,Rising Guard Stance,Rooted Lanyardloop,F1,Senior,A
+MV-INT-BAT-001-02,Rod Tip Snap Jab,Stunscorer,F4,Senior,A
+MV-INT-BAT-001-03,Slipping Step Aside,Truncheon Swerve,F3,Senior,A
+MV-INT-BAT-001-04,Elbow Sweep Parry,Balanceknob Screen,F3,Senior,A
+MV-INT-BAT-001-05,Wrist-Numbing Rap,Binding Switch,F1,Senior,A
+MV-INT-BAT-001-06,Guard Break Counter Pin,Gripping Cuff,F1,Senior,A
+MV-INT-BAT-002-01,Binder's Ready Grip,Rigid Capend,F1,Senior,A
+MV-INT-BAT-002-02,Loop Draw and Cut,Rude Crackdown,F1,Senior,A
+MV-INT-BAT-002-03,Forearm Slide Block,Shielding Batongrip,F1,Senior,A
+MV-INT-BAT-002-04,Truncheon Creeping Approach,Springing Weightend,F1,Senior,A
+MV-INT-BAT-002-05,Short Hook to the Calf,Acrid Rapidrap,F1,Senior,A
+MV-INT-BAT-002-06,Collar Drag Pull,Shortstick Carapace,F3,Senior,A
+MV-INT-BAT-002-07,Binding Hitch Under the Arm,Clutching Sidebar,F1,Senior,A
+MV-INT-BAT-002-08,Wrist Cord Twist,Entangling Cuff,F1,Senior,A
+MV-INT-BAT-003-01,Lever Grip Hold,Shardbilly,F5,Warrior,B
+MV-INT-BAT-003-02,Rod Heel Shoulder Press,Discord Crackdown,F2,Warrior,B
+MV-INT-BAT-003-03,Rib Gap Jab,Honed Hardwood,F2,Warrior,B
+MV-INT-BAT-003-04,Side Slip Pivot,Brawnswitch,F5,Warrior,B
+MV-INT-BAT-003-05,Wrist Cross Parry,Capend Prop,F3,Warrior,B
+MV-INT-BAT-003-06,Short Rod Wrist Lock,Gripwrap Barrier,F3,Warrior,B
+MV-INT-BAT-003-07,Elbow Lever Drop,Regimen Tick,F2,Warrior,B
+MV-INT-BAT-004-01,Ten Count Ready Hold,Batonbuckle,F4,Senior,A
+MV-INT-BAT-004-02,Level Cut at the Hip,Acrid Hardwood,F1,Senior,A
+MV-INT-BAT-004-03,Rod Butt Hammer,Cruel Stun,F1,Senior,A
+MV-INT-BAT-004-04,Drag Step Closing,Switch Zip,F3,Senior,A
+MV-INT-BAT-004-05,Inside Guard Slap,Rooted Weightend,F1,Senior,A
+MV-INT-BAT-004-06,Rapid Double Tap,Capendslap,F4,Senior,A
+MV-INT-BAT-004-07,Pull and Push Reversal,Stunscreen,F4,Senior,A
+MV-INT-BAT-004-08,Controlled Shoulder Bind,Tickbarrier,F4,Senior,A
+MV-INT-BAT-004-09,Spiral Arm Wrap,Rapidrap Buckle,F3,Senior,A
+MV-INT-BAT-004-10,Breath-Timed Control Press,Tickhasp,F4,Senior,A
+MV-INT-BAT-005-01,Wrist-Lock Guard Hold,Shelter Truncheon,F2,Warrior,B
+MV-INT-BAT-005-02,Rod Spin to the Wrist,Honedcuff,F5,Warrior,B
+MV-INT-BAT-005-03,Inner Arm Check,Billyscreen,F4,Warrior,B
+MV-INT-BAT-005-04,Heel-Toe Advance,Claytick,F5,Warrior,B
+MV-INT-BAT-005-05,Low Rod Hook,Viselike Gripwrap,F1,Warrior,B
+MV-INT-BAT-005-06,Shin Rake Strike,Stern Tick,F1,Warrior,B
+MV-INT-BAT-005-07,Twist-and-Hold Wrist Lock,Levering Batongrip,F1,Warrior,B
+MV-INT-BAT-005-08,Rod Under Chin Lift,Dusk Balanceknob,F2,Warrior,B
+MV-INT-BAT-005-09,Reversing Arm Bar Hold,Sleet Truncheon,F2,Warrior,B
+MV-INT-BAT-006-01,Narrow Passage Guard,Resolute Shortstick,F1,Senior,A
+MV-INT-BAT-006-02,Corridor Jab,Raw Weightend,F1,Senior,A
+MV-INT-BAT-006-03,Stair Edge Footing,Batonhurdle,F4,Senior,A
+MV-INT-BAT-006-04,Door Frame Check,Padded Gripwrap,F1,Senior,A
+MV-INT-BAT-006-05,Low Ceiling Side Cut,Billyflog,F4,Senior,A
+MV-INT-BAT-006-06,Wall Pin Press,Billyhasp,F4,Senior,A
+MV-INT-BAT-006-07,Sleeve Pocket Jam,Binding Lanyardloop,F1,Senior,A
+MV-INT-BAT-007-01,Second Book Ready Hold,Brass Hardwood,F2,Warrior,B
+MV-INT-BAT-007-02,Hip Draw Rap,Claycuff,F5,Warrior,B
+MV-INT-BAT-007-03,Double Block Rise,Rill Sidebar,F2,Warrior,B
+MV-INT-BAT-007-04,Sidestep Chain,Scudding Capend,F1,Warrior,B
+MV-INT-BAT-007-05,Low Baton Drag Sweep,Emberbilly,F5,Warrior,B
+MV-INT-BAT-007-06,Butt Cap Punch,Brassstun,F5,Warrior,B
+MV-INT-BAT-007-07,Elbow Trap Roll,Gagging Stun,F1,Warrior,B
+MV-INT-BAT-007-08,Knee Pit Hook,Lanyardloop Barrier,F3,Warrior,B
+MV-INT-BAT-008-01,Stepping Rod Guard,Capendscreen,F4,Warrior,B
+MV-INT-BAT-008-02,Closing Rod Thrust,Draught Tick,F2,Warrior,B
+MV-INT-BAT-008-03,Gap-Closing Slide,Draught Batongrip,F2,Warrior,B
+MV-INT-BAT-008-04,Overhand Rod Chop,Switchflog,F4,Warrior,B
+MV-INT-BAT-008-05,Rod Shaft Cross Check,Haze Sidebar,F2,Warrior,B
+MV-INT-BAT-008-06,Crouch Step Under,Clay Stun,F2,Warrior,B
+MV-INT-BAT-008-07,Closing Rod Snare,Sleet Balanceknob,F2,Warrior,B
+MV-INT-BAT-008-08,Inside Foot Hook Trip,Rapidrap Hasp,F3,Warrior,B
+MV-INT-BAT-008-09,Pinned Wrist Drag Down,Dusk Cuff,F2,Warrior,B
+MV-INT-BAT-005-01,Shelter Truncheon,Steady Truncheon,F2,Warrior,B

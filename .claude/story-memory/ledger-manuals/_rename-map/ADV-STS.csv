@@ -1,0 +1,129 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-ADV-STS-001-01,Seamless Cover Stance,Leaf Cloak,F3,Champion L1 Low,B
+MV-ADV-STS-001-02,Parry and Cut Joint,Fuller Maelstrom,F3,Champion L1 Low,B
+MV-ADV-STS-001-03,Forte Lift Thrust,Midribassault,F4,Champion L1 Low,B
+MV-ADV-STS-001-04,Joint Step,Careening Envelop,F1,Champion L1 Low,B
+MV-ADV-STS-001-05,Turning Cover Parry,Unbroken Foible,F1,Champion L1 Low,B
+MV-ADV-STS-001-06,Guard Cut Chain,Riposte Thrash,F3,Champion L1 Low,B
+MV-ADV-STS-001-07,Full Circle Edge Cover,Waningfoible,F5,Champion L1 Low,B
+MV-ADV-STS-001-08,Seamless Edge Sweep,Quillon Barrage,F3,Champion L1 Low,B
+MV-ADV-STS-002-01,Blade-Length Qi Cut,Midribthrash,F4,Champion L2 Mid,B
+MV-ADV-STS-002-02,Edge-Hold Guard,Aegisfuller,F5,Champion L2 Mid,B
+MV-ADV-STS-002-03,Gathered Point Thrust,Rumble Midrib,F2,Champion L2 Mid,B
+MV-ADV-STS-002-04,Edge Weight Step,Gust Crossbar,F2,Champion L2 Mid,B
+MV-ADV-STS-002-05,Qi Reach Edge Cut,Tangthrash,F4,Champion L2 Mid,B
+MV-ADV-STS-002-06,Edge Beat Down,Toxin Forte,F2,Champion L2 Mid,B
+MV-ADV-STS-002-07,Qi Wrapped Parry,Chimefoible,F5,Champion L2 Mid,B
+MV-ADV-STS-002-08,Blade Wave Cut,Leaftorment,F4,Champion L2 Mid,B
+MV-ADV-STS-002-09,Weighted Edge Fall,Beat Torment,F3,Champion L2 Mid,B
+MV-ADV-STS-003-01,Fuller Slide Beat,Compressing Tang,F1,Champion L3 Low,B
+MV-ADV-STS-003-02,Fuller Press Guard,Charter Pommel,F2,Champion L3 Low,B
+MV-ADV-STS-003-03,Slipped Point Thrust,Iron Feint,F2,Champion L3 Low,B
+MV-ADV-STS-003-04,Flat Turn Step,Granite Pommel,F2,Champion L3 Low,B
+MV-ADV-STS-003-05,Flat Slap Strike,Ricasso Assault,F3,Champion L3 Low,B
+MV-ADV-STS-003-06,Fuller Bind,Thorn Fuller,F2,Champion L3 Low,B
+MV-ADV-STS-003-07,Flat Cover Parry,Chime Ricasso,F2,Champion L3 Low,B
+MV-ADV-STS-003-08,Flat to Edge Turn,Scorching Crossbar,F1,Champion L3 Low,B
+MV-ADV-STS-003-09,Flat Pressure Wave,Shadefuller,F5,Champion L3 Low,B
+MV-ADV-STS-003-10,Fuller Ringing Strike,Gust Cutover,F2,Champion L3 Low,B
+MV-ADV-STS-004-01,Double Edge Cut,Ravaging Leaf,F1,Demigod L1 Low,B
+MV-ADV-STS-004-02,Field Guard Hold,Facet Quillon,F2,Demigod L1 Low,B
+MV-ADV-STS-004-03,Field-Held Point Thrust,Tearing Glissade,F1,Demigod L1 Low,B
+MV-ADV-STS-004-04,Edge Turn Step,Envelop Spurt,F3,Demigod L1 Low,B
+MV-ADV-STS-004-05,Reverse Edge Draw,Might Tang,F2,Demigod L1 Low,B
+MV-ADV-STS-004-06,Edge Shift Parry,Gustleaf,F5,Demigod L1 Low,B
+MV-ADV-STS-004-07,Edge Qi Swap,Granite Cutover,F2,Demigod L1 Low,B
+MV-ADV-STS-004-08,Edge Lock Bind,Fastening Foible,F2,Demigod L1 Low,B
+MV-ADV-STS-004-09,Field Beat Aside,Toxinpommel,F5,Demigod L1 Low,B
+MV-ADV-STS-004-10,Double Edge Sweep,Tearing Midrib,F1,Demigod L1 Low,B
+MV-ADV-STS-004-11,Edge Field Cover,Facettang,F5,Demigod L1 Low,B
+MV-ADV-STS-005-01,Crossguard Lock,Fastening Feint,F2,Demigod L2 Mid,B
+MV-ADV-STS-005-02,Quillon Catch Cut,Ironfoible,F5,Demigod L2 Mid,B
+MV-ADV-STS-005-03,Hilt Guard Hold,Leafhauberk,F4,Demigod L2 Mid,B
+MV-ADV-STS-005-04,Guard Thrust Release,Beat Onslaught,F3,Demigod L2 Mid,B
+MV-ADV-STS-005-05,Bind Step,Torrent Cutover,F2,Demigod L2 Mid,B
+MV-ADV-STS-005-06,Locked Blade Turn,Murk Crossbar,F2,Demigod L2 Mid,B
+MV-ADV-STS-005-07,Quillon Twist Disarm,Chime Riposte,F2,Demigod L2 Mid,B
+MV-ADV-STS-005-08,Locked Pommel Strike,Blazetang,F5,Demigod L2 Mid,B
+MV-ADV-STS-005-09,Qi Crossing Hold,Intentbeat,F5,Demigod L2 Mid,B
+MV-ADV-STS-005-10,Binding Slice,Scalding Glissade,F1,Demigod L2 Mid,B
+MV-ADV-STS-005-11,Crossguard Seal,Quelling Fuller,F1,Demigod L2 Mid,B
+MV-ADV-STS-005-12,Locked Blade Run,Interlocking Intent Feint,F6a,Demigod L2 Mid,B
+MV-ADV-STS-006-01,Twin Track Edge Cut,Rumble Quillon,F2,Champion L4 Mid,B
+MV-ADV-STS-006-02,Dual Guard Hold,Thorntang,F5,Champion L4 Mid,B
+MV-ADV-STS-006-03,Paired Line Thrust,Hollow Midrib,F2,Champion L4 Mid,B
+MV-ADV-STS-006-04,Two-Lane Step,Blurring Forte,F1,Champion L4 Mid,B
+MV-ADV-STS-006-05,Paired Edge Beat,Tang Plating,F3,Champion L4 Mid,B
+MV-ADV-STS-006-06,Track Change Parry,Gust Ricasso,F2,Champion L4 Mid,B
+MV-ADV-STS-006-07,Two-Track Chain,Beat Maelstrom,F3,Champion L4 Mid,B
+MV-ADV-STS-006-08,Twin-Track Edge Sweep,Needling Foible,F1,Champion L4 Mid,B
+MV-ADV-STS-006-09,Dual-Track Reflect,Facet Leaf,F2,Champion L4 Mid,B
+MV-ADV-STS-007-01,Hawk Stoop Thrust,Glint Envelop,F2,Champion L6 Low,B
+MV-ADV-STS-007-02,Perch Guard,Facet Fuller,F2,Champion L6 Low,B
+MV-ADV-STS-007-03,Wing Spread Cut,Skinning Forte,F1,Champion L6 Low,B
+MV-ADV-STS-007-04,Talon Step,Torrent Glissade,F2,Champion L6 Low,B
+MV-ADV-STS-007-05,Down Draft Parry,Leafcuirass,F4,Champion L6 Low,B
+MV-ADV-STS-007-06,Falling Hawk Cut,Blaze Beat,F2,Champion L6 Low,B
+MV-ADV-STS-007-07,Circling Point Watch,Silencing Pommel,F1,Champion L6 Low,B
+MV-ADV-STS-007-08,Wingbeat Edge Shield,Midrib Greave,F3,Champion L6 Low,B
+MV-ADV-STS-007-09,Hawk Descending Point,Rumble Foible,F2,Champion L6 Low,B
+MV-ADV-STS-007-10,Stoop and Rise Sequence,Successive Crossbar,F1,Champion L6 Low,B
+MV-ADV-STS-008-01,Azure Cross Cut,Might Riposte,F2,Demigod L3 Low,B
+MV-ADV-STS-008-02,Basin Guard Hold,Granite Forte,F2,Demigod L3 Low,B
+MV-ADV-STS-008-03,Twin Quillon Thrust,Glint Glissade,F2,Demigod L3 Low,B
+MV-ADV-STS-008-04,River Step,Racing Riposte,F1,Demigod L3 Low,B
+MV-ADV-STS-008-05,Azure Cross Bind,Gyvemidrib,F5,Demigod L3 Low,B
+MV-ADV-STS-008-06,Twin Quillon Disarm,Rumble Pommel,F2,Demigod L3 Low,B
+MV-ADV-STS-008-07,Basin Turn Parry,Torrent Ricasso,F2,Demigod L3 Low,B
+MV-ADV-STS-008-08,Azure Crossguard Seal,Deedtang,F5,Demigod L3 Low,B
+MV-ADV-STS-008-09,River Cross Sequence,Doctrine Cutover,F2,Demigod L3 Low,B
+MV-ADV-STS-009-01,River Bend Edge Cut,Rumble Envelop,F2,Demigod L5 Mid,B
+MV-ADV-STS-009-02,Basin Rim Crossguard Hold,Thornmidrib,F5,Demigod L5 Mid,B
+MV-ADV-STS-009-03,Current Thrust,Scalding Feint,F1,Demigod L5 Mid,B
+MV-ADV-STS-009-04,Stream Step,Mightfuller,F5,Demigod L5 Mid,B
+MV-ADV-STS-009-05,River Mouth Cut,Gust Tang,F2,Demigod L5 Mid,B
+MV-ADV-STS-009-06,Eddy Crossguard Parry,Gust Forte,F2,Demigod L5 Mid,B
+MV-ADV-STS-009-07,Basin Quillon Press Bind,Hoarfrost Leaf,F2,Demigod L5 Mid,B
+MV-ADV-STS-009-08,Flood Edge Chain,Blaze Foible,F2,Demigod L5 Mid,B
+MV-ADV-STS-009-09,River Basin Surge,Scorching Daybreak Midrib,F6a,Demigod L5 Mid,B
+MV-ADV-STS-009-10,Basin Return Reflect,Veritymidrib,F5,Demigod L5 Mid,B
+MV-ADV-STS-010-01,Wind Line Cut,Pommel Assault,F3,Champion L2 Low,B
+MV-ADV-STS-010-02,Open Guard Hold,Forteplating,F4,Champion L2 Low,B
+MV-ADV-STS-010-03,Gale Thrust,Hollowpommel,F5,Champion L2 Low,B
+MV-ADV-STS-010-04,Plateau Stride,Granite Glissade,F2,Champion L2 Low,B
+MV-ADV-STS-010-05,Wind Parry,Gust Fuller,F2,Champion L2 Low,B
+MV-ADV-STS-010-06,Oath Edge Cut,Iron Quillon,F2,Champion L2 Low,B
+MV-ADV-STS-010-07,Bearing Rap,Toxinleaf,F5,Champion L2 Low,B
+MV-ADV-STS-010-08,Gale Edge Sweep,Ravaging Tang,F1,Champion L2 Low,B
+MV-ADV-STS-010-09,Wind-Sworn Reflect,Verity Leaf,F2,Champion L2 Low,B
+MV-ADV-STS-011-01,Bearing Thrust,Rumble Riposte,F2,Champion L5 High,B
+MV-ADV-STS-011-02,Held Bearing Crossguard,Thorn Crossbar,F2,Champion L5 High,B
+MV-ADV-STS-011-03,Plateau Straight Edge Cut,Ricasso Torment,F3,Champion L5 High,B
+MV-ADV-STS-011-04,Bearing Step,Might Quillon,F2,Champion L5 High,B
+MV-ADV-STS-011-05,Windswept Parry,Annealed Midrib,F1,Champion L5 High,B
+MV-ADV-STS-011-06,Bearing Shift Cut,Severing Cutover,F1,Champion L5 High,B
+MV-ADV-STS-011-07,Point Bearing Beat,Rumblebeat,F5,Champion L5 High,B
+MV-ADV-STS-011-08,Wind Plateau Cover Guard,Annealed Leaf,F1,Champion L5 High,B
+MV-ADV-STS-011-09,Held Bearing Suppression,Shadetang,F5,Champion L5 High,B
+MV-ADV-STS-011-10,Bearing and Oath Sequence,Compounding Envelop,F1,Champion L5 High,B
+MV-ADV-STS-012-01,Skyline Edge Cut,Iron Forte,F2,Demigod L2 Low,B
+MV-ADV-STS-012-02,Open Field Guard,Hardened Quillon,F1,Demigod L2 Low,B
+MV-ADV-STS-012-03,Long Stride Thrust,Beatbarrage,F4,Demigod L2 Low,B
+MV-ADV-STS-012-04,Skyline Step,Torrent Pommel,F2,Demigod L2 Low,B
+MV-ADV-STS-012-05,Cliff Edge Slip Parry,Equipoise Crossbar,F2,Demigod L2 Low,B
+MV-ADV-STS-012-06,Wind-Cut Chain,Ironmidrib,F5,Demigod L2 Low,B
+MV-ADV-STS-012-07,Open Edge Quillon Bind,Tangcuirass,F4,Demigod L2 Low,B
+MV-ADV-STS-012-08,Edge Wind Parry,Murkfoible,F5,Demigod L2 Low,B
+MV-ADV-STS-012-09,Plateau Oath Sweep,Downpour Glissade,F2,Demigod L2 Low,B
+MV-ADV-STS-012-10,Wind Hold Seal,Cutover Plating,F3,Demigod L2 Low,B
+MV-ADV-STS-013-01,Oath Draw Cut,Needling Feint,F1,Demigod L6 Mid,B
+MV-ADV-STS-013-02,Open Blade Guard,Iron Fuller,F2,Demigod L6 Mid,B
+MV-ADV-STS-013-03,Sworn Straight Point Thrust,Rumbletang,F5,Demigod L6 Mid,B
+MV-ADV-STS-013-04,Wind Bearing Step,Granite Riposte,F2,Demigod L6 Mid,B
+MV-ADV-STS-013-05,Open Blade Return Cut,Lancing Beat,F1,Demigod L6 Mid,B
+MV-ADV-STS-013-06,Oath Parry,Tang Greave,F3,Demigod L6 Mid,B
+MV-ADV-STS-013-07,Wind at the Back Bind,Dominating Envelop,F1,Demigod L6 Mid,B
+MV-ADV-STS-013-08,Open Blade Beat,Rumble Feint,F2,Demigod L6 Mid,B
+MV-ADV-STS-013-09,Gale Oath Cut,Iron Tang,F2,Demigod L6 Mid,B
+MV-ADV-STS-013-10,Open Blade Reflect,Glint Ricasso,F2,Demigod L6 Mid,B
+MV-ADV-STS-006-03,Hollow Midrib,Forged Midrib,F2,Champion L4 Mid,B

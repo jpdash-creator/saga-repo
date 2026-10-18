@@ -1,0 +1,150 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-BUC-001-01,Azure Court Open Stance,Steelpelta,F5,Warrior,B
+MV-SIG-BUC-001-02,Court Threshold Rap,Pall Lightrim,F2,Warrior,B
+MV-SIG-BUC-001-03,Courtly Closing Step,Squall Snapblock,F2,Warrior,B
+MV-SIG-BUC-001-04,Court Qi Seat,Prism Edgeplate,F2,Warrior,B
+MV-SIG-BUC-001-05,Dismissing Rim Cut,Targeverdict,F4,Warrior,B
+MV-SIG-BUC-001-06,Court Bind and Turn,Parryvow,F4,Warrior,B
+MV-SIG-BUC-001-07,Azure Court Screen,Umbovow,F4,Champion,B
+MV-SIG-BUC-001-08,Court Verdict Strike,Bedrock Bucklerredge,F2,Champion,B
+MV-SIG-BUC-001-09,Court Veil Flash,Wraithlike Tuckin,F1,Demigod,B
+MV-SIG-BUC-001-10,Azure Court Judgement,Choral Season Dab,F6a,Warrior,B
+MV-SIG-BUC-002-01,Paired Basin Hold,Steel Punchboss,F2,Warrior,B
+MV-SIG-BUC-002-02,Basin Pair Rap,Enshrined Umbo,F1,Warrior,B
+MV-SIG-BUC-002-03,Twin Hollow Step,Skyborne Smallface,F1,Warrior,B
+MV-SIG-BUC-002-04,Basin Lip Strike,Squall Armstrap,F2,Warrior,B
+MV-SIG-BUC-002-05,Doubled Pool Guard,Glacier Roundface,F2,Warrior,B
+MV-SIG-BUC-002-06,Hollow Draw Bind,Glacier Nudge,F2,Warrior,B
+MV-SIG-BUC-002-07,Brimming Pair Punch,Famed Tuckin,F1,Warrior,B
+MV-SIG-BUC-002-08,Spill Side Parry,Squalltarge,F5,Warrior,B
+MV-SIG-BUC-002-09,Paired Basin Screen,Hornbeam Lightrim,F2,Champion,B
+MV-SIG-BUC-002-10,Basin Return Counter,Knucklegrip Seal,F3,Champion,B
+MV-SIG-BUC-002-11,Basin Slip Flash,Pulsarpelta,F5,Demigod,B
+MV-SIG-BUC-002-12,Paired Basin Rim Overflow,Tuckinverdict,F4,Warrior,B
+MV-SIG-BUC-003-01,Twin River Plate Stance,Bucklerredge Pledge,F3,Champion,B
+MV-SIG-BUC-003-02,River Bend Rap,Pealtarge,F5,Champion,B
+MV-SIG-BUC-003-03,Bank-to-Bank Step,Soundless Punchblock,F1,Champion,B
+MV-SIG-BUC-003-04,Rising River Qi,Bedrock Roundface,F2,Champion,B
+MV-SIG-BUC-003-05,Parted Stream Rap,Pealpelta,F5,Champion,B
+MV-SIG-BUC-003-06,Dragging Current Rim,Glacier Centergrip,F2,Champion,B
+MV-SIG-BUC-003-07,Meeting Waters Strike,Targedecree,F4,Champion,B
+MV-SIG-BUC-003-08,River Course Screen,Sanctum Umbo,F2,Champion,B
+MV-SIG-BUC-003-09,Flood Release Strike,Vigor Dab,F2,Champion,B
+MV-SIG-BUC-003-10,Crossing the Twin Rivers,Pulsar Knucklegrip,F2,Demigod,B
+MV-SIG-BUC-003-11,Twin River Confluence Method,Symphonic Volition Armstrap,F6a,Champion,B
+MV-SIG-BUC-004-01,Hawk Court Plate Perch,Steeltarge,F5,Ruler,B
+MV-SIG-BUC-004-02,Wing Fold Rap,Squall Punchboss,F2,Ruler,B
+MV-SIG-BUC-004-03,Hawk Walk Plate Step,Bedrock Edgeplate,F2,Ruler,B
+MV-SIG-BUC-004-04,Beak Rim Jab,Centergrip Crown,F3,Ruler,B
+MV-SIG-BUC-004-05,Keen Qi Sight,Nurturing Armstrap,F1,Ruler,B
+MV-SIG-BUC-004-06,Talon Grip Bind,Thrallumbo,F5,Ruler,B
+MV-SIG-BUC-004-07,Stoop Parry,Parity Smallface,F2,Ruler,B
+MV-SIG-BUC-004-08,Raptor Dome Strike,Punchblock Crown,F3,Ruler,B
+MV-SIG-BUC-004-09,Court Wingspan Screen,Unwavering Bucklerredge,F1,Ruler,B
+MV-SIG-BUC-004-10,Hawk Strike Counter,Eclipse Lightrim,F2,Ruler,B
+MV-SIG-BUC-004-11,Hawk Court Stoop Flash,Spectral Umbo,F1,Demigod,B
+MV-SIG-BUC-004-12,Hawk Court Plate Descent,Grand Snapblock Decree,F6b,Ruler,B
+MV-SIG-BUC-005-01,Azure Sky Hold,Glacier Edgeplate,F2,Demigod,B
+MV-SIG-BUC-005-02,Zenith Rap,Palltarge,F5,Demigod,B
+MV-SIG-BUC-005-03,High Ridge Step,Tuckin Voyage,F3,Demigod,B
+MV-SIG-BUC-005-04,Sky Field Cover,Centergrip Troth,F3,Demigod,B
+MV-SIG-BUC-005-05,Cloudbreak Strike,Matchless Roundface,F1,Demigod,B
+MV-SIG-BUC-005-06,Clear Sky Bind,Hornbeam Dab,F2,Demigod,B
+MV-SIG-BUC-005-07,Horizon Read,Interstice Smallface,F2,Demigod,B
+MV-SIG-BUC-005-08,Dome of the High Screen,Statute Bucklerredge,F2,Demigod,B
+MV-SIG-BUC-005-09,Falling Sky Counter,Punchboss Vow,F3,Demigod,B
+MV-SIG-BUC-005-10,Azure Sky Passage,Targeboon,F4,Demigod,B
+MV-SIG-BUC-005-11,Unclouded Sky Chain,Tenet Punchblock,F2,Demigod,B
+MV-SIG-BUC-006-01,Core Seated Hold,Sanctum Lightrim,F2,Core Formation,B
+MV-SIG-BUC-006-02,Hub Step,Squallpelta,F5,Core Formation,B
+MV-SIG-BUC-006-03,Pulse Rap,Consecrated Edgeplate,F1,Core Formation,B
+MV-SIG-BUC-006-04,Azure Hub Jab,Vigor Nudge,F2,Core Formation,B
+MV-SIG-BUC-006-05,Core Qi Layering,Statute Knucklegrip,F2,Core Formation,B
+MV-SIG-BUC-006-06,Ringing Rim Strike,Storied Snapblock,F1,Core Formation,B
+MV-SIG-BUC-006-07,Core Grip Bind,Hornbeam Nudge,F2,Core Formation,B
+MV-SIG-BUC-006-08,Hub Turn Parry,Pall Punchboss,F2,Core Formation,B
+MV-SIG-BUC-006-09,Core Ring Screen,Prismumbo,F5,Core Formation,B
+MV-SIG-BUC-006-10,Core Burst Strike,Entropy Tuckin,F2,Core Formation,B
+MV-SIG-BUC-006-11,Azure Core Flash,Radiance Centergrip,F2,Core Formation,B
+MV-SIG-BUC-006-12,Ringed Core Sequence,Grand Season Smallface,F6a,Core Formation,B
+MV-SIG-BUC-007-01,Oath Stance of the Wind-Sworn,Steel Umbo,F2,Warrior,B
+MV-SIG-BUC-007-02,Sworn Rap,Targeseal,F4,Warrior,B
+MV-SIG-BUC-007-03,Windward Plate Step,Vigor Knucklegrip,F2,Warrior,B
+MV-SIG-BUC-007-04,Oath Rim Cut,Squall Dab,F2,Warrior,B
+MV-SIG-BUC-007-05,Wind Held Plate Guard,Devout Roundface,F1,Warrior,B
+MV-SIG-BUC-007-06,Binding Word Rim,Millstone Armstrap,F2,Warrior,B
+MV-SIG-BUC-007-07,Gust Return Strike,Umboedict,F4,Warrior,B
+MV-SIG-BUC-007-08,Wind Easing Parry,Edgeplate Covenant,F3,Warrior,B
+MV-SIG-BUC-007-09,Oath Shelter Screen,Sanctum Smallface,F2,Champion,B
+MV-SIG-BUC-007-10,Sworn Reply Counter,Radiance Bucklerredge,F2,Champion,B
+MV-SIG-BUC-007-11,Oath Wind Flash,Pulsarnudge,F5,Demigod,B
+MV-SIG-BUC-007-12,Wind-Sworn Oath Form,Season Nudge,F2,Warrior,B
+MV-SIG-BUC-008-01,Plateau Hold Stance,Venerable Umbo,F1,Warrior,B
+MV-SIG-BUC-008-02,Open Edge Rap,Parityumbo,F5,Warrior,B
+MV-SIG-BUC-008-03,Level Ground Pace,Vigor Tuckin,F2,Warrior,B
+MV-SIG-BUC-008-04,Flat Top Qi Cover,Lightrim Vow,F3,Warrior,B
+MV-SIG-BUC-008-05,Edge Fall Strike,Vigor Punchblock,F2,Warrior,B
+MV-SIG-BUC-008-06,Wide Hold Bind,Sigilparry,F5,Warrior,B
+MV-SIG-BUC-008-07,Plateau Screen,Knucklegrip Vow,F3,Champion,B
+MV-SIG-BUC-008-08,Plateau Drop Return,Prismpelta,F5,Champion,B
+MV-SIG-BUC-008-09,Plateau Crossing Plate Flash,Seasonparry,F5,Demigod,B
+MV-SIG-BUC-008-10,Unmoved Plateau Form,Faithful Punchboss,F1,Warrior,B
+MV-SIG-BUC-009-01,Open Oath Stance,Inviolate Centergrip,F1,Champion,B
+MV-SIG-BUC-009-02,Straight Word Parry,Roundface Covenant,F3,Champion,B
+MV-SIG-BUC-009-03,Plain Advance,Windborne Dab,F1,Champion,B
+MV-SIG-BUC-009-04,Declared Qi Guard,Glacier Umbo,F2,Champion,B
+MV-SIG-BUC-009-05,Oath Dome Punch,Haemaltarge,F5,Champion,B
+MV-SIG-BUC-009-06,Open Rim Hook,Parrypledge,F4,Champion,B
+MV-SIG-BUC-009-07,Pledge Rap Chain,Pall Armstrap,F2,Champion,B
+MV-SIG-BUC-009-08,Open Oath Screen,Glacier Bucklerredge,F2,Champion,B
+MV-SIG-BUC-009-09,Oath Kept Smash,Thunderclap Snapblock,F2,Champion,B
+MV-SIG-BUC-009-10,Open Oath Flash,Umboodyssey,F4,Demigod,B
+MV-SIG-BUC-009-11,Declared Oath Sequence,Nudgedecree,F4,Champion,B
+MV-SIG-BUC-010-01,Held Bearing Plate Stance,Devout Smallface,F1,Ruler,B
+MV-SIG-BUC-010-02,Bearing Return Plate Step,Vigor Parry,F2,Ruler,B
+MV-SIG-BUC-010-03,Line Rim Rap,Paritypelta,F5,Ruler,B
+MV-SIG-BUC-010-04,Straight Edge Jab,Nudge Crown,F3,Ruler,B
+MV-SIG-BUC-010-05,Line Held Qi Guard,Stately Roundface,F1,Ruler,B
+MV-SIG-BUC-010-06,Bearing Bind,Sigilnudge,F5,Ruler,B
+MV-SIG-BUC-010-07,Course Correcting Rap,Undaunted Armstrap,F1,Ruler,B
+MV-SIG-BUC-010-08,Along the Line Dome Strike,Parry Verdict,F3,Ruler,B
+MV-SIG-BUC-010-09,Bearing Screen,Undaunted Centergrip,F1,Ruler,B
+MV-SIG-BUC-010-10,Bearing Reflection,Inviolate Knucklegrip,F1,Ruler,B
+MV-SIG-BUC-010-11,Bearing Line Flash,Interstice Punchblock,F2,Demigod,B
+MV-SIG-BUC-010-12,Held Bearing Course,Symphonic Snapblock Crown,F6b,Ruler,B
+MV-SIG-BUC-011-01,Open Sky Wind Hold,Prism Punchboss,F2,Demigod,B
+MV-SIG-BUC-011-02,Wide Gust Rap,Pallumbo,F5,Demigod,B
+MV-SIG-BUC-011-03,Wind Road Step,Squalltuckin,F5,Demigod,B
+MV-SIG-BUC-011-04,Sky Wind Field Cover,Sanctum Edgeplate,F2,Demigod,B
+MV-SIG-BUC-011-05,Cutting Wind Rim,Fearless Parry,F1,Demigod,B
+MV-SIG-BUC-011-06,Gust Hook Bind,Thrall Lightrim,F2,Demigod,B
+MV-SIG-BUC-011-07,Distant Wind Read,Eclipse Centergrip,F2,Demigod,B
+MV-SIG-BUC-011-08,Open Wind Field Screen,Immaculate Knucklegrip,F1,Demigod,B
+MV-SIG-BUC-011-09,Wind Returned Counter,Revelation Lightrim,F2,Demigod,B
+MV-SIG-BUC-011-10,Open Sky Flash,Pulsar Dab,F2,Demigod,B
+MV-SIG-BUC-011-11,Open Sky Gale Chain,Choral Parry Decree,F6b,Demigod,B
+MV-SIG-BUC-012-01,Sworn Core Hold,Consecrated Roundface,F1,Core Formation,B
+MV-SIG-BUC-012-02,Core Draught Step,Parryodyssey,F4,Core Formation,B
+MV-SIG-BUC-012-03,Oath Pulse Rap,Squall Smallface,F2,Core Formation,B
+MV-SIG-BUC-012-04,Core Turn Rim Cut,Steel Tuckin,F2,Core Formation,B
+MV-SIG-BUC-012-05,Core Held Plate Guard,Targetroth,F4,Core Formation,B
+MV-SIG-BUC-012-06,Oath Coil Bind,Sigiltarge,F5,Core Formation,B
+MV-SIG-BUC-012-07,Core Gust Strike,Thunderclap Edgeplate,F2,Core Formation,B
+MV-SIG-BUC-012-08,Deep Wind Parry,Sacrosanct Armstrap,F1,Core Formation,B
+MV-SIG-BUC-012-09,Sworn Core Screen,Venerable Bucklerredge,F1,Core Formation,B
+MV-SIG-BUC-012-10,Oath Core Counter,Eclipse Armstrap,F2,Core Formation,B
+MV-SIG-BUC-012-11,Sworn Core Flash,Thunderclap Parry,F2,Core Formation,B
+MV-SIG-BUC-012-12,Sworn Core Breath Form,Season Punchblock,F2,Core Formation,B
+MV-SIG-BUC-002-05,Glacier Roundface,Adamant Roundface,F2,Warrior,B
+MV-SIG-BUC-002-06,Glacier Nudge,Crushing Nudge,F2,Warrior,B
+MV-SIG-BUC-002-09,Hornbeam Lightrim,Ironclad Lightrim,F2,Champion,B
+MV-SIG-BUC-003-06,Glacier Centergrip,Vising Centergrip,F2,Champion,B
+MV-SIG-BUC-003-08,Sanctum Umbo,Stalwart Umbo,F2,Champion,B
+MV-SIG-BUC-005-01,Glacier Edgeplate,Adamant Edgeplate,F2,Demigod,B
+MV-SIG-BUC-005-06,Hornbeam Dab,Crushing Dab,F2,Demigod,B
+MV-SIG-BUC-006-01,Sanctum Lightrim,Stalwart Lightrim,F2,Core Formation,B
+MV-SIG-BUC-006-07,Hornbeam Nudge,Vising Nudge,F2,Core Formation,B
+MV-SIG-BUC-007-09,Sanctum Smallface,Unyielding Smallface,F2,Champion,B
+MV-SIG-BUC-009-04,Glacier Umbo,Adamant Umbo,F2,Champion,B
+MV-SIG-BUC-009-08,Glacier Bucklerredge,Ironclad Bucklerredge,F2,Champion,B
+MV-SIG-BUC-011-04,Sanctum Edgeplate,Steadfast Edgeplate,F2,Demigod,B

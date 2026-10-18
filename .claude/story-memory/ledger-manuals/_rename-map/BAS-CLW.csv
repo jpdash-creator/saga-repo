@@ -1,0 +1,67 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-CLW-001-01,Buckled Hand Ready Stance,Talonpause,F4,Unawakened,A
+MV-BAS-CLW-001-02,Straight Claw Draw-Through,Nailhit,F4,Unawakened,A
+MV-BAS-CLW-001-03,Wrist Roll Sweep Parry,Solid Fingerblade,F1,Unawakened,A
+MV-BAS-CLW-001-04,Half Pace Claw Slide,Clawbase Pace,F3,Unawakened,A
+MV-BAS-CLW-001-05,Fingertip Sleeve Snag,Knucklespike Wedge,F3,Unawakened,A
+MV-BAS-CLW-002-01,Dropping Shoulder Rake,Straight Clawtip,F1,Skin,A
+MV-BAS-CLW-002-02,Hip Scoop Hook,Razedash,F4,Skin,A
+MV-BAS-CLW-002-03,Chest Line Cross Slash,Plain Shred,F1,Skin,A
+MV-BAS-CLW-002-04,Knuckle-Back Flick Cut,Pawlblow,F4,Skin,A
+MV-BAS-CLW-002-05,Temple Guard Elbow Tuck,Pawlcowl,F4,Skin,A
+MV-BAS-CLW-002-06,Backstep Forearm Score,Backward Clawrake,F1,Skin,A
+MV-BAS-CLW-003-01,Folded Finger Kick Block,Kept Tinecurve,F1,Muscle,A
+MV-BAS-CLW-003-02,Outer Blade Sweep Parry,Hooding Palmstrap,F1,Muscle,A
+MV-BAS-CLW-003-03,Palm-In Wrist Hook Catch,Pulling Wristband,F1,Muscle,A
+MV-BAS-CLW-003-04,Twin Claw Face Frame,Holding Talon,F1,Muscle,A
+MV-BAS-CLW-003-05,Claw Base Chest Stop,Tripping Raze,F1,Muscle,A
+MV-BAS-CLW-003-06,Low Claw Shin Sweep,Snug Hookclaw,F1,Muscle,A
+MV-BAS-CLW-003-07,Plucking Return Cut,Single Scour,F1,Muscle,A
+MV-BAS-CLW-004-01,Claw Fighter's Closing Glide,Stepping Rip,F1,Tendon,A
+MV-BAS-CLW-004-02,Lead Foot Outside Pivot,Backplate Trot,F3,Tendon,A
+MV-BAS-CLW-004-03,Guarded Inch Shuffle,Backward Flay,F1,Tendon,A
+MV-BAS-CLW-004-04,Long Back Step Reset,Nimble Hookclaw,F1,Tendon,A
+MV-BAS-CLW-004-05,Circling Heel Drag,Backward Talon,F1,Tendon,A
+MV-BAS-CLW-004-06,Sinking Sidestep Thigh Rake,Single Wristband,F1,Tendon,A
+MV-BAS-CLW-004-07,Stamped Foot Forearm Hook,Fixing Rip,F1,Tendon,A
+MV-BAS-CLW-004-08,Wedge Step Between the Feet,Stepping Raze,F1,Tendon,A
+MV-BAS-CLW-005-01,Sleeve Hook and Haul,Locking Knucklespike,F1,Bone,A
+MV-BAS-CLW-005-02,Belt Snag Drag-Down,Towing Tinecurve,F1,Bone,A
+MV-BAS-CLW-005-03,Wrist Loop Yank,Scourlid,F4,Bone,A
+MV-BAS-CLW-005-04,Collar Rake and Pull,Shredblow,F4,Bone,A
+MV-BAS-CLW-005-05,Elbow Crook Tine Drag,Locking Flay,F1,Bone,A
+MV-BAS-CLW-005-06,Finger Peel Twist,Shredhusk,F4,Bone,A
+MV-BAS-CLW-006-01,Slow Breath Forearm Rise,Kept Clawtip,F1,Senior,A
+MV-BAS-CLW-006-02,Qi-Backed Straight Rake,Clawrake Drop,F3,Senior,A
+MV-BAS-CLW-006-03,Exhale Rib Point Drive,Leaden Shred,F1,Senior,A
+MV-BAS-CLW-006-04,Held Breath Claw Cover,Talonstay,F4,Senior,A
+MV-BAS-CLW-006-05,Inhale Slip Back,Talontrot,F4,Senior,A
+MV-BAS-CLW-006-06,Rolling Breath Twin Rake,Scourhit,F4,Senior,A
+MV-BAS-CLW-006-07,Quiet Tine Grab,Fingerblade Stay,F3,Senior,A
+MV-BAS-CLW-007-01,Steep Falling Rake,Nailbump,F4,Senior,A
+MV-BAS-CLW-007-02,Overhead Blade Cover,Nailhusk,F4,Senior,A
+MV-BAS-CLW-007-03,Talon Dig at the Shoulder,Backplate Drop,F3,Senior,A
+MV-BAS-CLW-007-04,Rake and Reset Step,Talonhit,F4,Senior,A
+MV-BAS-CLW-007-05,Crossed Wrist Stop,Resting Hookclaw,F1,Senior,A
+MV-BAS-CLW-008-01,Strap Press Between Exchanges,Nailgauge,F4,Senior,A
+MV-BAS-CLW-008-02,Wrist Hook Turn-In,Razewedge,F4,Senior,A
+MV-BAS-CLW-008-03,Hook-Lift Parry,Angled Knucklespike,F1,Senior,A
+MV-BAS-CLW-008-04,Low Wrist Scoop Cut,Pawldash,F4,Senior,A
+MV-BAS-CLW-008-05,Backhand Hook Cut,Nailblow,F4,Senior,A
+MV-BAS-CLW-008-06,Roll-Out Finger Cutting,Nabbing Clawbase,F1,Senior,A
+MV-BAS-CLW-008-07,Hooked Forearm Press-Down,Catching Clawtip,F1,Senior,A
+MV-BAS-CLW-008-08,Strapped Forearm Brace,Ready Palmstrap,F1,Senior,A
+MV-BAS-CLW-009-01,Low Base Claw Stance,Raised Clawbase,F1,Senior,A
+MV-BAS-CLW-009-02,Leg-Driven Rake,Narrow Scour,F1,Senior,A
+MV-BAS-CLW-009-03,Sinking Tine Pull,Towing Rip,F1,Senior,A
+MV-BAS-CLW-009-04,Rooted Claw Parry,Fingerblade Pause,F3,Senior,A
+MV-BAS-CLW-009-05,Dropping Knee Slash,Gnawing Backplate,F1,Senior,A
+MV-BAS-CLW-009-06,Rise from the Crouch,Easing Raze,F1,Senior,A
+MV-BAS-CLW-010-01,Chest Range Slash,Flat Scour,F1,Senior,A
+MV-BAS-CLW-010-02,Return Slash Guard,Settled Tinecurve,F1,Senior,A
+MV-BAS-CLW-010-03,Two-Hand Close Cross,Razehit,F4,Senior,A
+MV-BAS-CLW-010-04,Shoulder Line Hook Cut,Ripdrop,F4,Senior,A
+MV-BAS-CLW-010-05,Slip Under the Slash,Easing Clawrake,F1,Senior,A
+MV-BAS-CLW-010-06,Slash and Clinch Hook,Hitching Shred,F1,Senior,A
+MV-BAS-CLW-010-07,Recovering Claw Frame,Planted Wristband,F1,Senior,A
+MV-BAS-CLW-002-03,Plain Shred,Raking Shred,F1,Skin,A

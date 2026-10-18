@@ -1,0 +1,68 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-BAS-FLA-001-01,Overhead Flail Drop,Gimbaldrop,F4,Unawakened,A
+MV-BAS-FLA-001-02,Slack Chain Wrist Flick,Hard Chainlink,F1,Unawakened,A
+MV-BAS-FLA-001-03,Haft Crosswise Raise,Swivel Husk,F3,Unawakened,A
+MV-BAS-FLA-001-04,Taut Chain Cross Catch,Swingarm Wedge,F3,Unawakened,A
+MV-BAS-FLA-001-05,Backstep Head Lift,Flailhead Hop,F3,Unawakened,A
+MV-BAS-FLA-001-06,Haft Butt Jab,Descending Wheel,F1,Unawakened,A
+MV-BAS-FLA-002-01,Short-Chain Hip Swing,Threshdash,F4,Skin,A
+MV-BAS-FLA-002-02,Wrist Loop Windup,Firm Rebound,F1,Skin,A
+MV-BAS-FLA-002-03,Elbow-Tucked Chain Hold,Swivelcowl,F4,Skin,A
+MV-BAS-FLA-002-04,Hand-Over-Hand Reel,Wheellid,F4,Skin,A
+MV-BAS-FLA-002-05,Two-Pace Stop Beat,Stepping Spikehead,F1,Skin,A
+MV-BAS-FLA-002-06,Sidelong Head Flick,Headball Hit,F3,Skin,A
+MV-BAS-FLA-002-07,Iron Cap Knock,Low Thresh,F1,Skin,A
+MV-BAS-FLA-003-01,Two-Hand Haft Heave,Descending Linkband,F1,Skin,A
+MV-BAS-FLA-003-02,Sliding Rear Hand Reach,Firm Chainring,F1,Skin,A
+MV-BAS-FLA-003-03,Level Haft Chest Block,Lowered Handstaff,F1,Skin,A
+MV-BAS-FLA-003-04,Haft Sweep Parry,Swivelpause,F4,Skin,A
+MV-BAS-FLA-003-05,Crosswise Haft Shove,Pulling Hingecap,F1,Skin,A
+MV-BAS-FLA-004-01,Threshing Overhead Fall,Stiff Lashout,F1,Muscle,A
+MV-BAS-FLA-004-02,Rising Underarm Lash,Short Hingecap,F1,Muscle,A
+MV-BAS-FLA-004-03,Linked Double Swing,Plain Swivel,F1,Muscle,A
+MV-BAS-FLA-004-04,Shoulder Roll Return,Threshstrike,F4,Muscle,A
+MV-BAS-FLA-004-05,Stamp and Fall Timing,Flailhop,F4,Muscle,A
+MV-BAS-FLA-004-06,Outward Wrist Backcut,Looping Strike,F3,Muscle,A
+MV-BAS-FLA-004-07,Raised Forearm Chain Guard,Chainlink Cowl,F3,Muscle,A
+MV-BAS-FLA-004-08,Planted Foot Pivot Turn,Skipping Thresh,F1,Muscle,A
+MV-BAS-FLA-005-01,Wide Stance Anchor Swing,Square Looping,F1,Tendon,A
+MV-BAS-FLA-005-02,Sliding Foot Chase,Sideways Swingthru,F1,Tendon,A
+MV-BAS-FLA-005-03,Half-Circle Flank Step,Sideways Lashout,F1,Tendon,A
+MV-BAS-FLA-005-04,Crouch-Under Counter Slip,Flailpace,F4,Tendon,A
+MV-BAS-FLA-005-05,Heel-Planted Rush Brace,Tight Handstaff,F1,Tendon,A
+MV-BAS-FLA-005-06,Hip-Led Turning Drive,Open Headball,F1,Tendon,A
+MV-BAS-FLA-006-01,Warmed Haft Overswing,Flailblow,F4,Senior,A
+MV-BAS-FLA-006-02,Qi-Lined Chain Snap,Plain Swingarm,F1,Senior,A
+MV-BAS-FLA-006-03,Steady Breath Orbit,Gimbalbump,F4,Senior,A
+MV-BAS-FLA-006-04,Qi Grip Brace,Folded Chainring,F1,Senior,A
+MV-BAS-FLA-006-05,Warm Chain Bat-Aside,Swivelstay,F4,Senior,A
+MV-BAS-FLA-006-06,Exhale Backstep Swing,Backward Rebound,F1,Senior,A
+MV-BAS-FLA-006-07,Fingertip Head Sense,Smooth Spikehead,F1,Senior,A
+MV-BAS-FLA-007-01,Plain Haft-and-Chain Strike,Square Wheel,F1,Senior,A
+MV-BAS-FLA-007-02,Chain Length Gather,Quick Thresh,F1,Senior,A
+MV-BAS-FLA-007-03,Single-Turn Forearm Loop,Turning Swingthru,F1,Senior,A
+MV-BAS-FLA-007-04,Rising Haft Roll-Off,Gimbalhusk,F4,Senior,A
+MV-BAS-FLA-007-05,Hanging Head Counterweight,Tight Chainring,F1,Senior,A
+MV-BAS-FLA-007-06,Lead Foot Slide-Up,Skipping Swingthru,F1,Senior,A
+MV-BAS-FLA-007-07,Ground-Skimming Shin Sweep,Swivelstrike,F4,Senior,A
+MV-BAS-FLA-007-08,End-Cap Knee Rap,Flailstrike,F4,Senior,A
+MV-BAS-FLA-008-01,Missed-Swing Recovery Pull,Angled Spikehead,F1,Senior,A
+MV-BAS-FLA-008-02,Upward Recovery Flick,Linkband Bump,F3,Senior,A
+MV-BAS-FLA-008-03,Tight Circle Untangle,Gimbalwedge,F4,Senior,A
+MV-BAS-FLA-008-04,Off-Hand Head Catch,Kept Headball,F1,Senior,A
+MV-BAS-FLA-008-05,Ground Rebound Knee Hit,Swingarm Bump,F3,Senior,A
+MV-BAS-FLA-008-06,Ready Stance Reset,Calm Flailhead,F1,Senior,A
+MV-BAS-FLA-009-01,Farm Flail Cross Beat,Wheelhit,F4,Senior,A
+MV-BAS-FLA-009-02,Barn-Bar Haft Brace,Kept Flailhead,F1,Senior,A
+MV-BAS-FLA-009-03,Walking Carry Fling,Quick Swivel,F1,Senior,A
+MV-BAS-FLA-009-04,Crowded Lane Upright Swing,Narrow Chainlink,F1,Senior,A
+MV-BAS-FLA-009-05,Soft Ground Flat-Foot Walk,Gimbalhop,F4,Senior,A
+MV-BAS-FLA-009-06,Calf Hook Chain Pull,Threshlid,F4,Senior,A
+MV-BAS-FLA-009-07,Rail-Gripping Hand Smash,Downward Hingecap,F1,Senior,A
+MV-BAS-FLA-010-01,Inhale Windup Fall,Flaildash,F4,Senior,A
+MV-BAS-FLA-010-02,Long Exhale Orbit,Wheelstrike,F4,Senior,A
+MV-BAS-FLA-010-03,Held Breath Impact Brace,Planted Handstaff,F1,Senior,A
+MV-BAS-FLA-010-04,Counted Step Cadence,Sideways Looping,F1,Senior,A
+MV-BAS-FLA-010-05,Chain Tension Lean Read,Deep Spikehead,F1,Senior,A
+MV-BAS-FLA-004-03,Plain Swivel,Short Swivel,F1,Muscle,A
+MV-BAS-FLA-006-02,Plain Swingarm,Spare Swingarm,F1,Senior,A

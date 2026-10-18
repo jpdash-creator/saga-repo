@@ -1,0 +1,23 @@
+move_id,manual_id,affinity_id,seq,name,move_type,function,form,cost_class,unlock_realm,description,status,first_area
+CMV-BAS-CRE-001-01,CMAN-BAS-CRE-001,CRE,01,Shaped Fist,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Shape a dense lump of qi about the fist and strike so the lump adds its weight to the blow.,Active,Not yet established
+CMV-BAS-CRE-001-02,CMAN-BAS-CRE-001,CRE,02,Air Rung,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Make a firm rung of qi in the air and step off it to cross a short gap.,Active,Not yet established
+CMV-BAS-CRE-001-03,CMAN-BAS-CRE-001,CRE,03,Mold Plate,Basic,Defense:Shield,INSTANT,MINIMAL,T1 Unawakened,Mold a plate of dense qi before the forearm to take a blow.,Active,Not yet established
+CMV-BAS-CRE-001-04,CMAN-BAS-CRE-001,CRE,04,Spark Maker,Basic,Support:Empower,INSTANT,MINIMAL,T1 Unawakened,Kindle a small ember of new force in the fist so the next blow lands harder.,Active,Not yet established
+CMV-BAS-CRE-001-05,CMAN-BAS-CRE-001,CRE,05,Needle Spawn,Basic,Attack:Projectile,INSTANT,MINIMAL,T1 Unawakened,Make a thin needle of qi between the fingers and flick it at a target.,Active,Not yet established
+CMV-BAS-CRE-001-06,CMAN-BAS-CRE-001,CRE,06,Pliant Grip,Basic,Control:Bind,INSTANT,LOW,T1 Unawakened,Make a loop of soft qi-stuff about a foe's wrist and draw it tight.,Active,Not yet established
+CMV-BAS-CRE-002-01,CMAN-BAS-CRE-002,CRE,01,Craft Pebble,Basic,Attack:Projectile,INSTANT,MINIMAL,T1 Unawakened,Make a hard pebble of qi from nothing and throw it at the face.,Active,Not yet established
+CMV-BAS-CRE-002-02,CMAN-BAS-CRE-002,CRE,02,Quick Buckler,Basic,Defense:Shield,INSTANT,MINIMAL,T1 Unawakened,Make a small round buckler of qi on the arm in time to catch a thrust.,Active,Not yet established
+CMV-BAS-CRE-002-03,CMAN-BAS-CRE-002,CRE,03,Knit Skin,Basic,Support:Heal,CHANNELED,MINIMAL,T1 Unawakened,Make fresh skin over a shallow cut or scrape on an ally or the user.,Active,Not yet established
+CMV-BAS-CRE-002-04,CMAN-BAS-CRE-002,CRE,04,Hard Spur,Basic,Control:Disrupt,INSTANT,MINIMAL,T1 Unawakened,Make a short post of hard qi in a foe's path so the stride trips on it.,Active,Not yet established
+CMV-BAS-CRE-002-05,CMAN-BAS-CRE-002,CRE,05,Coil Cord,Basic,Control:Bind,INSTANT,LOW,T1 Unawakened,Make a cord of qi that coils about a foe's ankles and holds them.,Active,Not yet established
+CMV-BAS-CRE-003-01,CMAN-BAS-CRE-003,CRE,01,Conjure Edge,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Conjure a short edge of hard qi along the hand and cut with it in one stroke.,Active,Not yet established
+CMV-BAS-CRE-003-02,CMAN-BAS-CRE-003,CRE,02,Conjure Pike,Basic,Attack:Penetrating,INSTANT,LOW,T1 Unawakened,Conjure a narrow pike of qi and thrust it into one point on the foe.,Active,Not yet established
+CMV-BAS-CRE-003-03,CMAN-BAS-CRE-003,CRE,03,Edge Parry,Basic,Defense:Deflect,INSTANT,MINIMAL,T1 Unawakened,Conjure a blade in the off hand and turn a thrust aside with its flat.,Active,Not yet established
+CMV-BAS-CRE-003-04,CMAN-BAS-CRE-003,CRE,04,Edge Throw,Basic,Attack:Projectile,INSTANT,MINIMAL,T1 Unawakened,Conjure a throwing blade and hurl it before it fades from the fingers.,Active,Not yet established
+CMV-BAS-CRE-003-05,CMAN-BAS-CRE-003,CRE,05,Blade Vault,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Plant a conjured blade point in the ground and vault off its hilt to a new spot.,Active,Not yet established
+CMV-BAS-CRE-003-06,CMAN-BAS-CRE-003,CRE,06,Whet Edge,Basic,Support:Empower,CHANNELED,MINIMAL,T1 Unawakened,Make a conjured edge thinner and harder so the next cuts bite deeper.,Active,Not yet established
+CMV-BAS-CRE-004-01,CMAN-BAS-CRE-004,CRE,01,Renew Touch,Basic,Support:Heal,CHANNELED,MINIMAL,T1 Unawakened,Lay a hand on a bruise or small wound and make new flesh to close it.,Active,Not yet established
+CMV-BAS-CRE-004-02,CMAN-BAS-CRE-004,CRE,02,Fresh Breath,Basic,Support:Empower,CHANNELED,MINIMAL,T1 Unawakened,Make a clean draught of qi in the lungs to ease labored breath and lengthen endurance.,Active,Not yet established
+CMV-BAS-CRE-004-03,CMAN-BAS-CRE-004,CRE,03,Bright Ward,Basic,Defense:Shield,INSTANT,MINIMAL,T1 Unawakened,Make a glowing shell of qi round the chest that takes a blow and then fades.,Active,Not yet established
+CMV-BAS-CRE-004-04,CMAN-BAS-CRE-004,CRE,04,Kindle Jab,Basic,Attack:Strike,INSTANT,MINIMAL,T1 Unawakened,Jab with a fist that kindles a burst of new force at the moment of contact.,Active,Not yet established
+CMV-BAS-CRE-004-05,CMAN-BAS-CRE-004,CRE,05,Draft Step,Basic,Mobility:Step,INSTANT,MINIMAL,T1 Unawakened,Make a draught of force behind the heel and push off it into a long stride.,Active,Not yet established

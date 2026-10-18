@@ -1,0 +1,140 @@
+move_id,old_name,new_name,form,naming_level,tier
+MV-SIG-FLA-001-01,Paired Iron Court Bow,Threshtriumph,F4,Warrior,B
+MV-SIG-FLA-001-02,Basin Corner Guard Step,Deluge Looping,F2,Warrior,B
+MV-SIG-FLA-001-03,Twin Haft Wrist Brace,Prism Chainlink,F2,Warrior,B
+MV-SIG-FLA-001-04,Alternating Chain Bell,Quenched Headball,F2,Warrior,B
+MV-SIG-FLA-001-05,Court Twin-Head Answer Parry,Stately Swivel,F1,Warrior,B
+MV-SIG-FLA-001-06,Twin-Chain Hook Pull,Thrallswivel,F5,Warrior,B
+MV-SIG-FLA-001-07,Azure Pair Hammer,Steelflail,F5,Champion,B
+MV-SIG-FLA-001-08,Court Chain Loop Cage,Sigil Linkband,F2,Champion,B
+MV-SIG-FLA-001-09,Twin Court Iron Pincer,Illustrious Hingecap,F1,Demigod,B
+MV-SIG-FLA-001-10,Court of Two Iron Falls,Peerless Inferno Rebound,F6a,Warrior,B
+MV-SIG-FLA-002-01,Hawk Rise Poised Swing,Squallwheel,F5,Warrior,B
+MV-SIG-FLA-002-02,Azure Glide Retreat,Deluge Swingthru,F2,Warrior,B
+MV-SIG-FLA-002-03,Wing-Cross Haft Block,Swingarm Troth,F3,Warrior,B
+MV-SIG-FLA-002-04,Stooping Chain Fall,Thunderclap Wheel,F2,Warrior,B
+MV-SIG-FLA-002-05,Hawk-Eye Gap Fixing,Reminiscence Spikehead,F2,Warrior,B
+MV-SIG-FLA-002-06,Talon Spike Snatch,Peal Thresh,F2,Warrior,B
+MV-SIG-FLA-002-07,Rising Head Blade Lift,Squall Flailhead,F2,Warrior,B
+MV-SIG-FLA-002-08,Double Stoop Descent,Haemal Lashout,F2,Champion,B
+MV-SIG-FLA-002-09,Overhead Chain Hawk Snare,Commanding Chainring,F1,Champion,B
+MV-SIG-FLA-002-10,Zenith Fall Reversal,Haemalgimbal,F5,Demigod,B
+MV-SIG-FLA-002-11,Great Hawk Descent,Storied Quenched Thresh,F6a,Warrior,B
+MV-SIG-FLA-003-01,Marsh-Footed Reed Walk,Dune Rebound,F2,Champion,B
+MV-SIG-FLA-003-02,Bank Slope Overhead Fall,Steel Wheel,F2,Champion,B
+MV-SIG-FLA-003-03,Sluice Haft Guard,Bedrock Chainlink,F2,Champion,B
+MV-SIG-FLA-003-04,Reed Sway Chain Test,Reminiscence Handstaff,F2,Champion,B
+MV-SIG-FLA-003-05,Bending Reed Lash,Thunderclap Headball,F2,Champion,B
+MV-SIG-FLA-003-06,Undercut Bank Swing,Triumphant Swivel,F1,Champion,B
+MV-SIG-FLA-003-07,Haft Current Rolling Parry,Consecrated Swingarm,F1,Champion,B
+MV-SIG-FLA-003-08,Silt Cloud Drag,Unbending Flailhead,F1,Champion,B
+MV-SIG-FLA-003-09,Spring Flood Swing,Wheeltriumph,F4,Champion,B
+MV-SIG-FLA-003-10,Reed-Net Chain Weave,Hornbeam Swingthru,F2,Champion,B
+MV-SIG-FLA-003-11,River-Parting Iron Fall,Quenched Lashout,F2,Demigod,B
+MV-SIG-FLA-003-12,Bending Reed Return Stroke,Steel Spikehead,F2,Champion,B
+MV-SIG-FLA-004-01,Opposed Orbit Opening,Haemalswivel,F5,Ruler,B
+MV-SIG-FLA-004-02,Counter-Orbit Circling Step,Ethereal Linkband,F1,Ruler,B
+MV-SIG-FLA-004-03,Closed Orbit Barrier,Stately Chainring,F1,Ruler,B
+MV-SIG-FLA-004-04,Released Orbit Strike,Inferno Hingecap,F2,Ruler,B
+MV-SIG-FLA-004-05,Orbit Exchange Pass,Immaculate Swivel,F1,Ruler,B
+MV-SIG-FLA-004-06,Counter-Rotating Snare,Sigilflail,F5,Ruler,B
+MV-SIG-FLA-004-07,Court Orbit Barrage,Solar Handstaff,F2,Ruler,B
+MV-SIG-FLA-004-08,Orbit Crossing Seizure,Sigil Thresh,F2,Ruler,B
+MV-SIG-FLA-004-09,Dual Orbit Collapse,Imperial Linkband,F1,Demigod,B
+MV-SIG-FLA-004-10,Azure Closing Twin Orbit Fall,Famed Lashout,F1,Ruler,B
+MV-SIG-FLA-005-01,Twin Track Opening Cycle,Handstaff Crown,F3,Demigod,B
+MV-SIG-FLA-005-02,Alternating Track Footwork,Hingecap Voyage,F3,Demigod,B
+MV-SIG-FLA-005-03,Field-Linked Chain Sense,Magnanimous Chainring,F1,Demigod,B
+MV-SIG-FLA-005-04,Crossed Haft Qi Guard,Prismgimbal,F5,Demigod,B
+MV-SIG-FLA-005-05,Track-Crossing Strike,Inferno Looping,F2,Demigod,B
+MV-SIG-FLA-005-06,Field Exchange Parry,Pall Spikehead,F2,Demigod,B
+MV-SIG-FLA-005-07,Dual Chain Wrist Pull,Gimbalvow,F4,Demigod,B
+MV-SIG-FLA-005-08,Handoff Cycle Cadence,Vigorswivel,F5,Demigod,B
+MV-SIG-FLA-005-09,Iron Cycle Barrage,Gallant Wheel,F1,Demigod,B
+MV-SIG-FLA-005-10,Twin Track Weapon Lock,Sigilwheel,F5,Demigod,B
+MV-SIG-FLA-005-11,Dual Iron Converging Fall,Quenched Rebound,F2,Demigod,B
+MV-SIG-FLA-005-12,Unrested Twin Iron Cycle,Magnificent Squall Swingarm,F6a,Demigod,B
+MV-SIG-FLA-006-01,Zenith Sight Swing,Steel Looping,F2,Core Formation,B
+MV-SIG-FLA-006-02,Core-Steady Footing,Bedrock Headball,F2,Core Formation,B
+MV-SIG-FLA-006-03,High Perch Spring Step,Squall Swingthru,F2,Core Formation,B
+MV-SIG-FLA-006-04,Core-Fed Stoop,Bedrock Spikehead,F2,Core Formation,B
+MV-SIG-FLA-006-05,Descending Chain Sky Parry,Squallgimbal,F5,Core Formation,B
+MV-SIG-FLA-006-06,Apex Height Sensing,Swivelbenison,F4,Core Formation,B
+MV-SIG-FLA-006-07,High Drop Snare,Flailseal,F4,Core Formation,B
+MV-SIG-FLA-006-08,Summit Fall Barrage,Dauntless Linkband,F1,Core Formation,B
+MV-SIG-FLA-006-09,Core Summit Release,Haemal Chainlink,F2,Core Formation,B
+MV-SIG-FLA-006-10,Highest Arc Iron Plunge,Chainring Verdict,F3,Core Formation,B
+MV-SIG-FLA-006-11,Summit-Gathered Descent,Bedrock Looping,F2,Core Formation,B
+MV-SIG-FLA-007-01,Sworn Draw Upswing,Bedrock Rebound,F2,Warrior,B
+MV-SIG-FLA-007-02,Wind-Facing Stance,Swivel Seal,F3,Warrior,B
+MV-SIG-FLA-007-03,Plateau Running Step,Deluge Headball,F2,Warrior,B
+MV-SIG-FLA-007-04,Wind-Sworn Cross Swing,Swiveldecree,F4,Warrior,B
+MV-SIG-FLA-007-05,Oath-Held Chain Parry,Sacrosanct Hingecap,F1,Warrior,B
+MV-SIG-FLA-007-06,Wind-Carried Snare Loop,Sigil Flailhead,F2,Warrior,B
+MV-SIG-FLA-007-07,Windward Rear Strike,Vigorthresh,F5,Warrior,B
+MV-SIG-FLA-007-08,Gale-Lifted Heavy Head,Vaunted Lashout,F1,Champion,B
+MV-SIG-FLA-007-09,Plateau-Wide Sworn Sweep,Solarswivel,F5,Champion,B
+MV-SIG-FLA-007-10,Oath of the Wind Fall,Haemal Swingthru,F2,Demigod,B
+MV-SIG-FLA-007-11,Sworn Plateau Roll,Splendid Vigor Swingarm,F6a,Warrior,B
+MV-SIG-FLA-008-01,Carried Head Opening Throw,Quenched Chainlink,F2,Warrior,B
+MV-SIG-FLA-008-02,Flail Haft Gust Pivot,Consecrated Handstaff,F1,Warrior,B
+MV-SIG-FLA-008-03,Wind Drift Step,Wraithlike Rebound,F1,Warrior,B
+MV-SIG-FLA-008-04,Tail Gust Hammer,Lordly Thresh,F1,Warrior,B
+MV-SIG-FLA-008-05,Wind-Bent Chain Snare,Glacier Thresh,F2,Warrior,B
+MV-SIG-FLA-008-06,Gale-Spun Cover Guard,Prismflail,F5,Warrior,B
+MV-SIG-FLA-008-07,Carried Blow Barrage,Tempestuous Flailhead,F2,Champion,B
+MV-SIG-FLA-008-08,Gale Full-Chain Throw,Flaildecree,F4,Champion,B
+MV-SIG-FLA-008-09,Gale-Borne Iron Strike,Illustrious Wheel,F1,Demigod,B
+MV-SIG-FLA-008-10,Gust-Ridden Head Descent,Paramount Thunderclap Linkband,F6a,Warrior,B
+MV-SIG-FLA-009-01,Long Chain Bearing Cast,Flailverdict,F4,Champion,B
+MV-SIG-FLA-009-02,Fixed Bearing Chain Pace,Deluge Hingecap,F2,Champion,B
+MV-SIG-FLA-009-03,Taut Chain Line Guard,Flailtroth,F4,Champion,B
+MV-SIG-FLA-009-04,Bearing Check Sensing,Revelation Swingarm,F2,Champion,B
+MV-SIG-FLA-009-05,Same-Bearing Double Cut,Lordly Headball,F1,Champion,B
+MV-SIG-FLA-009-06,Long Chain Counter Whip,Haemal Spikehead,F2,Champion,B
+MV-SIG-FLA-009-07,Bearing Parry Loop,Peal Swivel,F2,Champion,B
+MV-SIG-FLA-009-08,Distance Tether Pull,Glacier Lashout,F2,Champion,B
+MV-SIG-FLA-009-09,Fixed-Arc Long Chain Sweep,Flailedict,F4,Champion,B
+MV-SIG-FLA-009-10,Bearing-Pinned Drag,Sigil Chainring,F2,Champion,B
+MV-SIG-FLA-009-11,True Bearing Iron Fall,Vigor Looping,F2,Demigod,B
+MV-SIG-FLA-009-12,Long Chain Sworn Bearing,Bedrock Flailhead,F2,Champion,B
+MV-SIG-FLA-010-01,Squall Heavy Swing,Inferno Linkband,F2,Ruler,B
+MV-SIG-FLA-010-02,Wide Loose-Ground Footing,Steelswivel,F5,Ruler,B
+MV-SIG-FLA-010-03,Squall Dodge Step,Vigor Chainlink,F2,Ruler,B
+MV-SIG-FLA-010-04,Heavy Chain Wrap Heave,Hornbeam Wheel,F2,Ruler,B
+MV-SIG-FLA-010-05,Squall Rolling Ring,Sovereign Lashout,F1,Ruler,B
+MV-SIG-FLA-010-06,Gust-Held Chain Parry,Delugeswivel,F5,Ruler,B
+MV-SIG-FLA-010-07,Heavy Iron Rebound,Triumphant Wheel,F1,Ruler,B
+MV-SIG-FLA-010-08,Squall-Driven Hammering,Vigor Rebound,F2,Ruler,B
+MV-SIG-FLA-010-09,Storm Ring of Iron,Dune Swingthru,F2,Ruler,B
+MV-SIG-FLA-010-10,Squall Weight Release,Vigorwheel,F5,Demigod,B
+MV-SIG-FLA-010-11,Squall-Gathered Chain Fall,Handstaff Triumph,F3,Ruler,B
+MV-SIG-FLA-011-01,Rim Oath Whirl Opening,Squall Chainring,F2,Demigod,B
+MV-SIG-FLA-011-02,Sworn Rim Haft Stance,Swivel Covenant,F3,Demigod,B
+MV-SIG-FLA-011-03,Field-Read Wind Step,Squall Spikehead,F2,Demigod,B
+MV-SIG-FLA-011-04,Cycle Turning Point Strike,Swiveltriumph,F4,Demigod,B
+MV-SIG-FLA-011-05,Rimfall Whirling Iron Ward,Parityswivel,F5,Demigod,B
+MV-SIG-FLA-011-06,Whirl-Hook Seizure,Ruling Thresh,F1,Demigod,B
+MV-SIG-FLA-011-07,Open Sky Whirl Barrage,Entropy Swingarm,F2,Demigod,B
+MV-SIG-FLA-011-08,Oath-Locked Iron Ring,Hornbeam Headball,F2,Demigod,B
+MV-SIG-FLA-011-09,Rim Cycle Falling Iron,Threshdecree,F4,Demigod,B
+MV-SIG-FLA-011-10,Sworn Rim Whirl Unbroken,Wheelverdict,F4,Demigod,B
+MV-SIG-FLA-012-01,Core Gale Opening Swing,Inferno Chainlink,F2,Core Formation,B
+MV-SIG-FLA-012-02,Core Bearing Footing,Devout Hingecap,F1,Core Formation,B
+MV-SIG-FLA-012-03,Gale Step Through,Squall Handstaff,F2,Core Formation,B
+MV-SIG-FLA-012-04,Wind Turning Core Reading,Flailbenison,F4,Core Formation,B
+MV-SIG-FLA-012-05,Core-Fed Gale Whirl,Haemal Looping,F2,Core Formation,B
+MV-SIG-FLA-012-06,Sworn Chain Counter,Immaculate Flailhead,F1,Core Formation,B
+MV-SIG-FLA-012-07,Gale Hook Wrench,Gimbalpledge,F4,Core Formation,B
+MV-SIG-FLA-012-08,Gale Low Sweep,Vigor Lashout,F2,Core Formation,B
+MV-SIG-FLA-012-09,Gale-Sworn Sweeping Barrage,Threshcrown,F4,Core Formation,B
+MV-SIG-FLA-012-10,Core Gale Crushing Weight,Bedrock Swingarm,F2,Core Formation,B
+MV-SIG-FLA-012-11,Sworn Gale Iron Descent,Paramount Thresh,F1,Core Formation,B
+MV-SIG-FLA-012-12,Gale-Sworn Unbroken Fall,Imperial Vigor Headball,F6a,Core Formation,B
+MV-SIG-FLA-003-01,Dune Rebound,Deft Rebound,F2,Champion,B
+MV-SIG-FLA-003-10,Hornbeam Swingthru,Wrenching Swingthru,F2,Champion,B
+MV-SIG-FLA-008-05,Glacier Thresh,Gripping Thresh,F2,Warrior,B
+MV-SIG-FLA-009-08,Glacier Lashout,Snaring Lashout,F2,Champion,B
+MV-SIG-FLA-010-04,Hornbeam Wheel,Clamping Wheel,F2,Ruler,B
+MV-SIG-FLA-010-09,Dune Swingthru,Reaping Swingthru,F2,Ruler,B
+MV-SIG-FLA-011-08,Hornbeam Headball,Wrenching Headball,F2,Demigod,B
