@@ -704,7 +704,7 @@ Differences between the plan and the text (D1 to D12), listed at Gate 1 or by th
 - Area 01 (D4): the ward's cast is narrower than the plan allowed: no senior ward healers, no orderly and no visiting guards on the page; one unnamed healer in the first room is added and is silent (this lane's reading).
 - Area 01 (D5): the hold is rendered without the plan's "ribbon of qi"; Varya sees a hand that moves "by the width of a hair" with each breath and nothing else (the Gate 1 fix; this lane's reading).
 - Area 01 (D6): Aegon's stop sits before the time-skip mark; the plan text puts it after the mark and also says "the colour has not yet come", so the written order is the coherent one (listed at Gate 1).
-- Area 01 (D7): Valia crouches before the children at the last corner, "which Varya had never seen her do"; the plan lists no off-register act for the Area (listed at Gate 1; information).
+- Area 01 (D7): Valia crouches before the children at the last corner, "which Varya had never seen her do"; the plan lists no off-register act for the Area (listed at Gate 1; information). **Author ruling, 2026-10-18: a page fact only; it is not registered as an off-register act and no Section 12 entry is written.**
 - Area 02 (D8): Yun Ashvale's opening paragraph holds 186 words against "about 150" (listed; never blocking).
 - Areas 02 and 06 (D9): Petroc has no surname on the page; Ned, Tamar and Mabyn get theirs only in the Grandmaster's naming in Area 06.
 - Area 02 (D10): the yard's own custom, correction as a movement done beside you, is not shown; no pupil is corrected in the Chapter (this lane's reading).
