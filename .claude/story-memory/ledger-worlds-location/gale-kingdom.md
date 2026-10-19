@@ -4,7 +4,7 @@
 **Location Tier (Part 13 Area 2.1):** Tier 5 — Kingdom (Sub-World)
 **Part 13 Classification:** OPEN-AREA — the Km class is set when a scene first needs it (Part 13 Area 7.1); Cultivation-Dominant Kingdom type (high cultivation focus, technology secondary; cultivation-dominant dual-track; CA and TA values are owned by aeries.md and aalia.md)
 **First Area Appearance:** Area 02 — What the Wire Brought Down (Ref: 1.1.1.001.02)
-**Last Updated:** 2026-10-18
+**Last Updated:** 2026-10-19
 **Ledger Version:** v1.0
 
 ---
@@ -67,7 +67,10 @@ All Firmament Lock restrictions apply (technology ceiling: Tier 6). Cultivation 
 
 **Notable Sub-Locations within Gale Kingdom (B — partial):**
 - **Aerie Palace** — royal seat on the Aerie Plateau (cross-ref: aerie-palace.md)
-- **Highgale** — the Gale capital city, distinct from the palace, on the Aerie Plateau floor about 12 km east-south-east of the Aerie Palace (DIST-011, SKETCH); named by the author's ruling of 2026-10-18 (`[ASKED]` Author ruling, 2026-10-18 (map consultation)); not yet on the page (cross-ref: highgale.md)
+- **Highgale** — the Gale capital city, distinct from the palace, on the Aerie Plateau floor about 12 km east-south-east of the Aerie Palace (DIST-011, SKETCH); named by the author's ruling of 2026-10-18 (`[ASKED]` Author ruling, 2026-10-18 (map consultation)); first on the page at Chapter 005 (Ref: 1.1.1.005), read from the palace terrace by eight named districts (cross-ref: highgale.md)
+- **Whistledeep** — the mine up the mountain whose ore goes down the Seam Road to the Aerie Artificers' College; first on the page at Chapter 005 (cross-ref: whistledeep-mine.md)
+- **The Seam Road**, **Stirrup Ford** and **the Mule Stair** — the mine's road down the mountain, the ford on it where the caravan of 1247.1.9 / PD 9 was taken, and the stair at whose foot the Windward Host's Ridgewatch outpost stands; first on the page at Chapter 005 (cross-ref: seam-road.md and stirrup-ford.md). The page names no frontier; the Chapter Spec's plan puts the road on Gale's northern frontier with Brackenhold at the foot of the Windward Range (a plan fact, `ledger-worlds-kingdom-state/brackenhold.md` Section 1)
+- **Shalegate Pass** — a pass named once, with snow going off the slopes below it (cross-ref: windward-range.md §5.5)
 - **Windward Pass** — the named high pass on the Windward Range; located inside the combined patrol corridor under the Northern Accord; monitored by both Azure Sky and Gale perimeter stations; further geographic and narrative detail not yet established in prose
 
 ---
@@ -79,6 +82,7 @@ All Firmament Lock restrictions apply (technology ceiling: Tier 6). Cultivation 
 | 1.1.1.001.02 — What the Wire Brought Down | The kingdom is named once, in the palace clerk's words: a notice from King Aeries "came to the corridor post by Gale's courier-flight". Nothing of the kingdom is described, and the Area places no Gale site. The residence line of Section 3 is corrected from the plan baseline: Prince Aegon's home is here, and for the school term he lodges in Azorion as a guest of the house (the Chapter Spec's settled answer, first shown in that notice). | Parts 28, 38 | Header (First Area Appearance; Last Updated); Section 3; Section 4 |
 | Author ruling, 2026-10-18 (map consultation) | The climb from the Lyraen is ruled to run through the Stormbreak Foothills on the Windward Range's southern side, and the Aerie Plateau to lie under the Range's eastern stretch (`[ASKED]`); §5.1 clarified. | Parts 13, 28 | Header; Sections 4 and 5.1 |
 | Author ruling, 2026-10-18 (map consultation) | The Gale capital city is named Highgale by the author (`[ASKED]`), on the Aerie Plateau floor about 12 km east-south-east of the Aerie Palace (DIST-011, SKETCH); not yet on the page. The Aerie Palace line of Section 3 no longer reads "not yet named". | Parts 13, 25, 28 | Header; Sections 3, 4, 5.3 and 5.8 |
+| 1.1.1.005 — The House With No Walls (1247.1.9 / PD 9 to 1247.1.14 / PD 14) | The kingdom is set on its own ground for the first time. On 1247.1.9 / PD 9 the mine Whistledeep's caravan is taken at Stirrup Ford on the Seam Road, and its escort, a captain of the Windward Host with five of the Host, and its hands are killed; the Ridgewatch patrol of the Windward Host finds the wagons on 1247.1.11 / PD 11 and the lieutenant rides three days to the Aerie Palace. On 1247.1.12 / PD 12 and 1247.1.14 / PD 14 the Aerie Palace (its terrace, the Stone Ring, the Landing Stone and the ward-line), the Aerie Plateau (the Kite Line, the terraces) and Highgale (eight districts, read from the terrace) are on the page. The Court sits in the open and hears the news of two raids by hand: the raid on the Bluecleft mine's caravan of 1246.12.8 / PD -19 in the king of Azure Sky's letter, and the raid on the Whistledeep caravan in the lieutenant's count; Prince Aegon's letter home is read on 1247.1.12 / PD 12. No band and no kingdom is named by any Gale person. | Parts 13, 22, 25, 28, 41 | Header; Sections 3 and 4; §5.6 |
 
 ---
 
@@ -111,7 +115,7 @@ The reigning sovereigns are **King Aeries** (Dragon-Human; tracked in aeries.md)
 
 The royal seat is the **Aerie Palace**, a highland fortress-monastery on the Aerie Plateau, built into and around a natural wind-carved stone formation. The palace has no walls in the ordinary sense — its defenses are altitude, wind-cultivation wards, and the sworn dragon-lineage cultivators who garrison it. Petitioners arriving at the palace must undergo the **Wind Crossing** — a ritual passage along an exposed stone causeway where the ambient wind is said to "measure the petitioner's intent." Refusal of a petitioner by the palace-wind is canonically rare and treated as an omen.
 
-The Gale capital city is **Highgale**, on the Aerie Plateau floor beneath the royal seat, about 12 km east-south-east of the Aerie Palace (DIST-011, SKETCH); the name is the author's (`[ASKED]` Author ruling, 2026-10-18 (map consultation)), and the city is not yet on the page (cross-ref: highgale.md).
+The Gale capital city is **Highgale**, on the Aerie Plateau floor beneath the royal seat, about 12 km east-south-east of the Aerie Palace (DIST-011, SKETCH); the name is the author's (`[ASKED]` Author ruling, 2026-10-18 (map consultation)), and the city is first on the page at Chapter 005 (Ref: 1.1.1.005), read from the palace terrace by its eight districts (cross-ref: highgale.md §5.3).
 
 ### 5.4 — Dominant Culture (Part 25 Cross-Reference)
 
@@ -133,7 +137,7 @@ The kingdom's technology tier is recorded in `ledger-worlds-kingdom-state/gale-k
 
 Signature canonical technologies:
 - **Aerie Flightcraft** — wind-coupled single-person gliders used by Gale messengers, scouts, and royal couriers; the technology is inseparable from wind-cultivation skill, and the craft are inert without a cultivator pilot.
-- **Storm-Kite Relays** — inscribed kite-chain communication network across the Aerie Plateau; wind-dependent and weather-limited.
+- **Storm-Kite Relays** — inscribed kite-chain communication network across the Aerie Plateau; wind-dependent and weather-limited. *(At Chapter 005, Ref: 1.1.1.005, the page calls the chain of relay masts the Kite Line, a named item; its northern masts fall silent under weather on the Range, it stops at the plateau's north edge in bad weather and it does not reach the mine road: `aerie-plateau.md` §5.4.)*
 - **Wind-Sail Cutters** — Long Coast maritime craft built for storm-windward navigation, crewed by Long Coast Shipwrights' Order mariners.
 
 ### 5.7 — Ambient Energy Class (Part 13 Area 2.3)

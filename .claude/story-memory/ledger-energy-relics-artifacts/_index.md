@@ -3,7 +3,7 @@
 **Ledger Domain:** Energy — Relics and Artifacts
 **Governed By:** `guardrails/ledger/guardrail-ledger-update-law.md`, Part 37 (Ledger Schema Law), Part 12 (Energy Relics and Artifacts Law), Part 11 (Energy Substance Law)
 **Template:** Part 37 Area 2.8 — Schema Template: Energy-Relics / Artifacts Ledger
-**Last Updated:** 2026-10-05
+**Last Updated:** 2026-10-19
 **Index Version:** 10.0
 **Total Entries:** 0 — no Named Relics activated in an Area yet; named entities held before any Area noted below
 
@@ -51,11 +51,13 @@
 
 | Substance State (B) | First Area Reference (L) | Introduced Y/N (L) |
 |---|---|---|
-| Power Crystal | not yet | N |
+| Power Crystal | Chapter 005 — The House With No Walls (Ref: 1.1.1.005), Area block 01 | Y |
 | Gem | not yet | N |
 | Shard | not yet | N |
 | Core | not yet | N |
 | Divine Liquid | not yet | N |
+
+*Power Crystal was introduced to the reader directly in Chapter 005 (Ref: 1.1.1.005), Area block 01, with its picture in the same clause: "Four wagons of Whistledeep ore stood nose to tail behind her, low-grade Power Crystal, the stone that holds qi, in sacks, bound down the mountain for the Aerie Artificers' College." The cargo is bulk ore of low grade (no grade is stated beyond "low") and the page calls it Power Crystal or ore; in Area block 02 each sack is "dull and heavy and giving off no more pressure than gravel". Gem, Shard, Core and Divine Liquid have not been introduced and stay N (written 2026-10-19 at the Gate 2 of Chapter 005).*
 
 ---
 

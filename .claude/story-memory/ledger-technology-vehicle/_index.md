@@ -3,7 +3,7 @@
 **Ledger Domain:** Technology — Vehicles
 **Governed By:** `guardrails/ledger/guardrail-ledger-update-law.md`, Part 37 (Ledger Schema Law), Part 32 (Technology Vehicle Law)
 **Template:** Part 37 Area 2.10 — Schema Template: Technology-Vehicle Ledger
-**Last Updated:** 2026-10-05
+**Last Updated:** 2026-10-19
 **Index Version:** 10.0
 **Total Entries:** 0
 
@@ -32,9 +32,9 @@
 |---|---|---|---|---|---|---|---|---|---|---|
 
 **Named Entities Not Yet Written (pending activation in an Area — no standalone files yet; each is filed on first described use):**
-- **Aerie Flightcraft** — Gale wind-coupled single-person gliders used by messengers, scouts and royal couriers; inert without a cultivator pilot (ledger-worlds-location/gale-kingdom.md §5.6; the Flightcraft arm in ledger-people-society-faction/gale-kingdom-military.md); also listed in ledger-technology-scale; file on first described use
+- **Aerie Flightcraft** — Gale wind-coupled single-person gliders used by messengers, scouts and royal couriers; inert without a cultivator pilot (ledger-worlds-location/gale-kingdom.md §5.6; the Flightcraft arm in ledger-people-society-faction/gale-kingdom-military.md); also listed in ledger-technology-scale; file on first described use *(Note of 2026-10-19: described in use at Chapter 005, Ref: 1.1.1.005, Area blocks 03 and 05: a one-seat glider, "a frame of ash and kite-cloth", flown by a Senior of the lower Levels of the Flightcraft arm, which lands on the flags at the Aerie Palace terrace's edge; the page gives the craft no proper name of its own (`ledger-people-society-faction/gale-kingdom-military.md` §6.12). No standalone file was made at that Gate 2; whether this first described use files it is flagged to the orchestrating command.)*
 - **Wind-Sail Cutters** — Gale Long Coast maritime craft built for storm-windward navigation, crewed by Long Coast Shipwrights' Order mariners (ledger-worlds-location/gale-kingdom.md §5.6; the Long Coast Fleet in ledger-people-society-faction/gale-kingdom-military.md); also listed in ledger-technology-scale; file on first described use
-- **Storm-Kite Relay frames** — the inscribed kite frames of the Storm-Kite Relays network, built by the Aerie Artificers' College (ledger-people-society-faction/gale-kingdom-military.md; the network itself is in ledger-worlds-location/gale-kingdom.md §5.6 and listed in ledger-technology-scale); file on first described use
+- **Storm-Kite Relay frames** — the inscribed kite frames of the Storm-Kite Relays network, built by the Aerie Artificers' College (ledger-people-society-faction/gale-kingdom-military.md; the network itself is in ledger-worlds-location/gale-kingdom.md §5.6 and listed in ledger-technology-scale); file on first described use *(Note of 2026-10-19: at Chapter 005, Ref: 1.1.1.005, Area block 03, "storm-kite frames" are "bound and mended" at Frame Row in Highgale (`ledger-worlds-location/highgale.md` §5.3); nothing more of the frames is shown. No standalone file was made at that Gate 2.)*
 
 ---
 

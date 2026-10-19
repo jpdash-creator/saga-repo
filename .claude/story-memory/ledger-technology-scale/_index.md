@@ -3,7 +3,7 @@
 **Ledger Domain:** Technology — Named Technology Systems and Institutions
 **Governed By:** `guardrails/ledger/guardrail-ledger-update-law.md`, Part 37 (Ledger Schema Law), Part 8 (Technology Scale Law)
 **Template:** Part 37 Area 3.5 — Schema Template: Technology-Scale Ledger
-**Last Updated:** 2026-10-06
+**Last Updated:** 2026-10-19
 **Index Version:** 10.0
 **Total Entries:** 0 (Named Technology Systems: 0; Named Technology Institutions: 0)
 
@@ -58,9 +58,9 @@
 - **Lyraen Engineering Guild** — Azure Sky technology guild for civil infrastructure, transport and structural works (ledger-worlds-location/azure-sky-kingdom.md §5.6); file on first described use
 - **Azure Crafters' Concord** — Azure Sky technology guild for weapons, armor and dual-purpose combat implements (ledger-worlds-location/azure-sky-kingdom.md §5.6); file on first described use
 - **Skylight Analytic Hall** — Azure Sky technology guild for measurement, communication and sensor arrays (ledger-worlds-location/azure-sky-kingdom.md §5.6); file on first described use
-- **Aerie Flightcraft** — Gale wind-coupled single-person gliders, inert without a cultivator pilot (ledger-worlds-location/gale-kingdom.md §5.6); also listed in ledger-technology-vehicle; file on first described use
+- **Aerie Flightcraft** — Gale wind-coupled single-person gliders, inert without a cultivator pilot (ledger-worlds-location/gale-kingdom.md §5.6); also listed in ledger-technology-vehicle; file on first described use *(Note of 2026-10-19: described in use at Chapter 005, Ref: 1.1.1.005, Area blocks 03 and 05: a one-seat glider, "a frame of ash and kite-cloth", wind-coupled, "a box of sticks without qi in its pilot", flown by a Senior of the lower Levels of the Windward Host's Flightcraft arm (`ledger-people-society-faction/gale-kingdom-military.md` §6.12); the page gives the craft no proper name of its own. No standalone file was made at that Gate 2; whether this first described use files it is flagged to the orchestrating command.)*
 - **Wind-Sail Cutters** — Gale Long Coast maritime craft built for storm-windward navigation (ledger-worlds-location/gale-kingdom.md §5.6); also listed in ledger-technology-vehicle; file on first described use
-- **Storm-Kite Relays** — Gale inscribed kite-chain communication network across the Aerie Plateau, wind-dependent and weather-limited (ledger-worlds-location/gale-kingdom.md §5.6); file on first described use
+- **Storm-Kite Relays** — Gale inscribed kite-chain communication network across the Aerie Plateau, wind-dependent and weather-limited (ledger-worlds-location/gale-kingdom.md §5.6); file on first described use *(Note of 2026-10-19: described in use and named the Kite Line at Chapter 005, Ref: 1.1.1.005, Area blocks 03 to 06: its masts whistle on their kite-chains, the last two to the north fall silent under weather on the Range, weather stopped the line at the plateau's north edge, and it does not reach the mine road. `ledger-worlds-location/aerie-plateau.md` §5.4 and `ledger-named-items/_index.md` hold the page's facts. No standalone file was made at that Gate 2, as none was made for the Hourline in Chapter 003; whether this first described use files it is flagged to the orchestrating command.)*
 
 ---
 

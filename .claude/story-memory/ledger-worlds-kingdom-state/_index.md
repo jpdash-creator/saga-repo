@@ -4,7 +4,7 @@
 **Governed By:** `guardrails/ledger/guardrail-ledger-update-law.md`, Part 37 (Ledger Schema Law), Part 13 (Location Law), Part 22 (Faction Law), Part 31 (Synergy Law)
 **Template:** Part 37 Area 2.5 — Schema Template: Kingdom-State Ledger
 **Folder:** `ledger-worlds-kingdom-state/`
-**Last Updated:** 2026-10-18
+**Last Updated:** 2026-10-19
 **Index Version:** 10.0
 **Total Entries:** 6
 
@@ -35,8 +35,8 @@
 | Entity Name (B) | Classification (B/L) | First Area Appearance (B) | Entity File (L) | Status (L) | Last Updated (L) |
 |---|---|---|---|---|---|
 | Azure Sky Kingdom | Kingdom — Balanced | Not yet established -- to be defined in prose | ledger-worlds-kingdom-state/azure-sky-kingdom.md | Active | 2026-09-29 |
-| Gale Kingdom | Kingdom — Cultivation-Dominant | Not yet established -- to be defined in prose | ledger-worlds-kingdom-state/gale-kingdom.md | Active | 2026-10-18 |
+| Gale Kingdom | Kingdom — Cultivation-Dominant | Area 02 — What the Wire Brought Down (Ref: 1.1.1.001.02) | ledger-worlds-kingdom-state/gale-kingdom.md | Active — first set on its own ground at Chapter 005 (Ref: 1.1.1.005); a Gale mine caravan was taken on its ground on 1247.1.9 / PD 9 (Section 3 of the file) | 2026-10-19 |
 | Saltmere | Kingdom | Not yet established -- to be defined in prose | ledger-worlds-kingdom-state/saltmere.md | Active | 2026-10-18 |
 | Ironshore | Kingdom | Not yet established -- to be defined in prose | ledger-worlds-kingdom-state/ironshore.md | Active | 2026-10-18 |
 | Cindervast | Kingdom | Not yet established -- to be defined in prose | ledger-worlds-kingdom-state/cindervast.md | Active | 2026-10-18 |
-| Brackenhold | Kingdom | Chapter 003 — The Lone Banner (Ref: 1.1.1.003) | ledger-worlds-kingdom-state/brackenhold.md | Active — placed north-west of Azure Sky across the lower ford, bordering Azure Sky and the Ember Reach polities (`[ASKED]` Author ruling, 2026-10-18 (map consultation)); capital not established | 2026-10-18 |
+| Brackenhold | Kingdom | Chapter 003 — The Lone Banner (Ref: 1.1.1.003) | ledger-worlds-kingdom-state/brackenhold.md | Active — placed north-west of Azure Sky across the lower ford, bordering Azure Sky and the Ember Reach polities (`[ASKED]` Author ruling, 2026-10-18 (map consultation)); capital not established; at Chapter 005 (Ref: 1.1.1.005) named a second time and its company shown a second time, and the author's answer places the Gale frontier at the foot of the Windward Range (Section 1 of the file; a plan fact, its map ruling owed) | 2026-10-19 |

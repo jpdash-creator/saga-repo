@@ -2,8 +2,8 @@
 
 **Governing Canon Parts:** Parts 13, 14, 15, 16, 21, 22, 25, 30, 31
 **State Type:** Kingdom — Cultivation-Dominant
-**First Area Appearance:** Not yet established -- to be defined in prose
-**Last Updated:** 2026-10-18
+**First Area Appearance:** Area 02 — What the Wire Brought Down (Ref: 1.1.1.001.02) *(the kingdom is named there once, in a wired notice; it is first set on its own ground at Chapter 005, Ref: 1.1.1.005)*
+**Last Updated:** 2026-10-19
 **Ledger Version:** v1.0
 
 ---
@@ -18,7 +18,7 @@
 **Founder:** Aerion the First-Winged — first sovereign; Dragon-Human lineage; wind affinity of a depth recorded as beyond individual comparison in court annals
 **Founding Oath / Charter:** The Gale Oath-Binding — a single oath: one element, one kingdom, one line of succession through those who could carry the wind; oath text transmitted orally rather than written; wind itself is the Compact's medium of record
 **Current Rulers:** King Aeries (primary wind-bearer; Dragon-Human tri-form; Ruler Level 2 Mid — cross-ref: aeries.md); Queen Aalia (storm-keeper; Dragon-Human tri-form; Ruler Level 1 Mid — cross-ref: aalia.md)
-**Territorial Extent:** Eastern edge of the Central Highlands; descending from the Aerie Plateau in the west to the Long Coast in the east
+**Territorial Extent:** Eastern edge of the Central Highlands; descending from the Aerie Plateau in the west to the Long Coast in the east. *(Added 2026-10-19: the Chapter Spec of Chapter 005 places the raid of 1247.1.9 / PD 9 at the foot of the Windward Range, on Gale's northern frontier with Brackenhold (Settled, the author's answer of 2026-10-18); that is a plan fact and not a page fact, and it is recorded as the author's answer at `ledger-worlds-kingdom-state/brackenhold.md` Section 1, which holds the open questions on how it joins the other placements. The page of Chapter 005 shows the mine's road, the Seam Road, and names no frontier.)*
 **Capital / Seat of Power:** The Aerie Palace (royal seat) above the capital city on the plateau floor, **Highgale** (named by the author's ruling of 2026-10-18, `[ASKED]` Author ruling, 2026-10-18 (map consultation); cross-ref: ledger-worlds-location/highgale.md and ledger-worlds-location/aerie-palace.md Section 5.1). The palace has no walls; wind-cultivation wards define its perimeter and shelter
 
 ---
@@ -73,10 +73,10 @@ Most domains (Types 1, 2, 3, 5, 6, 7, 8, 9, 11, 13 and 14) are at Level 2, which
 
 **Cultivation Force Tier:** High — Aeries at Ruler Level 2 Mid with Dragon-Human tri-form capabilities is the apex; Dragon-Human species amplifies combat effectiveness; +3 minor steps of combat level advantage at kingdom's peak
 **Technology Force Tier:** Tier 2 active (upper end) — functional; not the primary military paradigm
-**Active Conflicts:** None yet established
+**Active Conflicts:** None declared. One hostile act on Gale ground on record: on 1247.1.9 / PD 9 a company of about two dozen men in plain coats with long hafts took the Whistledeep mine's caravan at Stirrup Ford on the Seam Road and killed its escort (a captain of the Windward Host and five of the Host) and its five hands (`stirrup-ford.md`, Ref: 1.1.1.005); the Court hears of it on 1247.1.14 / PD 14 and names no band and no kingdom. No muster is called, no war is declared and no promise is made.
 **Political Posture:** Honored Restraint — defensive posture with formal respect for Windward Range neighbors; offensive war requires public wind-sworn declaration at the Wind Crossing
 **Who Holds Real Power (versus titled power):** OPEN-AREA
-**Standing Tensions (two lines):** OPEN-AREA
+**Standing Tensions (two lines):** (1) Two raids on mine caravans in two kingdoms by unknown men in plain coats, the first on 1246.12.8 / PD -19 in the Azure Sky Kingdom and the second on 1247.1.9 / PD 9 on Gale ground, are now both held at the Gale Court (the first in the king of Azure Sky's letter, the second in the lieutenant's count). (2) The king's question, "How did they know the road, and how did they know the day?", stands unanswered on the page of 1247.1.14 / PD 14, with one clue in hand that the king cannot follow further: the clamp found on the Azure Sky wire, told in that letter as a plain confirmed fact, while he "could not tell whether anyone had reached into what Gale sent" (Ref: 1.1.1.005).
 
 *[L — Updated at every military event, political crisis, or alliance shift]*
 
@@ -89,9 +89,9 @@ Most domains (Types 1, 2, 3, 5, 6, 7, 8, 9, 11, 13 and 14) are at Level 2, which
 - Lyraen River Compact — multi-party — trade and customs framework (cross-ref: `ledger-people-society-affiliation/lyraen-river-compact.md`)
 - Gale Oath-Binding — internal foundational instrument
 
-**Hostile Relationships:** None yet established
+**Hostile Relationships:** None established as such. The company that took the Whistledeep caravan on 1247.1.9 / PD 9 is known to the Gale Court only as unknown men in plain coats; no Gale person names its band or its kingdom (Ref: 1.1.1.005).
 **Neutral Relationships:** Long Coast maritime kingdoms; Lyraen-bordering southern kingdoms
-**Key Diplomatic Events:** None yet established
+**Key Diplomatic Events:** None yet established as a treaty event. On 1247.1.14 / PD 14 the king of Azure Sky's letter reaches the Gale Court by a Flightcraft pilot from the corridor post, and the king writes his answer, which binds nothing (Ref: 1.1.1.005); the Northern Accord's own provisions are untouched.
 
 *[L — Updated at every treaty event, alliance shift, or diplomatic crisis]*
 
@@ -127,7 +127,7 @@ Most domains (Types 1, 2, 3, 5, 6, 7, 8, 9, 11, 13 and 14) are at Level 2, which
 - Queen Aalia — Queen; Dragon-Human tri-form; Ruler Level 1 Mid; 33 years old (cross-ref: aalia.md)
 - Prince Aegon — heir; Dragon-Human tri-form; 8 years old; Mortal Unawakened (cross-ref: aegon.md)
 
-**Key NPCs:** Stormwing Grand Captain (unnamed); Windward Host Marshal (unnamed); Long Coast Warden (unnamed); Oath-Voices (lineage — unnamed)
+**Key NPCs:** Stormwing Grand Captain (unnamed); Windward Host Marshal (unnamed); Long Coast Warden (unnamed); Oath-Voices (lineage — unnamed). Named on the page at Chapter 005 (Ref: 1.1.1.005): the Court's steward, Ranulf Skeld; Dagmar Sund, Lieutenant of the Windward Host's Ridgewatch detachment; Sigrun Korth, a captain of the Windward Host, who dies on 1247.1.9 / PD 9 with the five of her escort; and the Stone Vigil's sentries Gudrun Nyland and Leif Bakke (cross-ref: `ledger-people-society-faction/gale-kingdom-military.md` Section 3 and `ledger-character-side/_index.md`)
 
 *[L — Updated when characters arrive, depart, die, or change role]*
 
@@ -138,6 +138,7 @@ Most domains (Types 1, 2, 3, 5, 6, 7, 8, 9, 11, 13 and 14) are at Level 2, which
 | Area Reference | Event Summary | Parts Triggered | Sections Updated |
 |---|---|---|---|
 | Author ruling, 2026-10-18 (map consultation) | The capital city on the plateau floor is named Highgale by the author (`[ASKED]`); the Capital / Seat of Power line of Section 1 no longer reads "name OPEN-AUTHOR". Not yet on the page. | Parts 13, 25, 28 | Header; Section 1 (Capital / Seat of Power); Section 8 |
+| 1.1.1.005 — The House With No Walls (1247.1.9 / PD 9 to 1247.1.14 / PD 14) | The kingdom is set on its own ground for the first time (the palace, the plateau, Highgale and the mine's road are on the page; `ledger-worlds-location/gale-kingdom.md` Section 4). On 1247.1.9 / PD 9 a Gale mine caravan from Whistledeep is taken at Stirrup Ford on the Seam Road and its escort and hands are killed; the Ridgewatch patrol of the Windward Host finds it on 1247.1.11 / PD 11, and its lieutenant rides three days to the Court, which hears her count on 1247.1.14 / PD 14. The Court hears, on the same morning, the king of Azure Sky's letter about the earlier raid on his Bluecleft caravan; the king asks how the raiders knew the road and the day, no one answers, and he writes an answer that binds nothing. No war is declared, no muster is called and no band or kingdom is named. The Captain's death costs her company its standing orders (`gale-kingdom-military.md` §6.8), and nothing is said of who will give it new ones. | Parts 13, 22, 28, 41 | Header; Sections 1, 3, 4, 7 and 8 |
 
 ---
 

@@ -3,8 +3,8 @@
 **Governing Canon Parts:** Parts 13, 14, 15, 21, 22, 25, 31
 **Location Tier (Part 13):** Sub-World — Continental Mountain System (contained within Nine Suns Continent)
 **First Area Appearance:** Area 01 — The Hour on the West Platform (Ref: 1.1.1.001.01)
-**Last Updated:** 2026-10-18
-**Ledger Version:** v1.0
+**Last Updated:** 2026-10-19
+**Ledger Version:** v1.1
 
 ---
 
@@ -57,6 +57,7 @@
 |---|---|---|---|
 | 1.1.1.001.01 — The Hour on the West Platform | The Range first appears in an Area, seen from the Azure Sky Palace's west-edge platform on the first morning of the year (1247.1.1 / PD 1): a dark, irregular line along the north at the last dark hour with a few stars over it, coming apart into ridges as the dark thins, with the last stars going out along its crest, and at first light its highest edge drawing a thin white line. Nothing north of its near edge is shown. | Parts 13, 28 | Header (First Area Appearance); Sections 5.1 to 5.4 |
 | Author ruling, 2026-10-18 (map consultation) | The Range is ruled one range running west to east along the north of both kingdoms: the Windward Pass cuts its southern flank north-north-east of Azorion, the Aerie Plateau is tucked under its eastern stretch, and Gale's climb is through the Stormbreak Foothills on its southern side (`[ASKED]`). | Parts 13, 28 | Header; Sections 4 and 5.1 |
+| 1.1.1.005 — The House With No Walls (1247.1.9 / PD 9 to 1247.1.14 / PD 14) | The Range is seen for the first time from Gale: from the Aerie Palace's terrace as the northern edge of the plateau's wind and weather (a long steady press of wind along its foot, and weather sitting on it that silences the two northernmost masts of the Kite Line on 1247.1.12 / PD 12), and, on 1247.1.9 / PD 9, from the Seam Road below Shalegate Pass, whose lower slopes still held snow. Shalegate Pass is named once (§5.5). The Windward Trail had opened to horses only days before 1247.1.9 / PD 9. Nothing north of the Range's near edge is shown, named or hinted at. | Parts 13, 28, 41 | Header; Sections 4 and 5 (§5.3 to §5.5) |
 
 ---
 
@@ -80,10 +81,18 @@ As the dark thins, the single line comes apart into ridges, each a different bla
 
 **Established:** the Range is seen on the first morning of spring at the last dark hour (Azorion's in-world season names are set in `azorion.md` §5.14), with a few stars over it. **Not established:** the Range's own climate, its weather and winds, and its passes' seasonal access (OPEN-AREA).
 
+**Added at Chapter 005 (Ref: 1.1.1.005), from Gale's side.** In the first days of spring, on 1247.1.9 / PD 9, "the snow" was "only now going off the slopes below Shalegate Pass" (Area block 01). On 1247.1.12 / PD 12 the evening wind presses along the foot of the Range in "the long steady press ... where the mountain narrowed it to one course", and "the weather that sat on the Range" hung over the two northernmost masts of the Kite Line, which stood silent; at dusk the Range was "a darker dark with weather sitting on it" (Area blocks 03 and 04). On the night of 1247.1.11 / PD 11 "the weather came down on the Range" and stopped the Kite Line at the plateau's north edge (the lieutenant's count, Area block 05). The Range's winds and weather are otherwise not established.
+
 ### 5.4 — Hazards and Dangers to a Visitor (axis 14)
 
-Not established (OPEN-AREA): nothing of the Range's terrain, weather, wildlife, ambient energy, patrols or frontier risk is shown in Area 01.
+Not established (OPEN-AREA): nothing of the Range's terrain, weather, wildlife, ambient energy, patrols or frontier risk is shown in Area 01. **Added at Chapter 005 (Ref: 1.1.1.005):** weather on the Range silences the two northernmost masts of the Kite Line and can stop the line at the plateau's north edge (§5.3); every other hazard stays not established (OPEN-AREA).
 
-**Narrative summary (as of Area 01).** From the capital the Windward Range is the far northern edge of the world: a dark, ragged line that is nearly one with the sky at the last dark hour, that separates into ridges as the dark thins, and that takes a thin white line along its highest edge when the first light comes, the one hard line on the bright side of the view. A pale road across the plain runs out toward it. What lies in its passes and beyond is held by the sections above and by the ledger, and has not yet been shown in prose.
+### 5.5 — Shalegate Pass, and the Range as Seen from Gale (Chapter 005; Ref: 1.1.1.005)
+
+**Shalegate Pass** is named once, in the first scene (Area block 01), in the captain's reading of the morning of 1247.1.9 / PD 9: "with the snow only now going off the slopes below Shalegate Pass." That is the whole of the page: the pass has slopes below it, those slopes held snow in the first days of spring, and the Seam Road and Stirrup Ford lie in the country below (`seam-road.md`, `stirrup-ford.md`). The page does not say that it is a pass of the Windward Range; the Chapter Spec's plan reads it as the high pass of the Range above the ford (Chapter Spec 1.1.1.005, Skipped: a planner's pick, "the author may swap any"), and the registry gives the Range as its parent on that reading only. It is tied to no track, no road and no event, and no one passes through it on the page. Whether the Windward Trail runs through it is OPEN-AUTHOR, the question `aerie-plateau.md` §5.1 holds for the Windward Pass. Its height, length, make and holder are not established.
+
+**The Range from the Aerie Palace.** Seen from the open edge of the palace's terrace on 1247.1.12 / PD 12, the Range lies to the north of the plateau and its palace: the wind presses along its foot (§5.3), a line of masts of the Kite Line stands on the high ground of the plateau, and the weather that sits on the Range silences the last two masts to the north (`aerie-plateau.md` §5.4). Nothing is said of its height, its passes beyond Shalegate Pass, or any patrol of it in Chapter 005; the Northern Accord Expeditionary Wing is not named. No ground north of the Range's near edge is shown, named or hinted at.
+
+**Narrative summary (as of Area 01).** From the capital the Windward Range is the far northern edge of the world: a dark, ragged line that is nearly one with the sky at the last dark hour, that separates into ridges as the dark thins, and that takes a thin white line along its highest edge when the first light comes, the one hard line on the bright side of the view. A pale road across the plain runs out toward it. What lies in its passes and beyond is held by the sections above and by the ledger, and has not yet been shown in prose. *(Added at Chapter 005, Ref: 1.1.1.005: from Gale the Range is the weather over the plateau's north, the wind pressing along its foot and the cause of the silence of the Kite Line's northern masts; Shalegate Pass is named once, with snow going off the slopes below it (§5.5).)*
 
 [Lore subsections still to be populated as prose evidence accumulates — pass pilgrimage tradition, bilateral patrol history, ambient energy concentration character]
