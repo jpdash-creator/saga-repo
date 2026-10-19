@@ -196,7 +196,7 @@ What the spec holds and does not hold:
   set in roman and enters no ledger entry before its first Area (Part 38 Rule 1.3.2). The Phase 1 monsters Part 30
   plans (out of the forest beside the border village; on the airship voyage) are wild pressure and not an
   opposing force, and their Kind is defined and named at the Chapter Spec that plans them. **Standing
-  exclusion: no sentient monster, and no allusion to one, in any Phase 1 Section Spec item (Law P30-L9).**
+  exclusion: no sentient monster, and no allusion to one, in any Phase 1 Section Spec item (Law P30-L9), save the one narrow artifact-made exception of Canon Amendment 2026-10-19 (Law P30-L9).**
 
 ## Plan Mode → Auto Mode
 
@@ -292,7 +292,7 @@ presented before its Section Spec is confirmed.
      (the anchor, or a length inside the plus or minus two months with the nine-year total
      still met and the §1.3.2 bands still reachable; its dates and its Phase Day span agree by the
      conversion of Part 41 Area 4, a mismatch being a finding for the planner to correct); the Part 30 Law P30-L8 forbidden entities
-     and Law P30-L9 (no sentient monster, and no allusion to one)
+     and Law P30-L9 (no sentient monster, and no allusion to one, save the one narrow artifact-made exception of Canon Amendment 2026-10-19 (Law P30-L9))
      and the author-removed Sapphire Line and other removed concepts are clean (a conflict
      **blocks**);
    - every Major Narrative Function Part 30 lists for this Section is carried by some Novel-Part
@@ -371,7 +371,7 @@ fill), using Part 30's own markers and the Locked and Negotiable split of Part 2
 - the technology and political-scale lines for this Section — Locked;
 - the Locked events that fall in this Section (for example the awakening boundaries or the
   Apprentice's Choice, where Part 30 places them), with the staging inside them Negotiable;
-- the standing exclusions of P30-L8 and P30-L9 (no sentient monster in Phase 1) — Locked;
+- the standing exclusions of P30-L8 and P30-L9 (no sentient monster in Phase 1, save the one narrow artifact-made exception of Canon Amendment 2026-10-19 (Law P30-L9)) — Locked;
 - the Part 30 Setups-table rows that touch this Section, each marked OPEN-AUTHOR (only the author
   sets it) or OPEN-AREA (Part 30 lets the first Area that needs it set it), with the open
   point named.

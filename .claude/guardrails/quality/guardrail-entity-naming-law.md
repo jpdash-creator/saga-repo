@@ -130,7 +130,7 @@ Part 28 Rule 20.8.1. The rules that bind:
   the same pass; **Check #5** reads the
   roman name inside speech as lawful; **Check #17(c)** treats the register row as the Gate 2 obligation
   to flag; **ALCA AL-10** reads the register both ways (named but not registered; registered but not
-  written as registered). That amendment did not change the count of checks (now 23, Part 44). The light audit of each spec reports an
+  written as registered). That amendment did not change the count of checks (now 24, Part 45). The light audit of each spec reports an
   item name that is not in italic, for the planner to correct before `[CONFIRM SPEC]`.
 - **Hand-off.** The Area Maker lists each item that is new in the Area, and each named document and
   agreement, treaty or accord that is new in it, marked for the information ledger; the Gate 1 checker

@@ -49,7 +49,7 @@ These are the ids the Parts' closing audit notes and the ledgers' Audit Hook lin
   villain tier tables against Area 2.11; AL-10 reads monsters in both directions (a monster Kind or
   a Tier C or D monster in a written Area with no entry; an entry whose Kind, stage or traits the
   Area contradicts); AL-8 reads the line between monster and villain (a non-sentient monster filed
-  as a villain is a finding; so is a sentient monster in a Phase 1 file, Law P30-L9).
+  as a villain is a finding; so is a sentient monster in a Phase 1 file, Law P30-L9, save the one narrow artifact-made exception of Canon Amendment 2026-10-19 (Law P30-L9)).
 - Part 41: AL-4 checks `ledger-worlds-calendar/_index.md` against
   Part 37 Area 3.11, and AL-5 reads the date line and the calendar ledger in both directions: the date line,
   the first line of the text of each written Area file, agrees with the Area row that

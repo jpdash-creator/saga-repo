@@ -94,7 +94,7 @@ what this particular person does instead, and records it.
 
 ## The two gate checks
 
-Gate 1 runs **23 checks**; Check #22 is Plain Language and Narrative Impact and Check #23 is Battle Plausibility (Part 44). Both checks defined below are blocking and both sit after
+Gate 1 runs **24 checks**; Check #22 is Plain Language and Narrative Impact and Check #23 is Battle Plausibility (Part 44) and Check #24 is Situational Combat Selection (Part 45). Both checks defined below are blocking and both sit after
 Check #19.
 
 - **Check #20 — Behavioral Conformance** (Part 39 Area 43). Eleven live elements (20-3 is retired): 20-1

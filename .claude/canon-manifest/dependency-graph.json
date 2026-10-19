@@ -1528,7 +1528,7 @@
  {
   "dependent_part": 40,
   "authority_part": 30,
-  "topic": "Part 40 Rules 40.7.5.1 and 40.11.3.1 read Part 30: the Phase 1 monster lines set the bands, and Law P30-L9 (Phase 1 Sentient-Monster Law) bars every sentient monster from Phase 1; Gate 1 Check #11 element 11-3 reads both P30-L8 and P30-L9",
+  "topic": "Part 40 Rules 40.7.5.1 and 40.11.3.1 read Part 30: the Phase 1 monster lines set the bands, and Law P30-L9 (Phase 1 Sentient-Monster Law) bars every sentient monster from Phase 1 save the one narrow artifact-made exception of Canon Amendment 2026-10-19; Gate 1 Check #11 element 11-3 reads both P30-L8 and P30-L9",
   "strength": "HARD",
   "nsa_note": "Critical — Phase 1 forbidden-entity boundary"
  },
@@ -2203,5 +2203,68 @@
   "topic": "Part 44 reads Part 6: a limit-broken technique is an ordinary Named Move; Revive and Cleanse (Area 3.7) are the healer's moves",
   "strength": "SOFT",
   "nsa_note": "Low - moves"
+ },
+ {
+  "dependent_part": 45,
+  "authority_part": 3,
+  "topic": "Part 45 reads Part 3: Depletion States (Area 12.4), physical conditions for execution (Area 16.4), damage tolerance (Area 8.2); all unchanged",
+  "strength": "HARD",
+  "nsa_note": "High - fatigue"
+ },
+ {
+  "dependent_part": 45,
+  "authority_part": 5,
+  "topic": "Part 45 reads Part 5: end classes, battlefield footprint, writing a battle (Area 16); Part 5 is unchanged",
+  "strength": "SOFT",
+  "nsa_note": "Low - reads"
+ },
+ {
+  "dependent_part": 45,
+  "authority_part": 6,
+  "topic": "Part 45 reads Part 6: move types, functions, energy cost classes (Area 5.3), deployment forms; Part 6 Area 2.1 points to Part 45 (Type is not a rung)",
+  "strength": "HARD",
+  "nsa_note": "High - moves and cost"
+ },
+ {
+  "dependent_part": 45,
+  "authority_part": 42,
+  "topic": "Part 45 reads Part 42: Usable moves, the Seal (Rule 42.3.4.2), link codes as eligibility only, Named Move forms; Rule 42.11.6.4 points to Part 45",
+  "strength": "HARD",
+  "nsa_note": "High - no scene-ordering rule"
+ },
+ {
+  "dependent_part": 45,
+  "authority_part": 44,
+  "topic": "Part 45 stands beside Part 44: Check #23 reads the engagement, Check #24 reads each move against its moment",
+  "strength": "SOFT",
+  "nsa_note": "Low - paired checks"
+ },
+ {
+  "dependent_part": 45,
+  "authority_part": 40,
+  "topic": "Part 45 reads Part 40: monster bodies, traits and attack patterns for the beast anatomy table",
+  "strength": "SOFT",
+  "nsa_note": "Low - beasts"
+ },
+ {
+  "dependent_part": 45,
+  "authority_part": 38,
+  "topic": "Part 38 Rule 2.4.10 (the Fight line) names the Situation line of Part 45",
+  "strength": "HARD",
+  "nsa_note": "Medium - spec"
+ },
+ {
+  "dependent_part": 45,
+  "authority_part": 29,
+  "topic": "Part 45 follows Part 29 Rule 29.12.1.3 and the plain-language guardrail: no arithmetic and plain words on the page",
+  "strength": "SOFT",
+  "nsa_note": "Low - prose"
+ },
+ {
+  "dependent_part": 45,
+  "authority_part": 16,
+  "topic": "Part 45 reads Part 16 and Part 17 (combat signature) and Part 39 (behavioural style) to rank the moves that pass the Move Selection Test",
+  "strength": "SOFT",
+  "nsa_note": "Low - style"
  }
 ]

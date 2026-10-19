@@ -536,7 +536,7 @@ The Starward Saga may include non-human sentient beings — cultivated beasts, d
 | **Divine Being / Ancient Entity** | Pre-history or cosmological-origin sentient entities whose existence predates or transcends current cultivation ladder | Part 28 consultation required; Part 16 framework applies as baseline |
 | **Relic Intelligence** | Soul Architecture constructs (Part 12) that have developed independent decision-making | Part 12 primary; Part 16 applies when independent agenda is demonstrated |
 
-The Cultivated Beast (Awakened) is the sentient monster of Part 40 Area 11. Its floor is Void God Level 1 Low and everything above, inclusive, and none below it, ever; it is never Tier D and no Phase 1 prose may touch it (Law P30-L9).
+The Cultivated Beast (Awakened) is the sentient monster of Part 40 Area 11. Its floor is Void God Level 1 Low and everything above, inclusive, and none below it, ever; it is never Tier D and no Phase 1 prose may touch it (Law P30-L9; Canon Amendment 2026-10-19 adds one artifact-made king that is not an Awakened Cultivated Beast and leaves this class reserved).
 
 ### 12.3 — Children and Young Characters
 

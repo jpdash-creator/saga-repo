@@ -122,8 +122,8 @@ serially. This binding is absolute, not a suggestion to weigh against convenienc
   grounding reads of the Area flow review (the Area window as written, the first and last paragraph
   of the previous Area (the first paragraph of narration, below the date line), for the reported
   patterns only, Part 36, the spec's Area blocks). When the draft lands, send it to both via
-  `SendMessage`: the first runs the 23-check Gate 1 audit, the second the Area flow review (Check #16
-  dimension 16-J). The forced-read discipline is unchanged: the 23-check instance still performs its
+  `SendMessage`: the first runs the 24-check Gate 1 audit, the second the Area flow review (Check #16
+  dimension 16-J). The forced-read discipline is unchanged: the 24-check instance still performs its
   fresh manifest re-read (the flow-review instance checks no cross-Part edge and makes none); only
   the grounding happens concurrently with drafting. Both instances stay available for the FAIL loop
   (Author ruling, 2026-10-18): the re-audit after fixes of Step 3 goes to the first instance by `SendMessage`,
@@ -223,8 +223,8 @@ write or ledger update; exactly one Area per invocation throughout.
    drafts begins with the Area's date line (Part 41 Area 5, The date line), and it hands over the
    `CALENDAR (this Area)` block with the other hand-off blocks.
 3. Invoke **continuity-checker** to run the Gate 1 Post-Draft Audit as two read-only instances
-   launched together: the **23** checks on the draft, and the Area flow review (Check #16 dimension
-   16-J) over the Area window. The 23 checks include Part 36 Check #16, the Part 28 Area 20 Entity
+   launched together: the **24** checks on the draft, and the Area flow review (Check #16 dimension
+   16-J) over the Area window. The 24 checks include Part 36 Check #16, the Part 28 Area 20 Entity
    Naming Check #17, the Part 38 Spec Conformance Check #18 (stated below) and the Prose Vitality Check
    #19: Part 28 Area 13 / Part 29 Area 4 craft counts (read as information only) plus the Part 36
    Area 17 qualitative dimensions. A **numeric reading**, a computed value crossing a stated line
@@ -265,7 +265,7 @@ write or ledger update; exactly one Area per invocation throughout.
    `AMENDED-PENDING-RECONFIRM` (Part 38 Rules 6.1.3 and 9.1.3); the FAIL names the first missing link
    and its command. No comparison of the Area with the Novel-Part Spec or the Section Spec is added:
    the plan-versus-written list stays against the Chapter Spec, which carries what they settled. The
-   check count is 23.
+   check count is 24.
    **Area-window findings.** A break of time, place, point of view or character state in the window
    FAILs and follows the loop above; sameness patterns are not a FAIL: they go into the audit report
    with quoted lines for the author's ruling at Step 4. When the cause of a finding lies in an earlier
@@ -300,11 +300,12 @@ write or ledger update; exactly one Area per invocation throughout.
    plainness that flattens an image or a sensory anchor (22-6) FAIL; the heavy-word counts (22-1,
    22-2) go into the audit report as information and are never a FAIL or a question to the author. **Check #22 vocabulary elements (plain vocabulary, 2026-10-06):** the check also blocks a special or invented word with no picture at first use, one word carrying two meanings in an Area, a jargon wall (three or more unexplained special terms in one sentence or speech) and a figure the reader cannot parse at first read; 22-3, 22-6 and these new elements block, while 22-1, 22-2 and 22-7 inform.
    Also blocking: **Check #23 (Battle Plausibility, Part 44, `guardrails/quality/guardrail-battle-plausibility.md`)**, elements 23-1 to 23-6 on every Area whose text holds a fight (N/A for an Area with no fight) and element 23-7 on every Area (gap arithmetic in prose, a FAIL): a hard-rule break FAILs (23-1 anchors and levels; 23-2 a lower side winning a Shut pairing of 3 or more minor steps in a fair contest, or harming a Barred pairing across a Major Realm without Part 3 Rule 17.3.3; 23-3 a side unable to be present or survive at the stated levels; 23-4 an unlawful, unbounded or unpriced offset (a limit break, Part 3 Area 7.5, is priced on the page afterwards), or a gifted fighter not registered in the ledger before the scene; 23-5 a result the levels forbid). A strained-but-lawful mismatch (23-6) is reported to the author as a ruling point at `[CONFIRM WRITE]` and never blocks.
+   Also blocking: **Check #24 (Situational Combat Selection, Part 45, `guardrails/quality/guardrail-situational-combat-selection.md`; Canon Amendment 2026-10-19)**, elements 24-1 to 24-8 on every Area whose text holds a fight (N/A for an Area with no fight): 24-1 to 24-7 FAIL a move impossible or implausible for the posture, ground, space, light, reach or body of the user or the target, a bare-handed fighter using weapon geometry, a Latent or Seal-blocked move executed, a stated order of moves by type or a fixed Basic-Intermediate-Advanced ladder (there is no such rule) or move-name spam, a costly move with no cause or price, and a broken protect or spare intent; 24-8 (a poor fit with no reason in the text) is reported to the author and never blocks. The Situation line of the Chapter Spec's Fight line is the plan. Future writing only, from Chapter 006.
    **The date line (Part 41 Areas 5 and 6).** The checker reads the first line of the Area text under
    Check #11 element 11-2 (the dating rules R1 to R6 of Part 41 Area 6, with the weekday in rule R4)
    and under Check #12 (its form, and the roman form of month and weekday names elsewhere). A failure
    of R1 to R6 or of the form is a FAIL like any other and follows the loop above; a planned step back
-   at a `cut to another thread` Area is information. The check count is 23 and Check #11 keeps its
+   at a `cut to another thread` Area is information. The check count is 24 and Check #11 keeps its
    six elements. The line is not narration: Checks #10, #16, #19 and #22 skip it.
    **Calendar hand-off.** When area-maker's handoff carries its `CALENDAR (this Area)` block, the
    checker's Gate 1 report reconciles it with the line and returns the checked block. Do not print the
@@ -345,7 +346,7 @@ write or ledger update; exactly one Area per invocation throughout.
    individual, or is tied to a Named Move), put the question to the author with `AskUserQuestion` before
    the draft continues, as for a Tier D consequence flag; the author rules and nothing promotes on its
    own. A non-sentient monster's hostility never raises the Threshold C-2 villain question, and a
-   sentient monster in a Phase 1 draft is a Check #11 FAIL (Law P30-L9).
+   sentient monster in a Phase 1 draft is a Check #11 FAIL (Law P30-L9), save the one narrow artifact-made exception of Canon Amendment 2026-10-19 (Law P30-L9).
 4. Present the Gate 1 result and wait for an explicit `[CONFIRM WRITE]` / `[REVISE AREA]` /
    `[SKIP WRITE]`; never assume confirmation. **Presentation format:** print, in this order, the
    Position Header Block (the complete five-tier name chain, Phase / Section / Novel-Part / Chapter /

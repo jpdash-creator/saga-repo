@@ -5,7 +5,7 @@
 **First Area Appearance:** Chapter 002 — The Well at First Light (Ref: 1.1.1.002)
 **First On-Page Appearance:** Chapter 002 — The Well at First Light (Ref: 1.1.1.002)
 **Also On-Page:** Not yet established — to be defined in prose
-**Last Updated:** 2026-10-17
+**Last Updated:** 2026-10-19
 **Ledger Version:** v1.0 — **P39 REGISTERED**
 
 ---
@@ -271,6 +271,8 @@ Recorded as **unregistered by choice, not as omissions.** The floor of two is di
 
 **Signature Named Moves (Part 6):**
 - Not yet established — to be defined in prose; moves accessible at Demigod level in natural state; currently suppressed to Champion Level 8 High expression within the Sol Star System
+
+*Author ruling note, Canon Amendment 2026-10-19 (ledger side only; Sections 11 and 12 and the Evolution entries are not edited here): from Chapter 006 on Hercules may use registered bare-handed Named Moves, mapped from the Named Move register and the Manual Ledger, at his effective level (Champion Level 8 High under the Seal; Signature and Catastrophic moves stay Seal-blocked). This supersedes the earlier "second half of Section 1" placement as the earliest point; the weapons were lost at the exile.*
 - *Part 6 Substrate Categorization Note:* any future entries here will be S-1 Cultivation-Energy, S-2 Bloodline-Resonance (given divine-origin lineage), or S-7/S-8 composite substrate per Part 6 Area 12.6 Disclosure Rule. S-3 Species-Innate moves are not registered to Hercules under his current ledger species classification (Human) — see Innate Moves subsection below.
 
 **Innate Moves (Part 6 Area 12):**
@@ -1173,6 +1175,8 @@ He shoulders burdens nobody asked him to — others' work, blame, danger — and
 *[Governed by Part 43 (Character Evolution Law), added 2026-10-06 and appended after Section 13; no earlier section is renumbered. Present in every hero, villain, side-character and monster ledger (Kind and Individual). Append-only: an entry is never edited or deleted, and a correction is a new entry that supersedes the earlier one and says so. The only act that removes entries is a reset to a date the author names (Part 43 Rule 43.6.1.1). The base profile in Sections 1 to 9 and 11 is never overwritten by an entry; the current profile is the base plus the entries in order (Part 43 Rule 43.4.2.1).]*
 
 **Reset note:** none
+
+**Pending Evolution Entry pointer (Canon Amendment 2026-10-19, not an entry):** the author ruled on 2026-10-19 that Hercules's and Bison's reserve is a product of the exile's sadness and pressure, and that their real character is exuberant, talkative and joyful in fighting, shown when the pressure lifts a little in beast fights in the village's sight. To be recorded as Part 39 Evolution Entries (ADD / CHANGE) at the Gate 2 of Chapter 006; nothing in Sections 1 to 12 is changed by this note.
 
 **Redraft note (2026-10-07):** the Area Ref column of the entries below names Areas of the first draft of Chapter 002, which `/redraft-chapter` archived on 2026-10-07 and which are non-canonical. The entries are the author's rulings and are kept unedited (append-only, Part 43 Rule 43.4.1.3); the example lines quoted inside them are of that first draft. This is a rollback note and not a reset: no entry is removed.
 

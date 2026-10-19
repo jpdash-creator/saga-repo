@@ -119,7 +119,7 @@ The gate order is law; within it, run independent work concurrently. Absolute bi
 - **Gate 1 pre-read:** while the chapter-editor works, launch two **continuity-checker** instances in the
   background to do their grounding (guardrails, canon-manifest forced read, ledger state, the previous text,
   the Chapter Spec's blocks and Scene Map). When the edited text and its measure arrive (Step 5), send it to
-  both: instance 1 runs the 23-check audit on the whole Chapter, instance 2 runs the flow review (Check #16
+  both: instance 1 runs the 24-check audit on the whole Chapter, instance 2 runs the flow review (Check #16
   dimension 16-J) over the whole Chapter and its joins. The forced-read discipline is unchanged. Keep both
   instances for the FAIL loop (Author ruling, 2026-10-18): the re-audit after fixes (Step 5, FAIL loop) goes to
   instance 1 by `SendMessage`, which resumes with its first-pass reads, and to instance 2 only when a finding
@@ -216,7 +216,7 @@ drafting precedes editing; editing precedes measuring; the Gate 1 audit precedes
    chapter-editor (or, when whole Area blocks are missing or far off, to the area-maker) to extend or trim,
    and measure again. Hand the printed result to the Gate 1 instances.
 5. **Gate 1: Post-Draft Audit** (`guardrails/audit/guardrail-audit-gate-law.md`, whole-Chapter section).
-   Send the measured text to the two **continuity-checker** instances already grounded: the **23 checks** on
+   Send the measured text to the two **continuity-checker** instances already grounded: the **24 checks** on
    the whole Chapter, and the **flow review** (Check #16 dimension 16-J) across the whole Chapter, every Area
    seam and the join with the previous text. Adaptations for the whole Chapter:
    - **Check #10 (size)** is replaced by the word-band check of Step 4 (per Area block and Chapter total);
@@ -234,6 +234,7 @@ drafting precedes editing; editing precedes measuring; the Gate 1 audit precedes
      scene before it and the Current Position block. Date lines are not narration; Checks #16, #19 and #22
      skip them, and the date lines, markers and break marks are left out of every count.
    - **Check #23 (Battle Plausibility, Part 44)** runs once for each Area block that holds a fight, against the Engagement Ledger of the Chapter Spec's Fight line, as in `/next-area` Step 3 (an Area block with no fight reads N/A).
+   - **Check #24 (Situational Combat Selection, Part 45)** runs once for each Area block that holds a fight, against the Situation line of the Chapter Spec's Fight line, as in `/next-area` Step 3 (an Area block with no fight reads N/A). There is no order rule for moves: any Usable move may open, carry or end a fight, and the draft is not asked to show a Basic move before an Intermediate or Advanced one. Future writing only, from Chapter 006.
    - **Checks #20, #21 and #22** run as in `/next-area` Step 3 (Behavioral Conformance blocks; Behavioral
      Change Detection blocks by asking, with the widened evolution rule of Part 43: the author rules for
      heroes and Tier A side characters, villains and monsters, the checker decides and records its reasons

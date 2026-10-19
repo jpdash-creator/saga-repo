@@ -5,7 +5,7 @@
 **First Area Appearance:** Chapter 002 — The Well at First Light (Ref: 1.1.1.002)
 **First On-Page Appearance:** Chapter 002 — The Well at First Light (Ref: 1.1.1.002)
 **Also On-Page:** Not yet established — to be defined in prose
-**Last Updated:** 2026-10-17
+**Last Updated:** 2026-10-19
 **Ledger Version:** v1.0 — **P39 REGISTERED**
 
 ---
@@ -293,6 +293,8 @@ No second register bound to a named person or a named room is registered, and **
 
 **Signature Named Moves (Part 6):**
 - (none registered — Bison's cultivation-energy Signature Moves to be defined in prose; weapon-bonded Named Moves for his Axe and Hammer to be registered when Primary and Secondary weapons are narratively established per Part 33)
+
+*Author ruling note, Canon Amendment 2026-10-19 (ledger side only; Sections 11 and 12 and the Evolution entries are not edited here): from Chapter 006 on Bison may use registered bare-handed Named Moves, mapped from the Named Move register and the Manual Ledger, at his effective level (Champion Level 8 High under the Seal; Signature and Catastrophic moves stay Seal-blocked); his transformation and his horn and tail innate moves (Chaprachup, Chalakudhaal) stay sheathed before witnesses (Section 1 above) unless the author rules otherwise. This supersedes the earlier "second half of Section 1" placement as the earliest point; the weapons were lost at the exile.*
 
 *Author ruling at Step 0 of the whole build of Chapter 002 (2026-10-07), captured at the Gate 2 of 2026-10-08: Bison's first named move is a Wind move, a cultivation-energy move on his Sovereignty, Wind affinity, to be named and defined in prose by the author in the Chapter that first shows it. None is shown in Chapter 002 (Ref: 1.1.1.002), none is picked from his axe and hammer manuals, and the line above stands as written.*
 
@@ -1267,6 +1269,8 @@ He makes himself smaller than he really is — answers below his understanding, 
 *[Governed by Part 43 (Character Evolution Law), added 2026-10-06 and appended after Section 13; no earlier section is renumbered. Present in every hero, villain, side-character and monster ledger (Kind and Individual). Append-only: an entry is never edited or deleted, and a correction is a new entry that supersedes the earlier one and says so. The only act that removes entries is a reset to a date the author names (Part 43 Rule 43.6.1.1). The base profile in Sections 1 to 9 and 11 is never overwritten by an entry; the current profile is the base plus the entries in order (Part 43 Rule 43.4.2.1).]*
 
 **Reset note:** none
+
+**Pending Evolution Entry pointer (Canon Amendment 2026-10-19, not an entry):** the author ruled on 2026-10-19 that Hercules's and Bison's reserve is a product of the exile's sadness and pressure, and that their real character is exuberant, talkative and joyful in fighting, shown when the pressure lifts a little in beast fights in the village's sight. To be recorded as Part 39 Evolution Entries (ADD / CHANGE) at the Gate 2 of Chapter 006; nothing in Sections 1 to 12 is changed by this note.
 
 **Redraft note (2026-10-07):** the Area Ref column of the entries below names Areas of the first draft of Chapter 002, which `/redraft-chapter` archived on 2026-10-07 and which are non-canonical. The entries are the author's rulings and are kept unedited (append-only, Part 43 Rule 43.4.1.3); the example lines quoted inside them are of that first draft. This is a rollback note and not a reset: no entry is removed.
 

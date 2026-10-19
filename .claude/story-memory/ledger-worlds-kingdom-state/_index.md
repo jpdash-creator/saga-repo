@@ -6,7 +6,7 @@
 **Folder:** `ledger-worlds-kingdom-state/`
 **Last Updated:** 2026-10-19
 **Index Version:** 10.0
-**Total Entries:** 6
+**Total Entries:** 6 (plus one placeholder row with no file: the unnamed third kingdom)
 
 > **Purpose:** This folder holds one file per kingdom: its classification, military and political power, treaties, institutions, economy and notable characters, so that a kingdom's state reads the same in every Area. It is the one owner of a ruling state's Technology Tier, Cultivation Ceiling, FPT and CS%/TS% (Part 37 Area 2.6, One owner for each number). It records the state of the polity and does not repeat the place itself (the location ledger) or the faction that rules it (the faction ledger).
 
@@ -40,3 +40,4 @@
 | Ironshore | Kingdom | Not yet established -- to be defined in prose | ledger-worlds-kingdom-state/ironshore.md | Active | 2026-10-18 |
 | Cindervast | Kingdom | Not yet established -- to be defined in prose | ledger-worlds-kingdom-state/cindervast.md | Active | 2026-10-18 |
 | Brackenhold | Kingdom | Chapter 003 — The Lone Banner (Ref: 1.1.1.003) | ledger-worlds-kingdom-state/brackenhold.md | Active — placed north-west of Azure Sky across the lower ford, bordering Azure Sky and the Ember Reach polities (`[ASKED]` Author ruling, 2026-10-18 (map consultation)); capital not established; at Chapter 005 (Ref: 1.1.1.005) named a second time and its company shown a second time, and the author's answer places the Gale frontier at the foot of the Windward Range (Section 1 of the file; a plan fact, its map ruling owed) | 2026-10-19 |
+| OPEN-AUTHOR (the unnamed third kingdom; MAJOR entity placeholder) | Kingdom (Part 13 Km class not established) | Planned: Chapter 1.1.1.006, Area 07 (not yet on the page; no page fact claimed) | none (no file; the name is the author's, OPEN-AUTHOR) | Planned placeholder — not Azure Sky, Gale or Brackenhold; its castle is `ledger-worlds-location/third-kingdom-castle.md`; placement OPEN-AUTHOR, not north of the Windward Range (author, 2026-10-19) | 2026-10-19 |

@@ -65,10 +65,10 @@ here (`guardrails/commands/guardrail-plan-then-auto-execution.md`).
    scene in time, and then the new date must still meet the Area before it and the Area after it
    (Part 41 Area 6). Pass area-maker the calendar ledger's row of the Area with its neighbours.
 2. Invoke **continuity-checker** for a fresh Gate 1 audit of the revision (not a diff-only
-   check — the whole Area is re-audited through the full 23-check sequence, including Check #18
+   check — the whole Area is re-audited through the full 24-check sequence, including Check #18
    (Spec Conformance, Part 38; stated below), the Prose Vitality Check #19, Behavioral Conformance
    Check #20, Behavioral Change Detection Check #21 and Plain Language and Narrative Impact
-   Check #22 and, where the Area holds a fight, Battle Plausibility Check #23, Part 44). This first audit of the revision is always full; a FAIL it returns is fixed and re-audited under the gate law's section "Re-audit after fixes" (Author ruling, 2026-10-18), as `/next-area` Step 3 sets out. A revision that alters a character's rendered conduct re-opens Check #21: the
+   Check #22 and, where the Area holds a fight, Battle Plausibility Check #23, Part 44, and Situational Combat Selection Check #24, Part 45). This first audit of the revision is always full; a FAIL it returns is fixed and re-audited under the gate law's section "Re-audit after fixes" (Author ruling, 2026-10-18), as `/next-area` Step 3 sets out. A revision that alters a character's rendered conduct re-opens Check #21: the
    profile may have to move with the text, or the text back to the profile. (2026-10-06) A send-back at Check #21 `[REVISE AREA]` arrives here; nothing in a ledger changes until the revised Area is confirmed, and no new command exists. Heroes and Tier A characters: the author rules each evolution; Tier B, C and D: the continuity-checker decides and records its reasons; an immutable trait always needs the author's ruling. Evolution is not drift (Part 43). **Check #22 vocabulary elements (plain vocabulary, 2026-10-06):** the check also blocks a special or invented word with no picture at first use, one word carrying two meanings in an Area, a jargon wall (three or more unexplained special terms in one sentence or speech) and a figure the reader cannot parse at first read; 22-3, 22-6 and these new elements block, while 22-1, 22-2 and 22-7 inform.
    Check #18 (Spec Conformance, Part 38): the drafted Area is compared with every spec-planned
    element and shown as a plan-versus-written list; a difference on a core item (Part 38 Rule 6.1.1(b): the beat (the Area's purpose); the scene anchors (their order is part of the anchors); the Continuation; the viewpoint (the Dual-POV mark included); every planned time skip; the Behavioral Plan (Rule 6.1.2); the Opening type; the Closing type; the Thread or storyline; and every settled item) blocks unless it traces to an on-record author
@@ -102,7 +102,7 @@ here (`guardrails/commands/guardrail-plan-then-auto-execution.md`).
    establish. The Pre-Write Ledger Check (Step 1) and the character ledger state
    verification (Check #14) therefore read Living fields as they stood after the Area
    before the revised one, rebuilt from the Canon Events Log, whose rows carry Area
-   references. The 23-check instance also lists every fact the old text established that a
+   references. The 24-check instance also lists every fact the old text established that a
    later Area cites, naming that Area; a revision that removes or changes one of them is
    put to the author as a question, after the Position Header and the full text are printed.
 3. Present and confirm: print the Position Header Block (marked as a revision of the Area's

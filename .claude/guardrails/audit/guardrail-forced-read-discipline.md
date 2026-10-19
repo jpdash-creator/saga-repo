@@ -25,7 +25,7 @@ re-read from disk, never from memory:
   searching the file in that turn.
 - Only this index file is read selectively. Every Part skill and every ledger is still read
   in full, as Gate 1 and Gate 2 require.
-- At Gate 1 the read belongs to the 23-check instance. The Area flow review instance
+- At Gate 1 the read belongs to the 24-check instance. The Area flow review instance
   (Check #16 dimension 16-J) checks no cross-Part edge and makes no manifest re-read.
 - **Spec reads are not part of this manifest rule, and one exception to the read-in-full rule
   applies to them (Part 38 Rule 9.9.2).** The

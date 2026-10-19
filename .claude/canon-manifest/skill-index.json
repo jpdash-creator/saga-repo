@@ -12803,7 +12803,7 @@
       "consolidated": "narration-novel-macro-story-law",
       "area": 1,
       "relation": "HARD",
-      "source": "Part 30 Law P30-L9: no sentient monster in Phase 1"
+      "source": "Part 30 Law P30-L9: no sentient monster in Phase 1 (one narrow artifact-made exception, Canon Amendment 2026-10-19)"
      },
      {
       "consolidated": "narration-dialogue-and-social-interaction-law",
@@ -14211,6 +14211,215 @@
     "anchor": "area-11-cross-part-dependency-master-table-and-record-of-amendments",
     "line_count": 26,
     "related": []
+   }
+  ],
+  "canon_version": "10.0"
+ },
+ {
+  "skill_id": "cultivation-situational-combat-law",
+  "part": 45,
+  "domain": "cultivation",
+  "title": "Situational Combat Mechanics Law",
+  "consolidated": true,
+  "output_path": ".claude/skills/cultivation-situational-combat-law/SKILL.md",
+  "area_count": 12,
+  "areas": [
+   {
+    "area": 1,
+    "title": "Foundational Principles",
+    "anchor": "area-1-foundational-principles",
+    "line_count": 30,
+    "related": [
+     {
+      "consolidated": "cultivation-move-taxonomy-law",
+      "area": 2,
+      "relation": "HARD",
+      "source": "Part 6 Area 2.1: Move Type is complexity and cost, not a rung; no order of use"
+     },
+     {
+      "consolidated": "manual-and-weapon-style-law",
+      "area": 11,
+      "relation": "HARD",
+      "source": "Part 42 Rules 42.3.3.1 and 42.11.6: Usable moves; link codes are eligibility only"
+     }
+    ]
+   },
+   {
+    "area": 2,
+    "title": "The Situation Frame",
+    "anchor": "area-2-the-situation-frame",
+    "line_count": 29,
+    "related": []
+   },
+   {
+    "area": 3,
+    "title": "Ground, Footing, Cover, Space and Crowding",
+    "anchor": "area-3-ground-footing-cover-space-and-crowding",
+    "line_count": 22,
+    "related": [
+     {
+      "consolidated": "cultivation-combat-and-fight-law",
+      "area": 9,
+      "relation": "SOFT",
+      "source": "Part 5 Area 9: battlefield footprint and protected zones"
+     },
+     {
+      "consolidated": "cultivation-move-taxonomy-law",
+      "area": 3,
+      "relation": "SOFT",
+      "source": "Part 6 Areas 3.4 and 3.2.3: Step and area-attack functions"
+     }
+    ]
+   },
+   {
+    "area": 4,
+    "title": "Bodies and Posture",
+    "anchor": "area-4-bodies-and-posture",
+    "line_count": 32,
+    "related": [
+     {
+      "consolidated": "cultivation-move-taxonomy-law",
+      "area": 3,
+      "relation": "SOFT",
+      "source": "Part 6 Area 3: Bind and Defense functions"
+     }
+    ]
+   },
+   {
+    "area": 5,
+    "title": "Reach, Range, Height, Size and Anatomy",
+    "anchor": "area-5-reach-range-height-size-and-anatomy",
+    "line_count": 30,
+    "related": [
+     {
+      "consolidated": "character-monster-law",
+      "area": 5,
+      "relation": "SOFT",
+      "source": "Part 40 Area 5: the twelve behaviour traits and attack patterns of a beast"
+     }
+    ]
+   },
+   {
+    "area": 6,
+    "title": "Tempo, Telegraph and Counter-Windows",
+    "anchor": "area-6-tempo-telegraph-and-counter-windows",
+    "line_count": 16,
+    "related": [
+     {
+      "consolidated": "cultivation-move-taxonomy-law",
+      "area": 5,
+      "relation": "HARD",
+      "source": "Part 6 Area 5.2: Instant, Channeled and Cast deployment"
+     }
+    ]
+   },
+   {
+    "area": 7,
+    "title": "Numbers, Lines and Protecting Others",
+    "anchor": "area-7-numbers-lines-and-protecting-others",
+    "line_count": 16,
+    "related": [
+     {
+      "consolidated": "cultivation-move-taxonomy-law",
+      "area": 3,
+      "relation": "SOFT",
+      "source": "Part 6 Areas 3.7 and 3.10: Support functions and area radius"
+     }
+    ]
+   },
+   {
+    "area": 8,
+    "title": "Seeing and Being Seen",
+    "anchor": "area-8-seeing-and-being-seen",
+    "line_count": 18,
+    "related": [
+     {
+      "consolidated": "manual-and-weapon-style-law",
+      "area": 3,
+      "relation": "HARD",
+      "source": "Part 42 Rule 42.3.4.2: the Olympus Suppression Seal is unchanged"
+     },
+     {
+      "consolidated": "narration-dialogue-and-social-interaction-law",
+      "area": 12,
+      "relation": "SOFT",
+      "source": "Part 29 Rule 29.12.1.3: Cultivation Visibility"
+     }
+    ]
+   },
+   {
+    "area": 9,
+    "title": "Hands and Weapons",
+    "anchor": "area-9-hands-and-weapons",
+    "line_count": 16,
+    "related": [
+     {
+      "consolidated": "manual-and-weapon-style-law",
+      "area": 13,
+      "relation": "HARD",
+      "source": "Part 42 Rules 42.13.1.1 and 42.13.1.3: Named Move form; a Latent move is never executed"
+     },
+     {
+      "consolidated": "cultivation-move-taxonomy-law",
+      "area": 3,
+      "relation": "SOFT",
+      "source": "Part 6 Area 3: move combat functions"
+     }
+    ]
+   },
+   {
+    "area": 10,
+    "title": "Cost, Fatigue and the Energy Budget",
+    "anchor": "area-10-cost-fatigue-and-the-energy-budget",
+    "line_count": 34,
+    "related": [
+     {
+      "consolidated": "cultivation-move-taxonomy-law",
+      "area": 5,
+      "relation": "HARD",
+      "source": "Part 6 Area 5.3: energy cost by move type"
+     },
+     {
+      "consolidated": "cultivation-power-and-lifespan-law",
+      "area": 12,
+      "relation": "HARD",
+      "source": "Part 3 Area 12.4: Depletion States; Area 16.4: physical conditions for execution"
+     }
+    ]
+   },
+   {
+    "area": 11,
+    "title": "Chaining, Finishing and Mercy; the Move Selection Test, the Worked Table and the Anti-Patterns",
+    "anchor": "area-11-chaining-finishing-and-mercy-the-move-selection-test-the-worked-table-and-the-anti-patterns",
+    "line_count": 81,
+    "related": [
+     {
+      "consolidated": "cultivation-combat-and-fight-law",
+      "area": 12,
+      "relation": "SOFT",
+      "source": "Part 5 Area 12: end classes"
+     }
+    ]
+   },
+   {
+    "area": 12,
+    "title": "Where the Law Runs, Gate 1 Check #24 and the Cross-Part Table",
+    "anchor": "area-12-where-the-law-runs-gate-1-check-24-and-the-cross-part-table",
+    "line_count": 63,
+    "related": [
+     {
+      "consolidated": "spec-story-specification-law",
+      "area": 2,
+      "relation": "HARD",
+      "source": "Part 38 Rule 2.4.10: the Fight line carries the Situation line"
+     },
+     {
+      "consolidated": "cultivation-battle-plausibility-law",
+      "area": 9,
+      "relation": "SOFT",
+      "source": "Part 44 Area 9: Check #23 beside Check #24"
+     }
+    ]
    }
   ],
   "canon_version": "10.0"

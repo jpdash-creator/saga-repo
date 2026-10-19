@@ -74,9 +74,9 @@ text; the affected Gate 2 lanes in Step 5 run in parallel in one message. Editin
    `python .claude/tools/chapter_builder.py measure --mode whole --spec-file "<chapter spec path>" --text-file ".claude/temp/Chapter NNN - <Chapter Name>.md" --phase P --section S --part N --chapter C`.
    An out-of-band count or a marker fault is a blocking finding: back to the chapter-editor, measure again.
 2. **Gate 1 on the whole revised Chapter** (not a diff-only check). **continuity-checker** runs as two
-   read-only instances in parallel: the full **23 checks** adapted to the whole Chapter as `/create-chapter`
+   read-only instances in parallel: the full **24 checks** adapted to the whole Chapter as `/create-chapter`
    Step 5 sets out (word-band check in place of Check #10; Check #18 per Area block and against the Scene
-   Map; calendar by date segment; Checks #20, #21, #22 and, for each fight Area block, #23), and the **flow review** (Check #16 dimension 16-J)
+   Map; calendar by date segment; Checks #20, #21, #22 and, for each fight Area block, #23 and #24), and the **flow review** (Check #16 dimension 16-J)
    over the whole Chapter read with its two neighbours in order, so both edges are the **neighbour check**
    under the Area-to-Area carry-over rule. A break of time, place, point of view or character state at an
    edge or a seam FAILs. The instance also lists every fact the old text established that a later Chapter or

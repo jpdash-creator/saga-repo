@@ -1277,6 +1277,7 @@ The following Cross-References table applies to every Area of Part 5.
 | Gate audit (FCIA/ALCA) | Audit governance | `guardrails/audit/guardrail-audit-gate-law.md` governs all Area content produced under this Part |
 | `narration-novel-book-structure-law` §Areas 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 | HARD | Combat prose structure requires Part 5 combat resolution rules |
 | `cultivation-battle-plausibility-law` (Part 44) | SOFT | Whether a whole engagement is plausible at the levels written, and the lawful offsets; Gate 1 Check #23; Part 5 is unchanged |
+| `cultivation-situational-combat-law` (Part 45) | SOFT | Which move fits a moment (posture, ground, reach, hands, cost); no order rule for moves; Gate 1 Check #24; Part 5 is unchanged |
 
 ## Appendix B — Governing Authority (Shared Across All 16 Areas)
 

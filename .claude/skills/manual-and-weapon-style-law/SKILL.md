@@ -1146,7 +1146,7 @@ For Hercules and Bison every Signature and Catastrophic move is Latent under the
 | AG8 | QI-REAL |
 | AG9 | QI-REAL |
 
-**Rule 42.11.6.4 — Eligible Does Not Mean Holds.** Passing the test says the character may be admitted. It records nothing and gives nothing. A character holds a manual only when a kit row says so.
+**Rule 42.11.6.4 — Eligible Does Not Mean Holds.** Passing the test says the character may be admitted. It records nothing and gives nothing. A character holds a manual only when a kit row says so. *Added 2026-10-19 (Part 45, Canon Amendment):* the link codes are eligibility prerequisites to hold a manual and never an ordering rule for a scene; no scene has to show a Basic move or an earlier manual before an Intermediate or higher move for a link code to count as met, and no move has to follow another by type (Part 45 Rule 45.1.1.1).
 
 ### 11.7 — Varya and Aegon
 

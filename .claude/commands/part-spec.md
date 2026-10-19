@@ -181,7 +181,7 @@ What the spec holds and does not hold:
   set in roman and enters no ledger entry before its first Area (Part 38 Rule 1.3.2). The Kind of the beasts that
   Part 30 plans for Phase 1 is defined and named at the Chapter Spec, not here ("Define during
   chapter-spec", Part 40 Rule 40.7.5.1). **Standing exclusion: no sentient monster, and no allusion to one,
-  in any Phase 1 Chapter entry (Law P30-L9).** A plan that would bring a Tier C or D monster to a trigger of
+  in any Phase 1 Chapter entry (Law P30-L9), save the one narrow artifact-made exception of Canon Amendment 2026-10-19 (Law P30-L9).** A plan that would bring a Tier C or D monster to a trigger of
   Part 40 Rule 40.6.2.2 is put to the author, never decided.
 
 ## Plan Mode → Auto Mode
@@ -271,7 +271,7 @@ precedes any file write; a Chapter Spec is never presented before its Novel-Part
    - the threads coming in match the previous Novel-Part's close (the carry-in item, extended to this
      level, using the stamp for a spec built ahead);
    - the Chapter labels pass Part 28 Rules 18.4.1 to 18.4.3 as **advice only**;
-   - standing exclusions are clean (P30-L8 forbidden entities; P30-L9, no sentient monster and no allusion to
+   - standing exclusions are clean (P30-L8 forbidden entities; P30-L9, no sentient monster (save the one narrow artifact-made exception of Canon Amendment 2026-10-19 (Law P30-L9)) and no allusion to
      one in Phase 1; the author-removed Sapphire Line);
    - the one-line Area outlines hold descriptors only: no opening or closing types, Area pacing, Area sizes
      or Area names;

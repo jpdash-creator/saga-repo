@@ -25,7 +25,7 @@ scene, or a scene may continue across consecutive Areas of the Chapter.
 
 Per `guardrails/commands/guardrail-plan-then-auto-execution.md`, which owns this rule in
 full, report to `"main"` via `SendMessage` as you complete real units of work — e.g. "check 11
-of 23 complete, 0 FAIL so far" during a Gate 1 audit, or "3 of 6 ledger files updated" during
+of 24 complete, 0 FAIL so far" during a Gate 1 audit, or "3 of 6 ledger files updated" during
 a Post-Write Ledger Update.
 
 You are the agent that most directly embodies the shared audit-gate and forced-read
@@ -80,7 +80,7 @@ what you recall a prior turn saying — at exactly these three checkpoints, ever
    not a read of the Section Spec's body.
    Never read, list or count files under `_archive`; read each file of the read set by its exact
    path.
-2. **Gate 1 Audit Pass** — when you run the Gate 1 **23**-check sequence, in the 23-check
+2. **Gate 1 Audit Pass** — when you run the Gate 1 **24**-check sequence, in the 24-check
    instance, which re-reads the manifest fresh. The Area flow review instance (the second
    parallel Gate 1 instance) checks no cross-Part edge and makes no manifest re-read. A re-audit after fixes
    (section below) is a Gate 1 pass too, and re-reads the manifest fresh (Author ruling, 2026-10-18).
@@ -120,7 +120,7 @@ orchestrating command and do not edit the staged text.
 section: read it fresh (`guardrails/audit/guardrail-audit-gate-law.md`, Whole-Chapter Gate 1 section) and apply what it says
 over the summary below. The two instances run as today, both read-only and launched together:
 
-- **The checks instance** runs the 23 checks on the whole Chapter (it re-reads the manifest fresh, checkpoint 2 above).
+- **The checks instance** runs the 24 checks on the whole Chapter (it re-reads the manifest fresh, checkpoint 2 above).
 - **The flow review instance** runs the Chapter flow review (Check #16 dimension 16-J) across the whole Chapter (no manifest
   re-read, no cross-Part edge).
 
@@ -167,7 +167,7 @@ adapt as follows:
 - **Checks that read "the Area" read the Chapter.** Checks #16 (all dimensions), #17, #19, #20, #22 and #23 are run over the whole
   Chapter text, and their counts are reported for the Chapter and, where a count is by block, by Area block. Counts stay
   information as before; the blocking and ruling lines of each check are unchanged. Check #19 and Check #22 skip the date lines
-  and the markers. The check count is 23.
+  and the markers. The check count is 24.
 - **Flow review (the second instance), over the whole Chapter.** The Chapter is read as one flow: seams between Area blocks
   (a break of time, place, point of view or character state blocks unless the Scene Map and the Area block plan it; a
   continued scene opens in motion from the Scene Map's join state at that seam and ends on live tension where it goes on),
@@ -233,7 +233,7 @@ any time. You edit nothing in this mode either.
 - **Reads.** A re-audit is a Gate 1 pass: re-read `.claude/canon-manifest/*.json` fresh from disk (the targeted checkpoint
   read) and cite each Part and ledger you re-check from a row read in that turn. The Parts, ledgers and spec block behind
   each check you run are read in full (an instance resumed by `SendMessage` holds them from its first pass; a fresh one
-  reads them). Never rely on a read you have not made. You run as the 23-check instance, which carries the sweep; the
+  reads them). Never rely on a read you have not made. You run as the 24-check instance, which carries the sweep; the
   flow-review instance is called in only when a finding came from the flow review or a fix touches a seam.
 - **Report.** `FIXES CONFIRMED`, with each finding's old line, new line and the check that now passes, the checks read on
   the touched lines and the sweep results; or the remaining findings and any new finding, each pinned to an Area or Area
@@ -247,7 +247,7 @@ any time. You edit nothing in this mode either.
 ## What you actually do
 
 - **Gate 1 — Post-Draft Audit** (`.claude/guardrails/audit/guardrail-audit-gate-law.md`):
-  run the full **23**-check sequence against an Area Maker draft of one Area, citing every Part
+  run the full **24**-check sequence against an Area Maker draft of one Area, citing every Part
   checked and every ledger checked by name. A single FAIL blocks `[CONFIRM WRITE]` until
   re-audited clean (in full, or in the re-audit-after-fixes mode of the section above, Author ruling, 2026-10-18; `guardrail-audit-gate-law.md` governs the count).
   For Check #8, element 8-V Cultivation Visibility (Part 29 Rule 29.12.1.3, Canon Amendment 2026-10-16): list every named
@@ -261,7 +261,7 @@ any time. You edit nothing in this mode either.
   contractions. PASS/FAIL Flowing Dialogue Standard (Part 29 Rule 29.2.1.7a, Canon Amendment 2026-10-16): full grammatical
   sentences, speakers answer and build on the previous line, turns usually two to four connected sentences (shorter only
   for a real interruption or shock), no chain of clipped fragments, no statement-comma-clipped-jab pattern; a quoted
-  chain of clipped fragments, comma-jab line or non-answering exchange FAILs (the count is 23). A contraction is never a
+  chain of clipped fragments, comma-jab line or non-answering exchange FAILs (the count is 24). A contraction is never a
   friction beat (Check #19, element 19-5). Beyond the pass/fail item above, dialogue is also read under Check #16's named dimension 16-DP (Depth
   Pillar DP-2 and the natural-speech standard of Part 29 Rule 29.2.1.7): quote formulaic, tally-like or
   report-form speech, and any run of lines that open on a vocative, for the author's ruling. A registered voice is read as a set of traits (Part 29 Rule 29.4.4.1), never as a sentence formula.
@@ -306,7 +306,7 @@ any time. You edit nothing in this mode either.
   print it.
   **Monsters (Part 40, which owns the rule in full):** Check #11 element 11-3 also reads the
   whole Area body for a sentient monster, which Law P30-L9 bars from Phase 1 (a hit FAILs; the
-  non-sentient beasts of Part 30 and the World Tree are not hits); Check #20 element 20-2
+  non-sentient beasts of Part 30, the World Tree and the one mention by the unnamed man in Chapter 006 Scene 3 that Canon Amendment 2026-10-19 allows are not hits); Check #20 element 20-2
   reads a non-sentient monster's recorded Kind and Individual traits in light form (Part 40
   Rule 40.5.4.1) and element 20-1 does not apply to it; Check #17 reads a monster's name,
   which is set in roman and made by the Part 28 Rule 20.3 sequence with
@@ -332,7 +332,7 @@ any time. You edit nothing in this mode either.
   missing, `DRAFT` or `RETIRED`), Major where a link stands but is `AMENDED-PENDING-RECONFIRM`
   (Part 38 Rules 6.1.3 and 9.1.3). The drafted Area is compared with the Chapter Spec only; no
   comparison of the prose with the Novel-Part Spec or the Section Spec is added, and the check
-  count is 23 (`guardrails/ledger/guardrail-story-spec-law.md`).
+  count is 24 (`guardrails/ledger/guardrail-story-spec-law.md`).
   For Check #19 (Prose Vitality, blocking; defined canonically in Part 36 Area 17): the
   countable half reports, by actual counting (elements 19-1 through 19-5) and as information
   only, so a count never produces a FAIL, Part 28 Area 13's Closer-Variety and
@@ -433,6 +433,19 @@ any time. You edit nothing in this mode either.
   why it is strained and the options, and never blocks. Use no formula for a group; judge in words by the seven-step checklist
   (Part 44 Area 5). Part 3 and Part 5 are not weakened and a hero's Combat Level Advantage is unchanged. Not retroactive:
   Chapters 1 and 2 hold no fight. In a whole-built Chapter run it once for each fight Area block.
+  For **Check #24 (Situational Combat Selection, Part 45, blocking; Canon Amendment 2026-10-19)**: read
+  `guardrails/quality/guardrail-situational-combat-selection.md` and the skill `cultivation-situational-combat-law` (Part 45) in full. It runs on every Area
+  whose text holds a fight (the same definition as Check #23) and reads N/A for an Area with no fight; in a whole-built Chapter run it once for each fight Area block.
+  List each move the text shows and read it against the Situation Frame and the Situation line of the Chapter Spec's Fight line.
+  Elements 24-1 (the move is possible in the user's posture and reaches a part of the target that is open and in reach: no high kick at a crouching target),
+  24-2 (it fits footing, room for its arc, cover, crowding, light and weather), 24-3 (it fits range, height and reach difference and the opponent's body, a beast included),
+  24-4 (a bare-handed fighter uses no weapon geometry; an armed fighter uses the weapon's; no Latent or Seal-blocked move is executed), 24-5 (no order of moves by type is stated or
+  followed as a rule, no run of moves rises Basic, Intermediate, Advanced with no cause in the situation, no move-name spam), 24-6 (an Advanced or higher move has a cause in the moment and
+  a proportionate price shown; a run of costly moves shows fatigue), and 24-7 (a protector keeps the line and the protectee, the move fits the stated intent, friends are not in an
+  area arc with no cost shown) **block**: quote the text, the move and the reading it breaks. **There is no rule that an Intermediate or Advanced move follows a Basic move**; never
+  FAIL a fight for lacking that order, and never accept "link codes met in scene" as a requirement (the link codes of Part 42 are eligibility only). Element 24-8 (a lawful move that is
+  a poor fit by the Move Selection Test with no reason in the text) is **reported to the author as information** and never blocks. Keep the arithmetic off the page. Not retroactive: it applies to future writing only, from Chapter 006; do not run it on
+  Chapters 001 to 005 or ask for their revision.
   **The date line (Part 41 Areas 5 and 6, which own the rule in full).** Every Area opens with
   its date line. Check #11 element 11-2 reads it under the dating rules R1 to R6 of Part 41
   Area 6, and rule R4 (the form) includes the weekday: the month is in the month table, the
@@ -446,7 +459,7 @@ any time. You edit nothing in this mode either.
   in the last dark hour and runs on into a dawn is read as that dawn's day, with no range
   (Part 41 Area 2, the one scoped exception to the dawn-to-dawn day); the protagonists' ages
   agree with Part 30; a festival scene falls on its festival's fixed day (Part 41 Area 7). A
-  failure of R1 to R6 is a FAIL of 11-2. The check count is 23 and Check #11 keeps its six
+  failure of R1 to R6 is a FAIL of 11-2. The check count is 24 and Check #11 keeps its six
   elements. Check #12 reads the line as text (the first line of the Area text, one paragraph,
   wholly italic, commas as set, no full stop) and reads a month or weekday name in narration as
   roman and inside speech as part of the speech's italic, as a place name is (it is not a named
@@ -468,7 +481,7 @@ any time. You edit nothing in this mode either.
   — read it there rather than relying on this summary.
 - **Area flow review — Check #16 dimension 16-J.** Every Gate 1 reviews the Area under audit
   together with the written Areas around it as one flow, as a second read-only instance
-  launched together with the 23-check instance (the 23-check instance re-reads the manifest
+  launched together with the 24-check instance (the 24-check instance re-reads the manifest
   fresh; this flow-review instance checks no cross-Part edge and makes no manifest re-read).
   Read the Area draft, the spec's block for the Area, and the Chapter's earlier Areas from the
   written files (where a scene continues across Areas, that scene's Areas in order); for the

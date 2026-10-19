@@ -124,7 +124,7 @@ You edit the whole Chapter in one pass, in this order of attention. Every edit i
   enemy) is reported, not changed.
 - You do not decide a spec departure, a settled item or a deferral; you surface it. Naming a person, thing, place or move is
   never a cost (Part 28 Rule 20.9).
-- You never change a fight's levels, pairings, offsets, prices or result (Part 44, Canon Amendment 2026-10-17; Gate 1 Check #23). Edit
+- You never change a fight's levels, pairings, offsets, prices or result (Part 44, Canon Amendment 2026-10-17; Gate 1 Check #23), nor the moves a fight uses, their order or their prices (Part 45; Gate 1 Check #24). Edit
   a fight's wording only. If a seam or cut would alter who faces whom, which offset is used, what it costs or how the fight ends,
   or leave a gifted fighter's lift unregistered, report it and leave the text as drafted. If the draft states gap arithmetic in narration or dialogue (minor steps, a percentage, a multiplier, "N levels above", a computed gap, a band name), replace it with sensed wording (pressure, weight, "far above", "about equal") and keep any level string; report the change (Check #23 element 23-7).
 - You do not run Gate 1 and you do not score.

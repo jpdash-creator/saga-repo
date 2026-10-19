@@ -78,7 +78,7 @@ Additional celestial bodies (gas giants, asteroid fields, uninhabitable worlds) 
 >
 > **Layer 2 — Phase 1 Narrative Ceiling (Part 30 — Phase 1 Only):**
 > - **Cultivation:** **Ruler Level 9 early** — the upper narrative bound for any character (protagonist, antagonist, or background NPC) appearing in Phase 1 prose set inside the Sol Star System. No character appearing in Phase 1 prose may be rendered above Ruler Level 9 early, save the one bounded exception of Part 30 Law P30-L1 (Hercules's single Catastrophic-type move on the Section 8 voyage, through his true Demigod cultivation, which the Seal punishes); the Monarch realm and everything above it (up to the Core Assimilation Level 3 Mid physical cap) exists in-world but is narratively off-screen during Phase 1.
-> - **Technology:** Tier 3 operational (per Part 30; Tier 4 reachable if narrative events drive it).
+> - **Technology:** Tier 3 operational (per Part 30; Tier 4 reachable if narrative events drive it). Narrow villain-side exception, Canon Amendment 2026-10-19: villains' foreshadowed advanced technology (Tier 4 or above, a holo screen) may appear only in villain-side scenes shown to the reader alone; no hero, kingdom, court or village has or notices it.
 > - This ceiling rises Phase by Phase per Part 30 governance; Phase 2 and beyond will lift this narrative ceiling toward (and eventually through) the physical ceiling as the Firmament Lock arc develops.
 >
 > **Why Both Matter:**

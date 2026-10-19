@@ -174,7 +174,7 @@ Other capabilities a first scene may reach for (same three words):
 | Antibiotics and diagnostic imaging | Absent | Absent |
 | Vaccination, antiseptic surgery, anesthesia | Present | Rare |
 
-**Phase 1 Texture Note.** The kingdoms of Phase 1 reach Tier 3 in their guild halls, forges and workshops, not in the street. The street, the road and the field still look and sound like Tier 2: carts, barges, sail, lamps, bells and water sellers. Azorion announces itself by coal smoke and the sweet, sharp smell of the forge quarter before it shows a roof.
+**Phase 1 Texture Note.** The kingdoms of Phase 1 reach Tier 3 in their guild halls, forges and workshops, not in the street. The street, the road and the field still look and sound like Tier 2: carts, barges, sail, lamps, bells and water sellers. Azorion announces itself by coal smoke and the sweet, sharp smell of the forge quarter before it shows a roof. *(Canon Amendment 2026-10-19: this note is the world as the heroes and the villages live it and is unchanged; a villain-side scene shown to the reader alone may carry a holo display, which no kingdom or village has or notices.)*
 
 Messages move in three ways. A short notice can cross Azure Sky by wire in hours. A sealed order or a binding instrument goes by courier, because the Signet Court works in paper, seal and counter-seal. In Gale nothing that binds is written; an order is a voice, and the Flightcraft carry it. The Storm-Kite Relays can call a garrison (come, stand to, a thing has happened) but cannot order it to act.
 

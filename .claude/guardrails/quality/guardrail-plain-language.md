@@ -165,7 +165,7 @@ run: that follows the speaker and the moment (Part 29 Rule 29.2.1.7).
 - **Plainness never overrides a higher-order prohibition.** It cannot license a contraction in
   narration or dialogue (Part 29 Rule 29.2.1.1c, Canon Amendment 2026-10-16), an em-dash (Rule
   29.2.1.1b), a forbidden realm term, a coined
-  address form, any P30-L8 entity, or a sentient monster (Law P30-L9). Where plain phrasing would require one, the phrasing
+  address form, any P30-L8 entity, or a sentient monster (Law P30-L9; save the one narrow artifact-made exception of Canon Amendment 2026-10-19 (Law P30-L9)). Where plain phrasing would require one, the phrasing
   changes — never the prohibition.
 - **Plainness never overrides a registered voice.** A character's Part 29 prosodic
   determinants and Part 39 Layer register are theirs. This guardrail changes the *words
@@ -212,7 +212,7 @@ come out harsh to the reader (element 22-4); no contraction is lawful here (Part
 
 ## Gate 1 Check #22 — Plain Language and Narrative Impact
 
-Gate 1 runs **23 checks**. Check #22 sits after Check #21 and before Check #23 (Battle Plausibility, Part 44). (plain vocabulary, 2026-10-06) **Blocking
+Gate 1 runs **24 checks**. Check #22 sits after Check #21 and before Check #23 (Battle Plausibility, Part 44) and Check #24 (Situational Combat Selection, Part 45). (plain vocabulary, 2026-10-06) **Blocking
 statement, made once:** elements **22-3, 22-6, 22-8, 22-9, 22-10 and 22-11 block** (FAIL); elements
 22-1, 22-2, 22-4, 22-5 and 22-7 inform and never block. This replaces the earlier line that no
 Check #22 finding blocks.

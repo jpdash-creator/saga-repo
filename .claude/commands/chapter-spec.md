@@ -182,7 +182,7 @@ level in full (see Preconditions).
   1.3.2). If the Chapter plans the beasts that Part 30 plans for Phase 1 (the forest monsters, the airship
   attackers), this Chapter Spec is where their Kind is defined and named ("Define during chapter-spec", Part
   40 Rule 40.7.5.1), inside Part 30's bands, as wild pressure and never an opposing force. **Standing
-  exclusion: no sentient monster, and no allusion to one, in any Phase 1 spec item (Law P30-L9).** Ask the
+  exclusion: no sentient monster, and no allusion to one, in any Phase 1 spec item (Law P30-L9), save the one narrow artifact-made exception of Canon Amendment 2026-10-19 (Law P30-L9).** Ask the
   author, never decide, where a plan would bring a Tier C or D monster to a trigger of Part 40 Rule 40.6.2.2.
 
 ### When the Chapter has no entry
@@ -357,7 +357,7 @@ the "nothing further to steer" question; the Step 2 audit precedes presentation;
       Area is closed on live tension (a cliffhanger, a turn or reveal, or a question left open).
    4. *Only when the scene has them* — a brief time skip
       inside the Area, a reveal or mystery with a Reader-Reveal Timing deadline, a cut-back
-      to an earlier thread, a fight (the optional Fight line, Part 38 Rule 2.4.10), lore the author owns (if the author does not know it yet, the author may defer it, recorded as a Deferred note).
+      to an earlier thread, a fight (the optional Fight line, Part 38 Rule 2.4.10, which also carries the Situation line of Part 45 for a fight: the ground, light, postures, people to protect, intent, energy budget and a menu of moves with the situation each fits, never an order of moves), lore the author owns (if the author does not know it yet, the author may defer it, recorded as a Deferred note).
    5. *Pacing* — "How should this Area move?" Options are Fast, Medium and Slow, with SKIP making
       four options, the tool maximum. The planner marks its pick `(Recommended)` and gives a one-line
       reason from the anchor types of the scene (the Part 2 anchor defaults, Part 38 Rule 2.3.3). The answer
@@ -471,7 +471,7 @@ the "nothing further to steer" question; the Step 2 audit precedes presentation;
    the Section Spec, and for a Phase's first Area also from Part 30 (the Phase line, printed above
    Section 1's own; Part 38 Rule 10.3.1), and no agent ever writes epigraph text.
 2. **Light continuity-checker spec audit** — report-only, writes nothing: Locked-Canon
-   conflict scan; P30-L8 forbidden entities + P30-L9 (no sentient monster in Phase 1) + no-Sapphire-Line; Entity Naming Law flags
+   conflict scan; P30-L8 forbidden entities + P30-L9 (no sentient monster in Phase 1, save the one narrow artifact-made exception of Canon Amendment 2026-10-19 (Law P30-L9)) + no-Sapphire-Line; Entity Naming Law flags
    (`guardrails/quality/guardrail-entity-naming-law.md`); all seven template sections present, including the Standing Exclusions block and the P30-L5 row; the Behavioral Plan (an
    acting character without a tier-compliant registration is a blocking finding; a Tier D character planned to speak is not; one planned to act
    consequentially is flagged to the author, who rules: Part 38 Rule 38.2.2a.1 and Part 39 Rule 39.46.2.3); Part 30 Section-mandate

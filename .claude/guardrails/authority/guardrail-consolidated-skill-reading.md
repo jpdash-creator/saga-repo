@@ -9,7 +9,7 @@ Every canon Part **that has a skill** is represented by **exactly one skill**, i
 folder `.claude/skills/<group>-<title>/`. `<group>` is the Part's domain (`character`,
 `cultivation`, `energy`, `ledger`, `narration`, `society`, `spec`, `synergy`, `technology`,
 `worlds`) and `<title>` is the Part's own title in kebab-case — Part 18, "Villain Law", is
-`character-villain-law`. There are 42 of them — Parts 2–33 and 35–44 (Part 44 registered, 2026-10-17) — and they are the
+`character-villain-law`. There are 43 of them — Parts 2–33 and 35–45 (Part 45 registered, 2026-10-19) — and they are the
 entire canon skill layer (Part 40 is Monster Law; Part 41 is Calendar Law, `worlds-calendar-law`, in the `worlds` group beside Parts 13 to 15; Part 42 is Manual and Weapon Style Law, `manual-and-weapon-style-law`, a cultivation-domain Part whose folder name carries no group prefix: the one exception to `<group>-<title>`, open for the author). Each one carries the full, verbatim, independently-validated
 rule text of every Area of its Part.
 
@@ -42,9 +42,9 @@ table below, or with the `part` field of `canon-manifest/skill-index.json`.
 | 20 | `character-ideology-law` | 40 | `character-monster-law` |
 | | | 41 | `worlds-calendar-law` |
 | 42 | `manual-and-weapon-style-law` | 43 | `character-evolution-law` |
-| 44 | `cultivation-battle-plausibility-law` | | |
+| 44 | `cultivation-battle-plausibility-law` | 45 | `cultivation-situational-combat-law` |
 
-**One non-canon skill sits beside the 42 (Part 44 registered, 2026-10-17):** `reference-military-organization-and-rank`, the
+**One non-canon skill sits beside the 43 (Part 45 registered, 2026-10-19):** `reference-military-organization-and-rank`, the
 only skill in the `reference` group. It has no Part number, is not counted among the 42, and
 is never cited as canon.
 

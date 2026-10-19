@@ -49,7 +49,7 @@ The monster roles are for a Tier A or Tier B Individual or Kind, for every senti
 that the author builds by hand (Part 40 Rule 40.6.3.1). A Kind carries a tier A to D, and a Kind that has a
 Named Move, recurs at Section scale or is sentient has a full file whatever its tier (Part 40 Rule 40.6.1.4). A Tier C or Tier D monster is registered at Gate 2 (or before
 drafting, when a Chapter Spec names it), with no interview. A sentient monster is built here only when the
-author has opened that class (Part 40 Rule 40.11.4.1); no sentient monster is built for Phase 1 (Law P30-L9),
+author has opened that class (Part 40 Rule 40.11.4.1); no sentient monster is built for Phase 1 (Law P30-L9; Canon Amendment 2026-10-19 records the one artifact-made king as a Reserved fact, not a character record),
 and where one may live is `OPEN-AUTHOR`. The command creates no Kind for the beasts that Part 30 plans for
 Phase 1: that Kind is defined at its Chapter Spec (Part 40 Rule 40.7.5.1).
 

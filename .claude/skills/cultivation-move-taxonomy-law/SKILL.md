@@ -232,7 +232,7 @@ These modifiers stack with the standard combat condition modifiers from Area 2.1
 
 ### 2.1 — Overview
 
-Move Types classify the **complexity, rarity, and execution difficulty** of Named Moves. They are the vertical axis of the taxonomy — from the simplest, most reliable techniques to the rarest, most uncertain reality-bending executions. Every Named Move belongs to exactly one of the eight Move Types. Type does not change after a move's creation unless the move undergoes a formal Type Upgrade (Area 9.3).
+Move Types classify the **complexity, rarity, and execution difficulty** of Named Moves. They are the vertical axis of the taxonomy — from the simplest, most reliable techniques to the rarest, most uncertain reality-bending executions. Every Named Move belongs to exactly one of the eight Move Types. Type does not change after a move's creation unless the move undergoes a formal Type Upgrade (Area 9.3). *Added 2026-10-19 (Part 45, Canon Amendment):* Move Type is complexity and cost, not a rung. No move of a higher type must follow or be paired with a move of a lower type in a scene; anyone can use any move they have access to, at any point, and effort and fatigue (Area 5) are the limit. Which move fits a moment is decided by Part 45.
 
 **The Mastery System:**
 Practice and repeated use improve success rates. Each move type has a **base success rate** (achieved by a practitioner with minimal mastery) and a **maximum mastery rate** (achieved after sustained dedicated practice). Between these are five mastery grades:

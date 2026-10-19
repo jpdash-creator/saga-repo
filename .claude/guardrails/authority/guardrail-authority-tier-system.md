@@ -38,7 +38,7 @@ canon" than Tier 0, it simply has no authority outside its own domain.
   and cannot excuse a technical requirement of another Part. Enforced at blocking Gate 1 Check #22.
   (plain vocabulary, 2026-10-06) The layer also covers clarity and one meaning per word. Check #22
   elements 22-3, 22-6 and the new 22-8 to 22-11 block; 22-1, 22-2, 22-4, 22-5 and 22-7 inform.
-- **Tier 1 — Domain Authority: Parts 2–27, 30–33, 35, 37–38 and 40 to 44** (Part 40 is Monster Law; Part 41 is Calendar Law, a Tier 1 domain authority like Parts 13 to 15; Part 42 is Manual and Weapon Style Law, a Tier 1 domain authority in the cultivation group beside Part 6; Part 43 is Character Evolution Law; Part 44 is Battle Plausibility Law, a Tier 1 domain authority in the cultivation group beside Parts 3 and 5, enforced at Gate 1 Check #23). Each owns exactly one registered domain
+- **Tier 1 — Domain Authority: Parts 2–27, 30–33, 35, 37–38 and 40 to 45** (Part 40 is Monster Law; Part 41 is Calendar Law, a Tier 1 domain authority like Parts 13 to 15; Part 42 is Manual and Weapon Style Law, a Tier 1 domain authority in the cultivation group beside Part 6; Part 43 is Character Evolution Law; Part 44 is Battle Plausibility Law, a Tier 1 domain authority in the cultivation group beside Parts 3 and 5, enforced at Gate 1 Check #23; Part 45 is Situational Combat Mechanics Law, a Tier 1 domain authority in the cultivation group beside Parts 3, 5 and 6, enforced at Gate 1 Check #24). Each owns exactly one registered domain
   (see `.claude/guardrails/authority/guardrail-domain-ownership.md`). No Tier 1 Part may validate itself, and no Tier 1
   Part outranks another Tier 1 Part.
 
