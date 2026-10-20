@@ -11,7 +11,9 @@ metadata:
 
 **Repetition (the author flags it every time).** Grep -o a tally of the verbs and nouns the scene leans on (came/come, went, door, level, hand, line, put, flags) and vary with plain synonyms; Grep the earlier Areas on disk for repeated figures and openers; stock shapes ("the way a", "as at a", "for some time", "would not wait", "strong man"); crutch watchlist (suddenly, slowly, very, just, quite, somehow, seemed to, began to, started to, for a moment); never three same-mode paragraphs in a row; vary closers (act, sound, image, speech); a simile frame once; no verb, halt, same verb build. A heavy word reserved for one job (weight, heat) carries no other.
 
-**Double meanings to Grep.** turn, hold, set, put, saw, rest, still, open, low, last, close, line, flags, stroke, hand, floor, walk, grain, plain, sill, wound, range, press, round, whole, slip. Pick a compass direction once and keep every light and left-right word consistent with it.
+**Double meanings to Grep.** turn, hold, set, put, saw, rest, still, open, low, last, close, line, flags, stroke, hand, floor, walk, grain, plain, sill, wound, range, press, round, whole, slip; also rank (level and smell), level (realm and even), line (stripe, row, spoken line, list entry), pace (speed and step), sense (power and judgment), window (opening and chance), hands (workers and body), reach (arm and sense), stand (idiom "stand to my account").
+
+**Substring traps in the banned-word grep.** thumb and thumbnail (hum), tail, horn inside a registered name (Thornweft), human; swap the host word. Crutch words that slip in: very, quite, slowly, began to, beginning to. Pick a compass direction once and keep every light and left-right word consistent with it.
 
 **POV.** Two same-gender actors: open the paragraph with the name or role. Deep POV never labels the POV person by title ("the king"). A second hero in the first hero's POV is seen from outside (the act, never "felt"). Vary "X was Name" introductions.
 

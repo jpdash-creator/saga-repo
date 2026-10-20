@@ -104,4 +104,4 @@ the date of the write, Coverage `0/6 Areas`.
 | phase-1/section-1/part-1/chapter-003-spec.md | 1.1.1.003 | COMPLETED | v1.2 | 2026-10-17 | 6/6 Areas |
 | phase-1/section-1/part-1/chapter-004-spec.md | 1.1.1.004 | COMPLETED | v1.0 | 2026-10-18 | 6/6 Areas |
 | phase-1/section-1/part-1/chapter-005-spec.md | 1.1.1.005 | COMPLETED | v1.0 | 2026-10-20 | 6/6 Areas |
-| phase-1/section-1/part-1/chapter-006-spec.md | 1.1.1.006 | CONFIRMED | v1.0 | 2026-10-20 | 0 / 7 Areas written / planned |
+| phase-1/section-1/part-1/chapter-006-spec.md | 1.1.1.006 | COMPLETED | v1.0 | 2026-10-20 | 7 / 7 Areas |

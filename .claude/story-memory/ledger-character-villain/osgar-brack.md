@@ -3,7 +3,7 @@
 **Governing Canon Parts:** Parts 3, 4, 5, 6 (Area 12), 7, 8, 16, 17, 18 (Area 6 — The Villain Ledger; Rule 18.6.3.3), 20, 21, 22, 23, 26, 27, 28 (Area 20 — Entity Naming Law), 29, 31, 37 (Area 2.2 — Villain Ledger template; Threshold C-2), 39, 43
 **Ledger Type:** Villain — tier unmapped (Part 18 Rule 18.6.3.3) — arc type `OPEN-AUTHOR`
 **First Area Appearance:** Not yet established — to be defined in prose
-**Last Updated:** 2026-10-18
+**Last Updated:** 2026-10-20
 **Ledger Version:** v1.0 — **LIGHTER FILE (author ruling of 2026-10-08)**
 
 > **LIGHTER FILE, BY THE AUTHOR'S RULING (2026-10-08).** King Osgar Brack is classified a villain by the author's explicit designation (Part 37 Threshold C-2; Part 18), so no classification question is owed. His file holds **only what the plan gives of him,** and no more: he is the king of Brackenhold, crowned three years ago, ambitious and expansionist, **spoken of by the raiders and never shown** (Chapter Spec 1.1.1.003, Settled). He is off the page as a person. **A spec is a planning input and not canon (Part 38 Rule 1.3.2): nothing in this file says that any scene has been written.**
@@ -124,7 +124,7 @@
 **Affiliation map (Part 23 AFF scale):** `OPEN-AREA`
 **Betrayal history:** none established.
 **Rival and enemy relationships with named characters:** none established.
-**Hero-villain relationship status (Part 18 Area 11):** none. No hero knows of him, and the Azure Sky side does not learn whose company the raiders were.
+**Hero-villain relationship status (Part 18 Area 11):** none. No hero knows of him, and the Azure Sky side does not learn whose company the raiders were. *Chapter 006 (Ref: 1.1.1.006, Area block 07):* the man, a Tier B villain (`ledger-character-villain/the-man.md`), says to the Veiled Party, in the reader's sight alone, "I am working on the king of Brackenhold, and I am influencing him." The line gives the title only (no personal name, method, reason or result) and says nothing of the raids, the Redhaft Vanguard or the village (which the man calls "a village on the border"); no hero, villager or court hears it, and the author's held matter about Brackenhold is neither touched nor hinted.
 
 *[L — Updated at every significant relationship change or faction event]*
 
@@ -154,7 +154,7 @@
 **Known vulnerabilities the hero could exploit:** `OPEN-AUTHOR`
 **Arc trajectory:** `OPEN-AUTHOR`
 **Narrative role at current arc phase:** `OPEN-AUTHOR`
-**Last On-Page Pressure (Part 18 Area 6.2):** none yet *(report only; the Gate 2 of the Chapter that first writes him enters its Chapter reference and kind: rumor)*
+**Last On-Page Pressure (Part 18 Area 6.2):** Chapter 006 (Ref: 1.1.1.006), Area block 07 — rumor (the man's one line that he is working on and influencing "the king of Brackenhold"; the king is not named by his personal name, not shown and does not speak) *(report only; the narration of Chapters 003 and 005 also names his wish and his title, and `ledger-worlds-kingdom-state/brackenhold.md`, Section 8, records those mentions; this file carries no Canon Events Log row for them, which is information for the ALCA pass)*
 **Merged or Per-Wing Phases:** none
 
 *[L — Updated at every arc phase transition or status change]*
@@ -165,6 +165,7 @@
 
 | Area Reference | Event Summary | Parts Triggered | Sections Updated |
 |---|---|---|---|
+| 1.1.1.006 — The Edge of the Forest | **Spoken of by the man alone, to the reader alone (Area block 07, Sanvil, Day 20, 1247.2.20 / PD 48).** In his room, reporting to the Veiled Party, the man says: "Two other matters remain open. I am working on the king of Brackenhold, and I am influencing him. I am influencing the monster king." The king is named by title only, is not shown and does not speak; no method, reason, history or result is given, and the line is said as "neither news nor an error" (the lamp flame does not stir). The page does not tie the village to Brackenhold (it is "a village on the border"), the raiders or the Vanguard are not mentioned, and no character in the village or in either court hears it. Nothing is recorded of the king beyond the title; no drift. | Parts 18, 28, 30, 38 | Sections 7, 9 and 10 |
 
 *(Backstory that shapes the present, as the plan gives it and no more: crowned king of Brackenhold three years before the lower-road raid. It is not an event written on the page and is not entered as a row.)*
 
@@ -268,3 +269,4 @@ Entries arise from the story (Part 39 Rule 39.18.1.2); none exists.
 
 **Changelog:** Created 2026-10-08: lighter villain file at the author's ruling and explicit designation (Threshold C-2); holds only what the plan gives of him; tier UNMAPPED; the full Area 2.2 registration is owed when he appears (Part 18 Rule 18.6.3.3).
 **Changelog:** Updated 2026-10-18: Section 7 (Current subordinate structure) carries the author's ruling of the same day that Wulfric Rask, now a Tier B villain whose file is `ledger-character-villain/wulfric-rask.md`, leads the whole Redhaft Vanguard and answers to the king directly; the pointer path was updated and the open chain is now the structure beneath Rask. Nothing else changed; he stays a lighter file with his tier UNMAPPED.
+**Changelog:** Updated 2026-10-20 at the Gate 2 of the whole-built Chapter 006 (Ref: 1.1.1.006): the man's one line about "the king of Brackenhold" (Area block 07, reader-only) is recorded in Section 7 (hero-villain status), Section 9 (Last On-Page Pressure, kind rumor) and Section 10 (one row). The title is all the page gives; nothing else of him is set, he stays a lighter file with his tier UNMAPPED, and the author's held matter about Brackenhold is neither touched nor hinted.

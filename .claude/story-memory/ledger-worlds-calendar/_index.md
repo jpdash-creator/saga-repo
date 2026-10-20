@@ -3,9 +3,9 @@
 **Ledger Domain:** World Systems — The Calendar and the Story Clock (the date of every Phase, Section, Novel-Part, Chapter and Area, in the Nine Suns calendar)
 **Governed By:** `guardrails/ledger/guardrail-ledger-update-law.md`, Part 37 (Ledger Schema Law), Part 41 (Calendar Law)
 **Template:** Part 37 Area 3.11 — Schema Template: Calendar Ledger
-**Last Updated:** 2026-10-19
+**Last Updated:** 2026-10-20
 **Index Version:** 10.0
-**Total Entries:** 22 (Phase rows: 1; Section rows: 1; Novel-Part rows: 1; Chapter rows: 5; Area-table rows: 14, of which 3 are the date-segment rows of the whole-built Chapter 1.1.1.002, 2 are the date-segment rows of the whole-built Chapter 1.1.1.003, 2 are the date-segment rows of the whole-built Chapter 1.1.1.004 and 3 are the date-segment rows of the whole-built Chapter 1.1.1.005; the baseline tables below are not counted)
+**Total Entries:** 26 (Phase rows: 1; Section rows: 1; Novel-Part rows: 1; Chapter rows: 6; Area-table rows: 17, of which 3 are the date-segment rows of the whole-built Chapter 1.1.1.002, 2 are the date-segment rows of the whole-built Chapter 1.1.1.003, 2 are the date-segment rows of the whole-built Chapter 1.1.1.004, 3 are the date-segment rows of the whole-built Chapter 1.1.1.005 and 3 are the date-segment rows of the whole-built Chapter 1.1.1.006; the baseline tables below are not counted)
 
 > **Purpose:** This folder is the one place that records when every Phase, Section, Novel-Part, Chapter and Area of the Starward Saga happens, as dates in the Nine Suns calendar. The author asked for a calendar ledger that records the time of every tier, kept as `_index.md` and kept simple; all five tiers are covered. The ledger holds three things: the calendar's baseline (the epoch, the months, the weekdays, the fixed days, the eight heroes' birth years and the planned Phase and Section windows), the recorded dates (one row per Area, rolled up to its Chapter, Novel-Part, Section and Phase), and the Current Position (the story clock). It is a register of dates and has no lore of its own.
 
@@ -63,7 +63,7 @@ Read this first. The one row holds six fields: the story clock (the latest prese
 
 | Story clock | Last written Area | Its date and Phase Day | Open Chapter | Open Chapter's recorded window (First to Latest) | Weekday of Ilovany, Day 1 this Year |
 |---|---|---|---|---|---|
-| 1247.1.14 / PD 14 | 1.1.1.005 | 1247.1.14 / PD 14 | 1.1.1.005 | 1247.1.9 / PD 9 to 1247.1.14 / PD 14 | Orvil |
+| 1247.2.20 / PD 48 | 1.1.1.006 | 1247.2.20 / PD 48 | 1.1.1.006 | 1247.2.15 / PD 43 to 1247.2.20 / PD 48 | Orvil |
 
 ---
 
@@ -191,7 +191,7 @@ One row per Phase, written at Gate 2. First and Latest are dates, `Y.M.D / PD N`
 
 | Ref | First | Latest |
 |---|---|---|
-| 1 | 1247.1.1 / PD 1 | 1247.1.14 / PD 14 |
+| 1 | 1247.1.1 / PD 1 | 1247.2.20 / PD 48 |
 
 ---
 
@@ -201,7 +201,7 @@ One row per Section, written at Gate 2. First and Latest are dates, `Y.M.D / PD 
 
 | Ref | First | Latest | Status |
 |---|---|---|---|
-| 1.1 | 1247.1.1 / PD 1 | 1247.1.14 / PD 14 | OPEN |
+| 1.1 | 1247.1.1 / PD 1 | 1247.2.20 / PD 48 | OPEN |
 
 ---
 
@@ -211,7 +211,7 @@ One row per Novel-Part, written at Gate 2. First and Latest are dates, `Y.M.D / 
 
 | Ref | First | Latest |
 |---|---|---|
-| 1.1.1 | 1247.1.1 / PD 1 | 1247.1.14 / PD 14 |
+| 1.1.1 | 1247.1.1 / PD 1 | 1247.2.20 / PD 48 |
 
 ---
 
@@ -226,6 +226,7 @@ One row per Chapter, written at Gate 2. First and Latest are dates, `Y.M.D / PD 
 | 1.1.1.003 | 1247.1.2 / PD 2 | 1247.1.2 / PD 2 |
 | 1.1.1.004 | 1247.1.2 / PD 2 | 1247.1.8 / PD 8 |
 | 1.1.1.005 | 1247.1.9 / PD 9 | 1247.1.14 / PD 14 |
+| 1.1.1.006 | 1247.2.15 / PD 43 | 1247.2.20 / PD 48 |
 
 ---
 
@@ -249,6 +250,9 @@ One row per Area, written at Gate 2. First and Latest are dates, `Y.M.D / PD N`.
 | 1.1.1.005 (date segment 1) | 1247.1.9 / PD 9 | 1247.1.9 / PD 9 | present |
 | 1.1.1.005 (date segment 2) | 1247.1.12 / PD 12 | 1247.1.12 / PD 12 | present |
 | 1.1.1.005 (date segment 3) | 1247.1.14 / PD 14 | 1247.1.14 / PD 14 | present |
+| 1.1.1.006 (date segment 1) | 1247.2.15 / PD 43 | 1247.2.15 / PD 43 | present |
+| 1.1.1.006 (date segment 2) | 1247.2.17 / PD 45 | 1247.2.17 / PD 45 | present |
+| 1.1.1.006 (date segment 3) | 1247.2.20 / PD 48 | 1247.2.20 / PD 48 | present |
 
 ---
 

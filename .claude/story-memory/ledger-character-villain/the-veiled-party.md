@@ -2,11 +2,13 @@
 
 **Governing Canon Parts:** Parts 3, 4, 5, 6 (Area 12), 7, 8, 16, 18 (Area 6 — The Villain Ledger; Rules 18.6.3.1 to 18.6.3.5), 20, 22, 23, 25, 26, 27, 28 (Area 20 — Entity Naming Law), 29 (Area 4 — Character Voice Architecture and §4.4 Prosodic Voice Law), 31, 37 (Area 2.2 — Villain Ledger template), 38, 39 (Areas 3, 4, 41, 45), 42, 43
 **Ledger Type:** Villain — Tier A — arc type `OPEN-AUTHOR`
-**First Area Appearance:** Planned, not established: Chapter 006, Ref: 1.1.1.006, Area block 07. Nothing is on the page until Gate 2 of that Chapter.
+**First Area Appearance:** Chapter 006 — The Edge of the Forest (Ref: 1.1.1.006), Area block 07 (Sanvil, Day 20, 1247.2.20 / PD 48), written 2026-10-20: a motionless shape in a haze behind a pane of pale light, and a voice, shown to the reader alone
 **Last Updated:** 2026-10-20
-**Ledger Version:** v1.0 — **Tier A villain; P39 PARTIAL (pre-draft core registered 2026-10-20 on the author's acceptance of the registration digest, with the author's answers AL1 to AL5; draft-blocking set for Chapter 006 written; the rest `OPEN-AUTHOR` until the interview before the second acting appearance)**
+**Ledger Version:** v1.1 — **Tier A villain; P39 PARTIAL (pre-draft core registered 2026-10-20 on the author's acceptance of the registration digest, with the author's answers AL1 to AL5; draft-blocking set for Chapter 006 written; Chapter 006 is written and its Gate 2 of 2026-10-20 is recorded in Sections 9, 10, 11.2 and 13: its first acting appearance, no registered value changed; the rest `OPEN-AUTHOR` until the interview before the second acting appearance)**
 
 > **REGISTERED BEFORE ANY PROSE SHOWS IT, 2026-10-20 (Part 39 Rules 39.4.3.1, 39.4.3.4 and 39.41.5.1).** The author named this character, set it at **Tier A**, and ruled on 2026-10-19 that the page shows it as descriptors only (a shape in haze, a voice). The continuity-checker's registration digest of 2026-10-20 (`.claude/temp/registration-digest-the-veiled-party.md`) was accepted by the author with these answers: **AL1** the 53 weak lines are held `OPEN-AUTHOR` and are not written as derived (option B); **AL2** the ruling of 2026-10-19 is recorded as an explicit Check #17(a) waiver (Section 1); **AL3** Layer L19 is `[N-A]` with a reopen clause (11.5); **AL4** no vocative form of address in either direction on the page (Section 7); **AL5** Voice Register PSM-6 never, no epigram, and PSM-2 complete sentences (Section 1). The four Signatures at slots 1, 7, 8 and 9 are the author's (`[ASKED]`). **"Plan" in this file means Chapter Spec 1.1.1.006 DRAFT v0.9, a plan and not canon (Part 38 Rule 1.3.2).** Every Chapter 006 fact below is **PLANNED, not established**: the plan settles what a registration holds and records no event. A drafting agent who needs a value marked `OPEN-AUTHOR` stops and says so, and the author rules. **Evidence regime:** the plan, the author's brief and the ledgers only; no scene chronicle is cited.
+
+> **GATE 2 OF CHAPTER 1.1.1.006, 2026-10-20 (the one batched Post-Write Ledger Update, citing the Chapter reference only).** The Chapter is written whole and is the page of record. Every line below that reads "PLANNED, not established" described the Chapter Spec's plan at registration; the page now governs, and Sections 9, 10, 11.2, 11.4 and 13 carry what it shows. **No registered value of Sections 1 to 8 or 11 was changed.** The page shows it once, in Area block 07, as "the shape" in "the haze" and "the voice", and gives it no name, face, sex, number, species, place or faction; its Check #21 enquiry read SILENT at the Gate 1 (Tier A: its four Signatures as registered), so no Evolution Entry was written and the Drift Count stays 0. Its Part 39 registration stays PARTIAL, and the rest is owed before its second acting appearance (Rule 39.4.3.4).
 
 ---
 
@@ -18,19 +20,20 @@
 > **Check #17(a) — WAIVED for The Veiled Party by the author; the page names it only by the descriptors "the haze" and "the voice" (ruling of 2026-10-19; recorded 2026-10-20) `[ASKED]`.** It speaks and recurs, so naming would otherwise be owed under Check #17(a); the author's explicit waiver stands in its place. A Gate 1 reader does not raise 17(a) for this character while the waiver stands, and a name on the page is the author's to give.
 
 **Arc type classification (Part 18 Area 5.1):** `OPEN-AUTHOR`
-**Current canonical status:** Active `[DERIVED]` *(plan, Area block 07; the Part 18 status word is `OPEN-AUTHOR`)*. It is not on the page yet.
-**Home civilization and location:** `OPEN-AUTHOR`. *(No place is asserted. The plan's Area block 07 shows the character through a wide transparent screen only, and names no origin, place, species or faction.)*
+**Current canonical status:** Active `[DERIVED]` *(the page, Chapter 006, Ref: 1.1.1.006, Area block 07: it answers the man and is not harmed or changed; the Part 18 status word is `OPEN-AUTHOR`)*. It has been on the page once.
+**Home civilization and location:** `OPEN-AUTHOR`. *(No place is asserted. The page of Chapter 006 (Ref: 1.1.1.006), Area block 07, shows the character only through "a wide pane of pale light" raised over the man's table, and names no origin, place, species or faction.)*
 **Arc phase (Part 18 Area 5.2):** `OPEN-AUTHOR`
 **Age at Story Start:** `OPEN-AUTHOR`
 **Gender:** `OPEN-AUTHOR` *(no sex and no pronoun is asserted; a drafting agent uses none and stops if one is needed)*
 **Species:** `OPEN-AUTHOR` *(a sentient-beast answer would need a Canon Amendment, because it speaks on a Phase 1 page, Law P30-L9)*
 **Cultural Origin (CPT per Part 25):** `OPEN-AUTHOR`
 **Individual or collective:** `OPEN-AUTHOR`. *(The name says "Party"; the Layer L19 line at 11.5 is `[N-A]` for now and reopens if the author rules it a collective or a member of one.)*
-**Physical Description:** a shape under haze and a voice behind a wide transparent screen, seen by the reader alone `[ASKED]` *(PLANNED, Area block 07; nothing more: no face, build, height, dress or sex)*.
+**Physical Description:** a shape under haze and a voice behind a wide transparent screen, seen by the reader alone `[ASKED]`. *On the page (Chapter 006, Ref: 1.1.1.006, Area block 07):* beyond the pane "lay a haze, like breath on a cold window, and in the haze a shape, motionless, which had been there before the light came and did not greet him"; the man "looked for a face and did not look long. There was nothing in the shape for him to read." The page's words for it are "the shape", "the haze" and "the voice"; it gives no face, build, height, dress, sex, count or species, and uses no personal pronoun for it.
 **Voice Register (per Part 29):** **REGISTERED 2026-10-20 on the author's answer AL5.** Schema is Part 37 Area 2.1. The Tier A entitlement of a voice as distinct and governed as a hero's is claimed.
 - **Register:** plain connected full sentences `[ASKED]` *(the author's brief: it wants chaos and pressure continued, speaks in plain connected speech, and has no epigram)*. The cast-wide rules bar contractions and the em dash in dialogue (Rules 29.2.1.1b and 29.2.1.1c) and require full connected sentences (Rules 29.2.1.7 and 29.2.1.7a); they apply to it as to everyone.
 - **PSM-6 (epigram budget): never** `[ASKED]` *(AL5; Rule 29.4.4.3. No balanced maxim. The reason it gives is a plain connected explanation. Its epigram count at Check #19 is expected to read 0.)*
 - **PSM-2: complete sentences** `[DERIVED]` *(AL5 option A, accepted; evidence a4, the plain connected speech of the brief)*.
+- **On the page (Chapter 006, Ref: 1.1.1.006, Area block 07):** one turn, split by a narration paragraph about its tone: "You will go on," and "What is wanted is chaos and pressure, kept up, and neither is measured by any one village, so the loss of this one changes nothing that was asked. The task is the same as before, and the method remains yours." Full connected sentences, no contraction, no balanced maxim and no vocative in either direction. The narration gives the tone as "even and unhurried, with no word leaning on another", and "it did not rise at the end"; the man knows "that the voice did not hurry and was not displeased by waiting".
 - **Not registered:** the other items of the Prosodic Signature Menu. A drafting agent who needs one stops and says so.
 - **Part 39 boundary (Rule 39.2.3.1):** no prosodic determinant is restated at Section 11, and no Section 11 conduct is restated here.
 
@@ -42,7 +45,7 @@
 
 **Cultivation Realm (Part 3):** `OPEN-AUTHOR`
 **CC-Class (Part 16):** `OPEN-AUTHOR`
-**Technology Tier (Part 8):** `OPEN-AUTHOR`. *(The wide transparent screen of the plan is villain-side Tier 4 or above under the Canon Amendment of 2026-10-19; whose screen it is stays open.)*
+**Technology Tier (Part 8):** `OPEN-AUTHOR`. *(The wide transparent screen of the plan is villain-side Tier 4 or above under the Canon Amendment of 2026-10-19; whose screen it is stays open.)* *(Chapter 006, Ref: 1.1.1.006, Area block 07: the page shows "a wide pane of pale light" raised by the man's palm and calls it a pane, never a screen; it says "he had never learned what held it up" and never whose pane it is.)*
 **Soul Talent (Part 4):** `OPEN-AUTHOR`
 **Affinity Type(s) (Part 4):** `OPEN-AUTHOR`
 **Combat Level Advantage (Part 16 Rule 16.16.4.2):** `OPEN-AUTHOR`
@@ -63,7 +66,7 @@
 **Signature Named Moves (Part 6):** none registered and none shown.
 **Innate Moves (Part 6 Area 12) — REQUIRED SUBSECTION:** `OPEN-AUTHOR` *(the species is unset)*.
 **Manual Kit (Part 42):** none recorded, and no Manual Ledger row (no `char_id`, no kit row), because no manual is linked and the ledger supports none (Rules 42.11.1.1 and 42.11.4.1).
-**Artifacts, pills and medicines:** it gave the man the artifact ***Grayseed***, a Xiantian-grade artifact `[ASKED]` *(ledger only, never on the page; the Reserved fact is in `ledger-energy-relics-artifacts`)*, and it can supply artifacts, pills and medicines `[ASKED]` *(the man courts its favour for them; PLANNED in Area block 07, not established)*. Its own stock, grades and makers: `OPEN-AUTHOR`.
+**Artifacts, pills and medicines:** it gave the man the artifact ***Grayseed***, a Xiantian-grade artifact `[ASKED]` *(ledger only, never on the page; the Reserved fact is in `ledger-energy-relics-artifacts`)*, and it can supply artifacts, pills and medicines `[ASKED]` *(the man courts its favour for them; on the page of Chapter 006, Ref: 1.1.1.006, Area block 07, the favour is "the only coin that this room paid in" and no gift, artifact, pill or medicine is named, so the supply is a ledger fact and not a page fact)*. Its own stock, grades and makers: `OPEN-AUTHOR`.
 **Known Weapon Systems:** `OPEN-AUTHOR`. Named Weapon (Part 33): none.
 **Effective Combat Range:** `OPEN-AUTHOR`
 **Key tactical capabilities and strategic tools:** `OPEN-AUTHOR`
@@ -83,7 +86,7 @@
 **Polarity (Part 20 Area 2.3):** `OPEN-AUTHOR`
 **Ideology Stability State (IS-1 to IS-5):** `OPEN-AUTHOR`
 **Core Belief:** `OPEN-AUTHOR`
-**Operational Belief:** chaos and pressure, continued, matter more than any one win `[ASKED]` *(the author's brief: "the chaos and the pressure matter more than any one win". The aim is registered as an operational aim only.)*
+**Operational Belief:** chaos and pressure, continued, matter more than any one win `[ASKED]` *(the author's brief: "the chaos and the pressure matter more than any one win". The aim is registered as an operational aim only.)* *(Said on the page, Chapter 006, Ref: 1.1.1.006, Area block 07: "What is wanted is chaos and pressure, kept up, and neither is measured by any one village, so the loss of this one changes nothing that was asked.")*
 **Surface Belief and Layer Coherence:** `OPEN-AUTHOR`
 **Why chaos:** `OPEN-AUTHOR` *(the reason behind the aim is the author's; the page gives the aim and no origin for it)*
 **Active Contradictions (Part 20 Area 3.7):** `OPEN-AUTHOR`
@@ -130,13 +133,13 @@
 
 **Current subordinate structure:** `OPEN-AUTHOR`.
 **Faction Affiliation (Part 22):** `OPEN-AUTHOR`. *(It is not called the Third Faction, the Phase 1 villain or a leader of either, and the tie to Part 30 row 4 is `OPEN-AUTHOR`. A Tier A mapping is not the Rule 18.6.3.3 mapping of the Section 7 villain.)*
-**Affiliation Bonds (Part 23):** **the man** (a Tier B villain; his file is made by the ledger flow) **reports to it and courts its favour** `[ASKED]` *(PLANNED, Area block 07: the man brings a report and the Veiled Party gives an order; the Signatures at slots 8 and 9 already show it being reported to and ordering)*. **The word for the tie** (subordinate, agent or client), its faction web, its bonds, and any tie to the Third Faction or to the Phase 1 villain: `OPEN-AUTHOR`.
+**Affiliation Bonds (Part 23):** **the man** (a Tier B villain; `ledger-character-villain/the-man.md`) **reports to it and courts its favour** `[ASKED]` *(shown at Chapter 006, Ref: 1.1.1.006, Area block 07: the man brings a report of three attacks "on my account" and the voice gives an order, "You will go on"; the narration calls what he courts "the favour", "the only coin that this room paid in", and shows him bowing his head to the voice; the Signatures at slots 8 and 9 show it being reported to and ordering)*. **The word for the tie** (subordinate, agent or client), its faction web, its bonds, and any tie to the Third Faction or to the Phase 1 villain: `OPEN-AUTHOR`.
 **Faction web:** `OPEN-AUTHOR`
 **Affiliation map (Part 23 AFF scale):** `OPEN-AUTHOR`
 **Betrayal history:** none established.
 **Allies:** none established.
 **Antagonists:** none established.
-**Hero-villain relationship status (Part 18 Area 11):** none. No hero knows of it; only the reader and the man know it (PLANNED, Area block 07, a revelation to the reader alone).
+**Hero-villain relationship status (Part 18 Area 11):** none. No hero knows of it; only the reader and the man know it (shown at Chapter 006, Ref: 1.1.1.006, Area block 07, a revelation to the reader alone: nobody in the village sees or hears of it).
 
 ### Relational Address Standards (Part 29 Area 16) — not registered, AL4
 
@@ -154,7 +157,7 @@
 **CPM Holdings (Part 11):** `OPEN-AUTHOR`
 **Debts and Obligations (money):** none yet established
 **Territory control and spatial resources (Parts 13, 14):** `OPEN-AUTHOR`
-**Technology assets (Parts 8, 32, 33):** the wide transparent screen of the plan; whose it is: `OPEN-AUTHOR` *(see Section 2)*
+**Technology assets (Parts 8, 32, 33):** the pane of pale light of Chapter 006 (Ref: 1.1.1.006, Area block 07; raised by the man's palm, shown and never explained); whose it is: `OPEN-AUTHOR` *(see Section 2)*
 **Intelligence assets (Part 24):** `OPEN-AUTHOR`
 **Unique strategic assets not covered above:** `OPEN-AUTHOR`
 
@@ -175,8 +178,8 @@
 **Known vulnerabilities the hero could exploit:** `OPEN-AUTHOR`
 **Arc Trajectory:** `OPEN-AUTHOR`
 **Narrative role at current arc phase:** `OPEN-AUTHOR`
-**Status as of Chapter 006 (Ref: 1.1.1.006):** PLANNED, not established. Nothing is on the page. The plan shows it once, in Area block 07, to the reader alone, as a shape under haze and a voice behind a wide transparent screen: it hears the man's whole report and speaks once, orders the objective and leaves the method, and waves the failure through (plan outcome `po`).
-**Last On-Page Pressure (Part 18 Area 6.2):** none yet (planned Chapter 006, Area block 07, act)
+**Status as of Chapter 006 (Ref: 1.1.1.006), written 2026-10-20:** on 1247.2.20 / PD 48 (Area block 07) it is on the page once, to the reader alone, as a motionless shape in a haze behind a pane of pale light, and a voice. The shape is already in place before the man raises the pane ("had been there before the light came"), does not greet him, and hears his whole report of three attacks without a sign ("The haze did not stir"; "The shape had not moved while he spoke and did not move now"). After a silence that the man counts to a hundred breaths, the voice says "You will go on" and that what is wanted is "chaos and pressure, kept up", that "the loss of this one changes nothing that was asked", that "the task is the same as before, and the method remains yours". The pane folds on the voice's last word. It names no artifact, king, plan or person.
+**Last On-Page Pressure (Part 18 Area 6.2):** Chapter 006 (Ref: 1.1.1.006), Area block 07 — act (it tells the man to go on, leaves the method to him and waves the failure through)
 **Merged or Per-Wing Phases:** none
 **Survival Status:** Active `[DERIVED]`
 
@@ -189,7 +192,7 @@
 | Area Reference | Event Summary | Parts Triggered | Sections Updated |
 |---|---|---|---|
 | Registration, 2026-10-20 (no Area written; for Chapter 006, Ref: 1.1.1.006, Area block 07) | **Pre-draft registration of the draft-blocking set, on the author's acceptance of the registration digest of 2026-10-20 with the answers AL1 to AL5.** No event is recorded and no Area has shown the registration. **Set by the author (`[ASKED]`):** the name, Tier A, the descriptor-only page and the Check #17(a) waiver; the Voice Register (PSM-6 never, plain connected full sentences); the four Signatures at slots 1, 7, 8 and 9 (`B39-L01-EXIT-01`, `B39-L10-TURN-10`, `B39-L15-RECV-08`, `B39-L15-ORDER-03`); the operational aim; that it gave the man ***Grayseed***; that it can supply artifacts, pills and medicines. **Accepted as derived, as proposed (`[DERIVED]`):** 46 evidenced lines in Layers L01, L02, L03, L06, L07, L08, L09, L10, L15, L20, L29 and L34 (the origins of the four Signatures). **Held `OPEN-AUTHOR` (AL1):** the 53 weak lines, kept as unregistered proposals at 11.1. **`[N-A]`:** Layer L19 (nine) with a reopen clause (AL3), Layer L35 (three, retired). Everything else is `OPEN-AUTHOR`. Backstory the author has given: it gave the man ***Grayseed***; the date and the place are `OPEN-AUTHOR`, ledger only, never on the page. | Parts 18, 20, 28, 29, 37, 38, 39 | Header; Sections 1, 3, 4, 7, 8, 9, 10, 11 and 12; Changelog |
-| 1.1.1.006 — Area block 07 | **PLANNED, awaiting Gate 2.** The row is written at the Post-Write Ledger Update once the Chapter is written. | — | — |
+| 1.1.1.006 — The Edge of the Forest | **Area block 07: first appearance and first acting appearance, shown to the reader alone (Sanvil, Day 20, 1247.2.20 / PD 48, night).** In the man's room, after he lays his palm on the table, a pane of pale light rises with a haze behind it and a motionless shape in the haze that was there before the light and does not greet him; the page's words for it are "the shape", "the haze" and "the voice". It receives the man's whole report of three attacks (a lower road and a mountain road taken, "a village on the border" lost) and his two lines (that he is working on and influencing the king of Brackenhold, and influencing the monster king) without a sign, through a silence he counts to a hundred breaths; then the voice says "You will go on" and "What is wanted is chaos and pressure, kept up, and neither is measured by any one village, so the loss of this one changes nothing that was asked. The task is the same as before, and the method remains yours."; the pane folds on its last word. **Signatures shown (the four registered):** slot 7 `B39-L10-TURN-10` (it waits until "the last word had been said and the room had gone quiet", then speaks once); slot 8 `B39-L15-RECV-08` (reacts to nothing: "The haze did not stir", and the lamp flame stands straight); slot 9 `B39-L15-ORDER-03` (the objective, "chaos and pressure, kept up", and "the method remains yours"); slot 1 `B39-L01-EXIT-01` (the pane folds on the voice's last word and no reply is waited for). **Waits (Layer L29) shown:** `B39-L29-WAIT-04` and `B39-L29-SILENCE-04` (a held position, silent and comfortable, already in place before the man); `B39-L29-TOLER-01` (idle through a hundred breaths); `B39-L29-WATCH-01` (the man feels "the watching not as a gaze but as a closing of the room"); `B39-L29-BEFORE-03` (silent and unreachable until the whole report is done). Also on the page and agreeing with registered `[DERIVED]` lines: `B39-L01-ENTRY-08` and `B39-L01-STILL-01` (in place first and motionless; "The shape had never once been late"); `B39-L03-LATENCY-02` (the held beat before it answers); `B39-L10-SILENCE-01` and `B39-L10-NAME-05` (silence as pressure; no name and no vocative); `B39-L15-DELEG-01` and `B39-L15-FAIL-05` (the method left to him; the same task again). It names no artifact, no king and no person, shows no body or hands, and is not harmed or changed. No drift; the Check #21 enquiry read SILENT (Tier A: its four Signatures as registered). | Parts 18, 28, 29, 30, 39, 41 | Header; Sections 1, 2, 3, 4, 7, 8, 9, 10, 11 (11.2, 11.4), 12 (note), 13 |
 
 *(Backstory the author has given: it gave the man ***Grayseed***. It is not an event written on the page; date and place `OPEN-AUTHOR`.)*
 
@@ -205,7 +208,7 @@
 **Signature Spread (Rule 39.3.3.5):** **4 Signatures across 3 Layers** — L01 (1), L10 (1), L15 (2). Slots 2 to 6 and 10 to 12 are `OPEN-AUTHOR`. *(Information only; no Signature is added to meet a count.)*
 **Immutable core (Rule 39.35.1.1):** `OPEN-AUTHOR` — the author's only. No code is immutable by default.
 **Cross-character comparison (author ruling):** none registered. Each character is registered separately; overlaps with other characters' registered values are permitted and carry no clearing, axis, or swap-test.
-**Provenance and evidence regime:** `[ASKED]` = the author's brief or the author's answers of 2026-10-19 and 2026-10-20. `[DERIVED]` = a line the digest of 2026-10-20 proposed with evidence, accepted by the author as proposed. Evidence keys: **a1** the author's name, Tier A, descriptor-only page (rulings of 2026-10-19); **a2** the reader alone sees a shape and a voice in haze on a wide transparent screen; **a3** it gave the man ***Grayseed***; **a4** it wants chaos and pressure continued, plain connected speech, no epigram; **a5** it speaks once; **a6** the man courts its favour (artifacts, pills, medicines); **p2, p3, p5** the Area block 07 anchors of the plan (Chapter Spec 1.1.1.006 DRAFT v0.9; PLANNED, not established); **po** the planned outcome (the failure is waved through); **s1, s7, s8, s9** agrees with the asked Signature at that slot. No scene chronicle is cited. **Every Chapter 006 fact below is PLANNED, not established.**
+**Provenance and evidence regime:** `[ASKED]` = the author's brief or the author's answers of 2026-10-19 and 2026-10-20. `[DERIVED]` = a line the digest of 2026-10-20 proposed with evidence, accepted by the author as proposed. Evidence keys: **a1** the author's name, Tier A, descriptor-only page (rulings of 2026-10-19); **a2** the reader alone sees a shape and a voice in haze on a wide transparent screen; **a3** it gave the man ***Grayseed***; **a4** it wants chaos and pressure continued, plain connected speech, no epigram; **a5** it speaks once; **a6** the man courts its favour (artifacts, pills, medicines); **p2, p3, p5** the Area block 07 anchors of the plan (Chapter Spec 1.1.1.006 DRAFT v0.9; PLANNED, not established); **po** the planned outcome (the failure is waved through); **s1, s7, s8, s9** agrees with the asked Signature at that slot. No scene chronicle is cited. **Every Chapter 006 fact below was PLANNED, not established, at registration.** *Gate 2 of Chapter 006, 2026-10-20:* the written Chapter 006 Area block 07 is now the page evidence for the lines that cite a plan key ("p2", "p3", "p5", "po", "s7", "s8", "s9"); where the page differs from a plan bracket, the page governs, and no registered value is changed (the Section 10 row of Chapter 006 records what the page shows).
 **Speech discipline (Rule 39.2.3.1):** no Part 29 prosodic determinant is registered here; L10 carries conduct only. Its Voice Register and Prosodic Signatures are at Section 1.
 
 ---
@@ -354,7 +357,7 @@
 **Immutable count (Rule 39.35.1.1):** none registered; `OPEN-AUTHOR`.
 **L34 origin check (Rule 39.38.1.1):** all four name an origin class, a canon status, a knowledge state and an ending condition, each a single clause (Rule 39.38.1.4). The class is `-09` (all four), the status `-05` (all four), the knowledge state `-02` (all four) and the ending `-09` (all four). The origin names no person, place or event, because its home, past and kin are `OPEN-AUTHOR`. No ending is a Permanent change, and no drift row is mapped yet, so Rule 39.42.5.3 raises nothing.
 **Renderability check (Rule 39.3.3.3):** each of the four can be shown in a single beat without narrator explanation: a voice that stops on its last word and goes; a silence that lasts the whole report and then one speech; a shape that does not react; an order that names the objective and not the way. Compliant.
-**Planned beats (PLANNED, not established; the plan reaches them in this order at Area block 07):** slot 7 `B39-L10-TURN-10`, slot 8 `B39-L15-RECV-08`, slot 9 `B39-L15-ORDER-03`, then slot 1 `B39-L01-EXIT-01`; the wait (Layer L29) and `B39-L10-NAME-05` (no vocative) run through the Area. Nothing is on the page until Gate 2 of Chapter 006.
+**Beats (planned at registration; shown at Chapter 006, Ref: 1.1.1.006, Area block 07, in this order):** slot 7 `B39-L10-TURN-10`, slot 8 `B39-L15-RECV-08` (throughout), slot 9 `B39-L15-ORDER-03`, then slot 1 `B39-L01-EXIT-01`; the wait (Layer L29) and `B39-L10-NAME-05` (no name, no vocative) run through the Area. The Section 10 row of Chapter 006 holds the page lines.
 **Cross-character note (author ruling):** no collision axes, uniqueness tests, or swap tests are recorded for this registration.
 
 ---
@@ -389,14 +392,14 @@
 |---|---|---|
 | Alone | `OPEN-AUTHOR` | — |
 | With a superior | `OPEN-AUTHOR` | — |
-| With a subordinate (being reported to by the man) | PLANNED, Area block 07 `[ASKED]`: it hears the whole report and reacts to nothing, speaks once, states the objective and leaves the method, and leaves on its last word | `L10-TURN-10`, `L15-RECV-08`, `L15-ORDER-03`, `L01-EXIT-01` (slots 7, 8, 9, 1) |
+| With a subordinate (being reported to by the man) | `[ASKED]`, shown at Chapter 006 (Ref: 1.1.1.006, Area block 07): it hears the whole report and reacts to nothing, speaks once, states the objective and leaves the method, and the pane folds on its last word | `L10-TURN-10`, `L15-RECV-08`, `L15-ORDER-03`, `L01-EXIT-01` (slots 7, 8, 9, 1) |
 | With a child | `OPEN-AUTHOR` | — |
 | In ceremony | `OPEN-AUTHOR` | — |
 | In danger | `OPEN-AUTHOR` | — |
 | On another faction's ground | `OPEN-AUTHOR` | — |
 | Under observation | `OPEN-AUTHOR` | — |
 
-*(The one filled row is the planned meeting with the man and is not established. Every other row is the author's; the tie to the man (subordinate, agent or client) is `OPEN-AUTHOR`, so the row's heading is a context and not a rank.)*
+*(The one filled row is the meeting with the man, shown once at Chapter 006 (Ref: 1.1.1.006). Every other row is the author's; the tie to the man (subordinate, agent or client) is `OPEN-AUTHOR`, so the row's heading is a context and not a rank.)*
 
 ---
 
@@ -461,6 +464,8 @@
 
 *Registration, 2026-10-20 (before Chapter 006 Area block 07 is drafted): the registration is made, not drifted. No Part 39 dimension moved, so the Drift Count above stays 0 and no row is added to the log table above; row 0 stays the baseline. The Voice Register of Section 1 is set for the first time by this registration (AL5), so no earlier register is superseded. No Deferred row is created, because nothing was deferred. For the Check #17, #19, #20 and #21 reader: Check #17(a) is waived by the author (Section 1); its epigram count at Check #19 is expected to read 0 (PSM-6 never); a form of address in either direction is a Check #17(e) and Rule 20.4(f) enquiry, since AL4 registers none; Check #21 at Area block 07 (the author's, Tier A) is expected to read SILENT unless the page moves a line; a line marked `OPEN-AUTHOR` that a scene needs is a stop and a question to the author, never an invention.*
 
+*Chapter 006 (Ref: 1.1.1.006), written 2026-10-20 (Gate 2): executed no drift. No mapped or unmapped trigger fired and no dimension moved, so the Drift Count above stays 0 and no row is added to the log table above. The Check #21 enquiry read SILENT at the Gate 1 (Tier A: its four Signatures as registered; the author rules a Tier A villain, and no question arose). The Voice Register of Section 1 is unchanged: the page shows plain connected full sentences, no balanced maxim and no vocative. No Deferred row is created.*
+
 **Deferred Check #21 questions (Part 39 Area 44.4):**
 
 | # | Area Ref | Character | Detection class | Evidence | Deferral | Date |
@@ -478,11 +483,11 @@
 
 *[Detailed form (Part 37 Area 2.1). Every field reads `none recorded at story start` until an Area changes it.]*
 
-**Emotional state:** none recorded at story start
-**Mental state:** none recorded at story start
+**Emotional state:** none named; the page shows no reaction at all (Chapter 006, Ref: 1.1.1.006, Area block 07: "The haze did not stir").
+**Mental state:** at the close of Chapter 006 it has told the man to go on and left the method to him; no interior is shown (it is never a viewpoint holder).
 **Psychological state:** none recorded at story start
-**Physical state:** none recorded at story start
-**Metaphysical state:** none recorded at story start
+**Physical state:** a motionless shape in a haze behind a pane of pale light; nothing more is shown, and it was not harmed or changed (Chapter 006, Area block 07).
+**Metaphysical state:** none recorded at story start; the page shows no power, level or sense of its own.
 **Soul state:** none recorded at story start
 
 **Wounds and lasting marks:**
@@ -490,9 +495,9 @@
 |---|---|---|---|---|---|
 | none recorded at story start | | | | | |
 
-**Last changed:** not yet changed (registered 2026-10-20; no Area written).
+**Last changed:** the Gate 2 of Chapter 006, 2026-10-20 (registered the same day before it).
 
-**Narrative summary:** none recorded at story start. *(The Depth Test of Part 18 is not claimed.)*
+**Narrative summary (as of Chapter 006, Ref: 1.1.1.006).** On 1247.2.20 / PD 48, at night, the Veiled Party was seen once, to the reader alone: a motionless shape in a haze behind a wide pane of pale light that a man raised in his room with his palm, and a voice that does not hurry. It was in place before the light came and gave no greeting and no sign while the man reported three attacks and his two matters. After a silence of a hundred breaths it told him "You will go on", that what is wanted is "chaos and pressure, kept up", that the loss of one village changes nothing that was asked, and that the method remains his; the pane folded on its last word. No person on the page other than the man knows it, and the page gives it no name, face, sex, number, species, place or faction. *(The Depth Test of Part 18 is not claimed.)*
 
 *[L — Written by the Post-Write Ledger Update after every Area that changes any field above, for every character the Area affects, whoever caused the change. Read by the Pre-Write Ledger Check before every Area in which the character appears. A healed wound keeps its row, marked healed with the Area ref. Each change is also a Section 10 row that names Section 13.]*
 
@@ -514,3 +519,5 @@
 ---
 
 **Changelog:** Created 2026-10-20: pre-draft registration of The Veiled Party as a Tier A villain, for Chapter 006 (Ref: 1.1.1.006), Area block 07, on the author's acceptance of the registration digest of 2026-10-20 with the answers AL1 to AL5. Written: Sections 1 to 14. Section 11 holds the draft-blocking set (mandatory-core six L01, L03, L08, L10, L29, L34, plus L02, L06, L07, L09, L15, L20): 63 of 291 dimensions addressed (5 `[ASKED]`, 46 `[DERIVED]`, 12 `[N-A]`) and 228 `OPEN-AUTHOR`; 4 Signatures (slots 1, 7, 8, 9); the 52 remaining weak lines held `OPEN-AUTHOR` and listed as unregistered proposals (AL1); Check #17(a) waiver recorded (AL2); Layer L19 `[N-A]` with the reopen clause (AL3); no vocative in either direction (AL4); Voice Register PSM-6 never and PSM-2 complete sentences (AL5). 11.3, 11.6, 11.7, Signature slots 2 to 6 and 10 to 12, L31 and 22 Layers are held for the interview before the second acting appearance (Rule 39.4.3.4). Every Chapter 006 fact is PLANNED, not established. The villain index, the monster and relics index pointers and the session log are made by the ledger flow.
+
+**Changelog:** Updated 2026-10-20 (v1.1) at the Gate 2 of the whole-built Chapter 006 (Ref: 1.1.1.006), the one batched Post-Write Ledger Update: its first appearance and first acting appearance (Area block 07) recorded from the written page. Header, the Gate 2 note, and Sections 1 (status, location, physical description, voice register), 2 (technology note), 3 (artifacts note), 4 (the aim as said on the page), 7 (the man's tie, hero-villain status), 8 (technology asset), 9 (status, last on-page pressure), 10 (the Chapter 006 row replaces the placeholder row), 11 (evidence note, 11.2 beats, 11.4 row), 12 (Chapter 006 note, no drift) and 13 (condition and narrative summary) updated. No registered value changed; Check #21 read SILENT (the Gate 1 checker's report); the rest of the registration stays owed before its second acting appearance (Rule 39.4.3.4).

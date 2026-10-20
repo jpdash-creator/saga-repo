@@ -3,7 +3,7 @@
 **Ledger Domain:** World Systems — Named Travel Routes, Gate Networks, and Infrastructure
 **Governed By:** `guardrails/ledger/guardrail-ledger-update-law.md`, Part 37 (Ledger Schema Law), Part 15 (Travel Law)
 **Template:** Part 37 Area 3.1 — Schema Template: Travel Ledger
-**Last Updated:** 2026-10-17
+**Last Updated:** 2026-10-20
 **Index Version:** v1.0
 **Total Entries:** 1 — one standalone file, a Named Infrastructure hub, `alder-bridge.md`, kept through the redraft of Chapter 002 by the author's ruling of 2026-10-07 and written from the whole-built Chapter 002 (Ref: 1.1.1.002); no standalone route files yet; named routes in world-building lore noted below
 
@@ -72,7 +72,7 @@
 
 | File | Hub Name | Location | Type | Function | Faction Control | Status | Last Updated |
 |---|---|---|---|---|---|---|---|
-| alder-bridge.md | Alder Bridge | Greenhollow Cross (`ledger-worlds-location/greenhollow-cross.md`, §5.8) | Bridge with a toll collector | The cart road crosses the village stream here on grey planks over stone legs, and a toll collector at the near end works a bar (its short end is pulled down to raise the long pole clear of the road), counts each load and each person who goes through, and marks a slate that hangs from the post (Ref: 1.1.1.002) | Not established (the toll collector is Pasco Cobb; whom he answers to, the toll and who receives it are open) | Operational — shown in use on 1247.1.1 / PD 1 | 2026-10-08 |
+| alder-bridge.md | Alder Bridge | Greenhollow Cross (`ledger-worlds-location/greenhollow-cross.md`, §5.8) | Bridge with a toll collector | The cart road crosses the village stream here on grey planks over stone legs, and a toll collector at the near end works a bar (its short end is pulled down to raise the long pole clear of the road), counts each load and each person who goes through, and marks a slate that hangs from the post (Ref: 1.1.1.002) | Not established (the toll collector is Pasco Cobb; whom he answers to, the toll and who receives it are open) | Operational — shown in use on 1247.1.1 / PD 1; the bar's long pole snapped on 1247.2.15 / PD 43 and mended on 1247.2.17 / PD 45 (Ref: 1.1.1.006) | 2026-10-20 |
 
 *One entry so far. Further files are created as named infrastructure is introduced in prose.*
 
@@ -123,7 +123,7 @@
 
 | File | Entry Name | Type | Paradigm Band | Depth-Test Certification | Last Lore Update |
 |---|---|---|---|---|---|
-| alder-bridge.md | Alder Bridge | Named Infrastructure (bridge with a toll collector) | ST-Band (a surface cart road) | Kept through the redraft of Chapter 002 by the author's ruling of 2026-10-07 and written from the whole-built Chapter 002 (Ref: 1.1.1.002): the bar, the count, the slate, the planks on stone legs and the two ends are shown, so the Depth Test passes for the daytime crossing; the toll, who receives it, the keeper and the night practice stay open (OPEN-AREA) | 2026-10-17 |
+| alder-bridge.md | Alder Bridge | Named Infrastructure (bridge with a toll collector) | ST-Band (a surface cart road) | Kept through the redraft of Chapter 002 by the author's ruling of 2026-10-07 and written from the whole-built Chapter 002 (Ref: 1.1.1.002): the bar, the count, the slate, the planks on stone legs and the two ends are shown, so the Depth Test passes for the daytime crossing; the toll, who receives it, the keeper and the night practice stay open (OPEN-AREA); Chapter 006 (Ref: 1.1.1.006) adds the bar snapped and mended | 2026-10-20 |
 
 ---
 

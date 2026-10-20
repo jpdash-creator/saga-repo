@@ -1,5 +1,6 @@
-- [Word count and band](reference_word_count_and_band.md) — Grep offset probes for exact counts (date line 6, marker 2) and the `measure --mode whole` "up to" stretch trap
+- [Word count and band](reference_word_count_and_band.md) — Grep offset probes (date line 6, marker 2, 36-token # heading block in staged revise copies), clause-cut check, "up to" stretch trap
 - [Recast and sweep playbook](reference_recast_and_sweep_playbook.md) — Rule 29.2.1.7a recast detail, 22-9 sweep words and fixes, sameness tallies
 - [Fault classes and fixes](reference_fault_classes_and_fixes.md) — crowd metonyms, time-unit breath, Tier 1 stage order, Yun register, seam restatement, slip names (Chapter 004 pass)
 - [Gate 1 fix-loop lessons](reference_gate1_fix_loop_lessons.md) — naming Tier D speakers, deep POV cuts, Varya face-blindness, ward geometry, rotation count, "grip" vs *First Grip* (Chapter 004 loop)
 - [Chapter 005 pass lessons](reference_chapter_005_pass_lessons.md) — "hum" substring bans, read-policy, Aeries/Aalia voice checks, mirror-beat staging, POV-seam restatement, tag merges, did-not/count thinning; fix pass: replay compression, Tier D naming scan, level-by-position, single-sense re-sweep
+- [Chapter 006 pass lessons](reference_chapter_006_pass_lessons.md) — check Ch.002 callbacks before cutting, list-speech recasts, gate/lane geography, Kind names on page, cross-block contradiction, unplanned witness, compact repeat of a move
