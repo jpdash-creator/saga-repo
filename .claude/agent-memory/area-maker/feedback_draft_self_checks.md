@@ -19,7 +19,11 @@ metadata:
 
 **Dialogue.** No paragraph is a bare quote (Grep `^\*"[^"]*"\*$`). Adjacent quotes from two speakers carry a tag or beat at the speaker change. One name per sentence; one new proper name per sentence with its picture. Vary tags (Grep `said|asked`; never five in a row).
 
-**Habit clauses.** "As he did before anything new" states a registration: show the act, cut the clause. Render each Tier D code from its catalog text, not memory.
+**Habit clauses.** "As he did before anything new" states a registration: show the act, cut the clause. Render each Tier D code from its catalog text, not memory. Grep before hand-off: `\bas (he|she|they|it) (did|always|read|took|held|breathed|said|held out)|every (afternoon|morning|day|time)|as they always`; a whole Chapter drafted at pace carried about 15 (Chapter 007).
+
+**Named-item short forms.** A lower-case roman short form of a registered item ("the red grip", "five grips") was a Gate 1 finding in Chapter 004. Grep the head noun of every named item and write the full italic name or a plain description ("leather cover"); never a plural of the name.
+
+**One-job words met in Chapter 007.** board (floor planks, chalkboard, quest board: say floor for planks), level (cultivation Level, quest level, even, alongside), hold (qi, breath, opinion, grasp: "keep to it" for an opinion), cover and covered (the item, a roofed span, ground crossed). Grep each and give it one job per Area.
 
 **Edit tool and blank lines.** An Edit that deletes a sentence at the very end of a paragraph (empty new_string) also swallows the newline after it, so the next paragraph fuses to the one above; give the Edit a non-empty replacement or re-Read the seam. Also Grep for hedge words ("I think", "perhaps") in a hero whose register bars them, and for registered words used as plain verbs (hold, level, step, edge, ring) before hand-off.
 

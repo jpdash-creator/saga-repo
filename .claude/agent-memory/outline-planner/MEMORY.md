@@ -9,5 +9,7 @@
 - [Gate 2 sync precedent](reference_gate2_sync_precedent.md) - no version bump at the sync (Chapters 001 to 004), Coverage-cell basis ruled 2026-10-19, write order, Chapter Spec sync shape, lane 2b caution, Grep glob and long-line traps
 - [Proposal drafting tricks](reference_proposal_drafting_tricks.md) - word count with no Bash, one-scale Part 44 gaps (Warrior vs Champion is Shut, not Barred), name-scan glob traps, hero fight-grammar reads, mid-task rulings
 - [Part 45 Situation line](reference_part45_situation_line.md) - no order rule, menu not ladder, Seal ceiling, move type is the CSV column not the ID prefix, final greps for the pass
+- [Confirm write step](reference_confirm_write_step.md) - /next-chapter step 3 one-step write: order, light vs substantial parent amendments, outgoing Chapter completion pieces, long-copy chunking and count/window verification
+- [Light amendment after chat rulings](reference_light_amendment_after_chat_rulings.md) - finishing an interrupted v1.1 amendment: restore and mark superseded notes, open notes for newly named persons, stale "owed" and "Not yet registered" carriers, count checks
 
 Behavioural rules live in `.claude/agents/outline-planner.md` under "Working notes". Chapter-specific facts live in the specs, ledgers and session logs and are not kept here.

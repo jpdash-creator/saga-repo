@@ -3,7 +3,7 @@
 **Governing law:** Part 38 — Story Specification Law. Primary skill: `spec-story-specification-law`. Guardrail:
 `.claude/guardrails/ledger/guardrail-story-spec-law.md`.
 
-**Index Version:** **10.0** | **Last Updated:** 2026-10-20 | **Canon v10.0**
+**Index Version:** **10.0** | **Last Updated:** 2026-10-21 | **Canon v10.0**
 
 ## What this folder is
 
@@ -87,13 +87,13 @@ the date of the write, Coverage `0/6 Areas`.
 
 | Spec File | Ref | Status | Spec Ver | Last Updated | Coverage |
 |---|---|---|---|---|---|
-| phase-1/section-1/section-1-spec.md | 1.1 | CONFIRMED | v1.6 | 2026-10-20 | 0/4 Novel-Parts; 5/31 Chapters |
+| phase-1/section-1/section-1-spec.md | 1.1 | CONFIRMED | v1.7 | 2026-10-20 | 0/4 Novel-Parts; 6/31 Chapters |
 
 ### Novel-Part Specs
 
 | Spec File | Ref | Status | Spec Ver | Last Updated | Coverage |
 |---|---|---|---|---|---|
-| phase-1/section-1/part-1/part-1-spec.md | 1.1.1 | CONFIRMED | v1.8 | 2026-10-20 | 5/9 Chapters |
+| phase-1/section-1/part-1/part-1-spec.md | 1.1.1 | CONFIRMED | v1.9 | 2026-10-20 | 6/9 Chapters |
 
 ### Chapter Specs
 
@@ -105,3 +105,4 @@ the date of the write, Coverage `0/6 Areas`.
 | phase-1/section-1/part-1/chapter-004-spec.md | 1.1.1.004 | COMPLETED | v1.0 | 2026-10-18 | 6/6 Areas |
 | phase-1/section-1/part-1/chapter-005-spec.md | 1.1.1.005 | COMPLETED | v1.0 | 2026-10-20 | 6/6 Areas |
 | phase-1/section-1/part-1/chapter-006-spec.md | 1.1.1.006 | COMPLETED | v1.0 | 2026-10-20 | 7 / 7 Areas |
+| phase-1/section-1/part-1/chapter-007-spec.md | 1.1.1.007 | COMPLETED | v1.1 | 2026-10-21 | 6/6 Areas |

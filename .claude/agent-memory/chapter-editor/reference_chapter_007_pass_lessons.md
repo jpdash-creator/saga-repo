@@ -1,0 +1,36 @@
+---
+name: chapter-007-pass-lessons
+description: Reusable lessons from the two Chapter 007 edit passes (Academy round, talking classroom, rack, span): awakening words before the lesson, spec-quoted short answers, Varys and Valia register-break rails, child-anchor clauses, aimed-speech tic, earlier-Chapter echoes, parallel Edit calls
+metadata:
+  type: reference
+---
+
+Seen in Chapter 007 (1.1.1.007, six Areas, three scenes, four POVs). Check each by Grep before reading for taste.
+
+**Pass 1**
+- **Awakening words before the lesson.** When a spec says the First Awakening is "named in Area 03 and no more", the verb forms "woke / woken / not woken" in earlier Areas get flagged; the status noun "unawakened" is canon (Chapters 001 and 004 use it) and stays. Fix patterns that added no fact: "the pupils of the stages" (for the woken), "older children who had been waiting longer" (back benches), "one of the older unawakened children" (Varya POV). Let the teacher say the room is "unawakened" when the Cultivation Visibility table asks for it.
+- **Spec-quoted short answers** ("for lifting", "for being first") are kept as the phrase and put inside a full sentence ("A strong person is for lifting, Teacher."). Report the recast.
+- **Epigram in a teacher's answer.** The spec tone line said "no epigram"; a two-sentence balanced maxim was joined into one reasoning sentence with "because". A Tier D speaker's repeated "Thank you, Name." and "I will tell/give/say": move the name mid-sentence, swap a few "I will" lines.
+- **Cross-level fact.** If the spec says the king and queen cannot sense their own daughter, the narration must say the daughter is one of the gaps ("and one of the two was his own daughter"). Name the sensed person at the sensing line (Rule 22.2.3, no hidden thought).
+- **Varya cannot read a face** (again): "the look she would have given the weather" became "the attention"; hands stay.
+- **22-9 and sameness words** were time-unit "breath", "a hair", "a hand's width", "a little", "turn", "hold", "edge"; fixes cost zero or less.
+- **Wind timing.** Narration said "all day" while Varya said "since the second bell"; changed to "all morning".
+- **Count recipe, no heading block.** Marker 01 `AREA` is token 0, text starts at 8; later markers add 2. Six probes of 8 to 12 tokens, then the last token, give all six Areas plus the total. Chapter 007 band: each Area 1,650 to 2,160 (all six name a 72 percent stretch), Chapter 9,900 to 12,960.
+
+**Pass 2 (after Gate 1: 3 local findings, then author rulings)**
+- **Narrator names a registered habit (F2).** "She read people by their hands", "who heard how a thing was said before he heard what it said", "Kellan looked first for whoever was behind" are labels; show the act instead ("Varya looked at the teacher's hands first, and the teacher had put them away"; "Kellan's eye went first to the third mark, where ..."). Also keep the narrator off sentences that state a Layer rule ("the thing at hand had never frightened him"): let the line of dialogue carry it.
+- **Child anchors (F3).** For a Tier D child, read the row in `ledger-character-side/_index.md` (Code cell and Body/Mind text) and the L30 catalog (`B39-L30-ANCHOR-01..10`: restless, wrong thing, sudden hunger or tiredness, naive unanswerable question, fear of an ordinary thing, certainty, attachment to a worthless object, play, adult's remark as law, wants an adult near). One clause per child per Area: Zeb eyes on the clerk's nail (02); Varya asks how the wash knows to be gentle (04); Mabyn takes "it will come when it is sent for" as law (09); Ned rocks between calls (01).
+- **Author ruling: Varys and Valia fully unguarded on the span.** Ledger rails still hold: Valia's register break is "short finished sentences leading with the hard thing", fragment tolerance does NOT rise for her; Varys's break licenses fragments and laughter but Rule 29.2.1.7a bars chains of fragments, so use short full sentences, a self-correction, one trail-off with an ellipsis, laughter in the narration. `L14-FORBIDDEN` (the hunger in words, what the hour is FOR, the nine years) and `L27-PIS5-99` (the ledger spoken) are reserved: render hunger as a double meaning ("I am hungry anyway" after the clerk's dinner), the hour as his fingers running the movements on the rail, fear as `L27-FEAR-08` (afraid of what it falls on, never of the thing at hand), and never have either acknowledge the held silence. Engagement or fencing vocabulary stays out of his speech (`lunge` only in his thought). Warmth stays (immutable `L13-MASK-99`): the craft stands down, not the warmth; "the pourer sits and is poured for" became his coat round her shoulders.
+- **Aimed-speech tic** ("said, to the string / to the board / told the sky / to nobody / told it"): ten uses; cut to two (kept "to the string" and Brea telling her fist).
+- **Earlier-Chapter echoes** to Grep against the written Chapters: "no apology in it and no scorn" (Ch 004), "oiled wood and raked earth" (Ch 004), "a full cup" (Ch 004 Bennet), "a gap in the reading the size of a man" (Ch 006), "never ahead of the day it is wanted" (Ch 003). Planned callbacks in the spec (the span "colder than it looks from the other side", the flame at the last dark hour of Day One) stay.
+- **Closers.** Three Areas in a row ending on one object (Aegon's foot) and two ending on a bell paragraph: keep the spec's planned closer for the first, end the next on the person waiting at the front, the next on the pigeon leaving.
+- **Fold tag-only short speech paragraphs** into the paragraph of the beat before or after them; two speakers in one paragraph is fine, three is not.
+- **Parallel Edit calls.** Eight to ten Edit calls in one message on the same staged file all applied (verified by Grep on the new strings); no lost edit.
+- **Final counts (pass 2):** 1,906 / 1,860 / 1,714 / 1,757 / 1,774 / 1,862 = 10,873.
+
+**Pass 3 (after Gate 1 round 2; author ruled R1 to R4 stay, so the lines the gate questioned were left alone)**
+- When the author rules a line stays, edit only the listed small items; do not "improve" nearby lines.
+- **Merge, do not stack.** Replacing a simile sentence with a stated sentence ("He let the day's stillness go from his shoulders.") collided with the sentence just before it ("He let the stillness go."). Merge into one sentence and report the merge.
+- **A sense domain owned by one character** (Varya: cloth; Aegon: swallows and light) needs a sweep for every mention, not only the one the gate named: the same paragraph also had "listened to the cloth". Grep the noun over the whole file first.
+- **Tic count by tense.** "came up" had nine hits; "come up" and "comes up" are the same tic in other tenses. Vary the Area-end hits first, then clear the pair that sits in one paragraph (eyes and hand); keep physical uses (swords, a lid) and one echo. Check each replacement verb against the same paragraph (a "poured" swap would have clashed with Max pouring the wash).
+- **Final counts (pass 3):** 1,897 / 1,860 / 1,707 / 1,757 / 1,768 / 1,827 = 10,816; probes landed exactly on the predicted token indexes (1905, 3767, 5476, 7235, 9005, last 10833), so delta arithmetic from the earlier pass is reliable when every edit is counted by hand first.

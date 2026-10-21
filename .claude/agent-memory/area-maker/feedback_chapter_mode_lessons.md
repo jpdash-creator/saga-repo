@@ -17,7 +17,7 @@ metadata:
 
 **Counting after edits.** Every edit shifts all later markers. Re-probe each marker offset after the last edit, then compute words = tokens minus 4 per marker, 1 per `---`, 6 per date line, 3 per `* * *`.
 
-**Context breaks lose picks.** Write each Tier D code, the map decisions and the running Area counts to a scratch note the moment they are made (a break once lost every pick and they had to be redone from the catalog). A returning person's code is on the side-index row; Grep it, never re-pick.
+**Context breaks lose picks.** Write each Tier D code, the map decisions and the running Area counts to a scratch note the moment they are made (a break once lost every pick and they had to be redone from the catalog; it happened again in Chapter 007, where the summary said only "codes listed in the analysis"). Use the scratchpad directory named in the environment block. The Grep tool omits long lines, so a transcript or a ledger row is read with Read by line number. A returning person's code is on the side-index row; Grep it, never re-pick.
 
 **Count each Area at once.** Hand estimates drift both ways: speech-light action Areas and a villain-viewpoint Area (all interior and one report) came out 20 to 35 percent short (1,016 words against a 1,650 floor), while a run of saves came out 15 percent long. Fill a short Area with registered conduct, room beats, sensory anchors and the spec's own owed beats (never restatement); trim a long one by whole sentences, never speech.
 
