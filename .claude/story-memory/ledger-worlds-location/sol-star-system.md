@@ -4,7 +4,7 @@
 **Location Tier (Part 13):** Star System — Tier 8
 **Part 13 Classification:** SS-5 Rich System (modified — see Special Zone: Firmament Lock)
 **First Area Appearance:** Not yet established -- to be defined in prose
-**Last Updated:** 2026-10-05
+**Last Updated:** 2026-10-22
 **Ledger Version:** v1.0
 
 ---
@@ -64,6 +64,10 @@ Additional celestial bodies (gas giants, asteroid fields, uninhabitable worlds) 
 > **Species-innate (S-3) substrate stands outside both layers.** Immunity to cultivation suppression is **anatomical, not mechanical** — it does not depend on what is doing the suppressing. Part 6 Area 12.3.4(a) exempts S-3 moves from the Firmament Lock *and from all cultivation-energy suppression mechanisms that operate on S-1 substrate*; the Olympus Suppression Seal is one such mechanism, so the exemption reaches it. No cultivation suppression of any origin touches an S-3 move. Only the physical counters of 12.3.4(b)–(d) do. Which moves are S-3 for a given character, and the specific counters that reach them, are registered in that character's own ledger (`bison.md` §3) and are not restated here.
 >
 > **Deliberately left open — do not invent:** how the Seal was laid, who holds it, and what would break it in full; and, separately, the Firmament Lock's own origin and conditions of release. None of these are canon.
+>
+> *Author ruling, 2026-10-21 (Chapter Spec 1.1.1.008, "The Hour Nobody Watches", its Settled notes, as relayed by the orchestrating command; written in the pre-draft ledger step of 2026-10-22; nothing here is on a page yet).* The line above is read with one narrow exception, for the Chapter 8 hour only. Hercules and Bison each say to the other that his own father placed the Seal on him (the fathers unnamed in prose, with no title, place or polity), they treat it as taking "a few years" to break and as grounding, and they share a suspicion, with no proof, that the fathers had a hidden agenda and used the exile. That is the exiles' account. It sets no mechanism: how the Seal was laid, who holds it now and what would break it in full stay open, the Phase 1 end-states above stand, and "a few years" is their belief and not a ledger fact. The Seal is also a named item, with one row in `ledger-named-items`. The dated exception blocks are at Section 11.4a of `ledger-character-hero/hercules.md` and `bison.md`.
+>
+> *Update at the Gate 2 of 2026-10-22 (Chapter 008, Ref: 1.1.1.008, Area block 02; 1247.2.21 / PD 49).* The exception is now on the page, and "nothing here is on a page yet" above is read as the pre-draft state. At dusk on the village high ground, Hercules says "My father put the *Seal* on me" and Bison says "My father put it on me too"; the fathers stay unnamed, with no title, place or polity. Each says he has no proof of what his father wanted ("I suspect he had a use for it"; "He had a use for it. I have no proof of that, only the suspicion"). Hercules says the *Seal* "will take a few years to break" and "grounds a man", and Bison says "It is meant to ground a man". The page writes the short form *Seal* only, never the full name, and gives no maker, no origin and no mechanism; how the Seal was laid, who holds it now and what would break it in full stay open. The Firmament Lock is not named or touched. Once, in Hercules's private thought and in plain words, the page also gives the pair's true level under the shown rank (Demigod Level 1 Mid under Champion Level 8 High), as this model holds it.
 
 **Two-Layer Ceiling Model (Locked Canon — Do Not Conflate):**
 
@@ -146,6 +150,7 @@ Additional celestial bodies (gas giants, asteroid fields, uninhabitable worlds) 
 
 | Area Reference | Event Summary | Parts Triggered | Sections Updated |
 |---|---|---|---|
+| 1.1.1.008 — The Hour Nobody Watches (1247.2.21 / PD 49; Area block 02, written at the Gate 2 of 2026-10-22) | The narrow exception recorded under the Layered Suppression Model (Section 2) is on the page for the first time, as that block gives it. At dusk on the village high ground Hercules says "My father put the *Seal* on me" and Bison says "My father put it on me too"; the fathers are unnamed, with no title, place or polity; each says he has no proof of what his father wanted; Hercules says the *Seal* "will take a few years to break" and "grounds a man", and Bison says "It is meant to ground a man". The page writes the short form *Seal* only, never the full name, and gives no maker, no origin and no mechanism; how the Seal was laid, who holds it now and what would break it in full stay open. The Firmament Lock is not named or touched. | Parts 13, 28, 30 | Section 2 (Layered Suppression Model, update note); Section 4 |
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: no-shell-recipes
-description: Verification and edit recipes for the continuity-checker (no shell): cell-count Greps, exact counts, byte-exact proof, docx limits, Block A and B sources, edit techniques, memory path
+description: Verification and edit recipes for the continuity-checker (no shell): cell-count Greps, exact counts, byte-exact proof, docx limits, Block A and B sources, edit techniques, Part 39 catalog-code proof and register tallies, memory path
 metadata:
   type: reference
 ---
@@ -17,6 +17,8 @@ metadata:
 
 **Edit techniques.** Huge ledger line: Read offset N limit 1, then Edit on a short unique anchor (Grep count first). A multi-line old_string works in CRLF files. Edit one row per file in parallel, serial within a file. skill-index `line_count` is approximate.
 
-**Read page size.** One Read call is capped near 25,000 tokens whatever `allow_large` says. The hero ledgers (about 1,100 dense lines each) read at 90 to 110 lines a call (a 150- or 230-line call fails); a spec file reads at about 100 to 190 lines. Map a big file first with Grep `^#{1,3} ` (count mode gives its length), then page it. `skill-index.json` is 14,000 lines: Grep `"skill_id"` with `-n` for each Part's block offset, then Read one block; Area titles sit at four-space indent (`^    "title"`).
+**Read page size.** One Read call is capped near 25,000 tokens whatever `allow_large` says. Read labels: offset 0 labels the first line 0 (label = Grep line minus 1), while offset N above 0 starts at line N and labels it N, so chunks read at offsets 0 and 150 overlap by one line and nothing is missed; Grep line numbers are 1-based. The hero ledgers (about 1,100 dense lines each) read at 90 to 110 lines a call (a 150- or 230-line call fails); a spec file reads at about 100 to 190 lines. Map a big file first with Grep `^#{1,3} ` (count mode gives its length), then page it. `skill-index.json` is 14,000 lines: Grep `"skill_id"` with `-n` for each Part's block offset, then Read one block; Area titles sit at four-space indent (`^    "title"`).
+
+**Part 39 catalog codes and register tallies.** Appendix B of `character-behavioral-synthesis-law` lists dimensions and option counts only. To prove a code exists and read its option text in one call, Grep the skill with one alternation: `^\| \`B39-(L02-(LEAD-09|FIRST-03)|L07-(MODE-01))\` \|` with `-n` (every hit is a real code; a missing code is absent from the output). A line the catalog cannot word takes the `-99` AUTHOR-SPECIFIED slot, which exists on every dimension (the immutable core uses `B39-L31-IMMUTABLE-99` when the two Signatures are outside its ten options, as `corin-vale` does). The 291 tally is proved by Grep count mode on the file: `^- \`B39-Lnn-[A-Z0-9]+(-nn)?\`.*\`\[ASKED\]\`` (and `[DERIVED]`), plus the sum of the open-mnemonic counts per Layer; ASKED + DERIVED + N-A + OPEN must equal 291. A Tier B file is modelled on `max-pryce.md` (compact, interview shape) for Sections 1 to 14 and on `wulfric-rask.md` for the evidence-line style. The interview packet and its author answers are in the session `.jsonl` when the brief only summarises them (Grep a unique phrase across `~/.claude/projects/<repo>/*.jsonl` and `subagents/`, then Read that one line; it can be 10K tokens).
 
 **Memory path.** Write memory only to the repo-root `.claude/agent-memory/continuity-checker/`. The paths the prompt names (`.../part-1/.claude/agent-memory/...`, `.claude/.claude/agent-memory/...`) are wrong and make stray folders.

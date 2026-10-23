@@ -3,7 +3,7 @@
 **Governing Canon Parts:** Parts 13, 14, 15, 21, 22, 25, 31
 **Location Tier (Part 13 Area 2.1):** Sub-World — Continental Region (contained within Nine Suns Continent)
 **First Area Appearance:** Not yet established -- to be defined in prose
-**Last Updated:** 2026-10-18
+**Last Updated:** 2026-10-22
 **Ledger Version:** v1.0
 
 ---
@@ -59,6 +59,7 @@
 | Area Reference | Event Summary | Parts Triggered | Sections Updated |
 |---|---|---|---|
 | Author ruling, 2026-10-18 (map consultation) | The low volcanic ridge with the Boundary Towers is ruled Azure Sky's border and the eastern rim of the Ember Reach region, which stretches west from it toward the coast and Cindervast (`[ASKED]`). Nothing else of the region is set. | Parts 13, 28 | Header; Section 1 (Physical Description); Sections 4 and 5.1 |
+| 1.1.1.008 — The Hour Nobody Watches (1247.2.21 / PD 49; Area block 06, written at the Gate 2 of 2026-10-22) | The ridge with the Boundary Towers and a volcanic coast, which the ledger holds under the author's ruling of 2026-10-18, are named on the page for the first time, in King Varys's private speech to Queen Valia, as a position and not as knowledge of the place: "Cindervast lies west, on the volcanic coast, on the far side of the low ridge where the Boundary Towers stand." The page does not say the name Ember Reach, shows no tower and no ground, and adds nothing of the region; the First Area Appearance stays "Not yet established". The eastern rim, the coast and Cindervast stand as the author ruled them. | Parts 13, 28 | Header; Section 4 |
 
 ---
 

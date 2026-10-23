@@ -2,9 +2,11 @@
 
 **Governing Canon Parts:** Parts 13, 14, 15, 16, 21, 22, 25, 30, 31
 **State Type:** Kingdom
-**First Area Appearance:** Not yet established -- to be defined in prose
-**Last Updated:** 2026-10-18
-**Ledger Version:** v1.0
+**First Area Appearance:** Chapter 008 — The Hour Nobody Watches (Ref: 1.1.1.008)
+**Last Updated:** 2026-10-22
+**Ledger Version:** v1.1
+
+> **Chapter 008 update (Gate 2 of 2026-10-22, Ref: 1.1.1.008).** Ironshore is named on the page for the first time, once, in the private speech of King Varys to Queen Valia in the room behind the door that is theirs in the Azure Sky Palace (Area block 06). He names it as the third of three kingdoms that he holds in suspicion, each by where it lies and by nothing else: "Ironshore lies far to the south on the coast, on the eastern bank of the Lyraen delta." It is never shown, no person of it is named, and the page gives it no aim, ruler, force or capability ("no aim and no face"; "It is a suspicion. It is not knowledge, and I have no proof of any of the three."). The Baseline fields stand as the author's ruling of 2026-10-18 set them; every other field reads not established, and no value is inferred.
 
 ---
 
@@ -100,6 +102,7 @@
 | Area Reference | Event Summary | Parts Triggered | Sections Updated |
 |---|---|---|---|
 | Author ruling, 2026-10-18 (map consultation) | The delta is ruled about 200 km east of Farrowharbor along the coast, with Ironshore on the one continuous southern shoreline from Saltmarsh east to Saltmere and Ironshore (`[ASKED]`). | Parts 13, 14, 28 | Header; Section 1 (Territorial Extent); Section 8 |
+| 1.1.1.008 — The Hour Nobody Watches (1247.2.21 / PD 49; Area block 06 of a whole-built Chapter, written at the Gate 2 of 2026-10-22) | **The kingdom is named on the page for the first time, once, in a king's private suspicion, by position only.** In the room behind the door that is theirs in the Azure Sky Palace, with nobody within hearing, King Varys gives Queen Valia the names of three kingdoms that he holds in suspicion and not in knowledge. After Brackenhold and Cindervast he says: "Ironshore lies far to the south on the coast, on the eastern bank of the Lyraen delta." The page gives no aim, ruler, force or capability for it, and Varys says so: "My reasons are only the places. I have no more of any of them, no aim and no face, and I did not give you the names as knowledge. It is a suspicion. It is not knowledge, and I have no proof of any of the three." Queen Valia answers "Then we will treat it as a suspicion, and watch it, and not feed it." Nothing is sent to Gale. No court hears the names, no war is declared and nothing of Ironshore is shown. First Area Appearance is set to Chapter 008. | Parts 13, 28, 30, 41 | Header; Sections 8 and 9 |
 
 ---
 
@@ -108,5 +111,7 @@
 **Schema:** Part 28 Area 17.2 — Kingdom/State tier
 **Depth Standard:** Part 28 Area 17.3 — Breadth-and-Depth (baseline — brief prose introduction; depth to be built as prose develops)
 **Audit Hook:** ALCA dimension AL-10 (`guardrails/audit/guardrail-alca.md`)
+
+**As named on the page (Chapter 008, Ref: 1.1.1.008).** Ironshore is met only as a place in a king's speech: far to the south of the Azure Sky Kingdom, on the coast, on the eastern bank of the Lyraen delta. It is one of three kingdoms that King Varys of Azure Sky names to Queen Valia in private, on positional grounds only, as a suspicion and not knowledge; the other two are Brackenhold and Cindervast. The page does not show it, does not name a person of it and says nothing of its aims, rulers, forces or capabilities. Not established: everything else, as the fields above read.
 
 [Lore subsections to be populated as prose evidence accumulates]

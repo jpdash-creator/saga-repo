@@ -5,7 +5,7 @@
 **Entry Type:** Kind
 **Status:** Established at the Gate 2 of the whole-built Chapter 006 (Ref: 1.1.1.006) on 2026-10-20: the page first describes this Kind in Area block 02. The Kind Registry row is confirmed, the location mirror is made, no Named Move is written (none) and no Individual exists. Lines marked `[DRAFT-SOURCED]` below are the Chapter Spec's plan values that the author accepted with the Kind's name; the "Shown on the page" block in Section 4 gives what the written text shows, and the page stands over the plan on any difference.
 **First Area Appearance:** Chapter 006 — The Edge of the Forest (Ref: 1.1.1.006)
-**Last Updated:** 2026-10-20
+**Last Updated:** 2026-10-22
 **Ledger Version:** v1.0
 **Source:** the author's rulings of 2026-10-19 (the six Kinds, their names, Tier C, Warrior level, return at Section scale, Skyvein Forest, non-sentient) `[ASKED]`; class, band, count, body and six-trait lines from the Chapter 006 spec DRAFT section 5.0b (a proposal, not canon) `[DRAFT-SOURCED]`; other lines `[DERIVED]` with the evidence named, or OPEN-AREA.
 
@@ -136,6 +136,7 @@ Baseline lines (Part 40 Area 5). `[DRAFT-SOURCED]` = the spec DRAFT section 5.0b
 | Area Reference | Event Summary | Parts Triggered | Sections Updated |
 |---|---|---|---|
 | 1.1.1.006 — The Edge of the Forest | **First described, Area block 02; a whole-built Chapter, written as one reference.** On 1247.2.15 / PD 43 the ravens stoop over the inn at its lamps (Area block 02), three stoop at the bakery's doorway lamp and are driven off dead (Area block 03), and two more hold the saw shed's roof over the mill square and die (Area block 04). Part 40 Rule 40.6.2.2: no trigger crossed. No Named Move, no Individual; no drift. | Parts 28, 38, 40 | Header; Sections 4, 7, 8, 9, 10, 11, 12 and 13 |
+| 1.1.1.008 — The Hour Nobody Watches | **Recalled, not shown; a whole-built Chapter, written as one reference.** On 1247.2.21 / PD 49 (Area block 01) Hercules and Bison speak, on the high ground above the village, of the host of 1247.2.15 / PD 43, and the Kind is recalled by plain words ("black birds"; "a raven's"). They read the host's three departures from the Baseline (the Kinds ran as one, none fed, none turned back), set beside a man at the forest's edge and a file of men at a far ford, as "Someone sent them", name no one and give no beast a will. Part 40 Rule 40.6.2.2: no trigger crossed. No Named Move, no Individual; no drift. | Parts 28, 40 | Header; Sections 10 and 12 |
 
 ---
 
@@ -151,6 +152,8 @@ Baseline lines (Part 40 Area 5). `[DRAFT-SOURCED]` = the spec DRAFT section 5.0b
 |---|---|---|---|---|---|---|---|---|
 
 *No entries. Chapter 006 (Ref: 1.1.1.006) executed no drift: no trait of this Kind's Baseline is changed, no row is added to the table above and no Evolution Entry is made. **Living note, not a drift:** the host's night departs from this Kind's Baseline in three ways that the page shows and never explains to any character. The Kinds run together ("Wolves and bears and foxes, which keep to their own, had run as one", Area block 06; ravens stoop over the same roofs and lamps as the Hook Wings, Area blocks 02 to 04); none feeds on what it takes ("nothing in the village had been fed on", Area block 05; "They had not fed", Area block 06); and none breaks off or turns back ("They had not turned back", Area block 06). No cause is named on any page and this ledger states no link; Part 30's allowance of one mention (the man's single line in Area block 07) is the only line a reader might link to it.*
+
+*Chapter 008 (Ref: 1.1.1.008), 1247.2.21 / PD 49, written at the Gate 2 of 2026-10-22, executed no drift: no trait of this Kind's Baseline is changed, no row is added to the table above and no Evolution Entry is made. **Living note, not a drift:** in the exiles' talk on the high ground above the village (Area block 01), two persons, Hercules and Bison, set the host's three departures from the Baseline (the Kinds ran as one, none fed, none turned back) beside a man at the forest's edge and a file of men at a far ford, and read them as one thing: "Someone sent them." They name no one ("I have no name for them, and no reason, and I will not make either one") and they give no beast a will ("Men sent this, because I saw the men, and the beasts were not willing"; "Nothing in them wanted the village, and they were driven to the roofs the way a flock is driven to a gate"). That is two persons' belief, told to nobody else; no cause is stated on any page and this ledger states no link. This Kind is recalled by plain words and not shown: Bison's account lists "black birds" among the dead lying together in the bakery yard "as a herd beds down", and finds that no fox had "a raven's" mark on it (Area block 01); the page does not call the Kind by its ledger name.*
 
 ---
 

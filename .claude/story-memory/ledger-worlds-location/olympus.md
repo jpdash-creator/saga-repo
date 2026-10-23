@@ -3,8 +3,8 @@
 **Governing Canon Parts:** Parts 13, 14, 15, 21, 22, 25, 31
 **Location Tier (Part 13):** To be established — Olympus is described as the seat of the Empire of Gods; likely World-tier or higher given that it is a divine civilization home
 **Part 13 Classification:** To be established in prose — likely Sacred World (W-8 or W-9) or higher given its nature as the home of gods
-**First Area Appearance:** Not yet established — to be defined in prose
-**Last Updated:** 2026-10-05
+**First Area Appearance:** Chapter 008 — The Hour Nobody Watches (Ref: 1.1.1.008), Area block 02 *(the name is spoken once, aloud, by Hercules to Bison at dusk on the village high ground; the page gives the place no description)*
+**Last Updated:** 2026-10-22
 **Ledger Version:** v1.0
 
 ---
@@ -62,6 +62,7 @@ Olympus is the home of the Empire of Gods — the civilization to which Zeus, Na
 
 | Area Reference | Event Summary | Parts Triggered | Sections Updated |
 |---|---|---|---|
+| 1.1.1.008 — The Hour Nobody Watches (1247.2.21 / PD 49; Area block 02, written at the Gate 2 of 2026-10-22) | The name is spoken on the page for the first time, once. At dusk on the village high ground, after Hercules has told Bison in order that they were betrayed, accused of a thing they did not do, not believed, and exiled ("Back there we were betrayed..."), he says one word more, aloud, in the voice in which he asks for water: "Olympus." The page calls it a word he "had gone round" "all this time", "as a man goes round a gap in a floor he has not mended", and gives the place no description and no recalled image ("Nothing came with it. It was a word, and the lamps below were lamps."). Bison's hands, which had been smoothing the finished whipping, went still, his breath went in and stopped and went out, and he turned his face to the dark beyond the shelf and kept it there; Hercules stayed where he sat and "let it have been said". Nothing else of Olympus is stated on the page, and every field above reads as before. | Parts 13, 28 | Header (First Area Appearance); Section 4 |
 
 ---
 

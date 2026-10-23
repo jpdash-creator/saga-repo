@@ -2,8 +2,8 @@
 
 **Governing Canon Parts:** Parts 13, 14, 15, 21, 22, 25, 31
 **Location Tier (Part 13):** Sub-World — Continental Waterway (contained within Nine Suns Continent and Saha)
-**First Area Appearance:** Not yet established -- to be defined in prose
-**Last Updated:** 2026-10-18
+**First Area Appearance:** Chapter 008 — The Hour Nobody Watches (Ref: 1.1.1.008), Area block 06 *(named on the page there as "the Lyraen delta", in King Varys's private speech to Queen Valia, as the place on whose eastern bank Ironshore lies; the river itself is not described)*
+**Last Updated:** 2026-10-22
 **Ledger Version:** v1.0
 
 ---
@@ -58,6 +58,7 @@
 |---|---|---|---|
 | Author ruling, 2026-10-18 (map consultation) | The river's course is ruled: from headwaters in the Range it runs south as the Azure Sky to Gale border past the crossings and Greyspan, then south-east through the lowland basin to a delta about 200 km east of Farrowharbor; the Tide March coast and Saltmere share one southern shoreline on the Southern Sea (`[ASKED]`). §5.1 populated; DIST-015 added to the Distance Ledger. | Parts 13, 14, 28 | Header; Sections 4 and 5.1 |
 | Author ruling, 2026-10-18 (map consultation) | The Azor is recorded as a tributary of the Lyraen (`[ASKED]`); the exact confluence is OPEN-AREA. | Parts 13, 28 | Sections 4 and 5.1 |
+| 1.1.1.008 — The Hour Nobody Watches (1247.2.21 / PD 49; Area block 06, written at the Gate 2 of 2026-10-22) | The delta is named on the page for the first time, in King Varys's private speech to Queen Valia, as a position given with a kingdom and nothing more: "Ironshore lies far to the south on the coast, on the eastern bank of the Lyraen delta." The word Lyraen is spoken only there, as "the Lyraen delta". The page says nothing of the river's course, trade, compact or water. The ruled course, the eastern bank and every other field read as before. | Parts 13, 28 | Header (First Area Appearance); Section 4 |
 
 ---
 

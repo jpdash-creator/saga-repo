@@ -1,0 +1,9 @@
+# Chapter 009 - The Pass Holds (Ref 1.1.1.009) - /create-chapter, 2026-10-23
+
+- **Outcome:** written whole. `Chapter 009 - The Pass Holds.md` and `.docx` in projects/novel-starward-saga/phase-1/section-1/part-1/. Chapter Spec 1.1.1.009 COMPLETED v1.0, 8/8 Areas.
+- **Words:** 14,424 of T = 24,000 (60.1%), band 13,200 to 17,280, PASS. Areas 2,074 / 1,676 / 1,693 / 1,745 / 1,767 / 1,690 / 1,676 / 2,103 (Areas 01 and 08 on the named stretch).
+- **Gate 1:** first audit three small FAILs (Check #20-9 standing-property clauses; flow review F1 the count of thirty-six, F2 Reuben Gask's wound and the nine-and-nine count), all fixed in one editor pass; re-audit in fixes-only mode returned FIXES CONFIRMED from both instances. Token given: [CONFIRM WRITE] (author, 2026-10-23).
+- **Check #21 rulings (author, accepted the recommendations):** Varys KEEP, Kade KEEP, Corin (commission and first significant defeat) KEEP, Valia DEFER. Haldor Vinje kept Tier D. Nine named dead on the casualty roll only. Sameness patterns accepted as planned callbacks.
+- **Gate 2:** post-write audit PASS (0 findings); batched ledger update and spec as-built sync done by one lane (about 3 hours 40 minutes; to be split across parallel agents by file group next time); CDL-2 scored (Section 1 now 12 units, 97,000 words).
+- **Pre-draft:** Stavik and Dalsen registered Tier B (GNS, MGD); Corin's commission and kill-state correction (KILL-99); Wing posts; NO MARK amended; location codes; Canon Amendment to Part 30 and Part 35; Section Spec v1.9; Novel-Part Spec v1.11.
+- **Open for later:** the 'three days' wording in part-1-spec.md (lines ~241 and ~717) and Chapter 008's Variance note (real gap 34 days); Rask's HURT and PAIN codes; Part 27 grades (run /consequence-audit if the 18 deaths grade CSS-7 or above); Stavik's seam target; Valia's first 'Tamsin' reading; the noon sun / last sun hours between Areas 07 and 08.

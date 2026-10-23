@@ -3,7 +3,7 @@
 **Ledger Domain:** World Systems — Named Travel Routes, Gate Networks, and Infrastructure
 **Governed By:** `guardrails/ledger/guardrail-ledger-update-law.md`, Part 37 (Ledger Schema Law), Part 15 (Travel Law)
 **Template:** Part 37 Area 3.1 — Schema Template: Travel Ledger
-**Last Updated:** 2026-10-20
+**Last Updated:** 2026-10-23
 **Index Version:** v1.0
 **Total Entries:** 1 — one standalone file, a Named Infrastructure hub, `alder-bridge.md`, kept through the redraft of Chapter 002 by the author's ruling of 2026-10-07 and written from the whole-built Chapter 002 (Ref: 1.1.1.002); no standalone route files yet; named routes in world-building lore noted below
 
@@ -50,7 +50,7 @@
 |---|---|---|---|---|---|---|---|---|
 
 *No standalone files yet. Named routes established in world-building lore (location ledgers) pending traversal in an Area:*
-- **The Sapphire Road** — Azure Sky capital ↔ Gale Kingdom via Lyraen crossings (cross-ref: ledger-worlds-location/azure-sky-kingdom.md §5.11); travel time not yet established in prose (sketch legs: `ledger-worlds-distance` DIST-010, DIST-012 and DIST-013)
+- **The Sapphire Road** — Azure Sky capital ↔ Gale Kingdom via Lyraen crossings (cross-ref: ledger-worlds-location/azure-sky-kingdom.md §5.11); travel time not yet established in prose (sketch legs: `ledger-worlds-distance` DIST-010, DIST-012 and DIST-013). *(Gate 2 of 2026-10-23, Chapter 009, Ref: 1.1.1.009, Area block 05: the road is named once on the page, at Stonemill Crossing, where northbound loads of blue-steel bar stock and southbound loads of dried wind-herb pass along it "without a driver on either side lifting his eyes" and "Nobody on the Sapphire Road looked at anyone coming the other way" (`ledger-worlds-location/stonemill-crossing.md`); no travel time, hazard or faction control is set, so no route file is made. The three days on foot from the post below the Twinpost to Azorion are held at `ledger-worlds-distance` DIST-002.)*
 - **The Southern March Trail** — Azure Sky capital ↔ Southern March (cross-ref: ledger-worlds-location/azure-sky-kingdom.md §5.11, nine-suns-continent.md §5.11); travel time not yet established in prose
 - **The Riverway** — Lyraen river-barge trade south from Windward headwaters to Southern Sea (cross-ref: ledger-worlds-location/azure-sky-kingdom.md §5.11, nine-suns-continent.md §5.11); travel time not yet established in prose
 - **The Windward Trail** — seasonal Central Highlands ↔ Aerie Plateau; Northern Accord jurisdiction (cross-ref: nine-suns-continent.md §5.11); travel time and hazards not yet established in prose

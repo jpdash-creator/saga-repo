@@ -3,9 +3,9 @@
 **Ledger Domain:** World Systems — The Calendar and the Story Clock (the date of every Phase, Section, Novel-Part, Chapter and Area, in the Nine Suns calendar)
 **Governed By:** `guardrails/ledger/guardrail-ledger-update-law.md`, Part 37 (Ledger Schema Law), Part 41 (Calendar Law)
 **Template:** Part 37 Area 3.11 — Schema Template: Calendar Ledger
-**Last Updated:** 2026-10-21
+**Last Updated:** 2026-10-23
 **Index Version:** 10.0
-**Total Entries:** 28 (Phase rows: 1; Section rows: 1; Novel-Part rows: 1; Chapter rows: 7; Area-table rows: 18, of which 3 are the date-segment rows of the whole-built Chapter 1.1.1.002, 2 are the date-segment rows of the whole-built Chapter 1.1.1.003, 2 are the date-segment rows of the whole-built Chapter 1.1.1.004, 3 are the date-segment rows of the whole-built Chapter 1.1.1.005, 3 are the date-segment rows of the whole-built Chapter 1.1.1.006 and 1 is the date-segment row of the whole-built Chapter 1.1.1.007; the baseline tables below are not counted)
+**Total Entries:** 34 (Phase rows: 1; Section rows: 1; Novel-Part rows: 1; Chapter rows: 9; Area-table rows: 22, of which 3 are the date-segment rows of the whole-built Chapter 1.1.1.002, 2 are the date-segment rows of the whole-built Chapter 1.1.1.003, 2 are the date-segment rows of the whole-built Chapter 1.1.1.004, 3 are the date-segment rows of the whole-built Chapter 1.1.1.005, 3 are the date-segment rows of the whole-built Chapter 1.1.1.006, 1 is the date-segment row of the whole-built Chapter 1.1.1.007, 1 is the date-segment row of the whole-built Chapter 1.1.1.008 and 3 are the date-segment rows of the whole-built Chapter 1.1.1.009; the baseline tables below are not counted)
 
 > **Purpose:** This folder is the one place that records when every Phase, Section, Novel-Part, Chapter and Area of the Starward Saga happens, as dates in the Nine Suns calendar. The author asked for a calendar ledger that records the time of every tier, kept as `_index.md` and kept simple; all five tiers are covered. The ledger holds three things: the calendar's baseline (the epoch, the months, the weekdays, the fixed days, the eight heroes' birth years and the planned Phase and Section windows), the recorded dates (one row per Area, rolled up to its Chapter, Novel-Part, Section and Phase), and the Current Position (the story clock). It is a register of dates and has no lore of its own.
 
@@ -63,7 +63,7 @@ Read this first. The one row holds six fields: the story clock (the latest prese
 
 | Story clock | Last written Area | Its date and Phase Day | Open Chapter | Open Chapter's recorded window (First to Latest) | Weekday of Ilovany, Day 1 this Year |
 |---|---|---|---|---|---|
-| 1247.2.21 / PD 49 | 1.1.1.007 | 1247.2.21 / PD 49 | 1.1.1.007 | 1247.2.21 / PD 49 to 1247.2.21 / PD 49 | Orvil |
+| 1247.3.28 / PD 87 | 1.1.1.009 | 1247.3.28 / PD 87 | 1.1.1.009 | 1247.3.24 / PD 83 to 1247.3.28 / PD 87 | Orvil |
 
 ---
 
@@ -191,7 +191,7 @@ One row per Phase, written at Gate 2. First and Latest are dates, `Y.M.D / PD N`
 
 | Ref | First | Latest |
 |---|---|---|
-| 1 | 1247.1.1 / PD 1 | 1247.2.21 / PD 49 |
+| 1 | 1247.1.1 / PD 1 | 1247.3.28 / PD 87 |
 
 ---
 
@@ -201,7 +201,7 @@ One row per Section, written at Gate 2. First and Latest are dates, `Y.M.D / PD 
 
 | Ref | First | Latest | Status |
 |---|---|---|---|
-| 1.1 | 1247.1.1 / PD 1 | 1247.2.21 / PD 49 | OPEN |
+| 1.1 | 1247.1.1 / PD 1 | 1247.3.28 / PD 87 | OPEN |
 
 ---
 
@@ -211,7 +211,7 @@ One row per Novel-Part, written at Gate 2. First and Latest are dates, `Y.M.D / 
 
 | Ref | First | Latest |
 |---|---|---|
-| 1.1.1 | 1247.1.1 / PD 1 | 1247.2.21 / PD 49 |
+| 1.1.1 | 1247.1.1 / PD 1 | 1247.3.28 / PD 87 |
 
 ---
 
@@ -228,6 +228,8 @@ One row per Chapter, written at Gate 2. First and Latest are dates, `Y.M.D / PD 
 | 1.1.1.005 | 1247.1.9 / PD 9 | 1247.1.14 / PD 14 |
 | 1.1.1.006 | 1247.2.15 / PD 43 | 1247.2.20 / PD 48 |
 | 1.1.1.007 | 1247.2.21 / PD 49 | 1247.2.21 / PD 49 |
+| 1.1.1.008 | 1247.2.21 / PD 49 | 1247.2.21 / PD 49 |
+| 1.1.1.009 | 1247.3.24 / PD 83 | 1247.3.28 / PD 87 |
 
 ---
 
@@ -255,6 +257,14 @@ One row per Area, written at Gate 2. First and Latest are dates, `Y.M.D / PD N`.
 | 1.1.1.006 (date segment 2) | 1247.2.17 / PD 45 | 1247.2.17 / PD 45 | present |
 | 1.1.1.006 (date segment 3) | 1247.2.20 / PD 48 | 1247.2.20 / PD 48 | present |
 | 1.1.1.007 (date segment 1) | 1247.2.21 / PD 49 | 1247.2.21 / PD 49 | present |
+| 1.1.1.008 (date segment 1) | 1247.2.21 / PD 49 | 1247.2.21 / PD 49 | present |
+| 1.1.1.009 (date segment 1) | 1247.3.24 / PD 83 | 1247.3.24 / PD 83 | present |
+| 1.1.1.009 (date segment 2) | 1247.3.27 / PD 86 | 1247.3.27 / PD 86 | present |
+| 1.1.1.009 (date segment 3) | 1247.3.28 / PD 87 | 1247.3.28 / PD 87 | present |
+
+*Notes on recorded rows (information only; the calendar records days and fixes no hour, Part 41 Rule 41.2.4.2).* **1.1.1.008 (date segment 1):** the Chapter's one date line stands at the top of the whole-built Chapter, and its six Area blocks (the village's high ground, the Aerie Palace bedroom and the room behind the door that is theirs in the Azure Sky Palace) all fall on this day; no second date line is printed. The page states no clock hour that orders the three places against one another. The room scene of the last two Area blocks (the room behind the door that is theirs) begins "an hour and more" after the dusk on the covered span with which Chapter 1.1.1.007 closes (Area block 05). No date steps back (Part 41 Rule 41.6.1.2), and the story clock stays on 1247.2.21 / PD 49.
+
+*Notes on the rows of Chapter 1.1.1.009 (Gate 2 of 2026-10-23; information only; the dates are read from the three date lines of the written `.md`, not from the draft).* **1.1.1.009 (date segment 1):** the Chapter's first date line, Year 1247, Sorevany, Sanvil, Day 24, stands at the top of the whole-built Chapter, and its Area blocks 01 to 04 fall on this day: the supper hour at the last light of dusk at the post below the Twinpost markers, the fight, and the dark after it (the embers built up, the wire house lamp relit). The page states no clock hour. Area block 04 tells that the two commanders "would leave together at first light", so Day 25 is told and not shown. The segment opens 34 days after the last day recorded for Chapter 1.1.1.008 (1247.2.21 / PD 49), so no date steps back and the story clock moves forward at this Gate 2 (the gap is the author's, ruled at the Step 0 of the Chapter; Phase Day 83 less Phase Day 49 is 34). The weekday is Sanvil by the formula ((1247 - 1247) + 5 + (24 - 1)) mod 7 + 1 = 1, and by the Phase Day form ((83 + 1) mod 7) + 1 = 1. **1.1.1.009 (date segment 2):** the second date line, Sorevany, Nuvil, Day 27 (Phase Day 86), opens Area blocks 05 and 06. Area block 05 opens "in the last dark hour" on the descent road and runs on into the dawn, the Gate and the morning, so it takes the dawn's day with no range (Part 41 Rule 41.2.1.3a); Area block 06 sits in the same morning in the Signet Court. Days 25 and 26 are two marching days that no page shows (Area block 05 recalls "two days of gravel and switchbacks" and says "the third day had begun in the dark"). Weekday Nuvil: ((86 + 1) mod 7) + 1 = 4. **1.1.1.009 (date segment 3):** the third date line, Sorevany, Yevil, Day 28 (Phase Day 87), opens Area blocks 07 and 08: the last stage of the Gale road from the end of the morning, Highgale, and the Court on the Aerie terrace until the lamps of the ward-line are lit. Weekday Yevil: ((87 + 1) mod 7) + 1 = 5. Area blocks 07 and 08 count four days on the road ("for the first time in four days the air stood still between walls"; "I have carried these nine for four days"), which agrees with the evening of Day 24 to Day 28. The Chapter's rows are all Kind `present`; no flashback, memory or dream is dated, and the story clock stands on 1247.3.28 / PD 87.
 
 ---
 

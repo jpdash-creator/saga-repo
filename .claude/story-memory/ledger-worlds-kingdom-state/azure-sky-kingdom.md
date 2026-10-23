@@ -3,7 +3,7 @@
 **Governing Canon Parts:** Parts 13, 14, 15, 16, 21, 22, 25, 30, 31
 **State Type:** Kingdom — Balanced (dual cultivation + technology)
 **First Area Appearance:** Not yet established — to be defined in prose
-**Last Updated:** 2026-10-17
+**Last Updated:** 2026-10-22
 **Ledger Version:** v1.0
 
 ---
@@ -73,9 +73,9 @@ Most domains (Types 1, 2, 3, 5, 6, 7, 8, 9, 12, 13 and 14) are at Level 3, which
 **Cultivation Force Tier:** High — Ruler-realm king at apex; cultivation-trained military with kingdom-wide cultivation culture
 **Technology Force Tier:** Tier 3 active — technology-equipped military orders; Paired Forges produce blue-steel dual-inscription armaments
 **Active Conflicts:** No conflict is declared. One hostile act is on record: on 1246.12.8 / PD -19 a company of about twenty Warriors in plain coats took a Bluecleft mine file on the lower road and four of the mine's people died of it; the Court does not know whose company it was, and the post on that road is doubled (Ref: 1.1.1.003; `ledger-worlds-location/lower-road.md`; `ledger-people-society-faction/azure-sky-military.md`, Section 5).
-**Political Posture:** Non-expansionist by doctrine (Non-Aggression Default); defensive-plus-diplomatic; offensive action requires dual-signature ratification at the highest threshold. Shown in use at Chapter 003 (Ref: 1.1.1.003): on 1247.1.2 / PD 2, on the post doubled after the raid, Grand Marshal Ossian Kade says "No troops are called out for it, because any offensive act against any person or any place needs the king's ink and the queen's wax both", and that no soldier would cross the lower ford, because that would be an offensive act, "yours and the queen's to sign together".
+**Political Posture:** Non-expansionist by doctrine (Non-Aggression Default); defensive-plus-diplomatic; offensive action requires dual-signature ratification at the highest threshold. Shown in use at Chapter 003 (Ref: 1.1.1.003): on 1247.1.2 / PD 2, on the post doubled after the raid, Grand Marshal Ossian Kade says "No troops are called out for it, because any offensive act against any person or any place needs the king's ink and the queen's wax both", and that no soldier would cross the lower ford, because that would be an offensive act, "yours and the queen's to sign together". Shown in use again at Chapter 008 (Ref: 1.1.1.008): on 1247.2.21 / PD 49 the public line stays what the Court has heard, "The pressure is a little higher, and no more. ... No war has come. Nothing has tried the alliance yet, and it has stood through both roads", and the king and queen say nothing of their private suspicion to the Court.
 **Who Holds Real Power (versus titled power):** OPEN-AREA
-**Standing Tensions (two lines):** OPEN-AREA
+**Standing Tensions (two lines):** (1) The king and queen hold two raids on mine caravans by unknown men in plain coats, the first on the lower road in this kingdom on 1246.12.8 / PD -19 and the second on Gale ground on 1247.1.9 / PD 9, with no source named; the Court has its three guesses, a spy, a leak and the wire, and Queen Valia disagrees with all three, in private (Chapter 008, Ref: 1.1.1.008). (2) In private only, on 1247.2.21 / PD 49, the king and queen hold a suspicion and not knowledge that another kingdom is behind both raids, and the king names three by where each lies, Brackenhold, Cindervast and Ironshore; they send nothing to Gale (Chapter 008, Ref: 1.1.1.008).
 
 *[L — Updated at every military event, political crisis, or alliance shift]*
 
@@ -88,9 +88,9 @@ Most domains (Types 1, 2, 3, 5, 6, 7, 8, 9, 12, 13 and 14) are at Level 3, which
 - Lyraen River Compact — multi-party — trade and customs framework from Lyraen headwaters to Southern Sea (cross-ref: `ledger-people-society-affiliation/lyraen-river-compact.md`)
 - Twin Oath Compact — internal constitutional instrument
 
-**Hostile Relationships:** None yet established
+**Hostile Relationships:** None yet established (a position-only suspicion naming Brackenhold, Cindervast and Ironshore is held in private by the king and queen, Chapter 008, Ref: 1.1.1.008; it is not a relationship, and the Court does not know of it)
 **Neutral Relationships:** Border Kingdoms of the Southern March — cordial but cautious; Ember Reach boundary kingdoms — policed frontier
-**Key Diplomatic Events:** On 1247.1.2 / PD 2 (Ref: 1.1.1.003) King Varys rules that Gale is not told of the raid yet: "King Aeries will have it from me when I have something to tell him that is true, and not before", because "a fear sent to King Aeries without a face on it would be answered the way a friend answers a fear, by walking toward it, and then two courts would be walking toward the dark together on a guess". No other diplomatic event is established.
+**Key Diplomatic Events:** On 1247.1.2 / PD 2 (Ref: 1.1.1.003) King Varys rules that Gale is not told of the raid yet: "King Aeries will have it from me when I have something to tell him that is true, and not before", because "a fear sent to King Aeries without a face on it would be answered the way a friend answers a fear, by walking toward it, and then two courts would be walking toward the dark together on a guess". On 1247.2.21 / PD 49 (Chapter 008, Ref: 1.1.1.008) King Varys and Queen Valia decide in private, between the two of them, to send Gale nothing of their suspicion: "A suspicion that goes out under a seal stops being a suspicion on the road. It is a rumour with a seal on it, and whoever reads it reads the seal first. ... Nothing goes to Gale: no letter, no rider, not a word on the wire." He holds the refusal, which he has "had ready for weeks", in the words "The king sends nothing until it is true" (a thought, not said aloud). No other diplomatic event is established.
 
 *[L — Updated at every treaty event, alliance shift, or diplomatic crisis]*
 
@@ -149,6 +149,7 @@ Most domains (Types 1, 2, 3, 5, 6, 7, 8, 9, 12, 13 and 14) are at Level 3, which
 | Area Reference | Event Summary | Parts Triggered | Sections Updated |
 |---|---|---|---|
 | 1.1.1.003 — The Lone Banner (1246.12.8 / PD -19 and 1247.1.2 / PD 2) | A Bluecleft mine file of five wagons is taken on the lower road on 1246.12.8 / PD -19 (a flashback date) by a company of about twenty Warriors in plain coats; a patrol of nine saves the rear wagons, three soldiers are hurt and none dead, the two head chests are lost, and four of the mine's people die of it. On 1247.1.2 / PD 2 the Court hears the report in its hall: the post on the lower road is doubled, a clamp on the old wire is found at a relay hut, the Court does not know whose company it was, no troops are called out under the Non-Aggression Default, and King Varys rules that Gale is not told yet. The facts live in `lower-road.md`, `azure-sky-military.md` and `azure-sky-kingdom-state.md` and are not copied here. | Parts 13, 22, 28, 41 | Section 3; Section 4; Section 8 |
+| 1.1.1.008 — The Hour Nobody Watches (1247.2.21 / PD 49; Area blocks 05 and 06 of a whole-built Chapter, written at the Gate 2 of 2026-10-22) | **A private suspicion by position only, and a decision to send nothing to Gale.** An hour and more after the dusk on the covered span, King Varys and Queen Valia are alone in the room behind the door that is theirs in the Azure Sky Palace. They read the two raids as two wounds, the queen says the worst first, that another kingdom may be behind both, and the king names three kingdoms by where each lies, Brackenhold, Cindervast and Ironshore, as a suspicion and not knowledge, with no proof and no aim, ruler or force for any of them. They agree to watch it and not feed it, to say to the Court that they knew a suspicion and no more, to send Gale nothing, and to keep the public line, "a little higher, and no more"; the queen says she is afraid the lasting peace will end in time. A storm front breaks over the palace and the north tiles hold. The facts live in `ledger-worlds-kingdom-state/brackenhold.md`, `cindervast.md` and `ironshore.md` and in `ledger-worlds-location/azure-sky-palace.md`, and are not copied here. | Parts 13, 22, 28, 30, 41 | Section 3; Section 4; Section 8 |
 
 ---
 

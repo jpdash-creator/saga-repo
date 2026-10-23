@@ -6,7 +6,7 @@
 **AFF Spectrum Position (Part 23):** AFF-3 Strategic Partnership — mutual obligation, combined patrol, mutual aid; not a discretionary partnership
 **Status:** Active — in force at story start; all provisions operational
 **First Area Establishment:** Not yet established -- to be defined in prose
-**Last Updated:** 2026-10-05
+**Last Updated:** 2026-10-23
 **Ledger Version:** 10.0
 
 **Cross-References:**
@@ -48,7 +48,7 @@
 
 1. **Combined Patrol of Windward Range Passes** — Azure Sky and Gale share patrol jurisdiction of the Windward Range passes under a combined corridor, held by **a single combined bilateral formation, the Northern Accord Expeditionary Wing, containing both Azure Sky and Gale soldiers serving together**, under **paired command — one Azure Sky officer and one Gale officer, neither outranking the other**; patrol-jurisdiction questions are governed by session protocol (see Provisions 5 and 6 below)
 
-   *(Author ruling `[ASKED]`, verbatim: **"A single Northern Accord Expeditionary Wing containing both Azure Sky and Gale soldiers, serving together."** **One formation appearing under one instrument, not two contributions.** The formation's own ledger, which governs, is `ledger-people-society-faction/northern-accord-expeditionary-wing.md`. **Both command posts are recorded there as named-but-not-yet-established, and no officer is named, invented or implied here.**)*
+   *(Author ruling `[ASKED]`, verbatim: **"A single Northern Accord Expeditionary Wing containing both Azure Sky and Gale soldiers, serving together."** **One formation appearing under one instrument, not two contributions.** The formation's own ledger, which governs, is `ledger-people-society-faction/northern-accord-expeditionary-wing.md`. **Both command posts are recorded there as named-but-not-yet-established, and no officer is named, invented or implied here.**)* *(Gate 2 of 2026-10-23, Chapter 009, Ref: 1.1.1.009: the sentence above is kept as it stood and reads with the author's ruling of 2026-10-22, by which, for the duty of the picked detachment at the post below the Twinpost, the Azure Sky post is held by Corin Vale and the Gale post by Gunnar Stavik, both posts otherwise empty; the formation's ledger of record records the holders, the current strength of 94 since 1247.3.24 / PD 83 and the casualty record. The Accord itself is not named on the page of Chapter 009 and none of its provisions is shown or invoked; the Wing's muster hall in Azorion bears its name on the page as "the Accord Hall".)*
 
 2. **Mutual Right of Asylum** — each kingdom is obligated to extend asylum to recognized nationals of the other in defined emergency circumstances; terms not yet established in prose beyond named existence
 

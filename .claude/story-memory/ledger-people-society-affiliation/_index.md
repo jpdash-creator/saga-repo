@@ -3,7 +3,7 @@
 **Ledger Domain:** People & Society — Affiliation Agreements, Faction-Pair Relationship Rows and Combined-Force Files
 **Governed By:** Part 37 (Ledger Schema Law), Part 23 (Affiliation Law)
 **Template:** Part 37 Area 3.3 — Schema Template: Affiliation Agreement Ledger
-**Last Updated:** 2026-10-05
+**Last Updated:** 2026-10-23
 **Index Version:** 10.0
 **Total Entries:** 5 (Named Affiliation Agreements: 4; Registry B pair rows: 1; Combined-Force Files: 0 — the Northern Accord Expeditionary Wing is listed in Registry C by cross-reference to its faction ledger)
 
@@ -71,7 +71,7 @@
 
 | File | Activity Name | Kind | Contributing Nations | Contributing Forces | Command Arrangement | Status | Governing Agreement | First Area Appearance | Last Updated |
 |---|---|---|---|---|---|---|---|---|---|
-| `ledger-people-society-faction/northern-accord-expeditionary-wing.md` (faction ledger; no second file) | The Northern Accord Expeditionary Wing, patrolling the Windward Range passes | Combined Station | Azure Sky Kingdom + Gale Kingdom | One standing company: 112 now, 144 at establishment, both kingdoms counted together | Paired command (two posts, both not yet established) | Active | The Northern Accord, Provision 1 and the Windward Protocol | Not yet established | 2026-09-29 |
+| `ledger-people-society-faction/northern-accord-expeditionary-wing.md` (faction ledger; no second file) | The Northern Accord Expeditionary Wing, patrolling the Windward Range passes | Combined Station | Azure Sky Kingdom + Gale Kingdom | One standing company, both kingdoms counted together: 144 at establishment; 112 until 1247.3.24 / PD 83, and **94 now** (the 112 less eighteen dead, nine of each kingdom; Gate 2 of 2026-10-23, Chapter 009) | Paired command (two posts, held for the duty by Corin Vale and Gunnar Stavik by the author's ruling of 2026-10-22, otherwise empty; as first entered, both not yet established) | Active | The Northern Accord, Provision 1 and the Windward Protocol | Chapter 009 — The Pass Holds (Ref: 1.1.1.009) | 2026-10-23 |
 
 *A combined-force file is created only for a combined operation, exercise or station. An activity whose record already lives in a faction ledger is listed here by cross-reference and is not copied.*
 
